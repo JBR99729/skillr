@@ -7,56 +7,50 @@ window.skillrTestQuestions = [
     "skill": "social distance",
     "printable": true,
     "type": "single",
-    "question": "In a new text, which definition correctly identifies social distance?",
-    "audioPrompt": "In a new text, which definition correctly identifies social distance?",
+    "question": "Which pair of speakers has the greatest social distance?",
+    "audioPrompt": "Which pair of speakers has the greatest social distance?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "visualMeta": { "type": "none", "alt_text": "" },
     "answers": [
-      "Degree of familiarity or closeness",
-      "Language variety or style associated with context",
-      "Recognised power, expertise or role in interaction",
-      "Authority always uses commands"
+      "A student meeting a visiting judge for the first time",
+      "Two close friends at lunch",
+      "Two siblings at home",
+      "Two teammates who practise together every week"
     ],
     "correct": 0,
-    "explanation": "social distance means degree of familiarity or closeness.\nHint: Distinguish this term from related features in the unit.",
+    "explanation": "Social distance refers to how familiar or close people are. A student and an unfamiliar visiting judge have the greatest social distance here.\nHint: Think about familiarity and relationship, not physical distance.",
     "structuredExplanation": {
-      "summary": "social distance means degree of familiarity or closeness.",
-      "hint": "Distinguish this term from related features in the unit."
+      "summary": "Social distance refers to how familiar or close people are. A student and an unfamiliar visiting judge have the greatest social distance here.",
+      "hint": "Think about familiarity and relationship, not physical distance."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la01-t-002",
     "curriculumCode": "AC9E6LA01",
     "bank": "test",
-    "skill": "diagnosis",
+    "skill": "authority",
     "printable": true,
     "type": "single",
-    "question": "A response shows this problem: “Authority always uses commands.” What is the most effective revision?",
-    "audioPrompt": "A response shows this problem: “Authority always uses commands.” What is the most effective revision?",
+    "question": "A teacher says, 'Would everyone please open their books to page 40?' Which statement best explains the teacher's authority?",
+    "audioPrompt": "A teacher says, 'Would everyone please open their books to page 40?' Which statement best explains the teacher's authority?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "visualMeta": { "type": "none", "alt_text": "" },
     "answers": [
-      "Clarity and appropriateness matter more than inflated words",
-      "Questions, inclusive pronouns and modality can exercise authority",
-      "Varieties have conventions and serve identities",
-      "Keep the response unchanged because the issue does not affect meaning."
+      "The teacher has no authority because the sentence is a question.",
+      "The teacher uses a polite question to direct the class because of their role.",
+      "The teacher is speaking informally because the sentence is short.",
+      "Authority is shown only when someone uses the word 'must'."
     ],
     "correct": 1,
-    "explanation": "Questions, inclusive pronouns and modality can exercise authority\nHint: Choose the repair that directly addresses the diagnosed problem.",
+    "explanation": "The teacher's role gives them authority, and that authority can be expressed politely rather than through a direct command.\nHint: Consider both the speaker's role and the form of the sentence.",
     "structuredExplanation": {
-      "summary": "Questions, inclusive pronouns and modality can exercise authority",
-      "hint": "Choose the repair that directly addresses the diagnosed problem."
+      "summary": "The teacher's role gives them authority, and that authority can be expressed politely rather than through a direct command.",
+      "hint": "Consider both the speaker's role and the form of the sentence."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la01-t-003",
@@ -65,27 +59,24 @@ window.skillrTestQuestions = [
     "skill": "map one request across social distance",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation of this model element is accurate: “teacher → Could you please send the lesson notes? → respectful role awareness”?",
-    "audioPrompt": "Which interpretation of this model element is accurate: “teacher → Could you please send the lesson notes? → respectful role awareness”?",
+    "question": "A student wants the same information from a friend and from the principal. Which pair best shows an appropriate change in formality?",
+    "audioPrompt": "A student wants the same information from a friend and from the principal. Which pair best shows an appropriate change in formality?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "visualMeta": { "type": "none", "alt_text": "" },
     "answers": [
-      "The first part is decorative and can be ignored.",
-      "The second part always has the same effect in every text.",
-      "It shows a deliberate relationship within Formality, Social Distance and Authority, so both parts must be interpreted together.",
-      "The pairing proves that no alternative interpretation is possible."
+      "Friend: 'I respectfully request the timetable.' Principal: 'Send me the timetable.'",
+      "Friend: 'Give it here.' Principal: 'Give it here.'",
+      "Friend: 'Can you send me the timetable?' Principal: 'Could you please send me a copy of the timetable?'",
+      "Friend: 'Could you please send me a copy?' Principal: 'Yo, send it.'"
     ],
     "correct": 2,
-    "explanation": "The model links the feature to its contextual function without claiming a universal effect.\nHint: Formality is a continuum, not a simple polite/rude split. Authority can be accepted, negotiated or challenged through language.",
+    "explanation": "The purpose stays the same, but the wording becomes more formal as social distance and role difference increase.\nHint: Compare directness, politeness and terms of address.",
     "structuredExplanation": {
-      "summary": "The model links the feature to its contextual function without claiming a universal effect.",
-      "hint": "Formality is a continuum, not a simple polite/rude split. Authority can be accepted, negotiated or challenged through language."
+      "summary": "The purpose stays the same, but the wording becomes more formal as social distance and role difference increase.",
+      "hint": "Compare directness, politeness and terms of address."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la01-t-004",
@@ -94,27 +85,24 @@ window.skillrTestQuestions = [
     "skill": "analyse register mismatch and power",
     "printable": true,
     "type": "single",
-    "question": "When applying Formality, Social Distance and Authority to an unfamiliar text, which analytical move is strongest?",
-    "audioPrompt": "When applying Formality, Social Distance and Authority to an unfamiliar text, which analytical move is strongest?",
+    "question": "Read this message to a scholarship committee: 'Hey guys, I reckon I'm pretty good, so pick me.' Which revision best suits the audience and purpose?",
+    "audioPrompt": "Read this message to a scholarship committee: Hey guys, I reckon I'm pretty good, so pick me. Which revision best suits the audience and purpose?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "visualMeta": { "type": "none", "alt_text": "" },
     "answers": [
-      "Name a feature and stop.",
-      "Assume every audience responds identically.",
-      "Replace analysis with an unsupported personal judgement.",
-      "Identify the specific choice, cite relevant evidence and explain its contextual effect."
+      "Pick me because I said so.",
+      "Hey committee, I'm awesome at this.",
+      "I humbly utilise my extraordinary intellectual capabilities and request selection.",
+      "I believe my experience and commitment make me a strong candidate for the scholarship."
     ],
     "correct": 3,
-    "explanation": "Strong analysis connects a specific choice and evidence to a contextual effect.\nHint: Do not label dialects or community varieties as deficient. Evaluate suitability for the specific purpose and relationship.",
+    "explanation": "The final sentence is clear, respectful and appropriately formal without using inflated vocabulary.\nHint: Formality should suit the audience and purpose.",
     "structuredExplanation": {
-      "summary": "Strong analysis connects a specific choice and evidence to a contextual effect.",
-      "hint": "Do not label dialects or community varieties as deficient. Evaluate suitability for the specific purpose and relationship."
+      "summary": "The final sentence is clear, respectful and appropriately formal without using inflated vocabulary.",
+      "hint": "Formality should suit the audience and purpose."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la01-t-005",
@@ -123,27 +111,24 @@ window.skillrTestQuestions = [
     "skill": "authority",
     "printable": true,
     "type": "single",
-    "question": "Which example best demonstrates an understanding of authority?",
-    "audioPrompt": "Which example best demonstrates an understanding of authority?",
+    "question": "Which sentence most clearly shows authority through expertise rather than through a command?",
+    "audioPrompt": "Which sentence most clearly shows authority through expertise rather than through a command?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "visualMeta": { "type": "none", "alt_text": "" },
     "answers": [
-      "Recognised power, expertise or role in interaction, identified using evidence from the text.",
-      "Informal variety is incorrect",
-      "Register inferred from one word",
-      "A general comment that does not use the text."
+      "As the school nurse, I recommend washing the cut and covering it with a clean dressing.",
+      "Do it now because I said so.",
+      "Whatever you think is fine.",
+      "My friend told me this once."
     ],
     "correct": 0,
-    "explanation": "authority is recognised power, expertise or role in interaction.\nHint: Select the response that applies the definition and uses evidence.",
+    "explanation": "The school nurse's recognised expertise gives the advice authority even though it is phrased as a recommendation.\nHint: Authority can come from role, knowledge or expertise.",
     "structuredExplanation": {
-      "summary": "authority is recognised power, expertise or role in interaction.",
-      "hint": "Select the response that applies the definition and uses evidence."
+      "summary": "The school nurse's recognised expertise gives the advice authority even though it is phrased as a recommendation.",
+      "hint": "Authority can come from role, knowledge or expertise."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la01-t-006",
@@ -152,27 +137,24 @@ window.skillrTestQuestions = [
     "skill": "transfer",
     "printable": true,
     "type": "single",
-    "question": "Which conclusion stays within the evidence when analysing Formality, Social Distance and Authority?",
-    "audioPrompt": "Which conclusion stays within the evidence when analysing Formality, Social Distance and Authority?",
+    "question": "Two students disagree about the sentence 'Could we finish this before lunch?' One says it is always polite; the other says it can also express authority. Which conclusion is best?",
+    "audioPrompt": "Two students disagree about the sentence Could we finish this before lunch? One says it is always polite; the other says it can also express authority. Which conclusion is best?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "visualMeta": { "type": "none", "alt_text": "" },
     "answers": [
-      "This single example proves the rule applies identically everywhere.",
-      "The evidence supports this interpretation, although context may allow another defensible reading.",
-      "The writer's choice guarantees the same reaction from every reader.",
-      "No evidence is needed because the interpretation sounds reasonable."
+      "It can only be polite because it is a question.",
+      "Its effect depends on who says it, to whom, and in what situation.",
+      "It always shows authority because it contains 'we'.",
+      "The sentence has exactly the same meaning in every context."
     ],
     "correct": 1,
-    "explanation": "A defensible conclusion uses evidence and acknowledges reasonable limits.\nHint: Avoid absolute claims unless the evidence genuinely supports them.",
+    "explanation": "The same wording can have different effects depending on relationship, role and context.\nHint: Avoid treating one language feature as having one fixed effect everywhere.",
     "structuredExplanation": {
-      "summary": "A defensible conclusion uses evidence and acknowledges reasonable limits.",
-      "hint": "Avoid absolute claims unless the evidence genuinely supports them."
+      "summary": "The same wording can have different effects depending on relationship, role and context.",
+      "hint": "Avoid treating one language feature as having one fixed effect everywhere."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la01-t-007",
@@ -181,27 +163,24 @@ window.skillrTestQuestions = [
     "skill": "extended analysis",
     "printable": true,
     "type": "single",
-    "question": "Which response plan best addresses this challenge: Create a dialogue where register shifts reveal a changing power relationship without directly naming it?",
-    "audioPrompt": "Which response plan best addresses this challenge: Create a dialogue where register shifts reveal a changing power relationship without directly naming it?",
+    "question": "At the start of a dialogue, a manager says, 'Please take a seat, Ms Tran.' Later the manager says, 'Okay, Mai, let's work this out together.' What does the change most likely suggest?",
+    "audioPrompt": "At the start of a dialogue, a manager says, Please take a seat, Ms Tran. Later the manager says, Okay, Mai, let's work this out together. What does the change most likely suggest?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "visualMeta": { "type": "none", "alt_text": "" },
     "answers": [
-      "Copy the lesson example without adapting it.",
-      "Add several unrelated features and do not explain them.",
-      "Make an original, purposeful choice, apply the unit's techniques consistently and annotate the resulting effects.",
-      "Describe the task but do not produce or analyse a response."
+      "The manager has forgotten how to speak formally.",
+      "The second sentence is incorrect because managers must always be formal.",
+      "The relationship has become less distant and more collaborative.",
+      "The manager no longer has any authority."
     ],
     "correct": 2,
-    "explanation": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.\nHint: Do not label dialects or community varieties as deficient. Evaluate suitability for the specific purpose and relationship.",
+    "explanation": "Using a first name, a more conversational tone and inclusive 'let's' suggests reduced social distance while the manager may still retain authority.\nHint: Track how terms of address and interaction style change.",
     "structuredExplanation": {
-      "summary": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.",
-      "hint": "Do not label dialects or community varieties as deficient. Evaluate suitability for the specific purpose and relationship."
+      "summary": "Using a first name, a more conversational tone and inclusive 'let's' suggests reduced social distance while the manager may still retain authority.",
+      "hint": "Track how terms of address and interaction style change."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la01-t-008",
@@ -210,27 +189,24 @@ window.skillrTestQuestions = [
     "skill": "critical evaluation",
     "printable": true,
     "type": "single",
-    "question": "Which approach best addresses this evaluation: Evaluate a claim that formal standard language is inherently more intelligent than other varieties?",
-    "audioPrompt": "Which approach best addresses this evaluation: Evaluate a claim that formal standard language is inherently more intelligent than other varieties?",
+    "question": "A student claims, 'People who use formal English are more intelligent than people who use informal varieties.' Which response is most accurate?",
+    "audioPrompt": "A student claims, People who use formal English are more intelligent than people who use informal varieties. Which response is most accurate?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "visualMeta": { "type": "none", "alt_text": "" },
     "answers": [
-      "Choose a preferred answer before examining evidence.",
-      "Summarise each example without comparing it.",
-      "Treat one feature as proof of the whole judgement.",
-      "Use explicit criteria, compare relevant evidence and qualify the final judgement."
+      "The claim is correct because formal English always uses harder words.",
+      "The claim is correct whenever a speaker has authority.",
+      "Informal varieties are incorrect and should not be used.",
+      "Different varieties suit different contexts; a person's language variety does not by itself measure intelligence."
     ],
     "correct": 3,
-    "explanation": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.\nHint: Build the judgement from evidence rather than preference.",
+    "explanation": "Language varieties have different conventions and purposes. Formality is about context and relationship, not a measure of intelligence.\nHint: Evaluate whether the claim confuses language choice with a judgement about the speaker.",
     "structuredExplanation": {
-      "summary": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.",
-      "hint": "Build the judgement from evidence rather than preference."
+      "summary": "Language varieties have different conventions and purposes. Formality is about context and relationship, not a measure of intelligence.",
+      "hint": "Evaluate whether the claim confuses language choice with a judgement about the speaker."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;
