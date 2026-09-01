@@ -129,4 +129,6 @@
     window.SkillrFoundationEnglishWorksheetData[code] = Object.assign(window.SkillrFoundationEnglishWorksheetData[code] || {}, ws);
     return true;
   };
+
+  api.version = "2026-09-02-foundation-english-student-facing";
 })();
