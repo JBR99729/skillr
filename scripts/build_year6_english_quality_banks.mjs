@@ -6,6 +6,9 @@ import vm from "node:vm";
 
 const ROOT = path.resolve(import.meta.dirname, "..");
 const BANK_ROOT = path.join(ROOT, "assets", "assessment-banks", "year6", "english");
+const QUIZ_ROOT = path.join(ROOT, "quiz", "year-6", "english");
+const MANUAL_CODES = new Set(["AC9E6LA01", "AC9E6LA02"]);
+
 const captured = { units: {}, order: [] };
 const sandbox = { window: {
   SkillrYear6Register(subject, specs, order) {
@@ -15,118 +18,201 @@ const sandbox = { window: {
   },
 } };
 vm.createContext(sandbox);
-for (const file of [
-  "assets/year6-english-data-la.js",
-  "assets/year6-english-data-le.js",
-  "assets/year6-english-data-ly.js",
-]) {
+for (const file of ["assets/year6-english-data-la.js", "assets/year6-english-data-le.js", "assets/year6-english-data-ly.js"]) {
   vm.runInContext(fs.readFileSync(path.join(ROOT, file), "utf8"), sandbox, { filename: file });
 }
 
 const units = captured.units;
 const order = [...new Set(captured.order)];
-if (!units || order?.length !== 23) throw new Error("Expected all 23 Year 6 English units");
+if (order.length !== 23) throw new Error(`Expected 23 Year 6 English codes, found ${order.length}`);
 
-const clean = (value) => String(value ?? "").replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
-const sentence = (value) => clean(value).replace(/[.!?]+$/, "");
-const label = (value) => sentence(value).replace(/^./, (character) => character.toUpperCase());
-const slug = (value) => clean(value).toLowerCase().replace(/[^a-z0-9]+/g, "_").replace(/^_|_$/g, "");
-const comparable = (value) => clean(value).toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
-const prompt = (value) => clean(value).replace(/(?:\.{3}|…)/g, "the omitted idea");
+const clean = (v) => String(v ?? "").replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
+const sentence = (v) => clean(v).replace(/[.!?]+$/, "");
+const cap = (v) => { const s = sentence(v); return s ? s[0].toUpperCase() + s.slice(1) : s; };
+const slug = (v) => clean(v).toLowerCase().replace(/[^a-z0-9]+/g, "_").replace(/^_|_$/g, "");
+const key = (v) => clean(v).toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
 
-function rotateAnswers(correct, distractors, position) {
-  const correctKey = comparable(correct);
-  const seen = new Set([correctKey]);
-  const unique = distractors.map(clean).filter((value) => {
-    const key = comparable(value);
-    if (!key || seen.has(key)) return false;
-    seen.add(key);
-    return true;
+function tableRows(visual) {
+  const data = visual?.data;
+  if (!Array.isArray(data) || !data.every(Array.isArray)) return [];
+  if (data.length > 1 && data[0].every((x) => typeof x === "string")) return data.slice(1);
+  return data;
+}
+function flatRows(visual) {
+  const data = visual?.data;
+  if (!Array.isArray(data)) return [];
+  if (data.every(Array.isArray)) return tableRows(visual);
+  return data.map((x) => [clean(x)]);
+}
+function distinct(values, correct) {
+  const seen = new Set([key(correct)]);
+  return values.map(clean).filter((v) => {
+    const k = key(v); if (!k || seen.has(k)) return false; seen.add(k); return true;
   });
-  while (unique.length < 3) unique.push(`This answer does not fit the example.`);
-  const result = unique.slice(0, 3).map((text) => ({ text, is_correct: false }));
-  result.splice(position, 0, { text: clean(correct), is_correct: true });
-  return result;
+}
+function options(correct, distractors, correctIndex) {
+  const wrong = distinct(distractors, correct);
+  while (wrong.length < 3) wrong.push(["This does not match the example.", "This ignores an important clue.", "This is too broad for the evidence."][wrong.length] || "This does not fit.");
+  const arr = wrong.slice(0, 3).map((text) => ({ text, is_correct: false }));
+  arr.splice(correctIndex, 0, { text: clean(correct), is_correct: true });
+  return arr;
+}
+function rowItem(row, others, note, focus, bank, index, fresh = false) {
+  const label = clean(row[0] || focus);
+  const example = clean(row[1] || row[0]);
+  const effect = clean(row[2] || "");
+  const otherLabels = others.map((r) => clean(r[0])).filter(Boolean);
+  const q = fresh
+    ? `Read this new example: “${example}”. Which label best fits it?`
+    : `Look at this example: “${example}”. Which label best describes it?`;
+  const summary = effect
+    ? `“${example}” is an example of ${label}. In this context, it ${effect}.`
+    : `“${example}” is an example of ${label}.`;
+  return make(bank, focus || label, q, label, otherLabels, summary, note, index);
+}
+function termItem(term, allTerms, bank, index, fresh = false) {
+  const [name, definition] = term;
+  const q = fresh
+    ? `Which term best matches this meaning in a new example: “${sentence(definition)}”?`
+    : `Which term means “${sentence(definition)}”?`;
+  return make(bank, name, q, name, allTerms.map((t) => t[0]).filter((x) => x !== name), `${cap(name)} means ${sentence(definition)}.`, `Match the meaning to the term, then look for that idea in examples.`, index);
+}
+function misconceptionItem(pair, otherPairs, bank, index, fresh = false) {
+  const [wrong, repair] = pair;
+  const q = fresh
+    ? `A student applies this rule to a new text: “${sentence(wrong)}.” Which correction is most useful?`
+    : `A student says, “${sentence(wrong)}.” Which correction would help them most?`;
+  return make(bank, "misconception repair", q, cap(repair), otherPairs.map((p) => cap(p[0])), `${cap(repair)} This fixes the overgeneralisation in the original statement.`, `Use the rule that works with the actual evidence and context.`, index);
+}
+function choiceItem(choice, unit, bank, index, fresh = false) {
+  const [q, answers] = choice;
+  const question = fresh ? `${sentence(q)} Use the clue in the example, not just the wording of the options.` : q;
+  return make(bank, unit.quick?.[index % (unit.quick?.length || 1)] || unit.title, question, answers[0], answers.slice(1), `“${clean(answers[0])}” is the best answer because it fits the language feature and context being tested.`, unit.modelNote || unit.applyNote, index);
+}
+function make(bank, focus, question, correct, wrongs, summary, hint, index) {
+  const correctIndex = index % 4;
+  return {
+    bank,
+    focus: clean(focus),
+    question: clean(question),
+    correct: clean(correct),
+    wrongs: wrongs.map(clean),
+    summary: clean(summary),
+    hint: clean(hint),
+    correctIndex,
+  };
 }
 
-function modelRows(unit) {
-  const data = unit.modelVisual?.data;
-  return Array.isArray(data) && data.every(Array.isArray) ? data.slice(1) : [];
-}
-
-function applyRows(unit) {
-  const data = unit.applyVisual?.data;
-  return Array.isArray(data) && data.every(Array.isArray) ? data : [];
-}
-
-function pairText(row) {
-  return row.map(clean).filter(Boolean).join(" → ");
-}
-
-function authoredDetails(code, unit) {
+function buildDetails(unit) {
   const terms = unit.terms || [];
   const mistakes = unit.mistakes || [];
-  const rows = modelRows(unit);
-  const applicationRows = applyRows(unit);
-  const [choice1Prompt, choice1Options] = unit.questions.choice1;
-  const [choice2Prompt, choice2Options] = unit.questions.choice2;
-  const fallbackRows = rows.length ? rows : applicationRows;
-  const modelA = fallbackRows[0] || [unit.modelTitle, unit.modelNote];
-  const modelB = fallbackRows[1] || modelA;
+  const model = flatRows(unit.modelVisual);
+  const apply = flatRows(unit.applyVisual);
+  const [choice1, choice2] = [unit.questions.choice1, unit.questions.choice2];
 
-  const term1 = terms[0] || ["key idea", unit.learn];
-  const term2 = terms[1] || term1;
-  const mistake1 = mistakes[0] || ["This idea always works the same way", unit.modelNote];
-  const mistake2 = mistakes[1] || mistake1;
+  const practice = [];
+  practice.push(choiceItem(choice1, unit, "practice", 0));
+  if (terms[0]) practice.push(termItem(terms[0], terms, "practice", 1));
+  else practice.push(choiceItem(choice2, unit, "practice", 1));
+  practice.push(choiceItem(choice2, unit, "practice", 2));
+  if (model[0]) practice.push(rowItem(model[0], model.slice(1), unit.modelNote, unit.modelTitle, "practice", 3));
+  else practice.push(misconceptionItem(mistakes[0], mistakes.slice(1), "practice", 3));
+  if (model[1]) practice.push(rowItem(model[1], model.filter((_, i) => i !== 1), unit.modelNote, unit.modelTitle, "practice", 4));
+  else practice.push(misconceptionItem(mistakes[0], mistakes.slice(1), "practice", 4));
+  if (mistakes[0]) practice.push(misconceptionItem(mistakes[0], mistakes.slice(1), "practice", 5));
+  else if (terms[1]) practice.push(termItem(terms[1], terms, "practice", 5));
+  if (apply[0]) practice.push(rowItem(apply[0], apply.slice(1), unit.applyNote, unit.applyTitle, "practice", 6));
+  else if (model[2]) practice.push(rowItem(model[2], model.filter((_, i) => i !== 2), unit.modelNote, unit.modelTitle, "practice", 6));
+  if (apply[1]) practice.push(rowItem(apply[1], apply.filter((_, i) => i !== 1), unit.applyNote, unit.applyTitle, "practice", 7));
+  else if (model[2]) practice.push(rowItem(model[2], model.filter((_, i) => i !== 2), unit.modelNote, unit.modelTitle, "practice", 7));
 
-  return [
-    // QUESTION BANK: confidence first, then gradually deepen understanding.
-    { bank: "practice", focus: unit.quick?.[0] || "recognise", question: choice1Prompt, correct: choice1Options[0], wrongs: choice1Options.slice(1), summary: `This answer fits the situation and shows ${sentence(unit.quick?.[0] || unit.title).toLowerCase()}.`, hint: `Look at the actual example and decide which choice best fits the audience, purpose or language feature.` },
-    { bank: "practice", focus: term1[0], question: `Which example best matches this idea: ${sentence(term1[1])}?`, correct: choice1Options[0], wrongs: choice1Options.slice(1), summary: `${label(term1[0])} means ${sentence(term1[1])}. The correct example shows that idea in action.`, hint: `Use the example, not just the definition.` },
-    { bank: "practice", focus: unit.quick?.[1] || "identify", question: choice2Prompt, correct: choice2Options[0], wrongs: choice2Options.slice(1), summary: `The correct answer uses the language feature in the way the situation requires.`, hint: `Compare what each option actually does.` },
-    { bank: "practice", focus: "misconception repair", question: `Which example best shows why this idea is not always true: “${sentence(mistake1[0])}”?`, correct: label(mistake1[1]), wrongs: [label(mistake1[0]), label(mistake2[0]), `The rule is always true in every situation.`], summary: label(mistake1[1]), hint: `A useful rule must still work when the context changes.` },
-    { bank: "practice", focus: unit.modelTitle, question: `Look at these examples. Which one correctly shows ${sentence(unit.modelTitle).toLowerCase()}?`, correct: pairText(modelA), wrongs: [pairText(modelA.slice().reverse()), pairText(modelB), label(mistake2[0])], summary: `The correct example keeps the relationship between the parts clear.`, hint: unit.modelNote },
-    { bank: "practice", focus: "compare", question: `Which statement best explains the difference between these two examples: “${pairText(modelA)}” and “${pairText(modelB)}”?`, correct: `The difference comes from the language choices and the context in which they are used.`, wrongs: [`One is always correct and the other is always wrong.`, `The difference is only sentence length.`, `Context does not affect the meaning.`], summary: `English choices make sense in context. Compare the wording, purpose, audience and effect rather than looking for one rule that works everywhere.`, hint: unit.modelNote },
-    { bank: "practice", focus: "guided application", question: `You need to complete this task: ${sentence(unit.questions.apply)}. What should you pay attention to first?`, correct: `Use the examples and language features from this skill, then explain how your choices fit the task.`, wrongs: [`Use as many difficult words as possible.`, `Ignore the example and write about a different idea.`, `Choose an answer without checking the context.`], summary: `A strong response applies the skill to the actual task.`, hint: unit.applyNote },
-    { bank: "practice", focus: "independent application", question: `Which answer shows the strongest understanding of ${unit.title}?`, correct: `${label(unit.learn)}`, wrongs: [label(mistake1[0]), label(mistake2[0]), `A response that names the topic but does not apply it to an example.`], summary: `By the end of the question bank, you should be able to recognise the feature, apply it to a new example and explain why it works.`, hint: `Use the curriculum idea in a real example rather than repeating a definition.` },
+  const test = [];
+  if (model[2]) test.push(rowItem(model[2], model.filter((_, i) => i !== 2), unit.modelNote, unit.modelTitle, "test", 0, true));
+  else if (terms[1]) test.push(termItem(terms[1], terms, "test", 0, true));
+  else test.push(choiceItem(choice1, unit, "test", 0, true));
+  if (terms[1]) test.push(termItem(terms[1], terms, "test", 1, true));
+  else test.push(choiceItem(choice2, unit, "test", 1, true));
+  if (apply[2]) test.push(rowItem(apply[2], apply.filter((_, i) => i !== 2), unit.applyNote, unit.applyTitle, "test", 2, true));
+  else if (model[3]) test.push(rowItem(model[3], model.filter((_, i) => i !== 3), unit.modelNote, unit.modelTitle, "test", 2, true));
+  else test.push(misconceptionItem(mistakes[1] || mistakes[0], mistakes, "test", 2, true));
+  if (mistakes[1]) test.push(misconceptionItem(mistakes[1], mistakes.filter((_, i) => i !== 1), "test", 3, true));
+  else test.push(choiceItem(choice2, unit, "test", 3, true));
+  if (model[3]) test.push(rowItem(model[3], model.filter((_, i) => i !== 3), unit.modelNote, unit.modelTitle, "test", 4, true));
+  else if (terms[2]) test.push(termItem(terms[2], terms, "test", 4, true));
+  if (terms[2]) test.push(termItem(terms[2], terms, "test", 5, true));
+  else test.push(misconceptionItem(mistakes[2] || mistakes[0], mistakes, "test", 5, true));
+  if (apply[3]) test.push(rowItem(apply[3], apply.filter((_, i) => i !== 3), unit.applyNote, unit.applyTitle, "test", 6, true));
+  else if (mistakes[2]) test.push(misconceptionItem(mistakes[2], mistakes.filter((_, i) => i !== 2), "test", 6, true));
+  if (mistakes[2]) test.push(misconceptionItem(mistakes[2], mistakes.filter((_, i) => i !== 2), "test", 7, true));
+  else if (apply[4]) test.push(rowItem(apply[4], apply.filter((_, i) => i !== 4), unit.applyNote, unit.applyTitle, "test", 7, true));
 
-    // TEST BANK: fresh examples, less scaffolding, same curriculum knowledge.
-    { bank: "test", focus: term2[0], question: `Which option best demonstrates ${term2[0]} in a new example?`, correct: label(term2[1]), wrongs: [label(term1[1]), label(mistake1[0]), label(mistake2[0])], summary: `${label(term2[0])} is ${sentence(term2[1])}.`, hint: `Choose the option that matches the meaning most closely.` },
-    { bank: "test", focus: "diagnosis", question: `A student uses this rule in every situation: “${sentence(mistake2[0])}.” What is the best correction?`, correct: label(mistake2[1]), wrongs: [label(mistake1[1]), label(mistake1[0]), `Keep using the rule because context never matters.`], summary: label(mistake2[1]), hint: `Think about why the original rule is too broad.` },
-    { bank: "test", focus: unit.modelTitle, question: `Which new example best follows the pattern shown in this model: “${pairText(modelB)}”?`, correct: pairText(modelB), wrongs: [pairText(modelB.slice().reverse()), label(mistake1[0]), label(mistake2[0])], summary: `The correct response preserves the important relationship shown by the model.`, hint: unit.modelNote },
-    { bank: "test", focus: unit.applyTitle, question: `Which response best applies ${unit.title} to an unfamiliar example?`, correct: `Choose the relevant language feature, use evidence from the example and explain what it does.`, wrongs: [`Name a feature without using the example.`, `Assume the same wording has the same effect in every context.`, `Choose whichever option sounds most complicated.`], summary: `Independent understanding means applying the skill to a fresh example and explaining the effect.`, hint: unit.applyNote },
-    { bank: "test", focus: "transfer", question: `Which statement is safest when the context changes?`, correct: `The best interpretation depends on the evidence, purpose, audience and context.`, wrongs: [`One example proves the rule for every text.`, `The longest answer is always the most accurate.`, `Context can be ignored once a feature is named.`], summary: `Year 6 English skills are applied through evidence and context, not rigid slogans.`, hint: `Check what the example actually shows.` },
-    { bank: "test", focus: "application", question: `Which student response best shows they can use this skill independently?`, correct: `They choose a relevant example, identify the important language choice and explain how it affects meaning.`, wrongs: [`They copy the definition only.`, `They use difficult vocabulary without explaining it.`, `They give an opinion without referring to the example.`], summary: `Independent understanding combines the right concept with evidence from the example.`, hint: `Look for application, not memorisation.` },
-    { bank: "test", focus: "reasoning", question: `Two answers could seem reasonable at first. What should decide which one is better?`, correct: `Which answer is better supported by the wording and context of the example.`, wrongs: [`Which answer is longer.`, `Which answer uses more technical words.`, `Which answer sounds more confident.`], summary: `Evidence and context should decide between plausible interpretations.`, hint: `Return to the text or example.` },
-    { bank: "test", focus: "curriculum mastery", question: `Which response best shows that a student understands the knowledge in ${code}?`, correct: `${label(unit.learn)}`, wrongs: [label(mistake1[0]), label(mistake2[0]), `The student remembers a term but cannot use it in an example.`], summary: `The goal is confident, age-appropriate understanding of the curriculum code, not advanced or elite-level analysis.`, hint: `Choose the response that can actually use the skill.` },
-  ];
+  while (practice.length < 8) practice.push(choiceItem(choice1, unit, "practice", practice.length));
+  while (test.length < 8) test.push(choiceItem(choice2, unit, "test", test.length, true));
+  return { practice: practice.slice(0, 8), test: test.slice(0, 8) };
+}
+
+function bankItem(code, detail, number) {
+  const id = `${code.toLowerCase()}-${detail.bank === "practice" ? "p" : "t"}-${String(number + 1).padStart(3, "0")}`;
+  return {
+    id,
+    curriculum_code: code,
+    year_level: "Year 6",
+    subject: "english",
+    bank: detail.bank,
+    skill: slug(detail.focus),
+    question: detail.question,
+    audio_prompt: detail.question,
+    visual: { type: "none", alt_text: "" },
+    answers: options(detail.correct, detail.wrongs, detail.correctIndex),
+    correct_index: detail.correctIndex,
+    explanation: { summary: detail.summary, hint: detail.hint },
+    difficulty: number < 3 ? 1 : number < 6 ? 2 : 3,
+    difficulty_tier: number < 2 ? "confidence" : number < 5 ? "core" : "application",
+    sequence_priority: number + 1,
+    quality_schema: "student-facing-v2",
+  };
+}
+function jsItem(item) {
+  return {
+    id: item.id,
+    curriculumCode: item.curriculum_code,
+    bank: item.bank,
+    skill: item.skill.replaceAll("_", " "),
+    printable: true,
+    type: "single",
+    question: item.question,
+    audioPrompt: item.audio_prompt,
+    visual: "",
+    visualHtml: "",
+    visualMeta: item.visual,
+    answers: item.answers.map((a) => a.text),
+    correct: item.correct_index,
+    explanation: `${item.explanation.summary}\nHint: ${item.explanation.hint}`,
+    structuredExplanation: item.explanation,
+    qualitySchema: "student-facing-v2",
+  };
+}
+function writeJs(code, practiceItems, testItems) {
+  const dir = path.join(QUIZ_ROOT, code.toLowerCase());
+  const p = `"use strict";\nwindow.skillrPracticeQuestions = ${JSON.stringify(practiceItems.map(jsItem), null, 2)};\nwindow.quizQuestions = window.skillrPracticeQuestions;\n`;
+  const t = `"use strict";\nwindow.skillrTestQuestions = ${JSON.stringify(testItems.map(jsItem), null, 2)};\nwindow.skillrExamQuestions = window.skillrTestQuestions;\nwindow.quizQuestions = window.skillrTestQuestions;\n`;
+  fs.writeFileSync(path.join(dir, "practice", "questions.js"), p);
+  fs.writeFileSync(path.join(dir, "practice", "practice-questions.js"), p);
+  fs.writeFileSync(path.join(dir, "test", "questions.js"), t);
 }
 
 fs.mkdirSync(BANK_ROOT, { recursive: true });
+let rewritten = 0;
 for (const code of order) {
+  if (MANUAL_CODES.has(code)) continue;
   const unit = units[code];
-  const details = authoredDetails(code, unit);
-  const items = details.map((detail, index) => {
-    const number = index % 8 + 1;
-    const correctIndex = index % 4;
-    const id = `${code.toLowerCase()}-${detail.bank === "practice" ? "p" : "t"}-${String(number).padStart(3, "0")}`;
-    return {
-      id,
-      curriculum_code: code,
-      year_level: "Year 6",
-      subject: "english",
-      bank: detail.bank,
-      skill: slug(detail.focus),
-      question: prompt(detail.question),
-      audio_prompt: prompt(detail.question),
-      visual: { type: "none", alt_text: "" },
-      answers: rotateAnswers(detail.correct, detail.wrongs, correctIndex),
-      correct_index: correctIndex,
-      explanation: { summary: clean(detail.summary), hint: clean(detail.hint) },
-      quality_schema: "student-learning-v2",
-    };
-  });
-  fs.writeFileSync(path.join(BANK_ROOT, `${code.toLowerCase()}.json`), `${JSON.stringify(items, null, 2)}\n`);
+  const { practice, test } = buildDetails(unit);
+  const pItems = practice.map((d, i) => bankItem(code, d, i));
+  const tItems = test.map((d, i) => bankItem(code, d, i));
+  const all = [...pItems, ...tItems];
+  fs.writeFileSync(path.join(BANK_ROOT, `${code.toLowerCase()}.json`), `${JSON.stringify(all, null, 2)}\n`);
+  writeJs(code, pItems, tItems);
+  rewritten += 1;
 }
 
-console.log(JSON.stringify({ codes: order.length, practice: order.length * 8, test: order.length * 8, total: order.length * 16, philosophy: "confidence -> recognition -> understanding -> guided application -> independent application" }, null, 2));
+console.log(JSON.stringify({ totalCodes: order.length, manualPilots: [...MANUAL_CODES], generatedStudentFacingCodes: rewritten, questionsPerGeneratedCode: 16, philosophy: "confidence -> recognition -> understanding -> guided application -> independent application" }, null, 2));
