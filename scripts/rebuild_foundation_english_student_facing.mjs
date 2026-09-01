@@ -42,6 +42,11 @@ for (const entry of topicDirs) {
     .replace(/<summary><strong>Learning activities<\/strong><\/summary>/g, '<summary><strong>Try these</strong></summary>')
     .replace(/<summary><strong>Common misconceptions and quick fixes<\/strong><\/summary>/g, '<summary><strong>Common mix-ups</strong></summary>')
     .replace(/<summary><strong>Quick checks and mastery<\/strong><\/summary>/g, '<summary><strong>Check your understanding</strong></summary>')
+    .replace(/<p><strong>Teacher:<\/strong>/g, '<p><strong>Think:</strong>')
+    .replace(/<p><strong>Ask:<\/strong>/g, '<p><strong>Try:</strong>')
+    .replace(/<p><strong>Students:<\/strong>/g, '<p><strong>A strong answer:</strong>')
+    .replace(/<p><strong>Look for:<\/strong>/g, '<p><strong>Check:</strong>')
+    .replace(/<p><strong>If incorrect:<\/strong>/g, '<p><strong>If you are stuck:</strong>')
     .replace(/>Practice Sheet</g, '>Printable Worksheet<')
     .replace(/>Practice<\/a>/g, '>40-question Practice</a>')
     .replace(/<h2>Teacher resource<\/h2><p>Project the fixed branded deck one slide at a time\.<\/p>/g, '<h2>Classroom display</h2><p>Open the fixed SkillrHub display for whole-class modelling and guided practice.</p>');
