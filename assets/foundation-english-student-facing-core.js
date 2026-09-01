@@ -13,6 +13,9 @@
   ];
 
   function item(code, index, question, answers, correct, explanation) {
+    const shift = index % 3;
+    const rotated = answers.slice(shift).concat(answers.slice(0, shift));
+    const rotatedCorrect = (correct - shift + answers.length) % answers.length;
     return {
       id: `${code.toLowerCase()}-p${String(index + 1).padStart(2, "0")}`,
       curriculumCode: code,
@@ -21,9 +24,9 @@
       printable: true,
       type: "single",
       question: clean(question),
-      answers: answers.map(clean),
-      correct,
-      explanation: `${letters[correct]} — ${clean(explanation)}`
+      answers: rotated.map(clean),
+      correct: rotatedCorrect,
+      explanation: `${letters[rotatedCorrect]} — ${clean(explanation)}`
     };
   }
 
