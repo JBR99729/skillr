@@ -25,12 +25,10 @@ for (const file of [
   new vm.Script(fs.readFileSync(path.join(root,file),'utf8'), { filename:file }).runInContext(context);
 }
 const api = context.window.SkillrFoundationEnglishStudentFacing;
-if (!api) throw new Error('Student-facing API did not load.');
+if (!api || !api.version) throw new Error('Student-facing API did not load or has no version.');
 const actual = Object.keys(api.configs).sort();
 const wanted = [...expected].sort();
-if (JSON.stringify(actual) !== JSON.stringify(wanted)) {
-  throw new Error(`Expected ${wanted.length} codes, found ${actual.length}. Missing/extra: ${wanted.filter(x=>!actual.includes(x)).join(', ')} ${actual.filter(x=>!wanted.includes(x)).join(', ')}`);
-}
+if (JSON.stringify(actual) !== JSON.stringify(wanted)) throw new Error(`Expected ${wanted.length} codes, found ${actual.length}.`);
 const banned = /award\s+\d+\s+mark|rubric|teacher-facing|learning intention/i;
 for (const code of expected) {
   const cfg = api.configs[code];
