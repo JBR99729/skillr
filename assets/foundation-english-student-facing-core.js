@@ -12,7 +12,7 @@
     "It changes the topic instead of using the skill."
   ];
 
-  function item(code, index, question, answers, correct, explanation) {
+  function item(code, index, question, answers, correct, explanation, stage) {
     const shift = index % 3;
     const rotated = answers.slice(shift).concat(answers.slice(0, shift));
     const rotatedCorrect = (correct - shift + answers.length) % answers.length;
@@ -23,6 +23,7 @@
       sourceType: "Multiple choice",
       printable: true,
       type: "single",
+      stage,
       question: clean(question),
       answers: rotated.map(clean),
       correct: rotatedCorrect,
@@ -37,15 +38,15 @@
     const seeds = cfg.seeds.slice(0, 10);
     const out = [];
 
-    seeds.forEach((s) => out.push(item(code, out.length, s.q, [s.a, s.w1, s.w2], 0, s.why)));
-    seeds.forEach((s) => out.push(item(code, out.length, `Why is “${s.a}” a good answer here?`, [s.why, genericWhyWrong[0], genericWhyWrong[1]], 0, s.why)));
+    seeds.forEach((s) => out.push(item(code, out.length, s.q, [s.a, s.w1, s.w2], 0, s.why, "recognise")));
+    seeds.forEach((s) => out.push(item(code, out.length, `Why is “${s.a}” a good answer here?`, [s.why, genericWhyWrong[0], genericWhyWrong[1]], 0, s.why, "explain")));
     seeds.forEach((s, i) => {
       const next = seeds[(i + 1) % seeds.length];
-      out.push(item(code, out.length, `Which choice does NOT show the skill “${cfg.childGoal}”?`, [s.a, next.a, s.w1], 2, `“${s.w1}” does not fit this skill. ${s.why}`));
+      out.push(item(code, out.length, `Which choice does NOT show the skill “${cfg.childGoal}”?`, [s.a, next.a, s.w1], 2, `“${s.w1}” does not fit this skill. ${s.why}`, "discriminate"));
     });
     seeds.forEach((s, i) => {
       const next = seeds[(i + 1) % seeds.length];
-      out.push(item(code, out.length, `Which pair both show the skill “${cfg.childGoal}”?`, [`${s.a} / ${next.a}`, `${s.w1} / ${next.a}`, `${s.a} / ${next.w1}`], 0, "Both choices use the target skill in a clear example."));
+      out.push(item(code, out.length, `Which pair both show the skill “${cfg.childGoal}”?`, [`${s.a} / ${next.a}`, `${s.w1} / ${next.a}`, `${s.a} / ${next.w1}`], 0, "Both choices use the target skill in a clear example.", "apply"));
     });
     return out;
   };
