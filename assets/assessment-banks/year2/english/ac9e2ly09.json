@@ -5,13 +5,13 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY09",
     "bank": "practice",
-    "skill": "blend_a_consonant_cluster_apply",
+    "stage": "recognise",
+    "skill": "blend_a_consonant_cluster_direct",
     "question": "Blend these cue sounds in order: the first sound in fish, the first sound in red, the middle sound in hot and the final sound in bag. Which word do they make?",
     "audio_prompt": "Blend these cue sounds in order: the first sound in fish, the first sound in red, the middle sound in hot and the final sound in bag. Which word do they make?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly09.svg#ac9e2ly09-p-001",
-      "alt_text": "Three-step Manipulating Sounds in Words organiser. Read: Blend a consonant cluster. Notice: Blend phonemes. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
@@ -34,7 +34,8 @@
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 1,
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LY09-P-002",
@@ -42,35 +43,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY09",
     "bank": "practice",
-    "skill": "blend_a_consonant_cluster_reason",
-    "question": "A student answers “fog”. Which feedback helps? Task: Blend these cue sounds in order: the first sound in fish, the first sound in red, the middle sound in hot and the final sound in bag. Which word do they make?",
-    "audio_prompt": "A student answers “fog”. Which feedback helps? Task: Blend these cue sounds in order: the first sound in fish, the first sound in red, the middle sound in hot and the final sound in bag. Which word do they make?",
+    "stage": "recognise",
+    "skill": "segment_a_digraph_word_direct",
+    "question": "Which cue-word sequence shows the three spoken sounds in ship?",
+    "audio_prompt": "Which cue-word sequence shows the three spoken sounds in ship?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly09.svg#ac9e2ly09-p-002",
-      "alt_text": "Three-step Manipulating Sounds in Words organiser. Read: Blend a consonant cluster. Notice: Blend phonemes. Correct the student's mix-up using the full task."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Keep the second sound, heard at the start of red.",
+        "text": "start of shoe, middle of sit, end of cup",
         "is_correct": true
       },
       {
-        "text": "Keep “fog”; it uses a detail that sounds familiar.",
+        "text": "start of sun, start of hat, middle of sit, end of cup",
         "is_correct": false
       },
       {
-        "text": "Choose “from” instead; it sounds clearer.",
+        "text": "start of shoe, middle of sit, end of top",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Keep the second sound, heard at the start of red. Using all four cue sounds in order makes frog.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Ship has three sounds: the start of shoe, the middle of sit and the end of cup.",
+      "hint": "The sound at the start of shoe is one sound, even though two letters write it."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 2,
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LY09-P-003",
@@ -78,36 +81,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY09",
     "bank": "practice",
-    "skill": "segment_a_digraph_word_apply",
-    "question": "Which cue-word sequence shows the three spoken sounds in ship?",
-    "audio_prompt": "Which cue-word sequence shows the three spoken sounds in ship?",
+    "stage": "recognise",
+    "skill": "delete_the_first_sound_direct",
+    "question": "Remove the first sound from stop. Which word remains?",
+    "audio_prompt": "Remove the first sound from stop. Which word remains?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly09.svg#ac9e2ly09-p-003",
-      "alt_text": "Three-step Manipulating Sounds in Words organiser. Read: Segment a digraph word. Notice: Segment complex words. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "start of sun, start of hat, middle of sit, end of cup",
+        "text": "shop",
         "is_correct": false
       },
       {
-        "text": "start of shoe, middle of sit, end of cup",
+        "text": "top",
         "is_correct": true
       },
       {
-        "text": "start of shoe, middle of sit, end of top",
+        "text": "step",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Ship has three sounds: the start of shoe, the middle of sit and the end of cup.",
-      "hint": "The sound at the start of shoe is one sound, even though two letters write it."
+      "summary": "Stop begins with the sound heard at the start of sun; removing it leaves top.",
+      "hint": "After removing the first sound, blend from the sound at the start of top."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 3,
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LY09-P-004",
@@ -115,124 +119,13 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY09",
     "bank": "practice",
-    "skill": "segment_a_digraph_word_reason",
-    "question": "A student answers “start of shoe, middle of sit, end of top”. Which feedback helps? Task: Which cue-word sequence shows the three spoken sounds in ship?",
-    "audio_prompt": "A student answers “start of shoe, middle of sit, end of top”. Which feedback helps? Task: Which cue-word sequence shows the three spoken sounds in ship?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly09.svg#ac9e2ly09-p-004",
-      "alt_text": "Three-step Manipulating Sounds in Words organiser. Read: Segment a digraph word. Notice: Segment complex words. Correct the student's mix-up using the full task."
-    },
-    "answers": [
-      {
-        "text": "Keep “start of shoe, middle of sit, end of top”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “start of sun, start of hat, middle of sit, end of cup” instead; it sounds clearer.",
-        "is_correct": false
-      },
-      {
-        "text": "The sound at the start of shoe is one sound, even though two letters write it.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The sound at the start of shoe is one sound, even though two letters write it. Ship has three sounds: the start of shoe, the middle of sit and the end of cup.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9E2LY09-P-005",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY09",
-    "bank": "practice",
-    "skill": "delete_the_first_sound_apply",
-    "question": "Remove the first sound from stop. Which word remains?",
-    "audio_prompt": "Remove the first sound from stop. Which word remains?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly09.svg#ac9e2ly09-p-005",
-      "alt_text": "Three-step Manipulating Sounds in Words organiser. Read: Delete the first sound. Notice: Delete phonemes. Choose the response supported by the example."
-    },
-    "answers": [
-      {
-        "text": "top",
-        "is_correct": true
-      },
-      {
-        "text": "shop",
-        "is_correct": false
-      },
-      {
-        "text": "step",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Stop begins with the sound heard at the start of sun; removing it leaves top.",
-      "hint": "After removing the first sound, blend from the sound at the start of top."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9E2LY09-P-006",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY09",
-    "bank": "practice",
-    "skill": "delete_the_first_sound_reason",
-    "question": "A student answers “shop”. Which feedback helps? Task: Remove the first sound from stop. Which word remains?",
-    "audio_prompt": "A student answers “shop”. Which feedback helps? Task: Remove the first sound from stop. Which word remains?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly09.svg#ac9e2ly09-p-006",
-      "alt_text": "Three-step Manipulating Sounds in Words organiser. Read: Delete the first sound. Notice: Delete phonemes. Correct the student's mix-up using the full task."
-    },
-    "answers": [
-      {
-        "text": "Keep “shop”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "After removing the first sound, blend from the sound at the start of top.",
-        "is_correct": true
-      },
-      {
-        "text": "Choose “step” instead; it sounds clearer.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "After removing the first sound, blend from the sound at the start of top. Stop begins with the sound heard at the start of sun; removing it leaves top.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9E2LY09-P-007",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY09",
-    "bank": "practice",
-    "skill": "substitute_one_sound_apply",
+    "stage": "recognise",
+    "skill": "substitute_one_sound_direct",
     "question": "Change the first sound in map to the sound heard at the start of top. What new word is made?",
     "audio_prompt": "Change the first sound in map to the sound heard at the start of top. What new word is made?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly09.svg#ac9e2ly09-p-007",
-      "alt_text": "Three-step Manipulating Sounds in Words organiser. Read: Substitute one sound. Notice: Substitute phonemes. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
@@ -253,203 +146,100 @@
       "summary": "Replacing the start of map with the start of top while keeping the rest makes tap.",
       "hint": "Change only the first sound and keep the middle and final sounds steady."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 4,
+    "quality_schema": "student-facing-v3"
   },
   {
-    "id": "AC9E2LY09-P-008",
+    "id": "AC9E2LY09-P-005",
     "subject": "english",
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY09",
     "bank": "practice",
-    "skill": "substitute_one_sound_reason",
-    "question": "A student answers “tip”. Which feedback helps? Task: Change the first sound in map to the sound heard at the start of top. What new word is made?",
-    "audio_prompt": "A student answers “tip”. Which feedback helps? Task: Change the first sound in map to the sound heard at the start of top. What new word is made?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly09.svg#ac9e2ly09-p-008",
-      "alt_text": "Three-step Manipulating Sounds in Words organiser. Read: Substitute one sound. Notice: Substitute phonemes. Correct the student's mix-up using the full task."
-    },
-    "answers": [
-      {
-        "text": "Change only the first sound and keep the middle and final sounds steady.",
-        "is_correct": true
-      },
-      {
-        "text": "Keep “tip”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “mat” instead; it sounds clearer.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Change only the first sound and keep the middle and final sounds steady. Replacing the start of map with the start of top while keeping the rest makes tap.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E2LY09-P-009",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY09",
-    "bank": "practice",
-    "skill": "count_sounds_in_frog_apply",
+    "stage": "recognise",
+    "skill": "count_sounds_in_frog_direct",
     "question": "How many spoken sounds are in frog?",
     "audio_prompt": "How many spoken sounds are in frog?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly09.svg#ac9e2ly09-p-009",
-      "alt_text": "Three-step Manipulating Sounds in Words organiser. Read: Count sounds in frog. Notice: Connect sounds to words. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "3",
-        "is_correct": false
-      },
-      {
         "text": "4",
         "is_correct": true
+      },
+      {
+        "text": "3",
+        "is_correct": false
       },
       {
         "text": "5",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
       "summary": "Frog has four sounds: the start of fish, the start of red, the middle of hot and the end of bag.",
       "hint": "Stretch the word and move one counter for each sound."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 5,
+    "quality_schema": "student-facing-v3"
   },
   {
-    "id": "AC9E2LY09-P-010",
+    "id": "AC9E2LY09-P-006",
     "subject": "english",
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY09",
     "bank": "practice",
-    "skill": "count_sounds_in_frog_reason",
-    "question": "A student answers “3”. Which feedback helps? Task: How many spoken sounds are in frog?",
-    "audio_prompt": "A student answers “3”. Which feedback helps? Task: How many spoken sounds are in frog?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly09.svg#ac9e2ly09-p-010",
-      "alt_text": "Three-step Manipulating Sounds in Words organiser. Read: Count sounds in frog. Notice: Connect sounds to words. Correct the student's mix-up using the full task."
-    },
-    "answers": [
-      {
-        "text": "Keep “3”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “5” instead; it sounds clearer.",
-        "is_correct": false
-      },
-      {
-        "text": "Stretch the word and move one counter for each sound.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Stretch the word and move one counter for each sound. Frog has four sounds: the start of fish, the start of red, the middle of hot and the end of bag.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E2LY09-P-011",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY09",
-    "bank": "practice",
-    "skill": "change_a_digraph_sound_apply",
+    "stage": "recognise",
+    "skill": "change_a_digraph_sound_direct",
     "question": "Change the first sound in ship from the sound at the start of shoe to the sound at the start of chair. Which word is made?",
     "audio_prompt": "Change the first sound in ship from the sound at the start of shoe to the sound at the start of chair. Which word is made?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly09.svg#ac9e2ly09-p-011",
-      "alt_text": "Three-step Manipulating Sounds in Words organiser. Read: Change a digraph sound. Notice: Blend phonemes. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "chip",
-        "is_correct": true
-      },
-      {
         "text": "shop",
         "is_correct": false
+      },
+      {
+        "text": "chip",
+        "is_correct": true
       },
       {
         "text": "chop",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
       "summary": "Changing the start of ship from the shoe sound to the chair sound while keeping the rest makes chip.",
       "hint": "Change the first sound only, then blend the whole word again."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 6,
+    "quality_schema": "student-facing-v3"
   },
   {
-    "id": "AC9E2LY09-P-012",
+    "id": "AC9E2LY09-P-007",
     "subject": "english",
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY09",
     "bank": "practice",
-    "skill": "change_a_digraph_sound_reason",
-    "question": "A student answers “chop”. Which feedback helps? Task: Change the first sound in ship from the sound at the start of shoe to the sound at the start of chair. Which word is made?",
-    "audio_prompt": "A student answers “chop”. Which feedback helps? Task: Change the first sound in ship from the sound at the start of shoe to the sound at the start of chair. Which word is made?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly09.svg#ac9e2ly09-p-012",
-      "alt_text": "Three-step Manipulating Sounds in Words organiser. Read: Change a digraph sound. Notice: Blend phonemes. Correct the student's mix-up using the full task."
-    },
-    "answers": [
-      {
-        "text": "Keep “chop”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Change the first sound only, then blend the whole word again.",
-        "is_correct": true
-      },
-      {
-        "text": "Choose “shop” instead; it sounds clearer.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Change the first sound only, then blend the whole word again. Changing the start of ship from the shoe sound to the chair sound while keeping the rest makes chip.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E2LY09-P-013",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY09",
-    "bank": "practice",
-    "skill": "build_a_word_chain_apply",
+    "stage": "recognise",
+    "skill": "build_a_word_chain_direct",
     "question": "Which chain changes only one spoken sound at each step?",
     "audio_prompt": "Which chain changes only one spoken sound at each step?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly09.svg#ac9e2ly09-p-013",
-      "alt_text": "Three-step Manipulating Sounds in Words organiser. Read: Build a word chain. Notice: Segment complex words. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
@@ -472,201 +262,98 @@
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 7,
+    "quality_schema": "student-facing-v3"
   },
   {
-    "id": "AC9E2LY09-P-014",
+    "id": "AC9E2LY09-P-008",
     "subject": "english",
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY09",
     "bank": "practice",
-    "skill": "build_a_word_chain_reason",
-    "question": "A student answers “map, then mop, then sip”. Which feedback helps? Task: Which chain changes only one spoken sound at each step?",
-    "audio_prompt": "A student answers “map, then mop, then sip”. Which feedback helps? Task: Which chain changes only one spoken sound at each step?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly09.svg#ac9e2ly09-p-014",
-      "alt_text": "Three-step Manipulating Sounds in Words organiser. Read: Build a word chain. Notice: Segment complex words. Correct the student's mix-up using the full task."
-    },
-    "answers": [
-      {
-        "text": "Compare each neighbouring pair sound by sound.",
-        "is_correct": true
-      },
-      {
-        "text": "Keep “map, then mop, then sip”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “map, then mat, then sit” instead; it sounds clearer.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Compare each neighbouring pair sound by sound. Map to tap changes the first sound; tap to tip changes the middle sound.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E2LY09-P-015",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY09",
-    "bank": "practice",
-    "skill": "delete_a_final_sound_apply",
+    "stage": "recognise",
+    "skill": "delete_a_final_sound_direct",
     "question": "Remove the final sound from cart. Which word remains?",
     "audio_prompt": "Remove the final sound from cart. Which word remains?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly09.svg#ac9e2ly09-p-015",
-      "alt_text": "Three-step Manipulating Sounds in Words organiser. Read: Delete a final sound. Notice: Delete phonemes. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "cat",
-        "is_correct": false
-      },
-      {
         "text": "car",
         "is_correct": true
+      },
+      {
+        "text": "cat",
+        "is_correct": false
       },
       {
         "text": "art",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
       "summary": "Cart ends with the sound heard at the start of top; removing it leaves car.",
       "hint": "Keep the starting sounds in order and take away only the last one."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 8,
+    "quality_schema": "student-facing-v3"
   },
   {
-    "id": "AC9E2LY09-P-016",
+    "id": "AC9E2LY09-P-009",
     "subject": "english",
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY09",
     "bank": "practice",
-    "skill": "delete_a_final_sound_reason",
-    "question": "A student answers “art”. Which feedback helps? Task: Remove the final sound from cart. Which word remains?",
-    "audio_prompt": "A student answers “art”. Which feedback helps? Task: Remove the final sound from cart. Which word remains?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly09.svg#ac9e2ly09-p-016",
-      "alt_text": "Three-step Manipulating Sounds in Words organiser. Read: Delete a final sound. Notice: Delete phonemes. Correct the student's mix-up using the full task."
-    },
-    "answers": [
-      {
-        "text": "Keep “art”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “cat” instead; it sounds clearer.",
-        "is_correct": false
-      },
-      {
-        "text": "Keep the starting sounds in order and take away only the last one.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Keep the starting sounds in order and take away only the last one. Cart ends with the sound heard at the start of top; removing it leaves car.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E2LY09-P-017",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY09",
-    "bank": "practice",
-    "skill": "substitute_a_middle_sound_apply",
+    "stage": "recognise",
+    "skill": "substitute_a_middle_sound_direct",
     "question": "Change the middle sound in pin to the middle sound in cat. What word is made?",
     "audio_prompt": "Change the middle sound in pin to the middle sound in cat. What word is made?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly09.svg#ac9e2ly09-p-017",
-      "alt_text": "Three-step Manipulating Sounds in Words organiser. Read: Substitute a middle sound. Notice: Substitute phonemes. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "pan",
-        "is_correct": true
-      },
-      {
         "text": "pat",
         "is_correct": false
+      },
+      {
+        "text": "pan",
+        "is_correct": true
       },
       {
         "text": "pen",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
       "summary": "Keeping the start and end of pin while using the middle sound in cat makes pan.",
       "hint": "Hold the first and last sounds steady while changing the middle."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 9,
+    "quality_schema": "student-facing-v3"
   },
   {
-    "id": "AC9E2LY09-P-018",
+    "id": "AC9E2LY09-P-010",
     "subject": "english",
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY09",
     "bank": "practice",
-    "skill": "substitute_a_middle_sound_reason",
-    "question": "A student answers “pat”. Which feedback helps? Task: Change the middle sound in pin to the middle sound in cat. What word is made?",
-    "audio_prompt": "A student answers “pat”. Which feedback helps? Task: Change the middle sound in pin to the middle sound in cat. What word is made?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly09.svg#ac9e2ly09-p-018",
-      "alt_text": "Three-step Manipulating Sounds in Words organiser. Read: Substitute a middle sound. Notice: Substitute phonemes. Correct the student's mix-up using the full task."
-    },
-    "answers": [
-      {
-        "text": "Keep “pat”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Hold the first and last sounds steady while changing the middle.",
-        "is_correct": true
-      },
-      {
-        "text": "Choose “pen” instead; it sounds clearer.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Hold the first and last sounds steady while changing the middle. Keeping the start and end of pin while using the middle sound in cat makes pan.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E2LY09-P-019",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY09",
-    "bank": "practice",
-    "skill": "segment_a_cluster_word_apply",
+    "stage": "recognise",
+    "skill": "segment_a_cluster_word_direct",
     "question": "Which cue-word sequence shows the four spoken sounds in train?",
     "audio_prompt": "Which cue-word sequence shows the four spoken sounds in train?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly09.svg#ac9e2ly09-p-019",
-      "alt_text": "Three-step Manipulating Sounds in Words organiser. Read: Segment a cluster word. Notice: Connect sounds to words. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
@@ -689,7 +376,350 @@
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 10,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY09-P-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY09",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "blend_a_consonant_cluster_explain",
+    "question": "Blend these cue sounds in order: the first sound in fish, the first sound in red, the middle sound in hot and the final sound in bag. Which word do they make? Why is “frog” the best answer?",
+    "audio_prompt": "Blend these cue sounds in order: the first sound in fish, the first sound in red, the middle sound in hot and the final sound in bag. Which word do they make? Why is “frog” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Using all four cue sounds in order makes frog.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best only because it is longer than “fog”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Using all four cue sounds in order makes frog.",
+      "hint": "Keep the second sound, heard at the start of red."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 11,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY09-P-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY09",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "segment_a_digraph_word_explain",
+    "question": "Which cue-word sequence shows the three spoken sounds in ship? Why is “start of shoe, middle of sit, end of cup” the best answer?",
+    "audio_prompt": "Which cue-word sequence shows the three spoken sounds in ship? Why is “start of shoe, middle of sit, end of cup” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “start of sun, start of hat, middle of sit, end of cup”.",
+        "is_correct": false
+      },
+      {
+        "text": "Ship has three sounds: the start of shoe, the middle of sit and the end of cup.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Ship has three sounds: the start of shoe, the middle of sit and the end of cup.",
+      "hint": "The sound at the start of shoe is one sound, even though two letters write it."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 12,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY09-P-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY09",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "delete_the_first_sound_explain",
+    "question": "Remove the first sound from stop. Which word remains? Why is “top” the best answer?",
+    "audio_prompt": "Remove the first sound from stop. Which word remains? Why is “top” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “shop”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "Stop begins with the sound heard at the start of sun; removing it leaves top.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Stop begins with the sound heard at the start of sun; removing it leaves top.",
+      "hint": "After removing the first sound, blend from the sound at the start of top."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 13,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY09-P-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY09",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "substitute_one_sound_explain",
+    "question": "Change the first sound in map to the sound heard at the start of top. What new word is made? Why is “tap” the best answer?",
+    "audio_prompt": "Change the first sound in map to the sound heard at the start of top. What new word is made? Why is “tap” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Replacing the start of map with the start of top while keeping the rest makes tap.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best only because it is longer than “mat”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Replacing the start of map with the start of top while keeping the rest makes tap.",
+      "hint": "Change only the first sound and keep the middle and final sounds steady."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 14,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY09-P-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY09",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "count_sounds_in_frog_explain",
+    "question": "How many spoken sounds are in frog? Why is “4” the best answer?",
+    "audio_prompt": "How many spoken sounds are in frog? Why is “4” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “3”.",
+        "is_correct": false
+      },
+      {
+        "text": "Frog has four sounds: the start of fish, the start of red, the middle of hot and the end of bag.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Frog has four sounds: the start of fish, the start of red, the middle of hot and the end of bag.",
+      "hint": "Stretch the word and move one counter for each sound."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 15,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY09-P-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY09",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "change_a_digraph_sound_explain",
+    "question": "Change the first sound in ship from the sound at the start of shoe to the sound at the start of chair. Which word is made? Why is “chip” the best answer?",
+    "audio_prompt": "Change the first sound in ship from the sound at the start of shoe to the sound at the start of chair. Which word is made? Why is “chip” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “shop”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "Changing the start of ship from the shoe sound to the chair sound while keeping the rest makes chip.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Changing the start of ship from the shoe sound to the chair sound while keeping the rest makes chip.",
+      "hint": "Change the first sound only, then blend the whole word again."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 16,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY09-P-017",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY09",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "build_a_word_chain_explain",
+    "question": "Which chain changes only one spoken sound at each step? Why is “map, then tap, then tip” the best answer?",
+    "audio_prompt": "Which chain changes only one spoken sound at each step? Why is “map, then tap, then tip” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Map to tap changes the first sound; tap to tip changes the middle sound.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best only because it is longer than “map, then mop, then sip”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Map to tap changes the first sound; tap to tip changes the middle sound.",
+      "hint": "Compare each neighbouring pair sound by sound."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 17,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY09-P-018",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY09",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "delete_a_final_sound_explain",
+    "question": "Remove the final sound from cart. Which word remains? Why is “car” the best answer?",
+    "audio_prompt": "Remove the final sound from cart. Which word remains? Why is “car” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “cat”.",
+        "is_correct": false
+      },
+      {
+        "text": "Cart ends with the sound heard at the start of top; removing it leaves car.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Cart ends with the sound heard at the start of top; removing it leaves car.",
+      "hint": "Keep the starting sounds in order and take away only the last one."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 18,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY09-P-019",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY09",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "substitute_a_middle_sound_explain",
+    "question": "Change the middle sound in pin to the middle sound in cat. What word is made? Why is “pan” the best answer?",
+    "audio_prompt": "Change the middle sound in pin to the middle sound in cat. What word is made? Why is “pan” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “pat”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "Keeping the start and end of pin while using the middle sound in cat makes pan.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Keeping the start and end of pin while using the middle sound in cat makes pan.",
+      "hint": "Hold the first and last sounds steady while changing the middle."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 19,
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LY09-P-020",
@@ -697,35 +727,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY09",
     "bank": "practice",
-    "skill": "segment_a_cluster_word_reason",
-    "question": "A student answers “start of top, then the whole word rain”. Which feedback helps? Task: Which cue-word sequence shows the four spoken sounds in train?",
-    "audio_prompt": "A student answers “start of top, then the whole word rain”. Which feedback helps? Task: Which cue-word sequence shows the four spoken sounds in train?",
+    "stage": "explain",
+    "skill": "segment_a_cluster_word_explain",
+    "question": "Which cue-word sequence shows the four spoken sounds in train? Why is “start of top, start of red, middle of day, end of sun” the best answer?",
+    "audio_prompt": "Which cue-word sequence shows the four spoken sounds in train? Why is “start of top, start of red, middle of day, end of sun” the best answer?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly09.svg#ac9e2ly09-p-020",
-      "alt_text": "Three-step Manipulating Sounds in Words organiser. Read: Segment a cluster word. Notice: Connect sounds to words. Correct the student's mix-up using the full task."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Listen for two separate sounds before the long vowel.",
+        "text": "Train has two separate starting sounds, followed by the long vowel in day and the final sound in sun.",
         "is_correct": true
       },
       {
-        "text": "Keep “start of top, then the whole word rain”; it uses a detail that sounds familiar.",
+        "text": "It is best only because it is longer than “whole start of tree, middle of day, end of sun”.",
         "is_correct": false
       },
       {
-        "text": "Choose “whole start of tree, middle of day, end of sun” instead; it sounds clearer.",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Listen for two separate sounds before the long vowel. Train has two separate starting sounds, followed by the long vowel in day and the final sound in sun.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Train has two separate starting sounds, followed by the long vowel in day and the final sound in sun.",
+      "hint": "Listen for two separate sounds before the long vowel."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 20,
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LY09-P-021",
@@ -733,35 +765,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY09",
     "bank": "practice",
-    "skill": "blend_a_longer_cluster_apply",
-    "question": "Blend these cue sounds in order: the start of sun, the start of kite, the start of red, the middle of cat and the end of cup. Which word is made?",
-    "audio_prompt": "Blend these cue sounds in order: the start of sun, the start of kite, the start of red, the middle of cat and the end of cup. Which word is made?",
+    "stage": "discriminate",
+    "skill": "delete_the_first_sound_discriminate",
+    "question": "Remove the first sound from stop. Which word remains? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Remove the first sound from stop. Which word remains? Which response is the clearest mix-up to avoid?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly09.svg#ac9e2ly09-p-021",
-      "alt_text": "Three-step Manipulating Sounds in Words organiser. Read: Blend a longer cluster. Notice: Blend phonemes. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "strap",
+        "text": "top",
         "is_correct": false
       },
       {
-        "text": "scrap",
+        "text": "shop",
         "is_correct": true
       },
       {
-        "text": "scrape",
+        "text": "step",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Using all five cue sounds in order makes scrap.",
-      "hint": "Keep all three starting sounds before the vowel sound."
+      "summary": "“shop” is the mix-up to avoid. After removing the first sound, blend from the sound at the start of top.",
+      "hint": "After removing the first sound, blend from the sound at the start of top."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "application",
+    "sequence_priority": 21,
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LY09-P-022",
@@ -769,35 +803,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY09",
     "bank": "practice",
-    "skill": "blend_a_longer_cluster_reason",
-    "question": "A student answers “strap”. Which feedback helps? Task: Blend these cue sounds in order: the start of sun, the start of kite, the start of red, the middle of cat and the end of cup. Which word is made?",
-    "audio_prompt": "A student answers “strap”. Which feedback helps? Task: Blend these cue sounds in order: the start of sun, the start of kite, the start of red, the middle of cat and the end of cup. Which word is made?",
+    "stage": "discriminate",
+    "skill": "substitute_one_sound_discriminate",
+    "question": "Change the first sound in map to the sound heard at the start of top. What new word is made? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Change the first sound in map to the sound heard at the start of top. What new word is made? Which response is the clearest mix-up to avoid?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly09.svg#ac9e2ly09-p-022",
-      "alt_text": "Three-step Manipulating Sounds in Words organiser. Read: Blend a longer cluster. Notice: Blend phonemes. Correct the student's mix-up using the full task."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Keep “strap”; it uses a detail that sounds familiar.",
+        "text": "tap",
         "is_correct": false
       },
       {
-        "text": "Choose “scrape” instead; it sounds clearer.",
+        "text": "tip",
         "is_correct": false
       },
       {
-        "text": "Keep all three starting sounds before the vowel sound.",
+        "text": "mat",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Keep all three starting sounds before the vowel sound. Using all five cue sounds in order makes scrap.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "“mat” is the mix-up to avoid. Change only the first sound and keep the middle and final sounds steady.",
+      "hint": "Change only the first sound and keep the middle and final sounds steady."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "application",
+    "sequence_priority": 22,
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LY09-P-023",
@@ -805,35 +841,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY09",
     "bank": "practice",
-    "skill": "change_a_final_sound_apply",
-    "question": "Change the final sound in cat to the final sound in cup. Which word is made?",
-    "audio_prompt": "Change the final sound in cat to the final sound in cup. Which word is made?",
+    "stage": "discriminate",
+    "skill": "count_sounds_in_frog_discriminate",
+    "question": "How many spoken sounds are in frog? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "How many spoken sounds are in frog? Which response is the clearest mix-up to avoid?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly09.svg#ac9e2ly09-p-023",
-      "alt_text": "Three-step Manipulating Sounds in Words organiser. Read: Change a final sound. Notice: Segment complex words. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "cap",
+        "text": "3",
         "is_correct": true
       },
       {
-        "text": "tap",
+        "text": "4",
         "is_correct": false
       },
       {
-        "text": "cup",
+        "text": "5",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Keeping the start and middle of cat while using the end of cup makes cap.",
-      "hint": "Change only the last sound, then blend from the beginning."
+      "summary": "“3” is the mix-up to avoid. Stretch the word and move one counter for each sound.",
+      "hint": "Stretch the word and move one counter for each sound."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "application",
+    "sequence_priority": 23,
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LY09-P-024",
@@ -841,35 +879,645 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY09",
     "bank": "practice",
-    "skill": "change_a_final_sound_reason",
-    "question": "A student answers “cup”. Which feedback helps? Task: Change the final sound in cat to the final sound in cup. Which word is made?",
-    "audio_prompt": "A student answers “cup”. Which feedback helps? Task: Change the final sound in cat to the final sound in cup. Which word is made?",
+    "stage": "discriminate",
+    "skill": "change_a_digraph_sound_discriminate",
+    "question": "Change the first sound in ship from the sound at the start of shoe to the sound at the start of chair. Which word is made? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Change the first sound in ship from the sound at the start of shoe to the sound at the start of chair. Which word is made? Which response is the clearest mix-up to avoid?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly09.svg#ac9e2ly09-p-024",
-      "alt_text": "Three-step Manipulating Sounds in Words organiser. Read: Change a final sound. Notice: Segment complex words. Correct the student's mix-up using the full task."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Keep “cup”; it uses a detail that sounds familiar.",
+        "text": "chip",
         "is_correct": false
       },
       {
-        "text": "Change only the last sound, then blend from the beginning.",
+        "text": "shop",
         "is_correct": true
       },
       {
-        "text": "Choose “tap” instead; it sounds clearer.",
+        "text": "chop",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Change only the last sound, then blend from the beginning. Keeping the start and middle of cat while using the end of cup makes cap.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "“shop” is the mix-up to avoid. Change the first sound only, then blend the whole word again.",
+      "hint": "Change the first sound only, then blend the whole word again."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "application",
+    "sequence_priority": 24,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY09-P-025",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY09",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "build_a_word_chain_discriminate",
+    "question": "Which chain changes only one spoken sound at each step? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Which chain changes only one spoken sound at each step? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "map, then tap, then tip",
+        "is_correct": false
+      },
+      {
+        "text": "map, then mat, then sit",
+        "is_correct": false
+      },
+      {
+        "text": "map, then mop, then sip",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“map, then mop, then sip” is the mix-up to avoid. Compare each neighbouring pair sound by sound.",
+      "hint": "Compare each neighbouring pair sound by sound."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 25,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY09-P-026",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY09",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "delete_a_final_sound_discriminate",
+    "question": "Remove the final sound from cart. Which word remains? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Remove the final sound from cart. Which word remains? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "cat",
+        "is_correct": true
+      },
+      {
+        "text": "car",
+        "is_correct": false
+      },
+      {
+        "text": "art",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“cat” is the mix-up to avoid. Keep the starting sounds in order and take away only the last one.",
+      "hint": "Keep the starting sounds in order and take away only the last one."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 26,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY09-P-027",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY09",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "substitute_a_middle_sound_discriminate",
+    "question": "Change the middle sound in pin to the middle sound in cat. What word is made? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Change the middle sound in pin to the middle sound in cat. What word is made? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "pan",
+        "is_correct": false
+      },
+      {
+        "text": "pat",
+        "is_correct": true
+      },
+      {
+        "text": "pen",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“pat” is the mix-up to avoid. Hold the first and last sounds steady while changing the middle.",
+      "hint": "Hold the first and last sounds steady while changing the middle."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 27,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY09-P-028",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY09",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "segment_a_cluster_word_discriminate",
+    "question": "Which cue-word sequence shows the four spoken sounds in train? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Which cue-word sequence shows the four spoken sounds in train? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "start of top, start of red, middle of day, end of sun",
+        "is_correct": false
+      },
+      {
+        "text": "start of top, then the whole word rain",
+        "is_correct": false
+      },
+      {
+        "text": "whole start of tree, middle of day, end of sun",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“whole start of tree, middle of day, end of sun” is the mix-up to avoid. Listen for two separate sounds before the long vowel.",
+      "hint": "Listen for two separate sounds before the long vowel."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 28,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY09-P-029",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY09",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "blend_a_longer_cluster_discriminate",
+    "question": "Blend these cue sounds in order: the start of sun, the start of kite, the start of red, the middle of cat and the end of cup. Which word is made? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Blend these cue sounds in order: the start of sun, the start of kite, the start of red, the middle of cat and the end of cup. Which word is made? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "strap",
+        "is_correct": true
+      },
+      {
+        "text": "scrap",
+        "is_correct": false
+      },
+      {
+        "text": "scrape",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“strap” is the mix-up to avoid. Keep all three starting sounds before the vowel sound.",
+      "hint": "Keep all three starting sounds before the vowel sound."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 29,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY09-P-030",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY09",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "change_a_final_sound_discriminate",
+    "question": "Change the final sound in cat to the final sound in cup. Which word is made? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Change the final sound in cat to the final sound in cup. Which word is made? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "cap",
+        "is_correct": false
+      },
+      {
+        "text": "tap",
+        "is_correct": true
+      },
+      {
+        "text": "cup",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“tap” is the mix-up to avoid. Change only the last sound, then blend from the beginning.",
+      "hint": "Change only the last sound, then blend from the beginning."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 30,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY09-P-031",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "delete_the_first_sound_apply",
+    "question": "Use this clue: After removing the first sound, blend from the sound at the start of top. Remove the first sound from stop. Which word remains?",
+    "audio_prompt": "Use this clue: After removing the first sound, blend from the sound at the start of top. Remove the first sound from stop. Which word remains?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "step",
+        "is_correct": false
+      },
+      {
+        "text": "shop",
+        "is_correct": false
+      },
+      {
+        "text": "top",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Stop begins with the sound heard at the start of sun; removing it leaves top.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 31,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY09-P-032",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "substitute_one_sound_apply",
+    "question": "Use this clue: Change only the first sound and keep the middle and final sounds steady. Change the first sound in map to the sound heard at the start of top. What new word is made?",
+    "audio_prompt": "Use this clue: Change only the first sound and keep the middle and final sounds steady. Change the first sound in map to the sound heard at the start of top. What new word is made?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "tap",
+        "is_correct": true
+      },
+      {
+        "text": "tip",
+        "is_correct": false
+      },
+      {
+        "text": "mat",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Replacing the start of map with the start of top while keeping the rest makes tap.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 32,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY09-P-033",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "count_sounds_in_frog_apply",
+    "question": "Use this clue: Stretch the word and move one counter for each sound. How many spoken sounds are in frog?",
+    "audio_prompt": "Use this clue: Stretch the word and move one counter for each sound. How many spoken sounds are in frog?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": true
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Frog has four sounds: the start of fish, the start of red, the middle of hot and the end of bag.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 33,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY09-P-034",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "change_a_digraph_sound_apply",
+    "question": "Use this clue: Change the first sound only, then blend the whole word again. Change the first sound in ship from the sound at the start of shoe to the sound at the start of chair. Which word is made?",
+    "audio_prompt": "Use this clue: Change the first sound only, then blend the whole word again. Change the first sound in ship from the sound at the start of shoe to the sound at the start of chair. Which word is made?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "chop",
+        "is_correct": false
+      },
+      {
+        "text": "shop",
+        "is_correct": false
+      },
+      {
+        "text": "chip",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Changing the start of ship from the shoe sound to the chair sound while keeping the rest makes chip.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 34,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY09-P-035",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "build_a_word_chain_apply",
+    "question": "Use this clue: Compare each neighbouring pair sound by sound. Which chain changes only one spoken sound at each step?",
+    "audio_prompt": "Use this clue: Compare each neighbouring pair sound by sound. Which chain changes only one spoken sound at each step?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "map, then tap, then tip",
+        "is_correct": true
+      },
+      {
+        "text": "map, then mat, then sit",
+        "is_correct": false
+      },
+      {
+        "text": "map, then mop, then sip",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Map to tap changes the first sound; tap to tip changes the middle sound.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 35,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY09-P-036",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "delete_a_final_sound_apply",
+    "question": "Use this clue: Keep the starting sounds in order and take away only the last one. Remove the final sound from cart. Which word remains?",
+    "audio_prompt": "Use this clue: Keep the starting sounds in order and take away only the last one. Remove the final sound from cart. Which word remains?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "art",
+        "is_correct": false
+      },
+      {
+        "text": "car",
+        "is_correct": true
+      },
+      {
+        "text": "cat",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Cart ends with the sound heard at the start of top; removing it leaves car.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 36,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY09-P-037",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "substitute_a_middle_sound_apply",
+    "question": "Use this clue: Hold the first and last sounds steady while changing the middle. Change the middle sound in pin to the middle sound in cat. What word is made?",
+    "audio_prompt": "Use this clue: Hold the first and last sounds steady while changing the middle. Change the middle sound in pin to the middle sound in cat. What word is made?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "pen",
+        "is_correct": false
+      },
+      {
+        "text": "pat",
+        "is_correct": false
+      },
+      {
+        "text": "pan",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Keeping the start and end of pin while using the middle sound in cat makes pan.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 37,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY09-P-038",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "segment_a_cluster_word_apply",
+    "question": "Use this clue: Listen for two separate sounds before the long vowel. Which cue-word sequence shows the four spoken sounds in train?",
+    "audio_prompt": "Use this clue: Listen for two separate sounds before the long vowel. Which cue-word sequence shows the four spoken sounds in train?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "start of top, start of red, middle of day, end of sun",
+        "is_correct": true
+      },
+      {
+        "text": "start of top, then the whole word rain",
+        "is_correct": false
+      },
+      {
+        "text": "whole start of tree, middle of day, end of sun",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Train has two separate starting sounds, followed by the long vowel in day and the final sound in sun.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 38,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY09-P-039",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "blend_a_longer_cluster_apply",
+    "question": "Use this clue: Keep all three starting sounds before the vowel sound. Blend these cue sounds in order: the start of sun, the start of kite, the start of red, the middle of cat and the end of cup. Which word is made?",
+    "audio_prompt": "Use this clue: Keep all three starting sounds before the vowel sound. Blend these cue sounds in order: the start of sun, the start of kite, the start of red, the middle of cat and the end of cup. Which word is made?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "scrape",
+        "is_correct": false
+      },
+      {
+        "text": "scrap",
+        "is_correct": true
+      },
+      {
+        "text": "strap",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Using all five cue sounds in order makes scrap.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 39,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY09-P-040",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "change_a_final_sound_apply",
+    "question": "Use this clue: Change only the last sound, then blend from the beginning. Change the final sound in cat to the final sound in cup. Which word is made?",
+    "audio_prompt": "Use this clue: Change only the last sound, then blend from the beginning. Change the final sound in cat to the final sound in cup. Which word is made?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "cup",
+        "is_correct": false
+      },
+      {
+        "text": "tap",
+        "is_correct": false
+      },
+      {
+        "text": "cap",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Keeping the start and middle of cat while using the end of cup makes cap.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 40,
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LY09-T-001",
@@ -877,13 +1525,13 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY09",
     "bank": "test",
-    "skill": "test_delete_from_clap_apply",
+    "stage": "verify",
+    "skill": "test_delete_from_clap_direct",
     "question": "Remove the first sound from clap. What word remains?",
     "audio_prompt": "Remove the first sound from clap. What word remains?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly09.svg#ac9e2ly09-t-001",
-      "alt_text": "Three-step Manipulating Sounds in Words organiser. Read: delete from clap. Notice: Blend phonemes. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
@@ -903,7 +1551,11 @@
     "explanation": {
       "summary": "Removing the first sound from clap leaves lap.",
       "hint": "After removing the first sound, blend from the sound at the start of leaf."
-    }
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 1,
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LY09-T-002",
@@ -911,33 +1563,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY09",
     "bank": "test",
-    "skill": "test_delete_from_clap_reason",
-    "question": "A student answers “cap”. Which feedback helps? Task: Remove the first sound from clap. What word remains?",
-    "audio_prompt": "A student answers “cap”. Which feedback helps? Task: Remove the first sound from clap. What word remains?",
+    "stage": "verify",
+    "skill": "test_delete_from_smile_direct",
+    "question": "Say smile, then remove its first sound. Which word remains?",
+    "audio_prompt": "Say smile, then remove its first sound. Which word remains?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly09.svg#ac9e2ly09-t-002",
-      "alt_text": "Three-step Manipulating Sounds in Words organiser. Read: delete from clap. Notice: Blend phonemes. Correct the student's mix-up using the full task."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "After removing the first sound, blend from the sound at the start of leaf.",
+        "text": "mile",
         "is_correct": true
       },
       {
-        "text": "Keep “cap”; it uses a detail that sounds familiar.",
+        "text": "smile",
         "is_correct": false
       },
       {
-        "text": "Choose “clip” instead; it sounds clearer.",
+        "text": "slime",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "After removing the first sound, blend from the sound at the start of leaf. Removing the first sound from clap leaves lap.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+      "summary": "Removing the first sound from smile leaves mile.",
+      "hint": "After deleting the first sound, begin with the sound at the start of moon."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 2,
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LY09-T-003",
@@ -945,33 +1601,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY09",
     "bank": "test",
-    "skill": "test_delete_from_smile_apply",
-    "question": "Say smile, then remove its first sound. Which word remains?",
-    "audio_prompt": "Say smile, then remove its first sound. Which word remains?",
+    "stage": "verify",
+    "skill": "test_substitute_digraph_direct",
+    "question": "Change the first sound in chop from the sound at the start of chair to the sound at the start of shoe. What word is made?",
+    "audio_prompt": "Change the first sound in chop from the sound at the start of chair to the sound at the start of shoe. What word is made?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly09.svg#ac9e2ly09-t-003",
-      "alt_text": "Three-step Manipulating Sounds in Words organiser. Read: delete from smile. Notice: Segment complex words. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "smile",
+        "text": "ship",
         "is_correct": false
       },
       {
-        "text": "mile",
+        "text": "shop",
         "is_correct": true
       },
       {
-        "text": "slime",
+        "text": "chop",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Removing the first sound from smile leaves mile.",
-      "hint": "After deleting the first sound, begin with the sound at the start of moon."
-    }
+      "summary": "Keeping the rest of chop while changing its first sound from the chair cue to the shoe cue makes shop.",
+      "hint": "Only the first sound changes; the middle vowel sound stays the same."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 3,
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LY09-T-004",
@@ -979,115 +1639,13 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY09",
     "bank": "test",
-    "skill": "test_delete_from_smile_reason",
-    "question": "A student answers “slime”. Which feedback helps? Task: Say smile, then remove its first sound. Which word remains?",
-    "audio_prompt": "A student answers “slime”. Which feedback helps? Task: Say smile, then remove its first sound. Which word remains?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly09.svg#ac9e2ly09-t-004",
-      "alt_text": "Three-step Manipulating Sounds in Words organiser. Read: delete from smile. Notice: Segment complex words. Correct the student's mix-up using the full task."
-    },
-    "answers": [
-      {
-        "text": "Keep “slime”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “smile” instead; it sounds clearer.",
-        "is_correct": false
-      },
-      {
-        "text": "After deleting the first sound, begin with the sound at the start of moon.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "After deleting the first sound, begin with the sound at the start of moon. Removing the first sound from smile leaves mile.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
-  },
-  {
-    "id": "AC9E2LY09-T-005",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY09",
-    "bank": "test",
-    "skill": "test_substitute_digraph_apply",
-    "question": "Change the first sound in chop from the sound at the start of chair to the sound at the start of shoe. What word is made?",
-    "audio_prompt": "Change the first sound in chop from the sound at the start of chair to the sound at the start of shoe. What word is made?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly09.svg#ac9e2ly09-t-005",
-      "alt_text": "Three-step Manipulating Sounds in Words organiser. Read: substitute digraph. Notice: Delete phonemes. Choose the response supported by the example."
-    },
-    "answers": [
-      {
-        "text": "shop",
-        "is_correct": true
-      },
-      {
-        "text": "ship",
-        "is_correct": false
-      },
-      {
-        "text": "chop",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Keeping the rest of chop while changing its first sound from the chair cue to the shoe cue makes shop.",
-      "hint": "Only the first sound changes; the middle vowel sound stays the same."
-    }
-  },
-  {
-    "id": "AC9E2LY09-T-006",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY09",
-    "bank": "test",
-    "skill": "test_substitute_digraph_reason",
-    "question": "A student answers “ship”. Which feedback helps? Task: Change the first sound in chop from the sound at the start of chair to the sound at the start of shoe. What word is made?",
-    "audio_prompt": "A student answers “ship”. Which feedback helps? Task: Change the first sound in chop from the sound at the start of chair to the sound at the start of shoe. What word is made?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly09.svg#ac9e2ly09-t-006",
-      "alt_text": "Three-step Manipulating Sounds in Words organiser. Read: substitute digraph. Notice: Delete phonemes. Correct the student's mix-up using the full task."
-    },
-    "answers": [
-      {
-        "text": "Keep “ship”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Only the first sound changes; the middle vowel sound stays the same.",
-        "is_correct": true
-      },
-      {
-        "text": "Choose “chop” instead; it sounds clearer.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Only the first sound changes; the middle vowel sound stays the same. Keeping the rest of chop while changing its first sound from the chair cue to the shoe cue makes shop.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
-  },
-  {
-    "id": "AC9E2LY09-T-007",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY09",
-    "bank": "test",
-    "skill": "test_blend_stream_apply",
+    "stage": "verify",
+    "skill": "test_blend_stream_direct",
     "question": "Blend these sounds: start of sun, start of top, start of red, long vowel in green, end of jam. Which word?",
     "audio_prompt": "Blend these sounds: start of sun, start of top, start of red, long vowel in green, end of jam. Which word?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly09.svg#ac9e2ly09-t-007",
-      "alt_text": "Three-step Manipulating Sounds in Words organiser. Read: blend stream. Notice: Substitute phonemes. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
@@ -1107,191 +1665,101 @@
     "explanation": {
       "summary": "Using all five cue sounds in order makes stream.",
       "hint": "Keep all three starting sounds before the long vowel."
-    }
-  },
-  {
-    "id": "AC9E2LY09-T-008",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY09",
-    "bank": "test",
-    "skill": "test_blend_stream_reason",
-    "question": "A student answers “storm”. Which feedback helps? Task: Blend these sounds: start of sun, start of top, start of red, long vowel in green, end of jam. Which word?",
-    "audio_prompt": "A student answers “storm”. Which feedback helps? Task: Blend these sounds: start of sun, start of top, start of red, long vowel in green, end of jam. Which word?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly09.svg#ac9e2ly09-t-008",
-      "alt_text": "Three-step Manipulating Sounds in Words organiser. Read: blend stream. Notice: Substitute phonemes. Correct the student's mix-up using the full task."
     },
-    "answers": [
-      {
-        "text": "Keep all three starting sounds before the long vowel.",
-        "is_correct": true
-      },
-      {
-        "text": "Keep “storm”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “steam” instead; it sounds clearer.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Keep all three starting sounds before the long vowel. Using all five cue sounds in order makes stream.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 4,
+    "quality_schema": "student-facing-v3"
   },
   {
-    "id": "AC9E2LY09-T-009",
+    "id": "AC9E2LY09-T-005",
     "subject": "english",
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY09",
     "bank": "test",
-    "skill": "test_segment_brush_apply",
+    "stage": "verify",
+    "skill": "test_segment_brush_direct",
     "question": "Which cue-word sequence shows the four spoken sounds in brush?",
     "audio_prompt": "Which cue-word sequence shows the four spoken sounds in brush?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly09.svg#ac9e2ly09-t-009",
-      "alt_text": "Three-step Manipulating Sounds in Words organiser. Read: segment brush. Notice: Connect sounds to words. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "start of bag, then the whole word rush",
-        "is_correct": false
-      },
-      {
         "text": "start of bag, start of red, middle of sun, start of shoe",
         "is_correct": true
+      },
+      {
+        "text": "start of bag, then the whole word rush",
+        "is_correct": false
       },
       {
         "text": "start of bag, start of red, middle of sun, start of sun, start of hat",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
       "summary": "Brush has four sounds, with its final sound matching the start of shoe.",
       "hint": "The sound at the start of shoe counts as one spoken sound."
-    }
-  },
-  {
-    "id": "AC9E2LY09-T-010",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY09",
-    "bank": "test",
-    "skill": "test_segment_brush_reason",
-    "question": "A student answers “start of bag, then the whole word rush”. Which feedback helps? Task: Which cue-word sequence shows the four spoken sounds in brush?",
-    "audio_prompt": "A student answers “start of bag, then the whole word rush”. Which feedback helps? Task: Which cue-word sequence shows the four spoken sounds in brush?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly09.svg#ac9e2ly09-t-010",
-      "alt_text": "Three-step Manipulating Sounds in Words organiser. Read: segment brush. Notice: Connect sounds to words. Correct the student's mix-up using the full task."
     },
-    "answers": [
-      {
-        "text": "Keep “start of bag, then the whole word rush”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “start of bag, start of red, middle of sun, start of sun, start of hat” instead; it sounds clearer.",
-        "is_correct": false
-      },
-      {
-        "text": "The sound at the start of shoe counts as one spoken sound.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The sound at the start of shoe counts as one spoken sound. Brush has four sounds, with its final sound matching the start of shoe.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 5,
+    "quality_schema": "student-facing-v3"
   },
   {
-    "id": "AC9E2LY09-T-011",
+    "id": "AC9E2LY09-T-006",
     "subject": "english",
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY09",
     "bank": "test",
-    "skill": "test_substitute_in_goat_apply",
+    "stage": "verify",
+    "skill": "test_substitute_in_goat_direct",
     "question": "Change the first sound in goat to the sound at the start of ball. Which word is made?",
     "audio_prompt": "Change the first sound in goat to the sound at the start of ball. Which word is made?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly09.svg#ac9e2ly09-t-011",
-      "alt_text": "Three-step Manipulating Sounds in Words organiser. Read: substitute in goat. Notice: Blend phonemes. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "boat",
-        "is_correct": true
-      },
-      {
         "text": "boot",
         "is_correct": false
+      },
+      {
+        "text": "boat",
+        "is_correct": true
       },
       {
         "text": "coat",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
       "summary": "Replacing the start of goat with the start of ball while keeping the rest makes boat.",
       "hint": "Hold the long vowel and final sound steady."
-    }
-  },
-  {
-    "id": "AC9E2LY09-T-012",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY09",
-    "bank": "test",
-    "skill": "test_substitute_in_goat_reason",
-    "question": "A student answers “coat”. Which feedback helps? Task: Change the first sound in goat to the sound at the start of ball. Which word is made?",
-    "audio_prompt": "A student answers “coat”. Which feedback helps? Task: Change the first sound in goat to the sound at the start of ball. Which word is made?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly09.svg#ac9e2ly09-t-012",
-      "alt_text": "Three-step Manipulating Sounds in Words organiser. Read: substitute in goat. Notice: Blend phonemes. Correct the student's mix-up using the full task."
     },
-    "answers": [
-      {
-        "text": "Keep “coat”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Hold the long vowel and final sound steady.",
-        "is_correct": true
-      },
-      {
-        "text": "Choose “boot” instead; it sounds clearer.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Hold the long vowel and final sound steady. Replacing the start of goat with the start of ball while keeping the rest makes boat.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 6,
+    "quality_schema": "student-facing-v3"
   },
   {
-    "id": "AC9E2LY09-T-013",
+    "id": "AC9E2LY09-T-007",
     "subject": "english",
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY09",
     "bank": "test",
-    "skill": "test_delete_from_plane_apply",
+    "stage": "verify",
+    "skill": "test_delete_from_plane_direct",
     "question": "Remove the first sound from plane. Which word remains?",
     "audio_prompt": "Remove the first sound from plane. Which word remains?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly09.svg#ac9e2ly09-t-013",
-      "alt_text": "Three-step Manipulating Sounds in Words organiser. Read: delete from plane. Notice: Segment complex words. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
@@ -1311,7 +1779,239 @@
     "explanation": {
       "summary": "Removing the first sound from plane leaves lane.",
       "hint": "After deleting the first sound, begin with the sound at the start of leaf."
-    }
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 7,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY09-T-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY09",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "test_final_substitution_direct",
+    "question": "Change the last sound in fish from the sound at the start of shoe to the sound at the start of top. What word is made?",
+    "audio_prompt": "Change the last sound in fish from the sound at the start of shoe to the sound at the start of top. What word is made?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "fit",
+        "is_correct": true
+      },
+      {
+        "text": "fin",
+        "is_correct": false
+      },
+      {
+        "text": "sit",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Keeping the start and middle of fish while changing its ending to the top cue makes fit.",
+      "hint": "Hold the first two sounds steady and change only the ending."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 8,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY09-T-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY09",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "test_delete_from_clap_test-reason",
+    "question": "Remove the first sound from clap. What word remains? Which reason best supports the correct choice?",
+    "audio_prompt": "Remove the first sound from clap. What word remains? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "Removing the first sound from clap leaves lap.",
+        "is_correct": true
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Removing the first sound from clap leaves lap.",
+      "hint": "After removing the first sound, blend from the sound at the start of leaf."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 9,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY09-T-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY09",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "test_delete_from_smile_test-reason",
+    "question": "Say smile, then remove its first sound. Which word remains? Which reason best supports the correct choice?",
+    "audio_prompt": "Say smile, then remove its first sound. Which word remains? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "Removing the first sound from smile leaves mile.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Removing the first sound from smile leaves mile.",
+      "hint": "After deleting the first sound, begin with the sound at the start of moon."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 10,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY09-T-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY09",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "test_substitute_digraph_test-reason",
+    "question": "Change the first sound in chop from the sound at the start of chair to the sound at the start of shoe. What word is made? Which reason best supports the correct choice?",
+    "audio_prompt": "Change the first sound in chop from the sound at the start of chair to the sound at the start of shoe. What word is made? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keeping the rest of chop while changing its first sound from the chair cue to the shoe cue makes shop.",
+        "is_correct": true
+      },
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Keeping the rest of chop while changing its first sound from the chair cue to the shoe cue makes shop.",
+      "hint": "Only the first sound changes; the middle vowel sound stays the same."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 11,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY09-T-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY09",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "test_blend_stream_test-reason",
+    "question": "Blend these sounds: start of sun, start of top, start of red, long vowel in green, end of jam. Which word? Which reason best supports the correct choice?",
+    "audio_prompt": "Blend these sounds: start of sun, start of top, start of red, long vowel in green, end of jam. Which word? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "Using all five cue sounds in order makes stream.",
+        "is_correct": true
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Using all five cue sounds in order makes stream.",
+      "hint": "Keep all three starting sounds before the long vowel."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 12,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY09-T-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY09",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "test_segment_brush_test-reason",
+    "question": "Which cue-word sequence shows the four spoken sounds in brush? Which reason best supports the correct choice?",
+    "audio_prompt": "Which cue-word sequence shows the four spoken sounds in brush? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "Brush has four sounds, with its final sound matching the start of shoe.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Brush has four sounds, with its final sound matching the start of shoe.",
+      "hint": "The sound at the start of shoe counts as one spoken sound."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 13,
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LY09-T-014",
@@ -1319,33 +2019,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY09",
     "bank": "test",
-    "skill": "test_delete_from_plane_reason",
-    "question": "A student answers “plan”. Which feedback helps? Task: Remove the first sound from plane. Which word remains?",
-    "audio_prompt": "A student answers “plan”. Which feedback helps? Task: Remove the first sound from plane. Which word remains?",
+    "stage": "apply",
+    "skill": "test_substitute_in_goat_test-reason",
+    "question": "Change the first sound in goat to the sound at the start of ball. Which word is made? Which reason best supports the correct choice?",
+    "audio_prompt": "Change the first sound in goat to the sound at the start of ball. Which word is made? Which reason best supports the correct choice?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly09.svg#ac9e2ly09-t-014",
-      "alt_text": "Three-step Manipulating Sounds in Words organiser. Read: delete from plane. Notice: Segment complex words. Correct the student's mix-up using the full task."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "After deleting the first sound, begin with the sound at the start of leaf.",
+        "text": "Replacing the start of goat with the start of ball while keeping the rest makes boat.",
         "is_correct": true
       },
       {
-        "text": "Keep “plan”; it uses a detail that sounds familiar.",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "Choose “pane” instead; it sounds clearer.",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "After deleting the first sound, begin with the sound at the start of leaf. Removing the first sound from plane leaves lane.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+      "summary": "Replacing the start of goat with the start of ball while keeping the rest makes boat.",
+      "hint": "Hold the long vowel and final sound steady."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 14,
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LY09-T-015",
@@ -1353,33 +2057,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY09",
     "bank": "test",
-    "skill": "test_final_substitution_apply",
-    "question": "Change the last sound in fish from the sound at the start of shoe to the sound at the start of top. What word is made?",
-    "audio_prompt": "Change the last sound in fish from the sound at the start of shoe to the sound at the start of top. What word is made?",
+    "stage": "apply",
+    "skill": "test_delete_from_plane_test-reason",
+    "question": "Remove the first sound from plane. Which word remains? Which reason best supports the correct choice?",
+    "audio_prompt": "Remove the first sound from plane. Which word remains? Which reason best supports the correct choice?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly09.svg#ac9e2ly09-t-015",
-      "alt_text": "Three-step Manipulating Sounds in Words organiser. Read: final substitution. Notice: Delete phonemes. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "fin",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "fit",
+        "text": "Removing the first sound from plane leaves lane.",
         "is_correct": true
       },
       {
-        "text": "sit",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Keeping the start and middle of fish while changing its ending to the top cue makes fit.",
-      "hint": "Hold the first two sounds steady and change only the ending."
-    }
+      "summary": "Removing the first sound from plane leaves lane.",
+      "hint": "After deleting the first sound, begin with the sound at the start of leaf."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 15,
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LY09-T-016",
@@ -1387,32 +2095,36 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY09",
     "bank": "test",
-    "skill": "test_final_substitution_reason",
-    "question": "A student answers “sit”. Which feedback helps? Task: Change the last sound in fish from the sound at the start of shoe to the sound at the start of top. What word is made?",
-    "audio_prompt": "A student answers “sit”. Which feedback helps? Task: Change the last sound in fish from the sound at the start of shoe to the sound at the start of top. What word is made?",
+    "stage": "apply",
+    "skill": "test_final_substitution_test-reason",
+    "question": "Change the last sound in fish from the sound at the start of shoe to the sound at the start of top. What word is made? Which reason best supports the correct choice?",
+    "audio_prompt": "Change the last sound in fish from the sound at the start of shoe to the sound at the start of top. What word is made? Which reason best supports the correct choice?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly09.svg#ac9e2ly09-t-016",
-      "alt_text": "Three-step Manipulating Sounds in Words organiser. Read: final substitution. Notice: Delete phonemes. Correct the student's mix-up using the full task."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Keep “sit”; it uses a detail that sounds familiar.",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "Choose “fin” instead; it sounds clearer.",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       },
       {
-        "text": "Hold the first two sounds steady and change only the ending.",
+        "text": "Keeping the start and middle of fish while changing its ending to the top cue makes fit.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Hold the first two sounds steady and change only the ending. Keeping the start and middle of fish while changing its ending to the top cue makes fit.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+      "summary": "Keeping the start and middle of fish while changing its ending to the top cue makes fit.",
+      "hint": "Hold the first two sounds steady and change only the ending."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 16,
+    "quality_schema": "student-facing-v3"
   }
 ]
