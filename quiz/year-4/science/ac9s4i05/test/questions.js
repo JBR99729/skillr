@@ -7,27 +7,30 @@ window.skillrTestQuestions = [
     "skill": "evaluating investigations and drawing conclusions",
     "printable": true,
     "type": "single",
-    "question": "A museum activity card says, “result or pattern identified from evidence”. Which scientific term belongs on the card?",
-    "audioPrompt": "A museum activity card says, “result or pattern identified from evidence”. Which scientific term belongs on the card?",
-    "visual": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “result or pattern identified from evidence”. Which scientific term belongs on the card?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “result or pattern identified from evidence”. Which scientific term belongs on the card?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-001\"></use></svg>",
+    "question": "Which conclusion best uses evidence?",
+    "audioPrompt": "Which conclusion best uses evidence?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-001",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “result or pattern identified from evidence”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "finding",
-      "fair test",
-      "variation"
+      "The uncovered cup lost",
+      "The lid looked scientific",
+      "The covered cup cooled less, dropping 9°C compared with 18°C for the uncovered cup",
+      "The covered cup was nice"
     ],
-    "correct": 0,
-    "explanation": "finding is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "correct": 2,
+    "explanation": "The conclusion cites relevant values.\nHint: Use data.",
     "structuredExplanation": {
-      "summary": "finding is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "The conclusion cites relevant values.",
+      "hint": "Use data."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i05-t-002",
@@ -36,27 +39,30 @@ window.skillrTestQuestions = [
     "skill": "evaluating investigations and drawing conclusions",
     "printable": true,
     "type": "single",
-    "question": "A museum activity card says, “comparison controlling relevant variables”. Which scientific term belongs on the card?",
-    "audioPrompt": "A museum activity card says, “comparison controlling relevant variables”. Which scientific term belongs on the card?",
-    "visual": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “comparison controlling relevant variables”. Which scientific term belongs on the card?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “comparison controlling relevant variables”. Which scientific term belongs on the card?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-002\"></use></svg>",
+    "question": "A group used a different starting temperature from everyone else. What should happen before comparing findings?",
+    "audioPrompt": "A group used a different starting temperature from everyone else. What should happen before comparing findings?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-002",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “comparison controlling relevant variables”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "variation",
-      "fair test",
-      "conclusion"
+      "Ignore starting temperature",
+      "Check whether the method difference affected the results",
+      "Combine results immediately",
+      "Delete other groups’ results"
     ],
     "correct": 1,
-    "explanation": "fair test is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "explanation": "Different starting conditions can affect comparability.\nHint: Method check.",
     "structuredExplanation": {
-      "summary": "fair test is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Different starting conditions can affect comparability.",
+      "hint": "Method check."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i05-t-003",
@@ -65,27 +71,30 @@ window.skillrTestQuestions = [
     "skill": "evaluating investigations and drawing conclusions",
     "printable": true,
     "type": "single",
-    "question": "A museum activity card says, “differences arising across observations or trials”. Which scientific term belongs on the card?",
-    "audioPrompt": "A museum activity card says, “differences arising across observations or trials”. Which scientific term belongs on the card?",
-    "visual": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “differences arising across observations or trials”. Which scientific term belongs on the card?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “differences arising across observations or trials”. Which scientific term belongs on the card?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-003\"></use></svg>",
+    "question": "Which further question is focused?",
+    "audioPrompt": "Which further question is focused?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-003",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “differences arising across observations or trials”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "conclusion",
-      "further question",
-      "variation"
+      "How does surface type affect sliding distance when car and ramp height stay the same?",
+      "What is the best toy?",
+      "Can cars do everything?",
+      "Why is motion interesting?"
     ],
-    "correct": 2,
-    "explanation": "variation is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "correct": 0,
+    "explanation": "The question names one relationship and controls.\nHint: Testable next step.",
     "structuredExplanation": {
-      "summary": "variation is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "The question names one relationship and controls.",
+      "hint": "Testable next step."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i05-t-004",
@@ -94,27 +103,30 @@ window.skillrTestQuestions = [
     "skill": "evaluating investigations and drawing conclusions",
     "printable": true,
     "type": "single",
-    "question": "A museum activity card says, “statement answering the question using evidence”. Which scientific term belongs on the card?",
-    "audioPrompt": "A museum activity card says, “statement answering the question using evidence”. Which scientific term belongs on the card?",
-    "visual": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “statement answering the question using evidence”. Which scientific term belongs on the card?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “statement answering the question using evidence”. Which scientific term belongs on the card?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-004\"></use></svg>",
+    "question": "Which statement about variation is accurate?",
+    "audioPrompt": "Which statement about variation is accurate?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-004",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “statement answering the question using evidence”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "conclusion",
-      "further question",
-      "finding"
+      "All variation means cheating",
+      "Variation should never be recorded",
+      "Variation proves there was no pattern",
+      "Small differences can occur even when the method is the same"
     ],
-    "correct": 0,
-    "explanation": "conclusion is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "correct": 3,
+    "explanation": "Repeated measurements often vary slightly.\nHint: Normal differences.",
     "structuredExplanation": {
-      "summary": "conclusion is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Repeated measurements often vary slightly.",
+      "hint": "Normal differences."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i05-t-005",
@@ -123,27 +135,30 @@ window.skillrTestQuestions = [
     "skill": "evaluating investigations and drawing conclusions",
     "printable": true,
     "type": "single",
-    "question": "A museum activity card says, “new testable question arising from findings or limitations”. Which scientific term belongs on the card?",
-    "audioPrompt": "A museum activity card says, “new testable question arising from findings or limitations”. Which scientific term belongs on the card?",
-    "visual": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “new testable question arising from findings or limitations”. Which scientific term belongs on the card?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “new testable question arising from findings or limitations”. Which scientific term belongs on the card?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-005\"></use></svg>",
+    "question": "Which finding should be checked for method error?",
+    "audioPrompt": "Which finding should be checked for method error?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-005",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “new testable question arising from findings or limitations”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "finding",
-      "further question",
-      "fair test"
+      "Three matching starting points",
+      "All trials using the same car",
+      "A 150 cm result when other same-condition trials were near 60 cm and notes say it was pushed",
+      "Values of 61 cm, 59 cm and 62 cm"
     ],
-    "correct": 1,
-    "explanation": "further question is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "correct": 2,
+    "explanation": "The much larger pushed trial has a method difference.\nHint: Outlier plus method note.",
     "structuredExplanation": {
-      "summary": "further question is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "The much larger pushed trial has a method difference.",
+      "hint": "Outlier plus method note."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i05-t-006",
@@ -152,27 +167,30 @@ window.skillrTestQuestions = [
     "skill": "evaluating investigations and drawing conclusions",
     "printable": true,
     "type": "single",
-    "question": "A different class records this conclusion: “Different findings mean one group cheated”. Which feedback would improve it most?",
-    "audioPrompt": "A different class records this conclusion: “Different findings mean one group cheated”. Which feedback would improve it most?",
-    "visual": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Different findings mean one group cheated”. Which feedback would improve it most?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Different findings mean one group cheated”. Which feedback would improve it most?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-006\"></use></svg>",
+    "question": "Which conclusion overclaims?",
+    "audioPrompt": "Which conclusion overclaims?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-006",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Different findings mean one group cheated”. Which feedback would improve it most?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Different findings mean one group cheated",
-      "Fairness judged by equal results",
-      "Check variation, measurement and method before judging."
+      "More distances should be tested",
+      "This magnet is strongest in every classroom and every test",
+      "This magnet lifted the most clips in our trials",
+      "The evidence suggests this magnet was stronger here"
     ],
-    "correct": 2,
-    "explanation": "Check variation, measurement and method before judging.\nHint: Choose the response that uses evidence and corrects the mistaken relationship.",
+    "correct": 1,
+    "explanation": "The first claim goes beyond the evidence.\nHint: Too broad.",
     "structuredExplanation": {
-      "summary": "Check variation, measurement and method before judging.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "The first claim goes beyond the evidence.",
+      "hint": "Too broad."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i05-t-007",
@@ -181,27 +199,30 @@ window.skillrTestQuestions = [
     "skill": "evaluating investigations and drawing conclusions",
     "printable": true,
     "type": "single",
-    "question": "A different class records this conclusion: “Fairness judged by equal results”. Which feedback would improve it most?",
-    "audioPrompt": "A different class records this conclusion: “Fairness judged by equal results”. Which feedback would improve it most?",
-    "visual": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Fairness judged by equal results”. Which feedback would improve it most?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Fairness judged by equal results”. Which feedback would improve it most?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-007\"></use></svg>",
+    "question": "Why compare findings with other groups?",
+    "audioPrompt": "Why compare findings with other groups?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-007",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Fairness judged by equal results”. Which feedback would improve it most?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Fairness concerns method and controls.",
-      "Fairness judged by equal results",
-      "Conclusion repeats the procedure"
+      "To see whether patterns are consistent and whether methods differed",
+      "To copy the biggest number",
+      "To avoid writing a conclusion",
+      "To choose the prettiest table"
     ],
     "correct": 0,
-    "explanation": "Fairness concerns method and controls.\nHint: Choose the response that uses evidence and corrects the mistaken relationship.",
+    "explanation": "Group comparisons can reveal consistency and method issues.\nHint: Check pattern and method.",
     "structuredExplanation": {
-      "summary": "Fairness concerns method and controls.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Group comparisons can reveal consistency and method issues.",
+      "hint": "Check pattern and method."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i05-t-008",
@@ -210,27 +231,30 @@ window.skillrTestQuestions = [
     "skill": "evaluating investigations and drawing conclusions",
     "printable": true,
     "type": "single",
-    "question": "A different class records this conclusion: “Conclusion repeats the procedure”. Which feedback would improve it most?",
-    "audioPrompt": "A different class records this conclusion: “Conclusion repeats the procedure”. Which feedback would improve it most?",
-    "visual": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Conclusion repeats the procedure”. Which feedback would improve it most?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Conclusion repeats the procedure”. Which feedback would improve it most?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-008\"></use></svg>",
+    "question": "Which sentence is only a procedure, not a conclusion?",
+    "audioPrompt": "Which sentence is only a procedure, not a conclusion?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-008",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Conclusion repeats the procedure”. Which feedback would improve it most?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Conclusion repeats the procedure",
-      "It should answer the question using evidence.",
-      "Further question changes everything"
+      "The car travelled farther on tile than carpet",
+      "Tile had a mean of 120 cm and carpet 45 cm",
+      "The evidence suggests tile had less friction",
+      "We placed the cars at the top of the ramp"
     ],
-    "correct": 1,
-    "explanation": "It should answer the question using evidence.\nHint: Choose the response that uses evidence and corrects the mistaken relationship.",
+    "correct": 3,
+    "explanation": "The procedure says what was done, not what the evidence means.\nHint: Method step.",
     "structuredExplanation": {
-      "summary": "It should answer the question using evidence.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "The procedure says what was done, not what the evidence means.",
+      "hint": "Method step."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i05-t-009",
@@ -239,27 +263,30 @@ window.skillrTestQuestions = [
     "skill": "evaluating investigations and drawing conclusions",
     "printable": true,
     "type": "single",
-    "question": "A different class records this conclusion: “Further question changes everything”. Which feedback would improve it most?",
-    "audioPrompt": "A different class records this conclusion: “Further question changes everything”. Which feedback would improve it most?",
-    "visual": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Further question changes everything”. Which feedback would improve it most?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Further question changes everything”. Which feedback would improve it most?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-009\"></use></svg>",
+    "question": "Which evaluation question checks fairness?",
+    "audioPrompt": "Which evaluation question checks fairness?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-009",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Further question changes everything”. Which feedback would improve it most?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Further question changes everything",
-      "Different findings mean one group cheated",
-      "A useful follow-up isolates a factor suggested by the findings."
+      "Did everyone like the result?",
+      "Was the biggest value chosen?",
+      "Were the controlled variables kept the same?",
+      "Was the title colourful?"
     ],
     "correct": 2,
-    "explanation": "A useful follow-up isolates a factor suggested by the findings.\nHint: Choose the response that uses evidence and corrects the mistaken relationship.",
+    "explanation": "Fairness depends on controlling relevant variables.\nHint: Control check.",
     "structuredExplanation": {
-      "summary": "A useful follow-up isolates a factor suggested by the findings.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Fairness depends on controlling relevant variables.",
+      "hint": "Control check."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i05-t-010",
@@ -268,27 +295,30 @@ window.skillrTestQuestions = [
     "skill": "evaluating investigations and drawing conclusions",
     "printable": true,
     "type": "single",
-    "question": "A new field-note example asks: Which difference most threatens a fair comparison?",
-    "audioPrompt": "A new field-note example asks: Which difference most threatens a fair comparison?",
-    "visual": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A new field-note example asks: Which difference most threatens a fair comparison?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A new field-note example asks: Which difference most threatens a fair comparison?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-010\"></use></svg>",
+    "question": "A test has one trial only. Which improvement is most useful?",
+    "audioPrompt": "A test has one trial only. Which improvement is most useful?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-010",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A new field-note example asks: Which difference most threatens a fair comparison?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Groups release the object from different points",
-      "Groups record the same unit",
-      "Groups repeat three trials"
+      "Use only opinions",
+      "Repeat the trial several times under the same conditions",
+      "Make the graph bigger only",
+      "Change the question after results"
     ],
-    "correct": 0,
-    "explanation": "Groups release the object from different points\nHint: Use the stated observation, measurement or relationship—not preference—to decide.",
+    "correct": 1,
+    "explanation": "Repeats strengthen reliability.\nHint: More evidence.",
     "structuredExplanation": {
-      "summary": "Groups release the object from different points",
-      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
+      "summary": "Repeats strengthen reliability.",
+      "hint": "More evidence."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i05-t-011",
@@ -297,27 +327,30 @@ window.skillrTestQuestions = [
     "skill": "evaluating investigations and drawing conclusions",
     "printable": true,
     "type": "single",
-    "question": "A new design task asks: Which statement is most scientifically cautious?",
-    "audioPrompt": "A new design task asks: Which statement is most scientifically cautious?",
-    "visual": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A new design task asks: Which statement is most scientifically cautious?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A new design task asks: Which statement is most scientifically cautious?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-011\"></use></svg>",
+    "question": "Which further question follows from “rougher surfaces slowed the car”?",
+    "audioPrompt": "Which further question follows from “rougher surfaces slowed the car”?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-011",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A new design task asks: Which statement is most scientifically cautious?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The rough surface always stops every object",
-      "In these trials, the rough surface produced shorter distances",
-      "One trial proves the explanation"
+      "How does adding sandpaper to the ramp affect distance travelled?",
+      "Which student likes ramps most?",
+      "Can a car become a magnet?",
+      "Why are all results identical?"
     ],
-    "correct": 1,
-    "explanation": "In these trials, the rough surface produced shorter distances\nHint: Use the stated observation, measurement or relationship—not preference—to decide.",
+    "correct": 0,
+    "explanation": "The follow-up investigates a related surface factor.\nHint: Next surface test.",
     "structuredExplanation": {
-      "summary": "In these trials, the rough surface produced shorter distances",
-      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
+      "summary": "The follow-up investigates a related surface factor.",
+      "hint": "Next surface test."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i05-t-012",
@@ -326,27 +359,30 @@ window.skillrTestQuestions = [
     "skill": "evaluating investigations and drawing conclusions",
     "printable": true,
     "type": "single",
-    "question": "A new group wants to adapt “Method detective”. Which method keeps the investigation focused and reviewable?",
-    "audioPrompt": "A new group wants to adapt “Method detective”. Which method keeps the investigation focused and reviewable?",
-    "visual": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Method detective”. Which method keeps the investigation focused and reviewable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Method detective”. Which method keeps the investigation focused and reviewable?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-012\"></use></svg>",
+    "question": "A class gets different results from two groups. Which first response is best?",
+    "audioPrompt": "A class gets different results from two groups. Which first response is best?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-012",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Method detective”. Which method keeps the investigation focused and reviewable?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Begin method detective, change two important conditions together, then compare only the preferred observation.",
-      "Carry out method detective once, omit the measurements and report the original prediction as the result.",
-      "Compare group methods and identify which differences could explain inconsistent findings."
+      "Say one group cheated",
+      "Use the result that matches the prediction",
+      "Throw away all data",
+      "Compare methods and measurements before deciding why"
     ],
-    "correct": 2,
-    "explanation": "Compare group methods and identify which differences could explain inconsistent findings.\nHint: Look for a plan that observes or measures evidence and keeps the comparison clear.",
+    "correct": 3,
+    "explanation": "Differences should be evaluated before making judgments.\nHint: Check first.",
     "structuredExplanation": {
-      "summary": "Compare group methods and identify which differences could explain inconsistent findings.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+      "summary": "Differences should be evaluated before making judgments.",
+      "hint": "Check first."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i05-t-013",
@@ -355,27 +391,30 @@ window.skillrTestQuestions = [
     "skill": "evaluating investigations and drawing conclusions",
     "printable": true,
     "type": "single",
-    "question": "A new group wants to adapt “Conclusion ladder”. Which method keeps the investigation focused and reviewable?",
-    "audioPrompt": "A new group wants to adapt “Conclusion ladder”. Which method keeps the investigation focused and reviewable?",
-    "visual": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Conclusion ladder”. Which method keeps the investigation focused and reviewable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Conclusion ladder”. Which method keeps the investigation focused and reviewable?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-013\"></use></svg>",
+    "question": "Which conclusion is too vague?",
+    "audioPrompt": "Which conclusion is too vague?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-013",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Conclusion ladder”. Which method keeps the investigation focused and reviewable?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Rank conclusion statements from unsupported to well-supported and revise overconfident wording.",
-      "Begin conclusion ladder, change two important conditions together, then compare only the preferred observation.",
-      "Carry out conclusion ladder once, omit the measurements and report the original prediction as the result."
+      "In these trials, shade reduced soil temperature",
+      "The data supports the shade prediction",
+      "It changed",
+      "The shaded soil stayed 5°C cooler than unshaded soil"
     ],
-    "correct": 0,
-    "explanation": "Rank conclusion statements from unsupported to well-supported and revise overconfident wording.\nHint: Look for a plan that observes or measures evidence and keeps the comparison clear.",
+    "correct": 2,
+    "explanation": "“It changed” does not answer the question with evidence.\nHint: No detail.",
     "structuredExplanation": {
-      "summary": "Rank conclusion statements from unsupported to well-supported and revise overconfident wording.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+      "summary": "“It changed” does not answer the question with evidence.",
+      "hint": "No detail."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i05-t-014",
@@ -384,27 +423,30 @@ window.skillrTestQuestions = [
     "skill": "evaluating investigations and drawing conclusions",
     "printable": true,
     "type": "single",
-    "question": "A new group wants to adapt “Next-question workshop”. Which method keeps the investigation focused and reviewable?",
-    "audioPrompt": "A new group wants to adapt “Next-question workshop”. Which method keeps the investigation focused and reviewable?",
-    "visual": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Next-question workshop”. Which method keeps the investigation focused and reviewable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Next-question workshop”. Which method keeps the investigation focused and reviewable?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-014\"></use></svg>",
+    "question": "Why should a conclusion mention limitations?",
+    "audioPrompt": "Why should a conclusion mention limitations?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-014",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Next-question workshop”. Which method keeps the investigation focused and reviewable?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Begin next-question workshop, change two important conditions together, then compare only the preferred observation.",
-      "Turn a limitation or unexpected pattern into a focused follow-up question.",
-      "Carry out next-question workshop once, omit the measurements and report the original prediction as the result."
+      "It proves the result is false",
+      "It shows how far the evidence can reasonably apply",
+      "It makes all data wrong",
+      "It removes the need for evidence"
     ],
     "correct": 1,
-    "explanation": "Turn a limitation or unexpected pattern into a focused follow-up question.\nHint: Look for a plan that observes or measures evidence and keeps the comparison clear.",
+    "explanation": "Limitations help readers judge confidence and scope.\nHint: Boundary.",
     "structuredExplanation": {
-      "summary": "Turn a limitation or unexpected pattern into a focused follow-up question.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+      "summary": "Limitations help readers judge confidence and scope.",
+      "hint": "Boundary."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i05-t-015",
@@ -413,27 +455,30 @@ window.skillrTestQuestions = [
     "skill": "evaluating investigations and drawing conclusions",
     "printable": true,
     "type": "single",
-    "question": "In a new assessment, which response would best demonstrate “Compare data sets”?",
-    "audioPrompt": "In a new assessment, which response would best demonstrate “Compare data sets”?",
-    "visual": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: In a new assessment, which response would best demonstrate “Compare data sets”?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: In a new assessment, which response would best demonstrate “Compare data sets”?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-015\"></use></svg>",
+    "question": "Which result comparison is most useful?",
+    "audioPrompt": "Which result comparison is most useful?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-015",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: In a new assessment, which response would best demonstrate “Compare data sets”?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "State a preferred answer without using the observations or measurements.",
-      "Copy the task title but do not interpret, compare or explain any evidence.",
-      "Use a relevant observation or measurement, demonstrate “Compare data sets”, and explain the result."
+      "Mean distance was 95 cm on smooth card and 41 cm on fabric",
+      "Smooth card was fun",
+      "Fabric was the last surface tested",
+      "The graph had green bars"
     ],
-    "correct": 2,
-    "explanation": "Use a relevant observation or measurement, demonstrate “Compare data sets”, and explain the result.\nHint: Choose the action that demonstrates the named skill with observable evidence.",
+    "correct": 0,
+    "explanation": "The useful comparison cites relevant measurements.\nHint: Compare values.",
     "structuredExplanation": {
-      "summary": "Use a relevant observation or measurement, demonstrate “Compare data sets”, and explain the result.",
-      "hint": "Choose the action that demonstrates the named skill with observable evidence."
+      "summary": "The useful comparison cites relevant measurements.",
+      "hint": "Compare values."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i05-t-016",
@@ -442,28 +487,29 @@ window.skillrTestQuestions = [
     "skill": "evaluating investigations and drawing conclusions",
     "printable": true,
     "type": "single",
-    "question": "In a new assessment, which response would best demonstrate “Evaluate fair methods”?",
-    "audioPrompt": "In a new assessment, which response would best demonstrate “Evaluate fair methods”?",
-    "visual": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: In a new assessment, which response would best demonstrate “Evaluate fair methods”?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: In a new assessment, which response would best demonstrate “Evaluate fair methods”?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-016\"></use></svg>",
+    "question": "An unexpected result appears in one trial but repeats do not show it. What is best?",
+    "audioPrompt": "An unexpected result appears in one trial but repeats do not show it. What is best?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-016",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: In a new assessment, which response would best demonstrate “Evaluate fair methods”?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use a relevant observation or measurement, demonstrate “Evaluate fair methods”, and explain the result.",
-      "State a preferred answer without using the observations or measurements.",
-      "Copy the task title but do not interpret, compare or explain any evidence."
+      "Hide it completely",
+      "Use it as the only evidence",
+      "Change all repeats to match",
+      "Report it and explain it may be an outlier or needs further checking"
     ],
-    "correct": 0,
-    "explanation": "Use a relevant observation or measurement, demonstrate “Evaluate fair methods”, and explain the result.\nHint: Choose the action that demonstrates the named skill with observable evidence.",
+    "correct": 3,
+    "explanation": "Unexpected results should be reported and evaluated honestly.\nHint: Do not hide data.",
     "structuredExplanation": {
-      "summary": "Use a relevant observation or measurement, demonstrate “Evaluate fair methods”, and explain the result.",
-      "hint": "Choose the action that demonstrates the named skill with observable evidence."
+      "summary": "Unexpected results should be reported and evaluated honestly.",
+      "hint": "Do not hide data."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v6"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

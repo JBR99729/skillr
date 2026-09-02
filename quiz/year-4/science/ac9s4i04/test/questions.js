@@ -7,27 +7,30 @@ window.skillrTestQuestions = [
     "skill": "tables column graphs and scientific models",
     "printable": true,
     "type": "single",
-    "question": "A museum activity card says, “way of showing data, information or a system”. Which scientific term belongs on the card?",
-    "audioPrompt": "A museum activity card says, “way of showing data, information or a system”. Which scientific term belongs on the card?",
-    "visual": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “way of showing data, information or a system”. Which scientific term belongs on the card?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “way of showing data, information or a system”. Which scientific term belongs on the card?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-001\"></use></svg>",
+    "question": "Which representation best keeps exact mass readings for five rock samples?",
+    "audioPrompt": "Which representation best keeps exact mass readings for five rock samples?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-001",
-      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “way of showing data, information or a system”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "column graph",
-      "scale",
-      "representation"
+      "A food chain",
+      "A single arrow",
+      "A labelled table",
+      "A poster border"
     ],
     "correct": 2,
-    "explanation": "representation is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "explanation": "Tables organise exact recorded values.\nHint: Exact data.",
     "structuredExplanation": {
-      "summary": "representation is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Tables organise exact recorded values.",
+      "hint": "Exact data."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i04-t-002",
@@ -36,27 +39,30 @@ window.skillrTestQuestions = [
     "skill": "tables column graphs and scientific models",
     "printable": true,
     "type": "single",
-    "question": "A museum activity card says, “graph using column height to represent values”. Which scientific term belongs on the card?",
-    "audioPrompt": "A museum activity card says, “graph using column height to represent values”. Which scientific term belongs on the card?",
-    "visual": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “graph using column height to represent values”. Which scientific term belongs on the card?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “graph using column height to represent values”. Which scientific term belongs on the card?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-002\"></use></svg>",
+    "question": "A column graph has no units on the vertical axis. What is missing?",
+    "audioPrompt": "A column graph has no units on the vertical axis. What is missing?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-002",
-      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “graph using column height to represent values”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "column graph",
-      "scale",
-      "model"
+      "A different category name only",
+      "The measurement unit, such as cm or mL",
+      "A second title in glitter",
+      "The student’s opinion"
     ],
-    "correct": 0,
-    "explanation": "column graph is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "correct": 1,
+    "explanation": "Units tell the reader what quantity is represented.\nHint: Axis unit.",
     "structuredExplanation": {
-      "summary": "column graph is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Units tell the reader what quantity is represented.",
+      "hint": "Axis unit."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i04-t-003",
@@ -65,27 +71,30 @@ window.skillrTestQuestions = [
     "skill": "tables column graphs and scientific models",
     "printable": true,
     "type": "single",
-    "question": "A museum activity card says, “relationship between graph intervals and values”. Which scientific term belongs on the card?",
-    "audioPrompt": "A museum activity card says, “relationship between graph intervals and values”. Which scientific term belongs on the card?",
-    "visual": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “relationship between graph intervals and values”. Which scientific term belongs on the card?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “relationship between graph intervals and values”. Which scientific term belongs on the card?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-003\"></use></svg>",
+    "question": "Which statement about models is correct?",
+    "audioPrompt": "Which statement about models is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-003",
-      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “relationship between graph intervals and values”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "model",
-      "scale",
-      "pattern"
+      "Models show selected parts or relationships and leave out some details",
+      "Models are always perfect copies",
+      "Models cannot be used in science",
+      "Models must include every real object"
     ],
-    "correct": 1,
-    "explanation": "scale is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "correct": 0,
+    "explanation": "Models are useful simplifications with limitations.\nHint: Simplified representation.",
     "structuredExplanation": {
-      "summary": "scale is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Models are useful simplifications with limitations.",
+      "hint": "Simplified representation."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i04-t-004",
@@ -94,27 +103,30 @@ window.skillrTestQuestions = [
     "skill": "tables column graphs and scientific models",
     "printable": true,
     "type": "single",
-    "question": "A museum activity card says, “simplified representation used to explain or predict”. Which scientific term belongs on the card?",
-    "audioPrompt": "A museum activity card says, “simplified representation used to explain or predict”. Which scientific term belongs on the card?",
-    "visual": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “simplified representation used to explain or predict”. Which scientific term belongs on the card?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “simplified representation used to explain or predict”. Which scientific term belongs on the card?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-004\"></use></svg>",
+    "question": "A table records tile 150 cm, carpet 70 cm and grass 40 cm. Which graph pattern should appear?",
+    "audioPrompt": "A table records tile 150 cm, carpet 70 cm and grass 40 cm. Which graph pattern should appear?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-004",
-      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “simplified representation used to explain or predict”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "pattern",
-      "representation",
-      "model"
+      "All bars the same height",
+      "Grass highest because it is outside",
+      "No bars because distance cannot be graphed",
+      "Tile highest, carpet middle and grass lowest"
     ],
-    "correct": 2,
-    "explanation": "model is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "correct": 3,
+    "explanation": "Column heights should match the recorded distances.\nHint: Match values.",
     "structuredExplanation": {
-      "summary": "model is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Column heights should match the recorded distances.",
+      "hint": "Match values."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i04-t-005",
@@ -123,27 +135,30 @@ window.skillrTestQuestions = [
     "skill": "tables column graphs and scientific models",
     "printable": true,
     "type": "single",
-    "question": "A museum activity card says, “regularity or relationship identified in evidence”. Which scientific term belongs on the card?",
-    "audioPrompt": "A museum activity card says, “regularity or relationship identified in evidence”. Which scientific term belongs on the card?",
-    "visual": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “regularity or relationship identified in evidence”. Which scientific term belongs on the card?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “regularity or relationship identified in evidence”. Which scientific term belongs on the card?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-005\"></use></svg>",
+    "question": "Which graph scale is best?",
+    "audioPrompt": "Which graph scale is best?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-005",
-      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “regularity or relationship identified in evidence”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "pattern",
-      "representation",
-      "column graph"
+      "No numbers on the axis",
+      "A changing scale for each bar",
+      "Equal steps such as 0, 20, 40, 60, 80",
+      "0, 5, 50, 51, 200 with no reason"
     ],
-    "correct": 0,
-    "explanation": "pattern is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "correct": 2,
+    "explanation": "Equal intervals make the graph easier and fairer to read.\nHint: Consistent intervals.",
     "structuredExplanation": {
-      "summary": "pattern is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Equal intervals make the graph easier and fairer to read.",
+      "hint": "Consistent intervals."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i04-t-006",
@@ -152,27 +167,30 @@ window.skillrTestQuestions = [
     "skill": "tables column graphs and scientific models",
     "printable": true,
     "type": "single",
-    "question": "A different class records this conclusion: “Graph values differ from table”. Which feedback would improve it most?",
-    "audioPrompt": "A different class records this conclusion: “Graph values differ from table”. Which feedback would improve it most?",
-    "visual": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Graph values differ from table”. Which feedback would improve it most?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Graph values differ from table”. Which feedback would improve it most?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-006\"></use></svg>",
+    "question": "Which model would best show magnetic attraction direction?",
+    "audioPrompt": "Which model would best show magnetic attraction direction?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-006",
-      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Graph values differ from table”. Which feedback would improve it most?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Graph values differ from table",
-      "Audit every plotted value against the source.",
-      "Axis intervals change partway"
+      "A paragraph saying magnet",
+      "A labelled diagram with arrows between magnet and paperclip",
+      "A table of lunch orders",
+      "A column graph without labels"
     ],
     "correct": 1,
-    "explanation": "Audit every plotted value against the source.\nHint: Choose the response that uses evidence and corrects the mistaken relationship.",
+    "explanation": "Arrows can show direction of force in a model.\nHint: Direction model.",
     "structuredExplanation": {
-      "summary": "Audit every plotted value against the source.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Arrows can show direction of force in a model.",
+      "hint": "Direction model."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i04-t-007",
@@ -181,27 +199,30 @@ window.skillrTestQuestions = [
     "skill": "tables column graphs and scientific models",
     "printable": true,
     "type": "single",
-    "question": "A different class records this conclusion: “Axis intervals change partway”. Which feedback would improve it most?",
-    "audioPrompt": "A different class records this conclusion: “Axis intervals change partway”. Which feedback would improve it most?",
-    "visual": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Axis intervals change partway”. Which feedback would improve it most?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Axis intervals change partway”. Which feedback would improve it most?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-007\"></use></svg>",
+    "question": "Which pattern statement is strongest?",
+    "audioPrompt": "Which pattern statement is strongest?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-007",
-      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Axis intervals change partway”. Which feedback would improve it most?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Axis intervals change partway",
-      "Model treated as exact reality",
-      "Use a consistent scale unless a break is clearly justified."
+      "Brand A absorbed 35 mL and Brand B absorbed 20 mL, so A absorbed more in this test",
+      "Brand A is just better",
+      "Brand B looked dry",
+      "The table is neat"
     ],
-    "correct": 2,
-    "explanation": "Use a consistent scale unless a break is clearly justified.\nHint: Choose the response that uses evidence and corrects the mistaken relationship.",
+    "correct": 0,
+    "explanation": "The statement uses values and stays within the investigation.\nHint: Evidence and pattern.",
     "structuredExplanation": {
-      "summary": "Use a consistent scale unless a break is clearly justified.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "The statement uses values and stays within the investigation.",
+      "hint": "Evidence and pattern."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i04-t-008",
@@ -210,27 +231,30 @@ window.skillrTestQuestions = [
     "skill": "tables column graphs and scientific models",
     "printable": true,
     "type": "single",
-    "question": "A different class records this conclusion: “Model treated as exact reality”. Which feedback would improve it most?",
-    "audioPrompt": "A different class records this conclusion: “Model treated as exact reality”. Which feedback would improve it most?",
-    "visual": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Model treated as exact reality”. Which feedback would improve it most?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Model treated as exact reality”. Which feedback would improve it most?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-008\"></use></svg>",
+    "question": "Why should data in a graph be checked against the original table?",
+    "audioPrompt": "Why should data in a graph be checked against the original table?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-008",
-      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Model treated as exact reality”. Which feedback would improve it most?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "State simplifications and limits.",
-      "Model treated as exact reality",
-      "Pattern described without values"
+      "Graphs cannot contain errors",
+      "Tables are never useful",
+      "Checking removes the need for labels",
+      "Copying or plotting errors can change the message"
     ],
-    "correct": 0,
-    "explanation": "State simplifications and limits.\nHint: Choose the response that uses evidence and corrects the mistaken relationship.",
+    "correct": 3,
+    "explanation": "Graphs should accurately represent the source data.\nHint: Audit graph.",
     "structuredExplanation": {
-      "summary": "State simplifications and limits.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Graphs should accurately represent the source data.",
+      "hint": "Audit graph."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i04-t-009",
@@ -239,27 +263,30 @@ window.skillrTestQuestions = [
     "skill": "tables column graphs and scientific models",
     "printable": true,
     "type": "single",
-    "question": "A different class records this conclusion: “Pattern described without values”. Which feedback would improve it most?",
-    "audioPrompt": "A different class records this conclusion: “Pattern described without values”. Which feedback would improve it most?",
-    "visual": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Pattern described without values”. Which feedback would improve it most?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Pattern described without values”. Which feedback would improve it most?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-009\"></use></svg>",
+    "question": "A water-cycle model has arrows for evaporation and precipitation but no groundwater. What is fair to say?",
+    "audioPrompt": "A water-cycle model has arrows for evaporation and precipitation but no groundwater. What is fair to say?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-009",
-      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Pattern described without values”. Which feedback would improve it most?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Pattern described without values",
-      "Support interpretation with categories, quantities or comparisons.",
-      "Graph values differ from table"
+      "It is a perfect copy of Earth",
+      "It cannot show any process",
+      "It shows some processes but omits one possible pathway",
+      "It proves groundwater is not part of the cycle"
     ],
-    "correct": 1,
-    "explanation": "Support interpretation with categories, quantities or comparisons.\nHint: Choose the response that uses evidence and corrects the mistaken relationship.",
+    "correct": 2,
+    "explanation": "A model can show selected processes while omitting others.\nHint: Model limitation.",
     "structuredExplanation": {
-      "summary": "Support interpretation with categories, quantities or comparisons.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "A model can show selected processes while omitting others.",
+      "hint": "Model limitation."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i04-t-010",
@@ -268,27 +295,30 @@ window.skillrTestQuestions = [
     "skill": "tables column graphs and scientific models",
     "printable": true,
     "type": "single",
-    "question": "A new field-note example asks: Which representation best shows exact recorded values?",
-    "audioPrompt": "A new field-note example asks: Which representation best shows exact recorded values?",
-    "visual": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A new field-note example asks: Which representation best shows exact recorded values?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A new field-note example asks: Which representation best shows exact recorded values?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-010\"></use></svg>",
+    "question": "Which display best compares four materials by strength test result?",
+    "audioPrompt": "Which display best compares four materials by strength test result?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-010",
-      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A new field-note example asks: Which representation best shows exact recorded values?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "an unrelated image",
-      "a title only",
-      "a labelled table"
+      "A list of colours",
+      "A column graph of load held by each material",
+      "A cycle diagram of rainfall",
+      "A force arrow only"
     ],
-    "correct": 2,
-    "explanation": "a labelled table\nHint: Use the stated observation, measurement or relationship—not preference—to decide.",
+    "correct": 1,
+    "explanation": "A column graph compares values across material categories.\nHint: Materials as categories.",
     "structuredExplanation": {
-      "summary": "a labelled table",
-      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
+      "summary": "A column graph compares values across material categories.",
+      "hint": "Materials as categories."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i04-t-011",
@@ -297,27 +327,30 @@ window.skillrTestQuestions = [
     "skill": "tables column graphs and scientific models",
     "printable": true,
     "type": "single",
-    "question": "A new design task asks: Which statement best describes a scientific model?",
-    "audioPrompt": "A new design task asks: Which statement best describes a scientific model?",
-    "visual": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A new design task asks: Which statement best describes a scientific model?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A new design task asks: Which statement best describes a scientific model?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-011\"></use></svg>",
+    "question": "A graph bar for 25 mL is drawn taller than the 40 mL bar. What is the issue?",
+    "audioPrompt": "A graph bar for 25 mL is drawn taller than the 40 mL bar. What is the issue?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-011",
-      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A new design task asks: Which statement best describes a scientific model?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "A purposeful simplification used to show important parts or relationships",
-      "A perfect copy of reality",
-      "The group states its preferred outcome instead of using the recorded scientific evidence."
+      "The bar heights do not match the values",
+      "The graph is more creative",
+      "The data must be qualitative",
+      "The table has too many units"
     ],
     "correct": 0,
-    "explanation": "A purposeful simplification used to show important parts or relationships\nHint: Use the stated observation, measurement or relationship—not preference—to decide.",
+    "explanation": "The larger value should be represented by a taller bar on the same scale.\nHint: Height vs value.",
     "structuredExplanation": {
-      "summary": "A purposeful simplification used to show important parts or relationships",
-      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
+      "summary": "The larger value should be represented by a taller bar on the same scale.",
+      "hint": "Height vs value."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i04-t-012",
@@ -326,27 +359,30 @@ window.skillrTestQuestions = [
     "skill": "tables column graphs and scientific models",
     "printable": true,
     "type": "single",
-    "question": "A new group wants to adapt “Table-to-graph conversion”. Which method keeps the investigation focused and reviewable?",
-    "audioPrompt": "A new group wants to adapt “Table-to-graph conversion”. Which method keeps the investigation focused and reviewable?",
-    "visual": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Table-to-graph conversion”. Which method keeps the investigation focused and reviewable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Table-to-graph conversion”. Which method keeps the investigation focused and reviewable?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-012\"></use></svg>",
+    "question": "Which title is most useful?",
+    "audioPrompt": "Which title is most useful?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-012",
-      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Table-to-graph conversion”. Which method keeps the investigation focused and reviewable?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Begin table-to-graph conversion, change two important conditions together, then compare only the preferred observation.",
-      "Create a labelled column graph from a table, then audit every bar against the source value.",
-      "Carry out table-to-graph conversion once, omit the measurements and report the original prediction as the result."
+      "Science results",
+      "Our group",
+      "Fun graph",
+      "Mean distance travelled by toy car on each surface"
     ],
-    "correct": 1,
-    "explanation": "Create a labelled column graph from a table, then audit every bar against the source value.\nHint: Look for a plan that observes or measures evidence and keeps the comparison clear.",
+    "correct": 3,
+    "explanation": "A specific title states what was compared and measured.\nHint: Specific title.",
     "structuredExplanation": {
-      "summary": "Create a labelled column graph from a table, then audit every bar against the source value.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+      "summary": "A specific title states what was compared and measured.",
+      "hint": "Specific title."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i04-t-013",
@@ -355,27 +391,30 @@ window.skillrTestQuestions = [
     "skill": "tables column graphs and scientific models",
     "printable": true,
     "type": "single",
-    "question": "A new group wants to adapt “Model limitation labels”. Which method keeps the investigation focused and reviewable?",
-    "audioPrompt": "A new group wants to adapt “Model limitation labels”. Which method keeps the investigation focused and reviewable?",
-    "visual": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Model limitation labels”. Which method keeps the investigation focused and reviewable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Model limitation labels”. Which method keeps the investigation focused and reviewable?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-013\"></use></svg>",
+    "question": "Which representation would show exact readings and a quick visual comparison if used together?",
+    "audioPrompt": "Which representation would show exact readings and a quick visual comparison if used together?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-013",
-      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Model limitation labels”. Which method keeps the investigation focused and reviewable?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Begin model limitation labels, change two important conditions together, then compare only the preferred observation.",
-      "Carry out model limitation labels once, omit the measurements and report the original prediction as the result.",
-      "Add ‘shows well’ and ‘does not show’ notes to a water-cycle, food-chain or force model."
+      "A blank page and a colour choice",
+      "A model with no labels and a guess",
+      "A table and a column graph",
+      "A title and a sticker"
     ],
     "correct": 2,
-    "explanation": "Add ‘shows well’ and ‘does not show’ notes to a water-cycle, food-chain or force model.\nHint: Look for a plan that observes or measures evidence and keeps the comparison clear.",
+    "explanation": "Tables keep exact values; graphs make comparisons visible.\nHint: Both purposes.",
     "structuredExplanation": {
-      "summary": "Add ‘shows well’ and ‘does not show’ notes to a water-cycle, food-chain or force model.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+      "summary": "Tables keep exact values; graphs make comparisons visible.",
+      "hint": "Both purposes."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i04-t-014",
@@ -384,27 +423,30 @@ window.skillrTestQuestions = [
     "skill": "tables column graphs and scientific models",
     "printable": true,
     "type": "single",
-    "question": "A new group wants to adapt “Representation choice”. Which method keeps the investigation focused and reviewable?",
-    "audioPrompt": "A new group wants to adapt “Representation choice”. Which method keeps the investigation focused and reviewable?",
-    "visual": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Representation choice”. Which method keeps the investigation focused and reviewable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Representation choice”. Which method keeps the investigation focused and reviewable?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-014\"></use></svg>",
+    "question": "Which is a limitation of a food-chain diagram?",
+    "audioPrompt": "Which is a limitation of a food-chain diagram?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-014",
-      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Representation choice”. Which method keeps the investigation focused and reviewable?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Choose table, graph, labelled diagram or physical model for four different science questions and justify each.",
-      "Begin representation choice, change two important conditions together, then compare only the preferred observation.",
-      "Carry out representation choice once, omit the measurements and report the original prediction as the result."
+      "It is not a representation",
+      "It may show one feeding path but not the whole food web",
+      "It always shows every interaction",
+      "It cannot include producers"
     ],
-    "correct": 0,
-    "explanation": "Choose table, graph, labelled diagram or physical model for four different science questions and justify each.\nHint: Look for a plan that observes or measures evidence and keeps the comparison clear.",
+    "correct": 1,
+    "explanation": "Food-chain diagrams simplify complex habitat interactions.\nHint: One pathway.",
     "structuredExplanation": {
-      "summary": "Choose table, graph, labelled diagram or physical model for four different science questions and justify each.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+      "summary": "Food-chain diagrams simplify complex habitat interactions.",
+      "hint": "One pathway."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i04-t-015",
@@ -413,27 +455,30 @@ window.skillrTestQuestions = [
     "skill": "tables column graphs and scientific models",
     "printable": true,
     "type": "single",
-    "question": "In a new assessment, which response would best demonstrate “Choose suitable representations”?",
-    "audioPrompt": "In a new assessment, which response would best demonstrate “Choose suitable representations”?",
-    "visual": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: In a new assessment, which response would best demonstrate “Choose suitable representations”?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: In a new assessment, which response would best demonstrate “Choose suitable representations”?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-015\"></use></svg>",
+    "question": "A student changes the graph scale halfway up the axis without marking a break. What could happen?",
+    "audioPrompt": "A student changes the graph scale halfway up the axis without marking a break. What could happen?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-015",
-      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: In a new assessment, which response would best demonstrate “Choose suitable representations”?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "State a preferred answer without using the observations or measurements.",
-      "Use a relevant observation or measurement, demonstrate “Choose suitable representations”, and explain the result.",
-      "Copy the task title but do not interpret, compare or explain any evidence."
+      "The graph may exaggerate or hide differences",
+      "The data becomes more accurate",
+      "Readers will always understand it better",
+      "Units become unnecessary"
     ],
-    "correct": 1,
-    "explanation": "Use a relevant observation or measurement, demonstrate “Choose suitable representations”, and explain the result.\nHint: Choose the action that demonstrates the named skill with observable evidence.",
+    "correct": 0,
+    "explanation": "Unmarked scale changes can mislead readers.\nHint: Distorted scale.",
     "structuredExplanation": {
-      "summary": "Use a relevant observation or measurement, demonstrate “Choose suitable representations”, and explain the result.",
-      "hint": "Choose the action that demonstrates the named skill with observable evidence."
+      "summary": "Unmarked scale changes can mislead readers.",
+      "hint": "Distorted scale."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i04-t-016",
@@ -442,28 +487,29 @@ window.skillrTestQuestions = [
     "skill": "tables column graphs and scientific models",
     "printable": true,
     "type": "single",
-    "question": "In a new assessment, which response would best demonstrate “Construct accurate tables/graphs”?",
-    "audioPrompt": "In a new assessment, which response would best demonstrate “Construct accurate tables/graphs”?",
-    "visual": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: In a new assessment, which response would best demonstrate “Construct accurate tables/graphs”?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: In a new assessment, which response would best demonstrate “Construct accurate tables/graphs”?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-016\"></use></svg>",
+    "question": "Which model-evaluation sentence is best?",
+    "audioPrompt": "Which model-evaluation sentence is best?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04.svg#ac9s4i04-t-016",
-      "alt_text": "Tables, Column Graphs and Scientific Models concept map showing a Year 4 observe, compare and explain sequence. Question context: In a new assessment, which response would best demonstrate “Construct accurate tables/graphs”?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "State a preferred answer without using the observations or measurements.",
-      "Copy the task title but do not interpret, compare or explain any evidence.",
-      "Use a relevant observation or measurement, demonstrate “Construct accurate tables/graphs”, and explain the result."
+      "This model is perfect",
+      "This model has no missing parts",
+      "This model proves every creek behaves the same",
+      "This model shows runoff downhill, but it does not show groundwater or real landscape scale"
     ],
-    "correct": 2,
-    "explanation": "Use a relevant observation or measurement, demonstrate “Construct accurate tables/graphs”, and explain the result.\nHint: Choose the action that demonstrates the named skill with observable evidence.",
+    "correct": 3,
+    "explanation": "A good evaluation names what the model shows and what it leaves out.\nHint: Shows and limits.",
     "structuredExplanation": {
-      "summary": "Use a relevant observation or measurement, demonstrate “Construct accurate tables/graphs”, and explain the result.",
-      "hint": "Choose the action that demonstrates the named skill with observable evidence."
+      "summary": "A good evaluation names what the model shows and what it leaves out.",
+      "hint": "Shows and limits."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v6"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

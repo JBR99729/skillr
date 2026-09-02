@@ -4,1415 +4,3399 @@
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
     "bank": "practice",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "A class observation is described as “organism that makes its own food, usually using sunlight”. Which scientific term best labels it?",
-    "audio_prompt": "A class observation is described as “organism that makes its own food, usually using sunlight”. Which scientific term best labels it?",
+    "question": "In a simple food chain, what is the role of grass?",
+    "audio_prompt": "In a simple food chain, what is the role of grass?",
+    "audioPrompt": "In a simple food chain, what is the role of grass?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u01.svg#ac9s4u01-p-001",
-      "alt_text": "A simple habitat food chain with arrows from a plant to two consumers and a decomposer. Question context: A class observation is described as “organism that makes its own food, usually using sunlight”. Which scientific term best labels it?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "consumer",
-        "is_correct": false
-      },
-      {
-        "text": "decomposer",
-        "is_correct": false
-      },
-      {
-        "text": "producer",
+        "text": "Producer",
         "is_correct": true
+      },
+      {
+        "text": "Consumer",
+        "is_correct": false
+      },
+      {
+        "text": "Decomposer",
+        "is_correct": false
+      },
+      {
+        "text": "Predator",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Producer",
+      "Consumer",
+      "Decomposer",
+      "Predator"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "producer is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Grass is a producer because it makes its own food using sunlight.",
+      "hint": "Which organism makes its own food?"
     },
+    "structuredExplanation": {
+      "summary": "Grass is a producer because it makes its own food using sunlight.",
+      "hint": "Which organism makes its own food?"
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 1,
+    "sequencePriority": 1,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U01-P-002",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
     "bank": "practice",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "A class observation is described as “organism that obtains energy by eating other organisms”. Which scientific term best labels it?",
-    "audio_prompt": "A class observation is described as “organism that obtains energy by eating other organisms”. Which scientific term best labels it?",
+    "question": "Which organism is a consumer?",
+    "audio_prompt": "Which organism is a consumer?",
+    "audioPrompt": "Which organism is a consumer?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u01.svg#ac9s4u01-p-002",
-      "alt_text": "A simple habitat food chain with arrows from a plant to two consumers and a decomposer. Question context: A class observation is described as “organism that obtains energy by eating other organisms”. Which scientific term best labels it?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "consumer",
+        "text": "A gum tree making food",
+        "is_correct": false
+      },
+      {
+        "text": "A mushroom breaking down a log",
+        "is_correct": false
+      },
+      {
+        "text": "Sunlight shining on leaves",
+        "is_correct": false
+      },
+      {
+        "text": "A kangaroo eating grass",
         "is_correct": true
-      },
-      {
-        "text": "decomposer",
-        "is_correct": false
-      },
-      {
-        "text": "food chain",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "A gum tree making food",
+      "A mushroom breaking down a log",
+      "Sunlight shining on leaves",
+      "A kangaroo eating grass"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "consumer is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "A kangaroo is a consumer because it gets energy by eating other organisms.",
+      "hint": "Look for the organism that eats."
     },
+    "structuredExplanation": {
+      "summary": "A kangaroo is a consumer because it gets energy by eating other organisms.",
+      "hint": "Look for the organism that eats."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 2,
+    "sequencePriority": 2,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U01-P-003",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
     "bank": "practice",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "A class observation is described as “organism that breaks down dead material and returns nutrients”. Which scientific term best labels it?",
-    "audio_prompt": "A class observation is described as “organism that breaks down dead material and returns nutrients”. Which scientific term best labels it?",
+    "question": "Which living thing is a decomposer?",
+    "audio_prompt": "Which living thing is a decomposer?",
+    "audioPrompt": "Which living thing is a decomposer?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u01.svg#ac9s4u01-p-003",
-      "alt_text": "A simple habitat food chain with arrows from a plant to two consumers and a decomposer. Question context: A class observation is described as “organism that breaks down dead material and returns nutrients”. Which scientific term best labels it?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "food chain",
+        "text": "A wattle tree in sunlight",
         "is_correct": false
       },
       {
-        "text": "decomposer",
+        "text": "A magpie eating insects",
+        "is_correct": false
+      },
+      {
+        "text": "A fungus growing on fallen leaves",
         "is_correct": true
       },
       {
-        "text": "habitat",
+        "text": "A wallaby grazing in a paddock",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "A wattle tree in sunlight",
+      "A magpie eating insects",
+      "A fungus growing on fallen leaves",
+      "A wallaby grazing in a paddock"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "decomposer is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Fungi help break down dead material, so they act as decomposers.",
+      "hint": "Which one breaks down dead things?"
     },
+    "structuredExplanation": {
+      "summary": "Fungi help break down dead material, so they act as decomposers.",
+      "hint": "Which one breaks down dead things?"
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 3,
+    "sequencePriority": 3,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U01-P-004",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
     "bank": "practice",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "A class observation is described as “sequence representing feeding relationships”. Which scientific term best labels it?",
-    "audio_prompt": "A class observation is described as “sequence representing feeding relationships”. Which scientific term best labels it?",
+    "question": "In the chain grass → grasshopper → frog, what does the arrow from grass to grasshopper show?",
+    "audio_prompt": "In the chain grass → grasshopper → frog, what does the arrow from grass to grasshopper show?",
+    "audioPrompt": "In the chain grass → grasshopper → frog, what does the arrow from grass to grasshopper show?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u01.svg#ac9s4u01-p-004",
-      "alt_text": "A simple habitat food chain with arrows from a plant to two consumers and a decomposer. Question context: A class observation is described as “sequence representing feeding relationships”. Which scientific term best labels it?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "habitat",
+        "text": "The frog gives food to the grass",
         "is_correct": false
       },
       {
-        "text": "producer",
-        "is_correct": false
-      },
-      {
-        "text": "food chain",
+        "text": "Food and energy move from the grass to the grasshopper",
         "is_correct": true
+      },
+      {
+        "text": "The grass chases the grasshopper",
+        "is_correct": false
+      },
+      {
+        "text": "The grasshopper helps the grass grow taller",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "The frog gives food to the grass",
+      "Food and energy move from the grass to the grasshopper",
+      "The grass chases the grasshopper",
+      "The grasshopper helps the grass grow taller"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "food chain is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Food-chain arrows show the direction that food and energy are transferred.",
+      "hint": "Arrows point from food to eater."
     },
+    "structuredExplanation": {
+      "summary": "Food-chain arrows show the direction that food and energy are transferred.",
+      "hint": "Arrows point from food to eater."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 4,
+    "sequencePriority": 4,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U01-P-005",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
     "bank": "practice",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "A class observation is described as “place that provides an organism’s needs”. Which scientific term best labels it?",
-    "audio_prompt": "A class observation is described as “place that provides an organism’s needs”. Which scientific term best labels it?",
+    "question": "A frog lives among reeds, insects and shallow water at a billabong. What is the billabong for the frog?",
+    "audio_prompt": "A frog lives among reeds, insects and shallow water at a billabong. What is the billabong for the frog?",
+    "audioPrompt": "A frog lives among reeds, insects and shallow water at a billabong. What is the billabong for the frog?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u01.svg#ac9s4u01-p-005",
-      "alt_text": "A simple habitat food chain with arrows from a plant to two consumers and a decomposer. Question context: A class observation is described as “place that provides an organism’s needs”. Which scientific term best labels it?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "habitat",
+        "text": "A habitat where it lives and interacts",
         "is_correct": true
       },
       {
-        "text": "producer",
+        "text": "Only a food-chain arrow",
         "is_correct": false
       },
       {
-        "text": "consumer",
+        "text": "A non-living organism",
+        "is_correct": false
+      },
+      {
+        "text": "A producer making food",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "A habitat where it lives and interacts",
+      "Only a food-chain arrow",
+      "A non-living organism",
+      "A producer making food"
+    ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "habitat is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "The billabong is the frog’s habitat because it is where the frog lives and interacts with other parts of the environment.",
+      "hint": "Place where it lives."
     },
+    "structuredExplanation": {
+      "summary": "The billabong is the frog’s habitat because it is where the frog lives and interacts with other parts of the environment.",
+      "hint": "Place where it lives."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 5,
+    "sequencePriority": 5,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U01-P-006",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
     "bank": "practice",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "A student needs a heading for this evidence: “organism that makes its own food, usually using sunlight”. Which heading is most precise?",
-    "audio_prompt": "A student needs a heading for this evidence: “organism that makes its own food, usually using sunlight”. Which heading is most precise?",
+    "question": "Which organism is the producer in leaf litter → worm → magpie?",
+    "audio_prompt": "Which organism is the producer in leaf litter → worm → magpie?",
+    "audioPrompt": "Which organism is the producer in leaf litter → worm → magpie?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u01.svg#ac9s4u01-p-006",
-      "alt_text": "A simple habitat food chain with arrows from a plant to two consumers and a decomposer. Question context: A student needs a heading for this evidence: “organism that makes its own food, usually using sunlight”. Which heading is most precise?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "decomposer",
+        "text": "Worm",
         "is_correct": false
       },
       {
-        "text": "producer",
+        "text": "Magpie",
+        "is_correct": false
+      },
+      {
+        "text": "Leaf litter",
+        "is_correct": false
+      },
+      {
+        "text": "There is no producer shown in this short chain",
         "is_correct": true
-      },
-      {
-        "text": "food chain",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "Worm",
+      "Magpie",
+      "Leaf litter",
+      "There is no producer shown in this short chain"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "producer is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Dead leaf litter is material from a producer, but the living producer is not shown in this chain.",
+      "hint": "Is a living plant shown?"
     },
+    "structuredExplanation": {
+      "summary": "Dead leaf litter is material from a producer, but the living producer is not shown in this chain.",
+      "hint": "Is a living plant shown?"
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 6,
+    "sequencePriority": 6,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U01-P-007",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
     "bank": "practice",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "A student needs a heading for this evidence: “organism that obtains energy by eating other organisms”. Which heading is most precise?",
-    "audio_prompt": "A student needs a heading for this evidence: “organism that obtains energy by eating other organisms”. Which heading is most precise?",
+    "question": "Which option lists only consumers?",
+    "audio_prompt": "Which option lists only consumers?",
+    "audioPrompt": "Which option lists only consumers?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u01.svg#ac9s4u01-p-007",
-      "alt_text": "A simple habitat food chain with arrows from a plant to two consumers and a decomposer. Question context: A student needs a heading for this evidence: “organism that obtains energy by eating other organisms”. Which heading is most precise?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "food chain",
+        "text": "Fungus, bacteria and mould",
         "is_correct": false
       },
       {
-        "text": "habitat",
+        "text": "Sunlight, soil and water",
         "is_correct": false
       },
       {
-        "text": "consumer",
+        "text": "Possum, kookaburra and beetle",
         "is_correct": true
+      },
+      {
+        "text": "Eucalypt, grass and algae",
+        "is_correct": false
       }
     ],
+    "answer_texts": [
+      "Fungus, bacteria and mould",
+      "Sunlight, soil and water",
+      "Possum, kookaburra and beetle",
+      "Eucalypt, grass and algae"
+    ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "consumer is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Possums, kookaburras and beetles all obtain energy by eating other organisms or their parts.",
+      "hint": "Choose organisms that eat."
     },
+    "structuredExplanation": {
+      "summary": "Possums, kookaburras and beetles all obtain energy by eating other organisms or their parts.",
+      "hint": "Choose organisms that eat."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 7,
+    "sequencePriority": 7,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U01-P-008",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
     "bank": "practice",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "A student needs a heading for this evidence: “organism that breaks down dead material and returns nutrients”. Which heading is most precise?",
-    "audio_prompt": "A student needs a heading for this evidence: “organism that breaks down dead material and returns nutrients”. Which heading is most precise?",
+    "question": "What is the main source of energy for most food chains in a sunny Australian grassland?",
+    "audio_prompt": "What is the main source of energy for most food chains in a sunny Australian grassland?",
+    "audioPrompt": "What is the main source of energy for most food chains in a sunny Australian grassland?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u01.svg#ac9s4u01-p-008",
-      "alt_text": "A simple habitat food chain with arrows from a plant to two consumers and a decomposer. Question context: A student needs a heading for this evidence: “organism that breaks down dead material and returns nutrients”. Which heading is most precise?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "decomposer",
+        "text": "Rocks",
+        "is_correct": false
+      },
+      {
+        "text": "The Sun",
         "is_correct": true
       },
       {
-        "text": "habitat",
+        "text": "A frog",
         "is_correct": false
       },
       {
-        "text": "producer",
+        "text": "Dead leaves",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Rocks",
+      "The Sun",
+      "A frog",
+      "Dead leaves"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "decomposer is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Most food chains begin with sunlight captured by producers such as grasses.",
+      "hint": "What supplies energy to producers?"
     },
+    "structuredExplanation": {
+      "summary": "Most food chains begin with sunlight captured by producers such as grasses.",
+      "hint": "What supplies energy to producers?"
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 8,
+    "sequencePriority": 8,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U01-P-009",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
     "bank": "practice",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "A student needs a heading for this evidence: “sequence representing feeding relationships”. Which heading is most precise?",
-    "audio_prompt": "A student needs a heading for this evidence: “sequence representing feeding relationships”. Which heading is most precise?",
+    "question": "Which pair is matched correctly?",
+    "audio_prompt": "Which pair is matched correctly?",
+    "audioPrompt": "Which pair is matched correctly?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u01.svg#ac9s4u01-p-009",
-      "alt_text": "A simple habitat food chain with arrows from a plant to two consumers and a decomposer. Question context: A student needs a heading for this evidence: “sequence representing feeding relationships”. Which heading is most precise?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "producer",
-        "is_correct": false
-      },
-      {
-        "text": "food chain",
+        "text": "Producer — wattle tree",
         "is_correct": true
       },
       {
-        "text": "consumer",
+        "text": "Consumer — sunlight",
+        "is_correct": false
+      },
+      {
+        "text": "Decomposer — kangaroo",
+        "is_correct": false
+      },
+      {
+        "text": "Habitat — food arrow",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "Producer — wattle tree",
+      "Consumer — sunlight",
+      "Decomposer — kangaroo",
+      "Habitat — food arrow"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "food chain is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "A wattle tree is a producer because it makes food using sunlight.",
+      "hint": "Find the correct role."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "A wattle tree is a producer because it makes food using sunlight.",
+      "hint": "Find the correct role."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 9,
+    "sequencePriority": 9,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U01-P-010",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
     "bank": "practice",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "A student needs a heading for this evidence: “place that provides an organism’s needs”. Which heading is most precise?",
-    "audio_prompt": "A student needs a heading for this evidence: “place that provides an organism’s needs”. Which heading is most precise?",
+    "question": "What do decomposers help return to the environment?",
+    "audio_prompt": "What do decomposers help return to the environment?",
+    "audioPrompt": "What do decomposers help return to the environment?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u01.svg#ac9s4u01-p-010",
-      "alt_text": "A simple habitat food chain with arrows from a plant to two consumers and a decomposer. Question context: A student needs a heading for this evidence: “place that provides an organism’s needs”. Which heading is most precise?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "consumer",
+        "text": "Sunlight from animals",
         "is_correct": false
       },
       {
-        "text": "decomposer",
+        "text": "Plastic from water",
         "is_correct": false
       },
       {
-        "text": "habitat",
+        "text": "New rocks from frogs",
+        "is_correct": false
+      },
+      {
+        "text": "Nutrients from dead material",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Sunlight from animals",
+      "Plastic from water",
+      "New rocks from frogs",
+      "Nutrients from dead material"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "habitat is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Decomposers break down dead material and help recycle nutrients.",
+      "hint": "What is recycled from dead things?"
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Decomposers break down dead material and help recycle nutrients.",
+      "hint": "What is recycled from dead things?"
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 10,
+    "sequencePriority": 10,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U01-P-011",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
     "bank": "practice",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "During a Year 4 discussion, Student 1 says, “Food-chain arrows point to the food”. Which response best corrects the science?",
-    "audio_prompt": "During a Year 4 discussion, Student 1 says, “Food-chain arrows point to the food”. Which response best corrects the science?",
+    "question": "Why is a eucalypt tree called a producer?",
+    "audio_prompt": "Why is a eucalypt tree called a producer?",
+    "audioPrompt": "Why is a eucalypt tree called a producer?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u01.svg#ac9s4u01-p-011",
-      "alt_text": "A simple habitat food chain with arrows from a plant to two consumers and a decomposer. Question context: During a Year 4 discussion, Student 1 says, “Food-chain arrows point to the food”. Which response best corrects the science?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Arrows point from the food source toward the organism receiving energy.",
+        "text": "It breaks down dead animals",
+        "is_correct": false
+      },
+      {
+        "text": "It hunts other plants",
+        "is_correct": false
+      },
+      {
+        "text": "It makes its own food using energy from sunlight",
         "is_correct": true
       },
       {
-        "text": "Food-chain arrows point to the food",
-        "is_correct": false
-      },
-      {
-        "text": "Decomposers are only at the end",
+        "text": "It eats insects from its leaves",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "It breaks down dead animals",
+      "It hunts other plants",
+      "It makes its own food using energy from sunlight",
+      "It eats insects from its leaves"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Arrows point from the food source toward the organism receiving energy.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Plants are producers because they make food rather than eating other organisms.",
+      "hint": "Use the sunlight clue."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Plants are producers because they make food rather than eating other organisms.",
+      "hint": "Use the sunlight clue."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 11,
+    "sequencePriority": 11,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U01-P-012",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
     "bank": "practice",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "During a Year 4 discussion, Student 2 says, “Decomposers are only at the end”. Which response best corrects the science?",
-    "audio_prompt": "During a Year 4 discussion, Student 2 says, “Decomposers are only at the end”. Which response best corrects the science?",
+    "question": "Why is a wombat a consumer in a woodland habitat?",
+    "audio_prompt": "Why is a wombat a consumer in a woodland habitat?",
+    "audioPrompt": "Why is a wombat a consumer in a woodland habitat?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u01.svg#ac9s4u01-p-012",
-      "alt_text": "A simple habitat food chain with arrows from a plant to two consumers and a decomposer. Question context: During a Year 4 discussion, Student 2 says, “Decomposers are only at the end”. Which response best corrects the science?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Decomposers are only at the end",
+        "text": "It is larger than many plants",
         "is_correct": false
       },
       {
-        "text": "They break down dead material from organisms at every feeding level.",
+        "text": "It gets energy by eating plant material",
         "is_correct": true
       },
       {
-        "text": "One food chain represents the whole habitat",
+        "text": "It makes food from sunlight",
+        "is_correct": false
+      },
+      {
+        "text": "It turns into soil",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "It is larger than many plants",
+      "It gets energy by eating plant material",
+      "It makes food from sunlight",
+      "It turns into soil"
+    ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "They break down dead material from organisms at every feeding level.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Consumers obtain energy by eating plants, animals or other organism material.",
+      "hint": "What does the wombat eat?"
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Consumers obtain energy by eating plants, animals or other organism material.",
+      "hint": "What does the wombat eat?"
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 12,
+    "sequencePriority": 12,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U01-P-013",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
     "bank": "practice",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "During a Year 4 discussion, Student 3 says, “One food chain represents the whole habitat”. Which response best corrects the science?",
-    "audio_prompt": "During a Year 4 discussion, Student 3 says, “One food chain represents the whole habitat”. Which response best corrects the science?",
+    "question": "Why are decomposers important in a bushland food chain?",
+    "audio_prompt": "Why are decomposers important in a bushland food chain?",
+    "audioPrompt": "Why are decomposers important in a bushland food chain?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u01.svg#ac9s4u01-p-013",
-      "alt_text": "A simple habitat food chain with arrows from a plant to two consumers and a decomposer. Question context: During a Year 4 discussion, Student 3 says, “One food chain represents the whole habitat”. Which response best corrects the science?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "One food chain represents the whole habitat",
-        "is_correct": false
-      },
-      {
-        "text": "Every consumer is a predator",
-        "is_correct": false
-      },
-      {
-        "text": "Real habitats contain interconnected food webs.",
+        "text": "They break down dead material so nutrients can be reused",
         "is_correct": true
+      },
+      {
+        "text": "They stop all animals from eating",
+        "is_correct": false
+      },
+      {
+        "text": "They make sunlight for plants",
+        "is_correct": false
+      },
+      {
+        "text": "They turn every consumer into a producer",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "They break down dead material so nutrients can be reused",
+      "They stop all animals from eating",
+      "They make sunlight for plants",
+      "They turn every consumer into a producer"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Real habitats contain interconnected food webs.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Decomposers recycle nutrients that plants and other organisms can use again.",
+      "hint": "Think recycling nutrients."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Decomposers recycle nutrients that plants and other organisms can use again.",
+      "hint": "Think recycling nutrients."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 13,
+    "sequencePriority": 13,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U01-P-014",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
     "bank": "practice",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "During a Year 4 discussion, Student 4 says, “Every consumer is a predator”. Which response best corrects the science?",
-    "audio_prompt": "During a Year 4 discussion, Student 4 says, “Every consumer is a predator”. Which response best corrects the science?",
+    "question": "Why does the arrow point from a gum leaf to a caterpillar?",
+    "audio_prompt": "Why does the arrow point from a gum leaf to a caterpillar?",
+    "audioPrompt": "Why does the arrow point from a gum leaf to a caterpillar?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u01.svg#ac9s4u01-p-014",
-      "alt_text": "A simple habitat food chain with arrows from a plant to two consumers and a decomposer. Question context: During a Year 4 discussion, Student 4 says, “Every consumer is a predator”. Which response best corrects the science?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Herbivores and omnivores are also consumers.",
+        "text": "The leaf is running away from the caterpillar",
+        "is_correct": false
+      },
+      {
+        "text": "The caterpillar gives sunlight to the leaf",
+        "is_correct": false
+      },
+      {
+        "text": "The leaf eats the caterpillar",
+        "is_correct": false
+      },
+      {
+        "text": "The caterpillar obtains food and energy from the gum leaf",
         "is_correct": true
-      },
-      {
-        "text": "Every consumer is a predator",
-        "is_correct": false
-      },
-      {
-        "text": "Food-chain arrows point to the food",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "The leaf is running away from the caterpillar",
+      "The caterpillar gives sunlight to the leaf",
+      "The leaf eats the caterpillar",
+      "The caterpillar obtains food and energy from the gum leaf"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Herbivores and omnivores are also consumers.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "The arrow shows the direction food and energy move when the caterpillar eats the leaf.",
+      "hint": "Food to eater."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "The arrow shows the direction food and energy move when the caterpillar eats the leaf.",
+      "hint": "Food to eater."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 14,
+    "sequencePriority": 14,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U01-P-015",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
     "bank": "practice",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "A group writes this claim on a poster: “Food-chain arrows point to the food”. Which edit makes the claim scientifically accurate?",
-    "audio_prompt": "A group writes this claim on a poster: “Food-chain arrows point to the food”. Which edit makes the claim scientifically accurate?",
+    "question": "Why is “a food chain shows every organism in a habitat” incorrect?",
+    "audio_prompt": "Why is “a food chain shows every organism in a habitat” incorrect?",
+    "audioPrompt": "Why is “a food chain shows every organism in a habitat” incorrect?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u01.svg#ac9s4u01-p-015",
-      "alt_text": "A simple habitat food chain with arrows from a plant to two consumers and a decomposer. Question context: A group writes this claim on a poster: “Food-chain arrows point to the food”. Which edit makes the claim scientifically accurate?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Food-chain arrows point to the food",
+        "text": "Habitats have no living things",
         "is_correct": false
       },
       {
-        "text": "Arrows point from the food source toward the organism receiving energy.",
+        "text": "Only decomposers can be in habitats",
+        "is_correct": false
+      },
+      {
+        "text": "A food chain shows one feeding path, not all interactions",
         "is_correct": true
       },
       {
-        "text": "One food chain represents the whole habitat",
+        "text": "A food chain never includes animals",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "Habitats have no living things",
+      "Only decomposers can be in habitats",
+      "A food chain shows one feeding path, not all interactions",
+      "A food chain never includes animals"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Arrows point from the food source toward the organism receiving energy.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Habitats usually contain many organisms and many feeding relationships.",
+      "hint": "One chain is a simplified path."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Habitats usually contain many organisms and many feeding relationships.",
+      "hint": "One chain is a simplified path."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 15,
+    "sequencePriority": 15,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U01-P-016",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
     "bank": "practice",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "A group writes this claim on a poster: “Decomposers are only at the end”. Which edit makes the claim scientifically accurate?",
-    "audio_prompt": "A group writes this claim on a poster: “Decomposers are only at the end”. Which edit makes the claim scientifically accurate?",
+    "question": "Why might fewer grasses affect grasshoppers in a paddock?",
+    "audio_prompt": "Why might fewer grasses affect grasshoppers in a paddock?",
+    "audioPrompt": "Why might fewer grasses affect grasshoppers in a paddock?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u01.svg#ac9s4u01-p-016",
-      "alt_text": "A simple habitat food chain with arrows from a plant to two consumers and a decomposer. Question context: A group writes this claim on a poster: “Decomposers are only at the end”. Which edit makes the claim scientifically accurate?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Decomposers are only at the end",
+        "text": "Decomposers would disappear immediately",
         "is_correct": false
       },
       {
-        "text": "Every consumer is a predator",
-        "is_correct": false
-      },
-      {
-        "text": "They break down dead material from organisms at every feeding level.",
+        "text": "Grasshoppers would have less food available",
         "is_correct": true
+      },
+      {
+        "text": "Grasshoppers would become producers",
+        "is_correct": false
+      },
+      {
+        "text": "Frogs would make more sunlight",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Decomposers would disappear immediately",
+      "Grasshoppers would have less food available",
+      "Grasshoppers would become producers",
+      "Frogs would make more sunlight"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "They break down dead material from organisms at every feeding level.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "A decrease in a producer can reduce food for consumers that rely on it.",
+      "hint": "Follow the direct feeding link."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "A decrease in a producer can reduce food for consumers that rely on it.",
+      "hint": "Follow the direct feeding link."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 16,
+    "sequencePriority": 16,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U01-P-017",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
     "bank": "practice",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "A group writes this claim on a poster: “One food chain represents the whole habitat”. Which edit makes the claim scientifically accurate?",
-    "audio_prompt": "A group writes this claim on a poster: “One food chain represents the whole habitat”. Which edit makes the claim scientifically accurate?",
+    "question": "Why can a mushroom be part of several food chains at once?",
+    "audio_prompt": "Why can a mushroom be part of several food chains at once?",
+    "audioPrompt": "Why can a mushroom be part of several food chains at once?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u01.svg#ac9s4u01-p-017",
-      "alt_text": "A simple habitat food chain with arrows from a plant to two consumers and a decomposer. Question context: A group writes this claim on a poster: “One food chain represents the whole habitat”. Which edit makes the claim scientifically accurate?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Real habitats contain interconnected food webs.",
+        "text": "It can break down dead material from many organisms",
         "is_correct": true
       },
       {
-        "text": "One food chain represents the whole habitat",
+        "text": "It only eats living kangaroos",
         "is_correct": false
       },
       {
-        "text": "Food-chain arrows point to the food",
+        "text": "It makes all the sunlight",
+        "is_correct": false
+      },
+      {
+        "text": "It must be the first organism in every chain",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "It can break down dead material from many organisms",
+      "It only eats living kangaroos",
+      "It makes all the sunlight",
+      "It must be the first organism in every chain"
+    ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Real habitats contain interconnected food webs.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Decomposers can act on dead material from producers and consumers throughout a habitat.",
+      "hint": "Dead material can come from many levels."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Decomposers can act on dead material from producers and consumers throughout a habitat.",
+      "hint": "Dead material can come from many levels."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 17,
+    "sequencePriority": 17,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U01-P-018",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
     "bank": "practice",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "A group writes this claim on a poster: “Every consumer is a predator”. Which edit makes the claim scientifically accurate?",
-    "audio_prompt": "A group writes this claim on a poster: “Every consumer is a predator”. Which edit makes the claim scientifically accurate?",
+    "question": "Why is a kookaburra a consumer even if it eats another consumer?",
+    "audio_prompt": "Why is a kookaburra a consumer even if it eats another consumer?",
+    "audioPrompt": "Why is a kookaburra a consumer even if it eats another consumer?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u01.svg#ac9s4u01-p-018",
-      "alt_text": "A simple habitat food chain with arrows from a plant to two consumers and a decomposer. Question context: A group writes this claim on a poster: “Every consumer is a predator”. Which edit makes the claim scientifically accurate?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Every consumer is a predator",
+        "text": "Only plant eaters are consumers",
         "is_correct": false
       },
       {
-        "text": "Herbivores and omnivores are also consumers.",
+        "text": "Eating insects makes it a producer",
+        "is_correct": false
+      },
+      {
+        "text": "Predators are not part of food chains",
+        "is_correct": false
+      },
+      {
+        "text": "Consumers can eat plants, animals or other consumers",
         "is_correct": true
-      },
-      {
-        "text": "Decomposers are only at the end",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "Only plant eaters are consumers",
+      "Eating insects makes it a producer",
+      "Predators are not part of food chains",
+      "Consumers can eat plants, animals or other consumers"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Herbivores and omnivores are also consumers.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "A consumer is any organism that obtains energy by eating other organisms or their parts.",
+      "hint": "Consumer does not mean herbivore only."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "A consumer is any organism that obtains energy by eating other organisms or their parts.",
+      "hint": "Consumer does not mean herbivore only."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 18,
+    "sequencePriority": 18,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U01-P-019",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
     "bank": "practice",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "Study the classroom example. Which organism is a producer?",
-    "audio_prompt": "Study the classroom example. Which organism is a producer?",
+    "question": "Why does a producer usually come near the start of a food chain?",
+    "audio_prompt": "Why does a producer usually come near the start of a food chain?",
+    "audioPrompt": "Why does a producer usually come near the start of a food chain?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u01.svg#ac9s4u01-p-019",
-      "alt_text": "A simple habitat food chain with arrows from a plant to two consumers and a decomposer. Question context: Study the classroom example. Which organism is a producer?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "frog",
+        "text": "It eats the top predator",
         "is_correct": false
       },
       {
-        "text": "hawk",
+        "text": "It has no connection to sunlight",
         "is_correct": false
       },
       {
-        "text": "grass",
+        "text": "It captures energy that can be passed to consumers",
         "is_correct": true
+      },
+      {
+        "text": "It breaks down every animal first",
+        "is_correct": false
       }
     ],
+    "answer_texts": [
+      "It eats the top predator",
+      "It has no connection to sunlight",
+      "It captures energy that can be passed to consumers",
+      "It breaks down every animal first"
+    ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "grass",
-      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
+      "summary": "Producers use sunlight to make food, supplying energy for later consumers.",
+      "hint": "Energy enters through producers."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Producers use sunlight to make food, supplying energy for later consumers.",
+      "hint": "Energy enters through producers."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 19,
+    "sequencePriority": 19,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U01-P-020",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
     "bank": "practice",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "Use the investigation evidence. What is the main role of decomposers?",
-    "audio_prompt": "Use the investigation evidence. What is the main role of decomposers?",
+    "question": "Why is dead bark still useful in a habitat?",
+    "audio_prompt": "Why is dead bark still useful in a habitat?",
+    "audioPrompt": "Why is dead bark still useful in a habitat?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u01.svg#ac9s4u01-p-020",
-      "alt_text": "A simple habitat food chain with arrows from a plant to two consumers and a decomposer. Question context: Use the investigation evidence. What is the main role of decomposers?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "break down dead material and recycle nutrients",
+        "text": "It stops all food chains",
+        "is_correct": false
+      },
+      {
+        "text": "Decomposers can break it down and recycle nutrients",
         "is_correct": true
       },
       {
-        "text": "make sunlight",
+        "text": "It becomes sunlight at night",
         "is_correct": false
       },
       {
-        "text": "hunt every consumer",
+        "text": "It eats small animals",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "It stops all food chains",
+      "Decomposers can break it down and recycle nutrients",
+      "It becomes sunlight at night",
+      "It eats small animals"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "break down dead material and recycle nutrients",
-      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
+      "summary": "Dead plant material can be broken down by decomposers, returning nutrients to the habitat.",
+      "hint": "Think decomposer role."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Dead plant material can be broken down by decomposers, returning nutrients to the habitat.",
+      "hint": "Think decomposer role."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 20,
+    "sequencePriority": 20,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U01-P-021",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
     "bank": "practice",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "The class is preparing “Build a food-web wall”. Which plan would produce useful scientific evidence?",
-    "audio_prompt": "The class is preparing “Build a food-web wall”. Which plan would produce useful scientific evidence?",
+    "question": "Which chain shows the arrows in the best direction?",
+    "audio_prompt": "Which chain shows the arrows in the best direction?",
+    "audioPrompt": "Which chain shows the arrows in the best direction?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u01.svg#ac9s4u01-p-021",
-      "alt_text": "A simple habitat food chain with arrows from a plant to two consumers and a decomposer. Question context: The class is preparing “Build a food-web wall”. Which plan would produce useful scientific evidence?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Begin build a food-web wall, change two important conditions together, then compare only the preferred observation.",
-        "is_correct": false
-      },
-      {
-        "text": "Connect local plants and animals with arrows from food to eater; add decomposers to several chains.",
+        "text": "wattle leaves → caterpillar → pardalote",
         "is_correct": true
       },
       {
-        "text": "Carry out build a food-web wall once, omit the measurements and report the original prediction as the result.",
+        "text": "pardalote → caterpillar → wattle leaves",
+        "is_correct": false
+      },
+      {
+        "text": "caterpillar → wattle leaves → Sun",
+        "is_correct": false
+      },
+      {
+        "text": "wattle leaves → Sun → pardalote",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "wattle leaves → caterpillar → pardalote",
+      "pardalote → caterpillar → wattle leaves",
+      "caterpillar → wattle leaves → Sun",
+      "wattle leaves → Sun → pardalote"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Connect local plants and animals with arrows from food to eater; add decomposers to several chains.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+      "summary": "Arrows point from the food source to the organism that receives food and energy.",
+      "hint": "Food to eater."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Arrows point from the food source to the organism that receives food and energy.",
+      "hint": "Food to eater."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 21,
+    "sequencePriority": 21,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U01-P-022",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
     "bank": "practice",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "The class is preparing “Role-card investigation”. Which plan would produce useful scientific evidence?",
-    "audio_prompt": "The class is preparing “Role-card investigation”. Which plan would produce useful scientific evidence?",
+    "question": "Which statement is a misconception?",
+    "audio_prompt": "Which statement is a misconception?",
+    "audioPrompt": "Which statement is a misconception?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u01.svg#ac9s4u01-p-022",
-      "alt_text": "A simple habitat food chain with arrows from a plant to two consumers and a decomposer. Question context: The class is preparing “Role-card investigation”. Which plan would produce useful scientific evidence?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Begin role-card investigation, change two important conditions together, then compare only the preferred observation.",
+        "text": "Consumers get energy by eating",
         "is_correct": false
       },
       {
-        "text": "Carry out role-card investigation once, omit the measurements and report the original prediction as the result.",
+        "text": "Producers can make their own food",
         "is_correct": false
       },
       {
-        "text": "Sort organisms as producer, consumer or decomposer and justify any organism that has more than one consumer role.",
+        "text": "Decomposers break down dead material",
+        "is_correct": false
+      },
+      {
+        "text": "Food-chain arrows show which organism chases another",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Consumers get energy by eating",
+      "Producers can make their own food",
+      "Decomposers break down dead material",
+      "Food-chain arrows show which organism chases another"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Sort organisms as producer, consumer or decomposer and justify any organism that has more than one consumer role.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+      "summary": "Arrows show energy transfer, not chasing direction.",
+      "hint": "What do arrows actually mean?"
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Arrows show energy transfer, not chasing direction.",
+      "hint": "What do arrows actually mean?"
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 22,
+    "sequencePriority": 22,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U01-P-023",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
     "bank": "practice",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "The class is preparing “Change-one-part model”. Which plan would produce useful scientific evidence?",
-    "audio_prompt": "The class is preparing “Change-one-part model”. Which plan would produce useful scientific evidence?",
+    "question": "Which organism would usually be the producer in a pond chain?",
+    "audio_prompt": "Which organism would usually be the producer in a pond chain?",
+    "audioPrompt": "Which organism would usually be the producer in a pond chain?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u01.svg#ac9s4u01-p-023",
-      "alt_text": "A simple habitat food chain with arrows from a plant to two consumers and a decomposer. Question context: The class is preparing “Change-one-part model”. Which plan would produce useful scientific evidence?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Remove or increase one population in a model habitat and predict two direct and one indirect effect.",
+        "text": "Dragonfly nymph",
+        "is_correct": false
+      },
+      {
+        "text": "Heron",
+        "is_correct": false
+      },
+      {
+        "text": "Algae",
         "is_correct": true
       },
       {
-        "text": "Begin change-one-part model, change two important conditions together, then compare only the preferred observation.",
-        "is_correct": false
-      },
-      {
-        "text": "Carry out change-one-part model once, omit the measurements and report the original prediction as the result.",
+        "text": "Tadpole",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Dragonfly nymph",
+      "Heron",
+      "Algae",
+      "Tadpole"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Remove or increase one population in a model habitat and predict two direct and one indirect effect.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+      "summary": "Algae are producers because they make food using sunlight.",
+      "hint": "Which one photosynthesises?"
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Algae are producers because they make food using sunlight.",
+      "hint": "Which one photosynthesises?"
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 23,
+    "sequencePriority": 23,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U01-P-024",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
     "bank": "practice",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "A results display includes “fewer grass plants”. Which interpretation matches that evidence?",
-    "audio_prompt": "A results display includes “fewer grass plants”. Which interpretation matches that evidence?",
+    "question": "Which option best identifies the decomposer action?",
+    "audio_prompt": "Which option best identifies the decomposer action?",
+    "audioPrompt": "Which option best identifies the decomposer action?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u01.svg#ac9s4u01-p-024",
-      "alt_text": "A simple habitat food chain with arrows from a plant to two consumers and a decomposer. Question context: A results display includes “fewer grass plants”. Which interpretation matches that evidence?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "pressure on grasshopper population because more consumers feeding",
+        "text": "A heron catching a fish",
         "is_correct": false
       },
       {
-        "text": "fewer grasshoppers because less food available",
+        "text": "Bacteria breaking down a dead fish",
         "is_correct": true
       },
       {
-        "text": "dead material builds up because slower nutrient recycling",
+        "text": "A fish eating mosquito larvae",
+        "is_correct": false
+      },
+      {
+        "text": "Reeds using sunlight",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "A heron catching a fish",
+      "Bacteria breaking down a dead fish",
+      "A fish eating mosquito larvae",
+      "Reeds using sunlight"
+    ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "fewer grass plants is linked to fewer grasshoppers because less food available.",
-      "hint": "Trace across the same row and keep the conclusion limited to the evidence shown."
+      "summary": "Breaking down dead material is the role of decomposers.",
+      "hint": "Look for decay of dead matter."
     },
+    "structuredExplanation": {
+      "summary": "Breaking down dead material is the role of decomposers.",
+      "hint": "Look for decay of dead matter."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 24,
+    "sequencePriority": 24,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U01-P-025",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
+    "bank": "practice",
+    "skill": "producers_consumers_decomposers_and_food_chains",
+    "question": "Which claim about consumers is most accurate?",
+    "audio_prompt": "Which claim about consumers is most accurate?",
+    "audioPrompt": "Which claim about consumers is most accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Some consumers eat plants, some eat animals and some eat both",
+        "is_correct": true
+      },
+      {
+        "text": "Consumers must only eat meat",
+        "is_correct": false
+      },
+      {
+        "text": "Consumers always make their own food",
+        "is_correct": false
+      },
+      {
+        "text": "Consumers are never eaten by other animals",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Some consumers eat plants, some eat animals and some eat both",
+      "Consumers must only eat meat",
+      "Consumers always make their own food",
+      "Consumers are never eaten by other animals"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Consumer diets vary, but all consumers obtain energy by eating.",
+      "hint": "Consumer is a broad role."
+    },
+    "structuredExplanation": {
+      "summary": "Consumer diets vary, but all consumers obtain energy by eating.",
+      "hint": "Consumer is a broad role."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 25,
+    "sequencePriority": 25,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U01-P-026",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
+    "bank": "practice",
+    "skill": "producers_consumers_decomposers_and_food_chains",
+    "question": "Which food-chain part is missing from roo grass → dingo?",
+    "audio_prompt": "Which food-chain part is missing from roo grass → dingo?",
+    "audioPrompt": "Which food-chain part is missing from roo grass → dingo?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "A decomposer eating sunlight first",
+        "is_correct": false
+      },
+      {
+        "text": "A rock between every organism",
+        "is_correct": false
+      },
+      {
+        "text": "The dingo as the producer",
+        "is_correct": false
+      },
+      {
+        "text": "A clearer arrow from grass to kangaroo before dingo",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "A decomposer eating sunlight first",
+      "A rock between every organism",
+      "The dingo as the producer",
+      "A clearer arrow from grass to kangaroo before dingo"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "The kangaroo or roo is the consumer that eats the grass before energy may pass to a dingo.",
+      "hint": "Check the feeding order."
+    },
+    "structuredExplanation": {
+      "summary": "The kangaroo or roo is the consumer that eats the grass before energy may pass to a dingo.",
+      "hint": "Check the feeding order."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 26,
+    "sequencePriority": 26,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U01-P-027",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
+    "bank": "practice",
+    "skill": "producers_consumers_decomposers_and_food_chains",
+    "question": "Which prediction best follows grass → grasshopper → frog?",
+    "audio_prompt": "Which prediction best follows grass → grasshopper → frog?",
+    "audioPrompt": "Which prediction best follows grass → grasshopper → frog?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "If frogs increase, grass makes more sunlight",
+        "is_correct": false
+      },
+      {
+        "text": "If grasshoppers decrease, grass must vanish first",
+        "is_correct": false
+      },
+      {
+        "text": "If grass decreases, grasshoppers may decrease because food is reduced",
+        "is_correct": true
+      },
+      {
+        "text": "If grass decreases, grasshoppers must become frogs",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "If frogs increase, grass makes more sunlight",
+      "If grasshoppers decrease, grass must vanish first",
+      "If grass decreases, grasshoppers may decrease because food is reduced",
+      "If grass decreases, grasshoppers must become frogs"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Changing a food source can affect the consumer that depends on it.",
+      "hint": "Use a direct relationship."
+    },
+    "structuredExplanation": {
+      "summary": "Changing a food source can affect the consumer that depends on it.",
+      "hint": "Use a direct relationship."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 27,
+    "sequencePriority": 27,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U01-P-028",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
+    "bank": "practice",
+    "skill": "producers_consumers_decomposers_and_food_chains",
+    "question": "Which statement about decomposers is correct?",
+    "audio_prompt": "Which statement about decomposers is correct?",
+    "audioPrompt": "Which statement about decomposers is correct?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "They stop nutrients from returning to soil",
+        "is_correct": false
+      },
+      {
+        "text": "They can use dead material from producers and consumers",
+        "is_correct": true
+      },
+      {
+        "text": "They only work at the start of food chains",
+        "is_correct": false
+      },
+      {
+        "text": "They are not living things",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "They stop nutrients from returning to soil",
+      "They can use dead material from producers and consumers",
+      "They only work at the start of food chains",
+      "They are not living things"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Decomposers act on dead material from many parts of a habitat.",
+      "hint": "Not just one level."
+    },
+    "structuredExplanation": {
+      "summary": "Decomposers act on dead material from many parts of a habitat.",
+      "hint": "Not just one level."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 28,
+    "sequencePriority": 28,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U01-P-029",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
+    "bank": "practice",
+    "skill": "producers_consumers_decomposers_and_food_chains",
+    "question": "Which is the best reason not to call the Sun a producer?",
+    "audio_prompt": "Which is the best reason not to call the Sun a producer?",
+    "audioPrompt": "Which is the best reason not to call the Sun a producer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The Sun is not an organism, even though it provides energy",
+        "is_correct": true
+      },
+      {
+        "text": "The Sun eats producers",
+        "is_correct": false
+      },
+      {
+        "text": "The Sun is a decomposer",
+        "is_correct": false
+      },
+      {
+        "text": "The Sun is a consumer in every habitat",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "The Sun is not an organism, even though it provides energy",
+      "The Sun eats producers",
+      "The Sun is a decomposer",
+      "The Sun is a consumer in every habitat"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "A producer is a living organism that makes its own food; the Sun supplies energy.",
+      "hint": "Producer means organism."
+    },
+    "structuredExplanation": {
+      "summary": "A producer is a living organism that makes its own food; the Sun supplies energy.",
+      "hint": "Producer means organism."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 29,
+    "sequencePriority": 29,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U01-P-030",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
+    "bank": "practice",
+    "skill": "producers_consumers_decomposers_and_food_chains",
+    "question": "Which example includes an interaction within a habitat?",
+    "audio_prompt": "Which example includes an interaction within a habitat?",
+    "audioPrompt": "Which example includes an interaction within a habitat?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "A pencil lies on a desk",
+        "is_correct": false
+      },
+      {
+        "text": "A rock is painted blue",
+        "is_correct": false
+      },
+      {
+        "text": "A ruler is placed beside paper",
+        "is_correct": false
+      },
+      {
+        "text": "A spider catches a fly on a garden shrub",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "A pencil lies on a desk",
+      "A rock is painted blue",
+      "A ruler is placed beside paper",
+      "A spider catches a fly on a garden shrub"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "The spider and fly are living things interacting in a habitat.",
+      "hint": "Look for organisms affecting each other."
+    },
+    "structuredExplanation": {
+      "summary": "The spider and fly are living things interacting in a habitat.",
+      "hint": "Look for organisms affecting each other."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 30,
+    "sequencePriority": 30,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U01-P-031",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
+    "bank": "practice",
+    "skill": "producers_consumers_decomposers_and_food_chains",
+    "question": "A school garden has lettuce, snails and blue-tongue lizards. Which food chain is most likely?",
+    "audio_prompt": "A school garden has lettuce, snails and blue-tongue lizards. Which food chain is most likely?",
+    "audioPrompt": "A school garden has lettuce, snails and blue-tongue lizards. Which food chain is most likely?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "blue-tongue lizard → lettuce → snail",
+        "is_correct": false
+      },
+      {
+        "text": "lettuce → blue-tongue lizard → snail",
+        "is_correct": false
+      },
+      {
+        "text": "lettuce → snail → blue-tongue lizard",
+        "is_correct": true
+      },
+      {
+        "text": "snail → lettuce → blue-tongue lizard",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "blue-tongue lizard → lettuce → snail",
+      "lettuce → blue-tongue lizard → snail",
+      "lettuce → snail → blue-tongue lizard",
+      "snail → lettuce → blue-tongue lizard"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "The lettuce is eaten by the snail, and the lizard may eat the snail.",
+      "hint": "Food to eater."
+    },
+    "structuredExplanation": {
+      "summary": "The lettuce is eaten by the snail, and the lizard may eat the snail.",
+      "hint": "Food to eater."
+    },
+    "stage": "apply",
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 31,
+    "sequencePriority": 31,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U01-P-032",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
+    "bank": "practice",
+    "skill": "producers_consumers_decomposers_and_food_chains",
+    "question": "If many caterpillars eat young gum leaves, what direct effect is most likely?",
+    "audio_prompt": "If many caterpillars eat young gum leaves, what direct effect is most likely?",
+    "audioPrompt": "If many caterpillars eat young gum leaves, what direct effect is most likely?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The habitat loses all decomposers instantly",
+        "is_correct": false
+      },
+      {
+        "text": "The tree may lose leaf material used for making food",
+        "is_correct": true
+      },
+      {
+        "text": "The caterpillars become producers",
+        "is_correct": false
+      },
+      {
+        "text": "The leaves start eating birds",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "The habitat loses all decomposers instantly",
+      "The tree may lose leaf material used for making food",
+      "The caterpillars become producers",
+      "The leaves start eating birds"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "A consumer feeding on leaves reduces plant material available to the producer.",
+      "hint": "What part is being eaten?"
+    },
+    "structuredExplanation": {
+      "summary": "A consumer feeding on leaves reduces plant material available to the producer.",
+      "hint": "What part is being eaten?"
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 32,
+    "sequencePriority": 32,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U01-P-033",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
+    "bank": "practice",
+    "skill": "producers_consumers_decomposers_and_food_chains",
+    "question": "A wet pile of fallen leaves slowly becomes darker and crumbly. Which role is being shown?",
+    "audio_prompt": "A wet pile of fallen leaves slowly becomes darker and crumbly. Which role is being shown?",
+    "audioPrompt": "A wet pile of fallen leaves slowly becomes darker and crumbly. Which role is being shown?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Decomposers breaking down dead plant material",
+        "is_correct": true
+      },
+      {
+        "text": "Consumers making sunlight",
+        "is_correct": false
+      },
+      {
+        "text": "Producers eating insects",
+        "is_correct": false
+      },
+      {
+        "text": "Predators building a food chain arrow",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Decomposers breaking down dead plant material",
+      "Consumers making sunlight",
+      "Producers eating insects",
+      "Predators building a food chain arrow"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Fungi, bacteria and small decomposers can break down fallen leaves.",
+      "hint": "Dead leaves are decomposed."
+    },
+    "structuredExplanation": {
+      "summary": "Fungi, bacteria and small decomposers can break down fallen leaves.",
+      "hint": "Dead leaves are decomposed."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 33,
+    "sequencePriority": 33,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U01-P-034",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
+    "bank": "practice",
+    "skill": "producers_consumers_decomposers_and_food_chains",
+    "question": "A farmer notices fewer grasshoppers after a dry season with little grass. What explanation best fits a food-chain idea?",
+    "audio_prompt": "A farmer notices fewer grasshoppers after a dry season with little grass. What explanation best fits a food-chain idea?",
+    "audioPrompt": "A farmer notices fewer grasshoppers after a dry season with little grass. What explanation best fits a food-chain idea?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Grasshoppers stopped being consumers",
+        "is_correct": false
+      },
+      {
+        "text": "Frogs turned grass into soil",
+        "is_correct": false
+      },
+      {
+        "text": "Food-chain arrows changed into weather arrows",
+        "is_correct": false
+      },
+      {
+        "text": "Less producer growth meant less food for grasshoppers",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Grasshoppers stopped being consumers",
+      "Frogs turned grass into soil",
+      "Food-chain arrows changed into weather arrows",
+      "Less producer growth meant less food for grasshoppers"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Grasshoppers rely on grass or other plant material, so less producer growth can reduce their food.",
+      "hint": "Follow producer to consumer."
+    },
+    "structuredExplanation": {
+      "summary": "Grasshoppers rely on grass or other plant material, so less producer growth can reduce their food.",
+      "hint": "Follow producer to consumer."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 34,
+    "sequencePriority": 34,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U01-P-035",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
+    "bank": "practice",
+    "skill": "producers_consumers_decomposers_and_food_chains",
+    "question": "A class draws mosquito larvae → fish → heron. What does the second arrow mean?",
+    "audio_prompt": "A class draws mosquito larvae → fish → heron. What does the second arrow mean?",
+    "audioPrompt": "A class draws mosquito larvae → fish → heron. What does the second arrow mean?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The heron gives energy to the fish",
+        "is_correct": false
+      },
+      {
+        "text": "The larvae become producers",
+        "is_correct": false
+      },
+      {
+        "text": "The heron gets food and energy from the fish",
+        "is_correct": true
+      },
+      {
+        "text": "The fish chases the heron",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "The heron gives energy to the fish",
+      "The larvae become producers",
+      "The heron gets food and energy from the fish",
+      "The fish chases the heron"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "The arrow from fish to heron means the heron eats the fish or gains energy from it.",
+      "hint": "Food source to eater."
+    },
+    "structuredExplanation": {
+      "summary": "The arrow from fish to heron means the heron eats the fish or gains energy from it.",
+      "hint": "Food source to eater."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 35,
+    "sequencePriority": 35,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U01-P-036",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
+    "bank": "practice",
+    "skill": "producers_consumers_decomposers_and_food_chains",
+    "question": "A compost bin has vegetable scraps, worms, fungi and bacteria. Why does it belong in a habitat discussion?",
+    "audio_prompt": "A compost bin has vegetable scraps, worms, fungi and bacteria. Why does it belong in a habitat discussion?",
+    "audioPrompt": "A compost bin has vegetable scraps, worms, fungi and bacteria. Why does it belong in a habitat discussion?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "It removes all feeding relationships",
+        "is_correct": false
+      },
+      {
+        "text": "It shows organisms breaking down dead material and recycling nutrients",
+        "is_correct": true
+      },
+      {
+        "text": "It shows producers hunting worms",
+        "is_correct": false
+      },
+      {
+        "text": "It proves dead matter is not matter",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "It removes all feeding relationships",
+      "It shows organisms breaking down dead material and recycling nutrients",
+      "It shows producers hunting worms",
+      "It proves dead matter is not matter"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Compost systems include decomposers acting on once-living material.",
+      "hint": "Think decomposer interaction."
+    },
+    "structuredExplanation": {
+      "summary": "Compost systems include decomposers acting on once-living material.",
+      "hint": "Think decomposer interaction."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 36,
+    "sequencePriority": 36,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U01-P-037",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
+    "bank": "practice",
+    "skill": "producers_consumers_decomposers_and_food_chains",
+    "question": "If foxes increase in an area where they eat rabbits, which direct effect is reasonable to predict?",
+    "audio_prompt": "If foxes increase in an area where they eat rabbits, which direct effect is reasonable to predict?",
+    "audioPrompt": "If foxes increase in an area where they eat rabbits, which direct effect is reasonable to predict?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Rabbit numbers may come under more feeding pressure",
+        "is_correct": true
+      },
+      {
+        "text": "Rabbits will become producers",
+        "is_correct": false
+      },
+      {
+        "text": "Grass must disappear overnight",
+        "is_correct": false
+      },
+      {
+        "text": "Foxes will make sunlight for grass",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Rabbit numbers may come under more feeding pressure",
+      "Rabbits will become producers",
+      "Grass must disappear overnight",
+      "Foxes will make sunlight for grass"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "More predators can increase feeding pressure on prey such as rabbits.",
+      "hint": "Use the feeding link."
+    },
+    "structuredExplanation": {
+      "summary": "More predators can increase feeding pressure on prey such as rabbits.",
+      "hint": "Use the feeding link."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 37,
+    "sequencePriority": 37,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U01-P-038",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
+    "bank": "practice",
+    "skill": "producers_consumers_decomposers_and_food_chains",
+    "question": "A student says, “The top animal in a chain gives energy back to the first plant.” What is the best response?",
+    "audio_prompt": "A student says, “The top animal in a chain gives energy back to the first plant.” What is the best response?",
+    "audioPrompt": "A student says, “The top animal in a chain gives energy back to the first plant.” What is the best response?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Top animals are always producers",
+        "is_correct": false
+      },
+      {
+        "text": "Plants eat the top animal directly in every chain",
+        "is_correct": false
+      },
+      {
+        "text": "Food chains have no energy movement",
+        "is_correct": false
+      },
+      {
+        "text": "Energy shown by arrows moves from food to eater; decomposers recycle nutrients from dead material",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Top animals are always producers",
+      "Plants eat the top animal directly in every chain",
+      "Food chains have no energy movement",
+      "Energy shown by arrows moves from food to eater; decomposers recycle nutrients from dead material"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Food-chain arrows track food and energy transfer, while decomposers recycle nutrients.",
+      "hint": "Separate energy arrows from nutrient recycling."
+    },
+    "structuredExplanation": {
+      "summary": "Food-chain arrows track food and energy transfer, while decomposers recycle nutrients.",
+      "hint": "Separate energy arrows from nutrient recycling."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 38,
+    "sequencePriority": 38,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U01-P-039",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
+    "bank": "practice",
+    "skill": "producers_consumers_decomposers_and_food_chains",
+    "question": "Which evidence would best support a claim that possums are eating bottlebrush flowers at night?",
+    "audio_prompt": "Which evidence would best support a claim that possums are eating bottlebrush flowers at night?",
+    "audioPrompt": "Which evidence would best support a claim that possums are eating bottlebrush flowers at night?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "A drawing of a possum beside any plant",
+        "is_correct": false
+      },
+      {
+        "text": "The flowers being red",
+        "is_correct": false
+      },
+      {
+        "text": "Repeated night camera images of possums feeding on the flowers",
+        "is_correct": true
+      },
+      {
+        "text": "One student saying possums are cute",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "A drawing of a possum beside any plant",
+      "The flowers being red",
+      "Repeated night camera images of possums feeding on the flowers",
+      "One student saying possums are cute"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Repeated observations of feeding would directly support the interaction claim.",
+      "hint": "Look for feeding evidence."
+    },
+    "structuredExplanation": {
+      "summary": "Repeated observations of feeding would directly support the interaction claim.",
+      "hint": "Look for feeding evidence."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 39,
+    "sequencePriority": 39,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U01-P-040",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
+    "bank": "practice",
+    "skill": "producers_consumers_decomposers_and_food_chains",
+    "question": "A small wetland has reeds, insects, frogs, snakes and fungi. Why is one chain not the whole habitat?",
+    "audio_prompt": "A small wetland has reeds, insects, frogs, snakes and fungi. Why is one chain not the whole habitat?",
+    "audioPrompt": "A small wetland has reeds, insects, frogs, snakes and fungi. Why is one chain not the whole habitat?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Only snakes live in habitats",
+        "is_correct": false
+      },
+      {
+        "text": "The habitat has several organisms and interactions beyond one feeding path",
+        "is_correct": true
+      },
+      {
+        "text": "Food chains cannot include wetlands",
+        "is_correct": false
+      },
+      {
+        "text": "Fungi are never connected to other organisms",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Only snakes live in habitats",
+      "The habitat has several organisms and interactions beyond one feeding path",
+      "Food chains cannot include wetlands",
+      "Fungi are never connected to other organisms"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "A single chain simplifies a more complex set of interactions in a habitat.",
+      "hint": "One path is not the whole network."
+    },
+    "structuredExplanation": {
+      "summary": "A single chain simplifies a more complex set of interactions in a habitat.",
+      "hint": "One path is not the whole network."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 40,
+    "sequencePriority": 40,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U01-T-001",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
     "bank": "test",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "A museum activity card says, “organism that makes its own food, usually using sunlight”. Which scientific term belongs on the card?",
-    "audio_prompt": "A museum activity card says, “organism that makes its own food, usually using sunlight”. Which scientific term belongs on the card?",
+    "question": "In a coastal dune, spinifex grass is eaten by a beetle, and the beetle is eaten by a skink. Which chain is shown?",
+    "audio_prompt": "In a coastal dune, spinifex grass is eaten by a beetle, and the beetle is eaten by a skink. Which chain is shown?",
+    "audioPrompt": "In a coastal dune, spinifex grass is eaten by a beetle, and the beetle is eaten by a skink. Which chain is shown?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u01.svg#ac9s4u01-t-001",
-      "alt_text": "A simple habitat food chain with arrows from a plant to two consumers and a decomposer. Question context: A museum activity card says, “organism that makes its own food, usually using sunlight”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "consumer",
+        "text": "beetle → spinifex grass → skink",
         "is_correct": false
       },
       {
-        "text": "decomposer",
+        "text": "spinifex grass → skink → beetle",
         "is_correct": false
       },
       {
-        "text": "producer",
+        "text": "spinifex grass → beetle → skink",
         "is_correct": true
+      },
+      {
+        "text": "skink → beetle → spinifex grass",
+        "is_correct": false
       }
     ],
+    "answer_texts": [
+      "beetle → spinifex grass → skink",
+      "spinifex grass → skink → beetle",
+      "spinifex grass → beetle → skink",
+      "skink → beetle → spinifex grass"
+    ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "producer is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+      "summary": "The producer is eaten by the beetle, and the beetle is eaten by the skink.",
+      "hint": "Food to eater."
+    },
+    "structuredExplanation": {
+      "summary": "The producer is eaten by the beetle, and the beetle is eaten by the skink.",
+      "hint": "Food to eater."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 1,
+    "sequencePriority": 1,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U01-T-002",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
     "bank": "test",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "A museum activity card says, “organism that obtains energy by eating other organisms”. Which scientific term belongs on the card?",
-    "audio_prompt": "A museum activity card says, “organism that obtains energy by eating other organisms”. Which scientific term belongs on the card?",
+    "question": "Why is seaweed a producer in a rock-pool chain?",
+    "audio_prompt": "Why is seaweed a producer in a rock-pool chain?",
+    "audioPrompt": "Why is seaweed a producer in a rock-pool chain?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u01.svg#ac9s4u01-t-002",
-      "alt_text": "A simple habitat food chain with arrows from a plant to two consumers and a decomposer. Question context: A museum activity card says, “organism that obtains energy by eating other organisms”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "consumer",
+        "text": "It hunts snails",
+        "is_correct": false
+      },
+      {
+        "text": "It makes its own food using light",
         "is_correct": true
       },
       {
-        "text": "decomposer",
+        "text": "It eats small fish",
         "is_correct": false
       },
       {
-        "text": "food chain",
+        "text": "It breaks down dead crabs only",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "It hunts snails",
+      "It makes its own food using light",
+      "It eats small fish",
+      "It breaks down dead crabs only"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "consumer is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+      "summary": "Seaweed is a producer because it uses light to make food.",
+      "hint": "Producer makes food."
+    },
+    "structuredExplanation": {
+      "summary": "Seaweed is a producer because it uses light to make food.",
+      "hint": "Producer makes food."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 2,
+    "sequencePriority": 2,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U01-T-003",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
     "bank": "test",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "A museum activity card says, “organism that breaks down dead material and returns nutrients”. Which scientific term belongs on the card?",
-    "audio_prompt": "A museum activity card says, “organism that breaks down dead material and returns nutrients”. Which scientific term belongs on the card?",
+    "question": "Which role is shown by termites breaking down fallen wood?",
+    "audio_prompt": "Which role is shown by termites breaking down fallen wood?",
+    "audioPrompt": "Which role is shown by termites breaking down fallen wood?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u01.svg#ac9s4u01-t-003",
-      "alt_text": "A simple habitat food chain with arrows from a plant to two consumers and a decomposer. Question context: A museum activity card says, “organism that breaks down dead material and returns nutrients”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "food chain",
-        "is_correct": false
-      },
-      {
-        "text": "decomposer",
+        "text": "Decomposer action",
         "is_correct": true
       },
       {
-        "text": "habitat",
+        "text": "Producer action",
+        "is_correct": false
+      },
+      {
+        "text": "Sunlight transfer only",
+        "is_correct": false
+      },
+      {
+        "text": "Habitat removal",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "Decomposer action",
+      "Producer action",
+      "Sunlight transfer only",
+      "Habitat removal"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "decomposer is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+      "summary": "Breaking down dead wood is a decomposer role.",
+      "hint": "Dead material being broken down."
+    },
+    "structuredExplanation": {
+      "summary": "Breaking down dead wood is a decomposer role.",
+      "hint": "Dead material being broken down."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 3,
+    "sequencePriority": 3,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U01-T-004",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
     "bank": "test",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "A museum activity card says, “sequence representing feeding relationships”. Which scientific term belongs on the card?",
-    "audio_prompt": "A museum activity card says, “sequence representing feeding relationships”. Which scientific term belongs on the card?",
+    "question": "A nectar-feeding honeyeater visits banksia flowers. Why is the honeyeater a consumer?",
+    "audio_prompt": "A nectar-feeding honeyeater visits banksia flowers. Why is the honeyeater a consumer?",
+    "audioPrompt": "A nectar-feeding honeyeater visits banksia flowers. Why is the honeyeater a consumer?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u01.svg#ac9s4u01-t-004",
-      "alt_text": "A simple habitat food chain with arrows from a plant to two consumers and a decomposer. Question context: A museum activity card says, “sequence representing feeding relationships”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "habitat",
+        "text": "It makes nectar from sunlight",
         "is_correct": false
       },
       {
-        "text": "producer",
+        "text": "It is a plant in the habitat",
         "is_correct": false
       },
       {
-        "text": "food chain",
+        "text": "It turns banksia flowers into rocks",
+        "is_correct": false
+      },
+      {
+        "text": "It obtains energy from food made by another organism",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "It makes nectar from sunlight",
+      "It is a plant in the habitat",
+      "It turns banksia flowers into rocks",
+      "It obtains energy from food made by another organism"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "food chain is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+      "summary": "The honeyeater gets energy by feeding on nectar from the plant.",
+      "hint": "It eats or drinks organism material."
+    },
+    "structuredExplanation": {
+      "summary": "The honeyeater gets energy by feeding on nectar from the plant.",
+      "hint": "It eats or drinks organism material."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 4,
+    "sequencePriority": 4,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U01-T-005",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
     "bank": "test",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "A museum activity card says, “place that provides an organism’s needs”. Which scientific term belongs on the card?",
-    "audio_prompt": "A museum activity card says, “place that provides an organism’s needs”. Which scientific term belongs on the card?",
+    "question": "Which statement about food-chain arrows is correct?",
+    "audio_prompt": "Which statement about food-chain arrows is correct?",
+    "audioPrompt": "Which statement about food-chain arrows is correct?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u01.svg#ac9s4u01-t-005",
-      "alt_text": "A simple habitat food chain with arrows from a plant to two consumers and a decomposer. Question context: A museum activity card says, “place that provides an organism’s needs”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "habitat",
+        "text": "They show which animal is fastest",
+        "is_correct": false
+      },
+      {
+        "text": "They point from decomposer to sunlight only",
+        "is_correct": false
+      },
+      {
+        "text": "They point from the food source to the organism that gets energy",
         "is_correct": true
       },
       {
-        "text": "producer",
-        "is_correct": false
-      },
-      {
-        "text": "consumer",
+        "text": "They point from predator to prey every time",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "They show which animal is fastest",
+      "They point from decomposer to sunlight only",
+      "They point from the food source to the organism that gets energy",
+      "They point from predator to prey every time"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "habitat is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+      "summary": "Arrows show the direction of food and energy transfer.",
+      "hint": "Food to eater."
+    },
+    "structuredExplanation": {
+      "summary": "Arrows show the direction of food and energy transfer.",
+      "hint": "Food to eater."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 5,
+    "sequencePriority": 5,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U01-T-006",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
     "bank": "test",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "A different class records this conclusion: “Food-chain arrows point to the food”. Which feedback would improve it most?",
-    "audio_prompt": "A different class records this conclusion: “Food-chain arrows point to the food”. Which feedback would improve it most?",
+    "question": "A plague of locusts eats much of the pasture. What direct effect could this have on sheep?",
+    "audio_prompt": "A plague of locusts eats much of the pasture. What direct effect could this have on sheep?",
+    "audioPrompt": "A plague of locusts eats much of the pasture. What direct effect could this have on sheep?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u01.svg#ac9s4u01-t-006",
-      "alt_text": "A simple habitat food chain with arrows from a plant to two consumers and a decomposer. Question context: A different class records this conclusion: “Food-chain arrows point to the food”. Which feedback would improve it most?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Food-chain arrows point to the food",
+        "text": "Locusts produce sunlight",
         "is_correct": false
       },
       {
-        "text": "Arrows point from the food source toward the organism receiving energy.",
+        "text": "Sheep may have less grass available to eat",
         "is_correct": true
       },
       {
-        "text": "Decomposers are only at the end",
+        "text": "Sheep become decomposers",
+        "is_correct": false
+      },
+      {
+        "text": "The pasture becomes a predator",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "Locusts produce sunlight",
+      "Sheep may have less grass available to eat",
+      "Sheep become decomposers",
+      "The pasture becomes a predator"
+    ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Arrows point from the food source toward the organism receiving energy.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+      "summary": "Both locusts and sheep can rely on plant material, so heavy feeding can reduce available pasture.",
+      "hint": "Less producer material."
+    },
+    "structuredExplanation": {
+      "summary": "Both locusts and sheep can rely on plant material, so heavy feeding can reduce available pasture.",
+      "hint": "Less producer material."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 6,
+    "sequencePriority": 6,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U01-T-007",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
     "bank": "test",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "A different class records this conclusion: “Decomposers are only at the end”. Which feedback would improve it most?",
-    "audio_prompt": "A different class records this conclusion: “Decomposers are only at the end”. Which feedback would improve it most?",
+    "question": "Which organism would best fit as a decomposer in a rainforest floor example?",
+    "audio_prompt": "Which organism would best fit as a decomposer in a rainforest floor example?",
+    "audioPrompt": "Which organism would best fit as a decomposer in a rainforest floor example?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u01.svg#ac9s4u01-t-007",
-      "alt_text": "A simple habitat food chain with arrows from a plant to two consumers and a decomposer. Question context: A different class records this conclusion: “Decomposers are only at the end”. Which feedback would improve it most?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Decomposers are only at the end",
-        "is_correct": false
-      },
-      {
-        "text": "One food chain represents the whole habitat",
-        "is_correct": false
-      },
-      {
-        "text": "They break down dead material from organisms at every feeding level.",
+        "text": "Fungus on a fallen branch",
         "is_correct": true
+      },
+      {
+        "text": "Cassowary eating fruit",
+        "is_correct": false
+      },
+      {
+        "text": "Vine using sunlight",
+        "is_correct": false
+      },
+      {
+        "text": "Butterfly drinking nectar",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Fungus on a fallen branch",
+      "Cassowary eating fruit",
+      "Vine using sunlight",
+      "Butterfly drinking nectar"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "They break down dead material from organisms at every feeding level.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+      "summary": "Fungus breaking down fallen wood is acting as a decomposer.",
+      "hint": "Look for dead material decay."
+    },
+    "structuredExplanation": {
+      "summary": "Fungus breaking down fallen wood is acting as a decomposer.",
+      "hint": "Look for dead material decay."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 7,
+    "sequencePriority": 7,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U01-T-008",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
     "bank": "test",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "A different class records this conclusion: “One food chain represents the whole habitat”. Which feedback would improve it most?",
-    "audio_prompt": "A different class records this conclusion: “One food chain represents the whole habitat”. Which feedback would improve it most?",
+    "question": "Why is a simple chain not the same as a food web?",
+    "audio_prompt": "Why is a simple chain not the same as a food web?",
+    "audioPrompt": "Why is a simple chain not the same as a food web?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u01.svg#ac9s4u01-t-008",
-      "alt_text": "A simple habitat food chain with arrows from a plant to two consumers and a decomposer. Question context: A different class records this conclusion: “One food chain represents the whole habitat”. Which feedback would improve it most?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Real habitats contain interconnected food webs.",
+        "text": "A web has no producers",
+        "is_correct": false
+      },
+      {
+        "text": "A chain includes every organism on Earth",
+        "is_correct": false
+      },
+      {
+        "text": "Only webs have living things",
+        "is_correct": false
+      },
+      {
+        "text": "A simple chain shows one path, while a web includes many connected feeding paths",
         "is_correct": true
-      },
-      {
-        "text": "One food chain represents the whole habitat",
-        "is_correct": false
-      },
-      {
-        "text": "Every consumer is a predator",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "A web has no producers",
+      "A chain includes every organism on Earth",
+      "Only webs have living things",
+      "A simple chain shows one path, while a web includes many connected feeding paths"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Real habitats contain interconnected food webs.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+      "summary": "A habitat can contain many feeding relationships connected together.",
+      "hint": "One path versus many paths."
+    },
+    "structuredExplanation": {
+      "summary": "A habitat can contain many feeding relationships connected together.",
+      "hint": "One path versus many paths."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 8,
+    "sequencePriority": 8,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U01-T-009",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
     "bank": "test",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "A different class records this conclusion: “Every consumer is a predator”. Which feedback would improve it most?",
-    "audio_prompt": "A different class records this conclusion: “Every consumer is a predator”. Which feedback would improve it most?",
+    "question": "Which option best identifies the producer?",
+    "audio_prompt": "Which option best identifies the producer?",
+    "audioPrompt": "Which option best identifies the producer?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u01.svg#ac9s4u01-t-009",
-      "alt_text": "A simple habitat food chain with arrows from a plant to two consumers and a decomposer. Question context: A different class records this conclusion: “Every consumer is a predator”. Which feedback would improve it most?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Every consumer is a predator",
+        "text": "penguin eating fish",
         "is_correct": false
       },
       {
-        "text": "Herbivores and omnivores are also consumers.",
+        "text": "bacteria breaking down remains",
+        "is_correct": false
+      },
+      {
+        "text": "phytoplankton in sunlight",
         "is_correct": true
       },
       {
-        "text": "Food-chain arrows point to the food",
+        "text": "small fish eating plankton",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "penguin eating fish",
+      "bacteria breaking down remains",
+      "phytoplankton in sunlight",
+      "small fish eating plankton"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Herbivores and omnivores are also consumers.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+      "summary": "Phytoplankton can make food using sunlight, so they are producers.",
+      "hint": "Tiny producers can start aquatic chains."
+    },
+    "structuredExplanation": {
+      "summary": "Phytoplankton can make food using sunlight, so they are producers.",
+      "hint": "Tiny producers can start aquatic chains."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 9,
+    "sequencePriority": 9,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U01-T-010",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
     "bank": "test",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "A new field-note example asks: Which organism is a producer?",
-    "audio_prompt": "A new field-note example asks: Which organism is a producer?",
+    "question": "A dingo eats a wallaby that ate grass. Which organism is the first consumer?",
+    "audio_prompt": "A dingo eats a wallaby that ate grass. Which organism is the first consumer?",
+    "audioPrompt": "A dingo eats a wallaby that ate grass. Which organism is the first consumer?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u01.svg#ac9s4u01-t-010",
-      "alt_text": "A simple habitat food chain with arrows from a plant to two consumers and a decomposer. Question context: A new field-note example asks: Which organism is a producer?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "frog",
+        "text": "Sun",
         "is_correct": false
       },
       {
-        "text": "hawk",
-        "is_correct": false
-      },
-      {
-        "text": "grass",
+        "text": "Wallaby",
         "is_correct": true
+      },
+      {
+        "text": "Grass",
+        "is_correct": false
+      },
+      {
+        "text": "Dingo",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Sun",
+      "Wallaby",
+      "Grass",
+      "Dingo"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "grass",
-      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
-    }
+      "summary": "The wallaby is the first consumer because it eats the producer.",
+      "hint": "Who eats the plant?"
+    },
+    "structuredExplanation": {
+      "summary": "The wallaby is the first consumer because it eats the producer.",
+      "hint": "Who eats the plant?"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 10,
+    "sequencePriority": 10,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U01-T-011",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
     "bank": "test",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "A new design task asks: What is the main role of decomposers?",
-    "audio_prompt": "A new design task asks: What is the main role of decomposers?",
+    "question": "What happens when decomposers are greatly reduced in a leaf-litter habitat?",
+    "audio_prompt": "What happens when decomposers are greatly reduced in a leaf-litter habitat?",
+    "audioPrompt": "What happens when decomposers are greatly reduced in a leaf-litter habitat?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u01.svg#ac9s4u01-t-011",
-      "alt_text": "A simple habitat food chain with arrows from a plant to two consumers and a decomposer. Question context: A new design task asks: What is the main role of decomposers?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "break down dead material and recycle nutrients",
+        "text": "Dead material can build up and nutrients recycle more slowly",
         "is_correct": true
       },
       {
-        "text": "make sunlight",
+        "text": "Plants immediately become consumers",
         "is_correct": false
       },
       {
-        "text": "hunt every consumer",
+        "text": "Sunlight stops reaching Earth",
+        "is_correct": false
+      },
+      {
+        "text": "All animals become producers",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "Dead material can build up and nutrients recycle more slowly",
+      "Plants immediately become consumers",
+      "Sunlight stops reaching Earth",
+      "All animals become producers"
+    ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "break down dead material and recycle nutrients",
-      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
-    }
+      "summary": "Fewer decomposers can slow breakdown and nutrient recycling.",
+      "hint": "Think dead matter and nutrients."
+    },
+    "structuredExplanation": {
+      "summary": "Fewer decomposers can slow breakdown and nutrient recycling.",
+      "hint": "Think dead matter and nutrients."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 11,
+    "sequencePriority": 11,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U01-T-012",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
     "bank": "test",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "A new group wants to adapt “Build a food-web wall”. Which method keeps the investigation focused and reviewable?",
-    "audio_prompt": "A new group wants to adapt “Build a food-web wall”. Which method keeps the investigation focused and reviewable?",
+    "question": "Which claim needs the strongest feeding evidence?",
+    "audio_prompt": "Which claim needs the strongest feeding evidence?",
+    "audioPrompt": "Which claim needs the strongest feeding evidence?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u01.svg#ac9s4u01-t-012",
-      "alt_text": "A simple habitat food chain with arrows from a plant to two consumers and a decomposer. Question context: A new group wants to adapt “Build a food-web wall”. Which method keeps the investigation focused and reviewable?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Begin build a food-web wall, change two important conditions together, then compare only the preferred observation.",
+        "text": "The Moon is visible tonight",
         "is_correct": false
       },
       {
-        "text": "Connect local plants and animals with arrows from food to eater; add decomposers to several chains.",
+        "text": "The paddock has a fence",
+        "is_correct": false
+      },
+      {
+        "text": "The soil is dry",
+        "is_correct": false
+      },
+      {
+        "text": "Owls are eating mice in this paddock",
         "is_correct": true
-      },
-      {
-        "text": "Carry out build a food-web wall once, omit the measurements and report the original prediction as the result.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "The Moon is visible tonight",
+      "The paddock has a fence",
+      "The soil is dry",
+      "Owls are eating mice in this paddock"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Connect local plants and animals with arrows from food to eater; add decomposers to several chains.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
-    }
+      "summary": "A feeding claim needs observations or other evidence of the interaction.",
+      "hint": "Which is a food-chain claim?"
+    },
+    "structuredExplanation": {
+      "summary": "A feeding claim needs observations or other evidence of the interaction.",
+      "hint": "Which is a food-chain claim?"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 12,
+    "sequencePriority": 12,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U01-T-013",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
     "bank": "test",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "A new group wants to adapt “Role-card investigation”. Which method keeps the investigation focused and reviewable?",
-    "audio_prompt": "A new group wants to adapt “Role-card investigation”. Which method keeps the investigation focused and reviewable?",
+    "question": "A diagram shows acacia seed → ant → echidna. What does the arrow from ant to echidna mean?",
+    "audio_prompt": "A diagram shows acacia seed → ant → echidna. What does the arrow from ant to echidna mean?",
+    "audioPrompt": "A diagram shows acacia seed → ant → echidna. What does the arrow from ant to echidna mean?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u01.svg#ac9s4u01-t-013",
-      "alt_text": "A simple habitat food chain with arrows from a plant to two consumers and a decomposer. Question context: A new group wants to adapt “Role-card investigation”. Which method keeps the investigation focused and reviewable?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Begin role-card investigation, change two important conditions together, then compare only the preferred observation.",
+        "text": "The echidna gives sunlight to the ant",
         "is_correct": false
       },
       {
-        "text": "Carry out role-card investigation once, omit the measurements and report the original prediction as the result.",
+        "text": "The acacia seed eats the ant",
         "is_correct": false
       },
       {
-        "text": "Sort organisms as producer, consumer or decomposer and justify any organism that has more than one consumer role.",
+        "text": "The echidna gets food and energy from the ant",
         "is_correct": true
+      },
+      {
+        "text": "The ant makes the echidna",
+        "is_correct": false
       }
     ],
+    "answer_texts": [
+      "The echidna gives sunlight to the ant",
+      "The acacia seed eats the ant",
+      "The echidna gets food and energy from the ant",
+      "The ant makes the echidna"
+    ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Sort organisms as producer, consumer or decomposer and justify any organism that has more than one consumer role.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
-    }
+      "summary": "The arrow means the echidna eats, or gains energy from, the ant.",
+      "hint": "Food source to eater."
+    },
+    "structuredExplanation": {
+      "summary": "The arrow means the echidna eats, or gains energy from, the ant.",
+      "hint": "Food source to eater."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 13,
+    "sequencePriority": 13,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U01-T-014",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
     "bank": "test",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "A new group wants to adapt “Change-one-part model”. Which method keeps the investigation focused and reviewable?",
-    "audio_prompt": "A new group wants to adapt “Change-one-part model”. Which method keeps the investigation focused and reviewable?",
+    "question": "Which statement is most accurate for consumers?",
+    "audio_prompt": "Which statement is most accurate for consumers?",
+    "audioPrompt": "Which statement is most accurate for consumers?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u01.svg#ac9s4u01-t-014",
-      "alt_text": "A simple habitat food chain with arrows from a plant to two consumers and a decomposer. Question context: A new group wants to adapt “Change-one-part model”. Which method keeps the investigation focused and reviewable?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Remove or increase one population in a model habitat and predict two direct and one indirect effect.",
+        "text": "Consumers cannot be eaten",
+        "is_correct": false
+      },
+      {
+        "text": "Consumers can be herbivores, carnivores or omnivores",
         "is_correct": true
       },
       {
-        "text": "Begin change-one-part model, change two important conditions together, then compare only the preferred observation.",
+        "text": "Consumers only eat producers",
         "is_correct": false
       },
       {
-        "text": "Carry out change-one-part model once, omit the measurements and report the original prediction as the result.",
+        "text": "Consumers make their own food",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Consumers cannot be eaten",
+      "Consumers can be herbivores, carnivores or omnivores",
+      "Consumers only eat producers",
+      "Consumers make their own food"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Remove or increase one population in a model habitat and predict two direct and one indirect effect.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
-    }
+      "summary": "Consumers are grouped by getting energy from eating, not by one diet type.",
+      "hint": "Consumer has several diet types."
+    },
+    "structuredExplanation": {
+      "summary": "Consumers are grouped by getting energy from eating, not by one diet type.",
+      "hint": "Consumer has several diet types."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 14,
+    "sequencePriority": 14,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U01-T-015",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
     "bank": "test",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "A new producers, consumers, decomposers and food chains investigation reports “fewer grass plants”. Which conclusion is best supported by the display?",
-    "audio_prompt": "A new producers, consumers, decomposers and food chains investigation reports “fewer grass plants”. Which conclusion is best supported by the display?",
+    "question": "A fallen dead fish in a creek is broken down by bacteria. What interaction is this?",
+    "audio_prompt": "A fallen dead fish in a creek is broken down by bacteria. What interaction is this?",
+    "audioPrompt": "A fallen dead fish in a creek is broken down by bacteria. What interaction is this?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u01.svg#ac9s4u01-t-015",
-      "alt_text": "A simple habitat food chain with arrows from a plant to two consumers and a decomposer. Question context: A new producers, consumers, decomposers and food chains investigation reports “fewer grass plants”. Which conclusion is best supported by the display?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "pressure on grasshopper population because more consumers feeding",
-        "is_correct": false
-      },
-      {
-        "text": "fewer grasshoppers because less food available",
+        "text": "Decomposition of dead material",
         "is_correct": true
       },
       {
-        "text": "dead material builds up because slower nutrient recycling",
+        "text": "A producer making food",
+        "is_correct": false
+      },
+      {
+        "text": "A predator chasing prey",
+        "is_correct": false
+      },
+      {
+        "text": "Sunlight being eaten",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "Decomposition of dead material",
+      "A producer making food",
+      "A predator chasing prey",
+      "Sunlight being eaten"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "fewer grass plants is linked to fewer grasshoppers because less food available.",
-      "hint": "Trace across the same row and keep the conclusion limited to the evidence shown."
-    }
+      "summary": "Bacteria can act as decomposers when they break down dead remains.",
+      "hint": "Dead organism broken down."
+    },
+    "structuredExplanation": {
+      "summary": "Bacteria can act as decomposers when they break down dead remains.",
+      "hint": "Dead organism broken down."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 15,
+    "sequencePriority": 15,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U01-T-016",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
     "bank": "test",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "A new producers, consumers, decomposers and food chains investigation reports “more frogs”. Which conclusion is best supported by the display?",
-    "audio_prompt": "A new producers, consumers, decomposers and food chains investigation reports “more frogs”. Which conclusion is best supported by the display?",
+    "question": "A class predicts that fewer insects may affect frogs in a billabong. Why is that reasonable?",
+    "audio_prompt": "A class predicts that fewer insects may affect frogs in a billabong. Why is that reasonable?",
+    "audioPrompt": "A class predicts that fewer insects may affect frogs in a billabong. Why is that reasonable?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u01.svg#ac9s4u01-t-016",
-      "alt_text": "A simple habitat food chain with arrows from a plant to two consumers and a decomposer. Question context: A new producers, consumers, decomposers and food chains investigation reports “more frogs”. Which conclusion is best supported by the display?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "fewer grasshoppers because less food available",
+        "text": "Frogs are producers",
         "is_correct": false
       },
       {
-        "text": "dead material builds up because slower nutrient recycling",
+        "text": "Insects are not living things",
         "is_correct": false
       },
       {
-        "text": "pressure on grasshopper population because more consumers feeding",
+        "text": "Billabongs cannot have food chains",
+        "is_correct": false
+      },
+      {
+        "text": "Frogs often rely on insects as food",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Frogs are producers",
+      "Insects are not living things",
+      "Billabongs cannot have food chains",
+      "Frogs often rely on insects as food"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "more frogs is linked to pressure on grasshopper population because more consumers feeding.",
-      "hint": "Trace across the same row and keep the conclusion limited to the evidence shown."
-    }
+      "summary": "A decrease in a food source can affect consumers that eat it.",
+      "hint": "Follow insect to frog."
+    },
+    "structuredExplanation": {
+      "summary": "A decrease in a food source can affect consumers that eat it.",
+      "hint": "Follow insect to frog."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 16,
+    "sequencePriority": 16,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   }
 ]

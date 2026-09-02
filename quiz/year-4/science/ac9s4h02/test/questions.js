@@ -7,27 +7,30 @@ window.skillrTestQuestions = [
     "skill": "using science to meet needs and solve problems",
     "printable": true,
     "type": "single",
-    "question": "A museum activity card says, “requirement or problem to address”. Which scientific term belongs on the card?",
-    "audioPrompt": "A museum activity card says, “requirement or problem to address”. Which scientific term belongs on the card?",
-    "visual": "Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “requirement or problem to address”. Which scientific term belongs on the card?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “requirement or problem to address”. Which scientific term belongs on the card?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4h02.svg#ac9s4h02-t-001\"></use></svg>",
+    "question": "Which is the best measurable criterion for a solar oven?",
+    "audioPrompt": "Which is the best measurable criterion for a solar oven?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h02.svg#ac9s4h02-t-001",
-      "alt_text": "Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “requirement or problem to address”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "criterion",
-      "need",
-      "constraint"
+      "Has a fun name",
+      "Everyone thinks it is clever",
+      "Raises water temperature by at least 15°C in 30 minutes",
+      "Looks like a real oven"
     ],
-    "correct": 1,
-    "explanation": "need is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "correct": 2,
+    "explanation": "A measurable criterion states what success looks like using evidence.\nHint: Number and time.",
     "structuredExplanation": {
-      "summary": "need is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "A measurable criterion states what success looks like using evidence.",
+      "hint": "Number and time."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4h02-t-002",
@@ -36,27 +39,30 @@ window.skillrTestQuestions = [
     "skill": "using science to meet needs and solve problems",
     "printable": true,
     "type": "single",
-    "question": "A museum activity card says, “measurable feature used to judge success”. Which scientific term belongs on the card?",
-    "audioPrompt": "A museum activity card says, “measurable feature used to judge success”. Which scientific term belongs on the card?",
-    "visual": "Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “measurable feature used to judge success”. Which scientific term belongs on the card?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “measurable feature used to judge success”. Which scientific term belongs on the card?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4h02.svg#ac9s4h02-t-002\"></use></svg>",
+    "question": "A design brief says only classroom scrap materials can be used. What is this?",
+    "audioPrompt": "A design brief says only classroom scrap materials can be used. What is this?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h02.svg#ac9s4h02-t-002",
-      "alt_text": "Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “measurable feature used to judge success”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "constraint",
-      "prototype",
-      "criterion"
+      "A claim only",
+      "A constraint",
+      "A result",
+      "A prototype"
     ],
-    "correct": 2,
-    "explanation": "criterion is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "correct": 1,
+    "explanation": "A limit on materials is a constraint.\nHint: Design limit.",
     "structuredExplanation": {
-      "summary": "criterion is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "A limit on materials is a constraint.",
+      "hint": "Design limit."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4h02-t-003",
@@ -65,27 +71,30 @@ window.skillrTestQuestions = [
     "skill": "using science to meet needs and solve problems",
     "printable": true,
     "type": "single",
-    "question": "A museum activity card says, “limit such as cost, time, safety or materials”. Which scientific term belongs on the card?",
-    "audioPrompt": "A museum activity card says, “limit such as cost, time, safety or materials”. Which scientific term belongs on the card?",
-    "visual": "Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “limit such as cost, time, safety or materials”. Which scientific term belongs on the card?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “limit such as cost, time, safety or materials”. Which scientific term belongs on the card?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4h02.svg#ac9s4h02-t-003\"></use></svg>",
+    "question": "Why should two cooling-box prototypes be tested with the same starting temperature?",
+    "audioPrompt": "Why should two cooling-box prototypes be tested with the same starting temperature?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h02.svg#ac9s4h02-t-003",
-      "alt_text": "Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “limit such as cost, time, safety or materials”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "constraint",
-      "prototype",
-      "trade-off"
+      "So differences are more likely due to the prototype design",
+      "So one design automatically wins",
+      "So no thermometer is needed",
+      "So cost becomes a temperature"
     ],
     "correct": 0,
-    "explanation": "constraint is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "explanation": "Controlling starting temperature makes the comparison fairer.\nHint: Same starting condition.",
     "structuredExplanation": {
-      "summary": "constraint is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Controlling starting temperature makes the comparison fairer.",
+      "hint": "Same starting condition."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4h02-t-004",
@@ -94,27 +103,30 @@ window.skillrTestQuestions = [
     "skill": "using science to meet needs and solve problems",
     "printable": true,
     "type": "single",
-    "question": "A museum activity card says, “early model used for testing”. Which scientific term belongs on the card?",
-    "audioPrompt": "A museum activity card says, “early model used for testing”. Which scientific term belongs on the card?",
-    "visual": "Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “early model used for testing”. Which scientific term belongs on the card?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “early model used for testing”. Which scientific term belongs on the card?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4h02.svg#ac9s4h02-t-004\"></use></svg>",
+    "question": "A rainwater collector catches lots of water but tips over easily. What does this show?",
+    "audioPrompt": "A rainwater collector catches lots of water but tips over easily. What does this show?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h02.svg#ac9s4h02-t-004",
-      "alt_text": "Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “early model used for testing”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "trade-off",
-      "prototype",
-      "need"
+      "A perfect solution",
+      "A result that should be hidden",
+      "A criterion that cannot be measured",
+      "A trade-off or weakness that needs redesign"
     ],
-    "correct": 1,
-    "explanation": "prototype is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "correct": 3,
+    "explanation": "The collector meets one goal but has a stability problem.\nHint: Benefit plus limitation.",
     "structuredExplanation": {
-      "summary": "prototype is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "The collector meets one goal but has a stability problem.",
+      "hint": "Benefit plus limitation."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4h02-t-005",
@@ -123,27 +135,30 @@ window.skillrTestQuestions = [
     "skill": "using science to meet needs and solve problems",
     "printable": true,
     "type": "single",
-    "question": "A museum activity card says, “gain in one feature paired with a limitation in another”. Which scientific term belongs on the card?",
-    "audioPrompt": "A museum activity card says, “gain in one feature paired with a limitation in another”. Which scientific term belongs on the card?",
-    "visual": "Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “gain in one feature paired with a limitation in another”. Which scientific term belongs on the card?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “gain in one feature paired with a limitation in another”. Which scientific term belongs on the card?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4h02.svg#ac9s4h02-t-005\"></use></svg>",
+    "question": "Which recommendation is best supported?",
+    "audioPrompt": "Which recommendation is best supported?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h02.svg#ac9s4h02-t-005",
-      "alt_text": "Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “gain in one feature paired with a limitation in another”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "need",
-      "criterion",
-      "trade-off"
+      "Choose the first idea",
+      "Choose the one not tested",
+      "Choose the sleeve that kept water coolest and still fit the cost limit",
+      "Choose the prettiest sleeve"
     ],
     "correct": 2,
-    "explanation": "trade-off is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "explanation": "The recommendation uses performance evidence and a constraint.\nHint: Evidence and limit.",
     "structuredExplanation": {
-      "summary": "trade-off is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "The recommendation uses performance evidence and a constraint.",
+      "hint": "Evidence and limit."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4h02-t-006",
@@ -152,27 +167,30 @@ window.skillrTestQuestions = [
     "skill": "using science to meet needs and solve problems",
     "printable": true,
     "type": "single",
-    "question": "A different class records this conclusion: “The first idea is called the solution”. Which feedback would improve it most?",
-    "audioPrompt": "A different class records this conclusion: “The first idea is called the solution”. Which feedback would improve it most?",
-    "visual": "Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “The first idea is called the solution”. Which feedback would improve it most?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “The first idea is called the solution”. Which feedback would improve it most?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4h02.svg#ac9s4h02-t-006\"></use></svg>",
+    "question": "A prototype is tested before the final product because:",
+    "audioPrompt": "A prototype is tested before the final product because:",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h02.svg#ac9s4h02-t-006",
-      "alt_text": "Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “The first idea is called the solution”. Which feedback would improve it most?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Define criteria and compare alternatives before deciding.",
-      "The first idea is called the solution",
-      "Scientific explanation guarantees success"
+      "Criteria should be guessed later",
+      "Early evidence can guide improvements",
+      "Testing only works after selling it",
+      "Models cannot be changed"
     ],
-    "correct": 0,
-    "explanation": "Define criteria and compare alternatives before deciding.\nHint: Choose the response that uses evidence and corrects the mistaken relationship.",
+    "correct": 1,
+    "explanation": "Prototype testing helps teams improve designs before final decisions.\nHint: Test early.",
     "structuredExplanation": {
-      "summary": "Define criteria and compare alternatives before deciding.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Prototype testing helps teams improve designs before final decisions.",
+      "hint": "Test early."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4h02-t-007",
@@ -181,27 +199,30 @@ window.skillrTestQuestions = [
     "skill": "using science to meet needs and solve problems",
     "printable": true,
     "type": "single",
-    "question": "A different class records this conclusion: “Scientific explanation guarantees success”. Which feedback would improve it most?",
-    "audioPrompt": "A different class records this conclusion: “Scientific explanation guarantees success”. Which feedback would improve it most?",
-    "visual": "Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Scientific explanation guarantees success”. Which feedback would improve it most?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Scientific explanation guarantees success”. Which feedback would improve it most?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4h02.svg#ac9s4h02-t-007\"></use></svg>",
+    "question": "Which is the best science link for an insulated cup design?",
+    "audioPrompt": "Which is the best science link for an insulated cup design?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h02.svg#ac9s4h02-t-007",
-      "alt_text": "Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Scientific explanation guarantees success”. Which feedback would improve it most?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Scientific explanation guarantees success",
-      "A design must be tested under relevant conditions.",
-      "Best means best for everyone"
+      "Reducing heat transfer helps keep the drink temperature more stable",
+      "Adding a bigger sticker cools the drink",
+      "The cup name changes heat",
+      "Colour preference proves insulation"
     ],
-    "correct": 1,
-    "explanation": "A design must be tested under relevant conditions.\nHint: Choose the response that uses evidence and corrects the mistaken relationship.",
+    "correct": 0,
+    "explanation": "The science explanation connects insulation to heat transfer.\nHint: Science behind feature.",
     "structuredExplanation": {
-      "summary": "A design must be tested under relevant conditions.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "The science explanation connects insulation to heat transfer.",
+      "hint": "Science behind feature."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4h02-t-008",
@@ -210,27 +231,30 @@ window.skillrTestQuestions = [
     "skill": "using science to meet needs and solve problems",
     "printable": true,
     "type": "single",
-    "question": "A different class records this conclusion: “Best means best for everyone”. Which feedback would improve it most?",
-    "audioPrompt": "A different class records this conclusion: “Best means best for everyone”. Which feedback would improve it most?",
-    "visual": "Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Best means best for everyone”. Which feedback would improve it most?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Best means best for everyone”. Which feedback would improve it most?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4h02.svg#ac9s4h02-t-008\"></use></svg>",
+    "question": "Which design claim wrongly overgeneralises?",
+    "audioPrompt": "Which design claim wrongly overgeneralises?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h02.svg#ac9s4h02-t-008",
-      "alt_text": "Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Best means best for everyone”. Which feedback would improve it most?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Best means best for everyone",
-      "Aesthetic preference used as criterion",
-      "Users and constraints can change the preferred trade-off."
+      "Criteria help judge success",
+      "Constraints limit choices",
+      "Evidence can improve designs",
+      "Best means best for every user and every situation"
     ],
-    "correct": 2,
-    "explanation": "Users and constraints can change the preferred trade-off.\nHint: Choose the response that uses evidence and corrects the mistaken relationship.",
+    "correct": 3,
+    "explanation": "The best design depends on the user, criteria and constraints.\nHint: Best for whom?",
     "structuredExplanation": {
-      "summary": "Users and constraints can change the preferred trade-off.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "The best design depends on the user, criteria and constraints.",
+      "hint": "Best for whom?"
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4h02-t-009",
@@ -239,27 +263,30 @@ window.skillrTestQuestions = [
     "skill": "using science to meet needs and solve problems",
     "printable": true,
     "type": "single",
-    "question": "A different class records this conclusion: “Aesthetic preference used as criterion”. Which feedback would improve it most?",
-    "audioPrompt": "A different class records this conclusion: “Aesthetic preference used as criterion”. Which feedback would improve it most?",
-    "visual": "Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Aesthetic preference used as criterion”. Which feedback would improve it most?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Aesthetic preference used as criterion”. Which feedback would improve it most?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4h02.svg#ac9s4h02-t-009\"></use></svg>",
+    "question": "A team chooses a heavier material because it survives all drop tests. What should they also consider?",
+    "audioPrompt": "A team chooses a heavier material because it survives all drop tests. What should they also consider?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h02.svg#ac9s4h02-t-009",
-      "alt_text": "Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Aesthetic preference used as criterion”. Which feedback would improve it most?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Criteria should be measurable or clearly evaluable.",
-      "Aesthetic preference used as criterion",
-      "The first idea is called the solution"
+      "Whether testing should stop forever",
+      "Whether evidence is unnecessary",
+      "Whether the mass still meets the user’s needs",
+      "Whether it has the longest name"
     ],
-    "correct": 0,
-    "explanation": "Criteria should be measurable or clearly evaluable.\nHint: Choose the response that uses evidence and corrects the mistaken relationship.",
+    "correct": 2,
+    "explanation": "A strong material may still be unsuitable if it is too heavy.\nHint: Check constraints.",
     "structuredExplanation": {
-      "summary": "Criteria should be measurable or clearly evaluable.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "A strong material may still be unsuitable if it is too heavy.",
+      "hint": "Check constraints."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4h02-t-010",
@@ -268,27 +295,30 @@ window.skillrTestQuestions = [
     "skill": "using science to meet needs and solve problems",
     "printable": true,
     "type": "single",
-    "question": "A new field-note example asks: Which is a measurable criterion for an insulated bottle?",
-    "audioPrompt": "A new field-note example asks: Which is a measurable criterion for an insulated bottle?",
-    "visual": "Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A new field-note example asks: Which is a measurable criterion for an insulated bottle?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A new field-note example asks: Which is a measurable criterion for an insulated bottle?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4h02.svg#ac9s4h02-t-010\"></use></svg>",
+    "question": "Which evidence would improve a claim about a bike helmet liner?",
+    "audioPrompt": "Which evidence would improve a claim about a bike helmet liner?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h02.svg#ac9s4h02-t-010",
-      "alt_text": "Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A new field-note example asks: Which is a measurable criterion for an insulated bottle?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "It looks perfect",
-      "Water remains below 12°C after 2 hours",
-      "Everyone likes it"
+      "The price with no safety test",
+      "Impact-test results under the same drop conditions",
+      "The student’s favourite colour",
+      "A drawing without data"
     ],
     "correct": 1,
-    "explanation": "Water remains below 12°C after 2 hours\nHint: Use the stated observation, measurement or relationship—not preference—to decide.",
+    "explanation": "Safety design claims need relevant test evidence.\nHint: Impact evidence.",
     "structuredExplanation": {
-      "summary": "Water remains below 12°C after 2 hours",
-      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
+      "summary": "Safety design claims need relevant test evidence.",
+      "hint": "Impact evidence."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4h02-t-011",
@@ -297,27 +327,30 @@ window.skillrTestQuestions = [
     "skill": "using science to meet needs and solve problems",
     "printable": true,
     "type": "single",
-    "question": "A new design task asks: Which statement describes a constraint?",
-    "audioPrompt": "A new design task asks: Which statement describes a constraint?",
-    "visual": "Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A new design task asks: Which statement describes a constraint?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A new design task asks: Which statement describes a constraint?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4h02.svg#ac9s4h02-t-011\"></use></svg>",
+    "question": "A first prototype leaks at the corner. What is the most evidence-based next step?",
+    "audioPrompt": "A first prototype leaks at the corner. What is the most evidence-based next step?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h02.svg#ac9s4h02-t-011",
-      "alt_text": "Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A new design task asks: Which statement describes a constraint?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The design should reduce heat transfer",
-      "The water temperature is measured",
-      "The design must cost less than $20"
+      "Change the corner seal and retest for leaks",
+      "Ignore the leak because the idea was first",
+      "Choose by decoration",
+      "Stop recording water"
     ],
-    "correct": 2,
-    "explanation": "The design must cost less than $20\nHint: Use the stated observation, measurement or relationship—not preference—to decide.",
+    "correct": 0,
+    "explanation": "The redesign targets the observed weakness.\nHint: Fix what failed.",
     "structuredExplanation": {
-      "summary": "The design must cost less than $20",
-      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
+      "summary": "The redesign targets the observed weakness.",
+      "hint": "Fix what failed."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4h02-t-012",
@@ -326,27 +359,30 @@ window.skillrTestQuestions = [
     "skill": "using science to meet needs and solve problems",
     "printable": true,
     "type": "single",
-    "question": "A new group wants to adapt “Need-to-science map”. Which method keeps the investigation focused and reviewable?",
-    "audioPrompt": "A new group wants to adapt “Need-to-science map”. Which method keeps the investigation focused and reviewable?",
-    "visual": "Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Need-to-science map”. Which method keeps the investigation focused and reviewable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Need-to-science map”. Which method keeps the investigation focused and reviewable?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4h02.svg#ac9s4h02-t-012\"></use></svg>",
+    "question": "Which pair is criterion and constraint?",
+    "audioPrompt": "Which pair is criterion and constraint?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h02.svg#ac9s4h02-t-012",
-      "alt_text": "Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Need-to-science map”. Which method keeps the investigation focused and reviewable?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Choose a problem and connect it to a scientific explanation, design feature and measurable criterion.",
-      "Begin need-to-science map, change two important conditions together, then compare only the preferred observation.",
-      "Carry out need-to-science map once, omit the measurements and report the original prediction as the result."
+      "Blue colour; funny team name",
+      "Favourite material; neat poster",
+      "Graph title; class vote",
+      "Keeps ice frozen for 3 hours; costs under $10"
     ],
-    "correct": 0,
-    "explanation": "Choose a problem and connect it to a scientific explanation, design feature and measurable criterion.\nHint: Look for a plan that observes or measures evidence and keeps the comparison clear.",
+    "correct": 3,
+    "explanation": "The first is measurable performance and the second is a limit.\nHint: Performance plus limit.",
     "structuredExplanation": {
-      "summary": "Choose a problem and connect it to a scientific explanation, design feature and measurable criterion.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+      "summary": "The first is measurable performance and the second is a limit.",
+      "hint": "Performance plus limit."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4h02-t-013",
@@ -355,27 +391,30 @@ window.skillrTestQuestions = [
     "skill": "using science to meet needs and solve problems",
     "printable": true,
     "type": "single",
-    "question": "A new group wants to adapt “Prototype comparison”. Which method keeps the investigation focused and reviewable?",
-    "audioPrompt": "A new group wants to adapt “Prototype comparison”. Which method keeps the investigation focused and reviewable?",
-    "visual": "Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Prototype comparison”. Which method keeps the investigation focused and reviewable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Prototype comparison”. Which method keeps the investigation focused and reviewable?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4h02.svg#ac9s4h02-t-013\"></use></svg>",
+    "question": "Why can a design that works in one test still need more testing?",
+    "audioPrompt": "Why can a design that works in one test still need more testing?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h02.svg#ac9s4h02-t-013",
-      "alt_text": "Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Prototype comparison”. Which method keeps the investigation focused and reviewable?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Begin prototype comparison, change two important conditions together, then compare only the preferred observation.",
-      "Test two simple insulating designs under equal conditions and graph temperature change.",
-      "Carry out prototype comparison once, omit the measurements and report the original prediction as the result."
+      "More evidence always weakens claims",
+      "Working once means criteria do not matter",
+      "Different conditions may reveal new limitations",
+      "One test proves every future use"
     ],
-    "correct": 1,
-    "explanation": "Test two simple insulating designs under equal conditions and graph temperature change.\nHint: Look for a plan that observes or measures evidence and keeps the comparison clear.",
+    "correct": 2,
+    "explanation": "Testing under varied relevant conditions checks reliability and limitations.\nHint: Conditions vary.",
     "structuredExplanation": {
-      "summary": "Test two simple insulating designs under equal conditions and graph temperature change.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+      "summary": "Testing under varied relevant conditions checks reliability and limitations.",
+      "hint": "Conditions vary."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4h02-t-014",
@@ -384,27 +423,30 @@ window.skillrTestQuestions = [
     "skill": "using science to meet needs and solve problems",
     "printable": true,
     "type": "single",
-    "question": "A new group wants to adapt “Trade-off meeting”. Which method keeps the investigation focused and reviewable?",
-    "audioPrompt": "A new group wants to adapt “Trade-off meeting”. Which method keeps the investigation focused and reviewable?",
-    "visual": "Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Trade-off meeting”. Which method keeps the investigation focused and reviewable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Trade-off meeting”. Which method keeps the investigation focused and reviewable?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4h02.svg#ac9s4h02-t-014\"></use></svg>",
+    "question": "A school shade design must cool seats and let teachers see students. What does this show?",
+    "audioPrompt": "A school shade design must cool seats and let teachers see students. What does this show?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h02.svg#ac9s4h02-t-014",
-      "alt_text": "Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Trade-off meeting”. Which method keeps the investigation focused and reviewable?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Begin trade-off meeting, change two important conditions together, then compare only the preferred observation.",
-      "Carry out trade-off meeting once, omit the measurements and report the original prediction as the result.",
-      "Rank criteria for different users, then explain why the recommended solution may change."
+      "Criteria are opinions only",
+      "A solution may need to meet several criteria at once",
+      "Only cooling matters",
+      "Visibility cannot be a requirement"
     ],
-    "correct": 2,
-    "explanation": "Rank criteria for different users, then explain why the recommended solution may change.\nHint: Look for a plan that observes or measures evidence and keeps the comparison clear.",
+    "correct": 1,
+    "explanation": "Real designs often need to satisfy multiple requirements.\nHint: Several needs.",
     "structuredExplanation": {
-      "summary": "Rank criteria for different users, then explain why the recommended solution may change.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+      "summary": "Real designs often need to satisfy multiple requirements.",
+      "hint": "Several needs."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4h02-t-015",
@@ -413,27 +455,30 @@ window.skillrTestQuestions = [
     "skill": "using science to meet needs and solve problems",
     "printable": true,
     "type": "single",
-    "question": "A new using science to meet needs and solve problems investigation reports “temperature control”. Which conclusion is best supported by the display?",
-    "audioPrompt": "A new using science to meet needs and solve problems investigation reports “temperature control”. Which conclusion is best supported by the display?",
-    "visual": "Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A new using science to meet needs and solve problems investigation reports “temperature control”. Which conclusion is best supported by the display?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A new using science to meet needs and solve problems investigation reports “temperature control”. Which conclusion is best supported by the display?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4h02.svg#ac9s4h02-t-015\"></use></svg>",
+    "question": "Which statement best evaluates an advertisement saying “science says this bottle is best”?",
+    "audioPrompt": "Which statement best evaluates an advertisement saying “science says this bottle is best”?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h02.svg#ac9s4h02-t-015",
-      "alt_text": "Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A new using science to meet needs and solve problems investigation reports “temperature control”. Which conclusion is best supported by the display?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "good because very good",
-      "light because heavy",
-      "low because higher"
+      "Ask what tests, criteria, comparisons and limits support the claim",
+      "Accept it without evidence",
+      "Reject all science in products",
+      "Choose it for the label"
     ],
     "correct": 0,
-    "explanation": "temperature control is linked to good because very good.\nHint: Trace across the same row and keep the conclusion limited to the evidence shown.",
+    "explanation": "A scientific product claim should be backed by transparent evidence.\nHint: Check evidence.",
     "structuredExplanation": {
-      "summary": "temperature control is linked to good because very good.",
-      "hint": "Trace across the same row and keep the conclusion limited to the evidence shown."
+      "summary": "A scientific product claim should be backed by transparent evidence.",
+      "hint": "Check evidence."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4h02-t-016",
@@ -442,28 +487,29 @@ window.skillrTestQuestions = [
     "skill": "using science to meet needs and solve problems",
     "printable": true,
     "type": "single",
-    "question": "A new using science to meet needs and solve problems investigation reports “mass”. Which conclusion is best supported by the display?",
-    "audioPrompt": "A new using science to meet needs and solve problems investigation reports “mass”. Which conclusion is best supported by the display?",
-    "visual": "Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A new using science to meet needs and solve problems investigation reports “mass”. Which conclusion is best supported by the display?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A new using science to meet needs and solve problems investigation reports “mass”. Which conclusion is best supported by the display?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4h02.svg#ac9s4h02-t-016\"></use></svg>",
+    "question": "A group improves a bridge after measuring where it bent. What process is being used?",
+    "audioPrompt": "A group improves a bridge after measuring where it bent. What process is being used?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h02.svg#ac9s4h02-t-016",
-      "alt_text": "Using Science to Meet Needs and Solve Problems concept map showing a Year 4 observe, compare and explain sequence. Question context: A new using science to meet needs and solve problems investigation reports “mass”. Which conclusion is best supported by the display?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "good because very good",
-      "light because heavy",
-      "low because higher"
+      "Precipitation",
+      "Food-chain modelling",
+      "Preference voting",
+      "Evidence-based redesign"
     ],
-    "correct": 1,
-    "explanation": "mass is linked to light because heavy.\nHint: Trace across the same row and keep the conclusion limited to the evidence shown.",
+    "correct": 3,
+    "explanation": "They used test evidence to guide an improvement.\nHint: Data to redesign.",
     "structuredExplanation": {
-      "summary": "mass is linked to light because heavy.",
-      "hint": "Trace across the same row and keep the conclusion limited to the evidence shown."
+      "summary": "They used test evidence to guide an improvement.",
+      "hint": "Data to redesign."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v6"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

@@ -7,27 +7,31 @@ window.skillrPracticeQuestions = [
     "skill": "natural and made materials properties and uses",
     "printable": true,
     "type": "single",
-    "question": "A class observation is described as “observable or measurable characteristic of a material”. Which scientific term best labels it?",
-    "audioPrompt": "A class observation is described as “observable or measurable characteristic of a material”. Which scientific term best labels it?",
-    "visual": "Four material samples arranged for a fair comparison of observable properties. Question context: A class observation is described as “observable or measurable characteristic of a material”. Which scientific term best labels it?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four material samples arranged for a fair comparison of observable properties. Question context: A class observation is described as “observable or measurable characteristic of a material”. Which scientific term best labels it?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-001\"></use></svg>",
+    "question": "Which property makes clear glass useful for a window?",
+    "audioPrompt": "Which property makes clear glass useful for a window?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-001",
-      "alt_text": "Four material samples arranged for a fair comparison of observable properties. Question context: A class observation is described as “observable or measurable characteristic of a material”. Which scientific term best labels it?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "natural material",
-      "made material",
-      "property"
+      "It is transparent",
+      "It is absorbent",
+      "It is stretchy",
+      "It is magnetic"
     ],
-    "correct": 2,
-    "explanation": "property is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "correct": 0,
+    "explanation": "Transparent materials let light pass through, which is useful for windows.\nHint: Think seeing through it.",
     "structuredExplanation": {
-      "summary": "property is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Transparent materials let light pass through, which is useful for windows.",
+      "hint": "Think seeing through it."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4u04-p-002",
@@ -36,27 +40,31 @@ window.skillrPracticeQuestions = [
     "skill": "natural and made materials properties and uses",
     "printable": true,
     "type": "single",
-    "question": "A class observation is described as “material obtained from plants, animals or Earth with processing”. Which scientific term best labels it?",
-    "audioPrompt": "A class observation is described as “material obtained from plants, animals or Earth with processing”. Which scientific term best labels it?",
-    "visual": "Four material samples arranged for a fair comparison of observable properties. Question context: A class observation is described as “material obtained from plants, animals or Earth with processing”. Which scientific term best labels it?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four material samples arranged for a fair comparison of observable properties. Question context: A class observation is described as “material obtained from plants, animals or Earth with processing”. Which scientific term best labels it?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-002\"></use></svg>",
+    "question": "Which material is a natural fibre?",
+    "audioPrompt": "Which material is a natural fibre?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-002",
-      "alt_text": "Four material samples arranged for a fair comparison of observable properties. Question context: A class observation is described as “material obtained from plants, animals or Earth with processing”. Which scientific term best labels it?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "natural material",
-      "made material",
-      "fibre"
+      "Acrylic plastic",
+      "Nylon rope",
+      "Glass sheet",
+      "Cotton"
     ],
-    "correct": 0,
-    "explanation": "natural material is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "correct": 3,
+    "explanation": "Cotton is a fibre that comes from a plant.\nHint: Plant or animal source.",
     "structuredExplanation": {
-      "summary": "natural material is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Cotton is a fibre that comes from a plant.",
+      "hint": "Plant or animal source."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4u04-p-003",
@@ -65,27 +73,31 @@ window.skillrPracticeQuestions = [
     "skill": "natural and made materials properties and uses",
     "printable": true,
     "type": "single",
-    "question": "A class observation is described as “material manufactured or substantially transformed by people”. Which scientific term best labels it?",
-    "audioPrompt": "A class observation is described as “material manufactured or substantially transformed by people”. Which scientific term best labels it?",
-    "visual": "Four material samples arranged for a fair comparison of observable properties. Question context: A class observation is described as “material manufactured or substantially transformed by people”. Which scientific term best labels it?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four material samples arranged for a fair comparison of observable properties. Question context: A class observation is described as “material manufactured or substantially transformed by people”. Which scientific term best labels it?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-003\"></use></svg>",
+    "question": "Which material is made by people from processed ingredients?",
+    "audioPrompt": "Which material is made by people from processed ingredients?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-003",
-      "alt_text": "Four material samples arranged for a fair comparison of observable properties. Question context: A class observation is described as “material manufactured or substantially transformed by people”. Which scientific term best labels it?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "fibre",
-      "made material",
-      "suitability"
+      "Fallen branch",
+      "Cotton boll",
+      "Plastic bottle",
+      "Raw wool fleece"
     ],
-    "correct": 1,
-    "explanation": "made material is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "correct": 2,
+    "explanation": "Plastic is a made material produced through manufacturing.\nHint: Manufactured material.",
     "structuredExplanation": {
-      "summary": "made material is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Plastic is a made material produced through manufacturing.",
+      "hint": "Manufactured material."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4u04-p-004",
@@ -94,27 +106,31 @@ window.skillrPracticeQuestions = [
     "skill": "natural and made materials properties and uses",
     "printable": true,
     "type": "single",
-    "question": "A class observation is described as “thin strand that can form yarn, fabric or composites”. Which scientific term best labels it?",
-    "audioPrompt": "A class observation is described as “thin strand that can form yarn, fabric or composites”. Which scientific term best labels it?",
-    "visual": "Four material samples arranged for a fair comparison of observable properties. Question context: A class observation is described as “thin strand that can form yarn, fabric or composites”. Which scientific term best labels it?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four material samples arranged for a fair comparison of observable properties. Question context: A class observation is described as “thin strand that can form yarn, fabric or composites”. Which scientific term best labels it?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-004\"></use></svg>",
+    "question": "Which property describes how much water a material soaks up?",
+    "audioPrompt": "Which property describes how much water a material soaks up?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-004",
-      "alt_text": "Four material samples arranged for a fair comparison of observable properties. Question context: A class observation is described as “thin strand that can form yarn, fabric or composites”. Which scientific term best labels it?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "suitability",
-      "property",
-      "fibre"
+      "Hardness only",
+      "Absorbency",
+      "Transparency",
+      "Magnetism"
     ],
-    "correct": 2,
-    "explanation": "fibre is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "correct": 1,
+    "explanation": "Absorbency is the ability to take in liquid.\nHint: Soaking up water.",
     "structuredExplanation": {
-      "summary": "fibre is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Absorbency is the ability to take in liquid.",
+      "hint": "Soaking up water."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4u04-p-005",
@@ -123,27 +139,31 @@ window.skillrPracticeQuestions = [
     "skill": "natural and made materials properties and uses",
     "printable": true,
     "type": "single",
-    "question": "A class observation is described as “how well properties meet the requirements of a use”. Which scientific term best labels it?",
-    "audioPrompt": "A class observation is described as “how well properties meet the requirements of a use”. Which scientific term best labels it?",
-    "visual": "Four material samples arranged for a fair comparison of observable properties. Question context: A class observation is described as “how well properties meet the requirements of a use”. Which scientific term best labels it?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four material samples arranged for a fair comparison of observable properties. Question context: A class observation is described as “how well properties meet the requirements of a use”. Which scientific term best labels it?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-005\"></use></svg>",
+    "question": "Which material would usually be best for a raincoat outer layer?",
+    "audioPrompt": "Which material would usually be best for a raincoat outer layer?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-005",
-      "alt_text": "Four material samples arranged for a fair comparison of observable properties. Question context: A class observation is described as “how well properties meet the requirements of a use”. Which scientific term best labels it?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "suitability",
-      "property",
-      "natural material"
+      "Water-resistant fabric",
+      "Tissue paper",
+      "Untreated sponge",
+      "Loose cotton wool"
     ],
     "correct": 0,
-    "explanation": "suitability is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "explanation": "A raincoat needs a material that resists water while still being wearable.\nHint: Rain should not soak through easily.",
     "structuredExplanation": {
-      "summary": "suitability is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "A raincoat needs a material that resists water while still being wearable.",
+      "hint": "Rain should not soak through easily."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4u04-p-006",
@@ -152,27 +172,31 @@ window.skillrPracticeQuestions = [
     "skill": "natural and made materials properties and uses",
     "printable": true,
     "type": "single",
-    "question": "A student needs a heading for this evidence: “observable or measurable characteristic of a material”. Which heading is most precise?",
-    "audioPrompt": "A student needs a heading for this evidence: “observable or measurable characteristic of a material”. Which heading is most precise?",
-    "visual": "Four material samples arranged for a fair comparison of observable properties. Question context: A student needs a heading for this evidence: “observable or measurable characteristic of a material”. Which heading is most precise?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four material samples arranged for a fair comparison of observable properties. Question context: A student needs a heading for this evidence: “observable or measurable characteristic of a material”. Which heading is most precise?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-006\"></use></svg>",
+    "question": "Which property is most important for a clear drink bottle if you want to see the water level?",
+    "audioPrompt": "Which property is most important for a clear drink bottle if you want to see the water level?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-006",
-      "alt_text": "Four material samples arranged for a fair comparison of observable properties. Question context: A student needs a heading for this evidence: “observable or measurable characteristic of a material”. Which heading is most precise?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "made material",
-      "property",
-      "fibre"
+      "Absorbency",
+      "Brittleness",
+      "Smell",
+      "Transparency"
     ],
-    "correct": 1,
-    "explanation": "property is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "correct": 3,
+    "explanation": "Transparency lets you see through the bottle.\nHint: Seeing through.",
     "structuredExplanation": {
-      "summary": "property is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Transparency lets you see through the bottle.",
+      "hint": "Seeing through."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4u04-p-007",
@@ -181,27 +205,31 @@ window.skillrPracticeQuestions = [
     "skill": "natural and made materials properties and uses",
     "printable": true,
     "type": "single",
-    "question": "A student needs a heading for this evidence: “material obtained from plants, animals or Earth with processing”. Which heading is most precise?",
-    "audioPrompt": "A student needs a heading for this evidence: “material obtained from plants, animals or Earth with processing”. Which heading is most precise?",
-    "visual": "Four material samples arranged for a fair comparison of observable properties. Question context: A student needs a heading for this evidence: “material obtained from plants, animals or Earth with processing”. Which heading is most precise?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four material samples arranged for a fair comparison of observable properties. Question context: A student needs a heading for this evidence: “material obtained from plants, animals or Earth with processing”. Which heading is most precise?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-007\"></use></svg>",
+    "question": "Which word means how well a material matches a job?",
+    "audioPrompt": "Which word means how well a material matches a job?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-007",
-      "alt_text": "Four material samples arranged for a fair comparison of observable properties. Question context: A student needs a heading for this evidence: “material obtained from plants, animals or Earth with processing”. Which heading is most precise?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "fibre",
-      "suitability",
-      "natural material"
+      "Decomposition",
+      "Evaporation",
+      "Suitability",
+      "Precipitation"
     ],
     "correct": 2,
-    "explanation": "natural material is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "explanation": "Suitability describes how well material properties meet the requirements of a use.\nHint: Fit for purpose.",
     "structuredExplanation": {
-      "summary": "natural material is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Suitability describes how well material properties meet the requirements of a use.",
+      "hint": "Fit for purpose."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4u04-p-008",
@@ -210,27 +238,31 @@ window.skillrPracticeQuestions = [
     "skill": "natural and made materials properties and uses",
     "printable": true,
     "type": "single",
-    "question": "A student needs a heading for this evidence: “material manufactured or substantially transformed by people”. Which heading is most precise?",
-    "audioPrompt": "A student needs a heading for this evidence: “material manufactured or substantially transformed by people”. Which heading is most precise?",
-    "visual": "Four material samples arranged for a fair comparison of observable properties. Question context: A student needs a heading for this evidence: “material manufactured or substantially transformed by people”. Which heading is most precise?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four material samples arranged for a fair comparison of observable properties. Question context: A student needs a heading for this evidence: “material manufactured or substantially transformed by people”. Which heading is most precise?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-008\"></use></svg>",
+    "question": "Which material is usually strong and tough for building frames?",
+    "audioPrompt": "Which material is usually strong and tough for building frames?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-008",
-      "alt_text": "Four material samples arranged for a fair comparison of observable properties. Question context: A student needs a heading for this evidence: “material manufactured or substantially transformed by people”. Which heading is most precise?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "made material",
-      "suitability",
-      "property"
+      "Cotton wool",
+      "Steel",
+      "Tissue",
+      "Cling wrap"
     ],
-    "correct": 0,
-    "explanation": "made material is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "correct": 1,
+    "explanation": "Steel is often chosen where strength and toughness are needed.\nHint: Strong structure.",
     "structuredExplanation": {
-      "summary": "made material is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Steel is often chosen where strength and toughness are needed.",
+      "hint": "Strong structure."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4u04-p-009",
@@ -239,27 +271,31 @@ window.skillrPracticeQuestions = [
     "skill": "natural and made materials properties and uses",
     "printable": true,
     "type": "single",
-    "question": "A student needs a heading for this evidence: “thin strand that can form yarn, fabric or composites”. Which heading is most precise?",
-    "audioPrompt": "A student needs a heading for this evidence: “thin strand that can form yarn, fabric or composites”. Which heading is most precise?",
-    "visual": "Four material samples arranged for a fair comparison of observable properties. Question context: A student needs a heading for this evidence: “thin strand that can form yarn, fabric or composites”. Which heading is most precise?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four material samples arranged for a fair comparison of observable properties. Question context: A student needs a heading for this evidence: “thin strand that can form yarn, fabric or composites”. Which heading is most precise?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-009\"></use></svg>",
+    "question": "Which property means a material can bend without breaking easily?",
+    "audioPrompt": "Which property means a material can bend without breaking easily?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-009",
-      "alt_text": "Four material samples arranged for a fair comparison of observable properties. Question context: A student needs a heading for this evidence: “thin strand that can form yarn, fabric or composites”. Which heading is most precise?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "property",
-      "fibre",
-      "natural material"
+      "Flexibility",
+      "Transparency",
+      "Absorbency",
+      "Melting point only"
     ],
-    "correct": 1,
-    "explanation": "fibre is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "correct": 0,
+    "explanation": "Flexible materials bend more easily without breaking.\nHint: Bending.",
     "structuredExplanation": {
-      "summary": "fibre is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Flexible materials bend more easily without breaking.",
+      "hint": "Bending."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4u04-p-010",
@@ -268,27 +304,31 @@ window.skillrPracticeQuestions = [
     "skill": "natural and made materials properties and uses",
     "printable": true,
     "type": "single",
-    "question": "A student needs a heading for this evidence: “how well properties meet the requirements of a use”. Which heading is most precise?",
-    "audioPrompt": "A student needs a heading for this evidence: “how well properties meet the requirements of a use”. Which heading is most precise?",
-    "visual": "Four material samples arranged for a fair comparison of observable properties. Question context: A student needs a heading for this evidence: “how well properties meet the requirements of a use”. Which heading is most precise?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four material samples arranged for a fair comparison of observable properties. Question context: A student needs a heading for this evidence: “how well properties meet the requirements of a use”. Which heading is most precise?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-010\"></use></svg>",
+    "question": "Which is a fair way to compare absorbency?",
+    "audioPrompt": "Which is a fair way to compare absorbency?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-010",
-      "alt_text": "Four material samples arranged for a fair comparison of observable properties. Question context: A student needs a heading for this evidence: “how well properties meet the requirements of a use”. Which heading is most precise?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "natural material",
-      "made material",
-      "suitability"
+      "Use a bigger sample for the favourite material",
+      "Pour until one looks best",
+      "Use different times for each sample",
+      "Use equal-sized samples and the same water volume"
     ],
-    "correct": 2,
-    "explanation": "suitability is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "correct": 3,
+    "explanation": "A fair absorbency test controls sample size, water amount and time.\nHint: Keep the test conditions same.",
     "structuredExplanation": {
-      "summary": "suitability is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "A fair absorbency test controls sample size, water amount and time.",
+      "hint": "Keep the test conditions same."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4u04-p-011",
@@ -297,27 +337,31 @@ window.skillrPracticeQuestions = [
     "skill": "natural and made materials properties and uses",
     "printable": true,
     "type": "single",
-    "question": "During a Year 4 discussion, Student 1 says, “Natural means always safe or sustainable”. Which response best corrects the science?",
-    "audioPrompt": "During a Year 4 discussion, Student 1 says, “Natural means always safe or sustainable”. Which response best corrects the science?",
-    "visual": "Four material samples arranged for a fair comparison of observable properties. Question context: During a Year 4 discussion, Student 1 says, “Natural means always safe or sustainable”. Which response best corrects the science?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four material samples arranged for a fair comparison of observable properties. Question context: During a Year 4 discussion, Student 1 says, “Natural means always safe or sustainable”. Which response best corrects the science?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-011\"></use></svg>",
+    "question": "Why is glass useful for windows but risky for a playground ball?",
+    "audioPrompt": "Why is glass useful for windows but risky for a playground ball?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-011",
-      "alt_text": "Four material samples arranged for a fair comparison of observable properties. Question context: During a Year 4 discussion, Student 1 says, “Natural means always safe or sustainable”. Which response best corrects the science?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Source alone does not determine impact, safety or suitability.",
-      "Natural means always safe or sustainable",
-      "Made means plastic only"
+      "It absorbs too much water",
+      "It is a natural fibre",
+      "It is transparent but brittle and can break sharply",
+      "It is always stretchy"
     ],
-    "correct": 0,
-    "explanation": "Source alone does not determine impact, safety or suitability.\nHint: Choose the response that uses evidence and corrects the mistaken relationship.",
+    "correct": 2,
+    "explanation": "A material can have one useful property and another property that makes it unsuitable for a different use.\nHint: Useful property plus limitation.",
     "structuredExplanation": {
-      "summary": "Source alone does not determine impact, safety or suitability.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "A material can have one useful property and another property that makes it unsuitable for a different use.",
+      "hint": "Useful property plus limitation."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4u04-p-012",
@@ -326,27 +370,31 @@ window.skillrPracticeQuestions = [
     "skill": "natural and made materials properties and uses",
     "printable": true,
     "type": "single",
-    "question": "During a Year 4 discussion, Student 2 says, “Made means plastic only”. Which response best corrects the science?",
-    "audioPrompt": "During a Year 4 discussion, Student 2 says, “Made means plastic only”. Which response best corrects the science?",
-    "visual": "Four material samples arranged for a fair comparison of observable properties. Question context: During a Year 4 discussion, Student 2 says, “Made means plastic only”. Which response best corrects the science?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four material samples arranged for a fair comparison of observable properties. Question context: During a Year 4 discussion, Student 2 says, “Made means plastic only”. Which response best corrects the science?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-012\"></use></svg>",
+    "question": "Why is “natural materials are always safer” incorrect?",
+    "audioPrompt": "Why is “natural materials are always safer” incorrect?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-012",
-      "alt_text": "Four material samples arranged for a fair comparison of observable properties. Question context: During a Year 4 discussion, Student 2 says, “Made means plastic only”. Which response best corrects the science?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Made means plastic only",
-      "Glass, alloys, paper and engineered fabrics are also made or processed materials.",
-      "One property decides every use"
+      "Source tells every property",
+      "Safety depends on properties, use and treatment, not source alone",
+      "Natural materials cannot hurt anyone",
+      "Made materials are always poisonous"
     ],
     "correct": 1,
-    "explanation": "Glass, alloys, paper and engineered fabrics are also made or processed materials.\nHint: Choose the response that uses evidence and corrects the mistaken relationship.",
+    "explanation": "Whether a material is safe depends on evidence about its properties and the situation.\nHint: Source alone is not enough.",
     "structuredExplanation": {
-      "summary": "Glass, alloys, paper and engineered fabrics are also made or processed materials.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Whether a material is safe depends on evidence about its properties and the situation.",
+      "hint": "Source alone is not enough."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4u04-p-013",
@@ -355,27 +403,31 @@ window.skillrPracticeQuestions = [
     "skill": "natural and made materials properties and uses",
     "printable": true,
     "type": "single",
-    "question": "During a Year 4 discussion, Student 3 says, “One property decides every use”. Which response best corrects the science?",
-    "audioPrompt": "During a Year 4 discussion, Student 3 says, “One property decides every use”. Which response best corrects the science?",
-    "visual": "Four material samples arranged for a fair comparison of observable properties. Question context: During a Year 4 discussion, Student 3 says, “One property decides every use”. Which response best corrects the science?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four material samples arranged for a fair comparison of observable properties. Question context: During a Year 4 discussion, Student 3 says, “One property decides every use”. Which response best corrects the science?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-013\"></use></svg>",
+    "question": "Why is “made material means plastic only” incorrect?",
+    "audioPrompt": "Why is “made material means plastic only” incorrect?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-013",
-      "alt_text": "Four material samples arranged for a fair comparison of observable properties. Question context: During a Year 4 discussion, Student 3 says, “One property decides every use”. Which response best corrects the science?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "One property decides every use",
-      "Preference replaces evidence",
-      "Most designs balance several properties and constraints."
+      "Glass, steel, paper and engineered fabrics can also be made or processed",
+      "Only plastic is used by people",
+      "Natural materials are never processed",
+      "Metal cannot be manufactured"
     ],
-    "correct": 2,
-    "explanation": "Most designs balance several properties and constraints.\nHint: Choose the response that uses evidence and corrects the mistaken relationship.",
+    "correct": 0,
+    "explanation": "Many materials are manufactured or heavily processed, not just plastics.\nHint: Made has many examples.",
     "structuredExplanation": {
-      "summary": "Most designs balance several properties and constraints.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Many materials are manufactured or heavily processed, not just plastics.",
+      "hint": "Made has many examples."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4u04-p-014",
@@ -384,27 +436,31 @@ window.skillrPracticeQuestions = [
     "skill": "natural and made materials properties and uses",
     "printable": true,
     "type": "single",
-    "question": "During a Year 4 discussion, Student 4 says, “Preference replaces evidence”. Which response best corrects the science?",
-    "audioPrompt": "During a Year 4 discussion, Student 4 says, “Preference replaces evidence”. Which response best corrects the science?",
-    "visual": "Four material samples arranged for a fair comparison of observable properties. Question context: During a Year 4 discussion, Student 4 says, “Preference replaces evidence”. Which response best corrects the science?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four material samples arranged for a fair comparison of observable properties. Question context: During a Year 4 discussion, Student 4 says, “Preference replaces evidence”. Which response best corrects the science?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-014\"></use></svg>",
+    "question": "Why should a material choice use more than one property?",
+    "audioPrompt": "Why should a material choice use more than one property?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-014",
-      "alt_text": "Four material samples arranged for a fair comparison of observable properties. Question context: During a Year 4 discussion, Student 4 says, “Preference replaces evidence”. Which response best corrects the science?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use test results and criteria, not ‘I like it’.",
-      "Preference replaces evidence",
-      "Natural means always safe or sustainable"
+      "One property decides every job",
+      "Colour is the only useful property",
+      "Testing more than one property makes evidence weaker",
+      "A product often needs several features such as strength, weight, water resistance and safety"
     ],
-    "correct": 0,
-    "explanation": "Use test results and criteria, not ‘I like it’.\nHint: Choose the response that uses evidence and corrects the mistaken relationship.",
+    "correct": 3,
+    "explanation": "Most real uses involve trade-offs between several material properties.\nHint: Products have several needs.",
     "structuredExplanation": {
-      "summary": "Use test results and criteria, not ‘I like it’.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Most real uses involve trade-offs between several material properties.",
+      "hint": "Products have several needs."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4u04-p-015",
@@ -413,27 +469,31 @@ window.skillrPracticeQuestions = [
     "skill": "natural and made materials properties and uses",
     "printable": true,
     "type": "single",
-    "question": "A group writes this claim on a poster: “Natural means always safe or sustainable”. Which edit makes the claim scientifically accurate?",
-    "audioPrompt": "A group writes this claim on a poster: “Natural means always safe or sustainable”. Which edit makes the claim scientifically accurate?",
-    "visual": "Four material samples arranged for a fair comparison of observable properties. Question context: A group writes this claim on a poster: “Natural means always safe or sustainable”. Which edit makes the claim scientifically accurate?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four material samples arranged for a fair comparison of observable properties. Question context: A group writes this claim on a poster: “Natural means always safe or sustainable”. Which edit makes the claim scientifically accurate?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-015\"></use></svg>",
+    "question": "Why is cotton useful for a towel?",
+    "audioPrompt": "Why is cotton useful for a towel?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-015",
-      "alt_text": "Four material samples arranged for a fair comparison of observable properties. Question context: A group writes this claim on a poster: “Natural means always safe or sustainable”. Which edit makes the claim scientifically accurate?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Natural means always safe or sustainable",
-      "Source alone does not determine impact, safety or suitability.",
-      "One property decides every use"
+      "It is strongly magnetic",
+      "It cannot bend",
+      "Its fibres can absorb water and feel flexible",
+      "It is transparent like glass"
     ],
-    "correct": 1,
-    "explanation": "Source alone does not determine impact, safety or suitability.\nHint: Choose the response that uses evidence and corrects the mistaken relationship.",
+    "correct": 2,
+    "explanation": "Cotton can soak up water and bend, making it suitable for towels.\nHint: Absorbent and flexible.",
     "structuredExplanation": {
-      "summary": "Source alone does not determine impact, safety or suitability.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Cotton can soak up water and bend, making it suitable for towels.",
+      "hint": "Absorbent and flexible."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4u04-p-016",
@@ -442,27 +502,31 @@ window.skillrPracticeQuestions = [
     "skill": "natural and made materials properties and uses",
     "printable": true,
     "type": "single",
-    "question": "A group writes this claim on a poster: “Made means plastic only”. Which edit makes the claim scientifically accurate?",
-    "audioPrompt": "A group writes this claim on a poster: “Made means plastic only”. Which edit makes the claim scientifically accurate?",
-    "visual": "Four material samples arranged for a fair comparison of observable properties. Question context: A group writes this claim on a poster: “Made means plastic only”. Which edit makes the claim scientifically accurate?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four material samples arranged for a fair comparison of observable properties. Question context: A group writes this claim on a poster: “Made means plastic only”. Which edit makes the claim scientifically accurate?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-016\"></use></svg>",
+    "question": "Why might steel be poor for a lightweight rain hat even though it is strong?",
+    "audioPrompt": "Why might steel be poor for a lightweight rain hat even though it is strong?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-016",
-      "alt_text": "Four material samples arranged for a fair comparison of observable properties. Question context: A group writes this claim on a poster: “Made means plastic only”. Which edit makes the claim scientifically accurate?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Made means plastic only",
-      "Preference replaces evidence",
-      "Glass, alloys, paper and engineered fabrics are also made or processed materials."
+      "Steel is not a material",
+      "Its weight and stiffness may make it uncomfortable",
+      "Strong materials are always suitable",
+      "Steel absorbs all rain instantly"
     ],
-    "correct": 2,
-    "explanation": "Glass, alloys, paper and engineered fabrics are also made or processed materials.\nHint: Choose the response that uses evidence and corrects the mistaken relationship.",
+    "correct": 1,
+    "explanation": "Suitability depends on matching all important requirements, not strength alone.\nHint: Strength is not the only criterion.",
     "structuredExplanation": {
-      "summary": "Glass, alloys, paper and engineered fabrics are also made or processed materials.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Suitability depends on matching all important requirements, not strength alone.",
+      "hint": "Strength is not the only criterion."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4u04-p-017",
@@ -471,27 +535,31 @@ window.skillrPracticeQuestions = [
     "skill": "natural and made materials properties and uses",
     "printable": true,
     "type": "single",
-    "question": "A group writes this claim on a poster: “One property decides every use”. Which edit makes the claim scientifically accurate?",
-    "audioPrompt": "A group writes this claim on a poster: “One property decides every use”. Which edit makes the claim scientifically accurate?",
-    "visual": "Four material samples arranged for a fair comparison of observable properties. Question context: A group writes this claim on a poster: “One property decides every use”. Which edit makes the claim scientifically accurate?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four material samples arranged for a fair comparison of observable properties. Question context: A group writes this claim on a poster: “One property decides every use”. Which edit makes the claim scientifically accurate?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-017\"></use></svg>",
+    "question": "Why should sample size be controlled in a strength test?",
+    "audioPrompt": "Why should sample size be controlled in a strength test?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-017",
-      "alt_text": "Four material samples arranged for a fair comparison of observable properties. Question context: A group writes this claim on a poster: “One property decides every use”. Which edit makes the claim scientifically accurate?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Most designs balance several properties and constraints.",
-      "One property decides every use",
-      "Natural means always safe or sustainable"
+      "Different sizes could change results for reasons other than the material",
+      "Different sizes make the test automatically fair",
+      "The biggest sample is always weakest",
+      "Size has no possible effect"
     ],
     "correct": 0,
-    "explanation": "Most designs balance several properties and constraints.\nHint: Choose the response that uses evidence and corrects the mistaken relationship.",
+    "explanation": "Keeping sample dimensions the same helps compare material properties fairly.\nHint: Control dimensions.",
     "structuredExplanation": {
-      "summary": "Most designs balance several properties and constraints.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Keeping sample dimensions the same helps compare material properties fairly.",
+      "hint": "Control dimensions."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 17,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4u04-p-018",
@@ -500,27 +568,31 @@ window.skillrPracticeQuestions = [
     "skill": "natural and made materials properties and uses",
     "printable": true,
     "type": "single",
-    "question": "A group writes this claim on a poster: “Preference replaces evidence”. Which edit makes the claim scientifically accurate?",
-    "audioPrompt": "A group writes this claim on a poster: “Preference replaces evidence”. Which edit makes the claim scientifically accurate?",
-    "visual": "Four material samples arranged for a fair comparison of observable properties. Question context: A group writes this claim on a poster: “Preference replaces evidence”. Which edit makes the claim scientifically accurate?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four material samples arranged for a fair comparison of observable properties. Question context: A group writes this claim on a poster: “Preference replaces evidence”. Which edit makes the claim scientifically accurate?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-018\"></use></svg>",
+    "question": "Why can plastic be suitable for a lunch container?",
+    "audioPrompt": "Why can plastic be suitable for a lunch container?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-018",
-      "alt_text": "Four material samples arranged for a fair comparison of observable properties. Question context: A group writes this claim on a poster: “Preference replaces evidence”. Which edit makes the claim scientifically accurate?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Preference replaces evidence",
-      "Use test results and criteria, not ‘I like it’.",
-      "Made means plastic only"
+      "It is always the strongest material on Earth",
+      "It is a natural fibre",
+      "It dissolves in food",
+      "It can be light, mouldable and water-resistant"
     ],
-    "correct": 1,
-    "explanation": "Use test results and criteria, not ‘I like it’.\nHint: Choose the response that uses evidence and corrects the mistaken relationship.",
+    "correct": 3,
+    "explanation": "Some plastics have properties useful for containers, though other constraints may also matter.\nHint: Light and water-resistant.",
     "structuredExplanation": {
-      "summary": "Use test results and criteria, not ‘I like it’.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Some plastics have properties useful for containers, though other constraints may also matter.",
+      "hint": "Light and water-resistant."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 18,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4u04-p-019",
@@ -529,27 +601,31 @@ window.skillrPracticeQuestions = [
     "skill": "natural and made materials properties and uses",
     "printable": true,
     "type": "single",
-    "question": "Study the classroom example. Which property makes clear glass useful for a window?",
-    "audioPrompt": "Study the classroom example. Which property makes clear glass useful for a window?",
-    "visual": "Four material samples arranged for a fair comparison of observable properties. Question context: Study the classroom example. Which property makes clear glass useful for a window?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four material samples arranged for a fair comparison of observable properties. Question context: Study the classroom example. Which property makes clear glass useful for a window?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-019\"></use></svg>",
+    "question": "Why is “I like the colour” weak evidence for choosing bridge material?",
+    "audioPrompt": "Why is “I like the colour” weak evidence for choosing bridge material?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-019",
-      "alt_text": "Four material samples arranged for a fair comparison of observable properties. Question context: Study the classroom example. Which property makes clear glass useful for a window?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "absorbency",
-      "magnetism",
-      "transparency"
+      "Bridge materials do not need evidence",
+      "All favourite materials are strongest",
+      "Preference does not show strength, durability or safety",
+      "Colour always proves strength"
     ],
     "correct": 2,
-    "explanation": "transparency\nHint: Use the stated observation, measurement or relationship—not preference—to decide.",
+    "explanation": "Material choices should be justified with relevant property evidence.\nHint: Evidence, not preference.",
     "structuredExplanation": {
-      "summary": "transparency",
-      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
+      "summary": "Material choices should be justified with relevant property evidence.",
+      "hint": "Evidence, not preference."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 19,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4u04-p-020",
@@ -558,27 +634,31 @@ window.skillrPracticeQuestions = [
     "skill": "natural and made materials properties and uses",
     "printable": true,
     "type": "single",
-    "question": "Use the investigation evidence. Which is the fairest absorbency comparison?",
-    "audioPrompt": "Use the investigation evidence. Which is the fairest absorbency comparison?",
-    "visual": "Four material samples arranged for a fair comparison of observable properties. Question context: Use the investigation evidence. Which is the fairest absorbency comparison?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four material samples arranged for a fair comparison of observable properties. Question context: Use the investigation evidence. Which is the fairest absorbency comparison?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-020\"></use></svg>",
+    "question": "Why might a brittle material be unsuitable where impacts are likely?",
+    "audioPrompt": "Why might a brittle material be unsuitable where impacts are likely?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-020",
-      "alt_text": "Four material samples arranged for a fair comparison of observable properties. Question context: Use the investigation evidence. Which is the fairest absorbency comparison?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use equal-sized samples, the same water volume and the same time",
-      "Use different sample sizes",
-      "Pour more water on the preferred sample"
+      "It becomes a soft fibre",
+      "It may crack or break suddenly when hit",
+      "It will always stretch safely",
+      "It absorbs every impact without damage"
     ],
-    "correct": 0,
-    "explanation": "Use equal-sized samples, the same water volume and the same time\nHint: Use the stated observation, measurement or relationship—not preference—to decide.",
+    "correct": 1,
+    "explanation": "Brittle materials can fail suddenly under impact.\nHint: Think breaking when hit.",
     "structuredExplanation": {
-      "summary": "Use equal-sized samples, the same water volume and the same time",
-      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
+      "summary": "Brittle materials can fail suddenly under impact.",
+      "hint": "Think breaking when hit."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 20,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4u04-p-021",
@@ -587,27 +667,31 @@ window.skillrPracticeQuestions = [
     "skill": "natural and made materials properties and uses",
     "printable": true,
     "type": "single",
-    "question": "The class is preparing “Property-test stations”. Which plan would produce useful scientific evidence?",
-    "audioPrompt": "The class is preparing “Property-test stations”. Which plan would produce useful scientific evidence?",
-    "visual": "Four material samples arranged for a fair comparison of observable properties. Question context: The class is preparing “Property-test stations”. Which plan would produce useful scientific evidence?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four material samples arranged for a fair comparison of observable properties. Question context: The class is preparing “Property-test stations”. Which plan would produce useful scientific evidence?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-021\"></use></svg>",
+    "question": "Which statement is a misconception?",
+    "audioPrompt": "Which statement is a misconception?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-021",
-      "alt_text": "Four material samples arranged for a fair comparison of observable properties. Question context: The class is preparing “Property-test stations”. Which plan would produce useful scientific evidence?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Begin property-test stations, change two important conditions together, then compare only the preferred observation.",
-      "Test samples for absorbency, flexibility, transparency and strength using consistent methods.",
-      "Carry out property-test stations once, omit the measurements and report the original prediction as the result."
+      "A natural material is always the best environmental choice",
+      "Material impact depends on source, processing, use and disposal",
+      "A material can have advantages and limitations",
+      "Evidence helps compare suitability"
     ],
-    "correct": 1,
-    "explanation": "Test samples for absorbency, flexibility, transparency and strength using consistent methods.\nHint: Look for a plan that observes or measures evidence and keeps the comparison clear.",
+    "correct": 0,
+    "explanation": "Natural source alone does not prove low impact or suitability.\nHint: Avoid source-only thinking.",
     "structuredExplanation": {
-      "summary": "Test samples for absorbency, flexibility, transparency and strength using consistent methods.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+      "summary": "Natural source alone does not prove low impact or suitability.",
+      "hint": "Avoid source-only thinking."
     },
-    "qualitySchema": "production-v1"
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 21,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4u04-p-022",
@@ -616,27 +700,31 @@ window.skillrPracticeQuestions = [
     "skill": "natural and made materials properties and uses",
     "printable": true,
     "type": "single",
-    "question": "The class is preparing “Design requirement match”. Which plan would produce useful scientific evidence?",
-    "audioPrompt": "The class is preparing “Design requirement match”. Which plan would produce useful scientific evidence?",
-    "visual": "Four material samples arranged for a fair comparison of observable properties. Question context: The class is preparing “Design requirement match”. Which plan would produce useful scientific evidence?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four material samples arranged for a fair comparison of observable properties. Question context: The class is preparing “Design requirement match”. Which plan would produce useful scientific evidence?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-022\"></use></svg>",
+    "question": "Which test best compares water resistance?",
+    "audioPrompt": "Which test best compares water resistance?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-022",
-      "alt_text": "Four material samples arranged for a fair comparison of observable properties. Question context: The class is preparing “Design requirement match”. Which plan would produce useful scientific evidence?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Begin design requirement match, change two important conditions together, then compare only the preferred observation.",
-      "Carry out design requirement match once, omit the measurements and report the original prediction as the result.",
-      "Choose a material for a raincoat, window, bridge cable and reusable bottle; justify with at least two properties."
+      "Pour more water on the preferred sample",
+      "Use cloth for one test and metal for another with no controls",
+      "Judge only by colour after one second",
+      "Place equal water drops on equal-sized samples for the same time"
     ],
-    "correct": 2,
-    "explanation": "Choose a material for a raincoat, window, bridge cable and reusable bottle; justify with at least two properties.\nHint: Look for a plan that observes or measures evidence and keeps the comparison clear.",
+    "correct": 3,
+    "explanation": "Fair water-resistance comparisons keep important conditions the same.\nHint: Same water, size and time.",
     "structuredExplanation": {
-      "summary": "Choose a material for a raincoat, window, bridge cable and reusable bottle; justify with at least two properties.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+      "summary": "Fair water-resistance comparisons keep important conditions the same.",
+      "hint": "Same water, size and time."
     },
-    "qualitySchema": "production-v1"
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 22,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4u04-p-023",
@@ -645,27 +733,31 @@ window.skillrPracticeQuestions = [
     "skill": "natural and made materials properties and uses",
     "printable": true,
     "type": "single",
-    "question": "The class is preparing “Trade-off discussion”. Which plan would produce useful scientific evidence?",
-    "audioPrompt": "The class is preparing “Trade-off discussion”. Which plan would produce useful scientific evidence?",
-    "visual": "Four material samples arranged for a fair comparison of observable properties. Question context: The class is preparing “Trade-off discussion”. Which plan would produce useful scientific evidence?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four material samples arranged for a fair comparison of observable properties. Question context: The class is preparing “Trade-off discussion”. Which plan would produce useful scientific evidence?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-023\"></use></svg>",
+    "question": "Which property is most relevant for choosing window glass?",
+    "audioPrompt": "Which property is most relevant for choosing window glass?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-023",
-      "alt_text": "Four material samples arranged for a fair comparison of observable properties. Question context: The class is preparing “Trade-off discussion”. Which plan would produce useful scientific evidence?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Compare two suitable materials and identify a benefit, limitation and evidence needed before choosing.",
-      "Begin trade-off discussion, change two important conditions together, then compare only the preferred observation.",
-      "Carry out trade-off discussion once, omit the measurements and report the original prediction as the result."
+      "Stretchiness",
+      "Flavour",
+      "Transparency",
+      "Absorbency"
     ],
-    "correct": 0,
-    "explanation": "Compare two suitable materials and identify a benefit, limitation and evidence needed before choosing.\nHint: Look for a plan that observes or measures evidence and keeps the comparison clear.",
+    "correct": 2,
+    "explanation": "Windows need to let light pass through clearly.\nHint: See through.",
     "structuredExplanation": {
-      "summary": "Compare two suitable materials and identify a benefit, limitation and evidence needed before choosing.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+      "summary": "Windows need to let light pass through clearly.",
+      "hint": "See through."
     },
-    "qualitySchema": "production-v1"
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 23,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4u04-p-024",
@@ -674,27 +766,558 @@ window.skillrPracticeQuestions = [
     "skill": "natural and made materials properties and uses",
     "printable": true,
     "type": "single",
-    "question": "A results display includes “water resistance”. Which interpretation matches that evidence?",
-    "audioPrompt": "A results display includes “water resistance”. Which interpretation matches that evidence?",
-    "visual": "Four material samples arranged for a fair comparison of observable properties. Question context: A results display includes “water resistance”. Which interpretation matches that evidence?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four material samples arranged for a fair comparison of observable properties. Question context: A results display includes “water resistance”. Which interpretation matches that evidence?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-024\"></use></svg>",
+    "question": "Which pair best matches material and useful property?",
+    "audioPrompt": "Which pair best matches material and useful property?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u04.svg#ac9s4u04-p-024",
-      "alt_text": "Four material samples arranged for a fair comparison of observable properties. Question context: A results display includes “water resistance”. Which interpretation matches that evidence?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "load until bending/breaking because sample dimensions",
-      "same water volume and time because sample size",
-      "same bend distance or force because length/thickness"
+      "Plastic lid — absorbency as main need",
+      "Steel cable — strength",
+      "Glass jar — stretchiness",
+      "Cotton towel — magnetism"
     ],
     "correct": 1,
-    "explanation": "water resistance is linked to same water volume and time because sample size.\nHint: Trace across the same row and keep the conclusion limited to the evidence shown.",
+    "explanation": "Steel is often used in cables where strength is required.\nHint: Material to function.",
     "structuredExplanation": {
-      "summary": "water resistance is linked to same water volume and time because sample size.",
-      "hint": "Trace across the same row and keep the conclusion limited to the evidence shown."
+      "summary": "Steel is often used in cables where strength is required.",
+      "hint": "Material to function."
     },
-    "qualitySchema": "production-v1"
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 24,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s4u04-p-025",
+    "curriculumCode": "AC9S4U04",
+    "bank": "practice",
+    "skill": "natural and made materials properties and uses",
+    "printable": true,
+    "type": "single",
+    "question": "Which material would be least suitable for a see-through aquarium wall?",
+    "audioPrompt": "Which material would be least suitable for a see-through aquarium wall?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Opaque timber",
+      "Clear glass",
+      "Clear acrylic",
+      "Transparent plastic"
+    ],
+    "correct": 0,
+    "explanation": "Opaque timber does not let you see through it.\nHint: Aquarium wall needs transparency.",
+    "structuredExplanation": {
+      "summary": "Opaque timber does not let you see through it.",
+      "hint": "Aquarium wall needs transparency."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 25,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s4u04-p-026",
+    "curriculumCode": "AC9S4U04",
+    "bank": "practice",
+    "skill": "natural and made materials properties and uses",
+    "printable": true,
+    "type": "single",
+    "question": "Which is the best reason to compare two possible raincoat fabrics?",
+    "audioPrompt": "Which is the best reason to compare two possible raincoat fabrics?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The brighter colour must be waterproof",
+      "All fabrics have identical properties",
+      "Testing removes the need to choose",
+      "One may be more water-resistant while the other may be more breathable or flexible"
+    ],
+    "correct": 3,
+    "explanation": "Material selection often involves trade-offs among properties.\nHint: Compare useful features.",
+    "structuredExplanation": {
+      "summary": "Material selection often involves trade-offs among properties.",
+      "hint": "Compare useful features."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 26,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s4u04-p-027",
+    "curriculumCode": "AC9S4U04",
+    "bank": "practice",
+    "skill": "natural and made materials properties and uses",
+    "printable": true,
+    "type": "single",
+    "question": "Which statement about made materials is accurate?",
+    "audioPrompt": "Which statement about made materials is accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Made materials can never be useful",
+      "Made materials have no properties",
+      "Made materials can include glass, alloys, paper and plastics",
+      "Made materials are only plastic bags"
+    ],
+    "correct": 2,
+    "explanation": "Many materials are manufactured or processed by people.\nHint: Not plastic only.",
+    "structuredExplanation": {
+      "summary": "Many materials are manufactured or processed by people.",
+      "hint": "Not plastic only."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 27,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s4u04-p-028",
+    "curriculumCode": "AC9S4U04",
+    "bank": "practice",
+    "skill": "natural and made materials properties and uses",
+    "printable": true,
+    "type": "single",
+    "question": "Which observation best shows flexibility?",
+    "audioPrompt": "Which observation best shows flexibility?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A nail sticks to a magnet",
+      "A strip bends around a cylinder without cracking",
+      "A sheet lets light through",
+      "A sponge holds water"
+    ],
+    "correct": 1,
+    "explanation": "Flexibility is shown by bending without breaking.\nHint: Bending test.",
+    "structuredExplanation": {
+      "summary": "Flexibility is shown by bending without breaking.",
+      "hint": "Bending test."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 28,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s4u04-p-029",
+    "curriculumCode": "AC9S4U04",
+    "bank": "practice",
+    "skill": "natural and made materials properties and uses",
+    "printable": true,
+    "type": "single",
+    "question": "Which evidence best supports “Sample A is more absorbent than Sample B”?",
+    "audioPrompt": "Which evidence best supports “Sample A is more absorbent than Sample B”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Sample A took in more millilitres of water under the same conditions",
+      "Sample A was the favourite colour",
+      "Sample B had a shorter name",
+      "Sample A looked newer"
+    ],
+    "correct": 0,
+    "explanation": "Measured water uptake under fair conditions supports an absorbency claim.\nHint: Use measurement.",
+    "structuredExplanation": {
+      "summary": "Measured water uptake under fair conditions supports an absorbency claim.",
+      "hint": "Use measurement."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 29,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s4u04-p-030",
+    "curriculumCode": "AC9S4U04",
+    "bank": "practice",
+    "skill": "natural and made materials properties and uses",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice shows a trade-off?",
+    "audioPrompt": "Which choice shows a trade-off?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A material is called blue",
+      "A ruler is longer than a pencil",
+      "A desk has four legs",
+      "A bottle material is light but scratches more easily"
+    ],
+    "correct": 3,
+    "explanation": "A trade-off has a benefit paired with a limitation.\nHint: Gain and drawback.",
+    "structuredExplanation": {
+      "summary": "A trade-off has a benefit paired with a limitation.",
+      "hint": "Gain and drawback."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 30,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s4u04-p-031",
+    "curriculumCode": "AC9S4U04",
+    "bank": "practice",
+    "skill": "natural and made materials properties and uses",
+    "printable": true,
+    "type": "single",
+    "question": "You need a lunchbox that will not leak in a school bag. Which property matters most?",
+    "audioPrompt": "You need a lunchbox that will not leak in a school bag. Which property matters most?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Brittleness",
+      "Absorbency",
+      "Water resistance",
+      "Transparency only"
+    ],
+    "correct": 2,
+    "explanation": "A non-leaking lunchbox needs material that resists water or liquid passing through.\nHint: Stop liquid getting out.",
+    "structuredExplanation": {
+      "summary": "A non-leaking lunchbox needs material that resists water or liquid passing through.",
+      "hint": "Stop liquid getting out."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 31,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s4u04-p-032",
+    "curriculumCode": "AC9S4U04",
+    "bank": "practice",
+    "skill": "natural and made materials properties and uses",
+    "printable": true,
+    "type": "single",
+    "question": "A class tests paper towel absorbency. Why should each piece be the same size?",
+    "audioPrompt": "A class tests paper towel absorbency. Why should each piece be the same size?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "So no measurement is needed",
+      "So material performance is compared fairly",
+      "So the biggest piece always wins",
+      "So water changes into glass"
+    ],
+    "correct": 1,
+    "explanation": "Equal sample size helps show whether absorbency differs because of the material.\nHint: Control sample size.",
+    "structuredExplanation": {
+      "summary": "Equal sample size helps show whether absorbency differs because of the material.",
+      "hint": "Control sample size."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 32,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s4u04-p-033",
+    "curriculumCode": "AC9S4U04",
+    "bank": "practice",
+    "skill": "natural and made materials properties and uses",
+    "printable": true,
+    "type": "single",
+    "question": "A clear plastic cup and a glass cup both hold water. Why might plastic be chosen for a picnic?",
+    "audioPrompt": "A clear plastic cup and a glass cup both hold water. Why might plastic be chosen for a picnic?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It is lighter and less likely to shatter if dropped",
+      "It is always more transparent than glass",
+      "It is a natural material",
+      "It absorbs water best"
+    ],
+    "correct": 0,
+    "explanation": "For a picnic, lightness and resistance to shattering may matter more than other properties.\nHint: Think use context.",
+    "structuredExplanation": {
+      "summary": "For a picnic, lightness and resistance to shattering may matter more than other properties.",
+      "hint": "Think use context."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 33,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s4u04-p-034",
+    "curriculumCode": "AC9S4U04",
+    "bank": "practice",
+    "skill": "natural and made materials properties and uses",
+    "printable": true,
+    "type": "single",
+    "question": "A student chooses cardboard for a rain shelter because it is cheap. What extra evidence is needed?",
+    "audioPrompt": "A student chooses cardboard for a rain shelter because it is cheap. What extra evidence is needed?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Whether it has a nice logo",
+      "Whether it is called cardboard",
+      "Whether it can be folded once",
+      "Whether it stays strong and resists water when wet"
+    ],
+    "correct": 3,
+    "explanation": "Cost alone is not enough; the material must meet performance needs.\nHint: Rain shelter needs water performance.",
+    "structuredExplanation": {
+      "summary": "Cost alone is not enough; the material must meet performance needs.",
+      "hint": "Rain shelter needs water performance."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 34,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s4u04-p-035",
+    "curriculumCode": "AC9S4U04",
+    "bank": "practice",
+    "skill": "natural and made materials properties and uses",
+    "printable": true,
+    "type": "single",
+    "question": "A fabric bag carries heavy library books. Which property should be tested first?",
+    "audioPrompt": "A fabric bag carries heavy library books. Which property should be tested first?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Taste after washing",
+      "Magnetism beside a fridge",
+      "Strength under load",
+      "Transparency in sunlight"
+    ],
+    "correct": 2,
+    "explanation": "The bag must support the books without tearing.\nHint: Heavy load.",
+    "structuredExplanation": {
+      "summary": "The bag must support the books without tearing.",
+      "hint": "Heavy load."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 35,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s4u04-p-036",
+    "curriculumCode": "AC9S4U04",
+    "bank": "practice",
+    "skill": "natural and made materials properties and uses",
+    "printable": true,
+    "type": "single",
+    "question": "A natural fibre shirt dries slowly after rain. What does this show?",
+    "audioPrompt": "A natural fibre shirt dries slowly after rain. What does this show?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Drying time is not a material property",
+      "A natural source does not guarantee every useful property",
+      "Natural fibres are never useful",
+      "Made fibres are always unsafe"
+    ],
+    "correct": 1,
+    "explanation": "Natural materials can be useful but still have limitations for some uses.\nHint: Source is not enough.",
+    "structuredExplanation": {
+      "summary": "Natural materials can be useful but still have limitations for some uses.",
+      "hint": "Source is not enough."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 36,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s4u04-p-037",
+    "curriculumCode": "AC9S4U04",
+    "bank": "practice",
+    "skill": "natural and made materials properties and uses",
+    "printable": true,
+    "type": "single",
+    "question": "A bridge model breaks when weight is added. What fair change would improve the investigation?",
+    "audioPrompt": "A bridge model breaks when weight is added. What fair change would improve the investigation?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Test equal-sized strips of different materials with the same load method",
+      "Use a larger strip only for the favourite material",
+      "Stop recording results",
+      "Change material, length and load all at once"
+    ],
+    "correct": 0,
+    "explanation": "Fair strength comparisons control size and method while comparing materials.\nHint: Keep the method consistent.",
+    "structuredExplanation": {
+      "summary": "Fair strength comparisons control size and method while comparing materials.",
+      "hint": "Keep the method consistent."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 37,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s4u04-p-038",
+    "curriculumCode": "AC9S4U04",
+    "bank": "practice",
+    "skill": "natural and made materials properties and uses",
+    "printable": true,
+    "type": "single",
+    "question": "A reusable water bottle must be light, strong and safe for drinking. Why might the final choice be a compromise?",
+    "audioPrompt": "A reusable water bottle must be light, strong and safe for drinking. Why might the final choice be a compromise?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Only colour matters for bottles",
+      "All materials have identical properties",
+      "Strong materials cannot be safe",
+      "No material may be best for every criterion at once"
+    ],
+    "correct": 3,
+    "explanation": "Choosing materials often involves balancing several criteria.\nHint: Trade-off.",
+    "structuredExplanation": {
+      "summary": "Choosing materials often involves balancing several criteria.",
+      "hint": "Trade-off."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 38,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s4u04-p-039",
+    "curriculumCode": "AC9S4U04",
+    "bank": "practice",
+    "skill": "natural and made materials properties and uses",
+    "printable": true,
+    "type": "single",
+    "question": "A window material is strong but cloudy. What requirement is it failing?",
+    "audioPrompt": "A window material is strong but cloudy. What requirement is it failing?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Magnetism",
+      "Flexibility only",
+      "Transparency",
+      "Absorbency"
+    ],
+    "correct": 2,
+    "explanation": "A cloudy material may not let users see through clearly enough for a window.\nHint: Clear view.",
+    "structuredExplanation": {
+      "summary": "A cloudy material may not let users see through clearly enough for a window.",
+      "hint": "Clear view."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 39,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s4u04-p-040",
+    "curriculumCode": "AC9S4U04",
+    "bank": "practice",
+    "skill": "natural and made materials properties and uses",
+    "printable": true,
+    "type": "single",
+    "question": "A student says steel is best for every product because it is strong. What is the best response?",
+    "audioPrompt": "A student says steel is best for every product because it is strong. What is the best response?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Every product should be heavy",
+      "Different products need different combinations of properties",
+      "Strength is never useful",
+      "Steel is not a made material"
+    ],
+    "correct": 1,
+    "explanation": "Strength is valuable, but suitability depends on the use and other constraints.\nHint: Fit for purpose.",
+    "structuredExplanation": {
+      "summary": "Strength is valuable, but suitability depends on the use and other constraints.",
+      "hint": "Fit for purpose."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 40,
+    "qualitySchema": "skillr-actual-v6"
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

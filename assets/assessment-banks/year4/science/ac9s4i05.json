@@ -4,1415 +4,3399 @@
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
     "bank": "practice",
     "skill": "evaluating_investigations_and_drawing_conclusions",
-    "question": "A class observation is described as “result or pattern identified from evidence”. Which scientific term best labels it?",
-    "audio_prompt": "A class observation is described as “result or pattern identified from evidence”. Which scientific term best labels it?",
+    "question": "Which statement is a conclusion?",
+    "audio_prompt": "Which statement is a conclusion?",
+    "audioPrompt": "Which statement is a conclusion?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-p-001",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A class observation is described as “result or pattern identified from evidence”. Which scientific term best labels it?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "finding",
+        "text": "The rough surface made the car travel a shorter distance in our trials",
         "is_correct": true
       },
       {
-        "text": "fair test",
+        "text": "We used a toy car",
         "is_correct": false
       },
       {
-        "text": "variation",
+        "text": "The ramp was on the table",
+        "is_correct": false
+      },
+      {
+        "text": "The ruler was blue",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "The rough surface made the car travel a shorter distance in our trials",
+      "We used a toy car",
+      "The ramp was on the table",
+      "The ruler was blue"
+    ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "finding is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "A conclusion answers the investigation question using evidence.",
+      "hint": "Answer from evidence."
     },
+    "structuredExplanation": {
+      "summary": "A conclusion answers the investigation question using evidence.",
+      "hint": "Answer from evidence."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 1,
+    "sequencePriority": 1,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I05-P-002",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
     "bank": "practice",
     "skill": "evaluating_investigations_and_drawing_conclusions",
-    "question": "A class observation is described as “comparison controlling relevant variables”. Which scientific term best labels it?",
-    "audio_prompt": "A class observation is described as “comparison controlling relevant variables”. Which scientific term best labels it?",
+    "question": "Which item is a finding?",
+    "audio_prompt": "Which item is a finding?",
+    "audioPrompt": "Which item is a finding?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-p-002",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A class observation is described as “comparison controlling relevant variables”. Which scientific term best labels it?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "variation",
+        "text": "The group liked carpet",
         "is_correct": false
       },
       {
-        "text": "fair test",
+        "text": "The car was red",
+        "is_correct": false
+      },
+      {
+        "text": "The worksheet had a table",
+        "is_correct": false
+      },
+      {
+        "text": "The mean distance on carpet was 38 cm",
         "is_correct": true
-      },
-      {
-        "text": "conclusion",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "The group liked carpet",
+      "The car was red",
+      "The worksheet had a table",
+      "The mean distance on carpet was 38 cm"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "fair test is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "A finding is a result or pattern identified from evidence.",
+      "hint": "Result or pattern."
     },
+    "structuredExplanation": {
+      "summary": "A finding is a result or pattern identified from evidence.",
+      "hint": "Result or pattern."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 2,
+    "sequencePriority": 2,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I05-P-003",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
     "bank": "practice",
     "skill": "evaluating_investigations_and_drawing_conclusions",
-    "question": "A class observation is described as “differences arising across observations or trials”. Which scientific term best labels it?",
-    "audio_prompt": "A class observation is described as “differences arising across observations or trials”. Which scientific term best labels it?",
+    "question": "What does a fair-test check look for?",
+    "audio_prompt": "What does a fair-test check look for?",
+    "audioPrompt": "What does a fair-test check look for?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-p-003",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A class observation is described as “differences arising across observations or trials”. Which scientific term best labels it?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "conclusion",
+        "text": "Whether all results matched exactly",
         "is_correct": false
       },
       {
-        "text": "further question",
+        "text": "Whether one student guessed correctly",
         "is_correct": false
       },
       {
-        "text": "variation",
+        "text": "Whether relevant variables were controlled",
         "is_correct": true
+      },
+      {
+        "text": "Whether the poster was colourful",
+        "is_correct": false
       }
     ],
+    "answer_texts": [
+      "Whether all results matched exactly",
+      "Whether one student guessed correctly",
+      "Whether relevant variables were controlled",
+      "Whether the poster was colourful"
+    ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "variation is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Fair-test checks look at method and controls.",
+      "hint": "Method fairness."
     },
+    "structuredExplanation": {
+      "summary": "Fair-test checks look at method and controls.",
+      "hint": "Method fairness."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 3,
+    "sequencePriority": 3,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I05-P-004",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
     "bank": "practice",
     "skill": "evaluating_investigations_and_drawing_conclusions",
-    "question": "A class observation is described as “statement answering the question using evidence”. Which scientific term best labels it?",
-    "audio_prompt": "A class observation is described as “statement answering the question using evidence”. Which scientific term best labels it?",
+    "question": "Which phrase is scientifically cautious?",
+    "audio_prompt": "Which phrase is scientifically cautious?",
+    "audioPrompt": "Which phrase is scientifically cautious?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-p-004",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A class observation is described as “statement answering the question using evidence”. Which scientific term best labels it?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "conclusion",
+        "text": "No further testing is possible",
+        "is_correct": false
+      },
+      {
+        "text": "In these trials",
         "is_correct": true
       },
       {
-        "text": "further question",
+        "text": "Always and forever",
         "is_correct": false
       },
       {
-        "text": "finding",
+        "text": "This proves everything",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "No further testing is possible",
+      "In these trials",
+      "Always and forever",
+      "This proves everything"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "conclusion is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Cautious language keeps the conclusion within the evidence.",
+      "hint": "Limited wording."
     },
+    "structuredExplanation": {
+      "summary": "Cautious language keeps the conclusion within the evidence.",
+      "hint": "Limited wording."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 4,
+    "sequencePriority": 4,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I05-P-005",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
     "bank": "practice",
     "skill": "evaluating_investigations_and_drawing_conclusions",
-    "question": "A class observation is described as “new testable question arising from findings or limitations”. Which scientific term best labels it?",
-    "audio_prompt": "A class observation is described as “new testable question arising from findings or limitations”. Which scientific term best labels it?",
+    "question": "What is variation?",
+    "audio_prompt": "What is variation?",
+    "audioPrompt": "What is variation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-p-005",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A class observation is described as “new testable question arising from findings or limitations”. Which scientific term best labels it?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "finding",
-        "is_correct": false
-      },
-      {
-        "text": "further question",
+        "text": "Differences across observations or trials",
         "is_correct": true
       },
       {
-        "text": "fair test",
+        "text": "A final answer copied twice",
+        "is_correct": false
+      },
+      {
+        "text": "A safety rule only",
+        "is_correct": false
+      },
+      {
+        "text": "A graph title",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "Differences across observations or trials",
+      "A final answer copied twice",
+      "A safety rule only",
+      "A graph title"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "further question is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Variation means results are not exactly the same each time.",
+      "hint": "Differences in data."
     },
+    "structuredExplanation": {
+      "summary": "Variation means results are not exactly the same each time.",
+      "hint": "Differences in data."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 5,
+    "sequencePriority": 5,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I05-P-006",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
     "bank": "practice",
     "skill": "evaluating_investigations_and_drawing_conclusions",
-    "question": "A student needs a heading for this evidence: “result or pattern identified from evidence”. Which heading is most precise?",
-    "audio_prompt": "A student needs a heading for this evidence: “result or pattern identified from evidence”. Which heading is most precise?",
+    "question": "Which result should trigger a method check?",
+    "audio_prompt": "Which result should trigger a method check?",
+    "audioPrompt": "Which result should trigger a method check?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-p-006",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A student needs a heading for this evidence: “result or pattern identified from evidence”. Which heading is most precise?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "variation",
+        "text": "All groups used the same ramp",
         "is_correct": false
       },
       {
-        "text": "conclusion",
+        "text": "Each group repeated three trials",
         "is_correct": false
       },
       {
-        "text": "finding",
+        "text": "All groups measured in centimetres",
+        "is_correct": false
+      },
+      {
+        "text": "One group released the car from a different point",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "All groups used the same ramp",
+      "Each group repeated three trials",
+      "All groups measured in centimetres",
+      "One group released the car from a different point"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "finding is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "A different release point could explain different findings.",
+      "hint": "Method difference."
     },
+    "structuredExplanation": {
+      "summary": "A different release point could explain different findings.",
+      "hint": "Method difference."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 6,
+    "sequencePriority": 6,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I05-P-007",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
     "bank": "practice",
     "skill": "evaluating_investigations_and_drawing_conclusions",
-    "question": "A student needs a heading for this evidence: “comparison controlling relevant variables”. Which heading is most precise?",
-    "audio_prompt": "A student needs a heading for this evidence: “comparison controlling relevant variables”. Which heading is most precise?",
+    "question": "Which conclusion cites evidence?",
+    "audio_prompt": "Which conclusion cites evidence?",
+    "audioPrompt": "Which conclusion cites evidence?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-p-007",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A student needs a heading for this evidence: “comparison controlling relevant variables”. Which heading is most precise?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "fair test",
+        "text": "Tile is nice",
+        "is_correct": false
+      },
+      {
+        "text": "Cars like smooth surfaces",
+        "is_correct": false
+      },
+      {
+        "text": "The fabric slowed the car; its mean distance was 40 cm compared with 110 cm on tile",
         "is_correct": true
       },
       {
-        "text": "conclusion",
-        "is_correct": false
-      },
-      {
-        "text": "further question",
+        "text": "Fabric is boring",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Tile is nice",
+      "Cars like smooth surfaces",
+      "The fabric slowed the car; its mean distance was 40 cm compared with 110 cm on tile",
+      "Fabric is boring"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "fair test is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "The conclusion uses values to support the answer.",
+      "hint": "Data included."
     },
+    "structuredExplanation": {
+      "summary": "The conclusion uses values to support the answer.",
+      "hint": "Data included."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 7,
+    "sequencePriority": 7,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I05-P-008",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
     "bank": "practice",
     "skill": "evaluating_investigations_and_drawing_conclusions",
-    "question": "A student needs a heading for this evidence: “differences arising across observations or trials”. Which heading is most precise?",
-    "audio_prompt": "A student needs a heading for this evidence: “differences arising across observations or trials”. Which heading is most precise?",
+    "question": "What is a further question?",
+    "audio_prompt": "What is a further question?",
+    "audioPrompt": "What is a further question?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-p-008",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A student needs a heading for this evidence: “differences arising across observations or trials”. Which heading is most precise?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "further question",
+        "text": "A hidden prediction",
         "is_correct": false
       },
       {
-        "text": "variation",
+        "text": "A new testable question arising from findings or limits",
         "is_correct": true
       },
       {
-        "text": "finding",
+        "text": "A result copied from the first table",
+        "is_correct": false
+      },
+      {
+        "text": "A favourite colour choice",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "A hidden prediction",
+      "A new testable question arising from findings or limits",
+      "A result copied from the first table",
+      "A favourite colour choice"
+    ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "variation is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Further questions guide the next investigation.",
+      "hint": "Next testable question."
     },
+    "structuredExplanation": {
+      "summary": "Further questions guide the next investigation.",
+      "hint": "Next testable question."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 8,
+    "sequencePriority": 8,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I05-P-009",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
     "bank": "practice",
     "skill": "evaluating_investigations_and_drawing_conclusions",
-    "question": "A student needs a heading for this evidence: “statement answering the question using evidence”. Which heading is most precise?",
-    "audio_prompt": "A student needs a heading for this evidence: “statement answering the question using evidence”. Which heading is most precise?",
+    "question": "Which comparison is strongest?",
+    "audio_prompt": "Which comparison is strongest?",
+    "audioPrompt": "Which comparison is strongest?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-p-009",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A student needs a heading for this evidence: “statement answering the question using evidence”. Which heading is most precise?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "finding",
-        "is_correct": false
-      },
-      {
-        "text": "fair test",
-        "is_correct": false
-      },
-      {
-        "text": "conclusion",
+        "text": "Group A averaged 92 cm and Group B averaged 88 cm using the same method",
         "is_correct": true
+      },
+      {
+        "text": "Group A had nicer handwriting",
+        "is_correct": false
+      },
+      {
+        "text": "Group B worked near a window",
+        "is_correct": false
+      },
+      {
+        "text": "One group smiled",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Group A averaged 92 cm and Group B averaged 88 cm using the same method",
+      "Group A had nicer handwriting",
+      "Group B worked near a window",
+      "One group smiled"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "conclusion is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Strong comparisons use evidence and method details.",
+      "hint": "Compare values."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Strong comparisons use evidence and method details.",
+      "hint": "Compare values."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 9,
+    "sequencePriority": 9,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I05-P-010",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
     "bank": "practice",
     "skill": "evaluating_investigations_and_drawing_conclusions",
-    "question": "A student needs a heading for this evidence: “new testable question arising from findings or limitations”. Which heading is most precise?",
-    "audio_prompt": "A student needs a heading for this evidence: “new testable question arising from findings or limitations”. Which heading is most precise?",
+    "question": "Which action is best before combining class results?",
+    "audio_prompt": "Which action is best before combining class results?",
+    "audioPrompt": "Which action is best before combining class results?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-p-010",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A student needs a heading for this evidence: “new testable question arising from findings or limitations”. Which heading is most precise?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "further question",
+        "text": "Combine everything without looking",
+        "is_correct": false
+      },
+      {
+        "text": "Delete the smallest value",
+        "is_correct": false
+      },
+      {
+        "text": "Use only the neatest table",
+        "is_correct": false
+      },
+      {
+        "text": "Check whether groups used similar methods",
         "is_correct": true
-      },
-      {
-        "text": "fair test",
-        "is_correct": false
-      },
-      {
-        "text": "variation",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Combine everything without looking",
+      "Delete the smallest value",
+      "Use only the neatest table",
+      "Check whether groups used similar methods"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "further question is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Method checks help decide whether results can be compared or combined.",
+      "hint": "Check method first."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Method checks help decide whether results can be compared or combined.",
+      "hint": "Check method first."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 10,
+    "sequencePriority": 10,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I05-P-011",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
     "bank": "practice",
     "skill": "evaluating_investigations_and_drawing_conclusions",
-    "question": "During a Year 4 discussion, Student 1 says, “Different findings mean one group cheated”. Which response best corrects the science?",
-    "audio_prompt": "During a Year 4 discussion, Student 1 says, “Different findings mean one group cheated”. Which response best corrects the science?",
+    "question": "Why do different findings not automatically mean someone is wrong?",
+    "audio_prompt": "Why do different findings not automatically mean someone is wrong?",
+    "audioPrompt": "Why do different findings not automatically mean someone is wrong?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-p-011",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: During a Year 4 discussion, Student 1 says, “Different findings mean one group cheated”. Which response best corrects the science?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Different findings mean one group cheated",
+        "text": "Science results must always match exactly",
         "is_correct": false
       },
       {
-        "text": "Check variation, measurement and method before judging.",
+        "text": "Different results cannot be recorded",
+        "is_correct": false
+      },
+      {
+        "text": "Variation, measurement uncertainty or method differences can cause differences",
         "is_correct": true
       },
       {
-        "text": "Fairness judged by equal results",
+        "text": "All different findings are cheating",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "Science results must always match exactly",
+      "Different results cannot be recorded",
+      "Variation, measurement uncertainty or method differences can cause differences",
+      "All different findings are cheating"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Check variation, measurement and method before judging.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Differences should be investigated before judging.",
+      "hint": "Check why they differ."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Differences should be investigated before judging.",
+      "hint": "Check why they differ."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 11,
+    "sequencePriority": 11,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I05-P-012",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
     "bank": "practice",
     "skill": "evaluating_investigations_and_drawing_conclusions",
-    "question": "During a Year 4 discussion, Student 2 says, “Fairness judged by equal results”. Which response best corrects the science?",
-    "audio_prompt": "During a Year 4 discussion, Student 2 says, “Fairness judged by equal results”. Which response best corrects the science?",
+    "question": "Why should a conclusion answer the original question?",
+    "audio_prompt": "Why should a conclusion answer the original question?",
+    "audioPrompt": "Why should a conclusion answer the original question?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-p-012",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: During a Year 4 discussion, Student 2 says, “Fairness judged by equal results”. Which response best corrects the science?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Fairness judged by equal results",
+        "text": "It must be a new unrelated topic",
         "is_correct": false
       },
       {
-        "text": "Conclusion repeats the procedure",
-        "is_correct": false
-      },
-      {
-        "text": "Fairness concerns method and controls.",
+        "text": "It shows what the evidence means for the investigation purpose",
         "is_correct": true
+      },
+      {
+        "text": "It should only repeat the equipment list",
+        "is_correct": false
+      },
+      {
+        "text": "It should avoid the data",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "It must be a new unrelated topic",
+      "It shows what the evidence means for the investigation purpose",
+      "It should only repeat the equipment list",
+      "It should avoid the data"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Fairness concerns method and controls.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "A conclusion connects evidence back to the question.",
+      "hint": "Answer the question."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "A conclusion connects evidence back to the question.",
+      "hint": "Answer the question."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 12,
+    "sequencePriority": 12,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I05-P-013",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
     "bank": "practice",
     "skill": "evaluating_investigations_and_drawing_conclusions",
-    "question": "During a Year 4 discussion, Student 3 says, “Conclusion repeats the procedure”. Which response best corrects the science?",
-    "audio_prompt": "During a Year 4 discussion, Student 3 says, “Conclusion repeats the procedure”. Which response best corrects the science?",
+    "question": "Why is a different release point important in a ramp test?",
+    "audio_prompt": "Why is a different release point important in a ramp test?",
+    "audioPrompt": "Why is a different release point important in a ramp test?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-p-013",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: During a Year 4 discussion, Student 3 says, “Conclusion repeats the procedure”. Which response best corrects the science?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "It should answer the question using evidence.",
+        "text": "It changes starting conditions and can affect distance travelled",
         "is_correct": true
       },
       {
-        "text": "Conclusion repeats the procedure",
+        "text": "Release point cannot affect motion",
         "is_correct": false
       },
       {
-        "text": "Further question changes everything",
+        "text": "It improves every comparison",
+        "is_correct": false
+      },
+      {
+        "text": "It makes centimetres unusable",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "It changes starting conditions and can affect distance travelled",
+      "Release point cannot affect motion",
+      "It improves every comparison",
+      "It makes centimetres unusable"
+    ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "It should answer the question using evidence.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Starting from a different point can change the motion result.",
+      "hint": "Method difference."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Starting from a different point can change the motion result.",
+      "hint": "Method difference."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 13,
+    "sequencePriority": 13,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I05-P-014",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
     "bank": "practice",
     "skill": "evaluating_investigations_and_drawing_conclusions",
-    "question": "During a Year 4 discussion, Student 4 says, “Further question changes everything”. Which response best corrects the science?",
-    "audio_prompt": "During a Year 4 discussion, Student 4 says, “Further question changes everything”. Which response best corrects the science?",
+    "question": "Why should conclusions use cautious wording?",
+    "audio_prompt": "Why should conclusions use cautious wording?",
+    "audioPrompt": "Why should conclusions use cautious wording?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-p-014",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: During a Year 4 discussion, Student 4 says, “Further question changes everything”. Which response best corrects the science?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Further question changes everything",
+        "text": "Caution means the data is useless",
         "is_correct": false
       },
       {
-        "text": "A useful follow-up isolates a factor suggested by the findings.",
+        "text": "Strong words make evidence better",
+        "is_correct": false
+      },
+      {
+        "text": "Always is required in science",
+        "is_correct": false
+      },
+      {
+        "text": "Classroom evidence usually applies to the tested conditions, not every situation",
         "is_correct": true
-      },
-      {
-        "text": "Different findings mean one group cheated",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "Caution means the data is useless",
+      "Strong words make evidence better",
+      "Always is required in science",
+      "Classroom evidence usually applies to the tested conditions, not every situation"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "A useful follow-up isolates a factor suggested by the findings.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Cautious wording avoids overclaiming.",
+      "hint": "Scope of evidence."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Cautious wording avoids overclaiming.",
+      "hint": "Scope of evidence."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 14,
+    "sequencePriority": 14,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I05-P-015",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
     "bank": "practice",
     "skill": "evaluating_investigations_and_drawing_conclusions",
-    "question": "A group writes this claim on a poster: “Different findings mean one group cheated”. Which edit makes the claim scientifically accurate?",
-    "audio_prompt": "A group writes this claim on a poster: “Different findings mean one group cheated”. Which edit makes the claim scientifically accurate?",
+    "question": "Why are repeated trials helpful for evaluating findings?",
+    "audio_prompt": "Why are repeated trials helpful for evaluating findings?",
+    "audioPrompt": "Why are repeated trials helpful for evaluating findings?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-p-015",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A group writes this claim on a poster: “Different findings mean one group cheated”. Which edit makes the claim scientifically accurate?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Different findings mean one group cheated",
+        "text": "They replace the need for a question",
         "is_correct": false
       },
       {
-        "text": "Conclusion repeats the procedure",
+        "text": "They make unfair tests fair automatically",
         "is_correct": false
       },
       {
-        "text": "Check variation, measurement and method before judging.",
+        "text": "They show whether a result is part of a pattern or just one unusual value",
         "is_correct": true
+      },
+      {
+        "text": "They force every result to be identical",
+        "is_correct": false
       }
     ],
+    "answer_texts": [
+      "They replace the need for a question",
+      "They make unfair tests fair automatically",
+      "They show whether a result is part of a pattern or just one unusual value",
+      "They force every result to be identical"
+    ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Check variation, measurement and method before judging.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Repeats help judge reliability and variation.",
+      "hint": "Pattern over one result."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Repeats help judge reliability and variation.",
+      "hint": "Pattern over one result."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 15,
+    "sequencePriority": 15,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I05-P-016",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
     "bank": "practice",
     "skill": "evaluating_investigations_and_drawing_conclusions",
-    "question": "A group writes this claim on a poster: “Fairness judged by equal results”. Which edit makes the claim scientifically accurate?",
-    "audio_prompt": "A group writes this claim on a poster: “Fairness judged by equal results”. Which edit makes the claim scientifically accurate?",
+    "question": "Why might a further question focus on one possible cause?",
+    "audio_prompt": "Why might a further question focus on one possible cause?",
+    "audioPrompt": "Why might a further question focus on one possible cause?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-p-016",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A group writes this claim on a poster: “Fairness judged by equal results”. Which edit makes the claim scientifically accurate?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Fairness concerns method and controls.",
+        "text": "Follow-up tests cannot use variables",
+        "is_correct": false
+      },
+      {
+        "text": "It can test a suspected factor without changing everything at once",
         "is_correct": true
       },
       {
-        "text": "Fairness judged by equal results",
+        "text": "Further questions should be as vague as possible",
         "is_correct": false
       },
       {
-        "text": "Further question changes everything",
+        "text": "Changing everything makes conclusions clearer",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Follow-up tests cannot use variables",
+      "It can test a suspected factor without changing everything at once",
+      "Further questions should be as vague as possible",
+      "Changing everything makes conclusions clearer"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Fairness concerns method and controls.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Focused follow-up questions help investigate limits or unexpected patterns.",
+      "hint": "One next factor."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Focused follow-up questions help investigate limits or unexpected patterns.",
+      "hint": "One next factor."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 16,
+    "sequencePriority": 16,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I05-P-017",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
     "bank": "practice",
     "skill": "evaluating_investigations_and_drawing_conclusions",
-    "question": "A group writes this claim on a poster: “Conclusion repeats the procedure”. Which edit makes the claim scientifically accurate?",
-    "audio_prompt": "A group writes this claim on a poster: “Conclusion repeats the procedure”. Which edit makes the claim scientifically accurate?",
+    "question": "Why is “we did the steps” not a conclusion?",
+    "audio_prompt": "Why is “we did the steps” not a conclusion?",
+    "audioPrompt": "Why is “we did the steps” not a conclusion?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-p-017",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A group writes this claim on a poster: “Conclusion repeats the procedure”. Which edit makes the claim scientifically accurate?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Conclusion repeats the procedure",
-        "is_correct": false
-      },
-      {
-        "text": "It should answer the question using evidence.",
+        "text": "It describes the method but does not answer the question using evidence",
         "is_correct": true
       },
       {
-        "text": "Different findings mean one group cheated",
+        "text": "Methods are always conclusions",
+        "is_correct": false
+      },
+      {
+        "text": "Evidence cannot support conclusions",
+        "is_correct": false
+      },
+      {
+        "text": "The question should be ignored",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "It describes the method but does not answer the question using evidence",
+      "Methods are always conclusions",
+      "Evidence cannot support conclusions",
+      "The question should be ignored"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "It should answer the question using evidence.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "A conclusion interprets results rather than just repeating procedure.",
+      "hint": "Result meaning."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "A conclusion interprets results rather than just repeating procedure.",
+      "hint": "Result meaning."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 17,
+    "sequencePriority": 17,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I05-P-018",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
     "bank": "practice",
     "skill": "evaluating_investigations_and_drawing_conclusions",
-    "question": "A group writes this claim on a poster: “Further question changes everything”. Which edit makes the claim scientifically accurate?",
-    "audio_prompt": "A group writes this claim on a poster: “Further question changes everything”. Which edit makes the claim scientifically accurate?",
+    "question": "Why should a suspicious result be checked before deletion?",
+    "audio_prompt": "Why should a suspicious result be checked before deletion?",
+    "audioPrompt": "Why should a suspicious result be checked before deletion?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-p-018",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A group writes this claim on a poster: “Further question changes everything”. Which edit makes the claim scientifically accurate?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Further question changes everything",
+        "text": "All surprising data is fake",
         "is_correct": false
       },
       {
-        "text": "Fairness judged by equal results",
+        "text": "Deleting data always improves science",
         "is_correct": false
       },
       {
-        "text": "A useful follow-up isolates a factor suggested by the findings.",
+        "text": "Only expected results matter",
+        "is_correct": false
+      },
+      {
+        "text": "It may be real variation, measurement error or a method issue",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "All surprising data is fake",
+      "Deleting data always improves science",
+      "Only expected results matter",
+      "It may be real variation, measurement error or a method issue"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "A useful follow-up isolates a factor suggested by the findings.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Scientific evaluation investigates unusual evidence honestly.",
+      "hint": "Check before deciding."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Scientific evaluation investigates unusual evidence honestly.",
+      "hint": "Check before deciding."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 18,
+    "sequencePriority": 18,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I05-P-019",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
     "bank": "practice",
     "skill": "evaluating_investigations_and_drawing_conclusions",
-    "question": "Study the classroom example. Which difference most threatens a fair comparison?",
-    "audio_prompt": "Study the classroom example. Which difference most threatens a fair comparison?",
+    "question": "Why is equal results not the test of fairness?",
+    "audio_prompt": "Why is equal results not the test of fairness?",
+    "audioPrompt": "Why is equal results not the test of fairness?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-p-019",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: Study the classroom example. Which difference most threatens a fair comparison?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Groups release the object from different points",
+        "text": "Different results always mean unfairness",
+        "is_correct": false
+      },
+      {
+        "text": "Controls change results into opinions",
+        "is_correct": false
+      },
+      {
+        "text": "Fairness depends on method and controls, not whether outcomes match",
         "is_correct": true
       },
       {
-        "text": "Groups record the same unit",
-        "is_correct": false
-      },
-      {
-        "text": "Groups repeat three trials",
+        "text": "Fair tests must produce identical results",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Different results always mean unfairness",
+      "Controls change results into opinions",
+      "Fairness depends on method and controls, not whether outcomes match",
+      "Fair tests must produce identical results"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Groups release the object from different points",
-      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
+      "summary": "A fair test can reveal real differences.",
+      "hint": "Method, not equal numbers."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "A fair test can reveal real differences.",
+      "hint": "Method, not equal numbers."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 19,
+    "sequencePriority": 19,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I05-P-020",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
     "bank": "practice",
     "skill": "evaluating_investigations_and_drawing_conclusions",
-    "question": "Use the investigation evidence. Which statement is most scientifically cautious?",
-    "audio_prompt": "Use the investigation evidence. Which statement is most scientifically cautious?",
+    "question": "Why should a conclusion cite values such as 92 cm and 88 cm?",
+    "audio_prompt": "Why should a conclusion cite values such as 92 cm and 88 cm?",
+    "audioPrompt": "Why should a conclusion cite values such as 92 cm and 88 cm?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-p-020",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: Use the investigation evidence. Which statement is most scientifically cautious?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "The rough surface always stops every object",
+        "text": "The reader cannot check values",
         "is_correct": false
       },
       {
-        "text": "In these trials, the rough surface produced shorter distances",
+        "text": "Values show the evidence behind the claim",
         "is_correct": true
       },
       {
-        "text": "One trial proves the explanation",
+        "text": "Values make the conclusion longer only",
+        "is_correct": false
+      },
+      {
+        "text": "Numbers are never evidence",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "The reader cannot check values",
+      "Values show the evidence behind the claim",
+      "Values make the conclusion longer only",
+      "Numbers are never evidence"
+    ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "In these trials, the rough surface produced shorter distances",
-      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
+      "summary": "Specific evidence makes conclusions more convincing and checkable.",
+      "hint": "Use data."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Specific evidence makes conclusions more convincing and checkable.",
+      "hint": "Use data."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 20,
+    "sequencePriority": 20,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I05-P-021",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
     "bank": "practice",
     "skill": "evaluating_investigations_and_drawing_conclusions",
-    "question": "The class is preparing “Method detective”. Which plan would produce useful scientific evidence?",
-    "audio_prompt": "The class is preparing “Method detective”. Which plan would produce useful scientific evidence?",
+    "question": "Which statement is a misconception?",
+    "audio_prompt": "Which statement is a misconception?",
+    "audioPrompt": "Which statement is a misconception?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-p-021",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: The class is preparing “Method detective”. Which plan would produce useful scientific evidence?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Begin method detective, change two important conditions together, then compare only the preferred observation.",
-        "is_correct": false
-      },
-      {
-        "text": "Carry out method detective once, omit the measurements and report the original prediction as the result.",
-        "is_correct": false
-      },
-      {
-        "text": "Compare group methods and identify which differences could explain inconsistent findings.",
+        "text": "Different findings mean one group must have cheated",
         "is_correct": true
+      },
+      {
+        "text": "Different findings may come from variation",
+        "is_correct": false
+      },
+      {
+        "text": "Method differences can affect results",
+        "is_correct": false
+      },
+      {
+        "text": "Findings should be compared with evidence",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Different findings mean one group must have cheated",
+      "Different findings may come from variation",
+      "Method differences can affect results",
+      "Findings should be compared with evidence"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Compare group methods and identify which differences could explain inconsistent findings.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+      "summary": "Different findings need investigation, not instant blame.",
+      "hint": "Do not jump to cheating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Different findings need investigation, not instant blame.",
+      "hint": "Do not jump to cheating."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 21,
+    "sequencePriority": 21,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I05-P-022",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
     "bank": "practice",
     "skill": "evaluating_investigations_and_drawing_conclusions",
-    "question": "The class is preparing “Conclusion ladder”. Which plan would produce useful scientific evidence?",
-    "audio_prompt": "The class is preparing “Conclusion ladder”. Which plan would produce useful scientific evidence?",
+    "question": "Which difference most threatens fairness?",
+    "audio_prompt": "Which difference most threatens fairness?",
+    "audioPrompt": "Which difference most threatens fairness?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-p-022",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: The class is preparing “Conclusion ladder”. Which plan would produce useful scientific evidence?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Rank conclusion statements from unsupported to well-supported and revise overconfident wording.",
+        "text": "Both groups measure in centimetres",
+        "is_correct": false
+      },
+      {
+        "text": "Both groups repeat three trials",
+        "is_correct": false
+      },
+      {
+        "text": "Both groups use the same surface",
+        "is_correct": false
+      },
+      {
+        "text": "One group releases the object from the top and another from halfway down",
         "is_correct": true
-      },
-      {
-        "text": "Begin conclusion ladder, change two important conditions together, then compare only the preferred observation.",
-        "is_correct": false
-      },
-      {
-        "text": "Carry out conclusion ladder once, omit the measurements and report the original prediction as the result.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Both groups measure in centimetres",
+      "Both groups repeat three trials",
+      "Both groups use the same surface",
+      "One group releases the object from the top and another from halfway down"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Rank conclusion statements from unsupported to well-supported and revise overconfident wording.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+      "summary": "Different release points change an important condition.",
+      "hint": "Changed method."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Different release points change an important condition.",
+      "hint": "Changed method."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 22,
+    "sequencePriority": 22,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I05-P-023",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
     "bank": "practice",
     "skill": "evaluating_investigations_and_drawing_conclusions",
-    "question": "The class is preparing “Next-question workshop”. Which plan would produce useful scientific evidence?",
-    "audio_prompt": "The class is preparing “Next-question workshop”. Which plan would produce useful scientific evidence?",
+    "question": "Which conclusion is best?",
+    "audio_prompt": "Which conclusion is best?",
+    "audioPrompt": "Which conclusion is best?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-p-023",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: The class is preparing “Next-question workshop”. Which plan would produce useful scientific evidence?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Begin next-question workshop, change two important conditions together, then compare only the preferred observation.",
+        "text": "Tile wins forever",
         "is_correct": false
       },
       {
-        "text": "Turn a limitation or unexpected pattern into a focused follow-up question.",
+        "text": "The car looked slow",
+        "is_correct": false
+      },
+      {
+        "text": "In our trials, the rough surface produced shorter distances, with a mean of 42 cm compared with 118 cm on tile",
         "is_correct": true
       },
       {
-        "text": "Carry out next-question workshop once, omit the measurements and report the original prediction as the result.",
+        "text": "Rough is bad",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "Tile wins forever",
+      "The car looked slow",
+      "In our trials, the rough surface produced shorter distances, with a mean of 42 cm compared with 118 cm on tile",
+      "Rough is bad"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Turn a limitation or unexpected pattern into a focused follow-up question.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+      "summary": "The conclusion answers the question with data and cautious wording.",
+      "hint": "Evidence and scope."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "The conclusion answers the question with data and cautious wording.",
+      "hint": "Evidence and scope."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 23,
+    "sequencePriority": 23,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I05-P-024",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
     "bank": "practice",
     "skill": "evaluating_investigations_and_drawing_conclusions",
-    "question": "A student wants to demonstrate “Compare data sets”. Which action gives the clearest evidence of that skill?",
-    "audio_prompt": "A student wants to demonstrate “Compare data sets”. Which action gives the clearest evidence of that skill?",
+    "question": "Which statement is a finding?",
+    "audio_prompt": "Which statement is a finding?",
+    "audioPrompt": "Which statement is a finding?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-p-024",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A student wants to demonstrate “Compare data sets”. Which action gives the clearest evidence of that skill?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "State a preferred answer without using the observations or measurements.",
+        "text": "Our table had four rows",
         "is_correct": false
       },
       {
-        "text": "Copy the task title but do not interpret, compare or explain any evidence.",
+        "text": "The shaded tray was 6°C cooler after 20 minutes",
+        "is_correct": true
+      },
+      {
+        "text": "We predicted shade would help",
         "is_correct": false
       },
       {
-        "text": "Use a relevant observation or measurement, demonstrate “Compare data sets”, and explain the result.",
+        "text": "We used two trays",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Our table had four rows",
+      "The shaded tray was 6°C cooler after 20 minutes",
+      "We predicted shade would help",
+      "We used two trays"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "A finding is a result or pattern from evidence.",
+      "hint": "Measured result."
+    },
+    "structuredExplanation": {
+      "summary": "A finding is a result or pattern from evidence.",
+      "hint": "Measured result."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 24,
+    "sequencePriority": 24,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4I05-P-025",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
+    "bank": "practice",
+    "skill": "evaluating_investigations_and_drawing_conclusions",
+    "question": "Which further question is most focused?",
+    "audio_prompt": "Which further question is most focused?",
+    "audioPrompt": "Which further question is most focused?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "How does ramp height affect distance travelled using the same car and surface?",
+        "is_correct": true
+      },
+      {
+        "text": "What affects motion everywhere?",
+        "is_correct": false
+      },
+      {
+        "text": "Can science explain everything?",
+        "is_correct": false
+      },
+      {
+        "text": "Which ramp is best and safest and cheapest and fastest?",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "How does ramp height affect distance travelled using the same car and surface?",
+      "What affects motion everywhere?",
+      "Can science explain everything?",
+      "Which ramp is best and safest and cheapest and fastest?"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "The focused question names one relationship to investigate.",
+      "hint": "One variable relationship."
+    },
+    "structuredExplanation": {
+      "summary": "The focused question names one relationship to investigate.",
+      "hint": "One variable relationship."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 25,
+    "sequencePriority": 25,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4I05-P-026",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
+    "bank": "practice",
+    "skill": "evaluating_investigations_and_drawing_conclusions",
+    "question": "Which response to 92 cm, 88 cm and 121 cm is best if 121 cm used a different release point?",
+    "audio_prompt": "Which response to 92 cm, 88 cm and 121 cm is best if 121 cm used a different release point?",
+    "audioPrompt": "Which response to 92 cm, 88 cm and 121 cm is best if 121 cm used a different release point?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Average all three without comment",
+        "is_correct": false
+      },
+      {
+        "text": "Delete 92 cm and 88 cm",
+        "is_correct": false
+      },
+      {
+        "text": "Claim 121 cm proves the rule",
+        "is_correct": false
+      },
+      {
+        "text": "Check the method difference before combining the 121 cm result with the others",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Average all three without comment",
+      "Delete 92 cm and 88 cm",
+      "Claim 121 cm proves the rule",
+      "Check the method difference before combining the 121 cm result with the others"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Use a relevant observation or measurement, demonstrate “Compare data sets”, and explain the result.",
-      "hint": "Choose the action that demonstrates the named skill with observable evidence."
+      "summary": "A method difference may explain the inconsistent result.",
+      "hint": "Check before combining."
     },
+    "structuredExplanation": {
+      "summary": "A method difference may explain the inconsistent result.",
+      "hint": "Check before combining."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 26,
+    "sequencePriority": 26,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4I05-P-027",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
+    "bank": "practice",
+    "skill": "evaluating_investigations_and_drawing_conclusions",
+    "question": "Which phrase overclaims the evidence?",
+    "audio_prompt": "Which phrase overclaims the evidence?",
+    "audioPrompt": "Which phrase overclaims the evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The evidence suggests",
+        "is_correct": false
+      },
+      {
+        "text": "More trials would improve confidence",
+        "is_correct": false
+      },
+      {
+        "text": "This proves every fabric surface always stops every car",
+        "is_correct": true
+      },
+      {
+        "text": "In this investigation",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "The evidence suggests",
+      "More trials would improve confidence",
+      "This proves every fabric surface always stops every car",
+      "In this investigation"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "The first phrase goes far beyond a classroom investigation.",
+      "hint": "Too broad."
+    },
+    "structuredExplanation": {
+      "summary": "The first phrase goes far beyond a classroom investigation.",
+      "hint": "Too broad."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 27,
+    "sequencePriority": 27,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4I05-P-028",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
+    "bank": "practice",
+    "skill": "evaluating_investigations_and_drawing_conclusions",
+    "question": "Which comparison uses evidence best?",
+    "audio_prompt": "Which comparison uses evidence best?",
+    "audioPrompt": "Which comparison uses evidence best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Cup A was on the left",
+        "is_correct": false
+      },
+      {
+        "text": "Cup A lost 8°C while Cup B lost 15°C, so Cup A kept water warmer in this test",
+        "is_correct": true
+      },
+      {
+        "text": "Cup A was nicer",
+        "is_correct": false
+      },
+      {
+        "text": "Cup B had a short name",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Cup A was on the left",
+      "Cup A lost 8°C while Cup B lost 15°C, so Cup A kept water warmer in this test",
+      "Cup A was nicer",
+      "Cup B had a short name"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "The comparison uses measured temperature changes.",
+      "hint": "Relevant values."
+    },
+    "structuredExplanation": {
+      "summary": "The comparison uses measured temperature changes.",
+      "hint": "Relevant values."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 28,
+    "sequencePriority": 28,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4I05-P-029",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
+    "bank": "practice",
+    "skill": "evaluating_investigations_and_drawing_conclusions",
+    "question": "Which issue is normal variation rather than a clear method error?",
+    "audio_prompt": "Which issue is normal variation rather than a clear method error?",
+    "audioPrompt": "Which issue is normal variation rather than a clear method error?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Three same-method car distances are 82 cm, 85 cm and 84 cm",
+        "is_correct": true
+      },
+      {
+        "text": "One trial used a different car",
+        "is_correct": false
+      },
+      {
+        "text": "One group pushed the car",
+        "is_correct": false
+      },
+      {
+        "text": "One surface was changed halfway",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Three same-method car distances are 82 cm, 85 cm and 84 cm",
+      "One trial used a different car",
+      "One group pushed the car",
+      "One surface was changed halfway"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Small differences under the same method can be normal variation.",
+      "hint": "Small spread."
+    },
+    "structuredExplanation": {
+      "summary": "Small differences under the same method can be normal variation.",
+      "hint": "Small spread."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 29,
+    "sequencePriority": 29,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4I05-P-030",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
+    "bank": "practice",
+    "skill": "evaluating_investigations_and_drawing_conclusions",
+    "question": "Which conclusion is weakest?",
+    "audio_prompt": "Which conclusion is weakest?",
+    "audioPrompt": "Which conclusion is weakest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The dark cup warmed 9°C more than the white cup in 15 minutes",
+        "is_correct": false
+      },
+      {
+        "text": "The data suggests darker surfaces warmed faster here",
+        "is_correct": false
+      },
+      {
+        "text": "The repeated trials showed the same pattern",
+        "is_correct": false
+      },
+      {
+        "text": "The experiment worked",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "The dark cup warmed 9°C more than the white cup in 15 minutes",
+      "The data suggests darker surfaces warmed faster here",
+      "The repeated trials showed the same pattern",
+      "The experiment worked"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "“The experiment worked” does not answer the question or use evidence.",
+      "hint": "Too vague."
+    },
+    "structuredExplanation": {
+      "summary": "“The experiment worked” does not answer the question or use evidence.",
+      "hint": "Too vague."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 30,
+    "sequencePriority": 30,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4I05-P-031",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
+    "bank": "practice",
+    "skill": "evaluating_investigations_and_drawing_conclusions",
+    "question": "A class finds Brand A towel absorbed 28 mL and Brand B absorbed 17 mL. Which conclusion is best?",
+    "audio_prompt": "A class finds Brand A towel absorbed 28 mL and Brand B absorbed 17 mL. Which conclusion is best?",
+    "audioPrompt": "A class finds Brand A towel absorbed 28 mL and Brand B absorbed 17 mL. Which conclusion is best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Brand B is useless forever",
+        "is_correct": false
+      },
+      {
+        "text": "Towels like water",
+        "is_correct": false
+      },
+      {
+        "text": "Brand A absorbed more water than Brand B in this test",
+        "is_correct": true
+      },
+      {
+        "text": "Brand A is best for everything",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Brand B is useless forever",
+      "Towels like water",
+      "Brand A absorbed more water than Brand B in this test",
+      "Brand A is best for everything"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "The conclusion uses evidence and stays within the investigation.",
+      "hint": "Compare measured values."
+    },
+    "structuredExplanation": {
+      "summary": "The conclusion uses evidence and stays within the investigation.",
+      "hint": "Compare measured values."
+    },
+    "stage": "apply",
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 31,
+    "sequencePriority": 31,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4I05-P-032",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
+    "bank": "practice",
+    "skill": "evaluating_investigations_and_drawing_conclusions",
+    "question": "One group gets a much longer car distance after pushing the car instead of releasing it. What should happen?",
+    "audio_prompt": "One group gets a much longer car distance after pushing the car instead of releasing it. What should happen?",
+    "audioPrompt": "One group gets a much longer car distance after pushing the car instead of releasing it. What should happen?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Delete every other group’s data",
+        "is_correct": false
+      },
+      {
+        "text": "Treat the method as different and do not combine it without comment",
+        "is_correct": true
+      },
+      {
+        "text": "Average it with all fair-release results",
+        "is_correct": false
+      },
+      {
+        "text": "Use it because it is largest",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Delete every other group’s data",
+      "Treat the method as different and do not combine it without comment",
+      "Average it with all fair-release results",
+      "Use it because it is largest"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Pushing changes the method and can affect the result.",
+      "hint": "Method changed."
+    },
+    "structuredExplanation": {
+      "summary": "Pushing changes the method and can affect the result.",
+      "hint": "Method changed."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 32,
+    "sequencePriority": 32,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4I05-P-033",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
+    "bank": "practice",
+    "skill": "evaluating_investigations_and_drawing_conclusions",
+    "question": "An investigation finds one material kept water 6°C warmer after 30 minutes. What further question fits?",
+    "audio_prompt": "An investigation finds one material kept water 6°C warmer after 30 minutes. What further question fits?",
+    "audioPrompt": "An investigation finds one material kept water 6°C warmer after 30 minutes. What further question fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "How does adding a lid affect temperature change over 30 minutes?",
+        "is_correct": true
+      },
+      {
+        "text": "Which colour is best looking?",
+        "is_correct": false
+      },
+      {
+        "text": "Can cups be happy?",
+        "is_correct": false
+      },
+      {
+        "text": "Why do all materials work perfectly?",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "How does adding a lid affect temperature change over 30 minutes?",
+      "Which colour is best looking?",
+      "Can cups be happy?",
+      "Why do all materials work perfectly?"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "The follow-up question tests a related design factor.",
+      "hint": "Focused next variable."
+    },
+    "structuredExplanation": {
+      "summary": "The follow-up question tests a related design factor.",
+      "hint": "Focused next variable."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 33,
+    "sequencePriority": 33,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4I05-P-034",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
+    "bank": "practice",
+    "skill": "evaluating_investigations_and_drawing_conclusions",
+    "question": "A student concludes “my prediction was right” but gives no data. What should be added?",
+    "audio_prompt": "A student concludes “my prediction was right” but gives no data. What should be added?",
+    "audioPrompt": "A student concludes “my prediction was right” but gives no data. What should be added?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "A drawing only",
+        "is_correct": false
+      },
+      {
+        "text": "A new prediction after results",
+        "is_correct": false
+      },
+      {
+        "text": "A joke title",
+        "is_correct": false
+      },
+      {
+        "text": "Evidence showing which results support the prediction",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "A drawing only",
+      "A new prediction after results",
+      "A joke title",
+      "Evidence showing which results support the prediction"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Conclusions need evidence, not only a statement about the prediction.",
+      "hint": "Cite results."
+    },
+    "structuredExplanation": {
+      "summary": "Conclusions need evidence, not only a statement about the prediction.",
+      "hint": "Cite results."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 34,
+    "sequencePriority": 34,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4I05-P-035",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
+    "bank": "practice",
+    "skill": "evaluating_investigations_and_drawing_conclusions",
+    "question": "Two groups have similar means but different single trials. What should they compare?",
+    "audio_prompt": "Two groups have similar means but different single trials. What should they compare?",
+    "audioPrompt": "Two groups have similar means but different single trials. What should they compare?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Only the first trial",
+        "is_correct": false
+      },
+      {
+        "text": "The colour of the notebooks",
+        "is_correct": false
+      },
+      {
+        "text": "The overall pattern, repeats and possible sources of variation",
+        "is_correct": true
+      },
+      {
+        "text": "Only the highest trial",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Only the first trial",
+      "The colour of the notebooks",
+      "The overall pattern, repeats and possible sources of variation",
+      "Only the highest trial"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Evaluation should consider repeated evidence and variation.",
+      "hint": "Look at pattern."
+    },
+    "structuredExplanation": {
+      "summary": "Evaluation should consider repeated evidence and variation.",
+      "hint": "Look at pattern."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 35,
+    "sequencePriority": 35,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4I05-P-036",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
+    "bank": "practice",
+    "skill": "evaluating_investigations_and_drawing_conclusions",
+    "question": "A plant test used more water and more light for one group. Why is the conclusion weak?",
+    "audio_prompt": "A plant test used more water and more light for one group. Why is the conclusion weak?",
+    "audioPrompt": "A plant test used more water and more light for one group. Why is the conclusion weak?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Water and light are not variables",
+        "is_correct": false
+      },
+      {
+        "text": "Two factors changed, so the cause is unclear",
+        "is_correct": true
+      },
+      {
+        "text": "Plants cannot be measured",
+        "is_correct": false
+      },
+      {
+        "text": "More variables always strengthen conclusions",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Water and light are not variables",
+      "Two factors changed, so the cause is unclear",
+      "Plants cannot be measured",
+      "More variables always strengthen conclusions"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Changing multiple variables makes it hard to know what caused growth differences.",
+      "hint": "Cause unclear."
+    },
+    "structuredExplanation": {
+      "summary": "Changing multiple variables makes it hard to know what caused growth differences.",
+      "hint": "Cause unclear."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 36,
+    "sequencePriority": 36,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4I05-P-037",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
+    "bank": "practice",
+    "skill": "evaluating_investigations_and_drawing_conclusions",
+    "question": "A student says a result is wrong because it differs from the prediction. What is the best response?",
+    "audio_prompt": "A student says a result is wrong because it differs from the prediction. What is the best response?",
+    "audioPrompt": "A student says a result is wrong because it differs from the prediction. What is the best response?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Evidence can challenge a prediction, so check the method and consider the data",
+        "is_correct": true
+      },
+      {
+        "text": "Predictions are always correct",
+        "is_correct": false
+      },
+      {
+        "text": "Results should be changed to match predictions",
+        "is_correct": false
+      },
+      {
+        "text": "Different data cannot be real",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Evidence can challenge a prediction, so check the method and consider the data",
+      "Predictions are always correct",
+      "Results should be changed to match predictions",
+      "Different data cannot be real"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Predictions are tested by evidence, not protected from it.",
+      "hint": "Evidence decides."
+    },
+    "structuredExplanation": {
+      "summary": "Predictions are tested by evidence, not protected from it.",
+      "hint": "Evidence decides."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 37,
+    "sequencePriority": 37,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4I05-P-038",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
+    "bank": "practice",
+    "skill": "evaluating_investigations_and_drawing_conclusions",
+    "question": "A class tested only one paper bridge. What limitation should their conclusion mention?",
+    "audio_prompt": "A class tested only one paper bridge. What limitation should their conclusion mention?",
+    "audioPrompt": "A class tested only one paper bridge. What limitation should their conclusion mention?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "One trial proves all bridges",
+        "is_correct": false
+      },
+      {
+        "text": "Bridges cannot be tested",
+        "is_correct": false
+      },
+      {
+        "text": "Conclusion wording does not matter",
+        "is_correct": false
+      },
+      {
+        "text": "One trial gives low confidence and more repeats are needed",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "One trial proves all bridges",
+      "Bridges cannot be tested",
+      "Conclusion wording does not matter",
+      "One trial gives low confidence and more repeats are needed"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "One trial limits reliability.",
+      "hint": "Need repeats."
+    },
+    "structuredExplanation": {
+      "summary": "One trial limits reliability.",
+      "hint": "Need repeats."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 38,
+    "sequencePriority": 38,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4I05-P-039",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
+    "bank": "practice",
+    "skill": "evaluating_investigations_and_drawing_conclusions",
+    "question": "A soil investigation shows sand drained faster than clay in three trials. Which further question is useful?",
+    "audio_prompt": "A soil investigation shows sand drained faster than clay in three trials. Which further question is useful?",
+    "audioPrompt": "A soil investigation shows sand drained faster than clay in three trials. Which further question is useful?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Can sand become clay instantly?",
+        "is_correct": false
+      },
+      {
+        "text": "Why is drainage impossible?",
+        "is_correct": false
+      },
+      {
+        "text": "How does adding compost to clay affect drainage time?",
+        "is_correct": true
+      },
+      {
+        "text": "Which soil has the funniest name?",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Can sand become clay instantly?",
+      "Why is drainage impossible?",
+      "How does adding compost to clay affect drainage time?",
+      "Which soil has the funniest name?"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "The question follows from the finding and tests a new focused factor.",
+      "hint": "Next related test."
+    },
+    "structuredExplanation": {
+      "summary": "The question follows from the finding and tests a new focused factor.",
+      "hint": "Next related test."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 39,
+    "sequencePriority": 39,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4I05-P-040",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
+    "bank": "practice",
+    "skill": "evaluating_investigations_and_drawing_conclusions",
+    "question": "A graph shows an unexpected jump at one time point. What should students do before concluding?",
+    "audio_prompt": "A graph shows an unexpected jump at one time point. What should students do before concluding?",
+    "audioPrompt": "A graph shows an unexpected jump at one time point. What should students do before concluding?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Erase the graph",
+        "is_correct": false
+      },
+      {
+        "text": "Check the measurement, method notes and whether repeats show the same jump",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the jump automatically",
+        "is_correct": false
+      },
+      {
+        "text": "Use only the jump",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Erase the graph",
+      "Check the measurement, method notes and whether repeats show the same jump",
+      "Ignore the jump automatically",
+      "Use only the jump"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Unexpected patterns should be evaluated using evidence and method checks.",
+      "hint": "Investigate anomaly."
+    },
+    "structuredExplanation": {
+      "summary": "Unexpected patterns should be evaluated using evidence and method checks.",
+      "hint": "Investigate anomaly."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 40,
+    "sequencePriority": 40,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I05-T-001",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
     "bank": "test",
     "skill": "evaluating_investigations_and_drawing_conclusions",
-    "question": "A museum activity card says, “result or pattern identified from evidence”. Which scientific term belongs on the card?",
-    "audio_prompt": "A museum activity card says, “result or pattern identified from evidence”. Which scientific term belongs on the card?",
+    "question": "Which conclusion best uses evidence?",
+    "audio_prompt": "Which conclusion best uses evidence?",
+    "audioPrompt": "Which conclusion best uses evidence?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-001",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “result or pattern identified from evidence”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "finding",
+        "text": "The uncovered cup lost",
+        "is_correct": false
+      },
+      {
+        "text": "The lid looked scientific",
+        "is_correct": false
+      },
+      {
+        "text": "The covered cup cooled less, dropping 9°C compared with 18°C for the uncovered cup",
         "is_correct": true
       },
       {
-        "text": "fair test",
-        "is_correct": false
-      },
-      {
-        "text": "variation",
+        "text": "The covered cup was nice",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "The uncovered cup lost",
+      "The lid looked scientific",
+      "The covered cup cooled less, dropping 9°C compared with 18°C for the uncovered cup",
+      "The covered cup was nice"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "finding is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+      "summary": "The conclusion cites relevant values.",
+      "hint": "Use data."
+    },
+    "structuredExplanation": {
+      "summary": "The conclusion cites relevant values.",
+      "hint": "Use data."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 1,
+    "sequencePriority": 1,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I05-T-002",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
     "bank": "test",
     "skill": "evaluating_investigations_and_drawing_conclusions",
-    "question": "A museum activity card says, “comparison controlling relevant variables”. Which scientific term belongs on the card?",
-    "audio_prompt": "A museum activity card says, “comparison controlling relevant variables”. Which scientific term belongs on the card?",
+    "question": "A group used a different starting temperature from everyone else. What should happen before comparing findings?",
+    "audio_prompt": "A group used a different starting temperature from everyone else. What should happen before comparing findings?",
+    "audioPrompt": "A group used a different starting temperature from everyone else. What should happen before comparing findings?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-002",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “comparison controlling relevant variables”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "variation",
+        "text": "Ignore starting temperature",
         "is_correct": false
       },
       {
-        "text": "fair test",
+        "text": "Check whether the method difference affected the results",
         "is_correct": true
       },
       {
-        "text": "conclusion",
+        "text": "Combine results immediately",
+        "is_correct": false
+      },
+      {
+        "text": "Delete other groups’ results",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "Ignore starting temperature",
+      "Check whether the method difference affected the results",
+      "Combine results immediately",
+      "Delete other groups’ results"
+    ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "fair test is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+      "summary": "Different starting conditions can affect comparability.",
+      "hint": "Method check."
+    },
+    "structuredExplanation": {
+      "summary": "Different starting conditions can affect comparability.",
+      "hint": "Method check."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 2,
+    "sequencePriority": 2,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I05-T-003",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
     "bank": "test",
     "skill": "evaluating_investigations_and_drawing_conclusions",
-    "question": "A museum activity card says, “differences arising across observations or trials”. Which scientific term belongs on the card?",
-    "audio_prompt": "A museum activity card says, “differences arising across observations or trials”. Which scientific term belongs on the card?",
+    "question": "Which further question is focused?",
+    "audio_prompt": "Which further question is focused?",
+    "audioPrompt": "Which further question is focused?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-003",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “differences arising across observations or trials”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "conclusion",
-        "is_correct": false
-      },
-      {
-        "text": "further question",
-        "is_correct": false
-      },
-      {
-        "text": "variation",
+        "text": "How does surface type affect sliding distance when car and ramp height stay the same?",
         "is_correct": true
+      },
+      {
+        "text": "What is the best toy?",
+        "is_correct": false
+      },
+      {
+        "text": "Can cars do everything?",
+        "is_correct": false
+      },
+      {
+        "text": "Why is motion interesting?",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "How does surface type affect sliding distance when car and ramp height stay the same?",
+      "What is the best toy?",
+      "Can cars do everything?",
+      "Why is motion interesting?"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "variation is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+      "summary": "The question names one relationship and controls.",
+      "hint": "Testable next step."
+    },
+    "structuredExplanation": {
+      "summary": "The question names one relationship and controls.",
+      "hint": "Testable next step."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 3,
+    "sequencePriority": 3,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I05-T-004",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
     "bank": "test",
     "skill": "evaluating_investigations_and_drawing_conclusions",
-    "question": "A museum activity card says, “statement answering the question using evidence”. Which scientific term belongs on the card?",
-    "audio_prompt": "A museum activity card says, “statement answering the question using evidence”. Which scientific term belongs on the card?",
+    "question": "Which statement about variation is accurate?",
+    "audio_prompt": "Which statement about variation is accurate?",
+    "audioPrompt": "Which statement about variation is accurate?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-004",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “statement answering the question using evidence”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "conclusion",
+        "text": "All variation means cheating",
+        "is_correct": false
+      },
+      {
+        "text": "Variation should never be recorded",
+        "is_correct": false
+      },
+      {
+        "text": "Variation proves there was no pattern",
+        "is_correct": false
+      },
+      {
+        "text": "Small differences can occur even when the method is the same",
         "is_correct": true
-      },
-      {
-        "text": "further question",
-        "is_correct": false
-      },
-      {
-        "text": "finding",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "All variation means cheating",
+      "Variation should never be recorded",
+      "Variation proves there was no pattern",
+      "Small differences can occur even when the method is the same"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "conclusion is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+      "summary": "Repeated measurements often vary slightly.",
+      "hint": "Normal differences."
+    },
+    "structuredExplanation": {
+      "summary": "Repeated measurements often vary slightly.",
+      "hint": "Normal differences."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 4,
+    "sequencePriority": 4,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I05-T-005",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
     "bank": "test",
     "skill": "evaluating_investigations_and_drawing_conclusions",
-    "question": "A museum activity card says, “new testable question arising from findings or limitations”. Which scientific term belongs on the card?",
-    "audio_prompt": "A museum activity card says, “new testable question arising from findings or limitations”. Which scientific term belongs on the card?",
+    "question": "Which finding should be checked for method error?",
+    "audio_prompt": "Which finding should be checked for method error?",
+    "audioPrompt": "Which finding should be checked for method error?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-005",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “new testable question arising from findings or limitations”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "finding",
+        "text": "Three matching starting points",
         "is_correct": false
       },
       {
-        "text": "further question",
+        "text": "All trials using the same car",
+        "is_correct": false
+      },
+      {
+        "text": "A 150 cm result when other same-condition trials were near 60 cm and notes say it was pushed",
         "is_correct": true
       },
       {
-        "text": "fair test",
+        "text": "Values of 61 cm, 59 cm and 62 cm",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "Three matching starting points",
+      "All trials using the same car",
+      "A 150 cm result when other same-condition trials were near 60 cm and notes say it was pushed",
+      "Values of 61 cm, 59 cm and 62 cm"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "further question is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+      "summary": "The much larger pushed trial has a method difference.",
+      "hint": "Outlier plus method note."
+    },
+    "structuredExplanation": {
+      "summary": "The much larger pushed trial has a method difference.",
+      "hint": "Outlier plus method note."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 5,
+    "sequencePriority": 5,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I05-T-006",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
     "bank": "test",
     "skill": "evaluating_investigations_and_drawing_conclusions",
-    "question": "A different class records this conclusion: “Different findings mean one group cheated”. Which feedback would improve it most?",
-    "audio_prompt": "A different class records this conclusion: “Different findings mean one group cheated”. Which feedback would improve it most?",
+    "question": "Which conclusion overclaims?",
+    "audio_prompt": "Which conclusion overclaims?",
+    "audioPrompt": "Which conclusion overclaims?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-006",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Different findings mean one group cheated”. Which feedback would improve it most?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Different findings mean one group cheated",
+        "text": "More distances should be tested",
         "is_correct": false
       },
       {
-        "text": "Fairness judged by equal results",
-        "is_correct": false
-      },
-      {
-        "text": "Check variation, measurement and method before judging.",
+        "text": "This magnet is strongest in every classroom and every test",
         "is_correct": true
+      },
+      {
+        "text": "This magnet lifted the most clips in our trials",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence suggests this magnet was stronger here",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "More distances should be tested",
+      "This magnet is strongest in every classroom and every test",
+      "This magnet lifted the most clips in our trials",
+      "The evidence suggests this magnet was stronger here"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Check variation, measurement and method before judging.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+      "summary": "The first claim goes beyond the evidence.",
+      "hint": "Too broad."
+    },
+    "structuredExplanation": {
+      "summary": "The first claim goes beyond the evidence.",
+      "hint": "Too broad."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 6,
+    "sequencePriority": 6,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I05-T-007",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
     "bank": "test",
     "skill": "evaluating_investigations_and_drawing_conclusions",
-    "question": "A different class records this conclusion: “Fairness judged by equal results”. Which feedback would improve it most?",
-    "audio_prompt": "A different class records this conclusion: “Fairness judged by equal results”. Which feedback would improve it most?",
+    "question": "Why compare findings with other groups?",
+    "audio_prompt": "Why compare findings with other groups?",
+    "audioPrompt": "Why compare findings with other groups?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-007",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Fairness judged by equal results”. Which feedback would improve it most?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Fairness concerns method and controls.",
+        "text": "To see whether patterns are consistent and whether methods differed",
         "is_correct": true
       },
       {
-        "text": "Fairness judged by equal results",
+        "text": "To copy the biggest number",
         "is_correct": false
       },
       {
-        "text": "Conclusion repeats the procedure",
+        "text": "To avoid writing a conclusion",
+        "is_correct": false
+      },
+      {
+        "text": "To choose the prettiest table",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "To see whether patterns are consistent and whether methods differed",
+      "To copy the biggest number",
+      "To avoid writing a conclusion",
+      "To choose the prettiest table"
+    ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Fairness concerns method and controls.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+      "summary": "Group comparisons can reveal consistency and method issues.",
+      "hint": "Check pattern and method."
+    },
+    "structuredExplanation": {
+      "summary": "Group comparisons can reveal consistency and method issues.",
+      "hint": "Check pattern and method."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 7,
+    "sequencePriority": 7,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I05-T-008",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
     "bank": "test",
     "skill": "evaluating_investigations_and_drawing_conclusions",
-    "question": "A different class records this conclusion: “Conclusion repeats the procedure”. Which feedback would improve it most?",
-    "audio_prompt": "A different class records this conclusion: “Conclusion repeats the procedure”. Which feedback would improve it most?",
+    "question": "Which sentence is only a procedure, not a conclusion?",
+    "audio_prompt": "Which sentence is only a procedure, not a conclusion?",
+    "audioPrompt": "Which sentence is only a procedure, not a conclusion?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-008",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Conclusion repeats the procedure”. Which feedback would improve it most?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Conclusion repeats the procedure",
+        "text": "The car travelled farther on tile than carpet",
         "is_correct": false
       },
       {
-        "text": "It should answer the question using evidence.",
+        "text": "Tile had a mean of 120 cm and carpet 45 cm",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence suggests tile had less friction",
+        "is_correct": false
+      },
+      {
+        "text": "We placed the cars at the top of the ramp",
         "is_correct": true
-      },
-      {
-        "text": "Further question changes everything",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "The car travelled farther on tile than carpet",
+      "Tile had a mean of 120 cm and carpet 45 cm",
+      "The evidence suggests tile had less friction",
+      "We placed the cars at the top of the ramp"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "It should answer the question using evidence.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+      "summary": "The procedure says what was done, not what the evidence means.",
+      "hint": "Method step."
+    },
+    "structuredExplanation": {
+      "summary": "The procedure says what was done, not what the evidence means.",
+      "hint": "Method step."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 8,
+    "sequencePriority": 8,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I05-T-009",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
     "bank": "test",
     "skill": "evaluating_investigations_and_drawing_conclusions",
-    "question": "A different class records this conclusion: “Further question changes everything”. Which feedback would improve it most?",
-    "audio_prompt": "A different class records this conclusion: “Further question changes everything”. Which feedback would improve it most?",
+    "question": "Which evaluation question checks fairness?",
+    "audio_prompt": "Which evaluation question checks fairness?",
+    "audioPrompt": "Which evaluation question checks fairness?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-009",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Further question changes everything”. Which feedback would improve it most?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Further question changes everything",
+        "text": "Did everyone like the result?",
         "is_correct": false
       },
       {
-        "text": "Different findings mean one group cheated",
+        "text": "Was the biggest value chosen?",
         "is_correct": false
       },
       {
-        "text": "A useful follow-up isolates a factor suggested by the findings.",
+        "text": "Were the controlled variables kept the same?",
         "is_correct": true
+      },
+      {
+        "text": "Was the title colourful?",
+        "is_correct": false
       }
     ],
+    "answer_texts": [
+      "Did everyone like the result?",
+      "Was the biggest value chosen?",
+      "Were the controlled variables kept the same?",
+      "Was the title colourful?"
+    ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "A useful follow-up isolates a factor suggested by the findings.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+      "summary": "Fairness depends on controlling relevant variables.",
+      "hint": "Control check."
+    },
+    "structuredExplanation": {
+      "summary": "Fairness depends on controlling relevant variables.",
+      "hint": "Control check."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 9,
+    "sequencePriority": 9,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I05-T-010",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
     "bank": "test",
     "skill": "evaluating_investigations_and_drawing_conclusions",
-    "question": "A new field-note example asks: Which difference most threatens a fair comparison?",
-    "audio_prompt": "A new field-note example asks: Which difference most threatens a fair comparison?",
+    "question": "A test has one trial only. Which improvement is most useful?",
+    "audio_prompt": "A test has one trial only. Which improvement is most useful?",
+    "audioPrompt": "A test has one trial only. Which improvement is most useful?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-010",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A new field-note example asks: Which difference most threatens a fair comparison?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Groups release the object from different points",
+        "text": "Use only opinions",
+        "is_correct": false
+      },
+      {
+        "text": "Repeat the trial several times under the same conditions",
         "is_correct": true
       },
       {
-        "text": "Groups record the same unit",
+        "text": "Make the graph bigger only",
         "is_correct": false
       },
       {
-        "text": "Groups repeat three trials",
+        "text": "Change the question after results",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Use only opinions",
+      "Repeat the trial several times under the same conditions",
+      "Make the graph bigger only",
+      "Change the question after results"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Groups release the object from different points",
-      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
-    }
+      "summary": "Repeats strengthen reliability.",
+      "hint": "More evidence."
+    },
+    "structuredExplanation": {
+      "summary": "Repeats strengthen reliability.",
+      "hint": "More evidence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 10,
+    "sequencePriority": 10,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I05-T-011",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
     "bank": "test",
     "skill": "evaluating_investigations_and_drawing_conclusions",
-    "question": "A new design task asks: Which statement is most scientifically cautious?",
-    "audio_prompt": "A new design task asks: Which statement is most scientifically cautious?",
+    "question": "Which further question follows from “rougher surfaces slowed the car”?",
+    "audio_prompt": "Which further question follows from “rougher surfaces slowed the car”?",
+    "audioPrompt": "Which further question follows from “rougher surfaces slowed the car”?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-011",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A new design task asks: Which statement is most scientifically cautious?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "The rough surface always stops every object",
-        "is_correct": false
-      },
-      {
-        "text": "In these trials, the rough surface produced shorter distances",
+        "text": "How does adding sandpaper to the ramp affect distance travelled?",
         "is_correct": true
       },
       {
-        "text": "One trial proves the explanation",
+        "text": "Which student likes ramps most?",
+        "is_correct": false
+      },
+      {
+        "text": "Can a car become a magnet?",
+        "is_correct": false
+      },
+      {
+        "text": "Why are all results identical?",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "How does adding sandpaper to the ramp affect distance travelled?",
+      "Which student likes ramps most?",
+      "Can a car become a magnet?",
+      "Why are all results identical?"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "In these trials, the rough surface produced shorter distances",
-      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
-    }
+      "summary": "The follow-up investigates a related surface factor.",
+      "hint": "Next surface test."
+    },
+    "structuredExplanation": {
+      "summary": "The follow-up investigates a related surface factor.",
+      "hint": "Next surface test."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 11,
+    "sequencePriority": 11,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I05-T-012",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
     "bank": "test",
     "skill": "evaluating_investigations_and_drawing_conclusions",
-    "question": "A new group wants to adapt “Method detective”. Which method keeps the investigation focused and reviewable?",
-    "audio_prompt": "A new group wants to adapt “Method detective”. Which method keeps the investigation focused and reviewable?",
+    "question": "A class gets different results from two groups. Which first response is best?",
+    "audio_prompt": "A class gets different results from two groups. Which first response is best?",
+    "audioPrompt": "A class gets different results from two groups. Which first response is best?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-012",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Method detective”. Which method keeps the investigation focused and reviewable?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Begin method detective, change two important conditions together, then compare only the preferred observation.",
+        "text": "Say one group cheated",
         "is_correct": false
       },
       {
-        "text": "Carry out method detective once, omit the measurements and report the original prediction as the result.",
+        "text": "Use the result that matches the prediction",
         "is_correct": false
       },
       {
-        "text": "Compare group methods and identify which differences could explain inconsistent findings.",
+        "text": "Throw away all data",
+        "is_correct": false
+      },
+      {
+        "text": "Compare methods and measurements before deciding why",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Say one group cheated",
+      "Use the result that matches the prediction",
+      "Throw away all data",
+      "Compare methods and measurements before deciding why"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Compare group methods and identify which differences could explain inconsistent findings.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
-    }
+      "summary": "Differences should be evaluated before making judgments.",
+      "hint": "Check first."
+    },
+    "structuredExplanation": {
+      "summary": "Differences should be evaluated before making judgments.",
+      "hint": "Check first."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 12,
+    "sequencePriority": 12,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I05-T-013",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
     "bank": "test",
     "skill": "evaluating_investigations_and_drawing_conclusions",
-    "question": "A new group wants to adapt “Conclusion ladder”. Which method keeps the investigation focused and reviewable?",
-    "audio_prompt": "A new group wants to adapt “Conclusion ladder”. Which method keeps the investigation focused and reviewable?",
+    "question": "Which conclusion is too vague?",
+    "audio_prompt": "Which conclusion is too vague?",
+    "audioPrompt": "Which conclusion is too vague?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-013",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Conclusion ladder”. Which method keeps the investigation focused and reviewable?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Rank conclusion statements from unsupported to well-supported and revise overconfident wording.",
+        "text": "In these trials, shade reduced soil temperature",
+        "is_correct": false
+      },
+      {
+        "text": "The data supports the shade prediction",
+        "is_correct": false
+      },
+      {
+        "text": "It changed",
         "is_correct": true
       },
       {
-        "text": "Begin conclusion ladder, change two important conditions together, then compare only the preferred observation.",
-        "is_correct": false
-      },
-      {
-        "text": "Carry out conclusion ladder once, omit the measurements and report the original prediction as the result.",
+        "text": "The shaded soil stayed 5°C cooler than unshaded soil",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "In these trials, shade reduced soil temperature",
+      "The data supports the shade prediction",
+      "It changed",
+      "The shaded soil stayed 5°C cooler than unshaded soil"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Rank conclusion statements from unsupported to well-supported and revise overconfident wording.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
-    }
+      "summary": "“It changed” does not answer the question with evidence.",
+      "hint": "No detail."
+    },
+    "structuredExplanation": {
+      "summary": "“It changed” does not answer the question with evidence.",
+      "hint": "No detail."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 13,
+    "sequencePriority": 13,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I05-T-014",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
     "bank": "test",
     "skill": "evaluating_investigations_and_drawing_conclusions",
-    "question": "A new group wants to adapt “Next-question workshop”. Which method keeps the investigation focused and reviewable?",
-    "audio_prompt": "A new group wants to adapt “Next-question workshop”. Which method keeps the investigation focused and reviewable?",
+    "question": "Why should a conclusion mention limitations?",
+    "audio_prompt": "Why should a conclusion mention limitations?",
+    "audioPrompt": "Why should a conclusion mention limitations?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-014",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Next-question workshop”. Which method keeps the investigation focused and reviewable?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Begin next-question workshop, change two important conditions together, then compare only the preferred observation.",
+        "text": "It proves the result is false",
         "is_correct": false
       },
       {
-        "text": "Turn a limitation or unexpected pattern into a focused follow-up question.",
+        "text": "It shows how far the evidence can reasonably apply",
         "is_correct": true
       },
       {
-        "text": "Carry out next-question workshop once, omit the measurements and report the original prediction as the result.",
+        "text": "It makes all data wrong",
+        "is_correct": false
+      },
+      {
+        "text": "It removes the need for evidence",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "It proves the result is false",
+      "It shows how far the evidence can reasonably apply",
+      "It makes all data wrong",
+      "It removes the need for evidence"
+    ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Turn a limitation or unexpected pattern into a focused follow-up question.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
-    }
+      "summary": "Limitations help readers judge confidence and scope.",
+      "hint": "Boundary."
+    },
+    "structuredExplanation": {
+      "summary": "Limitations help readers judge confidence and scope.",
+      "hint": "Boundary."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 14,
+    "sequencePriority": 14,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I05-T-015",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
     "bank": "test",
     "skill": "evaluating_investigations_and_drawing_conclusions",
-    "question": "In a new assessment, which response would best demonstrate “Compare data sets”?",
-    "audio_prompt": "In a new assessment, which response would best demonstrate “Compare data sets”?",
+    "question": "Which result comparison is most useful?",
+    "audio_prompt": "Which result comparison is most useful?",
+    "audioPrompt": "Which result comparison is most useful?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-015",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: In a new assessment, which response would best demonstrate “Compare data sets”?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "State a preferred answer without using the observations or measurements.",
-        "is_correct": false
-      },
-      {
-        "text": "Copy the task title but do not interpret, compare or explain any evidence.",
-        "is_correct": false
-      },
-      {
-        "text": "Use a relevant observation or measurement, demonstrate “Compare data sets”, and explain the result.",
+        "text": "Mean distance was 95 cm on smooth card and 41 cm on fabric",
         "is_correct": true
+      },
+      {
+        "text": "Smooth card was fun",
+        "is_correct": false
+      },
+      {
+        "text": "Fabric was the last surface tested",
+        "is_correct": false
+      },
+      {
+        "text": "The graph had green bars",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Mean distance was 95 cm on smooth card and 41 cm on fabric",
+      "Smooth card was fun",
+      "Fabric was the last surface tested",
+      "The graph had green bars"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Use a relevant observation or measurement, demonstrate “Compare data sets”, and explain the result.",
-      "hint": "Choose the action that demonstrates the named skill with observable evidence."
-    }
+      "summary": "The useful comparison cites relevant measurements.",
+      "hint": "Compare values."
+    },
+    "structuredExplanation": {
+      "summary": "The useful comparison cites relevant measurements.",
+      "hint": "Compare values."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 15,
+    "sequencePriority": 15,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I05-T-016",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I05",
+    "curriculumCode": "AC9S4I05",
     "bank": "test",
     "skill": "evaluating_investigations_and_drawing_conclusions",
-    "question": "In a new assessment, which response would best demonstrate “Evaluate fair methods”?",
-    "audio_prompt": "In a new assessment, which response would best demonstrate “Evaluate fair methods”?",
+    "question": "An unexpected result appears in one trial but repeats do not show it. What is best?",
+    "audio_prompt": "An unexpected result appears in one trial but repeats do not show it. What is best?",
+    "audioPrompt": "An unexpected result appears in one trial but repeats do not show it. What is best?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i05.svg#ac9s4i05-t-016",
-      "alt_text": "Evaluating Investigations and Drawing Conclusions concept map showing a Year 4 observe, compare and explain sequence. Question context: In a new assessment, which response would best demonstrate “Evaluate fair methods”?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Use a relevant observation or measurement, demonstrate “Evaluate fair methods”, and explain the result.",
+        "text": "Hide it completely",
+        "is_correct": false
+      },
+      {
+        "text": "Use it as the only evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Change all repeats to match",
+        "is_correct": false
+      },
+      {
+        "text": "Report it and explain it may be an outlier or needs further checking",
         "is_correct": true
-      },
-      {
-        "text": "State a preferred answer without using the observations or measurements.",
-        "is_correct": false
-      },
-      {
-        "text": "Copy the task title but do not interpret, compare or explain any evidence.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Hide it completely",
+      "Use it as the only evidence",
+      "Change all repeats to match",
+      "Report it and explain it may be an outlier or needs further checking"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Use a relevant observation or measurement, demonstrate “Evaluate fair methods”, and explain the result.",
-      "hint": "Choose the action that demonstrates the named skill with observable evidence."
-    }
+      "summary": "Unexpected results should be reported and evaluated honestly.",
+      "hint": "Do not hide data."
+    },
+    "structuredExplanation": {
+      "summary": "Unexpected results should be reported and evaluated honestly.",
+      "hint": "Do not hide data."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 16,
+    "sequencePriority": 16,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   }
 ]

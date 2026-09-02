@@ -7,27 +7,31 @@ window.skillrPracticeQuestions = [
     "skill": "observing measuring and recording accurately",
     "printable": true,
     "type": "single",
-    "question": "A class observation is described as “description using qualities rather than a measured number”. Which scientific term best labels it?",
-    "audioPrompt": "A class observation is described as “description using qualities rather than a measured number”. Which scientific term best labels it?",
-    "visual": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A class observation is described as “description using qualities rather than a measured number”. Which scientific term best labels it?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A class observation is described as “description using qualities rather than a measured number”. Which scientific term best labels it?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-001\"></use></svg>",
+    "question": "Which is a quantitative observation?",
+    "audioPrompt": "Which is a quantitative observation?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-001",
-      "alt_text": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A class observation is described as “description using qualities rather than a measured number”. Which scientific term best labels it?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "quantitative observation",
-      "qualitative observation",
-      "scale interval"
+      "The water temperature was 28°C",
+      "The rock felt rough",
+      "The leaf was dark green",
+      "The liquid looked clear"
     ],
-    "correct": 1,
-    "explanation": "qualitative observation is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "correct": 0,
+    "explanation": "A quantitative observation includes a number and unit.\nHint: Number plus unit.",
     "structuredExplanation": {
-      "summary": "qualitative observation is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "A quantitative observation includes a number and unit.",
+      "hint": "Number plus unit."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i03-p-002",
@@ -36,27 +40,31 @@ window.skillrPracticeQuestions = [
     "skill": "observing measuring and recording accurately",
     "printable": true,
     "type": "single",
-    "question": "A class observation is described as “observation containing a number and unit”. Which scientific term best labels it?",
-    "audioPrompt": "A class observation is described as “observation containing a number and unit”. Which scientific term best labels it?",
-    "visual": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A class observation is described as “observation containing a number and unit”. Which scientific term best labels it?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A class observation is described as “observation containing a number and unit”. Which scientific term best labels it?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-002\"></use></svg>",
+    "question": "Which is a qualitative observation?",
+    "audioPrompt": "Which is a qualitative observation?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-002",
-      "alt_text": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A class observation is described as “observation containing a number and unit”. Which scientific term best labels it?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "scale interval",
-      "precision",
-      "quantitative observation"
+      "The seedling was 12 cm tall",
+      "The water was 250 mL",
+      "The test lasted 3 minutes",
+      "The soil felt gritty"
     ],
-    "correct": 2,
-    "explanation": "quantitative observation is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "correct": 3,
+    "explanation": "A qualitative observation describes qualities without a measured number.\nHint: Description, not measurement.",
     "structuredExplanation": {
-      "summary": "quantitative observation is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "A qualitative observation describes qualities without a measured number.",
+      "hint": "Description, not measurement."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i03-p-003",
@@ -65,27 +73,31 @@ window.skillrPracticeQuestions = [
     "skill": "observing measuring and recording accurately",
     "printable": true,
     "type": "single",
-    "question": "A class observation is described as “value represented by one space between marks”. Which scientific term best labels it?",
-    "audioPrompt": "A class observation is described as “value represented by one space between marks”. Which scientific term best labels it?",
-    "visual": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A class observation is described as “value represented by one space between marks”. Which scientific term best labels it?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A class observation is described as “value represented by one space between marks”. Which scientific term best labels it?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-003\"></use></svg>",
+    "question": "What should every formal measurement include?",
+    "audioPrompt": "What should every formal measurement include?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-003",
-      "alt_text": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A class observation is described as “value represented by one space between marks”. Which scientific term best labels it?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "scale interval",
-      "precision",
-      "procedure"
+      "Only a guess",
+      "Only the student’s name",
+      "A number and a unit",
+      "Only a colour"
     ],
-    "correct": 0,
-    "explanation": "scale interval is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "correct": 2,
+    "explanation": "Measurements need both a number and a unit to be meaningful.\nHint: Number plus unit.",
     "structuredExplanation": {
-      "summary": "scale interval is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Measurements need both a number and a unit to be meaningful.",
+      "hint": "Number plus unit."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i03-p-004",
@@ -94,27 +106,31 @@ window.skillrPracticeQuestions = [
     "skill": "observing measuring and recording accurately",
     "printable": true,
     "type": "single",
-    "question": "A class observation is described as “level of detail supported by the instrument”. Which scientific term best labels it?",
-    "audioPrompt": "A class observation is described as “level of detail supported by the instrument”. Which scientific term best labels it?",
-    "visual": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A class observation is described as “level of detail supported by the instrument”. Which scientific term best labels it?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A class observation is described as “level of detail supported by the instrument”. Which scientific term best labels it?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-004\"></use></svg>",
+    "question": "Which instrument measures temperature?",
+    "audioPrompt": "Which instrument measures temperature?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-004",
-      "alt_text": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A class observation is described as “level of detail supported by the instrument”. Which scientific term best labels it?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "procedure",
-      "precision",
-      "qualitative observation"
+      "Balance",
+      "Thermometer",
+      "Ruler",
+      "Measuring jug"
     ],
     "correct": 1,
-    "explanation": "precision is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "explanation": "A thermometer measures temperature, usually in degrees Celsius.\nHint: Tool for °C.",
     "structuredExplanation": {
-      "summary": "precision is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "A thermometer measures temperature, usually in degrees Celsius.",
+      "hint": "Tool for °C."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i03-p-005",
@@ -123,27 +139,31 @@ window.skillrPracticeQuestions = [
     "skill": "observing measuring and recording accurately",
     "printable": true,
     "type": "single",
-    "question": "A class observation is described as “ordered method to follow consistently”. Which scientific term best labels it?",
-    "audioPrompt": "A class observation is described as “ordered method to follow consistently”. Which scientific term best labels it?",
-    "visual": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A class observation is described as “ordered method to follow consistently”. Which scientific term best labels it?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A class observation is described as “ordered method to follow consistently”. Which scientific term best labels it?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-005\"></use></svg>",
+    "question": "Which instrument measures length?",
+    "audioPrompt": "Which instrument measures length?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-005",
-      "alt_text": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A class observation is described as “ordered method to follow consistently”. Which scientific term best labels it?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "qualitative observation",
-      "quantitative observation",
-      "procedure"
+      "Ruler or tape measure",
+      "Thermometer",
+      "Timer",
+      "Measuring cup"
     ],
-    "correct": 2,
-    "explanation": "procedure is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "correct": 0,
+    "explanation": "Rulers and tape measures measure length.\nHint: Tool for cm or mm.",
     "structuredExplanation": {
-      "summary": "procedure is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Rulers and tape measures measure length.",
+      "hint": "Tool for cm or mm."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i03-p-006",
@@ -152,27 +172,31 @@ window.skillrPracticeQuestions = [
     "skill": "observing measuring and recording accurately",
     "printable": true,
     "type": "single",
-    "question": "A student needs a heading for this evidence: “description using qualities rather than a measured number”. Which heading is most precise?",
-    "audioPrompt": "A student needs a heading for this evidence: “description using qualities rather than a measured number”. Which heading is most precise?",
-    "visual": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A student needs a heading for this evidence: “description using qualities rather than a measured number”. Which heading is most precise?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A student needs a heading for this evidence: “description using qualities rather than a measured number”. Which heading is most precise?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-006\"></use></svg>",
+    "question": "Which unit is suitable for measuring a short classroom object?",
+    "audioPrompt": "Which unit is suitable for measuring a short classroom object?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-006",
-      "alt_text": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A student needs a heading for this evidence: “description using qualities rather than a measured number”. Which heading is most precise?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "qualitative observation",
-      "scale interval",
-      "precision"
+      "Degrees Celsius",
+      "Litres only",
+      "Seconds",
+      "Centimetres"
     ],
-    "correct": 0,
-    "explanation": "qualitative observation is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "correct": 3,
+    "explanation": "Centimetres are suitable for many small length measurements.\nHint: Length unit.",
     "structuredExplanation": {
-      "summary": "qualitative observation is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Centimetres are suitable for many small length measurements.",
+      "hint": "Length unit."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i03-p-007",
@@ -181,27 +205,31 @@ window.skillrPracticeQuestions = [
     "skill": "observing measuring and recording accurately",
     "printable": true,
     "type": "single",
-    "question": "A student needs a heading for this evidence: “observation containing a number and unit”. Which heading is most precise?",
-    "audioPrompt": "A student needs a heading for this evidence: “observation containing a number and unit”. Which heading is most precise?",
-    "visual": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A student needs a heading for this evidence: “observation containing a number and unit”. Which heading is most precise?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A student needs a heading for this evidence: “observation containing a number and unit”. Which heading is most precise?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-007\"></use></svg>",
+    "question": "Which unit is suitable for measuring water volume in a small jug?",
+    "audioPrompt": "Which unit is suitable for measuring water volume in a small jug?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-007",
-      "alt_text": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A student needs a heading for this evidence: “observation containing a number and unit”. Which heading is most precise?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "precision",
-      "quantitative observation",
-      "procedure"
+      "Degrees Celsius",
+      "Centimetres per second only",
+      "Millilitres",
+      "Kilograms only"
     ],
-    "correct": 1,
-    "explanation": "quantitative observation is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "correct": 2,
+    "explanation": "Millilitres are commonly used for small liquid volumes.\nHint: Volume unit.",
     "structuredExplanation": {
-      "summary": "quantitative observation is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Millilitres are commonly used for small liquid volumes.",
+      "hint": "Volume unit."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i03-p-008",
@@ -210,27 +238,31 @@ window.skillrPracticeQuestions = [
     "skill": "observing measuring and recording accurately",
     "printable": true,
     "type": "single",
-    "question": "A student needs a heading for this evidence: “value represented by one space between marks”. Which heading is most precise?",
-    "audioPrompt": "A student needs a heading for this evidence: “value represented by one space between marks”. Which heading is most precise?",
-    "visual": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A student needs a heading for this evidence: “value represented by one space between marks”. Which heading is most precise?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A student needs a heading for this evidence: “value represented by one space between marks”. Which heading is most precise?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-008\"></use></svg>",
+    "question": "What does a scale interval show?",
+    "audioPrompt": "What does a scale interval show?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-008",
-      "alt_text": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A student needs a heading for this evidence: “value represented by one space between marks”. Which heading is most precise?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "procedure",
-      "qualitative observation",
-      "scale interval"
+      "The final conclusion",
+      "The value represented by the space between marks",
+      "The colour of the instrument",
+      "The person reading it"
     ],
-    "correct": 2,
-    "explanation": "scale interval is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "correct": 1,
+    "explanation": "The scale interval tells how much each step on the scale is worth.\nHint: Value of each gap.",
     "structuredExplanation": {
-      "summary": "scale interval is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "The scale interval tells how much each step on the scale is worth.",
+      "hint": "Value of each gap."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i03-p-009",
@@ -239,27 +271,31 @@ window.skillrPracticeQuestions = [
     "skill": "observing measuring and recording accurately",
     "printable": true,
     "type": "single",
-    "question": "A student needs a heading for this evidence: “level of detail supported by the instrument”. Which heading is most precise?",
-    "audioPrompt": "A student needs a heading for this evidence: “level of detail supported by the instrument”. Which heading is most precise?",
-    "visual": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A student needs a heading for this evidence: “level of detail supported by the instrument”. Which heading is most precise?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A student needs a heading for this evidence: “level of detail supported by the instrument”. Which heading is most precise?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-009\"></use></svg>",
+    "question": "Which tool is useful for measuring duration?",
+    "audioPrompt": "Which tool is useful for measuring duration?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-009",
-      "alt_text": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A student needs a heading for this evidence: “level of detail supported by the instrument”. Which heading is most precise?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "precision",
-      "qualitative observation",
-      "quantitative observation"
+      "Timer or stopwatch",
+      "Balance",
+      "Magnet",
+      "Ruler"
     ],
     "correct": 0,
-    "explanation": "precision is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "explanation": "Timers and stopwatches measure time duration.\nHint: Tool for seconds.",
     "structuredExplanation": {
-      "summary": "precision is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Timers and stopwatches measure time duration.",
+      "hint": "Tool for seconds."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i03-p-010",
@@ -268,27 +304,31 @@ window.skillrPracticeQuestions = [
     "skill": "observing measuring and recording accurately",
     "printable": true,
     "type": "single",
-    "question": "A student needs a heading for this evidence: “ordered method to follow consistently”. Which heading is most precise?",
-    "audioPrompt": "A student needs a heading for this evidence: “ordered method to follow consistently”. Which heading is most precise?",
-    "visual": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A student needs a heading for this evidence: “ordered method to follow consistently”. Which heading is most precise?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A student needs a heading for this evidence: “ordered method to follow consistently”. Which heading is most precise?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-010\"></use></svg>",
+    "question": "Why should observations be recorded during the investigation?",
+    "audioPrompt": "Why should observations be recorded during the investigation?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-010",
-      "alt_text": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A student needs a heading for this evidence: “ordered method to follow consistently”. Which heading is most precise?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "quantitative observation",
-      "procedure",
-      "scale interval"
+      "It makes measurements unnecessary",
+      "It changes qualitative data into opinions",
+      "It prevents repeats",
+      "Memory can be unreliable after the event"
     ],
-    "correct": 1,
-    "explanation": "procedure is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "correct": 3,
+    "explanation": "Recording promptly helps avoid forgotten or changed details.\nHint: Write it when observed.",
     "structuredExplanation": {
-      "summary": "procedure is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Recording promptly helps avoid forgotten or changed details.",
+      "hint": "Write it when observed."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i03-p-011",
@@ -297,27 +337,31 @@ window.skillrPracticeQuestions = [
     "skill": "observing measuring and recording accurately",
     "printable": true,
     "type": "single",
-    "question": "During a Year 4 discussion, Student 1 says, “Number recorded without unit”. Which response best corrects the science?",
-    "audioPrompt": "During a Year 4 discussion, Student 1 says, “Number recorded without unit”. Which response best corrects the science?",
-    "visual": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: During a Year 4 discussion, Student 1 says, “Number recorded without unit”. Which response best corrects the science?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: During a Year 4 discussion, Student 1 says, “Number recorded without unit”. Which response best corrects the science?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-011\"></use></svg>",
+    "question": "Why is “the water got hotter” less useful than “the water rose from 22°C to 31°C”?",
+    "audioPrompt": "Why is “the water got hotter” less useful than “the water rose from 22°C to 31°C”?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-011",
-      "alt_text": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: During a Year 4 discussion, Student 1 says, “Number recorded without unit”. Which response best corrects the science?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Number recorded without unit",
-      "Marks counted instead of intervals",
-      "A measurement needs its unit to communicate the quantity."
+      "Numbers make all results perfect",
+      "Temperature cannot be measured",
+      "The second statement gives measured values and units",
+      "The first statement has more units"
     ],
     "correct": 2,
-    "explanation": "A measurement needs its unit to communicate the quantity.\nHint: Choose the response that uses evidence and corrects the mistaken relationship.",
+    "explanation": "Quantitative records give clearer evidence for comparisons.\nHint: Measured detail.",
     "structuredExplanation": {
-      "summary": "A measurement needs its unit to communicate the quantity.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Quantitative records give clearer evidence for comparisons.",
+      "hint": "Measured detail."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i03-p-012",
@@ -326,27 +370,31 @@ window.skillrPracticeQuestions = [
     "skill": "observing measuring and recording accurately",
     "printable": true,
     "type": "single",
-    "question": "During a Year 4 discussion, Student 2 says, “Marks counted instead of intervals”. Which response best corrects the science?",
-    "audioPrompt": "During a Year 4 discussion, Student 2 says, “Marks counted instead of intervals”. Which response best corrects the science?",
-    "visual": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: During a Year 4 discussion, Student 2 says, “Marks counted instead of intervals”. Which response best corrects the science?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: During a Year 4 discussion, Student 2 says, “Marks counted instead of intervals”. Which response best corrects the science?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-012\"></use></svg>",
+    "question": "Why should a liquid level be read at eye level?",
+    "audioPrompt": "Why should a liquid level be read at eye level?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-012",
-      "alt_text": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: During a Year 4 discussion, Student 2 says, “Marks counted instead of intervals”. Which response best corrects the science?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use the spaces between labelled values to find interval size.",
-      "Marks counted instead of intervals",
-      "Digital reading assumed error-free"
+      "It removes the need for units",
+      "Looking from above or below can give a wrong reading",
+      "Eye level changes the liquid volume",
+      "It makes water evaporate slower"
     ],
-    "correct": 0,
-    "explanation": "Use the spaces between labelled values to find interval size.\nHint: Choose the response that uses evidence and corrects the mistaken relationship.",
+    "correct": 1,
+    "explanation": "Reading at eye level reduces parallax error.\nHint: Avoid angle error.",
     "structuredExplanation": {
-      "summary": "Use the spaces between labelled values to find interval size.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Reading at eye level reduces parallax error.",
+      "hint": "Avoid angle error."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i03-p-013",
@@ -355,27 +403,31 @@ window.skillrPracticeQuestions = [
     "skill": "observing measuring and recording accurately",
     "printable": true,
     "type": "single",
-    "question": "During a Year 4 discussion, Student 3 says, “Digital reading assumed error-free”. Which response best corrects the science?",
-    "audioPrompt": "During a Year 4 discussion, Student 3 says, “Digital reading assumed error-free”. Which response best corrects the science?",
-    "visual": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: During a Year 4 discussion, Student 3 says, “Digital reading assumed error-free”. Which response best corrects the science?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: During a Year 4 discussion, Student 3 says, “Digital reading assumed error-free”. Which response best corrects the science?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-013\"></use></svg>",
+    "question": "Why must the unit be written beside 45 in a data table?",
+    "audioPrompt": "Why must the unit be written beside 45 in a data table?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-013",
-      "alt_text": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: During a Year 4 discussion, Student 3 says, “Digital reading assumed error-free”. Which response best corrects the science?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Digital reading assumed error-free",
-      "Check setup, unit, sensor position and reasonableness.",
-      "Procedure reordered casually"
+      "45 could mean different quantities without a unit",
+      "Numbers never need units",
+      "Units are only for graphs",
+      "45 is always temperature"
     ],
-    "correct": 1,
-    "explanation": "Check setup, unit, sensor position and reasonableness.\nHint: Choose the response that uses evidence and corrects the mistaken relationship.",
+    "correct": 0,
+    "explanation": "A number without a unit is ambiguous.\nHint: 45 what?",
     "structuredExplanation": {
-      "summary": "Check setup, unit, sensor position and reasonableness.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "A number without a unit is ambiguous.",
+      "hint": "45 what?"
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i03-p-014",
@@ -384,27 +436,31 @@ window.skillrPracticeQuestions = [
     "skill": "observing measuring and recording accurately",
     "printable": true,
     "type": "single",
-    "question": "During a Year 4 discussion, Student 4 says, “Procedure reordered casually”. Which response best corrects the science?",
-    "audioPrompt": "During a Year 4 discussion, Student 4 says, “Procedure reordered casually”. Which response best corrects the science?",
-    "visual": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: During a Year 4 discussion, Student 4 says, “Procedure reordered casually”. Which response best corrects the science?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: During a Year 4 discussion, Student 4 says, “Procedure reordered casually”. Which response best corrects the science?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-014\"></use></svg>",
+    "question": "Why should a procedure be followed in order?",
+    "audioPrompt": "Why should a procedure be followed in order?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-014",
-      "alt_text": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: During a Year 4 discussion, Student 4 says, “Procedure reordered casually”. Which response best corrects the science?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Procedure reordered casually",
-      "Number recorded without unit",
-      "Order may affect the conditions and comparability."
+      "Order never matters",
+      "It makes all observations qualitative",
+      "It stops students measuring",
+      "Changing the order can change conditions and results"
     ],
-    "correct": 2,
-    "explanation": "Order may affect the conditions and comparability.\nHint: Choose the response that uses evidence and corrects the mistaken relationship.",
+    "correct": 3,
+    "explanation": "A consistent order helps make results comparable.\nHint: Same method.",
     "structuredExplanation": {
-      "summary": "Order may affect the conditions and comparability.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "A consistent order helps make results comparable.",
+      "hint": "Same method."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i03-p-015",
@@ -413,27 +469,31 @@ window.skillrPracticeQuestions = [
     "skill": "observing measuring and recording accurately",
     "printable": true,
     "type": "single",
-    "question": "A group writes this claim on a poster: “Number recorded without unit”. Which edit makes the claim scientifically accurate?",
-    "audioPrompt": "A group writes this claim on a poster: “Number recorded without unit”. Which edit makes the claim scientifically accurate?",
-    "visual": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A group writes this claim on a poster: “Number recorded without unit”. Which edit makes the claim scientifically accurate?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A group writes this claim on a poster: “Number recorded without unit”. Which edit makes the claim scientifically accurate?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-015\"></use></svg>",
+    "question": "Why should a digital thermometer still be checked for sensible placement?",
+    "audioPrompt": "Why should a digital thermometer still be checked for sensible placement?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-015",
-      "alt_text": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A group writes this claim on a poster: “Number recorded without unit”. Which edit makes the claim scientifically accurate?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "A measurement needs its unit to communicate the quantity.",
-      "Number recorded without unit",
-      "Digital reading assumed error-free"
+      "The display colour proves accuracy",
+      "Placement never matters",
+      "A digital reading can be wrong if the probe is placed poorly",
+      "Digital tools cannot have errors"
     ],
-    "correct": 0,
-    "explanation": "A measurement needs its unit to communicate the quantity.\nHint: Choose the response that uses evidence and corrects the mistaken relationship.",
+    "correct": 2,
+    "explanation": "Digital tools need correct setup and sensible checking.\nHint: Tool still needs care.",
     "structuredExplanation": {
-      "summary": "A measurement needs its unit to communicate the quantity.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Digital tools need correct setup and sensible checking.",
+      "hint": "Tool still needs care."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i03-p-016",
@@ -442,27 +502,31 @@ window.skillrPracticeQuestions = [
     "skill": "observing measuring and recording accurately",
     "printable": true,
     "type": "single",
-    "question": "A group writes this claim on a poster: “Marks counted instead of intervals”. Which edit makes the claim scientifically accurate?",
-    "audioPrompt": "A group writes this claim on a poster: “Marks counted instead of intervals”. Which edit makes the claim scientifically accurate?",
-    "visual": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A group writes this claim on a poster: “Marks counted instead of intervals”. Which edit makes the claim scientifically accurate?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A group writes this claim on a poster: “Marks counted instead of intervals”. Which edit makes the claim scientifically accurate?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-016\"></use></svg>",
+    "question": "Why is counting marks without checking interval size a mistake?",
+    "audioPrompt": "Why is counting marks without checking interval size a mistake?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-016",
-      "alt_text": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A group writes this claim on a poster: “Marks counted instead of intervals”. Which edit makes the claim scientifically accurate?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Marks counted instead of intervals",
-      "Use the spaces between labelled values to find interval size.",
-      "Procedure reordered casually"
+      "Counting marks changes mass",
+      "Marks may represent different values depending on the scale",
+      "All marks are always one unit",
+      "Intervals are only decoration"
     ],
     "correct": 1,
-    "explanation": "Use the spaces between labelled values to find interval size.\nHint: Choose the response that uses evidence and corrects the mistaken relationship.",
+    "explanation": "You need to know the value of each space between labelled marks.\nHint: Find the interval.",
     "structuredExplanation": {
-      "summary": "Use the spaces between labelled values to find interval size.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "You need to know the value of each space between labelled marks.",
+      "hint": "Find the interval."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i03-p-017",
@@ -471,27 +535,31 @@ window.skillrPracticeQuestions = [
     "skill": "observing measuring and recording accurately",
     "printable": true,
     "type": "single",
-    "question": "A group writes this claim on a poster: “Digital reading assumed error-free”. Which edit makes the claim scientifically accurate?",
-    "audioPrompt": "A group writes this claim on a poster: “Digital reading assumed error-free”. Which edit makes the claim scientifically accurate?",
-    "visual": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A group writes this claim on a poster: “Digital reading assumed error-free”. Which edit makes the claim scientifically accurate?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A group writes this claim on a poster: “Digital reading assumed error-free”. Which edit makes the claim scientifically accurate?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-017\"></use></svg>",
+    "question": "Why might a camera be useful in an investigation?",
+    "audioPrompt": "Why might a camera be useful in an investigation?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-017",
-      "alt_text": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A group writes this claim on a poster: “Digital reading assumed error-free”. Which edit makes the claim scientifically accurate?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Digital reading assumed error-free",
-      "Number recorded without unit",
-      "Check setup, unit, sensor position and reasonableness."
+      "It can record changes over time for later checking",
+      "It replaces all measurements every time",
+      "It makes predictions correct",
+      "It measures mass directly"
     ],
-    "correct": 2,
-    "explanation": "Check setup, unit, sensor position and reasonableness.\nHint: Choose the response that uses evidence and corrects the mistaken relationship.",
+    "correct": 0,
+    "explanation": "Photos can help document observations, especially visible changes.\nHint: Digital record.",
     "structuredExplanation": {
-      "summary": "Check setup, unit, sensor position and reasonableness.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Photos can help document observations, especially visible changes.",
+      "hint": "Digital record."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 17,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i03-p-018",
@@ -500,27 +568,31 @@ window.skillrPracticeQuestions = [
     "skill": "observing measuring and recording accurately",
     "printable": true,
     "type": "single",
-    "question": "A group writes this claim on a poster: “Procedure reordered casually”. Which edit makes the claim scientifically accurate?",
-    "audioPrompt": "A group writes this claim on a poster: “Procedure reordered casually”. Which edit makes the claim scientifically accurate?",
-    "visual": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A group writes this claim on a poster: “Procedure reordered casually”. Which edit makes the claim scientifically accurate?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A group writes this claim on a poster: “Procedure reordered casually”. Which edit makes the claim scientifically accurate?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-018\"></use></svg>",
+    "question": "Why is “about big” a weak measurement record?",
+    "audioPrompt": "Why is “about big” a weak measurement record?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-018",
-      "alt_text": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A group writes this claim on a poster: “Procedure reordered casually”. Which edit makes the claim scientifically accurate?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Order may affect the conditions and comparability.",
-      "Procedure reordered casually",
-      "Marks counted instead of intervals"
+      "It is too precise",
+      "It uses too many units",
+      "It is a digital reading",
+      "It is vague and has no number or unit"
     ],
-    "correct": 0,
-    "explanation": "Order may affect the conditions and comparability.\nHint: Choose the response that uses evidence and corrects the mistaken relationship.",
+    "correct": 3,
+    "explanation": "Formal measurements need precise numbers and units.\nHint: Vague wording.",
     "structuredExplanation": {
-      "summary": "Order may affect the conditions and comparability.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Formal measurements need precise numbers and units.",
+      "hint": "Vague wording."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 18,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i03-p-019",
@@ -529,27 +601,31 @@ window.skillrPracticeQuestions = [
     "skill": "observing measuring and recording accurately",
     "printable": true,
     "type": "single",
-    "question": "Study the classroom example. Which is a quantitative observation?",
-    "audioPrompt": "Study the classroom example. Which is a quantitative observation?",
-    "visual": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: Study the classroom example. Which is a quantitative observation?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: Study the classroom example. Which is a quantitative observation?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-019\"></use></svg>",
+    "question": "Why should the same instrument be used across repeated trials when possible?",
+    "audioPrompt": "Why should the same instrument be used across repeated trials when possible?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-019",
-      "alt_text": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: Study the classroom example. Which is a quantitative observation?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The rock felt rough",
-      "The water temperature was 28°C",
-      "The liquid looked clear"
+      "It makes qualitative data disappear",
+      "It changes the variable being tested",
+      "It reduces differences caused by different tools",
+      "Different tools always give identical readings"
     ],
-    "correct": 1,
-    "explanation": "The water temperature was 28°C\nHint: Use the stated observation, measurement or relationship—not preference—to decide.",
+    "correct": 2,
+    "explanation": "Using the same tool can improve consistency.\nHint: Consistent tool.",
     "structuredExplanation": {
-      "summary": "The water temperature was 28°C",
-      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
+      "summary": "Using the same tool can improve consistency.",
+      "hint": "Consistent tool."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 19,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i03-p-020",
@@ -558,27 +634,31 @@ window.skillrPracticeQuestions = [
     "skill": "observing measuring and recording accurately",
     "printable": true,
     "type": "single",
-    "question": "Use the investigation evidence. Which instrument is most suitable for measuring 250 mL of water?",
-    "audioPrompt": "Use the investigation evidence. Which instrument is most suitable for measuring 250 mL of water?",
-    "visual": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: Use the investigation evidence. Which instrument is most suitable for measuring 250 mL of water?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: Use the investigation evidence. Which instrument is most suitable for measuring 250 mL of water?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-020\"></use></svg>",
+    "question": "Why should unusual readings be checked rather than copied blindly?",
+    "audioPrompt": "Why should unusual readings be checked rather than copied blindly?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-020",
-      "alt_text": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: Use the investigation evidence. Which instrument is most suitable for measuring 250 mL of water?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "a ruler",
-      "a compass",
-      "a labelled measuring jug or cylinder"
+      "Unusual values prove the prediction",
+      "They may come from a reading, setup or recording error",
+      "All unusual readings are automatically false",
+      "Checking data is not allowed"
     ],
-    "correct": 2,
-    "explanation": "a labelled measuring jug or cylinder\nHint: Use the stated observation, measurement or relationship—not preference—to decide.",
+    "correct": 1,
+    "explanation": "Checking helps identify errors while still treating data honestly.\nHint: Check plausibility.",
     "structuredExplanation": {
-      "summary": "a labelled measuring jug or cylinder",
-      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
+      "summary": "Checking helps identify errors while still treating data honestly.",
+      "hint": "Check plausibility."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 20,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i03-p-021",
@@ -587,27 +667,31 @@ window.skillrPracticeQuestions = [
     "skill": "observing measuring and recording accurately",
     "printable": true,
     "type": "single",
-    "question": "The class is preparing “Instrument-reading circuit”. Which plan would produce useful scientific evidence?",
-    "audioPrompt": "The class is preparing “Instrument-reading circuit”. Which plan would produce useful scientific evidence?",
-    "visual": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: The class is preparing “Instrument-reading circuit”. Which plan would produce useful scientific evidence?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: The class is preparing “Instrument-reading circuit”. Which plan would produce useful scientific evidence?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-021\"></use></svg>",
+    "question": "Which statement is a misconception?",
+    "audioPrompt": "Which statement is a misconception?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-021",
-      "alt_text": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: The class is preparing “Instrument-reading circuit”. Which plan would produce useful scientific evidence?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Read several labelled and partially labelled instruments, recording value, unit and interval size.",
-      "Begin instrument-reading circuit, change two important conditions together, then compare only the preferred observation.",
-      "Carry out instrument-reading circuit once, omit the measurements and report the original prediction as the result."
+      "A digital reading is always error-free",
+      "A measurement needs a unit",
+      "Scale intervals must be checked",
+      "Procedures should be followed consistently"
     ],
     "correct": 0,
-    "explanation": "Read several labelled and partially labelled instruments, recording value, unit and interval size.\nHint: Look for a plan that observes or measures evidence and keeps the comparison clear.",
+    "explanation": "Digital tools can still be affected by setup, calibration or recording errors.\nHint: Digital is not magic.",
     "structuredExplanation": {
-      "summary": "Read several labelled and partially labelled instruments, recording value, unit and interval size.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+      "summary": "Digital tools can still be affected by setup, calibration or recording errors.",
+      "hint": "Digital is not magic."
     },
-    "qualitySchema": "production-v1"
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 21,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i03-p-022",
@@ -616,27 +700,31 @@ window.skillrPracticeQuestions = [
     "skill": "observing measuring and recording accurately",
     "printable": true,
     "type": "single",
-    "question": "The class is preparing “Observation upgrade”. Which plan would produce useful scientific evidence?",
-    "audioPrompt": "The class is preparing “Observation upgrade”. Which plan would produce useful scientific evidence?",
-    "visual": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: The class is preparing “Observation upgrade”. Which plan would produce useful scientific evidence?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: The class is preparing “Observation upgrade”. Which plan would produce useful scientific evidence?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-022\"></use></svg>",
+    "question": "Which record is most complete?",
+    "audioPrompt": "Which record is most complete?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-022",
-      "alt_text": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: The class is preparing “Observation upgrade”. Which plan would produce useful scientific evidence?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Begin observation upgrade, change two important conditions together, then compare only the preferred observation.",
-      "Rewrite vague notes as precise qualitative or quantitative observations without inventing detail.",
-      "Carry out observation upgrade once, omit the measurements and report the original prediction as the result."
+      "It got warmer",
+      "The water changed",
+      "At 4 it was 33",
+      "At 4 minutes, the water temperature was 33°C"
     ],
-    "correct": 1,
-    "explanation": "Rewrite vague notes as precise qualitative or quantitative observations without inventing detail.\nHint: Look for a plan that observes or measures evidence and keeps the comparison clear.",
+    "correct": 3,
+    "explanation": "The complete record includes time, quantity, number and unit.\nHint: Specific and unit.",
     "structuredExplanation": {
-      "summary": "Rewrite vague notes as precise qualitative or quantitative observations without inventing detail.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+      "summary": "The complete record includes time, quantity, number and unit.",
+      "hint": "Specific and unit."
     },
-    "qualitySchema": "production-v1"
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 22,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i03-p-023",
@@ -645,27 +733,31 @@ window.skillrPracticeQuestions = [
     "skill": "observing measuring and recording accurately",
     "printable": true,
     "type": "single",
-    "question": "The class is preparing “Digital-tool judgement”. Which plan would produce useful scientific evidence?",
-    "audioPrompt": "The class is preparing “Digital-tool judgement”. Which plan would produce useful scientific evidence?",
-    "visual": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: The class is preparing “Digital-tool judgement”. Which plan would produce useful scientific evidence?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: The class is preparing “Digital-tool judgement”. Which plan would produce useful scientific evidence?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-023\"></use></svg>",
+    "question": "Which observation is qualitative?",
+    "audioPrompt": "Which observation is qualitative?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-023",
-      "alt_text": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: The class is preparing “Digital-tool judgement”. Which plan would produce useful scientific evidence?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Begin digital-tool judgement, change two important conditions together, then compare only the preferred observation.",
-      "Carry out digital-tool judgement once, omit the measurements and report the original prediction as the result.",
-      "Choose whether a timer, camera, temperature probe or spreadsheet improves an investigation and state what human checks remain."
+      "The water was 40°C",
+      "The trial lasted 2 minutes",
+      "Small bubbles appeared on the metal spoon",
+      "The spoon was 14 cm long"
     ],
     "correct": 2,
-    "explanation": "Choose whether a timer, camera, temperature probe or spreadsheet improves an investigation and state what human checks remain.\nHint: Look for a plan that observes or measures evidence and keeps the comparison clear.",
+    "explanation": "Small bubbles appeared is descriptive without a measured number.\nHint: Description.",
     "structuredExplanation": {
-      "summary": "Choose whether a timer, camera, temperature probe or spreadsheet improves an investigation and state what human checks remain.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+      "summary": "Small bubbles appeared is descriptive without a measured number.",
+      "hint": "Description."
     },
-    "qualitySchema": "production-v1"
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 23,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i03-p-024",
@@ -674,27 +766,558 @@ window.skillrPracticeQuestions = [
     "skill": "observing measuring and recording accurately",
     "printable": true,
     "type": "single",
-    "question": "A results display includes “length”. Which interpretation matches that evidence?",
-    "audioPrompt": "A results display includes “length”. Which interpretation matches that evidence?",
-    "visual": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A results display includes “length”. Which interpretation matches that evidence?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A results display includes “length”. Which interpretation matches that evidence?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-024\"></use></svg>",
+    "question": "Which observation is quantitative?",
+    "audioPrompt": "Which observation is quantitative?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i03.svg#ac9s4i03-p-024",
-      "alt_text": "Observing, Measuring and Recording Accurately concept map showing a Year 4 observe, compare and explain sequence. Question context: A results display includes “length”. Which interpretation matches that evidence?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "ruler or tape because start point + mm/cm",
-      "balance because g or kg",
-      "measuring jug/cylinder because mL or L; eye level"
+      "The stem felt firm",
+      "The plant grew 3 cm in one week",
+      "The plant looked healthy",
+      "The leaves were pale green"
+    ],
+    "correct": 1,
+    "explanation": "The growth statement includes a number and unit.\nHint: Number and unit.",
+    "structuredExplanation": {
+      "summary": "The growth statement includes a number and unit.",
+      "hint": "Number and unit."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 24,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s4i03-p-025",
+    "curriculumCode": "AC9S4I03",
+    "bank": "practice",
+    "skill": "observing measuring and recording accurately",
+    "printable": true,
+    "type": "single",
+    "question": "A thermometer scale goes from 20°C to 30°C with five equal spaces. What is each space worth?",
+    "audioPrompt": "A thermometer scale goes from 20°C to 30°C with five equal spaces. What is each space worth?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "2°C",
+      "1°C",
+      "5°C",
+      "10°C"
     ],
     "correct": 0,
-    "explanation": "length is linked to ruler or tape because start point + mm/cm.\nHint: Trace across the same row and keep the conclusion limited to the evidence shown.",
+    "explanation": "The 10°C difference divided by five spaces is 2°C per space.\nHint: 10 divided by 5.",
     "structuredExplanation": {
-      "summary": "length is linked to ruler or tape because start point + mm/cm.",
-      "hint": "Trace across the same row and keep the conclusion limited to the evidence shown."
+      "summary": "The 10°C difference divided by five spaces is 2°C per space.",
+      "hint": "10 divided by 5."
     },
-    "qualitySchema": "production-v1"
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 25,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s4i03-p-026",
+    "curriculumCode": "AC9S4I03",
+    "bank": "practice",
+    "skill": "observing measuring and recording accurately",
+    "printable": true,
+    "type": "single",
+    "question": "Which tool best measures 250 mL of water?",
+    "audioPrompt": "Which tool best measures 250 mL of water?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A ruler",
+      "A compass",
+      "A stopwatch",
+      "A labelled measuring jug or cylinder"
+    ],
+    "correct": 3,
+    "explanation": "A measuring jug or cylinder measures liquid volume.\nHint: Volume tool.",
+    "structuredExplanation": {
+      "summary": "A measuring jug or cylinder measures liquid volume.",
+      "hint": "Volume tool."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 26,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s4i03-p-027",
+    "curriculumCode": "AC9S4I03",
+    "bank": "practice",
+    "skill": "observing measuring and recording accurately",
+    "printable": true,
+    "type": "single",
+    "question": "Which tool best measures the mass of a rock sample?",
+    "audioPrompt": "Which tool best measures the mass of a rock sample?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Thermometer",
+      "Measuring cylinder only",
+      "Balance",
+      "Timer"
+    ],
+    "correct": 2,
+    "explanation": "A balance measures mass.\nHint: Tool for grams.",
+    "structuredExplanation": {
+      "summary": "A balance measures mass.",
+      "hint": "Tool for grams."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 27,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s4i03-p-028",
+    "curriculumCode": "AC9S4I03",
+    "bank": "practice",
+    "skill": "observing measuring and recording accurately",
+    "printable": true,
+    "type": "single",
+    "question": "Which reading practice is best for a ruler?",
+    "audioPrompt": "Which reading practice is best for a ruler?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Guess from the object colour",
+      "Start at zero and read the mark at the object’s end",
+      "Start at any broken edge without noting it",
+      "Read from above at a steep angle"
+    ],
+    "correct": 1,
+    "explanation": "Using the zero mark and reading carefully improves accuracy.\nHint: Start point matters.",
+    "structuredExplanation": {
+      "summary": "Using the zero mark and reading carefully improves accuracy.",
+      "hint": "Start point matters."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 28,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s4i03-p-029",
+    "curriculumCode": "AC9S4I03",
+    "bank": "practice",
+    "skill": "observing measuring and recording accurately",
+    "printable": true,
+    "type": "single",
+    "question": "Which data table heading is clearest?",
+    "audioPrompt": "Which data table heading is clearest?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Time (min)",
+      "Time nice",
+      "When stuff happened",
+      "Numbers"
+    ],
+    "correct": 0,
+    "explanation": "A clear heading names the quantity and unit.\nHint: Quantity plus unit.",
+    "structuredExplanation": {
+      "summary": "A clear heading names the quantity and unit.",
+      "hint": "Quantity plus unit."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 29,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s4i03-p-030",
+    "curriculumCode": "AC9S4I03",
+    "bank": "practice",
+    "skill": "observing measuring and recording accurately",
+    "printable": true,
+    "type": "single",
+    "question": "Which digital-tool check is sensible?",
+    "audioPrompt": "Which digital-tool check is sensible?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Assume the largest number is correct",
+      "Turn off the tool before reading",
+      "Ignore calibration and setup",
+      "Check the unit and whether the sensor is placed correctly"
+    ],
+    "correct": 3,
+    "explanation": "Digital readings still require unit and setup checks.\nHint: Check setup.",
+    "structuredExplanation": {
+      "summary": "Digital readings still require unit and setup checks.",
+      "hint": "Check setup."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 30,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s4i03-p-031",
+    "curriculumCode": "AC9S4I03",
+    "bank": "practice",
+    "skill": "observing measuring and recording accurately",
+    "printable": true,
+    "type": "single",
+    "question": "A student records “plant height = 18”. What should be added?",
+    "audioPrompt": "A student records “plant height = 18”. What should be added?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A prediction after the result",
+      "A new plant name",
+      "The unit, such as centimetres",
+      "A favourite colour"
+    ],
+    "correct": 2,
+    "explanation": "Without a unit, the measurement is incomplete.\nHint: 18 what?",
+    "structuredExplanation": {
+      "summary": "Without a unit, the measurement is incomplete.",
+      "hint": "18 what?"
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 31,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s4i03-p-032",
+    "curriculumCode": "AC9S4I03",
+    "bank": "practice",
+    "skill": "observing measuring and recording accurately",
+    "printable": true,
+    "type": "single",
+    "question": "A measuring cylinder has marks every 10 mL. The water level is halfway between 80 mL and 90 mL. What should be recorded?",
+    "audioPrompt": "A measuring cylinder has marks every 10 mL. The water level is halfway between 80 mL and 90 mL. What should be recorded?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "10 g",
+      "85 mL",
+      "80°C",
+      "90 cm"
+    ],
+    "correct": 1,
+    "explanation": "Halfway between 80 mL and 90 mL is 85 mL.\nHint: Half of 10 is 5.",
+    "structuredExplanation": {
+      "summary": "Halfway between 80 mL and 90 mL is 85 mL.",
+      "hint": "Half of 10 is 5."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 32,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s4i03-p-033",
+    "curriculumCode": "AC9S4I03",
+    "bank": "practice",
+    "skill": "observing measuring and recording accurately",
+    "printable": true,
+    "type": "single",
+    "question": "A class times how long ice takes to melt. Which tool and unit fit best?",
+    "audioPrompt": "A class times how long ice takes to melt. Which tool and unit fit best?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Stopwatch and seconds or minutes",
+      "Ruler and centimetres",
+      "Balance and degrees Celsius",
+      "Thermometer and millilitres"
+    ],
+    "correct": 0,
+    "explanation": "Melting duration is measured with time units.\nHint: Time tool.",
+    "structuredExplanation": {
+      "summary": "Melting duration is measured with time units.",
+      "hint": "Time tool."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 33,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s4i03-p-034",
+    "curriculumCode": "AC9S4I03",
+    "bank": "practice",
+    "skill": "observing measuring and recording accurately",
+    "printable": true,
+    "type": "single",
+    "question": "A digital temperature probe suddenly reads 94°C in tap water. What should students do first?",
+    "audioPrompt": "A digital temperature probe suddenly reads 94°C in tap water. What should students do first?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Copy it without question",
+      "Delete every other reading",
+      "Stop using all measurements",
+      "Check probe placement, unit and setup before accepting it"
+    ],
+    "correct": 3,
+    "explanation": "An unexpected reading should be checked for setup or recording errors.\nHint: Plausibility check.",
+    "structuredExplanation": {
+      "summary": "An unexpected reading should be checked for setup or recording errors.",
+      "hint": "Plausibility check."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 34,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s4i03-p-035",
+    "curriculumCode": "AC9S4I03",
+    "bank": "practice",
+    "skill": "observing measuring and recording accurately",
+    "printable": true,
+    "type": "single",
+    "question": "A group watches crystals form and writes “sparkly bits appeared”. What type of observation is this?",
+    "audioPrompt": "A group watches crystals form and writes “sparkly bits appeared”. What type of observation is this?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A formal length measurement",
+      "A unit",
+      "Qualitative",
+      "Quantitative"
+    ],
+    "correct": 2,
+    "explanation": "The observation describes appearance without a number.\nHint: Description.",
+    "structuredExplanation": {
+      "summary": "The observation describes appearance without a number.",
+      "hint": "Description."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 35,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s4i03-p-036",
+    "curriculumCode": "AC9S4I03",
+    "bank": "practice",
+    "skill": "observing measuring and recording accurately",
+    "printable": true,
+    "type": "single",
+    "question": "A student measures a leaf with the ruler starting at the 1 cm mark but records the end mark only. What is wrong?",
+    "audioPrompt": "A student measures a leaf with the ruler starting at the 1 cm mark but records the end mark only. What is wrong?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The unit makes the reading invalid",
+      "The starting point was not accounted for",
+      "The ruler cannot measure leaves",
+      "Leaves have no length"
+    ],
+    "correct": 1,
+    "explanation": "If the ruler does not start at zero, the start value must be subtracted.\nHint: End minus start.",
+    "structuredExplanation": {
+      "summary": "If the ruler does not start at zero, the start value must be subtracted.",
+      "hint": "End minus start."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 36,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s4i03-p-037",
+    "curriculumCode": "AC9S4I03",
+    "bank": "practice",
+    "skill": "observing measuring and recording accurately",
+    "printable": true,
+    "type": "single",
+    "question": "A table says “Volume” but not the unit. How should it be improved?",
+    "audioPrompt": "A table says “Volume” but not the unit. How should it be improved?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Write Volume (mL) or another suitable unit",
+      "Remove all headings",
+      "Use only pictures",
+      "Write the student’s opinion"
+    ],
+    "correct": 0,
+    "explanation": "Table headings should include units where measurements are recorded.\nHint: Heading with unit.",
+    "structuredExplanation": {
+      "summary": "Table headings should include units where measurements are recorded.",
+      "hint": "Heading with unit."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 37,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s4i03-p-038",
+    "curriculumCode": "AC9S4I03",
+    "bank": "practice",
+    "skill": "observing measuring and recording accurately",
+    "printable": true,
+    "type": "single",
+    "question": "A class photographs mould growth each day and measures patch width. Why use both records?",
+    "audioPrompt": "A class photographs mould growth each day and measures patch width. Why use both records?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Photos make units unnecessary",
+      "Measurements stop the camera working",
+      "Both records are opinions",
+      "Photos show appearance while measurements give quantitative change"
+    ],
+    "correct": 3,
+    "explanation": "Different records can capture descriptive and measured evidence.\nHint: Qualitative plus quantitative.",
+    "structuredExplanation": {
+      "summary": "Different records can capture descriptive and measured evidence.",
+      "hint": "Qualitative plus quantitative."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 38,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s4i03-p-039",
+    "curriculumCode": "AC9S4I03",
+    "bank": "practice",
+    "skill": "observing measuring and recording accurately",
+    "printable": true,
+    "type": "single",
+    "question": "A thermometer has marks every 2°C. The liquid is one mark above 24°C. What is the reading?",
+    "audioPrompt": "A thermometer has marks every 2°C. The liquid is one mark above 24°C. What is the reading?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "28°C",
+      "22°C",
+      "26°C",
+      "25°C"
+    ],
+    "correct": 2,
+    "explanation": "One 2°C interval above 24°C is 26°C.\nHint: Add one interval.",
+    "structuredExplanation": {
+      "summary": "One 2°C interval above 24°C is 26°C.",
+      "hint": "Add one interval."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 39,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s4i03-p-040",
+    "curriculumCode": "AC9S4I03",
+    "bank": "practice",
+    "skill": "observing measuring and recording accurately",
+    "printable": true,
+    "type": "single",
+    "question": "A method says “measure the water”. What detail is missing?",
+    "audioPrompt": "A method says “measure the water”. What detail is missing?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The group name only",
+      "Whether to measure volume, temperature, mass or another quantity",
+      "The favourite colour of water",
+      "The final answer"
+    ],
+    "correct": 1,
+    "explanation": "A procedure should name the quantity, tool and unit to measure.\nHint: Measure what?",
+    "structuredExplanation": {
+      "summary": "A procedure should name the quantity, tool and unit to measure.",
+      "hint": "Measure what?"
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 40,
+    "qualitySchema": "skillr-actual-v6"
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
