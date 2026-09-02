@@ -5,39 +5,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_using_homophones_to_create_new_spelling_of_familiar_words_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "Which brand-style spelling relies on a familiar word being respelled to suggest the same sound?",
+    "audio_prompt": "Which brand-style spelling relies on a familiar word being respelled to suggest the same sound?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "using homophones to create new spelling of familiar words; for example, “lite milk”",
+        "text": "Kwik Wash",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "River Wash",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Clean Wash",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Morning Wash",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "using homophones to create new spelling of familiar words; for example, “lite milk”",
-      "hint": "A writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text."
+      "summary": "“Kwik” respells “quick” while keeping a similar pronunciation, making the name visually distinctive.",
+      "hint": "Look for altered spelling with preserved sound."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly08-p-002",
@@ -45,39 +47,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_using_homophones_to_create_new_spelling_of_familiar_words_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "Which pair are homophones in Australian English?",
+    "audio_prompt": "Which pair are homophones in Australian English?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "using homophones to create new spelling of familiar words; for example, “lite milk”",
+        "text": "sale / sail",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "rough / roof",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "lose / loose",
+        "is_correct": false
+      },
+      {
+        "text": "walk / work",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "using homophones to create new spelling of familiar words; for example, “lite milk”",
-      "hint": "A writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text."
+      "summary": "“Sale” and “sail” are pronounced alike but have different spellings and meanings.",
+      "hint": "Say each pair aloud."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly08-p-003",
@@ -85,38 +89,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_using_homophones_to_create_new_spelling_of_familiar_words_and_influence_how_an_audience_understands_the_text",
-    "question": "What should you check when using a writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text?",
-    "audio_prompt": "What should you check when using a writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text?",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "A café called “Gr8 Bites” uses “8” because:",
+    "audio_prompt": "A café called “Gr8 Bites” uses “8” because:",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "using homophones to create new spelling of familiar words; for example, “lite milk”",
+        "text": "the numeral helps represent the sound in “great”",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "the café has exactly eight meals",
+        "is_correct": false
+      },
+      {
+        "text": "numbers are always informal",
+        "is_correct": false
+      },
+      {
+        "text": "the spelling is a mistake",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "using homophones to create new spelling of familiar words; for example, “lite milk”",
-      "hint": "A writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text."
+      "summary": "The numeral 8 contributes the sound /eɪt/, allowing “Gr8” to stand for “great”.",
+      "hint": "Read the symbol aloud."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly08-p-004",
@@ -124,39 +131,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_using_homophones_to_create_new_spelling_of_familiar_words_and_influence_how_an_audience_understands_the_text",
-    "question": "Which statement best explains a writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text?",
-    "audio_prompt": "Which statement best explains a writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text?",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "Which name uses sound-based spelling most clearly?",
+    "audio_prompt": "Which name uses sound-based spelling most clearly?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "using homophones to create new spelling of familiar words; for example, “lite milk”",
+        "text": "U-Need-It Repairs",
         "is_correct": true
+      },
+      {
+        "text": "Reliable Repairs",
+        "is_correct": false
+      },
+      {
+        "text": "City Repairs",
+        "is_correct": false
+      },
+      {
+        "text": "Expert Repairs",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "using homophones to create new spelling of familiar words; for example, “lite milk”",
-      "hint": "A writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text."
+      "summary": "“U” represents the sound of “you”, creating a compressed, recognisable spelling.",
+      "hint": "Which written form depends on how it sounds?"
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly08-p-005",
@@ -164,39 +173,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_using_homophones_to_create_new_spelling_of_familiar_words_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "Why might an advertiser write “lite” instead of “light” in a product name?",
+    "audio_prompt": "Why might an advertiser write “lite” instead of “light” in a product name?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "using homophones to create new spelling of familiar words; for example, “lite milk”",
+        "text": "To create a compact, distinctive spelling while preserving the familiar pronunciation",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "Because “light” is never correct",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "To change the pronunciation completely",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Because all advertising must misspell words",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "using homophones to create new spelling of familiar words; for example, “lite milk”",
-      "hint": "A writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text."
+      "summary": "“Lite” is a conventional altered spelling used in branding while retaining the spoken form of “light”.",
+      "hint": "Same sound, different visual form."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly08-p-006",
@@ -204,39 +215,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_using_homophones_to_create_new_spelling_of_familiar_words_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "Which option is NOT a homophone pair?",
+    "audio_prompt": "Which option is NOT a homophone pair?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "using homophones to create new spelling of familiar words; for example, “lite milk”",
+        "text": "accept / except",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "flour / flower",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "right / write",
+        "is_correct": false
+      },
+      {
+        "text": "scene / seen",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "using homophones to create new spelling of familiar words; for example, “lite milk”",
-      "hint": "A writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text."
+      "summary": "“Accept” and “except” are pronounced differently, unlike the other pairs.",
+      "hint": "Listen carefully to the vowel and first consonant."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly08-p-007",
@@ -244,39 +257,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_using_homophones_to_create_new_spelling_of_familiar_words_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "A poster says “Bee Kind” beside a bee illustration. What creates the wordplay?",
+    "audio_prompt": "A poster says “Bee Kind” beside a bee illustration. What creates the wordplay?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "using homophones to create new spelling of familiar words; for example, “lite milk”",
+        "text": "“Bee” sounds like “be” while the image activates the animal meaning.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "“Kind” rhymes with bee.",
+        "is_correct": false
+      },
+      {
+        "text": "The poster contains an adjective.",
+        "is_correct": false
+      },
+      {
+        "text": "The bee changes the grammar of “kind”.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "using homophones to create new spelling of familiar words; for example, “lite milk”",
-      "hint": "A writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text."
+      "summary": "The joke depends on the homophones “bee” and “be” plus the supporting image.",
+      "hint": "Sound and image work together."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly08-p-008",
@@ -284,39 +299,1385 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_using_homophones_to_create_new_spelling_of_familiar_words_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "Which slogan uses a homophone pun?",
+    "audio_prompt": "Which slogan uses a homophone pun?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "using homophones to create new spelling of familiar words; for example, “lite milk”",
+        "text": "Sea the difference",
         "is_correct": true
+      },
+      {
+        "text": "Notice the difference",
+        "is_correct": false
+      },
+      {
+        "text": "See what changed",
+        "is_correct": false
+      },
+      {
+        "text": "Compare the results",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "using homophones to create new spelling of familiar words; for example, “lite milk”",
-      "hint": "A writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text."
+      "summary": "“Sea” sounds like “see”, so the spelling can create a second meaning if the context involves the ocean.",
+      "hint": "Which word could be replaced by a same-sounding word?"
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly08-p-009",
+    "curriculum_code": "AC9E10LY08",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "Which altered spelling would be least suitable in a formal legal document?",
+    "audio_prompt": "Which altered spelling would be least suitable in a formal legal document?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“U” for “you”",
+        "is_correct": true
+      },
+      {
+        "text": "“you”",
+        "is_correct": false
+      },
+      {
+        "text": "“therefore”",
+        "is_correct": false
+      },
+      {
+        "text": "“agreement”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Text-message-style respelling such as “U” is usually inappropriate where conventional spelling supports precision and formality.",
+      "hint": "Purpose and context matter."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly08-p-010",
+    "curriculum_code": "AC9E10LY08",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "What makes a homophone pun work?",
+    "audio_prompt": "What makes a homophone pun work?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Two differently spelled meanings are activated through similar pronunciation.",
+        "is_correct": true
+      },
+      {
+        "text": "Two words have identical spelling.",
+        "is_correct": false
+      },
+      {
+        "text": "A word is repeated many times.",
+        "is_correct": false
+      },
+      {
+        "text": "A sentence contains a rhyme.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Homophone wordplay depends on sound similarity creating access to more than one meaning.",
+      "hint": "Same sound, different meaning."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly08-p-011",
+    "curriculum_code": "AC9E10LY08",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "A surf shop uses the slogan “Seas the Day”. Why does it work?",
+    "audio_prompt": "A surf shop uses the slogan “Seas the Day”. Why does it work?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“Seas” echoes “seize” while also connecting the slogan to the ocean.",
+        "is_correct": true
+      },
+      {
+        "text": "“Seas” and “day” rhyme exactly.",
+        "is_correct": false
+      },
+      {
+        "text": "The slogan has no link to surfing.",
+        "is_correct": false
+      },
+      {
+        "text": "“Seize” and “seas” have the same meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The slogan adapts “seize the day” through a same-sounding sea-related word, creating double meaning.",
+      "hint": "Recognise the familiar phrase underneath."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly08-p-012",
+    "curriculum_code": "AC9E10LY08",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "Why can altered spelling be effective in a brand name?",
+    "audio_prompt": "Why can altered spelling be effective in a brand name?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It can make a familiar sound visually distinctive and easier to associate with the brand.",
+        "is_correct": true
+      },
+      {
+        "text": "It automatically makes the brand trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees readers will understand it.",
+        "is_correct": false
+      },
+      {
+        "text": "Correct spelling has no value in branding.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Purposeful respelling can create memorability, but success depends on readability, audience and context.",
+      "hint": "Distinctive does not automatically mean effective."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly08-p-013",
+    "curriculum_code": "AC9E10LY08",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "A campaign writes “Know More Waste” for a recycling message. What ambiguity does the phrase invite?",
+    "audio_prompt": "A campaign writes “Know More Waste” for a recycling message. What ambiguity does the phrase invite?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It can be heard as both “know more waste” and “no more waste”.",
+        "is_correct": true
+      },
+      {
+        "text": "“Know” and “waste” are synonyms.",
+        "is_correct": false
+      },
+      {
+        "text": "The phrase has only one possible reading.",
+        "is_correct": false
+      },
+      {
+        "text": "The spelling removes all sound-based meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The homophones “know” and “no” allow two related interpretations to operate at once.",
+      "hint": "Say the phrase aloud."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly08-p-014",
+    "curriculum_code": "AC9E10LY08",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "Why might “Kidz Klub” suit a playful children’s venue but not a university policy?",
+    "audio_prompt": "Why might “Kidz Klub” suit a playful children’s venue but not a university policy?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The altered spellings create an informal playful identity that would clash with formal academic expectations.",
+        "is_correct": true
+      },
+      {
+        "text": "The words are impossible to pronounce.",
+        "is_correct": false
+      },
+      {
+        "text": "Universities cannot use the letter K.",
+        "is_correct": false
+      },
+      {
+        "text": "Children only understand incorrect spelling.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Spelling choices contribute to register and audience positioning, so appropriateness depends on context.",
+      "hint": "Think register and purpose."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly08-p-015",
+    "curriculum_code": "AC9E10LY08",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "A florist uses “Thyme to Grow” in a herb promotion. Why is the pun effective?",
+    "audio_prompt": "A florist uses “Thyme to Grow” in a herb promotion. Why is the pun effective?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“Thyme” sounds like “time” while remaining relevant to the product.",
+        "is_correct": true
+      },
+      {
+        "text": "“Grow” is a homophone of thyme.",
+        "is_correct": false
+      },
+      {
+        "text": "The slogan contains a simile.",
+        "is_correct": false
+      },
+      {
+        "text": "The pun works even without sound similarity.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The wordplay succeeds because the replacement both sounds right and adds a context-relevant meaning.",
+      "hint": "A strong pun connects sound and topic."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly08-p-016",
+    "curriculum_code": "AC9E10LY08",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "Why can some homophone jokes fail for different audiences?",
+    "audio_prompt": "Why can some homophone jokes fail for different audiences?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Pronunciation varies across accents, so two words may not sound equally alike to everyone.",
+        "is_correct": true
+      },
+      {
+        "text": "Homophones never depend on pronunciation.",
+        "is_correct": false
+      },
+      {
+        "text": "All English speakers pronounce every word identically.",
+        "is_correct": false
+      },
+      {
+        "text": "Only spelling matters in homophone jokes.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Homophony is based on pronunciation, which can vary by accent and dialect.",
+      "hint": "Sound patterns are not identical everywhere."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly08-p-017",
+    "curriculum_code": "AC9E10LY08",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "A road-safety poster says “Brake the Habit”. What two ideas are connected?",
+    "audio_prompt": "A road-safety poster says “Brake the Habit”. What two ideas are connected?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Using vehicle brakes and “breaking” a dangerous habit",
+        "is_correct": true
+      },
+      {
+        "text": "Braking and sleeping",
+        "is_correct": false
+      },
+      {
+        "text": "Habits and spelling tests",
+        "is_correct": false
+      },
+      {
+        "text": "Roads and rhyming",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Brake” sounds like “break”, allowing the slogan to connect driving with changing behaviour.",
+      "hint": "What familiar phrase lies underneath?"
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly08-p-018",
+    "curriculum_code": "AC9E10LY08",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "Why is deliberate respelling different from an accidental spelling error?",
+    "audio_prompt": "Why is deliberate respelling different from an accidental spelling error?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Deliberate respelling serves a recognisable purpose such as humour, identity or branding.",
+        "is_correct": true
+      },
+      {
+        "text": "Any incorrect spelling is automatically clever.",
+        "is_correct": false
+      },
+      {
+        "text": "Accidental errors always improve memorability.",
+        "is_correct": false
+      },
+      {
+        "text": "There is no difference if pronunciation is similar.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Intentional wordplay is controlled and contextually meaningful; mistakes lack that designed function.",
+      "hint": "Ask what the altered spelling achieves."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly08-p-019",
+    "curriculum_code": "AC9E10LY08",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "A poster says “Paws for a Cause” for an animal fundraiser. What makes the line memorable?",
+    "audio_prompt": "A poster says “Paws for a Cause” for an animal fundraiser. What makes the line memorable?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“Paws” echoes “pause” while also referring directly to animals.",
+        "is_correct": true
+      },
+      {
+        "text": "“Cause” is an animal sound.",
+        "is_correct": false
+      },
+      {
+        "text": "The phrase contains no sound play.",
+        "is_correct": false
+      },
+      {
+        "text": "“Paws” and “cause” have identical meanings.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The slogan combines a familiar sound pattern with a context-relevant animal word.",
+      "hint": "The replaced word belongs to the campaign topic."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly08-p-020",
+    "curriculum_code": "AC9E10LY08",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "Why should a writer avoid too much phonetic respelling in important instructions?",
+    "audio_prompt": "Why should a writer avoid too much phonetic respelling in important instructions?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It can slow reading or create ambiguity when clarity matters more than novelty.",
+        "is_correct": true
+      },
+      {
+        "text": "Phonetic spelling is always wrong.",
+        "is_correct": false
+      },
+      {
+        "text": "Instructions must never use memorable language.",
+        "is_correct": false
+      },
+      {
+        "text": "Readers cannot understand altered spelling at all.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Creative spelling is most effective when it does not interfere with comprehension or precision.",
+      "hint": "Purpose determines whether novelty helps."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly08-p-021",
+    "curriculum_code": "AC9E10LY08",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "Which slogan uses the strongest context-relevant homophone pun for an eye clinic?",
+    "audio_prompt": "Which slogan uses the strongest context-relevant homophone pun for an eye clinic?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "See Better Today",
+        "is_correct": true
+      },
+      {
+        "text": "Sea Better Today",
+        "is_correct": false
+      },
+      {
+        "text": "Look Better Today",
+        "is_correct": false
+      },
+      {
+        "text": "Vision Matters",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“See” directly relates to vision; replacing it with “sea” would add an irrelevant meaning unless the context supported it.",
+      "hint": "A good pun needs both sound and relevance."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly08-p-022",
+    "curriculum_code": "AC9E10LY08",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "Which name is most likely to confuse rather than help readers?",
+    "audio_prompt": "Which name is most likely to confuse rather than help readers?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Xqz Eats",
+        "is_correct": true
+      },
+      {
+        "text": "Kwik Eats",
+        "is_correct": false
+      },
+      {
+        "text": "Gr8 Eats",
+        "is_correct": false
+      },
+      {
+        "text": "Ezy Eats",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Xqz” does not clearly map onto a familiar spoken word, so readers may not know how to decode it.",
+      "hint": "Can the altered spelling be reconstructed easily?"
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly08-p-023",
+    "curriculum_code": "AC9E10LY08",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "Which pair demonstrates homophones rather than simple rhyme?",
+    "audio_prompt": "Which pair demonstrates homophones rather than simple rhyme?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "pair / pear",
+        "is_correct": true
+      },
+      {
+        "text": "light / night",
+        "is_correct": false
+      },
+      {
+        "text": "play / day",
+        "is_correct": false
+      },
+      {
+        "text": "slow / go",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Pair” and “pear” sound the same; the other pairs merely share ending sounds.",
+      "hint": "Homophones match the whole pronunciation."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly08-p-024",
+    "curriculum_code": "AC9E10LY08",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "A bakery wants a pun involving bread. Which slogan works best?",
+    "audio_prompt": "A bakery wants a pun involving bread. Which slogan works best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "We Knead You",
+        "is_correct": true
+      },
+      {
+        "text": "We Need Bread",
+        "is_correct": false
+      },
+      {
+        "text": "Bread Every Day",
+        "is_correct": false
+      },
+      {
+        "text": "Fresh from the Oven",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Knead” sounds like “need” and is directly associated with breadmaking.",
+      "hint": "Look for a same-sounding baking word."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly08-p-025",
+    "curriculum_code": "AC9E10LY08",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "Which sentence uses “their”, “there” and “they’re” correctly?",
+    "audio_prompt": "Which sentence uses “their”, “there” and “they’re” correctly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "They’re leaving their bags over there.",
+        "is_correct": true
+      },
+      {
+        "text": "Their leaving they’re bags over there.",
+        "is_correct": false
+      },
+      {
+        "text": "There leaving their bags over they’re.",
+        "is_correct": false
+      },
+      {
+        "text": "They’re leaving there bags over their.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“They’re” means “they are”, “their” shows possession, and “there” refers to place.",
+      "hint": "Test the meaning of each form."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly08-p-026",
+    "curriculum_code": "AC9E10LY08",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "Which slogan’s pun depends most on an image for full meaning?",
+    "audio_prompt": "Which slogan’s pun depends most on an image for full meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Bee Ready",
+        "is_correct": true
+      },
+      {
+        "text": "Be Ready",
+        "is_correct": false
+      },
+      {
+        "text": "Stay Ready",
+        "is_correct": false
+      },
+      {
+        "text": "Prepare Now",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Without a bee-related image or context, “Bee Ready” may look like an error rather than deliberate wordplay.",
+      "hint": "Some puns need visual support."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly08-p-027",
+    "curriculum_code": "AC9E10LY08",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "A student writes “your welcome” in a formal email. Why is this not effective homophone wordplay?",
+    "audio_prompt": "A student writes “your welcome” in a formal email. Why is this not effective homophone wordplay?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The context gives no deliberate second meaning; “you’re welcome” is simply the required form.",
+        "is_correct": true
+      },
+      {
+        "text": "All homophone substitutions are creative.",
+        "is_correct": false
+      },
+      {
+        "text": "“Your” and “you’re” are never confused.",
+        "is_correct": false
+      },
+      {
+        "text": "Formal emails require altered spelling.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Purposeful wordplay needs an intentional meaning effect; accidental substitution is an error.",
+      "hint": "Intent and context distinguish pun from mistake."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly08-p-028",
+    "curriculum_code": "AC9E10LY08",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "Which altered spelling best preserves easy recognition?",
+    "audio_prompt": "Which altered spelling best preserves easy recognition?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Ezy Clean",
+        "is_correct": true
+      },
+      {
+        "text": "Xeez Clean",
+        "is_correct": false
+      },
+      {
+        "text": "Qln Clean",
+        "is_correct": false
+      },
+      {
+        "text": "Zx Clean",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Ezy” closely signals the pronunciation of “easy”, so the intended word remains readily recoverable.",
+      "hint": "Can readers decode it immediately?"
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly08-p-029",
+    "curriculum_code": "AC9E10LY08",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "Which phrase uses a homophone to create two relevant meanings?",
+    "audio_prompt": "Which phrase uses a homophone to create two relevant meanings?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Sole Searching — for a shoe shop",
+        "is_correct": true
+      },
+      {
+        "text": "Soul Searching — for a shoe shop",
+        "is_correct": false
+      },
+      {
+        "text": "Shoe Shopping Today",
+        "is_correct": false
+      },
+      {
+        "text": "Find New Shoes",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Sole” echoes “soul” while also referring to part of a shoe, so both meanings fit the context.",
+      "hint": "The replacement word should belong to the product."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly08-p-030",
+    "curriculum_code": "AC9E10LY08",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "Which statement about creative spelling is most accurate?",
+    "audio_prompt": "Which statement about creative spelling is most accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective when the altered form remains decodable and supports purpose, audience or meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "It is always better than conventional spelling.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be used in every sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "It never affects tone or register.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Creative spelling is a purposeful choice whose success depends on clarity and context.",
+      "hint": "Judge effect, not novelty alone."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly08-p-031",
+    "curriculum_code": "AC9E10LY08",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "A bike-repair shop wants a memorable slogan based on “wheel”. Which option is strongest?",
+    "audio_prompt": "A bike-repair shop wants a memorable slogan based on “wheel”. Which option is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Wheel Fix It",
+        "is_correct": true
+      },
+      {
+        "text": "We Will Fix It",
+        "is_correct": false
+      },
+      {
+        "text": "Fast Repairs",
+        "is_correct": false
+      },
+      {
+        "text": "Bike Help",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Wheel” can echo “we’ll” while remaining directly tied to bicycles, creating relevant sound-based wordplay.",
+      "hint": "Find a replacement that fits both sound and topic."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly08-p-032",
+    "curriculum_code": "AC9E10LY08",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "A school campaign wants a playful recycling slogan without reducing clarity. Which option is strongest?",
+    "audio_prompt": "A school campaign wants a playful recycling slogan without reducing clarity. Which option is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Waste Knot",
+        "is_correct": true
+      },
+      {
+        "text": "W8 Less",
+        "is_correct": false
+      },
+      {
+        "text": "Recycle Stuff Pls",
+        "is_correct": false
+      },
+      {
+        "text": "Use Bin",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Waste Knot” can echo “waste not”, creating a recognisable phrase while keeping the topic visible.",
+      "hint": "Use a familiar expression the audience can decode."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly08-p-033",
+    "curriculum_code": "AC9E10LY08",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "You are editing a formal scholarship application. Which spelling choice is best?",
+    "audio_prompt": "You are editing a formal scholarship application. Which spelling choice is best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use conventional spelling throughout unless quoting a name or slogan.",
+        "is_correct": true
+      },
+      {
+        "text": "Replace “you” with “U” throughout.",
+        "is_correct": false
+      },
+      {
+        "text": "Use “gr8” whenever possible.",
+        "is_correct": false
+      },
+      {
+        "text": "Respell words to look distinctive.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Formal applications prioritise clarity, credibility and conventional written standards over playful respelling.",
+      "hint": "Match spelling to context."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly08-p-034",
+    "curriculum_code": "AC9E10LY08",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "A seafood restaurant wants a pun on “see”. Which name works best?",
+    "audio_prompt": "A seafood restaurant wants a pun on “see”. Which name works best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Sea You There",
+        "is_correct": true
+      },
+      {
+        "text": "C U There",
+        "is_correct": false
+      },
+      {
+        "text": "See Food Place",
+        "is_correct": false
+      },
+      {
+        "text": "Ocean Meals",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Sea” sounds like “see” and is directly connected to seafood, producing a relevant double meaning.",
+      "hint": "The alternate spelling should add topic meaning."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly08-p-035",
+    "curriculum_code": "AC9E10LY08",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "A campaign slogan “Brake Free” is being used for cycling safety. What should an editor check first?",
+    "audio_prompt": "A campaign slogan “Brake Free” is being used for cycling safety. What should an editor check first?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Whether the intended meaning is clear, since “brake” may conflict with the idea of riding safely.",
+        "is_correct": true
+      },
+      {
+        "text": "Whether “brake” and “break” have different letter counts.",
+        "is_correct": false
+      },
+      {
+        "text": "Whether every slogan needs a homophone.",
+        "is_correct": false
+      },
+      {
+        "text": "Whether cyclists use words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A sound-based pun should still make conceptual sense; “brake free” could accidentally suggest riding without brakes.",
+      "hint": "Wordplay must not undermine the message."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly08-p-036",
+    "curriculum_code": "AC9E10LY08",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "A café called “Brew-tiful Mornings” combines “brew” with “beautiful”. What is the strongest reason to keep it?",
+    "audio_prompt": "A café called “Brew-tiful Mornings” combines “brew” with “beautiful”. What is the strongest reason to keep it?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The altered word remains recognisable and connects the compliment directly to coffee.",
+        "is_correct": true
+      },
+      {
+        "text": "It is technically a dictionary spelling.",
+        "is_correct": false
+      },
+      {
+        "text": "Longer words are always better branding.",
+        "is_correct": false
+      },
+      {
+        "text": "The pun works without readers knowing “beautiful”.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The blend is decodable and relevant to the café context, so the novelty supports identity.",
+      "hint": "Recognition + relevance."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly08-p-037",
+    "curriculum_code": "AC9E10LY08",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "You want a homophone joke in a poster about reading. Which line is strongest?",
+    "audio_prompt": "You want a homophone joke in a poster about reading. Which line is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Book Your Next Adventure — no homophone needed if the message is already clear.",
+        "is_correct": true
+      },
+      {
+        "text": "Reed More Books",
+        "is_correct": false
+      },
+      {
+        "text": "Read More Books",
+        "is_correct": false
+      },
+      {
+        "text": "Red More Books",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A homophone should not be forced when it creates confusion or weakens the message; conventional “Read More Books” is clearer here.",
+      "hint": "Wordplay is optional, not compulsory."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly08-p-038",
+    "curriculum_code": "AC9E10LY08",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "A pet shop wants to use “fur” in place of “for”. Which slogan works best?",
+    "audio_prompt": "A pet shop wants to use “fur” in place of “for”. Which slogan works best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Made Fur Pets",
+        "is_correct": false
+      },
+      {
+        "text": "Fur Quality Service",
+        "is_correct": false
+      },
+      {
+        "text": "Here Fur You",
+        "is_correct": true
+      },
+      {
+        "text": "Food Fur Sale",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“Here Fur You” preserves the familiar phrase “here for you” while adding a relevant pet-related meaning.",
+      "hint": "Choose the version that sounds natural and gains a second meaning."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly08-p-039",
+    "curriculum_code": "AC9E10LY08",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "A public-health message must be immediately clear to a wide audience. Which version is strongest?",
+    "audio_prompt": "A public-health message must be immediately clear to a wide audience. Which version is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Get tested today.",
+        "is_correct": true
+      },
+      {
+        "text": "Get testd 2day.",
+        "is_correct": false
+      },
+      {
+        "text": "G3t t3st3d.",
+        "is_correct": false
+      },
+      {
+        "text": "T3st urself 2day.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "For high-stakes public information, conventional spelling usually supports fastest and broadest comprehension.",
+      "hint": "Clarity can outweigh playfulness."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly08-p-040",
+    "curriculum_code": "AC9E10LY08",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "A tourism ad says “Wander Where the Wild Things R”. What is the best editorial judgement?",
+    "audio_prompt": "A tourism ad says “Wander Where the Wild Things R”. What is the best editorial judgement?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Replace “R” with “Are” unless the campaign deliberately targets an informal style and the abbreviation clearly fits the brand.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “R” because altered spelling is always more creative.",
+        "is_correct": false
+      },
+      {
+        "text": "Use even more abbreviations regardless of audience.",
+        "is_correct": false
+      },
+      {
+        "text": "Delete all words with homophones.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Creative spelling should be judged against audience, tone and readability rather than treated as automatically effective.",
+      "hint": "Ask whether the novelty helps the campaign voice."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly08-t-001",
@@ -324,36 +1685,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_using_homophones_to_create_new_spelling_of_familiar_words_and_influence_how_an_audience_understands_the_text",
-    "question": "What is the correct way to apply a writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text?",
-    "audio_prompt": "What is the correct way to apply a writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text?",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "Which pair are homophones?",
+    "audio_prompt": "Which pair are homophones?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "using homophones to create new spelling of familiar words; for example, “lite milk”",
+        "text": "mail / male",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "coat / caught",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "food / foot",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "warm / worm",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "using homophones to create new spelling of familiar words; for example, “lite milk”",
-      "hint": "A writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text."
-    }
+      "summary": "“Mail” and “male” share pronunciation while differing in spelling and meaning.",
+      "hint": "Say each pair aloud."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly08-t-002",
@@ -361,36 +1726,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_using_homophones_to_create_new_spelling_of_familiar_words_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "A garden centre uses “Thyme to Plant”. Why does the slogan work?",
+    "audio_prompt": "A garden centre uses “Thyme to Plant”. Why does the slogan work?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "using homophones to create new spelling of familiar words; for example, “lite milk”",
+        "text": "“Thyme” sounds like “time” and is relevant to plants.",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "“Plant” is a homophone of thyme.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The slogan changes pronunciation completely.",
+        "is_correct": false
+      },
+      {
+        "text": "The pun has no connection to gardening.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "using homophones to create new spelling of familiar words; for example, “lite milk”",
-      "hint": "A writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text."
-    }
+      "summary": "The replacement word preserves the sound of a familiar phrase and adds topic meaning.",
+      "hint": "Sound + relevance."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly08-t-003",
@@ -398,36 +1767,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_using_homophones_to_create_new_spelling_of_familiar_words_and_influence_how_an_audience_understands_the_text",
-    "question": "Which response correctly uses a writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text?",
-    "audio_prompt": "Which response correctly uses a writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text?",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "Which spelling is most appropriate in a formal report?",
+    "audio_prompt": "Which spelling is most appropriate in a formal report?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "using homophones to create new spelling of familiar words; for example, “lite milk”",
+        "text": "you",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "U",
+        "is_correct": false
+      },
+      {
+        "text": "yu",
+        "is_correct": false
+      },
+      {
+        "text": "yoo",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "using homophones to create new spelling of familiar words; for example, “lite milk”",
-      "hint": "A writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text."
-    }
+      "summary": "Conventional spelling best suits a formal report where clarity and standard register matter.",
+      "hint": "Match spelling to context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly08-t-004",
@@ -435,36 +1808,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_using_homophones_to_create_new_spelling_of_familiar_words_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "A tyre shop uses “Wheel See You Right”. What creates the pun?",
+    "audio_prompt": "A tyre shop uses “Wheel See You Right”. What creates the pun?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "using homophones to create new spelling of familiar words; for example, “lite milk”",
+        "text": "“Wheel” echoes “we’ll” while relating to tyres.",
         "is_correct": true
+      },
+      {
+        "text": "“Right” rhymes with wheel.",
+        "is_correct": false
+      },
+      {
+        "text": "The sentence contains no wordplay.",
+        "is_correct": false
+      },
+      {
+        "text": "“Wheel” and “we’ll” have the same spelling.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "using homophones to create new spelling of familiar words; for example, “lite milk”",
-      "hint": "A writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text."
-    }
+      "summary": "The line uses similar pronunciation to activate both a conversational phrase and a product-related meaning.",
+      "hint": "Read the opening aloud."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly08-t-005",
@@ -472,36 +1849,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_using_homophones_to_create_new_spelling_of_familiar_words_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text?",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "Which option is an accidental error rather than purposeful wordplay in most contexts?",
+    "audio_prompt": "Which option is an accidental error rather than purposeful wordplay in most contexts?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "using homophones to create new spelling of familiar words; for example, “lite milk”",
+        "text": "Your invited to attend.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "Sea You Soon — on a ferry poster",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Bee Kind — with a bee image",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Knead a Hand? — at a bakery",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "using homophones to create new spelling of familiar words; for example, “lite milk”",
-      "hint": "A writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text."
-    }
+      "summary": "“Your invited” has no useful second meaning; the intended form is “you’re invited”.",
+      "hint": "Does the altered form add meaning?"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly08-t-006",
@@ -509,36 +1890,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_using_homophones_to_create_new_spelling_of_familiar_words_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "Which slogan best uses a homophone for a florist?",
+    "audio_prompt": "Which slogan best uses a homophone for a florist?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "using homophones to create new spelling of familiar words; for example, “lite milk”",
+        "text": "Say It With Flour",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Say It With Flowers",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Petal Power",
+        "is_correct": false
+      },
+      {
+        "text": "Fresh Blooms",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "using homophones to create new spelling of familiar words; for example, “lite milk”",
-      "hint": "A writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text."
-    }
+      "summary": "“Flour” sounds like “flower”, but this pun would only work if the campaign deliberately combines baking and flowers; without that context it may confuse.",
+      "hint": "Check whether both meanings fit."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly08-t-007",
@@ -546,36 +1931,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_using_homophones_to_create_new_spelling_of_familiar_words_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "Why might “Gr8 Deals” be memorable?",
+    "audio_prompt": "Why might “Gr8 Deals” be memorable?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "using homophones to create new spelling of familiar words; for example, “lite milk”",
+        "text": "The numeral compresses the sound of part of “great” into a visually distinctive form.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The number changes the word to “grade”.",
+        "is_correct": false
+      },
+      {
+        "text": "It removes pronunciation.",
+        "is_correct": false
+      },
+      {
+        "text": "It is formal academic spelling.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "using homophones to create new spelling of familiar words; for example, “lite milk”",
-      "hint": "A writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text."
-    }
+      "summary": "The sound value of 8 makes the altered spelling easy to decode.",
+      "hint": "Read “8” aloud."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly08-t-008",
@@ -583,35 +1972,367 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_using_homophones_to_create_new_spelling_of_familiar_words_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "Which pair are NOT homophones?",
+    "audio_prompt": "Which pair are NOT homophones?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "using homophones to create new spelling of familiar words; for example, “lite milk”",
+        "text": "price / prize",
         "is_correct": true
+      },
+      {
+        "text": "one / won",
+        "is_correct": false
+      },
+      {
+        "text": "week / weak",
+        "is_correct": false
+      },
+      {
+        "text": "son / sun",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "using homophones to create new spelling of familiar words; for example, “lite milk”",
-      "hint": "A writer or speaker can use purpose to shape using homophones to create new spelling of familiar words and influence how an audience understands the text."
-    }
+      "summary": "“Price” and “prize” differ in their final consonant sound; the others are homophones.",
+      "hint": "Listen to the final sound."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly08-t-009",
+    "curriculum_code": "AC9E10LY08",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "A campaign writes “No More Waste” as “Know More Waste”. What extra idea can the altered spelling introduce?",
+    "audio_prompt": "A campaign writes “No More Waste” as “Know More Waste”. What extra idea can the altered spelling introduce?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Learning more about waste as well as reducing it",
+        "is_correct": true
+      },
+      {
+        "text": "Ignoring waste completely",
+        "is_correct": false
+      },
+      {
+        "text": "Making “waste” a homophone",
+        "is_correct": false
+      },
+      {
+        "text": "Changing the phrase into a question",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Know” introduces the idea of understanding while echoing the sound of “no”.",
+      "hint": "Both readings should relate to the campaign."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly08-t-010",
+    "curriculum_code": "AC9E10LY08",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "Which name is easiest to decode as “easy clean”?",
+    "audio_prompt": "Which name is easiest to decode as “easy clean”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Ezy Clean",
+        "is_correct": true
+      },
+      {
+        "text": "Xzi Qln",
+        "is_correct": false
+      },
+      {
+        "text": "Ez Cn",
+        "is_correct": false
+      },
+      {
+        "text": "Izi Kln",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Ezy” and “Clean” remain visually close enough to familiar words to preserve quick recognition.",
+      "hint": "Readable creativity matters."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly08-t-011",
+    "curriculum_code": "AC9E10LY08",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "A safety notice uses “B4 U Cross, Look Both Ways”. What is the main concern?",
+    "audio_prompt": "A safety notice uses “B4 U Cross, Look Both Ways”. What is the main concern?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The shorthand may reduce accessibility or clarity for some readers in a safety-critical context.",
+        "is_correct": true
+      },
+      {
+        "text": "The notice contains too many letters.",
+        "is_correct": false
+      },
+      {
+        "text": "Numbers can never represent sounds.",
+        "is_correct": false
+      },
+      {
+        "text": "The message has no verb.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "In safety communication, broad and immediate comprehension is more important than playful compression.",
+      "hint": "High-stakes context changes the judgement."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly08-t-012",
+    "curriculum_code": "AC9E10LY08",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "Which statement about homophone puns is strongest?",
+    "audio_prompt": "Which statement about homophone puns is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "They work best when the same sound activates two meanings that both suit the context.",
+        "is_correct": true
+      },
+      {
+        "text": "Any two rhyming words are homophones.",
+        "is_correct": false
+      },
+      {
+        "text": "A pun is effective simply because spelling is unusual.",
+        "is_correct": false
+      },
+      {
+        "text": "Homophones always sound identical in every accent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Strong puns combine sound similarity with contextually relevant double meaning.",
+      "hint": "Sound alone is not enough."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly08-t-013",
+    "curriculum_code": "AC9E10LY08",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "A coffee cart is named “Daily Grind”. Which statement is most accurate?",
+    "audio_prompt": "A coffee cart is named “Daily Grind”. Which statement is most accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The phrase works through double meaning rather than homophone spelling: coffee grinding and everyday routine.",
+        "is_correct": true
+      },
+      {
+        "text": "It is a homophone because “grind” sounds like “coffee”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is a spelling error.",
+        "is_correct": false
+      },
+      {
+        "text": "It uses a numeral as a sound.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Not all wordplay is homophonic; “daily grind” relies on a phrase with two meanings.",
+      "hint": "Distinguish homophone from other wordplay."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly08-t-014",
+    "curriculum_code": "AC9E10LY08",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "Which slogan is least suitable for a legal-aid service?",
+    "audio_prompt": "Which slogan is least suitable for a legal-aid service?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Law 4 U",
+        "is_correct": true
+      },
+      {
+        "text": "Legal Advice for You",
+        "is_correct": false
+      },
+      {
+        "text": "Clear Legal Help",
+        "is_correct": false
+      },
+      {
+        "text": "Know Your Rights",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Law 4 U” is highly informal and may weaken the seriousness or clarity expected from a legal-aid service.",
+      "hint": "Match register to service context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly08-t-015",
+    "curriculum_code": "AC9E10LY08",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "A poster says “Sole Mates” above two matching shoes. What makes it work?",
+    "audio_prompt": "A poster says “Sole Mates” above two matching shoes. What makes it work?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“Sole” echoes “soul” while referring to shoes.",
+        "is_correct": true
+      },
+      {
+        "text": "“Mates” is a homophone of sole.",
+        "is_correct": false
+      },
+      {
+        "text": "The image is unrelated.",
+        "is_correct": false
+      },
+      {
+        "text": "The phrase has only a literal meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The shoe meaning of “sole” combines with the familiar phrase “soul mates”.",
+      "hint": "Sound and image reinforce each other."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly08-t-016",
+    "curriculum_code": "AC9E10LY08",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "homophones, altered spelling and purposeful wordplay",
+    "question": "You are editing the name “Kwik Med Advice” for a health service. What is the strongest judgement?",
+    "audio_prompt": "You are editing the name “Kwik Med Advice” for a health service. What is the strongest judgement?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use conventional spelling if rapid, trustworthy comprehension matters more than playful branding.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep it because unusual spelling always builds trust.",
+        "is_correct": false
+      },
+      {
+        "text": "Replace every word with abbreviations.",
+        "is_correct": false
+      },
+      {
+        "text": "Health services should never have names.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "In health communication, clarity and credibility may outweigh the branding benefit of altered spelling.",
+      "hint": "Purpose and stakes guide the choice."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v6"
   }
 ]
