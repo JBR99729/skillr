@@ -1,0 +1,18 @@
+export const test=[
+['Which is a heat source?',['A campfire','A ruler','A pencil','A shadow'],0,'A campfire releases heat energy.','What can warm nearby objects?'],
+['What does a thermometer measure?',['Temperature','Mass','Length','Time'],0,'Thermometers measure hotness or coldness.','Think °C.'],
+['A cold spoon is placed in hot water. Heat moves:',['from the water to the spoon','from the spoon to the water only','nowhere','from the table to the spoon only'],0,'The warmer water transfers heat to the cooler spoon.','Warm to cool.'],
+['During a heat-transfer discussion, which statement is scientifically correct?',['Heat and temperature are related but not identical','Heat and temperature mean exactly the same thing','Temperature is a material','Heat is measured in centimetres'],0,'Temperature is a measure; heat is energy transfer.','Different concepts.'],
+['Why does tea cool?',['It transfers heat to cooler surroundings','Cold pours into it','Heat disappears without transfer','The cup creates cold'],0,'The warmer tea loses heat energy.','Hot to cooler surroundings.'],
+['Which is likely the best insulator?',['Foam','Copper','Aluminium','Steel'],0,'Foam slows heat transfer more than common metals.','Insulator versus conductor.'],
+['An ice pack cools skin because:',['heat moves from warmer skin to colder pack','cold flows into the skin as matter','the pack destroys heat','the skin stops having energy'],0,'Heat leaves the warmer skin.','Warm to cold.'],
+['Which measurement shows warming?',['20°C to 35°C','60°C to 40°C','30°C to 30°C','25 cm to 30 cm'],0,'A temperature increase indicates warming.','Look for °C increasing.'],
+['Why can metal feel colder than wood at the same temperature?',['Metal transfers heat from your hand faster','Metal must always be colder','Wood creates heat','Touch does not involve heat'],0,'Thermal conductivity affects sensation.','Transfer rate matters.'],
+['Which statement is too strong?',['One black sample warmed most, so black is always hottest','The black sample warmed most in this test','Colour may affect heating','We could repeat the test'],0,'One result does not justify “always”.','Avoid universal claims.'],
+['A cup wrapped in wool cools more slowly. What does this suggest?',['Wool reduced heat transfer','Wool created heat','The cup had no temperature','Cooling was impossible'],0,'Insulation slows heat loss.','Less temperature drop.'],
+['A hot plate warms a pan. Heat moves:',['from plate to pan','from pan to plate only','from cold air into pan','nowhere'],0,'The warmer heat source transfers energy to the cooler pan.','Warm to cool.'],
+['What usually happens when a cooler object gains heat?',['Its temperature rises','Its mass doubles','Its colour must change','It freezes'],0,'Heating often raises temperature.','Gain heat → warmer.'],
+['Which everyday item is designed to reduce heat transfer?',['Insulated drink bottle','Metal fork','Paper clip','Ruler'],0,'Insulated bottles slow warming or cooling.','Think insulation.'],
+['A shaded bench is 25°C and a sunlit bench 38°C. What can you say?',['The sunlit bench was warmer in this measurement','Sunlight always adds exactly 13°C','Shade creates cold','Benches cannot absorb energy'],0,'The first statement reports the evidence accurately.','State the measured comparison.'],
+['Which explanation is best?',['Temperature changes can occur when heat energy is transferred between objects or surroundings','Temperature changes for no reason','Cold is a substance','Heat only moves through living things'],0,'Energy transfer can raise or lower temperature.','Connect heat transfer and temperature.']
+];
