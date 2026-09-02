@@ -4,697 +4,1320 @@ window.skillrPracticeQuestions = [
     "id": "ac9s1i04-p-001",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "ac9s1i04 01",
+    "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "What sorting rule is used when leaf cards are grouped as green, yellow and brown?",
-    "audioPrompt": "What sorting rule is used when leaf cards are grouped as green, yellow and brown?",
-    "visual": "🍂 leaf cards; 🔀 colour; 🗂️ green, yellow and brown",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🍂 leaf cards; 🔀 colour; 🗂️ green, yellow and brown\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-001\"></use></svg>",
+    "question": "A class sorts buttons by colour. Which groups make sense?",
+    "audioPrompt": "A class sorts buttons by colour. Which groups make sense?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-001",
-      "alt_text": "🍂 leaf cards; 🔀 colour; 🗂️ green, yellow and brown"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "colour",
-      "which one is someone's favourite",
-      "the order the cards were picked up"
+      "red, blue, green",
+      "big, loud, wet",
+      "happy, sad, funny",
+      "today, tomorrow, yesterday"
     ],
     "correct": 0,
-    "explanation": "Colour is the shared feature used for the groups.\nHint: Name the feature that is the same within each group.",
+    "explanation": "Sorting works when every item is grouped using the same clear feature.\nHint: Use one observable feature.",
     "structuredExplanation": {
-      "summary": "Colour is the shared feature used for the groups.",
-      "hint": "Name the feature that is the same within each group."
+      "summary": "Sorting works when every item is grouped using the same clear feature.",
+      "hint": "Use one observable feature."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i04-p-002",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "ac9s1i04 02",
+    "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Which group labels suit leaf cards sorted by colour?",
-    "audioPrompt": "Which group labels suit leaf cards sorted by colour?",
-    "visual": "🍂 leaf cards; 🏷️ green, yellow and brown; ✅ clear labels",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🍂 leaf cards; 🏷️ green, yellow and brown; ✅ clear labels\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-002\"></use></svg>",
+    "question": "Which is a good category label for sorting leaves?",
+    "audioPrompt": "Which is a good category label for sorting leaves?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-002",
-      "alt_text": "🍂 leaf cards; 🏷️ green, yellow and brown; ✅ clear labels"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "good and bad",
-      "green, yellow and brown",
-      "first and last"
+      "nice leaf",
+      "best leaf",
+      "interesting",
+      "smooth edge"
     ],
-    "correct": 1,
-    "explanation": "Green, yellow and brown clearly names the categories.\nHint: Labels should describe the sorting rule, not an opinion.",
+    "correct": 3,
+    "explanation": "“Smooth edge” names an observable feature.\nHint: Choose a label others can check.",
     "structuredExplanation": {
-      "summary": "Green, yellow and brown clearly names the categories.",
-      "hint": "Labels should describe the sorting rule, not an opinion."
+      "summary": "“Smooth edge” names an observable feature.",
+      "hint": "Choose a label others can check."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i04-p-003",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "ac9s1i04 03",
+    "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Which record correctly describes the sorted leaf cards?",
-    "audioPrompt": "Which record correctly describes the sorted leaf cards?",
-    "visual": "🍂 leaf cards; 🔢 3 green, 5 yellow and 2 brown; 📝 record",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🍂 leaf cards; 🔢 3 green, 5 yellow and 2 brown; 📝 record\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-003\"></use></svg>",
+    "question": "A tally shows 5 birds and 2 butterflies. Which group has more?",
+    "audioPrompt": "A tally shows 5 birds and 2 butterflies. Which group has more?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-003",
-      "alt_text": "🍂 leaf cards; 🔢 3 green, 5 yellow and 2 brown; 📝 record"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Every group has the same number.",
-      "The largest-looking card must be the most common.",
-      "3 green, 5 yellow and 2 brown"
+      "the same number",
+      "cannot tell",
+      "birds",
+      "butterflies"
     ],
     "correct": 2,
-    "explanation": "3 green, 5 yellow and 2 brown reports the category totals.\nHint: Count every item once in its matching group.",
+    "explanation": "Five is greater than two.\nHint: Compare the totals.",
     "structuredExplanation": {
-      "summary": "3 green, 5 yellow and 2 brown reports the category totals.",
-      "hint": "Count every item once in its matching group."
+      "summary": "Five is greater than two.",
+      "hint": "Compare the totals."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i04-p-004",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "ac9s1i04 04",
+    "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Which category has the most leaf cards?",
-    "audioPrompt": "Which category has the most leaf cards?",
-    "visual": "📊 3 green, 5 yellow and 2 brown; ⬆️ most; 🍂 yellow",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📊 3 green, 5 yellow and 2 brown; ⬆️ most; 🍂 yellow\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-004\"></use></svg>",
+    "question": "Which display is useful for showing how many objects are in each group?",
+    "audioPrompt": "Which display is useful for showing how many objects are in each group?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-004",
-      "alt_text": "📊 3 green, 5 yellow and 2 brown; ⬆️ most; 🍂 yellow"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "yellow",
-      "the category with the longest label",
-      "all categories are automatically equal"
+      "map only",
+      "picture graph",
+      "story ending",
+      "weather forecast"
     ],
-    "correct": 0,
-    "explanation": "Yellow has the greatest recorded count.\nHint: Compare the category numbers, not the size of the words or pictures.",
+    "correct": 1,
+    "explanation": "A picture graph can represent category totals visually.\nHint: Which display shows counts by group?",
     "structuredExplanation": {
-      "summary": "Yellow has the greatest recorded count.",
-      "hint": "Compare the category numbers, not the size of the words or pictures."
+      "summary": "A picture graph can represent category totals visually.",
+      "hint": "Which display shows counts by group?"
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i04-p-005",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "ac9s1i04 05",
+    "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Which display would clearly show the sorted leaf cards?",
-    "audioPrompt": "Which display would clearly show the sorted leaf cards?",
-    "visual": "🍂 leaf cards; 📊 a picture graph with one leaf picture for each card; 🏷️ labels",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🍂 leaf cards; 📊 a picture graph with one leaf picture for each card; 🏷️ labels\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-005\"></use></svg>",
+    "question": "If two groups each have 4 shells, the totals are:",
+    "audioPrompt": "If two groups each have 4 shells, the totals are:",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-005",
-      "alt_text": "🍂 leaf cards; 📊 a picture graph with one leaf picture for each card; 🏷️ labels"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "an unlabelled scribble",
-      "a picture graph with one leaf picture for each card",
-      "a list that leaves out some items"
+      "equal",
+      "different",
+      "unknown",
+      "impossible"
     ],
-    "correct": 1,
-    "explanation": "A picture graph with one leaf picture for each card shows the categories and data clearly.\nHint: Choose a display with labels and one place for every result.",
+    "correct": 0,
+    "explanation": "Equal means the same number.\nHint: Same count.",
     "structuredExplanation": {
-      "summary": "A picture graph with one leaf picture for each card shows the categories and data clearly.",
-      "hint": "Choose a display with labels and one place for every result."
+      "summary": "Equal means the same number.",
+      "hint": "Same count."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i04-p-006",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "ac9s1i04 06",
+    "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Why must each leaf card be counted once?",
-    "audioPrompt": "Why must each leaf card be counted once?",
-    "visual": "1️⃣ count once; 🗂️ one group; ✅ accurate total",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"1️⃣ count once; 🗂️ one group; ✅ accurate total\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-006\"></use></svg>",
+    "question": "Which word means the group with the smallest count?",
+    "audioPrompt": "Which word means the group with the smallest count?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-006",
-      "alt_text": "1️⃣ count once; 🗂️ one group; ✅ accurate total"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "So the favourite category always wins.",
-      "So one item can make several categories larger.",
-      "So the category totals show the data accurately."
+      "most",
+      "equal",
+      "pattern",
+      "least"
     ],
-    "correct": 2,
-    "explanation": "Counting each item once prevents missing or double-counting data.\nHint: Check that every item is in one suitable category.",
+    "correct": 3,
+    "explanation": "“Least” identifies the smallest total.\nHint: Smallest amount.",
     "structuredExplanation": {
-      "summary": "Counting each item once prevents missing or double-counting data.",
-      "hint": "Check that every item is in one suitable category."
+      "summary": "“Least” identifies the smallest total.",
+      "hint": "Smallest amount."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i04-p-007",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "ac9s1i04 07",
+    "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "What should be checked after sorting leaf cards by colour?",
-    "audioPrompt": "What should be checked after sorting leaf cards by colour?",
-    "visual": "🍂 leaf cards; 🔍 check rule; ✅ colour",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🍂 leaf cards; 🔍 check rule; ✅ colour\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-007\"></use></svg>",
+    "question": "Which word means the group with the largest count?",
+    "audioPrompt": "Which word means the group with the largest count?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-007",
-      "alt_text": "🍂 leaf cards; 🔍 check rule; ✅ colour"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Every item fits the rule for its group.",
-      "Every group has the same number.",
-      "The labels are hidden."
+      "same",
+      "none",
+      "most",
+      "least"
     ],
-    "correct": 0,
-    "explanation": "A correct sort places items according to the stated rule.\nHint: Test each item against its category label.",
+    "correct": 2,
+    "explanation": "“Most” identifies the largest total.\nHint: Largest amount.",
     "structuredExplanation": {
-      "summary": "A correct sort places items according to the stated rule.",
-      "hint": "Test each item against its category label."
+      "summary": "“Most” identifies the largest total.",
+      "hint": "Largest amount."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i04-p-008",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "ac9s1i04 08",
+    "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "What pattern can be described from this data: 3 green, 5 yellow and 2 brown?",
-    "audioPrompt": "What pattern can be described from this data: 3 green, 5 yellow and 2 brown?",
-    "visual": "📊 3 green, 5 yellow and 2 brown; 🔎 compare; 🏆 yellow",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📊 3 green, 5 yellow and 2 brown; 🔎 compare; 🏆 yellow\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-008\"></use></svg>",
+    "question": "A table has headings “red”, “blue”, “yellow”. What feature is being used to sort?",
+    "audioPrompt": "A table has headings “red”, “blue”, “yellow”. What feature is being used to sort?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-008",
-      "alt_text": "📊 3 green, 5 yellow and 2 brown; 🔎 compare; 🏆 yellow"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The shortest label is always the largest category.",
-      "Yellow is the largest category.",
-      "No comparison can be made from counts."
+      "texture",
+      "colour",
+      "size",
+      "shape"
     ],
     "correct": 1,
-    "explanation": "The recorded numbers show that yellow has the greatest count.\nHint: Use the numbers to describe what is most, least or equal.",
+    "explanation": "The headings name colours.\nHint: What do the labels have in common?",
     "structuredExplanation": {
-      "summary": "The recorded numbers show that yellow has the greatest count.",
-      "hint": "Use the numbers to describe what is most, least or equal."
+      "summary": "The headings name colours.",
+      "hint": "What do the labels have in common?"
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i04-p-009",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "ac9s1i04 01",
+    "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "What sorting rule is used when buttons are grouped as two-hole and four-hole?",
-    "audioPrompt": "What sorting rule is used when buttons are grouped as two-hole and four-hole?",
-    "visual": "🔘 buttons; 🔀 number of holes; 🗂️ two-hole and four-hole",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🔘 buttons; 🔀 number of holes; 🗂️ two-hole and four-hole\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-009\"></use></svg>",
+    "question": "Which item belongs in a “has wheels” group?",
+    "audioPrompt": "Which item belongs in a “has wheels” group?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-009",
-      "alt_text": "🔘 buttons; 🔀 number of holes; 🗂️ two-hole and four-hole"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "which one is someone's favourite",
-      "the order the cards were picked up",
-      "number of holes"
+      "toy car",
+      "book",
+      "spoon",
+      "balloon"
     ],
-    "correct": 2,
-    "explanation": "Number of holes is the shared feature used for the groups.\nHint: Name the feature that is the same within each group.",
+    "correct": 0,
+    "explanation": "A toy car has wheels.\nHint: Match item to feature.",
     "structuredExplanation": {
-      "summary": "Number of holes is the shared feature used for the groups.",
-      "hint": "Name the feature that is the same within each group."
+      "summary": "A toy car has wheels.",
+      "hint": "Match item to feature."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i04-p-010",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "ac9s1i04 02",
+    "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Which group labels suit buttons sorted by number of holes?",
-    "audioPrompt": "Which group labels suit buttons sorted by number of holes?",
-    "visual": "🔘 buttons; 🏷️ two-hole and four-hole; ✅ clear labels",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🔘 buttons; 🏷️ two-hole and four-hole; ✅ clear labels\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-010\"></use></svg>",
+    "question": "Which total matches tally marks ||||?",
+    "audioPrompt": "Which total matches tally marks ||||?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-010",
-      "alt_text": "🔘 buttons; 🏷️ two-hole and four-hole; ✅ clear labels"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "two-hole and four-hole",
-      "good and bad",
-      "first and last"
+      "2",
+      "5",
+      "8",
+      "4"
     ],
-    "correct": 0,
-    "explanation": "Two-hole and four-hole clearly names the categories.\nHint: Labels should describe the sorting rule, not an opinion.",
+    "correct": 3,
+    "explanation": "Four tally marks represent four items.\nHint: Count the marks.",
     "structuredExplanation": {
-      "summary": "Two-hole and four-hole clearly names the categories.",
-      "hint": "Labels should describe the sorting rule, not an opinion."
+      "summary": "Four tally marks represent four items.",
+      "hint": "Count the marks."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i04-p-011",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "ac9s1i04 03",
+    "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Which record correctly describes the sorted buttons?",
-    "audioPrompt": "Which record correctly describes the sorted buttons?",
-    "visual": "🔘 buttons; 🔢 6 two-hole and 4 four-hole; 📝 record",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🔘 buttons; 🔢 6 two-hole and 4 four-hole; 📝 record\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-011\"></use></svg>",
+    "question": "Why should all groups in a sort use the same feature?",
+    "audioPrompt": "Why should all groups in a sort use the same feature?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-011",
-      "alt_text": "🔘 buttons; 🔢 6 two-hole and 4 four-hole; 📝 record"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Every group has the same number.",
-      "6 two-hole and 4 four-hole",
-      "The largest-looking card must be the most common."
+      "So nothing needs labels.",
+      "So the answer is always obvious.",
+      "So the categories are clear and items can be compared.",
+      "So every group has the same number."
     ],
-    "correct": 1,
-    "explanation": "6 two-hole and 4 four-hole reports the category totals.\nHint: Count every item once in its matching group.",
+    "correct": 2,
+    "explanation": "A consistent sorting rule makes the groups meaningful.\nHint: Same rule for every item.",
     "structuredExplanation": {
-      "summary": "6 two-hole and 4 four-hole reports the category totals.",
-      "hint": "Count every item once in its matching group."
+      "summary": "A consistent sorting rule makes the groups meaningful.",
+      "hint": "Same rule for every item."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i04-p-012",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "ac9s1i04 04",
+    "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Which category has the most buttons?",
-    "audioPrompt": "Which category has the most buttons?",
-    "visual": "📊 6 two-hole and 4 four-hole; ⬆️ most; 🔘 two-hole",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📊 6 two-hole and 4 four-hole; ⬆️ most; 🔘 two-hole\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-012\"></use></svg>",
+    "question": "Why label categories in a data display?",
+    "audioPrompt": "Why label categories in a data display?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-012",
-      "alt_text": "📊 6 two-hole and 4 four-hole; ⬆️ most; 🔘 two-hole"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "the category with the longest label",
-      "all categories are automatically equal",
-      "two-hole"
+      "Labels prove a cause.",
+      "So readers know what each group represents.",
+      "Labels make the numbers bigger.",
+      "Labels make every group equal."
     ],
-    "correct": 2,
-    "explanation": "Two-hole has the greatest recorded count.\nHint: Compare the category numbers, not the size of the words or pictures.",
+    "correct": 1,
+    "explanation": "Labels tell the audience what the counts refer to.\nHint: What does each bar or group mean?",
     "structuredExplanation": {
-      "summary": "Two-hole has the greatest recorded count.",
-      "hint": "Compare the category numbers, not the size of the words or pictures."
+      "summary": "Labels tell the audience what the counts refer to.",
+      "hint": "What does each bar or group mean?"
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i04-p-013",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "ac9s1i04 05",
+    "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Which display would clearly show the sorted buttons?",
-    "audioPrompt": "Which display would clearly show the sorted buttons?",
-    "visual": "🔘 buttons; 📊 a two-column table labelled by number of holes; 🏷️ labels",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🔘 buttons; 📊 a two-column table labelled by number of holes; 🏷️ labels\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-013\"></use></svg>",
+    "question": "Why count each object only once?",
+    "audioPrompt": "Why count each object only once?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-013",
-      "alt_text": "🔘 buttons; 📊 a two-column table labelled by number of holes; 🏷️ labels"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "a two-column table labelled by number of holes",
-      "an unlabelled scribble",
-      "a list that leaves out some items"
+      "Counting an item twice would make the total wrong.",
+      "Objects dislike being counted.",
+      "Double-counting makes groups equal.",
+      "Only one object can be counted."
     ],
     "correct": 0,
-    "explanation": "A two-column table labelled by number of holes shows the categories and data clearly.\nHint: Choose a display with labels and one place for every result.",
+    "explanation": "Each object should contribute one count to its group.\nHint: One item, one count.",
     "structuredExplanation": {
-      "summary": "A two-column table labelled by number of holes shows the categories and data clearly.",
-      "hint": "Choose a display with labels and one place for every result."
+      "summary": "Each object should contribute one count to its group.",
+      "hint": "One item, one count."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i04-p-014",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "ac9s1i04 06",
+    "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Why must each button be counted once?",
-    "audioPrompt": "Why must each button be counted once?",
-    "visual": "1️⃣ count once; 🗂️ one group; ✅ accurate total",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"1️⃣ count once; 🗂️ one group; ✅ accurate total\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-014\"></use></svg>",
+    "question": "A group has 6 objects and another has 3. Why can we say the first has more?",
+    "audioPrompt": "A group has 6 objects and another has 3. Why can we say the first has more?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-014",
-      "alt_text": "1️⃣ count once; 🗂️ one group; ✅ accurate total"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "So the favourite category always wins.",
-      "So the category totals show the data accurately.",
-      "So one item can make several categories larger."
+      "The first group is on the left.",
+      "Its label is longer.",
+      "It looks nicer.",
+      "6 is greater than 3."
     ],
-    "correct": 1,
-    "explanation": "Counting each item once prevents missing or double-counting data.\nHint: Check that every item is in one suitable category.",
+    "correct": 3,
+    "explanation": "The conclusion comes from comparing the totals.\nHint: Use the numbers.",
     "structuredExplanation": {
-      "summary": "Counting each item once prevents missing or double-counting data.",
-      "hint": "Check that every item is in one suitable category."
+      "summary": "The conclusion comes from comparing the totals.",
+      "hint": "Use the numbers."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i04-p-015",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "ac9s1i04 07",
+    "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "What should be checked after sorting buttons by number of holes?",
-    "audioPrompt": "What should be checked after sorting buttons by number of holes?",
-    "visual": "🔘 buttons; 🔍 check rule; ✅ number of holes",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🔘 buttons; 🔍 check rule; ✅ number of holes\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-015\"></use></svg>",
+    "question": "Why is “pretty” a poor sorting category for science data?",
+    "audioPrompt": "Why is “pretty” a poor sorting category for science data?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-015",
-      "alt_text": "🔘 buttons; 🔍 check rule; ✅ number of holes"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Every group has the same number.",
-      "The labels are hidden.",
-      "Every item fits the rule for its group."
+      "Science cannot sort objects.",
+      "All objects are pretty.",
+      "People may disagree because it is an opinion.",
+      "Pretty is too short a word."
     ],
     "correct": 2,
-    "explanation": "A correct sort places items according to the stated rule.\nHint: Test each item against its category label.",
+    "explanation": "Useful categories are usually based on observable features people can apply consistently.\nHint: Can everyone check it the same way?",
     "structuredExplanation": {
-      "summary": "A correct sort places items according to the stated rule.",
-      "hint": "Test each item against its category label."
+      "summary": "Useful categories are usually based on observable features people can apply consistently.",
+      "hint": "Can everyone check it the same way?"
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i04-p-016",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "ac9s1i04 08",
+    "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "What pattern can be described from this data: 6 two-hole and 4 four-hole?",
-    "audioPrompt": "What pattern can be described from this data: 6 two-hole and 4 four-hole?",
-    "visual": "📊 6 two-hole and 4 four-hole; 🔎 compare; 🏆 two-hole",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📊 6 two-hole and 4 four-hole; 🔎 compare; 🏆 two-hole\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-016\"></use></svg>",
+    "question": "Why might a picture graph help Year 1 students?",
+    "audioPrompt": "Why might a picture graph help Year 1 students?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-016",
-      "alt_text": "📊 6 two-hole and 4 four-hole; 🔎 compare; 🏆 two-hole"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Two-hole is the largest category.",
-      "The shortest label is always the largest category.",
-      "No comparison can be made from counts."
+      "It proves why a pattern happened.",
+      "It makes category amounts easier to compare visually.",
+      "It guarantees the data are correct.",
+      "Pictures replace counting."
     ],
-    "correct": 0,
-    "explanation": "The recorded numbers show that two-hole has the greatest count.\nHint: Use the numbers to describe what is most, least or equal.",
+    "correct": 1,
+    "explanation": "A visual representation can make totals and differences easier to see.\nHint: See the amounts.",
     "structuredExplanation": {
-      "summary": "The recorded numbers show that two-hole has the greatest count.",
-      "hint": "Use the numbers to describe what is most, least or equal."
+      "summary": "A visual representation can make totals and differences easier to see.",
+      "hint": "See the amounts."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i04-p-017",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "ac9s1i04 01",
+    "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "What sorting rule is used when toy-car distance cards are grouped as short, medium and long distance?",
-    "audioPrompt": "What sorting rule is used when toy-car distance cards are grouped as short, medium and long distance?",
-    "visual": "🚗 toy-car distance cards; 🔀 distance travelled; 🗂️ short, medium and long distance",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🚗 toy-car distance cards; 🔀 distance travelled; 🗂️ short, medium and long distance\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-017\"></use></svg>",
+    "question": "Why should a graph key be clear if one picture means two objects?",
+    "audioPrompt": "Why should a graph key be clear if one picture means two objects?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-017",
-      "alt_text": "🚗 toy-car distance cards; 🔀 distance travelled; 🗂️ short, medium and long distance"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "which one is someone's favourite",
-      "distance travelled",
-      "the order the cards were picked up"
+      "So readers know how to turn pictures into totals.",
+      "Keys make pictures colourful.",
+      "Every picture always means one.",
+      "Keys prove patterns."
     ],
-    "correct": 1,
-    "explanation": "Distance travelled is the shared feature used for the groups.\nHint: Name the feature that is the same within each group.",
+    "correct": 0,
+    "explanation": "A key explains the value represented by each symbol.\nHint: What does one picture stand for?",
     "structuredExplanation": {
-      "summary": "Distance travelled is the shared feature used for the groups.",
-      "hint": "Name the feature that is the same within each group."
+      "summary": "A key explains the value represented by each symbol.",
+      "hint": "What does one picture stand for?"
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 17,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i04-p-018",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "ac9s1i04 02",
+    "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Which group labels suit toy-car distance cards sorted by distance travelled?",
-    "audioPrompt": "Which group labels suit toy-car distance cards sorted by distance travelled?",
-    "visual": "🚗 toy-car distance cards; 🏷️ short, medium and long distance; ✅ clear labels",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🚗 toy-car distance cards; 🏷️ short, medium and long distance; ✅ clear labels\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-018\"></use></svg>",
+    "question": "Why might scientists sort animals by observable features?",
+    "audioPrompt": "Why might scientists sort animals by observable features?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-018",
-      "alt_text": "🚗 toy-car distance cards; 🏷️ short, medium and long distance; ✅ clear labels"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "good and bad",
-      "first and last",
-      "short, medium and long distance"
+      "It makes animals change.",
+      "It proves which animal is best.",
+      "It gives every group equal size.",
+      "It helps organise similarities and differences."
     ],
-    "correct": 2,
-    "explanation": "Short, medium and long distance clearly names the categories.\nHint: Labels should describe the sorting rule, not an opinion.",
+    "correct": 3,
+    "explanation": "Sorting can reveal patterns in shared features.\nHint: Organise by what is observed.",
     "structuredExplanation": {
-      "summary": "Short, medium and long distance clearly names the categories.",
-      "hint": "Labels should describe the sorting rule, not an opinion."
+      "summary": "Sorting can reveal patterns in shared features.",
+      "hint": "Organise by what is observed."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 18,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i04-p-019",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "ac9s1i04 03",
+    "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Which record correctly describes the sorted toy-car distance cards?",
-    "audioPrompt": "Which record correctly describes the sorted toy-car distance cards?",
-    "visual": "🚗 toy-car distance cards; 🔢 2 short, 3 medium and 5 long; 📝 record",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🚗 toy-car distance cards; 🔢 2 short, 3 medium and 5 long; 📝 record\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-019\"></use></svg>",
+    "question": "Why should totals be checked after sorting?",
+    "audioPrompt": "Why should totals be checked after sorting?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-019",
-      "alt_text": "🚗 toy-car distance cards; 🔢 2 short, 3 medium and 5 long; 📝 record"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "2 short, 3 medium and 5 long",
-      "Every group has the same number.",
-      "The largest-looking card must be the most common."
+      "To choose the favourite result.",
+      "To change the categories.",
+      "To catch missed or double-counted items.",
+      "To make every total larger."
     ],
-    "correct": 0,
-    "explanation": "2 short, 3 medium and 5 long reports the category totals.\nHint: Count every item once in its matching group.",
+    "correct": 2,
+    "explanation": "Checking counts helps make the data record accurate.\nHint: Make sure every item is counted once.",
     "structuredExplanation": {
-      "summary": "2 short, 3 medium and 5 long reports the category totals.",
-      "hint": "Count every item once in its matching group."
+      "summary": "Checking counts helps make the data record accurate.",
+      "hint": "Make sure every item is counted once."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 19,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i04-p-020",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "ac9s1i04 04",
+    "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Which category has the most toy-car distance cards?",
-    "audioPrompt": "Which category has the most toy-car distance cards?",
-    "visual": "📊 2 short, 3 medium and 5 long; ⬆️ most; 🚗 long distance",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📊 2 short, 3 medium and 5 long; ⬆️ most; 🚗 long distance\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-020\"></use></svg>",
+    "question": "Why is a repeated sequence such as 2, 4, 2, 4 a pattern?",
+    "audioPrompt": "Why is a repeated sequence such as 2, 4, 2, 4 a pattern?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-020",
-      "alt_text": "📊 2 short, 3 medium and 5 long; ⬆️ most; 🚗 long distance"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "the category with the longest label",
-      "long distance",
-      "all categories are automatically equal"
+      "It must continue forever.",
+      "The same arrangement repeats.",
+      "All numbers are equal.",
+      "There is no order."
     ],
     "correct": 1,
-    "explanation": "Long distance has the greatest recorded count.\nHint: Compare the category numbers, not the size of the words or pictures.",
+    "explanation": "A pattern has repetition or regular change.\nHint: What repeats?",
     "structuredExplanation": {
-      "summary": "Long distance has the greatest recorded count.",
-      "hint": "Compare the category numbers, not the size of the words or pictures."
+      "summary": "A pattern has repetition or regular change.",
+      "hint": "What repeats?"
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 20,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i04-p-021",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "ac9s1i04 05",
+    "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Which display would clearly show the sorted toy-car distance cards?",
-    "audioPrompt": "Which display would clearly show the sorted toy-car distance cards?",
-    "visual": "🚗 toy-car distance cards; 📊 a picture graph labelled short, medium and long; 🏷️ labels",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🚗 toy-car distance cards; 📊 a picture graph labelled short, medium and long; 🏷️ labels\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-021\"></use></svg>",
+    "question": "Which sort uses one clear feature?",
+    "audioPrompt": "Which sort uses one clear feature?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-021",
-      "alt_text": "🚗 toy-car distance cards; 📊 a picture graph labelled short, medium and long; 🏷️ labels"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "an unlabelled scribble",
-      "a list that leaves out some items",
-      "a picture graph labelled short, medium and long"
+      "round / not round",
+      "red / big / soft",
+      "nice / ugly",
+      "mine / favourite"
     ],
-    "correct": 2,
-    "explanation": "A picture graph labelled short, medium and long shows the categories and data clearly.\nHint: Choose a display with labels and one place for every result.",
+    "correct": 0,
+    "explanation": "“Round/not round” applies one observable shape feature to all items.\nHint: One rule.",
     "structuredExplanation": {
-      "summary": "A picture graph labelled short, medium and long shows the categories and data clearly.",
-      "hint": "Choose a display with labels and one place for every result."
+      "summary": "“Round/not round” applies one observable shape feature to all items.",
+      "hint": "One rule."
     },
-    "qualitySchema": "production-v1"
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 21,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i04-p-022",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "ac9s1i04 06",
+    "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Why must each toy-car distance card be counted once?",
-    "audioPrompt": "Why must each toy-car distance card be counted once?",
-    "visual": "1️⃣ count once; 🗂️ one group; ✅ accurate total",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"1️⃣ count once; 🗂️ one group; ✅ accurate total\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-022\"></use></svg>",
+    "question": "Which group label is too vague?",
+    "audioPrompt": "Which group label is too vague?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-022",
-      "alt_text": "1️⃣ count once; 🗂️ one group; ✅ accurate total"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "So the category totals show the data accurately.",
-      "So the favourite category always wins.",
-      "So one item can make several categories larger."
+      "has feathers",
+      "is metal",
+      "has four legs",
+      "interesting"
     ],
-    "correct": 0,
-    "explanation": "Counting each item once prevents missing or double-counting data.\nHint: Check that every item is in one suitable category.",
+    "correct": 3,
+    "explanation": "“Interesting” depends on personal opinion.\nHint: Which label is not objectively checkable?",
     "structuredExplanation": {
-      "summary": "Counting each item once prevents missing or double-counting data.",
-      "hint": "Check that every item is in one suitable category."
+      "summary": "“Interesting” depends on personal opinion.",
+      "hint": "Which label is not objectively checkable?"
     },
-    "qualitySchema": "production-v1"
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 22,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i04-p-023",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "ac9s1i04 07",
+    "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "What should be checked after sorting toy-car distance cards by distance travelled?",
-    "audioPrompt": "What should be checked after sorting toy-car distance cards by distance travelled?",
-    "visual": "🚗 toy-car distance cards; 🔍 check rule; ✅ distance travelled",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🚗 toy-car distance cards; 🔍 check rule; ✅ distance travelled\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-023\"></use></svg>",
+    "question": "Counts are red 7, blue 3, green 5. Which statement is correct?",
+    "audioPrompt": "Counts are red 7, blue 3, green 5. Which statement is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-023",
-      "alt_text": "🚗 toy-car distance cards; 🔍 check rule; ✅ distance travelled"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Every group has the same number.",
-      "Every item fits the rule for its group.",
-      "The labels are hidden."
+      "Green is least.",
+      "All are equal.",
+      "Red is most.",
+      "Blue is most."
     ],
-    "correct": 1,
-    "explanation": "A correct sort places items according to the stated rule.\nHint: Test each item against its category label.",
+    "correct": 2,
+    "explanation": "Seven is the largest total.\nHint: Find the biggest number.",
     "structuredExplanation": {
-      "summary": "A correct sort places items according to the stated rule.",
-      "hint": "Test each item against its category label."
+      "summary": "Seven is the largest total.",
+      "hint": "Find the biggest number."
     },
-    "qualitySchema": "production-v1"
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 23,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i04-p-024",
     "curriculumCode": "AC9S1I04",
     "bank": "practice",
-    "skill": "ac9s1i04 08",
+    "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "What pattern can be described from this data: 2 short, 3 medium and 5 long?",
-    "audioPrompt": "What pattern can be described from this data: 2 short, 3 medium and 5 long?",
-    "visual": "📊 2 short, 3 medium and 5 long; 🔎 compare; 🏆 long distance",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📊 2 short, 3 medium and 5 long; 🔎 compare; 🏆 long distance\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-024\"></use></svg>",
+    "question": "Counts are ants 4, beetles 4, worms 2. Which statement is correct?",
+    "audioPrompt": "Counts are ants 4, beetles 4, worms 2. Which statement is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-p-024",
-      "alt_text": "📊 2 short, 3 medium and 5 long; 🔎 compare; 🏆 long distance"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The shortest label is always the largest category.",
-      "No comparison can be made from counts.",
-      "Long distance is the largest category."
+      "Beetles are least.",
+      "Ants and beetles are equal.",
+      "Worms are most.",
+      "All are different."
+    ],
+    "correct": 1,
+    "explanation": "Ants and beetles both have four.\nHint: Same totals.",
+    "structuredExplanation": {
+      "summary": "Ants and beetles both have four.",
+      "hint": "Same totals."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 24,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s1i04-p-025",
+    "curriculumCode": "AC9S1I04",
+    "bank": "practice",
+    "skill": "sorting data and representing patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Which graph is misleading?",
+    "audioPrompt": "Which graph is misleading?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A graph where one picture means 2 but the key is missing.",
+      "A graph with clear labels.",
+      "A table with totals.",
+      "A tally chart with headings."
+    ],
+    "correct": 0,
+    "explanation": "Without the key, readers cannot know the symbol values.\nHint: Can the audience interpret the pictures?",
+    "structuredExplanation": {
+      "summary": "Without the key, readers cannot know the symbol values.",
+      "hint": "Can the audience interpret the pictures?"
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 25,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s1i04-p-026",
+    "curriculumCode": "AC9S1I04",
+    "bank": "practice",
+    "skill": "sorting data and representing patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Which item does NOT belong in “can roll”?",
+    "audioPrompt": "Which item does NOT belong in “can roll”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "ball",
+      "marble",
+      "cylinder",
+      "book"
+    ],
+    "correct": 3,
+    "explanation": "A flat book does not roll like the rounded objects.\nHint: Which lacks a rolling shape?",
+    "structuredExplanation": {
+      "summary": "A flat book does not roll like the rounded objects.",
+      "hint": "Which lacks a rolling shape?"
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 26,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s1i04-p-027",
+    "curriculumCode": "AC9S1I04",
+    "bank": "practice",
+    "skill": "sorting data and representing patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Which statement uses data rather than opinion?",
+    "audioPrompt": "Which statement uses data rather than opinion?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Pears look boring.",
+      "Everyone should choose apples.",
+      "Six students chose apples; four chose pears.",
+      "Apples are the best fruit."
     ],
     "correct": 2,
-    "explanation": "The recorded numbers show that long distance has the greatest count.\nHint: Use the numbers to describe what is most, least or equal.",
+    "explanation": "The first reports counted results.\nHint: Which can be checked from the tally?",
     "structuredExplanation": {
-      "summary": "The recorded numbers show that long distance has the greatest count.",
-      "hint": "Use the numbers to describe what is most, least or equal."
+      "summary": "The first reports counted results.",
+      "hint": "Which can be checked from the tally?"
     },
-    "qualitySchema": "production-v1"
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 27,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s1i04-p-028",
+    "curriculumCode": "AC9S1I04",
+    "bank": "practice",
+    "skill": "sorting data and representing patterns",
+    "printable": true,
+    "type": "single",
+    "question": "A child counted one shell twice. What should they do?",
+    "audioPrompt": "A child counted one shell twice. What should they do?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Erase the whole investigation.",
+      "Fix the tally so each shell is counted once.",
+      "Keep both marks.",
+      "Add another mark to every group."
+    ],
+    "correct": 1,
+    "explanation": "Correct the record to match the actual number of objects.\nHint: One item, one count.",
+    "structuredExplanation": {
+      "summary": "Correct the record to match the actual number of objects.",
+      "hint": "One item, one count."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 28,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s1i04-p-029",
+    "curriculumCode": "AC9S1I04",
+    "bank": "practice",
+    "skill": "sorting data and representing patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Which pattern statement is supported by counts 2,2,2,2?",
+    "audioPrompt": "Which pattern statement is supported by counts 2,2,2,2?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The count stayed the same across these four observations.",
+      "It will always be 2 forever.",
+      "Two caused the result.",
+      "No further observations are useful."
+    ],
+    "correct": 0,
+    "explanation": "The data show sameness only across the recorded observations.\nHint: Do not overclaim.",
+    "structuredExplanation": {
+      "summary": "The data show sameness only across the recorded observations.",
+      "hint": "Do not overclaim."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 29,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s1i04-p-030",
+    "curriculumCode": "AC9S1I04",
+    "bank": "practice",
+    "skill": "sorting data and representing patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Which category pair best sorts classroom objects by material?",
+    "audioPrompt": "Which category pair best sorts classroom objects by material?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "big / red",
+      "round / heavy",
+      "mine / yours",
+      "metal / plastic"
+    ],
+    "correct": 3,
+    "explanation": "Metal/plastic are material categories.\nHint: What feature is being compared?",
+    "structuredExplanation": {
+      "summary": "Metal/plastic are material categories.",
+      "hint": "What feature is being compared?"
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 30,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s1i04-p-031",
+    "curriculumCode": "AC9S1I04",
+    "bank": "practice",
+    "skill": "sorting data and representing patterns",
+    "printable": true,
+    "type": "single",
+    "question": "A class collects 12 leaves. How should they sort by edge type?",
+    "audioPrompt": "A class collects 12 leaves. How should they sort by edge type?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Put one leaf in both groups.",
+      "Change the rule halfway.",
+      "Use labels such as smooth edge and jagged edge, placing each leaf once.",
+      "Sort by favourite leaf."
+    ],
+    "correct": 2,
+    "explanation": "Clear labels and one consistent rule make the sort meaningful.\nHint: Same rule, once each.",
+    "structuredExplanation": {
+      "summary": "Clear labels and one consistent rule make the sort meaningful.",
+      "hint": "Same rule, once each."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 31,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s1i04-p-032",
+    "curriculumCode": "AC9S1I04",
+    "bank": "practice",
+    "skill": "sorting data and representing patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Bird visits are magpie 5, sparrow 8, pigeon 3. Which sentence belongs in a report?",
+    "audioPrompt": "Bird visits are magpie 5, sparrow 8, pigeon 3. Which sentence belongs in a report?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Magpies caused sparrows to come.",
+      "Sparrows were the most frequently observed of these three groups.",
+      "Sparrows will always be most.",
+      "Pigeons dislike the feeder."
+    ],
+    "correct": 1,
+    "explanation": "The statement accurately compares the recorded totals without adding an unsupported cause.\nHint: Say what the counts show.",
+    "structuredExplanation": {
+      "summary": "The statement accurately compares the recorded totals without adding an unsupported cause.",
+      "hint": "Say what the counts show."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 32,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s1i04-p-033",
+    "curriculumCode": "AC9S1I04",
+    "bank": "practice",
+    "skill": "sorting data and representing patterns",
+    "printable": true,
+    "type": "single",
+    "question": "A picture graph uses one ⭐ for 2 shells. There are ⭐⭐⭐ under “striped”. How many striped shells?",
+    "audioPrompt": "A picture graph uses one ⭐ for 2 shells. There are ⭐⭐⭐ under “striped”. How many striped shells?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "6",
+      "3",
+      "5",
+      "8"
+    ],
+    "correct": 0,
+    "explanation": "Three symbols at two shells each represent six shells.\nHint: Use the key.",
+    "structuredExplanation": {
+      "summary": "Three symbols at two shells each represent six shells.",
+      "hint": "Use the key."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 33,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s1i04-p-034",
+    "curriculumCode": "AC9S1I04",
+    "bank": "practice",
+    "skill": "sorting data and representing patterns",
+    "printable": true,
+    "type": "single",
+    "question": "A class sorts rocks into rough and smooth. One rock feels both in different places. Best response?",
+    "audioPrompt": "A class sorts rocks into rough and smooth. One rock feels both in different places. Best response?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Put it anywhere secretly.",
+      "Count it twice.",
+      "Throw it away.",
+      "Agree on a clear rule, such as classifying by most of the surface, and record it."
+    ],
+    "correct": 3,
+    "explanation": "Ambiguous items need a stated rule so the classification is consistent.\nHint: Clarify the rule.",
+    "structuredExplanation": {
+      "summary": "Ambiguous items need a stated rule so the classification is consistent.",
+      "hint": "Clarify the rule."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 34,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s1i04-p-035",
+    "curriculumCode": "AC9S1I04",
+    "bank": "practice",
+    "skill": "sorting data and representing patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Counts of rainy days by week are 1, 3, 1, 3. What pattern can be described?",
+    "audioPrompt": "Counts of rainy days by week are 1, 3, 1, 3. What pattern can be described?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Rain is caused by odd numbers.",
+      "There is no pattern.",
+      "The counts alternate 1,3,1,3 in these four weeks.",
+      "It must rain 1 day next week."
+    ],
+    "correct": 2,
+    "explanation": "The sequence shows an alternating pattern in the recorded weeks.\nHint: Describe what repeats, not what must happen.",
+    "structuredExplanation": {
+      "summary": "The sequence shows an alternating pattern in the recorded weeks.",
+      "hint": "Describe what repeats, not what must happen."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 35,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s1i04-p-036",
+    "curriculumCode": "AC9S1I04",
+    "bank": "practice",
+    "skill": "sorting data and representing patterns",
+    "printable": true,
+    "type": "single",
+    "question": "A graph shows cats 4, dogs 6, fish 6. Which comparison is correct?",
+    "audioPrompt": "A graph shows cats 4, dogs 6, fish 6. Which comparison is correct?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "All are equal.",
+      "Dogs and fish are equal and both exceed cats.",
+      "Cats are most.",
+      "Fish are least."
+    ],
+    "correct": 1,
+    "explanation": "Dogs and fish both have six; cats have four.\nHint: Compare all three totals.",
+    "structuredExplanation": {
+      "summary": "Dogs and fish both have six; cats have four.",
+      "hint": "Compare all three totals."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 36,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s1i04-p-037",
+    "curriculumCode": "AC9S1I04",
+    "bank": "practice",
+    "skill": "sorting data and representing patterns",
+    "printable": true,
+    "type": "single",
+    "question": "A class wants to show favourite playground areas. Which first step is needed before graphing?",
+    "audioPrompt": "A class wants to show favourite playground areas. Which first step is needed before graphing?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Collect and count responses in clear categories.",
+      "Draw tall bars first.",
+      "Choose the winner before asking.",
+      "Make every category equal."
+    ],
+    "correct": 0,
+    "explanation": "A graph should represent collected data.\nHint: Data first, display second.",
+    "structuredExplanation": {
+      "summary": "A graph should represent collected data.",
+      "hint": "Data first, display second."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 37,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s1i04-p-038",
+    "curriculumCode": "AC9S1I04",
+    "bank": "practice",
+    "skill": "sorting data and representing patterns",
+    "printable": true,
+    "type": "single",
+    "question": "A child groups animals as “flies” and “does not fly”. Where should a penguin go?",
+    "audioPrompt": "A child groups animals as “flies” and “does not fly”. Where should a penguin go?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "flies",
+      "both groups",
+      "neither because it is a bird",
+      "does not fly"
+    ],
+    "correct": 3,
+    "explanation": "Penguins are birds but do not fly, so observable ability determines the group.\nHint: Use the chosen rule, not assumptions.",
+    "structuredExplanation": {
+      "summary": "Penguins are birds but do not fly, so observable ability determines the group.",
+      "hint": "Use the chosen rule, not assumptions."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 38,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s1i04-p-039",
+    "curriculumCode": "AC9S1I04",
+    "bank": "practice",
+    "skill": "sorting data and representing patterns",
+    "printable": true,
+    "type": "single",
+    "question": "After sorting seeds by colour, the totals do not add to the number collected. What should happen?",
+    "audioPrompt": "After sorting seeds by colour, the totals do not add to the number collected. What should happen?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Ignore the mismatch.",
+      "Guess the missing number.",
+      "Recount and check for missed or double-counted seeds.",
+      "Change the collection total."
+    ],
+    "correct": 2,
+    "explanation": "The mismatch signals a counting or recording issue worth checking.\nHint: Totals should match the items collected.",
+    "structuredExplanation": {
+      "summary": "The mismatch signals a counting or recording issue worth checking.",
+      "hint": "Totals should match the items collected."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 39,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s1i04-p-040",
+    "curriculumCode": "AC9S1I04",
+    "bank": "practice",
+    "skill": "sorting data and representing patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence best communicates a simple data pattern?",
+    "audioPrompt": "Which sentence best communicates a simple data pattern?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The pattern will never change.",
+      "Red objects were counted most often, blue least, and green in between.",
+      "Red is the best colour.",
+      "The colours caused the counts."
+    ],
+    "correct": 1,
+    "explanation": "It describes relative totals without adding opinion or certainty.\nHint: Describe, do not judge.",
+    "structuredExplanation": {
+      "summary": "It describes relative totals without adding opinion or certainty.",
+      "hint": "Describe, do not judge."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 40,
+    "qualitySchema": "skillr-actual-v6"
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

@@ -1,1418 +1,2730 @@
 [
   {
-    "id": "AC9S1I06-P-001",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I06",
+    "id": "ac9s1i06-p-001",
+    "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "ac9s1i06_01",
-    "question": "Which title clearly tells the topic of a leaf observation?",
-    "audio_prompt": "Which title clearly tells the topic of a leaf observation?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-001",
-      "alt_text": "🍃 a leaf observation; 📰 What We Observed on the Leaf; 👥 classmates"
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Which title clearly names an investigation?",
+    "audioPrompt": "Which title clearly names an investigation?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "What We Observed on the Leaf",
+        "text": "Which paper towel absorbs most water?",
         "is_correct": true
       },
       {
-        "text": "My Favourite Things",
+        "text": "Science stuff",
         "is_correct": false
       },
       {
-        "text": "Something Happened",
+        "text": "My work",
+        "is_correct": false
+      },
+      {
+        "text": "Interesting things",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "What We Observed on the Leaf names the investigation or observation clearly.",
-      "hint": "A good title tells the audience what the science communication is about."
+    "correct": 0,
+    "explanation": "A useful title tells the audience what was investigated.\nHint: Name the actual question or topic.",
+    "structuredExplanation": {
+      "summary": "A useful title tells the audience what was investigated.",
+      "hint": "Name the actual question or topic."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
   },
   {
-    "id": "AC9S1I06-P-002",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I06",
+    "id": "ac9s1i06-p-002",
+    "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "ac9s1i06_02",
-    "question": "Which sentence is a precise observation to share?",
-    "audio_prompt": "Which sentence is a precise observation to share?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-002",
-      "alt_text": "🍃 a leaf observation; 👀 observation; 💬 The leaf had three brown spots."
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence shares an observation?",
+    "audioPrompt": "Which sentence shares an observation?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "It was really nice.",
+        "text": "The seedling is the best.",
         "is_correct": false
       },
       {
-        "text": "The leaf had three brown spots.",
+        "text": "It will grow forever.",
+        "is_correct": false
+      },
+      {
+        "text": "Sunlight caused everything.",
+        "is_correct": false
+      },
+      {
+        "text": "The seedling grew 3 cm this week.",
         "is_correct": true
-      },
-      {
-        "text": "I think it happened because of magic.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The leaf had three brown spots. gives specific evidence.",
-      "hint": "Include what was seen or measured, with a number or unit when useful."
+    "correct": 3,
+    "explanation": "A clear science message reports what was observed or measured.\nHint: Choose evidence.",
+    "structuredExplanation": {
+      "summary": "A clear science message reports what was observed or measured.",
+      "hint": "Choose evidence."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
   },
   {
-    "id": "AC9S1I06-P-003",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I06",
+    "id": "ac9s1i06-p-003",
+    "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "ac9s1i06_03",
-    "question": "Which label would be useful on a diagram for a leaf observation?",
-    "audio_prompt": "Which label would be useful on a diagram for a leaf observation?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-003",
-      "alt_text": "🍃 a leaf observation; 🏷️ jagged edge; ➡️ label line"
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Which visual best shows plant height over three weeks?",
+    "audioPrompt": "Which visual best shows plant height over three weeks?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "best part",
+        "text": "A cartoon with no measurements",
         "is_correct": false
       },
       {
-        "text": "mystery thing",
+        "text": "A blank page",
         "is_correct": false
       },
       {
-        "text": "jagged edge",
+        "text": "A simple labelled bar graph",
         "is_correct": true
+      },
+      {
+        "text": "A decorative border",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Jagged edge names a relevant visible feature or setup part.",
-      "hint": "A diagram label should point to something the audience needs to identify."
+    "correct": 2,
+    "explanation": "A labelled graph can show how measured values compare.\nHint: Use a visual that represents the data.",
+    "structuredExplanation": {
+      "summary": "A labelled graph can show how measured values compare.",
+      "hint": "Use a visual that represents the data."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
   },
   {
-    "id": "AC9S1I06-P-004",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I06",
+    "id": "ac9s1i06-p-004",
+    "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "ac9s1i06_04",
-    "question": "Which finding uses evidence from a leaf observation?",
-    "audio_prompt": "Which finding uses evidence from a leaf observation?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-004",
-      "alt_text": "📝 records; 🔎 compare; ✅ The leaf had more brown spots on Friday than Monday."
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Why label parts of a diagram?",
+    "audioPrompt": "Why label parts of a diagram?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "The leaf had more brown spots on Friday than Monday.",
+        "text": "To make it longer.",
+        "is_correct": false
+      },
+      {
+        "text": "So readers know what each part shows.",
         "is_correct": true
       },
       {
-        "text": "Everyone must like the result.",
+        "text": "To make it more colourful.",
         "is_correct": false
       },
       {
-        "text": "The first guess was correct because it was first.",
+        "text": "To prove the answer.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The leaf had more brown spots on Friday than Monday. communicates a result supported by observations.",
-      "hint": "A finding tells what the evidence showed."
+    "correct": 1,
+    "explanation": "Labels connect names to features in the visual.\nHint: Help the reader understand the picture.",
+    "structuredExplanation": {
+      "summary": "Labels connect names to features in the visual.",
+      "hint": "Help the reader understand the picture."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
   },
   {
-    "id": "AC9S1I06-P-005",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I06",
+    "id": "ac9s1i06-p-005",
+    "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "ac9s1i06_05",
-    "question": "Which unit makes the record clear for a leaf observation?",
-    "audio_prompt": "Which unit makes the record clear for a leaf observation?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-005",
-      "alt_text": "🔢 number; 🏷️ spots; 🍃 a leaf observation"
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Which ending best reports a finding?",
+    "audioPrompt": "Which ending best reports a finding?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "goodness",
-        "is_correct": false
-      },
-      {
-        "text": "spots",
+        "text": "The blue towel absorbed the most water in our test.",
         "is_correct": true
       },
       {
-        "text": "favourites",
+        "text": "Blue is my favourite colour.",
+        "is_correct": false
+      },
+      {
+        "text": "The blue towel will always win.",
+        "is_correct": false
+      },
+      {
+        "text": "That was fun.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Spots tells the audience what was counted or measured.",
-      "hint": "Write the number together with what the number measures."
+    "correct": 0,
+    "explanation": "A finding should summarise what the evidence showed.\nHint: What did the investigation show?",
+    "structuredExplanation": {
+      "summary": "A finding should summarise what the evidence showed.",
+      "hint": "What did the investigation show?"
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
   },
   {
-    "id": "AC9S1I06-P-006",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I06",
+    "id": "ac9s1i06-p-006",
+    "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "ac9s1i06_06",
-    "question": "How should results about a leaf observation be shared with classmates?",
-    "audio_prompt": "How should results about a leaf observation be shared with classmates?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-006",
-      "alt_text": "📰 title; 🖼️ labelled visual; 💬 finding"
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Which phrase shows evidence clearly?",
+    "audioPrompt": "Which phrase shows evidence clearly?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use unexplained marks with no labels.",
+        "text": "There were heaps of ants.",
         "is_correct": false
       },
       {
-        "text": "Tell only an opinion and hide the observations.",
+        "text": "The tree is nicer.",
         "is_correct": false
       },
       {
-        "text": "Use a clear title, labelled visual and evidence sentence.",
+        "text": "Ants like trees because I think so.",
+        "is_correct": false
+      },
+      {
+        "text": "We counted 8 ants near the tree and 3 near the path.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Clear structure helps classmates understand the evidence.",
-      "hint": "Show what was investigated, what was observed and what was found."
+    "correct": 3,
+    "explanation": "Specific counts communicate evidence precisely.\nHint: Numbers can make the evidence clear.",
+    "structuredExplanation": {
+      "summary": "Specific counts communicate evidence precisely.",
+      "hint": "Numbers can make the evidence clear."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S1I06-P-007",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I06",
-    "bank": "practice",
-    "skill": "ac9s1i06_07",
-    "question": "What should come first when explaining a leaf observation?",
-    "audio_prompt": "What should come first when explaining a leaf observation?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-007",
-      "alt_text": "1️⃣ topic; 2️⃣ evidence; 3️⃣ finding"
-    },
-    "answers": [
-      {
-        "text": "Say what was investigated or observed.",
-        "is_correct": true
-      },
-      {
-        "text": "Announce that every prediction was correct.",
-        "is_correct": false
-      },
-      {
-        "text": "Give a conclusion before naming the topic.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The audience first needs to know what the communication is about.",
-      "hint": "Use the order: topic, evidence, finding."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S1I06-P-008",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I06",
-    "bank": "practice",
-    "skill": "ac9s1i06_08",
-    "question": "Why should a science communication about a leaf observation include evidence?",
-    "audio_prompt": "Why should a science communication about a leaf observation include evidence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-008",
-      "alt_text": "👀 evidence; ➡️ supports; 💡 finding"
-    },
-    "answers": [
-      {
-        "text": "So the page has more words.",
-        "is_correct": false
-      },
-      {
-        "text": "So the audience can understand how the finding was reached.",
-        "is_correct": true
-      },
-      {
-        "text": "So opinions look like measurements.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Evidence connects the observation or test to the finding.",
-      "hint": "Ask: What did we see, count or measure that supports this finding?"
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S1I06-P-009",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I06",
-    "bank": "practice",
-    "skill": "ac9s1i06_01",
-    "question": "Which title clearly tells the topic of a toy-car ramp test?",
-    "audio_prompt": "Which title clearly tells the topic of a toy-car ramp test?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-009",
-      "alt_text": "🚗 a toy-car ramp test; 📰 How Far the Toy Car Travelled; 👥 another Year 1 class"
-    },
-    "answers": [
-      {
-        "text": "My Favourite Things",
-        "is_correct": false
-      },
-      {
-        "text": "Something Happened",
-        "is_correct": false
-      },
-      {
-        "text": "How Far the Toy Car Travelled",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "How Far the Toy Car Travelled names the investigation or observation clearly.",
-      "hint": "A good title tells the audience what the science communication is about."
-    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
   },
   {
-    "id": "AC9S1I06-P-010",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I06",
+    "id": "ac9s1i06-p-007",
+    "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "ac9s1i06_02",
-    "question": "Which sentence is a precise observation to share?",
-    "audio_prompt": "Which sentence is a precise observation to share?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-010",
-      "alt_text": "🚗 a toy-car ramp test; 👀 observation; 💬 The car travelled 70 centimetres."
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "When speaking to a class, what helps listeners follow your explanation?",
+    "audioPrompt": "When speaking to a class, what helps listeners follow your explanation?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "The car travelled 70 centimetres.",
+        "text": "Turn your back to the audience.",
+        "is_correct": false
+      },
+      {
+        "text": "Use an unrelated picture.",
+        "is_correct": false
+      },
+      {
+        "text": "Speak clearly and point to the relevant visual when needed.",
         "is_correct": true
       },
       {
-        "text": "It was really nice.",
-        "is_correct": false
-      },
-      {
-        "text": "I think it happened because of magic.",
+        "text": "Read every word as fast as possible.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The car travelled 70 centimetres. gives specific evidence.",
-      "hint": "Include what was seen or measured, with a number or unit when useful."
+    "correct": 2,
+    "explanation": "Clear delivery and well-timed visuals help communication.\nHint: Help the audience connect words and evidence.",
+    "structuredExplanation": {
+      "summary": "Clear delivery and well-timed visuals help communication.",
+      "hint": "Help the audience connect words and evidence."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
   },
   {
-    "id": "AC9S1I06-P-011",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I06",
+    "id": "ac9s1i06-p-008",
+    "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "ac9s1i06_03",
-    "question": "Which label would be useful on a diagram for a toy-car ramp test?",
-    "audio_prompt": "Which label would be useful on a diagram for a toy-car ramp test?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-011",
-      "alt_text": "🚗 a toy-car ramp test; 🏷️ start line; ➡️ label line"
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Which is the best caption for a photo of two melting ice cubes?",
+    "audioPrompt": "Which is the best caption for a photo of two melting ice cubes?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "best part",
+        "text": "My favourite experiment",
         "is_correct": false
       },
       {
-        "text": "start line",
+        "text": "Ice cubes after 10 minutes: sunny cube smaller than shaded cube",
         "is_correct": true
       },
       {
-        "text": "mystery thing",
+        "text": "Nice ice",
+        "is_correct": false
+      },
+      {
+        "text": "Cold things",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Start line names a relevant visible feature or setup part.",
-      "hint": "A diagram label should point to something the audience needs to identify."
+    "correct": 1,
+    "explanation": "The caption tells what the image shows and when.\nHint: Specific context.",
+    "structuredExplanation": {
+      "summary": "The caption tells what the image shows and when.",
+      "hint": "Specific context."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
   },
   {
-    "id": "AC9S1I06-P-012",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I06",
+    "id": "ac9s1i06-p-009",
+    "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "ac9s1i06_04",
-    "question": "Which finding uses evidence from a toy-car ramp test?",
-    "audio_prompt": "Which finding uses evidence from a toy-car ramp test?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-012",
-      "alt_text": "📝 records; 🔎 compare; ✅ The car travelled farther on tile than carpet."
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Which statement explains rather than just lists data?",
+    "audioPrompt": "Which statement explains rather than just lists data?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Everyone must like the result.",
+        "text": "The sunny ice melted faster because it became smaller sooner in each observation.",
+        "is_correct": true
+      },
+      {
+        "text": "Sunny ice: 4 cm, 3 cm, 1 cm.",
         "is_correct": false
       },
       {
-        "text": "The first guess was correct because it was first.",
+        "text": "Numbers are 4,3,1.",
         "is_correct": false
       },
       {
-        "text": "The car travelled farther on tile than carpet.",
+        "text": "Ice is cold.",
+        "is_correct": false
+      }
+    ],
+    "correct": 0,
+    "explanation": "Explanation connects the evidence to the finding.\nHint: Tell what the data mean.",
+    "structuredExplanation": {
+      "summary": "Explanation connects the evidence to the finding.",
+      "hint": "Tell what the data mean."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
+  },
+  {
+    "id": "ac9s1i06-p-010",
+    "curriculumCode": "AC9S1I06",
+    "bank": "practice",
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Which audience might need simpler vocabulary?",
+    "audioPrompt": "Which audience might need simpler vocabulary?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A science specialist",
+        "is_correct": false
+      },
+      {
+        "text": "A lab technician",
+        "is_correct": false
+      },
+      {
+        "text": "An expert researcher",
+        "is_correct": false
+      },
+      {
+        "text": "Younger students",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The car travelled farther on tile than carpet. communicates a result supported by observations.",
-      "hint": "A finding tells what the evidence showed."
+    "correct": 3,
+    "explanation": "Vocabulary should suit the audience so the message is understood.\nHint: Who may need the simplest wording?",
+    "structuredExplanation": {
+      "summary": "Vocabulary should suit the audience so the message is understood.",
+      "hint": "Who may need the simplest wording?"
     },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
+  },
+  {
+    "id": "ac9s1i06-p-011",
+    "curriculumCode": "AC9S1I06",
+    "bank": "practice",
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Why should a science poster have a clear title?",
+    "audioPrompt": "Why should a science poster have a clear title?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Titles replace evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Titles make data correct.",
+        "is_correct": false
+      },
+      {
+        "text": "It quickly tells readers what the poster is about.",
+        "is_correct": true
+      },
+      {
+        "text": "Titles prove the conclusion.",
+        "is_correct": false
+      }
+    ],
+    "correct": 2,
+    "explanation": "A clear title helps the audience orient to the investigation or idea.\nHint: What question does the poster answer?",
+    "structuredExplanation": {
+      "summary": "A clear title helps the audience orient to the investigation or idea.",
+      "hint": "What question does the poster answer?"
+    },
+    "stage": "explain",
     "difficulty": 2,
-    "sequence_priority": 2
+    "difficultyTier": "explain",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
   },
   {
-    "id": "AC9S1I06-P-013",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I06",
+    "id": "ac9s1i06-p-012",
+    "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "ac9s1i06_05",
-    "question": "Which unit makes the record clear for a toy-car ramp test?",
-    "audio_prompt": "Which unit makes the record clear for a toy-car ramp test?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-013",
-      "alt_text": "🔢 number; 🏷️ centimetres; 🚗 a toy-car ramp test"
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Why should a graph have labels?",
+    "audioPrompt": "Why should a graph have labels?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "centimetres",
+        "text": "Graphs never need words.",
+        "is_correct": false
+      },
+      {
+        "text": "So readers know what each axis or category represents.",
         "is_correct": true
       },
       {
-        "text": "goodness",
+        "text": "Labels make bars taller.",
         "is_correct": false
       },
       {
-        "text": "favourites",
+        "text": "Labels guarantee patterns.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Centimetres tells the audience what was counted or measured.",
-      "hint": "Write the number together with what the number measures."
+    "correct": 1,
+    "explanation": "Without labels, the data may be impossible to interpret.\nHint: What do the numbers and bars mean?",
+    "structuredExplanation": {
+      "summary": "Without labels, the data may be impossible to interpret.",
+      "hint": "What do the numbers and bars mean?"
     },
+    "stage": "explain",
     "difficulty": 2,
-    "sequence_priority": 2
+    "difficultyTier": "explain",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
   },
   {
-    "id": "AC9S1I06-P-014",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I06",
+    "id": "ac9s1i06-p-013",
+    "curriculumCode": "AC9S1I06",
     "bank": "practice",
-    "skill": "ac9s1i06_06",
-    "question": "How should results about a toy-car ramp test be shared with another Year 1 class?",
-    "audio_prompt": "How should results about a toy-car ramp test be shared with another Year 1 class?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-014",
-      "alt_text": "📰 title; 🖼️ labelled visual; 💬 finding"
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Why is “The sponge absorbed 15 drops” stronger than “The sponge did well”?",
+    "audioPrompt": "Why is “The sponge absorbed 15 drops” stronger than “The sponge did well”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use unexplained marks with no labels.",
-        "is_correct": false
-      },
-      {
-        "text": "Use a clear title, labelled visual and evidence sentence.",
+        "text": "It gives specific evidence.",
         "is_correct": true
       },
       {
-        "text": "Tell only an opinion and hide the observations.",
+        "text": "It has more words.",
+        "is_correct": false
+      },
+      {
+        "text": "“Did well” is always false.",
+        "is_correct": false
+      },
+      {
+        "text": "Numbers prove every conclusion.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Clear structure helps another Year 1 class understand the evidence.",
-      "hint": "Show what was investigated, what was observed and what was found."
+    "correct": 0,
+    "explanation": "Measured evidence is more precise than vague evaluation.\nHint: Specific result.",
+    "structuredExplanation": {
+      "summary": "Measured evidence is more precise than vague evaluation.",
+      "hint": "Specific result."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
+  },
+  {
+    "id": "ac9s1i06-p-014",
+    "curriculumCode": "AC9S1I06",
+    "bank": "practice",
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Why should a speaker avoid reading a dense slide word-for-word?",
+    "audioPrompt": "Why should a speaker avoid reading a dense slide word-for-word?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Slides should have no text at all.",
+        "is_correct": false
+      },
+      {
+        "text": "Reading is not science.",
+        "is_correct": false
+      },
+      {
+        "text": "Words are always confusing.",
+        "is_correct": false
+      },
+      {
+        "text": "Listeners may struggle to read and listen at the same time.",
+        "is_correct": true
+      }
+    ],
+    "correct": 3,
+    "explanation": "Good multimodal communication lets visuals support rather than overload speech.\nHint: Do not duplicate everything.",
+    "structuredExplanation": {
+      "summary": "Good multimodal communication lets visuals support rather than overload speech.",
+      "hint": "Do not duplicate everything."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
+  },
+  {
+    "id": "ac9s1i06-p-015",
+    "curriculumCode": "AC9S1I06",
+    "bank": "practice",
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Why include a labelled photo or diagram?",
+    "audioPrompt": "Why include a labelled photo or diagram?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Every science idea needs a photo.",
+        "is_correct": false
+      },
+      {
+        "text": "Diagrams replace all evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "It can show visible features that are hard to explain with words alone.",
+        "is_correct": true
+      },
+      {
+        "text": "Pictures prove causes.",
+        "is_correct": false
+      }
+    ],
+    "correct": 2,
+    "explanation": "Visuals can clarify structure, location or appearance.\nHint: Use the mode that adds information.",
+    "structuredExplanation": {
+      "summary": "Visuals can clarify structure, location or appearance.",
+      "hint": "Use the mode that adds information."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
+  },
+  {
+    "id": "ac9s1i06-p-016",
+    "curriculumCode": "AC9S1I06",
+    "bank": "practice",
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Why should a conclusion match the evidence shown?",
+    "audioPrompt": "Why should a conclusion match the evidence shown?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The conclusion should always be stronger than the data.",
+        "is_correct": false
+      },
+      {
+        "text": "So the audience can see how the finding comes from the results.",
+        "is_correct": true
+      },
+      {
+        "text": "Conclusions should be surprising.",
+        "is_correct": false
+      },
+      {
+        "text": "Evidence can be unrelated.",
+        "is_correct": false
+      }
+    ],
+    "correct": 1,
+    "explanation": "Claims are clearer and more trustworthy when connected to evidence.\nHint: Claim + evidence.",
+    "structuredExplanation": {
+      "summary": "Claims are clearer and more trustworthy when connected to evidence.",
+      "hint": "Claim + evidence."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
+  },
+  {
+    "id": "ac9s1i06-p-017",
+    "curriculumCode": "AC9S1I06",
+    "bank": "practice",
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Why might a table be better than a paragraph for several measurements?",
+    "audioPrompt": "Why might a table be better than a paragraph for several measurements?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It can organise values so comparisons are easier.",
+        "is_correct": true
+      },
+      {
+        "text": "Tables make measurements true.",
+        "is_correct": false
+      },
+      {
+        "text": "Paragraphs cannot contain numbers.",
+        "is_correct": false
+      },
+      {
+        "text": "Tables prove patterns.",
+        "is_correct": false
+      }
+    ],
+    "correct": 0,
+    "explanation": "Tables structure repeated data compactly.\nHint: Which format helps compare values?",
+    "structuredExplanation": {
+      "summary": "Tables structure repeated data compactly.",
+      "hint": "Which format helps compare values?"
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 17,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
+  },
+  {
+    "id": "ac9s1i06-p-018",
+    "curriculumCode": "AC9S1I06",
+    "bank": "practice",
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Why is “The plant grew because it was happy” poor science communication?",
+    "audioPrompt": "Why is “The plant grew because it was happy” poor science communication?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Plants cannot be discussed.",
+        "is_correct": false
+      },
+      {
+        "text": "Happy is too short.",
+        "is_correct": false
+      },
+      {
+        "text": "Science never explains anything.",
+        "is_correct": false
+      },
+      {
+        "text": "It gives an unsupported explanation instead of evidence.",
+        "is_correct": true
+      }
+    ],
+    "correct": 3,
+    "explanation": "Science communication should distinguish observed results from untested causes.\nHint: What was actually observed?",
+    "structuredExplanation": {
+      "summary": "Science communication should distinguish observed results from untested causes.",
+      "hint": "What was actually observed?"
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 18,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
+  },
+  {
+    "id": "ac9s1i06-p-019",
+    "curriculumCode": "AC9S1I06",
+    "bank": "practice",
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Why should you mention units when reporting measurements?",
+    "audioPrompt": "Why should you mention units when reporting measurements?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Units prove accuracy.",
+        "is_correct": false
+      },
+      {
+        "text": "Every measurement uses centimetres.",
+        "is_correct": false
+      },
+      {
+        "text": "So the audience knows what the number means.",
+        "is_correct": true
+      },
+      {
+        "text": "Units make numbers larger.",
+        "is_correct": false
+      }
+    ],
+    "correct": 2,
+    "explanation": "A number without its unit can be unclear.\nHint: 12 what?",
+    "structuredExplanation": {
+      "summary": "A number without its unit can be unclear.",
+      "hint": "12 what?"
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 19,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
+  },
+  {
+    "id": "ac9s1i06-p-020",
+    "curriculumCode": "AC9S1I06",
+    "bank": "practice",
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Why might a speaker pause after an important result?",
+    "audioPrompt": "Why might a speaker pause after an important result?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Every sentence needs the same speed.",
+        "is_correct": false
+      },
+      {
+        "text": "It gives listeners time to notice and process the key evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Pauses prove the result.",
+        "is_correct": false
+      },
+      {
+        "text": "Silence changes the data.",
+        "is_correct": false
+      }
+    ],
+    "correct": 1,
+    "explanation": "Pacing can help emphasise important information.\nHint: Let the evidence land.",
+    "structuredExplanation": {
+      "summary": "Pacing can help emphasise important information.",
+      "hint": "Let the evidence land."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 20,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
+  },
+  {
+    "id": "ac9s1i06-p-021",
+    "curriculumCode": "AC9S1I06",
+    "bank": "practice",
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Which poster statement is clearest?",
+    "audioPrompt": "Which poster statement is clearest?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Plant A grew 5 cm; Plant B grew 2 cm. Plant A grew more in our test.",
+        "is_correct": true
+      },
+      {
+        "text": "Plant A won.",
+        "is_correct": false
+      },
+      {
+        "text": "Plants are cool.",
+        "is_correct": false
+      },
+      {
+        "text": "The tall one was better.",
+        "is_correct": false
+      }
+    ],
+    "correct": 0,
+    "explanation": "The first combines evidence and a direct comparison.\nHint: Specific result + meaning.",
+    "structuredExplanation": {
+      "summary": "The first combines evidence and a direct comparison.",
+      "hint": "Specific result + meaning."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 21,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
+  },
+  {
+    "id": "ac9s1i06-p-022",
+    "curriculumCode": "AC9S1I06",
+    "bank": "practice",
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Which graph title is too vague?",
+    "audioPrompt": "Which graph title is too vague?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Bird visits in 10 minutes",
+        "is_correct": false
+      },
+      {
+        "text": "Plant height each week",
+        "is_correct": false
+      },
+      {
+        "text": "Water temperature over time",
+        "is_correct": false
+      },
+      {
+        "text": "Results",
+        "is_correct": true
+      }
+    ],
+    "correct": 3,
+    "explanation": "“Results” does not tell what was measured.\nHint: Name the data.",
+    "structuredExplanation": {
+      "summary": "“Results” does not tell what was measured.",
+      "hint": "Name the data."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 22,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
+  },
+  {
+    "id": "ac9s1i06-p-023",
+    "curriculumCode": "AC9S1I06",
+    "bank": "practice",
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Which visual is least useful for explaining rainfall totals?",
+    "audioPrompt": "Which visual is least useful for explaining rainfall totals?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A table of daily totals",
+        "is_correct": false
+      },
+      {
+        "text": "A simple rain-gauge diagram",
+        "is_correct": false
+      },
+      {
+        "text": "An unrelated cartoon",
+        "is_correct": true
+      },
+      {
+        "text": "A labelled bar graph",
+        "is_correct": false
+      }
+    ],
+    "correct": 2,
+    "explanation": "An unrelated cartoon does not support the science message.\nHint: Every visual should have a job.",
+    "structuredExplanation": {
+      "summary": "An unrelated cartoon does not support the science message.",
+      "hint": "Every visual should have a job."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 23,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
+  },
+  {
+    "id": "ac9s1i06-p-024",
+    "curriculumCode": "AC9S1I06",
+    "bank": "practice",
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence overclaims?",
+    "audioPrompt": "Which sentence overclaims?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Our result supported the idea.",
+        "is_correct": false
+      },
+      {
+        "text": "Our one test proves this material is always strongest.",
+        "is_correct": true
+      },
+      {
+        "text": "This material held the most weight in our test.",
+        "is_correct": false
+      },
+      {
+        "text": "We could repeat the test.",
+        "is_correct": false
+      }
+    ],
+    "correct": 1,
+    "explanation": "One small test cannot justify “always”.\nHint: Watch absolute claims.",
+    "structuredExplanation": {
+      "summary": "One small test cannot justify “always”.",
+      "hint": "Watch absolute claims."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 24,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
+  },
+  {
+    "id": "ac9s1i06-p-025",
+    "curriculumCode": "AC9S1I06",
+    "bank": "practice",
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Which explanation best links evidence to finding?",
+    "audioPrompt": "Which explanation best links evidence to finding?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Because the shaded ice was still larger after 15 minutes, it melted more slowly in this test.",
+        "is_correct": true
+      },
+      {
+        "text": "Shade is better.",
+        "is_correct": false
+      },
+      {
+        "text": "Ice is cold.",
+        "is_correct": false
+      },
+      {
+        "text": "We watched two cubes.",
+        "is_correct": false
+      }
+    ],
+    "correct": 0,
+    "explanation": "The first shows how the observation supports the conclusion.\nHint: Evidence → meaning.",
+    "structuredExplanation": {
+      "summary": "The first shows how the observation supports the conclusion.",
+      "hint": "Evidence → meaning."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 25,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
+  },
+  {
+    "id": "ac9s1i06-p-026",
+    "curriculumCode": "AC9S1I06",
+    "bank": "practice",
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Which slide is easiest to read?",
+    "audioPrompt": "Which slide is easiest to read?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Six paragraphs in tiny text",
+        "is_correct": false
+      },
+      {
+        "text": "Ten unrelated pictures",
+        "is_correct": false
+      },
+      {
+        "text": "A full script in one box",
+        "is_correct": false
+      },
+      {
+        "text": "One clear heading, one labelled graph and a short key message",
+        "is_correct": true
+      }
+    ],
+    "correct": 3,
+    "explanation": "Simple hierarchy helps the audience find the important information.\nHint: Less clutter, clearer message.",
+    "structuredExplanation": {
+      "summary": "Simple hierarchy helps the audience find the important information.",
+      "hint": "Less clutter, clearer message."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 26,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
+  },
+  {
+    "id": "ac9s1i06-p-027",
+    "curriculumCode": "AC9S1I06",
+    "bank": "practice",
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Which spoken statement is most precise?",
+    "audioPrompt": "Which spoken statement is most precise?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The car was amazing.",
+        "is_correct": false
+      },
+      {
+        "text": "The car zoomed heaps.",
+        "is_correct": false
+      },
+      {
+        "text": "The car travelled 82 cm.",
+        "is_correct": true
+      },
+      {
+        "text": "The car went really far.",
+        "is_correct": false
+      }
+    ],
+    "correct": 2,
+    "explanation": "A measured distance is specific and checkable.\nHint: Use evidence language.",
+    "structuredExplanation": {
+      "summary": "A measured distance is specific and checkable.",
+      "hint": "Use evidence language."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 27,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
+  },
+  {
+    "id": "ac9s1i06-p-028",
+    "curriculumCode": "AC9S1I06",
+    "bank": "practice",
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Which caption is least helpful?",
+    "audioPrompt": "Which caption is least helpful?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Towel after absorbing 12 drops",
+        "is_correct": false
+      },
+      {
+        "text": "Photo 1",
+        "is_correct": true
+      },
+      {
+        "text": "Seedling after 7 days: two new leaves",
+        "is_correct": false
+      },
+      {
+        "text": "Ramp setup with 30 cm start height",
+        "is_correct": false
+      }
+    ],
+    "correct": 1,
+    "explanation": "“Photo 1” does not explain what the image shows.\nHint: A caption should add meaning.",
+    "structuredExplanation": {
+      "summary": "“Photo 1” does not explain what the image shows.",
+      "hint": "A caption should add meaning."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 28,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
+  },
+  {
+    "id": "ac9s1i06-p-029",
+    "curriculumCode": "AC9S1I06",
+    "bank": "practice",
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Which audience choice is best?",
+    "audioPrompt": "Which audience choice is best?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use familiar words and explain new terms when presenting to Year 1 students.",
+        "is_correct": true
+      },
+      {
+        "text": "Use unexplained technical jargon.",
+        "is_correct": false
+      },
+      {
+        "text": "Assume everyone knows the method.",
+        "is_correct": false
+      },
+      {
+        "text": "Speak as fast as possible.",
+        "is_correct": false
+      }
+    ],
+    "correct": 0,
+    "explanation": "Communication should be adapted to the audience’s knowledge.\nHint: Make meaning accessible.",
+    "structuredExplanation": {
+      "summary": "Communication should be adapted to the audience’s knowledge.",
+      "hint": "Make meaning accessible."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 29,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
+  },
+  {
+    "id": "ac9s1i06-p-030",
+    "curriculumCode": "AC9S1I06",
+    "bank": "practice",
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Which report includes both evidence and a conclusion?",
+    "audioPrompt": "Which report includes both evidence and a conclusion?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Birds came.",
+        "is_correct": false
+      },
+      {
+        "text": "Feeder A is nicer.",
+        "is_correct": false
+      },
+      {
+        "text": "I think birds love A forever.",
+        "is_correct": false
+      },
+      {
+        "text": "We counted 9 birds at feeder A and 4 at feeder B, so feeder A had more visits in our observation.",
+        "is_correct": true
+      }
+    ],
+    "correct": 3,
+    "explanation": "The first states the data and what the data show.\nHint: Numbers + finding.",
+    "structuredExplanation": {
+      "summary": "The first states the data and what the data show.",
+      "hint": "Numbers + finding."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 30,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
+  },
+  {
+    "id": "ac9s1i06-p-031",
+    "curriculumCode": "AC9S1I06",
+    "bank": "practice",
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "A class investigated which paper bridge held more counters. What should the final slide show?",
+    "audioPrompt": "A class investigated which paper bridge held more counters. What should the final slide show?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A joke about counters.",
+        "is_correct": false
+      },
+      {
+        "text": "The favourite bridge colour.",
+        "is_correct": false
+      },
+      {
+        "text": "A labelled photo or diagram, counter totals, and the finding.",
+        "is_correct": true
+      },
+      {
+        "text": "Only the word bridge.",
+        "is_correct": false
+      }
+    ],
+    "correct": 2,
+    "explanation": "The audience needs context, evidence and the conclusion.\nHint: Show setup + data + meaning.",
+    "structuredExplanation": {
+      "summary": "The audience needs context, evidence and the conclusion.",
+      "hint": "Show setup + data + meaning."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 31,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
+  },
+  {
+    "id": "ac9s1i06-p-032",
+    "curriculumCode": "AC9S1I06",
+    "bank": "practice",
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "A child has data for four weeks of plant height. Best way to present it?",
+    "audioPrompt": "A child has data for four weeks of plant height. Best way to present it?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Say “it grew” with no data.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a simple labelled graph and explain the change in one or two sentences.",
+        "is_correct": true
+      },
+      {
+        "text": "Read the notebook silently.",
+        "is_correct": false
+      },
+      {
+        "text": "Show an unrelated plant picture only.",
+        "is_correct": false
+      }
+    ],
+    "correct": 1,
+    "explanation": "A graph supports comparison while speech can explain the pattern.\nHint: Visualise the measurements.",
+    "structuredExplanation": {
+      "summary": "A graph supports comparison while speech can explain the pattern.",
+      "hint": "Visualise the measurements."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 32,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
+  },
+  {
+    "id": "ac9s1i06-p-033",
+    "curriculumCode": "AC9S1I06",
+    "bank": "practice",
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "A poster says “The red ball was best.” How should it be improved?",
+    "audioPrompt": "A poster says “The red ball was best.” How should it be improved?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "State the measured outcome, such as “Red ball travelled 15 cm farther.”",
+        "is_correct": true
+      },
+      {
+        "text": "Make “best” larger.",
+        "is_correct": false
+      },
+      {
+        "text": "Add exclamation marks.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the result.",
+        "is_correct": false
+      }
+    ],
+    "correct": 0,
+    "explanation": "Replace vague judgement with the actual measured comparison.\nHint: Best at what?",
+    "structuredExplanation": {
+      "summary": "Replace vague judgement with the actual measured comparison.",
+      "hint": "Best at what?"
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 33,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
+  },
+  {
+    "id": "ac9s1i06-p-034",
+    "curriculumCode": "AC9S1I06",
+    "bank": "practice",
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "A group wants to explain an ant-count pattern. Which order is clearest?",
+    "audioPrompt": "A group wants to explain an ant-count pattern. Which order is clearest?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Conclusion → unrelated joke → title → method",
+        "is_correct": false
+      },
+      {
+        "text": "Pictures only",
+        "is_correct": false
+      },
+      {
+        "text": "Method repeated three times",
+        "is_correct": false
+      },
+      {
+        "text": "Question → how we counted → results → what the results show",
+        "is_correct": true
+      }
+    ],
+    "correct": 3,
+    "explanation": "A logical sequence helps the audience follow the investigation.\nHint: Build from question to finding.",
+    "structuredExplanation": {
+      "summary": "A logical sequence helps the audience follow the investigation.",
+      "hint": "Build from question to finding."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 34,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
+  },
+  {
+    "id": "ac9s1i06-p-035",
+    "curriculumCode": "AC9S1I06",
+    "bank": "practice",
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "A graph is shown while a student says “As you can see.” What should they add?",
+    "audioPrompt": "A graph is shown while a student says “As you can see.” What should they add?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Read every label twice.",
+        "is_correct": false
+      },
+      {
+        "text": "Hide the graph.",
+        "is_correct": false
+      },
+      {
+        "text": "Point out the specific pattern or difference the audience should notice.",
+        "is_correct": true
+      },
+      {
+        "text": "Nothing; graphs explain themselves.",
+        "is_correct": false
+      }
+    ],
+    "correct": 2,
+    "explanation": "The speaker should guide attention to the relevant evidence.\nHint: Tell the audience what matters.",
+    "structuredExplanation": {
+      "summary": "The speaker should guide attention to the relevant evidence.",
+      "hint": "Tell the audience what matters."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 35,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
+  },
+  {
+    "id": "ac9s1i06-p-036",
+    "curriculumCode": "AC9S1I06",
+    "bank": "practice",
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "A child needs to explain why they think one towel absorbed more. Which sentence is strongest?",
+    "audioPrompt": "A child needs to explain why they think one towel absorbed more. Which sentence is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Towels absorb water.",
+        "is_correct": false
+      },
+      {
+        "text": "Towel B absorbed 18 drops and towel A absorbed 10, so B absorbed more in our test.",
+        "is_correct": true
+      },
+      {
+        "text": "B was nicer.",
+        "is_correct": false
+      },
+      {
+        "text": "I knew B would win.",
+        "is_correct": false
+      }
+    ],
+    "correct": 1,
+    "explanation": "The sentence directly links measured evidence to the finding.\nHint: Use the numbers.",
+    "structuredExplanation": {
+      "summary": "The sentence directly links measured evidence to the finding.",
+      "hint": "Use the numbers."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 36,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
+  },
+  {
+    "id": "ac9s1i06-p-037",
+    "curriculumCode": "AC9S1I06",
+    "bank": "practice",
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "A science display is crowded with five different graphs. What revision helps most?",
+    "audioPrompt": "A science display is crowded with five different graphs. What revision helps most?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep only the graph that directly answers the main question, or separate them clearly.",
+        "is_correct": true
+      },
+      {
+        "text": "Make all five smaller.",
+        "is_correct": false
+      },
+      {
+        "text": "Add more decoration.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove labels.",
+        "is_correct": false
+      }
+    ],
+    "correct": 0,
+    "explanation": "Reducing clutter helps the audience focus on relevant evidence.\nHint: Prioritise.",
+    "structuredExplanation": {
+      "summary": "Reducing clutter helps the audience focus on relevant evidence.",
+      "hint": "Prioritise."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 37,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
+  },
+  {
+    "id": "ac9s1i06-p-038",
+    "curriculumCode": "AC9S1I06",
+    "bank": "practice",
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "A class is speaking to families at an expo. Which opening is best?",
+    "audioPrompt": "A class is speaking to families at an expo. Which opening is best?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Here are some random numbers.",
+        "is_correct": false
+      },
+      {
+        "text": "You probably already know this.",
+        "is_correct": false
+      },
+      {
+        "text": "Science is complicated.",
+        "is_correct": false
+      },
+      {
+        "text": "We wanted to find out which playground surface became hottest at lunchtime.",
+        "is_correct": true
+      }
+    ],
+    "correct": 3,
+    "explanation": "The opening clearly states the investigation question.\nHint: Tell the audience what you explored.",
+    "structuredExplanation": {
+      "summary": "The opening clearly states the investigation question.",
+      "hint": "Tell the audience what you explored."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 38,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
+  },
+  {
+    "id": "ac9s1i06-p-039",
+    "curriculumCode": "AC9S1I06",
+    "bank": "practice",
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Which closing is strongest after a simple investigation?",
+    "audioPrompt": "Which closing is strongest after a simple investigation?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "We are done.",
+        "is_correct": false
+      },
+      {
+        "text": "Shade is nice.",
+        "is_correct": false
+      },
+      {
+        "text": "Our results showed the shaded surface stayed cooler in all three checks; next we could test more days.",
+        "is_correct": true
+      },
+      {
+        "text": "That proves shade always works everywhere.",
+        "is_correct": false
+      }
+    ],
+    "correct": 2,
+    "explanation": "It summarises evidence carefully and suggests a sensible next step.\nHint: Conclude without overclaiming.",
+    "structuredExplanation": {
+      "summary": "It summarises evidence carefully and suggests a sensible next step.",
+      "hint": "Conclude without overclaiming."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 39,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
+  },
+  {
+    "id": "ac9s1i06-p-040",
+    "curriculumCode": "AC9S1I06",
+    "bank": "practice",
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "A student has a photo, table and spoken explanation. How should they use them?",
+    "audioPrompt": "A student has a photo, table and spoken explanation. How should they use them?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Speak without referring to any evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Let each mode add useful information without repeating everything word-for-word.",
+        "is_correct": true
+      },
+      {
+        "text": "Read the entire table aloud.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the photo even if unrelated.",
+        "is_correct": false
+      }
+    ],
+    "correct": 1,
+    "explanation": "Effective multimodal communication combines modes that complement one another.\nHint: Different modes, different jobs.",
+    "structuredExplanation": {
+      "summary": "Effective multimodal communication combines modes that complement one another.",
+      "hint": "Different modes, different jobs."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 40,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
+  },
+  {
+    "id": "ac9s1i06-t-001",
+    "curriculumCode": "AC9S1I06",
+    "bank": "test",
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Which title best suits a test about how far toy cars roll?",
+    "audioPrompt": "Which title best suits a test about how far toy cars roll?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "My science",
+        "is_correct": false
+      },
+      {
+        "text": "Cars",
+        "is_correct": false
+      },
+      {
+        "text": "Results",
+        "is_correct": false
+      },
+      {
+        "text": "Toy-car rolling distance",
+        "is_correct": true
+      }
+    ],
+    "correct": 3,
+    "explanation": "A specific title tells the audience what was measured.\nHint: Name the investigation.",
+    "structuredExplanation": {
+      "summary": "A specific title tells the audience what was measured.",
+      "hint": "Name the investigation."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
   },
   {
-    "id": "AC9S1I06-P-015",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I06",
-    "bank": "practice",
-    "skill": "ac9s1i06_07",
-    "question": "What should come first when explaining a toy-car ramp test?",
-    "audio_prompt": "What should come first when explaining a toy-car ramp test?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-015",
-      "alt_text": "1️⃣ topic; 2️⃣ evidence; 3️⃣ finding"
+    "id": "ac9s1i06-t-002",
+    "curriculumCode": "AC9S1I06",
+    "bank": "test",
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence reports evidence clearly?",
+    "audioPrompt": "Which sentence reports evidence clearly?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Announce that every prediction was correct.",
+        "text": "It cooled because it wanted to.",
         "is_correct": false
       },
       {
-        "text": "Give a conclusion before naming the topic.",
+        "text": "The water will always cool.",
         "is_correct": false
       },
       {
-        "text": "Say what was investigated or observed.",
+        "text": "The water cooled from 30°C to 24°C.",
         "is_correct": true
+      },
+      {
+        "text": "The water got nicer.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The audience first needs to know what the communication is about.",
-      "hint": "Use the order: topic, evidence, finding."
+    "correct": 2,
+    "explanation": "The first gives a measured change.\nHint: Specific evidence.",
+    "structuredExplanation": {
+      "summary": "The first gives a measured change.",
+      "hint": "Specific evidence."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
   },
   {
-    "id": "AC9S1I06-P-016",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I06",
-    "bank": "practice",
-    "skill": "ac9s1i06_08",
-    "question": "Why should a science communication about a toy-car ramp test include evidence?",
-    "audio_prompt": "Why should a science communication about a toy-car ramp test include evidence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-016",
-      "alt_text": "👀 evidence; ➡️ supports; 💡 finding"
+    "id": "ac9s1i06-t-003",
+    "curriculumCode": "AC9S1I06",
+    "bank": "test",
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Why label a bar graph?",
+    "audioPrompt": "Why label a bar graph?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "So the audience can understand how the finding was reached.",
+        "text": "To add decoration.",
+        "is_correct": false
+      },
+      {
+        "text": "So readers know what each bar and number represents.",
         "is_correct": true
       },
       {
-        "text": "So the page has more words.",
+        "text": "To make bars taller.",
         "is_correct": false
       },
       {
-        "text": "So opinions look like measurements.",
+        "text": "To prove the result.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Evidence connects the observation or test to the finding.",
-      "hint": "Ask: What did we see, count or measure that supports this finding?"
+    "correct": 1,
+    "explanation": "Labels make the data interpretable.\nHint: What does each bar mean?",
+    "structuredExplanation": {
+      "summary": "Labels make the data interpretable.",
+      "hint": "What does each bar mean?"
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
   },
   {
-    "id": "AC9S1I06-P-017",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I06",
-    "bank": "practice",
-    "skill": "ac9s1i06_01",
-    "question": "Which title clearly tells the topic of a bean plant record?",
-    "audio_prompt": "Which title clearly tells the topic of a bean plant record?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-017",
-      "alt_text": "🌱 a bean plant record; 📰 Our Bean Plant Growth; 👥 families"
+    "id": "ac9s1i06-t-004",
+    "curriculumCode": "AC9S1I06",
+    "bank": "test",
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Which visual best shows where spots appeared on a leaf?",
+    "audioPrompt": "Which visual best shows where spots appeared on a leaf?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "My Favourite Things",
-        "is_correct": false
-      },
-      {
-        "text": "Our Bean Plant Growth",
+        "text": "A labelled diagram of the leaf",
         "is_correct": true
       },
       {
-        "text": "Something Happened",
+        "text": "A temperature graph",
+        "is_correct": false
+      },
+      {
+        "text": "A map of Australia",
+        "is_correct": false
+      },
+      {
+        "text": "A random photo",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Our Bean Plant Growth names the investigation or observation clearly.",
-      "hint": "A good title tells the audience what the science communication is about."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S1I06-P-018",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I06",
-    "bank": "practice",
-    "skill": "ac9s1i06_02",
-    "question": "Which sentence is a precise observation to share?",
-    "audio_prompt": "Which sentence is a precise observation to share?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-018",
-      "alt_text": "🌱 a bean plant record; 👀 observation; 💬 The plant was 12 cubes tall on Tuesday."
-    },
-    "answers": [
-      {
-        "text": "It was really nice.",
-        "is_correct": false
-      },
-      {
-        "text": "I think it happened because of magic.",
-        "is_correct": false
-      },
-      {
-        "text": "The plant was 12 cubes tall on Tuesday.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The plant was 12 cubes tall on Tuesday. gives specific evidence.",
-      "hint": "Include what was seen or measured, with a number or unit when useful."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S1I06-P-019",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I06",
-    "bank": "practice",
-    "skill": "ac9s1i06_03",
-    "question": "Which label would be useful on a diagram for a bean plant record?",
-    "audio_prompt": "Which label would be useful on a diagram for a bean plant record?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-019",
-      "alt_text": "🌱 a bean plant record; 🏷️ new leaf; ➡️ label line"
-    },
-    "answers": [
-      {
-        "text": "new leaf",
-        "is_correct": true
-      },
-      {
-        "text": "best part",
-        "is_correct": false
-      },
-      {
-        "text": "mystery thing",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "New leaf names a relevant visible feature or setup part.",
-      "hint": "A diagram label should point to something the audience needs to identify."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S1I06-P-020",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I06",
-    "bank": "practice",
-    "skill": "ac9s1i06_04",
-    "question": "Which finding uses evidence from a bean plant record?",
-    "audio_prompt": "Which finding uses evidence from a bean plant record?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-020",
-      "alt_text": "📝 records; 🔎 compare; ✅ The plant grew 3 cubes during the week."
-    },
-    "answers": [
-      {
-        "text": "Everyone must like the result.",
-        "is_correct": false
-      },
-      {
-        "text": "The plant grew 3 cubes during the week.",
-        "is_correct": true
-      },
-      {
-        "text": "The first guess was correct because it was first.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The plant grew 3 cubes during the week. communicates a result supported by observations.",
-      "hint": "A finding tells what the evidence showed."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S1I06-P-021",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I06",
-    "bank": "practice",
-    "skill": "ac9s1i06_05",
-    "question": "Which unit makes the record clear for a bean plant record?",
-    "audio_prompt": "Which unit makes the record clear for a bean plant record?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-021",
-      "alt_text": "🔢 number; 🏷️ cubes; 🌱 a bean plant record"
-    },
-    "answers": [
-      {
-        "text": "goodness",
-        "is_correct": false
-      },
-      {
-        "text": "favourites",
-        "is_correct": false
-      },
-      {
-        "text": "cubes",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Cubes tells the audience what was counted or measured.",
-      "hint": "Write the number together with what the number measures."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S1I06-P-022",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I06",
-    "bank": "practice",
-    "skill": "ac9s1i06_06",
-    "question": "How should results about a bean plant record be shared with families?",
-    "audio_prompt": "How should results about a bean plant record be shared with families?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-022",
-      "alt_text": "📰 title; 🖼️ labelled visual; 💬 finding"
-    },
-    "answers": [
-      {
-        "text": "Use a clear title, labelled visual and evidence sentence.",
-        "is_correct": true
-      },
-      {
-        "text": "Use unexplained marks with no labels.",
-        "is_correct": false
-      },
-      {
-        "text": "Tell only an opinion and hide the observations.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Clear structure helps families understand the evidence.",
-      "hint": "Show what was investigated, what was observed and what was found."
+    "correct": 0,
+    "explanation": "A labelled diagram can show location on the leaf.\nHint: Choose the mode that fits the information.",
+    "structuredExplanation": {
+      "summary": "A labelled diagram can show location on the leaf.",
+      "hint": "Choose the mode that fits the information."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
   },
   {
-    "id": "AC9S1I06-P-023",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I06",
-    "bank": "practice",
-    "skill": "ac9s1i06_07",
-    "question": "What should come first when explaining a bean plant record?",
-    "audio_prompt": "What should come first when explaining a bean plant record?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-023",
-      "alt_text": "1️⃣ topic; 2️⃣ evidence; 3️⃣ finding"
+    "id": "ac9s1i06-t-005",
+    "curriculumCode": "AC9S1I06",
+    "bank": "test",
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Which conclusion is careful?",
+    "audioPrompt": "Which conclusion is careful?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Announce that every prediction was correct.",
+        "text": "Red cars always travel farther.",
         "is_correct": false
       },
       {
-        "text": "Say what was investigated or observed.",
+        "text": "Red is the best colour.",
+        "is_correct": false
+      },
+      {
+        "text": "The result proves all cars.",
+        "is_correct": false
+      },
+      {
+        "text": "The red car travelled farther in our three trials.",
         "is_correct": true
-      },
-      {
-        "text": "Give a conclusion before naming the topic.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The audience first needs to know what the communication is about.",
-      "hint": "Use the order: topic, evidence, finding."
+    "correct": 3,
+    "explanation": "The statement stays within the trials completed.\nHint: These trials only.",
+    "structuredExplanation": {
+      "summary": "The statement stays within the trials completed.",
+      "hint": "These trials only."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
   },
   {
-    "id": "AC9S1I06-P-024",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I06",
-    "bank": "practice",
-    "skill": "ac9s1i06_08",
-    "question": "Why should a science communication about a bean plant record include evidence?",
-    "audio_prompt": "Why should a science communication about a bean plant record include evidence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-024",
-      "alt_text": "👀 evidence; ➡️ supports; 💡 finding"
+    "id": "ac9s1i06-t-006",
+    "curriculumCode": "AC9S1I06",
+    "bank": "test",
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "What should a caption do?",
+    "audioPrompt": "What should a caption do?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "So the page has more words.",
+        "text": "Replace all evidence.",
         "is_correct": false
       },
       {
-        "text": "So opinions look like measurements.",
+        "text": "Add a joke.",
         "is_correct": false
       },
       {
-        "text": "So the audience can understand how the finding was reached.",
+        "text": "Explain what an image shows and why it matters.",
         "is_correct": true
+      },
+      {
+        "text": "Repeat “photo” only.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Evidence connects the observation or test to the finding.",
-      "hint": "Ask: What did we see, count or measure that supports this finding?"
+    "correct": 2,
+    "explanation": "Captions give images context.\nHint: Name the evidence.",
+    "structuredExplanation": {
+      "summary": "Captions give images context.",
+      "hint": "Name the evidence."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
   },
   {
-    "id": "AC9S1I06-T-001",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I06",
+    "id": "ac9s1i06-t-007",
+    "curriculumCode": "AC9S1I06",
     "bank": "test",
-    "skill": "ac9s1i06_01",
-    "question": "Which title clearly tells the topic of a week of weather observations?",
-    "audio_prompt": "Which title clearly tells the topic of a week of weather observations?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-001",
-      "alt_text": "🌦️ a week of weather observations; 📰 Our Week of Weather; 👥 the school assembly"
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Which slide is least effective?",
+    "audioPrompt": "Which slide is least effective?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Our Week of Weather",
+        "text": "A short evidence statement",
+        "is_correct": false
+      },
+      {
+        "text": "Tiny paragraphs covering the whole screen",
         "is_correct": true
       },
       {
-        "text": "My Favourite Things",
+        "text": "One clear graph with labels",
         "is_correct": false
       },
       {
-        "text": "Something Happened",
+        "text": "A labelled photo",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Our Week of Weather names the investigation or observation clearly.",
-      "hint": "A good title tells the audience what the science communication is about."
-    }
+    "correct": 1,
+    "explanation": "Dense tiny text is hard to read while listening.\nHint: Avoid overload.",
+    "structuredExplanation": {
+      "summary": "Dense tiny text is hard to read while listening.",
+      "hint": "Avoid overload."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
   },
   {
-    "id": "AC9S1I06-T-002",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I06",
+    "id": "ac9s1i06-t-008",
+    "curriculumCode": "AC9S1I06",
     "bank": "test",
-    "skill": "ac9s1i06_02",
-    "question": "Which sentence is a precise observation to share?",
-    "audio_prompt": "Which sentence is a precise observation to share?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-002",
-      "alt_text": "🌦️ a week of weather observations; 👀 observation; 💬 Four days were sunny."
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Why include measurement units in a talk?",
+    "audioPrompt": "Why include measurement units in a talk?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "It was really nice.",
-        "is_correct": false
-      },
-      {
-        "text": "Four days were sunny.",
+        "text": "So numbers are meaningful.",
         "is_correct": true
       },
       {
-        "text": "I think it happened because of magic.",
+        "text": "To make the talk longer.",
+        "is_correct": false
+      },
+      {
+        "text": "Because every unit is cm.",
+        "is_correct": false
+      },
+      {
+        "text": "To prove a cause.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Four days were sunny. gives specific evidence.",
-      "hint": "Include what was seen or measured, with a number or unit when useful."
-    }
+    "correct": 0,
+    "explanation": "Units explain what quantities represent.\nHint: Number + unit.",
+    "structuredExplanation": {
+      "summary": "Units explain what quantities represent.",
+      "hint": "Number + unit."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
   },
   {
-    "id": "AC9S1I06-T-003",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I06",
+    "id": "ac9s1i06-t-009",
+    "curriculumCode": "AC9S1I06",
     "bank": "test",
-    "skill": "ac9s1i06_03",
-    "question": "Which label would be useful on a diagram for a week of weather observations?",
-    "audio_prompt": "Which label would be useful on a diagram for a week of weather observations?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-003",
-      "alt_text": "🌦️ a week of weather observations; 🏷️ rainy day; ➡️ label line"
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Which statement links evidence to finding?",
+    "audioPrompt": "Which statement links evidence to finding?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "best part",
+        "text": "Feeder B is pretty.",
         "is_correct": false
       },
       {
-        "text": "mystery thing",
+        "text": "Birds like B forever.",
         "is_correct": false
       },
       {
-        "text": "rainy day",
+        "text": "We used two feeders.",
+        "is_correct": false
+      },
+      {
+        "text": "We counted twice as many visits at feeder B, so B had more visits in our observation.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Rainy day names a relevant visible feature or setup part.",
-      "hint": "A diagram label should point to something the audience needs to identify."
-    }
+    "correct": 3,
+    "explanation": "The first explains what the counts show.\nHint: Evidence → conclusion.",
+    "structuredExplanation": {
+      "summary": "The first explains what the counts show.",
+      "hint": "Evidence → conclusion."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
   },
   {
-    "id": "AC9S1I06-T-004",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I06",
+    "id": "ac9s1i06-t-010",
+    "curriculumCode": "AC9S1I06",
     "bank": "test",
-    "skill": "ac9s1i06_04",
-    "question": "Which finding uses evidence from a week of weather observations?",
-    "audio_prompt": "Which finding uses evidence from a week of weather observations?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-004",
-      "alt_text": "📝 records; 🔎 compare; ✅ Sunny was the most common weather this week."
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "What is the best opening for a poster?",
+    "audioPrompt": "What is the best opening for a poster?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Sunny was the most common weather this week.",
+        "text": "A random picture",
+        "is_correct": false
+      },
+      {
+        "text": "A long unrelated story",
+        "is_correct": false
+      },
+      {
+        "text": "A clear question or purpose",
         "is_correct": true
       },
       {
-        "text": "Everyone must like the result.",
-        "is_correct": false
-      },
-      {
-        "text": "The first guess was correct because it was first.",
+        "text": "The conclusion only",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Sunny was the most common weather this week. communicates a result supported by observations.",
-      "hint": "A finding tells what the evidence showed."
-    }
+    "correct": 2,
+    "explanation": "The audience needs to know what the work is about.\nHint: Start with purpose.",
+    "structuredExplanation": {
+      "summary": "The audience needs to know what the work is about.",
+      "hint": "Start with purpose."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
   },
   {
-    "id": "AC9S1I06-T-005",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I06",
+    "id": "ac9s1i06-t-011",
+    "curriculumCode": "AC9S1I06",
     "bank": "test",
-    "skill": "ac9s1i06_05",
-    "question": "Which unit makes the record clear for a week of weather observations?",
-    "audio_prompt": "Which unit makes the record clear for a week of weather observations?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-005",
-      "alt_text": "🔢 number; 🏷️ days; 🌦️ a week of weather observations"
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Which wording is too strong after one test?",
+    "audioPrompt": "Which wording is too strong after one test?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "goodness",
+        "text": "More tests could be useful.",
         "is_correct": false
       },
       {
-        "text": "days",
+        "text": "This proves the material always works best.",
         "is_correct": true
       },
       {
-        "text": "favourites",
+        "text": "This material held most weight in our test.",
+        "is_correct": false
+      },
+      {
+        "text": "Our result supported the idea.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Days tells the audience what was counted or measured.",
-      "hint": "Write the number together with what the number measures."
-    }
+    "correct": 1,
+    "explanation": "“Always” goes beyond the evidence.\nHint: Watch certainty.",
+    "structuredExplanation": {
+      "summary": "“Always” goes beyond the evidence.",
+      "hint": "Watch certainty."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
   },
   {
-    "id": "AC9S1I06-T-006",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I06",
+    "id": "ac9s1i06-t-012",
+    "curriculumCode": "AC9S1I06",
     "bank": "test",
-    "skill": "ac9s1i06_06",
-    "question": "How should results about a week of weather observations be shared with the school assembly?",
-    "audio_prompt": "How should results about a week of weather observations be shared with the school assembly?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-006",
-      "alt_text": "📰 title; 🖼️ labelled visual; 💬 finding"
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "A table has no headings. What is the main problem?",
+    "audioPrompt": "A table has no headings. What is the main problem?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use unexplained marks with no labels.",
-        "is_correct": false
-      },
-      {
-        "text": "Tell only an opinion and hide the observations.",
-        "is_correct": false
-      },
-      {
-        "text": "Use a clear title, labelled visual and evidence sentence.",
+        "text": "Readers cannot tell what the numbers mean.",
         "is_correct": true
+      },
+      {
+        "text": "The table is too scientific.",
+        "is_correct": false
+      },
+      {
+        "text": "Numbers become wrong.",
+        "is_correct": false
+      },
+      {
+        "text": "Tables need pictures only.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Clear structure helps the school assembly understand the evidence.",
-      "hint": "Show what was investigated, what was observed and what was found."
-    }
+    "correct": 0,
+    "explanation": "Headings identify each column or row.\nHint: Label the data.",
+    "structuredExplanation": {
+      "summary": "Headings identify each column or row.",
+      "hint": "Label the data."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
   },
   {
-    "id": "AC9S1I06-T-007",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I06",
+    "id": "ac9s1i06-t-013",
+    "curriculumCode": "AC9S1I06",
     "bank": "test",
-    "skill": "ac9s1i06_07",
-    "question": "What should come first when explaining a week of weather observations?",
-    "audio_prompt": "What should come first when explaining a week of weather observations?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-007",
-      "alt_text": "1️⃣ topic; 2️⃣ evidence; 3️⃣ finding"
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Which spoken delivery helps listeners?",
+    "audioPrompt": "Which spoken delivery helps listeners?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Say what was investigated or observed.",
+        "text": "Very fast reading",
+        "is_correct": false
+      },
+      {
+        "text": "Facing away",
+        "is_correct": false
+      },
+      {
+        "text": "Whispering every result",
+        "is_correct": false
+      },
+      {
+        "text": "Clear pace with pauses at key evidence",
         "is_correct": true
-      },
-      {
-        "text": "Announce that every prediction was correct.",
-        "is_correct": false
-      },
-      {
-        "text": "Give a conclusion before naming the topic.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The audience first needs to know what the communication is about.",
-      "hint": "Use the order: topic, evidence, finding."
-    }
+    "correct": 3,
+    "explanation": "Controlled pace supports comprehension.\nHint: Help people follow.",
+    "structuredExplanation": {
+      "summary": "Controlled pace supports comprehension.",
+      "hint": "Help people follow."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
   },
   {
-    "id": "AC9S1I06-T-008",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I06",
+    "id": "ac9s1i06-t-014",
+    "curriculumCode": "AC9S1I06",
     "bank": "test",
-    "skill": "ac9s1i06_08",
-    "question": "Why should a science communication about a week of weather observations include evidence?",
-    "audio_prompt": "Why should a science communication about a week of weather observations include evidence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-008",
-      "alt_text": "👀 evidence; ➡️ supports; 💡 finding"
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "A graph shows 2,4,6 plant leaves over weeks. Best explanation?",
+    "audioPrompt": "A graph shows 2,4,6 plant leaves over weeks. Best explanation?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "So the page has more words.",
+        "text": "Plants always grow this way.",
         "is_correct": false
       },
       {
-        "text": "So the audience can understand how the finding was reached.",
+        "text": "The graph is green.",
+        "is_correct": false
+      },
+      {
+        "text": "The recorded leaf count increased each week.",
         "is_correct": true
       },
       {
-        "text": "So opinions look like measurements.",
+        "text": "It proves exactly two new leaves forever.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Evidence connects the observation or test to the finding.",
-      "hint": "Ask: What did we see, count or measure that supports this finding?"
-    }
+    "correct": 2,
+    "explanation": "The statement accurately describes the observed trend.\nHint: Say what the graph shows.",
+    "structuredExplanation": {
+      "summary": "The statement accurately describes the observed trend.",
+      "hint": "Say what the graph shows."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
   },
   {
-    "id": "AC9S1I06-T-009",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I06",
+    "id": "ac9s1i06-t-015",
+    "curriculumCode": "AC9S1I06",
     "bank": "test",
-    "skill": "ac9s1i06_01",
-    "question": "Which title clearly tells the topic of a materials bending test?",
-    "audio_prompt": "Which title clearly tells the topic of a materials bending test?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-009",
-      "alt_text": "📎 a materials bending test; 📰 Which Materials Bent?; 👥 a visiting teacher"
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Which final sentence is strongest?",
+    "audioPrompt": "Which final sentence is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "My Favourite Things",
+        "text": "Science is fun.",
         "is_correct": false
       },
       {
-        "text": "Something Happened",
-        "is_correct": false
-      },
-      {
-        "text": "Which Materials Bent?",
+        "text": "These results answered our question, and repeating the test would help us check the pattern.",
         "is_correct": true
+      },
+      {
+        "text": "We proved everything.",
+        "is_correct": false
+      },
+      {
+        "text": "The end.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Which Materials Bent? names the investigation or observation clearly.",
-      "hint": "A good title tells the audience what the science communication is about."
-    }
+    "correct": 1,
+    "explanation": "It closes the investigation and recognises the value of further evidence.\nHint: Summarise + next step.",
+    "structuredExplanation": {
+      "summary": "It closes the investigation and recognises the value of further evidence.",
+      "hint": "Summarise + next step."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I06",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
   },
   {
-    "id": "AC9S1I06-T-010",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I06",
+    "id": "ac9s1i06-t-016",
+    "curriculumCode": "AC9S1I06",
     "bank": "test",
-    "skill": "ac9s1i06_02",
-    "question": "Which sentence is a precise observation to share?",
-    "audio_prompt": "Which sentence is a precise observation to share?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-010",
-      "alt_text": "📎 a materials bending test; 👀 observation; 💬 The plastic strip bent and the wooden stick did not."
+    "skill": "communicating scientific ideas",
+    "printable": true,
+    "type": "single",
+    "question": "Why choose words suited to the audience?",
+    "audioPrompt": "Why choose words suited to the audience?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "The plastic strip bent and the wooden stick did not.",
+        "text": "So people can understand the science message.",
         "is_correct": true
       },
       {
-        "text": "It was really nice.",
+        "text": "So the data change.",
         "is_correct": false
       },
       {
-        "text": "I think it happened because of magic.",
+        "text": "So evidence becomes true.",
+        "is_correct": false
+      },
+      {
+        "text": "So the talk is longer.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The plastic strip bent and the wooden stick did not. gives specific evidence.",
-      "hint": "Include what was seen or measured, with a number or unit when useful."
-    }
-  },
-  {
-    "id": "AC9S1I06-T-011",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I06",
-    "bank": "test",
-    "skill": "ac9s1i06_03",
-    "question": "Which label would be useful on a diagram for a materials bending test?",
-    "audio_prompt": "Which label would be useful on a diagram for a materials bending test?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-011",
-      "alt_text": "📎 a materials bending test; 🏷️ flexible material; ➡️ label line"
+    "correct": 0,
+    "explanation": "Audience-appropriate language improves communication.\nHint: Communicate for understanding.",
+    "structuredExplanation": {
+      "summary": "Audience-appropriate language improves communication.",
+      "hint": "Communicate for understanding."
     },
-    "answers": [
-      {
-        "text": "best part",
-        "is_correct": false
-      },
-      {
-        "text": "flexible material",
-        "is_correct": true
-      },
-      {
-        "text": "mystery thing",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Flexible material names a relevant visible feature or setup part.",
-      "hint": "A diagram label should point to something the audience needs to identify."
-    }
-  },
-  {
-    "id": "AC9S1I06-T-012",
-    "subject": "science",
-    "year_level": "Year 1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v6",
     "curriculum_code": "AC9S1I06",
-    "bank": "test",
-    "skill": "ac9s1i06_04",
-    "question": "Which finding uses evidence from a materials bending test?",
-    "audio_prompt": "Which finding uses evidence from a materials bending test?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-012",
-      "alt_text": "📝 records; 🔎 compare; ✅ Two of the three plastic strips bent."
-    },
-    "answers": [
-      {
-        "text": "Everyone must like the result.",
-        "is_correct": false
-      },
-      {
-        "text": "The first guess was correct because it was first.",
-        "is_correct": false
-      },
-      {
-        "text": "Two of the three plastic strips bent.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Two of the three plastic strips bent. communicates a result supported by observations.",
-      "hint": "A finding tells what the evidence showed."
-    }
-  },
-  {
-    "id": "AC9S1I06-T-013",
-    "subject": "science",
     "year_level": "Year 1",
-    "curriculum_code": "AC9S1I06",
-    "bank": "test",
-    "skill": "ac9s1i06_05",
-    "question": "Which unit makes the record clear for a materials bending test?",
-    "audio_prompt": "Which unit makes the record clear for a materials bending test?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-013",
-      "alt_text": "🔢 number; 🏷️ strips; 📎 a materials bending test"
-    },
-    "answers": [
-      {
-        "text": "strips",
-        "is_correct": true
-      },
-      {
-        "text": "goodness",
-        "is_correct": false
-      },
-      {
-        "text": "favourites",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Strips tells the audience what was counted or measured.",
-      "hint": "Write the number together with what the number measures."
-    }
-  },
-  {
-    "id": "AC9S1I06-T-014",
     "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I06",
-    "bank": "test",
-    "skill": "ac9s1i06_06",
-    "question": "How should results about a materials bending test be shared with a visiting teacher?",
-    "audio_prompt": "How should results about a materials bending test be shared with a visiting teacher?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-014",
-      "alt_text": "📰 title; 🖼️ labelled visual; 💬 finding"
-    },
-    "answers": [
-      {
-        "text": "Use unexplained marks with no labels.",
-        "is_correct": false
-      },
-      {
-        "text": "Use a clear title, labelled visual and evidence sentence.",
-        "is_correct": true
-      },
-      {
-        "text": "Tell only an opinion and hide the observations.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Clear structure helps a visiting teacher understand the evidence.",
-      "hint": "Show what was investigated, what was observed and what was found."
-    }
-  },
-  {
-    "id": "AC9S1I06-T-015",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I06",
-    "bank": "test",
-    "skill": "ac9s1i06_07",
-    "question": "What should come first when explaining a materials bending test?",
-    "audio_prompt": "What should come first when explaining a materials bending test?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-015",
-      "alt_text": "1️⃣ topic; 2️⃣ evidence; 3️⃣ finding"
-    },
-    "answers": [
-      {
-        "text": "Announce that every prediction was correct.",
-        "is_correct": false
-      },
-      {
-        "text": "Give a conclusion before naming the topic.",
-        "is_correct": false
-      },
-      {
-        "text": "Say what was investigated or observed.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The audience first needs to know what the communication is about.",
-      "hint": "Use the order: topic, evidence, finding."
-    }
-  },
-  {
-    "id": "AC9S1I06-T-016",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I06",
-    "bank": "test",
-    "skill": "ac9s1i06_08",
-    "question": "Why should a science communication about a materials bending test include evidence?",
-    "audio_prompt": "Why should a science communication about a materials bending test include evidence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-016",
-      "alt_text": "👀 evidence; ➡️ supports; 💡 finding"
-    },
-    "answers": [
-      {
-        "text": "So the audience can understand how the finding was reached.",
-        "is_correct": true
-      },
-      {
-        "text": "So the page has more words.",
-        "is_correct": false
-      },
-      {
-        "text": "So opinions look like measurements.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Evidence connects the observation or test to the finding.",
-      "hint": "Ask: What did we see, count or measure that supports this finding?"
-    }
+    "correct_index": 0
   }
 ]

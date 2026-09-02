@@ -1,1418 +1,2730 @@
 [
   {
-    "id": "AC9S1I02-P-001",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I02",
+    "id": "ac9s1i02-p-001",
+    "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "ac9s1i02_01",
-    "question": "Which action makes pouring small amounts of clean water between plastic cups safer?",
-    "audio_prompt": "Which action makes pouring small amounts of clean water between plastic cups safer?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i02.svg#ac9s1i02-p-001",
-      "alt_text": "💧 pouring small amounts of clean water between plastic cups; ✅ Use stable cups on a tray.; ⚠️ risk"
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "Before using a magnifying glass outdoors, what should you do first?",
+    "audioPrompt": "Before using a magnifying glass outdoors, what should you do first?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use stable cups on a tray.",
+        "text": "Listen to the instructions and check the area is safe.",
         "is_correct": true
       },
       {
-        "text": "run through the wet area",
+        "text": "Point it at the sun.",
         "is_correct": false
       },
       {
-        "text": "Start before checking the area or equipment.",
+        "text": "Run to collect objects.",
+        "is_correct": false
+      },
+      {
+        "text": "Taste anything interesting.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Use stable cups on a tray. reduces a real risk in the investigation.",
-      "hint": "Choose the action that protects people and keeps the setup controlled."
+    "correct": 0,
+    "explanation": "Safe investigations begin by following instructions and checking for hazards.\nHint: What keeps everyone safe before starting?",
+    "structuredExplanation": {
+      "summary": "Safe investigations begin by following instructions and checking for hazards.",
+      "hint": "What keeps everyone safe before starting?"
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
   },
   {
-    "id": "AC9S1I02-P-002",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I02",
+    "id": "ac9s1i02-p-002",
+    "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "ac9s1i02_02",
-    "question": "Which situation is a hazard during pouring small amounts of clean water between plastic cups?",
-    "audio_prompt": "Which situation is a hazard during pouring small amounts of clean water between plastic cups?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i02.svg#ac9s1i02-p-002",
-      "alt_text": "💧 pouring small amounts of clean water between plastic cups; ⚠️ water spilled on the floor; 🛑 stop"
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "You see broken glass near your investigation area. What should you do?",
+    "audioPrompt": "You see broken glass near your investigation area. What should you do?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "a clear work area",
+        "text": "Pick it up quickly.",
         "is_correct": false
       },
       {
-        "text": "water spilled on the floor",
+        "text": "Kick it away.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore it.",
+        "is_correct": false
+      },
+      {
+        "text": "Stop and tell an adult.",
         "is_correct": true
-      },
-      {
-        "text": "following the teacher's directions",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Water spilled on the floor could cause harm and needs attention.",
-      "hint": "A hazard is something that could hurt someone or make the area unsafe."
+    "correct": 3,
+    "explanation": "Broken glass can cut people, so an adult should manage it safely.\nHint: Do not touch sharp objects.",
+    "structuredExplanation": {
+      "summary": "Broken glass can cut people, so an adult should manage it safely.",
+      "hint": "Do not touch sharp objects."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
   },
   {
-    "id": "AC9S1I02-P-003",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I02",
+    "id": "ac9s1i02-p-003",
+    "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "ac9s1i02_03",
-    "question": "What should you do if you notice water spilled on the floor?",
-    "audio_prompt": "What should you do if you notice water spilled on the floor?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i02.svg#ac9s1i02-p-003",
-      "alt_text": "⚠️ water spilled on the floor; 🛑 stop; 🧑 Tell an adult and keep people away until the spill is cleaned."
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "Which tool is safe for measuring a leaf length?",
+    "audioPrompt": "Which tool is safe for measuring a leaf length?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "run through the wet area",
+        "text": "A lit candle",
         "is_correct": false
       },
       {
-        "text": "Keep it secret and continue.",
+        "text": "An unknown chemical",
         "is_correct": false
       },
       {
-        "text": "Tell an adult and keep people away until the spill is cleaned.",
+        "text": "A ruler",
         "is_correct": true
+      },
+      {
+        "text": "A sharp kitchen knife",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Tell an adult and keep people away until the spill is cleaned. is the safe response.",
-      "hint": "Stop, keep others safe and get adult help."
+    "correct": 2,
+    "explanation": "A ruler is suitable for simple length measurements.\nHint: Match the tool to the task safely.",
+    "structuredExplanation": {
+      "summary": "A ruler is suitable for simple length measurements.",
+      "hint": "Match the tool to the task safely."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
   },
   {
-    "id": "AC9S1I02-P-004",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I02",
+    "id": "ac9s1i02-p-004",
+    "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "ac9s1i02_04",
-    "question": "Which equipment is suitable for pouring small amounts of clean water between plastic cups?",
-    "audio_prompt": "Which equipment is suitable for pouring small amounts of clean water between plastic cups?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i02.svg#ac9s1i02-p-004",
-      "alt_text": "💧 pouring small amounts of clean water between plastic cups; 🧰 a tray; ✅ approved"
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "A liquid spills beside your table. What is the safest response?",
+    "audioPrompt": "A liquid spills beside your table. What is the safest response?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "a tray",
+        "text": "Smell it closely.",
+        "is_correct": false
+      },
+      {
+        "text": "Stop and tell the teacher or adult.",
         "is_correct": true
       },
       {
-        "text": "an unknown chemical",
+        "text": "Keep working through it.",
         "is_correct": false
       },
       {
-        "text": "a cracked glass container",
+        "text": "Touch it to see what it is.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "A tray supports the activity safely.",
-      "hint": "Use teacher-approved equipment that matches the task."
+    "correct": 1,
+    "explanation": "Unknown spills should be reported rather than touched or investigated directly.\nHint: Stop, move back, tell an adult.",
+    "structuredExplanation": {
+      "summary": "Unknown spills should be reported rather than touched or investigated directly.",
+      "hint": "Stop, move back, tell an adult."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
   },
   {
-    "id": "AC9S1I02-P-005",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I02",
+    "id": "ac9s1i02-p-005",
+    "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "ac9s1i02_05",
-    "question": "Which action is unsafe during pouring small amounts of clean water between plastic cups?",
-    "audio_prompt": "Which action is unsafe during pouring small amounts of clean water between plastic cups?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i02.svg#ac9s1i02-p-005",
-      "alt_text": "✅ Use stable cups on a tray.; ❌ run through the wet area; 🧑 adult help"
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "When observing a small insect, which action is safest and kindest?",
+    "audioPrompt": "When observing a small insect, which action is safest and kindest?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use stable cups on a tray.",
-        "is_correct": false
-      },
-      {
-        "text": "run through the wet area",
+        "text": "Watch without squeezing or harming it.",
         "is_correct": true
       },
       {
-        "text": "Listen to the teacher.",
+        "text": "Hold it tightly.",
+        "is_correct": false
+      },
+      {
+        "text": "Poke it to make it move.",
+        "is_correct": false
+      },
+      {
+        "text": "Pull off a leg to look closer.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Run through the wet area increases the risk of harm.",
-      "hint": "Choose the action that breaks a safety rule."
+    "correct": 0,
+    "explanation": "Science observations should protect living things as well as people.\nHint: Observe gently.",
+    "structuredExplanation": {
+      "summary": "Science observations should protect living things as well as people.",
+      "hint": "Observe gently."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
   },
   {
-    "id": "AC9S1I02-P-006",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I02",
+    "id": "ac9s1i02-p-006",
+    "curriculumCode": "AC9S1I02",
     "bank": "practice",
-    "skill": "ac9s1i02_06",
-    "question": "How should an unknown substance be checked during pouring small amounts of clean water between plastic cups?",
-    "audio_prompt": "How should an unknown substance be checked during pouring small amounts of clean water between plastic cups?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i02.svg#ac9s1i02-p-006",
-      "alt_text": "❓ unknown; ✋ do not touch; 🧑 ask an adult"
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "Which sense should NOT be used on an unknown substance?",
+    "audioPrompt": "Which sense should NOT be used on an unknown substance?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Taste a tiny amount.",
+        "text": "Sight from a safe distance",
         "is_correct": false
       },
       {
-        "text": "Smell it closely without permission.",
+        "text": "Hearing if appropriate",
         "is_correct": false
       },
       {
-        "text": "Do not touch or taste it; ask an adult.",
+        "text": "Touch only when an adult says it is safe",
+        "is_correct": false
+      },
+      {
+        "text": "Taste",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Unknown substances should only be handled under clear adult guidance.",
-      "hint": "Your senses are useful, but safety instructions come first."
+    "correct": 3,
+    "explanation": "Unknown substances should never be tasted.\nHint: Never taste unknown materials.",
+    "structuredExplanation": {
+      "summary": "Unknown substances should never be tasted.",
+      "hint": "Never taste unknown materials."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
+  },
+  {
+    "id": "ac9s1i02-p-007",
+    "curriculumCode": "AC9S1I02",
+    "bank": "practice",
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "Which clothing choice is safest for a messy water investigation?",
+    "audioPrompt": "Which clothing choice is safest for a messy water investigation?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A long scarf hanging over the table",
+        "is_correct": false
+      },
+      {
+        "text": "Loose jewellery beside moving parts",
+        "is_correct": false
+      },
+      {
+        "text": "Closed shoes and sleeves that do not dangle into equipment",
+        "is_correct": true
+      },
+      {
+        "text": "Bare feet",
+        "is_correct": false
+      }
+    ],
+    "correct": 2,
+    "explanation": "Secure clothing and closed shoes reduce avoidable hazards.\nHint: Think about spills and snagging.",
+    "structuredExplanation": {
+      "summary": "Secure clothing and closed shoes reduce avoidable hazards.",
+      "hint": "Think about spills and snagging."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
+  },
+  {
+    "id": "ac9s1i02-p-008",
+    "curriculumCode": "AC9S1I02",
+    "bank": "practice",
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "A class is using droppers. What is the safest use?",
+    "audioPrompt": "A class is using droppers. What is the safest use?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Mix every liquid together.",
+        "is_correct": false
+      },
+      {
+        "text": "Use only the liquid and amount the teacher provides.",
+        "is_correct": true
+      },
+      {
+        "text": "Squirt liquid at classmates.",
+        "is_correct": false
+      },
+      {
+        "text": "Taste the drops.",
+        "is_correct": false
+      }
+    ],
+    "correct": 1,
+    "explanation": "Following the approved procedure keeps the investigation controlled.\nHint: Use equipment only as instructed.",
+    "structuredExplanation": {
+      "summary": "Following the approved procedure keeps the investigation controlled.",
+      "hint": "Use equipment only as instructed."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
+  },
+  {
+    "id": "ac9s1i02-p-009",
+    "curriculumCode": "AC9S1I02",
+    "bank": "practice",
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "A battery feels hot during an investigation. What should you do?",
+    "audioPrompt": "A battery feels hot during an investigation. What should you do?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Stop using it and tell an adult.",
+        "is_correct": true
+      },
+      {
+        "text": "Hold it tighter.",
+        "is_correct": false
+      },
+      {
+        "text": "Put it in water.",
+        "is_correct": false
+      },
+      {
+        "text": "Hide it.",
+        "is_correct": false
+      }
+    ],
+    "correct": 0,
+    "explanation": "Unexpected heat can signal a problem, so stop and report it.\nHint: Hot equipment = stop and tell.",
+    "structuredExplanation": {
+      "summary": "Unexpected heat can signal a problem, so stop and report it.",
+      "hint": "Hot equipment = stop and tell."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
+  },
+  {
+    "id": "ac9s1i02-p-010",
+    "curriculumCode": "AC9S1I02",
+    "bank": "practice",
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "Which place is best for a rolling-ball test?",
+    "audioPrompt": "Which place is best for a rolling-ball test?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "At the top of stairs.",
+        "is_correct": false
+      },
+      {
+        "text": "Across a doorway.",
+        "is_correct": false
+      },
+      {
+        "text": "Beside a wet spill.",
+        "is_correct": false
+      },
+      {
+        "text": "A clear floor area away from people walking.",
+        "is_correct": true
+      }
+    ],
+    "correct": 3,
+    "explanation": "A clear area reduces collision and slipping risks.\nHint: Choose a controlled space.",
+    "structuredExplanation": {
+      "summary": "A clear area reduces collision and slipping risks.",
+      "hint": "Choose a controlled space."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
+  },
+  {
+    "id": "ac9s1i02-p-011",
+    "curriculumCode": "AC9S1I02",
+    "bank": "practice",
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "Why should you follow the same safe steps each time you repeat an investigation?",
+    "audioPrompt": "Why should you follow the same safe steps each time you repeat an investigation?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It makes tools stronger.",
+        "is_correct": false
+      },
+      {
+        "text": "It stops all mistakes forever.",
+        "is_correct": false
+      },
+      {
+        "text": "It helps keep people safe and makes the procedure consistent.",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same result.",
+        "is_correct": false
+      }
+    ],
+    "correct": 2,
+    "explanation": "Consistent safe procedures protect people and support fair comparisons.\nHint: Safety and consistency both matter.",
+    "structuredExplanation": {
+      "summary": "Consistent safe procedures protect people and support fair comparisons.",
+      "hint": "Safety and consistency both matter."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
+  },
+  {
+    "id": "ac9s1i02-p-012",
+    "curriculumCode": "AC9S1I02",
+    "bank": "practice",
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "Why should unknown liquids not be smelled closely?",
+    "audioPrompt": "Why should unknown liquids not be smelled closely?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Your nose cannot observe anything.",
+        "is_correct": false
+      },
+      {
+        "text": "Some may be harmful, so you should not bring them near your face.",
+        "is_correct": true
+      },
+      {
+        "text": "All liquids smell bad.",
+        "is_correct": false
+      },
+      {
+        "text": "Smelling changes the colour.",
+        "is_correct": false
+      }
+    ],
+    "correct": 1,
+    "explanation": "Unknown substances can be unsafe to inhale.\nHint: Keep unknown substances away from your face.",
+    "structuredExplanation": {
+      "summary": "Unknown substances can be unsafe to inhale.",
+      "hint": "Keep unknown substances away from your face."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
+  },
+  {
+    "id": "ac9s1i02-p-013",
+    "curriculumCode": "AC9S1I02",
+    "bank": "practice",
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "Why is a tray useful during a water investigation?",
+    "audioPrompt": "Why is a tray useful during a water investigation?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It can help contain small spills and keep the area controlled.",
+        "is_correct": true
+      },
+      {
+        "text": "It makes water heavier.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees no spill can happen.",
+        "is_correct": false
+      },
+      {
+        "text": "It measures temperature.",
+        "is_correct": false
+      }
+    ],
+    "correct": 0,
+    "explanation": "A tray can reduce mess and help keep water away from unsafe areas.\nHint: Think containment.",
+    "structuredExplanation": {
+      "summary": "A tray can reduce mess and help keep water away from unsafe areas.",
+      "hint": "Think containment."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
+  },
+  {
+    "id": "ac9s1i02-p-014",
+    "curriculumCode": "AC9S1I02",
+    "bank": "practice",
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "Why should long hair be tied back near moving equipment?",
+    "audioPrompt": "Why should long hair be tied back near moving equipment?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "So results become correct.",
+        "is_correct": false
+      },
+      {
+        "text": "So hair grows faster.",
+        "is_correct": false
+      },
+      {
+        "text": "Because science requires short hair.",
+        "is_correct": false
+      },
+      {
+        "text": "So it does not become caught or fall into the investigation.",
+        "is_correct": true
+      }
+    ],
+    "correct": 3,
+    "explanation": "Securing hair reduces snagging and contamination risks.\nHint: Keep loose things away from equipment.",
+    "structuredExplanation": {
+      "summary": "Securing hair reduces snagging and contamination risks.",
+      "hint": "Keep loose things away from equipment."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
+  },
+  {
+    "id": "ac9s1i02-p-015",
+    "curriculumCode": "AC9S1I02",
+    "bank": "practice",
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "Why should you tell an adult about damaged equipment?",
+    "audioPrompt": "Why should you tell an adult about damaged equipment?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Adults like fixing things.",
+        "is_correct": false
+      },
+      {
+        "text": "Damaged tools give better results.",
+        "is_correct": false
+      },
+      {
+        "text": "Damaged equipment may not work safely.",
+        "is_correct": true
+      },
+      {
+        "text": "It is always expensive.",
+        "is_correct": false
+      }
+    ],
+    "correct": 2,
+    "explanation": "Cracks, sharp edges or exposed parts can create hazards.\nHint: Damage can make equipment unsafe.",
+    "structuredExplanation": {
+      "summary": "Cracks, sharp edges or exposed parts can create hazards.",
+      "hint": "Damage can make equipment unsafe."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
+  },
+  {
+    "id": "ac9s1i02-p-016",
+    "curriculumCode": "AC9S1I02",
+    "bank": "practice",
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "Why should living things be returned carefully after observation?",
+    "audioPrompt": "Why should living things be returned carefully after observation?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Because all animals belong indoors.",
+        "is_correct": false
+      },
+      {
+        "text": "To reduce harm and disturbance.",
+        "is_correct": true
+      },
+      {
+        "text": "To make them remember the class.",
+        "is_correct": false
+      },
+      {
+        "text": "To make the result prettier.",
+        "is_correct": false
+      }
+    ],
+    "correct": 1,
+    "explanation": "Ethical investigations minimise harm to living things.\nHint: Observe, then leave living things safe.",
+    "structuredExplanation": {
+      "summary": "Ethical investigations minimise harm to living things.",
+      "hint": "Observe, then leave living things safe."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
+  },
+  {
+    "id": "ac9s1i02-p-017",
+    "curriculumCode": "AC9S1I02",
+    "bank": "practice",
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "Why are closed shoes better than bare feet during many classroom investigations?",
+    "audioPrompt": "Why are closed shoes better than bare feet during many classroom investigations?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "They help protect feet from spills and dropped objects.",
+        "is_correct": true
+      },
+      {
+        "text": "They make you run faster.",
+        "is_correct": false
+      },
+      {
+        "text": "They improve eyesight.",
+        "is_correct": false
+      },
+      {
+        "text": "They stop every accident.",
+        "is_correct": false
+      }
+    ],
+    "correct": 0,
+    "explanation": "Closed shoes add protection from common classroom hazards.\nHint: Think about what could fall or spill.",
+    "structuredExplanation": {
+      "summary": "Closed shoes add protection from common classroom hazards.",
+      "hint": "Think about what could fall or spill."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 17,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
+  },
+  {
+    "id": "ac9s1i02-p-018",
+    "curriculumCode": "AC9S1I02",
+    "bank": "practice",
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "Why should a candle not be used in a Year 1 investigation unless an adult is directly managing it?",
+    "audioPrompt": "Why should a candle not be used in a Year 1 investigation unless an adult is directly managing it?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Candles are too bright.",
+        "is_correct": false
+      },
+      {
+        "text": "Fire cannot be observed.",
+        "is_correct": false
+      },
+      {
+        "text": "Wax is not a material.",
+        "is_correct": false
+      },
+      {
+        "text": "Flames can burn people and start fires.",
+        "is_correct": true
+      }
+    ],
+    "correct": 3,
+    "explanation": "Open flames require adult control because of burn and fire risk.\nHint: Flame = adult-controlled hazard.",
+    "structuredExplanation": {
+      "summary": "Open flames require adult control because of burn and fire risk.",
+      "hint": "Flame = adult-controlled hazard."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 18,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
+  },
+  {
+    "id": "ac9s1i02-p-019",
+    "curriculumCode": "AC9S1I02",
+    "bank": "practice",
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "Why should only teacher-approved materials be mixed?",
+    "audioPrompt": "Why should only teacher-approved materials be mixed?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Colours always disappear.",
+        "is_correct": false
+      },
+      {
+        "text": "Approved materials taste better.",
+        "is_correct": false
+      },
+      {
+        "text": "Some combinations may be unsafe or behave unexpectedly.",
+        "is_correct": true
+      },
+      {
+        "text": "Mixing is never science.",
+        "is_correct": false
+      }
+    ],
+    "correct": 2,
+    "explanation": "Controlled investigations avoid unknown chemical or physical hazards.\nHint: Do not mix unknown things.",
+    "structuredExplanation": {
+      "summary": "Controlled investigations avoid unknown chemical or physical hazards.",
+      "hint": "Do not mix unknown things."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 19,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
+  },
+  {
+    "id": "ac9s1i02-p-020",
+    "curriculumCode": "AC9S1I02",
+    "bank": "practice",
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "Why is running around an investigation table unsafe?",
+    "audioPrompt": "Why is running around an investigation table unsafe?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Walking is a science rule only.",
+        "is_correct": false
+      },
+      {
+        "text": "You could bump people, spill materials or knock equipment over.",
+        "is_correct": true
+      },
+      {
+        "text": "Running changes gravity.",
+        "is_correct": false
+      },
+      {
+        "text": "Tables are always sharp.",
+        "is_correct": false
+      }
+    ],
+    "correct": 1,
+    "explanation": "Moving calmly helps keep the work area controlled.\nHint: Think collisions and spills.",
+    "structuredExplanation": {
+      "summary": "Moving calmly helps keep the work area controlled.",
+      "hint": "Think collisions and spills."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 20,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
+  },
+  {
+    "id": "ac9s1i02-p-021",
+    "curriculumCode": "AC9S1I02",
+    "bank": "practice",
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "Which child is using safe procedure?",
+    "audioPrompt": "Which child is using safe procedure?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Mia reads the instruction card before touching the equipment.",
+        "is_correct": true
+      },
+      {
+        "text": "Leo tastes a powder to identify it.",
+        "is_correct": false
+      },
+      {
+        "text": "Sam points a magnifier at the sun.",
+        "is_correct": false
+      },
+      {
+        "text": "Ari runs with glassware.",
+        "is_correct": false
+      }
+    ],
+    "correct": 0,
+    "explanation": "Reading instructions before starting supports safe use of equipment.\nHint: Who checks before acting?",
+    "structuredExplanation": {
+      "summary": "Reading instructions before starting supports safe use of equipment.",
+      "hint": "Who checks before acting?"
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 21,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
+  },
+  {
+    "id": "ac9s1i02-p-022",
+    "curriculumCode": "AC9S1I02",
+    "bank": "practice",
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "You find a plant with unknown sap. Which action is best?",
+    "audioPrompt": "You find a plant with unknown sap. Which action is best?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Rub the sap on your skin.",
+        "is_correct": false
+      },
+      {
+        "text": "Taste the sap.",
+        "is_correct": false
+      },
+      {
+        "text": "Smell it closely.",
+        "is_correct": false
+      },
+      {
+        "text": "Observe it without touching and ask an adult about it.",
+        "is_correct": true
+      }
+    ],
+    "correct": 3,
+    "explanation": "Unknown plant substances should not be touched, tasted or inhaled.\nHint: Observe safely.",
+    "structuredExplanation": {
+      "summary": "Unknown plant substances should not be touched, tasted or inhaled.",
+      "hint": "Observe safely."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 22,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
+  },
+  {
+    "id": "ac9s1i02-p-023",
+    "curriculumCode": "AC9S1I02",
+    "bank": "practice",
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "Which action is unsafe during a magnet test?",
+    "audioPrompt": "Which action is unsafe during a magnet test?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Counting paper clips picked up.",
+        "is_correct": false
+      },
+      {
+        "text": "Following the teacher’s setup.",
+        "is_correct": false
+      },
+      {
+        "text": "Putting magnets near a school tablet without permission.",
+        "is_correct": true
+      },
+      {
+        "text": "Keeping magnets on the work mat.",
+        "is_correct": false
+      }
+    ],
+    "correct": 2,
+    "explanation": "Magnets can affect some electronic devices, so keep them away unless approved.\nHint: Protect nearby equipment.",
+    "structuredExplanation": {
+      "summary": "Magnets can affect some electronic devices, so keep them away unless approved.",
+      "hint": "Protect nearby equipment."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 23,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
+  },
+  {
+    "id": "ac9s1i02-p-024",
+    "curriculumCode": "AC9S1I02",
+    "bank": "practice",
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "Which plan is safest for testing which ball rolls farther?",
+    "audioPrompt": "Which plan is safest for testing which ball rolls farther?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Test on stairs.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a clear marked lane and roll one ball at a time.",
+        "is_correct": true
+      },
+      {
+        "text": "Roll balls through a busy doorway.",
+        "is_correct": false
+      },
+      {
+        "text": "Throw balls at a wall above people.",
+        "is_correct": false
+      }
+    ],
+    "correct": 1,
+    "explanation": "A controlled lane keeps moving objects away from people.\nHint: Create a safe path.",
+    "structuredExplanation": {
+      "summary": "A controlled lane keeps moving objects away from people.",
+      "hint": "Create a safe path."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 24,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
+  },
+  {
+    "id": "ac9s1i02-p-025",
+    "curriculumCode": "AC9S1I02",
+    "bank": "practice",
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "Which response to a spill is wrong?",
+    "audioPrompt": "Which response to a spill is wrong?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Touch it first to find out what it is.",
+        "is_correct": true
+      },
+      {
+        "text": "Stop the activity.",
+        "is_correct": false
+      },
+      {
+        "text": "Move away from the spill.",
+        "is_correct": false
+      },
+      {
+        "text": "Tell an adult.",
+        "is_correct": false
+      }
+    ],
+    "correct": 0,
+    "explanation": "Unknown spills should not be touched.\nHint: Do not investigate a hazard with your body.",
+    "structuredExplanation": {
+      "summary": "Unknown spills should not be touched.",
+      "hint": "Do not investigate a hazard with your body."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 25,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
+  },
+  {
+    "id": "ac9s1i02-p-026",
+    "curriculumCode": "AC9S1I02",
+    "bank": "practice",
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "Which tool choice creates the least risk for measuring paper length?",
+    "audioPrompt": "Which tool choice creates the least risk for measuring paper length?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Craft knife",
+        "is_correct": false
+      },
+      {
+        "text": "Hot glue gun",
+        "is_correct": false
+      },
+      {
+        "text": "Glass shard",
+        "is_correct": false
+      },
+      {
+        "text": "Plastic ruler",
+        "is_correct": true
+      }
+    ],
+    "correct": 3,
+    "explanation": "A simple plastic ruler is appropriate and low risk.\nHint: Use the simplest safe tool.",
+    "structuredExplanation": {
+      "summary": "A simple plastic ruler is appropriate and low risk.",
+      "hint": "Use the simplest safe tool."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 26,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
+  },
+  {
+    "id": "ac9s1i02-p-027",
+    "curriculumCode": "AC9S1I02",
+    "bank": "practice",
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "Which statement about safety is correct?",
+    "audioPrompt": "Which statement about safety is correct?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Only dangerous-looking tools need care.",
+        "is_correct": false
+      },
+      {
+        "text": "Safety matters only after an accident.",
+        "is_correct": false
+      },
+      {
+        "text": "A familiar activity can still need safety rules.",
+        "is_correct": true
+      },
+      {
+        "text": "If you did it before, no rules are needed.",
+        "is_correct": false
+      }
+    ],
+    "correct": 2,
+    "explanation": "Routine activities can still involve spills, sharp edges or moving objects.\nHint: Familiar does not mean risk-free.",
+    "structuredExplanation": {
+      "summary": "Routine activities can still involve spills, sharp edges or moving objects.",
+      "hint": "Familiar does not mean risk-free."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 27,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
+  },
+  {
+    "id": "ac9s1i02-p-028",
+    "curriculumCode": "AC9S1I02",
+    "bank": "practice",
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "Which observation method is safest for a spider?",
+    "audioPrompt": "Which observation method is safest for a spider?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Poke it repeatedly.",
+        "is_correct": false
+      },
+      {
+        "text": "Look from a safe distance without handling it.",
+        "is_correct": true
+      },
+      {
+        "text": "Pick it up with bare hands.",
+        "is_correct": false
+      },
+      {
+        "text": "Trap it tightly in your fist.",
+        "is_correct": false
+      }
+    ],
+    "correct": 1,
+    "explanation": "Distance allows observation while protecting both person and animal.\nHint: Observe without handling.",
+    "structuredExplanation": {
+      "summary": "Distance allows observation while protecting both person and animal.",
+      "hint": "Observe without handling."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 28,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
+  },
+  {
+    "id": "ac9s1i02-p-029",
+    "curriculumCode": "AC9S1I02",
+    "bank": "practice",
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "A wire coating is damaged. What should happen?",
+    "audioPrompt": "A wire coating is damaged. What should happen?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Do not use it; tell an adult.",
+        "is_correct": true
+      },
+      {
+        "text": "Wrap it around your finger.",
+        "is_correct": false
+      },
+      {
+        "text": "Put it in water.",
+        "is_correct": false
+      },
+      {
+        "text": "Use it quickly before anyone notices.",
+        "is_correct": false
+      }
+    ],
+    "correct": 0,
+    "explanation": "Damaged electrical equipment should not be used.\nHint: Damage = stop.",
+    "structuredExplanation": {
+      "summary": "Damaged electrical equipment should not be used.",
+      "hint": "Damage = stop."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 29,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
+  },
+  {
+    "id": "ac9s1i02-p-030",
+    "curriculumCode": "AC9S1I02",
+    "bank": "practice",
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "Which is the best reason to keep bags away from the investigation floor area?",
+    "audioPrompt": "Which is the best reason to keep bags away from the investigation floor area?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "To make bags cleaner only.",
+        "is_correct": false
+      },
+      {
+        "text": "To change the experiment result.",
+        "is_correct": false
+      },
+      {
+        "text": "Because bags are not science objects.",
+        "is_correct": false
+      },
+      {
+        "text": "To prevent trips and blocked movement.",
+        "is_correct": true
+      }
+    ],
+    "correct": 3,
+    "explanation": "Clear walkways reduce tripping hazards.\nHint: Keep pathways clear.",
+    "structuredExplanation": {
+      "summary": "Clear walkways reduce tripping hazards.",
+      "hint": "Keep pathways clear."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 30,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
+  },
+  {
+    "id": "ac9s1i02-p-031",
+    "curriculumCode": "AC9S1I02",
+    "bank": "practice",
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "You are about to compare how far two toy cars roll. What setup is safest?",
+    "audioPrompt": "You are about to compare how far two toy cars roll. What setup is safest?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Stand directly in front of the cars.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the stairs.",
+        "is_correct": false
+      },
+      {
+        "text": "Clear a straight lane, mark a start line and keep observers to the side.",
+        "is_correct": true
+      },
+      {
+        "text": "Roll through the classroom doorway.",
+        "is_correct": false
+      }
+    ],
+    "correct": 2,
+    "explanation": "A controlled lane protects people and makes the test easier to repeat.\nHint: Safe space + clear boundaries.",
+    "structuredExplanation": {
+      "summary": "A controlled lane protects people and makes the test easier to repeat.",
+      "hint": "Safe space + clear boundaries."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 31,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
+  },
+  {
+    "id": "ac9s1i02-p-032",
+    "curriculumCode": "AC9S1I02",
+    "bank": "practice",
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "A class wants to observe pond water. Which plan is safest?",
+    "audioPrompt": "A class wants to observe pond water. Which plan is safest?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Smell it closely.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a sealed sample provided by an adult and observe without tasting or touching it.",
+        "is_correct": true
+      },
+      {
+        "text": "Collect unknown water and drink some.",
+        "is_correct": false
+      },
+      {
+        "text": "Rub the sample on skin.",
+        "is_correct": false
+      }
+    ],
+    "correct": 1,
+    "explanation": "Adult-provided contained samples reduce exposure to unknown organisms or substances.\nHint: Unknown water stays contained.",
+    "structuredExplanation": {
+      "summary": "Adult-provided contained samples reduce exposure to unknown organisms or substances.",
+      "hint": "Unknown water stays contained."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 32,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
+  },
+  {
+    "id": "ac9s1i02-p-033",
+    "curriculumCode": "AC9S1I02",
+    "bank": "practice",
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "A child notices scissors have a loose blade before cutting paper. What should they do?",
+    "audioPrompt": "A child notices scissors have a loose blade before cutting paper. What should they do?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Stop and give them to an adult.",
+        "is_correct": true
+      },
+      {
+        "text": "Use them carefully anyway.",
+        "is_correct": false
+      },
+      {
+        "text": "Tighten them while cutting.",
+        "is_correct": false
+      },
+      {
+        "text": "Hide the problem.",
+        "is_correct": false
+      }
+    ],
+    "correct": 0,
+    "explanation": "Damaged sharp tools should be removed from use.\nHint: Do not continue with damaged equipment.",
+    "structuredExplanation": {
+      "summary": "Damaged sharp tools should be removed from use.",
+      "hint": "Do not continue with damaged equipment."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 33,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
+  },
+  {
+    "id": "ac9s1i02-p-034",
+    "curriculumCode": "AC9S1I02",
+    "bank": "practice",
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "During a soil investigation, you find a sharp metal piece. What is the best response?",
+    "audioPrompt": "During a soil investigation, you find a sharp metal piece. What is the best response?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Pick it up bare-handed.",
+        "is_correct": false
+      },
+      {
+        "text": "Put it in your pocket.",
+        "is_correct": false
+      },
+      {
+        "text": "Bury it deeper.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave it where it is, keep others back and tell an adult.",
+        "is_correct": true
+      }
+    ],
+    "correct": 3,
+    "explanation": "Avoid contact with unknown sharp objects and alert an adult.\nHint: Stop, keep back, report.",
+    "structuredExplanation": {
+      "summary": "Avoid contact with unknown sharp objects and alert an adult.",
+      "hint": "Stop, keep back, report."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 34,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
+  },
+  {
+    "id": "ac9s1i02-p-035",
+    "curriculumCode": "AC9S1I02",
+    "bank": "practice",
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "A class is testing absorbency with small cups of water. Which rule is most useful?",
+    "audioPrompt": "A class is testing absorbency with small cups of water. Which rule is most useful?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Pour water near power points.",
+        "is_correct": false
+      },
+      {
+        "text": "Race while holding the cups.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep water on a tray and wipe/report spills straight away.",
+        "is_correct": true
+      },
+      {
+        "text": "Fill cups to the top and carry them around.",
+        "is_correct": false
+      }
+    ],
+    "correct": 2,
+    "explanation": "Containment and quick spill management reduce slipping and electrical risks.\nHint: Control the water.",
+    "structuredExplanation": {
+      "summary": "Containment and quick spill management reduce slipping and electrical risks.",
+      "hint": "Control the water."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 35,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
+  },
+  {
+    "id": "ac9s1i02-p-036",
+    "curriculumCode": "AC9S1I02",
+    "bank": "practice",
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "You want to look closely at a leaf. Which method is safest?",
+    "audioPrompt": "You want to look closely at a leaf. Which method is safest?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use a sharp blade to cut it without permission.",
+        "is_correct": false
+      },
+      {
+        "text": "Place it on the table and use a magnifier normally.",
+        "is_correct": true
+      },
+      {
+        "text": "Focus sunlight through the magnifier.",
+        "is_correct": false
+      },
+      {
+        "text": "Hold the magnifier against your eye.",
+        "is_correct": false
+      }
+    ],
+    "correct": 1,
+    "explanation": "Normal magnifier use provides close observation without creating heat or eye risk.\nHint: Magnify the object, not the sun.",
+    "structuredExplanation": {
+      "summary": "Normal magnifier use provides close observation without creating heat or eye risk.",
+      "hint": "Magnify the object, not the sun."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 36,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
+  },
+  {
+    "id": "ac9s1i02-p-037",
+    "curriculumCode": "AC9S1I02",
+    "bank": "practice",
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "A bee lands near your outdoor investigation. What should you do?",
+    "audioPrompt": "A bee lands near your outdoor investigation. What should you do?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Stay calm, move away slowly and tell an adult if needed.",
+        "is_correct": true
+      },
+      {
+        "text": "Swat at it.",
+        "is_correct": false
+      },
+      {
+        "text": "Grab it.",
+        "is_correct": false
+      },
+      {
+        "text": "Chase it.",
+        "is_correct": false
+      }
+    ],
+    "correct": 0,
+    "explanation": "Calm distance reduces the chance of stings and avoids harming the bee.\nHint: Give wildlife space.",
+    "structuredExplanation": {
+      "summary": "Calm distance reduces the chance of stings and avoids harming the bee.",
+      "hint": "Give wildlife space."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 37,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
+  },
+  {
+    "id": "ac9s1i02-p-038",
+    "curriculumCode": "AC9S1I02",
+    "bank": "practice",
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "A class wants to compare sounds made by objects. Which plan is safest for hearing?",
+    "audioPrompt": "A class wants to compare sounds made by objects. Which plan is safest for hearing?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Bang metal beside someone’s ear.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the loudest possible sound.",
+        "is_correct": false
+      },
+      {
+        "text": "Put objects inside the ear.",
+        "is_correct": false
+      },
+      {
+        "text": "Make gentle sounds and keep objects away from ears.",
+        "is_correct": true
+      }
+    ],
+    "correct": 3,
+    "explanation": "Sound investigations should avoid loud noises close to ears.\nHint: Protect hearing.",
+    "structuredExplanation": {
+      "summary": "Sound investigations should avoid loud noises close to ears.",
+      "hint": "Protect hearing."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 38,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
+  },
+  {
+    "id": "ac9s1i02-p-039",
+    "curriculumCode": "AC9S1I02",
+    "bank": "practice",
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "A child gets an unknown substance on their hand. What should happen?",
+    "audioPrompt": "A child gets an unknown substance on their hand. What should happen?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Wipe it on clothing and continue.",
+        "is_correct": false
+      },
+      {
+        "text": "Hide it.",
+        "is_correct": false
+      },
+      {
+        "text": "Tell an adult immediately and follow the instructed washing procedure.",
+        "is_correct": true
+      },
+      {
+        "text": "Taste it to identify it.",
+        "is_correct": false
+      }
+    ],
+    "correct": 2,
+    "explanation": "Unknown exposure should be reported so the correct response can be followed.\nHint: Tell first.",
+    "structuredExplanation": {
+      "summary": "Unknown exposure should be reported so the correct response can be followed.",
+      "hint": "Tell first."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 39,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
+  },
+  {
+    "id": "ac9s1i02-p-040",
+    "curriculumCode": "AC9S1I02",
+    "bank": "practice",
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "Which investigation shows both safety and care for living things?",
+    "audioPrompt": "Which investigation shows both safety and care for living things?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep them without water.",
+        "is_correct": false
+      },
+      {
+        "text": "Observe worms in a damp tray briefly, handle only if instructed, then return them carefully.",
+        "is_correct": true
+      },
+      {
+        "text": "Leave worms in the sun all day.",
+        "is_correct": false
+      },
+      {
+        "text": "Stretch worms to measure them.",
+        "is_correct": false
+      }
+    ],
+    "correct": 1,
+    "explanation": "The first plan limits handling and disturbance while allowing observation.\nHint: Science should not harm the organism.",
+    "structuredExplanation": {
+      "summary": "The first plan limits handling and disturbance while allowing observation.",
+      "hint": "Science should not harm the organism."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 40,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
+  },
+  {
+    "id": "ac9s1i02-t-001",
+    "curriculumCode": "AC9S1I02",
+    "bank": "test",
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "A jar cracks during an investigation. What should you do first?",
+    "audioPrompt": "A jar cracks during an investigation. What should you do first?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep using it.",
+        "is_correct": false
+      },
+      {
+        "text": "Touch the crack.",
+        "is_correct": false
+      },
+      {
+        "text": "Throw it in a classroom bin yourself.",
+        "is_correct": false
+      },
+      {
+        "text": "Stop and tell an adult.",
+        "is_correct": true
+      }
+    ],
+    "correct": 3,
+    "explanation": "Cracked containers can have sharp edges.\nHint: Stop before touching damaged equipment.",
+    "structuredExplanation": {
+      "summary": "Cracked containers can have sharp edges.",
+      "hint": "Stop before touching damaged equipment."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
   },
   {
-    "id": "AC9S1I02-P-007",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I02",
-    "bank": "practice",
-    "skill": "ac9s1i02_07",
-    "question": "What should happen before starting pouring small amounts of clean water between plastic cups?",
-    "audio_prompt": "What should happen before starting pouring small amounts of clean water between plastic cups?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i02.svg#ac9s1i02-p-007",
-      "alt_text": "👂 listen; 👀 check; 💧 begin safely"
+    "id": "ac9s1i02-t-002",
+    "curriculumCode": "AC9S1I02",
+    "bank": "test",
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "Which is safest when using a ruler to measure sticks?",
+    "audioPrompt": "Which is safest when using a ruler to measure sticks?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Listen to the instructions and check that the area is safe.",
+        "text": "Run while carrying the sticks.",
+        "is_correct": false
+      },
+      {
+        "text": "Measure on stairs.",
+        "is_correct": false
+      },
+      {
+        "text": "Lay the sticks on a table and measure calmly.",
         "is_correct": true
       },
       {
-        "text": "Begin before the equipment is ready.",
-        "is_correct": false
-      },
-      {
-        "text": "Move safety equipment away.",
+        "text": "Wave the ruler near faces.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "A safe investigation begins with instructions and a checked setup.",
-      "hint": "Pause before starting and look for hazards."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9S1I02-P-008",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I02",
-    "bank": "practice",
-    "skill": "ac9s1i02_08",
-    "question": "What should happen after pouring small amounts of clean water between plastic cups?",
-    "audio_prompt": "What should happen after pouring small amounts of clean water between plastic cups?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i02.svg#ac9s1i02-p-008",
-      "alt_text": "💧 finish; 🧹 clean; 🧼 wash"
-    },
-    "answers": [
-      {
-        "text": "Leave equipment on the floor.",
-        "is_correct": false
-      },
-      {
-        "text": "Pack up safely, clean the area and wash hands if instructed.",
-        "is_correct": true
-      },
-      {
-        "text": "Walk away from spills or mess.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Safe investigations include careful cleaning and packing up.",
-      "hint": "Safety continues until the area and equipment are ready for the next group."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9S1I02-P-009",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I02",
-    "bank": "practice",
-    "skill": "ac9s1i02_01",
-    "question": "Which action makes rolling toy cars down a ramp safer?",
-    "audio_prompt": "Which action makes rolling toy cars down a ramp safer?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i02.svg#ac9s1i02-p-009",
-      "alt_text": "🚗 rolling toy cars down a ramp; ✅ Make the ramp stable and keep the path clear.; ⚠️ risk"
-    },
-    "answers": [
-      {
-        "text": "stand in front of the moving car",
-        "is_correct": false
-      },
-      {
-        "text": "Start before checking the area or equipment.",
-        "is_correct": false
-      },
-      {
-        "text": "Make the ramp stable and keep the path clear.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Make the ramp stable and keep the path clear. reduces a real risk in the investigation.",
-      "hint": "Choose the action that protects people and keeps the setup controlled."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9S1I02-P-010",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I02",
-    "bank": "practice",
-    "skill": "ac9s1i02_02",
-    "question": "Which situation is a hazard during rolling toy cars down a ramp?",
-    "audio_prompt": "Which situation is a hazard during rolling toy cars down a ramp?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i02.svg#ac9s1i02-p-010",
-      "alt_text": "🚗 rolling toy cars down a ramp; ⚠️ a loose ramp; 🛑 stop"
-    },
-    "answers": [
-      {
-        "text": "a loose ramp",
-        "is_correct": true
-      },
-      {
-        "text": "a clear work area",
-        "is_correct": false
-      },
-      {
-        "text": "following the teacher's directions",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "A loose ramp could cause harm and needs attention.",
-      "hint": "A hazard is something that could hurt someone or make the area unsafe."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S1I02-P-011",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I02",
-    "bank": "practice",
-    "skill": "ac9s1i02_03",
-    "question": "What should you do if you notice a loose ramp?",
-    "audio_prompt": "What should you do if you notice a loose ramp?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i02.svg#ac9s1i02-p-011",
-      "alt_text": "⚠️ a loose ramp; 🛑 stop; 🧑 Stop and ask an adult to steady the ramp."
-    },
-    "answers": [
-      {
-        "text": "stand in front of the moving car",
-        "is_correct": false
-      },
-      {
-        "text": "Stop and ask an adult to steady the ramp.",
-        "is_correct": true
-      },
-      {
-        "text": "Keep it secret and continue.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Stop and ask an adult to steady the ramp. is the safe response.",
-      "hint": "Stop, keep others safe and get adult help."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S1I02-P-012",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I02",
-    "bank": "practice",
-    "skill": "ac9s1i02_04",
-    "question": "Which equipment is suitable for rolling toy cars down a ramp?",
-    "audio_prompt": "Which equipment is suitable for rolling toy cars down a ramp?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i02.svg#ac9s1i02-p-012",
-      "alt_text": "🚗 rolling toy cars down a ramp; 🧰 a strong, stable ramp; ✅ approved"
-    },
-    "answers": [
-      {
-        "text": "an unknown chemical",
-        "is_correct": false
-      },
-      {
-        "text": "a cracked glass container",
-        "is_correct": false
-      },
-      {
-        "text": "a strong, stable ramp",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "A strong, stable ramp supports the activity safely.",
-      "hint": "Use teacher-approved equipment that matches the task."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S1I02-P-013",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I02",
-    "bank": "practice",
-    "skill": "ac9s1i02_05",
-    "question": "Which action is unsafe during rolling toy cars down a ramp?",
-    "audio_prompt": "Which action is unsafe during rolling toy cars down a ramp?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i02.svg#ac9s1i02-p-013",
-      "alt_text": "✅ Make the ramp stable and keep the path clear.; ❌ stand in front of the moving car; 🧑 adult help"
-    },
-    "answers": [
-      {
-        "text": "stand in front of the moving car",
-        "is_correct": true
-      },
-      {
-        "text": "Make the ramp stable and keep the path clear.",
-        "is_correct": false
-      },
-      {
-        "text": "Listen to the teacher.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Stand in front of the moving car increases the risk of harm.",
-      "hint": "Choose the action that breaks a safety rule."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S1I02-P-014",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I02",
-    "bank": "practice",
-    "skill": "ac9s1i02_06",
-    "question": "How should an unknown substance be checked during rolling toy cars down a ramp?",
-    "audio_prompt": "How should an unknown substance be checked during rolling toy cars down a ramp?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i02.svg#ac9s1i02-p-014",
-      "alt_text": "❓ unknown; ✋ do not touch; 🧑 ask an adult"
-    },
-    "answers": [
-      {
-        "text": "Taste a tiny amount.",
-        "is_correct": false
-      },
-      {
-        "text": "Do not touch or taste it; ask an adult.",
-        "is_correct": true
-      },
-      {
-        "text": "Smell it closely without permission.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Unknown substances should only be handled under clear adult guidance.",
-      "hint": "Your senses are useful, but safety instructions come first."
+    "correct": 2,
+    "explanation": "A stable work surface keeps the activity controlled.\nHint: Stable surface.",
+    "structuredExplanation": {
+      "summary": "A stable work surface keeps the activity controlled.",
+      "hint": "Stable surface."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
   },
   {
-    "id": "AC9S1I02-P-015",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I02",
-    "bank": "practice",
-    "skill": "ac9s1i02_07",
-    "question": "What should happen before starting rolling toy cars down a ramp?",
-    "audio_prompt": "What should happen before starting rolling toy cars down a ramp?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i02.svg#ac9s1i02-p-015",
-      "alt_text": "👂 listen; 👀 check; 🚗 begin safely"
+    "id": "ac9s1i02-t-003",
+    "curriculumCode": "AC9S1I02",
+    "bank": "test",
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "You see an unknown mushroom during an outdoor walk. What should you do?",
+    "audioPrompt": "You see an unknown mushroom during an outdoor walk. What should you do?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Begin before the equipment is ready.",
+        "text": "Pick it for a friend.",
         "is_correct": false
       },
       {
-        "text": "Move safety equipment away.",
-        "is_correct": false
-      },
-      {
-        "text": "Listen to the instructions and check that the area is safe.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "A safe investigation begins with instructions and a checked setup.",
-      "hint": "Pause before starting and look for hazards."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S1I02-P-016",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I02",
-    "bank": "practice",
-    "skill": "ac9s1i02_08",
-    "question": "What should happen after rolling toy cars down a ramp?",
-    "audio_prompt": "What should happen after rolling toy cars down a ramp?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i02.svg#ac9s1i02-p-016",
-      "alt_text": "🚗 finish; 🧹 clean; 🧼 wash"
-    },
-    "answers": [
-      {
-        "text": "Pack up safely, clean the area and wash hands if instructed.",
+        "text": "Look without touching and tell an adult.",
         "is_correct": true
       },
       {
-        "text": "Leave equipment on the floor.",
+        "text": "Taste a small piece.",
         "is_correct": false
       },
       {
-        "text": "Walk away from spills or mess.",
+        "text": "Rub it on your hand.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Safe investigations include careful cleaning and packing up.",
-      "hint": "Safety continues until the area and equipment are ready for the next group."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S1I02-P-017",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I02",
-    "bank": "practice",
-    "skill": "ac9s1i02_01",
-    "question": "Which action makes observing soil and seedlings safer?",
-    "audio_prompt": "Which action makes observing soil and seedlings safer?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i02.svg#ac9s1i02-p-017",
-      "alt_text": "🌱 observing soil and seedlings; ✅ Wash hands after touching the soil.; ⚠️ risk"
-    },
-    "answers": [
-      {
-        "text": "taste the unknown berry",
-        "is_correct": false
-      },
-      {
-        "text": "Wash hands after touching the soil.",
-        "is_correct": true
-      },
-      {
-        "text": "Start before checking the area or equipment.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Wash hands after touching the soil. reduces a real risk in the investigation.",
-      "hint": "Choose the action that protects people and keeps the setup controlled."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S1I02-P-018",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I02",
-    "bank": "practice",
-    "skill": "ac9s1i02_02",
-    "question": "Which situation is a hazard during observing soil and seedlings?",
-    "audio_prompt": "Which situation is a hazard during observing soil and seedlings?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i02.svg#ac9s1i02-p-018",
-      "alt_text": "🌱 observing soil and seedlings; ⚠️ an unknown berry in the soil; 🛑 stop"
-    },
-    "answers": [
-      {
-        "text": "a clear work area",
-        "is_correct": false
-      },
-      {
-        "text": "following the teacher's directions",
-        "is_correct": false
-      },
-      {
-        "text": "an unknown berry in the soil",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "An unknown berry in the soil could cause harm and needs attention.",
-      "hint": "A hazard is something that could hurt someone or make the area unsafe."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S1I02-P-019",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I02",
-    "bank": "practice",
-    "skill": "ac9s1i02_03",
-    "question": "What should you do if you notice an unknown berry in the soil?",
-    "audio_prompt": "What should you do if you notice an unknown berry in the soil?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i02.svg#ac9s1i02-p-019",
-      "alt_text": "⚠️ an unknown berry in the soil; 🛑 stop; 🧑 Do not touch or taste it; tell an adult."
-    },
-    "answers": [
-      {
-        "text": "Do not touch or taste it; tell an adult.",
-        "is_correct": true
-      },
-      {
-        "text": "taste the unknown berry",
-        "is_correct": false
-      },
-      {
-        "text": "Keep it secret and continue.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Do not touch or taste it; tell an adult. is the safe response.",
-      "hint": "Stop, keep others safe and get adult help."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S1I02-P-020",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I02",
-    "bank": "practice",
-    "skill": "ac9s1i02_04",
-    "question": "Which equipment is suitable for observing soil and seedlings?",
-    "audio_prompt": "Which equipment is suitable for observing soil and seedlings?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i02.svg#ac9s1i02-p-020",
-      "alt_text": "🌱 observing soil and seedlings; 🧰 a hand lens; ✅ approved"
-    },
-    "answers": [
-      {
-        "text": "an unknown chemical",
-        "is_correct": false
-      },
-      {
-        "text": "a hand lens",
-        "is_correct": true
-      },
-      {
-        "text": "a cracked glass container",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "A hand lens supports the activity safely.",
-      "hint": "Use teacher-approved equipment that matches the task."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S1I02-P-021",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I02",
-    "bank": "practice",
-    "skill": "ac9s1i02_05",
-    "question": "Which action is unsafe during observing soil and seedlings?",
-    "audio_prompt": "Which action is unsafe during observing soil and seedlings?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i02.svg#ac9s1i02-p-021",
-      "alt_text": "✅ Wash hands after touching the soil.; ❌ taste the unknown berry; 🧑 adult help"
-    },
-    "answers": [
-      {
-        "text": "Wash hands after touching the soil.",
-        "is_correct": false
-      },
-      {
-        "text": "Listen to the teacher.",
-        "is_correct": false
-      },
-      {
-        "text": "taste the unknown berry",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Taste the unknown berry increases the risk of harm.",
-      "hint": "Choose the action that breaks a safety rule."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S1I02-P-022",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I02",
-    "bank": "practice",
-    "skill": "ac9s1i02_06",
-    "question": "How should an unknown substance be checked during observing soil and seedlings?",
-    "audio_prompt": "How should an unknown substance be checked during observing soil and seedlings?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i02.svg#ac9s1i02-p-022",
-      "alt_text": "❓ unknown; ✋ do not touch; 🧑 ask an adult"
-    },
-    "answers": [
-      {
-        "text": "Do not touch or taste it; ask an adult.",
-        "is_correct": true
-      },
-      {
-        "text": "Taste a tiny amount.",
-        "is_correct": false
-      },
-      {
-        "text": "Smell it closely without permission.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Unknown substances should only be handled under clear adult guidance.",
-      "hint": "Your senses are useful, but safety instructions come first."
+    "correct": 1,
+    "explanation": "Unknown fungi should not be touched or eaten.\nHint: Observe only.",
+    "structuredExplanation": {
+      "summary": "Unknown fungi should not be touched or eaten.",
+      "hint": "Observe only."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
   },
   {
-    "id": "AC9S1I02-P-023",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I02",
-    "bank": "practice",
-    "skill": "ac9s1i02_07",
-    "question": "What should happen before starting observing soil and seedlings?",
-    "audio_prompt": "What should happen before starting observing soil and seedlings?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i02.svg#ac9s1i02-p-023",
-      "alt_text": "👂 listen; 👀 check; 🌱 begin safely"
-    },
-    "answers": [
-      {
-        "text": "Begin before the equipment is ready.",
-        "is_correct": false
-      },
-      {
-        "text": "Listen to the instructions and check that the area is safe.",
-        "is_correct": true
-      },
-      {
-        "text": "Move safety equipment away.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "A safe investigation begins with instructions and a checked setup.",
-      "hint": "Pause before starting and look for hazards."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S1I02-P-024",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I02",
-    "bank": "practice",
-    "skill": "ac9s1i02_08",
-    "question": "What should happen after observing soil and seedlings?",
-    "audio_prompt": "What should happen after observing soil and seedlings?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i02.svg#ac9s1i02-p-024",
-      "alt_text": "🌱 finish; 🧹 clean; 🧼 wash"
-    },
-    "answers": [
-      {
-        "text": "Leave equipment on the floor.",
-        "is_correct": false
-      },
-      {
-        "text": "Walk away from spills or mess.",
-        "is_correct": false
-      },
-      {
-        "text": "Pack up safely, clean the area and wash hands if instructed.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Safe investigations include careful cleaning and packing up.",
-      "hint": "Safety continues until the area and equipment are ready for the next group."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S1I02-T-001",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I02",
+    "id": "ac9s1i02-t-004",
+    "curriculumCode": "AC9S1I02",
     "bank": "test",
-    "skill": "ac9s1i02_01",
-    "question": "Which action makes testing which objects a magnet attracts safer?",
-    "audio_prompt": "Which action makes testing which objects a magnet attracts safer?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i02.svg#ac9s1i02-t-001",
-      "alt_text": "🧲 testing which objects a magnet attracts; ✅ Keep magnets away from electronic devices.; ⚠️ risk"
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "Why should instructions be read before using a dropper?",
+    "audioPrompt": "Why should instructions be read before using a dropper?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Keep magnets away from electronic devices.",
+        "text": "So you know which liquid and how much to use safely.",
         "is_correct": true
       },
       {
-        "text": "pick up the sharp object",
+        "text": "So the liquid changes colour.",
         "is_correct": false
       },
       {
-        "text": "Start before checking the area or equipment.",
+        "text": "So the dropper gets bigger.",
+        "is_correct": false
+      },
+      {
+        "text": "Because droppers cannot spill.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Keep magnets away from electronic devices. reduces a real risk in the investigation.",
-      "hint": "Choose the action that protects people and keeps the setup controlled."
-    }
+    "correct": 0,
+    "explanation": "Instructions define the safe and intended procedure.\nHint: Know the procedure first.",
+    "structuredExplanation": {
+      "summary": "Instructions define the safe and intended procedure.",
+      "hint": "Know the procedure first."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
   },
   {
-    "id": "AC9S1I02-T-002",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I02",
+    "id": "ac9s1i02-t-005",
+    "curriculumCode": "AC9S1I02",
     "bank": "test",
-    "skill": "ac9s1i02_02",
-    "question": "Which situation is a hazard during testing which objects a magnet attracts?",
-    "audio_prompt": "Which situation is a hazard during testing which objects a magnet attracts?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i02.svg#ac9s1i02-t-002",
-      "alt_text": "🧲 testing which objects a magnet attracts; ⚠️ a sharp metal object; 🛑 stop"
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "Which setup is best for a marble roll?",
+    "audioPrompt": "Which setup is best for a marble roll?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "a clear work area",
+        "text": "Across a busy walkway.",
         "is_correct": false
       },
       {
-        "text": "a sharp metal object",
+        "text": "Down stairs.",
+        "is_correct": false
+      },
+      {
+        "text": "Toward a glass door.",
+        "is_correct": false
+      },
+      {
+        "text": "A taped lane on a clear floor.",
         "is_correct": true
-      },
-      {
-        "text": "following the teacher's directions",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "A sharp metal object could cause harm and needs attention.",
-      "hint": "A hazard is something that could hurt someone or make the area unsafe."
-    }
+    "correct": 3,
+    "explanation": "A clear lane reduces collision and breakage risk.\nHint: Control where it can roll.",
+    "structuredExplanation": {
+      "summary": "A clear lane reduces collision and breakage risk.",
+      "hint": "Control where it can roll."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
   },
   {
-    "id": "AC9S1I02-T-003",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I02",
+    "id": "ac9s1i02-t-006",
+    "curriculumCode": "AC9S1I02",
     "bank": "test",
-    "skill": "ac9s1i02_03",
-    "question": "What should you do if you notice a sharp metal object?",
-    "audio_prompt": "What should you do if you notice a sharp metal object?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i02.svg#ac9s1i02-t-003",
-      "alt_text": "⚠️ a sharp metal object; 🛑 stop; 🧑 Leave it where it is and tell an adult."
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "A powder spills from a labelled classroom container. What should a child do?",
+    "audioPrompt": "A powder spills from a labelled classroom container. What should a child do?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "pick up the sharp object",
+        "text": "Taste it.",
         "is_correct": false
       },
       {
-        "text": "Keep it secret and continue.",
+        "text": "Sweep it with bare hands.",
         "is_correct": false
       },
       {
-        "text": "Leave it where it is and tell an adult.",
+        "text": "Move back and tell the teacher.",
         "is_correct": true
+      },
+      {
+        "text": "Blow it away.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Leave it where it is and tell an adult. is the safe response.",
-      "hint": "Stop, keep others safe and get adult help."
-    }
+    "correct": 2,
+    "explanation": "Spills should be managed according to adult instructions.\nHint: Do not touch or spread it.",
+    "structuredExplanation": {
+      "summary": "Spills should be managed according to adult instructions.",
+      "hint": "Do not touch or spread it."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
   },
   {
-    "id": "AC9S1I02-T-004",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I02",
+    "id": "ac9s1i02-t-007",
+    "curriculumCode": "AC9S1I02",
     "bank": "test",
-    "skill": "ac9s1i02_04",
-    "question": "Which equipment is suitable for testing which objects a magnet attracts?",
-    "audio_prompt": "Which equipment is suitable for testing which objects a magnet attracts?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i02.svg#ac9s1i02-t-004",
-      "alt_text": "🧲 testing which objects a magnet attracts; 🧰 a tray of teacher-approved objects; ✅ approved"
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "Which behaviour protects an insect being observed?",
+    "audioPrompt": "Which behaviour protects an insect being observed?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "a tray of teacher-approved objects",
+        "text": "Leaving it in heat.",
+        "is_correct": false
+      },
+      {
+        "text": "Keeping handling brief or avoiding it.",
         "is_correct": true
       },
       {
-        "text": "an unknown chemical",
+        "text": "Pulling its wings apart.",
         "is_correct": false
       },
       {
-        "text": "a cracked glass container",
+        "text": "Shaking its container.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "A tray of teacher-approved objects supports the activity safely.",
-      "hint": "Use teacher-approved equipment that matches the task."
-    }
+    "correct": 1,
+    "explanation": "Ethical observation reduces harm and stress.\nHint: Care for living things.",
+    "structuredExplanation": {
+      "summary": "Ethical observation reduces harm and stress.",
+      "hint": "Care for living things."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
   },
   {
-    "id": "AC9S1I02-T-005",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I02",
+    "id": "ac9s1i02-t-008",
+    "curriculumCode": "AC9S1I02",
     "bank": "test",
-    "skill": "ac9s1i02_05",
-    "question": "Which action is unsafe during testing which objects a magnet attracts?",
-    "audio_prompt": "Which action is unsafe during testing which objects a magnet attracts?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i02.svg#ac9s1i02-t-005",
-      "alt_text": "✅ Keep magnets away from electronic devices.; ❌ pick up the sharp object; 🧑 adult help"
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "Why keep electrical items away from water?",
+    "audioPrompt": "Why keep electrical items away from water?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Keep magnets away from electronic devices.",
-        "is_correct": false
-      },
-      {
-        "text": "pick up the sharp object",
+        "text": "Water can create an electrical hazard.",
         "is_correct": true
       },
       {
-        "text": "Listen to the teacher.",
+        "text": "Water makes electricity blue.",
+        "is_correct": false
+      },
+      {
+        "text": "Electricity cannot move near water.",
+        "is_correct": false
+      },
+      {
+        "text": "Water always breaks plastic.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Pick up the sharp object increases the risk of harm.",
-      "hint": "Choose the action that breaks a safety rule."
-    }
+    "correct": 0,
+    "explanation": "Water near electrical equipment can be dangerous.\nHint: Electricity + water = risk.",
+    "structuredExplanation": {
+      "summary": "Water near electrical equipment can be dangerous.",
+      "hint": "Electricity + water = risk."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
   },
   {
-    "id": "AC9S1I02-T-006",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I02",
+    "id": "ac9s1i02-t-009",
+    "curriculumCode": "AC9S1I02",
     "bank": "test",
-    "skill": "ac9s1i02_06",
-    "question": "How should an unknown substance be checked during testing which objects a magnet attracts?",
-    "audio_prompt": "How should an unknown substance be checked during testing which objects a magnet attracts?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i02.svg#ac9s1i02-t-006",
-      "alt_text": "❓ unknown; ✋ do not touch; 🧑 ask an adult"
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "A magnifying glass is being used outside. Which action is unsafe?",
+    "audioPrompt": "A magnifying glass is being used outside. Which action is unsafe?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Taste a tiny amount.",
+        "text": "Looking at a rock in shade.",
         "is_correct": false
       },
       {
-        "text": "Smell it closely without permission.",
+        "text": "Holding it over a leaf.",
         "is_correct": false
       },
       {
-        "text": "Do not touch or taste it; ask an adult.",
+        "text": "Returning it after use.",
+        "is_correct": false
+      },
+      {
+        "text": "Focusing sunlight onto dry leaves.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Unknown substances should only be handled under clear adult guidance.",
-      "hint": "Your senses are useful, but safety instructions come first."
-    }
+    "correct": 3,
+    "explanation": "Focused sunlight can create heat and fire risk.\nHint: Never focus the sun.",
+    "structuredExplanation": {
+      "summary": "Focused sunlight can create heat and fire risk.",
+      "hint": "Never focus the sun."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
   },
   {
-    "id": "AC9S1I02-T-007",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I02",
+    "id": "ac9s1i02-t-010",
+    "curriculumCode": "AC9S1I02",
     "bank": "test",
-    "skill": "ac9s1i02_07",
-    "question": "What should happen before starting testing which objects a magnet attracts?",
-    "audio_prompt": "What should happen before starting testing which objects a magnet attracts?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i02.svg#ac9s1i02-t-007",
-      "alt_text": "👂 listen; 👀 check; 🧲 begin safely"
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "Which footwear is safest for a classroom water test?",
+    "audioPrompt": "Which footwear is safest for a classroom water test?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Listen to the instructions and check that the area is safe.",
+        "text": "Slippery socks only",
+        "is_correct": false
+      },
+      {
+        "text": "Loose sandals that fall off",
+        "is_correct": false
+      },
+      {
+        "text": "Closed shoes",
         "is_correct": true
       },
       {
-        "text": "Begin before the equipment is ready.",
-        "is_correct": false
-      },
-      {
-        "text": "Move safety equipment away.",
+        "text": "Bare feet",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "A safe investigation begins with instructions and a checked setup.",
-      "hint": "Pause before starting and look for hazards."
-    }
+    "correct": 2,
+    "explanation": "Closed shoes provide better foot protection.\nHint: Protect feet from spills and drops.",
+    "structuredExplanation": {
+      "summary": "Closed shoes provide better foot protection.",
+      "hint": "Protect feet from spills and drops."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
   },
   {
-    "id": "AC9S1I02-T-008",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I02",
+    "id": "ac9s1i02-t-011",
+    "curriculumCode": "AC9S1I02",
     "bank": "test",
-    "skill": "ac9s1i02_08",
-    "question": "What should happen after testing which objects a magnet attracts?",
-    "audio_prompt": "What should happen after testing which objects a magnet attracts?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i02.svg#ac9s1i02-t-008",
-      "alt_text": "🧲 finish; 🧹 clean; 🧼 wash"
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "A child feels dizzy during an outdoor investigation. What should they do?",
+    "audioPrompt": "A child feels dizzy during an outdoor investigation. What should they do?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Leave equipment on the floor.",
+        "text": "Drink an unknown liquid.",
         "is_correct": false
       },
       {
-        "text": "Pack up safely, clean the area and wash hands if instructed.",
+        "text": "Stop and tell an adult.",
         "is_correct": true
       },
       {
-        "text": "Walk away from spills or mess.",
+        "text": "Keep going silently.",
+        "is_correct": false
+      },
+      {
+        "text": "Run around.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Safe investigations include careful cleaning and packing up.",
-      "hint": "Safety continues until the area and equipment are ready for the next group."
-    }
+    "correct": 1,
+    "explanation": "Feeling unwell is a reason to stop and seek adult help.\nHint: Your body is a safety signal too.",
+    "structuredExplanation": {
+      "summary": "Feeling unwell is a reason to stop and seek adult help.",
+      "hint": "Your body is a safety signal too."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
   },
   {
-    "id": "AC9S1I02-T-009",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I02",
+    "id": "ac9s1i02-t-012",
+    "curriculumCode": "AC9S1I02",
     "bank": "test",
-    "skill": "ac9s1i02_01",
-    "question": "Which action makes making shadows with a torch safer?",
-    "audio_prompt": "Which action makes making shadows with a torch safer?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i02.svg#ac9s1i02-t-009",
-      "alt_text": "🔦 making shadows with a torch; ✅ Point the torch at the wall, not at anyone's eyes.; ⚠️ risk"
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence is true about safety rules?",
+    "audioPrompt": "Which sentence is true about safety rules?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "stare into the bright torch",
-        "is_correct": false
-      },
-      {
-        "text": "Start before checking the area or equipment.",
-        "is_correct": false
-      },
-      {
-        "text": "Point the torch at the wall, not at anyone's eyes.",
+        "text": "They help prevent harm before problems happen.",
         "is_correct": true
+      },
+      {
+        "text": "They are only needed after accidents.",
+        "is_correct": false
+      },
+      {
+        "text": "They are optional if you are careful.",
+        "is_correct": false
+      },
+      {
+        "text": "They stop every possible accident.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Point the torch at the wall, not at anyone's eyes. reduces a real risk in the investigation.",
-      "hint": "Choose the action that protects people and keeps the setup controlled."
-    }
+    "correct": 0,
+    "explanation": "Safety rules reduce risk but do not guarantee zero risk.\nHint: Prevention.",
+    "structuredExplanation": {
+      "summary": "Safety rules reduce risk but do not guarantee zero risk.",
+      "hint": "Prevention."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
   },
   {
-    "id": "AC9S1I02-T-010",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I02",
+    "id": "ac9s1i02-t-013",
+    "curriculumCode": "AC9S1I02",
     "bank": "test",
-    "skill": "ac9s1i02_02",
-    "question": "Which situation is a hazard during making shadows with a torch?",
-    "audio_prompt": "Which situation is a hazard during making shadows with a torch?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i02.svg#ac9s1i02-t-010",
-      "alt_text": "🔦 making shadows with a torch; ⚠️ a torch shining into someone's eyes; 🛑 stop"
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "A class uses a fan to move paper shapes. Where should fingers be?",
+    "audioPrompt": "A class uses a fan to move paper shapes. Where should fingers be?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "a torch shining into someone's eyes",
+        "text": "Inside the fan guard.",
+        "is_correct": false
+      },
+      {
+        "text": "Touching the blades.",
+        "is_correct": false
+      },
+      {
+        "text": "Holding the motor.",
+        "is_correct": false
+      },
+      {
+        "text": "Away from moving fan parts.",
         "is_correct": true
-      },
-      {
-        "text": "a clear work area",
-        "is_correct": false
-      },
-      {
-        "text": "following the teacher's directions",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "A torch shining into someone's eyes could cause harm and needs attention.",
-      "hint": "A hazard is something that could hurt someone or make the area unsafe."
-    }
+    "correct": 3,
+    "explanation": "Hands should stay away from moving parts.\nHint: Keep clear.",
+    "structuredExplanation": {
+      "summary": "Hands should stay away from moving parts.",
+      "hint": "Keep clear."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
   },
   {
-    "id": "AC9S1I02-T-011",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I02",
+    "id": "ac9s1i02-t-014",
+    "curriculumCode": "AC9S1I02",
     "bank": "test",
-    "skill": "ac9s1i02_03",
-    "question": "What should you do if you notice a torch shining into someone's eyes?",
-    "audio_prompt": "What should you do if you notice a torch shining into someone's eyes?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i02.svg#ac9s1i02-t-011",
-      "alt_text": "⚠️ a torch shining into someone's eyes; 🛑 stop; 🧑 Turn the torch away and tell the teacher."
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "Which is safe when comparing smells?",
+    "audioPrompt": "Which is safe when comparing smells?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "stare into the bright torch",
+        "text": "Smell unknown chemicals directly.",
         "is_correct": false
       },
       {
-        "text": "Turn the torch away and tell the teacher.",
+        "text": "Taste first.",
+        "is_correct": false
+      },
+      {
+        "text": "Use only teacher-approved materials and follow instructions for wafting if told.",
         "is_correct": true
       },
       {
-        "text": "Keep it secret and continue.",
+        "text": "Put your nose inside every container.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Turn the torch away and tell the teacher. is the safe response.",
-      "hint": "Stop, keep others safe and get adult help."
-    }
+    "correct": 2,
+    "explanation": "Only approved materials should be smelled using the taught method.\nHint: Approved + instructed.",
+    "structuredExplanation": {
+      "summary": "Only approved materials should be smelled using the taught method.",
+      "hint": "Approved + instructed."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
   },
   {
-    "id": "AC9S1I02-T-012",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I02",
+    "id": "ac9s1i02-t-015",
+    "curriculumCode": "AC9S1I02",
     "bank": "test",
-    "skill": "ac9s1i02_04",
-    "question": "Which equipment is suitable for making shadows with a torch?",
-    "audio_prompt": "Which equipment is suitable for making shadows with a torch?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i02.svg#ac9s1i02-t-012",
-      "alt_text": "🔦 making shadows with a torch; 🧰 a torch used with adult guidance; ✅ approved"
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "A child wants to collect a spider for class. Best choice?",
+    "audioPrompt": "A child wants to collect a spider for class. Best choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "an unknown chemical",
+        "text": "Trap it without air.",
         "is_correct": false
       },
       {
-        "text": "a cracked glass container",
-        "is_correct": false
-      },
-      {
-        "text": "a torch used with adult guidance",
+        "text": "Ask an adult and usually observe it where it is.",
         "is_correct": true
+      },
+      {
+        "text": "Grab it quickly.",
+        "is_correct": false
+      },
+      {
+        "text": "Put it in a pocket.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "A torch used with adult guidance supports the activity safely.",
-      "hint": "Use teacher-approved equipment that matches the task."
-    }
+    "correct": 1,
+    "explanation": "Many animals are safest observed in place rather than handled.\nHint: Ask before handling wildlife.",
+    "structuredExplanation": {
+      "summary": "Many animals are safest observed in place rather than handled.",
+      "hint": "Ask before handling wildlife."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1I02",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
   },
   {
-    "id": "AC9S1I02-T-013",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I02",
+    "id": "ac9s1i02-t-016",
+    "curriculumCode": "AC9S1I02",
     "bank": "test",
-    "skill": "ac9s1i02_05",
-    "question": "Which action is unsafe during making shadows with a torch?",
-    "audio_prompt": "Which action is unsafe during making shadows with a torch?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i02.svg#ac9s1i02-t-013",
-      "alt_text": "✅ Point the torch at the wall, not at anyone's eyes.; ❌ stare into the bright torch; 🧑 adult help"
+    "skill": "safe investigation procedures",
+    "printable": true,
+    "type": "single",
+    "question": "Which plan best combines fair testing and safety?",
+    "audioPrompt": "Which plan best combines fair testing and safety?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "stare into the bright torch",
+        "text": "Use the same ball on two marked surfaces in a clear area, one trial at a time.",
         "is_correct": true
       },
       {
-        "text": "Point the torch at the wall, not at anyone's eyes.",
+        "text": "Throw different balls across a doorway.",
         "is_correct": false
       },
       {
-        "text": "Listen to the teacher.",
+        "text": "Test beside a spill.",
+        "is_correct": false
+      },
+      {
+        "text": "Roll balls from stairs.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Stare into the bright torch increases the risk of harm.",
-      "hint": "Choose the action that breaks a safety rule."
-    }
-  },
-  {
-    "id": "AC9S1I02-T-014",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1I02",
-    "bank": "test",
-    "skill": "ac9s1i02_06",
-    "question": "How should an unknown substance be checked during making shadows with a torch?",
-    "audio_prompt": "How should an unknown substance be checked during making shadows with a torch?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i02.svg#ac9s1i02-t-014",
-      "alt_text": "❓ unknown; ✋ do not touch; 🧑 ask an adult"
+    "correct": 0,
+    "explanation": "The first plan is both controlled and safe.\nHint: Fair and safe together.",
+    "structuredExplanation": {
+      "summary": "The first plan is both controlled and safe.",
+      "hint": "Fair and safe together."
     },
-    "answers": [
-      {
-        "text": "Taste a tiny amount.",
-        "is_correct": false
-      },
-      {
-        "text": "Do not touch or taste it; ask an adult.",
-        "is_correct": true
-      },
-      {
-        "text": "Smell it closely without permission.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Unknown substances should only be handled under clear adult guidance.",
-      "hint": "Your senses are useful, but safety instructions come first."
-    }
-  },
-  {
-    "id": "AC9S1I02-T-015",
-    "subject": "science",
-    "year_level": "Year 1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v6",
     "curriculum_code": "AC9S1I02",
-    "bank": "test",
-    "skill": "ac9s1i02_07",
-    "question": "What should happen before starting making shadows with a torch?",
-    "audio_prompt": "What should happen before starting making shadows with a torch?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i02.svg#ac9s1i02-t-015",
-      "alt_text": "👂 listen; 👀 check; 🔦 begin safely"
-    },
-    "answers": [
-      {
-        "text": "Begin before the equipment is ready.",
-        "is_correct": false
-      },
-      {
-        "text": "Move safety equipment away.",
-        "is_correct": false
-      },
-      {
-        "text": "Listen to the instructions and check that the area is safe.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "A safe investigation begins with instructions and a checked setup.",
-      "hint": "Pause before starting and look for hazards."
-    }
-  },
-  {
-    "id": "AC9S1I02-T-016",
-    "subject": "science",
     "year_level": "Year 1",
-    "curriculum_code": "AC9S1I02",
-    "bank": "test",
-    "skill": "ac9s1i02_08",
-    "question": "What should happen after making shadows with a torch?",
-    "audio_prompt": "What should happen after making shadows with a torch?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i02.svg#ac9s1i02-t-016",
-      "alt_text": "🔦 finish; 🧹 clean; 🧼 wash"
-    },
-    "answers": [
-      {
-        "text": "Pack up safely, clean the area and wash hands if instructed.",
-        "is_correct": true
-      },
-      {
-        "text": "Leave equipment on the floor.",
-        "is_correct": false
-      },
-      {
-        "text": "Walk away from spills or mess.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Safe investigations include careful cleaning and packing up.",
-      "hint": "Safety continues until the area and equipment are ready for the next group."
-    }
+    "subject": "science",
+    "correct_index": 0
   }
 ]

@@ -1,469 +1,515 @@
 "use strict";
-window.skillrTestQuestions = [
+window.skillrExamQuestions = [
   {
     "id": "ac9s1i04-t-001",
     "curriculumCode": "AC9S1I04",
     "bank": "test",
-    "skill": "ac9s1i04 01",
+    "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "What sorting rule is used when daily weather cards are grouped as sunny, cloudy and rainy?",
-    "audioPrompt": "What sorting rule is used when daily weather cards are grouped as sunny, cloudy and rainy?",
-    "visual": "🌦️ daily weather cards; 🔀 weather type; 🗂️ sunny, cloudy and rainy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🌦️ daily weather cards; 🔀 weather type; 🗂️ sunny, cloudy and rainy\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-001\"></use></svg>",
+    "question": "A class sorts shells by stripes. Which labels are clearest?",
+    "audioPrompt": "A class sorts shells by stripes. Which labels are clearest?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-001",
-      "alt_text": "🌦️ daily weather cards; 🔀 weather type; 🗂️ sunny, cloudy and rainy"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "weather type",
-      "which one is someone's favourite",
-      "the order the cards were picked up"
+      "nice / not nice",
+      "big / pretty",
+      "mine / yours",
+      "striped / not striped"
     ],
-    "correct": 0,
-    "explanation": "Weather type is the shared feature used for the groups.\nHint: Name the feature that is the same within each group.",
+    "correct": 3,
+    "explanation": "The labels use one observable feature.\nHint: One clear rule.",
     "structuredExplanation": {
-      "summary": "Weather type is the shared feature used for the groups.",
-      "hint": "Name the feature that is the same within each group."
+      "summary": "The labels use one observable feature.",
+      "hint": "One clear rule."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i04-t-002",
     "curriculumCode": "AC9S1I04",
     "bank": "test",
-    "skill": "ac9s1i04 02",
+    "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Which group labels suit daily weather cards sorted by weather type?",
-    "audioPrompt": "Which group labels suit daily weather cards sorted by weather type?",
-    "visual": "🌦️ daily weather cards; 🏷️ sunny, cloudy and rainy; ✅ clear labels",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🌦️ daily weather cards; 🏷️ sunny, cloudy and rainy; ✅ clear labels\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-002\"></use></svg>",
+    "question": "Counts are 2 frogs, 7 ducks, 4 fish. Which group is most?",
+    "audioPrompt": "Counts are 2 frogs, 7 ducks, 4 fish. Which group is most?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-002",
-      "alt_text": "🌦️ daily weather cards; 🏷️ sunny, cloudy and rainy; ✅ clear labels"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "good and bad",
-      "sunny, cloudy and rainy",
-      "first and last"
+      "fish",
+      "all equal",
+      "ducks",
+      "frogs"
     ],
-    "correct": 1,
-    "explanation": "Sunny, cloudy and rainy clearly names the categories.\nHint: Labels should describe the sorting rule, not an opinion.",
+    "correct": 2,
+    "explanation": "Seven is the largest count.\nHint: Largest number.",
     "structuredExplanation": {
-      "summary": "Sunny, cloudy and rainy clearly names the categories.",
-      "hint": "Labels should describe the sorting rule, not an opinion."
+      "summary": "Seven is the largest count.",
+      "hint": "Largest number."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i04-t-003",
     "curriculumCode": "AC9S1I04",
     "bank": "test",
-    "skill": "ac9s1i04 03",
+    "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Which record correctly describes the sorted daily weather cards?",
-    "audioPrompt": "Which record correctly describes the sorted daily weather cards?",
-    "visual": "🌦️ daily weather cards; 🔢 4 sunny, 2 cloudy and 1 rainy; 📝 record",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🌦️ daily weather cards; 🔢 4 sunny, 2 cloudy and 1 rainy; 📝 record\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-003\"></use></svg>",
+    "question": "Why use tally marks while counting visitors?",
+    "audioPrompt": "Why use tally marks while counting visitors?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-003",
-      "alt_text": "🌦️ daily weather cards; 🔢 4 sunny, 2 cloudy and 1 rainy; 📝 record"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Every group has the same number.",
-      "The largest-looking card must be the most common.",
-      "4 sunny, 2 cloudy and 1 rainy"
+      "They make all groups equal.",
+      "They help keep a running count.",
+      "They measure temperature.",
+      "They prove why visitors came."
     ],
-    "correct": 2,
-    "explanation": "4 sunny, 2 cloudy and 1 rainy reports the category totals.\nHint: Count every item once in its matching group.",
+    "correct": 1,
+    "explanation": "Tallies record repeated events efficiently.\nHint: Count as events happen.",
     "structuredExplanation": {
-      "summary": "4 sunny, 2 cloudy and 1 rainy reports the category totals.",
-      "hint": "Count every item once in its matching group."
+      "summary": "Tallies record repeated events efficiently.",
+      "hint": "Count as events happen."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i04-t-004",
     "curriculumCode": "AC9S1I04",
     "bank": "test",
-    "skill": "ac9s1i04 04",
+    "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Which category has the most daily weather cards?",
-    "audioPrompt": "Which category has the most daily weather cards?",
-    "visual": "📊 4 sunny, 2 cloudy and 1 rainy; ⬆️ most; 🌦️ sunny",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📊 4 sunny, 2 cloudy and 1 rainy; ⬆️ most; 🌦️ sunny\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-004\"></use></svg>",
+    "question": "Which graph needs a key?",
+    "audioPrompt": "Which graph needs a key?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-004",
-      "alt_text": "📊 4 sunny, 2 cloudy and 1 rainy; ⬆️ most; 🌦️ sunny"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "sunny",
-      "the category with the longest label",
-      "all categories are automatically equal"
+      "A picture graph where each icon may represent more than one item.",
+      "A simple list of names.",
+      "A labelled drawing.",
+      "A paragraph."
     ],
     "correct": 0,
-    "explanation": "Sunny has the greatest recorded count.\nHint: Compare the category numbers, not the size of the words or pictures.",
+    "explanation": "A key explains the value of each symbol.\nHint: What does one picture mean?",
     "structuredExplanation": {
-      "summary": "Sunny has the greatest recorded count.",
-      "hint": "Compare the category numbers, not the size of the words or pictures."
+      "summary": "A key explains the value of each symbol.",
+      "hint": "What does one picture mean?"
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i04-t-005",
     "curriculumCode": "AC9S1I04",
     "bank": "test",
-    "skill": "ac9s1i04 05",
+    "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Which display would clearly show the sorted daily weather cards?",
-    "audioPrompt": "Which display would clearly show the sorted daily weather cards?",
-    "visual": "🌦️ daily weather cards; 📊 a table with weather labels and tally marks; 🏷️ labels",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🌦️ daily weather cards; 📊 a table with weather labels and tally marks; 🏷️ labels\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-005\"></use></svg>",
+    "question": "Which is an opinion-based category?",
+    "audioPrompt": "Which is an opinion-based category?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-005",
-      "alt_text": "🌦️ daily weather cards; 📊 a table with weather labels and tally marks; 🏷️ labels"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "an unlabelled scribble",
-      "a table with weather labels and tally marks",
-      "a list that leaves out some items"
+      "rough rock",
+      "grey rock",
+      "round rock",
+      "best-looking rock"
     ],
-    "correct": 1,
-    "explanation": "A table with weather labels and tally marks shows the categories and data clearly.\nHint: Choose a display with labels and one place for every result.",
+    "correct": 3,
+    "explanation": "“Best-looking” depends on preference.\nHint: Can everyone apply it the same way?",
     "structuredExplanation": {
-      "summary": "A table with weather labels and tally marks shows the categories and data clearly.",
-      "hint": "Choose a display with labels and one place for every result."
+      "summary": "“Best-looking” depends on preference.",
+      "hint": "Can everyone apply it the same way?"
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i04-t-006",
     "curriculumCode": "AC9S1I04",
     "bank": "test",
-    "skill": "ac9s1i04 06",
+    "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Why must each daily weather card be counted once?",
-    "audioPrompt": "Why must each daily weather card be counted once?",
-    "visual": "1️⃣ count once; 🗂️ one group; ✅ accurate total",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"1️⃣ count once; 🗂️ one group; ✅ accurate total\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-006\"></use></svg>",
+    "question": "Totals are 5,5,2. What can be said?",
+    "audioPrompt": "Totals are 5,5,2. What can be said?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-006",
-      "alt_text": "1️⃣ count once; 🗂️ one group; ✅ accurate total"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "So the favourite category always wins.",
-      "So one item can make several categories larger.",
-      "So the category totals show the data accurately."
+      "The category with 2 is most.",
+      "No comparison is possible.",
+      "Two categories are equal.",
+      "All are equal."
     ],
     "correct": 2,
-    "explanation": "Counting each item once prevents missing or double-counting data.\nHint: Check that every item is in one suitable category.",
+    "explanation": "The first two totals are the same.\nHint: Equal numbers.",
     "structuredExplanation": {
-      "summary": "Counting each item once prevents missing or double-counting data.",
-      "hint": "Check that every item is in one suitable category."
+      "summary": "The first two totals are the same.",
+      "hint": "Equal numbers."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i04-t-007",
     "curriculumCode": "AC9S1I04",
     "bank": "test",
-    "skill": "ac9s1i04 07",
+    "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "What should be checked after sorting daily weather cards by weather type?",
-    "audioPrompt": "What should be checked after sorting daily weather cards by weather type?",
-    "visual": "🌦️ daily weather cards; 🔍 check rule; ✅ weather type",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🌦️ daily weather cards; 🔍 check rule; ✅ weather type\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-007\"></use></svg>",
+    "question": "One picture means 3 birds. Four pictures represent:",
+    "audioPrompt": "One picture means 3 birds. Four pictures represent:",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-007",
-      "alt_text": "🌦️ daily weather cards; 🔍 check rule; ✅ weather type"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Every item fits the rule for its group.",
-      "Every group has the same number.",
-      "The labels are hidden."
+      "1 bird",
+      "12 birds",
+      "7 birds",
+      "4 birds"
     ],
-    "correct": 0,
-    "explanation": "A correct sort places items according to the stated rule.\nHint: Test each item against its category label.",
+    "correct": 1,
+    "explanation": "4 × 3 = 12.\nHint: Use the key repeatedly.",
     "structuredExplanation": {
-      "summary": "A correct sort places items according to the stated rule.",
-      "hint": "Test each item against its category label."
+      "summary": "4 × 3 = 12.",
+      "hint": "Use the key repeatedly."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i04-t-008",
     "curriculumCode": "AC9S1I04",
     "bank": "test",
-    "skill": "ac9s1i04 08",
+    "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "What pattern can be described from this data: 4 sunny, 2 cloudy and 1 rainy?",
-    "audioPrompt": "What pattern can be described from this data: 4 sunny, 2 cloudy and 1 rainy?",
-    "visual": "📊 4 sunny, 2 cloudy and 1 rainy; 🔎 compare; 🏆 sunny",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📊 4 sunny, 2 cloudy and 1 rainy; 🔎 compare; 🏆 sunny\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-008\"></use></svg>",
+    "question": "Which item belongs in “made of metal”?",
+    "audioPrompt": "Which item belongs in “made of metal”?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-008",
-      "alt_text": "📊 4 sunny, 2 cloudy and 1 rainy; 🔎 compare; 🏆 sunny"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The shortest label is always the largest category.",
-      "Sunny is the largest category.",
-      "No comparison can be made from counts."
+      "spoon",
+      "paper bag",
+      "rubber band",
+      "wooden block"
     ],
-    "correct": 1,
-    "explanation": "The recorded numbers show that sunny has the greatest count.\nHint: Use the numbers to describe what is most, least or equal.",
+    "correct": 0,
+    "explanation": "A typical spoon is metal.\nHint: Material feature.",
     "structuredExplanation": {
-      "summary": "The recorded numbers show that sunny has the greatest count.",
-      "hint": "Use the numbers to describe what is most, least or equal."
+      "summary": "A typical spoon is metal.",
+      "hint": "Material feature."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i04-t-009",
     "curriculumCode": "AC9S1I04",
     "bank": "test",
-    "skill": "ac9s1i04 01",
+    "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "What sorting rule is used when material cards are grouped as flexible and rigid?",
-    "audioPrompt": "What sorting rule is used when material cards are grouped as flexible and rigid?",
-    "visual": "📎 material cards; 🔀 whether the material bent; 🗂️ flexible and rigid",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📎 material cards; 🔀 whether the material bent; 🗂️ flexible and rigid\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-009\"></use></svg>",
+    "question": "Why should categories be named before sorting?",
+    "audioPrompt": "Why should categories be named before sorting?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-009",
-      "alt_text": "📎 material cards; 🔀 whether the material bent; 🗂️ flexible and rigid"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "which one is someone's favourite",
-      "the order the cards were picked up",
-      "whether the material bent"
+      "So totals are equal.",
+      "So objects change.",
+      "So counting is unnecessary.",
+      "So the rule is clear and consistent."
     ],
-    "correct": 2,
-    "explanation": "Whether the material bent is the shared feature used for the groups.\nHint: Name the feature that is the same within each group.",
+    "correct": 3,
+    "explanation": "Clear categories guide how each item is classified.\nHint: Know the rule first.",
     "structuredExplanation": {
-      "summary": "Whether the material bent is the shared feature used for the groups.",
-      "hint": "Name the feature that is the same within each group."
+      "summary": "Clear categories guide how each item is classified.",
+      "hint": "Know the rule first."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i04-t-010",
     "curriculumCode": "AC9S1I04",
     "bank": "test",
-    "skill": "ac9s1i04 02",
+    "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Which group labels suit material cards sorted by whether the material bent?",
-    "audioPrompt": "Which group labels suit material cards sorted by whether the material bent?",
-    "visual": "📎 material cards; 🏷️ flexible and rigid; ✅ clear labels",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📎 material cards; 🏷️ flexible and rigid; ✅ clear labels\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-010\"></use></svg>",
+    "question": "A tally total is higher than the number of objects. What likely needs checking?",
+    "audioPrompt": "A tally total is higher than the number of objects. What likely needs checking?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-010",
-      "alt_text": "📎 material cards; 🏷️ flexible and rigid; ✅ clear labels"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "flexible and rigid",
-      "good and bad",
-      "first and last"
+      "Whether objects are too small.",
+      "Whether the favourite group won.",
+      "Whether something was counted twice.",
+      "Whether labels are colourful enough."
     ],
-    "correct": 0,
-    "explanation": "Flexible and rigid clearly names the categories.\nHint: Labels should describe the sorting rule, not an opinion.",
+    "correct": 2,
+    "explanation": "Double-counting can make a tally too large.\nHint: One item should count once.",
     "structuredExplanation": {
-      "summary": "Flexible and rigid clearly names the categories.",
-      "hint": "Labels should describe the sorting rule, not an opinion."
+      "summary": "Double-counting can make a tally too large.",
+      "hint": "One item should count once."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i04-t-011",
     "curriculumCode": "AC9S1I04",
     "bank": "test",
-    "skill": "ac9s1i04 03",
+    "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Which record correctly describes the sorted material cards?",
-    "audioPrompt": "Which record correctly describes the sorted material cards?",
-    "visual": "📎 material cards; 🔢 5 flexible and 3 rigid; 📝 record",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📎 material cards; 🔢 5 flexible and 3 rigid; 📝 record\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-011\"></use></svg>",
+    "question": "Which statement is supported by data red 3, blue 6?",
+    "audioPrompt": "Which statement is supported by data red 3, blue 6?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-011",
-      "alt_text": "📎 material cards; 🔢 5 flexible and 3 rigid; 📝 record"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Every group has the same number.",
-      "5 flexible and 3 rigid",
-      "The largest-looking card must be the most common."
+      "Blue will always be 6.",
+      "Blue was counted twice as often as red.",
+      "Blue is better.",
+      "Red caused blue."
     ],
     "correct": 1,
-    "explanation": "5 flexible and 3 rigid reports the category totals.\nHint: Count every item once in its matching group.",
+    "explanation": "Six is twice three.\nHint: Use only the totals.",
     "structuredExplanation": {
-      "summary": "5 flexible and 3 rigid reports the category totals.",
-      "hint": "Count every item once in its matching group."
+      "summary": "Six is twice three.",
+      "hint": "Use only the totals."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i04-t-012",
     "curriculumCode": "AC9S1I04",
     "bank": "test",
-    "skill": "ac9s1i04 04",
+    "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Which category has the most material cards?",
-    "audioPrompt": "Which category has the most material cards?",
-    "visual": "📊 5 flexible and 3 rigid; ⬆️ most; 📎 flexible",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📊 5 flexible and 3 rigid; ⬆️ most; 📎 flexible\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-012\"></use></svg>",
+    "question": "Which sort is by shape?",
+    "audioPrompt": "Which sort is by shape?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-012",
-      "alt_text": "📊 5 flexible and 3 rigid; ⬆️ most; 📎 flexible"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "the category with the longest label",
-      "all categories are automatically equal",
-      "flexible"
+      "round / not round",
+      "metal / plastic",
+      "red / blue",
+      "soft / hard"
     ],
-    "correct": 2,
-    "explanation": "Flexible has the greatest recorded count.\nHint: Compare the category numbers, not the size of the words or pictures.",
+    "correct": 0,
+    "explanation": "Roundness is a shape feature.\nHint: Which labels describe shape?",
     "structuredExplanation": {
-      "summary": "Flexible has the greatest recorded count.",
-      "hint": "Compare the category numbers, not the size of the words or pictures."
+      "summary": "Roundness is a shape feature.",
+      "hint": "Which labels describe shape?"
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i04-t-013",
     "curriculumCode": "AC9S1I04",
     "bank": "test",
-    "skill": "ac9s1i04 05",
+    "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Which display would clearly show the sorted material cards?",
-    "audioPrompt": "Which display would clearly show the sorted material cards?",
-    "visual": "📎 material cards; 📊 two labelled hoops containing the sorted cards; 🏷️ labels",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📎 material cards; 📊 two labelled hoops containing the sorted cards; 🏷️ labels\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-013\"></use></svg>",
+    "question": "Why might a table be useful before a graph?",
+    "audioPrompt": "Why might a table be useful before a graph?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-013",
-      "alt_text": "📎 material cards; 📊 two labelled hoops containing the sorted cards; 🏷️ labels"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "two labelled hoops containing the sorted cards",
-      "an unlabelled scribble",
-      "a list that leaves out some items"
+      "It guarantees a pattern.",
+      "It changes the results.",
+      "It removes the need to count.",
+      "It organises category counts clearly."
     ],
-    "correct": 0,
-    "explanation": "Two labelled hoops containing the sorted cards shows the categories and data clearly.\nHint: Choose a display with labels and one place for every result.",
+    "correct": 3,
+    "explanation": "A table can organise totals that are then represented visually.\nHint: Organise before display.",
     "structuredExplanation": {
-      "summary": "Two labelled hoops containing the sorted cards shows the categories and data clearly.",
-      "hint": "Choose a display with labels and one place for every result."
+      "summary": "A table can organise totals that are then represented visually.",
+      "hint": "Organise before display."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i04-t-014",
     "curriculumCode": "AC9S1I04",
     "bank": "test",
-    "skill": "ac9s1i04 06",
+    "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "Why must each material card be counted once?",
-    "audioPrompt": "Why must each material card be counted once?",
-    "visual": "1️⃣ count once; 🗂️ one group; ✅ accurate total",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"1️⃣ count once; 🗂️ one group; ✅ accurate total\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-014\"></use></svg>",
+    "question": "Counts over days are 4,2,4,2. What pattern appears?",
+    "audioPrompt": "Counts over days are 4,2,4,2. What pattern appears?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-014",
-      "alt_text": "1️⃣ count once; 🗂️ one group; ✅ accurate total"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "So the favourite category always wins.",
-      "So the category totals show the data accurately.",
-      "So one item can make several categories larger."
+      "Always decreasing",
+      "No repetition",
+      "Alternating 4 and 2",
+      "Always increasing"
     ],
-    "correct": 1,
-    "explanation": "Counting each item once prevents missing or double-counting data.\nHint: Check that every item is in one suitable category.",
+    "correct": 2,
+    "explanation": "The values repeat in an alternating sequence.\nHint: What repeats?",
     "structuredExplanation": {
-      "summary": "Counting each item once prevents missing or double-counting data.",
-      "hint": "Check that every item is in one suitable category."
+      "summary": "The values repeat in an alternating sequence.",
+      "hint": "What repeats?"
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i04-t-015",
     "curriculumCode": "AC9S1I04",
     "bank": "test",
-    "skill": "ac9s1i04 07",
+    "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "What should be checked after sorting material cards by whether the material bent?",
-    "audioPrompt": "What should be checked after sorting material cards by whether the material bent?",
-    "visual": "📎 material cards; 🔍 check rule; ✅ whether the material bent",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📎 material cards; 🔍 check rule; ✅ whether the material bent\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-015\"></use></svg>",
+    "question": "Which conclusion overclaims?",
+    "audioPrompt": "Which conclusion overclaims?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-015",
-      "alt_text": "📎 material cards; 🔍 check rule; ✅ whether the material bent"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Every group has the same number.",
-      "The labels are hidden.",
-      "Every item fits the rule for its group."
+      "“Two groups had equal counts today.”",
+      "“There were most beetles today, so beetles will always be most.”",
+      "“Beetles were most today.”",
+      "“Ants were least today.”"
     ],
-    "correct": 2,
-    "explanation": "A correct sort places items according to the stated rule.\nHint: Test each item against its category label.",
+    "correct": 1,
+    "explanation": "Today’s result cannot guarantee every future count.\nHint: Watch “always”.",
     "structuredExplanation": {
-      "summary": "A correct sort places items according to the stated rule.",
-      "hint": "Test each item against its category label."
+      "summary": "Today’s result cannot guarantee every future count.",
+      "hint": "Watch “always”."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i04-t-016",
     "curriculumCode": "AC9S1I04",
     "bank": "test",
-    "skill": "ac9s1i04 08",
+    "skill": "sorting data and representing patterns",
     "printable": true,
     "type": "single",
-    "question": "What pattern can be described from this data: 5 flexible and 3 rigid?",
-    "audioPrompt": "What pattern can be described from this data: 5 flexible and 3 rigid?",
-    "visual": "📊 5 flexible and 3 rigid; 🔎 compare; 🏆 flexible",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📊 5 flexible and 3 rigid; 🔎 compare; 🏆 flexible\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-016\"></use></svg>",
+    "question": "Which action makes a sort more reliable?",
+    "audioPrompt": "Which action makes a sort more reliable?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i04.svg#ac9s1i04-t-016",
-      "alt_text": "📊 5 flexible and 3 rigid; 🔎 compare; 🏆 flexible"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Flexible is the largest category.",
-      "The shortest label is always the largest category.",
-      "No comparison can be made from counts."
+      "Use the same stated rule for every item.",
+      "Change the rule for difficult items.",
+      "Count favourites twice.",
+      "Leave groups unlabelled."
     ],
     "correct": 0,
-    "explanation": "The recorded numbers show that flexible has the greatest count.\nHint: Use the numbers to describe what is most, least or equal.",
+    "explanation": "Consistency makes classifications comparable.\nHint: Same rule throughout.",
     "structuredExplanation": {
-      "summary": "The recorded numbers show that flexible has the greatest count.",
-      "hint": "Use the numbers to describe what is most, least or equal."
+      "summary": "Consistency makes classifications comparable.",
+      "hint": "Same rule throughout."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v6"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

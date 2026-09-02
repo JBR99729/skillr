@@ -4,697 +4,1320 @@ window.skillrPracticeQuestions = [
     "id": "ac9s1i01-p-001",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "ac9s1i01 01",
+    "skill": "questions, patterns and predictions",
     "printable": true,
     "type": "single",
-    "question": "Which question can be investigated for a toy car on tile and carpet?",
-    "audioPrompt": "Which question can be investigated for a toy car on tile and carpet?",
-    "visual": "🚗 a toy car on tile and carpet; ❓ question; 🔍 test",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🚗 a toy car on tile and carpet; ❓ question; 🔍 test\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-001\"></use></svg>",
+    "question": "Which question could be explored by watching two puddles?",
+    "audioPrompt": "Which question could be explored by watching two puddles?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-001",
-      "alt_text": "🚗 a toy car on tile and carpet; ❓ question; 🔍 test"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "On which surface will the same toy car travel farther?",
-      "Will the same result happen everywhere forever?",
-      "Which result should happen because I prefer it?"
+      "Which puddle dries first?",
+      "Why is water important?",
+      "Which puddle is happier?",
+      "Are puddles beautiful?"
     ],
     "correct": 0,
-    "explanation": "On which surface will the same toy car travel farther? can be explored with a simple, safe investigation.\nHint: Choose a question that can be answered by collecting evidence.",
+    "explanation": "A useful science question can be checked by observing or measuring.\nHint: Choose what you could actually watch.",
     "structuredExplanation": {
-      "summary": "On which surface will the same toy car travel farther? can be explored with a simple, safe investigation.",
-      "hint": "Choose a question that can be answered by collecting evidence."
+      "summary": "A useful science question can be checked by observing or measuring.",
+      "hint": "Choose what you could actually watch."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i01-p-002",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "ac9s1i01 02",
+    "skill": "questions, patterns and predictions",
     "printable": true,
     "type": "single",
-    "question": "Which sentence is a prediction made before testing a toy car on tile and carpet?",
-    "audioPrompt": "Which sentence is a prediction made before testing a toy car on tile and carpet?",
-    "visual": "💭 before; 🚗 The car may travel farther on tile.; 🧪 test",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"💭 before; 🚗 The car may travel farther on tile.; 🧪 test\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-002\"></use></svg>",
+    "question": "Which sentence is a prediction?",
+    "audioPrompt": "Which sentence is a prediction?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-002",
-      "alt_text": "💭 before; 🚗 The car may travel farther on tile.; 🧪 test"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The car travelled 80 centimetres on tile and 35 centimetres on carpet.",
-      "The car may travel farther on tile.",
-      "The test is finished."
+      "I think the sunny leaf will dry first.",
+      "The leaf dried at 2 pm.",
+      "The leaf is green.",
+      "The leaf is wet."
     ],
-    "correct": 1,
-    "explanation": "The car may travel farther on tile. says what may happen before evidence is collected.\nHint: A prediction comes before the investigation.",
+    "correct": 0,
+    "explanation": "A prediction says what you expect before the result is known.\nHint: Look for what may happen next.",
     "structuredExplanation": {
-      "summary": "The car may travel farther on tile. says what may happen before evidence is collected.",
-      "hint": "A prediction comes before the investigation."
+      "summary": "A prediction says what you expect before the result is known.",
+      "hint": "Look for what may happen next."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i01-p-003",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "ac9s1i01 03",
+    "skill": "questions, patterns and predictions",
     "printable": true,
     "type": "single",
-    "question": "Which reason best supports the prediction about a toy car on tile and carpet?",
-    "audioPrompt": "Which reason best supports the prediction about a toy car on tile and carpet?",
-    "visual": "🧠 past experience; 🚗 a toy car on tile and carpet; ➡️ prediction",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 past experience; 🚗 a toy car on tile and carpet; ➡️ prediction\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-003\"></use></svg>",
+    "question": "Which question is focused enough to test with two toy cars?",
+    "audioPrompt": "Which question is focused enough to test with two toy cars?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-003",
-      "alt_text": "🧠 past experience; 🚗 a toy car on tile and carpet; ➡️ prediction"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "I chose it because it was the first idea.",
-      "The result must match any prediction that is written down.",
-      "Cars I rolled before slowed down more on carpet."
+      "Why do wheels exist?",
+      "What happens to toys?",
+      "Are cars fun?",
+      "Which car rolls farther down the same ramp?"
     ],
-    "correct": 2,
-    "explanation": "Cars I rolled before slowed down more on carpet. connects the prediction to a relevant past experience.\nHint: Choose a reason related to the same materials or change.",
+    "correct": 3,
+    "explanation": "The question names what will be compared and what will be observed.\nHint: Could you answer it with the two cars and ramp?",
     "structuredExplanation": {
-      "summary": "Cars I rolled before slowed down more on carpet. connects the prediction to a relevant past experience.",
-      "hint": "Choose a reason related to the same materials or change."
+      "summary": "The question names what will be compared and what will be observed.",
+      "hint": "Could you answer it with the two cars and ramp?"
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i01-p-004",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "ac9s1i01 04",
+    "skill": "questions, patterns and predictions",
     "printable": true,
     "type": "single",
-    "question": "Which sentence is an observation made after testing a toy car on tile and carpet?",
-    "audioPrompt": "Which sentence is an observation made after testing a toy car on tile and carpet?",
-    "visual": "🧪 test; 👀 observe; 🚗 The car travelled 80 centimetres on tile and 35 centimetres on carpet.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧪 test; 👀 observe; 🚗 The car travelled 80 centimetres on tile and 35 centimetres on carpet.\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-004\"></use></svg>",
+    "question": "A child predicts that the larger paper boat will hold more counters. Which word shows it is about the future?",
+    "audioPrompt": "A child predicts that the larger paper boat will hold more counters. Which word shows it is about the future?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-004",
-      "alt_text": "🧪 test; 👀 observe; 🚗 The car travelled 80 centimetres on tile and 35 centimetres on carpet."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The car travelled 80 centimetres on tile and 35 centimetres on carpet.",
-      "The car may travel farther on tile.",
-      "I hope my guess wins."
+      "counters",
+      "larger",
+      "paper",
+      "will"
     ],
-    "correct": 0,
-    "explanation": "The car travelled 80 centimetres on tile and 35 centimetres on carpet. reports what was noticed or measured.\nHint: Look for numbers or something that was actually seen.",
+    "correct": 3,
+    "explanation": "“Will” signals an expected result that has not happened yet.\nHint: Find the future word.",
     "structuredExplanation": {
-      "summary": "The car travelled 80 centimetres on tile and 35 centimetres on carpet. reports what was noticed or measured.",
-      "hint": "Look for numbers or something that was actually seen."
+      "summary": "“Will” signals an expected result that has not happened yet.",
+      "hint": "Find the future word."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i01-p-005",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "ac9s1i01 05",
+    "skill": "questions, patterns and predictions",
     "printable": true,
     "type": "single",
-    "question": "What pattern was found when a toy car on tile and carpet was tested more than once?",
-    "audioPrompt": "What pattern was found when a toy car on tile and carpet was tested more than once?",
-    "visual": "🚗 a toy car on tile and carpet; 🔁 repeat; 📊 pattern",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🚗 a toy car on tile and carpet; 🔁 repeat; 📊 pattern\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-005\"></use></svg>",
+    "question": "Which reason best supports “The ice in sun may melt first”?",
+    "audioPrompt": "Which reason best supports “The ice in sun may melt first”?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-005",
-      "alt_text": "🚗 a toy car on tile and carpet; 🔁 repeat; 📊 pattern"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Every trial had a completely unrelated result.",
-      "The car travelled farther on tile in three trials.",
-      "The first guess became true because it was written down."
+      "Ice near a sunny window melted quickly yesterday.",
+      "Yellow is my favourite colour.",
+      "The tray is square.",
+      "My friend chose sun."
     ],
-    "correct": 1,
-    "explanation": "The car travelled farther on tile in three trials. describes evidence that repeated across trials.\nHint: Compare all the trials and look for what happened again.",
+    "correct": 0,
+    "explanation": "The reason uses relevant past experience about melting.\nHint: Which reason is about ice and warmth?",
     "structuredExplanation": {
-      "summary": "The car travelled farther on tile in three trials. describes evidence that repeated across trials.",
-      "hint": "Compare all the trials and look for what happened again."
+      "summary": "The reason uses relevant past experience about melting.",
+      "hint": "Which reason is about ice and warmth?"
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i01-p-006",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "ac9s1i01 06",
+    "skill": "questions, patterns and predictions",
     "printable": true,
     "type": "single",
-    "question": "Why is the word “may” useful in a prediction about a toy car on tile and carpet?",
-    "audioPrompt": "Why is the word “may” useful in a prediction about a toy car on tile and carpet?",
-    "visual": "💭 prediction; 🧪 test; ❓ may change",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"💭 prediction; 🧪 test; ❓ may change\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-006\"></use></svg>",
+    "question": "Which question could be answered by counting?",
+    "audioPrompt": "Which question could be answered by counting?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-006",
-      "alt_text": "💭 prediction; 🧪 test; ❓ may change"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "It means no evidence is needed.",
-      "It proves the outcome must happen.",
-      "It shows the outcome is possible, not guaranteed."
+      "Why are bees nice?",
+      "Which flower is prettiest?",
+      "Do bees have feelings?",
+      "How many bees visit each flower patch in five minutes?"
     ],
-    "correct": 2,
-    "explanation": "Predictions use evidence but remain open to a different result.\nHint: A prediction is a careful idea to test, not a promise.",
+    "correct": 3,
+    "explanation": "Visits can be counted during a set time.\nHint: Look for something measurable.",
     "structuredExplanation": {
-      "summary": "Predictions use evidence but remain open to a different result.",
-      "hint": "A prediction is a careful idea to test, not a promise."
+      "summary": "Visits can be counted during a set time.",
+      "hint": "Look for something measurable."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i01-p-007",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "ac9s1i01 07",
+    "skill": "questions, patterns and predictions",
     "printable": true,
     "type": "single",
-    "question": "What should happen after making a prediction about a toy car on tile and carpet?",
-    "audioPrompt": "What should happen after making a prediction about a toy car on tile and carpet?",
-    "visual": "💭 predict; 🧪 test; 📝 record",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"💭 predict; 🧪 test; 📝 record\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-007\"></use></svg>",
+    "question": "Before testing two towels, which belongs in the prediction box?",
+    "audioPrompt": "Before testing two towels, which belongs in the prediction box?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-007",
-      "alt_text": "💭 predict; 🧪 test; 📝 record"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Carry out a safe test and record what happens.",
-      "Change the prediction so it always looks correct.",
-      "Ignore the result if it is surprising."
+      "Both towels are dry now.",
+      "The bowl is blue.",
+      "Towel A absorbed 12 drops.",
+      "I think towel B will absorb more water."
     ],
-    "correct": 0,
-    "explanation": "A prediction should be checked against recorded observations.\nHint: Test the idea, then compare the evidence with the prediction.",
+    "correct": 3,
+    "explanation": "The prediction gives an expected result before testing.\nHint: What has not happened yet?",
     "structuredExplanation": {
-      "summary": "A prediction should be checked against recorded observations.",
-      "hint": "Test the idea, then compare the evidence with the prediction."
+      "summary": "The prediction gives an expected result before testing.",
+      "hint": "What has not happened yet?"
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i01-p-008",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "ac9s1i01 08",
+    "skill": "questions, patterns and predictions",
     "printable": true,
     "type": "single",
-    "question": "If the result does not match a prediction about a toy car on tile and carpet, what should a young scientist do?",
-    "audioPrompt": "If the result does not match a prediction about a toy car on tile and carpet, what should a young scientist do?",
-    "visual": "❌ did not match; 📝 record; 💡 new idea",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"❌ did not match; 📝 record; 💡 new idea\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-008\"></use></svg>",
+    "question": "Which is an experience-based reason?",
+    "audioPrompt": "Which is an experience-based reason?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-008",
-      "alt_text": "❌ did not match; 📝 record; 💡 new idea"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Change the record so it matches the prediction.",
-      "Record the result and use it to improve the next idea.",
-      "Keep only the first result and ignore later trials."
+      "The sponge has six letters.",
+      "I think the sponge will soak up more because I have used one to wipe spills.",
+      "I think sponge because seven is lucky.",
+      "I like yellow."
     ],
     "correct": 1,
-    "explanation": "Unexpected results are still useful evidence.\nHint: Good scientists learn from what happened, even when it is surprising.",
+    "explanation": "Relevant experience can support a prediction.\nHint: Which reason connects to soaking water?",
     "structuredExplanation": {
-      "summary": "Unexpected results are still useful evidence.",
-      "hint": "Good scientists learn from what happened, even when it is surprising."
+      "summary": "Relevant experience can support a prediction.",
+      "hint": "Which reason connects to soaking water?"
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i01-p-009",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "ac9s1i01 01",
+    "skill": "questions, patterns and predictions",
     "printable": true,
     "type": "single",
-    "question": "Which question can be investigated for an ice cube in sun and shade?",
-    "audioPrompt": "Which question can be investigated for an ice cube in sun and shade?",
-    "visual": "🧊 an ice cube in sun and shade; ❓ question; 🔍 test",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧊 an ice cube in sun and shade; ❓ question; 🔍 test\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-009\"></use></svg>",
+    "question": "Which question matches this result: “The seed beside the window sprouted first”?",
+    "audioPrompt": "Which question matches this result: “The seed beside the window sprouted first”?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-009",
-      "alt_text": "🧊 an ice cube in sun and shade; ❓ question; 🔍 test"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Will the same result happen everywhere forever?",
-      "Which result should happen because I prefer it?",
-      "Where will equal ice cubes melt sooner?"
+      "Which seed will sprout first?",
+      "What colour are the pots?",
+      "How many windows are there?",
+      "Which seed looks nicest?"
     ],
-    "correct": 2,
-    "explanation": "Where will equal ice cubes melt sooner? can be explored with a simple, safe investigation.\nHint: Choose a question that can be answered by collecting evidence.",
+    "correct": 0,
+    "explanation": "The result answers a question about which seed sprouted first.\nHint: Match the result to the outcome.",
     "structuredExplanation": {
-      "summary": "Where will equal ice cubes melt sooner? can be explored with a simple, safe investigation.",
-      "hint": "Choose a question that can be answered by collecting evidence."
+      "summary": "The result answers a question about which seed sprouted first.",
+      "hint": "Match the result to the outcome."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i01-p-010",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "ac9s1i01 02",
+    "skill": "questions, patterns and predictions",
     "printable": true,
     "type": "single",
-    "question": "Which sentence is a prediction made before testing an ice cube in sun and shade?",
-    "audioPrompt": "Which sentence is a prediction made before testing an ice cube in sun and shade?",
-    "visual": "💭 before; 🧊 The ice cube in the sun may melt sooner.; 🧪 test",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"💭 before; 🧊 The ice cube in the sun may melt sooner.; 🧪 test\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-010\"></use></svg>",
+    "question": "Which sentence is NOT a prediction?",
+    "audioPrompt": "Which sentence is NOT a prediction?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-010",
-      "alt_text": "💭 before; 🧊 The ice cube in the sun may melt sooner.; 🧪 test"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The ice cube in the sun may melt sooner.",
-      "The sunny ice cube melted first.",
-      "The test is finished."
+      "The sunny ice may melt first.",
+      "The red car travelled 90 cm.",
+      "The watered seed might sprout first.",
+      "The smooth ball may roll farther."
     ],
-    "correct": 0,
-    "explanation": "The ice cube in the sun may melt sooner. says what may happen before evidence is collected.\nHint: A prediction comes before the investigation.",
+    "correct": 1,
+    "explanation": "“Travelled 90 cm” reports a completed observation.\nHint: Which event already happened?",
     "structuredExplanation": {
-      "summary": "The ice cube in the sun may melt sooner. says what may happen before evidence is collected.",
-      "hint": "A prediction comes before the investigation."
+      "summary": "“Travelled 90 cm” reports a completed observation.",
+      "hint": "Which event already happened?"
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i01-p-011",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "ac9s1i01 03",
+    "skill": "questions, patterns and predictions",
     "printable": true,
     "type": "single",
-    "question": "Which reason best supports the prediction about an ice cube in sun and shade?",
-    "audioPrompt": "Which reason best supports the prediction about an ice cube in sun and shade?",
-    "visual": "🧠 past experience; 🧊 an ice cube in sun and shade; ➡️ prediction",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 past experience; 🧊 an ice cube in sun and shade; ➡️ prediction\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-011\"></use></svg>",
+    "question": "Why is “What happens?” too broad for a science investigation?",
+    "audioPrompt": "Why is “What happens?” too broad for a science investigation?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-011",
-      "alt_text": "🧠 past experience; 🧊 an ice cube in sun and shade; ➡️ prediction"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "I chose it because it was the first idea.",
-      "Ice cream melted quickly when it was left in sunlight.",
-      "The result must match any prediction that is written down."
+      "It is too short.",
+      "It needs a longer word.",
+      "It does not say what object or change to observe.",
+      "Science questions cannot use “what”."
     ],
-    "correct": 1,
-    "explanation": "Ice cream melted quickly when it was left in sunlight. connects the prediction to a relevant past experience.\nHint: Choose a reason related to the same materials or change.",
+    "correct": 2,
+    "explanation": "A focused question makes the observation or comparison clear.\nHint: What would you actually watch?",
     "structuredExplanation": {
-      "summary": "Ice cream melted quickly when it was left in sunlight. connects the prediction to a relevant past experience.",
-      "hint": "Choose a reason related to the same materials or change."
+      "summary": "A focused question makes the observation or comparison clear.",
+      "hint": "What would you actually watch?"
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i01-p-012",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "ac9s1i01 04",
+    "skill": "questions, patterns and predictions",
     "printable": true,
     "type": "single",
-    "question": "Which sentence is an observation made after testing an ice cube in sun and shade?",
-    "audioPrompt": "Which sentence is an observation made after testing an ice cube in sun and shade?",
-    "visual": "🧪 test; 👀 observe; 🧊 The sunny ice cube melted first.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧪 test; 👀 observe; 🧊 The sunny ice cube melted first.\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-012\"></use></svg>",
+    "question": "Why make a prediction before testing?",
+    "audioPrompt": "Why make a prediction before testing?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-012",
-      "alt_text": "🧪 test; 👀 observe; 🧊 The sunny ice cube melted first."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The ice cube in the sun may melt sooner.",
-      "I hope my guess wins.",
-      "The sunny ice cube melted first."
+      "So you can change the result later.",
+      "So it is always correct.",
+      "So you record your expectation before seeing the result.",
+      "So you can skip observations."
     ],
     "correct": 2,
-    "explanation": "The sunny ice cube melted first. reports what was noticed or measured.\nHint: Look for numbers or something that was actually seen.",
+    "explanation": "Predictions are expectations made before evidence is collected.\nHint: Prediction first, result later.",
     "structuredExplanation": {
-      "summary": "The sunny ice cube melted first. reports what was noticed or measured.",
-      "hint": "Look for numbers or something that was actually seen."
+      "summary": "Predictions are expectations made before evidence is collected.",
+      "hint": "Prediction first, result later."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i01-p-013",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "ac9s1i01 05",
+    "skill": "questions, patterns and predictions",
     "printable": true,
     "type": "single",
-    "question": "What pattern was found when an ice cube in sun and shade was tested more than once?",
-    "audioPrompt": "What pattern was found when an ice cube in sun and shade was tested more than once?",
-    "visual": "🧊 an ice cube in sun and shade; 🔁 repeat; 📊 pattern",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧊 an ice cube in sun and shade; 🔁 repeat; 📊 pattern\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-013\"></use></svg>",
+    "question": "Why is “The blue car will win because blue is lucky” a weak prediction reason?",
+    "audioPrompt": "Why is “The blue car will win because blue is lucky” a weak prediction reason?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-013",
-      "alt_text": "🧊 an ice cube in sun and shade; 🔁 repeat; 📊 pattern"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Ice melted sooner in the warmer place each time.",
-      "Every trial had a completely unrelated result.",
-      "The first guess became true because it was written down."
+      "Blue cars cannot move.",
+      "Luck is not relevant evidence about rolling.",
+      "Predictions need no reasons.",
+      "Blue is never allowed in science."
     ],
-    "correct": 0,
-    "explanation": "Ice melted sooner in the warmer place each time. describes evidence that repeated across trials.\nHint: Compare all the trials and look for what happened again.",
+    "correct": 1,
+    "explanation": "A useful reason should connect to the outcome being predicted.\nHint: Does colour luck explain rolling distance?",
     "structuredExplanation": {
-      "summary": "Ice melted sooner in the warmer place each time. describes evidence that repeated across trials.",
-      "hint": "Compare all the trials and look for what happened again."
+      "summary": "A useful reason should connect to the outcome being predicted.",
+      "hint": "Does colour luck explain rolling distance?"
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i01-p-014",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "ac9s1i01 06",
+    "skill": "questions, patterns and predictions",
     "printable": true,
     "type": "single",
-    "question": "Why is the word “may” useful in a prediction about an ice cube in sun and shade?",
-    "audioPrompt": "Why is the word “may” useful in a prediction about an ice cube in sun and shade?",
-    "visual": "💭 prediction; 🧪 test; ❓ may change",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"💭 prediction; 🧪 test; ❓ may change\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-014\"></use></svg>",
+    "question": "Why is “Which fabric keeps the toy driest?” clearer than “Which fabric is best?”",
+    "audioPrompt": "Why is “Which fabric keeps the toy driest?” clearer than “Which fabric is best?”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-014",
-      "alt_text": "💭 prediction; 🧪 test; ❓ may change"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "It means no evidence is needed.",
-      "It shows the outcome is possible, not guaranteed.",
-      "It proves the outcome must happen."
+      "It has more letters.",
+      "Fabric cannot be tested.",
+      "“Best” always means dry.",
+      "“Driest” names the result to observe."
     ],
-    "correct": 1,
-    "explanation": "Predictions use evidence but remain open to a different result.\nHint: A prediction is a careful idea to test, not a promise.",
+    "correct": 3,
+    "explanation": "Clear investigation questions specify what success means.\nHint: Best at what?",
     "structuredExplanation": {
-      "summary": "Predictions use evidence but remain open to a different result.",
-      "hint": "A prediction is a careful idea to test, not a promise."
+      "summary": "Clear investigation questions specify what success means.",
+      "hint": "Best at what?"
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i01-p-015",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "ac9s1i01 07",
+    "skill": "questions, patterns and predictions",
     "printable": true,
     "type": "single",
-    "question": "What should happen after making a prediction about an ice cube in sun and shade?",
-    "audioPrompt": "What should happen after making a prediction about an ice cube in sun and shade?",
-    "visual": "💭 predict; 🧪 test; 📝 record",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"💭 predict; 🧪 test; 📝 record\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-015\"></use></svg>",
+    "question": "What evidence would check “The plant by the window will grow taller”?",
+    "audioPrompt": "What evidence would check “The plant by the window will grow taller”?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-015",
-      "alt_text": "💭 predict; 🧪 test; 📝 record"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Change the prediction so it always looks correct.",
-      "Ignore the result if it is surprising.",
-      "Carry out a safe test and record what happens."
+      "The child’s favourite plant",
+      "The number of windows",
+      "The plant’s height over time",
+      "The pot colour"
     ],
     "correct": 2,
-    "explanation": "A prediction should be checked against recorded observations.\nHint: Test the idea, then compare the evidence with the prediction.",
+    "explanation": "Height measurements directly test a prediction about growing taller.\nHint: Measure the thing named in the prediction.",
     "structuredExplanation": {
-      "summary": "A prediction should be checked against recorded observations.",
-      "hint": "Test the idea, then compare the evidence with the prediction."
+      "summary": "Height measurements directly test a prediction about growing taller.",
+      "hint": "Measure the thing named in the prediction."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i01-p-016",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "ac9s1i01 08",
+    "skill": "questions, patterns and predictions",
     "printable": true,
     "type": "single",
-    "question": "If the result does not match a prediction about an ice cube in sun and shade, what should a young scientist do?",
-    "audioPrompt": "If the result does not match a prediction about an ice cube in sun and shade, what should a young scientist do?",
-    "visual": "❌ did not match; 📝 record; 💡 new idea",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"❌ did not match; 📝 record; 💡 new idea\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-016\"></use></svg>",
+    "question": "Why can a wrong prediction still help us learn?",
+    "audioPrompt": "Why can a wrong prediction still help us learn?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-016",
-      "alt_text": "❌ did not match; 📝 record; 💡 new idea"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Record the result and use it to improve the next idea.",
-      "Change the record so it matches the prediction.",
-      "Keep only the first result and ignore later trials."
+      "Science only uses correct guesses.",
+      "We can compare it with the result and update our idea.",
+      "Wrong predictions must be erased.",
+      "It means the test failed."
     ],
-    "correct": 0,
-    "explanation": "Unexpected results are still useful evidence.\nHint: Good scientists learn from what happened, even when it is surprising.",
+    "correct": 1,
+    "explanation": "Science checks expectations against evidence.\nHint: What can the result teach you?",
     "structuredExplanation": {
-      "summary": "Unexpected results are still useful evidence.",
-      "hint": "Good scientists learn from what happened, even when it is surprising."
+      "summary": "Science checks expectations against evidence.",
+      "hint": "What can the result teach you?"
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i01-p-017",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "ac9s1i01 01",
+    "skill": "questions, patterns and predictions",
     "printable": true,
     "type": "single",
-    "question": "Which question can be investigated for two bean plants with different light?",
-    "audioPrompt": "Which question can be investigated for two bean plants with different light?",
-    "visual": "🌱 two bean plants with different light; ❓ question; 🔍 test",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🌱 two bean plants with different light; ❓ question; 🔍 test\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-017\"></use></svg>",
+    "question": "Why count ants in both places when asking “Which place has more ants?”",
+    "audioPrompt": "Why count ants in both places when asking “Which place has more ants?”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-017",
-      "alt_text": "🌱 two bean plants with different light; ❓ question; 🔍 test"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Will the same result happen everywhere forever?",
-      "Does the amount of light affect bean plant growth?",
-      "Which result should happen because I prefer it?"
+      "A comparison needs evidence from both places.",
+      "Ants only appear in pairs.",
+      "One count proves both places.",
+      "The larger place wins automatically."
     ],
-    "correct": 1,
-    "explanation": "Does the amount of light affect bean plant growth? can be explored with a simple, safe investigation.\nHint: Choose a question that can be answered by collecting evidence.",
+    "correct": 0,
+    "explanation": "Both sides of a comparison need observations.\nHint: What information is needed from each place?",
     "structuredExplanation": {
-      "summary": "Does the amount of light affect bean plant growth? can be explored with a simple, safe investigation.",
-      "hint": "Choose a question that can be answered by collecting evidence."
+      "summary": "Both sides of a comparison need observations.",
+      "hint": "What information is needed from each place?"
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 17,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i01-p-018",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "ac9s1i01 02",
+    "skill": "questions, patterns and predictions",
     "printable": true,
     "type": "single",
-    "question": "Which sentence is a prediction made before testing two bean plants with different light?",
-    "audioPrompt": "Which sentence is a prediction made before testing two bean plants with different light?",
-    "visual": "💭 before; 🌱 The plant with more light may grow taller.; 🧪 test",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"💭 before; 🌱 The plant with more light may grow taller.; 🧪 test\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-018\"></use></svg>",
+    "question": "Why is “The sponge will be better” a weak prediction?",
+    "audioPrompt": "Why is “The sponge will be better” a weak prediction?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-018",
-      "alt_text": "💭 before; 🌱 The plant with more light may grow taller.; 🧪 test"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "After one week, one plant was 12 centimetres tall and the other was 7 centimetres tall.",
-      "The test is finished.",
-      "The plant with more light may grow taller."
+      "Sponges cannot be compared.",
+      "Predictions must use numbers.",
+      "The word sponge is too long.",
+      "It does not say what “better” means."
     ],
-    "correct": 2,
-    "explanation": "The plant with more light may grow taller. says what may happen before evidence is collected.\nHint: A prediction comes before the investigation.",
+    "correct": 3,
+    "explanation": "A prediction should state an observable result such as absorbing more drops.\nHint: Better at what?",
     "structuredExplanation": {
-      "summary": "The plant with more light may grow taller. says what may happen before evidence is collected.",
-      "hint": "A prediction comes before the investigation."
+      "summary": "A prediction should state an observable result such as absorbing more drops.",
+      "hint": "Better at what?"
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 18,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i01-p-019",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "ac9s1i01 03",
+    "skill": "questions, patterns and predictions",
     "printable": true,
     "type": "single",
-    "question": "Which reason best supports the prediction about two bean plants with different light?",
-    "audioPrompt": "Which reason best supports the prediction about two bean plants with different light?",
-    "visual": "🧠 past experience; 🌱 two bean plants with different light; ➡️ prediction",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 past experience; 🌱 two bean plants with different light; ➡️ prediction\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-019\"></use></svg>",
+    "question": "Why does “The sunny cube will melt first” match “Which ice cube melts first?”?",
+    "audioPrompt": "Why does “The sunny cube will melt first” match “Which ice cube melts first?”?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-019",
-      "alt_text": "🧠 past experience; 🌱 two bean plants with different light; ➡️ prediction"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Plants near my window grew towards the light.",
-      "I chose it because it was the first idea.",
-      "The result must match any prediction that is written down."
+      "One is about plants.",
+      "They ask different outcomes.",
+      "Both focus on melting time.",
+      "Both mention colour."
     ],
-    "correct": 0,
-    "explanation": "Plants near my window grew towards the light. connects the prediction to a relevant past experience.\nHint: Choose a reason related to the same materials or change.",
+    "correct": 2,
+    "explanation": "Question and prediction should focus on the same outcome.\nHint: Same comparison, same result.",
     "structuredExplanation": {
-      "summary": "Plants near my window grew towards the light. connects the prediction to a relevant past experience.",
-      "hint": "Choose a reason related to the same materials or change."
+      "summary": "Question and prediction should focus on the same outcome.",
+      "hint": "Same comparison, same result."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 19,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i01-p-020",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "ac9s1i01 04",
+    "skill": "questions, patterns and predictions",
     "printable": true,
     "type": "single",
-    "question": "Which sentence is an observation made after testing two bean plants with different light?",
-    "audioPrompt": "Which sentence is an observation made after testing two bean plants with different light?",
-    "visual": "🧪 test; 👀 observe; 🌱 After one week, one plant was 12 centimetres tall and the other was 7 centimetres tall.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧪 test; 👀 observe; 🌱 After one week, one plant was 12 centimetres tall and the other was 7 centimetres tall.\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-020\"></use></svg>",
+    "question": "Why should a prediction use “may” or “might” when evidence is limited?",
+    "audioPrompt": "Why should a prediction use “may” or “might” when evidence is limited?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-020",
-      "alt_text": "🧪 test; 👀 observe; 🌱 After one week, one plant was 12 centimetres tall and the other was 7 centimetres tall."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The plant with more light may grow taller.",
-      "After one week, one plant was 12 centimetres tall and the other was 7 centimetres tall.",
-      "I hope my guess wins."
+      "Because may means already happened.",
+      "Because a prediction is not a guarantee.",
+      "Because “will” is never English.",
+      "Because evidence is useless."
     ],
     "correct": 1,
-    "explanation": "After one week, one plant was 12 centimetres tall and the other was 7 centimetres tall. reports what was noticed or measured.\nHint: Look for numbers or something that was actually seen.",
+    "explanation": "Cautious language shows that the expected outcome still needs checking.\nHint: Prediction is not promise.",
     "structuredExplanation": {
-      "summary": "After one week, one plant was 12 centimetres tall and the other was 7 centimetres tall. reports what was noticed or measured.",
-      "hint": "Look for numbers or something that was actually seen."
+      "summary": "Cautious language shows that the expected outcome still needs checking.",
+      "hint": "Prediction is not promise."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 20,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i01-p-021",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "ac9s1i01 05",
+    "skill": "questions, patterns and predictions",
     "printable": true,
     "type": "single",
-    "question": "What pattern was found when two bean plants with different light was tested more than once?",
-    "audioPrompt": "What pattern was found when two bean plants with different light was tested more than once?",
-    "visual": "🌱 two bean plants with different light; 🔁 repeat; 📊 pattern",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🌱 two bean plants with different light; 🔁 repeat; 📊 pattern\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-021\"></use></svg>",
+    "question": "Which pair correctly shows prediction then observation?",
+    "audioPrompt": "Which pair correctly shows prediction then observation?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-021",
-      "alt_text": "🌱 two bean plants with different light; 🔁 repeat; 📊 pattern"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Every trial had a completely unrelated result.",
-      "The first guess became true because it was written down.",
-      "The better-lit plant was taller on three measurement days."
+      "“It may roll farther.” → “It rolled 80 cm.”",
+      "“It rolled 80 cm.” → “It may roll farther.”",
+      "“It is red.” → “I like it.”",
+      "“It is round.” → “Round is nice.”"
     ],
-    "correct": 2,
-    "explanation": "The better-lit plant was taller on three measurement days. describes evidence that repeated across trials.\nHint: Compare all the trials and look for what happened again.",
+    "correct": 0,
+    "explanation": "Expectation comes before testing; observation reports what happened.\nHint: Before, then after.",
     "structuredExplanation": {
-      "summary": "The better-lit plant was taller on three measurement days. describes evidence that repeated across trials.",
-      "hint": "Compare all the trials and look for what happened again."
+      "summary": "Expectation comes before testing; observation reports what happened.",
+      "hint": "Before, then after."
     },
-    "qualitySchema": "production-v1"
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 21,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i01-p-022",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "ac9s1i01 06",
+    "skill": "questions, patterns and predictions",
     "printable": true,
     "type": "single",
-    "question": "Why is the word “may” useful in a prediction about two bean plants with different light?",
-    "audioPrompt": "Why is the word “may” useful in a prediction about two bean plants with different light?",
-    "visual": "💭 prediction; 🧪 test; ❓ may change",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"💭 prediction; 🧪 test; ❓ may change\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-022\"></use></svg>",
+    "question": "Which question is most investigable with two ramps?",
+    "audioPrompt": "Which question is most investigable with two ramps?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-022",
-      "alt_text": "💭 prediction; 🧪 test; ❓ may change"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "It shows the outcome is possible, not guaranteed.",
-      "It means no evidence is needed.",
-      "It proves the outcome must happen."
+      "Why are ramps useful?",
+      "Which ramp looks coolest?",
+      "Are ramps better than stairs?",
+      "Which ramp lets the same car travel farther?"
     ],
-    "correct": 0,
-    "explanation": "Predictions use evidence but remain open to a different result.\nHint: A prediction is a careful idea to test, not a promise.",
+    "correct": 3,
+    "explanation": "Distance travelled can be compared using the same car.\nHint: Could you measure the answer?",
     "structuredExplanation": {
-      "summary": "Predictions use evidence but remain open to a different result.",
-      "hint": "A prediction is a careful idea to test, not a promise."
+      "summary": "Distance travelled can be compared using the same car.",
+      "hint": "Could you measure the answer?"
     },
-    "qualitySchema": "production-v1"
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 22,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i01-p-023",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "ac9s1i01 07",
+    "skill": "questions, patterns and predictions",
     "printable": true,
     "type": "single",
-    "question": "What should happen after making a prediction about two bean plants with different light?",
-    "audioPrompt": "What should happen after making a prediction about two bean plants with different light?",
-    "visual": "💭 predict; 🧪 test; 📝 record",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"💭 predict; 🧪 test; 📝 record\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-023\"></use></svg>",
+    "question": "Which prediction is too vague to check?",
+    "audioPrompt": "Which prediction is too vague to check?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-023",
-      "alt_text": "💭 predict; 🧪 test; 📝 record"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Change the prediction so it always looks correct.",
-      "Carry out a safe test and record what happens.",
-      "Ignore the result if it is surprising."
+      "The smooth ramp may let the car travel farther.",
+      "The sunny cube may melt first.",
+      "The sponge will be better.",
+      "The seed with water may sprout first."
     ],
-    "correct": 1,
-    "explanation": "A prediction should be checked against recorded observations.\nHint: Test the idea, then compare the evidence with the prediction.",
+    "correct": 2,
+    "explanation": "“Better” does not name an observable result.\nHint: Better how?",
     "structuredExplanation": {
-      "summary": "A prediction should be checked against recorded observations.",
-      "hint": "Test the idea, then compare the evidence with the prediction."
+      "summary": "“Better” does not name an observable result.",
+      "hint": "Better how?"
     },
-    "qualitySchema": "production-v1"
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 23,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i01-p-024",
     "curriculumCode": "AC9S1I01",
     "bank": "practice",
-    "skill": "ac9s1i01 08",
+    "skill": "questions, patterns and predictions",
     "printable": true,
     "type": "single",
-    "question": "If the result does not match a prediction about two bean plants with different light, what should a young scientist do?",
-    "audioPrompt": "If the result does not match a prediction about two bean plants with different light, what should a young scientist do?",
-    "visual": "❌ did not match; 📝 record; 💡 new idea",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"❌ did not match; 📝 record; 💡 new idea\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-024\"></use></svg>",
+    "question": "Question: “Which ball bounces higher?” Which evidence matters most?",
+    "audioPrompt": "Question: “Which ball bounces higher?” Which evidence matters most?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i01.svg#ac9s1i01-p-024",
-      "alt_text": "❌ did not match; 📝 record; 💡 new idea"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Change the record so it matches the prediction.",
-      "Keep only the first result and ignore later trials.",
-      "Record the result and use it to improve the next idea."
+      "Child’s name",
+      "Bounce height",
+      "Ball colour",
+      "Basket size"
+    ],
+    "correct": 1,
+    "explanation": "Bounce height directly answers the question.\nHint: Measure the outcome in the question.",
+    "structuredExplanation": {
+      "summary": "Bounce height directly answers the question.",
+      "hint": "Measure the outcome in the question."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 24,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s1i01-p-025",
+    "curriculumCode": "AC9S1I01",
+    "bank": "practice",
+    "skill": "questions, patterns and predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Which reason best supports “The shaded ice may melt more slowly”?",
+    "audioPrompt": "Which reason best supports “The shaded ice may melt more slowly”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Ice kept in cooler places stayed frozen longer before.",
+      "Shade is my favourite place.",
+      "The tree is green.",
+      "Ice is square."
+    ],
+    "correct": 0,
+    "explanation": "Relevant experience links cooler conditions to slower melting.\nHint: Which reason is about melting?",
+    "structuredExplanation": {
+      "summary": "Relevant experience links cooler conditions to slower melting.",
+      "hint": "Which reason is about melting?"
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 25,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s1i01-p-026",
+    "curriculumCode": "AC9S1I01",
+    "bank": "practice",
+    "skill": "questions, patterns and predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Which prediction does NOT match “Which material keeps water out?”?",
+    "audioPrompt": "Which prediction does NOT match “Which material keeps water out?”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Plastic may keep more water out than paper.",
+      "Foil might keep the toy drier.",
+      "Waxed paper may stop more water.",
+      "The striped fabric will look nicest."
+    ],
+    "correct": 3,
+    "explanation": "Looking nicest changes the topic from water resistance to appearance.\nHint: Which answer is about something else?",
+    "structuredExplanation": {
+      "summary": "Looking nicest changes the topic from water resistance to appearance.",
+      "hint": "Which answer is about something else?"
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 26,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s1i01-p-027",
+    "curriculumCode": "AC9S1I01",
+    "bank": "practice",
+    "skill": "questions, patterns and predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Which statement fixes “A prediction is what happened”?",
+    "audioPrompt": "Which statement fixes “A prediction is what happened”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Prediction comes after.",
+      "Observation is a guess.",
+      "A prediction is expected before; an observation is noticed during or after.",
+      "Prediction and observation are the same."
     ],
     "correct": 2,
-    "explanation": "Unexpected results are still useful evidence.\nHint: Good scientists learn from what happened, even when it is surprising.",
+    "explanation": "Timing separates prediction from observation.\nHint: Expected versus observed.",
     "structuredExplanation": {
-      "summary": "Unexpected results are still useful evidence.",
-      "hint": "Good scientists learn from what happened, even when it is surprising."
+      "summary": "Timing separates prediction from observation.",
+      "hint": "Expected versus observed."
     },
-    "qualitySchema": "production-v1"
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 27,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s1i01-p-028",
+    "curriculumCode": "AC9S1I01",
+    "bank": "practice",
+    "skill": "questions, patterns and predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Which paper-plane question is fairest?",
+    "audioPrompt": "Which paper-plane question is fairest?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Why do planes fly?",
+      "Which plane travels farther when both start from the same line?",
+      "Whose plane is coolest?",
+      "Which child is better?"
+    ],
+    "correct": 1,
+    "explanation": "Using the same start makes the distance comparison clearer.\nHint: Same start, compare distance.",
+    "structuredExplanation": {
+      "summary": "Using the same start makes the distance comparison clearer.",
+      "hint": "Same start, compare distance."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 28,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s1i01-p-029",
+    "curriculumCode": "AC9S1I01",
+    "bank": "practice",
+    "skill": "questions, patterns and predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Which evidence would NOT help “Which soil has more worms?”?",
+    "audioPrompt": "Which evidence would NOT help “Which soil has more worms?”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Bucket colour",
+      "Worm count in soil A",
+      "Worm count in soil B",
+      "Comparison of the counts"
+    ],
+    "correct": 0,
+    "explanation": "Bucket colour is unrelated to worm number.\nHint: Stay focused on worms.",
+    "structuredExplanation": {
+      "summary": "Bucket colour is unrelated to worm number.",
+      "hint": "Stay focused on worms."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 29,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s1i01-p-030",
+    "curriculumCode": "AC9S1I01",
+    "bank": "practice",
+    "skill": "questions, patterns and predictions",
+    "printable": true,
+    "type": "single",
+    "question": "A result does not match the prediction. What should happen?",
+    "audioPrompt": "A result does not match the prediction. What should happen?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Change the result.",
+      "Hide the result.",
+      "Repeat only until the prediction wins.",
+      "Record the real result and compare it honestly."
+    ],
+    "correct": 3,
+    "explanation": "Scientific records keep evidence even when it surprises us.\nHint: Evidence comes first.",
+    "structuredExplanation": {
+      "summary": "Scientific records keep evidence even when it surprises us.",
+      "hint": "Evidence comes first."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 30,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s1i01-p-031",
+    "curriculumCode": "AC9S1I01",
+    "bank": "practice",
+    "skill": "questions, patterns and predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Which question best tests whether seeds sprout sooner in light or dark?",
+    "audioPrompt": "Which question best tests whether seeds sprout sooner in light or dark?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Why is darkness dark?",
+      "Do plants like classrooms?",
+      "Which seeds sprout first: those in light or those in dark?",
+      "Are seeds interesting?"
+    ],
+    "correct": 2,
+    "explanation": "The question names two conditions and an observable outcome.\nHint: What changes, and what will you watch?",
+    "structuredExplanation": {
+      "summary": "The question names two conditions and an observable outcome.",
+      "hint": "What changes, and what will you watch?"
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 31,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s1i01-p-032",
+    "curriculumCode": "AC9S1I01",
+    "bank": "practice",
+    "skill": "questions, patterns and predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Which prediction for that seed test is strongest?",
+    "audioPrompt": "Which prediction for that seed test is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The pots are brown.",
+      "Seeds in light may sprout first because seeds near my window sprouted well before.",
+      "Light is prettier.",
+      "Something will happen."
+    ],
+    "correct": 1,
+    "explanation": "It states an expected result and gives relevant experience.\nHint: Result + useful reason.",
+    "structuredExplanation": {
+      "summary": "It states an expected result and gives relevant experience.",
+      "hint": "Result + useful reason."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 32,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s1i01-p-033",
+    "curriculumCode": "AC9S1I01",
+    "bank": "practice",
+    "skill": "questions, patterns and predictions",
+    "printable": true,
+    "type": "single",
+    "question": "To test smooth versus rough surfaces for sliding, what should be recorded?",
+    "audioPrompt": "To test smooth versus rough surfaces for sliding, what should be recorded?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "How far the block travels on each surface",
+      "Surface colour",
+      "Number of children watching",
+      "Favourite surface"
+    ],
+    "correct": 0,
+    "explanation": "Distance travelled answers the question.\nHint: Record the compared outcome.",
+    "structuredExplanation": {
+      "summary": "Distance travelled answers the question.",
+      "hint": "Record the compared outcome."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 33,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s1i01-p-034",
+    "curriculumCode": "AC9S1I01",
+    "bank": "practice",
+    "skill": "questions, patterns and predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Ava says, “The metal spoon will feel colder because metal spoons at home often feel cold.” What is the prediction?",
+    "audioPrompt": "Ava says, “The metal spoon will feel colder because metal spoons at home often feel cold.” What is the prediction?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Metal spoons at home",
+      "because",
+      "often",
+      "The metal spoon will feel colder."
+    ],
+    "correct": 3,
+    "explanation": "The first part states the expected outcome.\nHint: What does Ava think will happen?",
+    "structuredExplanation": {
+      "summary": "The first part states the expected outcome.",
+      "hint": "What does Ava think will happen?"
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 34,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s1i01-p-035",
+    "curriculumCode": "AC9S1I01",
+    "bank": "practice",
+    "skill": "questions, patterns and predictions",
+    "printable": true,
+    "type": "single",
+    "question": "How should a class test which feeder gets more bird visits?",
+    "audioPrompt": "How should a class test which feeder gets more bird visits?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Vote on the nicest feeder.",
+      "Count seeds only.",
+      "Watch both feeders for the same time and count visits.",
+      "Watch only the favourite feeder."
+    ],
+    "correct": 2,
+    "explanation": "Equal observation time gives comparable evidence.\nHint: Both feeders need the same chance.",
+    "structuredExplanation": {
+      "summary": "Equal observation time gives comparable evidence.",
+      "hint": "Both feeders need the same chance."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 35,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s1i01-p-036",
+    "curriculumCode": "AC9S1I01",
+    "bank": "practice",
+    "skill": "questions, patterns and predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Prediction: “Sponge will absorb more.” Result: paper towel absorbed more. Best conclusion?",
+    "audioPrompt": "Prediction: “Sponge will absorb more.” Result: paper towel absorbed more. Best conclusion?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Predictions are useless.",
+      "The prediction was not supported in this test; paper towel absorbed more.",
+      "The sponge won because it was predicted.",
+      "Hide the result."
+    ],
+    "correct": 1,
+    "explanation": "The conclusion should compare the prediction with the observed evidence.\nHint: What actually happened?",
+    "structuredExplanation": {
+      "summary": "The conclusion should compare the prediction with the observed evidence.",
+      "hint": "What actually happened?"
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 36,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s1i01-p-037",
+    "curriculumCode": "AC9S1I01",
+    "bank": "practice",
+    "skill": "questions, patterns and predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Which prediction can be checked in class?",
+    "audioPrompt": "Which prediction can be checked in class?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Ice on a warm windowsill may melt before ice in cool shade.",
+      "The happier ice will melt first.",
+      "Winter is better.",
+      "Ice is beautiful."
+    ],
+    "correct": 0,
+    "explanation": "Melting under two conditions can be observed.\nHint: Can you test it safely?",
+    "structuredExplanation": {
+      "summary": "Melting under two conditions can be observed.",
+      "hint": "Can you test it safely?"
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 37,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s1i01-p-038",
+    "curriculumCode": "AC9S1I01",
+    "bank": "practice",
+    "skill": "questions, patterns and predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Which question and prediction match?",
+    "audioPrompt": "Which question and prediction match?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "“Which cover is prettiest?” + “Plastic keeps water out.”",
+      "“What is plastic?” + “Paper is white.”",
+      "“Is water wet?” + “The toy is blue.”",
+      "“Which cover keeps the toy driest?” + “Plastic may keep it drier than paper.”"
+    ],
+    "correct": 3,
+    "explanation": "Both parts focus on keeping the toy dry.\nHint: Same outcome in both.",
+    "structuredExplanation": {
+      "summary": "Both parts focus on keeping the toy dry.",
+      "hint": "Same outcome in both."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 38,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s1i01-p-039",
+    "curriculumCode": "AC9S1I01",
+    "bank": "practice",
+    "skill": "questions, patterns and predictions",
+    "printable": true,
+    "type": "single",
+    "question": "More ants were near a tree than a path today. Which next prediction is sensible?",
+    "audioPrompt": "More ants were near a tree than a path today. Which next prediction is sensible?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Trees create ants.",
+      "Ants hate all paths.",
+      "We may count more ants near the tree again tomorrow.",
+      "There will always be exactly five ants."
+    ],
+    "correct": 2,
+    "explanation": "The prediction uses the observation cautiously.\nHint: Do not turn one result into always.",
+    "structuredExplanation": {
+      "summary": "The prediction uses the observation cautiously.",
+      "hint": "Do not turn one result into always."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 39,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s1i01-p-040",
+    "curriculumCode": "AC9S1I01",
+    "bank": "practice",
+    "skill": "questions, patterns and predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Which investigation has question, prediction and evidence all matched?",
+    "audioPrompt": "Which investigation has question, prediction and evidence all matched?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Which ice melts first? → ice is cold → vote for favourite.",
+      "Which ball rolls farther? → round ball may roll farther → measure each distance.",
+      "Which towel absorbs more? → blue is pretty → count windows.",
+      "Which seed sprouts first? → pots are brown → measure table."
+    ],
+    "correct": 1,
+    "explanation": "All parts of the first investigation focus on the same outcome.\nHint: Question, prediction, evidence must line up.",
+    "structuredExplanation": {
+      "summary": "All parts of the first investigation focus on the same outcome.",
+      "hint": "Question, prediction, evidence must line up."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 40,
+    "qualitySchema": "skillr-actual-v6"
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
