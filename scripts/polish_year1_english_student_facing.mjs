@@ -9,8 +9,8 @@ const clean = (value) => String(value ?? "").replace(/\s+/g, " ").trim();
 
 function studentise(value) {
   return clean(value)
-    .replace(/^Demonstrates\b/i, "Shows")
-    .replace(/^Demonstrate\b/i, "Show")
+    .replace(/\bdemonstrates\b/gi, "shows")
+    .replace(/\bdemonstrate\b/gi, "show")
     .replace(/^Identifies\b/i, "Names")
     .replace(/^Identify\b/i, "Name")
     .replace(/^Recognises\b/i, "Notices")
@@ -31,8 +31,10 @@ function studentise(value) {
     .replace(/^Describe\b/i, "Tell about")
     .replace(/certainty\/help/gi, "certainty or help")
     .replace(/expression\/gesture/gi, "expression or gesture")
+    .replace(/gesture\/label/gi, "gesture or label")
     .replace(/word\/sound/gi, "word or sound")
     .replace(/image\/text/gi, "image or text")
+    .replace(/form\/polite tone/gi, "form and polite tone")
     .replace(/\bcriterion\b/gi, "check")
     .replace(/\bcriteria\b/gi, "checks")
     .replace(/\bmarking key\b/gi, "example answer")
@@ -48,6 +50,7 @@ for (const name of files) {
   for (const item of items) {
     item.question = studentise(item.question);
     if (item.audio_prompt) item.audio_prompt = studentise(item.audio_prompt);
+    if (item.visual?.alt_text) item.visual.alt_text = studentise(item.visual.alt_text);
     if (Array.isArray(item.answers)) item.answers = item.answers.map((answer) => ({ ...answer, text:studentise(answer.text) }));
     if (item.explanation) {
       item.explanation.summary = studentise(item.explanation.summary);
@@ -64,7 +67,7 @@ const issues = [];
 for (const name of files) {
   const items = JSON.parse(fs.readFileSync(path.join(BANK_ROOT,name), "utf8"));
   for (const item of items) {
-    const text = [item.question, ...(item.answers || []).map((a)=>a.text), item.explanation?.summary, item.explanation?.hint].filter(Boolean).join(" ");
+    const text = [item.question, item.visual?.alt_text, ...(item.answers || []).map((a)=>a.text), item.explanation?.summary, item.explanation?.hint].filter(Boolean).join(" ");
     if (forbidden.test(text)) issues.push(`${name}/${item.id}`);
   }
 }
