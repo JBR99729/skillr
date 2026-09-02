@@ -1,469 +1,515 @@
 "use strict";
-window.skillrTestQuestions = [
+window.skillrExamQuestions = [
   {
     "id": "ac9s1i03-t-001",
     "curriculumCode": "AC9S1I03",
     "bank": "test",
-    "skill": "ac9s1i03 01",
+    "skill": "making and recording observations",
     "printable": true,
     "type": "single",
-    "question": "Which sentence is a careful observation of a toy car?",
-    "audioPrompt": "Which sentence is a careful observation of a toy car?",
-    "visual": "🚗 a toy car; 👀 observe; 📝 The car stopped 70 centimetres from the start line.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🚗 a toy car; 👀 observe; 📝 The car stopped 70 centimetres from the start line.\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i03.svg#ac9s1i03-t-001\"></use></svg>",
+    "question": "Which record best shows a shell length?",
+    "audioPrompt": "Which record best shows a shell length?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i03.svg#ac9s1i03-t-001",
-      "alt_text": "🚗 a toy car; 👀 observe; 📝 The car stopped 70 centimetres from the start line."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The car stopped 70 centimetres from the start line.",
-      "The car was tired.",
-      "It is the best one."
+      "Shell A: longish",
+      "Shell A: pretty",
+      "Shell A: maybe growing",
+      "Shell A: 5 cm"
     ],
-    "correct": 0,
-    "explanation": "The car stopped 70 centimetres from the start line. describes visible or measurable evidence.\nHint: Choose what can be directly noticed, counted or measured.",
+    "correct": 3,
+    "explanation": "A measured value is specific and comparable.\nHint: Look for number + unit.",
     "structuredExplanation": {
-      "summary": "The car stopped 70 centimetres from the start line. describes visible or measurable evidence.",
-      "hint": "Choose what can be directly noticed, counted or measured."
+      "summary": "A measured value is specific and comparable.",
+      "hint": "Look for number + unit."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i03-t-002",
     "curriculumCode": "AC9S1I03",
     "bank": "test",
-    "skill": "ac9s1i03 02",
+    "skill": "making and recording observations",
     "printable": true,
     "type": "single",
-    "question": "Which sentence is an explanation rather than an observation?",
-    "audioPrompt": "Which sentence is an explanation rather than an observation?",
-    "visual": "👀 observation; 💭 explanation; 🚗 a toy car",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"👀 observation; 💭 explanation; 🚗 a toy car\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i03.svg#ac9s1i03-t-002\"></use></svg>",
+    "question": "A child wants to compare rain in two jars. What should be recorded?",
+    "audioPrompt": "A child wants to compare rain in two jars. What should be recorded?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i03.svg#ac9s1i03-t-002",
-      "alt_text": "👀 observation; 💭 explanation; 🚗 a toy car"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The car stopped 70 centimetres from the start line.",
-      "The car was tired.",
-      "The record has a date."
+      "Favourite jar",
+      "One jar only",
+      "Water depth in each jar using the same unit",
+      "Jar colour"
     ],
-    "correct": 1,
-    "explanation": "The car was tired. gives a cause or idea that was not directly observed.\nHint: An observation tells what happened; an explanation suggests why.",
+    "correct": 2,
+    "explanation": "Same-unit water depth allows direct comparison.\nHint: Measure both the same way.",
     "structuredExplanation": {
-      "summary": "The car was tired. gives a cause or idea that was not directly observed.",
-      "hint": "An observation tells what happened; an explanation suggests why."
+      "summary": "Same-unit water depth allows direct comparison.",
+      "hint": "Measure both the same way."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i03-t-003",
     "curriculumCode": "AC9S1I03",
     "bank": "test",
-    "skill": "ac9s1i03 03",
+    "skill": "making and recording observations",
     "printable": true,
     "type": "single",
-    "question": "Which tool or record is best for observing a toy car?",
-    "audioPrompt": "Which tool or record is best for observing a toy car?",
-    "visual": "🚗 a toy car; 🧰 a tape measure; 📝 record",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🚗 a toy car; 🧰 a tape measure; 📝 record\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i03.svg#ac9s1i03-t-003\"></use></svg>",
+    "question": "Which sentence is an inference rather than an observation?",
+    "audioPrompt": "Which sentence is an inference rather than an observation?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i03.svg#ac9s1i03-t-003",
-      "alt_text": "🚗 a toy car; 🧰 a tape measure; 📝 record"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "a favourite-colour vote",
-      "an unlabelled guess",
-      "a tape measure"
+      "The bird stayed for 30 seconds.",
+      "The bird came because it was hungry.",
+      "The bird landed twice.",
+      "The bird had a red chest."
     ],
-    "correct": 2,
-    "explanation": "A tape measure records relevant evidence about a toy car.\nHint: Match the way of recording to the feature being observed.",
+    "correct": 1,
+    "explanation": "The reason “because it was hungry” is not directly observed.\nHint: What part explains why?",
     "structuredExplanation": {
-      "summary": "A tape measure records relevant evidence about a toy car.",
-      "hint": "Match the way of recording to the feature being observed."
+      "summary": "The reason “because it was hungry” is not directly observed.",
+      "hint": "What part explains why?"
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i03-t-004",
     "curriculumCode": "AC9S1I03",
     "bank": "test",
-    "skill": "ac9s1i03 04",
+    "skill": "making and recording observations",
     "printable": true,
     "type": "single",
-    "question": "What feature is being measured when observing a toy car?",
-    "audioPrompt": "What feature is being measured when observing a toy car?",
-    "visual": "🚗 a toy car; 📏 distance travelled; 🔢 measurement",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🚗 a toy car; 📏 distance travelled; 🔢 measurement\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i03.svg#ac9s1i03-t-004\"></use></svg>",
+    "question": "Which tool best measures how long a toy spins?",
+    "audioPrompt": "Which tool best measures how long a toy spins?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i03.svg#ac9s1i03-t-004",
-      "alt_text": "🚗 a toy car; 📏 distance travelled; 🔢 measurement"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "distance travelled",
-      "how much someone likes it",
-      "whether it is lucky"
+      "Timer",
+      "Ruler",
+      "Thermometer",
+      "Cup"
     ],
     "correct": 0,
-    "explanation": "Distance travelled can be measured or counted.\nHint: Look for a feature with a number or agreed unit.",
+    "explanation": "A timer measures duration.\nHint: Time tool.",
     "structuredExplanation": {
-      "summary": "Distance travelled can be measured or counted.",
-      "hint": "Look for a feature with a number or agreed unit."
+      "summary": "A timer measures duration.",
+      "hint": "Time tool."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i03-t-005",
     "curriculumCode": "AC9S1I03",
     "bank": "test",
-    "skill": "ac9s1i03 05",
+    "skill": "making and recording observations",
     "printable": true,
     "type": "single",
-    "question": "Which record is complete enough to use later?",
-    "audioPrompt": "Which record is complete enough to use later?",
-    "visual": "🚗 a toy car; 📝 Write 70 centimetres beside trial 1.; ✅ clear record",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🚗 a toy car; 📝 Write 70 centimetres beside trial 1.; ✅ clear record\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i03.svg#ac9s1i03-t-005\"></use></svg>",
+    "question": "Why write units beside numbers?",
+    "audioPrompt": "Why write units beside numbers?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i03.svg#ac9s1i03-t-005",
-      "alt_text": "🚗 a toy car; 📝 Write 70 centimetres beside trial 1.; ✅ clear record"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Write only “nice”.",
-      "Write 70 centimetres beside trial 1.",
-      "Make a mark with no label or date."
+      "To make numbers larger.",
+      "To prove a cause.",
+      "Because all numbers mean centimetres.",
+      "So readers know what was measured."
     ],
-    "correct": 1,
-    "explanation": "Write 70 centimetres beside trial 1. includes evidence and useful labels.\nHint: A useful record tells what was observed and when or how it was measured.",
+    "correct": 3,
+    "explanation": "Units give the measurement meaning.\nHint: 5 what?",
     "structuredExplanation": {
-      "summary": "Write 70 centimetres beside trial 1. includes evidence and useful labels.",
-      "hint": "A useful record tells what was observed and when or how it was measured."
+      "summary": "Units give the measurement meaning.",
+      "hint": "5 what?"
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i03-t-006",
     "curriculumCode": "AC9S1I03",
     "bank": "test",
-    "skill": "ac9s1i03 06",
+    "skill": "making and recording observations",
     "printable": true,
     "type": "single",
-    "question": "Why should the same method be used when observing a toy car again?",
-    "audioPrompt": "Why should the same method be used when observing a toy car again?",
-    "visual": "1️⃣ first record; 2️⃣ second record; 🔍 compare",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"1️⃣ first record; 2️⃣ second record; 🔍 compare\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i03.svg#ac9s1i03-t-006\"></use></svg>",
+    "question": "A plant measured 9 cm, 10 cm, 11 cm over three weeks. What can be said?",
+    "audioPrompt": "A plant measured 9 cm, 10 cm, 11 cm over three weeks. What can be said?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i03.svg#ac9s1i03-t-006",
-      "alt_text": "1️⃣ first record; 2️⃣ second record; 🔍 compare"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "So the second result must match.",
-      "So labels are no longer needed.",
-      "So the observations can be compared fairly."
+      "Sun caused exactly 1 cm growth.",
+      "All plants grow this way.",
+      "Its recorded height increased each week.",
+      "It will grow 1 cm forever."
     ],
     "correct": 2,
-    "explanation": "Using the same method makes changes easier to compare.\nHint: Keep the measuring or recording method consistent.",
+    "explanation": "The measurements show an increase across the recorded weeks only.\nHint: Stay with the data.",
     "structuredExplanation": {
-      "summary": "Using the same method makes changes easier to compare.",
-      "hint": "Keep the measuring or recording method consistent."
+      "summary": "The measurements show an increase across the recorded weeks only.",
+      "hint": "Stay with the data."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i03-t-007",
     "curriculumCode": "AC9S1I03",
     "bank": "test",
-    "skill": "ac9s1i03 07",
+    "skill": "making and recording observations",
     "printable": true,
     "type": "single",
-    "question": "What should be added to a drawing of a toy car?",
-    "audioPrompt": "What should be added to a drawing of a toy car?",
-    "visual": "🚗 a toy car; 🏷️ labels; 👀 features",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🚗 a toy car; 🏷️ labels; 👀 features\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i03.svg#ac9s1i03-t-007\"></use></svg>",
+    "question": "Which record is least useful for comparing temperatures?",
+    "audioPrompt": "Which record is least useful for comparing temperatures?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i03.svg#ac9s1i03-t-007",
-      "alt_text": "🚗 a toy car; 🏷️ labels; 👀 features"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Labels that point to the observed features.",
-      "A made-up cause presented as fact.",
-      "Decorations that cover the evidence."
+      "Both measured at the same time",
+      "“Warm” for one cup and 24°C for the other",
+      "24°C and 18°C",
+      "Both measured with the same thermometer"
     ],
-    "correct": 0,
-    "explanation": "Labels show exactly which features were observed.\nHint: Point each label to something visible in the drawing.",
+    "correct": 1,
+    "explanation": "Different recording methods make the comparison less precise.\nHint: Same method matters.",
     "structuredExplanation": {
-      "summary": "Labels show exactly which features were observed.",
-      "hint": "Point each label to something visible in the drawing."
+      "summary": "Different recording methods make the comparison less precise.",
+      "hint": "Same method matters."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i03-t-008",
     "curriculumCode": "AC9S1I03",
     "bank": "test",
-    "skill": "ac9s1i03 08",
+    "skill": "making and recording observations",
     "printable": true,
     "type": "single",
-    "question": "How can an observation of a toy car be made more precise?",
-    "audioPrompt": "How can an observation of a toy car be made more precise?",
-    "visual": "💬 vague; ➡️ add detail; ✅ The car stopped 70 centimetres from the start line.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"💬 vague; ➡️ add detail; ✅ The car stopped 70 centimetres from the start line.\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i03.svg#ac9s1i03-t-008\"></use></svg>",
+    "question": "A tally shows |||| for butterflies. How many were counted?",
+    "audioPrompt": "A tally shows |||| for butterflies. How many were counted?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i03.svg#ac9s1i03-t-008",
-      "alt_text": "💬 vague; ➡️ add detail; ✅ The car stopped 70 centimetres from the start line."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use only the word “good”.",
-      "Include a number, unit or clear feature description.",
-      "Remove the date and labels."
+      "4",
+      "2",
+      "5",
+      "8"
     ],
-    "correct": 1,
-    "explanation": "Precise observations state exactly what was noticed or measured.\nHint: Replace vague words with counts, measurements or named features.",
+    "correct": 0,
+    "explanation": "Four tally marks represent four observations.\nHint: Count the marks.",
     "structuredExplanation": {
-      "summary": "Precise observations state exactly what was noticed or measured.",
-      "hint": "Replace vague words with counts, measurements or named features."
+      "summary": "Four tally marks represent four observations.",
+      "hint": "Count the marks."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i03-t-009",
     "curriculumCode": "AC9S1I03",
     "bank": "test",
-    "skill": "ac9s1i03 01",
+    "skill": "making and recording observations",
     "printable": true,
     "type": "single",
-    "question": "Which sentence is a careful observation of the sky?",
-    "audioPrompt": "Which sentence is a careful observation of the sky?",
-    "visual": "☁️ the sky; 👀 observe; 📝 Six dark clouds covered most of the sky.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"☁️ the sky; 👀 observe; 📝 Six dark clouds covered most of the sky.\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i03.svg#ac9s1i03-t-009\"></use></svg>",
+    "question": "Which note is most objective?",
+    "audioPrompt": "Which note is most objective?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i03.svg#ac9s1i03-t-009",
-      "alt_text": "☁️ the sky; 👀 observe; 📝 Six dark clouds covered most of the sky."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "It will definitely rain because the clouds are angry.",
-      "It is the best one.",
-      "Six dark clouds covered most of the sky."
+      "The rock is beautiful.",
+      "The rock looks lucky.",
+      "The rock is boring.",
+      "The rock has two white stripes."
     ],
-    "correct": 2,
-    "explanation": "Six dark clouds covered most of the sky. describes visible or measurable evidence.\nHint: Choose what can be directly noticed, counted or measured.",
+    "correct": 3,
+    "explanation": "Visible stripes can be checked by others.\nHint: Fact you can observe.",
     "structuredExplanation": {
-      "summary": "Six dark clouds covered most of the sky. describes visible or measurable evidence.",
-      "hint": "Choose what can be directly noticed, counted or measured."
+      "summary": "Visible stripes can be checked by others.",
+      "hint": "Fact you can observe."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i03-t-010",
     "curriculumCode": "AC9S1I03",
     "bank": "test",
-    "skill": "ac9s1i03 02",
+    "skill": "making and recording observations",
     "printable": true,
     "type": "single",
-    "question": "Which sentence is an explanation rather than an observation?",
-    "audioPrompt": "Which sentence is an explanation rather than an observation?",
-    "visual": "👀 observation; 💭 explanation; ☁️ the sky",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"👀 observation; 💭 explanation; ☁️ the sky\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i03.svg#ac9s1i03-t-010\"></use></svg>",
+    "question": "Why measure at the same time each day when comparing shadows?",
+    "audioPrompt": "Why measure at the same time each day when comparing shadows?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i03.svg#ac9s1i03-t-010",
-      "alt_text": "👀 observation; 💭 explanation; ☁️ the sky"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "It will definitely rain because the clouds are angry.",
-      "Six dark clouds covered most of the sky.",
-      "The record has a date."
+      "Same time guarantees same shadow.",
+      "Different times are unsafe.",
+      "Time affects shadow position and length, so keeping it similar supports comparison.",
+      "Clocks make shadows."
     ],
-    "correct": 0,
-    "explanation": "It will definitely rain because the clouds are angry. gives a cause or idea that was not directly observed.\nHint: An observation tells what happened; an explanation suggests why.",
+    "correct": 2,
+    "explanation": "Consistent observation time reduces an extra source of difference.\nHint: Keep conditions comparable.",
     "structuredExplanation": {
-      "summary": "It will definitely rain because the clouds are angry. gives a cause or idea that was not directly observed.",
-      "hint": "An observation tells what happened; an explanation suggests why."
+      "summary": "Consistent observation time reduces an extra source of difference.",
+      "hint": "Keep conditions comparable."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i03-t-011",
     "curriculumCode": "AC9S1I03",
     "bank": "test",
-    "skill": "ac9s1i03 03",
+    "skill": "making and recording observations",
     "printable": true,
     "type": "single",
-    "question": "Which tool or record is best for observing the sky?",
-    "audioPrompt": "Which tool or record is best for observing the sky?",
-    "visual": "☁️ the sky; 🧰 a dated weather drawing; 📝 record",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"☁️ the sky; 🧰 a dated weather drawing; 📝 record\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i03.svg#ac9s1i03-t-011\"></use></svg>",
+    "question": "A measurement seems very different from the others. Best next step?",
+    "audioPrompt": "A measurement seems very different from the others. Best next step?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i03.svg#ac9s1i03-t-011",
-      "alt_text": "☁️ the sky; 🧰 a dated weather drawing; 📝 record"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "a favourite-colour vote",
-      "a dated weather drawing",
-      "an unlabelled guess"
+      "Pick the favourite number.",
+      "Check the method and measure again.",
+      "Hide it.",
+      "Change it."
     ],
     "correct": 1,
-    "explanation": "A dated weather drawing records relevant evidence about the sky.\nHint: Match the way of recording to the feature being observed.",
+    "explanation": "Unusual data should be checked, not altered.\nHint: Recheck.",
     "structuredExplanation": {
-      "summary": "A dated weather drawing records relevant evidence about the sky.",
-      "hint": "Match the way of recording to the feature being observed."
+      "summary": "Unusual data should be checked, not altered.",
+      "hint": "Recheck."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i03-t-012",
     "curriculumCode": "AC9S1I03",
     "bank": "test",
-    "skill": "ac9s1i03 04",
+    "skill": "making and recording observations",
     "printable": true,
     "type": "single",
-    "question": "What feature is being measured when observing the sky?",
-    "audioPrompt": "What feature is being measured when observing the sky?",
-    "visual": "☁️ the sky; 📏 number of dark clouds; 🔢 measurement",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"☁️ the sky; 📏 number of dark clouds; 🔢 measurement\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i03.svg#ac9s1i03-t-012\"></use></svg>",
+    "question": "Which table heading is clearest?",
+    "audioPrompt": "Which table heading is clearest?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i03.svg#ac9s1i03-t-012",
-      "alt_text": "☁️ the sky; 📏 number of dark clouds; 🔢 measurement"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "how much someone likes it",
-      "whether it is lucky",
-      "number of dark clouds"
+      "Day | Number of birds",
+      "Stuff | Things",
+      "Birds maybe",
+      "Nice results"
     ],
-    "correct": 2,
-    "explanation": "Number of dark clouds can be measured or counted.\nHint: Look for a feature with a number or agreed unit.",
+    "correct": 0,
+    "explanation": "Clear headings show exactly what each column records.\nHint: Name the variables.",
     "structuredExplanation": {
-      "summary": "Number of dark clouds can be measured or counted.",
-      "hint": "Look for a feature with a number or agreed unit."
+      "summary": "Clear headings show exactly what each column records.",
+      "hint": "Name the variables."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i03-t-013",
     "curriculumCode": "AC9S1I03",
     "bank": "test",
-    "skill": "ac9s1i03 05",
+    "skill": "making and recording observations",
     "printable": true,
     "type": "single",
-    "question": "Which record is complete enough to use later?",
-    "audioPrompt": "Which record is complete enough to use later?",
-    "visual": "☁️ the sky; 📝 Draw the clouds and write the date and time.; ✅ clear record",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"☁️ the sky; 📝 Draw the clouds and write the date and time.; ✅ clear record\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i03.svg#ac9s1i03-t-013\"></use></svg>",
+    "question": "Which statement reports change over time?",
+    "audioPrompt": "Which statement reports change over time?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i03.svg#ac9s1i03-t-013",
-      "alt_text": "☁️ the sky; 📝 Draw the clouds and write the date and time.; ✅ clear record"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Draw the clouds and write the date and time.",
-      "Write only “nice”.",
-      "Make a mark with no label or date."
+      "The candle is yellow.",
+      "Candles are useful.",
+      "Fire is hot.",
+      "The candle became 2 cm shorter after burning under adult supervision."
     ],
-    "correct": 0,
-    "explanation": "Draw the clouds and write the date and time. includes evidence and useful labels.\nHint: A useful record tells what was observed and when or how it was measured.",
+    "correct": 3,
+    "explanation": "It compares the object before and after a period.\nHint: What changed?",
     "structuredExplanation": {
-      "summary": "Draw the clouds and write the date and time. includes evidence and useful labels.",
-      "hint": "A useful record tells what was observed and when or how it was measured."
+      "summary": "It compares the object before and after a period.",
+      "hint": "What changed?"
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i03-t-014",
     "curriculumCode": "AC9S1I03",
     "bank": "test",
-    "skill": "ac9s1i03 06",
+    "skill": "making and recording observations",
     "printable": true,
     "type": "single",
-    "question": "Why should the same method be used when observing the sky again?",
-    "audioPrompt": "Why should the same method be used when observing the sky again?",
-    "visual": "1️⃣ first record; 2️⃣ second record; 🔍 compare",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"1️⃣ first record; 2️⃣ second record; 🔍 compare\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i03.svg#ac9s1i03-t-014\"></use></svg>",
+    "question": "Which record would help compare sound duration?",
+    "audioPrompt": "Which record would help compare sound duration?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i03.svg#ac9s1i03-t-014",
-      "alt_text": "1️⃣ first record; 2️⃣ second record; 🔍 compare"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "So the second result must match.",
-      "So the observations can be compared fairly.",
-      "So labels are no longer needed."
+      "Size of the room only",
+      "Favourite sound",
+      "Seconds each sound lasted",
+      "Colour of each object"
     ],
-    "correct": 1,
-    "explanation": "Using the same method makes changes easier to compare.\nHint: Keep the measuring or recording method consistent.",
+    "correct": 2,
+    "explanation": "Seconds measure duration.\nHint: Use a time measure.",
     "structuredExplanation": {
-      "summary": "Using the same method makes changes easier to compare.",
-      "hint": "Keep the measuring or recording method consistent."
+      "summary": "Seconds measure duration.",
+      "hint": "Use a time measure."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i03-t-015",
     "curriculumCode": "AC9S1I03",
     "bank": "test",
-    "skill": "ac9s1i03 07",
+    "skill": "making and recording observations",
     "printable": true,
     "type": "single",
-    "question": "What should be added to a drawing of the sky?",
-    "audioPrompt": "What should be added to a drawing of the sky?",
-    "visual": "☁️ the sky; 🏷️ labels; 👀 features",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"☁️ the sky; 🏷️ labels; 👀 features\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i03.svg#ac9s1i03-t-015\"></use></svg>",
+    "question": "Why use a labelled diagram?",
+    "audioPrompt": "Why use a labelled diagram?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i03.svg#ac9s1i03-t-015",
-      "alt_text": "☁️ the sky; 🏷️ labels; 👀 features"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "A made-up cause presented as fact.",
-      "Decorations that cover the evidence.",
-      "Labels that point to the observed features."
+      "Labels make drawings artistic.",
+      "It can show where observed features are located.",
+      "It proves the explanation.",
+      "It replaces every other record."
     ],
-    "correct": 2,
-    "explanation": "Labels show exactly which features were observed.\nHint: Point each label to something visible in the drawing.",
+    "correct": 1,
+    "explanation": "Labels connect names to visible parts or features.\nHint: Name what is shown.",
     "structuredExplanation": {
-      "summary": "Labels show exactly which features were observed.",
-      "hint": "Point each label to something visible in the drawing."
+      "summary": "Labels connect names to visible parts or features.",
+      "hint": "Name what is shown."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i03-t-016",
     "curriculumCode": "AC9S1I03",
     "bank": "test",
-    "skill": "ac9s1i03 08",
+    "skill": "making and recording observations",
     "printable": true,
     "type": "single",
-    "question": "How can an observation of the sky be made more precise?",
-    "audioPrompt": "How can an observation of the sky be made more precise?",
-    "visual": "💬 vague; ➡️ add detail; ✅ Six dark clouds covered most of the sky.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"💬 vague; ➡️ add detail; ✅ Six dark clouds covered most of the sky.\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i03.svg#ac9s1i03-t-016\"></use></svg>",
+    "question": "Which conclusion is supported by counts 3, 3, 3?",
+    "audioPrompt": "Which conclusion is supported by counts 3, 3, 3?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i03.svg#ac9s1i03-t-016",
-      "alt_text": "💬 vague; ➡️ add detail; ✅ Six dark clouds covered most of the sky."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Include a number, unit or clear feature description.",
-      "Use only the word “good”.",
-      "Remove the date and labels."
+      "The same number was counted in these three observations.",
+      "There will always be 3.",
+      "Three caused the result.",
+      "All future counts must be 3."
     ],
     "correct": 0,
-    "explanation": "Precise observations state exactly what was noticed or measured.\nHint: Replace vague words with counts, measurements or named features.",
+    "explanation": "The evidence supports sameness across the three recorded observations only.\nHint: Do not overgeneralise.",
     "structuredExplanation": {
-      "summary": "Precise observations state exactly what was noticed or measured.",
-      "hint": "Replace vague words with counts, measurements or named features."
+      "summary": "The evidence supports sameness across the three recorded observations only.",
+      "hint": "Do not overgeneralise."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v6"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

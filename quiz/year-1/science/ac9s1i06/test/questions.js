@@ -1,469 +1,515 @@
 "use strict";
-window.skillrTestQuestions = [
+window.skillrExamQuestions = [
   {
     "id": "ac9s1i06-t-001",
     "curriculumCode": "AC9S1I06",
     "bank": "test",
-    "skill": "ac9s1i06 01",
+    "skill": "communicating scientific ideas",
     "printable": true,
     "type": "single",
-    "question": "Which title clearly tells the topic of a week of weather observations?",
-    "audioPrompt": "Which title clearly tells the topic of a week of weather observations?",
-    "visual": "🌦️ a week of weather observations; 📰 Our Week of Weather; 👥 the school assembly",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🌦️ a week of weather observations; 📰 Our Week of Weather; 👥 the school assembly\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-001\"></use></svg>",
+    "question": "Which title best suits a test about how far toy cars roll?",
+    "audioPrompt": "Which title best suits a test about how far toy cars roll?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-001",
-      "alt_text": "🌦️ a week of weather observations; 📰 Our Week of Weather; 👥 the school assembly"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Our Week of Weather",
-      "My Favourite Things",
-      "Something Happened"
+      "My science",
+      "Cars",
+      "Results",
+      "Toy-car rolling distance"
     ],
-    "correct": 0,
-    "explanation": "Our Week of Weather names the investigation or observation clearly.\nHint: A good title tells the audience what the science communication is about.",
+    "correct": 3,
+    "explanation": "A specific title tells the audience what was measured.\nHint: Name the investigation.",
     "structuredExplanation": {
-      "summary": "Our Week of Weather names the investigation or observation clearly.",
-      "hint": "A good title tells the audience what the science communication is about."
+      "summary": "A specific title tells the audience what was measured.",
+      "hint": "Name the investigation."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i06-t-002",
     "curriculumCode": "AC9S1I06",
     "bank": "test",
-    "skill": "ac9s1i06 02",
+    "skill": "communicating scientific ideas",
     "printable": true,
     "type": "single",
-    "question": "Which sentence is a precise observation to share?",
-    "audioPrompt": "Which sentence is a precise observation to share?",
-    "visual": "🌦️ a week of weather observations; 👀 observation; 💬 Four days were sunny.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🌦️ a week of weather observations; 👀 observation; 💬 Four days were sunny.\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-002\"></use></svg>",
+    "question": "Which sentence reports evidence clearly?",
+    "audioPrompt": "Which sentence reports evidence clearly?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-002",
-      "alt_text": "🌦️ a week of weather observations; 👀 observation; 💬 Four days were sunny."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "It was really nice.",
-      "Four days were sunny.",
-      "I think it happened because of magic."
+      "It cooled because it wanted to.",
+      "The water will always cool.",
+      "The water cooled from 30°C to 24°C.",
+      "The water got nicer."
     ],
-    "correct": 1,
-    "explanation": "Four days were sunny. gives specific evidence.\nHint: Include what was seen or measured, with a number or unit when useful.",
+    "correct": 2,
+    "explanation": "The first gives a measured change.\nHint: Specific evidence.",
     "structuredExplanation": {
-      "summary": "Four days were sunny. gives specific evidence.",
-      "hint": "Include what was seen or measured, with a number or unit when useful."
+      "summary": "The first gives a measured change.",
+      "hint": "Specific evidence."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i06-t-003",
     "curriculumCode": "AC9S1I06",
     "bank": "test",
-    "skill": "ac9s1i06 03",
+    "skill": "communicating scientific ideas",
     "printable": true,
     "type": "single",
-    "question": "Which label would be useful on a diagram for a week of weather observations?",
-    "audioPrompt": "Which label would be useful on a diagram for a week of weather observations?",
-    "visual": "🌦️ a week of weather observations; 🏷️ rainy day; ➡️ label line",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🌦️ a week of weather observations; 🏷️ rainy day; ➡️ label line\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-003\"></use></svg>",
+    "question": "Why label a bar graph?",
+    "audioPrompt": "Why label a bar graph?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-003",
-      "alt_text": "🌦️ a week of weather observations; 🏷️ rainy day; ➡️ label line"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "best part",
-      "mystery thing",
-      "rainy day"
+      "To add decoration.",
+      "So readers know what each bar and number represents.",
+      "To make bars taller.",
+      "To prove the result."
     ],
-    "correct": 2,
-    "explanation": "Rainy day names a relevant visible feature or setup part.\nHint: A diagram label should point to something the audience needs to identify.",
+    "correct": 1,
+    "explanation": "Labels make the data interpretable.\nHint: What does each bar mean?",
     "structuredExplanation": {
-      "summary": "Rainy day names a relevant visible feature or setup part.",
-      "hint": "A diagram label should point to something the audience needs to identify."
+      "summary": "Labels make the data interpretable.",
+      "hint": "What does each bar mean?"
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i06-t-004",
     "curriculumCode": "AC9S1I06",
     "bank": "test",
-    "skill": "ac9s1i06 04",
+    "skill": "communicating scientific ideas",
     "printable": true,
     "type": "single",
-    "question": "Which finding uses evidence from a week of weather observations?",
-    "audioPrompt": "Which finding uses evidence from a week of weather observations?",
-    "visual": "📝 records; 🔎 compare; ✅ Sunny was the most common weather this week.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📝 records; 🔎 compare; ✅ Sunny was the most common weather this week.\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-004\"></use></svg>",
+    "question": "Which visual best shows where spots appeared on a leaf?",
+    "audioPrompt": "Which visual best shows where spots appeared on a leaf?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-004",
-      "alt_text": "📝 records; 🔎 compare; ✅ Sunny was the most common weather this week."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Sunny was the most common weather this week.",
-      "Everyone must like the result.",
-      "The first guess was correct because it was first."
+      "A labelled diagram of the leaf",
+      "A temperature graph",
+      "A map of Australia",
+      "A random photo"
     ],
     "correct": 0,
-    "explanation": "Sunny was the most common weather this week. communicates a result supported by observations.\nHint: A finding tells what the evidence showed.",
+    "explanation": "A labelled diagram can show location on the leaf.\nHint: Choose the mode that fits the information.",
     "structuredExplanation": {
-      "summary": "Sunny was the most common weather this week. communicates a result supported by observations.",
-      "hint": "A finding tells what the evidence showed."
+      "summary": "A labelled diagram can show location on the leaf.",
+      "hint": "Choose the mode that fits the information."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i06-t-005",
     "curriculumCode": "AC9S1I06",
     "bank": "test",
-    "skill": "ac9s1i06 05",
+    "skill": "communicating scientific ideas",
     "printable": true,
     "type": "single",
-    "question": "Which unit makes the record clear for a week of weather observations?",
-    "audioPrompt": "Which unit makes the record clear for a week of weather observations?",
-    "visual": "🔢 number; 🏷️ days; 🌦️ a week of weather observations",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🔢 number; 🏷️ days; 🌦️ a week of weather observations\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-005\"></use></svg>",
+    "question": "Which conclusion is careful?",
+    "audioPrompt": "Which conclusion is careful?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-005",
-      "alt_text": "🔢 number; 🏷️ days; 🌦️ a week of weather observations"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "goodness",
-      "days",
-      "favourites"
+      "Red cars always travel farther.",
+      "Red is the best colour.",
+      "The result proves all cars.",
+      "The red car travelled farther in our three trials."
     ],
-    "correct": 1,
-    "explanation": "Days tells the audience what was counted or measured.\nHint: Write the number together with what the number measures.",
+    "correct": 3,
+    "explanation": "The statement stays within the trials completed.\nHint: These trials only.",
     "structuredExplanation": {
-      "summary": "Days tells the audience what was counted or measured.",
-      "hint": "Write the number together with what the number measures."
+      "summary": "The statement stays within the trials completed.",
+      "hint": "These trials only."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i06-t-006",
     "curriculumCode": "AC9S1I06",
     "bank": "test",
-    "skill": "ac9s1i06 06",
+    "skill": "communicating scientific ideas",
     "printable": true,
     "type": "single",
-    "question": "How should results about a week of weather observations be shared with the school assembly?",
-    "audioPrompt": "How should results about a week of weather observations be shared with the school assembly?",
-    "visual": "📰 title; 🖼️ labelled visual; 💬 finding",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📰 title; 🖼️ labelled visual; 💬 finding\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-006\"></use></svg>",
+    "question": "What should a caption do?",
+    "audioPrompt": "What should a caption do?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-006",
-      "alt_text": "📰 title; 🖼️ labelled visual; 💬 finding"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use unexplained marks with no labels.",
-      "Tell only an opinion and hide the observations.",
-      "Use a clear title, labelled visual and evidence sentence."
+      "Replace all evidence.",
+      "Add a joke.",
+      "Explain what an image shows and why it matters.",
+      "Repeat “photo” only."
     ],
     "correct": 2,
-    "explanation": "Clear structure helps the school assembly understand the evidence.\nHint: Show what was investigated, what was observed and what was found.",
+    "explanation": "Captions give images context.\nHint: Name the evidence.",
     "structuredExplanation": {
-      "summary": "Clear structure helps the school assembly understand the evidence.",
-      "hint": "Show what was investigated, what was observed and what was found."
+      "summary": "Captions give images context.",
+      "hint": "Name the evidence."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i06-t-007",
     "curriculumCode": "AC9S1I06",
     "bank": "test",
-    "skill": "ac9s1i06 07",
+    "skill": "communicating scientific ideas",
     "printable": true,
     "type": "single",
-    "question": "What should come first when explaining a week of weather observations?",
-    "audioPrompt": "What should come first when explaining a week of weather observations?",
-    "visual": "1️⃣ topic; 2️⃣ evidence; 3️⃣ finding",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"1️⃣ topic; 2️⃣ evidence; 3️⃣ finding\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-007\"></use></svg>",
+    "question": "Which slide is least effective?",
+    "audioPrompt": "Which slide is least effective?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-007",
-      "alt_text": "1️⃣ topic; 2️⃣ evidence; 3️⃣ finding"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Say what was investigated or observed.",
-      "Announce that every prediction was correct.",
-      "Give a conclusion before naming the topic."
+      "A short evidence statement",
+      "Tiny paragraphs covering the whole screen",
+      "One clear graph with labels",
+      "A labelled photo"
     ],
-    "correct": 0,
-    "explanation": "The audience first needs to know what the communication is about.\nHint: Use the order: topic, evidence, finding.",
+    "correct": 1,
+    "explanation": "Dense tiny text is hard to read while listening.\nHint: Avoid overload.",
     "structuredExplanation": {
-      "summary": "The audience first needs to know what the communication is about.",
-      "hint": "Use the order: topic, evidence, finding."
+      "summary": "Dense tiny text is hard to read while listening.",
+      "hint": "Avoid overload."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i06-t-008",
     "curriculumCode": "AC9S1I06",
     "bank": "test",
-    "skill": "ac9s1i06 08",
+    "skill": "communicating scientific ideas",
     "printable": true,
     "type": "single",
-    "question": "Why should a science communication about a week of weather observations include evidence?",
-    "audioPrompt": "Why should a science communication about a week of weather observations include evidence?",
-    "visual": "👀 evidence; ➡️ supports; 💡 finding",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"👀 evidence; ➡️ supports; 💡 finding\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-008\"></use></svg>",
+    "question": "Why include measurement units in a talk?",
+    "audioPrompt": "Why include measurement units in a talk?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-008",
-      "alt_text": "👀 evidence; ➡️ supports; 💡 finding"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "So the page has more words.",
-      "So the audience can understand how the finding was reached.",
-      "So opinions look like measurements."
+      "So numbers are meaningful.",
+      "To make the talk longer.",
+      "Because every unit is cm.",
+      "To prove a cause."
     ],
-    "correct": 1,
-    "explanation": "Evidence connects the observation or test to the finding.\nHint: Ask: What did we see, count or measure that supports this finding?",
+    "correct": 0,
+    "explanation": "Units explain what quantities represent.\nHint: Number + unit.",
     "structuredExplanation": {
-      "summary": "Evidence connects the observation or test to the finding.",
-      "hint": "Ask: What did we see, count or measure that supports this finding?"
+      "summary": "Units explain what quantities represent.",
+      "hint": "Number + unit."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i06-t-009",
     "curriculumCode": "AC9S1I06",
     "bank": "test",
-    "skill": "ac9s1i06 01",
+    "skill": "communicating scientific ideas",
     "printable": true,
     "type": "single",
-    "question": "Which title clearly tells the topic of a materials bending test?",
-    "audioPrompt": "Which title clearly tells the topic of a materials bending test?",
-    "visual": "📎 a materials bending test; 📰 Which Materials Bent?; 👥 a visiting teacher",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📎 a materials bending test; 📰 Which Materials Bent?; 👥 a visiting teacher\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-009\"></use></svg>",
+    "question": "Which statement links evidence to finding?",
+    "audioPrompt": "Which statement links evidence to finding?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-009",
-      "alt_text": "📎 a materials bending test; 📰 Which Materials Bent?; 👥 a visiting teacher"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "My Favourite Things",
-      "Something Happened",
-      "Which Materials Bent?"
+      "Feeder B is pretty.",
+      "Birds like B forever.",
+      "We used two feeders.",
+      "We counted twice as many visits at feeder B, so B had more visits in our observation."
     ],
-    "correct": 2,
-    "explanation": "Which Materials Bent? names the investigation or observation clearly.\nHint: A good title tells the audience what the science communication is about.",
+    "correct": 3,
+    "explanation": "The first explains what the counts show.\nHint: Evidence → conclusion.",
     "structuredExplanation": {
-      "summary": "Which Materials Bent? names the investigation or observation clearly.",
-      "hint": "A good title tells the audience what the science communication is about."
+      "summary": "The first explains what the counts show.",
+      "hint": "Evidence → conclusion."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i06-t-010",
     "curriculumCode": "AC9S1I06",
     "bank": "test",
-    "skill": "ac9s1i06 02",
+    "skill": "communicating scientific ideas",
     "printable": true,
     "type": "single",
-    "question": "Which sentence is a precise observation to share?",
-    "audioPrompt": "Which sentence is a precise observation to share?",
-    "visual": "📎 a materials bending test; 👀 observation; 💬 The plastic strip bent and the wooden stick did not.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📎 a materials bending test; 👀 observation; 💬 The plastic strip bent and the wooden stick did not.\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-010\"></use></svg>",
+    "question": "What is the best opening for a poster?",
+    "audioPrompt": "What is the best opening for a poster?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-010",
-      "alt_text": "📎 a materials bending test; 👀 observation; 💬 The plastic strip bent and the wooden stick did not."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The plastic strip bent and the wooden stick did not.",
-      "It was really nice.",
-      "I think it happened because of magic."
+      "A random picture",
+      "A long unrelated story",
+      "A clear question or purpose",
+      "The conclusion only"
     ],
-    "correct": 0,
-    "explanation": "The plastic strip bent and the wooden stick did not. gives specific evidence.\nHint: Include what was seen or measured, with a number or unit when useful.",
+    "correct": 2,
+    "explanation": "The audience needs to know what the work is about.\nHint: Start with purpose.",
     "structuredExplanation": {
-      "summary": "The plastic strip bent and the wooden stick did not. gives specific evidence.",
-      "hint": "Include what was seen or measured, with a number or unit when useful."
+      "summary": "The audience needs to know what the work is about.",
+      "hint": "Start with purpose."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i06-t-011",
     "curriculumCode": "AC9S1I06",
     "bank": "test",
-    "skill": "ac9s1i06 03",
+    "skill": "communicating scientific ideas",
     "printable": true,
     "type": "single",
-    "question": "Which label would be useful on a diagram for a materials bending test?",
-    "audioPrompt": "Which label would be useful on a diagram for a materials bending test?",
-    "visual": "📎 a materials bending test; 🏷️ flexible material; ➡️ label line",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📎 a materials bending test; 🏷️ flexible material; ➡️ label line\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-011\"></use></svg>",
+    "question": "Which wording is too strong after one test?",
+    "audioPrompt": "Which wording is too strong after one test?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-011",
-      "alt_text": "📎 a materials bending test; 🏷️ flexible material; ➡️ label line"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "best part",
-      "flexible material",
-      "mystery thing"
+      "More tests could be useful.",
+      "This proves the material always works best.",
+      "This material held most weight in our test.",
+      "Our result supported the idea."
     ],
     "correct": 1,
-    "explanation": "Flexible material names a relevant visible feature or setup part.\nHint: A diagram label should point to something the audience needs to identify.",
+    "explanation": "“Always” goes beyond the evidence.\nHint: Watch certainty.",
     "structuredExplanation": {
-      "summary": "Flexible material names a relevant visible feature or setup part.",
-      "hint": "A diagram label should point to something the audience needs to identify."
+      "summary": "“Always” goes beyond the evidence.",
+      "hint": "Watch certainty."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i06-t-012",
     "curriculumCode": "AC9S1I06",
     "bank": "test",
-    "skill": "ac9s1i06 04",
+    "skill": "communicating scientific ideas",
     "printable": true,
     "type": "single",
-    "question": "Which finding uses evidence from a materials bending test?",
-    "audioPrompt": "Which finding uses evidence from a materials bending test?",
-    "visual": "📝 records; 🔎 compare; ✅ Two of the three plastic strips bent.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📝 records; 🔎 compare; ✅ Two of the three plastic strips bent.\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-012\"></use></svg>",
+    "question": "A table has no headings. What is the main problem?",
+    "audioPrompt": "A table has no headings. What is the main problem?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-012",
-      "alt_text": "📝 records; 🔎 compare; ✅ Two of the three plastic strips bent."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Everyone must like the result.",
-      "The first guess was correct because it was first.",
-      "Two of the three plastic strips bent."
+      "Readers cannot tell what the numbers mean.",
+      "The table is too scientific.",
+      "Numbers become wrong.",
+      "Tables need pictures only."
     ],
-    "correct": 2,
-    "explanation": "Two of the three plastic strips bent. communicates a result supported by observations.\nHint: A finding tells what the evidence showed.",
+    "correct": 0,
+    "explanation": "Headings identify each column or row.\nHint: Label the data.",
     "structuredExplanation": {
-      "summary": "Two of the three plastic strips bent. communicates a result supported by observations.",
-      "hint": "A finding tells what the evidence showed."
+      "summary": "Headings identify each column or row.",
+      "hint": "Label the data."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i06-t-013",
     "curriculumCode": "AC9S1I06",
     "bank": "test",
-    "skill": "ac9s1i06 05",
+    "skill": "communicating scientific ideas",
     "printable": true,
     "type": "single",
-    "question": "Which unit makes the record clear for a materials bending test?",
-    "audioPrompt": "Which unit makes the record clear for a materials bending test?",
-    "visual": "🔢 number; 🏷️ strips; 📎 a materials bending test",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🔢 number; 🏷️ strips; 📎 a materials bending test\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-013\"></use></svg>",
+    "question": "Which spoken delivery helps listeners?",
+    "audioPrompt": "Which spoken delivery helps listeners?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-013",
-      "alt_text": "🔢 number; 🏷️ strips; 📎 a materials bending test"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "strips",
-      "goodness",
-      "favourites"
+      "Very fast reading",
+      "Facing away",
+      "Whispering every result",
+      "Clear pace with pauses at key evidence"
     ],
-    "correct": 0,
-    "explanation": "Strips tells the audience what was counted or measured.\nHint: Write the number together with what the number measures.",
+    "correct": 3,
+    "explanation": "Controlled pace supports comprehension.\nHint: Help people follow.",
     "structuredExplanation": {
-      "summary": "Strips tells the audience what was counted or measured.",
-      "hint": "Write the number together with what the number measures."
+      "summary": "Controlled pace supports comprehension.",
+      "hint": "Help people follow."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i06-t-014",
     "curriculumCode": "AC9S1I06",
     "bank": "test",
-    "skill": "ac9s1i06 06",
+    "skill": "communicating scientific ideas",
     "printable": true,
     "type": "single",
-    "question": "How should results about a materials bending test be shared with a visiting teacher?",
-    "audioPrompt": "How should results about a materials bending test be shared with a visiting teacher?",
-    "visual": "📰 title; 🖼️ labelled visual; 💬 finding",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📰 title; 🖼️ labelled visual; 💬 finding\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-014\"></use></svg>",
+    "question": "A graph shows 2,4,6 plant leaves over weeks. Best explanation?",
+    "audioPrompt": "A graph shows 2,4,6 plant leaves over weeks. Best explanation?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-014",
-      "alt_text": "📰 title; 🖼️ labelled visual; 💬 finding"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use unexplained marks with no labels.",
-      "Use a clear title, labelled visual and evidence sentence.",
-      "Tell only an opinion and hide the observations."
+      "Plants always grow this way.",
+      "The graph is green.",
+      "The recorded leaf count increased each week.",
+      "It proves exactly two new leaves forever."
     ],
-    "correct": 1,
-    "explanation": "Clear structure helps a visiting teacher understand the evidence.\nHint: Show what was investigated, what was observed and what was found.",
+    "correct": 2,
+    "explanation": "The statement accurately describes the observed trend.\nHint: Say what the graph shows.",
     "structuredExplanation": {
-      "summary": "Clear structure helps a visiting teacher understand the evidence.",
-      "hint": "Show what was investigated, what was observed and what was found."
+      "summary": "The statement accurately describes the observed trend.",
+      "hint": "Say what the graph shows."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i06-t-015",
     "curriculumCode": "AC9S1I06",
     "bank": "test",
-    "skill": "ac9s1i06 07",
+    "skill": "communicating scientific ideas",
     "printable": true,
     "type": "single",
-    "question": "What should come first when explaining a materials bending test?",
-    "audioPrompt": "What should come first when explaining a materials bending test?",
-    "visual": "1️⃣ topic; 2️⃣ evidence; 3️⃣ finding",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"1️⃣ topic; 2️⃣ evidence; 3️⃣ finding\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-015\"></use></svg>",
+    "question": "Which final sentence is strongest?",
+    "audioPrompt": "Which final sentence is strongest?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-015",
-      "alt_text": "1️⃣ topic; 2️⃣ evidence; 3️⃣ finding"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Announce that every prediction was correct.",
-      "Give a conclusion before naming the topic.",
-      "Say what was investigated or observed."
+      "Science is fun.",
+      "These results answered our question, and repeating the test would help us check the pattern.",
+      "We proved everything.",
+      "The end."
     ],
-    "correct": 2,
-    "explanation": "The audience first needs to know what the communication is about.\nHint: Use the order: topic, evidence, finding.",
+    "correct": 1,
+    "explanation": "It closes the investigation and recognises the value of further evidence.\nHint: Summarise + next step.",
     "structuredExplanation": {
-      "summary": "The audience first needs to know what the communication is about.",
-      "hint": "Use the order: topic, evidence, finding."
+      "summary": "It closes the investigation and recognises the value of further evidence.",
+      "hint": "Summarise + next step."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i06-t-016",
     "curriculumCode": "AC9S1I06",
     "bank": "test",
-    "skill": "ac9s1i06 08",
+    "skill": "communicating scientific ideas",
     "printable": true,
     "type": "single",
-    "question": "Why should a science communication about a materials bending test include evidence?",
-    "audioPrompt": "Why should a science communication about a materials bending test include evidence?",
-    "visual": "👀 evidence; ➡️ supports; 💡 finding",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"👀 evidence; ➡️ supports; 💡 finding\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-016\"></use></svg>",
+    "question": "Why choose words suited to the audience?",
+    "audioPrompt": "Why choose words suited to the audience?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-016",
-      "alt_text": "👀 evidence; ➡️ supports; 💡 finding"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "So the audience can understand how the finding was reached.",
-      "So the page has more words.",
-      "So opinions look like measurements."
+      "So people can understand the science message.",
+      "So the data change.",
+      "So evidence becomes true.",
+      "So the talk is longer."
     ],
     "correct": 0,
-    "explanation": "Evidence connects the observation or test to the finding.\nHint: Ask: What did we see, count or measure that supports this finding?",
+    "explanation": "Audience-appropriate language improves communication.\nHint: Communicate for understanding.",
     "structuredExplanation": {
-      "summary": "Evidence connects the observation or test to the finding.",
-      "hint": "Ask: What did we see, count or measure that supports this finding?"
+      "summary": "Audience-appropriate language improves communication.",
+      "hint": "Communicate for understanding."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v6"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

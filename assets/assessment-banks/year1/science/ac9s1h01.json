@@ -1,673 +1,214 @@
 [
   {
-    "id": "AC9S1H01-P-001",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1H01",
+    "id": "ac9s1h01-p-001",
+    "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "ac9s1h01_01",
-    "question": "Which sentence is an observation a gardener could record?",
-    "audio_prompt": "Which sentence is an observation a gardener could record?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1h01.svg#ac9s1h01-p-001",
-      "alt_text": "🌱 checks tomato plants; 👀 observe; 📝 record"
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "A gardener measures bean-plant height each Friday. How is science helping?",
+    "audioPrompt": "A gardener measures bean-plant height each Friday. How is science helping?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "The leaves are drooping.",
+        "text": "Using measurements to track growth",
         "is_correct": true
       },
       {
-        "text": "The same result will definitely happen tomorrow.",
+        "text": "Choosing the prettiest plant",
         "is_correct": false
       },
       {
-        "text": "An untested cause made this happen.",
+        "text": "Guessing without looking",
+        "is_correct": false
+      },
+      {
+        "text": "Making plants identical",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The leaves are drooping. describes something that can be noticed or measured.",
-      "hint": "Choose what the person can see, hear, feel safely or measure."
+    "correct": 0,
+    "explanation": "Height measurements give evidence about growth over time.\nHint: Look for evidence.",
+    "structuredExplanation": {
+      "summary": "Height measurements give evidence about growth over time.",
+      "hint": "Look for evidence."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
   },
   {
-    "id": "AC9S1H01-P-002",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1H01",
+    "id": "ac9s1h01-p-002",
+    "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "ac9s1h01_02",
-    "question": "Which tool would best help a gardener measure plant height?",
-    "audio_prompt": "Which tool would best help a gardener measure plant height?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1h01.svg#ac9s1h01-p-002",
-      "alt_text": "🌱 a gardener; 🧰 tools; 📏 plant height"
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "A cook uses a timer while bread bakes. What is measured?",
+    "audioPrompt": "A cook uses a timer while bread bakes. What is measured?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "a timer",
+        "text": "colour",
         "is_correct": false
       },
       {
-        "text": "a ruler",
+        "text": "taste",
+        "is_correct": false
+      },
+      {
+        "text": "weight",
+        "is_correct": false
+      },
+      {
+        "text": "time",
         "is_correct": true
-      },
-      {
-        "text": "a thermometer",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "A ruler is suited to measuring plant height.",
-      "hint": "Match the tool to the thing being measured."
+    "correct": 3,
+    "explanation": "A timer measures duration.\nHint: What does a timer tell us?",
+    "structuredExplanation": {
+      "summary": "A timer measures duration.",
+      "hint": "What does a timer tell us?"
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
   },
   {
-    "id": "AC9S1H01-P-003",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1H01",
+    "id": "ac9s1h01-p-003",
+    "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "ac9s1h01_03",
-    "question": "What is a gardener measuring?",
-    "audio_prompt": "What is a gardener measuring?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1h01.svg#ac9s1h01-p-003",
-      "alt_text": "🌱 checks tomato plants; 📏 measure; 🔢 evidence"
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "A family checks the forecast before hanging washing. Why?",
+    "audioPrompt": "A family checks the forecast before hanging washing. Why?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "whether the same result will always happen",
+        "text": "It guarantees no rain.",
         "is_correct": false
       },
       {
-        "text": "the untested cause of the result",
+        "text": "It changes clothes.",
         "is_correct": false
       },
       {
-        "text": "plant height",
+        "text": "Weather information can help them choose when clothes may dry.",
         "is_correct": true
+      },
+      {
+        "text": "It makes wind start.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Plant height can be checked using evidence.",
-      "hint": "Look for the feature that can be counted or measured."
+    "correct": 2,
+    "explanation": "Forecasts provide information for practical decisions but not certainty.\nHint: How can weather information help?",
+    "structuredExplanation": {
+      "summary": "Forecasts provide information for practical decisions but not certainty.",
+      "hint": "How can weather information help?"
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
   },
   {
-    "id": "AC9S1H01-P-004",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1H01",
+    "id": "ac9s1h01-p-004",
+    "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "ac9s1h01_04",
-    "question": "Which question could a gardener answer by observing or measuring?",
-    "audio_prompt": "Which question could a gardener answer by observing or measuring?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1h01.svg#ac9s1h01-p-004",
-      "alt_text": "🌱 checks tomato plants; ❓ question; 🔍 investigate"
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Wet towels dried quickly on three warm breezy days. Which prediction is careful?",
+    "audioPrompt": "Wet towels dried quickly on three warm breezy days. Which prediction is careful?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Do the tomato plants grow taller each week?",
+        "text": "Towels never dry indoors.",
+        "is_correct": false
+      },
+      {
+        "text": "A towel may dry quickly on another warm breezy day.",
         "is_correct": true
       },
       {
-        "text": "Will this result happen every time in every place?",
+        "text": "It must dry in 10 minutes.",
         "is_correct": false
       },
       {
-        "text": "Is this the best possible way to do the job?",
+        "text": "Wind always dries everything.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Do the tomato plants grow taller each week? can be explored using observations or measurements.",
-      "hint": "Choose a question that can be checked with evidence."
+    "correct": 1,
+    "explanation": "The prediction uses a pattern without claiming certainty.\nHint: Use may, not must.",
+    "structuredExplanation": {
+      "summary": "The prediction uses a pattern without claiming certainty.",
+      "hint": "Use may, not must."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
   },
   {
-    "id": "AC9S1H01-P-005",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1H01",
+    "id": "ac9s1h01-p-005",
+    "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "ac9s1h01_05",
-    "question": "After noticing a repeated pattern, which prediction is careful and scientific?",
-    "audio_prompt": "After noticing a repeated pattern, which prediction is careful and scientific?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1h01.svg#ac9s1h01-p-005",
-      "alt_text": "🔁 The soil dried quickly on three sunny days.; ➡️ next time; 💭 The soil may dry quickly on the next sunny day."
-    },
-    "answers": [
-      {
-        "text": "This must happen every time.",
-        "is_correct": false
-      },
-      {
-        "text": "The soil may dry quickly on the next sunny day.",
-        "is_correct": true
-      },
-      {
-        "text": "Anything could happen, so observations do not matter.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The word “may” shows that the prediction uses the pattern without claiming certainty.",
-      "hint": "Use the repeated evidence, but do not say the outcome is guaranteed."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S1H01-P-006",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1H01",
-    "bank": "practice",
-    "skill": "ac9s1h01_06",
-    "question": "Why does a gardener record observations?",
-    "audio_prompt": "Why does a gardener record observations?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1h01.svg#ac9s1h01-p-006",
-      "alt_text": "🌱 a gardener; 📝 record; 🔎 compare"
-    },
-    "answers": [
-      {
-        "text": "So one result can stand for every future test.",
-        "is_correct": false
-      },
-      {
-        "text": "So predictions never need to be compared with results.",
-        "is_correct": false
-      },
-      {
-        "text": "So the evidence can be checked and compared later.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Records help people compare evidence and remember what happened.",
-      "hint": "Think about why dates, numbers, drawings and notes are useful."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S1H01-P-007",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1H01",
-    "bank": "practice",
-    "skill": "ac9s1h01_07",
-    "question": "Which statement uses evidence from a gardener's work?",
-    "audio_prompt": "Which statement uses evidence from a gardener's work?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1h01.svg#ac9s1h01-p-007",
-      "alt_text": "🌱 checks tomato plants; ✅ evidence; 💬 opinion"
-    },
-    "answers": [
-      {
-        "text": "The soil dried quickly on three sunny days.",
-        "is_correct": true
-      },
-      {
-        "text": "This proves the same result will happen every time.",
-        "is_correct": false
-      },
-      {
-        "text": "An untested cause must have produced the result.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The soil dried quickly on three sunny days. reports a repeated observation rather than an opinion.",
-      "hint": "Choose the statement that tells what was actually observed."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9S1H01-P-008",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1H01",
-    "bank": "practice",
-    "skill": "ac9s1h01_08",
-    "question": "How does science help a gardener?",
-    "audio_prompt": "How does science help a gardener?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1h01.svg#ac9s1h01-p-008",
-      "alt_text": "🌱 a gardener; 🔍 observe; ✅ decide"
-    },
-    "answers": [
-      {
-        "text": "It lets them decide from one observation only.",
-        "is_correct": false
-      },
-      {
-        "text": "It helps them make decisions using observations and measurements.",
-        "is_correct": true
-      },
-      {
-        "text": "It proves every first guess is correct.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Science supports everyday decisions with evidence.",
-      "hint": "Look for the choice that uses careful checking."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S1H01-P-009",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1H01",
-    "bank": "practice",
-    "skill": "ac9s1h01_01",
-    "question": "Which sentence is an observation a cook could record?",
-    "audio_prompt": "Which sentence is an observation a cook could record?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1h01.svg#ac9s1h01-p-009",
-      "alt_text": "🥣 makes vegetable soup; 👀 observe; 📝 record"
-    },
-    "answers": [
-      {
-        "text": "The same result will definitely happen tomorrow.",
-        "is_correct": false
-      },
-      {
-        "text": "An untested cause made this happen.",
-        "is_correct": false
-      },
-      {
-        "text": "The soup is bubbling.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The soup is bubbling. describes something that can be noticed or measured.",
-      "hint": "Choose what the person can see, hear, feel safely or measure."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9S1H01-P-010",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1H01",
-    "bank": "practice",
-    "skill": "ac9s1h01_02",
-    "question": "Which tool would best help a cook measure heating time?",
-    "audio_prompt": "Which tool would best help a cook measure heating time?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1h01.svg#ac9s1h01-p-010",
-      "alt_text": "🥣 a cook; 🧰 tools; 📏 heating time"
-    },
-    "answers": [
-      {
-        "text": "a timer",
-        "is_correct": true
-      },
-      {
-        "text": "a ruler",
-        "is_correct": false
-      },
-      {
-        "text": "a thermometer",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "A timer is suited to measuring heating time.",
-      "hint": "Match the tool to the thing being measured."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9S1H01-P-011",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1H01",
-    "bank": "practice",
-    "skill": "ac9s1h01_03",
-    "question": "What is a cook measuring?",
-    "audio_prompt": "What is a cook measuring?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1h01.svg#ac9s1h01-p-011",
-      "alt_text": "🥣 makes vegetable soup; 📏 measure; 🔢 evidence"
-    },
-    "answers": [
-      {
-        "text": "whether the same result will always happen",
-        "is_correct": false
-      },
-      {
-        "text": "heating time",
-        "is_correct": true
-      },
-      {
-        "text": "the untested cause of the result",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Heating time can be checked using evidence.",
-      "hint": "Look for the feature that can be counted or measured."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9S1H01-P-012",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1H01",
-    "bank": "practice",
-    "skill": "ac9s1h01_04",
-    "question": "Which question could a cook answer by observing or measuring?",
-    "audio_prompt": "Which question could a cook answer by observing or measuring?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1h01.svg#ac9s1h01-p-012",
-      "alt_text": "🥣 makes vegetable soup; ❓ question; 🔍 investigate"
-    },
-    "answers": [
-      {
-        "text": "Will this result happen every time in every place?",
-        "is_correct": false
-      },
-      {
-        "text": "Is this the best possible way to do the job?",
-        "is_correct": false
-      },
-      {
-        "text": "How long does the soup take to heat?",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "How long does the soup take to heat? can be explored using observations or measurements.",
-      "hint": "Choose a question that can be checked with evidence."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S1H01-P-013",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1H01",
-    "bank": "practice",
-    "skill": "ac9s1h01_05",
-    "question": "After noticing a repeated pattern, which prediction is careful and scientific?",
-    "audio_prompt": "After noticing a repeated pattern, which prediction is careful and scientific?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1h01.svg#ac9s1h01-p-013",
-      "alt_text": "🔁 The soup bubbled after 6 minutes in three trials.; ➡️ next time; 💭 It may bubble after about 6 minutes next time."
-    },
-    "answers": [
-      {
-        "text": "It may bubble after about 6 minutes next time.",
-        "is_correct": true
-      },
-      {
-        "text": "This must happen every time.",
-        "is_correct": false
-      },
-      {
-        "text": "Anything could happen, so observations do not matter.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The word “may” shows that the prediction uses the pattern without claiming certainty.",
-      "hint": "Use the repeated evidence, but do not say the outcome is guaranteed."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S1H01-P-014",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1H01",
-    "bank": "practice",
-    "skill": "ac9s1h01_06",
-    "question": "Why does a cook record observations?",
-    "audio_prompt": "Why does a cook record observations?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1h01.svg#ac9s1h01-p-014",
-      "alt_text": "🥣 a cook; 📝 record; 🔎 compare"
-    },
-    "answers": [
-      {
-        "text": "So one result can stand for every future test.",
-        "is_correct": false
-      },
-      {
-        "text": "So the evidence can be checked and compared later.",
-        "is_correct": true
-      },
-      {
-        "text": "So predictions never need to be compared with results.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Records help people compare evidence and remember what happened.",
-      "hint": "Think about why dates, numbers, drawings and notes are useful."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S1H01-P-015",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1H01",
-    "bank": "practice",
-    "skill": "ac9s1h01_07",
-    "question": "Which statement uses evidence from a cook's work?",
-    "audio_prompt": "Which statement uses evidence from a cook's work?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1h01.svg#ac9s1h01-p-015",
-      "alt_text": "🥣 makes vegetable soup; ✅ evidence; 💬 opinion"
-    },
-    "answers": [
-      {
-        "text": "This proves the same result will happen every time.",
-        "is_correct": false
-      },
-      {
-        "text": "An untested cause must have produced the result.",
-        "is_correct": false
-      },
-      {
-        "text": "The soup bubbled after 6 minutes in three trials.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The soup bubbled after 6 minutes in three trials. reports a repeated observation rather than an opinion.",
-      "hint": "Choose the statement that tells what was actually observed."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S1H01-P-016",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1H01",
-    "bank": "practice",
-    "skill": "ac9s1h01_08",
-    "question": "How does science help a cook?",
-    "audio_prompt": "How does science help a cook?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1h01.svg#ac9s1h01-p-016",
-      "alt_text": "🥣 a cook; 🔍 observe; ✅ decide"
-    },
-    "answers": [
-      {
-        "text": "It helps them make decisions using observations and measurements.",
-        "is_correct": true
-      },
-      {
-        "text": "It lets them decide from one observation only.",
-        "is_correct": false
-      },
-      {
-        "text": "It proves every first guess is correct.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Science supports everyday decisions with evidence.",
-      "hint": "Look for the choice that uses careful checking."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S1H01-P-017",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1H01",
-    "bank": "practice",
-    "skill": "ac9s1h01_01",
-    "question": "Which sentence is an observation a nurse could record?",
-    "audio_prompt": "Which sentence is an observation a nurse could record?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1h01.svg#ac9s1h01-p-017",
-      "alt_text": "🌡️ checks a patient's temperature; 👀 observe; 📝 record"
-    },
-    "answers": [
-      {
-        "text": "The same result will definitely happen tomorrow.",
-        "is_correct": false
-      },
-      {
-        "text": "The thermometer shows 37 degrees Celsius.",
-        "is_correct": true
-      },
-      {
-        "text": "An untested cause made this happen.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The thermometer shows 37 degrees Celsius. describes something that can be noticed or measured.",
-      "hint": "Choose what the person can see, hear, feel safely or measure."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S1H01-P-018",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1H01",
-    "bank": "practice",
-    "skill": "ac9s1h01_02",
-    "question": "Which tool would best help a nurse measure temperature?",
-    "audio_prompt": "Which tool would best help a nurse measure temperature?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1h01.svg#ac9s1h01-p-018",
-      "alt_text": "🌡️ a nurse; 🧰 tools; 📏 temperature"
-    },
-    "answers": [
-      {
-        "text": "a ruler",
-        "is_correct": false
-      },
-      {
-        "text": "a timer",
-        "is_correct": false
-      },
-      {
-        "text": "a thermometer",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "A thermometer is suited to measuring temperature.",
-      "hint": "Match the tool to the thing being measured."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S1H01-P-019",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1H01",
-    "bank": "practice",
-    "skill": "ac9s1h01_03",
-    "question": "What is a nurse measuring?",
-    "audio_prompt": "What is a nurse measuring?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1h01.svg#ac9s1h01-p-019",
-      "alt_text": "🌡️ checks a patient's temperature; 📏 measure; 🔢 evidence"
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "A nurse uses a thermometer. What does it measure?",
+    "audioPrompt": "A nurse uses a thermometer. What does it measure?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
@@ -675,744 +216,2515 @@
         "is_correct": true
       },
       {
-        "text": "whether the same result will always happen",
+        "text": "height",
         "is_correct": false
       },
       {
-        "text": "the untested cause of the result",
+        "text": "sound",
+        "is_correct": false
+      },
+      {
+        "text": "time",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Temperature can be checked using evidence.",
-      "hint": "Look for the feature that can be counted or measured."
+    "correct": 0,
+    "explanation": "A thermometer measures temperature.\nHint: Match tool and quantity.",
+    "structuredExplanation": {
+      "summary": "A thermometer measures temperature.",
+      "hint": "Match tool and quantity."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
   },
   {
-    "id": "AC9S1H01-P-020",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1H01",
+    "id": "ac9s1h01-p-006",
+    "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "ac9s1h01_04",
-    "question": "Which question could a nurse answer by observing or measuring?",
-    "audio_prompt": "Which question could a nurse answer by observing or measuring?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1h01.svg#ac9s1h01-p-020",
-      "alt_text": "🌡️ checks a patient's temperature; ❓ question; 🔍 investigate"
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence is an observation?",
+    "audioPrompt": "Which sentence is an observation?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Will this result happen every time in every place?",
+        "text": "The puddle may dry by lunch.",
         "is_correct": false
       },
       {
-        "text": "What temperature does the thermometer show?",
+        "text": "Sun will dry it.",
+        "is_correct": false
+      },
+      {
+        "text": "Tomorrow will be hotter.",
+        "is_correct": false
+      },
+      {
+        "text": "The puddle is 40 cm wide.",
         "is_correct": true
-      },
-      {
-        "text": "Is this the best possible way to do the job?",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "What temperature does the thermometer show? can be explored using observations or measurements.",
-      "hint": "Choose a question that can be checked with evidence."
+    "correct": 3,
+    "explanation": "An observation reports something checked now.\nHint: What is already known?",
+    "structuredExplanation": {
+      "summary": "An observation reports something checked now.",
+      "hint": "What is already known?"
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
   },
   {
-    "id": "AC9S1H01-P-021",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1H01",
+    "id": "ac9s1h01-p-007",
+    "curriculumCode": "AC9S1H01",
     "bank": "practice",
-    "skill": "ac9s1h01_05",
-    "question": "After noticing a repeated pattern, which prediction is careful and scientific?",
-    "audio_prompt": "After noticing a repeated pattern, which prediction is careful and scientific?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1h01.svg#ac9s1h01-p-021",
-      "alt_text": "🔁 The reading stayed the same for three checks.; ➡️ next time; 💭 The next reading may be similar."
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Which prediction uses a pattern?",
+    "audioPrompt": "Which prediction uses a pattern?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "This must happen every time.",
+        "text": "I like magpies, so they will come.",
         "is_correct": false
       },
       {
-        "text": "Anything could happen, so observations do not matter.",
+        "text": "The lawn is green.",
         "is_correct": false
       },
       {
-        "text": "The next reading may be similar.",
+        "text": "Magpies visited after watering three mornings, so they may visit after watering tomorrow.",
+        "is_correct": true
+      },
+      {
+        "text": "Magpies always visit wet lawns.",
+        "is_correct": false
+      }
+    ],
+    "correct": 2,
+    "explanation": "Repeated observations can support a cautious prediction.\nHint: Past evidence + may.",
+    "structuredExplanation": {
+      "summary": "Repeated observations can support a cautious prediction.",
+      "hint": "Past evidence + may."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
+  },
+  {
+    "id": "ac9s1h01-p-008",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "A builder uses a spirit level on a shelf. What is being checked?",
+    "audioPrompt": "A builder uses a spirit level on a shelf. What is being checked?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "its temperature",
+        "is_correct": false
+      },
+      {
+        "text": "whether the shelf is level",
+        "is_correct": true
+      },
+      {
+        "text": "the shelf colour",
+        "is_correct": false
+      },
+      {
+        "text": "who owns it",
+        "is_correct": false
+      }
+    ],
+    "correct": 1,
+    "explanation": "A spirit level checks whether a surface is level.\nHint: What can the tool show?",
+    "structuredExplanation": {
+      "summary": "A spirit level checks whether a surface is level.",
+      "hint": "What can the tool show?"
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
+  },
+  {
+    "id": "ac9s1h01-p-009",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Which daily activity uses measurement?",
+    "audioPrompt": "Which daily activity uses measurement?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Pouring 250 mL of water into a recipe",
+        "is_correct": true
+      },
+      {
+        "text": "Choosing a favourite cup",
+        "is_correct": false
+      },
+      {
+        "text": "Saying soup smells nice",
+        "is_correct": false
+      },
+      {
+        "text": "Drawing a lunchbox",
+        "is_correct": false
+      }
+    ],
+    "correct": 0,
+    "explanation": "250 mL is a measured volume.\nHint: Look for a number and unit.",
+    "structuredExplanation": {
+      "summary": "250 mL is a measured volume.",
+      "hint": "Look for a number and unit."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
+  },
+  {
+    "id": "ac9s1h01-p-010",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "A shadow is longer each morning than at lunchtime for several days. What was noticed?",
+    "audioPrompt": "A shadow is longer each morning than at lunchtime for several days. What was noticed?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "a forever rule",
+        "is_correct": false
+      },
+      {
+        "text": "a favourite shadow",
+        "is_correct": false
+      },
+      {
+        "text": "a cause",
+        "is_correct": false
+      },
+      {
+        "text": "a repeated pattern",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The word “may” shows that the prediction uses the pattern without claiming certainty.",
-      "hint": "Use the repeated evidence, but do not say the outcome is guaranteed."
+    "correct": 3,
+    "explanation": "A repeated difference across observations is a pattern.\nHint: What repeats?",
+    "structuredExplanation": {
+      "summary": "A repeated difference across observations is a pattern.",
+      "hint": "What repeats?"
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
+  },
+  {
+    "id": "ac9s1h01-p-011",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Why record plant height instead of relying only on memory?",
+    "audioPrompt": "Why record plant height instead of relying only on memory?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Memory is never useful.",
+        "is_correct": false
+      },
+      {
+        "text": "Tall plants always win.",
+        "is_correct": false
+      },
+      {
+        "text": "The record can be checked and compared later.",
+        "is_correct": true
+      },
+      {
+        "text": "Writing makes plants grow.",
+        "is_correct": false
+      }
+    ],
+    "correct": 2,
+    "explanation": "Records preserve evidence over time.\nHint: Why keep the numbers?",
+    "structuredExplanation": {
+      "summary": "Records preserve evidence over time.",
+      "hint": "Why keep the numbers?"
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
+  },
+  {
+    "id": "ac9s1h01-p-012",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Why is “It rained after dark clouds once, so it will always rain” too strong?",
+    "audioPrompt": "Why is “It rained after dark clouds once, so it will always rain” too strong?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Weather cannot be studied.",
+        "is_correct": false
+      },
+      {
+        "text": "One observation cannot prove every future result.",
+        "is_correct": true
+      },
+      {
+        "text": "Dark clouds never bring rain.",
+        "is_correct": false
+      },
+      {
+        "text": "Rain cannot be observed.",
+        "is_correct": false
+      }
+    ],
+    "correct": 1,
+    "explanation": "A small amount of evidence cannot justify “always”.\nHint: One result is not forever.",
+    "structuredExplanation": {
+      "summary": "A small amount of evidence cannot justify “always”.",
+      "hint": "One result is not forever."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
+  },
+  {
+    "id": "ac9s1h01-p-013",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Dough rose faster in a warm place on several baking days. How can that help next time?",
+    "audioPrompt": "Dough rose faster in a warm place on several baking days. How can that help next time?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It can support a prediction that dough may rise faster there again.",
+        "is_correct": true
+      },
+      {
+        "text": "It proves every dough will.",
+        "is_correct": false
+      },
+      {
+        "text": "Warmth becomes an ingredient.",
+        "is_correct": false
+      },
+      {
+        "text": "No more observations are useful.",
+        "is_correct": false
+      }
+    ],
+    "correct": 0,
+    "explanation": "Repeated evidence can guide a future choice.\nHint: Use the pattern cautiously.",
+    "structuredExplanation": {
+      "summary": "Repeated evidence can guide a future choice.",
+      "hint": "Use the pattern cautiously."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
+  },
+  {
+    "id": "ac9s1h01-p-014",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Why measure a person’s temperature instead of only looking at them?",
+    "audioPrompt": "Why measure a person’s temperature instead of only looking at them?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Looking is forbidden.",
+        "is_correct": false
+      },
+      {
+        "text": "Temperature gives every diagnosis.",
+        "is_correct": false
+      },
+      {
+        "text": "Thermometers show causes.",
+        "is_correct": false
+      },
+      {
+        "text": "A measurement gives specific evidence that can be compared.",
+        "is_correct": true
+      }
+    ],
+    "correct": 3,
+    "explanation": "Measurements add precise evidence.\nHint: What does the number add?",
+    "structuredExplanation": {
+      "summary": "Measurements add precise evidence.",
+      "hint": "What does the number add?"
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
+  },
+  {
+    "id": "ac9s1h01-p-015",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Solar lights stayed on longer after sunny days. Why is “They may stay on longer after another sunny day” scientific?",
+    "audioPrompt": "Solar lights stayed on longer after sunny days. Why is “They may stay on longer after another sunny day” scientific?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is true because it mentions Sun.",
+        "is_correct": false
+      },
+      {
+        "text": "It cannot be wrong.",
+        "is_correct": false
+      },
+      {
+        "text": "It uses a repeated observation and can still be checked.",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees forever.",
+        "is_correct": false
+      }
+    ],
+    "correct": 2,
+    "explanation": "A scientific prediction remains testable and cautious.\nHint: Evidence + may.",
+    "structuredExplanation": {
+      "summary": "A scientific prediction remains testable and cautious.",
+      "hint": "Evidence + may."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
+  },
+  {
+    "id": "ac9s1h01-p-016",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Why measure recipe ingredients rather than add random amounts?",
+    "audioPrompt": "Why measure recipe ingredients rather than add random amounts?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Cooking is not science.",
+        "is_correct": false
+      },
+      {
+        "text": "Measurements make amounts more consistent and comparable.",
+        "is_correct": true
+      },
+      {
+        "text": "Random amounts are illegal.",
+        "is_correct": false
+      },
+      {
+        "text": "Measuring guarantees perfect food.",
+        "is_correct": false
+      }
+    ],
+    "correct": 1,
+    "explanation": "Repeatable amounts help compare outcomes.\nHint: Same amount next time.",
+    "structuredExplanation": {
+      "summary": "Repeatable amounts help compare outcomes.",
+      "hint": "Same amount next time."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
+  },
+  {
+    "id": "ac9s1h01-p-017",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Wet shoes dried fastest by a sunny window yesterday. Why is that useful for today’s prediction?",
+    "audioPrompt": "Wet shoes dried fastest by a sunny window yesterday. Why is that useful for today’s prediction?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is relevant past experience about drying.",
+        "is_correct": true
+      },
+      {
+        "text": "Windows are lucky.",
+        "is_correct": false
+      },
+      {
+        "text": "Yesterday guarantees today.",
+        "is_correct": false
+      },
+      {
+        "text": "Shoes are always wet.",
+        "is_correct": false
+      }
+    ],
+    "correct": 0,
+    "explanation": "Past observations can support new predictions when relevant.\nHint: Use related experience.",
+    "structuredExplanation": {
+      "summary": "Past observations can support new predictions when relevant.",
+      "hint": "Use related experience."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 17,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
+  },
+  {
+    "id": "ac9s1h01-p-018",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Why can a wrong prediction still be useful?",
+    "audioPrompt": "Why can a wrong prediction still be useful?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It must be erased.",
+        "is_correct": false
+      },
+      {
+        "text": "The test failed.",
+        "is_correct": false
+      },
+      {
+        "text": "Only correct guesses are science.",
+        "is_correct": false
+      },
+      {
+        "text": "Comparing it with the result can improve our idea.",
+        "is_correct": true
+      }
+    ],
+    "correct": 3,
+    "explanation": "Science learns by checking expectations against evidence.\nHint: Unexpected results teach too.",
+    "structuredExplanation": {
+      "summary": "Science learns by checking expectations against evidence.",
+      "hint": "Unexpected results teach too."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 18,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
+  },
+  {
+    "id": "ac9s1h01-p-019",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "A mechanic hears the same odd engine sound before two breakdowns. Why can the pattern matter?",
+    "audioPrompt": "A mechanic hears the same odd engine sound before two breakdowns. Why can the pattern matter?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Listening repairs engines.",
+        "is_correct": false
+      },
+      {
+        "text": "Patterns only matter at school.",
+        "is_correct": false
+      },
+      {
+        "text": "It may tell the mechanic what to check when the sound returns.",
+        "is_correct": true
+      },
+      {
+        "text": "It proves the exact fault every time.",
+        "is_correct": false
+      }
+    ],
+    "correct": 2,
+    "explanation": "Repeated observations can guide further checking.\nHint: Pattern guides, not proves.",
+    "structuredExplanation": {
+      "summary": "Repeated observations can guide further checking.",
+      "hint": "Pattern guides, not proves."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 19,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
+  },
+  {
+    "id": "ac9s1h01-p-020",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Why keep checking a pattern after making a prediction?",
+    "audioPrompt": "Why keep checking a pattern after making a prediction?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Checking makes old data false.",
+        "is_correct": false
+      },
+      {
+        "text": "New evidence can support, change or challenge it.",
+        "is_correct": true
+      },
+      {
+        "text": "Predictions end observation.",
+        "is_correct": false
+      },
+      {
+        "text": "Patterns never change.",
+        "is_correct": false
+      }
+    ],
+    "correct": 1,
+    "explanation": "Scientific ideas can be updated as evidence grows.\nHint: More evidence matters.",
+    "structuredExplanation": {
+      "summary": "Scientific ideas can be updated as evidence grows.",
+      "hint": "More evidence matters."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 20,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
+  },
+  {
+    "id": "ac9s1h01-p-021",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Who is using science most clearly?",
+    "audioPrompt": "Who is using science most clearly?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Kai measures both seedlings weekly before choosing the better spot.",
+        "is_correct": true
+      },
+      {
+        "text": "Zoe chooses the nicest pot.",
+        "is_correct": false
+      },
+      {
+        "text": "Ben uses a lucky number.",
+        "is_correct": false
+      },
+      {
+        "text": "Ari refuses to look.",
+        "is_correct": false
+      }
+    ],
+    "correct": 0,
+    "explanation": "Kai uses repeated measurements for a decision.\nHint: Who checks evidence?",
+    "structuredExplanation": {
+      "summary": "Kai uses repeated measurements for a decision.",
+      "hint": "Who checks evidence?"
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 21,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
+  },
+  {
+    "id": "ac9s1h01-p-022",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Which prediction is best supported?",
+    "audioPrompt": "Which prediction is best supported?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It will be slippery because Monday is unlucky.",
+        "is_correct": false
+      },
+      {
+        "text": "Every cold day has ice.",
+        "is_correct": false
+      },
+      {
+        "text": "Grey paths freeze more.",
+        "is_correct": false
+      },
+      {
+        "text": "Three icy mornings made the path slippery, so it may be slippery on another icy morning.",
+        "is_correct": true
+      }
+    ],
+    "correct": 3,
+    "explanation": "The first uses repeated relevant evidence cautiously.\nHint: Relevant past pattern.",
+    "structuredExplanation": {
+      "summary": "The first uses repeated relevant evidence cautiously.",
+      "hint": "Relevant past pattern."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 22,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
+  },
+  {
+    "id": "ac9s1h01-p-023",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Which statement confuses observation and prediction?",
+    "audioPrompt": "Which statement confuses observation and prediction?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“The soup is steaming” is an observation.",
+        "is_correct": false
+      },
+      {
+        "text": "“The soup measured 60°C” is an observation.",
+        "is_correct": false
+      },
+      {
+        "text": "“The soup is 60°C now” is a prediction.",
+        "is_correct": true
+      },
+      {
+        "text": "“The soup may cool” is a prediction.",
+        "is_correct": false
+      }
+    ],
+    "correct": 2,
+    "explanation": "A current measured temperature is an observation.\nHint: Now versus later.",
+    "structuredExplanation": {
+      "summary": "A current measured temperature is an observation.",
+      "hint": "Now versus later."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 23,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
+  },
+  {
+    "id": "ac9s1h01-p-024",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "One watered plant grew taller next week. Which conclusion is most careful?",
+    "audioPrompt": "One watered plant grew taller next week. Which conclusion is most careful?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Ignore the result.",
+        "is_correct": false
+      },
+      {
+        "text": "The plant grew after watering, but more evidence is needed before claiming cause.",
+        "is_correct": true
+      },
+      {
+        "text": "Watering always causes equal growth.",
+        "is_correct": false
+      },
+      {
+        "text": "One result proves the cause.",
+        "is_correct": false
+      }
+    ],
+    "correct": 1,
+    "explanation": "One result cannot establish a broad cause-and-effect rule.\nHint: Do not overclaim.",
+    "structuredExplanation": {
+      "summary": "One result cannot establish a broad cause-and-effect rule.",
+      "hint": "Do not overclaim."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 24,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
+  },
+  {
+    "id": "ac9s1h01-p-025",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Which tool best checks whether bath water became cooler?",
+    "audioPrompt": "Which tool best checks whether bath water became cooler?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "thermometer",
+        "is_correct": true
+      },
+      {
+        "text": "ruler",
+        "is_correct": false
+      },
+      {
+        "text": "scales",
+        "is_correct": false
+      },
+      {
+        "text": "magnifier",
+        "is_correct": false
+      }
+    ],
+    "correct": 0,
+    "explanation": "A thermometer measures temperature.\nHint: What quantity changes?",
+    "structuredExplanation": {
+      "summary": "A thermometer measures temperature.",
+      "hint": "What quantity changes?"
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 25,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
+  },
+  {
+    "id": "ac9s1h01-p-026",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Which daily decision uses a pattern?",
+    "audioPrompt": "Which daily decision uses a pattern?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Sam says green is lucky.",
+        "is_correct": false
+      },
+      {
+        "text": "Sam picks favourite grass.",
+        "is_correct": false
+      },
+      {
+        "text": "Sam never looks outside.",
+        "is_correct": false
+      },
+      {
+        "text": "After several dewy mornings, Sam expects the grass may be wet again tomorrow morning.",
+        "is_correct": true
+      }
+    ],
+    "correct": 3,
+    "explanation": "Repeated observations support the expectation.\nHint: Pattern, not preference.",
+    "structuredExplanation": {
+      "summary": "Repeated observations support the expectation.",
+      "hint": "Pattern, not preference."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 26,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
+  },
+  {
+    "id": "ac9s1h01-p-027",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Which statement overclaims?",
+    "audioPrompt": "Which statement overclaims?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "We can record more arrivals.",
+        "is_correct": false
+      },
+      {
+        "text": "Today can be compared with earlier days.",
+        "is_correct": false
+      },
+      {
+        "text": "The bus arrived near 8:10 four days, so it will arrive exactly then forever.",
+        "is_correct": true
+      },
+      {
+        "text": "8:10 may be a useful time to be ready.",
+        "is_correct": false
+      }
+    ],
+    "correct": 2,
+    "explanation": "A short pattern cannot guarantee an exact result forever.\nHint: Watch exact and forever.",
+    "structuredExplanation": {
+      "summary": "A short pattern cannot guarantee an exact result forever.",
+      "hint": "Watch exact and forever."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 27,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
+  },
+  {
+    "id": "ac9s1h01-p-028",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "A cook compares cooling spots. Which evidence is best?",
+    "audioPrompt": "A cook compares cooling spots. Which evidence is best?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Favourite flavour",
+        "is_correct": false
+      },
+      {
+        "text": "Temperature after the same amount of time in each spot",
+        "is_correct": true
+      },
+      {
+        "text": "Plate colour",
+        "is_correct": false
+      },
+      {
+        "text": "Distance from door",
+        "is_correct": false
+      }
+    ],
+    "correct": 1,
+    "explanation": "Comparable temperature readings directly address cooling.\nHint: Measure the outcome.",
+    "structuredExplanation": {
+      "summary": "Comparable temperature readings directly address cooling.",
+      "hint": "Measure the outcome."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 28,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
+  },
+  {
+    "id": "ac9s1h01-p-029",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Which separates evidence from opinion?",
+    "audioPrompt": "Which separates evidence from opinion?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“The plant grew 3 cm” is evidence; “it is the nicest plant” is opinion.",
+        "is_correct": true
+      },
+      {
+        "text": "Both are measurements.",
+        "is_correct": false
+      },
+      {
+        "text": "Both are predictions.",
+        "is_correct": false
+      },
+      {
+        "text": "Opinion proves measurement.",
+        "is_correct": false
+      }
+    ],
+    "correct": 0,
+    "explanation": "Growth can be measured; “nicest” is preference.\nHint: Can others check it?",
+    "structuredExplanation": {
+      "summary": "Growth can be measured; “nicest” is preference.",
+      "hint": "Can others check it?"
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 29,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
+  },
+  {
+    "id": "ac9s1h01-p-030",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "A pattern stops repeating. What is good scientific thinking?",
+    "audioPrompt": "A pattern stops repeating. What is good scientific thinking?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Erase the result.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep saying the old pattern must be true.",
+        "is_correct": false
+      },
+      {
+        "text": "Change the measurement.",
+        "is_correct": false
+      },
+      {
+        "text": "Record the new result and reconsider the prediction.",
+        "is_correct": true
+      }
+    ],
+    "correct": 3,
+    "explanation": "Unexpected evidence should be kept and used.\nHint: Evidence first.",
+    "structuredExplanation": {
+      "summary": "Unexpected evidence should be kept and used.",
+      "hint": "Evidence first."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 30,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
+  },
+  {
+    "id": "ac9s1h01-p-031",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "A dog waits by the door before its owner arrives on four evenings. Best prediction?",
+    "audioPrompt": "A dog waits by the door before its owner arrives on four evenings. Best prediction?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The dog knows the future.",
+        "is_correct": false
+      },
+      {
+        "text": "The door causes the owner.",
+        "is_correct": false
+      },
+      {
+        "text": "It may wait there again near the usual arrival time.",
+        "is_correct": true
+      },
+      {
+        "text": "It will do so at the exact second forever.",
+        "is_correct": false
+      }
+    ],
+    "correct": 2,
+    "explanation": "Repeated behaviour supports a cautious prediction.\nHint: May, not must.",
+    "structuredExplanation": {
+      "summary": "Repeated behaviour supports a cautious prediction.",
+      "hint": "May, not must."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 31,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
+  },
+  {
+    "id": "ac9s1h01-p-032",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "How could a child compare drink cooling on a bench and in a fridge?",
+    "audioPrompt": "How could a child compare drink cooling on a bench and in a fridge?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use only one drink.",
+        "is_correct": false
+      },
+      {
+        "text": "Measure temperature in each place after equal times.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose the colder-looking place.",
+        "is_correct": false
+      },
+      {
+        "text": "Ask a friend.",
+        "is_correct": false
+      }
+    ],
+    "correct": 1,
+    "explanation": "Comparable temperature measurements provide evidence.\nHint: Same time, both places.",
+    "structuredExplanation": {
+      "summary": "Comparable temperature measurements provide evidence.",
+      "hint": "Same time, both places."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 32,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
+  },
+  {
+    "id": "ac9s1h01-p-033",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Washing dried quickly on two warm windy days and slowly on a cool still day. Best plan?",
+    "audioPrompt": "Washing dried quickly on two warm windy days and slowly on a cool still day. Best plan?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Choose warm breezy conditions when possible but keep checking the weather.",
+        "is_correct": true
+      },
+      {
+        "text": "Only wash on Tuesdays.",
+        "is_correct": false
+      },
+      {
+        "text": "Warm wind dries everything instantly.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the record.",
+        "is_correct": false
+      }
+    ],
+    "correct": 0,
+    "explanation": "The pattern can guide a practical decision without guaranteeing it.\nHint: Use evidence cautiously.",
+    "structuredExplanation": {
+      "summary": "The pattern can guide a practical decision without guaranteeing it.",
+      "hint": "Use evidence cautiously."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 33,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
+  },
+  {
+    "id": "ac9s1h01-p-034",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "An ice block melted faster in sunlight once. How can stronger evidence be gathered?",
+    "audioPrompt": "An ice block melted faster in sunlight once. How can stronger evidence be gathered?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Announce a forever rule.",
+        "is_correct": false
+      },
+      {
+        "text": "Change today’s result.",
+        "is_correct": false
+      },
+      {
+        "text": "Stop observing.",
+        "is_correct": false
+      },
+      {
+        "text": "Repeat the sun/shade comparison and record results.",
+        "is_correct": true
+      }
+    ],
+    "correct": 3,
+    "explanation": "Repeated observations can show whether the pattern recurs.\nHint: Check again.",
+    "structuredExplanation": {
+      "summary": "Repeated observations can show whether the pattern recurs.",
+      "hint": "Check again."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 34,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
+  },
+  {
+    "id": "ac9s1h01-p-035",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Seedlings lean toward a window. Which action tests a prediction?",
+    "audioPrompt": "Seedlings lean toward a window. Which action tests a prediction?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Pick a favourite seedling.",
+        "is_correct": false
+      },
+      {
+        "text": "Move them randomly.",
+        "is_correct": false
+      },
+      {
+        "text": "Predict new seedlings may lean toward the window, then record their growth direction.",
+        "is_correct": true
+      },
+      {
+        "text": "Say every plant leans east.",
+        "is_correct": false
+      }
+    ],
+    "correct": 2,
+    "explanation": "The prediction is testable with future observations.\nHint: Predict + check.",
+    "structuredExplanation": {
+      "summary": "The prediction is testable with future observations.",
+      "hint": "Predict + check."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 35,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
+  },
+  {
+    "id": "ac9s1h01-p-036",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Cold drinks warm when left out of the fridge. How can this knowledge help?",
+    "audioPrompt": "Cold drinks warm when left out of the fridge. How can this knowledge help?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Stop checking.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep drinks chilled until needed when serving them cold.",
+        "is_correct": true
+      },
+      {
+        "text": "Leave them in sun.",
+        "is_correct": false
+      },
+      {
+        "text": "Assume all liquids warm equally.",
+        "is_correct": false
+      }
+    ],
+    "correct": 1,
+    "explanation": "Observed temperature changes can guide storage decisions.\nHint: Use evidence to decide.",
+    "structuredExplanation": {
+      "summary": "Observed temperature changes can guide storage decisions.",
+      "hint": "Use evidence to decide."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 36,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
+  },
+  {
+    "id": "ac9s1h01-p-037",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "A bicycle tyre feels softer every few days. Best science-informed action?",
+    "audioPrompt": "A bicycle tyre feels softer every few days. Best science-informed action?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Check tyre pressure regularly and look for a pattern.",
+        "is_correct": true
+      },
+      {
+        "text": "Guess from colour.",
+        "is_correct": false
+      },
+      {
+        "text": "Assume it is fine forever.",
+        "is_correct": false
+      },
+      {
+        "text": "Replace the bike without checking.",
+        "is_correct": false
+      }
+    ],
+    "correct": 0,
+    "explanation": "Regular measurements can show whether pressure repeatedly drops.\nHint: Measure before deciding.",
+    "structuredExplanation": {
+      "summary": "Regular measurements can show whether pressure repeatedly drops.",
+      "hint": "Measure before deciding."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 37,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
+  },
+  {
+    "id": "ac9s1h01-p-038",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Sunrise has become earlier over several weeks. Which statement is best?",
+    "audioPrompt": "Sunrise has become earlier over several weeks. Which statement is best?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It will become earlier forever.",
+        "is_correct": false
+      },
+      {
+        "text": "Tomorrow’s exact time is proved.",
+        "is_correct": false
+      },
+      {
+        "text": "Clocks are unnecessary.",
+        "is_correct": false
+      },
+      {
+        "text": "It may continue becoming earlier for a while, but keep checking times.",
+        "is_correct": true
+      }
+    ],
+    "correct": 3,
+    "explanation": "A trend supports a cautious short-term prediction.\nHint: Pattern guides, not guarantees.",
+    "structuredExplanation": {
+      "summary": "A trend supports a cautious short-term prediction.",
+      "hint": "Pattern guides, not guarantees."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 38,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
+  },
+  {
+    "id": "ac9s1h01-p-039",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "A shaded puddle was predicted to last longer, but the sunny one lasted longer today. What should be said?",
+    "audioPrompt": "A shaded puddle was predicted to last longer, but the sunny one lasted longer today. What should be said?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Change the record.",
+        "is_correct": false
+      },
+      {
+        "text": "Earlier observations vanished.",
+        "is_correct": false
+      },
+      {
+        "text": "Today did not match my prediction; record it and keep investigating.",
+        "is_correct": true
+      },
+      {
+        "text": "The result must be wrong.",
+        "is_correct": false
+      }
+    ],
+    "correct": 2,
+    "explanation": "Unexpected evidence should be recorded honestly.\nHint: Do not force the result.",
+    "structuredExplanation": {
+      "summary": "Unexpected evidence should be recorded honestly.",
+      "hint": "Do not force the result."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 39,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
+  },
+  {
+    "id": "ac9s1h01-p-040",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Which example best shows science helping an everyday decision?",
+    "audioPrompt": "Which example best shows science helping an everyday decision?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the nearest without checking.",
+        "is_correct": false
+      },
+      {
+        "text": "Compare how quickly two lunchbox ice packs warm, then choose the one staying cool longer.",
+        "is_correct": true
+      },
+      {
+        "text": "Pick the funniest picture.",
+        "is_correct": false
+      },
+      {
+        "text": "Say blue must be colder.",
+        "is_correct": false
+      }
+    ],
+    "correct": 1,
+    "explanation": "Relevant measurements can guide a practical choice.\nHint: Observe, compare, decide.",
+    "structuredExplanation": {
+      "summary": "Relevant measurements can guide a practical choice.",
+      "hint": "Observe, compare, decide."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 40,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
+  },
+  {
+    "id": "ac9s1h01-t-001",
+    "curriculumCode": "AC9S1H01",
+    "bank": "test",
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "A family notices their bathroom mirror fogs after several hot showers. Which is a careful prediction?",
+    "audioPrompt": "A family notices their bathroom mirror fogs after several hot showers. Which is a careful prediction?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It must fog after every shower everywhere.",
+        "is_correct": false
+      },
+      {
+        "text": "The mirror likes hot water.",
+        "is_correct": false
+      },
+      {
+        "text": "Tuesday makes mirrors fog.",
+        "is_correct": false
+      },
+      {
+        "text": "It may fog again after another hot shower.",
+        "is_correct": true
+      }
+    ],
+    "correct": 3,
+    "explanation": "The first statement uses a repeated observation without making a guarantee.\nHint: Use the pattern cautiously.",
+    "structuredExplanation": {
+      "summary": "The first statement uses a repeated observation without making a guarantee.",
+      "hint": "Use the pattern cautiously."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
   },
   {
-    "id": "AC9S1H01-P-022",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1H01",
-    "bank": "practice",
-    "skill": "ac9s1h01_06",
-    "question": "Why does a nurse record observations?",
-    "audio_prompt": "Why does a nurse record observations?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1h01.svg#ac9s1h01-p-022",
-      "alt_text": "🌡️ a nurse; 📝 record; 🔎 compare"
+    "id": "ac9s1h01-t-002",
+    "curriculumCode": "AC9S1H01",
+    "bank": "test",
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "A florist checks bucket water each afternoon. Why keep the measurements?",
+    "audioPrompt": "A florist checks bucket water each afternoon. Why keep the measurements?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "So the evidence can be checked and compared later.",
+        "text": "To prove every bucket loses the same amount.",
+        "is_correct": false
+      },
+      {
+        "text": "To avoid looking at flowers.",
+        "is_correct": false
+      },
+      {
+        "text": "To compare water levels and decide when more is needed.",
         "is_correct": true
       },
       {
-        "text": "So one result can stand for every future test.",
-        "is_correct": false
-      },
-      {
-        "text": "So predictions never need to be compared with results.",
+        "text": "To change flower colour.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Records help people compare evidence and remember what happened.",
-      "hint": "Think about why dates, numbers, drawings and notes are useful."
+    "correct": 2,
+    "explanation": "Measurements provide evidence for a practical decision.\nHint: How can the record help?",
+    "structuredExplanation": {
+      "summary": "Measurements provide evidence for a practical decision.",
+      "hint": "How can the record help?"
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
   },
   {
-    "id": "AC9S1H01-P-023",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1H01",
-    "bank": "practice",
-    "skill": "ac9s1h01_07",
-    "question": "Which statement uses evidence from a nurse's work?",
-    "audio_prompt": "Which statement uses evidence from a nurse's work?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1h01.svg#ac9s1h01-p-023",
-      "alt_text": "🌡️ checks a patient's temperature; ✅ evidence; 💬 opinion"
+    "id": "ac9s1h01-t-003",
+    "curriculumCode": "AC9S1H01",
+    "bank": "test",
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Which worker is using measurement?",
+    "audioPrompt": "Which worker is using measurement?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "This proves the same result will happen every time.",
+        "text": "A driver likes one song best.",
         "is_correct": false
       },
       {
-        "text": "The reading stayed the same for three checks.",
+        "text": "A barista checks milk temperature.",
         "is_correct": true
       },
       {
-        "text": "An untested cause must have produced the result.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The reading stayed the same for three checks. reports a repeated observation rather than an opinion.",
-      "hint": "Choose the statement that tells what was actually observed."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S1H01-P-024",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1H01",
-    "bank": "practice",
-    "skill": "ac9s1h01_08",
-    "question": "How does science help a nurse?",
-    "audio_prompt": "How does science help a nurse?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1h01.svg#ac9s1h01-p-024",
-      "alt_text": "🌡️ a nurse; 🔍 observe; ✅ decide"
-    },
-    "answers": [
-      {
-        "text": "It lets them decide from one observation only.",
+        "text": "A painter chooses a favourite colour.",
         "is_correct": false
       },
       {
-        "text": "It proves every first guess is correct.",
+        "text": "A cashier smiles.",
         "is_correct": false
-      },
-      {
-        "text": "It helps them make decisions using observations and measurements.",
-        "is_correct": true
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Science supports everyday decisions with evidence.",
-      "hint": "Look for the choice that uses careful checking."
+    "correct": 1,
+    "explanation": "Checking temperature is a measurement.\nHint: Look for a quantity being checked.",
+    "structuredExplanation": {
+      "summary": "Checking temperature is a measurement.",
+      "hint": "Look for a quantity being checked."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
   },
   {
-    "id": "AC9S1H01-T-001",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1H01",
+    "id": "ac9s1h01-t-004",
+    "curriculumCode": "AC9S1H01",
     "bank": "test",
-    "skill": "ac9s1h01_01",
-    "question": "Which sentence is an observation a builder could record?",
-    "audio_prompt": "Which sentence is an observation a builder could record?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1h01.svg#ac9s1h01-t-001",
-      "alt_text": "🧱 tests building materials; 👀 observe; 📝 record"
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Snails appeared on a path after rain on three mornings. Which statement is best?",
+    "audioPrompt": "Snails appeared on a path after rain on three mornings. Which statement is best?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "The wooden block did not bend.",
+        "text": "Snails may appear there after another rainy morning.",
         "is_correct": true
       },
       {
-        "text": "The same result will definitely happen tomorrow.",
+        "text": "Rain always creates snails.",
         "is_correct": false
       },
       {
-        "text": "An untested cause made this happen.",
+        "text": "Exactly three will appear every time.",
+        "is_correct": false
+      },
+      {
+        "text": "Snails only live on paths.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The wooden block did not bend. describes something that can be noticed or measured.",
-      "hint": "Choose what the person can see, hear, feel safely or measure."
-    }
+    "correct": 0,
+    "explanation": "The repeated observation supports a cautious prediction.\nHint: May, not always.",
+    "structuredExplanation": {
+      "summary": "The repeated observation supports a cautious prediction.",
+      "hint": "May, not always."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
   },
   {
-    "id": "AC9S1H01-T-002",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1H01",
+    "id": "ac9s1h01-t-005",
+    "curriculumCode": "AC9S1H01",
     "bank": "test",
-    "skill": "ac9s1h01_02",
-    "question": "Which tool would best help a builder measure length?",
-    "audio_prompt": "Which tool would best help a builder measure length?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1h01.svg#ac9s1h01-t-002",
-      "alt_text": "🧱 a builder; 🧰 tools; 📏 length"
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Why might a swimming instructor check water temperature?",
+    "audioPrompt": "Why might a swimming instructor check water temperature?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "a ruler",
+        "text": "To make the pool warmer.",
         "is_correct": false
       },
       {
-        "text": "a tape measure",
+        "text": "To prove everyone feels the same.",
+        "is_correct": false
+      },
+      {
+        "text": "To measure pool length.",
+        "is_correct": false
+      },
+      {
+        "text": "To use evidence about whether the water is suitable for the planned activity.",
         "is_correct": true
-      },
-      {
-        "text": "a timer",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "A tape measure is suited to measuring length.",
-      "hint": "Match the tool to the thing being measured."
-    }
+    "correct": 3,
+    "explanation": "Temperature information can guide a practical safety and comfort decision.\nHint: What decision could the number support?",
+    "structuredExplanation": {
+      "summary": "Temperature information can guide a practical safety and comfort decision.",
+      "hint": "What decision could the number support?"
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
   },
   {
-    "id": "AC9S1H01-T-003",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1H01",
+    "id": "ac9s1h01-t-006",
+    "curriculumCode": "AC9S1H01",
     "bank": "test",
-    "skill": "ac9s1h01_03",
-    "question": "What is a builder measuring?",
-    "audio_prompt": "What is a builder measuring?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1h01.svg#ac9s1h01-t-003",
-      "alt_text": "🧱 tests building materials; 📏 measure; 🔢 evidence"
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "A bus arrived near 8:05 on five school days. Which action best uses the pattern?",
+    "audioPrompt": "A bus arrived near 8:05 on five school days. Which action best uses the pattern?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "whether the same result will always happen",
+        "text": "Stop checking the timetable.",
         "is_correct": false
       },
       {
-        "text": "the untested cause of the result",
+        "text": "Say the bus causes clocks to change.",
         "is_correct": false
       },
       {
-        "text": "length",
+        "text": "Be ready a little before 8:05 while still allowing for variation.",
         "is_correct": true
+      },
+      {
+        "text": "Assume it must arrive at exactly 8:05 forever.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Length can be checked using evidence.",
-      "hint": "Look for the feature that can be counted or measured."
-    }
+    "correct": 2,
+    "explanation": "The pattern can guide planning without guaranteeing an exact future time.\nHint: Plan from the pattern, but allow variation.",
+    "structuredExplanation": {
+      "summary": "The pattern can guide planning without guaranteeing an exact future time.",
+      "hint": "Plan from the pattern, but allow variation."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
   },
   {
-    "id": "AC9S1H01-T-004",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1H01",
+    "id": "ac9s1h01-t-007",
+    "curriculumCode": "AC9S1H01",
     "bank": "test",
-    "skill": "ac9s1h01_04",
-    "question": "Which question could a builder answer by observing or measuring?",
-    "audio_prompt": "Which question could a builder answer by observing or measuring?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1h01.svg#ac9s1h01-t-004",
-      "alt_text": "🧱 tests building materials; ❓ question; 🔍 investigate"
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "A café records that ice melts faster outside the freezer. What daily decision follows?",
+    "audioPrompt": "A café records that ice melts faster outside the freezer. What daily decision follows?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Which board is longer?",
+        "text": "Stop observing.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep ice frozen until it is needed.",
         "is_correct": true
       },
       {
-        "text": "Will this result happen every time in every place?",
+        "text": "Leave ice in sunlight.",
         "is_correct": false
       },
       {
-        "text": "Is this the best possible way to do the job?",
+        "text": "Assume every piece melts at the same speed.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Which board is longer? can be explored using observations or measurements.",
-      "hint": "Choose a question that can be checked with evidence."
-    }
+    "correct": 1,
+    "explanation": "The observation can guide storage decisions.\nHint: Use evidence practically.",
+    "structuredExplanation": {
+      "summary": "The observation can guide storage decisions.",
+      "hint": "Use evidence practically."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
   },
   {
-    "id": "AC9S1H01-T-005",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1H01",
+    "id": "ac9s1h01-t-008",
+    "curriculumCode": "AC9S1H01",
     "bank": "test",
-    "skill": "ac9s1h01_05",
-    "question": "After noticing a repeated pattern, which prediction is careful and scientific?",
-    "audio_prompt": "After noticing a repeated pattern, which prediction is careful and scientific?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1h01.svg#ac9s1h01-t-005",
-      "alt_text": "🔁 Three thin strips bent more than thick strips.; ➡️ next time; 💭 Another thin strip may bend more."
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Which statement is evidence rather than opinion?",
+    "audioPrompt": "Which statement is evidence rather than opinion?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "This must happen every time.",
-        "is_correct": false
-      },
-      {
-        "text": "Another thin strip may bend more.",
+        "text": "The seedling grew 4 cm this week.",
         "is_correct": true
       },
       {
-        "text": "Anything could happen, so observations do not matter.",
+        "text": "This is the nicest seedling.",
+        "is_correct": false
+      },
+      {
+        "text": "It will be tallest forever.",
+        "is_correct": false
+      },
+      {
+        "text": "Green plants are luckier.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The word “may” shows that the prediction uses the pattern without claiming certainty.",
-      "hint": "Use the repeated evidence, but do not say the outcome is guaranteed."
-    }
+    "correct": 0,
+    "explanation": "Measured growth is checkable evidence.\nHint: Which can be verified?",
+    "structuredExplanation": {
+      "summary": "Measured growth is checkable evidence.",
+      "hint": "Which can be verified?"
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
   },
   {
-    "id": "AC9S1H01-T-006",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1H01",
+    "id": "ac9s1h01-t-009",
+    "curriculumCode": "AC9S1H01",
     "bank": "test",
-    "skill": "ac9s1h01_06",
-    "question": "Why does a builder record observations?",
-    "audio_prompt": "Why does a builder record observations?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1h01.svg#ac9s1h01-t-006",
-      "alt_text": "🧱 a builder; 📝 record; 🔎 compare"
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "A child notices the playground slide is hotter on sunny afternoons. Which prediction is reasonable?",
+    "audioPrompt": "A child notices the playground slide is hotter on sunny afternoons. Which prediction is reasonable?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "So one result can stand for every future test.",
+        "text": "It must always be hotter at exactly 2 pm.",
         "is_correct": false
       },
       {
-        "text": "So predictions never need to be compared with results.",
+        "text": "Slides create sunshine.",
         "is_correct": false
       },
       {
-        "text": "So the evidence can be checked and compared later.",
+        "text": "Blue slides are always cold.",
+        "is_correct": false
+      },
+      {
+        "text": "It may feel hotter on another sunny afternoon.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Records help people compare evidence and remember what happened.",
-      "hint": "Think about why dates, numbers, drawings and notes are useful."
-    }
+    "correct": 3,
+    "explanation": "The prediction is based on relevant repeated experience.\nHint: Use the observed pattern.",
+    "structuredExplanation": {
+      "summary": "The prediction is based on relevant repeated experience.",
+      "hint": "Use the observed pattern."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
   },
   {
-    "id": "AC9S1H01-T-007",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1H01",
+    "id": "ac9s1h01-t-010",
+    "curriculumCode": "AC9S1H01",
     "bank": "test",
-    "skill": "ac9s1h01_07",
-    "question": "Which statement uses evidence from a builder's work?",
-    "audio_prompt": "Which statement uses evidence from a builder's work?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1h01.svg#ac9s1h01-t-007",
-      "alt_text": "🧱 tests building materials; ✅ evidence; 💬 opinion"
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "A gardener’s first prediction does not match what happened. What should they do?",
+    "audioPrompt": "A gardener’s first prediction does not match what happened. What should they do?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Three thin strips bent more than thick strips.",
+        "text": "Change the measurement.",
+        "is_correct": false
+      },
+      {
+        "text": "Say the prediction was right anyway.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the result and use it to rethink the prediction.",
         "is_correct": true
       },
       {
-        "text": "This proves the same result will happen every time.",
-        "is_correct": false
-      },
-      {
-        "text": "An untested cause must have produced the result.",
+        "text": "Erase the result.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Three thin strips bent more than thick strips. reports a repeated observation rather than an opinion.",
-      "hint": "Choose the statement that tells what was actually observed."
-    }
+    "correct": 2,
+    "explanation": "Unexpected evidence can improve future decisions and predictions.\nHint: Evidence first.",
+    "structuredExplanation": {
+      "summary": "Unexpected evidence can improve future decisions and predictions.",
+      "hint": "Evidence first."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
   },
   {
-    "id": "AC9S1H01-T-008",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1H01",
+    "id": "ac9s1h01-t-011",
+    "curriculumCode": "AC9S1H01",
     "bank": "test",
-    "skill": "ac9s1h01_08",
-    "question": "How does science help a builder?",
-    "audio_prompt": "How does science help a builder?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1h01.svg#ac9s1h01-t-008",
-      "alt_text": "🧱 a builder; 🔍 observe; ✅ decide"
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Which everyday action combines observation and measurement?",
+    "audioPrompt": "Which everyday action combines observation and measurement?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "It lets them decide from one observation only.",
+        "text": "Using a lucky number.",
         "is_correct": false
       },
       {
-        "text": "It helps them make decisions using observations and measurements.",
+        "text": "Checking a cake’s temperature and colour before deciding it is ready.",
         "is_correct": true
       },
       {
-        "text": "It proves every first guess is correct.",
+        "text": "Choosing the prettiest plate.",
+        "is_correct": false
+      },
+      {
+        "text": "Guessing the baking time without checking.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Science supports everyday decisions with evidence.",
-      "hint": "Look for the choice that uses careful checking."
-    }
+    "correct": 1,
+    "explanation": "The first choice uses measured and visible evidence.\nHint: Look for two kinds of evidence.",
+    "structuredExplanation": {
+      "summary": "The first choice uses measured and visible evidence.",
+      "hint": "Look for two kinds of evidence."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
   },
   {
-    "id": "AC9S1H01-T-009",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1H01",
+    "id": "ac9s1h01-t-012",
+    "curriculumCode": "AC9S1H01",
     "bank": "test",
-    "skill": "ac9s1h01_01",
-    "question": "Which sentence is an observation a wildlife ranger could record?",
-    "audio_prompt": "Which sentence is an observation a wildlife ranger could record?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1h01.svg#ac9s1h01-t-009",
-      "alt_text": "🐾 looks for animal tracks; 👀 observe; 📝 record"
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Wet clothes dried quickly on several warm windy days. What would strengthen the pattern?",
+    "audioPrompt": "Wet clothes dried quickly on several warm windy days. What would strengthen the pattern?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "The same result will definitely happen tomorrow.",
-        "is_correct": false
-      },
-      {
-        "text": "An untested cause made this happen.",
-        "is_correct": false
-      },
-      {
-        "text": "There are four fresh paw prints beside the creek.",
+        "text": "More drying observations in different conditions.",
         "is_correct": true
+      },
+      {
+        "text": "One more guess.",
+        "is_correct": false
+      },
+      {
+        "text": "Changing the old records.",
+        "is_correct": false
+      },
+      {
+        "text": "Only recording fast-drying days.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "There are four fresh paw prints beside the creek. describes something that can be noticed or measured.",
-      "hint": "Choose what the person can see, hear, feel safely or measure."
-    }
+    "correct": 0,
+    "explanation": "More complete observations can show when the pattern does or does not hold.\nHint: Collect more evidence.",
+    "structuredExplanation": {
+      "summary": "More complete observations can show when the pattern does or does not hold.",
+      "hint": "Collect more evidence."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
   },
   {
-    "id": "AC9S1H01-T-010",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1H01",
+    "id": "ac9s1h01-t-013",
+    "curriculumCode": "AC9S1H01",
     "bank": "test",
-    "skill": "ac9s1h01_02",
-    "question": "Which tool would best help a wildlife ranger measure the number and location of tracks?",
-    "audio_prompt": "Which tool would best help a wildlife ranger measure the number and location of tracks?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1h01.svg#ac9s1h01-t-010",
-      "alt_text": "🐾 a wildlife ranger; 🧰 tools; 📏 the number and location of tracks"
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "A family uses a rain gauge each morning. What science skill are they using?",
+    "audioPrompt": "A family uses a rain gauge each morning. What science skill are they using?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "a camera",
+        "text": "favourite-choice making",
+        "is_correct": false
+      },
+      {
+        "text": "storytelling only",
+        "is_correct": false
+      },
+      {
+        "text": "guessing without evidence",
+        "is_correct": false
+      },
+      {
+        "text": "measurement and recording",
         "is_correct": true
-      },
-      {
-        "text": "a ruler",
-        "is_correct": false
-      },
-      {
-        "text": "a timer",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "A camera is suited to measuring the number and location of tracks.",
-      "hint": "Match the tool to the thing being measured."
-    }
+    "correct": 3,
+    "explanation": "A rain gauge provides a measurable amount that can be recorded over time.\nHint: What does the tool provide?",
+    "structuredExplanation": {
+      "summary": "A rain gauge provides a measurable amount that can be recorded over time.",
+      "hint": "What does the tool provide?"
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
   },
   {
-    "id": "AC9S1H01-T-011",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1H01",
+    "id": "ac9s1h01-t-014",
+    "curriculumCode": "AC9S1H01",
     "bank": "test",
-    "skill": "ac9s1h01_03",
-    "question": "What is a wildlife ranger measuring?",
-    "audio_prompt": "What is a wildlife ranger measuring?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1h01.svg#ac9s1h01-t-011",
-      "alt_text": "🐾 looks for animal tracks; 📏 measure; 🔢 evidence"
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Why is “The soil was wet, so it will be wet tomorrow” not enough by itself?",
+    "audioPrompt": "Why is “The soil was wet, so it will be wet tomorrow” not enough by itself?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "whether the same result will always happen",
+        "text": "Tomorrow has no soil.",
         "is_correct": false
       },
       {
-        "text": "the number and location of tracks",
+        "text": "Predictions never use observations.",
+        "is_correct": false
+      },
+      {
+        "text": "One observation gives little evidence for a future pattern.",
         "is_correct": true
       },
       {
-        "text": "the untested cause of the result",
+        "text": "Soil cannot be observed.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The number and location of tracks can be checked using evidence.",
-      "hint": "Look for the feature that can be counted or measured."
-    }
+    "correct": 2,
+    "explanation": "A single result may not reveal a repeating pattern.\nHint: How much evidence supports the prediction?",
+    "structuredExplanation": {
+      "summary": "A single result may not reveal a repeating pattern.",
+      "hint": "How much evidence supports the prediction?"
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
   },
   {
-    "id": "AC9S1H01-T-012",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1H01",
+    "id": "ac9s1h01-t-015",
+    "curriculumCode": "AC9S1H01",
     "bank": "test",
-    "skill": "ac9s1h01_04",
-    "question": "Which question could a wildlife ranger answer by observing or measuring?",
-    "audio_prompt": "Which question could a wildlife ranger answer by observing or measuring?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1h01.svg#ac9s1h01-t-012",
-      "alt_text": "🐾 looks for animal tracks; ❓ question; 🔍 investigate"
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "A cyclist records tyre pressure each Saturday and sees it falling. What is a sensible next step?",
+    "audioPrompt": "A cyclist records tyre pressure each Saturday and sees it falling. What is a sensible next step?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Will this result happen every time in every place?",
+        "text": "Assume all tyres lose pressure equally.",
         "is_correct": false
       },
       {
-        "text": "Is this the best possible way to do the job?",
-        "is_correct": false
-      },
-      {
-        "text": "How many fresh tracks are beside the creek?",
+        "text": "Use the pattern to decide that the tyre needs checking for a leak.",
         "is_correct": true
+      },
+      {
+        "text": "Ignore the measurements.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose a new tyre by colour only.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "How many fresh tracks are beside the creek? can be explored using observations or measurements.",
-      "hint": "Choose a question that can be checked with evidence."
-    }
+    "correct": 1,
+    "explanation": "A repeated pressure drop can guide further checking.\nHint: What practical decision follows?",
+    "structuredExplanation": {
+      "summary": "A repeated pressure drop can guide further checking.",
+      "hint": "What practical decision follows?"
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1H01",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
   },
   {
-    "id": "AC9S1H01-T-013",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1H01",
+    "id": "ac9s1h01-t-016",
+    "curriculumCode": "AC9S1H01",
     "bank": "test",
-    "skill": "ac9s1h01_05",
-    "question": "After noticing a repeated pattern, which prediction is careful and scientific?",
-    "audio_prompt": "After noticing a repeated pattern, which prediction is careful and scientific?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1h01.svg#ac9s1h01-t-013",
-      "alt_text": "🔁 Tracks appeared near the creek on three mornings.; ➡️ next time; 💭 Tracks may appear there again tomorrow morning."
+    "skill": "science in daily life and pattern-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Which statement best describes science in daily life?",
+    "audioPrompt": "Which statement best describes science in daily life?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Tracks may appear there again tomorrow morning.",
+        "text": "People use observations, measurements and patterns to make informed decisions.",
         "is_correct": true
       },
       {
-        "text": "This must happen every time.",
+        "text": "Science means every prediction is correct.",
         "is_correct": false
       },
       {
-        "text": "Anything could happen, so observations do not matter.",
+        "text": "Science is only done in laboratories.",
+        "is_correct": false
+      },
+      {
+        "text": "One observation proves everything.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The word “may” shows that the prediction uses the pattern without claiming certainty.",
-      "hint": "Use the repeated evidence, but do not say the outcome is guaranteed."
-    }
-  },
-  {
-    "id": "AC9S1H01-T-014",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1H01",
-    "bank": "test",
-    "skill": "ac9s1h01_06",
-    "question": "Why does a wildlife ranger record observations?",
-    "audio_prompt": "Why does a wildlife ranger record observations?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1h01.svg#ac9s1h01-t-014",
-      "alt_text": "🐾 a wildlife ranger; 📝 record; 🔎 compare"
+    "correct": 0,
+    "explanation": "Science is used in everyday settings to gather evidence and guide choices.\nHint: Think evidence-based decisions.",
+    "structuredExplanation": {
+      "summary": "Science is used in everyday settings to gather evidence and guide choices.",
+      "hint": "Think evidence-based decisions."
     },
-    "answers": [
-      {
-        "text": "So one result can stand for every future test.",
-        "is_correct": false
-      },
-      {
-        "text": "So the evidence can be checked and compared later.",
-        "is_correct": true
-      },
-      {
-        "text": "So predictions never need to be compared with results.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Records help people compare evidence and remember what happened.",
-      "hint": "Think about why dates, numbers, drawings and notes are useful."
-    }
-  },
-  {
-    "id": "AC9S1H01-T-015",
-    "subject": "science",
-    "year_level": "Year 1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v6",
     "curriculum_code": "AC9S1H01",
-    "bank": "test",
-    "skill": "ac9s1h01_07",
-    "question": "Which statement uses evidence from a wildlife ranger's work?",
-    "audio_prompt": "Which statement uses evidence from a wildlife ranger's work?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1h01.svg#ac9s1h01-t-015",
-      "alt_text": "🐾 looks for animal tracks; ✅ evidence; 💬 opinion"
-    },
-    "answers": [
-      {
-        "text": "This proves the same result will happen every time.",
-        "is_correct": false
-      },
-      {
-        "text": "An untested cause must have produced the result.",
-        "is_correct": false
-      },
-      {
-        "text": "Tracks appeared near the creek on three mornings.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Tracks appeared near the creek on three mornings. reports a repeated observation rather than an opinion.",
-      "hint": "Choose the statement that tells what was actually observed."
-    }
-  },
-  {
-    "id": "AC9S1H01-T-016",
-    "subject": "science",
     "year_level": "Year 1",
-    "curriculum_code": "AC9S1H01",
-    "bank": "test",
-    "skill": "ac9s1h01_08",
-    "question": "How does science help a wildlife ranger?",
-    "audio_prompt": "How does science help a wildlife ranger?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1h01.svg#ac9s1h01-t-016",
-      "alt_text": "🐾 a wildlife ranger; 🔍 observe; ✅ decide"
-    },
-    "answers": [
-      {
-        "text": "It helps them make decisions using observations and measurements.",
-        "is_correct": true
-      },
-      {
-        "text": "It lets them decide from one observation only.",
-        "is_correct": false
-      },
-      {
-        "text": "It proves every first guess is correct.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Science supports everyday decisions with evidence.",
-      "hint": "Look for the choice that uses careful checking."
-    }
+    "subject": "science",
+    "correct_index": 0
   }
 ]

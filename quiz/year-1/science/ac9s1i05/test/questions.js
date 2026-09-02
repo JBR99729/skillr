@@ -1,469 +1,515 @@
 "use strict";
-window.skillrTestQuestions = [
+window.skillrExamQuestions = [
   {
     "id": "ac9s1i05-t-001",
     "curriculumCode": "AC9S1I05",
     "bank": "test",
-    "skill": "ac9s1i05 01",
+    "skill": "comparing observations and predictions",
     "printable": true,
     "type": "single",
-    "question": "For measuring a pole's shadow in the morning and at midday, did the result match the prediction?",
-    "audioPrompt": "For measuring a pole's shadow in the morning and at midday, did the result match the prediction?",
-    "visual": "💭 The midday shadow will be shorter.; 👀 The midday shadow was shorter.; ✅ matched",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"💭 The midday shadow will be shorter.; 👀 The midday shadow was shorter.; ✅ matched\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-001\"></use></svg>",
+    "question": "Prediction: “The shade ice will last longer.” Result: shade ice lasted longer. What can be said?",
+    "audioPrompt": "Prediction: “The shade ice will last longer.” Result: shade ice lasted longer. What can be said?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-001",
-      "alt_text": "💭 The midday shadow will be shorter.; 👀 The midday shadow was shorter.; ✅ matched"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "matched",
-      "did not match",
-      "There is no need to compare them."
+      "It proves every shaded ice cube lasts longer.",
+      "The result should be ignored.",
+      "The prediction becomes an observation.",
+      "The result supported the prediction in this test."
     ],
-    "correct": 0,
-    "explanation": "The prediction was “The midday shadow will be shorter.” The result was “The midday shadow was shorter.” They matched.\nHint: Read the prediction and result separately, then compare them.",
+    "correct": 3,
+    "explanation": "The observed outcome matched the prediction.\nHint: Match or not?",
     "structuredExplanation": {
-      "summary": "The prediction was “The midday shadow will be shorter.” The result was “The midday shadow was shorter.” They matched.",
-      "hint": "Read the prediction and result separately, then compare them."
+      "summary": "The observed outcome matched the prediction.",
+      "hint": "Match or not?"
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i05-t-002",
     "curriculumCode": "AC9S1I05",
     "bank": "test",
-    "skill": "ac9s1i05 02",
+    "skill": "comparing observations and predictions",
     "printable": true,
     "type": "single",
-    "question": "Which sentence reports the observed result from measuring a pole's shadow in the morning and at midday?",
-    "audioPrompt": "Which sentence reports the observed result from measuring a pole's shadow in the morning and at midday?",
-    "visual": "🌤️ measuring a pole's shadow in the morning and at midday; 👀 result; 📝 The midday shadow was shorter.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🌤️ measuring a pole's shadow in the morning and at midday; 👀 result; 📝 The midday shadow was shorter.\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-002\"></use></svg>",
+    "question": "A paper-plane prediction was not matched by the result. Best response?",
+    "audioPrompt": "A paper-plane prediction was not matched by the result. Best response?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-002",
-      "alt_text": "🌤️ measuring a pole's shadow in the morning and at midday; 👀 result; 📝 The midday shadow was shorter."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The midday shadow will be shorter.",
-      "The midday shadow was shorter.",
-      "The result should be changed to fit the prediction."
+      "Hide the result.",
+      "Say the prediction won.",
+      "Record the real distance and compare it with the prediction.",
+      "Change the distance."
     ],
-    "correct": 1,
-    "explanation": "The midday shadow was shorter. states what happened, not what was expected.\nHint: The result comes from observation or measurement after the test.",
+    "correct": 2,
+    "explanation": "Unexpected results are still evidence.\nHint: Keep the real result.",
     "structuredExplanation": {
-      "summary": "The midday shadow was shorter. states what happened, not what was expected.",
-      "hint": "The result comes from observation or measurement after the test."
+      "summary": "Unexpected results are still evidence.",
+      "hint": "Keep the real result."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i05-t-003",
     "curriculumCode": "AC9S1I05",
     "bank": "test",
-    "skill": "ac9s1i05 03",
+    "skill": "comparing observations and predictions",
     "printable": true,
     "type": "single",
-    "question": "What should be kept the same during measuring a pole's shadow in the morning and at midday?",
-    "audioPrompt": "What should be kept the same during measuring a pole's shadow in the morning and at midday?",
-    "visual": "🔒 the same pole and measuring method; 🌤️ measuring a pole's shadow in the morning and at midday; ⚖️ fair comparison",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🔒 the same pole and measuring method; 🌤️ measuring a pole's shadow in the morning and at midday; ⚖️ fair comparison\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-003\"></use></svg>",
+    "question": "Trials are 15,16,15 cm. How do they compare?",
+    "audioPrompt": "Trials are 15,16,15 cm. How do they compare?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-003",
-      "alt_text": "🔒 the same pole and measuring method; 🌤️ measuring a pole's shadow in the morning and at midday; ⚖️ fair comparison"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "the result",
-      "the prediction after seeing the answer",
-      "the same pole and measuring method"
+      "One must be erased.",
+      "They are very similar.",
+      "They are unrelated.",
+      "They prove exactly 15 forever."
     ],
-    "correct": 2,
-    "explanation": "Keeping the same pole and measuring method the same makes the comparison fairer.\nHint: Change only the feature being investigated.",
+    "correct": 1,
+    "explanation": "The measurements differ by only 1 cm.\nHint: Small variation.",
     "structuredExplanation": {
-      "summary": "Keeping the same pole and measuring method the same makes the comparison fairer.",
-      "hint": "Change only the feature being investigated."
+      "summary": "The measurements differ by only 1 cm.",
+      "hint": "Small variation."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i05-t-004",
     "curriculumCode": "AC9S1I05",
     "bank": "test",
-    "skill": "ac9s1i05 04",
+    "skill": "comparing observations and predictions",
     "printable": true,
     "type": "single",
-    "question": "Why should measuring a pole's shadow in the morning and at midday include measurements on three sunny days?",
-    "audioPrompt": "Why should measuring a pole's shadow in the morning and at midday include measurements on three sunny days?",
-    "visual": "🌤️ measuring a pole's shadow in the morning and at midday; 🔁 measurements on three sunny days; 📊 compare trials",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🌤️ measuring a pole's shadow in the morning and at midday; 🔁 measurements on three sunny days; 📊 compare trials\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-004\"></use></svg>",
+    "question": "Trials are 9,10,32,9. What deserves checking?",
+    "audioPrompt": "Trials are 9,10,32,9. What deserves checking?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-004",
-      "alt_text": "🌤️ measuring a pole's shadow in the morning and at midday; 🔁 measurements on three sunny days; 📊 compare trials"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Repeated observations show whether the result is consistent.",
-      "Repeating guarantees the prediction is correct.",
-      "Only the most helpful result should be kept."
+      "The 32 result and the method used in that trial.",
+      "Only the 9s.",
+      "The prediction wording only.",
+      "Nothing."
     ],
     "correct": 0,
-    "explanation": "Repeats help reveal whether a result happens consistently or varies.\nHint: Record every repeat, including surprising results.",
+    "explanation": "32 stands out from the cluster of other results.\nHint: Find the unusual value.",
     "structuredExplanation": {
-      "summary": "Repeats help reveal whether a result happens consistently or varies.",
-      "hint": "Record every repeat, including surprising results."
+      "summary": "32 stands out from the cluster of other results.",
+      "hint": "Find the unusual value."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i05-t-005",
     "curriculumCode": "AC9S1I05",
     "bank": "test",
-    "skill": "ac9s1i05 05",
+    "skill": "comparing observations and predictions",
     "printable": true,
     "type": "single",
-    "question": "Which evidence should be used when comparing the prediction and result?",
-    "audioPrompt": "Which evidence should be used when comparing the prediction and result?",
-    "visual": "📝 the morning and midday lengths from every day; 🔎 compare; ✅ all evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📝 the morning and midday lengths from every day; 🔎 compare; ✅ all evidence\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-005\"></use></svg>",
+    "question": "Why repeat a test?",
+    "audioPrompt": "Why repeat a test?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-005",
-      "alt_text": "📝 the morning and midday lengths from every day; 🔎 compare; ✅ all evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "only the result that matched the prediction",
-      "the morning and midday lengths from every day",
-      "someone's favourite answer"
+      "To force agreement.",
+      "To change the first result.",
+      "To avoid recording.",
+      "To see whether similar results occur again."
     ],
-    "correct": 1,
-    "explanation": "The morning and midday lengths from every day gives the complete evidence set.\nHint: Use all relevant recorded observations, not only one convenient result.",
+    "correct": 3,
+    "explanation": "Repeats add evidence about consistency.\nHint: More evidence.",
     "structuredExplanation": {
-      "summary": "The morning and midday lengths from every day gives the complete evidence set.",
-      "hint": "Use all relevant recorded observations, not only one convenient result."
+      "summary": "Repeats add evidence about consistency.",
+      "hint": "More evidence."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i05-t-006",
     "curriculumCode": "AC9S1I05",
     "bank": "test",
-    "skill": "ac9s1i05 06",
+    "skill": "comparing observations and predictions",
     "printable": true,
     "type": "single",
-    "question": "After measuring a pole's shadow in the morning and at midday, what should happen when the prediction matched the result?",
-    "audioPrompt": "After measuring a pole's shadow in the morning and at midday, what should happen when the prediction matched the result?",
-    "visual": "💭 prediction; 👀 result; 💡 learn",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"💭 prediction; 👀 result; 💡 learn\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-006\"></use></svg>",
+    "question": "Which is a careful conclusion after one matching result?",
+    "audioPrompt": "Which is a careful conclusion after one matching result?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-006",
-      "alt_text": "💭 prediction; 👀 result; 💡 learn"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Erase the prediction.",
-      "Change the result without testing again.",
-      "Record the comparison and use the evidence for the next question."
+      "No more evidence can matter.",
+      "Everything similar must behave the same.",
+      "The result supported my prediction this time.",
+      "My prediction is proved forever."
     ],
     "correct": 2,
-    "explanation": "Both matches and mismatches help build better scientific ideas.\nHint: Keep the original prediction and the real result.",
+    "explanation": "The wording stays within the evidence.\nHint: This time.",
     "structuredExplanation": {
-      "summary": "Both matches and mismatches help build better scientific ideas.",
-      "hint": "Keep the original prediction and the real result."
+      "summary": "The wording stays within the evidence.",
+      "hint": "This time."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i05-t-007",
     "curriculumCode": "AC9S1I05",
     "bank": "test",
-    "skill": "ac9s1i05 07",
+    "skill": "comparing observations and predictions",
     "printable": true,
     "type": "single",
-    "question": "Which sentence is the prediction in measuring a pole's shadow in the morning and at midday?",
-    "audioPrompt": "Which sentence is the prediction in measuring a pole's shadow in the morning and at midday?",
-    "visual": "⏮️ before; 💭 The midday shadow will be shorter.; 🌤️ measuring a pole's shadow in the morning and at midday",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"⏮️ before; 💭 The midday shadow will be shorter.; 🌤️ measuring a pole's shadow in the morning and at midday\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-007\"></use></svg>",
+    "question": "Prediction: red ball farther. Results: red 50, blue 70. Which conclusion?",
+    "audioPrompt": "Prediction: red ball farther. Results: red 50, blue 70. Which conclusion?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-007",
-      "alt_text": "⏮️ before; 💭 The midday shadow will be shorter.; 🌤️ measuring a pole's shadow in the morning and at midday"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The midday shadow will be shorter.",
-      "The midday shadow was shorter.",
-      "The measurements were written in a table."
+      "No result exists.",
+      "The prediction was not supported.",
+      "The red ball won.",
+      "Both were equal."
     ],
-    "correct": 0,
-    "explanation": "The midday shadow will be shorter. states the expected outcome before testing.\nHint: Predictions are made before the evidence is collected.",
+    "correct": 1,
+    "explanation": "Blue travelled farther.\nHint: Compare distances.",
     "structuredExplanation": {
-      "summary": "The midday shadow will be shorter. states the expected outcome before testing.",
-      "hint": "Predictions are made before the evidence is collected."
+      "summary": "Blue travelled farther.",
+      "hint": "Compare distances."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i05-t-008",
     "curriculumCode": "AC9S1I05",
     "bank": "test",
-    "skill": "ac9s1i05 08",
+    "skill": "comparing observations and predictions",
     "printable": true,
     "type": "single",
-    "question": "Why would a result that did not match still be useful in measuring a pole's shadow in the morning and at midday?",
-    "audioPrompt": "Why would a result that did not match still be useful in measuring a pole's shadow in the morning and at midday?",
-    "visual": "❌ mismatch; 📝 evidence; ➡️ new prediction",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"❌ mismatch; 📝 evidence; ➡️ new prediction\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-008\"></use></svg>",
+    "question": "What should happen to a surprising real result?",
+    "audioPrompt": "What should happen to a surprising real result?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-008",
-      "alt_text": "❌ mismatch; 📝 evidence; ➡️ new prediction"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "It should be hidden.",
-      "It provides evidence that can improve the next prediction.",
-      "It proves observations are unnecessary."
+      "Keep it and check it carefully.",
+      "Erase it automatically.",
+      "Change it to the average.",
+      "Hide it."
     ],
-    "correct": 1,
-    "explanation": "A mismatch can reveal something new and guide another investigation.\nHint: Science learns from actual evidence, not only correct guesses.",
+    "correct": 0,
+    "explanation": "Surprising evidence may be important.\nHint: Check, do not delete.",
     "structuredExplanation": {
-      "summary": "A mismatch can reveal something new and guide another investigation.",
-      "hint": "Science learns from actual evidence, not only correct guesses."
+      "summary": "Surprising evidence may be important.",
+      "hint": "Check, do not delete."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i05-t-009",
     "curriculumCode": "AC9S1I05",
     "bank": "test",
-    "skill": "ac9s1i05 01",
+    "skill": "comparing observations and predictions",
     "printable": true,
     "type": "single",
-    "question": "For comparing how much water two towels absorb, did the result match the prediction?",
-    "audioPrompt": "For comparing how much water two towels absorb, did the result match the prediction?",
-    "visual": "💭 The thin towel will absorb more.; 👀 The thick towel absorbed more.; ❌ did not match",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"💭 The thin towel will absorb more.; 👀 The thick towel absorbed more.; ❌ did not match\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-009\"></use></svg>",
+    "question": "Which evidence matches a prediction about bounce height?",
+    "audioPrompt": "Which evidence matches a prediction about bounce height?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-009",
-      "alt_text": "💭 The thin towel will absorb more.; 👀 The thick towel absorbed more.; ❌ did not match"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "matched",
-      "There is no need to compare them.",
-      "did not match"
+      "Ball colour",
+      "Time of lunch",
+      "Name of observer",
+      "Measured height of each bounce"
     ],
-    "correct": 2,
-    "explanation": "The prediction was “The thin towel will absorb more.” The result was “The thick towel absorbed more.” They did not match.\nHint: Read the prediction and result separately, then compare them.",
+    "correct": 3,
+    "explanation": "Bounce height is the predicted outcome.\nHint: Same outcome.",
     "structuredExplanation": {
-      "summary": "The prediction was “The thin towel will absorb more.” The result was “The thick towel absorbed more.” They did not match.",
-      "hint": "Read the prediction and result separately, then compare them."
+      "summary": "Bounce height is the predicted outcome.",
+      "hint": "Same outcome."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i05-t-010",
     "curriculumCode": "AC9S1I05",
     "bank": "test",
-    "skill": "ac9s1i05 02",
+    "skill": "comparing observations and predictions",
     "printable": true,
     "type": "single",
-    "question": "Which sentence reports the observed result from comparing how much water two towels absorb?",
-    "audioPrompt": "Which sentence reports the observed result from comparing how much water two towels absorb?",
-    "visual": "🧻 comparing how much water two towels absorb; 👀 result; 📝 The thick towel absorbed more.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧻 comparing how much water two towels absorb; 👀 result; 📝 The thick towel absorbed more.\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-010\"></use></svg>",
+    "question": "What does “consistent” mean for repeated results?",
+    "audioPrompt": "What does “consistent” mean for repeated results?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-010",
-      "alt_text": "🧻 comparing how much water two towels absorb; 👀 result; 📝 The thick towel absorbed more."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The thick towel absorbed more.",
-      "The thin towel will absorb more.",
-      "The result should be changed to fit the prediction."
+      "They are always correct.",
+      "They match a favourite guess.",
+      "They are similar across trials.",
+      "They are exactly zero."
     ],
-    "correct": 0,
-    "explanation": "The thick towel absorbed more. states what happened, not what was expected.\nHint: The result comes from observation or measurement after the test.",
+    "correct": 2,
+    "explanation": "Consistency refers to similarity across repeats.\nHint: Similar repeats.",
     "structuredExplanation": {
-      "summary": "The thick towel absorbed more. states what happened, not what was expected.",
-      "hint": "The result comes from observation or measurement after the test."
+      "summary": "Consistency refers to similarity across repeats.",
+      "hint": "Similar repeats."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i05-t-011",
     "curriculumCode": "AC9S1I05",
     "bank": "test",
-    "skill": "ac9s1i05 03",
+    "skill": "comparing observations and predictions",
     "printable": true,
     "type": "single",
-    "question": "What should be kept the same during comparing how much water two towels absorb?",
-    "audioPrompt": "What should be kept the same during comparing how much water two towels absorb?",
-    "visual": "🔒 equal towel sizes and equal water amounts; 🧻 comparing how much water two towels absorb; ⚖️ fair comparison",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🔒 equal towel sizes and equal water amounts; 🧻 comparing how much water two towels absorb; ⚖️ fair comparison\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-011\"></use></svg>",
+    "question": "A child changed the prediction after seeing the result and said it was the original. Why is that a problem?",
+    "audioPrompt": "A child changed the prediction after seeing the result and said it was the original. Why is that a problem?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-011",
-      "alt_text": "🔒 equal towel sizes and equal water amounts; 🧻 comparing how much water two towels absorb; ⚖️ fair comparison"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "the result",
-      "equal towel sizes and equal water amounts",
-      "the prediction after seeing the answer"
+      "Writing is not science.",
+      "It prevents an honest comparison of expectation and evidence.",
+      "Predictions must never change later.",
+      "Results should match predictions."
     ],
     "correct": 1,
-    "explanation": "Keeping equal towel sizes and equal water amounts the same makes the comparison fairer.\nHint: Change only the feature being investigated.",
+    "explanation": "The original prediction must remain available for comparison.\nHint: Keep the before-test record.",
     "structuredExplanation": {
-      "summary": "Keeping equal towel sizes and equal water amounts the same makes the comparison fairer.",
-      "hint": "Change only the feature being investigated."
+      "summary": "The original prediction must remain available for comparison.",
+      "hint": "Keep the before-test record."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i05-t-012",
     "curriculumCode": "AC9S1I05",
     "bank": "test",
-    "skill": "ac9s1i05 04",
+    "skill": "comparing observations and predictions",
     "printable": true,
     "type": "single",
-    "question": "Why should comparing how much water two towels absorb include three tests with each towel?",
-    "audioPrompt": "Why should comparing how much water two towels absorb include three tests with each towel?",
-    "visual": "🧻 comparing how much water two towels absorb; 🔁 three tests with each towel; 📊 compare trials",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧻 comparing how much water two towels absorb; 🔁 three tests with each towel; 📊 compare trials\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-012\"></use></svg>",
+    "question": "Which statement uses all results 3,4,3,8?",
+    "audioPrompt": "Which statement uses all results 3,4,3,8?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-012",
-      "alt_text": "🧻 comparing how much water two towels absorb; 🔁 three tests with each towel; 📊 compare trials"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Repeating guarantees the prediction is correct.",
-      "Only the most helpful result should be kept.",
-      "Repeated observations show whether the result is consistent."
+      "Three results were close and one was much larger.",
+      "All results were 3.",
+      "8 does not count.",
+      "The prediction is proved."
     ],
-    "correct": 2,
-    "explanation": "Repeats help reveal whether a result happens consistently or varies.\nHint: Record every repeat, including surprising results.",
+    "correct": 0,
+    "explanation": "It accurately describes the full set.\nHint: Do not omit the unusual value.",
     "structuredExplanation": {
-      "summary": "Repeats help reveal whether a result happens consistently or varies.",
-      "hint": "Record every repeat, including surprising results."
+      "summary": "It accurately describes the full set.",
+      "hint": "Do not omit the unusual value."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i05-t-013",
     "curriculumCode": "AC9S1I05",
     "bank": "test",
-    "skill": "ac9s1i05 05",
+    "skill": "comparing observations and predictions",
     "printable": true,
     "type": "single",
-    "question": "Which evidence should be used when comparing the prediction and result?",
-    "audioPrompt": "Which evidence should be used when comparing the prediction and result?",
-    "visual": "📝 every measured amount of water absorbed; 🔎 compare; ✅ all evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📝 every measured amount of water absorbed; 🔎 compare; ✅ all evidence\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-013\"></use></svg>",
+    "question": "Why note an accidental push in one trial?",
+    "audioPrompt": "Why note an accidental push in one trial?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-013",
-      "alt_text": "📝 every measured amount of water absorbed; 🔎 compare; ✅ all evidence"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "every measured amount of water absorbed",
-      "only the result that matched the prediction",
-      "someone's favourite answer"
+      "It proves the result is false.",
+      "It makes the result better.",
+      "Accidents are irrelevant.",
+      "It may explain why that trial is not comparable with the others."
     ],
-    "correct": 0,
-    "explanation": "Every measured amount of water absorbed gives the complete evidence set.\nHint: Use all relevant recorded observations, not only one convenient result.",
+    "correct": 3,
+    "explanation": "Known procedure differences matter when interpreting data.\nHint: Record what changed.",
     "structuredExplanation": {
-      "summary": "Every measured amount of water absorbed gives the complete evidence set.",
-      "hint": "Use all relevant recorded observations, not only one convenient result."
+      "summary": "Known procedure differences matter when interpreting data.",
+      "hint": "Record what changed."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i05-t-014",
     "curriculumCode": "AC9S1I05",
     "bank": "test",
-    "skill": "ac9s1i05 06",
+    "skill": "comparing observations and predictions",
     "printable": true,
     "type": "single",
-    "question": "After comparing how much water two towels absorb, what should happen when the prediction did not match the result?",
-    "audioPrompt": "After comparing how much water two towels absorb, what should happen when the prediction did not match the result?",
-    "visual": "💭 prediction; 👀 result; 💡 learn",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"💭 prediction; 👀 result; 💡 learn\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-014\"></use></svg>",
+    "question": "Which phrase is preferable after a small investigation?",
+    "audioPrompt": "Which phrase is preferable after a small investigation?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-014",
-      "alt_text": "💭 prediction; 👀 result; 💡 learn"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Erase the prediction.",
-      "Record the comparison and use the evidence for the next question.",
-      "Change the result without testing again."
+      "certain forever",
+      "cannot ever change",
+      "supported by these results",
+      "proved for all time"
     ],
-    "correct": 1,
-    "explanation": "Both matches and mismatches help build better scientific ideas.\nHint: Keep the original prediction and the real result.",
+    "correct": 2,
+    "explanation": "“Supported” reflects evidence without overclaiming certainty.\nHint: Careful scientific language.",
     "structuredExplanation": {
-      "summary": "Both matches and mismatches help build better scientific ideas.",
-      "hint": "Keep the original prediction and the real result."
+      "summary": "“Supported” reflects evidence without overclaiming certainty.",
+      "hint": "Careful scientific language."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i05-t-015",
     "curriculumCode": "AC9S1I05",
     "bank": "test",
-    "skill": "ac9s1i05 07",
+    "skill": "comparing observations and predictions",
     "printable": true,
     "type": "single",
-    "question": "Which sentence is the prediction in comparing how much water two towels absorb?",
-    "audioPrompt": "Which sentence is the prediction in comparing how much water two towels absorb?",
-    "visual": "⏮️ before; 💭 The thin towel will absorb more.; 🧻 comparing how much water two towels absorb",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"⏮️ before; 💭 The thin towel will absorb more.; 🧻 comparing how much water two towels absorb\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-015\"></use></svg>",
+    "question": "Mixed results mean:",
+    "audioPrompt": "Mixed results mean:",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-015",
-      "alt_text": "⏮️ before; 💭 The thin towel will absorb more.; 🧻 comparing how much water two towels absorb"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The thick towel absorbed more.",
-      "The measurements were written in a table.",
-      "The thin towel will absorb more."
+      "One result should be invented.",
+      "The evidence did not show the same outcome every time.",
+      "The test has no value.",
+      "Only matching results count."
     ],
-    "correct": 2,
-    "explanation": "The thin towel will absorb more. states the expected outcome before testing.\nHint: Predictions are made before the evidence is collected.",
+    "correct": 1,
+    "explanation": "Variation across trials should be reported honestly.\nHint: Different outcomes occurred.",
     "structuredExplanation": {
-      "summary": "The thin towel will absorb more. states the expected outcome before testing.",
-      "hint": "Predictions are made before the evidence is collected."
+      "summary": "Variation across trials should be reported honestly.",
+      "hint": "Different outcomes occurred."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s1i05-t-016",
     "curriculumCode": "AC9S1I05",
     "bank": "test",
-    "skill": "ac9s1i05 08",
+    "skill": "comparing observations and predictions",
     "printable": true,
     "type": "single",
-    "question": "Why would a result that did not match still be useful in comparing how much water two towels absorb?",
-    "audioPrompt": "Why would a result that did not match still be useful in comparing how much water two towels absorb?",
-    "visual": "❌ mismatch; 📝 evidence; ➡️ new prediction",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"❌ mismatch; 📝 evidence; ➡️ new prediction\"><use href=\"/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-016\"></use></svg>",
+    "question": "How can a class strengthen evidence after a surprising first result?",
+    "audioPrompt": "How can a class strengthen evidence after a surprising first result?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-016",
-      "alt_text": "❌ mismatch; 📝 evidence; ➡️ new prediction"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "It provides evidence that can improve the next prediction.",
-      "It should be hidden.",
-      "It proves observations are unnecessary."
+      "Repeat the test carefully and compare the new results.",
+      "Change the first result.",
+      "Ignore the question.",
+      "Pick the expected answer."
     ],
     "correct": 0,
-    "explanation": "A mismatch can reveal something new and guide another investigation.\nHint: Science learns from actual evidence, not only correct guesses.",
+    "explanation": "Careful repetition can reveal whether the surprise recurs.\nHint: Repeat and compare.",
     "structuredExplanation": {
-      "summary": "A mismatch can reveal something new and guide another investigation.",
-      "hint": "Science learns from actual evidence, not only correct guesses."
+      "summary": "Careful repetition can reveal whether the surprise recurs.",
+      "hint": "Repeat and compare."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v6"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

@@ -1,1418 +1,2730 @@
 [
   {
-    "id": "AC9S1U03-P-001",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1U03",
+    "id": "ac9s1u03-p-001",
+    "curriculumCode": "AC9S1U03",
     "bank": "practice",
-    "skill": "ac9s1u03_01",
-    "question": "Which action is a push on a toy wagon?",
-    "audio_prompt": "Which action is a push on a toy wagon?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-001",
-      "alt_text": "🖐️ push; 🛒 a toy wagon; ➡️ push the wagon away"
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "What is a push?",
+    "audioPrompt": "What is a push?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "push the wagon away",
+        "text": "A force moving something away from you.",
         "is_correct": true
       },
       {
-        "text": "pull the wagon towards you",
+        "text": "A force pulling something closer.",
         "is_correct": false
       },
       {
-        "text": "watch it without touching it",
+        "text": "A colour change.",
+        "is_correct": false
+      },
+      {
+        "text": "A temperature measurement.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Push the wagon away applies a force away from the person or into the object.",
-      "hint": "A push moves something away or presses on it."
+    "correct": 0,
+    "explanation": "A push acts away from the source of the force.\nHint: Away from you.",
+    "structuredExplanation": {
+      "summary": "A push acts away from the source of the force.",
+      "hint": "Away from you."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
   },
   {
-    "id": "AC9S1U03-P-002",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1U03",
+    "id": "ac9s1u03-p-002",
+    "curriculumCode": "AC9S1U03",
     "bank": "practice",
-    "skill": "ac9s1u03_02",
-    "question": "Which action is a pull on a toy wagon?",
-    "audio_prompt": "Which action is a pull on a toy wagon?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-002",
-      "alt_text": "⬅️ pull the wagon towards you; 🛒 a toy wagon; ✋ pull"
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "What is a pull?",
+    "audioPrompt": "What is a pull?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "push the wagon away",
+        "text": "A force always making things faster.",
         "is_correct": false
       },
       {
-        "text": "pull the wagon towards you",
+        "text": "A change of colour.",
+        "is_correct": false
+      },
+      {
+        "text": "A type of material.",
+        "is_correct": false
+      },
+      {
+        "text": "A force bringing something toward you.",
         "is_correct": true
-      },
-      {
-        "text": "leave it still",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Pull the wagon towards you applies a pulling force.",
-      "hint": "A pull brings something closer or stretches it."
+    "correct": 3,
+    "explanation": "A pull acts toward the source of the force.\nHint: Toward you.",
+    "structuredExplanation": {
+      "summary": "A pull acts toward the source of the force.",
+      "hint": "Toward you."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
   },
   {
-    "id": "AC9S1U03-P-003",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1U03",
+    "id": "ac9s1u03-p-003",
+    "curriculumCode": "AC9S1U03",
     "bank": "practice",
-    "skill": "ac9s1u03_03",
-    "question": "What may happen after a gentle force is used on a toy wagon?",
-    "audio_prompt": "What may happen after a gentle force is used on a toy wagon?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-003",
-      "alt_text": "🤏 gentle force; 🛒 a toy wagon; ➡️ moves a short distance"
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "Which action is a push?",
+    "audioPrompt": "Which action is a push?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "usually moves farther on the same surface",
+        "text": "Lifting a bag by its straps.",
         "is_correct": false
       },
       {
-        "text": "A gentle force must always have the same effect as a strong force.",
+        "text": "Dragging a toy toward you.",
         "is_correct": false
       },
       {
-        "text": "moves a short distance",
+        "text": "Closing a drawer with your hand.",
         "is_correct": true
+      },
+      {
+        "text": "Opening a drawer by its handle.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Moves a short distance is a possible effect of a gentle force.",
-      "hint": "Compare gentle and stronger forces while keeping the object and surface the same."
+    "correct": 2,
+    "explanation": "Closing a drawer usually involves pushing it away from you.\nHint: Away from you.",
+    "structuredExplanation": {
+      "summary": "Closing a drawer usually involves pushing it away from you.",
+      "hint": "Away from you."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
   },
   {
-    "id": "AC9S1U03-P-004",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1U03",
+    "id": "ac9s1u03-p-004",
+    "curriculumCode": "AC9S1U03",
     "bank": "practice",
-    "skill": "ac9s1u03_04",
-    "question": "What may happen after a stronger force is used on a toy wagon?",
-    "audio_prompt": "What may happen after a stronger force is used on a toy wagon?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-004",
-      "alt_text": "💪 stronger force; 🛒 a toy wagon; ➡️ usually moves farther on the same surface"
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "Which action is a pull?",
+    "audioPrompt": "Which action is a pull?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "usually moves farther on the same surface",
+        "text": "Pressing a button.",
+        "is_correct": false
+      },
+      {
+        "text": "Opening a cupboard door toward you.",
         "is_correct": true
       },
       {
-        "text": "moves a short distance",
+        "text": "Kicking a ball away.",
         "is_correct": false
       },
       {
-        "text": "The object must always break.",
+        "text": "Pushing a trolley forward.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Usually moves farther on the same surface is a careful comparison under the same conditions.",
-      "hint": "Use “usually” or “may”; a stronger force can change motion or shape."
+    "correct": 1,
+    "explanation": "Opening the door toward you uses a pull.\nHint: Toward you.",
+    "structuredExplanation": {
+      "summary": "Opening the door toward you uses a pull.",
+      "hint": "Toward you."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
   },
   {
-    "id": "AC9S1U03-P-005",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1U03",
+    "id": "ac9s1u03-p-005",
+    "curriculumCode": "AC9S1U03",
     "bank": "practice",
-    "skill": "ac9s1u03_05",
-    "question": "Which statement describes a possible effect of force on a toy wagon?",
-    "audio_prompt": "Which statement describes a possible effect of force on a toy wagon?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-005",
-      "alt_text": "✋ force; 🛒 a toy wagon; 🔄 does not usually change shape from a gentle push"
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "A stronger push on the same toy car usually makes it:",
+    "audioPrompt": "A stronger push on the same toy car usually makes it:",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Forces can never change motion or shape.",
-        "is_correct": false
-      },
-      {
-        "text": "does not usually change shape from a gentle push",
+        "text": "move farther or faster",
         "is_correct": true
       },
       {
-        "text": "A force changes only colour, not motion or shape.",
+        "text": "change colour",
+        "is_correct": false
+      },
+      {
+        "text": "become heavier",
+        "is_correct": false
+      },
+      {
+        "text": "stop instantly",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Does not usually change shape from a gentle push describes an effect a force can have.",
-      "hint": "A force can start, stop, speed up, slow down, turn or change shape."
+    "correct": 0,
+    "explanation": "A stronger force can produce a greater change in motion.\nHint: Compare gentle and strong.",
+    "structuredExplanation": {
+      "summary": "A stronger force can produce a greater change in motion.",
+      "hint": "Compare gentle and strong."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
   },
   {
-    "id": "AC9S1U03-P-006",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1U03",
+    "id": "ac9s1u03-p-006",
+    "curriculumCode": "AC9S1U03",
     "bank": "practice",
-    "skill": "ac9s1u03_06",
-    "question": "For a fair test of pushes on a toy wagon, what should stay the same?",
-    "audio_prompt": "For a fair test of pushes on a toy wagon, what should stay the same?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-006",
-      "alt_text": "🛒 a toy wagon; 🔒 smooth floor; ⚖️ fair test"
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "Which object can change shape when pushed?",
+    "audioPrompt": "Which object can change shape when pushed?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Change the object and surface every time.",
+        "text": "solid brick wall",
         "is_correct": false
       },
       {
-        "text": "Keep only the result you like.",
+        "text": "metal pole with a gentle finger touch",
         "is_correct": false
       },
       {
-        "text": "Use the same a toy wagon and the same smooth floor.",
+        "text": "glass window",
+        "is_correct": false
+      },
+      {
+        "text": "soft sponge",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Using the same object and surface makes the push strength easier to compare.",
-      "hint": "Change the force, but keep other important conditions the same."
+    "correct": 3,
+    "explanation": "Soft materials can deform when forces act on them.\nHint: Which one is easy to squash?",
+    "structuredExplanation": {
+      "summary": "Soft materials can deform when forces act on them.",
+      "hint": "Which one is easy to squash?"
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
+  },
+  {
+    "id": "ac9s1u03-p-007",
+    "curriculumCode": "AC9S1U03",
+    "bank": "practice",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "Which action can change direction?",
+    "audioPrompt": "Which action can change direction?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Looking at the ball.",
+        "is_correct": false
+      },
+      {
+        "text": "Changing its colour.",
+        "is_correct": false
+      },
+      {
+        "text": "Pushing a rolling ball from the side.",
+        "is_correct": true
+      },
+      {
+        "text": "Leaving the ball untouched.",
+        "is_correct": false
+      }
+    ],
+    "correct": 2,
+    "explanation": "A sideways force can alter the ball’s direction.\nHint: Force can steer motion.",
+    "structuredExplanation": {
+      "summary": "A sideways force can alter the ball’s direction.",
+      "hint": "Force can steer motion."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
+  },
+  {
+    "id": "ac9s1u03-p-008",
+    "curriculumCode": "AC9S1U03",
+    "bank": "practice",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "Which unit could be used to compare how far cars roll?",
+    "audioPrompt": "Which unit could be used to compare how far cars roll?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "minutes only",
+        "is_correct": false
+      },
+      {
+        "text": "centimetres",
+        "is_correct": true
+      },
+      {
+        "text": "degrees Celsius",
+        "is_correct": false
+      },
+      {
+        "text": "litres",
+        "is_correct": false
+      }
+    ],
+    "correct": 1,
+    "explanation": "Distance can be measured in centimetres.\nHint: Length unit.",
+    "structuredExplanation": {
+      "summary": "Distance can be measured in centimetres.",
+      "hint": "Length unit."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
+  },
+  {
+    "id": "ac9s1u03-p-009",
+    "curriculumCode": "AC9S1U03",
+    "bank": "practice",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "If two cars use the same ramp, what should stay the same for a fair comparison?",
+    "audioPrompt": "If two cars use the same ramp, what should stay the same for a fair comparison?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "start point",
+        "is_correct": true
+      },
+      {
+        "text": "car colour only",
+        "is_correct": false
+      },
+      {
+        "text": "observer name",
+        "is_correct": false
+      },
+      {
+        "text": "room decoration",
+        "is_correct": false
+      }
+    ],
+    "correct": 0,
+    "explanation": "Keeping the start point the same helps compare motion.\nHint: Same starting condition.",
+    "structuredExplanation": {
+      "summary": "Keeping the start point the same helps compare motion.",
+      "hint": "Same starting condition."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
+  },
+  {
+    "id": "ac9s1u03-p-010",
+    "curriculumCode": "AC9S1U03",
+    "bank": "practice",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "A ball that is still can start moving when:",
+    "audioPrompt": "A ball that is still can start moving when:",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "someone looks at it",
+        "is_correct": false
+      },
+      {
+        "text": "its colour changes",
+        "is_correct": false
+      },
+      {
+        "text": "the clock ticks",
+        "is_correct": false
+      },
+      {
+        "text": "a push or pull acts on it",
+        "is_correct": true
+      }
+    ],
+    "correct": 3,
+    "explanation": "Forces can change an object from rest to motion.\nHint: Motion needs a force.",
+    "structuredExplanation": {
+      "summary": "Forces can change an object from rest to motion.",
+      "hint": "Motion needs a force."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
+  },
+  {
+    "id": "ac9s1u03-p-011",
+    "curriculumCode": "AC9S1U03",
+    "bank": "practice",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "Why might a harder push send a toy car farther?",
+    "audioPrompt": "Why might a harder push send a toy car farther?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Distance depends only on colour.",
+        "is_correct": false
+      },
+      {
+        "text": "Cars choose how far to go.",
+        "is_correct": false
+      },
+      {
+        "text": "A stronger force can give the car a greater change in motion.",
+        "is_correct": true
+      },
+      {
+        "text": "Hard pushes make wheels bigger.",
+        "is_correct": false
+      }
+    ],
+    "correct": 2,
+    "explanation": "Stronger forces can cause larger motion changes.\nHint: More force, bigger effect.",
+    "structuredExplanation": {
+      "summary": "Stronger forces can cause larger motion changes.",
+      "hint": "More force, bigger effect."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
+  },
+  {
+    "id": "ac9s1u03-p-012",
+    "curriculumCode": "AC9S1U03",
+    "bank": "practice",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "Why should the same toy car be used when comparing gentle and strong pushes?",
+    "audioPrompt": "Why should the same toy car be used when comparing gentle and strong pushes?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The car becomes safer.",
+        "is_correct": false
+      },
+      {
+        "text": "So the size of the push is the main thing changing.",
+        "is_correct": true
+      },
+      {
+        "text": "Different cars always move equally.",
+        "is_correct": false
+      },
+      {
+        "text": "Colour must stay the same.",
+        "is_correct": false
+      }
+    ],
+    "correct": 1,
+    "explanation": "Keeping the object constant makes the force comparison clearer.\nHint: Change one main thing.",
+    "structuredExplanation": {
+      "summary": "Keeping the object constant makes the force comparison clearer.",
+      "hint": "Change one main thing."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
+  },
+  {
+    "id": "ac9s1u03-p-013",
+    "curriculumCode": "AC9S1U03",
+    "bank": "practice",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "Why can a push change direction without making an object stop?",
+    "audioPrompt": "Why can a push change direction without making an object stop?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A force from the side can redirect its motion.",
+        "is_correct": true
+      },
+      {
+        "text": "Direction changes only when objects stop.",
+        "is_correct": false
+      },
+      {
+        "text": "Forces cannot act sideways.",
+        "is_correct": false
+      },
+      {
+        "text": "Moving objects ignore pushes.",
+        "is_correct": false
+      }
+    ],
+    "correct": 0,
+    "explanation": "Forces can change speed or direction.\nHint: Push from the side.",
+    "structuredExplanation": {
+      "summary": "Forces can change speed or direction.",
+      "hint": "Push from the side."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
+  },
+  {
+    "id": "ac9s1u03-p-014",
+    "curriculumCode": "AC9S1U03",
+    "bank": "practice",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "Why does a soft ball squash more easily than a hard wooden block?",
+    "audioPrompt": "Why does a soft ball squash more easily than a hard wooden block?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Soft things have no mass.",
+        "is_correct": false
+      },
+      {
+        "text": "Wood cannot feel forces.",
+        "is_correct": false
+      },
+      {
+        "text": "Colour controls shape change.",
+        "is_correct": false
+      },
+      {
+        "text": "Its material changes shape more easily under force.",
+        "is_correct": true
+      }
+    ],
+    "correct": 3,
+    "explanation": "Different materials respond differently to pushes and pulls.\nHint: Material affects deformation.",
+    "structuredExplanation": {
+      "summary": "Different materials respond differently to pushes and pulls.",
+      "hint": "Material affects deformation."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
+  },
+  {
+    "id": "ac9s1u03-p-015",
+    "curriculumCode": "AC9S1U03",
+    "bank": "practice",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "Why is “stronger push means farther every time” too certain?",
+    "audioPrompt": "Why is “stronger push means farther every time” too certain?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Distance cannot be measured.",
+        "is_correct": false
+      },
+      {
+        "text": "Every object behaves identically.",
+        "is_correct": false
+      },
+      {
+        "text": "Surface, object, direction and other conditions also affect motion.",
+        "is_correct": true
+      },
+      {
+        "text": "Pushes never matter.",
+        "is_correct": false
+      }
+    ],
+    "correct": 2,
+    "explanation": "Force strength matters, but other conditions also influence results.\nHint: More than one factor can matter.",
+    "structuredExplanation": {
+      "summary": "Force strength matters, but other conditions also influence results.",
+      "hint": "More than one factor can matter."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
+  },
+  {
+    "id": "ac9s1u03-p-016",
+    "curriculumCode": "AC9S1U03",
+    "bank": "practice",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "Why use the same surface when comparing pushes?",
+    "audioPrompt": "Why use the same surface when comparing pushes?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Friction is unrelated to motion.",
+        "is_correct": false
+      },
+      {
+        "text": "Surface friction can change how far the object moves.",
+        "is_correct": true
+      },
+      {
+        "text": "Surfaces change object colour.",
+        "is_correct": false
+      },
+      {
+        "text": "Same surfaces guarantee equal distance.",
+        "is_correct": false
+      }
+    ],
+    "correct": 1,
+    "explanation": "Keeping the surface constant supports a fair comparison.\nHint: Control friction.",
+    "structuredExplanation": {
+      "summary": "Keeping the surface constant supports a fair comparison.",
+      "hint": "Control friction."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
+  },
+  {
+    "id": "ac9s1u03-p-017",
+    "curriculumCode": "AC9S1U03",
+    "bank": "practice",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "Why can a pull stretch an elastic band?",
+    "audioPrompt": "Why can a pull stretch an elastic band?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The force changes its shape.",
+        "is_correct": true
+      },
+      {
+        "text": "Pulls only move whole objects.",
+        "is_correct": false
+      },
+      {
+        "text": "Elastic cannot change shape.",
+        "is_correct": false
+      },
+      {
+        "text": "The band becomes heavier.",
+        "is_correct": false
+      }
+    ],
+    "correct": 0,
+    "explanation": "Forces can deform flexible materials.\nHint: Motion or shape can change.",
+    "structuredExplanation": {
+      "summary": "Forces can deform flexible materials.",
+      "hint": "Motion or shape can change."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 17,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
+  },
+  {
+    "id": "ac9s1u03-p-018",
+    "curriculumCode": "AC9S1U03",
+    "bank": "practice",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "Why does a rolling ball slow on carpet more than tiles?",
+    "audioPrompt": "Why does a rolling ball slow on carpet more than tiles?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Carpet changes gravity.",
+        "is_correct": false
+      },
+      {
+        "text": "Tiles push the ball by themselves.",
+        "is_correct": false
+      },
+      {
+        "text": "Balls dislike carpet.",
+        "is_correct": false
+      },
+      {
+        "text": "Carpet creates more friction against the ball.",
+        "is_correct": true
+      }
+    ],
+    "correct": 3,
+    "explanation": "Different surfaces create different friction.\nHint: Surface matters.",
+    "structuredExplanation": {
+      "summary": "Different surfaces create different friction.",
+      "hint": "Surface matters."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 18,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
+  },
+  {
+    "id": "ac9s1u03-p-019",
+    "curriculumCode": "AC9S1U03",
+    "bank": "practice",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "Why repeat a push test several times?",
+    "audioPrompt": "Why repeat a push test several times?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "To change the prediction.",
+        "is_correct": false
+      },
+      {
+        "text": "To remove the need to measure.",
+        "is_correct": false
+      },
+      {
+        "text": "To see whether the motion result is similar across trials.",
+        "is_correct": true
+      },
+      {
+        "text": "To make the car win.",
+        "is_correct": false
+      }
+    ],
+    "correct": 2,
+    "explanation": "Repeated trials provide more evidence.\nHint: Check consistency.",
+    "structuredExplanation": {
+      "summary": "Repeated trials provide more evidence.",
+      "hint": "Check consistency."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 19,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
+  },
+  {
+    "id": "ac9s1u03-p-020",
+    "curriculumCode": "AC9S1U03",
+    "bank": "practice",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "Why should pushes be applied from the same direction in a fair test?",
+    "audioPrompt": "Why should pushes be applied from the same direction in a fair test?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It changes the colour less.",
+        "is_correct": false
+      },
+      {
+        "text": "Direction affects how the object moves.",
+        "is_correct": true
+      },
+      {
+        "text": "Direction never matters.",
+        "is_correct": false
+      },
+      {
+        "text": "Same direction makes objects heavier.",
+        "is_correct": false
+      }
+    ],
+    "correct": 1,
+    "explanation": "Keeping direction constant isolates the force strength or another chosen variable.\nHint: Direction is a condition too.",
+    "structuredExplanation": {
+      "summary": "Keeping direction constant isolates the force strength or another chosen variable.",
+      "hint": "Direction is a condition too."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 20,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
+  },
+  {
+    "id": "ac9s1u03-p-021",
+    "curriculumCode": "AC9S1U03",
+    "bank": "practice",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "Which situation shows a pull?",
+    "audioPrompt": "Which situation shows a pull?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dragging a wagon toward you.",
+        "is_correct": true
+      },
+      {
+        "text": "Pushing a chair under a table.",
+        "is_correct": false
+      },
+      {
+        "text": "Kicking a football away.",
+        "is_correct": false
+      },
+      {
+        "text": "Pressing a switch.",
+        "is_correct": false
+      }
+    ],
+    "correct": 0,
+    "explanation": "The wagon moves toward the person applying the force.\nHint: Toward you.",
+    "structuredExplanation": {
+      "summary": "The wagon moves toward the person applying the force.",
+      "hint": "Toward you."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 21,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
+  },
+  {
+    "id": "ac9s1u03-p-022",
+    "curriculumCode": "AC9S1U03",
+    "bank": "practice",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "Which situation shows a force changing shape rather than location?",
+    "audioPrompt": "Which situation shows a force changing shape rather than location?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Rolling a marble across a table.",
+        "is_correct": false
+      },
+      {
+        "text": "Pulling a wagon forward.",
+        "is_correct": false
+      },
+      {
+        "text": "Kicking a ball.",
+        "is_correct": false
+      },
+      {
+        "text": "Squeezing playdough flat.",
+        "is_correct": true
+      }
+    ],
+    "correct": 3,
+    "explanation": "The playdough deforms under the force.\nHint: Shape change.",
+    "structuredExplanation": {
+      "summary": "The playdough deforms under the force.",
+      "hint": "Shape change."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 22,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
+  },
+  {
+    "id": "ac9s1u03-p-023",
+    "curriculumCode": "AC9S1U03",
+    "bank": "practice",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "Which test is fairest for comparing push strength?",
+    "audioPrompt": "Which test is fairest for comparing push strength?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Different start lines and pushes.",
+        "is_correct": false
+      },
+      {
+        "text": "Guess distances.",
+        "is_correct": false
+      },
+      {
+        "text": "Same car, same surface, same start line, different push strength.",
+        "is_correct": true
+      },
+      {
+        "text": "Different cars and surfaces each time.",
+        "is_correct": false
+      }
+    ],
+    "correct": 2,
+    "explanation": "Only the push strength should be the main changed factor.\nHint: Keep other conditions alike.",
+    "structuredExplanation": {
+      "summary": "Only the push strength should be the main changed factor.",
+      "hint": "Keep other conditions alike."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 23,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
+  },
+  {
+    "id": "ac9s1u03-p-024",
+    "curriculumCode": "AC9S1U03",
+    "bank": "practice",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "Which statement is correct?",
+    "audioPrompt": "Which statement is correct?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Forces cannot change shape.",
+        "is_correct": false
+      },
+      {
+        "text": "A force can start, stop, speed up, slow down or redirect motion.",
+        "is_correct": true
+      },
+      {
+        "text": "Forces only make things faster.",
+        "is_correct": false
+      },
+      {
+        "text": "Forces only act on moving objects.",
+        "is_correct": false
+      }
+    ],
+    "correct": 1,
+    "explanation": "Pushes and pulls can affect motion in several ways and can deform objects.\nHint: More than speed.",
+    "structuredExplanation": {
+      "summary": "Pushes and pulls can affect motion in several ways and can deform objects.",
+      "hint": "More than speed."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 24,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
+  },
+  {
+    "id": "ac9s1u03-p-025",
+    "curriculumCode": "AC9S1U03",
+    "bank": "practice",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "Which surface would probably slow a rolling toy car most?",
+    "audioPrompt": "Which surface would probably slow a rolling toy car most?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "thick carpet",
+        "is_correct": true
+      },
+      {
+        "text": "smooth tile",
+        "is_correct": false
+      },
+      {
+        "text": "polished table",
+        "is_correct": false
+      },
+      {
+        "text": "flat plastic sheet",
+        "is_correct": false
+      }
+    ],
+    "correct": 0,
+    "explanation": "Thick carpet usually creates more friction.\nHint: Rougher/softer surface.",
+    "structuredExplanation": {
+      "summary": "Thick carpet usually creates more friction.",
+      "hint": "Rougher/softer surface."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 25,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
+  },
+  {
+    "id": "ac9s1u03-p-026",
+    "curriculumCode": "AC9S1U03",
+    "bank": "practice",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "Which is NOT evidence about motion?",
+    "audioPrompt": "Which is NOT evidence about motion?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The car travelled 90 cm.",
+        "is_correct": false
+      },
+      {
+        "text": "The car stopped after 4 seconds.",
+        "is_correct": false
+      },
+      {
+        "text": "The car turned left.",
+        "is_correct": false
+      },
+      {
+        "text": "The car is red.",
+        "is_correct": true
+      }
+    ],
+    "correct": 3,
+    "explanation": "Colour does not describe the motion outcome.\nHint: Distance, time, direction.",
+    "structuredExplanation": {
+      "summary": "Colour does not describe the motion outcome.",
+      "hint": "Distance, time, direction."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 26,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
+  },
+  {
+    "id": "ac9s1u03-p-027",
+    "curriculumCode": "AC9S1U03",
+    "bank": "practice",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "Which conclusion is too strong?",
+    "audioPrompt": "Which conclusion is too strong?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "We can repeat the trial.",
+        "is_correct": false
+      },
+      {
+        "text": "Push strength may affect distance.",
+        "is_correct": false
+      },
+      {
+        "text": "The stronger push sent this car farther in one trial, so it always will.",
+        "is_correct": true
+      },
+      {
+        "text": "The stronger push sent this car farther in this trial.",
+        "is_correct": false
+      }
+    ],
+    "correct": 2,
+    "explanation": "One result does not prove an absolute rule.\nHint: Watch “always”.",
+    "structuredExplanation": {
+      "summary": "One result does not prove an absolute rule.",
+      "hint": "Watch “always”."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 27,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
+  },
+  {
+    "id": "ac9s1u03-p-028",
+    "curriculumCode": "AC9S1U03",
+    "bank": "practice",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "A ball is rolling east and receives a strong push north. What may change most clearly?",
+    "audioPrompt": "A ball is rolling east and receives a strong push north. What may change most clearly?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "material",
+        "is_correct": false
+      },
+      {
+        "text": "direction",
+        "is_correct": true
+      },
+      {
+        "text": "colour",
+        "is_correct": false
+      },
+      {
+        "text": "mass",
+        "is_correct": false
+      }
+    ],
+    "correct": 1,
+    "explanation": "A sideways force can redirect motion.\nHint: Think steering.",
+    "structuredExplanation": {
+      "summary": "A sideways force can redirect motion.",
+      "hint": "Think steering."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 28,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
+  },
+  {
+    "id": "ac9s1u03-p-029",
+    "curriculumCode": "AC9S1U03",
+    "bank": "practice",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "Which object is most likely to stretch when pulled?",
+    "audioPrompt": "Which object is most likely to stretch when pulled?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "rubber band",
+        "is_correct": true
+      },
+      {
+        "text": "rock",
+        "is_correct": false
+      },
+      {
+        "text": "brick",
+        "is_correct": false
+      },
+      {
+        "text": "ceramic tile",
+        "is_correct": false
+      }
+    ],
+    "correct": 0,
+    "explanation": "Rubber is elastic and changes shape under tension.\nHint: Flexible material.",
+    "structuredExplanation": {
+      "summary": "Rubber is elastic and changes shape under tension.",
+      "hint": "Flexible material."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 29,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
+  },
+  {
+    "id": "ac9s1u03-p-030",
+    "curriculumCode": "AC9S1U03",
+    "bank": "practice",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "Which observation supports “rough surfaces slow motion more”?",
+    "audioPrompt": "Which observation supports “rough surfaces slow motion more”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The carpet is blue.",
+        "is_correct": false
+      },
+      {
+        "text": "The tile is shiny.",
+        "is_correct": false
+      },
+      {
+        "text": "The car has four wheels.",
+        "is_correct": false
+      },
+      {
+        "text": "The same car travelled 30 cm on carpet and 90 cm on tile.",
+        "is_correct": true
+      }
+    ],
+    "correct": 3,
+    "explanation": "The distance difference directly compares motion on the two surfaces.\nHint: Use movement evidence.",
+    "structuredExplanation": {
+      "summary": "The distance difference directly compares motion on the two surfaces.",
+      "hint": "Use movement evidence."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 30,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
+  },
+  {
+    "id": "ac9s1u03-p-031",
+    "curriculumCode": "AC9S1U03",
+    "bank": "practice",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "A class wants to test gentle versus strong pushes on a toy car. Best plan?",
+    "audioPrompt": "A class wants to test gentle versus strong pushes on a toy car. Best plan?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Guess how far it goes.",
+        "is_correct": false
+      },
+      {
+        "text": "Use stairs.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the same car, surface and start line; change only push strength and measure distance.",
+        "is_correct": true
+      },
+      {
+        "text": "Change car and surface each time.",
+        "is_correct": false
+      }
+    ],
+    "correct": 2,
+    "explanation": "A fair test keeps other conditions controlled and measures the outcome.\nHint: Change one main factor.",
+    "structuredExplanation": {
+      "summary": "A fair test keeps other conditions controlled and measures the outcome.",
+      "hint": "Change one main factor."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 31,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
+  },
+  {
+    "id": "ac9s1u03-p-032",
+    "curriculumCode": "AC9S1U03",
+    "bank": "practice",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "A football is rolling toward a sideline. How can a player change its direction?",
+    "audioPrompt": "A football is rolling toward a sideline. How can a player change its direction?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Measure its temperature.",
+        "is_correct": false
+      },
+      {
+        "text": "Apply a push from another direction.",
+        "is_correct": true
+      },
+      {
+        "text": "Change the ball colour.",
+        "is_correct": false
+      },
+      {
+        "text": "Wait for it to decide.",
+        "is_correct": false
+      }
+    ],
+    "correct": 1,
+    "explanation": "A force from a new direction can alter the path.\nHint: Side push.",
+    "structuredExplanation": {
+      "summary": "A force from a new direction can alter the path.",
+      "hint": "Side push."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 32,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
+  },
+  {
+    "id": "ac9s1u03-p-033",
+    "curriculumCode": "AC9S1U03",
+    "bank": "practice",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "A soft sponge and wooden block are pressed with similar force. What should you expect?",
+    "audioPrompt": "A soft sponge and wooden block are pressed with similar force. What should you expect?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The sponge will change shape more.",
+        "is_correct": true
+      },
+      {
+        "text": "Both must change equally.",
+        "is_correct": false
+      },
+      {
+        "text": "The wood will always flatten more.",
+        "is_correct": false
+      },
+      {
+        "text": "Neither feels force.",
+        "is_correct": false
+      }
+    ],
+    "correct": 0,
+    "explanation": "Softer materials deform more easily.\nHint: Material response.",
+    "structuredExplanation": {
+      "summary": "Softer materials deform more easily.",
+      "hint": "Material response."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 33,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
+  },
+  {
+    "id": "ac9s1u03-p-034",
+    "curriculumCode": "AC9S1U03",
+    "bank": "practice",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "Two identical cars are pushed equally, one on carpet and one on tile. Why might distances differ?",
+    "audioPrompt": "Two identical cars are pushed equally, one on carpet and one on tile. Why might distances differ?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The cars have different colours.",
+        "is_correct": false
+      },
+      {
+        "text": "Gravity changes between surfaces.",
+        "is_correct": false
+      },
+      {
+        "text": "Tile makes engines.",
+        "is_correct": false
+      },
+      {
+        "text": "The surfaces create different friction.",
+        "is_correct": true
+      }
+    ],
+    "correct": 3,
+    "explanation": "Surface friction affects rolling distance.\nHint: Surface condition.",
+    "structuredExplanation": {
+      "summary": "Surface friction affects rolling distance.",
+      "hint": "Surface condition."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 34,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
+  },
+  {
+    "id": "ac9s1u03-p-035",
+    "curriculumCode": "AC9S1U03",
+    "bank": "practice",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "A drawer is stuck. Which force would you use to open it toward you?",
+    "audioPrompt": "A drawer is stuck. Which force would you use to open it toward you?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "no force",
+        "is_correct": false
+      },
+      {
+        "text": "heat only",
+        "is_correct": false
+      },
+      {
+        "text": "pull",
+        "is_correct": true
+      },
+      {
+        "text": "push away",
+        "is_correct": false
+      }
+    ],
+    "correct": 2,
+    "explanation": "Opening toward you requires pulling.\nHint: Toward you.",
+    "structuredExplanation": {
+      "summary": "Opening toward you requires pulling.",
+      "hint": "Toward you."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 35,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
+  },
+  {
+    "id": "ac9s1u03-p-036",
+    "curriculumCode": "AC9S1U03",
+    "bank": "practice",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "A child wants to compare how far a ball rolls from two ramp heights. What should stay the same?",
+    "audioPrompt": "A child wants to compare how far a ball rolls from two ramp heights. What should stay the same?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "ball colour only",
+        "is_correct": false
+      },
+      {
+        "text": "ball, surface and release method",
+        "is_correct": true
+      },
+      {
+        "text": "ramp height",
+        "is_correct": false
+      },
+      {
+        "text": "everything including height",
+        "is_correct": false
+      }
+    ],
+    "correct": 1,
+    "explanation": "Keep the object and procedure constant while changing ramp height.\nHint: Control other factors.",
+    "structuredExplanation": {
+      "summary": "Keep the object and procedure constant while changing ramp height.",
+      "hint": "Control other factors."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 36,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
+  },
+  {
+    "id": "ac9s1u03-p-037",
+    "curriculumCode": "AC9S1U03",
+    "bank": "practice",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "A rubber band is stretched farther with a stronger pull. What change is being observed?",
+    "audioPrompt": "A rubber band is stretched farther with a stronger pull. What change is being observed?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "shape/length",
+        "is_correct": true
+      },
+      {
+        "text": "colour",
+        "is_correct": false
+      },
+      {
+        "text": "mass disappearing",
+        "is_correct": false
+      },
+      {
+        "text": "temperature only",
+        "is_correct": false
+      }
+    ],
+    "correct": 0,
+    "explanation": "The force deforms the elastic band.\nHint: Stretching is shape change.",
+    "structuredExplanation": {
+      "summary": "The force deforms the elastic band.",
+      "hint": "Stretching is shape change."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 37,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
+  },
+  {
+    "id": "ac9s1u03-p-038",
+    "curriculumCode": "AC9S1U03",
+    "bank": "practice",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "A toy car results are 40 cm after gentle push and 85 cm after stronger push. What can be said?",
+    "audioPrompt": "A toy car results are 40 cm after gentle push and 85 cm after stronger push. What can be said?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Strong pushes always move every object exactly twice as far.",
+        "is_correct": false
+      },
+      {
+        "text": "Colour caused the difference.",
+        "is_correct": false
+      },
+      {
+        "text": "The gentle push did not act as a force.",
+        "is_correct": false
+      },
+      {
+        "text": "In this test, the stronger push moved the car farther.",
+        "is_correct": true
+      }
+    ],
+    "correct": 3,
+    "explanation": "The measured distances support a limited conclusion about this test.\nHint: Use the actual data.",
+    "structuredExplanation": {
+      "summary": "The measured distances support a limited conclusion about this test.",
+      "hint": "Use the actual data."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 38,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
+  },
+  {
+    "id": "ac9s1u03-p-039",
+    "curriculumCode": "AC9S1U03",
+    "bank": "practice",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "A rolling ball slows and stops without anyone touching it. What force from the surface helps explain this?",
+    "audioPrompt": "A rolling ball slows and stops without anyone touching it. What force from the surface helps explain this?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "colour",
+        "is_correct": false
+      },
+      {
+        "text": "light",
+        "is_correct": false
+      },
+      {
+        "text": "friction",
+        "is_correct": true
+      },
+      {
+        "text": "magnetism from nowhere",
+        "is_correct": false
+      }
+    ],
+    "correct": 2,
+    "explanation": "Friction opposes motion between surfaces.\nHint: Contact with ground matters.",
+    "structuredExplanation": {
+      "summary": "Friction opposes motion between surfaces.",
+      "hint": "Contact with ground matters."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 39,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
+  },
+  {
+    "id": "ac9s1u03-p-040",
+    "curriculumCode": "AC9S1U03",
+    "bank": "practice",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "Which real-life example best shows a pull changing motion?",
+    "audioPrompt": "Which real-life example best shows a pull changing motion?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Measuring its height.",
+        "is_correct": false
+      },
+      {
+        "text": "Pulling a suitcase toward you so it starts moving.",
+        "is_correct": true
+      },
+      {
+        "text": "Painting a suitcase.",
+        "is_correct": false
+      },
+      {
+        "text": "Looking at a suitcase.",
+        "is_correct": false
+      }
+    ],
+    "correct": 1,
+    "explanation": "The applied pull starts the suitcase moving.\nHint: Force causes motion.",
+    "structuredExplanation": {
+      "summary": "The applied pull starts the suitcase moving.",
+      "hint": "Force causes motion."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 40,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
+  },
+  {
+    "id": "ac9s1u03-t-001",
+    "curriculumCode": "AC9S1U03",
+    "bank": "test",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "At the playground, which action uses a push?",
+    "audioPrompt": "At the playground, which action uses a push?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Pulling a wagon toward you.",
+        "is_correct": false
+      },
+      {
+        "text": "Drawing a bucket closer with a rope.",
+        "is_correct": false
+      },
+      {
+        "text": "Opening a drawer toward you.",
+        "is_correct": false
+      },
+      {
+        "text": "Sending a swing away from you with your hands.",
+        "is_correct": true
+      }
+    ],
+    "correct": 3,
+    "explanation": "Sending the swing away from you applies a push.\nHint: Which force acts away from you?",
+    "structuredExplanation": {
+      "summary": "Sending the swing away from you applies a push.",
+      "hint": "Which force acts away from you?"
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
   },
   {
-    "id": "AC9S1U03-P-007",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1U03",
-    "bank": "practice",
-    "skill": "ac9s1u03_07",
-    "question": "Which word names the push or pull used on a toy wagon?",
-    "audio_prompt": "Which word names the push or pull used on a toy wagon?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-007",
-      "alt_text": "➡️ push; ⬅️ pull; 💥 force"
+    "id": "ac9s1u03-t-002",
+    "curriculumCode": "AC9S1U03",
+    "bank": "test",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "At a picnic, which action uses a pull?",
+    "audioPrompt": "At a picnic, which action uses a pull?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "force",
+        "text": "Pressing a bin lid down.",
+        "is_correct": false
+      },
+      {
+        "text": "Kicking a ball away.",
+        "is_correct": false
+      },
+      {
+        "text": "Pulling a cooler toward you by its handle.",
         "is_correct": true
       },
       {
-        "text": "movement",
-        "is_correct": false
-      },
-      {
-        "text": "speed",
+        "text": "Pushing a chair under a table.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "A force is a push or a pull that can affect motion or shape.",
-      "hint": "Think about what your hands apply when moving an object."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9S1U03-P-008",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1U03",
-    "bank": "practice",
-    "skill": "ac9s1u03_08",
-    "question": "How should the effect of a push on a toy wagon be recorded?",
-    "audio_prompt": "How should the effect of a push on a toy wagon be recorded?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-008",
-      "alt_text": "✋ push; 🛒 a toy wagon; 📝 record effect"
-    },
-    "answers": [
-      {
-        "text": "Write only whether you liked it.",
-        "is_correct": false
-      },
-      {
-        "text": "Describe or measure the change in motion or shape.",
-        "is_correct": true
-      },
-      {
-        "text": "Change the observation to match the prediction.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "A useful record tells how far, how fast, which direction or how the shape changed.",
-      "hint": "Record what changed after the force."
+    "correct": 2,
+    "explanation": "The cooler moves toward you when you pull its handle.\nHint: Which force brings the object toward you?",
+    "structuredExplanation": {
+      "summary": "The cooler moves toward you when you pull its handle.",
+      "hint": "Which force brings the object toward you?"
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
   },
   {
-    "id": "AC9S1U03-P-009",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1U03",
-    "bank": "practice",
-    "skill": "ac9s1u03_01",
-    "question": "Which action is a push on a drawer?",
-    "audio_prompt": "Which action is a push on a drawer?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-009",
-      "alt_text": "🖐️ push; 🗄️ a drawer; ➡️ push the drawer closed"
+    "id": "ac9s1u03-t-003",
+    "curriculumCode": "AC9S1U03",
+    "bank": "test",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "What can a force change?",
+    "audioPrompt": "What can a force change?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "pull the drawer open",
+        "text": "number of letters",
         "is_correct": false
       },
       {
-        "text": "watch it without touching it",
-        "is_correct": false
-      },
-      {
-        "text": "push the drawer closed",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Push the drawer closed applies a force away from the person or into the object.",
-      "hint": "A push moves something away or presses on it."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9S1U03-P-010",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1U03",
-    "bank": "practice",
-    "skill": "ac9s1u03_02",
-    "question": "Which action is a pull on a drawer?",
-    "audio_prompt": "Which action is a pull on a drawer?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-010",
-      "alt_text": "⬅️ pull the drawer open; 🗄️ a drawer; ✋ pull"
-    },
-    "answers": [
-      {
-        "text": "pull the drawer open",
+        "text": "motion or shape",
         "is_correct": true
       },
       {
-        "text": "push the drawer closed",
+        "text": "colour only",
         "is_correct": false
       },
       {
-        "text": "leave it still",
+        "text": "material name",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Pull the drawer open applies a pulling force.",
-      "hint": "A pull brings something closer or stretches it."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9S1U03-P-011",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1U03",
-    "bank": "practice",
-    "skill": "ac9s1u03_03",
-    "question": "What may happen after a gentle force is used on a drawer?",
-    "audio_prompt": "What may happen after a gentle force is used on a drawer?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-011",
-      "alt_text": "🤏 gentle force; 🗄️ a drawer; ➡️ moves slowly"
-    },
-    "answers": [
-      {
-        "text": "usually moves faster if the drawer is free to move",
-        "is_correct": false
-      },
-      {
-        "text": "moves slowly",
-        "is_correct": true
-      },
-      {
-        "text": "A gentle force must always have the same effect as a strong force.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Moves slowly is a possible effect of a gentle force.",
-      "hint": "Compare gentle and stronger forces while keeping the object and surface the same."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S1U03-P-012",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1U03",
-    "bank": "practice",
-    "skill": "ac9s1u03_04",
-    "question": "What may happen after a stronger force is used on a drawer?",
-    "audio_prompt": "What may happen after a stronger force is used on a drawer?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-012",
-      "alt_text": "💪 stronger force; 🗄️ a drawer; ➡️ usually moves faster if the drawer is free to move"
-    },
-    "answers": [
-      {
-        "text": "moves slowly",
-        "is_correct": false
-      },
-      {
-        "text": "The object must always break.",
-        "is_correct": false
-      },
-      {
-        "text": "usually moves faster if the drawer is free to move",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Usually moves faster if the drawer is free to move is a careful comparison under the same conditions.",
-      "hint": "Use “usually” or “may”; a stronger force can change motion or shape."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S1U03-P-013",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1U03",
-    "bank": "practice",
-    "skill": "ac9s1u03_05",
-    "question": "Which statement describes a possible effect of force on a drawer?",
-    "audio_prompt": "Which statement describes a possible effect of force on a drawer?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-013",
-      "alt_text": "✋ force; 🗄️ a drawer; 🔄 keeps its shape while moving"
-    },
-    "answers": [
-      {
-        "text": "keeps its shape while moving",
-        "is_correct": true
-      },
-      {
-        "text": "Forces can never change motion or shape.",
-        "is_correct": false
-      },
-      {
-        "text": "A force changes only colour, not motion or shape.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Keeps its shape while moving describes an effect a force can have.",
-      "hint": "A force can start, stop, speed up, slow down, turn or change shape."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S1U03-P-014",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1U03",
-    "bank": "practice",
-    "skill": "ac9s1u03_06",
-    "question": "For a fair test of pushes on a drawer, what should stay the same?",
-    "audio_prompt": "For a fair test of pushes on a drawer, what should stay the same?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-014",
-      "alt_text": "🗄️ a drawer; 🔒 drawer runners; ⚖️ fair test"
-    },
-    "answers": [
-      {
-        "text": "Change the object and surface every time.",
-        "is_correct": false
-      },
-      {
-        "text": "Use the same a drawer and the same drawer runners.",
-        "is_correct": true
-      },
-      {
-        "text": "Keep only the result you like.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Using the same object and surface makes the push strength easier to compare.",
-      "hint": "Change the force, but keep other important conditions the same."
+    "correct": 1,
+    "explanation": "Pushes and pulls can change speed, direction, position or shape.\nHint: Motion and deformation.",
+    "structuredExplanation": {
+      "summary": "Pushes and pulls can change speed, direction, position or shape.",
+      "hint": "Motion and deformation."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
   },
   {
-    "id": "AC9S1U03-P-015",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1U03",
-    "bank": "practice",
-    "skill": "ac9s1u03_07",
-    "question": "Which word names the push or pull used on a drawer?",
-    "audio_prompt": "Which word names the push or pull used on a drawer?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-015",
-      "alt_text": "➡️ push; ⬅️ pull; 💥 force"
+    "id": "ac9s1u03-t-004",
+    "curriculumCode": "AC9S1U03",
+    "bank": "test",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "Why use the same car when comparing push strength?",
+    "audioPrompt": "Why use the same car when comparing push strength?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "movement",
-        "is_correct": false
-      },
-      {
-        "text": "speed",
-        "is_correct": false
-      },
-      {
-        "text": "force",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "A force is a push or a pull that can affect motion or shape.",
-      "hint": "Think about what your hands apply when moving an object."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S1U03-P-016",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1U03",
-    "bank": "practice",
-    "skill": "ac9s1u03_08",
-    "question": "How should the effect of a push on a drawer be recorded?",
-    "audio_prompt": "How should the effect of a push on a drawer be recorded?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-016",
-      "alt_text": "✋ push; 🗄️ a drawer; 📝 record effect"
-    },
-    "answers": [
-      {
-        "text": "Describe or measure the change in motion or shape.",
+        "text": "To keep the object constant.",
         "is_correct": true
       },
       {
-        "text": "Write only whether you liked it.",
+        "text": "To make the result equal.",
         "is_correct": false
       },
       {
-        "text": "Change the observation to match the prediction.",
+        "text": "To avoid measuring.",
+        "is_correct": false
+      },
+      {
+        "text": "Because colour controls force.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "A useful record tells how far, how fast, which direction or how the shape changed.",
-      "hint": "Record what changed after the force."
+    "correct": 0,
+    "explanation": "Keeping the object the same makes the comparison fairer.\nHint: Control the object.",
+    "structuredExplanation": {
+      "summary": "Keeping the object the same makes the comparison fairer.",
+      "hint": "Control the object."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
   },
   {
-    "id": "AC9S1U03-P-017",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1U03",
-    "bank": "practice",
-    "skill": "ac9s1u03_01",
-    "question": "Which action is a push on a ball?",
-    "audio_prompt": "Which action is a push on a ball?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-017",
-      "alt_text": "🖐️ push; ⚽ a ball; ➡️ push or kick the ball away"
+    "id": "ac9s1u03-t-005",
+    "curriculumCode": "AC9S1U03",
+    "bank": "test",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "Which surface likely creates most friction?",
+    "audioPrompt": "Which surface likely creates most friction?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "pull the ball back in a net",
+        "text": "smooth tile",
         "is_correct": false
       },
       {
-        "text": "push or kick the ball away",
-        "is_correct": true
-      },
-      {
-        "text": "watch it without touching it",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Push or kick the ball away applies a force away from the person or into the object.",
-      "hint": "A push moves something away or presses on it."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S1U03-P-018",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1U03",
-    "bank": "practice",
-    "skill": "ac9s1u03_02",
-    "question": "Which action is a pull on a ball?",
-    "audio_prompt": "Which action is a pull on a ball?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-018",
-      "alt_text": "⬅️ pull the ball back in a net; ⚽ a ball; ✋ pull"
-    },
-    "answers": [
-      {
-        "text": "push or kick the ball away",
+        "text": "polished wood",
         "is_correct": false
       },
       {
-        "text": "leave it still",
+        "text": "ice",
         "is_correct": false
       },
       {
-        "text": "pull the ball back in a net",
+        "text": "rough carpet",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Pull the ball back in a net applies a pulling force.",
-      "hint": "A pull brings something closer or stretches it."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S1U03-P-019",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1U03",
-    "bank": "practice",
-    "skill": "ac9s1u03_03",
-    "question": "What may happen after a gentle force is used on a ball?",
-    "audio_prompt": "What may happen after a gentle force is used on a ball?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-019",
-      "alt_text": "🤏 gentle force; ⚽ a ball; ➡️ rolls slowly"
-    },
-    "answers": [
-      {
-        "text": "rolls slowly",
-        "is_correct": true
-      },
-      {
-        "text": "usually rolls faster or farther on the same surface",
-        "is_correct": false
-      },
-      {
-        "text": "A gentle force must always have the same effect as a strong force.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Rolls slowly is a possible effect of a gentle force.",
-      "hint": "Compare gentle and stronger forces while keeping the object and surface the same."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S1U03-P-020",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1U03",
-    "bank": "practice",
-    "skill": "ac9s1u03_04",
-    "question": "What may happen after a stronger force is used on a ball?",
-    "audio_prompt": "What may happen after a stronger force is used on a ball?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-020",
-      "alt_text": "💪 stronger force; ⚽ a ball; ➡️ usually rolls faster or farther on the same surface"
-    },
-    "answers": [
-      {
-        "text": "rolls slowly",
-        "is_correct": false
-      },
-      {
-        "text": "usually rolls faster or farther on the same surface",
-        "is_correct": true
-      },
-      {
-        "text": "The object must always break.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Usually rolls faster or farther on the same surface is a careful comparison under the same conditions.",
-      "hint": "Use “usually” or “may”; a stronger force can change motion or shape."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S1U03-P-021",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1U03",
-    "bank": "practice",
-    "skill": "ac9s1u03_05",
-    "question": "Which statement describes a possible effect of force on a ball?",
-    "audio_prompt": "Which statement describes a possible effect of force on a ball?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-021",
-      "alt_text": "✋ force; ⚽ a ball; 🔄 may squash slightly when squeezed"
-    },
-    "answers": [
-      {
-        "text": "Forces can never change motion or shape.",
-        "is_correct": false
-      },
-      {
-        "text": "A force changes only colour, not motion or shape.",
-        "is_correct": false
-      },
-      {
-        "text": "may squash slightly when squeezed",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "May squash slightly when squeezed describes an effect a force can have.",
-      "hint": "A force can start, stop, speed up, slow down, turn or change shape."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S1U03-P-022",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1U03",
-    "bank": "practice",
-    "skill": "ac9s1u03_06",
-    "question": "For a fair test of pushes on a ball, what should stay the same?",
-    "audio_prompt": "For a fair test of pushes on a ball, what should stay the same?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-022",
-      "alt_text": "⚽ a ball; 🔒 grass; ⚖️ fair test"
-    },
-    "answers": [
-      {
-        "text": "Use the same a ball and the same grass.",
-        "is_correct": true
-      },
-      {
-        "text": "Change the object and surface every time.",
-        "is_correct": false
-      },
-      {
-        "text": "Keep only the result you like.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Using the same object and surface makes the push strength easier to compare.",
-      "hint": "Change the force, but keep other important conditions the same."
+    "correct": 3,
+    "explanation": "Rough carpet usually resists rolling more.\nHint: Rougher surface.",
+    "structuredExplanation": {
+      "summary": "Rough carpet usually resists rolling more.",
+      "hint": "Rougher surface."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
   },
   {
-    "id": "AC9S1U03-P-023",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1U03",
-    "bank": "practice",
-    "skill": "ac9s1u03_07",
-    "question": "Which word names the push or pull used on a ball?",
-    "audio_prompt": "Which word names the push or pull used on a ball?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-023",
-      "alt_text": "➡️ push; ⬅️ pull; 💥 force"
+    "id": "ac9s1u03-t-006",
+    "curriculumCode": "AC9S1U03",
+    "bank": "test",
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "A sideways push on a rolling ball can change its:",
+    "audioPrompt": "A sideways push on a rolling ball can change its:",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "movement",
+        "text": "mass",
         "is_correct": false
       },
       {
-        "text": "force",
+        "text": "material",
+        "is_correct": false
+      },
+      {
+        "text": "direction",
         "is_correct": true
       },
       {
-        "text": "speed",
+        "text": "colour",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "A force is a push or a pull that can affect motion or shape.",
-      "hint": "Think about what your hands apply when moving an object."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S1U03-P-024",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1U03",
-    "bank": "practice",
-    "skill": "ac9s1u03_08",
-    "question": "How should the effect of a push on a ball be recorded?",
-    "audio_prompt": "How should the effect of a push on a ball be recorded?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-p-024",
-      "alt_text": "✋ push; ⚽ a ball; 📝 record effect"
-    },
-    "answers": [
-      {
-        "text": "Write only whether you liked it.",
-        "is_correct": false
-      },
-      {
-        "text": "Change the observation to match the prediction.",
-        "is_correct": false
-      },
-      {
-        "text": "Describe or measure the change in motion or shape.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "A useful record tells how far, how fast, which direction or how the shape changed.",
-      "hint": "Record what changed after the force."
+    "correct": 2,
+    "explanation": "A force from the side can redirect motion.\nHint: Steering effect.",
+    "structuredExplanation": {
+      "summary": "A force from the side can redirect motion.",
+      "hint": "Steering effect."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
   },
   {
-    "id": "AC9S1U03-T-001",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1U03",
+    "id": "ac9s1u03-t-007",
+    "curriculumCode": "AC9S1U03",
     "bank": "test",
-    "skill": "ac9s1u03_01",
-    "question": "Which action is a push on a toy car?",
-    "audio_prompt": "Which action is a push on a toy car?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-t-001",
-      "alt_text": "🖐️ push; 🚗 a toy car; ➡️ push the car away"
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "Which object changes shape most easily under a gentle squeeze?",
+    "audioPrompt": "Which object changes shape most easily under a gentle squeeze?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "push the car away",
+        "text": "glass block",
+        "is_correct": false
+      },
+      {
+        "text": "sponge",
         "is_correct": true
       },
       {
-        "text": "pull the car back with a string",
+        "text": "brick",
         "is_correct": false
       },
       {
-        "text": "watch it without touching it",
+        "text": "stone",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Push the car away applies a force away from the person or into the object.",
-      "hint": "A push moves something away or presses on it."
-    }
+    "correct": 1,
+    "explanation": "Sponge material deforms easily.\nHint: Soft material.",
+    "structuredExplanation": {
+      "summary": "Sponge material deforms easily.",
+      "hint": "Soft material."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
   },
   {
-    "id": "AC9S1U03-T-002",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1U03",
+    "id": "ac9s1u03-t-008",
+    "curriculumCode": "AC9S1U03",
     "bank": "test",
-    "skill": "ac9s1u03_02",
-    "question": "Which action is a pull on a toy car?",
-    "audio_prompt": "Which action is a pull on a toy car?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-t-002",
-      "alt_text": "⬅️ pull the car back with a string; 🚗 a toy car; ✋ pull"
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "A strong push sends a car 100 cm; gentle push sends it 45 cm. Best conclusion?",
+    "audioPrompt": "A strong push sends a car 100 cm; gentle push sends it 45 cm. Best conclusion?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "push the car away",
-        "is_correct": false
-      },
-      {
-        "text": "pull the car back with a string",
+        "text": "The stronger push moved this car farther in the test.",
         "is_correct": true
       },
       {
-        "text": "leave it still",
+        "text": "Strong pushes always move everything 55 cm farther.",
+        "is_correct": false
+      },
+      {
+        "text": "The car colour caused it.",
+        "is_correct": false
+      },
+      {
+        "text": "Gentle pushes are not forces.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Pull the car back with a string applies a pulling force.",
-      "hint": "A pull brings something closer or stretches it."
-    }
+    "correct": 0,
+    "explanation": "The conclusion stays within the measured evidence.\nHint: This test only.",
+    "structuredExplanation": {
+      "summary": "The conclusion stays within the measured evidence.",
+      "hint": "This test only."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
   },
   {
-    "id": "AC9S1U03-T-003",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1U03",
+    "id": "ac9s1u03-t-009",
+    "curriculumCode": "AC9S1U03",
     "bank": "test",
-    "skill": "ac9s1u03_03",
-    "question": "What may happen after a gentle force is used on a toy car?",
-    "audio_prompt": "What may happen after a gentle force is used on a toy car?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-t-003",
-      "alt_text": "🤏 gentle force; 🚗 a toy car; ➡️ travels a short distance"
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "Why repeat a force test?",
+    "audioPrompt": "Why repeat a force test?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "usually travels farther when the car and surface stay the same",
+        "text": "To force a favourite answer.",
         "is_correct": false
       },
       {
-        "text": "A gentle force must always have the same effect as a strong force.",
+        "text": "To change the first result.",
         "is_correct": false
       },
       {
-        "text": "travels a short distance",
+        "text": "To avoid measuring.",
+        "is_correct": false
+      },
+      {
+        "text": "To see whether the pattern appears again.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Travels a short distance is a possible effect of a gentle force.",
-      "hint": "Compare gentle and stronger forces while keeping the object and surface the same."
-    }
+    "correct": 3,
+    "explanation": "Repeats add evidence about consistency.\nHint: Check again.",
+    "structuredExplanation": {
+      "summary": "Repeats add evidence about consistency.",
+      "hint": "Check again."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
   },
   {
-    "id": "AC9S1U03-T-004",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1U03",
+    "id": "ac9s1u03-t-010",
+    "curriculumCode": "AC9S1U03",
     "bank": "test",
-    "skill": "ac9s1u03_04",
-    "question": "What may happen after a stronger force is used on a toy car?",
-    "audio_prompt": "What may happen after a stronger force is used on a toy car?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-t-004",
-      "alt_text": "💪 stronger force; 🚗 a toy car; ➡️ usually travels farther when the car and surface stay the same"
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "Which force opens a drawer toward you?",
+    "audioPrompt": "Which force opens a drawer toward you?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "usually travels farther when the car and surface stay the same",
+        "text": "no force",
+        "is_correct": false
+      },
+      {
+        "text": "friction only",
+        "is_correct": false
+      },
+      {
+        "text": "pull",
         "is_correct": true
       },
       {
-        "text": "travels a short distance",
-        "is_correct": false
-      },
-      {
-        "text": "The object must always break.",
+        "text": "push",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Usually travels farther when the car and surface stay the same is a careful comparison under the same conditions.",
-      "hint": "Use “usually” or “may”; a stronger force can change motion or shape."
-    }
+    "correct": 2,
+    "explanation": "Opening toward you requires pulling.\nHint: Toward.",
+    "structuredExplanation": {
+      "summary": "Opening toward you requires pulling.",
+      "hint": "Toward."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
   },
   {
-    "id": "AC9S1U03-T-005",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1U03",
+    "id": "ac9s1u03-t-011",
+    "curriculumCode": "AC9S1U03",
     "bank": "test",
-    "skill": "ac9s1u03_05",
-    "question": "Which statement describes a possible effect of force on a toy car?",
-    "audio_prompt": "Which statement describes a possible effect of force on a toy car?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-t-005",
-      "alt_text": "✋ force; 🚗 a toy car; 🔄 keeps its shape during rolling"
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "Which change shows deformation?",
+    "audioPrompt": "Which change shows deformation?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Forces can never change motion or shape.",
+        "text": "wagon moves forward",
         "is_correct": false
       },
       {
-        "text": "keeps its shape during rolling",
+        "text": "playdough becomes flatter",
         "is_correct": true
       },
       {
-        "text": "A force changes only colour, not motion or shape.",
+        "text": "ball rolls farther",
+        "is_correct": false
+      },
+      {
+        "text": "car turns left",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Keeps its shape during rolling describes an effect a force can have.",
-      "hint": "A force can start, stop, speed up, slow down, turn or change shape."
-    }
+    "correct": 1,
+    "explanation": "Flattening is a shape change.\nHint: Shape, not location.",
+    "structuredExplanation": {
+      "summary": "Flattening is a shape change.",
+      "hint": "Shape, not location."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
   },
   {
-    "id": "AC9S1U03-T-006",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1U03",
+    "id": "ac9s1u03-t-012",
+    "curriculumCode": "AC9S1U03",
     "bank": "test",
-    "skill": "ac9s1u03_06",
-    "question": "For a fair test of pushes on a toy car, what should stay the same?",
-    "audio_prompt": "For a fair test of pushes on a toy car, what should stay the same?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-t-006",
-      "alt_text": "🚗 a toy car; 🔒 carpet; ⚖️ fair test"
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "Which observation best compares motion?",
+    "audioPrompt": "Which observation best compares motion?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Change the object and surface every time.",
-        "is_correct": false
-      },
-      {
-        "text": "Keep only the result you like.",
-        "is_correct": false
-      },
-      {
-        "text": "Use the same a toy car and the same carpet.",
+        "text": "Car A travelled 70 cm; Car B travelled 40 cm.",
         "is_correct": true
+      },
+      {
+        "text": "Car A is green.",
+        "is_correct": false
+      },
+      {
+        "text": "Car B looks fast.",
+        "is_correct": false
+      },
+      {
+        "text": "Both are toys.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Using the same object and surface makes the push strength easier to compare.",
-      "hint": "Change the force, but keep other important conditions the same."
-    }
+    "correct": 0,
+    "explanation": "Measured distances directly compare motion.\nHint: Use distance evidence.",
+    "structuredExplanation": {
+      "summary": "Measured distances directly compare motion.",
+      "hint": "Use distance evidence."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 0
   },
   {
-    "id": "AC9S1U03-T-007",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1U03",
+    "id": "ac9s1u03-t-013",
+    "curriculumCode": "AC9S1U03",
     "bank": "test",
-    "skill": "ac9s1u03_07",
-    "question": "Which word names the push or pull used on a toy car?",
-    "audio_prompt": "Which word names the push or pull used on a toy car?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-t-007",
-      "alt_text": "➡️ push; ⬅️ pull; 💥 force"
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "What usually happens when friction is greater?",
+    "audioPrompt": "What usually happens when friction is greater?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "force",
+        "text": "Objects always speed up.",
+        "is_correct": false
+      },
+      {
+        "text": "Colour changes.",
+        "is_correct": false
+      },
+      {
+        "text": "Mass disappears.",
+        "is_correct": false
+      },
+      {
+        "text": "Motion slows more quickly.",
         "is_correct": true
-      },
-      {
-        "text": "movement",
-        "is_correct": false
-      },
-      {
-        "text": "speed",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "A force is a push or a pull that can affect motion or shape.",
-      "hint": "Think about what your hands apply when moving an object."
-    }
+    "correct": 3,
+    "explanation": "Friction opposes motion.\nHint: Resistance to sliding or rolling.",
+    "structuredExplanation": {
+      "summary": "Friction opposes motion.",
+      "hint": "Resistance to sliding or rolling."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 3
   },
   {
-    "id": "AC9S1U03-T-008",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1U03",
+    "id": "ac9s1u03-t-014",
+    "curriculumCode": "AC9S1U03",
     "bank": "test",
-    "skill": "ac9s1u03_08",
-    "question": "How should the effect of a push on a toy car be recorded?",
-    "audio_prompt": "How should the effect of a push on a toy car be recorded?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-t-008",
-      "alt_text": "✋ push; 🚗 a toy car; 📝 record effect"
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "Which is the fairest ramp test?",
+    "audioPrompt": "Which is the fairest ramp test?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Write only whether you liked it.",
+        "text": "Guess the distance.",
         "is_correct": false
       },
       {
-        "text": "Describe or measure the change in motion or shape.",
+        "text": "Use different start lines randomly.",
+        "is_correct": false
+      },
+      {
+        "text": "Same ball and surface, change only ramp height.",
         "is_correct": true
       },
       {
-        "text": "Change the observation to match the prediction.",
+        "text": "Change ball, surface and height.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "A useful record tells how far, how fast, which direction or how the shape changed.",
-      "hint": "Record what changed after the force."
-    }
+    "correct": 2,
+    "explanation": "Control other variables while changing one main factor.\nHint: Fair comparison.",
+    "structuredExplanation": {
+      "summary": "Control other variables while changing one main factor.",
+      "hint": "Fair comparison."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 2
   },
   {
-    "id": "AC9S1U03-T-009",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1U03",
+    "id": "ac9s1u03-t-015",
+    "curriculumCode": "AC9S1U03",
     "bank": "test",
-    "skill": "ac9s1u03_01",
-    "question": "Which action is a push on a ball of playdough?",
-    "audio_prompt": "Which action is a push on a ball of playdough?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-t-009",
-      "alt_text": "🖐️ push; 🟣 a ball of playdough; ➡️ press the playdough down"
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "A rubber band lengthens when pulled. What did the force change?",
+    "audioPrompt": "A rubber band lengthens when pulled. What did the force change?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "pull the playdough longer",
+        "text": "temperature only",
         "is_correct": false
       },
       {
-        "text": "watch it without touching it",
-        "is_correct": false
-      },
-      {
-        "text": "press the playdough down",
+        "text": "shape",
         "is_correct": true
+      },
+      {
+        "text": "colour",
+        "is_correct": false
+      },
+      {
+        "text": "material type",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Press the playdough down applies a force away from the person or into the object.",
-      "hint": "A push moves something away or presses on it."
-    }
+    "correct": 1,
+    "explanation": "The pull stretched the object.\nHint: Deformation.",
+    "structuredExplanation": {
+      "summary": "The pull stretched the object.",
+      "hint": "Deformation."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v6",
+    "curriculum_code": "AC9S1U03",
+    "year_level": "Year 1",
+    "subject": "science",
+    "correct_index": 1
   },
   {
-    "id": "AC9S1U03-T-010",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1U03",
+    "id": "ac9s1u03-t-016",
+    "curriculumCode": "AC9S1U03",
     "bank": "test",
-    "skill": "ac9s1u03_02",
-    "question": "Which action is a pull on a ball of playdough?",
-    "audio_prompt": "Which action is a pull on a ball of playdough?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-t-010",
-      "alt_text": "⬅️ pull the playdough longer; 🟣 a ball of playdough; ✋ pull"
+    "skill": "pushes and pulls",
+    "printable": true,
+    "type": "single",
+    "question": "Which example shows science in everyday forces?",
+    "audioPrompt": "Which example shows science in everyday forces?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "pull the playdough longer",
+        "text": "Testing how much push a trolley needs on different surfaces.",
         "is_correct": true
       },
       {
-        "text": "press the playdough down",
+        "text": "Choosing a trolley by favourite colour.",
         "is_correct": false
       },
       {
-        "text": "leave it still",
+        "text": "Ignoring motion.",
+        "is_correct": false
+      },
+      {
+        "text": "Guessing without trying.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Pull the playdough longer applies a pulling force.",
-      "hint": "A pull brings something closer or stretches it."
-    }
-  },
-  {
-    "id": "AC9S1U03-T-011",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1U03",
-    "bank": "test",
-    "skill": "ac9s1u03_03",
-    "question": "What may happen after a gentle force is used on a ball of playdough?",
-    "audio_prompt": "What may happen after a gentle force is used on a ball of playdough?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-t-011",
-      "alt_text": "🤏 gentle force; 🟣 a ball of playdough; ➡️ changes shape a little"
+    "correct": 0,
+    "explanation": "The first compares how forces and surfaces affect motion.\nHint: Observe and compare.",
+    "structuredExplanation": {
+      "summary": "The first compares how forces and surfaces affect motion.",
+      "hint": "Observe and compare."
     },
-    "answers": [
-      {
-        "text": "changes shape more",
-        "is_correct": false
-      },
-      {
-        "text": "changes shape a little",
-        "is_correct": true
-      },
-      {
-        "text": "A gentle force must always have the same effect as a strong force.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Changes shape a little is a possible effect of a gentle force.",
-      "hint": "Compare gentle and stronger forces while keeping the object and surface the same."
-    }
-  },
-  {
-    "id": "AC9S1U03-T-012",
-    "subject": "science",
-    "year_level": "Year 1",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v6",
     "curriculum_code": "AC9S1U03",
-    "bank": "test",
-    "skill": "ac9s1u03_04",
-    "question": "What may happen after a stronger force is used on a ball of playdough?",
-    "audio_prompt": "What may happen after a stronger force is used on a ball of playdough?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-t-012",
-      "alt_text": "💪 stronger force; 🟣 a ball of playdough; ➡️ changes shape more"
-    },
-    "answers": [
-      {
-        "text": "changes shape a little",
-        "is_correct": false
-      },
-      {
-        "text": "The object must always break.",
-        "is_correct": false
-      },
-      {
-        "text": "changes shape more",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Changes shape more is a careful comparison under the same conditions.",
-      "hint": "Use “usually” or “may”; a stronger force can change motion or shape."
-    }
-  },
-  {
-    "id": "AC9S1U03-T-013",
-    "subject": "science",
     "year_level": "Year 1",
-    "curriculum_code": "AC9S1U03",
-    "bank": "test",
-    "skill": "ac9s1u03_05",
-    "question": "Which statement describes a possible effect of force on a ball of playdough?",
-    "audio_prompt": "Which statement describes a possible effect of force on a ball of playdough?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-t-013",
-      "alt_text": "✋ force; 🟣 a ball of playdough; 🔄 changes shape when pushed, pulled or squeezed"
-    },
-    "answers": [
-      {
-        "text": "changes shape when pushed, pulled or squeezed",
-        "is_correct": true
-      },
-      {
-        "text": "Forces can never change motion or shape.",
-        "is_correct": false
-      },
-      {
-        "text": "A force changes only colour, not motion or shape.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Changes shape when pushed, pulled or squeezed describes an effect a force can have.",
-      "hint": "A force can start, stop, speed up, slow down, turn or change shape."
-    }
-  },
-  {
-    "id": "AC9S1U03-T-014",
     "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1U03",
-    "bank": "test",
-    "skill": "ac9s1u03_06",
-    "question": "For a fair test of pushes on a ball of playdough, what should stay the same?",
-    "audio_prompt": "For a fair test of pushes on a ball of playdough, what should stay the same?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-t-014",
-      "alt_text": "🟣 a ball of playdough; 🔒 a clean tray; ⚖️ fair test"
-    },
-    "answers": [
-      {
-        "text": "Change the object and surface every time.",
-        "is_correct": false
-      },
-      {
-        "text": "Use the same a ball of playdough and the same a clean tray.",
-        "is_correct": true
-      },
-      {
-        "text": "Keep only the result you like.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Using the same object and surface makes the push strength easier to compare.",
-      "hint": "Change the force, but keep other important conditions the same."
-    }
-  },
-  {
-    "id": "AC9S1U03-T-015",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1U03",
-    "bank": "test",
-    "skill": "ac9s1u03_07",
-    "question": "Which word names the push or pull used on a ball of playdough?",
-    "audio_prompt": "Which word names the push or pull used on a ball of playdough?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-t-015",
-      "alt_text": "➡️ push; ⬅️ pull; 💥 force"
-    },
-    "answers": [
-      {
-        "text": "movement",
-        "is_correct": false
-      },
-      {
-        "text": "speed",
-        "is_correct": false
-      },
-      {
-        "text": "force",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "A force is a push or a pull that can affect motion or shape.",
-      "hint": "Think about what your hands apply when moving an object."
-    }
-  },
-  {
-    "id": "AC9S1U03-T-016",
-    "subject": "science",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9S1U03",
-    "bank": "test",
-    "skill": "ac9s1u03_08",
-    "question": "How should the effect of a push on a ball of playdough be recorded?",
-    "audio_prompt": "How should the effect of a push on a ball of playdough be recorded?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1u03.svg#ac9s1u03-t-016",
-      "alt_text": "✋ push; 🟣 a ball of playdough; 📝 record effect"
-    },
-    "answers": [
-      {
-        "text": "Describe or measure the change in motion or shape.",
-        "is_correct": true
-      },
-      {
-        "text": "Write only whether you liked it.",
-        "is_correct": false
-      },
-      {
-        "text": "Change the observation to match the prediction.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "A useful record tells how far, how fast, which direction or how the shape changed.",
-      "hint": "Record what changed after the force."
-    }
+    "correct_index": 0
   }
 ]
