@@ -5,13 +5,13 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY11",
     "bank": "practice",
-    "skill": "learn_the_tricky_part_in_said_apply",
+    "stage": "recognise",
+    "skill": "learn_the_tricky_part_in_said_direct",
     "question": "Which strategy best helps spell said?",
     "audio_prompt": "Which strategy best helps spell said?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly11.svg#ac9e2ly11-p-001",
-      "alt_text": "Three-step Spelling Patterns and High-Frequency Words organiser. Read: Learn the tricky part in said. Notice: Use phonic knowledge. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
@@ -34,7 +34,8 @@
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 1,
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LY11-P-002",
@@ -42,55 +43,15 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY11",
     "bank": "practice",
-    "skill": "learn_the_tricky_part_in_said_reason",
-    "question": "A student answers “Write sed because the spoken sounds are enough to choose every letter.”. Which feedback helps? Task: Which strategy best helps spell said?",
-    "audio_prompt": "A student answers “Write sed because the spoken sounds are enough to choose every letter.”. Which feedback helps? Task: Which strategy best helps spell said?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly11.svg#ac9e2ly11-p-002",
-      "alt_text": "Three-step Spelling Patterns and High-Frequency Words organiser. Read: Learn the tricky part in said. Notice: Use phonic knowledge. Correct the student's mix-up using the full task."
-    },
-    "answers": [
-      {
-        "text": "Keep “Write sed because the spoken sounds are enough to choose every letter.”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “Copy said many times without noticing or recalling the tricky part.” instead; it sounds clearer.",
-        "is_correct": false
-      },
-      {
-        "text": "Separate the predictable parts from the tricky spelling part.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Separate the predictable parts from the tricky spelling part. Said has useful sound clues plus an unusual ai spelling that must be remembered.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E2LY11-P-003",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY11",
-    "bank": "practice",
-    "skill": "notice_the_tricky_part_in_was_apply",
+    "stage": "recognise",
+    "skill": "notice_the_tricky_part_in_was_direct",
     "question": "A student writes woz for was. What should the student remember?",
     "audio_prompt": "A student writes woz for was. What should the student remember?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly11.svg#ac9e2ly11-p-003",
-      "alt_text": "Three-step Spelling Patterns and High-Frequency Words organiser. Read: Notice the tricky part in was. Notice: Recognise spelling patterns. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      {
-        "text": "The word is spelled w-a-s even though the vowel sounds different.",
-        "is_correct": true
-      },
       {
         "text": "Keep woz because matching the spoken sounds is enough.",
         "is_correct": false
@@ -98,67 +59,41 @@
       {
         "text": "Change only the vowel and write wiz from the sounds.",
         "is_correct": false
+      },
+      {
+        "text": "The word is spelled w-a-s even though the vowel sounds different.",
+        "is_correct": true
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
       "summary": "Was is a high-frequency word with a less predictable vowel spelling.",
       "hint": "Keep the sounds you can map and practise the remembered letter pattern."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 2,
+    "quality_schema": "student-facing-v3"
   },
   {
-    "id": "AC9E2LY11-P-004",
+    "id": "AC9E2LY11-P-003",
     "subject": "english",
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY11",
     "bank": "practice",
-    "skill": "notice_the_tricky_part_in_was_reason",
-    "question": "A student answers “Change only the vowel and write wiz from the sounds.”. Which feedback helps? Task: A student writes woz for was. What should the student remember?",
-    "audio_prompt": "A student answers “Change only the vowel and write wiz from the sounds.”. Which feedback helps? Task: A student writes woz for was. What should the student remember?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly11.svg#ac9e2ly11-p-004",
-      "alt_text": "Three-step Spelling Patterns and High-Frequency Words organiser. Read: Notice the tricky part in was. Notice: Recognise spelling patterns. Correct the student's mix-up using the full task."
-    },
-    "answers": [
-      {
-        "text": "Keep “Change only the vowel and write wiz from the sounds.”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Keep the sounds you can map and practise the remembered letter pattern.",
-        "is_correct": true
-      },
-      {
-        "text": "Choose “Keep woz because matching the spoken sounds is enough.” instead; it sounds clearer.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Keep the sounds you can map and practise the remembered letter pattern. Was is a high-frequency word with a less predictable vowel spelling.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E2LY11-P-005",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY11",
-    "bank": "practice",
-    "skill": "use_a_known_pattern_in_they_apply",
+    "stage": "recognise",
+    "skill": "use_a_known_pattern_in_they_direct",
     "question": "Several children are ready. Which spelling correctly names the children at the start of the sentence?",
     "audio_prompt": "Several children are ready. Which spelling correctly names the children at the start of the sentence?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly11.svg#ac9e2ly11-p-005",
-      "alt_text": "Three-step Spelling Patterns and High-Frequency Words organiser. Read: Use a known pattern in they. Notice: Use morphemes. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
+      {
+        "text": "They",
+        "is_correct": true
+      },
       {
         "text": "Thay",
         "is_correct": false
@@ -166,69 +101,31 @@
       {
         "text": "Thea",
         "is_correct": false
-      },
-      {
-        "text": "They",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "They uses the less common ey pattern for the long a sound.",
-      "hint": "Recall the whole familiar word and check its ending letters."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E2LY11-P-006",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY11",
-    "bank": "practice",
-    "skill": "use_a_known_pattern_in_they_reason",
-    "question": "A student answers “Thay”. Which feedback helps? Task: Several children are ready. Which spelling correctly names the children at the start of the sentence?",
-    "audio_prompt": "A student answers “Thay”. Which feedback helps? Task: Several children are ready. Which spelling correctly names the children at the start of the sentence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly11.svg#ac9e2ly11-p-006",
-      "alt_text": "Three-step Spelling Patterns and High-Frequency Words organiser. Read: Use a known pattern in they. Notice: Use morphemes. Correct the student's mix-up using the full task."
-    },
-    "answers": [
-      {
-        "text": "Recall the whole familiar word and check its ending letters.",
-        "is_correct": true
-      },
-      {
-        "text": "Keep “Thay”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “Thea” instead; it sounds clearer.",
-        "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Recall the whole familiar word and check its ending letters. They uses the less common ey pattern for the long a sound.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "They uses the less common ey pattern for the long a sound.",
+      "hint": "Recall the whole familiar word and check its ending letters."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 3,
+    "quality_schema": "student-facing-v3"
   },
   {
-    "id": "AC9E2LY11-P-007",
+    "id": "AC9E2LY11-P-004",
     "subject": "english",
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY11",
     "bank": "practice",
-    "skill": "use_a_base_and_suffix_apply",
+    "stage": "recognise",
+    "skill": "use_a_base_and_suffix_direct",
     "question": "Which word is built from help plus the suffix ful?",
     "audio_prompt": "Which word is built from help plus the suffix ful?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly11.svg#ac9e2ly11-p-007",
-      "alt_text": "Three-step Spelling Patterns and High-Frequency Words organiser. Read: Use a base and suffix. Notice: Learn tricky parts. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
@@ -251,63 +148,24 @@
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 4,
+    "quality_schema": "student-facing-v3"
   },
   {
-    "id": "AC9E2LY11-P-008",
+    "id": "AC9E2LY11-P-005",
     "subject": "english",
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY11",
     "bank": "practice",
-    "skill": "use_a_base_and_suffix_reason",
-    "question": "A student answers “helmet”. Which feedback helps? Task: Which word is built from help plus the suffix ful?",
-    "audio_prompt": "A student answers “helmet”. Which feedback helps? Task: Which word is built from help plus the suffix ful?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly11.svg#ac9e2ly11-p-008",
-      "alt_text": "Three-step Spelling Patterns and High-Frequency Words organiser. Read: Use a base and suffix. Notice: Learn tricky parts. Correct the student's mix-up using the full task."
-    },
-    "answers": [
-      {
-        "text": "Keep “helmet”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “helping” instead; it sounds clearer.",
-        "is_correct": false
-      },
-      {
-        "text": "Find the word containing the complete base and requested suffix.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Find the word containing the complete base and requested suffix. Helpful keeps the meaningful base help and adds ful, meaning full of.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E2LY11-P-009",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY11",
-    "bank": "practice",
-    "skill": "find_the_base_in_jumping_apply",
+    "stage": "recognise",
+    "skill": "find_the_base_in_jumping_direct",
     "question": "Which base word helps spell jumping?",
     "audio_prompt": "Which base word helps spell jumping?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly11.svg#ac9e2ly11-p-009",
-      "alt_text": "Three-step Spelling Patterns and High-Frequency Words organiser. Read: Find the base in jumping. Notice: Spell high-frequency words. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      {
-        "text": "jump",
-        "is_correct": true
-      },
       {
         "text": "jum",
         "is_correct": false
@@ -315,68 +173,41 @@
       {
         "text": "ping",
         "is_correct": false
+      },
+      {
+        "text": "jump",
+        "is_correct": true
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
       "summary": "Jumping keeps the base jump and adds the suffix ing.",
       "hint": "Remove the ending ing and check the meaningful word that remains."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 5,
+    "quality_schema": "student-facing-v3"
   },
   {
-    "id": "AC9E2LY11-P-010",
+    "id": "AC9E2LY11-P-006",
     "subject": "english",
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY11",
     "bank": "practice",
-    "skill": "find_the_base_in_jumping_reason",
-    "question": "A student answers “jum”. Which feedback helps? Task: Which base word helps spell jumping?",
-    "audio_prompt": "A student answers “jum”. Which feedback helps? Task: Which base word helps spell jumping?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly11.svg#ac9e2ly11-p-010",
-      "alt_text": "Three-step Spelling Patterns and High-Frequency Words organiser. Read: Find the base in jumping. Notice: Spell high-frequency words. Correct the student's mix-up using the full task."
-    },
-    "answers": [
-      {
-        "text": "Keep “jum”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Remove the ending ing and check the meaningful word that remains.",
-        "is_correct": true
-      },
-      {
-        "text": "Choose “ping” instead; it sounds clearer.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Remove the ending ing and check the meaningful word that remains. Jumping keeps the base jump and adds the suffix ing.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E2LY11-P-011",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY11",
-    "bank": "practice",
-    "skill": "spell_a_past_action_word_apply",
+    "stage": "recognise",
+    "skill": "spell_a_past_action_word_direct",
     "question": "Which spelling names what we did in the park yesterday and correctly combines play plus ed?",
     "audio_prompt": "Which spelling names what we did in the park yesterday and correctly combines play plus ed?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly11.svg#ac9e2ly11-p-011",
-      "alt_text": "Three-step Spelling Patterns and High-Frequency Words organiser. Read: Spell a past-action word. Notice: Use phonic knowledge. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
+      {
+        "text": "played",
+        "is_correct": true
+      },
       {
         "text": "playd",
         "is_correct": false
@@ -384,70 +215,31 @@
       {
         "text": "plaied",
         "is_correct": false
-      },
-      {
-        "text": "played",
-        "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
       "summary": "Played keeps the base play and adds the past-tense suffix ed.",
       "hint": "Use the familiar base word before adding the ending."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 6,
+    "quality_schema": "student-facing-v3"
   },
   {
-    "id": "AC9E2LY11-P-012",
+    "id": "AC9E2LY11-P-007",
     "subject": "english",
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY11",
     "bank": "practice",
-    "skill": "spell_a_past_action_word_reason",
-    "question": "A student answers “plaied”. Which feedback helps? Task: Which spelling names what we did in the park yesterday and correctly combines play plus ed?",
-    "audio_prompt": "A student answers “plaied”. Which feedback helps? Task: Which spelling names what we did in the park yesterday and correctly combines play plus ed?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly11.svg#ac9e2ly11-p-012",
-      "alt_text": "Three-step Spelling Patterns and High-Frequency Words organiser. Read: Spell a past-action word. Notice: Use phonic knowledge. Correct the student's mix-up using the full task."
-    },
-    "answers": [
-      {
-        "text": "Use the familiar base word before adding the ending.",
-        "is_correct": true
-      },
-      {
-        "text": "Keep “plaied”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “playd” instead; it sounds clearer.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Use the familiar base word before adding the ending. Played keeps the base play and adds the past-tense suffix ed.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E2LY11-P-013",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY11",
-    "bank": "practice",
-    "skill": "practise_an_analysed_word_apply",
+    "stage": "recognise",
+    "skill": "practise_an_analysed_word_direct",
     "question": "After noticing the tricky letters in friend, which practice is most useful?",
     "audio_prompt": "After noticing the tricky letters in friend, which practice is most useful?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly11.svg#ac9e2ly11-p-013",
-      "alt_text": "Three-step Spelling Patterns and High-Frequency Words organiser. Read: Practise an analysed word. Notice: Recognise spelling patterns. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
@@ -468,64 +260,26 @@
       "summary": "Focused recall and checking strengthen memory for the less predictable ie spelling.",
       "hint": "Practise retrieving the whole word and then compare it with the model."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 7,
+    "quality_schema": "student-facing-v3"
   },
   {
-    "id": "AC9E2LY11-P-014",
+    "id": "AC9E2LY11-P-008",
     "subject": "english",
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY11",
     "bank": "practice",
-    "skill": "practise_an_analysed_word_reason",
-    "question": "A student answers “Copy friend many times while looking at it, without testing memory.”. Which feedback helps? Task: After noticing the tricky letters in friend, which practice is most useful?",
-    "audio_prompt": "A student answers “Copy friend many times while looking at it, without testing memory.”. Which feedback helps? Task: After noticing the tricky letters in friend, which practice is most useful?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly11.svg#ac9e2ly11-p-014",
-      "alt_text": "Three-step Spelling Patterns and High-Frequency Words organiser. Read: Practise an analysed word. Notice: Recognise spelling patterns. Correct the student's mix-up using the full task."
-    },
-    "answers": [
-      {
-        "text": "Keep “Copy friend many times while looking at it, without testing memory.”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “Practise only the sound-based spelling frend and do not compare it.” instead; it sounds clearer.",
-        "is_correct": false
-      },
-      {
-        "text": "Practise retrieving the whole word and then compare it with the model.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Practise retrieving the whole word and then compare it with the model. Focused recall and checking strengthen memory for the less predictable ie spelling.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E2LY11-P-015",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY11",
-    "bank": "practice",
-    "skill": "notice_parts_in_come_apply",
+    "stage": "recognise",
+    "skill": "notice_parts_in_come_direct",
     "question": "A student spells come as cum. Which part of come needs special attention?",
     "audio_prompt": "A student spells come as cum. Which part of come needs special attention?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly11.svg#ac9e2ly11-p-015",
-      "alt_text": "Three-step Spelling Patterns and High-Frequency Words organiser. Read: Notice parts in come. Notice: Use morphemes. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      {
-        "text": "the written o and final silent e",
-        "is_correct": true
-      },
       {
         "text": "a double m in the middle",
         "is_correct": false
@@ -533,67 +287,41 @@
       {
         "text": "a silent c at the start",
         "is_correct": false
+      },
+      {
+        "text": "the written o and final silent e",
+        "is_correct": true
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
       "summary": "Come contains an o and final e that are not fully predictable from the spoken sounds.",
       "hint": "Compare the known written word with the sound-based attempt."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 8,
+    "quality_schema": "student-facing-v3"
   },
   {
-    "id": "AC9E2LY11-P-016",
+    "id": "AC9E2LY11-P-009",
     "subject": "english",
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY11",
     "bank": "practice",
-    "skill": "notice_parts_in_come_reason",
-    "question": "A student answers “a silent c at the start”. Which feedback helps? Task: A student spells come as cum. Which part of come needs special attention?",
-    "audio_prompt": "A student answers “a silent c at the start”. Which feedback helps? Task: A student spells come as cum. Which part of come needs special attention?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly11.svg#ac9e2ly11-p-016",
-      "alt_text": "Three-step Spelling Patterns and High-Frequency Words organiser. Read: Notice parts in come. Notice: Use morphemes. Correct the student's mix-up using the full task."
-    },
-    "answers": [
-      {
-        "text": "Keep “a silent c at the start”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Compare the known written word with the sound-based attempt.",
-        "is_correct": true
-      },
-      {
-        "text": "Choose “a double m in the middle” instead; it sounds clearer.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Compare the known written word with the sound-based attempt. Come contains an o and final e that are not fully predictable from the spoken sounds.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E2LY11-P-017",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY11",
-    "bank": "practice",
-    "skill": "use_a_word_family_pattern_apply",
+    "stage": "recognise",
+    "skill": "use_a_word_family_pattern_direct",
     "question": "Which pair shares a spelling pattern that can help a reader?",
     "audio_prompt": "Which pair shares a spelling pattern that can help a reader?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly11.svg#ac9e2ly11-p-017",
-      "alt_text": "Three-step Spelling Patterns and High-Frequency Words organiser. Read: Use a word family pattern. Notice: Learn tricky parts. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
+      {
+        "text": "light and night",
+        "is_correct": true
+      },
       {
         "text": "light and little",
         "is_correct": false
@@ -601,70 +329,31 @@
       {
         "text": "night and nest",
         "is_correct": false
-      },
-      {
-        "text": "light and night",
-        "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
       "summary": "Light and night share the ight pattern and its long i sound.",
       "hint": "Look for the same meaningful sound-letter pattern, not just one letter."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 9,
+    "quality_schema": "student-facing-v3"
   },
   {
-    "id": "AC9E2LY11-P-018",
+    "id": "AC9E2LY11-P-010",
     "subject": "english",
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY11",
     "bank": "practice",
-    "skill": "use_a_word_family_pattern_reason",
-    "question": "A student answers “light and little”. Which feedback helps? Task: Which pair shares a spelling pattern that can help a reader?",
-    "audio_prompt": "A student answers “light and little”. Which feedback helps? Task: Which pair shares a spelling pattern that can help a reader?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly11.svg#ac9e2ly11-p-018",
-      "alt_text": "Three-step Spelling Patterns and High-Frequency Words organiser. Read: Use a word family pattern. Notice: Learn tricky parts. Correct the student's mix-up using the full task."
-    },
-    "answers": [
-      {
-        "text": "Look for the same meaningful sound-letter pattern, not just one letter.",
-        "is_correct": true
-      },
-      {
-        "text": "Keep “light and little”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “night and nest” instead; it sounds clearer.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Look for the same meaningful sound-letter pattern, not just one letter. Light and night share the ight pattern and its long i sound.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E2LY11-P-019",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY11",
-    "bank": "practice",
-    "skill": "keep_the_base_in_looked_apply",
+    "stage": "recognise",
+    "skill": "keep_the_base_in_looked_direct",
     "question": "Which spelling correctly combines look and ed?",
     "audio_prompt": "Which spelling correctly combines look and ed?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly11.svg#ac9e2ly11-p-019",
-      "alt_text": "Three-step Spelling Patterns and High-Frequency Words organiser. Read: Keep the base in looked. Notice: Spell high-frequency words. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
@@ -687,7 +376,350 @@
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 10,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY11-P-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY11",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "learn_the_tricky_part_in_said_explain",
+    "question": "Which strategy best helps spell said? Why is “Map the sounds, then remember that ai represents the middle sound.” the best answer?",
+    "audio_prompt": "Which strategy best helps spell said? Why is “Map the sounds, then remember that ai represents the middle sound.” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “Write sed because the spoken sounds are enough to choose every letter.”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "Said has useful sound clues plus an unusual ai spelling that must be remembered.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Said has useful sound clues plus an unusual ai spelling that must be remembered.",
+      "hint": "Separate the predictable parts from the tricky spelling part."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 11,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY11-P-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY11",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "notice_the_tricky_part_in_was_explain",
+    "question": "A student writes woz for was. What should the student remember? Why is “The word is spelled w-a-s even though the vowel sounds different.” the best answer?",
+    "audio_prompt": "A student writes woz for was. What should the student remember? Why is “The word is spelled w-a-s even though the vowel sounds different.” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Was is a high-frequency word with a less predictable vowel spelling.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best only because it is longer than “Keep woz because matching the spoken sounds is enough.”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Was is a high-frequency word with a less predictable vowel spelling.",
+      "hint": "Keep the sounds you can map and practise the remembered letter pattern."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 12,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY11-P-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY11",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "use_a_known_pattern_in_they_explain",
+    "question": "Several children are ready. Which spelling correctly names the children at the start of the sentence? Why is “They” the best answer?",
+    "audio_prompt": "Several children are ready. Which spelling correctly names the children at the start of the sentence? Why is “They” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “Thay”.",
+        "is_correct": false
+      },
+      {
+        "text": "They uses the less common ey pattern for the long a sound.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "They uses the less common ey pattern for the long a sound.",
+      "hint": "Recall the whole familiar word and check its ending letters."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 13,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY11-P-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY11",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "use_a_base_and_suffix_explain",
+    "question": "Which word is built from help plus the suffix ful? Why is “helpful” the best answer?",
+    "audio_prompt": "Which word is built from help plus the suffix ful? Why is “helpful” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “helping”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "Helpful keeps the meaningful base help and adds ful, meaning full of.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Helpful keeps the meaningful base help and adds ful, meaning full of.",
+      "hint": "Find the word containing the complete base and requested suffix."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 14,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY11-P-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY11",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "find_the_base_in_jumping_explain",
+    "question": "Which base word helps spell jumping? Why is “jump” the best answer?",
+    "audio_prompt": "Which base word helps spell jumping? Why is “jump” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Jumping keeps the base jump and adds the suffix ing.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best only because it is longer than “jum”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Jumping keeps the base jump and adds the suffix ing.",
+      "hint": "Remove the ending ing and check the meaningful word that remains."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 15,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY11-P-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY11",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "spell_a_past_action_word_explain",
+    "question": "Which spelling names what we did in the park yesterday and correctly combines play plus ed? Why is “played” the best answer?",
+    "audio_prompt": "Which spelling names what we did in the park yesterday and correctly combines play plus ed? Why is “played” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “playd”.",
+        "is_correct": false
+      },
+      {
+        "text": "Played keeps the base play and adds the past-tense suffix ed.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Played keeps the base play and adds the past-tense suffix ed.",
+      "hint": "Use the familiar base word before adding the ending."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 16,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY11-P-017",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY11",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "practise_an_analysed_word_explain",
+    "question": "After noticing the tricky letters in friend, which practice is most useful? Why is “Say the word, name the tricky ie part, cover it, write it and check.” the best answer?",
+    "audio_prompt": "After noticing the tricky letters in friend, which practice is most useful? Why is “Say the word, name the tricky ie part, cover it, write it and check.” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “Copy friend many times while looking at it, without testing memory.”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "Focused recall and checking strengthen memory for the less predictable ie spelling.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Focused recall and checking strengthen memory for the less predictable ie spelling.",
+      "hint": "Practise retrieving the whole word and then compare it with the model."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 17,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY11-P-018",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY11",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "notice_parts_in_come_explain",
+    "question": "A student spells come as cum. Which part of come needs special attention? Why is “the written o and final silent e” the best answer?",
+    "audio_prompt": "A student spells come as cum. Which part of come needs special attention? Why is “the written o and final silent e” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Come contains an o and final e that are not fully predictable from the spoken sounds.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best only because it is longer than “a double m in the middle”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Come contains an o and final e that are not fully predictable from the spoken sounds.",
+      "hint": "Compare the known written word with the sound-based attempt."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 18,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY11-P-019",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY11",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "use_a_word_family_pattern_explain",
+    "question": "Which pair shares a spelling pattern that can help a reader? Why is “light and night” the best answer?",
+    "audio_prompt": "Which pair shares a spelling pattern that can help a reader? Why is “light and night” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “light and little”.",
+        "is_correct": false
+      },
+      {
+        "text": "Light and night share the ight pattern and its long i sound.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Light and night share the ight pattern and its long i sound.",
+      "hint": "Look for the same meaningful sound-letter pattern, not just one letter."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 19,
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LY11-P-020",
@@ -695,35 +727,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY11",
     "bank": "practice",
-    "skill": "keep_the_base_in_looked_reason",
-    "question": "A student answers “luked”. Which feedback helps? Task: Which spelling correctly combines look and ed?",
-    "audio_prompt": "A student answers “luked”. Which feedback helps? Task: Which spelling correctly combines look and ed?",
+    "stage": "explain",
+    "skill": "keep_the_base_in_looked_explain",
+    "question": "Which spelling correctly combines look and ed? Why is “looked” the best answer?",
+    "audio_prompt": "Which spelling correctly combines look and ed? Why is “looked” the best answer?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly11.svg#ac9e2ly11-p-020",
-      "alt_text": "Three-step Spelling Patterns and High-Frequency Words organiser. Read: Keep the base in looked. Notice: Spell high-frequency words. Correct the student's mix-up using the full task."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Keep “luked”; it uses a detail that sounds familiar.",
+        "text": "It is best only because it is longer than “lookt”.",
         "is_correct": false
       },
       {
-        "text": "Choose “lookt” instead; it sounds clearer.",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       },
       {
-        "text": "Write the known base first, then add the ending.",
+        "text": "Looked keeps the familiar base look and adds the suffix ed.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Write the known base first, then add the ending. Looked keeps the familiar base look and adds the suffix ed.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Looked keeps the familiar base look and adds the suffix ed.",
+      "hint": "Write the known base first, then add the ending."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 20,
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LY11-P-021",
@@ -731,36 +765,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY11",
     "bank": "practice",
-    "skill": "spell_high_frequency_one_apply",
-    "question": "Which spelling means a single blue pencil?",
-    "audio_prompt": "Which spelling means a single blue pencil?",
+    "stage": "discriminate",
+    "skill": "use_a_known_pattern_in_they_discriminate",
+    "question": "Several children are ready. Which spelling correctly names the children at the start of the sentence? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Several children are ready. Which spelling correctly names the children at the start of the sentence? Which response is the clearest mix-up to avoid?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly11.svg#ac9e2ly11-p-021",
-      "alt_text": "Three-step Spelling Patterns and High-Frequency Words organiser. Read: Spell high-frequency one. Notice: Use phonic knowledge. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "one",
+        "text": "Thay",
         "is_correct": true
       },
       {
-        "text": "wun",
+        "text": "They",
         "is_correct": false
       },
       {
-        "text": "won",
+        "text": "Thea",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "One is a high-frequency word with a spelling that must be remembered beyond sound alone.",
-      "hint": "Use the meaning single and recall the familiar written word."
+      "summary": "“Thay” is the mix-up to avoid. Recall the whole familiar word and check its ending letters.",
+      "hint": "Recall the whole familiar word and check its ending letters."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 21,
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LY11-P-022",
@@ -768,35 +803,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY11",
     "bank": "practice",
-    "skill": "spell_high_frequency_one_reason",
-    "question": "A student answers “wun”. Which feedback helps? Task: Which spelling means a single blue pencil?",
-    "audio_prompt": "A student answers “wun”. Which feedback helps? Task: Which spelling means a single blue pencil?",
+    "stage": "discriminate",
+    "skill": "use_a_base_and_suffix_discriminate",
+    "question": "Which word is built from help plus the suffix ful? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Which word is built from help plus the suffix ful? Which response is the clearest mix-up to avoid?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly11.svg#ac9e2ly11-p-022",
-      "alt_text": "Three-step Spelling Patterns and High-Frequency Words organiser. Read: Spell high-frequency one. Notice: Use phonic knowledge. Correct the student's mix-up using the full task."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Keep “wun”; it uses a detail that sounds familiar.",
+        "text": "helpful",
         "is_correct": false
       },
       {
-        "text": "Use the meaning single and recall the familiar written word.",
+        "text": "helping",
         "is_correct": true
       },
       {
-        "text": "Choose “won” instead; it sounds clearer.",
+        "text": "helmet",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the meaning single and recall the familiar written word. One is a high-frequency word with a spelling that must be remembered beyond sound alone.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "“helping” is the mix-up to avoid. Find the word containing the complete base and requested suffix.",
+      "hint": "Find the word containing the complete base and requested suffix."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "application",
+    "sequence_priority": 22,
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LY11-P-023",
@@ -804,36 +841,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY11",
     "bank": "practice",
-    "skill": "use_morpheme_replay_apply",
-    "question": "Which spelling correctly combines re and play to mean play again?",
-    "audio_prompt": "Which spelling correctly combines re and play to mean play again?",
+    "stage": "discriminate",
+    "skill": "find_the_base_in_jumping_discriminate",
+    "question": "Which base word helps spell jumping? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Which base word helps spell jumping? Which response is the clearest mix-up to avoid?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly11.svg#ac9e2ly11-p-023",
-      "alt_text": "Three-step Spelling Patterns and High-Frequency Words organiser. Read: Use morpheme replay. Notice: Recognise spelling patterns. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "reeplay",
+        "text": "jump",
         "is_correct": false
       },
       {
-        "text": "repla",
+        "text": "ping",
         "is_correct": false
       },
       {
-        "text": "replay",
+        "text": "jum",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Replay keeps the base play and adds the prefix re.",
-      "hint": "Write both meaningful parts in their familiar forms."
+      "summary": "“jum” is the mix-up to avoid. Remove the ending ing and check the meaningful word that remains.",
+      "hint": "Remove the ending ing and check the meaningful word that remains."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 23,
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LY11-P-024",
@@ -841,35 +879,645 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY11",
     "bank": "practice",
-    "skill": "use_morpheme_replay_reason",
-    "question": "A student answers “repla”. Which feedback helps? Task: Which spelling correctly combines re and play to mean play again?",
-    "audio_prompt": "A student answers “repla”. Which feedback helps? Task: Which spelling correctly combines re and play to mean play again?",
+    "stage": "discriminate",
+    "skill": "spell_a_past_action_word_discriminate",
+    "question": "Which spelling names what we did in the park yesterday and correctly combines play plus ed? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Which spelling names what we did in the park yesterday and correctly combines play plus ed? Which response is the clearest mix-up to avoid?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly11.svg#ac9e2ly11-p-024",
-      "alt_text": "Three-step Spelling Patterns and High-Frequency Words organiser. Read: Use morpheme replay. Notice: Recognise spelling patterns. Correct the student's mix-up using the full task."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Write both meaningful parts in their familiar forms.",
+        "text": "playd",
         "is_correct": true
       },
       {
-        "text": "Keep “repla”; it uses a detail that sounds familiar.",
+        "text": "played",
         "is_correct": false
       },
       {
-        "text": "Choose “reeplay” instead; it sounds clearer.",
+        "text": "plaied",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Write both meaningful parts in their familiar forms. Replay keeps the base play and adds the prefix re.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "“playd” is the mix-up to avoid. Use the familiar base word before adding the ending.",
+      "hint": "Use the familiar base word before adding the ending."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "application",
+    "sequence_priority": 24,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY11-P-025",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY11",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "practise_an_analysed_word_discriminate",
+    "question": "After noticing the tricky letters in friend, which practice is most useful? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "After noticing the tricky letters in friend, which practice is most useful? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Say the word, name the tricky ie part, cover it, write it and check.",
+        "is_correct": false
+      },
+      {
+        "text": "Copy friend many times while looking at it, without testing memory.",
+        "is_correct": true
+      },
+      {
+        "text": "Practise only the sound-based spelling frend and do not compare it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“Copy friend many times while looking at it, without testing memory.” is the mix-up to avoid. Practise retrieving the whole word and then compare it with the model.",
+      "hint": "Practise retrieving the whole word and then compare it with the model."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 25,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY11-P-026",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY11",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "notice_parts_in_come_discriminate",
+    "question": "A student spells come as cum. Which part of come needs special attention? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "A student spells come as cum. Which part of come needs special attention? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "the written o and final silent e",
+        "is_correct": false
+      },
+      {
+        "text": "a silent c at the start",
+        "is_correct": false
+      },
+      {
+        "text": "a double m in the middle",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“a double m in the middle” is the mix-up to avoid. Compare the known written word with the sound-based attempt.",
+      "hint": "Compare the known written word with the sound-based attempt."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 26,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY11-P-027",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY11",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "use_a_word_family_pattern_discriminate",
+    "question": "Which pair shares a spelling pattern that can help a reader? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Which pair shares a spelling pattern that can help a reader? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "light and little",
+        "is_correct": true
+      },
+      {
+        "text": "light and night",
+        "is_correct": false
+      },
+      {
+        "text": "night and nest",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“light and little” is the mix-up to avoid. Look for the same meaningful sound-letter pattern, not just one letter.",
+      "hint": "Look for the same meaningful sound-letter pattern, not just one letter."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 27,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY11-P-028",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY11",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "keep_the_base_in_looked_discriminate",
+    "question": "Which spelling correctly combines look and ed? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Which spelling correctly combines look and ed? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "looked",
+        "is_correct": false
+      },
+      {
+        "text": "lookt",
+        "is_correct": true
+      },
+      {
+        "text": "luked",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“lookt” is the mix-up to avoid. Write the known base first, then add the ending.",
+      "hint": "Write the known base first, then add the ending."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 28,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY11-P-029",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY11",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "spell_high_frequency_one_discriminate",
+    "question": "Which spelling means a single blue pencil? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Which spelling means a single blue pencil? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "one",
+        "is_correct": false
+      },
+      {
+        "text": "won",
+        "is_correct": false
+      },
+      {
+        "text": "wun",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“wun” is the mix-up to avoid. Use the meaning single and recall the familiar written word.",
+      "hint": "Use the meaning single and recall the familiar written word."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 29,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY11-P-030",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY11",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "use_morpheme_replay_discriminate",
+    "question": "Which spelling correctly combines re and play to mean play again? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Which spelling correctly combines re and play to mean play again? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "reeplay",
+        "is_correct": true
+      },
+      {
+        "text": "replay",
+        "is_correct": false
+      },
+      {
+        "text": "repla",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“reeplay” is the mix-up to avoid. Write both meaningful parts in their familiar forms.",
+      "hint": "Write both meaningful parts in their familiar forms."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 30,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY11-P-031",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "use_a_known_pattern_in_they_apply",
+    "question": "Use this clue: Recall the whole familiar word and check its ending letters. Several children are ready. Which spelling correctly names the children at the start of the sentence?",
+    "audio_prompt": "Use this clue: Recall the whole familiar word and check its ending letters. Several children are ready. Which spelling correctly names the children at the start of the sentence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Thea",
+        "is_correct": false
+      },
+      {
+        "text": "They",
+        "is_correct": true
+      },
+      {
+        "text": "Thay",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "They uses the less common ey pattern for the long a sound.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 31,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY11-P-032",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "use_a_base_and_suffix_apply",
+    "question": "Use this clue: Find the word containing the complete base and requested suffix. Which word is built from help plus the suffix ful?",
+    "audio_prompt": "Use this clue: Find the word containing the complete base and requested suffix. Which word is built from help plus the suffix ful?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "helmet",
+        "is_correct": false
+      },
+      {
+        "text": "helping",
+        "is_correct": false
+      },
+      {
+        "text": "helpful",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Helpful keeps the meaningful base help and adds ful, meaning full of.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 32,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY11-P-033",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "find_the_base_in_jumping_apply",
+    "question": "Use this clue: Remove the ending ing and check the meaningful word that remains. Which base word helps spell jumping?",
+    "audio_prompt": "Use this clue: Remove the ending ing and check the meaningful word that remains. Which base word helps spell jumping?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "jump",
+        "is_correct": true
+      },
+      {
+        "text": "ping",
+        "is_correct": false
+      },
+      {
+        "text": "jum",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Jumping keeps the base jump and adds the suffix ing.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 33,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY11-P-034",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "spell_a_past_action_word_apply",
+    "question": "Use this clue: Use the familiar base word before adding the ending. Which spelling names what we did in the park yesterday and correctly combines play plus ed?",
+    "audio_prompt": "Use this clue: Use the familiar base word before adding the ending. Which spelling names what we did in the park yesterday and correctly combines play plus ed?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "plaied",
+        "is_correct": false
+      },
+      {
+        "text": "played",
+        "is_correct": true
+      },
+      {
+        "text": "playd",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Played keeps the base play and adds the past-tense suffix ed.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 34,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY11-P-035",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "practise_an_analysed_word_apply",
+    "question": "Use this clue: Practise retrieving the whole word and then compare it with the model. After noticing the tricky letters in friend, which practice is most useful?",
+    "audio_prompt": "Use this clue: Practise retrieving the whole word and then compare it with the model. After noticing the tricky letters in friend, which practice is most useful?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Practise only the sound-based spelling frend and do not compare it.",
+        "is_correct": false
+      },
+      {
+        "text": "Copy friend many times while looking at it, without testing memory.",
+        "is_correct": false
+      },
+      {
+        "text": "Say the word, name the tricky ie part, cover it, write it and check.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Focused recall and checking strengthen memory for the less predictable ie spelling.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 35,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY11-P-036",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "notice_parts_in_come_apply",
+    "question": "Use this clue: Compare the known written word with the sound-based attempt. A student spells come as cum. Which part of come needs special attention?",
+    "audio_prompt": "Use this clue: Compare the known written word with the sound-based attempt. A student spells come as cum. Which part of come needs special attention?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "the written o and final silent e",
+        "is_correct": true
+      },
+      {
+        "text": "a silent c at the start",
+        "is_correct": false
+      },
+      {
+        "text": "a double m in the middle",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Come contains an o and final e that are not fully predictable from the spoken sounds.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 36,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY11-P-037",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "use_a_word_family_pattern_apply",
+    "question": "Use this clue: Look for the same meaningful sound-letter pattern, not just one letter. Which pair shares a spelling pattern that can help a reader?",
+    "audio_prompt": "Use this clue: Look for the same meaningful sound-letter pattern, not just one letter. Which pair shares a spelling pattern that can help a reader?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "night and nest",
+        "is_correct": false
+      },
+      {
+        "text": "light and night",
+        "is_correct": true
+      },
+      {
+        "text": "light and little",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Light and night share the ight pattern and its long i sound.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 37,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY11-P-038",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "keep_the_base_in_looked_apply",
+    "question": "Use this clue: Write the known base first, then add the ending. Which spelling correctly combines look and ed?",
+    "audio_prompt": "Use this clue: Write the known base first, then add the ending. Which spelling correctly combines look and ed?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "luked",
+        "is_correct": false
+      },
+      {
+        "text": "lookt",
+        "is_correct": false
+      },
+      {
+        "text": "looked",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Looked keeps the familiar base look and adds the suffix ed.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 38,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY11-P-039",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "spell_high_frequency_one_apply",
+    "question": "Use this clue: Use the meaning single and recall the familiar written word. Which spelling means a single blue pencil?",
+    "audio_prompt": "Use this clue: Use the meaning single and recall the familiar written word. Which spelling means a single blue pencil?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "one",
+        "is_correct": true
+      },
+      {
+        "text": "won",
+        "is_correct": false
+      },
+      {
+        "text": "wun",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "One is a high-frequency word with a spelling that must be remembered beyond sound alone.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 39,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY11-P-040",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "use_morpheme_replay_apply",
+    "question": "Use this clue: Write both meaningful parts in their familiar forms. Which spelling correctly combines re and play to mean play again?",
+    "audio_prompt": "Use this clue: Write both meaningful parts in their familiar forms. Which spelling correctly combines re and play to mean play again?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "repla",
+        "is_correct": false
+      },
+      {
+        "text": "replay",
+        "is_correct": true
+      },
+      {
+        "text": "reeplay",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Replay keeps the base play and adds the prefix re.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 40,
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LY11-T-001",
@@ -877,13 +1525,13 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY11",
     "bank": "test",
-    "skill": "test_silent_l_in_could_apply",
+    "stage": "verify",
+    "skill": "test_silent_l_in_could_direct",
     "question": "A student writes cud for could. Which part must be remembered?",
     "audio_prompt": "A student writes cud for could. Which part must be remembered?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly11.svg#ac9e2ly11-t-001",
-      "alt_text": "Three-step Spelling Patterns and High-Frequency Words organiser. Read: silent l in could. Notice: Use phonic knowledge. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
@@ -903,7 +1551,11 @@
     "explanation": {
       "summary": "Could contains spelling information that cannot be recovered from sound alone.",
       "hint": "Compare the spoken word with every letter in the known spelling."
-    }
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 1,
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LY11-T-002",
@@ -911,53 +1563,15 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY11",
     "bank": "test",
-    "skill": "test_silent_l_in_could_reason",
-    "question": "A student answers “a double final d”. Which feedback helps? Task: A student writes cud for could. Which part must be remembered?",
-    "audio_prompt": "A student answers “a double final d”. Which feedback helps? Task: A student writes cud for could. Which part must be remembered?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly11.svg#ac9e2ly11-t-002",
-      "alt_text": "Three-step Spelling Patterns and High-Frequency Words organiser. Read: silent l in could. Notice: Use phonic knowledge. Correct the student's mix-up using the full task."
-    },
-    "answers": [
-      {
-        "text": "Keep “a double final d”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “a silent c at the beginning” instead; it sounds clearer.",
-        "is_correct": false
-      },
-      {
-        "text": "Compare the spoken word with every letter in the known spelling.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Compare the spoken word with every letter in the known spelling. Could contains spelling information that cannot be recovered from sound alone.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
-  },
-  {
-    "id": "AC9E2LY11-T-003",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY11",
-    "bank": "test",
-    "skill": "test_high_frequency_word_because_apply",
+    "stage": "verify",
+    "skill": "test_high_frequency_word_because_direct",
     "question": "Which common word means for the reason that when explaining why we stayed inside?",
     "audio_prompt": "Which common word means for the reason that when explaining why we stayed inside?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly11.svg#ac9e2ly11-t-003",
-      "alt_text": "Three-step Spelling Patterns and High-Frequency Words organiser. Read: high-frequency word because. Notice: Recognise spelling patterns. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      {
-        "text": "because",
-        "is_correct": true
-      },
       {
         "text": "becos",
         "is_correct": false
@@ -965,63 +1579,41 @@
       {
         "text": "becawz",
         "is_correct": false
+      },
+      {
+        "text": "because",
+        "is_correct": true
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
       "summary": "Because is a common word whose conventional spelling needs pattern and memory knowledge.",
       "hint": "Recall the familiar written form, then check every letter group."
-    }
-  },
-  {
-    "id": "AC9E2LY11-T-004",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY11",
-    "bank": "test",
-    "skill": "test_high_frequency_word_because_reason",
-    "question": "A student answers “becawz”. Which feedback helps? Task: Which common word means for the reason that when explaining why we stayed inside?",
-    "audio_prompt": "A student answers “becawz”. Which feedback helps? Task: Which common word means for the reason that when explaining why we stayed inside?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly11.svg#ac9e2ly11-t-004",
-      "alt_text": "Three-step Spelling Patterns and High-Frequency Words organiser. Read: high-frequency word because. Notice: Recognise spelling patterns. Correct the student's mix-up using the full task."
     },
-    "answers": [
-      {
-        "text": "Keep “becawz”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Recall the familiar written form, then check every letter group.",
-        "is_correct": true
-      },
-      {
-        "text": "Choose “becos” instead; it sounds clearer.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Recall the familiar written form, then check every letter group. Because is a common word whose conventional spelling needs pattern and memory knowledge.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 2,
+    "quality_schema": "student-facing-v3"
   },
   {
-    "id": "AC9E2LY11-T-005",
+    "id": "AC9E2LY11-T-003",
     "subject": "english",
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY11",
     "bank": "test",
-    "skill": "test_tricky_letters_in_people_apply",
+    "stage": "verify",
+    "skill": "test_tricky_letters_in_people_direct",
     "question": "Which spelling correctly names more than one person?",
     "audio_prompt": "Which spelling correctly names more than one person?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly11.svg#ac9e2ly11-t-005",
-      "alt_text": "Three-step Spelling Patterns and High-Frequency Words organiser. Read: tricky letters in people. Notice: Use morphemes. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
+      {
+        "text": "people",
+        "is_correct": true
+      },
       {
         "text": "peeple",
         "is_correct": false
@@ -1029,65 +1621,31 @@
       {
         "text": "pepole",
         "is_correct": false
-      },
-      {
-        "text": "people",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "People uses the less predictable middle letters eo and the ending le.",
-      "hint": "Recall the familiar whole word, then check the middle and ending letters."
-    }
-  },
-  {
-    "id": "AC9E2LY11-T-006",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY11",
-    "bank": "test",
-    "skill": "test_tricky_letters_in_people_reason",
-    "question": "A student answers “peeple”. Which feedback helps? Task: Which spelling correctly names more than one person?",
-    "audio_prompt": "A student answers “peeple”. Which feedback helps? Task: Which spelling correctly names more than one person?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly11.svg#ac9e2ly11-t-006",
-      "alt_text": "Three-step Spelling Patterns and High-Frequency Words organiser. Read: tricky letters in people. Notice: Use morphemes. Correct the student's mix-up using the full task."
-    },
-    "answers": [
-      {
-        "text": "Recall the familiar whole word, then check the middle and ending letters.",
-        "is_correct": true
-      },
-      {
-        "text": "Keep “peeple”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “pepole” instead; it sounds clearer.",
-        "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Recall the familiar whole word, then check the middle and ending letters. People uses the less predictable middle letters eo and the ending le.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+      "summary": "People uses the less predictable middle letters eo and the ending le.",
+      "hint": "Recall the familiar whole word, then check the middle and ending letters."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 3,
+    "quality_schema": "student-facing-v3"
   },
   {
-    "id": "AC9E2LY11-T-007",
+    "id": "AC9E2LY11-T-004",
     "subject": "english",
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY11",
     "bank": "test",
-    "skill": "test_morpheme_meaning_apply",
+    "stage": "verify",
+    "skill": "test_morpheme_meaning_direct",
     "question": "The word unhappy contains un plus happy. How does un help the reader?",
     "audio_prompt": "The word unhappy contains un plus happy. How does un help the reader?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly11.svg#ac9e2ly11-t-007",
-      "alt_text": "Three-step Spelling Patterns and High-Frequency Words organiser. Read: morpheme meaning. Notice: Learn tricky parts. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
@@ -1107,61 +1665,27 @@
     "explanation": {
       "summary": "Recognising the prefix supports both the spelling and meaning of unhappy.",
       "hint": "Use the meaningful word parts rather than treating the word as random letters."
-    }
-  },
-  {
-    "id": "AC9E2LY11-T-008",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY11",
-    "bank": "test",
-    "skill": "test_morpheme_meaning_reason",
-    "question": "A student answers “It adds the meaning full of to the base word happy.”. Which feedback helps? Task: The word unhappy contains un plus happy. How does un help the reader?",
-    "audio_prompt": "A student answers “It adds the meaning full of to the base word happy.”. Which feedback helps? Task: The word unhappy contains un plus happy. How does un help the reader?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly11.svg#ac9e2ly11-t-008",
-      "alt_text": "Three-step Spelling Patterns and High-Frequency Words organiser. Read: morpheme meaning. Notice: Learn tricky parts. Correct the student's mix-up using the full task."
     },
-    "answers": [
-      {
-        "text": "Keep “It adds the meaning full of to the base word happy.”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “It adds the meaning again to the base word happy.” instead; it sounds clearer.",
-        "is_correct": false
-      },
-      {
-        "text": "Use the meaningful word parts rather than treating the word as random letters.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Use the meaningful word parts rather than treating the word as random letters. Recognising the prefix supports both the spelling and meaning of unhappy.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 4,
+    "quality_schema": "student-facing-v3"
   },
   {
-    "id": "AC9E2LY11-T-009",
+    "id": "AC9E2LY11-T-005",
     "subject": "english",
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY11",
     "bank": "test",
-    "skill": "test_plural_morpheme_apply",
+    "stage": "verify",
+    "skill": "test_plural_morpheme_direct",
     "question": "Which spelling shows more than one dog by adding the suffix s?",
     "audio_prompt": "Which spelling shows more than one dog by adding the suffix s?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly11.svg#ac9e2ly11-t-009",
-      "alt_text": "Three-step Spelling Patterns and High-Frequency Words organiser. Read: plural morpheme. Notice: Spell high-frequency words. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      {
-        "text": "dogs",
-        "is_correct": true
-      },
       {
         "text": "dogz",
         "is_correct": false
@@ -1169,63 +1693,41 @@
       {
         "text": "doges",
         "is_correct": false
+      },
+      {
+        "text": "dogs",
+        "is_correct": true
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
       "summary": "Dogs keeps the base dog and adds the plural morpheme s.",
       "hint": "Start with the complete base word, then add the needed suffix."
-    }
-  },
-  {
-    "id": "AC9E2LY11-T-010",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY11",
-    "bank": "test",
-    "skill": "test_plural_morpheme_reason",
-    "question": "A student answers “dogz”. Which feedback helps? Task: Which spelling shows more than one dog by adding the suffix s?",
-    "audio_prompt": "A student answers “dogz”. Which feedback helps? Task: Which spelling shows more than one dog by adding the suffix s?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly11.svg#ac9e2ly11-t-010",
-      "alt_text": "Three-step Spelling Patterns and High-Frequency Words organiser. Read: plural morpheme. Notice: Spell high-frequency words. Correct the student's mix-up using the full task."
     },
-    "answers": [
-      {
-        "text": "Keep “dogz”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Start with the complete base word, then add the needed suffix.",
-        "is_correct": true
-      },
-      {
-        "text": "Choose “doges” instead; it sounds clearer.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Start with the complete base word, then add the needed suffix. Dogs keeps the base dog and adds the plural morpheme s.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 5,
+    "quality_schema": "student-facing-v3"
   },
   {
-    "id": "AC9E2LY11-T-011",
+    "id": "AC9E2LY11-T-006",
     "subject": "english",
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY11",
     "bank": "test",
-    "skill": "test_choose_a_study_method_apply",
+    "stage": "verify",
+    "skill": "test_choose_a_study_method_direct",
     "question": "Mila keeps misspelling were. Which plan is strongest?",
     "audio_prompt": "Mila keeps misspelling were. Which plan is strongest?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly11.svg#ac9e2ly11-t-011",
-      "alt_text": "Three-step Spelling Patterns and High-Frequency Words organiser. Read: choose a study method. Notice: Use phonic knowledge. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
+      {
+        "text": "Mark the tricky part, say the word, write it from memory and check it.",
+        "is_correct": true
+      },
       {
         "text": "Copy were while the model stays visible and never test memory.",
         "is_correct": false
@@ -1233,65 +1735,31 @@
       {
         "text": "Practise only the sound-based spelling wur without checking the word.",
         "is_correct": false
-      },
-      {
-        "text": "Mark the tricky part, say the word, write it from memory and check it.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Analysing, recalling and checking targets the exact high-frequency word.",
-      "hint": "Use a routine that makes the tricky spelling visible and tests memory."
-    }
-  },
-  {
-    "id": "AC9E2LY11-T-012",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY11",
-    "bank": "test",
-    "skill": "test_choose_a_study_method_reason",
-    "question": "A student answers “Practise only the sound-based spelling wur without checking the word.”. Which feedback helps? Task: Mila keeps misspelling were. Which plan is strongest?",
-    "audio_prompt": "A student answers “Practise only the sound-based spelling wur without checking the word.”. Which feedback helps? Task: Mila keeps misspelling were. Which plan is strongest?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly11.svg#ac9e2ly11-t-012",
-      "alt_text": "Three-step Spelling Patterns and High-Frequency Words organiser. Read: choose a study method. Notice: Use phonic knowledge. Correct the student's mix-up using the full task."
-    },
-    "answers": [
-      {
-        "text": "Use a routine that makes the tricky spelling visible and tests memory.",
-        "is_correct": true
-      },
-      {
-        "text": "Keep “Practise only the sound-based spelling wur without checking the word.”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “Copy were while the model stays visible and never test memory.” instead; it sounds clearer.",
-        "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use a routine that makes the tricky spelling visible and tests memory. Analysing, recalling and checking targets the exact high-frequency word.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+      "summary": "Analysing, recalling and checking targets the exact high-frequency word.",
+      "hint": "Use a routine that makes the tricky spelling visible and tests memory."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 6,
+    "quality_schema": "student-facing-v3"
   },
   {
-    "id": "AC9E2LY11-T-013",
+    "id": "AC9E2LY11-T-007",
     "subject": "english",
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY11",
     "bank": "test",
-    "skill": "test_choose_one_or_won_apply",
+    "stage": "verify",
+    "skill": "test_choose_one_or_won_direct",
     "question": "Our team was the winner of the game. Which word tells what the team did?",
     "audio_prompt": "Our team was the winner of the game. Which word tells what the team did?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly11.svg#ac9e2ly11-t-013",
-      "alt_text": "Three-step Spelling Patterns and High-Frequency Words organiser. Read: choose one or won. Notice: Recognise spelling patterns. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
@@ -1311,61 +1779,27 @@
     "explanation": {
       "summary": "Won is the past form of win; one is the number word with the same sound.",
       "hint": "Use sentence meaning to choose between words that sound alike."
-    }
-  },
-  {
-    "id": "AC9E2LY11-T-014",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LY11",
-    "bank": "test",
-    "skill": "test_choose_one_or_won_reason",
-    "question": "A student answers “one”. Which feedback helps? Task: Our team was the winner of the game. Which word tells what the team did?",
-    "audio_prompt": "A student answers “one”. Which feedback helps? Task: Our team was the winner of the game. Which word tells what the team did?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly11.svg#ac9e2ly11-t-014",
-      "alt_text": "Three-step Spelling Patterns and High-Frequency Words organiser. Read: choose one or won. Notice: Recognise spelling patterns. Correct the student's mix-up using the full task."
     },
-    "answers": [
-      {
-        "text": "Keep “one”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “wun” instead; it sounds clearer.",
-        "is_correct": false
-      },
-      {
-        "text": "Use sentence meaning to choose between words that sound alike.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Use sentence meaning to choose between words that sound alike. Won is the past form of win; one is the number word with the same sound.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 7,
+    "quality_schema": "student-facing-v3"
   },
   {
-    "id": "AC9E2LY11-T-015",
+    "id": "AC9E2LY11-T-008",
     "subject": "english",
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY11",
     "bank": "test",
-    "skill": "test_spell_every_apply",
+    "stage": "verify",
+    "skill": "test_spell_every_direct",
     "question": "A student writes evry. Which conventional spelling is correct?",
     "audio_prompt": "A student writes evry. Which conventional spelling is correct?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly11.svg#ac9e2ly11-t-015",
-      "alt_text": "Three-step Spelling Patterns and High-Frequency Words organiser. Read: spell every. Notice: Use morphemes. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      {
-        "text": "every",
-        "is_correct": true
-      },
       {
         "text": "everry",
         "is_correct": false
@@ -1373,13 +1807,287 @@
       {
         "text": "evrey",
         "is_correct": false
+      },
+      {
+        "text": "every",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Every is a high-frequency word whose middle spelling needs to be remembered.",
+      "hint": "Recall the familiar letter order and check the whole word visually."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 8,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY11-T-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY11",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "test_silent_l_in_could_test-reason",
+    "question": "A student writes cud for could. Which part must be remembered? Which reason best supports the correct choice?",
+    "audio_prompt": "A student writes cud for could. Which part must be remembered? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Could contains spelling information that cannot be recovered from sound alone.",
+        "is_correct": true
+      },
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Every is a high-frequency word whose middle spelling needs to be remembered.",
-      "hint": "Recall the familiar letter order and check the whole word visually."
-    }
+      "summary": "Could contains spelling information that cannot be recovered from sound alone.",
+      "hint": "Compare the spoken word with every letter in the known spelling."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 9,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY11-T-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY11",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "test_high_frequency_word_because_test-reason",
+    "question": "Which common word means for the reason that when explaining why we stayed inside? Which reason best supports the correct choice?",
+    "audio_prompt": "Which common word means for the reason that when explaining why we stayed inside? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "Because is a common word whose conventional spelling needs pattern and memory knowledge.",
+        "is_correct": true
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Because is a common word whose conventional spelling needs pattern and memory knowledge.",
+      "hint": "Recall the familiar written form, then check every letter group."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 10,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY11-T-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY11",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "test_tricky_letters_in_people_test-reason",
+    "question": "Which spelling correctly names more than one person? Which reason best supports the correct choice?",
+    "audio_prompt": "Which spelling correctly names more than one person? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "People uses the less predictable middle letters eo and the ending le.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "People uses the less predictable middle letters eo and the ending le.",
+      "hint": "Recall the familiar whole word, then check the middle and ending letters."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 11,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY11-T-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY11",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "test_morpheme_meaning_test-reason",
+    "question": "The word unhappy contains un plus happy. How does un help the reader? Which reason best supports the correct choice?",
+    "audio_prompt": "The word unhappy contains un plus happy. How does un help the reader? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Recognising the prefix supports both the spelling and meaning of unhappy.",
+        "is_correct": true
+      },
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Recognising the prefix supports both the spelling and meaning of unhappy.",
+      "hint": "Use the meaningful word parts rather than treating the word as random letters."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 12,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY11-T-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY11",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "test_plural_morpheme_test-reason",
+    "question": "Which spelling shows more than one dog by adding the suffix s? Which reason best supports the correct choice?",
+    "audio_prompt": "Which spelling shows more than one dog by adding the suffix s? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "Dogs keeps the base dog and adds the plural morpheme s.",
+        "is_correct": true
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Dogs keeps the base dog and adds the plural morpheme s.",
+      "hint": "Start with the complete base word, then add the needed suffix."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 13,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY11-T-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY11",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "test_choose_a_study_method_test-reason",
+    "question": "Mila keeps misspelling were. Which plan is strongest? Which reason best supports the correct choice?",
+    "audio_prompt": "Mila keeps misspelling were. Which plan is strongest? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "Analysing, recalling and checking targets the exact high-frequency word.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Analysing, recalling and checking targets the exact high-frequency word.",
+      "hint": "Use a routine that makes the tricky spelling visible and tests memory."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 14,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LY11-T-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY11",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "test_choose_one_or_won_test-reason",
+    "question": "Our team was the winner of the game. Which word tells what the team did? Which reason best supports the correct choice?",
+    "audio_prompt": "Our team was the winner of the game. Which word tells what the team did? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Won is the past form of win; one is the number word with the same sound.",
+        "is_correct": true
+      },
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Won is the past form of win; one is the number word with the same sound.",
+      "hint": "Use sentence meaning to choose between words that sound alike."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 15,
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LY11-T-016",
@@ -1387,32 +2095,36 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LY11",
     "bank": "test",
-    "skill": "test_spell_every_reason",
-    "question": "A student answers “evrey”. Which feedback helps? Task: A student writes evry. Which conventional spelling is correct?",
-    "audio_prompt": "A student answers “evrey”. Which feedback helps? Task: A student writes evry. Which conventional spelling is correct?",
+    "stage": "apply",
+    "skill": "test_spell_every_test-reason",
+    "question": "A student writes evry. Which conventional spelling is correct? Which reason best supports the correct choice?",
+    "audio_prompt": "A student writes evry. Which conventional spelling is correct? Which reason best supports the correct choice?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly11.svg#ac9e2ly11-t-016",
-      "alt_text": "Three-step Spelling Patterns and High-Frequency Words organiser. Read: spell every. Notice: Use morphemes. Correct the student's mix-up using the full task."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Keep “evrey”; it uses a detail that sounds familiar.",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "Recall the familiar letter order and check the whole word visually.",
+        "text": "Every is a high-frequency word whose middle spelling needs to be remembered.",
         "is_correct": true
       },
       {
-        "text": "Choose “everry” instead; it sounds clearer.",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Recall the familiar letter order and check the whole word visually. Every is a high-frequency word whose middle spelling needs to be remembered.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+      "summary": "Every is a high-frequency word whose middle spelling needs to be remembered.",
+      "hint": "Recall the familiar letter order and check the whole word visually."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 16,
+    "quality_schema": "student-facing-v3"
   }
 ]

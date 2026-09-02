@@ -1,0 +1,24 @@
+{
+  "code": "AC9E2LA04",
+  "title": "Pronouns and Cohesion",
+  "practice": 40,
+  "test": 16,
+  "items": 56,
+  "progression": [
+    "recognise",
+    "explain",
+    "discriminate",
+    "apply"
+  ],
+  "practiceSourceExamples": 12,
+  "testOnlySourceExamples": 8,
+  "qualitySchema": "student-facing-v3",
+  "source": "20 authored Year 2 curriculum-specific examples per code",
+  "fixes": [
+    "Practice rebuilt from direct age-appropriate examples rather than curriculum-label prompts.",
+    "Practice progresses from recognition to explanation, misconception discrimination and application.",
+    "Test uses the eight test-only authored source examples, separate from the twelve practice source examples.",
+    "Feedback explains the evidence or clue that makes an answer work.",
+    "Classroom View is not generated or modified by this rebuild."
+  ]
+}

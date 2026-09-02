@@ -4,23 +4,25 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly02-p-001",
     "curriculumCode": "AC9E2LY02",
     "bank": "practice",
-    "skill": "respond to a partner apply",
+    "skill": "respond to a partner direct",
     "printable": true,
     "type": "single",
     "question": "Lina says, ‘The class garden needs more shade.’ Which reply shows active listening?",
     "audioPrompt": "Lina says, ‘The class garden needs more shade.’ Which reply shows active listening?",
-    "visual": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Respond to a partner. Notice: Listen actively. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Listening, Speaking and Giving Instructions organiser. Read: Respond to a partner. Notice: Listen actively. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-001\"></use></svg>",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-001",
-      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Respond to a partner. Notice: Listen actively. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       "Gardens have plants, and shade cloth comes in many colours.",
       "I agree because the seedlings dried out. We could add a shade cloth.",
       "No, the garden is fine, so we do not need to discuss your idea."
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 1,
     "explanation": "The reply connects to Lina's point, gives a reason and extends the idea.\nHint: Choose a response that uses what the partner actually said.",
     "structuredExplanation": {
@@ -33,53 +35,26 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly02-p-002",
     "curriculumCode": "AC9E2LY02",
     "bank": "practice",
-    "skill": "respond to a partner reason",
-    "printable": true,
-    "type": "single",
-    "question": "A student answers “Gardens have plants, and shade cloth comes in many colours.”. Which feedback helps? Task: Lina says, ‘The class garden needs more shade.’ Which reply shows active listening?",
-    "audioPrompt": "A student answers “Gardens have plants, and shade cloth comes in many colours.”. Which feedback helps? Task: Lina says, ‘The class garden needs more shade.’ Which reply shows active listening?",
-    "visual": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Respond to a partner. Notice: Listen actively. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Listening, Speaking and Giving Instructions organiser. Read: Respond to a partner. Notice: Listen actively. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-002\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-002",
-      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Respond to a partner. Notice: Listen actively. Correct the student's mix-up using the full task."
-    },
-    "answers": [
-      "Keep “Gardens have plants, and shade cloth comes in many colours.”; it uses a detail that sounds familiar.",
-      "Choose “No, the garden is fine, so we do not need to discuss your idea.” instead; it sounds clearer.",
-      "Choose a response that uses what the partner actually said."
-    ],
-    "correct": 2,
-    "explanation": "Choose a response that uses what the partner actually said. The reply connects to Lina's point, gives a reason and extends the idea.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
-    "structuredExplanation": {
-      "summary": "Choose a response that uses what the partner actually said. The reply connects to Lina's point, gives a reason and extends the idea.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2ly02-p-003",
-    "curriculumCode": "AC9E2LY02",
-    "bank": "practice",
-    "skill": "paraphrase an instruction apply",
+    "skill": "paraphrase an instruction direct",
     "printable": true,
     "type": "single",
     "question": "The teacher says, ‘Collect a tray, choose three leaves, then sit with your group.’ Which reply checks understanding?",
     "audioPrompt": "The teacher says, ‘Collect a tray, choose three leaves, then sit with your group.’ Which reply checks understanding?",
-    "visual": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Paraphrase an instruction. Notice: Respond relevantly. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Listening, Speaking and Giving Instructions organiser. Read: Paraphrase an instruction. Notice: Respond relevantly. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-003\"></use></svg>",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-003",
-      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Paraphrase an instruction. Notice: Respond relevantly. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "So I collect a tray and three leaves before joining my group?",
       "I will do something with leaves later.",
-      "I heard the word group, so I can skip the other steps."
+      "I heard the word group, so I can skip the other steps.",
+      "So I collect a tray and three leaves before joining my group?"
     ],
-    "correct": 0,
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 2,
+    "correct": 2,
     "explanation": "The reply restates the important steps in order and asks for confirmation.\nHint: Listen for every action and its order.",
     "structuredExplanation": {
       "summary": "The reply restates the important steps in order and asks for confirmation.",
@@ -88,56 +63,29 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e2ly02-p-004",
+    "id": "ac9e2ly02-p-003",
     "curriculumCode": "AC9E2LY02",
     "bank": "practice",
-    "skill": "paraphrase an instruction reason",
-    "printable": true,
-    "type": "single",
-    "question": "A student answers “I heard the word group, so I can skip the other steps.”. Which feedback helps? Task: The teacher says, ‘Collect a tray, choose three leaves, then sit with your group.’ Which reply checks understanding?",
-    "audioPrompt": "A student answers “I heard the word group, so I can skip the other steps.”. Which feedback helps? Task: The teacher says, ‘Collect a tray, choose three leaves, then sit with your group.’ Which reply checks understanding?",
-    "visual": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Paraphrase an instruction. Notice: Respond relevantly. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Listening, Speaking and Giving Instructions organiser. Read: Paraphrase an instruction. Notice: Respond relevantly. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-004\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-004",
-      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Paraphrase an instruction. Notice: Respond relevantly. Correct the student's mix-up using the full task."
-    },
-    "answers": [
-      "Keep “I heard the word group, so I can skip the other steps.”; it uses a detail that sounds familiar.",
-      "Listen for every action and its order.",
-      "Choose “I will do something with leaves later.” instead; it sounds clearer."
-    ],
-    "correct": 1,
-    "explanation": "Listen for every action and its order. The reply restates the important steps in order and asks for confirmation.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
-    "structuredExplanation": {
-      "summary": "Listen for every action and its order. The reply restates the important steps in order and asks for confirmation.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2ly02-p-005",
-    "curriculumCode": "AC9E2LY02",
-    "bank": "practice",
-    "skill": "respectful disagreement apply",
+    "skill": "respectful disagreement direct",
     "printable": true,
     "type": "single",
     "question": "Sam says the story should end at the cave. Which response disagrees respectfully?",
     "audioPrompt": "Sam says the story should end at the cave. Which response disagrees respectfully?",
-    "visual": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Respectful disagreement. Notice: Express opinions. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Listening, Speaking and Giving Instructions organiser. Read: Respectful disagreement. Notice: Express opinions. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-005\"></use></svg>",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-005",
-      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Respectful disagreement. Notice: Express opinions. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
+      "I think it should continue because the lost map has not been found.",
       "That is a terrible idea.",
-      "You are wrong, and I will not explain.",
-      "I think it should continue because the lost map has not been found."
+      "You are wrong, and I will not explain."
     ],
-    "correct": 2,
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 3,
+    "correct": 0,
     "explanation": "The response states a different opinion and supports it without insulting Sam.\nHint: Look for a calm disagreement with a relevant reason.",
     "structuredExplanation": {
       "summary": "The response states a different opinion and supports it without insulting Sam.",
@@ -146,55 +94,28 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e2ly02-p-006",
+    "id": "ac9e2ly02-p-004",
     "curriculumCode": "AC9E2LY02",
     "bank": "practice",
-    "skill": "respectful disagreement reason",
-    "printable": true,
-    "type": "single",
-    "question": "A student answers “That is a terrible idea.”. Which feedback helps? Task: Sam says the story should end at the cave. Which response disagrees respectfully?",
-    "audioPrompt": "A student answers “That is a terrible idea.”. Which feedback helps? Task: Sam says the story should end at the cave. Which response disagrees respectfully?",
-    "visual": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Respectful disagreement. Notice: Express opinions. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Listening, Speaking and Giving Instructions organiser. Read: Respectful disagreement. Notice: Express opinions. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-006",
-      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Respectful disagreement. Notice: Express opinions. Correct the student's mix-up using the full task."
-    },
-    "answers": [
-      "Look for a calm disagreement with a relevant reason.",
-      "Keep “That is a terrible idea.”; it uses a detail that sounds familiar.",
-      "Choose “You are wrong, and I will not explain.” instead; it sounds clearer."
-    ],
-    "correct": 0,
-    "explanation": "Look for a calm disagreement with a relevant reason. The response states a different opinion and supports it without insulting Sam.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
-    "structuredExplanation": {
-      "summary": "Look for a calm disagreement with a relevant reason. The response states a different opinion and supports it without insulting Sam.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2ly02-p-007",
-    "curriculumCode": "AC9E2LY02",
-    "bank": "practice",
-    "skill": "order oral instructions apply",
+    "skill": "order oral instructions direct",
     "printable": true,
     "type": "single",
     "question": "Which instruction clearly explains how to plant a seed?",
     "audioPrompt": "Which instruction clearly explains how to plant a seed?",
-    "visual": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Order oral instructions. Notice: Extend ideas. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Listening, Speaking and Giving Instructions organiser. Read: Order oral instructions. Notice: Extend ideas. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-007\"></use></svg>",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-007",
-      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Order oral instructions. Notice: Extend ideas. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       "First water the empty pot, then add the seed, then find some soil.",
       "First fill the pot, next place the seed, then cover and water it.",
       "Fill the pot and add the seed; cover or water it sometime later."
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 4,
     "correct": 1,
     "explanation": "The clear instruction uses precise actions in a logical order.\nHint: Choose steps another person could follow without guessing.",
     "structuredExplanation": {
@@ -204,56 +125,29 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e2ly02-p-008",
+    "id": "ac9e2ly02-p-005",
     "curriculumCode": "AC9E2LY02",
     "bank": "practice",
-    "skill": "order oral instructions reason",
-    "printable": true,
-    "type": "single",
-    "question": "A student answers “Fill the pot and add the seed; cover or water it sometime later.”. Which feedback helps? Task: Which instruction clearly explains how to plant a seed?",
-    "audioPrompt": "A student answers “Fill the pot and add the seed; cover or water it sometime later.”. Which feedback helps? Task: Which instruction clearly explains how to plant a seed?",
-    "visual": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Order oral instructions. Notice: Extend ideas. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Listening, Speaking and Giving Instructions organiser. Read: Order oral instructions. Notice: Extend ideas. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-008\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-008",
-      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Order oral instructions. Notice: Extend ideas. Correct the student's mix-up using the full task."
-    },
-    "answers": [
-      "Keep “Fill the pot and add the seed; cover or water it sometime later.”; it uses a detail that sounds familiar.",
-      "Choose “First water the empty pot, then add the seed, then find some soil.” instead; it sounds clearer.",
-      "Choose steps another person could follow without guessing."
-    ],
-    "correct": 2,
-    "explanation": "Choose steps another person could follow without guessing. The clear instruction uses precise actions in a logical order.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
-    "structuredExplanation": {
-      "summary": "Choose steps another person could follow without guessing. The clear instruction uses precise actions in a logical order.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2ly02-p-009",
-    "curriculumCode": "AC9E2LY02",
-    "bank": "practice",
-    "skill": "clarify a missing detail apply",
+    "skill": "clarify a missing detail direct",
     "printable": true,
     "type": "single",
     "question": "A partner says, ‘Put it over there.’ What is the most useful question?",
     "audioPrompt": "A partner says, ‘Put it over there.’ What is the most useful question?",
-    "visual": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Clarify a missing detail. Notice: Give clear instructions. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Listening, Speaking and Giving Instructions organiser. Read: Clarify a missing detail. Notice: Give clear instructions. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-009\"></use></svg>",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-009",
-      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Clarify a missing detail. Notice: Give clear instructions. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Which book should I put on which shelf?",
       "Which shelf has the tallest books?",
-      "Should I put all the books somewhere on these shelves?"
+      "Should I put all the books somewhere on these shelves?",
+      "Which book should I put on which shelf?"
     ],
-    "correct": 0,
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 5,
+    "correct": 2,
     "explanation": "The question asks for the missing object and location.\nHint: Identify exactly what the unclear words fail to tell you.",
     "structuredExplanation": {
       "summary": "The question asks for the missing object and location.",
@@ -262,56 +156,29 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e2ly02-p-010",
+    "id": "ac9e2ly02-p-006",
     "curriculumCode": "AC9E2LY02",
     "bank": "practice",
-    "skill": "clarify a missing detail reason",
-    "printable": true,
-    "type": "single",
-    "question": "A student answers “Which shelf has the tallest books?”. Which feedback helps? Task: A partner says, ‘Put it over there.’ What is the most useful question?",
-    "audioPrompt": "A student answers “Which shelf has the tallest books?”. Which feedback helps? Task: A partner says, ‘Put it over there.’ What is the most useful question?",
-    "visual": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Clarify a missing detail. Notice: Give clear instructions. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Listening, Speaking and Giving Instructions organiser. Read: Clarify a missing detail. Notice: Give clear instructions. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-010",
-      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Clarify a missing detail. Notice: Give clear instructions. Correct the student's mix-up using the full task."
-    },
-    "answers": [
-      "Keep “Which shelf has the tallest books?”; it uses a detail that sounds familiar.",
-      "Identify exactly what the unclear words fail to tell you.",
-      "Choose “Should I put all the books somewhere on these shelves?” instead; it sounds clearer."
-    ],
-    "correct": 1,
-    "explanation": "Identify exactly what the unclear words fail to tell you. The question asks for the missing object and location.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
-    "structuredExplanation": {
-      "summary": "Identify exactly what the unclear words fail to tell you. The question asks for the missing object and location.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2ly02-p-011",
-    "curriculumCode": "AC9E2LY02",
-    "bank": "practice",
-    "skill": "suitable speaking volume apply",
+    "skill": "suitable speaking volume direct",
     "printable": true,
     "type": "single",
     "question": "Noor is sharing an idea with four students at one table. Which speaking choice suits the group?",
     "audioPrompt": "Noor is sharing an idea with four students at one table. Which speaking choice suits the group?",
-    "visual": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Suitable speaking volume. Notice: Listen actively. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Listening, Speaking and Giving Instructions organiser. Read: Suitable speaking volume. Notice: Listen actively. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-011\"></use></svg>",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-011",
-      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Suitable speaking volume. Notice: Listen actively. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
+      "Use a clear voice that the table group can hear.",
       "Use a soft voice while looking down, even if group members miss words.",
-      "Use a whole-class voice that carries clearly to every other table.",
-      "Use a clear voice that the table group can hear."
+      "Use a whole-class voice that carries clearly to every other table."
     ],
-    "correct": 2,
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 6,
+    "correct": 0,
     "explanation": "A small-group voice should be clear to the group without disturbing everyone else.\nHint: Match the volume to the size and distance of the audience.",
     "structuredExplanation": {
       "summary": "A small-group voice should be clear to the group without disturbing everyone else.",
@@ -320,55 +187,28 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e2ly02-p-012",
+    "id": "ac9e2ly02-p-007",
     "curriculumCode": "AC9E2LY02",
     "bank": "practice",
-    "skill": "suitable speaking volume reason",
-    "printable": true,
-    "type": "single",
-    "question": "A student answers “Use a whole-class voice that carries clearly to every other table.”. Which feedback helps? Task: Noor is sharing an idea with four students at one table. Which speaking choice suits the group?",
-    "audioPrompt": "A student answers “Use a whole-class voice that carries clearly to every other table.”. Which feedback helps? Task: Noor is sharing an idea with four students at one table. Which speaking choice suits the group?",
-    "visual": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Suitable speaking volume. Notice: Listen actively. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Listening, Speaking and Giving Instructions organiser. Read: Suitable speaking volume. Notice: Listen actively. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-012\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-012",
-      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Suitable speaking volume. Notice: Listen actively. Correct the student's mix-up using the full task."
-    },
-    "answers": [
-      "Match the volume to the size and distance of the audience.",
-      "Keep “Use a whole-class voice that carries clearly to every other table.”; it uses a detail that sounds familiar.",
-      "Choose “Use a soft voice while looking down, even if group members miss words.” instead; it sounds clearer."
-    ],
-    "correct": 0,
-    "explanation": "Match the volume to the size and distance of the audience. A small-group voice should be clear to the group without disturbing everyone else.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
-    "structuredExplanation": {
-      "summary": "Match the volume to the size and distance of the audience. A small-group voice should be clear to the group without disturbing everyone else.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2ly02-p-013",
-    "curriculumCode": "AC9E2LY02",
-    "bank": "practice",
-    "skill": "extend an idea apply",
+    "skill": "extend an idea direct",
     "printable": true,
     "type": "single",
     "question": "Arlo says, ‘We could test which paper plane flies farthest.’ Which reply extends the plan?",
     "audioPrompt": "Arlo says, ‘We could test which paper plane flies farthest.’ Which reply extends the plan?",
-    "visual": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Extend an idea. Notice: Respond relevantly. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Listening, Speaking and Giving Instructions organiser. Read: Extend an idea. Notice: Respond relevantly. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-013\"></use></svg>",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-013",
-      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Extend an idea. Notice: Respond relevantly. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       "We could decorate every plane before deciding which flew farthest.",
       "We could launch each plane from the same line and measure the distance.",
       "We could launch the planes from different places to finish faster."
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 7,
     "correct": 1,
     "explanation": "The reply adds a fair way to carry out Arlo's suggested test.\nHint: Choose a response that adds a useful connected detail.",
     "structuredExplanation": {
@@ -378,56 +218,29 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e2ly02-p-014",
+    "id": "ac9e2ly02-p-008",
     "curriculumCode": "AC9E2LY02",
     "bank": "practice",
-    "skill": "extend an idea reason",
-    "printable": true,
-    "type": "single",
-    "question": "A student answers “We could decorate every plane before deciding which flew farthest.”. Which feedback helps? Task: Arlo says, ‘We could test which paper plane flies farthest.’ Which reply extends the plan?",
-    "audioPrompt": "A student answers “We could decorate every plane before deciding which flew farthest.”. Which feedback helps? Task: Arlo says, ‘We could test which paper plane flies farthest.’ Which reply extends the plan?",
-    "visual": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Extend an idea. Notice: Respond relevantly. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Listening, Speaking and Giving Instructions organiser. Read: Extend an idea. Notice: Respond relevantly. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-014\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-014",
-      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Extend an idea. Notice: Respond relevantly. Correct the student's mix-up using the full task."
-    },
-    "answers": [
-      "Keep “We could decorate every plane before deciding which flew farthest.”; it uses a detail that sounds familiar.",
-      "Choose “We could launch the planes from different places to finish faster.” instead; it sounds clearer.",
-      "Choose a response that adds a useful connected detail."
-    ],
-    "correct": 2,
-    "explanation": "Choose a response that adds a useful connected detail. The reply adds a fair way to carry out Arlo's suggested test.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
-    "structuredExplanation": {
-      "summary": "Choose a response that adds a useful connected detail. The reply adds a fair way to carry out Arlo's suggested test.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2ly02-p-015",
-    "curriculumCode": "AC9E2LY02",
-    "bank": "practice",
-    "skill": "summarise a partner s idea apply",
+    "skill": "summarise a partner s idea direct",
     "printable": true,
     "type": "single",
     "question": "Zoe says, ‘We need a quiet reading corner with cushions beside the window.’ Which reply accurately paraphrases her idea?",
     "audioPrompt": "Zoe says, ‘We need a quiet reading corner with cushions beside the window.’ Which reply accurately paraphrases her idea?",
-    "visual": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Summarise a partner's idea. Notice: Express opinions. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Listening, Speaking and Giving Instructions organiser. Read: Summarise a partner's idea. Notice: Express opinions. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-015\"></use></svg>",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-015",
-      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Summarise a partner's idea. Notice: Express opinions. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "You suggest a comfortable, quiet reading place near the window.",
       "You suggest a noisy game corner with cushions by the door.",
-      "You want a quiet reading corner, but its place and furniture do not matter."
+      "You want a quiet reading corner, but its place and furniture do not matter.",
+      "You suggest a comfortable, quiet reading place near the window."
     ],
-    "correct": 0,
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 8,
+    "correct": 2,
     "explanation": "The reply restates Zoe's main idea without changing it.\nHint: Keep the important place, purpose and feature from the original idea.",
     "structuredExplanation": {
       "summary": "The reply restates Zoe's main idea without changing it.",
@@ -436,56 +249,29 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e2ly02-p-016",
+    "id": "ac9e2ly02-p-009",
     "curriculumCode": "AC9E2LY02",
     "bank": "practice",
-    "skill": "summarise a partner s idea reason",
-    "printable": true,
-    "type": "single",
-    "question": "A student answers “You want a quiet reading corner, but its place and furniture do not matter.”. Which feedback helps? Task: Zoe says, ‘We need a quiet reading corner with cushions beside the window.’ Which reply accurately paraphrases her idea?",
-    "audioPrompt": "A student answers “You want a quiet reading corner, but its place and furniture do not matter.”. Which feedback helps? Task: Zoe says, ‘We need a quiet reading corner with cushions beside the window.’ Which reply accurately paraphrases her idea?",
-    "visual": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Summarise a partner's idea. Notice: Express opinions. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Listening, Speaking and Giving Instructions organiser. Read: Summarise a partner's idea. Notice: Express opinions. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-016",
-      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Summarise a partner's idea. Notice: Express opinions. Correct the student's mix-up using the full task."
-    },
-    "answers": [
-      "Keep “You want a quiet reading corner, but its place and furniture do not matter.”; it uses a detail that sounds familiar.",
-      "Keep the important place, purpose and feature from the original idea.",
-      "Choose “You suggest a noisy game corner with cushions by the door.” instead; it sounds clearer."
-    ],
-    "correct": 1,
-    "explanation": "Keep the important place, purpose and feature from the original idea. The reply restates Zoe's main idea without changing it.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
-    "structuredExplanation": {
-      "summary": "Keep the important place, purpose and feature from the original idea. The reply restates Zoe's main idea without changing it.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2ly02-p-017",
-    "curriculumCode": "AC9E2LY02",
-    "bank": "practice",
-    "skill": "respond to a correction apply",
+    "skill": "respond to a correction direct",
     "printable": true,
     "type": "single",
     "question": "A partner says, ‘The second step comes before the glue dries.’ Which response helps the pair?",
     "audioPrompt": "A partner says, ‘The second step comes before the glue dries.’ Which response helps the pair?",
-    "visual": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Respond to a correction. Notice: Extend ideas. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Listening, Speaking and Giving Instructions organiser. Read: Respond to a correction. Notice: Extend ideas. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-017\"></use></svg>",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-017",
-      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Respond to a correction. Notice: Extend ideas. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
+      "Thanks, let's move that step earlier and read the order again.",
       "Let's move that step to the end without checking when the glue dries.",
-      "Let's keep the order and change only the picture beside that step.",
-      "Thanks, let's move that step earlier and read the order again."
+      "Let's keep the order and change only the picture beside that step."
     ],
-    "correct": 2,
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 9,
+    "correct": 0,
     "explanation": "The response accepts useful feedback and checks the revised sequence.\nHint: Choose wording that supports shared work and addresses the exact issue.",
     "structuredExplanation": {
       "summary": "The response accepts useful feedback and checks the revised sequence.",
@@ -494,55 +280,28 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e2ly02-p-018",
+    "id": "ac9e2ly02-p-010",
     "curriculumCode": "AC9E2LY02",
     "bank": "practice",
-    "skill": "respond to a correction reason",
-    "printable": true,
-    "type": "single",
-    "question": "A student answers “Let's move that step to the end without checking when the glue dries.”. Which feedback helps? Task: A partner says, ‘The second step comes before the glue dries.’ Which response helps the pair?",
-    "audioPrompt": "A student answers “Let's move that step to the end without checking when the glue dries.”. Which feedback helps? Task: A partner says, ‘The second step comes before the glue dries.’ Which response helps the pair?",
-    "visual": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Respond to a correction. Notice: Extend ideas. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Listening, Speaking and Giving Instructions organiser. Read: Respond to a correction. Notice: Extend ideas. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-018\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-018",
-      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Respond to a correction. Notice: Extend ideas. Correct the student's mix-up using the full task."
-    },
-    "answers": [
-      "Choose wording that supports shared work and addresses the exact issue.",
-      "Keep “Let's move that step to the end without checking when the glue dries.”; it uses a detail that sounds familiar.",
-      "Choose “Let's keep the order and change only the picture beside that step.” instead; it sounds clearer."
-    ],
-    "correct": 0,
-    "explanation": "Choose wording that supports shared work and addresses the exact issue. The response accepts useful feedback and checks the revised sequence.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
-    "structuredExplanation": {
-      "summary": "Choose wording that supports shared work and addresses the exact issue. The response accepts useful feedback and checks the revised sequence.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e2ly02-p-019",
-    "curriculumCode": "AC9E2LY02",
-    "bank": "practice",
-    "skill": "make a clear statement apply",
+    "skill": "make a clear statement direct",
     "printable": true,
     "type": "single",
     "question": "The class is sharing observations about a shell. Which statement is clear and relevant?",
     "audioPrompt": "The class is sharing observations about a shell. Which statement is clear and relevant?",
-    "visual": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Make a clear statement. Notice: Give clear instructions. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Listening, Speaking and Giving Instructions organiser. Read: Make a clear statement. Notice: Give clear instructions. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-019\"></use></svg>",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-019",
-      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Make a clear statement. Notice: Give clear instructions. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       "The shell looks nice and has some colours.",
       "The shell has five dark stripes and one chipped edge.",
       "The shell probably came from the biggest animal in the sea."
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 10,
     "correct": 1,
     "explanation": "The statement reports specific visible features of the shell.\nHint: Use precise details that stay on the discussion topic.",
     "structuredExplanation": {
@@ -552,31 +311,312 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
+    "id": "ac9e2ly02-p-011",
+    "curriculumCode": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "respond to a partner explain",
+    "printable": true,
+    "type": "single",
+    "question": "Lina says, ‘The class garden needs more shade.’ Which reply shows active listening? Why is “I agree because the seedlings dried out. We could add a shade cloth.” the best answer?",
+    "audioPrompt": "Lina says, ‘The class garden needs more shade.’ Which reply shows active listening? Why is “I agree because the seedlings dried out. We could add a shade cloth.” the best answer?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It is best only because it is longer than “Gardens have plants, and shade cloth comes in many colours.”.",
+      "It is best because the details in the situation do not matter.",
+      "The reply connects to Lina's point, gives a reason and extends the idea."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 11,
+    "correct": 2,
+    "explanation": "The reply connects to Lina's point, gives a reason and extends the idea.\nHint: Choose a response that uses what the partner actually said.",
+    "structuredExplanation": {
+      "summary": "The reply connects to Lina's point, gives a reason and extends the idea.",
+      "hint": "Choose a response that uses what the partner actually said."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e2ly02-p-012",
+    "curriculumCode": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "paraphrase an instruction explain",
+    "printable": true,
+    "type": "single",
+    "question": "The teacher says, ‘Collect a tray, choose three leaves, then sit with your group.’ Which reply checks understanding? Why is “So I collect a tray and three leaves before joining my group?” the best answer?",
+    "audioPrompt": "The teacher says, ‘Collect a tray, choose three leaves, then sit with your group.’ Which reply checks understanding? Why is “So I collect a tray and three leaves before joining my group?” the best answer?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The reply restates the important steps in order and asks for confirmation.",
+      "It is best only because it is longer than “I will do something with leaves later.”.",
+      "It is best because the details in the situation do not matter."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 12,
+    "correct": 0,
+    "explanation": "The reply restates the important steps in order and asks for confirmation.\nHint: Listen for every action and its order.",
+    "structuredExplanation": {
+      "summary": "The reply restates the important steps in order and asks for confirmation.",
+      "hint": "Listen for every action and its order."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e2ly02-p-013",
+    "curriculumCode": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "respectful disagreement explain",
+    "printable": true,
+    "type": "single",
+    "question": "Sam says the story should end at the cave. Which response disagrees respectfully? Why is “I think it should continue because the lost map has not been found.” the best answer?",
+    "audioPrompt": "Sam says the story should end at the cave. Which response disagrees respectfully? Why is “I think it should continue because the lost map has not been found.” the best answer?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It is best only because it is longer than “That is a terrible idea.”.",
+      "The response states a different opinion and supports it without insulting Sam.",
+      "It is best because the details in the situation do not matter."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 13,
+    "correct": 1,
+    "explanation": "The response states a different opinion and supports it without insulting Sam.\nHint: Look for a calm disagreement with a relevant reason.",
+    "structuredExplanation": {
+      "summary": "The response states a different opinion and supports it without insulting Sam.",
+      "hint": "Look for a calm disagreement with a relevant reason."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e2ly02-p-014",
+    "curriculumCode": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "order oral instructions explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which instruction clearly explains how to plant a seed? Why is “First fill the pot, next place the seed, then cover and water it.” the best answer?",
+    "audioPrompt": "Which instruction clearly explains how to plant a seed? Why is “First fill the pot, next place the seed, then cover and water it.” the best answer?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It is best only because it is longer than “First water the empty pot, then add the seed, then find some soil.”.",
+      "It is best because the details in the situation do not matter.",
+      "The clear instruction uses precise actions in a logical order."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 14,
+    "correct": 2,
+    "explanation": "The clear instruction uses precise actions in a logical order.\nHint: Choose steps another person could follow without guessing.",
+    "structuredExplanation": {
+      "summary": "The clear instruction uses precise actions in a logical order.",
+      "hint": "Choose steps another person could follow without guessing."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e2ly02-p-015",
+    "curriculumCode": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "clarify a missing detail explain",
+    "printable": true,
+    "type": "single",
+    "question": "A partner says, ‘Put it over there.’ What is the most useful question? Why is “Which book should I put on which shelf?” the best answer?",
+    "audioPrompt": "A partner says, ‘Put it over there.’ What is the most useful question? Why is “Which book should I put on which shelf?” the best answer?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The question asks for the missing object and location.",
+      "It is best only because it is longer than “Which shelf has the tallest books?”.",
+      "It is best because the details in the situation do not matter."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 15,
+    "correct": 0,
+    "explanation": "The question asks for the missing object and location.\nHint: Identify exactly what the unclear words fail to tell you.",
+    "structuredExplanation": {
+      "summary": "The question asks for the missing object and location.",
+      "hint": "Identify exactly what the unclear words fail to tell you."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e2ly02-p-016",
+    "curriculumCode": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "suitable speaking volume explain",
+    "printable": true,
+    "type": "single",
+    "question": "Noor is sharing an idea with four students at one table. Which speaking choice suits the group? Why is “Use a clear voice that the table group can hear.” the best answer?",
+    "audioPrompt": "Noor is sharing an idea with four students at one table. Which speaking choice suits the group? Why is “Use a clear voice that the table group can hear.” the best answer?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It is best only because it is longer than “Use a soft voice while looking down, even if group members miss words.”.",
+      "A small-group voice should be clear to the group without disturbing everyone else.",
+      "It is best because the details in the situation do not matter."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 16,
+    "correct": 1,
+    "explanation": "A small-group voice should be clear to the group without disturbing everyone else.\nHint: Match the volume to the size and distance of the audience.",
+    "structuredExplanation": {
+      "summary": "A small-group voice should be clear to the group without disturbing everyone else.",
+      "hint": "Match the volume to the size and distance of the audience."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e2ly02-p-017",
+    "curriculumCode": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "extend an idea explain",
+    "printable": true,
+    "type": "single",
+    "question": "Arlo says, ‘We could test which paper plane flies farthest.’ Which reply extends the plan? Why is “We could launch each plane from the same line and measure the distance.” the best answer?",
+    "audioPrompt": "Arlo says, ‘We could test which paper plane flies farthest.’ Which reply extends the plan? Why is “We could launch each plane from the same line and measure the distance.” the best answer?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It is best only because it is longer than “We could decorate every plane before deciding which flew farthest.”.",
+      "It is best because the details in the situation do not matter.",
+      "The reply adds a fair way to carry out Arlo's suggested test."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 17,
+    "correct": 2,
+    "explanation": "The reply adds a fair way to carry out Arlo's suggested test.\nHint: Choose a response that adds a useful connected detail.",
+    "structuredExplanation": {
+      "summary": "The reply adds a fair way to carry out Arlo's suggested test.",
+      "hint": "Choose a response that adds a useful connected detail."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e2ly02-p-018",
+    "curriculumCode": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "summarise a partner s idea explain",
+    "printable": true,
+    "type": "single",
+    "question": "Zoe says, ‘We need a quiet reading corner with cushions beside the window.’ Which reply accurately paraphrases her idea? Why is “You suggest a comfortable, quiet reading place near the window.” the best answer?",
+    "audioPrompt": "Zoe says, ‘We need a quiet reading corner with cushions beside the window.’ Which reply accurately paraphrases her idea? Why is “You suggest a comfortable, quiet reading place near the window.” the best answer?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The reply restates Zoe's main idea without changing it.",
+      "It is best only because it is longer than “You suggest a noisy game corner with cushions by the door.”.",
+      "It is best because the details in the situation do not matter."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 18,
+    "correct": 0,
+    "explanation": "The reply restates Zoe's main idea without changing it.\nHint: Keep the important place, purpose and feature from the original idea.",
+    "structuredExplanation": {
+      "summary": "The reply restates Zoe's main idea without changing it.",
+      "hint": "Keep the important place, purpose and feature from the original idea."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e2ly02-p-019",
+    "curriculumCode": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "respond to a correction explain",
+    "printable": true,
+    "type": "single",
+    "question": "A partner says, ‘The second step comes before the glue dries.’ Which response helps the pair? Why is “Thanks, let's move that step earlier and read the order again.” the best answer?",
+    "audioPrompt": "A partner says, ‘The second step comes before the glue dries.’ Which response helps the pair? Why is “Thanks, let's move that step earlier and read the order again.” the best answer?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It is best only because it is longer than “Let's move that step to the end without checking when the glue dries.”.",
+      "The response accepts useful feedback and checks the revised sequence.",
+      "It is best because the details in the situation do not matter."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 19,
+    "correct": 1,
+    "explanation": "The response accepts useful feedback and checks the revised sequence.\nHint: Choose wording that supports shared work and addresses the exact issue.",
+    "structuredExplanation": {
+      "summary": "The response accepts useful feedback and checks the revised sequence.",
+      "hint": "Choose wording that supports shared work and addresses the exact issue."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
     "id": "ac9e2ly02-p-020",
     "curriculumCode": "AC9E2LY02",
     "bank": "practice",
-    "skill": "make a clear statement reason",
+    "skill": "make a clear statement explain",
     "printable": true,
     "type": "single",
-    "question": "A student answers “The shell probably came from the biggest animal in the sea.”. Which feedback helps? Task: The class is sharing observations about a shell. Which statement is clear and relevant?",
-    "audioPrompt": "A student answers “The shell probably came from the biggest animal in the sea.”. Which feedback helps? Task: The class is sharing observations about a shell. Which statement is clear and relevant?",
-    "visual": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Make a clear statement. Notice: Give clear instructions. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Listening, Speaking and Giving Instructions organiser. Read: Make a clear statement. Notice: Give clear instructions. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-020\"></use></svg>",
+    "question": "The class is sharing observations about a shell. Which statement is clear and relevant? Why is “The shell has five dark stripes and one chipped edge.” the best answer?",
+    "audioPrompt": "The class is sharing observations about a shell. Which statement is clear and relevant? Why is “The shell has five dark stripes and one chipped edge.” the best answer?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-020",
-      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Make a clear statement. Notice: Give clear instructions. Correct the student's mix-up using the full task."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Keep “The shell probably came from the biggest animal in the sea.”; it uses a detail that sounds familiar.",
-      "Choose “The shell looks nice and has some colours.” instead; it sounds clearer.",
-      "Use precise details that stay on the discussion topic."
+      "It is best only because it is longer than “The shell looks nice and has some colours.”.",
+      "It is best because the details in the situation do not matter.",
+      "The statement reports specific visible features of the shell."
     ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 20,
     "correct": 2,
-    "explanation": "Use precise details that stay on the discussion topic. The statement reports specific visible features of the shell.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "The statement reports specific visible features of the shell.\nHint: Use precise details that stay on the discussion topic.",
     "structuredExplanation": {
-      "summary": "Use precise details that stay on the discussion topic. The statement reports specific visible features of the shell.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "The statement reports specific visible features of the shell.",
+      "hint": "Use precise details that stay on the discussion topic."
     },
     "qualitySchema": "production-v1"
   },
@@ -584,28 +624,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly02-p-021",
     "curriculumCode": "AC9E2LY02",
     "bank": "practice",
-    "skill": "use a calm tone apply",
+    "skill": "respectful disagreement discriminate",
     "printable": true,
     "type": "single",
-    "question": "A teammate forgets a game rule. Which reminder uses a suitable tone?",
-    "audioPrompt": "A teammate forgets a game rule. Which reminder uses a suitable tone?",
-    "visual": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Use a calm tone. Notice: Listen actively. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Listening, Speaking and Giving Instructions organiser. Read: Use a calm tone. Notice: Listen actively. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-021\"></use></svg>",
+    "question": "Sam says the story should end at the cave. Which response disagrees respectfully? Which response is the clearest mix-up to avoid?",
+    "audioPrompt": "Sam says the story should end at the cave. Which response disagrees respectfully? Which response is the clearest mix-up to avoid?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-021",
-      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Use a calm tone. Notice: Listen actively. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Remember, we wait behind the line until our turn.",
-      "You always forget—get behind the line.",
-      "Move back now; you have ruined the game."
+      "That is a terrible idea.",
+      "I think it should continue because the lost map has not been found.",
+      "You are wrong, and I will not explain."
     ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 21,
     "correct": 0,
-    "explanation": "The reminder states the rule calmly without blaming the teammate.\nHint: Choose language that is clear, firm and respectful.",
+    "explanation": "“That is a terrible idea.” is the mix-up to avoid. Look for a calm disagreement with a relevant reason.\nHint: Look for a calm disagreement with a relevant reason.",
     "structuredExplanation": {
-      "summary": "The reminder states the rule calmly without blaming the teammate.",
-      "hint": "Choose language that is clear, firm and respectful."
+      "summary": "“That is a terrible idea.” is the mix-up to avoid. Look for a calm disagreement with a relevant reason.",
+      "hint": "Look for a calm disagreement with a relevant reason."
     },
     "qualitySchema": "production-v1"
   },
@@ -613,28 +655,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly02-p-022",
     "curriculumCode": "AC9E2LY02",
     "bank": "practice",
-    "skill": "use a calm tone reason",
+    "skill": "order oral instructions discriminate",
     "printable": true,
     "type": "single",
-    "question": "A student answers “You always forget—get behind the line.”. Which feedback helps? Task: A teammate forgets a game rule. Which reminder uses a suitable tone?",
-    "audioPrompt": "A student answers “You always forget—get behind the line.”. Which feedback helps? Task: A teammate forgets a game rule. Which reminder uses a suitable tone?",
-    "visual": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Use a calm tone. Notice: Listen actively. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Listening, Speaking and Giving Instructions organiser. Read: Use a calm tone. Notice: Listen actively. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-022\"></use></svg>",
+    "question": "Which instruction clearly explains how to plant a seed? Which response is the clearest mix-up to avoid?",
+    "audioPrompt": "Which instruction clearly explains how to plant a seed? Which response is the clearest mix-up to avoid?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-022",
-      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Use a calm tone. Notice: Listen actively. Correct the student's mix-up using the full task."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Keep “You always forget—get behind the line.”; it uses a detail that sounds familiar.",
-      "Choose language that is clear, firm and respectful.",
-      "Choose “Move back now; you have ruined the game.” instead; it sounds clearer."
+      "First fill the pot, next place the seed, then cover and water it.",
+      "First water the empty pot, then add the seed, then find some soil.",
+      "Fill the pot and add the seed; cover or water it sometime later."
     ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 22,
     "correct": 1,
-    "explanation": "Choose language that is clear, firm and respectful. The reminder states the rule calmly without blaming the teammate.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "“First water the empty pot, then add the seed, then find some soil.” is the mix-up to avoid. Choose steps another person could follow without guessing.\nHint: Choose steps another person could follow without guessing.",
     "structuredExplanation": {
-      "summary": "Choose language that is clear, firm and respectful. The reminder states the rule calmly without blaming the teammate.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "“First water the empty pot, then add the seed, then find some soil.” is the mix-up to avoid. Choose steps another person could follow without guessing.",
+      "hint": "Choose steps another person could follow without guessing."
     },
     "qualitySchema": "production-v1"
   },
@@ -642,28 +686,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly02-p-023",
     "curriculumCode": "AC9E2LY02",
     "bank": "practice",
-    "skill": "check the next step apply",
+    "skill": "clarify a missing detail discriminate",
     "printable": true,
     "type": "single",
-    "question": "After giving three directions, what is a useful way to check the listener understood?",
-    "audioPrompt": "After giving three directions, what is a useful way to check the listener understood?",
-    "visual": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Check the next step. Notice: Respond relevantly. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Listening, Speaking and Giving Instructions organiser. Read: Check the next step. Notice: Respond relevantly. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-023\"></use></svg>",
+    "question": "A partner says, ‘Put it over there.’ What is the most useful question? Which response is the clearest mix-up to avoid?",
+    "audioPrompt": "A partner says, ‘Put it over there.’ What is the most useful question? Which response is the clearest mix-up to avoid?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-023",
-      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Check the next step. Notice: Respond relevantly. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Say the same directions more quickly without pausing.",
-      "Ask, ‘Did you like the directions I gave?’",
-      "Ask, ‘What will you do first?’"
+      "Which book should I put on which shelf?",
+      "Should I put all the books somewhere on these shelves?",
+      "Which shelf has the tallest books?"
     ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 23,
     "correct": 2,
-    "explanation": "Asking the listener to state the first action checks their understanding.\nHint: Use a question that reveals whether the directions can be followed.",
+    "explanation": "“Which shelf has the tallest books?” is the mix-up to avoid. Identify exactly what the unclear words fail to tell you.\nHint: Identify exactly what the unclear words fail to tell you.",
     "structuredExplanation": {
-      "summary": "Asking the listener to state the first action checks their understanding.",
-      "hint": "Use a question that reveals whether the directions can be followed."
+      "summary": "“Which shelf has the tallest books?” is the mix-up to avoid. Identify exactly what the unclear words fail to tell you.",
+      "hint": "Identify exactly what the unclear words fail to tell you."
     },
     "qualitySchema": "production-v1"
   },
@@ -671,28 +717,526 @@ window.skillrPracticeQuestions = [
     "id": "ac9e2ly02-p-024",
     "curriculumCode": "AC9E2LY02",
     "bank": "practice",
-    "skill": "check the next step reason",
+    "skill": "suitable speaking volume discriminate",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Ask, ‘Did you like the directions I gave?’”. Which feedback helps? Task: After giving three directions, what is a useful way to check the listener understood?",
-    "audioPrompt": "A student answers “Ask, ‘Did you like the directions I gave?’”. Which feedback helps? Task: After giving three directions, what is a useful way to check the listener understood?",
-    "visual": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Check the next step. Notice: Respond relevantly. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Listening, Speaking and Giving Instructions organiser. Read: Check the next step. Notice: Respond relevantly. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-024\"></use></svg>",
+    "question": "Noor is sharing an idea with four students at one table. Which speaking choice suits the group? Which response is the clearest mix-up to avoid?",
+    "audioPrompt": "Noor is sharing an idea with four students at one table. Which speaking choice suits the group? Which response is the clearest mix-up to avoid?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly02.svg#ac9e2ly02-p-024",
-      "alt_text": "Three-step Listening, Speaking and Giving Instructions organiser. Read: Check the next step. Notice: Respond relevantly. Correct the student's mix-up using the full task."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use a question that reveals whether the directions can be followed.",
-      "Keep “Ask, ‘Did you like the directions I gave?’”; it uses a detail that sounds familiar.",
-      "Choose “Say the same directions more quickly without pausing.” instead; it sounds clearer."
+      "Use a soft voice while looking down, even if group members miss words.",
+      "Use a clear voice that the table group can hear.",
+      "Use a whole-class voice that carries clearly to every other table."
     ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 24,
     "correct": 0,
-    "explanation": "Use a question that reveals whether the directions can be followed. Asking the listener to state the first action checks their understanding.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "“Use a soft voice while looking down, even if group members miss words.” is the mix-up to avoid. Match the volume to the size and distance of the audience.\nHint: Match the volume to the size and distance of the audience.",
     "structuredExplanation": {
-      "summary": "Use a question that reveals whether the directions can be followed. Asking the listener to state the first action checks their understanding.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "“Use a soft voice while looking down, even if group members miss words.” is the mix-up to avoid. Match the volume to the size and distance of the audience.",
+      "hint": "Match the volume to the size and distance of the audience."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e2ly02-p-025",
+    "curriculumCode": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "extend an idea discriminate",
+    "printable": true,
+    "type": "single",
+    "question": "Arlo says, ‘We could test which paper plane flies farthest.’ Which reply extends the plan? Which response is the clearest mix-up to avoid?",
+    "audioPrompt": "Arlo says, ‘We could test which paper plane flies farthest.’ Which reply extends the plan? Which response is the clearest mix-up to avoid?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "We could launch each plane from the same line and measure the distance.",
+      "We could decorate every plane before deciding which flew farthest.",
+      "We could launch the planes from different places to finish faster."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 25,
+    "correct": 1,
+    "explanation": "“We could decorate every plane before deciding which flew farthest.” is the mix-up to avoid. Choose a response that adds a useful connected detail.\nHint: Choose a response that adds a useful connected detail.",
+    "structuredExplanation": {
+      "summary": "“We could decorate every plane before deciding which flew farthest.” is the mix-up to avoid. Choose a response that adds a useful connected detail.",
+      "hint": "Choose a response that adds a useful connected detail."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e2ly02-p-026",
+    "curriculumCode": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "summarise a partner s idea discriminate",
+    "printable": true,
+    "type": "single",
+    "question": "Zoe says, ‘We need a quiet reading corner with cushions beside the window.’ Which reply accurately paraphrases her idea? Which response is the clearest mix-up to avoid?",
+    "audioPrompt": "Zoe says, ‘We need a quiet reading corner with cushions beside the window.’ Which reply accurately paraphrases her idea? Which response is the clearest mix-up to avoid?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "You suggest a comfortable, quiet reading place near the window.",
+      "You want a quiet reading corner, but its place and furniture do not matter.",
+      "You suggest a noisy game corner with cushions by the door."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 26,
+    "correct": 2,
+    "explanation": "“You suggest a noisy game corner with cushions by the door.” is the mix-up to avoid. Keep the important place, purpose and feature from the original idea.\nHint: Keep the important place, purpose and feature from the original idea.",
+    "structuredExplanation": {
+      "summary": "“You suggest a noisy game corner with cushions by the door.” is the mix-up to avoid. Keep the important place, purpose and feature from the original idea.",
+      "hint": "Keep the important place, purpose and feature from the original idea."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e2ly02-p-027",
+    "curriculumCode": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "respond to a correction discriminate",
+    "printable": true,
+    "type": "single",
+    "question": "A partner says, ‘The second step comes before the glue dries.’ Which response helps the pair? Which response is the clearest mix-up to avoid?",
+    "audioPrompt": "A partner says, ‘The second step comes before the glue dries.’ Which response helps the pair? Which response is the clearest mix-up to avoid?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Let's move that step to the end without checking when the glue dries.",
+      "Thanks, let's move that step earlier and read the order again.",
+      "Let's keep the order and change only the picture beside that step."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 27,
+    "correct": 0,
+    "explanation": "“Let's move that step to the end without checking when the glue dries.” is the mix-up to avoid. Choose wording that supports shared work and addresses the exact issue.\nHint: Choose wording that supports shared work and addresses the exact issue.",
+    "structuredExplanation": {
+      "summary": "“Let's move that step to the end without checking when the glue dries.” is the mix-up to avoid. Choose wording that supports shared work and addresses the exact issue.",
+      "hint": "Choose wording that supports shared work and addresses the exact issue."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e2ly02-p-028",
+    "curriculumCode": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "make a clear statement discriminate",
+    "printable": true,
+    "type": "single",
+    "question": "The class is sharing observations about a shell. Which statement is clear and relevant? Which response is the clearest mix-up to avoid?",
+    "audioPrompt": "The class is sharing observations about a shell. Which statement is clear and relevant? Which response is the clearest mix-up to avoid?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The shell has five dark stripes and one chipped edge.",
+      "The shell looks nice and has some colours.",
+      "The shell probably came from the biggest animal in the sea."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 28,
+    "correct": 1,
+    "explanation": "“The shell looks nice and has some colours.” is the mix-up to avoid. Use precise details that stay on the discussion topic.\nHint: Use precise details that stay on the discussion topic.",
+    "structuredExplanation": {
+      "summary": "“The shell looks nice and has some colours.” is the mix-up to avoid. Use precise details that stay on the discussion topic.",
+      "hint": "Use precise details that stay on the discussion topic."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e2ly02-p-029",
+    "curriculumCode": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "use a calm tone discriminate",
+    "printable": true,
+    "type": "single",
+    "question": "A teammate forgets a game rule. Which reminder uses a suitable tone? Which response is the clearest mix-up to avoid?",
+    "audioPrompt": "A teammate forgets a game rule. Which reminder uses a suitable tone? Which response is the clearest mix-up to avoid?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Remember, we wait behind the line until our turn.",
+      "Move back now; you have ruined the game.",
+      "You always forget—get behind the line."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 29,
+    "correct": 2,
+    "explanation": "“You always forget—get behind the line.” is the mix-up to avoid. Choose language that is clear, firm and respectful.\nHint: Choose language that is clear, firm and respectful.",
+    "structuredExplanation": {
+      "summary": "“You always forget—get behind the line.” is the mix-up to avoid. Choose language that is clear, firm and respectful.",
+      "hint": "Choose language that is clear, firm and respectful."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e2ly02-p-030",
+    "curriculumCode": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "check the next step discriminate",
+    "printable": true,
+    "type": "single",
+    "question": "After giving three directions, what is a useful way to check the listener understood? Which response is the clearest mix-up to avoid?",
+    "audioPrompt": "After giving three directions, what is a useful way to check the listener understood? Which response is the clearest mix-up to avoid?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Say the same directions more quickly without pausing.",
+      "Ask, ‘What will you do first?’",
+      "Ask, ‘Did you like the directions I gave?’"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 30,
+    "correct": 0,
+    "explanation": "“Say the same directions more quickly without pausing.” is the mix-up to avoid. Use a question that reveals whether the directions can be followed.\nHint: Use a question that reveals whether the directions can be followed.",
+    "structuredExplanation": {
+      "summary": "“Say the same directions more quickly without pausing.” is the mix-up to avoid. Use a question that reveals whether the directions can be followed.",
+      "hint": "Use a question that reveals whether the directions can be followed."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e2ly02-p-031",
+    "curriculumCode": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "respectful disagreement apply",
+    "printable": true,
+    "type": "single",
+    "question": "Use this clue: Look for a calm disagreement with a relevant reason. Sam says the story should end at the cave. Which response disagrees respectfully?",
+    "audioPrompt": "Use this clue: Look for a calm disagreement with a relevant reason. Sam says the story should end at the cave. Which response disagrees respectfully?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "You are wrong, and I will not explain.",
+      "I think it should continue because the lost map has not been found.",
+      "That is a terrible idea."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 31,
+    "correct": 1,
+    "explanation": "The response states a different opinion and supports it without insulting Sam.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
+    "structuredExplanation": {
+      "summary": "The response states a different opinion and supports it without insulting Sam.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e2ly02-p-032",
+    "curriculumCode": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "order oral instructions apply",
+    "printable": true,
+    "type": "single",
+    "question": "Use this clue: Choose steps another person could follow without guessing. Which instruction clearly explains how to plant a seed?",
+    "audioPrompt": "Use this clue: Choose steps another person could follow without guessing. Which instruction clearly explains how to plant a seed?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Fill the pot and add the seed; cover or water it sometime later.",
+      "First water the empty pot, then add the seed, then find some soil.",
+      "First fill the pot, next place the seed, then cover and water it."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 32,
+    "correct": 2,
+    "explanation": "The clear instruction uses precise actions in a logical order.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
+    "structuredExplanation": {
+      "summary": "The clear instruction uses precise actions in a logical order.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e2ly02-p-033",
+    "curriculumCode": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "clarify a missing detail apply",
+    "printable": true,
+    "type": "single",
+    "question": "Use this clue: Identify exactly what the unclear words fail to tell you. A partner says, ‘Put it over there.’ What is the most useful question?",
+    "audioPrompt": "Use this clue: Identify exactly what the unclear words fail to tell you. A partner says, ‘Put it over there.’ What is the most useful question?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Which book should I put on which shelf?",
+      "Should I put all the books somewhere on these shelves?",
+      "Which shelf has the tallest books?"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 33,
+    "correct": 0,
+    "explanation": "The question asks for the missing object and location.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
+    "structuredExplanation": {
+      "summary": "The question asks for the missing object and location.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e2ly02-p-034",
+    "curriculumCode": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "suitable speaking volume apply",
+    "printable": true,
+    "type": "single",
+    "question": "Use this clue: Match the volume to the size and distance of the audience. Noor is sharing an idea with four students at one table. Which speaking choice suits the group?",
+    "audioPrompt": "Use this clue: Match the volume to the size and distance of the audience. Noor is sharing an idea with four students at one table. Which speaking choice suits the group?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Use a whole-class voice that carries clearly to every other table.",
+      "Use a clear voice that the table group can hear.",
+      "Use a soft voice while looking down, even if group members miss words."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 34,
+    "correct": 1,
+    "explanation": "A small-group voice should be clear to the group without disturbing everyone else.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
+    "structuredExplanation": {
+      "summary": "A small-group voice should be clear to the group without disturbing everyone else.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e2ly02-p-035",
+    "curriculumCode": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "extend an idea apply",
+    "printable": true,
+    "type": "single",
+    "question": "Use this clue: Choose a response that adds a useful connected detail. Arlo says, ‘We could test which paper plane flies farthest.’ Which reply extends the plan?",
+    "audioPrompt": "Use this clue: Choose a response that adds a useful connected detail. Arlo says, ‘We could test which paper plane flies farthest.’ Which reply extends the plan?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "We could launch the planes from different places to finish faster.",
+      "We could decorate every plane before deciding which flew farthest.",
+      "We could launch each plane from the same line and measure the distance."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 35,
+    "correct": 2,
+    "explanation": "The reply adds a fair way to carry out Arlo's suggested test.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
+    "structuredExplanation": {
+      "summary": "The reply adds a fair way to carry out Arlo's suggested test.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e2ly02-p-036",
+    "curriculumCode": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "summarise a partner s idea apply",
+    "printable": true,
+    "type": "single",
+    "question": "Use this clue: Keep the important place, purpose and feature from the original idea. Zoe says, ‘We need a quiet reading corner with cushions beside the window.’ Which reply accurately paraphrases her idea?",
+    "audioPrompt": "Use this clue: Keep the important place, purpose and feature from the original idea. Zoe says, ‘We need a quiet reading corner with cushions beside the window.’ Which reply accurately paraphrases her idea?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "You suggest a comfortable, quiet reading place near the window.",
+      "You want a quiet reading corner, but its place and furniture do not matter.",
+      "You suggest a noisy game corner with cushions by the door."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 36,
+    "correct": 0,
+    "explanation": "The reply restates Zoe's main idea without changing it.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
+    "structuredExplanation": {
+      "summary": "The reply restates Zoe's main idea without changing it.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e2ly02-p-037",
+    "curriculumCode": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "respond to a correction apply",
+    "printable": true,
+    "type": "single",
+    "question": "Use this clue: Choose wording that supports shared work and addresses the exact issue. A partner says, ‘The second step comes before the glue dries.’ Which response helps the pair?",
+    "audioPrompt": "Use this clue: Choose wording that supports shared work and addresses the exact issue. A partner says, ‘The second step comes before the glue dries.’ Which response helps the pair?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Let's keep the order and change only the picture beside that step.",
+      "Thanks, let's move that step earlier and read the order again.",
+      "Let's move that step to the end without checking when the glue dries."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 37,
+    "correct": 1,
+    "explanation": "The response accepts useful feedback and checks the revised sequence.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
+    "structuredExplanation": {
+      "summary": "The response accepts useful feedback and checks the revised sequence.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e2ly02-p-038",
+    "curriculumCode": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "make a clear statement apply",
+    "printable": true,
+    "type": "single",
+    "question": "Use this clue: Use precise details that stay on the discussion topic. The class is sharing observations about a shell. Which statement is clear and relevant?",
+    "audioPrompt": "Use this clue: Use precise details that stay on the discussion topic. The class is sharing observations about a shell. Which statement is clear and relevant?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The shell probably came from the biggest animal in the sea.",
+      "The shell looks nice and has some colours.",
+      "The shell has five dark stripes and one chipped edge."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 38,
+    "correct": 2,
+    "explanation": "The statement reports specific visible features of the shell.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
+    "structuredExplanation": {
+      "summary": "The statement reports specific visible features of the shell.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e2ly02-p-039",
+    "curriculumCode": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "use a calm tone apply",
+    "printable": true,
+    "type": "single",
+    "question": "Use this clue: Choose language that is clear, firm and respectful. A teammate forgets a game rule. Which reminder uses a suitable tone?",
+    "audioPrompt": "Use this clue: Choose language that is clear, firm and respectful. A teammate forgets a game rule. Which reminder uses a suitable tone?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Remember, we wait behind the line until our turn.",
+      "Move back now; you have ruined the game.",
+      "You always forget—get behind the line."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 39,
+    "correct": 0,
+    "explanation": "The reminder states the rule calmly without blaming the teammate.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
+    "structuredExplanation": {
+      "summary": "The reminder states the rule calmly without blaming the teammate.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e2ly02-p-040",
+    "curriculumCode": "AC9E2LY02",
+    "bank": "practice",
+    "skill": "check the next step apply",
+    "printable": true,
+    "type": "single",
+    "question": "Use this clue: Use a question that reveals whether the directions can be followed. After giving three directions, what is a useful way to check the listener understood?",
+    "audioPrompt": "Use this clue: Use a question that reveals whether the directions can be followed. After giving three directions, what is a useful way to check the listener understood?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Ask, ‘Did you like the directions I gave?’",
+      "Ask, ‘What will you do first?’",
+      "Say the same directions more quickly without pausing."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 40,
+    "correct": 1,
+    "explanation": "Asking the listener to state the first action checks their understanding.\nHint: Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example.",
+    "structuredExplanation": {
+      "summary": "Asking the listener to state the first action checks their understanding.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
     },
     "qualitySchema": "production-v1"
   }

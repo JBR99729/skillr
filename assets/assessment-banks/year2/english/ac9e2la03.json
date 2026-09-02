@@ -5,13 +5,13 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA03",
     "bank": "practice",
-    "skill": "organising_a_simple_narrative_apply",
+    "stage": "recognise",
+    "skill": "organising_a_simple_narrative_direct",
     "question": "Which plan best suits a story about Kira finding a tiny door?",
     "audio_prompt": "Which plan best suits a story about Kira finding a tiny door?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la03.svg#ac9e2la03-p-001",
-      "alt_text": "Three-step Text Structures for Different Purposes organiser. Read: organising a simple narrative. Notice: Identify purpose. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
@@ -34,7 +34,8 @@
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 1,
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LA03-P-002",
@@ -42,36 +43,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA03",
     "bank": "practice",
-    "skill": "organising_a_simple_narrative_reason",
-    "question": "A student answers “Describe Kira and the door but leave the main problem unsolved.”. Which feedback helps? Task: Which plan best suits a story about Kira finding a tiny door?",
-    "audio_prompt": "A student answers “Describe Kira and the door but leave the main problem unsolved.”. Which feedback helps? Task: Which plan best suits a story about Kira finding a tiny door?",
+    "stage": "recognise",
+    "skill": "organising_paper_plane_instructions_direct",
+    "question": "Which layout would best help a reader make a paper plane?",
+    "audio_prompt": "Which layout would best help a reader make a paper plane?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la03.svg#ac9e2la03-p-002",
-      "alt_text": "Three-step Text Structures for Different Purposes organiser. Read: organising a simple narrative. Notice: Identify purpose. Correct the student's mix-up using the full task."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Look for a plan that organises characters and events into a story.",
+        "text": "A materials list followed by numbered folding steps.",
         "is_correct": true
       },
       {
-        "text": "Keep “Describe Kira and the door but leave the main problem unsolved.”; it uses a detail that sounds familiar.",
+        "text": "Number the folding actions but place them in reverse order.",
         "is_correct": false
       },
       {
-        "text": "Choose “Show the solution before readers learn what went wrong at the door.” instead; it sounds clearer.",
+        "text": "Show the finished plane without listing materials or steps.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Look for a plan that organises characters and events into a story. A narrative introduces a situation, develops a problem and shows how it is resolved.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A procedure lists what is needed and puts the actions in a usable order.",
+      "hint": "The reader needs to know what to use and what to do first, next and last."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 2,
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LA03-P-003",
@@ -79,36 +81,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA03",
     "bank": "practice",
-    "skill": "organising_paper_plane_instructions_apply",
-    "question": "Which layout would best help a reader make a paper plane?",
-    "audio_prompt": "Which layout would best help a reader make a paper plane?",
+    "stage": "recognise",
+    "skill": "grouping_facts_in_a_frog_report_direct",
+    "question": "Which features best organise an information report about frogs?",
+    "audio_prompt": "Which features best organise an information report about frogs?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la03.svg#ac9e2la03-p-003",
-      "alt_text": "Three-step Text Structures for Different Purposes organiser. Read: organising paper-plane instructions. Notice: Recognise story structure. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Number the folding actions but place them in reverse order.",
+        "text": "Put every frog fact in one long paragraph without headings.",
         "is_correct": false
       },
       {
-        "text": "A materials list followed by numbered folding steps.",
+        "text": "Headings for habitat and food with facts and labelled diagrams.",
         "is_correct": true
       },
       {
-        "text": "Show the finished plane without listing materials or steps.",
+        "text": "Give an opinion about the best frog but leave out factual evidence.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A procedure lists what is needed and puts the actions in a usable order.",
-      "hint": "The reader needs to know what to use and what to do first, next and last."
+      "summary": "Headings and diagrams group related facts so readers can find and understand them.",
+      "hint": "Choose features that organise factual information by subtopic."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 3,
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LA03-P-004",
@@ -116,122 +119,13 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA03",
     "bank": "practice",
-    "skill": "organising_paper_plane_instructions_reason",
-    "question": "A student answers “Show the finished plane without listing materials or steps.”. Which feedback helps? Task: Which layout would best help a reader make a paper plane?",
-    "audio_prompt": "A student answers “Show the finished plane without listing materials or steps.”. Which feedback helps? Task: Which layout would best help a reader make a paper plane?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la03.svg#ac9e2la03-p-004",
-      "alt_text": "Three-step Text Structures for Different Purposes organiser. Read: organising paper-plane instructions. Notice: Recognise story structure. Correct the student's mix-up using the full task."
-    },
-    "answers": [
-      {
-        "text": "Keep “Show the finished plane without listing materials or steps.”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “Number the folding actions but place them in reverse order.” instead; it sounds clearer.",
-        "is_correct": false
-      },
-      {
-        "text": "The reader needs to know what to use and what to do first, next and last.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The reader needs to know what to use and what to do first, next and last. A procedure lists what is needed and puts the actions in a usable order.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E2LA03-P-005",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA03",
-    "bank": "practice",
-    "skill": "grouping_facts_in_a_frog_report_apply",
-    "question": "Which features best organise an information report about frogs?",
-    "audio_prompt": "Which features best organise an information report about frogs?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la03.svg#ac9e2la03-p-005",
-      "alt_text": "Three-step Text Structures for Different Purposes organiser. Read: grouping facts in a frog report. Notice: Recognise procedure structure. Choose the response supported by the example."
-    },
-    "answers": [
-      {
-        "text": "Headings for habitat and food with facts and labelled diagrams.",
-        "is_correct": true
-      },
-      {
-        "text": "Put every frog fact in one long paragraph without headings.",
-        "is_correct": false
-      },
-      {
-        "text": "Give an opinion about the best frog but leave out factual evidence.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Headings and diagrams group related facts so readers can find and understand them.",
-      "hint": "Choose features that organise factual information by subtopic."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9E2LA03-P-006",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA03",
-    "bank": "practice",
-    "skill": "grouping_facts_in_a_frog_report_reason",
-    "question": "A student answers “Put every frog fact in one long paragraph without headings.”. Which feedback helps? Task: Which features best organise an information report about frogs?",
-    "audio_prompt": "A student answers “Put every frog fact in one long paragraph without headings.”. Which feedback helps? Task: Which features best organise an information report about frogs?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la03.svg#ac9e2la03-p-006",
-      "alt_text": "Three-step Text Structures for Different Purposes organiser. Read: grouping facts in a frog report. Notice: Recognise procedure structure. Correct the student's mix-up using the full task."
-    },
-    "answers": [
-      {
-        "text": "Keep “Put every frog fact in one long paragraph without headings.”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose features that organise factual information by subtopic.",
-        "is_correct": true
-      },
-      {
-        "text": "Choose “Give an opinion about the best frog but leave out factual evidence.” instead; it sounds clearer.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Choose features that organise factual information by subtopic. Headings and diagrams group related facts so readers can find and understand them.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E2LA03-P-007",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA03",
-    "bank": "practice",
-    "skill": "sequencing_an_excursion_recount_apply",
+    "stage": "recognise",
+    "skill": "sequencing_an_excursion_recount_direct",
     "question": "Which opening best begins a recount of yesterday's zoo trip?",
     "audio_prompt": "Which opening best begins a recount of yesterday's zoo trip?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la03.svg#ac9e2la03-p-007",
-      "alt_text": "Three-step Text Structures for Different Purposes organiser. Read: sequencing an excursion recount. Notice: Recognise information structure. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
@@ -254,201 +148,98 @@
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 4,
+    "quality_schema": "student-facing-v3"
   },
   {
-    "id": "AC9E2LA03-P-008",
+    "id": "AC9E2LA03-P-005",
     "subject": "english",
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA03",
     "bank": "practice",
-    "skill": "sequencing_an_excursion_recount_reason",
-    "question": "A student answers “Give visitors commands instead of retelling what happened yesterday.”. Which feedback helps? Task: Which opening best begins a recount of yesterday's zoo trip?",
-    "audio_prompt": "A student answers “Give visitors commands instead of retelling what happened yesterday.”. Which feedback helps? Task: Which opening best begins a recount of yesterday's zoo trip?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la03.svg#ac9e2la03-p-008",
-      "alt_text": "Three-step Text Structures for Different Purposes organiser. Read: sequencing an excursion recount. Notice: Recognise information structure. Correct the student's mix-up using the full task."
-    },
-    "answers": [
-      {
-        "text": "A recount tells what happened, usually from earlier to later.",
-        "is_correct": true
-      },
-      {
-        "text": "Keep “Give visitors commands instead of retelling what happened yesterday.”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “List zoo facts under headings without telling what the class did.” instead; it sounds clearer.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "A recount tells what happened, usually from earlier to later. The sentence uses past tense and begins the real events in time order.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E2LA03-P-009",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA03",
-    "bank": "practice",
-    "skill": "ordering_procedure_steps_apply",
+    "stage": "recognise",
+    "skill": "ordering_procedure_steps_direct",
     "question": "A seed-planting procedure is mixed up. Which step should come before ‘Water the soil’?",
     "audio_prompt": "A seed-planting procedure is mixed up. Which step should come before ‘Water the soil’?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la03.svg#ac9e2la03-p-009",
-      "alt_text": "Three-step Text Structures for Different Purposes organiser. Read: ordering procedure steps. Notice: Explain language features. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Move the planted pot onto a sunny shelf.",
-        "is_correct": false
-      },
-      {
         "text": "Place the seed in a small hole and cover it with soil.",
         "is_correct": true
+      },
+      {
+        "text": "Move the planted pot onto a sunny shelf.",
+        "is_correct": false
       },
       {
         "text": "Measure the shoot after it begins to grow.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
       "summary": "The seed must be placed and covered before the planted soil is watered.",
       "hint": "Think about which action must happen first for the next step to work."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 5,
+    "quality_schema": "student-facing-v3"
   },
   {
-    "id": "AC9E2LA03-P-010",
+    "id": "AC9E2LA03-P-006",
     "subject": "english",
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA03",
     "bank": "practice",
-    "skill": "ordering_procedure_steps_reason",
-    "question": "A student answers “Move the planted pot onto a sunny shelf.”. Which feedback helps? Task: A seed-planting procedure is mixed up. Which step should come before ‘Water the soil’?",
-    "audio_prompt": "A student answers “Move the planted pot onto a sunny shelf.”. Which feedback helps? Task: A seed-planting procedure is mixed up. Which step should come before ‘Water the soil’?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la03.svg#ac9e2la03-p-010",
-      "alt_text": "Three-step Text Structures for Different Purposes organiser. Read: ordering procedure steps. Notice: Explain language features. Correct the student's mix-up using the full task."
-    },
-    "answers": [
-      {
-        "text": "Keep “Move the planted pot onto a sunny shelf.”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “Measure the shoot after it begins to grow.” instead; it sounds clearer.",
-        "is_correct": false
-      },
-      {
-        "text": "Think about which action must happen first for the next step to work.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Think about which action must happen first for the next step to work. The seed must be placed and covered before the planted soil is watered.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E2LA03-P-011",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA03",
-    "bank": "practice",
-    "skill": "using_headings_to_locate_facts_apply",
+    "stage": "recognise",
+    "skill": "using_headings_to_locate_facts_direct",
     "question": "A report has the headings ‘Body’, ‘Habitat’ and ‘Food’. Where should a fact about a wombat's burrow go?",
     "audio_prompt": "A report has the headings ‘Body’, ‘Habitat’ and ‘Food’. Where should a fact about a wombat's burrow go?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la03.svg#ac9e2la03-p-011",
-      "alt_text": "Three-step Text Structures for Different Purposes organiser. Read: using headings to locate facts. Notice: Identify purpose. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Under ‘Habitat’.",
-        "is_correct": true
-      },
-      {
         "text": "Under ‘Body’.",
         "is_correct": false
+      },
+      {
+        "text": "Under ‘Habitat’.",
+        "is_correct": true
       },
       {
         "text": "Under ‘Food’.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
       "summary": "A burrow is where a wombat lives, so the fact belongs with habitat information.",
       "hint": "Match the fact to the heading that names its subtopic."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 6,
+    "quality_schema": "student-facing-v3"
   },
   {
-    "id": "AC9E2LA03-P-012",
+    "id": "AC9E2LA03-P-007",
     "subject": "english",
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA03",
     "bank": "practice",
-    "skill": "using_headings_to_locate_facts_reason",
-    "question": "A student answers “Under ‘Food’.”. Which feedback helps? Task: A report has the headings ‘Body’, ‘Habitat’ and ‘Food’. Where should a fact about a wombat's burrow go?",
-    "audio_prompt": "A student answers “Under ‘Food’.”. Which feedback helps? Task: A report has the headings ‘Body’, ‘Habitat’ and ‘Food’. Where should a fact about a wombat's burrow go?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la03.svg#ac9e2la03-p-012",
-      "alt_text": "Three-step Text Structures for Different Purposes organiser. Read: using headings to locate facts. Notice: Identify purpose. Correct the student's mix-up using the full task."
-    },
-    "answers": [
-      {
-        "text": "Keep “Under ‘Food’.”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Match the fact to the heading that names its subtopic.",
-        "is_correct": true
-      },
-      {
-        "text": "Choose “Under ‘Body’.” instead; it sounds clearer.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Match the fact to the heading that names its subtopic. A burrow is where a wombat lives, so the fact belongs with habitat information.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E2LA03-P-013",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA03",
-    "bank": "practice",
-    "skill": "organising_one_topic_for_two_purposes_apply",
+    "stage": "recognise",
+    "skill": "organising_one_topic_for_two_purposes_direct",
     "question": "A story and a report are both about sharks. Why should their structures differ?",
     "audio_prompt": "A story and a report are both about sharks. Why should their structures differ?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la03.svg#ac9e2la03-p-013",
-      "alt_text": "Three-step Text Structures for Different Purposes organiser. Read: organising one topic for two purposes. Notice: Recognise story structure. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
@@ -469,203 +260,100 @@
       "summary": "Texts on the same topic are organised differently when they have different purposes.",
       "hint": "Compare the job of each text, not just its topic."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 7,
+    "quality_schema": "student-facing-v3"
   },
   {
-    "id": "AC9E2LA03-P-014",
+    "id": "AC9E2LA03-P-008",
     "subject": "english",
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA03",
     "bank": "practice",
-    "skill": "organising_one_topic_for_two_purposes_reason",
-    "question": "A student answers “The shared shark topic means both texts should use the same structure.”. Which feedback helps? Task: A story and a report are both about sharks. Why should their structures differ?",
-    "audio_prompt": "A student answers “The shared shark topic means both texts should use the same structure.”. Which feedback helps? Task: A story and a report are both about sharks. Why should their structures differ?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la03.svg#ac9e2la03-p-014",
-      "alt_text": "Three-step Text Structures for Different Purposes organiser. Read: organising one topic for two purposes. Notice: Recognise story structure. Correct the student's mix-up using the full task."
-    },
-    "answers": [
-      {
-        "text": "Compare the job of each text, not just its topic.",
-        "is_correct": true
-      },
-      {
-        "text": "Keep “The shared shark topic means both texts should use the same structure.”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “The story should group facts, while the report should build a fictional problem.” instead; it sounds clearer.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Compare the job of each text, not just its topic. Texts on the same topic are organised differently when they have different purposes.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E2LA03-P-015",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA03",
-    "bank": "practice",
-    "skill": "organising_a_persuasive_water_poster_apply",
+    "stage": "recognise",
+    "skill": "organising_a_persuasive_water_poster_direct",
     "question": "Which plan best suits a poster asking families to save water?",
     "audio_prompt": "Which plan best suits a poster asking families to save water?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la03.svg#ac9e2la03-p-015",
-      "alt_text": "Three-step Text Structures for Different Purposes organiser. Read: organising a persuasive water poster. Notice: Recognise procedure structure. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "State that saving water matters but give no supporting reasons.",
-        "is_correct": false
-      },
-      {
         "text": "State the request, give reasons, then add a clear call to act.",
         "is_correct": true
+      },
+      {
+        "text": "State that saving water matters but give no supporting reasons.",
+        "is_correct": false
       },
       {
         "text": "List facts about water but make no request or call to act.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
       "summary": "A persuasive poster presents a position, supports it and encourages action.",
       "hint": "Choose a structure that helps convince the audience to do something."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 8,
+    "quality_schema": "student-facing-v3"
   },
   {
-    "id": "AC9E2LA03-P-016",
+    "id": "AC9E2LA03-P-009",
     "subject": "english",
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA03",
     "bank": "practice",
-    "skill": "organising_a_persuasive_water_poster_reason",
-    "question": "A student answers “List facts about water but make no request or call to act.”. Which feedback helps? Task: Which plan best suits a poster asking families to save water?",
-    "audio_prompt": "A student answers “List facts about water but make no request or call to act.”. Which feedback helps? Task: Which plan best suits a poster asking families to save water?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la03.svg#ac9e2la03-p-016",
-      "alt_text": "Three-step Text Structures for Different Purposes organiser. Read: organising a persuasive water poster. Notice: Recognise procedure structure. Correct the student's mix-up using the full task."
-    },
-    "answers": [
-      {
-        "text": "Keep “List facts about water but make no request or call to act.”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “State that saving water matters but give no supporting reasons.” instead; it sounds clearer.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose a structure that helps convince the audience to do something.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Choose a structure that helps convince the audience to do something. A persuasive poster presents a position, supports it and encourages action.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E2LA03-P-017",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA03",
-    "bank": "practice",
-    "skill": "recording_science_investigation_results_apply",
+    "stage": "recognise",
+    "skill": "recording_science_investigation_results_direct",
     "question": "A class tested which paper towel held more water. What belongs in the results section?",
     "audio_prompt": "A class tested which paper towel held more water. What belongs in the results section?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la03.svg#ac9e2la03-p-017",
-      "alt_text": "Three-step Text Structures for Different Purposes organiser. Read: recording science investigation results. Notice: Recognise information structure. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "A table showing how many drops each towel held.",
-        "is_correct": true
-      },
-      {
         "text": "The prediction written before the towels were tested.",
         "is_correct": false
+      },
+      {
+        "text": "A table showing how many drops each towel held.",
+        "is_correct": true
       },
       {
         "text": "The list of equipment used to complete the test.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
       "summary": "The results section records the observations or measurements from the investigation.",
       "hint": "Look for evidence collected during the test."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 9,
+    "quality_schema": "student-facing-v3"
   },
   {
-    "id": "AC9E2LA03-P-018",
+    "id": "AC9E2LA03-P-010",
     "subject": "english",
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA03",
     "bank": "practice",
-    "skill": "recording_science_investigation_results_reason",
-    "question": "A student answers “The prediction written before the towels were tested.”. Which feedback helps? Task: A class tested which paper towel held more water. What belongs in the results section?",
-    "audio_prompt": "A student answers “The prediction written before the towels were tested.”. Which feedback helps? Task: A class tested which paper towel held more water. What belongs in the results section?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la03.svg#ac9e2la03-p-018",
-      "alt_text": "Three-step Text Structures for Different Purposes organiser. Read: recording science investigation results. Notice: Recognise information structure. Correct the student's mix-up using the full task."
-    },
-    "answers": [
-      {
-        "text": "Keep “The prediction written before the towels were tested.”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Look for evidence collected during the test.",
-        "is_correct": true
-      },
-      {
-        "text": "Choose “The list of equipment used to complete the test.” instead; it sounds clearer.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Look for evidence collected during the test. The results section records the observations or measurements from the investigation.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E2LA03-P-019",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA03",
-    "bank": "practice",
-    "skill": "organising_a_friendly_email_apply",
+    "stage": "recognise",
+    "skill": "organising_a_friendly_email_direct",
     "question": "Which order best suits an email to a cousin about a school concert?",
     "audio_prompt": "Which order best suits an email to a cousin about a school concert?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la03.svg#ac9e2la03-p-019",
-      "alt_text": "Three-step Text Structures for Different Purposes organiser. Read: organising a friendly email. Notice: Explain language features. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
@@ -688,7 +376,350 @@
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 10,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA03-P-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA03",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "organising_a_simple_narrative_explain",
+    "question": "Which plan best suits a story about Kira finding a tiny door? Why is “Introduce Kira, show the door problem, then resolve it.” the best answer?",
+    "audio_prompt": "Which plan best suits a story about Kira finding a tiny door? Why is “Introduce Kira, show the door problem, then resolve it.” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A narrative introduces a situation, develops a problem and shows how it is resolved.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best only because it is longer than “Describe Kira and the door but leave the main problem unsolved.”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A narrative introduces a situation, develops a problem and shows how it is resolved.",
+      "hint": "Look for a plan that organises characters and events into a story."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 11,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA03-P-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA03",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "organising_paper_plane_instructions_explain",
+    "question": "Which layout would best help a reader make a paper plane? Why is “A materials list followed by numbered folding steps.” the best answer?",
+    "audio_prompt": "Which layout would best help a reader make a paper plane? Why is “A materials list followed by numbered folding steps.” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “Number the folding actions but place them in reverse order.”.",
+        "is_correct": false
+      },
+      {
+        "text": "A procedure lists what is needed and puts the actions in a usable order.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A procedure lists what is needed and puts the actions in a usable order.",
+      "hint": "The reader needs to know what to use and what to do first, next and last."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 12,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA03-P-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA03",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "grouping_facts_in_a_frog_report_explain",
+    "question": "Which features best organise an information report about frogs? Why is “Headings for habitat and food with facts and labelled diagrams.” the best answer?",
+    "audio_prompt": "Which features best organise an information report about frogs? Why is “Headings for habitat and food with facts and labelled diagrams.” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “Put every frog fact in one long paragraph without headings.”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "Headings and diagrams group related facts so readers can find and understand them.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Headings and diagrams group related facts so readers can find and understand them.",
+      "hint": "Choose features that organise factual information by subtopic."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 13,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA03-P-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA03",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "sequencing_an_excursion_recount_explain",
+    "question": "Which opening best begins a recount of yesterday's zoo trip? Why is “Yesterday, we arrived at the zoo and met our guide.” the best answer?",
+    "audio_prompt": "Which opening best begins a recount of yesterday's zoo trip? Why is “Yesterday, we arrived at the zoo and met our guide.” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The sentence uses past tense and begins the real events in time order.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best only because it is longer than “List zoo facts under headings without telling what the class did.”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The sentence uses past tense and begins the real events in time order.",
+      "hint": "A recount tells what happened, usually from earlier to later."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 14,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA03-P-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA03",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "ordering_procedure_steps_explain",
+    "question": "A seed-planting procedure is mixed up. Which step should come before ‘Water the soil’? Why is “Place the seed in a small hole and cover it with soil.” the best answer?",
+    "audio_prompt": "A seed-planting procedure is mixed up. Which step should come before ‘Water the soil’? Why is “Place the seed in a small hole and cover it with soil.” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “Move the planted pot onto a sunny shelf.”.",
+        "is_correct": false
+      },
+      {
+        "text": "The seed must be placed and covered before the planted soil is watered.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The seed must be placed and covered before the planted soil is watered.",
+      "hint": "Think about which action must happen first for the next step to work."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 15,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA03-P-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA03",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "using_headings_to_locate_facts_explain",
+    "question": "A report has the headings ‘Body’, ‘Habitat’ and ‘Food’. Where should a fact about a wombat's burrow go? Why is “Under ‘Habitat’.” the best answer?",
+    "audio_prompt": "A report has the headings ‘Body’, ‘Habitat’ and ‘Food’. Where should a fact about a wombat's burrow go? Why is “Under ‘Habitat’.” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “Under ‘Body’.”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "A burrow is where a wombat lives, so the fact belongs with habitat information.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A burrow is where a wombat lives, so the fact belongs with habitat information.",
+      "hint": "Match the fact to the heading that names its subtopic."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 16,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA03-P-017",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA03",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "organising_one_topic_for_two_purposes_explain",
+    "question": "A story and a report are both about sharks. Why should their structures differ? Why is “The story entertains with events; the report informs with grouped facts.” the best answer?",
+    "audio_prompt": "A story and a report are both about sharks. Why should their structures differ? Why is “The story entertains with events; the report informs with grouped facts.” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Texts on the same topic are organised differently when they have different purposes.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best only because it is longer than “The shared shark topic means both texts should use the same structure.”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Texts on the same topic are organised differently when they have different purposes.",
+      "hint": "Compare the job of each text, not just its topic."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 17,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA03-P-018",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA03",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "organising_a_persuasive_water_poster_explain",
+    "question": "Which plan best suits a poster asking families to save water? Why is “State the request, give reasons, then add a clear call to act.” the best answer?",
+    "audio_prompt": "Which plan best suits a poster asking families to save water? Why is “State the request, give reasons, then add a clear call to act.” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “State that saving water matters but give no supporting reasons.”.",
+        "is_correct": false
+      },
+      {
+        "text": "A persuasive poster presents a position, supports it and encourages action.",
+        "is_correct": true
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A persuasive poster presents a position, supports it and encourages action.",
+      "hint": "Choose a structure that helps convince the audience to do something."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 18,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA03-P-019",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA03",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "recording_science_investigation_results_explain",
+    "question": "A class tested which paper towel held more water. What belongs in the results section? Why is “A table showing how many drops each towel held.” the best answer?",
+    "audio_prompt": "A class tested which paper towel held more water. What belongs in the results section? Why is “A table showing how many drops each towel held.” the best answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is best only because it is longer than “The prediction written before the towels were tested.”.",
+        "is_correct": false
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The results section records the observations or measurements from the investigation.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The results section records the observations or measurements from the investigation.",
+      "hint": "Look for evidence collected during the test."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 19,
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LA03-P-020",
@@ -696,35 +727,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA03",
     "bank": "practice",
-    "skill": "organising_a_friendly_email_reason",
-    "question": "A student answers “Give concert instructions instead of sharing the news with the cousin.”. Which feedback helps? Task: Which order best suits an email to a cousin about a school concert?",
-    "audio_prompt": "A student answers “Give concert instructions instead of sharing the news with the cousin.”. Which feedback helps? Task: Which order best suits an email to a cousin about a school concert?",
+    "stage": "explain",
+    "skill": "organising_a_friendly_email_explain",
+    "question": "Which order best suits an email to a cousin about a school concert? Why is “Greeting, clear message, friendly closing and name.” the best answer?",
+    "audio_prompt": "Which order best suits an email to a cousin about a school concert? Why is “Greeting, clear message, friendly closing and name.” the best answer?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la03.svg#ac9e2la03-p-020",
-      "alt_text": "Three-step Text Structures for Different Purposes organiser. Read: organising a friendly email. Notice: Explain language features. Correct the student's mix-up using the full task."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Think about what helps the named reader follow a personal message.",
+        "text": "A friendly email greets the reader, shares its message and ends appropriately.",
         "is_correct": true
       },
       {
-        "text": "Keep “Give concert instructions instead of sharing the news with the cousin.”; it uses a detail that sounds familiar.",
+        "text": "It is best only because it is longer than “Write the message without a greeting, closing or sender's name.”.",
         "is_correct": false
       },
       {
-        "text": "Choose “Write the message without a greeting, closing or sender's name.” instead; it sounds clearer.",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Think about what helps the named reader follow a personal message. A friendly email greets the reader, shares its message and ends appropriately.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A friendly email greets the reader, shares its message and ends appropriately.",
+      "hint": "Think about what helps the named reader follow a personal message."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 20,
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LA03-P-021",
@@ -732,36 +765,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA03",
     "bank": "practice",
-    "skill": "following_a_recipe_apply",
-    "question": "Which sentence sounds like a useful step in a fruit-salad recipe?",
-    "audio_prompt": "Which sentence sounds like a useful step in a fruit-salad recipe?",
+    "stage": "discriminate",
+    "skill": "grouping_facts_in_a_frog_report_discriminate",
+    "question": "Which features best organise an information report about frogs? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Which features best organise an information report about frogs? Which response is the clearest mix-up to avoid?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la03.svg#ac9e2la03-p-021",
-      "alt_text": "Three-step Text Structures for Different Purposes organiser. Read: following a recipe. Notice: Identify purpose. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "The fruit looked sweet and colourful in the bowl.",
+        "text": "Headings for habitat and food with facts and labelled diagrams.",
         "is_correct": false
       },
       {
-        "text": "Next, place the sliced fruit in a large bowl.",
+        "text": "Put every frog fact in one long paragraph without headings.",
         "is_correct": true
       },
       {
-        "text": "Yesterday, our class made fruit salad after lunch.",
+        "text": "Give an opinion about the best frog but leave out factual evidence.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The command and sequence word tell the reader what action comes next.",
-      "hint": "A recipe step should direct an action in a clear order."
+      "summary": "“Put every frog fact in one long paragraph without headings.” is the mix-up to avoid. Choose features that organise factual information by subtopic.",
+      "hint": "Choose features that organise factual information by subtopic."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 21,
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LA03-P-022",
@@ -769,35 +803,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA03",
     "bank": "practice",
-    "skill": "following_a_recipe_reason",
-    "question": "A student answers “The fruit looked sweet and colourful in the bowl.”. Which feedback helps? Task: Which sentence sounds like a useful step in a fruit-salad recipe?",
-    "audio_prompt": "A student answers “The fruit looked sweet and colourful in the bowl.”. Which feedback helps? Task: Which sentence sounds like a useful step in a fruit-salad recipe?",
+    "stage": "discriminate",
+    "skill": "sequencing_an_excursion_recount_discriminate",
+    "question": "Which opening best begins a recount of yesterday's zoo trip? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Which opening best begins a recount of yesterday's zoo trip? Which response is the clearest mix-up to avoid?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la03.svg#ac9e2la03-p-022",
-      "alt_text": "Three-step Text Structures for Different Purposes organiser. Read: following a recipe. Notice: Identify purpose. Correct the student's mix-up using the full task."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Keep “The fruit looked sweet and colourful in the bowl.”; it uses a detail that sounds familiar.",
+        "text": "Yesterday, we arrived at the zoo and met our guide.",
         "is_correct": false
       },
       {
-        "text": "Choose “Yesterday, our class made fruit salad after lunch.” instead; it sounds clearer.",
+        "text": "Give visitors commands instead of retelling what happened yesterday.",
         "is_correct": false
       },
       {
-        "text": "A recipe step should direct an action in a clear order.",
+        "text": "List zoo facts under headings without telling what the class did.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A recipe step should direct an action in a clear order. The command and sequence word tell the reader what action comes next.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "“List zoo facts under headings without telling what the class did.” is the mix-up to avoid. A recount tells what happened, usually from earlier to later.",
+      "hint": "A recount tells what happened, usually from earlier to later."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "application",
+    "sequence_priority": 22,
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LA03-P-023",
@@ -805,35 +841,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA03",
     "bank": "practice",
-    "skill": "using_a_biography_timeline_apply",
-    "question": "Why would a biography about Dr Fiona Wood include a timeline?",
-    "audio_prompt": "Why would a biography about Dr Fiona Wood include a timeline?",
+    "stage": "discriminate",
+    "skill": "ordering_procedure_steps_discriminate",
+    "question": "A seed-planting procedure is mixed up. Which step should come before ‘Water the soil’? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "A seed-planting procedure is mixed up. Which step should come before ‘Water the soil’? Which response is the clearest mix-up to avoid?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la03.svg#ac9e2la03-p-023",
-      "alt_text": "Three-step Text Structures for Different Purposes organiser. Read: using a biography timeline. Notice: Recognise story structure. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "To show important life events and achievements in date order.",
+        "text": "Move the planted pot onto a sunny shelf.",
         "is_correct": true
       },
       {
-        "text": "To rank achievements from best to least instead of using dates.",
+        "text": "Place the seed in a small hole and cover it with soil.",
         "is_correct": false
       },
       {
-        "text": "To show only the latest achievement and leave out earlier events.",
+        "text": "Measure the shoot after it begins to grow.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A timeline helps readers follow real events and achievements in chronological order.",
-      "hint": "Think about how dates help organise information about a person's life."
+      "summary": "“Move the planted pot onto a sunny shelf.” is the mix-up to avoid. Think about which action must happen first for the next step to work.",
+      "hint": "Think about which action must happen first for the next step to work."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "application",
+    "sequence_priority": 23,
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LA03-P-024",
@@ -841,35 +879,645 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA03",
     "bank": "practice",
-    "skill": "using_a_biography_timeline_reason",
-    "question": "A student answers “To show only the latest achievement and leave out earlier events.”. Which feedback helps? Task: Why would a biography about Dr Fiona Wood include a timeline?",
-    "audio_prompt": "A student answers “To show only the latest achievement and leave out earlier events.”. Which feedback helps? Task: Why would a biography about Dr Fiona Wood include a timeline?",
+    "stage": "discriminate",
+    "skill": "using_headings_to_locate_facts_discriminate",
+    "question": "A report has the headings ‘Body’, ‘Habitat’ and ‘Food’. Where should a fact about a wombat's burrow go? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "A report has the headings ‘Body’, ‘Habitat’ and ‘Food’. Where should a fact about a wombat's burrow go? Which response is the clearest mix-up to avoid?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la03.svg#ac9e2la03-p-024",
-      "alt_text": "Three-step Text Structures for Different Purposes organiser. Read: using a biography timeline. Notice: Recognise story structure. Correct the student's mix-up using the full task."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Keep “To show only the latest achievement and leave out earlier events.”; it uses a detail that sounds familiar.",
+        "text": "Under ‘Habitat’.",
         "is_correct": false
       },
       {
-        "text": "Think about how dates help organise information about a person's life.",
+        "text": "Under ‘Body’.",
         "is_correct": true
       },
       {
-        "text": "Choose “To rank achievements from best to least instead of using dates.” instead; it sounds clearer.",
+        "text": "Under ‘Food’.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Think about how dates help organise information about a person's life. A timeline helps readers follow real events and achievements in chronological order.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "“Under ‘Body’.” is the mix-up to avoid. Match the fact to the heading that names its subtopic.",
+      "hint": "Match the fact to the heading that names its subtopic."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "application",
+    "sequence_priority": 24,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA03-P-025",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA03",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "organising_one_topic_for_two_purposes_discriminate",
+    "question": "A story and a report are both about sharks. Why should their structures differ? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "A story and a report are both about sharks. Why should their structures differ? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The story entertains with events; the report informs with grouped facts.",
+        "is_correct": false
+      },
+      {
+        "text": "The story should group facts, while the report should build a fictional problem.",
+        "is_correct": false
+      },
+      {
+        "text": "The shared shark topic means both texts should use the same structure.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“The shared shark topic means both texts should use the same structure.” is the mix-up to avoid. Compare the job of each text, not just its topic.",
+      "hint": "Compare the job of each text, not just its topic."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 25,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA03-P-026",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA03",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "organising_a_persuasive_water_poster_discriminate",
+    "question": "Which plan best suits a poster asking families to save water? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Which plan best suits a poster asking families to save water? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "State that saving water matters but give no supporting reasons.",
+        "is_correct": true
+      },
+      {
+        "text": "State the request, give reasons, then add a clear call to act.",
+        "is_correct": false
+      },
+      {
+        "text": "List facts about water but make no request or call to act.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“State that saving water matters but give no supporting reasons.” is the mix-up to avoid. Choose a structure that helps convince the audience to do something.",
+      "hint": "Choose a structure that helps convince the audience to do something."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 26,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA03-P-027",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA03",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "recording_science_investigation_results_discriminate",
+    "question": "A class tested which paper towel held more water. What belongs in the results section? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "A class tested which paper towel held more water. What belongs in the results section? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A table showing how many drops each towel held.",
+        "is_correct": false
+      },
+      {
+        "text": "The prediction written before the towels were tested.",
+        "is_correct": true
+      },
+      {
+        "text": "The list of equipment used to complete the test.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“The prediction written before the towels were tested.” is the mix-up to avoid. Look for evidence collected during the test.",
+      "hint": "Look for evidence collected during the test."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 27,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA03-P-028",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA03",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "organising_a_friendly_email_discriminate",
+    "question": "Which order best suits an email to a cousin about a school concert? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Which order best suits an email to a cousin about a school concert? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Greeting, clear message, friendly closing and name.",
+        "is_correct": false
+      },
+      {
+        "text": "Give concert instructions instead of sharing the news with the cousin.",
+        "is_correct": false
+      },
+      {
+        "text": "Write the message without a greeting, closing or sender's name.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“Write the message without a greeting, closing or sender's name.” is the mix-up to avoid. Think about what helps the named reader follow a personal message.",
+      "hint": "Think about what helps the named reader follow a personal message."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 28,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA03-P-029",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA03",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "following_a_recipe_discriminate",
+    "question": "Which sentence sounds like a useful step in a fruit-salad recipe? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Which sentence sounds like a useful step in a fruit-salad recipe? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The fruit looked sweet and colourful in the bowl.",
+        "is_correct": true
+      },
+      {
+        "text": "Next, place the sliced fruit in a large bowl.",
+        "is_correct": false
+      },
+      {
+        "text": "Yesterday, our class made fruit salad after lunch.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“The fruit looked sweet and colourful in the bowl.” is the mix-up to avoid. A recipe step should direct an action in a clear order.",
+      "hint": "A recipe step should direct an action in a clear order."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 29,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA03-P-030",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA03",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "using_a_biography_timeline_discriminate",
+    "question": "Why would a biography about Dr Fiona Wood include a timeline? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Why would a biography about Dr Fiona Wood include a timeline? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "To show important life events and achievements in date order.",
+        "is_correct": false
+      },
+      {
+        "text": "To rank achievements from best to least instead of using dates.",
+        "is_correct": true
+      },
+      {
+        "text": "To show only the latest achievement and leave out earlier events.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“To rank achievements from best to least instead of using dates.” is the mix-up to avoid. Think about how dates help organise information about a person's life.",
+      "hint": "Think about how dates help organise information about a person's life."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 30,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA03-P-031",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "grouping_facts_in_a_frog_report_apply",
+    "question": "Use this clue: Choose features that organise factual information by subtopic. Which features best organise an information report about frogs?",
+    "audio_prompt": "Use this clue: Choose features that organise factual information by subtopic. Which features best organise an information report about frogs?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Give an opinion about the best frog but leave out factual evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Put every frog fact in one long paragraph without headings.",
+        "is_correct": false
+      },
+      {
+        "text": "Headings for habitat and food with facts and labelled diagrams.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Headings and diagrams group related facts so readers can find and understand them.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 31,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA03-P-032",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "sequencing_an_excursion_recount_apply",
+    "question": "Use this clue: A recount tells what happened, usually from earlier to later. Which opening best begins a recount of yesterday's zoo trip?",
+    "audio_prompt": "Use this clue: A recount tells what happened, usually from earlier to later. Which opening best begins a recount of yesterday's zoo trip?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Yesterday, we arrived at the zoo and met our guide.",
+        "is_correct": true
+      },
+      {
+        "text": "Give visitors commands instead of retelling what happened yesterday.",
+        "is_correct": false
+      },
+      {
+        "text": "List zoo facts under headings without telling what the class did.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The sentence uses past tense and begins the real events in time order.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 32,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA03-P-033",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "ordering_procedure_steps_apply",
+    "question": "Use this clue: Think about which action must happen first for the next step to work. A seed-planting procedure is mixed up. Which step should come before ‘Water the soil’?",
+    "audio_prompt": "Use this clue: Think about which action must happen first for the next step to work. A seed-planting procedure is mixed up. Which step should come before ‘Water the soil’?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Measure the shoot after it begins to grow.",
+        "is_correct": false
+      },
+      {
+        "text": "Place the seed in a small hole and cover it with soil.",
+        "is_correct": true
+      },
+      {
+        "text": "Move the planted pot onto a sunny shelf.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The seed must be placed and covered before the planted soil is watered.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 33,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA03-P-034",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "using_headings_to_locate_facts_apply",
+    "question": "Use this clue: Match the fact to the heading that names its subtopic. A report has the headings ‘Body’, ‘Habitat’ and ‘Food’. Where should a fact about a wombat's burrow go?",
+    "audio_prompt": "Use this clue: Match the fact to the heading that names its subtopic. A report has the headings ‘Body’, ‘Habitat’ and ‘Food’. Where should a fact about a wombat's burrow go?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Under ‘Food’.",
+        "is_correct": false
+      },
+      {
+        "text": "Under ‘Body’.",
+        "is_correct": false
+      },
+      {
+        "text": "Under ‘Habitat’.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A burrow is where a wombat lives, so the fact belongs with habitat information.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 34,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA03-P-035",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "organising_one_topic_for_two_purposes_apply",
+    "question": "Use this clue: Compare the job of each text, not just its topic. A story and a report are both about sharks. Why should their structures differ?",
+    "audio_prompt": "Use this clue: Compare the job of each text, not just its topic. A story and a report are both about sharks. Why should their structures differ?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The story entertains with events; the report informs with grouped facts.",
+        "is_correct": true
+      },
+      {
+        "text": "The story should group facts, while the report should build a fictional problem.",
+        "is_correct": false
+      },
+      {
+        "text": "The shared shark topic means both texts should use the same structure.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Texts on the same topic are organised differently when they have different purposes.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 35,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA03-P-036",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "organising_a_persuasive_water_poster_apply",
+    "question": "Use this clue: Choose a structure that helps convince the audience to do something. Which plan best suits a poster asking families to save water?",
+    "audio_prompt": "Use this clue: Choose a structure that helps convince the audience to do something. Which plan best suits a poster asking families to save water?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "List facts about water but make no request or call to act.",
+        "is_correct": false
+      },
+      {
+        "text": "State the request, give reasons, then add a clear call to act.",
+        "is_correct": true
+      },
+      {
+        "text": "State that saving water matters but give no supporting reasons.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A persuasive poster presents a position, supports it and encourages action.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 36,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA03-P-037",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "recording_science_investigation_results_apply",
+    "question": "Use this clue: Look for evidence collected during the test. A class tested which paper towel held more water. What belongs in the results section?",
+    "audio_prompt": "Use this clue: Look for evidence collected during the test. A class tested which paper towel held more water. What belongs in the results section?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The list of equipment used to complete the test.",
+        "is_correct": false
+      },
+      {
+        "text": "The prediction written before the towels were tested.",
+        "is_correct": false
+      },
+      {
+        "text": "A table showing how many drops each towel held.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The results section records the observations or measurements from the investigation.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 37,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA03-P-038",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "organising_a_friendly_email_apply",
+    "question": "Use this clue: Think about what helps the named reader follow a personal message. Which order best suits an email to a cousin about a school concert?",
+    "audio_prompt": "Use this clue: Think about what helps the named reader follow a personal message. Which order best suits an email to a cousin about a school concert?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Greeting, clear message, friendly closing and name.",
+        "is_correct": true
+      },
+      {
+        "text": "Give concert instructions instead of sharing the news with the cousin.",
+        "is_correct": false
+      },
+      {
+        "text": "Write the message without a greeting, closing or sender's name.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A friendly email greets the reader, shares its message and ends appropriately.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 38,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA03-P-039",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "following_a_recipe_apply",
+    "question": "Use this clue: A recipe step should direct an action in a clear order. Which sentence sounds like a useful step in a fruit-salad recipe?",
+    "audio_prompt": "Use this clue: A recipe step should direct an action in a clear order. Which sentence sounds like a useful step in a fruit-salad recipe?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Yesterday, our class made fruit salad after lunch.",
+        "is_correct": false
+      },
+      {
+        "text": "Next, place the sliced fruit in a large bowl.",
+        "is_correct": true
+      },
+      {
+        "text": "The fruit looked sweet and colourful in the bowl.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The command and sequence word tell the reader what action comes next.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 39,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA03-P-040",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "using_a_biography_timeline_apply",
+    "question": "Use this clue: Think about how dates help organise information about a person's life. Why would a biography about Dr Fiona Wood include a timeline?",
+    "audio_prompt": "Use this clue: Think about how dates help organise information about a person's life. Why would a biography about Dr Fiona Wood include a timeline?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "To show only the latest achievement and leave out earlier events.",
+        "is_correct": false
+      },
+      {
+        "text": "To rank achievements from best to least instead of using dates.",
+        "is_correct": false
+      },
+      {
+        "text": "To show important life events and achievements in date order.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A timeline helps readers follow real events and achievements in chronological order.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 40,
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LA03-T-001",
@@ -877,13 +1525,13 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA03",
     "bank": "test",
-    "skill": "planning_an_explanation_of_rain_apply",
+    "stage": "verify",
+    "skill": "planning_an_explanation_of_rain_direct",
     "question": "Which plan best suits a short explanation of how rain forms?",
     "audio_prompt": "Which plan best suits a short explanation of how rain forms?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la03.svg#ac9e2la03-t-001",
-      "alt_text": "Three-step Text Structures for Different Purposes organiser. Read: planning an explanation of rain. Notice: Identify purpose. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
@@ -903,7 +1551,11 @@
     "explanation": {
       "summary": "The title, diagram and linked stages help explain a process clearly.",
       "hint": "Choose features that show how something happens from one stage to the next."
-    }
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 1,
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LA03-T-002",
@@ -911,33 +1563,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA03",
     "bank": "test",
-    "skill": "planning_an_explanation_of_rain_reason",
-    "question": "A student answers “List rain facts in one paragraph without showing the stages.”. Which feedback helps? Task: Which plan best suits a short explanation of how rain forms?",
-    "audio_prompt": "A student answers “List rain facts in one paragraph without showing the stages.”. Which feedback helps? Task: Which plan best suits a short explanation of how rain forms?",
+    "stage": "verify",
+    "skill": "laying_out_a_play_script_direct",
+    "question": "Which page layout best helps actors read a short play?",
+    "audio_prompt": "Which page layout best helps actors read a short play?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la03.svg#ac9e2la03-t-002",
-      "alt_text": "Three-step Text Structures for Different Purposes organiser. Read: planning an explanation of rain. Notice: Identify purpose. Correct the student's mix-up using the full task."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Choose features that show how something happens from one stage to the next.",
+        "text": "Character names before dialogue, with stage directions beside the action.",
         "is_correct": true
       },
       {
-        "text": "Keep “List rain facts in one paragraph without showing the stages.”; it uses a detail that sounds familiar.",
+        "text": "Place all dialogue in one paragraph without speaker names.",
         "is_correct": false
       },
       {
-        "text": "Choose “Show a cloud picture without labels or words linking each stage.” instead; it sounds clearer.",
+        "text": "List the actors once, then leave out dialogue breaks and stage directions.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Choose features that show how something happens from one stage to the next. The title, diagram and linked stages help explain a process clearly.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+      "summary": "Names and stage directions show actors who speaks and what happens on stage.",
+      "hint": "Choose features that help performers follow dialogue and action."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 2,
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LA03-T-003",
@@ -945,33 +1601,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA03",
     "bank": "test",
-    "skill": "laying_out_a_play_script_apply",
-    "question": "Which page layout best helps actors read a short play?",
-    "audio_prompt": "Which page layout best helps actors read a short play?",
+    "stage": "verify",
+    "skill": "placing_a_safety_warning_in_a_procedure_direct",
+    "question": "Where should ‘Ask an adult before using the hot glue gun’ appear in a model-making procedure?",
+    "audio_prompt": "Where should ‘Ask an adult before using the hot glue gun’ appear in a model-making procedure?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la03.svg#ac9e2la03-t-003",
-      "alt_text": "Three-step Text Structures for Different Purposes organiser. Read: laying out a play script. Notice: Recognise story structure. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Place all dialogue in one paragraph without speaker names.",
+        "text": "Only in the title, far away from the risky step.",
         "is_correct": false
       },
       {
-        "text": "Character names before dialogue, with stage directions beside the action.",
+        "text": "Beside the step where the hot glue gun is used.",
         "is_correct": true
       },
       {
-        "text": "List the actors once, then leave out dialogue breaks and stage directions.",
+        "text": "After the final step, when the model is already complete.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Names and stage directions show actors who speaks and what happens on stage.",
-      "hint": "Choose features that help performers follow dialogue and action."
-    }
+      "summary": "Putting the warning beside the risky step helps readers act safely at the right time.",
+      "hint": "Place information where the reader needs it during the task."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 3,
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LA03-T-004",
@@ -979,115 +1639,13 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA03",
     "bank": "test",
-    "skill": "laying_out_a_play_script_reason",
-    "question": "A student answers “List the actors once, then leave out dialogue breaks and stage directions.”. Which feedback helps? Task: Which page layout best helps actors read a short play?",
-    "audio_prompt": "A student answers “List the actors once, then leave out dialogue breaks and stage directions.”. Which feedback helps? Task: Which page layout best helps actors read a short play?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la03.svg#ac9e2la03-t-004",
-      "alt_text": "Three-step Text Structures for Different Purposes organiser. Read: laying out a play script. Notice: Recognise story structure. Correct the student's mix-up using the full task."
-    },
-    "answers": [
-      {
-        "text": "Keep “List the actors once, then leave out dialogue breaks and stage directions.”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “Place all dialogue in one paragraph without speaker names.” instead; it sounds clearer.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose features that help performers follow dialogue and action.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Choose features that help performers follow dialogue and action. Names and stage directions show actors who speaks and what happens on stage.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
-  },
-  {
-    "id": "AC9E2LA03-T-005",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA03",
-    "bank": "test",
-    "skill": "placing_a_safety_warning_in_a_procedure_apply",
-    "question": "Where should ‘Ask an adult before using the hot glue gun’ appear in a model-making procedure?",
-    "audio_prompt": "Where should ‘Ask an adult before using the hot glue gun’ appear in a model-making procedure?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la03.svg#ac9e2la03-t-005",
-      "alt_text": "Three-step Text Structures for Different Purposes organiser. Read: placing a safety warning in a procedure. Notice: Recognise procedure structure. Choose the response supported by the example."
-    },
-    "answers": [
-      {
-        "text": "Beside the step where the hot glue gun is used.",
-        "is_correct": true
-      },
-      {
-        "text": "Only in the title, far away from the risky step.",
-        "is_correct": false
-      },
-      {
-        "text": "After the final step, when the model is already complete.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Putting the warning beside the risky step helps readers act safely at the right time.",
-      "hint": "Place information where the reader needs it during the task."
-    }
-  },
-  {
-    "id": "AC9E2LA03-T-006",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA03",
-    "bank": "test",
-    "skill": "placing_a_safety_warning_in_a_procedure_reason",
-    "question": "A student answers “Only in the title, far away from the risky step.”. Which feedback helps? Task: Where should ‘Ask an adult before using the hot glue gun’ appear in a model-making procedure?",
-    "audio_prompt": "A student answers “Only in the title, far away from the risky step.”. Which feedback helps? Task: Where should ‘Ask an adult before using the hot glue gun’ appear in a model-making procedure?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la03.svg#ac9e2la03-t-006",
-      "alt_text": "Three-step Text Structures for Different Purposes organiser. Read: placing a safety warning in a procedure. Notice: Recognise procedure structure. Correct the student's mix-up using the full task."
-    },
-    "answers": [
-      {
-        "text": "Keep “Only in the title, far away from the risky step.”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Place information where the reader needs it during the task.",
-        "is_correct": true
-      },
-      {
-        "text": "Choose “After the final step, when the model is already complete.” instead; it sounds clearer.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Place information where the reader needs it during the task. Putting the warning beside the risky step helps readers act safely at the right time.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
-  },
-  {
-    "id": "AC9E2LA03-T-007",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA03",
-    "bank": "test",
-    "skill": "organising_class_survey_findings_apply",
+    "stage": "verify",
+    "skill": "organising_class_survey_findings_direct",
     "question": "Which structure best suits a report about the class's favourite fruit survey?",
     "audio_prompt": "Which structure best suits a report about the class's favourite fruit survey?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la03.svg#ac9e2la03-t-007",
-      "alt_text": "Three-step Text Structures for Different Purposes organiser. Read: organising class survey findings. Notice: Recognise information structure. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
@@ -1107,191 +1665,101 @@
     "explanation": {
       "summary": "The table displays the collected data, and the sentences explain what the results show.",
       "hint": "Choose features that organise findings so readers can compare them."
-    }
-  },
-  {
-    "id": "AC9E2LA03-T-008",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA03",
-    "bank": "test",
-    "skill": "organising_class_survey_findings_reason",
-    "question": "A student answers “Give only the writer's favourite fruit and a personal reason.”. Which feedback helps? Task: Which structure best suits a report about the class's favourite fruit survey?",
-    "audio_prompt": "A student answers “Give only the writer's favourite fruit and a personal reason.”. Which feedback helps? Task: Which structure best suits a report about the class's favourite fruit survey?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la03.svg#ac9e2la03-t-008",
-      "alt_text": "Three-step Text Structures for Different Purposes organiser. Read: organising class survey findings. Notice: Recognise information structure. Correct the student's mix-up using the full task."
     },
-    "answers": [
-      {
-        "text": "Choose features that organise findings so readers can compare them.",
-        "is_correct": true
-      },
-      {
-        "text": "Keep “Give only the writer's favourite fruit and a personal reason.”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “Write each vote in the order collected without grouping the results.” instead; it sounds clearer.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Choose features that organise findings so readers can compare them. The table displays the collected data, and the sentences explain what the results show.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 4,
+    "quality_schema": "student-facing-v3"
   },
   {
-    "id": "AC9E2LA03-T-009",
+    "id": "AC9E2LA03-T-005",
     "subject": "english",
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA03",
     "bank": "test",
-    "skill": "structuring_a_persuasive_letter_apply",
+    "stage": "verify",
+    "skill": "structuring_a_persuasive_letter_direct",
     "question": "Which order best suits a letter asking the principal for more shade trees?",
     "audio_prompt": "Which order best suits a letter asking the principal for more shade trees?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la03.svg#ac9e2la03-t-009",
-      "alt_text": "Three-step Text Structures for Different Purposes organiser. Read: structuring a persuasive letter. Notice: Explain language features. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "State the request, then list tree names without giving reasons.",
-        "is_correct": false
-      },
-      {
         "text": "State the request, give reasons and evidence, then ask for action.",
         "is_correct": true
+      },
+      {
+        "text": "State the request, then list tree names without giving reasons.",
+        "is_correct": false
       },
       {
         "text": "Describe the hot playground but never ask the principal to act.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
       "summary": "The letter clearly presents its position, supports it and tells the audience what action is wanted.",
       "hint": "A persuasive structure should build a case for the named reader."
-    }
-  },
-  {
-    "id": "AC9E2LA03-T-010",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA03",
-    "bank": "test",
-    "skill": "structuring_a_persuasive_letter_reason",
-    "question": "A student answers “State the request, then list tree names without giving reasons.”. Which feedback helps? Task: Which order best suits a letter asking the principal for more shade trees?",
-    "audio_prompt": "A student answers “State the request, then list tree names without giving reasons.”. Which feedback helps? Task: Which order best suits a letter asking the principal for more shade trees?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la03.svg#ac9e2la03-t-010",
-      "alt_text": "Three-step Text Structures for Different Purposes organiser. Read: structuring a persuasive letter. Notice: Explain language features. Correct the student's mix-up using the full task."
     },
-    "answers": [
-      {
-        "text": "Keep “State the request, then list tree names without giving reasons.”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “Describe the hot playground but never ask the principal to act.” instead; it sounds clearer.",
-        "is_correct": false
-      },
-      {
-        "text": "A persuasive structure should build a case for the named reader.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "A persuasive structure should build a case for the named reader. The letter clearly presents its position, supports it and tells the audience what action is wanted.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 5,
+    "quality_schema": "student-facing-v3"
   },
   {
-    "id": "AC9E2LA03-T-011",
+    "id": "AC9E2LA03-T-006",
     "subject": "english",
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA03",
     "bank": "test",
-    "skill": "using_time_words_in_a_recount_apply",
+    "stage": "verify",
+    "skill": "using_time_words_in_a_recount_direct",
     "question": "Which sentence helps keep a recount of sports day in time order?",
     "audio_prompt": "Which sentence helps keep a recount of sports day in time order?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la03.svg#ac9e2la03-t-011",
-      "alt_text": "Three-step Text Structures for Different Purposes organiser. Read: using time words in a recount. Notice: Identify purpose. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "After lunch, we lined up for the relay race.",
-        "is_correct": true
-      },
-      {
         "text": "Relay teams need four runners and a baton.",
         "is_correct": false
+      },
+      {
+        "text": "After lunch, we lined up for the relay race.",
+        "is_correct": true
       },
       {
         "text": "Line up behind the cone before the whistle.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
       "summary": "‘After lunch’ locates the real event in the sequence of the day.",
       "hint": "Look for past-tense events linked by a time clue."
-    }
-  },
-  {
-    "id": "AC9E2LA03-T-012",
-    "subject": "english",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9E2LA03",
-    "bank": "test",
-    "skill": "using_time_words_in_a_recount_reason",
-    "question": "A student answers “Line up behind the cone before the whistle.”. Which feedback helps? Task: Which sentence helps keep a recount of sports day in time order?",
-    "audio_prompt": "A student answers “Line up behind the cone before the whistle.”. Which feedback helps? Task: Which sentence helps keep a recount of sports day in time order?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la03.svg#ac9e2la03-t-012",
-      "alt_text": "Three-step Text Structures for Different Purposes organiser. Read: using time words in a recount. Notice: Identify purpose. Correct the student's mix-up using the full task."
     },
-    "answers": [
-      {
-        "text": "Keep “Line up behind the cone before the whistle.”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Look for past-tense events linked by a time clue.",
-        "is_correct": true
-      },
-      {
-        "text": "Choose “Relay teams need four runners and a baton.” instead; it sounds clearer.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Look for past-tense events linked by a time clue. ‘After lunch’ locates the real event in the sequence of the day.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 6,
+    "quality_schema": "student-facing-v3"
   },
   {
-    "id": "AC9E2LA03-T-013",
+    "id": "AC9E2LA03-T-007",
     "subject": "english",
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA03",
     "bank": "test",
-    "skill": "presenting_pancakes_for_two_purposes_apply",
+    "stage": "verify",
+    "skill": "presenting_pancakes_for_two_purposes_direct",
     "question": "A recipe and a café review are both about pancakes. Which pair of features suits their different purposes?",
     "audio_prompt": "A recipe and a café review are both about pancakes. Which pair of features suits their different purposes?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la03.svg#ac9e2la03-t-013",
-      "alt_text": "Three-step Text Structures for Different Purposes organiser. Read: presenting pancakes for two purposes. Notice: Recognise story structure. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
@@ -1311,7 +1779,239 @@
     "explanation": {
       "summary": "The recipe instructs the reader, while the review evaluates the food for an audience.",
       "hint": "Match each text's language features to the job it needs to do."
-    }
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 7,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA03-T-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA03",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "adding_a_useful_photograph_caption_direct",
+    "question": "A report shows a photograph of a joey inside its mother's pouch. Which caption is most useful?",
+    "audio_prompt": "A report shows a photograph of a joey inside its mother's pouch. Which caption is most useful?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A young kangaroo stays in its mother's pouch for protection and milk.",
+        "is_correct": true
+      },
+      {
+        "text": "A mother kangaroo and joey appear in this photograph.",
+        "is_correct": false
+      },
+      {
+        "text": "Kangaroos are the most exciting animals to see.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The caption identifies what the image shows and adds relevant information.",
+      "hint": "A report caption should help the reader understand why the image matters."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 8,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA03-T-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA03",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "planning_an_explanation_of_rain_test-reason",
+    "question": "Which plan best suits a short explanation of how rain forms? Which reason best supports the correct choice?",
+    "audio_prompt": "Which plan best suits a short explanation of how rain forms? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The title, diagram and linked stages help explain a process clearly.",
+        "is_correct": true
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The title, diagram and linked stages help explain a process clearly.",
+      "hint": "Choose features that show how something happens from one stage to the next."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 9,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA03-T-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA03",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "laying_out_a_play_script_test-reason",
+    "question": "Which page layout best helps actors read a short play? Which reason best supports the correct choice?",
+    "audio_prompt": "Which page layout best helps actors read a short play? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "Names and stage directions show actors who speaks and what happens on stage.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Names and stage directions show actors who speaks and what happens on stage.",
+      "hint": "Choose features that help performers follow dialogue and action."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 10,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA03-T-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA03",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "placing_a_safety_warning_in_a_procedure_test-reason",
+    "question": "Where should ‘Ask an adult before using the hot glue gun’ appear in a model-making procedure? Which reason best supports the correct choice?",
+    "audio_prompt": "Where should ‘Ask an adult before using the hot glue gun’ appear in a model-making procedure? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Putting the warning beside the risky step helps readers act safely at the right time.",
+        "is_correct": true
+      },
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Putting the warning beside the risky step helps readers act safely at the right time.",
+      "hint": "Place information where the reader needs it during the task."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 11,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA03-T-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA03",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "organising_class_survey_findings_test-reason",
+    "question": "Which structure best suits a report about the class's favourite fruit survey? Which reason best supports the correct choice?",
+    "audio_prompt": "Which structure best suits a report about the class's favourite fruit survey? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The table displays the collected data, and the sentences explain what the results show.",
+        "is_correct": true
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The table displays the collected data, and the sentences explain what the results show.",
+      "hint": "Choose features that organise findings so readers can compare them."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 12,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LA03-T-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA03",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "structuring_a_persuasive_letter_test-reason",
+    "question": "Which order best suits a letter asking the principal for more shade trees? Which reason best supports the correct choice?",
+    "audio_prompt": "Which order best suits a letter asking the principal for more shade trees? Which reason best supports the correct choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "The letter clearly presents its position, supports it and tells the audience what action is wanted.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The letter clearly presents its position, supports it and tells the audience what action is wanted.",
+      "hint": "A persuasive structure should build a case for the named reader."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 13,
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LA03-T-014",
@@ -1319,33 +2019,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA03",
     "bank": "test",
-    "skill": "presenting_pancakes_for_two_purposes_reason",
-    "question": "A student answers “Recipe: an opinion and star rating. Review: ordered cooking commands.”. Which feedback helps? Task: A recipe and a café review are both about pancakes. Which pair of features suits their different purposes?",
-    "audio_prompt": "A student answers “Recipe: an opinion and star rating. Review: ordered cooking commands.”. Which feedback helps? Task: A recipe and a café review are both about pancakes. Which pair of features suits their different purposes?",
+    "stage": "apply",
+    "skill": "using_time_words_in_a_recount_test-reason",
+    "question": "Which sentence helps keep a recount of sports day in time order? Which reason best supports the correct choice?",
+    "audio_prompt": "Which sentence helps keep a recount of sports day in time order? Which reason best supports the correct choice?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la03.svg#ac9e2la03-t-014",
-      "alt_text": "Three-step Text Structures for Different Purposes organiser. Read: presenting pancakes for two purposes. Notice: Recognise story structure. Correct the student's mix-up using the full task."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Match each text's language features to the job it needs to do.",
+        "text": "‘After lunch’ locates the real event in the sequence of the day.",
         "is_correct": true
       },
       {
-        "text": "Keep “Recipe: an opinion and star rating. Review: ordered cooking commands.”; it uses a detail that sounds familiar.",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "Choose “Recipe: a past-tense recount. Review: an ingredients list only.” instead; it sounds clearer.",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Match each text's language features to the job it needs to do. The recipe instructs the reader, while the review evaluates the food for an audience.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+      "summary": "‘After lunch’ locates the real event in the sequence of the day.",
+      "hint": "Look for past-tense events linked by a time clue."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 14,
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LA03-T-015",
@@ -1353,33 +2057,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA03",
     "bank": "test",
-    "skill": "adding_a_useful_photograph_caption_apply",
-    "question": "A report shows a photograph of a joey inside its mother's pouch. Which caption is most useful?",
-    "audio_prompt": "A report shows a photograph of a joey inside its mother's pouch. Which caption is most useful?",
+    "stage": "apply",
+    "skill": "presenting_pancakes_for_two_purposes_test-reason",
+    "question": "A recipe and a café review are both about pancakes. Which pair of features suits their different purposes? Which reason best supports the correct choice?",
+    "audio_prompt": "A recipe and a café review are both about pancakes. Which pair of features suits their different purposes? Which reason best supports the correct choice?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la03.svg#ac9e2la03-t-015",
-      "alt_text": "Three-step Text Structures for Different Purposes organiser. Read: adding a useful photograph caption. Notice: Recognise procedure structure. Choose the response supported by the example."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "A mother kangaroo and joey appear in this photograph.",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "A young kangaroo stays in its mother's pouch for protection and milk.",
+        "text": "The recipe instructs the reader, while the review evaluates the food for an audience.",
         "is_correct": true
       },
       {
-        "text": "Kangaroos are the most exciting animals to see.",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The caption identifies what the image shows and adds relevant information.",
-      "hint": "A report caption should help the reader understand why the image matters."
-    }
+      "summary": "The recipe instructs the reader, while the review evaluates the food for an audience.",
+      "hint": "Match each text's language features to the job it needs to do."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 15,
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LA03-T-016",
@@ -1387,32 +2095,36 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LA03",
     "bank": "test",
-    "skill": "adding_a_useful_photograph_caption_reason",
-    "question": "A student answers “Kangaroos are the most exciting animals to see.”. Which feedback helps? Task: A report shows a photograph of a joey inside its mother's pouch. Which caption is most useful?",
-    "audio_prompt": "A student answers “Kangaroos are the most exciting animals to see.”. Which feedback helps? Task: A report shows a photograph of a joey inside its mother's pouch. Which caption is most useful?",
+    "stage": "apply",
+    "skill": "adding_a_useful_photograph_caption_test-reason",
+    "question": "A report shows a photograph of a joey inside its mother's pouch. Which caption is most useful? Which reason best supports the correct choice?",
+    "audio_prompt": "A report shows a photograph of a joey inside its mother's pouch. Which caption is most useful? Which reason best supports the correct choice?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la03.svg#ac9e2la03-t-016",
-      "alt_text": "Three-step Text Structures for Different Purposes organiser. Read: adding a useful photograph caption. Notice: Recognise procedure structure. Correct the student's mix-up using the full task."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Keep “Kangaroos are the most exciting animals to see.”; it uses a detail that sounds familiar.",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "Choose “A mother kangaroo and joey appear in this photograph.” instead; it sounds clearer.",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       },
       {
-        "text": "A report caption should help the reader understand why the image matters.",
+        "text": "The caption identifies what the image shows and adds relevant information.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A report caption should help the reader understand why the image matters. The caption identifies what the image shows and adds relevant information.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+      "summary": "The caption identifies what the image shows and adds relevant information.",
+      "hint": "A report caption should help the reader understand why the image matters."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 16,
+    "quality_schema": "student-facing-v3"
   }
 ]
