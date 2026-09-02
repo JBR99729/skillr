@@ -1,18 +1,15 @@
 [
   {
-    "id": "ac9e5ly10-p-001",
+    "id": "AC9E5LY10-P-001",
     "curriculum_code": "AC9E5LY10",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "word_origins_morphology_and_spelling_generalisations",
     "question": "Which analysis best explains the standard spelling of decision, spelled d e c i s i o n?",
     "audio_prompt": "Which analysis best explains the standard spelling of decision, spelled d e c i s i o n?",
     "answers": [
-      {
-        "text": "decide",
-        "is_correct": true
-      },
       {
         "text": "desishun",
         "is_correct": false
@@ -20,92 +17,31 @@
       {
         "text": "choose letters only by guessing",
         "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "the related base preserves the c before the suffix.",
-      "hint": "Identify the base, affix or origin pattern before writing the whole word."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9e5ly10-p-002",
-    "curriculum_code": "AC9E5LY10",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "word_origins_morphology_and_spelling_generalisations",
-    "question": "A student writes desishun, spelled d e s i s h u n when intending decision, spelled d e c i s i o n. Which feedback is most useful?",
-    "audio_prompt": "A student writes desishun, spelled d e s i s h u n when intending decision, spelled d e c i s i o n. Which feedback is most useful?",
-    "answers": [
-      {
-        "text": "Say the word louder and keep the same spelling",
-        "is_correct": false
       },
       {
-        "text": "the related base preserves the c before the suffix",
-        "is_correct": true
-      },
-      {
-        "text": "Memorise it without looking for a pattern",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The correction uses a transferable spelling generalisation or word relationship.",
-      "hint": "Explain the condition that applies, not just the correct letters."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9e5ly10-p-003",
-    "curriculum_code": "AC9E5LY10",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "word_origins_morphology_and_spelling_generalisations",
-    "question": "Why is the spelling desishun, spelled d e s i s h u n not supported for the intended word decision, spelled d e c i s i o n?",
-    "audio_prompt": "Why is the spelling desishun, spelled d e s i s h u n not supported for the intended word decision, spelled d e c i s i o n?",
-    "answers": [
-      {
-        "text": "It contains too few decorative letters",
-        "is_correct": false
-      },
-      {
-        "text": "Every unfamiliar spelling is acceptable",
-        "is_correct": false
-      },
-      {
-        "text": "sound alone misses the meaningful family",
+        "text": "decide",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Standard spelling reflects sound, meaningful structure and word history.",
-      "hint": "Compare the attempted spelling with the base, affix and relevant condition."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+      "summary": "“decide” fits the meaning and the language clue in this example. the related base preserves the c before the suffix.",
+      "hint": "Identify the base, affix or origin pattern before writing the whole word."
+    }
   },
   {
-    "id": "ac9e5ly10-p-004",
+    "id": "AC9E5LY10-P-002",
     "curriculum_code": "AC9E5LY10",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "word_origins_morphology_and_spelling_generalisations",
-    "question": "Which verification strategy is strongest after writing decision, spelled d e c i s i o n?",
-    "audio_prompt": "Which verification strategy is strongest after writing decision, spelled d e c i s i o n?",
+    "question": "Read carefully: Which verification strategy is strongest after writing happiness, spelled h a p p i n e s s?",
+    "audio_prompt": "Read carefully: Which verification strategy is strongest after writing happiness, spelled h a p p i n e s s?",
     "answers": [
       {
-        "text": "Check decide against a trusted dictionary and the sentence meaning",
+        "text": "Check happy + ness against a trusted dictionary and the sentence meaning",
         "is_correct": true
       },
       {
@@ -119,122 +55,117 @@
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Independent spellers use pattern evidence and a reliable reference to verify.",
+      "summary": "“Check happy + ness against a trusted dictionary and the sentence meaning” fits the meaning and the language clue in this example. Independent spellers use pattern evidence and a reliable reference to verify.",
       "hint": "Confirm both the letter pattern and that the word fits the sentence."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
-    "id": "ac9e5ly10-p-005",
+    "id": "AC9E5LY10-P-003",
     "curriculum_code": "AC9E5LY10",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "word_origins_morphology_and_spelling_generalisations",
-    "question": "Which analysis best explains the standard spelling of happiness, spelled h a p p i n e s s?",
-    "audio_prompt": "Which analysis best explains the standard spelling of happiness, spelled h a p p i n e s s?",
+    "question": "Which answer makes the most sense here? Why is the spelling hopful, spelled h o p f u l not supported for the intended word hopeful, spelled h o p e f u l?",
+    "audio_prompt": "Which answer makes the most sense here? Why is the spelling hopful, spelled h o p f u l not supported for the intended word hopeful, spelled h o p e f u l?",
     "answers": [
       {
-        "text": "happyness",
+        "text": "It contains too few decorative letters",
         "is_correct": false
       },
       {
+        "text": "dropping the e would hide the base",
+        "is_correct": true
+      },
+      {
+        "text": "Every unfamiliar spelling is acceptable",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“dropping the e would hide the base” fits the meaning and the language clue in this example. Standard spelling reflects sound, meaningful structure and word history.",
+      "hint": "Compare the attempted spelling with the base, affix and relevant condition."
+    }
+  },
+  {
+    "id": "AC9E5LY10-P-004",
+    "curriculum_code": "AC9E5LY10",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "word_origins_morphology_and_spelling_generalisations",
+    "question": "Look at the wording and meaning. A student writes transportt, spelled t r a n s p o r t t when intending transport, spelled t r a n s p o r t. Which feedback is most useful?",
+    "audio_prompt": "Look at the wording and meaning. A student writes transportt, spelled t r a n s p o r t t when intending transport, spelled t r a n s p o r t. Which feedback is most useful?",
+    "answers": [
+      {
+        "text": "Say the word louder and keep the same spelling",
+        "is_correct": false
+      },
+      {
+        "text": "Memorise it without looking for a pattern",
+        "is_correct": false
+      },
+      {
+        "text": "the roots explain both meaning and stable spelling",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“the roots explain both meaning and stable spelling” fits the meaning and the language clue in this example. The correction uses a transferable spelling generalisation or word relationship.",
+      "hint": "Explain the condition that applies, not just the correct letters."
+    }
+  },
+  {
+    "id": "AC9E5LY10-P-005",
+    "curriculum_code": "AC9E5LY10",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "word_origins_morphology_and_spelling_generalisations",
+    "question": "Choose the option that fits the situation best. Which analysis best explains the standard spelling of happiness, spelled h a p p i n e s s?",
+    "audio_prompt": "Choose the option that fits the situation best. Which analysis best explains the standard spelling of happiness, spelled h a p p i n e s s?",
+    "answers": [
+      {
         "text": "happy + ness",
         "is_correct": true
+      },
+      {
+        "text": "happyness",
+        "is_correct": false
       },
       {
         "text": "choose letters only by guessing",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "the final y changes to i before this suffix.",
-      "hint": "Identify the base, affix or origin pattern before writing the whole word."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9e5ly10-p-006",
-    "curriculum_code": "AC9E5LY10",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "word_origins_morphology_and_spelling_generalisations",
-    "question": "A student writes happyness, spelled h a p p y n e s s when intending happiness, spelled h a p p i n e s s. Which feedback is most useful?",
-    "audio_prompt": "A student writes happyness, spelled h a p p y n e s s when intending happiness, spelled h a p p i n e s s. Which feedback is most useful?",
-    "answers": [
-      {
-        "text": "Say the word louder and keep the same spelling",
-        "is_correct": false
-      },
-      {
-        "text": "Memorise it without looking for a pattern",
-        "is_correct": false
-      },
-      {
-        "text": "the final y changes to i before this suffix",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The correction uses a transferable spelling generalisation or word relationship.",
-      "hint": "Explain the condition that applies, not just the correct letters."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9e5ly10-p-007",
-    "curriculum_code": "AC9E5LY10",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "word_origins_morphology_and_spelling_generalisations",
-    "question": "Why is the spelling happyness, spelled h a p p y n e s s not supported for the intended word happiness, spelled h a p p i n e s s?",
-    "audio_prompt": "Why is the spelling happyness, spelled h a p p y n e s s not supported for the intended word happiness, spelled h a p p i n e s s?",
-    "answers": [
-      {
-        "text": "the suffix condition requires the letter change",
-        "is_correct": true
-      },
-      {
-        "text": "It contains too few decorative letters",
-        "is_correct": false
-      },
-      {
-        "text": "Every unfamiliar spelling is acceptable",
-        "is_correct": false
-      }
-    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Standard spelling reflects sound, meaningful structure and word history.",
-      "hint": "Compare the attempted spelling with the base, affix and relevant condition."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+      "summary": "“happy + ness” fits the meaning and the language clue in this example. the final y changes to i before this suffix.",
+      "hint": "Identify the base, affix or origin pattern before writing the whole word."
+    }
   },
   {
-    "id": "ac9e5ly10-p-008",
+    "id": "AC9E5LY10-P-006",
     "curriculum_code": "AC9E5LY10",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "word_origins_morphology_and_spelling_generalisations",
-    "question": "Which verification strategy is strongest after writing happiness, spelled h a p p i n e s s?",
-    "audio_prompt": "Which verification strategy is strongest after writing happiness, spelled h a p p i n e s s?",
+    "question": "Which choice is accurate in this example? Which verification strategy is strongest after writing running, spelled r u n n i n g?",
+    "audio_prompt": "Which choice is accurate in this example? Which verification strategy is strongest after writing running, spelled r u n n i n g?",
     "answers": [
       {
         "text": "Rely only on whether the spelling looks attractive",
         "is_correct": false
       },
       {
-        "text": "Check happy + ness against a trusted dictionary and the sentence meaning",
+        "text": "Check run + ing against a trusted dictionary and the sentence meaning",
         "is_correct": true
       },
       {
@@ -244,400 +175,833 @@
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Independent spellers use pattern evidence and a reliable reference to verify.",
+      "summary": "“Check run + ing against a trusted dictionary and the sentence meaning” fits the meaning and the language clue in this example. Independent spellers use pattern evidence and a reliable reference to verify.",
       "hint": "Confirm both the letter pattern and that the word fits the sentence."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
-    "id": "ac9e5ly10-p-009",
+    "id": "AC9E5LY10-P-007",
     "curriculum_code": "AC9E5LY10",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "word_origins_morphology_and_spelling_generalisations",
-    "question": "Which analysis best explains the standard spelling of running, spelled r u n n i n g?",
-    "audio_prompt": "Which analysis best explains the standard spelling of running, spelled r u n n i n g?",
+    "question": "Focus on the key clue. Why is the spelling fotograf, spelled f o t o g r a f not supported for the intended word photograph, spelled p h o t o g r a p h?",
+    "audio_prompt": "Focus on the key clue. Why is the spelling fotograf, spelled f o t o g r a f not supported for the intended word photograph, spelled p h o t o g r a p h?",
+    "answers": [
+      {
+        "text": "It contains too few decorative letters",
+        "is_correct": false
+      },
+      {
+        "text": "Every unfamiliar spelling is acceptable",
+        "is_correct": false
+      },
+      {
+        "text": "sound alone does not record the word's history",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“sound alone does not record the word's history” fits the meaning and the language clue in this example. Standard spelling reflects sound, meaningful structure and word history.",
+      "hint": "Compare the attempted spelling with the base, affix and relevant condition."
+    }
+  },
+  {
+    "id": "AC9E5LY10-P-008",
+    "curriculum_code": "AC9E5LY10",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "word_origins_morphology_and_spelling_generalisations",
+    "question": "What works best in this situation? A student writes desishun, spelled d e s i s h u n when intending decision, spelled d e c i s i o n. Which feedback is most useful?",
+    "audio_prompt": "What works best in this situation? A student writes desishun, spelled d e s i s h u n when intending decision, spelled d e c i s i o n. Which feedback is most useful?",
+    "answers": [
+      {
+        "text": "the related base preserves the c before the suffix",
+        "is_correct": true
+      },
+      {
+        "text": "Say the word louder and keep the same spelling",
+        "is_correct": false
+      },
+      {
+        "text": "Memorise it without looking for a pattern",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“the related base preserves the c before the suffix” fits the meaning and the language clue in this example. The correction uses a transferable spelling generalisation or word relationship.",
+      "hint": "Explain the condition that applies, not just the correct letters."
+    }
+  },
+  {
+    "id": "AC9E5LY10-P-009",
+    "curriculum_code": "AC9E5LY10",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "word_origins_morphology_and_spelling_generalisations",
+    "question": "Which option matches what is happening? Which analysis best explains the standard spelling of running, spelled r u n n i n g?",
+    "audio_prompt": "Which option matches what is happening? Which analysis best explains the standard spelling of running, spelled r u n n i n g?",
     "answers": [
       {
         "text": "runing",
         "is_correct": false
       },
       {
+        "text": "run + ing",
+        "is_correct": true
+      },
+      {
         "text": "choose letters only by guessing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“run + ing” fits the meaning and the language clue in this example. the final consonant doubles after a short stressed vowel.",
+      "hint": "Identify the base, affix or origin pattern before writing the whole word."
+    }
+  },
+  {
+    "id": "AC9E5LY10-P-010",
+    "curriculum_code": "AC9E5LY10",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "word_origins_morphology_and_spelling_generalisations",
+    "question": "Use the details in the example. Which verification strategy is strongest after writing hopeful, spelled h o p e f u l?",
+    "audio_prompt": "Use the details in the example. Which verification strategy is strongest after writing hopeful, spelled h o p e f u l?",
+    "answers": [
+      {
+        "text": "Rely only on whether the spelling looks attractive",
         "is_correct": false
       },
       {
-        "text": "run + ing",
+        "text": "Replace it with a shorter unrelated word",
+        "is_correct": false
+      },
+      {
+        "text": "Check hope + ful against a trusted dictionary and the sentence meaning",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "the final consonant doubles after a short stressed vowel.",
-      "hint": "Identify the base, affix or origin pattern before writing the whole word."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+      "summary": "“Check hope + ful against a trusted dictionary and the sentence meaning” fits the meaning and the language clue in this example. Independent spellers use pattern evidence and a reliable reference to verify.",
+      "hint": "Confirm both the letter pattern and that the word fits the sentence."
+    }
   },
   {
-    "id": "ac9e5ly10-p-010",
+    "id": "AC9E5LY10-P-011",
     "curriculum_code": "AC9E5LY10",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
+    "stage": "explain",
     "skill": "word_origins_morphology_and_spelling_generalisations",
-    "question": "A student writes runing, spelled r u n i n g when intending running, spelled r u n n i n g. Which feedback is most useful?",
-    "audio_prompt": "A student writes runing, spelled r u n i n g when intending running, spelled r u n n i n g. Which feedback is most useful?",
+    "question": "Why is “the related base preserves the c before the suffix” the strongest answer to this question: A student writes desishun, spelled d e s i s h u n when intending decision, spelled d e c i s i o n. Which feedback is most useful?",
+    "audio_prompt": "Why is “the related base preserves the c before the suffix” the strongest answer to this question: A student writes desishun, spelled d e s i s h u n when intending decision, spelled d e c i s i o n. Which feedback is most useful?",
     "answers": [
       {
-        "text": "the final consonant doubles after a short stressed vowel",
+        "text": "It matches the key clue and meaning in the example.",
         "is_correct": true
       },
       {
-        "text": "Say the word louder and keep the same spelling",
+        "text": "It is correct because it is the longest option.",
         "is_correct": false
       },
       {
-        "text": "Memorise it without looking for a pattern",
+        "text": "It is correct because familiar words are always safest.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The correction uses a transferable spelling generalisation or word relationship.",
-      "hint": "Explain the condition that applies, not just the correct letters."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The correction uses a transferable spelling generalisation or word relationship.",
+      "hint": "Find the exact clue that makes “the related base preserves the c before the suffix” fit."
+    }
   },
   {
-    "id": "ac9e5ly10-p-011",
+    "id": "AC9E5LY10-P-012",
     "curriculum_code": "AC9E5LY10",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
+    "stage": "explain",
     "skill": "word_origins_morphology_and_spelling_generalisations",
-    "question": "Why is the spelling runing, spelled r u n i n g not supported for the intended word running, spelled r u n n i n g?",
-    "audio_prompt": "Why is the spelling runing, spelled r u n i n g not supported for the intended word running, spelled r u n n i n g?",
+    "question": "What makes “run + ing” work in this example? Which analysis best explains the standard spelling of running, spelled r u n n i n g?",
+    "audio_prompt": "What makes “run + ing” work in this example? Which analysis best explains the standard spelling of running, spelled r u n n i n g?",
     "answers": [
       {
-        "text": "It contains too few decorative letters",
+        "text": "It is correct because it is the longest option.",
         "is_correct": false
       },
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. the final consonant doubles after a short stressed vowel.",
+      "hint": "Find the exact clue that makes “run + ing” fit."
+    }
+  },
+  {
+    "id": "AC9E5LY10-P-013",
+    "curriculum_code": "AC9E5LY10",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "word_origins_morphology_and_spelling_generalisations",
+    "question": "Which reason best explains why “Check hope + ful against a trusted dictionary and the sentence meaning” fits? Which verification strategy is strongest after writing hopeful, spelled h o p e f u l?",
+    "audio_prompt": "Which reason best explains why “Check hope + ful against a trusted dictionary and the sentence meaning” fits? Which verification strategy is strongest after writing hopeful, spelled h o p e f u l?",
+    "answers": [
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      },
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Independent spellers use pattern evidence and a reliable reference to verify.",
+      "hint": "Find the exact clue that makes “Check hope + ful against a trusted dictionary and the sentence meaning” fit."
+    }
+  },
+  {
+    "id": "AC9E5LY10-P-014",
+    "curriculum_code": "AC9E5LY10",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "word_origins_morphology_and_spelling_generalisations",
+    "question": "How does “an extra final letter has no pattern support” match the meaning of this example? Why is the spelling transportt, spelled t r a n s p o r t t not supported for the intended word transport, spelled t r a n s p o r t?",
+    "audio_prompt": "How does “an extra final letter has no pattern support” match the meaning of this example? Why is the spelling transportt, spelled t r a n s p o r t t not supported for the intended word transport, spelled t r a n s p o r t?",
+    "answers": [
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      },
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Standard spelling reflects sound, meaningful structure and word history.",
+      "hint": "Find the exact clue that makes “an extra final letter has no pattern support” fit."
+    }
+  },
+  {
+    "id": "AC9E5LY10-P-015",
+    "curriculum_code": "AC9E5LY10",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "word_origins_morphology_and_spelling_generalisations",
+    "question": "Why does “the final y changes to i before this suffix” suit this situation better than the other choices? A student writes happyness, spelled h a p p y n e s s when intending happiness, spelled h a p p i n e s s. Which feedback is most useful?",
+    "audio_prompt": "Why does “the final y changes to i before this suffix” suit this situation better than the other choices? A student writes happyness, spelled h a p p y n e s s when intending happiness, spelled h a p p i n e s s. Which feedback is most useful?",
+    "answers": [
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The correction uses a transferable spelling generalisation or word relationship.",
+      "hint": "Find the exact clue that makes “the final y changes to i before this suffix” fit."
+    }
+  },
+  {
+    "id": "AC9E5LY10-P-016",
+    "curriculum_code": "AC9E5LY10",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "word_origins_morphology_and_spelling_generalisations",
+    "question": "What clue in the example supports “hope + ful”? Which analysis best explains the standard spelling of hopeful, spelled h o p e f u l?",
+    "audio_prompt": "What clue in the example supports “hope + ful”? Which analysis best explains the standard spelling of hopeful, spelled h o p e f u l?",
+    "answers": [
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      },
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. the final e stays before a suffix beginning with a consonant.",
+      "hint": "Find the exact clue that makes “hope + ful” fit."
+    }
+  },
+  {
+    "id": "AC9E5LY10-P-017",
+    "curriculum_code": "AC9E5LY10",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "word_origins_morphology_and_spelling_generalisations",
+    "question": "Which explanation shows why “Check Greek photo meaning light and graph meaning write against a trusted dictionary and the sentence meaning” is correct here? Which verification strategy is strongest after writing photograph, spelled p h o t o g r a p h?",
+    "audio_prompt": "Which explanation shows why “Check Greek photo meaning light and graph meaning write against a trusted dictionary and the sentence meaning” is correct here? Which verification strategy is strongest after writing photograph, spelled p h o t o g r a p h?",
+    "answers": [
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      },
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Independent spellers use pattern evidence and a reliable reference to verify.",
+      "hint": "Find the exact clue that makes “Check Greek photo meaning light and graph meaning write against a trusted dictionary and the sentence meaning” fit."
+    }
+  },
+  {
+    "id": "AC9E5LY10-P-018",
+    "curriculum_code": "AC9E5LY10",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "word_origins_morphology_and_spelling_generalisations",
+    "question": "Why would “sound alone misses the meaningful family” make sense to a careful reader? Why is the spelling desishun, spelled d e s i s h u n not supported for the intended word decision, spelled d e c i s i o n?",
+    "audio_prompt": "Why would “sound alone misses the meaningful family” make sense to a careful reader? Why is the spelling desishun, spelled d e s i s h u n not supported for the intended word decision, spelled d e c i s i o n?",
+    "answers": [
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Standard spelling reflects sound, meaningful structure and word history.",
+      "hint": "Find the exact clue that makes “sound alone misses the meaningful family” fit."
+    }
+  },
+  {
+    "id": "AC9E5LY10-P-019",
+    "curriculum_code": "AC9E5LY10",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "word_origins_morphology_and_spelling_generalisations",
+    "question": "What is the best reason for choosing “the final consonant doubles after a short stressed vowel”? A student writes runing, spelled r u n i n g when intending running, spelled r u n n i n g. Which feedback is most useful?",
+    "audio_prompt": "What is the best reason for choosing “the final consonant doubles after a short stressed vowel”? A student writes runing, spelled r u n i n g when intending running, spelled r u n n i n g. Which feedback is most useful?",
+    "answers": [
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      },
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The correction uses a transferable spelling generalisation or word relationship.",
+      "hint": "Find the exact clue that makes “the final consonant doubles after a short stressed vowel” fit."
+    }
+  },
+  {
+    "id": "AC9E5LY10-P-020",
+    "curriculum_code": "AC9E5LY10",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "word_origins_morphology_and_spelling_generalisations",
+    "question": "Which explanation connects “Greek photo meaning light and graph meaning write” to the key clue? Which analysis best explains the standard spelling of photograph, spelled p h o t o g r a p h?",
+    "audio_prompt": "Which explanation connects “Greek photo meaning light and graph meaning write” to the key clue? Which analysis best explains the standard spelling of photograph, spelled p h o t o g r a p h?",
+    "answers": [
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      },
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. the origin explains the ph spelling and meaningful roots.",
+      "hint": "Find the exact clue that makes “Greek photo meaning light and graph meaning write” fit."
+    }
+  },
+  {
+    "id": "AC9E5LY10-P-021",
+    "curriculum_code": "AC9E5LY10",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "word_origins_morphology_and_spelling_generalisations",
+    "question": "“It contains too few decorative letters” might seem possible at first. What should you notice before answering this question: Why is the spelling desishun, spelled d e s i s h u n not supported for the intended word decision, spelled d e c i s i o n?",
+    "audio_prompt": "“It contains too few decorative letters” might seem possible at first. What should you notice before answering this question: Why is the spelling desishun, spelled d e s i s h u n not supported for the intended word decision, spelled d e c i s i o n?",
+    "answers": [
+      {
+        "text": "Keep “It contains too few decorative letters” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole example: “sound alone misses the meaningful family” matches the key clue, while “It contains too few decorative letters” does not.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “It contains too few decorative letters” fail and “sound alone misses the meaningful family” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LY10-P-022",
+    "curriculum_code": "AC9E5LY10",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "word_origins_morphology_and_spelling_generalisations",
+    "question": "Why is “Say the word louder and keep the same spelling” not the best choice here? A student writes runing, spelled r u n i n g when intending running, spelled r u n n i n g. Which feedback is most useful?",
+    "audio_prompt": "Why is “Say the word louder and keep the same spelling” not the best choice here? A student writes runing, spelled r u n i n g when intending running, spelled r u n n i n g. Which feedback is most useful?",
+    "answers": [
+      {
+        "text": "Keep “Say the word louder and keep the same spelling” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole example: “the final consonant doubles after a short stressed vowel” matches the key clue, while “Say the word louder and keep the same spelling” does not.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “Say the word louder and keep the same spelling” fail and “the final consonant doubles after a short stressed vowel” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LY10-P-023",
+    "curriculum_code": "AC9E5LY10",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "word_origins_morphology_and_spelling_generalisations",
+    "question": "Compare “fotograf” with “Greek photo meaning light and graph meaning write”. What important difference matters in this example? Which analysis best explains the standard spelling of photograph, spelled p h o t o g r a p h?",
+    "audio_prompt": "Compare “fotograf” with “Greek photo meaning light and graph meaning write”. What important difference matters in this example? Which analysis best explains the standard spelling of photograph, spelled p h o t o g r a p h?",
+    "answers": [
+      {
+        "text": "Check the whole example: “Greek photo meaning light and graph meaning write” matches the key clue, while “fotograf” does not.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “fotograf” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “fotograf” fail and “Greek photo meaning light and graph meaning write” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LY10-P-024",
+    "curriculum_code": "AC9E5LY10",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "word_origins_morphology_and_spelling_generalisations",
+    "question": "Which clue rules out “Rely only on whether the spelling looks attractive” in this situation? Which verification strategy is strongest after writing transport, spelled t r a n s p o r t?",
+    "audio_prompt": "Which clue rules out “Rely only on whether the spelling looks attractive” in this situation? Which verification strategy is strongest after writing transport, spelled t r a n s p o r t?",
+    "answers": [
+      {
+        "text": "Keep “Rely only on whether the spelling looks attractive” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole example: “Check Latin trans meaning across and port meaning carry against a trusted dictionary and the sentence meaning” matches the key clue, while “Rely only on whether the spelling looks attractive” does not.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “Rely only on whether the spelling looks attractive” fail and “Check Latin trans meaning across and port meaning carry against a trusted dictionary and the sentence meaning” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LY10-P-025",
+    "curriculum_code": "AC9E5LY10",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "word_origins_morphology_and_spelling_generalisations",
+    "question": "A quick reader might choose “It contains too few decorative letters”. What would a closer reading show? Why is the spelling happyness, spelled h a p p y n e s s not supported for the intended word happiness, spelled h a p p i n e s s?",
+    "audio_prompt": "A quick reader might choose “It contains too few decorative letters”. What would a closer reading show? Why is the spelling happyness, spelled h a p p y n e s s not supported for the intended word happiness, spelled h a p p i n e s s?",
+    "answers": [
+      {
+        "text": "Keep “It contains too few decorative letters” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole example: “the suffix condition requires the letter change” matches the key clue, while “It contains too few decorative letters” does not.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “It contains too few decorative letters” fail and “the suffix condition requires the letter change” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LY10-P-026",
+    "curriculum_code": "AC9E5LY10",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "word_origins_morphology_and_spelling_generalisations",
+    "question": "What makes “the final e stays before a suffix beginning with a consonant” more precise than “Say the word louder and keep the same spelling” here? A student writes hopful, spelled h o p f u l when intending hopeful, spelled h o p e f u l. Which feedback is most useful?",
+    "audio_prompt": "What makes “the final e stays before a suffix beginning with a consonant” more precise than “Say the word louder and keep the same spelling” here? A student writes hopful, spelled h o p f u l when intending hopeful, spelled h o p e f u l. Which feedback is most useful?",
+    "answers": [
+      {
+        "text": "Check the whole example: “the final e stays before a suffix beginning with a consonant” matches the key clue, while “Say the word louder and keep the same spelling” does not.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Say the word louder and keep the same spelling” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “Say the word louder and keep the same spelling” fail and “the final e stays before a suffix beginning with a consonant” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LY10-P-027",
+    "curriculum_code": "AC9E5LY10",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "word_origins_morphology_and_spelling_generalisations",
+    "question": "Which detail helps you reject “transportt”? Which analysis best explains the standard spelling of transport, spelled t r a n s p o r t?",
+    "audio_prompt": "Which detail helps you reject “transportt”? Which analysis best explains the standard spelling of transport, spelled t r a n s p o r t?",
+    "answers": [
+      {
+        "text": "Keep “transportt” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole example: “Latin trans meaning across and port meaning carry” matches the key clue, while “transportt” does not.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “transportt” fail and “Latin trans meaning across and port meaning carry” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LY10-P-028",
+    "curriculum_code": "AC9E5LY10",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "word_origins_morphology_and_spelling_generalisations",
+    "question": "What is the problem with choosing “Rely only on whether the spelling looks attractive” for this example? Which verification strategy is strongest after writing decision, spelled d e c i s i o n?",
+    "audio_prompt": "What is the problem with choosing “Rely only on whether the spelling looks attractive” for this example? Which verification strategy is strongest after writing decision, spelled d e c i s i o n?",
+    "answers": [
+      {
+        "text": "Keep “Rely only on whether the spelling looks attractive” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole example: “Check decide against a trusted dictionary and the sentence meaning” matches the key clue, while “Rely only on whether the spelling looks attractive” does not.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “Rely only on whether the spelling looks attractive” fail and “Check decide against a trusted dictionary and the sentence meaning” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LY10-P-029",
+    "curriculum_code": "AC9E5LY10",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "word_origins_morphology_and_spelling_generalisations",
+    "question": "Which comparison best separates “the doubling condition applies” from “It contains too few decorative letters”? Why is the spelling runing, spelled r u n i n g not supported for the intended word running, spelled r u n n i n g?",
+    "audio_prompt": "Which comparison best separates “the doubling condition applies” from “It contains too few decorative letters”? Why is the spelling runing, spelled r u n i n g not supported for the intended word running, spelled r u n n i n g?",
+    "answers": [
+      {
+        "text": "Check the whole example: “the doubling condition applies” matches the key clue, while “It contains too few decorative letters” does not.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “It contains too few decorative letters” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “It contains too few decorative letters” fail and “the doubling condition applies” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LY10-P-030",
+    "curriculum_code": "AC9E5LY10",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "word_origins_morphology_and_spelling_generalisations",
+    "question": "What should you check so you do not confuse “Say the word louder and keep the same spelling” with the correct answer? A student writes fotograf, spelled f o t o g r a f when intending photograph, spelled p h o t o g r a p h. Which feedback is most useful?",
+    "audio_prompt": "What should you check so you do not confuse “Say the word louder and keep the same spelling” with the correct answer? A student writes fotograf, spelled f o t o g r a f when intending photograph, spelled p h o t o g r a p h. Which feedback is most useful?",
+    "answers": [
+      {
+        "text": "Keep “Say the word louder and keep the same spelling” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole example: “the origin explains the ph spelling and meaningful roots” matches the key clue, while “Say the word louder and keep the same spelling” does not.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “Say the word louder and keep the same spelling” fail and “the origin explains the ph spelling and meaningful roots” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LY10-P-031",
+    "curriculum_code": "AC9E5LY10",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "word_origins_morphology_and_spelling_generalisations",
+    "question": "Apply what you know to this example: Which verification strategy is strongest after writing decision, spelled d e c i s i o n?",
+    "audio_prompt": "Apply what you know to this example: Which verification strategy is strongest after writing decision, spelled d e c i s i o n?",
+    "answers": [
+      {
+        "text": "Rely only on whether the spelling looks attractive",
+        "is_correct": false
+      },
+      {
+        "text": "Replace it with a shorter unrelated word",
+        "is_correct": false
+      },
+      {
+        "text": "Check decide against a trusted dictionary and the sentence meaning",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“Check decide against a trusted dictionary and the sentence meaning” fits the meaning and the language clue in this example. Independent spellers use pattern evidence and a reliable reference to verify.",
+      "hint": "Confirm both the letter pattern and that the word fits the sentence."
+    }
+  },
+  {
+    "id": "AC9E5LY10-P-032",
+    "curriculum_code": "AC9E5LY10",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "word_origins_morphology_and_spelling_generalisations",
+    "question": "Use the skill independently. Why is the spelling runing, spelled r u n i n g not supported for the intended word running, spelled r u n n i n g?",
+    "audio_prompt": "Use the skill independently. Why is the spelling runing, spelled r u n i n g not supported for the intended word running, spelled r u n n i n g?",
+    "answers": [
       {
         "text": "the doubling condition applies",
         "is_correct": true
       },
       {
-        "text": "Every unfamiliar spelling is acceptable",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Standard spelling reflects sound, meaningful structure and word history.",
-      "hint": "Compare the attempted spelling with the base, affix and relevant condition."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9e5ly10-p-012",
-    "curriculum_code": "AC9E5LY10",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "word_origins_morphology_and_spelling_generalisations",
-    "question": "Which verification strategy is strongest after writing running, spelled r u n n i n g?",
-    "audio_prompt": "Which verification strategy is strongest after writing running, spelled r u n n i n g?",
-    "answers": [
-      {
-        "text": "Rely only on whether the spelling looks attractive",
-        "is_correct": false
-      },
-      {
-        "text": "Replace it with a shorter unrelated word",
-        "is_correct": false
-      },
-      {
-        "text": "Check run + ing against a trusted dictionary and the sentence meaning",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Independent spellers use pattern evidence and a reliable reference to verify.",
-      "hint": "Confirm both the letter pattern and that the word fits the sentence."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9e5ly10-p-013",
-    "curriculum_code": "AC9E5LY10",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "word_origins_morphology_and_spelling_generalisations",
-    "question": "Which analysis best explains the standard spelling of hopeful, spelled h o p e f u l?",
-    "audio_prompt": "Which analysis best explains the standard spelling of hopeful, spelled h o p e f u l?",
-    "answers": [
-      {
-        "text": "hope + ful",
-        "is_correct": true
-      },
-      {
-        "text": "hopful",
-        "is_correct": false
-      },
-      {
-        "text": "choose letters only by guessing",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "the final e stays before a suffix beginning with a consonant.",
-      "hint": "Identify the base, affix or origin pattern before writing the whole word."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9e5ly10-p-014",
-    "curriculum_code": "AC9E5LY10",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "word_origins_morphology_and_spelling_generalisations",
-    "question": "A student writes hopful, spelled h o p f u l when intending hopeful, spelled h o p e f u l. Which feedback is most useful?",
-    "audio_prompt": "A student writes hopful, spelled h o p f u l when intending hopeful, spelled h o p e f u l. Which feedback is most useful?",
-    "answers": [
-      {
-        "text": "Say the word louder and keep the same spelling",
-        "is_correct": false
-      },
-      {
-        "text": "the final e stays before a suffix beginning with a consonant",
-        "is_correct": true
-      },
-      {
-        "text": "Memorise it without looking for a pattern",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The correction uses a transferable spelling generalisation or word relationship.",
-      "hint": "Explain the condition that applies, not just the correct letters."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9e5ly10-p-015",
-    "curriculum_code": "AC9E5LY10",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "word_origins_morphology_and_spelling_generalisations",
-    "question": "Why is the spelling hopful, spelled h o p f u l not supported for the intended word hopeful, spelled h o p e f u l?",
-    "audio_prompt": "Why is the spelling hopful, spelled h o p f u l not supported for the intended word hopeful, spelled h o p e f u l?",
-    "answers": [
-      {
         "text": "It contains too few decorative letters",
         "is_correct": false
       },
       {
         "text": "Every unfamiliar spelling is acceptable",
         "is_correct": false
-      },
-      {
-        "text": "dropping the e would hide the base",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Standard spelling reflects sound, meaningful structure and word history.",
-      "hint": "Compare the attempted spelling with the base, affix and relevant condition."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9e5ly10-p-016",
-    "curriculum_code": "AC9E5LY10",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "word_origins_morphology_and_spelling_generalisations",
-    "question": "Which verification strategy is strongest after writing hopeful, spelled h o p e f u l?",
-    "audio_prompt": "Which verification strategy is strongest after writing hopeful, spelled h o p e f u l?",
-    "answers": [
-      {
-        "text": "Check hope + ful against a trusted dictionary and the sentence meaning",
-        "is_correct": true
-      },
-      {
-        "text": "Rely only on whether the spelling looks attractive",
-        "is_correct": false
-      },
-      {
-        "text": "Replace it with a shorter unrelated word",
-        "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Independent spellers use pattern evidence and a reliable reference to verify.",
-      "hint": "Confirm both the letter pattern and that the word fits the sentence."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "“the doubling condition applies” fits the meaning and the language clue in this example. Standard spelling reflects sound, meaningful structure and word history.",
+      "hint": "Compare the attempted spelling with the base, affix and relevant condition."
+    }
   },
   {
-    "id": "ac9e5ly10-p-017",
+    "id": "AC9E5LY10-P-033",
     "curriculum_code": "AC9E5LY10",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
+    "stage": "apply",
     "skill": "word_origins_morphology_and_spelling_generalisations",
-    "question": "Which analysis best explains the standard spelling of photograph, spelled p h o t o g r a p h?",
-    "audio_prompt": "Which analysis best explains the standard spelling of photograph, spelled p h o t o g r a p h?",
-    "answers": [
-      {
-        "text": "fotograf",
-        "is_correct": false
-      },
-      {
-        "text": "Greek photo meaning light and graph meaning write",
-        "is_correct": true
-      },
-      {
-        "text": "choose letters only by guessing",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "the origin explains the ph spelling and meaningful roots.",
-      "hint": "Identify the base, affix or origin pattern before writing the whole word."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9e5ly10-p-018",
-    "curriculum_code": "AC9E5LY10",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "word_origins_morphology_and_spelling_generalisations",
-    "question": "A student writes fotograf, spelled f o t o g r a f when intending photograph, spelled p h o t o g r a p h. Which feedback is most useful?",
-    "audio_prompt": "A student writes fotograf, spelled f o t o g r a f when intending photograph, spelled p h o t o g r a p h. Which feedback is most useful?",
+    "question": "Work out the answer from the details given. A student writes fotograf, spelled f o t o g r a f when intending photograph, spelled p h o t o g r a p h. Which feedback is most useful?",
+    "audio_prompt": "Work out the answer from the details given. A student writes fotograf, spelled f o t o g r a f when intending photograph, spelled p h o t o g r a p h. Which feedback is most useful?",
     "answers": [
       {
         "text": "Say the word louder and keep the same spelling",
-        "is_correct": false
-      },
-      {
-        "text": "Memorise it without looking for a pattern",
         "is_correct": false
       },
       {
         "text": "the origin explains the ph spelling and meaningful roots",
         "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The correction uses a transferable spelling generalisation or word relationship.",
-      "hint": "Explain the condition that applies, not just the correct letters."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9e5ly10-p-019",
-    "curriculum_code": "AC9E5LY10",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "word_origins_morphology_and_spelling_generalisations",
-    "question": "Why is the spelling fotograf, spelled f o t o g r a f not supported for the intended word photograph, spelled p h o t o g r a p h?",
-    "audio_prompt": "Why is the spelling fotograf, spelled f o t o g r a f not supported for the intended word photograph, spelled p h o t o g r a p h?",
-    "answers": [
-      {
-        "text": "sound alone does not record the word's history",
-        "is_correct": true
       },
       {
-        "text": "It contains too few decorative letters",
-        "is_correct": false
-      },
-      {
-        "text": "Every unfamiliar spelling is acceptable",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Standard spelling reflects sound, meaningful structure and word history.",
-      "hint": "Compare the attempted spelling with the base, affix and relevant condition."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9e5ly10-p-020",
-    "curriculum_code": "AC9E5LY10",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "word_origins_morphology_and_spelling_generalisations",
-    "question": "Which verification strategy is strongest after writing photograph, spelled p h o t o g r a p h?",
-    "audio_prompt": "Which verification strategy is strongest after writing photograph, spelled p h o t o g r a p h?",
-    "answers": [
-      {
-        "text": "Rely only on whether the spelling looks attractive",
-        "is_correct": false
-      },
-      {
-        "text": "Check Greek photo meaning light and graph meaning write against a trusted dictionary and the sentence meaning",
-        "is_correct": true
-      },
-      {
-        "text": "Replace it with a shorter unrelated word",
+        "text": "Memorise it without looking for a pattern",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Independent spellers use pattern evidence and a reliable reference to verify.",
-      "hint": "Confirm both the letter pattern and that the word fits the sentence."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "“the origin explains the ph spelling and meaningful roots” fits the meaning and the language clue in this example. The correction uses a transferable spelling generalisation or word relationship.",
+      "hint": "Explain the condition that applies, not just the correct letters."
+    }
   },
   {
-    "id": "ac9e5ly10-p-021",
+    "id": "AC9E5LY10-P-034",
     "curriculum_code": "AC9E5LY10",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
+    "stage": "apply",
     "skill": "word_origins_morphology_and_spelling_generalisations",
-    "question": "Which analysis best explains the standard spelling of transport, spelled t r a n s p o r t?",
-    "audio_prompt": "Which analysis best explains the standard spelling of transport, spelled t r a n s p o r t?",
+    "question": "Now use the idea in context. Which analysis best explains the standard spelling of decision, spelled d e c i s i o n?",
+    "audio_prompt": "Now use the idea in context. Which analysis best explains the standard spelling of decision, spelled d e c i s i o n?",
     "answers": [
       {
-        "text": "transportt",
+        "text": "desishun",
         "is_correct": false
       },
       {
@@ -645,65 +1009,63 @@
         "is_correct": false
       },
       {
-        "text": "Latin trans meaning across and port meaning carry",
+        "text": "decide",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "the roots explain both meaning and stable spelling.",
+      "summary": "“decide” fits the meaning and the language clue in this example. the related base preserves the c before the suffix.",
       "hint": "Identify the base, affix or origin pattern before writing the whole word."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9e5ly10-p-022",
+    "id": "AC9E5LY10-P-035",
     "curriculum_code": "AC9E5LY10",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
+    "stage": "apply",
     "skill": "word_origins_morphology_and_spelling_generalisations",
-    "question": "A student writes transportt, spelled t r a n s p o r t t when intending transport, spelled t r a n s p o r t. Which feedback is most useful?",
-    "audio_prompt": "A student writes transportt, spelled t r a n s p o r t t when intending transport, spelled t r a n s p o r t. Which feedback is most useful?",
+    "question": "Choose carefully using meaning, not just a familiar word. Which verification strategy is strongest after writing happiness, spelled h a p p i n e s s?",
+    "audio_prompt": "Choose carefully using meaning, not just a familiar word. Which verification strategy is strongest after writing happiness, spelled h a p p i n e s s?",
     "answers": [
       {
-        "text": "the roots explain both meaning and stable spelling",
+        "text": "Check happy + ness against a trusted dictionary and the sentence meaning",
         "is_correct": true
       },
       {
-        "text": "Say the word louder and keep the same spelling",
+        "text": "Rely only on whether the spelling looks attractive",
         "is_correct": false
       },
       {
-        "text": "Memorise it without looking for a pattern",
+        "text": "Replace it with a shorter unrelated word",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The correction uses a transferable spelling generalisation or word relationship.",
-      "hint": "Explain the condition that applies, not just the correct letters."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+      "summary": "“Check happy + ness against a trusted dictionary and the sentence meaning” fits the meaning and the language clue in this example. Independent spellers use pattern evidence and a reliable reference to verify.",
+      "hint": "Confirm both the letter pattern and that the word fits the sentence."
+    }
   },
   {
-    "id": "ac9e5ly10-p-023",
+    "id": "AC9E5LY10-P-036",
     "curriculum_code": "AC9E5LY10",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
+    "stage": "apply",
     "skill": "word_origins_morphology_and_spelling_generalisations",
-    "question": "Why is the spelling transportt, spelled t r a n s p o r t t not supported for the intended word transport, spelled t r a n s p o r t?",
-    "audio_prompt": "Why is the spelling transportt, spelled t r a n s p o r t t not supported for the intended word transport, spelled t r a n s p o r t?",
+    "question": "Which answer still works when you consider the whole example? Why is the spelling hopful, spelled h o p f u l not supported for the intended word hopeful, spelled h o p e f u l?",
+    "audio_prompt": "Which answer still works when you consider the whole example? Why is the spelling hopful, spelled h o p f u l not supported for the intended word hopeful, spelled h o p e f u l?",
     "answers": [
       {
         "text": "It contains too few decorative letters",
         "is_correct": false
       },
       {
-        "text": "an extra final letter has no pattern support",
+        "text": "dropping the e would hide the base",
         "is_correct": true
       },
       {
@@ -713,50 +1075,137 @@
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Standard spelling reflects sound, meaningful structure and word history.",
+      "summary": "“dropping the e would hide the base” fits the meaning and the language clue in this example. Standard spelling reflects sound, meaningful structure and word history.",
       "hint": "Compare the attempted spelling with the base, affix and relevant condition."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9e5ly10-p-024",
+    "id": "AC9E5LY10-P-037",
     "curriculum_code": "AC9E5LY10",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
+    "stage": "apply",
     "skill": "word_origins_morphology_and_spelling_generalisations",
-    "question": "Which verification strategy is strongest after writing transport, spelled t r a n s p o r t?",
-    "audio_prompt": "Which verification strategy is strongest after writing transport, spelled t r a n s p o r t?",
+    "question": "Use all the clues in this situation. A student writes transportt, spelled t r a n s p o r t t when intending transport, spelled t r a n s p o r t. Which feedback is most useful?",
+    "audio_prompt": "Use all the clues in this situation. A student writes transportt, spelled t r a n s p o r t t when intending transport, spelled t r a n s p o r t. Which feedback is most useful?",
+    "answers": [
+      {
+        "text": "Say the word louder and keep the same spelling",
+        "is_correct": false
+      },
+      {
+        "text": "Memorise it without looking for a pattern",
+        "is_correct": false
+      },
+      {
+        "text": "the roots explain both meaning and stable spelling",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“the roots explain both meaning and stable spelling” fits the meaning and the language clue in this example. The correction uses a transferable spelling generalisation or word relationship.",
+      "hint": "Explain the condition that applies, not just the correct letters."
+    }
+  },
+  {
+    "id": "AC9E5LY10-P-038",
+    "curriculum_code": "AC9E5LY10",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "word_origins_morphology_and_spelling_generalisations",
+    "question": "Decide which option is most precise. Which analysis best explains the standard spelling of happiness, spelled h a p p i n e s s?",
+    "audio_prompt": "Decide which option is most precise. Which analysis best explains the standard spelling of happiness, spelled h a p p i n e s s?",
+    "answers": [
+      {
+        "text": "happy + ness",
+        "is_correct": true
+      },
+      {
+        "text": "happyness",
+        "is_correct": false
+      },
+      {
+        "text": "choose letters only by guessing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“happy + ness” fits the meaning and the language clue in this example. the final y changes to i before this suffix.",
+      "hint": "Identify the base, affix or origin pattern before writing the whole word."
+    }
+  },
+  {
+    "id": "AC9E5LY10-P-039",
+    "curriculum_code": "AC9E5LY10",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "word_origins_morphology_and_spelling_generalisations",
+    "question": "Which choice best shows your understanding here? Which verification strategy is strongest after writing running, spelled r u n n i n g?",
+    "audio_prompt": "Which choice best shows your understanding here? Which verification strategy is strongest after writing running, spelled r u n n i n g?",
     "answers": [
       {
         "text": "Rely only on whether the spelling looks attractive",
         "is_correct": false
       },
       {
+        "text": "Check run + ing against a trusted dictionary and the sentence meaning",
+        "is_correct": true
+      },
+      {
         "text": "Replace it with a shorter unrelated word",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“Check run + ing against a trusted dictionary and the sentence meaning” fits the meaning and the language clue in this example. Independent spellers use pattern evidence and a reliable reference to verify.",
+      "hint": "Confirm both the letter pattern and that the word fits the sentence."
+    }
+  },
+  {
+    "id": "AC9E5LY10-P-040",
+    "curriculum_code": "AC9E5LY10",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "word_origins_morphology_and_spelling_generalisations",
+    "question": "Read the full example before deciding. Why is the spelling fotograf, spelled f o t o g r a f not supported for the intended word photograph, spelled p h o t o g r a p h?",
+    "audio_prompt": "Read the full example before deciding. Why is the spelling fotograf, spelled f o t o g r a f not supported for the intended word photograph, spelled p h o t o g r a p h?",
+    "answers": [
+      {
+        "text": "It contains too few decorative letters",
         "is_correct": false
       },
       {
-        "text": "Check Latin trans meaning across and port meaning carry against a trusted dictionary and the sentence meaning",
+        "text": "Every unfamiliar spelling is acceptable",
+        "is_correct": false
+      },
+      {
+        "text": "sound alone does not record the word's history",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Independent spellers use pattern evidence and a reliable reference to verify.",
-      "hint": "Confirm both the letter pattern and that the word fits the sentence."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "“sound alone does not record the word's history” fits the meaning and the language clue in this example. Standard spelling reflects sound, meaningful structure and word history.",
+      "hint": "Compare the attempted spelling with the base, affix and relevant condition."
+    }
   },
   {
-    "id": "ac9e5ly10-t-001",
+    "id": "AC9E5LY10-T-001",
     "curriculum_code": "AC9E5LY10",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
     "skill": "word_origins_morphology_and_spelling_generalisations",
     "question": "Which analysis best explains the standard spelling of careless, spelled c a r e l e s s?",
     "audio_prompt": "Which analysis best explains the standard spelling of careless, spelled c a r e l e s s?",
@@ -781,14 +1230,15 @@
     }
   },
   {
-    "id": "ac9e5ly10-t-002",
+    "id": "AC9E5LY10-T-002",
     "curriculum_code": "AC9E5LY10",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
     "skill": "word_origins_morphology_and_spelling_generalisations",
-    "question": "A student writes carless, spelled c a r l e s s when intending careless, spelled c a r e l e s s. Which feedback is most useful?",
-    "audio_prompt": "A student writes carless, spelled c a r l e s s when intending careless, spelled c a r e l e s s. Which feedback is most useful?",
+    "question": "Read this new example closely. A student writes carless, spelled c a r l e s s when intending careless, spelled c a r e l e s s. Which feedback is most useful?",
+    "audio_prompt": "Read this new example closely. A student writes carless, spelled c a r l e s s when intending careless, spelled c a r e l e s s. Which feedback is most useful?",
     "answers": [
       {
         "text": "Say the word louder and keep the same spelling",
@@ -810,14 +1260,15 @@
     }
   },
   {
-    "id": "ac9e5ly10-t-003",
+    "id": "AC9E5LY10-T-003",
     "curriculum_code": "AC9E5LY10",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
     "skill": "word_origins_morphology_and_spelling_generalisations",
-    "question": "Why is the spelling carless, spelled c a r l e s s not supported for the intended word careless, spelled c a r e l e s s?",
-    "audio_prompt": "Why is the spelling carless, spelled c a r l e s s not supported for the intended word careless, spelled c a r e l e s s?",
+    "question": "Which answer is most accurate here? Why is the spelling carless, spelled c a r l e s s not supported for the intended word careless, spelled c a r e l e s s?",
+    "audio_prompt": "Which answer is most accurate here? Why is the spelling carless, spelled c a r l e s s not supported for the intended word careless, spelled c a r e l e s s?",
     "answers": [
       {
         "text": "It contains too few decorative letters",
@@ -839,14 +1290,15 @@
     }
   },
   {
-    "id": "ac9e5ly10-t-004",
+    "id": "AC9E5LY10-T-004",
     "curriculum_code": "AC9E5LY10",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
     "skill": "word_origins_morphology_and_spelling_generalisations",
-    "question": "Which verification strategy is strongest after writing careless, spelled c a r e l e s s?",
-    "audio_prompt": "Which verification strategy is strongest after writing careless, spelled c a r e l e s s?",
+    "question": "Use the details in this new situation. Which verification strategy is strongest after writing careless, spelled c a r e l e s s?",
+    "audio_prompt": "Use the details in this new situation. Which verification strategy is strongest after writing careless, spelled c a r e l e s s?",
     "answers": [
       {
         "text": "Check care + less against a trusted dictionary and the sentence meaning",
@@ -868,14 +1320,15 @@
     }
   },
   {
-    "id": "ac9e5ly10-t-005",
+    "id": "AC9E5LY10-T-005",
     "curriculum_code": "AC9E5LY10",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
     "skill": "word_origins_morphology_and_spelling_generalisations",
-    "question": "Which analysis best explains the standard spelling of reliable, spelled r e l i a b l e?",
-    "audio_prompt": "Which analysis best explains the standard spelling of reliable, spelled r e l i a b l e?",
+    "question": "Choose the answer supported by the whole example. Which analysis best explains the standard spelling of reliable, spelled r e l i a b l e?",
+    "audio_prompt": "Choose the answer supported by the whole example. Which analysis best explains the standard spelling of reliable, spelled r e l i a b l e?",
     "answers": [
       {
         "text": "relyable",
@@ -897,14 +1350,15 @@
     }
   },
   {
-    "id": "ac9e5ly10-t-006",
+    "id": "AC9E5LY10-T-006",
     "curriculum_code": "AC9E5LY10",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
     "skill": "word_origins_morphology_and_spelling_generalisations",
-    "question": "A student writes relyable, spelled r e l y a b l e when intending reliable, spelled r e l i a b l e. Which feedback is most useful?",
-    "audio_prompt": "A student writes relyable, spelled r e l y a b l e when intending reliable, spelled r e l i a b l e. Which feedback is most useful?",
+    "question": "Which option best fits the meaning? A student writes relyable, spelled r e l y a b l e when intending reliable, spelled r e l i a b l e. Which feedback is most useful?",
+    "audio_prompt": "Which option best fits the meaning? A student writes relyable, spelled r e l y a b l e when intending reliable, spelled r e l i a b l e. Which feedback is most useful?",
     "answers": [
       {
         "text": "Say the word louder and keep the same spelling",
@@ -926,14 +1380,15 @@
     }
   },
   {
-    "id": "ac9e5ly10-t-007",
+    "id": "AC9E5LY10-T-007",
     "curriculum_code": "AC9E5LY10",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
     "skill": "word_origins_morphology_and_spelling_generalisations",
-    "question": "Why is the spelling relyable, spelled r e l y a b l e not supported for the intended word reliable, spelled r e l i a b l e?",
-    "audio_prompt": "Why is the spelling relyable, spelled r e l y a b l e not supported for the intended word reliable, spelled r e l i a b l e?",
+    "question": "Work this out independently. Why is the spelling relyable, spelled r e l y a b l e not supported for the intended word reliable, spelled r e l i a b l e?",
+    "audio_prompt": "Work this out independently. Why is the spelling relyable, spelled r e l y a b l e not supported for the intended word reliable, spelled r e l i a b l e?",
     "answers": [
       {
         "text": "the suffix pattern requires the change",
@@ -955,14 +1410,15 @@
     }
   },
   {
-    "id": "ac9e5ly10-t-008",
+    "id": "AC9E5LY10-T-008",
     "curriculum_code": "AC9E5LY10",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
     "skill": "word_origins_morphology_and_spelling_generalisations",
-    "question": "Which verification strategy is strongest after writing reliable, spelled r e l i a b l e?",
-    "audio_prompt": "Which verification strategy is strongest after writing reliable, spelled r e l i a b l e?",
+    "question": "What is the best answer in this context? Which verification strategy is strongest after writing reliable, spelled r e l i a b l e?",
+    "audio_prompt": "What is the best answer in this context? Which verification strategy is strongest after writing reliable, spelled r e l i a b l e?",
     "answers": [
       {
         "text": "Rely only on whether the spelling looks attractive",
@@ -984,14 +1440,15 @@
     }
   },
   {
-    "id": "ac9e5ly10-t-009",
+    "id": "AC9E5LY10-T-009",
     "curriculum_code": "AC9E5LY10",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "apply",
     "skill": "word_origins_morphology_and_spelling_generalisations",
-    "question": "Which analysis best explains the standard spelling of musician, spelled m u s i c i a n?",
-    "audio_prompt": "Which analysis best explains the standard spelling of musician, spelled m u s i c i a n?",
+    "question": "Which choice is supported by the evidence given? Which analysis best explains the standard spelling of musician, spelled m u s i c i a n?",
+    "audio_prompt": "Which choice is supported by the evidence given? Which analysis best explains the standard spelling of musician, spelled m u s i c i a n?",
     "answers": [
       {
         "text": "muzishun",
@@ -1013,14 +1470,15 @@
     }
   },
   {
-    "id": "ac9e5ly10-t-010",
+    "id": "AC9E5LY10-T-010",
     "curriculum_code": "AC9E5LY10",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "apply",
     "skill": "word_origins_morphology_and_spelling_generalisations",
-    "question": "A student writes muzishun, spelled m u z i s h u n when intending musician, spelled m u s i c i a n. Which feedback is most useful?",
-    "audio_prompt": "A student writes muzishun, spelled m u z i s h u n when intending musician, spelled m u s i c i a n. Which feedback is most useful?",
+    "question": "Read for meaning before you choose. A student writes muzishun, spelled m u z i s h u n when intending musician, spelled m u s i c i a n. Which feedback is most useful?",
+    "audio_prompt": "Read for meaning before you choose. A student writes muzishun, spelled m u z i s h u n when intending musician, spelled m u s i c i a n. Which feedback is most useful?",
     "answers": [
       {
         "text": "the related word music preserves the c in the spelling",
@@ -1042,14 +1500,15 @@
     }
   },
   {
-    "id": "ac9e5ly10-t-011",
+    "id": "AC9E5LY10-T-011",
     "curriculum_code": "AC9E5LY10",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "apply",
     "skill": "word_origins_morphology_and_spelling_generalisations",
-    "question": "Why is the spelling muzishun, spelled m u z i s h u n not supported for the intended word musician, spelled m u s i c i a n?",
-    "audio_prompt": "Why is the spelling muzishun, spelled m u z i s h u n not supported for the intended word musician, spelled m u s i c i a n?",
+    "question": "Which option is the most precise? Why is the spelling muzishun, spelled m u z i s h u n not supported for the intended word musician, spelled m u s i c i a n?",
+    "audio_prompt": "Which option is the most precise? Why is the spelling muzishun, spelled m u z i s h u n not supported for the intended word musician, spelled m u s i c i a n?",
     "answers": [
       {
         "text": "It contains too few decorative letters",
@@ -1071,14 +1530,15 @@
     }
   },
   {
-    "id": "ac9e5ly10-t-012",
+    "id": "AC9E5LY10-T-012",
     "curriculum_code": "AC9E5LY10",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "apply",
     "skill": "word_origins_morphology_and_spelling_generalisations",
-    "question": "Which verification strategy is strongest after writing musician, spelled m u s i c i a n?",
-    "audio_prompt": "Which verification strategy is strongest after writing musician, spelled m u s i c i a n?",
+    "question": "Use every clue in the example. Which verification strategy is strongest after writing musician, spelled m u s i c i a n?",
+    "audio_prompt": "Use every clue in the example. Which verification strategy is strongest after writing musician, spelled m u s i c i a n?",
     "answers": [
       {
         "text": "Rely only on whether the spelling looks attractive",
@@ -1100,14 +1560,15 @@
     }
   },
   {
-    "id": "ac9e5ly10-t-013",
+    "id": "AC9E5LY10-T-013",
     "curriculum_code": "AC9E5LY10",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "apply",
     "skill": "word_origins_morphology_and_spelling_generalisations",
-    "question": "Which analysis best explains the standard spelling of illegal, spelled i l l e g a l?",
-    "audio_prompt": "Which analysis best explains the standard spelling of illegal, spelled i l l e g a l?",
+    "question": "Which answer holds up when you check the full context? Which analysis best explains the standard spelling of illegal, spelled i l l e g a l?",
+    "audio_prompt": "Which answer holds up when you check the full context? Which analysis best explains the standard spelling of illegal, spelled i l l e g a l?",
     "answers": [
       {
         "text": "il + legal",
@@ -1129,14 +1590,15 @@
     }
   },
   {
-    "id": "ac9e5ly10-t-014",
+    "id": "AC9E5LY10-T-014",
     "curriculum_code": "AC9E5LY10",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "apply",
     "skill": "word_origins_morphology_and_spelling_generalisations",
-    "question": "A student writes inlegal, spelled i n l e g a l when intending illegal, spelled i l l e g a l. Which feedback is most useful?",
-    "audio_prompt": "A student writes inlegal, spelled i n l e g a l when intending illegal, spelled i l l e g a l. Which feedback is most useful?",
+    "question": "Decide which option best matches what the text shows. A student writes inlegal, spelled i n l e g a l when intending illegal, spelled i l l e g a l. Which feedback is most useful?",
+    "audio_prompt": "Decide which option best matches what the text shows. A student writes inlegal, spelled i n l e g a l when intending illegal, spelled i l l e g a l. Which feedback is most useful?",
     "answers": [
       {
         "text": "Say the word louder and keep the same spelling",
@@ -1158,14 +1620,15 @@
     }
   },
   {
-    "id": "ac9e5ly10-t-015",
+    "id": "AC9E5LY10-T-015",
     "curriculum_code": "AC9E5LY10",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "apply",
     "skill": "word_origins_morphology_and_spelling_generalisations",
-    "question": "Why is the spelling inlegal, spelled i n l e g a l not supported for the intended word illegal, spelled i l l e g a l?",
-    "audio_prompt": "Why is the spelling inlegal, spelled i n l e g a l not supported for the intended word illegal, spelled i l l e g a l?",
+    "question": "Which choice best demonstrates the skill in this new example? Why is the spelling inlegal, spelled i n l e g a l not supported for the intended word illegal, spelled i l l e g a l?",
+    "audio_prompt": "Which choice best demonstrates the skill in this new example? Why is the spelling inlegal, spelled i n l e g a l not supported for the intended word illegal, spelled i l l e g a l?",
     "answers": [
       {
         "text": "It contains too few decorative letters",
@@ -1187,14 +1650,15 @@
     }
   },
   {
-    "id": "ac9e5ly10-t-016",
+    "id": "AC9E5LY10-T-016",
     "curriculum_code": "AC9E5LY10",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "apply",
     "skill": "word_origins_morphology_and_spelling_generalisations",
-    "question": "Which verification strategy is strongest after writing illegal, spelled i l l e g a l?",
-    "audio_prompt": "Which verification strategy is strongest after writing illegal, spelled i l l e g a l?",
+    "question": "Make your final choice from the evidence in the question. Which verification strategy is strongest after writing illegal, spelled i l l e g a l?",
+    "audio_prompt": "Make your final choice from the evidence in the question. Which verification strategy is strongest after writing illegal, spelled i l l e g a l?",
     "answers": [
       {
         "text": "Check il + legal against a trusted dictionary and the sentence meaning",

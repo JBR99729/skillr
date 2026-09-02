@@ -12,11 +12,11 @@ window.skillrTestQuestions = [
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "imaginative",
       "informative",
-      "persuasive"
+      "persuasive",
+      "imaginative"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "The dominant purpose is to create an experience and mood.\nHint: Decide what the audience is mainly meant to experience, understand, believe or do.",
     "structuredExplanation": {
       "summary": "The dominant purpose is to create an experience and mood.",
@@ -31,21 +31,16 @@ window.skillrTestQuestions = [
     "skill": "characteristic features and hybrid text purposes",
     "printable": true,
     "type": "single",
-    "question": "Which feature pattern best suits a poem creating the mood of an approaching storm?",
-    "audioPrompt": "Which feature pattern best suits a poem creating the mood of an approaching storm?",
-    "visual": "A feature map links imagery, rhythm and carefully chosen sound patterns to the audience outcome. A three-part cards guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A feature map links imagery, rhythm and carefully chosen sound patterns to the audience outcome. A three-part cards guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5ly03.svg#ac9e5ly03-t-002\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly03.svg#ac9e5ly03-t-002",
-      "alt_text": "A feature map links imagery, rhythm and carefully chosen sound patterns to the audience outcome. A three-part cards guide supports the question."
-    },
+    "question": "Read this new example closely. Which feature pattern best suits a poem creating the mood of an approaching storm?",
+    "audioPrompt": "Read this new example closely. Which feature pattern best suits a poem creating the mood of an approaching storm?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "a random mixture of facts and jokes",
       "imagery, rhythm and carefully chosen sound patterns",
+      "a random mixture of facts and jokes",
       "a decorative border with no connection to meaning"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "These features work together to create an experience and mood.\nHint: Choose features by their combined purpose, not by one isolated detail.",
     "structuredExplanation": {
       "summary": "These features work together to create an experience and mood.",
@@ -60,16 +55,16 @@ window.skillrTestQuestions = [
     "skill": "characteristic features and hybrid text purposes",
     "printable": true,
     "type": "single",
-    "question": "Why should a poem creating the mood of an approaching storm use imagery, rhythm and carefully chosen sound patterns?",
-    "audioPrompt": "Why should a poem creating the mood of an approaching storm use imagery, rhythm and carefully chosen sound patterns?",
+    "question": "Which answer is most accurate here? Why should a poem creating the mood of an approaching storm use imagery, rhythm and carefully chosen sound patterns?",
+    "audioPrompt": "Which answer is most accurate here? Why should a poem creating the mood of an approaching storm use imagery, rhythm and carefully chosen sound patterns?",
     "visual": "",
     "visualHtml": "",
     "answers": [
       "They are required in every text",
-      "They make the text belong to every purpose equally",
-      "They support the goal to create an experience and mood"
+      "They support the goal to create an experience and mood",
+      "They make the text belong to every purpose equally"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Characteristic features are adaptable choices that serve the intended outcome.\nHint: Connect the pattern of features to the audience outcome.",
     "structuredExplanation": {
       "summary": "Characteristic features are adaptable choices that serve the intended outcome.",
@@ -84,16 +79,16 @@ window.skillrTestQuestions = [
     "skill": "characteristic features and hybrid text purposes",
     "printable": true,
     "type": "single",
-    "question": "Which classification is best supported for a poem creating the mood of an approaching storm?",
-    "audioPrompt": "Which classification is best supported for a poem creating the mood of an approaching storm?",
+    "question": "Use the details in this new situation. Which classification is best supported for a poem creating the mood of an approaching storm?",
+    "audioPrompt": "Use the details in this new situation. Which classification is best supported for a poem creating the mood of an approaching storm?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "imaginative, because its main feature pattern aims to create an experience and mood",
       "informative, because every text contains some information",
-      "imaginative, because a colourful image appears"
+      "imaginative, because a colourful image appears",
+      "imaginative, because its main feature pattern aims to create an experience and mood"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Classification depends on the whole pattern and dominant audience outcome.\nHint: Do not let one fact, colour or story moment decide the classification.",
     "structuredExplanation": {
       "summary": "Classification depends on the whole pattern and dominant audience outcome.",
@@ -108,16 +103,16 @@ window.skillrTestQuestions = [
     "skill": "characteristic features and hybrid text purposes",
     "printable": true,
     "type": "single",
-    "question": "What is the dominant purpose of a brochure comparing three walking tracks?",
-    "audioPrompt": "What is the dominant purpose of a brochure comparing three walking tracks?",
+    "question": "Choose the answer supported by the whole example. What is the dominant purpose of a brochure comparing three walking tracks?",
+    "audioPrompt": "Choose the answer supported by the whole example. What is the dominant purpose of a brochure comparing three walking tracks?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "persuasive",
       "informative",
+      "persuasive",
       "imaginative"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The dominant purpose is to help walkers make an informed choice.\nHint: Decide what the audience is mainly meant to experience, understand, believe or do.",
     "structuredExplanation": {
       "summary": "The dominant purpose is to help walkers make an informed choice.",
@@ -132,21 +127,16 @@ window.skillrTestQuestions = [
     "skill": "characteristic features and hybrid text purposes",
     "printable": true,
     "type": "single",
-    "question": "Which feature pattern best suits a brochure comparing three walking tracks?",
-    "audioPrompt": "Which feature pattern best suits a brochure comparing three walking tracks?",
-    "visual": "A feature map links comparison headings, maps and difficulty ratings to the audience outcome. A three-part cards guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A feature map links comparison headings, maps and difficulty ratings to the audience outcome. A three-part cards guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5ly03.svg#ac9e5ly03-t-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly03.svg#ac9e5ly03-t-006",
-      "alt_text": "A feature map links comparison headings, maps and difficulty ratings to the audience outcome. A three-part cards guide supports the question."
-    },
+    "question": "Which option best fits the meaning? Which feature pattern best suits a brochure comparing three walking tracks?",
+    "audioPrompt": "Which option best fits the meaning? Which feature pattern best suits a brochure comparing three walking tracks?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "a random mixture of facts and jokes",
-      "a decorative border with no connection to meaning",
-      "comparison headings, maps and difficulty ratings"
+      "comparison headings, maps and difficulty ratings",
+      "a decorative border with no connection to meaning"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "These features work together to help walkers make an informed choice.\nHint: Choose features by their combined purpose, not by one isolated detail.",
     "structuredExplanation": {
       "summary": "These features work together to help walkers make an informed choice.",
@@ -161,16 +151,16 @@ window.skillrTestQuestions = [
     "skill": "characteristic features and hybrid text purposes",
     "printable": true,
     "type": "single",
-    "question": "Why should a brochure comparing three walking tracks use comparison headings, maps and difficulty ratings?",
-    "audioPrompt": "Why should a brochure comparing three walking tracks use comparison headings, maps and difficulty ratings?",
+    "question": "Work this out independently. Why should a brochure comparing three walking tracks use comparison headings, maps and difficulty ratings?",
+    "audioPrompt": "Work this out independently. Why should a brochure comparing three walking tracks use comparison headings, maps and difficulty ratings?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "They support the goal to help walkers make an informed choice",
       "They are required in every text",
-      "They make the text belong to every purpose equally"
+      "They make the text belong to every purpose equally",
+      "They support the goal to help walkers make an informed choice"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Characteristic features are adaptable choices that serve the intended outcome.\nHint: Connect the pattern of features to the audience outcome.",
     "structuredExplanation": {
       "summary": "Characteristic features are adaptable choices that serve the intended outcome.",
@@ -185,16 +175,16 @@ window.skillrTestQuestions = [
     "skill": "characteristic features and hybrid text purposes",
     "printable": true,
     "type": "single",
-    "question": "Which classification is best supported for a brochure comparing three walking tracks?",
-    "audioPrompt": "Which classification is best supported for a brochure comparing three walking tracks?",
+    "question": "What is the best answer in this context? Which classification is best supported for a brochure comparing three walking tracks?",
+    "audioPrompt": "What is the best answer in this context? Which classification is best supported for a brochure comparing three walking tracks?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "informative, because every text contains some information",
       "informative, because its main feature pattern aims to help walkers make an informed choice",
+      "informative, because every text contains some information",
       "imaginative, because a colourful image appears"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Classification depends on the whole pattern and dominant audience outcome.\nHint: Do not let one fact, colour or story moment decide the classification.",
     "structuredExplanation": {
       "summary": "Classification depends on the whole pattern and dominant audience outcome.",
@@ -209,16 +199,16 @@ window.skillrTestQuestions = [
     "skill": "characteristic features and hybrid text purposes",
     "printable": true,
     "type": "single",
-    "question": "What is the dominant purpose of a documentary mixing an animal's journey with habitat facts?",
-    "audioPrompt": "What is the dominant purpose of a documentary mixing an animal's journey with habitat facts?",
+    "question": "Which choice is supported by the evidence given? What is the dominant purpose of a documentary mixing an animal's journey with habitat facts?",
+    "audioPrompt": "Which choice is supported by the evidence given? What is the dominant purpose of a documentary mixing an animal's journey with habitat facts?",
     "visual": "",
     "visualHtml": "",
     "answers": [
       "persuasive only",
-      "imaginative only",
-      "hybrid with an informative purpose"
+      "hybrid with an informative purpose",
+      "imaginative only"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "The dominant purpose is to explain migration while maintaining interest.\nHint: Decide what the audience is mainly meant to experience, understand, believe or do.",
     "structuredExplanation": {
       "summary": "The dominant purpose is to explain migration while maintaining interest.",
@@ -233,21 +223,16 @@ window.skillrTestQuestions = [
     "skill": "characteristic features and hybrid text purposes",
     "printable": true,
     "type": "single",
-    "question": "Which feature pattern best suits a documentary mixing an animal's journey with habitat facts?",
-    "audioPrompt": "Which feature pattern best suits a documentary mixing an animal's journey with habitat facts?",
-    "visual": "A feature map links a story thread supported by maps and expert evidence to the audience outcome. A three-part cards guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A feature map links a story thread supported by maps and expert evidence to the audience outcome. A three-part cards guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5ly03.svg#ac9e5ly03-t-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly03.svg#ac9e5ly03-t-010",
-      "alt_text": "A feature map links a story thread supported by maps and expert evidence to the audience outcome. A three-part cards guide supports the question."
-    },
+    "question": "Read for meaning before you choose. Which feature pattern best suits a documentary mixing an animal's journey with habitat facts?",
+    "audioPrompt": "Read for meaning before you choose. Which feature pattern best suits a documentary mixing an animal's journey with habitat facts?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "a story thread supported by maps and expert evidence",
       "a random mixture of facts and jokes",
-      "a decorative border with no connection to meaning"
+      "a decorative border with no connection to meaning",
+      "a story thread supported by maps and expert evidence"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "These features work together to explain migration while maintaining interest.\nHint: Choose features by their combined purpose, not by one isolated detail.",
     "structuredExplanation": {
       "summary": "These features work together to explain migration while maintaining interest.",
@@ -262,16 +247,16 @@ window.skillrTestQuestions = [
     "skill": "characteristic features and hybrid text purposes",
     "printable": true,
     "type": "single",
-    "question": "Why should a documentary mixing an animal's journey with habitat facts use a story thread supported by maps and expert evidence?",
-    "audioPrompt": "Why should a documentary mixing an animal's journey with habitat facts use a story thread supported by maps and expert evidence?",
+    "question": "Which option is the most precise? Why should a documentary mixing an animal's journey with habitat facts use a story thread supported by maps and expert evidence?",
+    "audioPrompt": "Which option is the most precise? Why should a documentary mixing an animal's journey with habitat facts use a story thread supported by maps and expert evidence?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "They are required in every text",
       "They support the goal to explain migration while maintaining interest",
+      "They are required in every text",
       "They make the text belong to every purpose equally"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Characteristic features are adaptable choices that serve the intended outcome.\nHint: Connect the pattern of features to the audience outcome.",
     "structuredExplanation": {
       "summary": "Characteristic features are adaptable choices that serve the intended outcome.",
@@ -286,16 +271,16 @@ window.skillrTestQuestions = [
     "skill": "characteristic features and hybrid text purposes",
     "printable": true,
     "type": "single",
-    "question": "Which classification is best supported for a documentary mixing an animal's journey with habitat facts?",
-    "audioPrompt": "Which classification is best supported for a documentary mixing an animal's journey with habitat facts?",
+    "question": "Use every clue in the example. Which classification is best supported for a documentary mixing an animal's journey with habitat facts?",
+    "audioPrompt": "Use every clue in the example. Which classification is best supported for a documentary mixing an animal's journey with habitat facts?",
     "visual": "",
     "visualHtml": "",
     "answers": [
       "informative, because every text contains some information",
-      "imaginative, because a colourful image appears",
-      "hybrid with an informative purpose, because its main feature pattern aims to explain migration while maintaining interest"
+      "hybrid with an informative purpose, because its main feature pattern aims to explain migration while maintaining interest",
+      "imaginative, because a colourful image appears"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Classification depends on the whole pattern and dominant audience outcome.\nHint: Do not let one fact, colour or story moment decide the classification.",
     "structuredExplanation": {
       "summary": "Classification depends on the whole pattern and dominant audience outcome.",
@@ -310,16 +295,16 @@ window.skillrTestQuestions = [
     "skill": "characteristic features and hybrid text purposes",
     "printable": true,
     "type": "single",
-    "question": "What is the dominant purpose of an advertisement asking students to join a recycling team?",
-    "audioPrompt": "What is the dominant purpose of an advertisement asking students to join a recycling team?",
+    "question": "Which answer holds up when you check the full context? What is the dominant purpose of an advertisement asking students to join a recycling team?",
+    "audioPrompt": "Which answer holds up when you check the full context? What is the dominant purpose of an advertisement asking students to join a recycling team?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "persuasive",
       "informative",
-      "imaginative"
+      "imaginative",
+      "persuasive"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "The dominant purpose is to motivate students to join.\nHint: Decide what the audience is mainly meant to experience, understand, believe or do.",
     "structuredExplanation": {
       "summary": "The dominant purpose is to motivate students to join.",
@@ -334,21 +319,16 @@ window.skillrTestQuestions = [
     "skill": "characteristic features and hybrid text purposes",
     "printable": true,
     "type": "single",
-    "question": "Which feature pattern best suits an advertisement asking students to join a recycling team?",
-    "audioPrompt": "Which feature pattern best suits an advertisement asking students to join a recycling team?",
-    "visual": "A feature map links benefit claims, inclusive language and a sign-up instruction to the audience outcome. A three-part cards guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A feature map links benefit claims, inclusive language and a sign-up instruction to the audience outcome. A three-part cards guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5ly03.svg#ac9e5ly03-t-014\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly03.svg#ac9e5ly03-t-014",
-      "alt_text": "A feature map links benefit claims, inclusive language and a sign-up instruction to the audience outcome. A three-part cards guide supports the question."
-    },
+    "question": "Decide which option best matches what the text shows. Which feature pattern best suits an advertisement asking students to join a recycling team?",
+    "audioPrompt": "Decide which option best matches what the text shows. Which feature pattern best suits an advertisement asking students to join a recycling team?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "a random mixture of facts and jokes",
       "benefit claims, inclusive language and a sign-up instruction",
+      "a random mixture of facts and jokes",
       "a decorative border with no connection to meaning"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "These features work together to motivate students to join.\nHint: Choose features by their combined purpose, not by one isolated detail.",
     "structuredExplanation": {
       "summary": "These features work together to motivate students to join.",
@@ -363,16 +343,16 @@ window.skillrTestQuestions = [
     "skill": "characteristic features and hybrid text purposes",
     "printable": true,
     "type": "single",
-    "question": "Why should an advertisement asking students to join a recycling team use benefit claims, inclusive language and a sign-up instruction?",
-    "audioPrompt": "Why should an advertisement asking students to join a recycling team use benefit claims, inclusive language and a sign-up instruction?",
+    "question": "Which choice best demonstrates the skill in this new example? Why should an advertisement asking students to join a recycling team use benefit claims, inclusive language and a sign-up instruction?",
+    "audioPrompt": "Which choice best demonstrates the skill in this new example? Why should an advertisement asking students to join a recycling team use benefit claims, inclusive language and a sign-up instruction?",
     "visual": "",
     "visualHtml": "",
     "answers": [
       "They are required in every text",
-      "They make the text belong to every purpose equally",
-      "They support the goal to motivate students to join"
+      "They support the goal to motivate students to join",
+      "They make the text belong to every purpose equally"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Characteristic features are adaptable choices that serve the intended outcome.\nHint: Connect the pattern of features to the audience outcome.",
     "structuredExplanation": {
       "summary": "Characteristic features are adaptable choices that serve the intended outcome.",
@@ -387,16 +367,16 @@ window.skillrTestQuestions = [
     "skill": "characteristic features and hybrid text purposes",
     "printable": true,
     "type": "single",
-    "question": "Which classification is best supported for an advertisement asking students to join a recycling team?",
-    "audioPrompt": "Which classification is best supported for an advertisement asking students to join a recycling team?",
+    "question": "Make your final choice from the evidence in the question. Which classification is best supported for an advertisement asking students to join a recycling team?",
+    "audioPrompt": "Make your final choice from the evidence in the question. Which classification is best supported for an advertisement asking students to join a recycling team?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "persuasive, because its main feature pattern aims to motivate students to join",
       "informative, because every text contains some information",
-      "imaginative, because a colourful image appears"
+      "imaginative, because a colourful image appears",
+      "persuasive, because its main feature pattern aims to motivate students to join"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Classification depends on the whole pattern and dominant audience outcome.\nHint: Do not let one fact, colour or story moment decide the classification.",
     "structuredExplanation": {
       "summary": "Classification depends on the whole pattern and dominant audience outcome.",

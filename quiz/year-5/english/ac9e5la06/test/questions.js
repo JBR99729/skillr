@@ -9,13 +9,8 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "Which complete complex sentence clearly expresses purpose in a community radio interview?",
     "audioPrompt": "Which complete complex sentence clearly expresses purpose in a community radio interview?",
-    "visual": "Colour-coded main and dependent clause pieces based on a community radio interview. A three-part clause-puzzle guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Colour-coded main and dependent clause pieces based on a community radio interview. A three-part clause-puzzle guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la06.svg#ac9e5la06-t-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la06.svg#ac9e5la06-t-001",
-      "alt_text": "Colour-coded main and dependent clause pieces based on a community radio interview. A three-part clause-puzzle guide supports the question."
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "The class repeated the trial so that the result could be checked.",
       "So that the result could be checked.",
@@ -36,15 +31,10 @@ window.skillrTestQuestions = [
     "skill": "cause",
     "printable": true,
     "type": "single",
-    "question": "Which complete complex sentence clearly expresses cause in a wildlife rescue report?",
-    "audioPrompt": "Which complete complex sentence clearly expresses cause in a wildlife rescue report?",
-    "visual": "Colour-coded main and dependent clause pieces based on a wildlife rescue report. A three-part clause-puzzle guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Colour-coded main and dependent clause pieces based on a wildlife rescue report. A three-part clause-puzzle guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la06.svg#ac9e5la06-t-002\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la06.svg#ac9e5la06-t-002",
-      "alt_text": "Colour-coded main and dependent clause pieces based on a wildlife rescue report. A three-part clause-puzzle guide supports the question."
-    },
+    "question": "Read this new example closely. Which complete complex sentence clearly expresses cause in a wildlife rescue report?",
+    "audioPrompt": "Read this new example closely. Which complete complex sentence clearly expresses cause in a wildlife rescue report?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "Because the ground was wet.",
       "Because the ground was wet, the match moved indoors.",
@@ -65,15 +55,10 @@ window.skillrTestQuestions = [
     "skill": "time",
     "printable": true,
     "type": "single",
-    "question": "Which complete complex sentence clearly expresses time in a town planning forum?",
-    "audioPrompt": "Which complete complex sentence clearly expresses time in a town planning forum?",
-    "visual": "Colour-coded main and dependent clause pieces based on a town planning forum. A three-part clause-puzzle guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Colour-coded main and dependent clause pieces based on a town planning forum. A three-part clause-puzzle guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la06.svg#ac9e5la06-t-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la06.svg#ac9e5la06-t-003",
-      "alt_text": "Colour-coded main and dependent clause pieces based on a town planning forum. A three-part clause-puzzle guide supports the question."
-    },
+    "question": "Which answer is most accurate here? Which complete complex sentence clearly expresses time in a town planning forum?",
+    "audioPrompt": "Which answer is most accurate here? Which complete complex sentence clearly expresses time in a town planning forum?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "When the timer sounded.",
       "The group when recorded temperature.",
@@ -94,15 +79,10 @@ window.skillrTestQuestions = [
     "skill": "condition",
     "printable": true,
     "type": "single",
-    "question": "Which complete complex sentence clearly expresses condition in a aquarium information panel?",
-    "audioPrompt": "Which complete complex sentence clearly expresses condition in a aquarium information panel?",
-    "visual": "Colour-coded main and dependent clause pieces based on a aquarium information panel. A three-part clause-puzzle guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Colour-coded main and dependent clause pieces based on a aquarium information panel. A three-part clause-puzzle guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la06.svg#ac9e5la06-t-004\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la06.svg#ac9e5la06-t-004",
-      "alt_text": "Colour-coded main and dependent clause pieces based on a aquarium information panel. A three-part clause-puzzle guide supports the question."
-    },
+    "question": "Use the details in this new situation. Which complete complex sentence clearly expresses condition in a aquarium information panel?",
+    "audioPrompt": "Use the details in this new situation. Which complete complex sentence clearly expresses condition in a aquarium information panel?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "If the wind strengthens, the boats will return to shore.",
       "If the wind strengthens.",
@@ -123,15 +103,10 @@ window.skillrTestQuestions = [
     "skill": "concession",
     "printable": true,
     "type": "single",
-    "question": "Which complete complex sentence clearly expresses concession in a youth theatre rehearsal?",
-    "audioPrompt": "Which complete complex sentence clearly expresses concession in a youth theatre rehearsal?",
-    "visual": "Colour-coded main and dependent clause pieces based on a youth theatre rehearsal. A three-part clause-puzzle guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Colour-coded main and dependent clause pieces based on a youth theatre rehearsal. A three-part clause-puzzle guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la06.svg#ac9e5la06-t-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la06.svg#ac9e5la06-t-005",
-      "alt_text": "Colour-coded main and dependent clause pieces based on a youth theatre rehearsal. A three-part clause-puzzle guide supports the question."
-    },
+    "question": "Choose the answer supported by the whole example. Which complete complex sentence clearly expresses concession in a youth theatre rehearsal?",
+    "audioPrompt": "Choose the answer supported by the whole example. Which complete complex sentence clearly expresses concession in a youth theatre rehearsal?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "Although the model was strong.",
       "Although the model was strong, one joint still bent.",
@@ -152,15 +127,10 @@ window.skillrTestQuestions = [
     "skill": "purpose",
     "printable": true,
     "type": "single",
-    "question": "Which complete complex sentence clearly expresses purpose in a local history podcast?",
-    "audioPrompt": "Which complete complex sentence clearly expresses purpose in a local history podcast?",
-    "visual": "Colour-coded main and dependent clause pieces based on a local history podcast. A three-part clause-puzzle guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Colour-coded main and dependent clause pieces based on a local history podcast. A three-part clause-puzzle guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la06.svg#ac9e5la06-t-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la06.svg#ac9e5la06-t-006",
-      "alt_text": "Colour-coded main and dependent clause pieces based on a local history podcast. A three-part clause-puzzle guide supports the question."
-    },
+    "question": "Which option best fits the meaning? Which complete complex sentence clearly expresses purpose in a local history podcast?",
+    "audioPrompt": "Which option best fits the meaning? Which complete complex sentence clearly expresses purpose in a local history podcast?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "So that the result could be checked.",
       "The class repeated so that.",
@@ -181,15 +151,10 @@ window.skillrTestQuestions = [
     "skill": "cause",
     "printable": true,
     "type": "single",
-    "question": "Which complete complex sentence clearly expresses cause in a water-saving campaign?",
-    "audioPrompt": "Which complete complex sentence clearly expresses cause in a water-saving campaign?",
-    "visual": "Colour-coded main and dependent clause pieces based on a water-saving campaign. A three-part clause-puzzle guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Colour-coded main and dependent clause pieces based on a water-saving campaign. A three-part clause-puzzle guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la06.svg#ac9e5la06-t-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la06.svg#ac9e5la06-t-007",
-      "alt_text": "Colour-coded main and dependent clause pieces based on a water-saving campaign. A three-part clause-puzzle guide supports the question."
-    },
+    "question": "Work this out independently. Which complete complex sentence clearly expresses cause in a water-saving campaign?",
+    "audioPrompt": "Work this out independently. Which complete complex sentence clearly expresses cause in a water-saving campaign?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "Because the ground was wet, the match moved indoors.",
       "Because the ground was wet.",
@@ -210,15 +175,10 @@ window.skillrTestQuestions = [
     "skill": "time",
     "printable": true,
     "type": "single",
-    "question": "Which complete complex sentence clearly expresses time in a cycling safety workshop?",
-    "audioPrompt": "Which complete complex sentence clearly expresses time in a cycling safety workshop?",
-    "visual": "Colour-coded main and dependent clause pieces based on a cycling safety workshop. A three-part clause-puzzle guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Colour-coded main and dependent clause pieces based on a cycling safety workshop. A three-part clause-puzzle guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la06.svg#ac9e5la06-t-008\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la06.svg#ac9e5la06-t-008",
-      "alt_text": "Colour-coded main and dependent clause pieces based on a cycling safety workshop. A three-part clause-puzzle guide supports the question."
-    },
+    "question": "What is the best answer in this context? Which complete complex sentence clearly expresses time in a cycling safety workshop?",
+    "audioPrompt": "What is the best answer in this context? Which complete complex sentence clearly expresses time in a cycling safety workshop?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "When the timer sounded.",
       "When the timer sounded, the group recorded the temperature.",
@@ -239,15 +199,10 @@ window.skillrTestQuestions = [
     "skill": "condition",
     "printable": true,
     "type": "single",
-    "question": "Which complete complex sentence clearly expresses condition in a festival program?",
-    "audioPrompt": "Which complete complex sentence clearly expresses condition in a festival program?",
-    "visual": "Colour-coded main and dependent clause pieces based on a festival program. A three-part clause-puzzle guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Colour-coded main and dependent clause pieces based on a festival program. A three-part clause-puzzle guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la06.svg#ac9e5la06-t-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la06.svg#ac9e5la06-t-009",
-      "alt_text": "Colour-coded main and dependent clause pieces based on a festival program. A three-part clause-puzzle guide supports the question."
-    },
+    "question": "Which choice is supported by the evidence given? Which complete complex sentence clearly expresses condition in a festival program?",
+    "audioPrompt": "Which choice is supported by the evidence given? Which complete complex sentence clearly expresses condition in a festival program?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "If the wind strengthens.",
       "The boats will if to shore.",
@@ -268,15 +223,10 @@ window.skillrTestQuestions = [
     "skill": "concession",
     "printable": true,
     "type": "single",
-    "question": "Which complete complex sentence clearly expresses concession in a marine research log?",
-    "audioPrompt": "Which complete complex sentence clearly expresses concession in a marine research log?",
-    "visual": "Colour-coded main and dependent clause pieces based on a marine research log. A three-part clause-puzzle guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Colour-coded main and dependent clause pieces based on a marine research log. A three-part clause-puzzle guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la06.svg#ac9e5la06-t-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la06.svg#ac9e5la06-t-010",
-      "alt_text": "Colour-coded main and dependent clause pieces based on a marine research log. A three-part clause-puzzle guide supports the question."
-    },
+    "question": "Read for meaning before you choose. Which complete complex sentence clearly expresses concession in a marine research log?",
+    "audioPrompt": "Read for meaning before you choose. Which complete complex sentence clearly expresses concession in a marine research log?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "Although the model was strong, one joint still bent.",
       "Although the model was strong.",
@@ -297,15 +247,10 @@ window.skillrTestQuestions = [
     "skill": "purpose",
     "printable": true,
     "type": "single",
-    "question": "Which complete complex sentence clearly expresses purpose in a public transport survey?",
-    "audioPrompt": "Which complete complex sentence clearly expresses purpose in a public transport survey?",
-    "visual": "Colour-coded main and dependent clause pieces based on a public transport survey. A three-part clause-puzzle guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Colour-coded main and dependent clause pieces based on a public transport survey. A three-part clause-puzzle guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la06.svg#ac9e5la06-t-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la06.svg#ac9e5la06-t-011",
-      "alt_text": "Colour-coded main and dependent clause pieces based on a public transport survey. A three-part clause-puzzle guide supports the question."
-    },
+    "question": "Which option is the most precise? Which complete complex sentence clearly expresses purpose in a public transport survey?",
+    "audioPrompt": "Which option is the most precise? Which complete complex sentence clearly expresses purpose in a public transport survey?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "So that the result could be checked.",
       "The class repeated the trial so that the result could be checked.",
@@ -326,15 +271,10 @@ window.skillrTestQuestions = [
     "skill": "cause",
     "printable": true,
     "type": "single",
-    "question": "Which complete complex sentence clearly expresses cause in a heritage walk brochure?",
-    "audioPrompt": "Which complete complex sentence clearly expresses cause in a heritage walk brochure?",
-    "visual": "Colour-coded main and dependent clause pieces based on a heritage walk brochure. A three-part clause-puzzle guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Colour-coded main and dependent clause pieces based on a heritage walk brochure. A three-part clause-puzzle guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la06.svg#ac9e5la06-t-012\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la06.svg#ac9e5la06-t-012",
-      "alt_text": "Colour-coded main and dependent clause pieces based on a heritage walk brochure. A three-part clause-puzzle guide supports the question."
-    },
+    "question": "Use every clue in the example. Which complete complex sentence clearly expresses cause in a heritage walk brochure?",
+    "audioPrompt": "Use every clue in the example. Which complete complex sentence clearly expresses cause in a heritage walk brochure?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "Because the ground was wet.",
       "The ground was wet and.",
@@ -355,15 +295,10 @@ window.skillrTestQuestions = [
     "skill": "time",
     "printable": true,
     "type": "single",
-    "question": "Which complete complex sentence clearly expresses time in a emergency drill briefing?",
-    "audioPrompt": "Which complete complex sentence clearly expresses time in a emergency drill briefing?",
-    "visual": "Colour-coded main and dependent clause pieces based on a emergency drill briefing. A three-part clause-puzzle guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Colour-coded main and dependent clause pieces based on a emergency drill briefing. A three-part clause-puzzle guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la06.svg#ac9e5la06-t-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la06.svg#ac9e5la06-t-013",
-      "alt_text": "Colour-coded main and dependent clause pieces based on a emergency drill briefing. A three-part clause-puzzle guide supports the question."
-    },
+    "question": "Which answer holds up when you check the full context? Which complete complex sentence clearly expresses time in a emergency drill briefing?",
+    "audioPrompt": "Which answer holds up when you check the full context? Which complete complex sentence clearly expresses time in a emergency drill briefing?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "When the timer sounded, the group recorded the temperature.",
       "When the timer sounded.",
@@ -384,15 +319,10 @@ window.skillrTestQuestions = [
     "skill": "condition",
     "printable": true,
     "type": "single",
-    "question": "Which complete complex sentence clearly expresses condition in a farmers market review?",
-    "audioPrompt": "Which complete complex sentence clearly expresses condition in a farmers market review?",
-    "visual": "Colour-coded main and dependent clause pieces based on a farmers market review. A three-part clause-puzzle guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Colour-coded main and dependent clause pieces based on a farmers market review. A three-part clause-puzzle guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la06.svg#ac9e5la06-t-014\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la06.svg#ac9e5la06-t-014",
-      "alt_text": "Colour-coded main and dependent clause pieces based on a farmers market review. A three-part clause-puzzle guide supports the question."
-    },
+    "question": "Decide which option best matches what the text shows. Which complete complex sentence clearly expresses condition in a farmers market review?",
+    "audioPrompt": "Decide which option best matches what the text shows. Which complete complex sentence clearly expresses condition in a farmers market review?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "If the wind strengthens.",
       "If the wind strengthens, the boats will return to shore.",
@@ -413,15 +343,10 @@ window.skillrTestQuestions = [
     "skill": "concession",
     "printable": true,
     "type": "single",
-    "question": "Which complete complex sentence clearly expresses concession in a space exhibition talk?",
-    "audioPrompt": "Which complete complex sentence clearly expresses concession in a space exhibition talk?",
-    "visual": "Colour-coded main and dependent clause pieces based on a space exhibition talk. A three-part clause-puzzle guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Colour-coded main and dependent clause pieces based on a space exhibition talk. A three-part clause-puzzle guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la06.svg#ac9e5la06-t-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la06.svg#ac9e5la06-t-015",
-      "alt_text": "Colour-coded main and dependent clause pieces based on a space exhibition talk. A three-part clause-puzzle guide supports the question."
-    },
+    "question": "Which choice best demonstrates the skill in this new example? Which complete complex sentence clearly expresses concession in a space exhibition talk?",
+    "audioPrompt": "Which choice best demonstrates the skill in this new example? Which complete complex sentence clearly expresses concession in a space exhibition talk?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "Although the model was strong.",
       "One joint although still.",
@@ -442,15 +367,10 @@ window.skillrTestQuestions = [
     "skill": "purpose",
     "printable": true,
     "type": "single",
-    "question": "Which complete complex sentence clearly expresses purpose in a river restoration proposal?",
-    "audioPrompt": "Which complete complex sentence clearly expresses purpose in a river restoration proposal?",
-    "visual": "Colour-coded main and dependent clause pieces based on a river restoration proposal. A three-part clause-puzzle guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Colour-coded main and dependent clause pieces based on a river restoration proposal. A three-part clause-puzzle guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la06.svg#ac9e5la06-t-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la06.svg#ac9e5la06-t-016",
-      "alt_text": "Colour-coded main and dependent clause pieces based on a river restoration proposal. A three-part clause-puzzle guide supports the question."
-    },
+    "question": "Make your final choice from the evidence in the question. Which complete complex sentence clearly expresses purpose in a river restoration proposal?",
+    "audioPrompt": "Make your final choice from the evidence in the question. Which complete complex sentence clearly expresses purpose in a river restoration proposal?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "The class repeated the trial so that the result could be checked.",
       "So that the result could be checked.",

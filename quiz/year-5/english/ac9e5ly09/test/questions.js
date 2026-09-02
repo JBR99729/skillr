@@ -12,11 +12,11 @@ window.skillrTestQuestions = [
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "inter + nation + al",
       "in-ter-na-tion-al",
-      "split after every vowel letter"
+      "split after every vowel letter",
+      "inter + nation + al"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "inter + nation + al reveals the word's meaningful structure.\nHint: Look for a familiar base plus prefixes or suffixes.",
     "structuredExplanation": {
       "summary": "inter + nation + al reveals the word's meaningful structure.",
@@ -31,16 +31,16 @@ window.skillrTestQuestions = [
     "skill": "reading and spelling complex multisyllabic words",
     "printable": true,
     "type": "single",
-    "question": "Which spoken-syllable guide best supports careful reading of international, spelled i n t e r n a t i o n a l?",
-    "audioPrompt": "Which spoken-syllable guide best supports careful reading of international, spelled i n t e r n a t i o n a l?",
+    "question": "Read this new example closely. Which spoken-syllable guide best supports careful reading of international, spelled i n t e r n a t i o n a l?",
+    "audioPrompt": "Read this new example closely. Which spoken-syllable guide best supports careful reading of international, spelled i n t e r n a t i o n a l?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "inter + nation + al",
       "in-ter-na-tion-al",
+      "inter + nation + al",
       "say only the first and last parts"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The guide supports pronunciation, while meaningful parts support spelling and meaning.\nHint: Blend every syllable, then check the complete word in its sentence.",
     "structuredExplanation": {
       "summary": "The guide supports pronunciation, while meaningful parts support spelling and meaning.",
@@ -55,16 +55,16 @@ window.skillrTestQuestions = [
     "skill": "reading and spelling complex multisyllabic words",
     "printable": true,
     "type": "single",
-    "question": "In a science or humanities sentence, what does international, spelled i n t e r n a t i o n a l mean?",
-    "audioPrompt": "In a science or humanities sentence, what does international, spelled i n t e r n a t i o n a l mean?",
+    "question": "Which answer is most accurate here? In a science or humanities sentence, what does international, spelled i n t e r n a t i o n a l mean?",
+    "audioPrompt": "Which answer is most accurate here? In a science or humanities sentence, what does international, spelled i n t e r n a t i o n a l mean?",
     "visual": "",
     "visualHtml": "",
     "answers": [
       "a meaning suggested only by the first sound",
-      "an unrelated meaning guessed from the topic",
-      "involving more than one nation"
+      "involving more than one nation",
+      "an unrelated meaning guessed from the topic"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "The word's parts and context support the meaning “involving more than one nation.”\nHint: Combine the base and affix meanings, then test the result in context.",
     "structuredExplanation": {
       "summary": "The word's parts and context support the meaning “involving more than one nation.”",
@@ -79,16 +79,16 @@ window.skillrTestQuestions = [
     "skill": "reading and spelling complex multisyllabic words",
     "printable": true,
     "type": "single",
-    "question": "Which word-family evidence best helps verify the spelling of international, spelled i n t e r n a t i o n a l?",
-    "audioPrompt": "Which word-family evidence best helps verify the spelling of international, spelled i n t e r n a t i o n a l?",
+    "question": "Use the details in this new situation. Which word-family evidence best helps verify the spelling of international, spelled i n t e r n a t i o n a l?",
+    "audioPrompt": "Use the details in this new situation. Which word-family evidence best helps verify the spelling of international, spelled i n t e r n a t i o n a l?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "nation, national and nationality",
       "a rhyming word with an unrelated spelling",
-      "the shortest word in the sentence"
+      "the shortest word in the sentence",
+      "nation, national and nationality"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Related words can preserve the base spelling even when pronunciation changes.\nHint: Locate the shared base and compare how it is spelled across the family.",
     "structuredExplanation": {
       "summary": "Related words can preserve the base spelling even when pronunciation changes.",
@@ -103,16 +103,16 @@ window.skillrTestQuestions = [
     "skill": "reading and spelling complex multisyllabic words",
     "printable": true,
     "type": "single",
-    "question": "Which meaningful-part analysis best helps a reader understand the word decomposition, spelled d e c o m p o s i t i o n?",
-    "audioPrompt": "Which meaningful-part analysis best helps a reader understand the word decomposition, spelled d e c o m p o s i t i o n?",
+    "question": "Choose the answer supported by the whole example. Which meaningful-part analysis best helps a reader understand the word decomposition, spelled d e c o m p o s i t i o n?",
+    "audioPrompt": "Choose the answer supported by the whole example. Which meaningful-part analysis best helps a reader understand the word decomposition, spelled d e c o m p o s i t i o n?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "de-com-po-si-tion",
       "de + compose + ition",
+      "de-com-po-si-tion",
       "split after every vowel letter"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "de + compose + ition reveals the word's meaningful structure.\nHint: Look for a familiar base plus prefixes or suffixes.",
     "structuredExplanation": {
       "summary": "de + compose + ition reveals the word's meaningful structure.",
@@ -127,16 +127,16 @@ window.skillrTestQuestions = [
     "skill": "reading and spelling complex multisyllabic words",
     "printable": true,
     "type": "single",
-    "question": "Which spoken-syllable guide best supports careful reading of decomposition, spelled d e c o m p o s i t i o n?",
-    "audioPrompt": "Which spoken-syllable guide best supports careful reading of decomposition, spelled d e c o m p o s i t i o n?",
+    "question": "Which option best fits the meaning? Which spoken-syllable guide best supports careful reading of decomposition, spelled d e c o m p o s i t i o n?",
+    "audioPrompt": "Which option best fits the meaning? Which spoken-syllable guide best supports careful reading of decomposition, spelled d e c o m p o s i t i o n?",
     "visual": "",
     "visualHtml": "",
     "answers": [
       "de + compose + ition",
-      "say only the first and last parts",
-      "de-com-po-si-tion"
+      "de-com-po-si-tion",
+      "say only the first and last parts"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "The guide supports pronunciation, while meaningful parts support spelling and meaning.\nHint: Blend every syllable, then check the complete word in its sentence.",
     "structuredExplanation": {
       "summary": "The guide supports pronunciation, while meaningful parts support spelling and meaning.",
@@ -151,16 +151,16 @@ window.skillrTestQuestions = [
     "skill": "reading and spelling complex multisyllabic words",
     "printable": true,
     "type": "single",
-    "question": "In a science or humanities sentence, what does decomposition, spelled d e c o m p o s i t i o n mean?",
-    "audioPrompt": "In a science or humanities sentence, what does decomposition, spelled d e c o m p o s i t i o n mean?",
+    "question": "Work this out independently. In a science or humanities sentence, what does decomposition, spelled d e c o m p o s i t i o n mean?",
+    "audioPrompt": "Work this out independently. In a science or humanities sentence, what does decomposition, spelled d e c o m p o s i t i o n mean?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "the process of breaking down",
       "a meaning suggested only by the first sound",
-      "an unrelated meaning guessed from the topic"
+      "an unrelated meaning guessed from the topic",
+      "the process of breaking down"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "The word's parts and context support the meaning “the process of breaking down.”\nHint: Combine the base and affix meanings, then test the result in context.",
     "structuredExplanation": {
       "summary": "The word's parts and context support the meaning “the process of breaking down.”",
@@ -175,16 +175,16 @@ window.skillrTestQuestions = [
     "skill": "reading and spelling complex multisyllabic words",
     "printable": true,
     "type": "single",
-    "question": "Which word-family evidence best helps verify the spelling of decomposition, spelled d e c o m p o s i t i o n?",
-    "audioPrompt": "Which word-family evidence best helps verify the spelling of decomposition, spelled d e c o m p o s i t i o n?",
+    "question": "What is the best answer in this context? Which word-family evidence best helps verify the spelling of decomposition, spelled d e c o m p o s i t i o n?",
+    "audioPrompt": "What is the best answer in this context? Which word-family evidence best helps verify the spelling of decomposition, spelled d e c o m p o s i t i o n?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "a rhyming word with an unrelated spelling",
       "compose, compost and decomposition",
+      "a rhyming word with an unrelated spelling",
       "the shortest word in the sentence"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Related words can preserve the base spelling even when pronunciation changes.\nHint: Locate the shared base and compare how it is spelled across the family.",
     "structuredExplanation": {
       "summary": "Related words can preserve the base spelling even when pronunciation changes.",
@@ -199,16 +199,16 @@ window.skillrTestQuestions = [
     "skill": "reading and spelling complex multisyllabic words",
     "printable": true,
     "type": "single",
-    "question": "Which meaningful-part analysis best helps a reader understand the word irresponsible, spelled i r r e s p o n s i b l e?",
-    "audioPrompt": "Which meaningful-part analysis best helps a reader understand the word irresponsible, spelled i r r e s p o n s i b l e?",
+    "question": "Which choice is supported by the evidence given? Which meaningful-part analysis best helps a reader understand the word irresponsible, spelled i r r e s p o n s i b l e?",
+    "audioPrompt": "Which choice is supported by the evidence given? Which meaningful-part analysis best helps a reader understand the word irresponsible, spelled i r r e s p o n s i b l e?",
     "visual": "",
     "visualHtml": "",
     "answers": [
       "ir-re-spon-si-ble",
-      "split after every vowel letter",
-      "ir + responsible"
+      "ir + responsible",
+      "split after every vowel letter"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "ir + responsible reveals the word's meaningful structure.\nHint: Look for a familiar base plus prefixes or suffixes.",
     "structuredExplanation": {
       "summary": "ir + responsible reveals the word's meaningful structure.",
@@ -223,16 +223,16 @@ window.skillrTestQuestions = [
     "skill": "reading and spelling complex multisyllabic words",
     "printable": true,
     "type": "single",
-    "question": "Which spoken-syllable guide best supports careful reading of irresponsible, spelled i r r e s p o n s i b l e?",
-    "audioPrompt": "Which spoken-syllable guide best supports careful reading of irresponsible, spelled i r r e s p o n s i b l e?",
+    "question": "Read for meaning before you choose. Which spoken-syllable guide best supports careful reading of irresponsible, spelled i r r e s p o n s i b l e?",
+    "audioPrompt": "Read for meaning before you choose. Which spoken-syllable guide best supports careful reading of irresponsible, spelled i r r e s p o n s i b l e?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "ir-re-spon-si-ble",
       "ir + responsible",
-      "say only the first and last parts"
+      "say only the first and last parts",
+      "ir-re-spon-si-ble"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "The guide supports pronunciation, while meaningful parts support spelling and meaning.\nHint: Blend every syllable, then check the complete word in its sentence.",
     "structuredExplanation": {
       "summary": "The guide supports pronunciation, while meaningful parts support spelling and meaning.",
@@ -247,16 +247,16 @@ window.skillrTestQuestions = [
     "skill": "reading and spelling complex multisyllabic words",
     "printable": true,
     "type": "single",
-    "question": "In a science or humanities sentence, what does irresponsible, spelled i r r e s p o n s i b l e mean?",
-    "audioPrompt": "In a science or humanities sentence, what does irresponsible, spelled i r r e s p o n s i b l e mean?",
+    "question": "Which option is the most precise? In a science or humanities sentence, what does irresponsible, spelled i r r e s p o n s i b l e mean?",
+    "audioPrompt": "Which option is the most precise? In a science or humanities sentence, what does irresponsible, spelled i r r e s p o n s i b l e mean?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "a meaning suggested only by the first sound",
       "not showing responsibility",
+      "a meaning suggested only by the first sound",
       "an unrelated meaning guessed from the topic"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The word's parts and context support the meaning “not showing responsibility.”\nHint: Combine the base and affix meanings, then test the result in context.",
     "structuredExplanation": {
       "summary": "The word's parts and context support the meaning “not showing responsibility.”",
@@ -271,16 +271,16 @@ window.skillrTestQuestions = [
     "skill": "reading and spelling complex multisyllabic words",
     "printable": true,
     "type": "single",
-    "question": "Which word-family evidence best helps verify the spelling of irresponsible, spelled i r r e s p o n s i b l e?",
-    "audioPrompt": "Which word-family evidence best helps verify the spelling of irresponsible, spelled i r r e s p o n s i b l e?",
+    "question": "Use every clue in the example. Which word-family evidence best helps verify the spelling of irresponsible, spelled i r r e s p o n s i b l e?",
+    "audioPrompt": "Use every clue in the example. Which word-family evidence best helps verify the spelling of irresponsible, spelled i r r e s p o n s i b l e?",
     "visual": "",
     "visualHtml": "",
     "answers": [
       "a rhyming word with an unrelated spelling",
-      "the shortest word in the sentence",
-      "responsible and responsibility"
+      "responsible and responsibility",
+      "the shortest word in the sentence"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Related words can preserve the base spelling even when pronunciation changes.\nHint: Locate the shared base and compare how it is spelled across the family.",
     "structuredExplanation": {
       "summary": "Related words can preserve the base spelling even when pronunciation changes.",
@@ -295,16 +295,16 @@ window.skillrTestQuestions = [
     "skill": "reading and spelling complex multisyllabic words",
     "printable": true,
     "type": "single",
-    "question": "Which meaningful-part analysis best helps a reader understand the word photosynthesis, spelled p h o t o s y n t h e s i s?",
-    "audioPrompt": "Which meaningful-part analysis best helps a reader understand the word photosynthesis, spelled p h o t o s y n t h e s i s?",
+    "question": "Which answer holds up when you check the full context? Which meaningful-part analysis best helps a reader understand the word photosynthesis, spelled p h o t o s y n t h e s i s?",
+    "audioPrompt": "Which answer holds up when you check the full context? Which meaningful-part analysis best helps a reader understand the word photosynthesis, spelled p h o t o s y n t h e s i s?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "photo + synthesis",
       "pho-to-syn-the-sis",
-      "split after every vowel letter"
+      "split after every vowel letter",
+      "photo + synthesis"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "photo + synthesis reveals the word's meaningful structure.\nHint: Look for a familiar base plus prefixes or suffixes.",
     "structuredExplanation": {
       "summary": "photo + synthesis reveals the word's meaningful structure.",
@@ -319,16 +319,16 @@ window.skillrTestQuestions = [
     "skill": "reading and spelling complex multisyllabic words",
     "printable": true,
     "type": "single",
-    "question": "Which spoken-syllable guide best supports careful reading of photosynthesis, spelled p h o t o s y n t h e s i s?",
-    "audioPrompt": "Which spoken-syllable guide best supports careful reading of photosynthesis, spelled p h o t o s y n t h e s i s?",
+    "question": "Decide which option best matches what the text shows. Which spoken-syllable guide best supports careful reading of photosynthesis, spelled p h o t o s y n t h e s i s?",
+    "audioPrompt": "Decide which option best matches what the text shows. Which spoken-syllable guide best supports careful reading of photosynthesis, spelled p h o t o s y n t h e s i s?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "photo + synthesis",
       "pho-to-syn-the-sis",
+      "photo + synthesis",
       "say only the first and last parts"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The guide supports pronunciation, while meaningful parts support spelling and meaning.\nHint: Blend every syllable, then check the complete word in its sentence.",
     "structuredExplanation": {
       "summary": "The guide supports pronunciation, while meaningful parts support spelling and meaning.",
@@ -343,16 +343,16 @@ window.skillrTestQuestions = [
     "skill": "reading and spelling complex multisyllabic words",
     "printable": true,
     "type": "single",
-    "question": "In a science or humanities sentence, what does photosynthesis, spelled p h o t o s y n t h e s i s mean?",
-    "audioPrompt": "In a science or humanities sentence, what does photosynthesis, spelled p h o t o s y n t h e s i s mean?",
+    "question": "Which choice best demonstrates the skill in this new example? In a science or humanities sentence, what does photosynthesis, spelled p h o t o s y n t h e s i s mean?",
+    "audioPrompt": "Which choice best demonstrates the skill in this new example? In a science or humanities sentence, what does photosynthesis, spelled p h o t o s y n t h e s i s mean?",
     "visual": "",
     "visualHtml": "",
     "answers": [
       "a meaning suggested only by the first sound",
-      "an unrelated meaning guessed from the topic",
-      "the process plants use to make food with light"
+      "the process plants use to make food with light",
+      "an unrelated meaning guessed from the topic"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "The word's parts and context support the meaning “the process plants use to make food with light.”\nHint: Combine the base and affix meanings, then test the result in context.",
     "structuredExplanation": {
       "summary": "The word's parts and context support the meaning “the process plants use to make food with light.”",
@@ -367,16 +367,16 @@ window.skillrTestQuestions = [
     "skill": "reading and spelling complex multisyllabic words",
     "printable": true,
     "type": "single",
-    "question": "Which word-family evidence best helps verify the spelling of photosynthesis, spelled p h o t o s y n t h e s i s?",
-    "audioPrompt": "Which word-family evidence best helps verify the spelling of photosynthesis, spelled p h o t o s y n t h e s i s?",
+    "question": "Make your final choice from the evidence in the question. Which word-family evidence best helps verify the spelling of photosynthesis, spelled p h o t o s y n t h e s i s?",
+    "audioPrompt": "Make your final choice from the evidence in the question. Which word-family evidence best helps verify the spelling of photosynthesis, spelled p h o t o s y n t h e s i s?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "photograph, synthesis and photosynthetic",
       "a rhyming word with an unrelated spelling",
-      "the shortest word in the sentence"
+      "the shortest word in the sentence",
+      "photograph, synthesis and photosynthetic"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Related words can preserve the base spelling even when pronunciation changes.\nHint: Locate the shared base and compare how it is spelled across the family.",
     "structuredExplanation": {
       "summary": "Related words can preserve the base spelling even when pronunciation changes.",

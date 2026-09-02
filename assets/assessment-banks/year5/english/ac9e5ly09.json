@@ -1,489 +1,167 @@
 [
   {
-    "id": "ac9e5ly09-p-001",
+    "id": "AC9E5LY09-P-001",
     "curriculum_code": "AC9E5LY09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "reading_and_spelling_complex_multisyllabic_words",
     "question": "Which meaningful-part analysis best helps a reader understand the word unpredictable, spelled u n p r e d i c t a b l e?",
     "audio_prompt": "Which meaningful-part analysis best helps a reader understand the word unpredictable, spelled u n p r e d i c t a b l e?",
     "answers": [
       {
-        "text": "un + predict + able",
-        "is_correct": true
-      },
-      {
         "text": "un-pre-dict-a-ble",
         "is_correct": false
+      },
+      {
+        "text": "un + predict + able",
+        "is_correct": true
       },
       {
         "text": "split after every vowel letter",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "un + predict + able reveals the word's meaningful structure.",
-      "hint": "Look for a familiar base plus prefixes or suffixes."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9e5ly09-p-002",
-    "curriculum_code": "AC9E5LY09",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which spoken-syllable guide best supports careful reading of unpredictable, spelled u n p r e d i c t a b l e?",
-    "audio_prompt": "Which spoken-syllable guide best supports careful reading of unpredictable, spelled u n p r e d i c t a b l e?",
-    "answers": [
-      {
-        "text": "un + predict + able",
-        "is_correct": false
-      },
-      {
-        "text": "un-pre-dict-a-ble",
-        "is_correct": true
-      },
-      {
-        "text": "say only the first and last parts",
-        "is_correct": false
-      }
-    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The guide supports pronunciation, while meaningful parts support spelling and meaning.",
-      "hint": "Blend every syllable, then check the complete word in its sentence."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+      "summary": "“un + predict + able” fits the meaning and the language clue in this example. un + predict + able reveals the word's meaningful structure.",
+      "hint": "Look for a familiar base plus prefixes or suffixes."
+    }
   },
   {
-    "id": "ac9e5ly09-p-003",
+    "id": "AC9E5LY09-P-002",
     "curriculum_code": "AC9E5LY09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "In a science or humanities sentence, what does unpredictable, spelled u n p r e d i c t a b l e mean?",
-    "audio_prompt": "In a science or humanities sentence, what does unpredictable, spelled u n p r e d i c t a b l e mean?",
+    "question": "Read carefully: Which word-family evidence best helps verify the spelling of disagreement, spelled d i s a g r e e m e n t?",
+    "audio_prompt": "Read carefully: Which word-family evidence best helps verify the spelling of disagreement, spelled d i s a g r e e m e n t?",
     "answers": [
-      {
-        "text": "a meaning suggested only by the first sound",
-        "is_correct": false
-      },
-      {
-        "text": "an unrelated meaning guessed from the topic",
-        "is_correct": false
-      },
-      {
-        "text": "not able to be predicted",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The word's parts and context support the meaning “not able to be predicted.”",
-      "hint": "Combine the base and affix meanings, then test the result in context."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9e5ly09-p-004",
-    "curriculum_code": "AC9E5LY09",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which word-family evidence best helps verify the spelling of unpredictable, spelled u n p r e d i c t a b l e?",
-    "audio_prompt": "Which word-family evidence best helps verify the spelling of unpredictable, spelled u n p r e d i c t a b l e?",
-    "answers": [
-      {
-        "text": "predict, prediction and predictable",
-        "is_correct": true
-      },
       {
         "text": "a rhyming word with an unrelated spelling",
         "is_correct": false
       },
       {
         "text": "the shortest word in the sentence",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Related words can preserve the base spelling even when pronunciation changes.",
-      "hint": "Locate the shared base and compare how it is spelled across the family."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9e5ly09-p-005",
-    "curriculum_code": "AC9E5LY09",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which meaningful-part analysis best helps a reader understand the word disagreement, spelled d i s a g r e e m e n t?",
-    "audio_prompt": "Which meaningful-part analysis best helps a reader understand the word disagreement, spelled d i s a g r e e m e n t?",
-    "answers": [
-      {
-        "text": "dis-a-gree-ment",
-        "is_correct": false
-      },
-      {
-        "text": "dis + agree + ment",
-        "is_correct": true
-      },
-      {
-        "text": "split after every vowel letter",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "dis + agree + ment reveals the word's meaningful structure.",
-      "hint": "Look for a familiar base plus prefixes or suffixes."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9e5ly09-p-006",
-    "curriculum_code": "AC9E5LY09",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which spoken-syllable guide best supports careful reading of disagreement, spelled d i s a g r e e m e n t?",
-    "audio_prompt": "Which spoken-syllable guide best supports careful reading of disagreement, spelled d i s a g r e e m e n t?",
-    "answers": [
-      {
-        "text": "dis + agree + ment",
-        "is_correct": false
-      },
-      {
-        "text": "say only the first and last parts",
-        "is_correct": false
-      },
-      {
-        "text": "dis-a-gree-ment",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The guide supports pronunciation, while meaningful parts support spelling and meaning.",
-      "hint": "Blend every syllable, then check the complete word in its sentence."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9e5ly09-p-007",
-    "curriculum_code": "AC9E5LY09",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "In a science or humanities sentence, what does disagreement, spelled d i s a g r e e m e n t mean?",
-    "audio_prompt": "In a science or humanities sentence, what does disagreement, spelled d i s a g r e e m e n t mean?",
-    "answers": [
-      {
-        "text": "a lack of agreement",
-        "is_correct": true
-      },
-      {
-        "text": "a meaning suggested only by the first sound",
-        "is_correct": false
-      },
-      {
-        "text": "an unrelated meaning guessed from the topic",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The word's parts and context support the meaning “a lack of agreement.”",
-      "hint": "Combine the base and affix meanings, then test the result in context."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9e5ly09-p-008",
-    "curriculum_code": "AC9E5LY09",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which word-family evidence best helps verify the spelling of disagreement, spelled d i s a g r e e m e n t?",
-    "audio_prompt": "Which word-family evidence best helps verify the spelling of disagreement, spelled d i s a g r e e m e n t?",
-    "answers": [
-      {
-        "text": "a rhyming word with an unrelated spelling",
         "is_correct": false
       },
       {
         "text": "agree, agreed and agreement",
         "is_correct": true
-      },
-      {
-        "text": "the shortest word in the sentence",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Related words can preserve the base spelling even when pronunciation changes.",
-      "hint": "Locate the shared base and compare how it is spelled across the family."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9e5ly09-p-009",
-    "curriculum_code": "AC9E5LY09",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which meaningful-part analysis best helps a reader understand the word transportation, spelled t r a n s p o r t a t i o n?",
-    "audio_prompt": "Which meaningful-part analysis best helps a reader understand the word transportation, spelled t r a n s p o r t a t i o n?",
-    "answers": [
-      {
-        "text": "trans-por-ta-tion",
-        "is_correct": false
-      },
-      {
-        "text": "split after every vowel letter",
-        "is_correct": false
-      },
-      {
-        "text": "trans + port + ation",
-        "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "trans + port + ation reveals the word's meaningful structure.",
-      "hint": "Look for a familiar base plus prefixes or suffixes."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9e5ly09-p-010",
-    "curriculum_code": "AC9E5LY09",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which spoken-syllable guide best supports careful reading of transportation, spelled t r a n s p o r t a t i o n?",
-    "audio_prompt": "Which spoken-syllable guide best supports careful reading of transportation, spelled t r a n s p o r t a t i o n?",
-    "answers": [
-      {
-        "text": "trans-por-ta-tion",
-        "is_correct": true
-      },
-      {
-        "text": "trans + port + ation",
-        "is_correct": false
-      },
-      {
-        "text": "say only the first and last parts",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The guide supports pronunciation, while meaningful parts support spelling and meaning.",
-      "hint": "Blend every syllable, then check the complete word in its sentence."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9e5ly09-p-011",
-    "curriculum_code": "AC9E5LY09",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "In a science or humanities sentence, what does transportation, spelled t r a n s p o r t a t i o n mean?",
-    "audio_prompt": "In a science or humanities sentence, what does transportation, spelled t r a n s p o r t a t i o n mean?",
-    "answers": [
-      {
-        "text": "a meaning suggested only by the first sound",
-        "is_correct": false
-      },
-      {
-        "text": "the act or system of carrying across",
-        "is_correct": true
-      },
-      {
-        "text": "an unrelated meaning guessed from the topic",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The word's parts and context support the meaning “the act or system of carrying across.”",
-      "hint": "Combine the base and affix meanings, then test the result in context."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9e5ly09-p-012",
-    "curriculum_code": "AC9E5LY09",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which word-family evidence best helps verify the spelling of transportation, spelled t r a n s p o r t a t i o n?",
-    "audio_prompt": "Which word-family evidence best helps verify the spelling of transportation, spelled t r a n s p o r t a t i o n?",
-    "answers": [
-      {
-        "text": "a rhyming word with an unrelated spelling",
-        "is_correct": false
-      },
-      {
-        "text": "the shortest word in the sentence",
-        "is_correct": false
-      },
-      {
-        "text": "transport, portable and porter",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Related words can preserve the base spelling even when pronunciation changes.",
+      "summary": "“agree, agreed and agreement” fits the meaning and the language clue in this example. Related words can preserve the base spelling even when pronunciation changes.",
       "hint": "Locate the shared base and compare how it is spelled across the family."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
-    "id": "ac9e5ly09-p-013",
+    "id": "AC9E5LY09-P-003",
     "curriculum_code": "AC9E5LY09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which meaningful-part analysis best helps a reader understand the word reconsideration, spelled r e c o n s i d e r a t i o n?",
-    "audio_prompt": "Which meaningful-part analysis best helps a reader understand the word reconsideration, spelled r e c o n s i d e r a t i o n?",
+    "question": "Which answer makes the most sense here? In a science or humanities sentence, what does reconsideration, spelled r e c o n s i d e r a t i o n mean?",
+    "audio_prompt": "Which answer makes the most sense here? In a science or humanities sentence, what does reconsideration, spelled r e c o n s i d e r a t i o n mean?",
     "answers": [
-      {
-        "text": "re + consider + ation",
-        "is_correct": true
-      },
-      {
-        "text": "re-con-sid-er-a-tion",
-        "is_correct": false
-      },
-      {
-        "text": "split after every vowel letter",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "re + consider + ation reveals the word's meaningful structure.",
-      "hint": "Look for a familiar base plus prefixes or suffixes."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9e5ly09-p-014",
-    "curriculum_code": "AC9E5LY09",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which spoken-syllable guide best supports careful reading of reconsideration, spelled r e c o n s i d e r a t i o n?",
-    "audio_prompt": "Which spoken-syllable guide best supports careful reading of reconsideration, spelled r e c o n s i d e r a t i o n?",
-    "answers": [
-      {
-        "text": "re + consider + ation",
-        "is_correct": false
-      },
-      {
-        "text": "re-con-sid-er-a-tion",
-        "is_correct": true
-      },
-      {
-        "text": "say only the first and last parts",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The guide supports pronunciation, while meaningful parts support spelling and meaning.",
-      "hint": "Blend every syllable, then check the complete word in its sentence."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9e5ly09-p-015",
-    "curriculum_code": "AC9E5LY09",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "In a science or humanities sentence, what does reconsideration, spelled r e c o n s i d e r a t i o n mean?",
-    "audio_prompt": "In a science or humanities sentence, what does reconsideration, spelled r e c o n s i d e r a t i o n mean?",
-    "answers": [
-      {
-        "text": "a meaning suggested only by the first sound",
-        "is_correct": false
-      },
-      {
-        "text": "an unrelated meaning guessed from the topic",
-        "is_correct": false
-      },
       {
         "text": "thinking about something again",
         "is_correct": true
+      },
+      {
+        "text": "a meaning suggested only by the first sound",
+        "is_correct": false
+      },
+      {
+        "text": "an unrelated meaning guessed from the topic",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The word's parts and context support the meaning “thinking about something again.”",
+      "summary": "“thinking about something again” fits the meaning and the language clue in this example. The word's parts and context support the meaning “thinking about something again.”",
       "hint": "Combine the base and affix meanings, then test the result in context."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9e5ly09-p-016",
+    "id": "AC9E5LY09-P-004",
     "curriculum_code": "AC9E5LY09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which word-family evidence best helps verify the spelling of reconsideration, spelled r e c o n s i d e r a t i o n?",
-    "audio_prompt": "Which word-family evidence best helps verify the spelling of reconsideration, spelled r e c o n s i d e r a t i o n?",
+    "question": "Look at the wording and meaning. Which spoken-syllable guide best supports careful reading of miscommunication, spelled m i s c o m m u n i c a t i o n?",
+    "audio_prompt": "Look at the wording and meaning. Which spoken-syllable guide best supports careful reading of miscommunication, spelled m i s c o m m u n i c a t i o n?",
     "answers": [
       {
-        "text": "consider, considerate and consideration",
+        "text": "mis + communicate + ion",
+        "is_correct": false
+      },
+      {
+        "text": "mis-com-mu-ni-ca-tion",
+        "is_correct": true
+      },
+      {
+        "text": "say only the first and last parts",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“mis-com-mu-ni-ca-tion” fits the meaning and the language clue in this example. The guide supports pronunciation, while meaningful parts support spelling and meaning.",
+      "hint": "Blend every syllable, then check the complete word in its sentence."
+    }
+  },
+  {
+    "id": "AC9E5LY09-P-005",
+    "curriculum_code": "AC9E5LY09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "reading_and_spelling_complex_multisyllabic_words",
+    "question": "Choose the option that fits the situation best. Which meaningful-part analysis best helps a reader understand the word disagreement, spelled d i s a g r e e m e n t?",
+    "audio_prompt": "Choose the option that fits the situation best. Which meaningful-part analysis best helps a reader understand the word disagreement, spelled d i s a g r e e m e n t?",
+    "answers": [
+      {
+        "text": "dis-a-gree-ment",
+        "is_correct": false
+      },
+      {
+        "text": "split after every vowel letter",
+        "is_correct": false
+      },
+      {
+        "text": "dis + agree + ment",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“dis + agree + ment” fits the meaning and the language clue in this example. dis + agree + ment reveals the word's meaningful structure.",
+      "hint": "Look for a familiar base plus prefixes or suffixes."
+    }
+  },
+  {
+    "id": "AC9E5LY09-P-006",
+    "curriculum_code": "AC9E5LY09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "reading_and_spelling_complex_multisyllabic_words",
+    "question": "Which choice is accurate in this example? Which word-family evidence best helps verify the spelling of transportation, spelled t r a n s p o r t a t i o n?",
+    "audio_prompt": "Which choice is accurate in this example? Which word-family evidence best helps verify the spelling of transportation, spelled t r a n s p o r t a t i o n?",
+    "answers": [
+      {
+        "text": "transport, portable and porter",
         "is_correct": true
       },
       {
@@ -497,121 +175,117 @@
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Related words can preserve the base spelling even when pronunciation changes.",
+      "summary": "“transport, portable and porter” fits the meaning and the language clue in this example. Related words can preserve the base spelling even when pronunciation changes.",
       "hint": "Locate the shared base and compare how it is spelled across the family."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9e5ly09-p-017",
+    "id": "AC9E5LY09-P-007",
     "curriculum_code": "AC9E5LY09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which meaningful-part analysis best helps a reader understand the word environmental, spelled e n v i r o n m e n t a l?",
-    "audio_prompt": "Which meaningful-part analysis best helps a reader understand the word environmental, spelled e n v i r o n m e n t a l?",
+    "question": "Focus on the key clue. In a science or humanities sentence, what does environmental, spelled e n v i r o n m e n t a l mean?",
+    "audio_prompt": "Focus on the key clue. In a science or humanities sentence, what does environmental, spelled e n v i r o n m e n t a l mean?",
     "answers": [
       {
-        "text": "en-vi-ron-men-tal",
+        "text": "a meaning suggested only by the first sound",
         "is_correct": false
       },
-      {
-        "text": "environment + al",
-        "is_correct": true
-      },
-      {
-        "text": "split after every vowel letter",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "environment + al reveals the word's meaningful structure.",
-      "hint": "Look for a familiar base plus prefixes or suffixes."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9e5ly09-p-018",
-    "curriculum_code": "AC9E5LY09",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which spoken-syllable guide best supports careful reading of environmental, spelled e n v i r o n m e n t a l?",
-    "audio_prompt": "Which spoken-syllable guide best supports careful reading of environmental, spelled e n v i r o n m e n t a l?",
-    "answers": [
-      {
-        "text": "environment + al",
-        "is_correct": false
-      },
-      {
-        "text": "say only the first and last parts",
-        "is_correct": false
-      },
-      {
-        "text": "en-vi-ron-men-tal",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The guide supports pronunciation, while meaningful parts support spelling and meaning.",
-      "hint": "Blend every syllable, then check the complete word in its sentence."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9e5ly09-p-019",
-    "curriculum_code": "AC9E5LY09",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "In a science or humanities sentence, what does environmental, spelled e n v i r o n m e n t a l mean?",
-    "audio_prompt": "In a science or humanities sentence, what does environmental, spelled e n v i r o n m e n t a l mean?",
-    "answers": [
       {
         "text": "relating to the environment",
         "is_correct": true
       },
       {
-        "text": "a meaning suggested only by the first sound",
+        "text": "an unrelated meaning guessed from the topic",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“relating to the environment” fits the meaning and the language clue in this example. The word's parts and context support the meaning “relating to the environment.”",
+      "hint": "Combine the base and affix meanings, then test the result in context."
+    }
+  },
+  {
+    "id": "AC9E5LY09-P-008",
+    "curriculum_code": "AC9E5LY09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "reading_and_spelling_complex_multisyllabic_words",
+    "question": "What works best in this situation? Which spoken-syllable guide best supports careful reading of unpredictable, spelled u n p r e d i c t a b l e?",
+    "audio_prompt": "What works best in this situation? Which spoken-syllable guide best supports careful reading of unpredictable, spelled u n p r e d i c t a b l e?",
+    "answers": [
+      {
+        "text": "un + predict + able",
         "is_correct": false
       },
       {
-        "text": "an unrelated meaning guessed from the topic",
+        "text": "say only the first and last parts",
+        "is_correct": false
+      },
+      {
+        "text": "un-pre-dict-a-ble",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“un-pre-dict-a-ble” fits the meaning and the language clue in this example. The guide supports pronunciation, while meaningful parts support spelling and meaning.",
+      "hint": "Blend every syllable, then check the complete word in its sentence."
+    }
+  },
+  {
+    "id": "AC9E5LY09-P-009",
+    "curriculum_code": "AC9E5LY09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "reading_and_spelling_complex_multisyllabic_words",
+    "question": "Which option matches what is happening? Which meaningful-part analysis best helps a reader understand the word transportation, spelled t r a n s p o r t a t i o n?",
+    "audio_prompt": "Which option matches what is happening? Which meaningful-part analysis best helps a reader understand the word transportation, spelled t r a n s p o r t a t i o n?",
+    "answers": [
+      {
+        "text": "trans + port + ation",
+        "is_correct": true
+      },
+      {
+        "text": "trans-por-ta-tion",
+        "is_correct": false
+      },
+      {
+        "text": "split after every vowel letter",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The word's parts and context support the meaning “relating to the environment.”",
-      "hint": "Combine the base and affix meanings, then test the result in context."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+      "summary": "“trans + port + ation” fits the meaning and the language clue in this example. trans + port + ation reveals the word's meaningful structure.",
+      "hint": "Look for a familiar base plus prefixes or suffixes."
+    }
   },
   {
-    "id": "ac9e5ly09-p-020",
+    "id": "AC9E5LY09-P-010",
     "curriculum_code": "AC9E5LY09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which word-family evidence best helps verify the spelling of environmental, spelled e n v i r o n m e n t a l?",
-    "audio_prompt": "Which word-family evidence best helps verify the spelling of environmental, spelled e n v i r o n m e n t a l?",
+    "question": "Use the details in the example. Which word-family evidence best helps verify the spelling of reconsideration, spelled r e c o n s i d e r a t i o n?",
+    "audio_prompt": "Use the details in the example. Which word-family evidence best helps verify the spelling of reconsideration, spelled r e c o n s i d e r a t i o n?",
     "answers": [
       {
         "text": "a rhyming word with an unrelated spelling",
         "is_correct": false
       },
       {
-        "text": "environment and environmentally",
+        "text": "consider, considerate and consideration",
         "is_correct": true
       },
       {
@@ -621,59 +295,687 @@
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Related words can preserve the base spelling even when pronunciation changes.",
+      "summary": "“consider, considerate and consideration” fits the meaning and the language clue in this example. Related words can preserve the base spelling even when pronunciation changes.",
       "hint": "Locate the shared base and compare how it is spelled across the family."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9e5ly09-p-021",
+    "id": "AC9E5LY09-P-011",
     "curriculum_code": "AC9E5LY09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
+    "stage": "explain",
     "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which meaningful-part analysis best helps a reader understand the word miscommunication, spelled m i s c o m m u n i c a t i o n?",
-    "audio_prompt": "Which meaningful-part analysis best helps a reader understand the word miscommunication, spelled m i s c o m m u n i c a t i o n?",
+    "question": "Why is “un-pre-dict-a-ble” the strongest answer to this question: Which spoken-syllable guide best supports careful reading of unpredictable, spelled u n p r e d i c t a b l e?",
+    "audio_prompt": "Why is “un-pre-dict-a-ble” the strongest answer to this question: Which spoken-syllable guide best supports careful reading of unpredictable, spelled u n p r e d i c t a b l e?",
     "answers": [
       {
-        "text": "mis-com-mu-ni-ca-tion",
+        "text": "It is correct because it is the longest option.",
         "is_correct": false
       },
       {
-        "text": "split after every vowel letter",
+        "text": "It is correct because familiar words are always safest.",
         "is_correct": false
       },
       {
-        "text": "mis + communicate + ion",
+        "text": "It matches the key clue and meaning in the example.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "mis + communicate + ion reveals the word's meaningful structure.",
-      "hint": "Look for a familiar base plus prefixes or suffixes."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The guide supports pronunciation, while meaningful parts support spelling and meaning.",
+      "hint": "Find the exact clue that makes “un-pre-dict-a-ble” fit."
+    }
   },
   {
-    "id": "ac9e5ly09-p-022",
+    "id": "AC9E5LY09-P-012",
     "curriculum_code": "AC9E5LY09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
+    "stage": "explain",
     "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which spoken-syllable guide best supports careful reading of miscommunication, spelled m i s c o m m u n i c a t i o n?",
-    "audio_prompt": "Which spoken-syllable guide best supports careful reading of miscommunication, spelled m i s c o m m u n i c a t i o n?",
+    "question": "What makes “trans + port + ation” work in this example? Which meaningful-part analysis best helps a reader understand the word transportation, spelled t r a n s p o r t a t i o n?",
+    "audio_prompt": "What makes “trans + port + ation” work in this example? Which meaningful-part analysis best helps a reader understand the word transportation, spelled t r a n s p o r t a t i o n?",
     "answers": [
       {
-        "text": "mis-com-mu-ni-ca-tion",
+        "text": "It matches the key clue and meaning in the example.",
         "is_correct": true
       },
       {
-        "text": "mis + communicate + ion",
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. trans + port + ation reveals the word's meaningful structure.",
+      "hint": "Find the exact clue that makes “trans + port + ation” fit."
+    }
+  },
+  {
+    "id": "AC9E5LY09-P-013",
+    "curriculum_code": "AC9E5LY09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "reading_and_spelling_complex_multisyllabic_words",
+    "question": "Which reason best explains why “consider, considerate and consideration” fits? Which word-family evidence best helps verify the spelling of reconsideration, spelled r e c o n s i d e r a t i o n?",
+    "audio_prompt": "Which reason best explains why “consider, considerate and consideration” fits? Which word-family evidence best helps verify the spelling of reconsideration, spelled r e c o n s i d e r a t i o n?",
+    "answers": [
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Related words can preserve the base spelling even when pronunciation changes.",
+      "hint": "Find the exact clue that makes “consider, considerate and consideration” fit."
+    }
+  },
+  {
+    "id": "AC9E5LY09-P-014",
+    "curriculum_code": "AC9E5LY09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "reading_and_spelling_complex_multisyllabic_words",
+    "question": "How does “communication understood incorrectly” match the meaning of this example? In a science or humanities sentence, what does miscommunication, spelled m i s c o m m u n i c a t i o n mean?",
+    "audio_prompt": "How does “communication understood incorrectly” match the meaning of this example? In a science or humanities sentence, what does miscommunication, spelled m i s c o m m u n i c a t i o n mean?",
+    "answers": [
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      },
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The word's parts and context support the meaning “communication understood incorrectly.”",
+      "hint": "Find the exact clue that makes “communication understood incorrectly” fit."
+    }
+  },
+  {
+    "id": "AC9E5LY09-P-015",
+    "curriculum_code": "AC9E5LY09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "reading_and_spelling_complex_multisyllabic_words",
+    "question": "Why does “dis-a-gree-ment” suit this situation better than the other choices? Which spoken-syllable guide best supports careful reading of disagreement, spelled d i s a g r e e m e n t?",
+    "audio_prompt": "Why does “dis-a-gree-ment” suit this situation better than the other choices? Which spoken-syllable guide best supports careful reading of disagreement, spelled d i s a g r e e m e n t?",
+    "answers": [
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      },
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The guide supports pronunciation, while meaningful parts support spelling and meaning.",
+      "hint": "Find the exact clue that makes “dis-a-gree-ment” fit."
+    }
+  },
+  {
+    "id": "AC9E5LY09-P-016",
+    "curriculum_code": "AC9E5LY09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "reading_and_spelling_complex_multisyllabic_words",
+    "question": "What clue in the example supports “re + consider + ation”? Which meaningful-part analysis best helps a reader understand the word reconsideration, spelled r e c o n s i d e r a t i o n?",
+    "audio_prompt": "What clue in the example supports “re + consider + ation”? Which meaningful-part analysis best helps a reader understand the word reconsideration, spelled r e c o n s i d e r a t i o n?",
+    "answers": [
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. re + consider + ation reveals the word's meaningful structure.",
+      "hint": "Find the exact clue that makes “re + consider + ation” fit."
+    }
+  },
+  {
+    "id": "AC9E5LY09-P-017",
+    "curriculum_code": "AC9E5LY09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "reading_and_spelling_complex_multisyllabic_words",
+    "question": "Which explanation shows why “environment and environmentally” is correct here? Which word-family evidence best helps verify the spelling of environmental, spelled e n v i r o n m e n t a l?",
+    "audio_prompt": "Which explanation shows why “environment and environmentally” is correct here? Which word-family evidence best helps verify the spelling of environmental, spelled e n v i r o n m e n t a l?",
+    "answers": [
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      },
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Related words can preserve the base spelling even when pronunciation changes.",
+      "hint": "Find the exact clue that makes “environment and environmentally” fit."
+    }
+  },
+  {
+    "id": "AC9E5LY09-P-018",
+    "curriculum_code": "AC9E5LY09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "reading_and_spelling_complex_multisyllabic_words",
+    "question": "Why would “not able to be predicted” make sense to a careful reader? In a science or humanities sentence, what does unpredictable, spelled u n p r e d i c t a b l e mean?",
+    "audio_prompt": "Why would “not able to be predicted” make sense to a careful reader? In a science or humanities sentence, what does unpredictable, spelled u n p r e d i c t a b l e mean?",
+    "answers": [
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      },
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The word's parts and context support the meaning “not able to be predicted.”",
+      "hint": "Find the exact clue that makes “not able to be predicted” fit."
+    }
+  },
+  {
+    "id": "AC9E5LY09-P-019",
+    "curriculum_code": "AC9E5LY09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "reading_and_spelling_complex_multisyllabic_words",
+    "question": "What is the best reason for choosing “trans-por-ta-tion”? Which spoken-syllable guide best supports careful reading of transportation, spelled t r a n s p o r t a t i o n?",
+    "audio_prompt": "What is the best reason for choosing “trans-por-ta-tion”? Which spoken-syllable guide best supports careful reading of transportation, spelled t r a n s p o r t a t i o n?",
+    "answers": [
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The guide supports pronunciation, while meaningful parts support spelling and meaning.",
+      "hint": "Find the exact clue that makes “trans-por-ta-tion” fit."
+    }
+  },
+  {
+    "id": "AC9E5LY09-P-020",
+    "curriculum_code": "AC9E5LY09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "reading_and_spelling_complex_multisyllabic_words",
+    "question": "Which explanation connects “environment + al” to the key clue? Which meaningful-part analysis best helps a reader understand the word environmental, spelled e n v i r o n m e n t a l?",
+    "audio_prompt": "Which explanation connects “environment + al” to the key clue? Which meaningful-part analysis best helps a reader understand the word environmental, spelled e n v i r o n m e n t a l?",
+    "answers": [
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      },
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. environment + al reveals the word's meaningful structure.",
+      "hint": "Find the exact clue that makes “environment + al” fit."
+    }
+  },
+  {
+    "id": "AC9E5LY09-P-021",
+    "curriculum_code": "AC9E5LY09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "reading_and_spelling_complex_multisyllabic_words",
+    "question": "“a meaning suggested only by the first sound” might seem possible at first. What should you notice before answering this question: In a science or humanities sentence, what does unpredictable, spelled u n p r e d i c t a b l e mean?",
+    "audio_prompt": "“a meaning suggested only by the first sound” might seem possible at first. What should you notice before answering this question: In a science or humanities sentence, what does unpredictable, spelled u n p r e d i c t a b l e mean?",
+    "answers": [
+      {
+        "text": "Check the whole example: “not able to be predicted” matches the key clue, while “a meaning suggested only by the first sound” does not.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “a meaning suggested only by the first sound” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “a meaning suggested only by the first sound” fail and “not able to be predicted” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LY09-P-022",
+    "curriculum_code": "AC9E5LY09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "reading_and_spelling_complex_multisyllabic_words",
+    "question": "Why is “trans + port + ation” not the best choice here? Which spoken-syllable guide best supports careful reading of transportation, spelled t r a n s p o r t a t i o n?",
+    "audio_prompt": "Why is “trans + port + ation” not the best choice here? Which spoken-syllable guide best supports careful reading of transportation, spelled t r a n s p o r t a t i o n?",
+    "answers": [
+      {
+        "text": "Keep “trans + port + ation” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole example: “trans-por-ta-tion” matches the key clue, while “trans + port + ation” does not.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “trans + port + ation” fail and “trans-por-ta-tion” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LY09-P-023",
+    "curriculum_code": "AC9E5LY09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "reading_and_spelling_complex_multisyllabic_words",
+    "question": "Compare “en-vi-ron-men-tal” with “environment + al”. What important difference matters in this example? Which meaningful-part analysis best helps a reader understand the word environmental, spelled e n v i r o n m e n t a l?",
+    "audio_prompt": "Compare “en-vi-ron-men-tal” with “environment + al”. What important difference matters in this example? Which meaningful-part analysis best helps a reader understand the word environmental, spelled e n v i r o n m e n t a l?",
+    "answers": [
+      {
+        "text": "Keep “en-vi-ron-men-tal” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole example: “environment + al” matches the key clue, while “en-vi-ron-men-tal” does not.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “en-vi-ron-men-tal” fail and “environment + al” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LY09-P-024",
+    "curriculum_code": "AC9E5LY09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "reading_and_spelling_complex_multisyllabic_words",
+    "question": "Which clue rules out “a rhyming word with an unrelated spelling” in this situation? Which word-family evidence best helps verify the spelling of miscommunication, spelled m i s c o m m u n i c a t i o n?",
+    "audio_prompt": "Which clue rules out “a rhyming word with an unrelated spelling” in this situation? Which word-family evidence best helps verify the spelling of miscommunication, spelled m i s c o m m u n i c a t i o n?",
+    "answers": [
+      {
+        "text": "Check the whole example: “communicate and communication” matches the key clue, while “a rhyming word with an unrelated spelling” does not.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “a rhyming word with an unrelated spelling” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “a rhyming word with an unrelated spelling” fail and “communicate and communication” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LY09-P-025",
+    "curriculum_code": "AC9E5LY09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "reading_and_spelling_complex_multisyllabic_words",
+    "question": "A quick reader might choose “a meaning suggested only by the first sound”. What would a closer reading show? In a science or humanities sentence, what does disagreement, spelled d i s a g r e e m e n t mean?",
+    "audio_prompt": "A quick reader might choose “a meaning suggested only by the first sound”. What would a closer reading show? In a science or humanities sentence, what does disagreement, spelled d i s a g r e e m e n t mean?",
+    "answers": [
+      {
+        "text": "Keep “a meaning suggested only by the first sound” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole example: “a lack of agreement” matches the key clue, while “a meaning suggested only by the first sound” does not.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “a meaning suggested only by the first sound” fail and “a lack of agreement” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LY09-P-026",
+    "curriculum_code": "AC9E5LY09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "reading_and_spelling_complex_multisyllabic_words",
+    "question": "What makes “re-con-sid-er-a-tion” more precise than “re + consider + ation” here? Which spoken-syllable guide best supports careful reading of reconsideration, spelled r e c o n s i d e r a t i o n?",
+    "audio_prompt": "What makes “re-con-sid-er-a-tion” more precise than “re + consider + ation” here? Which spoken-syllable guide best supports careful reading of reconsideration, spelled r e c o n s i d e r a t i o n?",
+    "answers": [
+      {
+        "text": "Keep “re + consider + ation” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole example: “re-con-sid-er-a-tion” matches the key clue, while “re + consider + ation” does not.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “re + consider + ation” fail and “re-con-sid-er-a-tion” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LY09-P-027",
+    "curriculum_code": "AC9E5LY09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "reading_and_spelling_complex_multisyllabic_words",
+    "question": "Which detail helps you reject “mis-com-mu-ni-ca-tion”? Which meaningful-part analysis best helps a reader understand the word miscommunication, spelled m i s c o m m u n i c a t i o n?",
+    "audio_prompt": "Which detail helps you reject “mis-com-mu-ni-ca-tion”? Which meaningful-part analysis best helps a reader understand the word miscommunication, spelled m i s c o m m u n i c a t i o n?",
+    "answers": [
+      {
+        "text": "Check the whole example: “mis + communicate + ion” matches the key clue, while “mis-com-mu-ni-ca-tion” does not.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “mis-com-mu-ni-ca-tion” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “mis-com-mu-ni-ca-tion” fail and “mis + communicate + ion” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LY09-P-028",
+    "curriculum_code": "AC9E5LY09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "reading_and_spelling_complex_multisyllabic_words",
+    "question": "What is the problem with choosing “a rhyming word with an unrelated spelling” for this example? Which word-family evidence best helps verify the spelling of unpredictable, spelled u n p r e d i c t a b l e?",
+    "audio_prompt": "What is the problem with choosing “a rhyming word with an unrelated spelling” for this example? Which word-family evidence best helps verify the spelling of unpredictable, spelled u n p r e d i c t a b l e?",
+    "answers": [
+      {
+        "text": "Keep “a rhyming word with an unrelated spelling” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole example: “predict, prediction and predictable” matches the key clue, while “a rhyming word with an unrelated spelling” does not.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “a rhyming word with an unrelated spelling” fail and “predict, prediction and predictable” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LY09-P-029",
+    "curriculum_code": "AC9E5LY09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "reading_and_spelling_complex_multisyllabic_words",
+    "question": "Which comparison best separates “the act or system of carrying across” from “a meaning suggested only by the first sound”? In a science or humanities sentence, what does transportation, spelled t r a n s p o r t a t i o n mean?",
+    "audio_prompt": "Which comparison best separates “the act or system of carrying across” from “a meaning suggested only by the first sound”? In a science or humanities sentence, what does transportation, spelled t r a n s p o r t a t i o n mean?",
+    "answers": [
+      {
+        "text": "Keep “a meaning suggested only by the first sound” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole example: “the act or system of carrying across” matches the key clue, while “a meaning suggested only by the first sound” does not.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “a meaning suggested only by the first sound” fail and “the act or system of carrying across” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LY09-P-030",
+    "curriculum_code": "AC9E5LY09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "reading_and_spelling_complex_multisyllabic_words",
+    "question": "What should you check so you do not confuse “environment + al” with the correct answer? Which spoken-syllable guide best supports careful reading of environmental, spelled e n v i r o n m e n t a l?",
+    "audio_prompt": "What should you check so you do not confuse “environment + al” with the correct answer? Which spoken-syllable guide best supports careful reading of environmental, spelled e n v i r o n m e n t a l?",
+    "answers": [
+      {
+        "text": "Check the whole example: “en-vi-ron-men-tal” matches the key clue, while “environment + al” does not.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “environment + al” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “environment + al” fail and “en-vi-ron-men-tal” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LY09-P-031",
+    "curriculum_code": "AC9E5LY09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "reading_and_spelling_complex_multisyllabic_words",
+    "question": "Apply what you know to this example: Which word-family evidence best helps verify the spelling of unpredictable, spelled u n p r e d i c t a b l e?",
+    "audio_prompt": "Apply what you know to this example: Which word-family evidence best helps verify the spelling of unpredictable, spelled u n p r e d i c t a b l e?",
+    "answers": [
+      {
+        "text": "a rhyming word with an unrelated spelling",
+        "is_correct": false
+      },
+      {
+        "text": "predict, prediction and predictable",
+        "is_correct": true
+      },
+      {
+        "text": "the shortest word in the sentence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“predict, prediction and predictable” fits the meaning and the language clue in this example. Related words can preserve the base spelling even when pronunciation changes.",
+      "hint": "Locate the shared base and compare how it is spelled across the family."
+    }
+  },
+  {
+    "id": "AC9E5LY09-P-032",
+    "curriculum_code": "AC9E5LY09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "reading_and_spelling_complex_multisyllabic_words",
+    "question": "Use the skill independently. In a science or humanities sentence, what does transportation, spelled t r a n s p o r t a t i o n mean?",
+    "audio_prompt": "Use the skill independently. In a science or humanities sentence, what does transportation, spelled t r a n s p o r t a t i o n mean?",
+    "answers": [
+      {
+        "text": "a meaning suggested only by the first sound",
+        "is_correct": false
+      },
+      {
+        "text": "an unrelated meaning guessed from the topic",
+        "is_correct": false
+      },
+      {
+        "text": "the act or system of carrying across",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“the act or system of carrying across” fits the meaning and the language clue in this example. The word's parts and context support the meaning “the act or system of carrying across.”",
+      "hint": "Combine the base and affix meanings, then test the result in context."
+    }
+  },
+  {
+    "id": "AC9E5LY09-P-033",
+    "curriculum_code": "AC9E5LY09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "reading_and_spelling_complex_multisyllabic_words",
+    "question": "Work out the answer from the details given. Which spoken-syllable guide best supports careful reading of environmental, spelled e n v i r o n m e n t a l?",
+    "audio_prompt": "Work out the answer from the details given. Which spoken-syllable guide best supports careful reading of environmental, spelled e n v i r o n m e n t a l?",
+    "answers": [
+      {
+        "text": "en-vi-ron-men-tal",
+        "is_correct": true
+      },
+      {
+        "text": "environment + al",
         "is_correct": false
       },
       {
@@ -683,52 +985,50 @@
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The guide supports pronunciation, while meaningful parts support spelling and meaning.",
+      "summary": "“en-vi-ron-men-tal” fits the meaning and the language clue in this example. The guide supports pronunciation, while meaningful parts support spelling and meaning.",
       "hint": "Blend every syllable, then check the complete word in its sentence."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9e5ly09-p-023",
+    "id": "AC9E5LY09-P-034",
     "curriculum_code": "AC9E5LY09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
+    "stage": "apply",
     "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "In a science or humanities sentence, what does miscommunication, spelled m i s c o m m u n i c a t i o n mean?",
-    "audio_prompt": "In a science or humanities sentence, what does miscommunication, spelled m i s c o m m u n i c a t i o n mean?",
+    "question": "Now use the idea in context. Which meaningful-part analysis best helps a reader understand the word unpredictable, spelled u n p r e d i c t a b l e?",
+    "audio_prompt": "Now use the idea in context. Which meaningful-part analysis best helps a reader understand the word unpredictable, spelled u n p r e d i c t a b l e?",
     "answers": [
       {
-        "text": "a meaning suggested only by the first sound",
+        "text": "un-pre-dict-a-ble",
         "is_correct": false
       },
       {
-        "text": "communication understood incorrectly",
+        "text": "un + predict + able",
         "is_correct": true
       },
       {
-        "text": "an unrelated meaning guessed from the topic",
+        "text": "split after every vowel letter",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The word's parts and context support the meaning “communication understood incorrectly.”",
-      "hint": "Combine the base and affix meanings, then test the result in context."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+      "summary": "“un + predict + able” fits the meaning and the language clue in this example. un + predict + able reveals the word's meaningful structure.",
+      "hint": "Look for a familiar base plus prefixes or suffixes."
+    }
   },
   {
-    "id": "ac9e5ly09-p-024",
+    "id": "AC9E5LY09-P-035",
     "curriculum_code": "AC9E5LY09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
+    "stage": "apply",
     "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which word-family evidence best helps verify the spelling of miscommunication, spelled m i s c o m m u n i c a t i o n?",
-    "audio_prompt": "Which word-family evidence best helps verify the spelling of miscommunication, spelled m i s c o m m u n i c a t i o n?",
+    "question": "Choose carefully using meaning, not just a familiar word. Which word-family evidence best helps verify the spelling of disagreement, spelled d i s a g r e e m e n t?",
+    "audio_prompt": "Choose carefully using meaning, not just a familiar word. Which word-family evidence best helps verify the spelling of disagreement, spelled d i s a g r e e m e n t?",
     "answers": [
       {
         "text": "a rhyming word with an unrelated spelling",
@@ -739,32 +1039,177 @@
         "is_correct": false
       },
       {
-        "text": "communicate and communication",
+        "text": "agree, agreed and agreement",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Related words can preserve the base spelling even when pronunciation changes.",
+      "summary": "“agree, agreed and agreement” fits the meaning and the language clue in this example. Related words can preserve the base spelling even when pronunciation changes.",
       "hint": "Locate the shared base and compare how it is spelled across the family."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9e5ly09-t-001",
+    "id": "AC9E5LY09-P-036",
+    "curriculum_code": "AC9E5LY09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "reading_and_spelling_complex_multisyllabic_words",
+    "question": "Which answer still works when you consider the whole example? In a science or humanities sentence, what does reconsideration, spelled r e c o n s i d e r a t i o n mean?",
+    "audio_prompt": "Which answer still works when you consider the whole example? In a science or humanities sentence, what does reconsideration, spelled r e c o n s i d e r a t i o n mean?",
+    "answers": [
+      {
+        "text": "thinking about something again",
+        "is_correct": true
+      },
+      {
+        "text": "a meaning suggested only by the first sound",
+        "is_correct": false
+      },
+      {
+        "text": "an unrelated meaning guessed from the topic",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“thinking about something again” fits the meaning and the language clue in this example. The word's parts and context support the meaning “thinking about something again.”",
+      "hint": "Combine the base and affix meanings, then test the result in context."
+    }
+  },
+  {
+    "id": "AC9E5LY09-P-037",
+    "curriculum_code": "AC9E5LY09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "reading_and_spelling_complex_multisyllabic_words",
+    "question": "Use all the clues in this situation. Which spoken-syllable guide best supports careful reading of miscommunication, spelled m i s c o m m u n i c a t i o n?",
+    "audio_prompt": "Use all the clues in this situation. Which spoken-syllable guide best supports careful reading of miscommunication, spelled m i s c o m m u n i c a t i o n?",
+    "answers": [
+      {
+        "text": "mis + communicate + ion",
+        "is_correct": false
+      },
+      {
+        "text": "mis-com-mu-ni-ca-tion",
+        "is_correct": true
+      },
+      {
+        "text": "say only the first and last parts",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“mis-com-mu-ni-ca-tion” fits the meaning and the language clue in this example. The guide supports pronunciation, while meaningful parts support spelling and meaning.",
+      "hint": "Blend every syllable, then check the complete word in its sentence."
+    }
+  },
+  {
+    "id": "AC9E5LY09-P-038",
+    "curriculum_code": "AC9E5LY09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "reading_and_spelling_complex_multisyllabic_words",
+    "question": "Decide which option is most precise. Which meaningful-part analysis best helps a reader understand the word disagreement, spelled d i s a g r e e m e n t?",
+    "audio_prompt": "Decide which option is most precise. Which meaningful-part analysis best helps a reader understand the word disagreement, spelled d i s a g r e e m e n t?",
+    "answers": [
+      {
+        "text": "dis-a-gree-ment",
+        "is_correct": false
+      },
+      {
+        "text": "split after every vowel letter",
+        "is_correct": false
+      },
+      {
+        "text": "dis + agree + ment",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“dis + agree + ment” fits the meaning and the language clue in this example. dis + agree + ment reveals the word's meaningful structure.",
+      "hint": "Look for a familiar base plus prefixes or suffixes."
+    }
+  },
+  {
+    "id": "AC9E5LY09-P-039",
+    "curriculum_code": "AC9E5LY09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "reading_and_spelling_complex_multisyllabic_words",
+    "question": "Which choice best shows your understanding here? Which word-family evidence best helps verify the spelling of transportation, spelled t r a n s p o r t a t i o n?",
+    "audio_prompt": "Which choice best shows your understanding here? Which word-family evidence best helps verify the spelling of transportation, spelled t r a n s p o r t a t i o n?",
+    "answers": [
+      {
+        "text": "transport, portable and porter",
+        "is_correct": true
+      },
+      {
+        "text": "a rhyming word with an unrelated spelling",
+        "is_correct": false
+      },
+      {
+        "text": "the shortest word in the sentence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“transport, portable and porter” fits the meaning and the language clue in this example. Related words can preserve the base spelling even when pronunciation changes.",
+      "hint": "Locate the shared base and compare how it is spelled across the family."
+    }
+  },
+  {
+    "id": "AC9E5LY09-P-040",
+    "curriculum_code": "AC9E5LY09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "reading_and_spelling_complex_multisyllabic_words",
+    "question": "Read the full example before deciding. In a science or humanities sentence, what does environmental, spelled e n v i r o n m e n t a l mean?",
+    "audio_prompt": "Read the full example before deciding. In a science or humanities sentence, what does environmental, spelled e n v i r o n m e n t a l mean?",
+    "answers": [
+      {
+        "text": "a meaning suggested only by the first sound",
+        "is_correct": false
+      },
+      {
+        "text": "relating to the environment",
+        "is_correct": true
+      },
+      {
+        "text": "an unrelated meaning guessed from the topic",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“relating to the environment” fits the meaning and the language clue in this example. The word's parts and context support the meaning “relating to the environment.”",
+      "hint": "Combine the base and affix meanings, then test the result in context."
+    }
+  },
+  {
+    "id": "AC9E5LY09-T-001",
     "curriculum_code": "AC9E5LY09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
     "skill": "reading_and_spelling_complex_multisyllabic_words",
     "question": "Which meaningful-part analysis best helps a reader understand the word international, spelled i n t e r n a t i o n a l?",
     "audio_prompt": "Which meaningful-part analysis best helps a reader understand the word international, spelled i n t e r n a t i o n a l?",
     "answers": [
-      {
-        "text": "inter + nation + al",
-        "is_correct": true
-      },
       {
         "text": "in-ter-na-tion-al",
         "is_correct": false
@@ -772,86 +1217,89 @@
       {
         "text": "split after every vowel letter",
         "is_correct": false
+      },
+      {
+        "text": "inter + nation + al",
+        "is_correct": true
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
       "summary": "inter + nation + al reveals the word's meaningful structure.",
       "hint": "Look for a familiar base plus prefixes or suffixes."
     }
   },
   {
-    "id": "ac9e5ly09-t-002",
+    "id": "AC9E5LY09-T-002",
     "curriculum_code": "AC9E5LY09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
     "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which spoken-syllable guide best supports careful reading of international, spelled i n t e r n a t i o n a l?",
-    "audio_prompt": "Which spoken-syllable guide best supports careful reading of international, spelled i n t e r n a t i o n a l?",
+    "question": "Read this new example closely. Which spoken-syllable guide best supports careful reading of international, spelled i n t e r n a t i o n a l?",
+    "audio_prompt": "Read this new example closely. Which spoken-syllable guide best supports careful reading of international, spelled i n t e r n a t i o n a l?",
     "answers": [
-      {
-        "text": "inter + nation + al",
-        "is_correct": false
-      },
       {
         "text": "in-ter-na-tion-al",
         "is_correct": true
+      },
+      {
+        "text": "inter + nation + al",
+        "is_correct": false
       },
       {
         "text": "say only the first and last parts",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
       "summary": "The guide supports pronunciation, while meaningful parts support spelling and meaning.",
       "hint": "Blend every syllable, then check the complete word in its sentence."
     }
   },
   {
-    "id": "ac9e5ly09-t-003",
+    "id": "AC9E5LY09-T-003",
     "curriculum_code": "AC9E5LY09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
     "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "In a science or humanities sentence, what does international, spelled i n t e r n a t i o n a l mean?",
-    "audio_prompt": "In a science or humanities sentence, what does international, spelled i n t e r n a t i o n a l mean?",
+    "question": "Which answer is most accurate here? In a science or humanities sentence, what does international, spelled i n t e r n a t i o n a l mean?",
+    "audio_prompt": "Which answer is most accurate here? In a science or humanities sentence, what does international, spelled i n t e r n a t i o n a l mean?",
     "answers": [
       {
         "text": "a meaning suggested only by the first sound",
         "is_correct": false
       },
       {
-        "text": "an unrelated meaning guessed from the topic",
-        "is_correct": false
-      },
-      {
         "text": "involving more than one nation",
         "is_correct": true
+      },
+      {
+        "text": "an unrelated meaning guessed from the topic",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
       "summary": "The word's parts and context support the meaning “involving more than one nation.”",
       "hint": "Combine the base and affix meanings, then test the result in context."
     }
   },
   {
-    "id": "ac9e5ly09-t-004",
+    "id": "AC9E5LY09-T-004",
     "curriculum_code": "AC9E5LY09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
     "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which word-family evidence best helps verify the spelling of international, spelled i n t e r n a t i o n a l?",
-    "audio_prompt": "Which word-family evidence best helps verify the spelling of international, spelled i n t e r n a t i o n a l?",
+    "question": "Use the details in this new situation. Which word-family evidence best helps verify the spelling of international, spelled i n t e r n a t i o n a l?",
+    "audio_prompt": "Use the details in this new situation. Which word-family evidence best helps verify the spelling of international, spelled i n t e r n a t i o n a l?",
     "answers": [
-      {
-        "text": "nation, national and nationality",
-        "is_correct": true
-      },
       {
         "text": "a rhyming word with an unrelated spelling",
         "is_correct": false
@@ -859,86 +1307,89 @@
       {
         "text": "the shortest word in the sentence",
         "is_correct": false
+      },
+      {
+        "text": "nation, national and nationality",
+        "is_correct": true
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
       "summary": "Related words can preserve the base spelling even when pronunciation changes.",
       "hint": "Locate the shared base and compare how it is spelled across the family."
     }
   },
   {
-    "id": "ac9e5ly09-t-005",
+    "id": "AC9E5LY09-T-005",
     "curriculum_code": "AC9E5LY09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
     "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which meaningful-part analysis best helps a reader understand the word decomposition, spelled d e c o m p o s i t i o n?",
-    "audio_prompt": "Which meaningful-part analysis best helps a reader understand the word decomposition, spelled d e c o m p o s i t i o n?",
+    "question": "Choose the answer supported by the whole example. Which meaningful-part analysis best helps a reader understand the word decomposition, spelled d e c o m p o s i t i o n?",
+    "audio_prompt": "Choose the answer supported by the whole example. Which meaningful-part analysis best helps a reader understand the word decomposition, spelled d e c o m p o s i t i o n?",
     "answers": [
-      {
-        "text": "de-com-po-si-tion",
-        "is_correct": false
-      },
       {
         "text": "de + compose + ition",
         "is_correct": true
+      },
+      {
+        "text": "de-com-po-si-tion",
+        "is_correct": false
       },
       {
         "text": "split after every vowel letter",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
       "summary": "de + compose + ition reveals the word's meaningful structure.",
       "hint": "Look for a familiar base plus prefixes or suffixes."
     }
   },
   {
-    "id": "ac9e5ly09-t-006",
+    "id": "AC9E5LY09-T-006",
     "curriculum_code": "AC9E5LY09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
     "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which spoken-syllable guide best supports careful reading of decomposition, spelled d e c o m p o s i t i o n?",
-    "audio_prompt": "Which spoken-syllable guide best supports careful reading of decomposition, spelled d e c o m p o s i t i o n?",
+    "question": "Which option best fits the meaning? Which spoken-syllable guide best supports careful reading of decomposition, spelled d e c o m p o s i t i o n?",
+    "audio_prompt": "Which option best fits the meaning? Which spoken-syllable guide best supports careful reading of decomposition, spelled d e c o m p o s i t i o n?",
     "answers": [
       {
         "text": "de + compose + ition",
         "is_correct": false
       },
       {
-        "text": "say only the first and last parts",
-        "is_correct": false
-      },
-      {
         "text": "de-com-po-si-tion",
         "is_correct": true
+      },
+      {
+        "text": "say only the first and last parts",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
       "summary": "The guide supports pronunciation, while meaningful parts support spelling and meaning.",
       "hint": "Blend every syllable, then check the complete word in its sentence."
     }
   },
   {
-    "id": "ac9e5ly09-t-007",
+    "id": "AC9E5LY09-T-007",
     "curriculum_code": "AC9E5LY09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
     "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "In a science or humanities sentence, what does decomposition, spelled d e c o m p o s i t i o n mean?",
-    "audio_prompt": "In a science or humanities sentence, what does decomposition, spelled d e c o m p o s i t i o n mean?",
+    "question": "Work this out independently. In a science or humanities sentence, what does decomposition, spelled d e c o m p o s i t i o n mean?",
+    "audio_prompt": "Work this out independently. In a science or humanities sentence, what does decomposition, spelled d e c o m p o s i t i o n mean?",
     "answers": [
-      {
-        "text": "the process of breaking down",
-        "is_correct": true
-      },
       {
         "text": "a meaning suggested only by the first sound",
         "is_correct": false
@@ -946,86 +1397,89 @@
       {
         "text": "an unrelated meaning guessed from the topic",
         "is_correct": false
+      },
+      {
+        "text": "the process of breaking down",
+        "is_correct": true
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
       "summary": "The word's parts and context support the meaning “the process of breaking down.”",
       "hint": "Combine the base and affix meanings, then test the result in context."
     }
   },
   {
-    "id": "ac9e5ly09-t-008",
+    "id": "AC9E5LY09-T-008",
     "curriculum_code": "AC9E5LY09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
     "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which word-family evidence best helps verify the spelling of decomposition, spelled d e c o m p o s i t i o n?",
-    "audio_prompt": "Which word-family evidence best helps verify the spelling of decomposition, spelled d e c o m p o s i t i o n?",
+    "question": "What is the best answer in this context? Which word-family evidence best helps verify the spelling of decomposition, spelled d e c o m p o s i t i o n?",
+    "audio_prompt": "What is the best answer in this context? Which word-family evidence best helps verify the spelling of decomposition, spelled d e c o m p o s i t i o n?",
     "answers": [
-      {
-        "text": "a rhyming word with an unrelated spelling",
-        "is_correct": false
-      },
       {
         "text": "compose, compost and decomposition",
         "is_correct": true
+      },
+      {
+        "text": "a rhyming word with an unrelated spelling",
+        "is_correct": false
       },
       {
         "text": "the shortest word in the sentence",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
       "summary": "Related words can preserve the base spelling even when pronunciation changes.",
       "hint": "Locate the shared base and compare how it is spelled across the family."
     }
   },
   {
-    "id": "ac9e5ly09-t-009",
+    "id": "AC9E5LY09-T-009",
     "curriculum_code": "AC9E5LY09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "apply",
     "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which meaningful-part analysis best helps a reader understand the word irresponsible, spelled i r r e s p o n s i b l e?",
-    "audio_prompt": "Which meaningful-part analysis best helps a reader understand the word irresponsible, spelled i r r e s p o n s i b l e?",
+    "question": "Which choice is supported by the evidence given? Which meaningful-part analysis best helps a reader understand the word irresponsible, spelled i r r e s p o n s i b l e?",
+    "audio_prompt": "Which choice is supported by the evidence given? Which meaningful-part analysis best helps a reader understand the word irresponsible, spelled i r r e s p o n s i b l e?",
     "answers": [
       {
         "text": "ir-re-spon-si-ble",
         "is_correct": false
       },
       {
-        "text": "split after every vowel letter",
-        "is_correct": false
-      },
-      {
         "text": "ir + responsible",
         "is_correct": true
+      },
+      {
+        "text": "split after every vowel letter",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
       "summary": "ir + responsible reveals the word's meaningful structure.",
       "hint": "Look for a familiar base plus prefixes or suffixes."
     }
   },
   {
-    "id": "ac9e5ly09-t-010",
+    "id": "AC9E5LY09-T-010",
     "curriculum_code": "AC9E5LY09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "apply",
     "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which spoken-syllable guide best supports careful reading of irresponsible, spelled i r r e s p o n s i b l e?",
-    "audio_prompt": "Which spoken-syllable guide best supports careful reading of irresponsible, spelled i r r e s p o n s i b l e?",
+    "question": "Read for meaning before you choose. Which spoken-syllable guide best supports careful reading of irresponsible, spelled i r r e s p o n s i b l e?",
+    "audio_prompt": "Read for meaning before you choose. Which spoken-syllable guide best supports careful reading of irresponsible, spelled i r r e s p o n s i b l e?",
     "answers": [
-      {
-        "text": "ir-re-spon-si-ble",
-        "is_correct": true
-      },
       {
         "text": "ir + responsible",
         "is_correct": false
@@ -1033,86 +1487,89 @@
       {
         "text": "say only the first and last parts",
         "is_correct": false
+      },
+      {
+        "text": "ir-re-spon-si-ble",
+        "is_correct": true
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
       "summary": "The guide supports pronunciation, while meaningful parts support spelling and meaning.",
       "hint": "Blend every syllable, then check the complete word in its sentence."
     }
   },
   {
-    "id": "ac9e5ly09-t-011",
+    "id": "AC9E5LY09-T-011",
     "curriculum_code": "AC9E5LY09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "apply",
     "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "In a science or humanities sentence, what does irresponsible, spelled i r r e s p o n s i b l e mean?",
-    "audio_prompt": "In a science or humanities sentence, what does irresponsible, spelled i r r e s p o n s i b l e mean?",
+    "question": "Which option is the most precise? In a science or humanities sentence, what does irresponsible, spelled i r r e s p o n s i b l e mean?",
+    "audio_prompt": "Which option is the most precise? In a science or humanities sentence, what does irresponsible, spelled i r r e s p o n s i b l e mean?",
     "answers": [
-      {
-        "text": "a meaning suggested only by the first sound",
-        "is_correct": false
-      },
       {
         "text": "not showing responsibility",
         "is_correct": true
+      },
+      {
+        "text": "a meaning suggested only by the first sound",
+        "is_correct": false
       },
       {
         "text": "an unrelated meaning guessed from the topic",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
       "summary": "The word's parts and context support the meaning “not showing responsibility.”",
       "hint": "Combine the base and affix meanings, then test the result in context."
     }
   },
   {
-    "id": "ac9e5ly09-t-012",
+    "id": "AC9E5LY09-T-012",
     "curriculum_code": "AC9E5LY09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "apply",
     "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which word-family evidence best helps verify the spelling of irresponsible, spelled i r r e s p o n s i b l e?",
-    "audio_prompt": "Which word-family evidence best helps verify the spelling of irresponsible, spelled i r r e s p o n s i b l e?",
+    "question": "Use every clue in the example. Which word-family evidence best helps verify the spelling of irresponsible, spelled i r r e s p o n s i b l e?",
+    "audio_prompt": "Use every clue in the example. Which word-family evidence best helps verify the spelling of irresponsible, spelled i r r e s p o n s i b l e?",
     "answers": [
       {
         "text": "a rhyming word with an unrelated spelling",
         "is_correct": false
       },
       {
-        "text": "the shortest word in the sentence",
-        "is_correct": false
-      },
-      {
         "text": "responsible and responsibility",
         "is_correct": true
+      },
+      {
+        "text": "the shortest word in the sentence",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
       "summary": "Related words can preserve the base spelling even when pronunciation changes.",
       "hint": "Locate the shared base and compare how it is spelled across the family."
     }
   },
   {
-    "id": "ac9e5ly09-t-013",
+    "id": "AC9E5LY09-T-013",
     "curriculum_code": "AC9E5LY09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "apply",
     "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which meaningful-part analysis best helps a reader understand the word photosynthesis, spelled p h o t o s y n t h e s i s?",
-    "audio_prompt": "Which meaningful-part analysis best helps a reader understand the word photosynthesis, spelled p h o t o s y n t h e s i s?",
+    "question": "Which answer holds up when you check the full context? Which meaningful-part analysis best helps a reader understand the word photosynthesis, spelled p h o t o s y n t h e s i s?",
+    "audio_prompt": "Which answer holds up when you check the full context? Which meaningful-part analysis best helps a reader understand the word photosynthesis, spelled p h o t o s y n t h e s i s?",
     "answers": [
-      {
-        "text": "photo + synthesis",
-        "is_correct": true
-      },
       {
         "text": "pho-to-syn-the-sis",
         "is_correct": false
@@ -1120,86 +1577,89 @@
       {
         "text": "split after every vowel letter",
         "is_correct": false
+      },
+      {
+        "text": "photo + synthesis",
+        "is_correct": true
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
       "summary": "photo + synthesis reveals the word's meaningful structure.",
       "hint": "Look for a familiar base plus prefixes or suffixes."
     }
   },
   {
-    "id": "ac9e5ly09-t-014",
+    "id": "AC9E5LY09-T-014",
     "curriculum_code": "AC9E5LY09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "apply",
     "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which spoken-syllable guide best supports careful reading of photosynthesis, spelled p h o t o s y n t h e s i s?",
-    "audio_prompt": "Which spoken-syllable guide best supports careful reading of photosynthesis, spelled p h o t o s y n t h e s i s?",
+    "question": "Decide which option best matches what the text shows. Which spoken-syllable guide best supports careful reading of photosynthesis, spelled p h o t o s y n t h e s i s?",
+    "audio_prompt": "Decide which option best matches what the text shows. Which spoken-syllable guide best supports careful reading of photosynthesis, spelled p h o t o s y n t h e s i s?",
     "answers": [
-      {
-        "text": "photo + synthesis",
-        "is_correct": false
-      },
       {
         "text": "pho-to-syn-the-sis",
         "is_correct": true
+      },
+      {
+        "text": "photo + synthesis",
+        "is_correct": false
       },
       {
         "text": "say only the first and last parts",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
       "summary": "The guide supports pronunciation, while meaningful parts support spelling and meaning.",
       "hint": "Blend every syllable, then check the complete word in its sentence."
     }
   },
   {
-    "id": "ac9e5ly09-t-015",
+    "id": "AC9E5LY09-T-015",
     "curriculum_code": "AC9E5LY09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "apply",
     "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "In a science or humanities sentence, what does photosynthesis, spelled p h o t o s y n t h e s i s mean?",
-    "audio_prompt": "In a science or humanities sentence, what does photosynthesis, spelled p h o t o s y n t h e s i s mean?",
+    "question": "Which choice best demonstrates the skill in this new example? In a science or humanities sentence, what does photosynthesis, spelled p h o t o s y n t h e s i s mean?",
+    "audio_prompt": "Which choice best demonstrates the skill in this new example? In a science or humanities sentence, what does photosynthesis, spelled p h o t o s y n t h e s i s mean?",
     "answers": [
       {
         "text": "a meaning suggested only by the first sound",
         "is_correct": false
       },
       {
-        "text": "an unrelated meaning guessed from the topic",
-        "is_correct": false
-      },
-      {
         "text": "the process plants use to make food with light",
         "is_correct": true
+      },
+      {
+        "text": "an unrelated meaning guessed from the topic",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
       "summary": "The word's parts and context support the meaning “the process plants use to make food with light.”",
       "hint": "Combine the base and affix meanings, then test the result in context."
     }
   },
   {
-    "id": "ac9e5ly09-t-016",
+    "id": "AC9E5LY09-T-016",
     "curriculum_code": "AC9E5LY09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "apply",
     "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which word-family evidence best helps verify the spelling of photosynthesis, spelled p h o t o s y n t h e s i s?",
-    "audio_prompt": "Which word-family evidence best helps verify the spelling of photosynthesis, spelled p h o t o s y n t h e s i s?",
+    "question": "Make your final choice from the evidence in the question. Which word-family evidence best helps verify the spelling of photosynthesis, spelled p h o t o s y n t h e s i s?",
+    "audio_prompt": "Make your final choice from the evidence in the question. Which word-family evidence best helps verify the spelling of photosynthesis, spelled p h o t o s y n t h e s i s?",
     "answers": [
-      {
-        "text": "photograph, synthesis and photosynthetic",
-        "is_correct": true
-      },
       {
         "text": "a rhyming word with an unrelated spelling",
         "is_correct": false
@@ -1207,9 +1667,13 @@
       {
         "text": "the shortest word in the sentence",
         "is_correct": false
+      },
+      {
+        "text": "photograph, synthesis and photosynthetic",
+        "is_correct": true
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
       "summary": "Related words can preserve the base spelling even when pronunciation changes.",
       "hint": "Locate the shared base and compare how it is spelled across the family."

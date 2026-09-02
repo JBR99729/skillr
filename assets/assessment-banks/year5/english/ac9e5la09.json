@@ -1,23 +1,15 @@
 [
   {
-    "id": "ac9e5la09-p-001",
+    "id": "AC9E5LA09-P-001",
     "curriculum_code": "AC9E5LA09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "limited_evidence",
     "question": "Which sentence uses modality most appropriately for limited evidence in a class meeting?",
     "audio_prompt": "Which sentence uses modality most appropriately for limited evidence in a class meeting?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-p-001",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a class meeting. A three-part modality-scale guide supports the question."
-    },
     "answers": [
-      {
-        "text": "The pattern may suggest that shade reduced evaporation.",
-        "is_correct": true
-      },
       {
         "text": "The pattern certainly proves this for every place.",
         "is_correct": false
@@ -25,69 +17,33 @@
       {
         "text": "The pattern must force everyone to agree.",
         "is_correct": false
+      },
+      {
+        "text": "The pattern may suggest that shade reduced evaporation.",
+        "is_correct": true
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The modal wording matches the degree of certainty or obligation justified by the situation.",
+      "summary": "“The pattern may suggest that shade reduced evaporation.” fits the meaning and the language clue in this example. The modal wording matches the degree of certainty or obligation justified by the situation.",
       "hint": "Decide whether the sentence expresses certainty or obligation, then match its force to the evidence or risk."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
-    "id": "ac9e5la09-p-002",
+    "id": "AC9E5LA09-P-002",
     "curriculum_code": "AC9E5LA09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "skill": "moderate_obligation",
-    "question": "Which sentence uses modality most appropriately for moderate obligation in a football training?",
-    "audio_prompt": "Which sentence uses modality most appropriately for moderate obligation in a football training?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-p-002",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a football training. A three-part modality-scale guide supports the question."
-    },
+    "stage": "recognise",
+    "skill": "strong_supporting_evidence",
+    "question": "Read carefully: Which sentence uses modality most appropriately for strong supporting evidence in a neighbourhood clean-up?",
+    "audio_prompt": "Read carefully: Which sentence uses modality most appropriately for strong supporting evidence in a neighbourhood clean-up?",
     "answers": [
       {
-        "text": "Visitors might ignore every safety instruction.",
-        "is_correct": false
-      },
-      {
-        "text": "Visitors should remain behind the safety line.",
+        "text": "The repeated results strongly suggest a reliable difference.",
         "is_correct": true
       },
-      {
-        "text": "Visitors certainly are the safety line.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The modal wording matches the degree of certainty or obligation justified by the situation.",
-      "hint": "Decide whether the sentence expresses certainty or obligation, then match its force to the evidence or risk."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9e5la09-p-003",
-    "curriculum_code": "AC9E5LA09",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "strong_supporting_evidence",
-    "question": "Which sentence uses modality most appropriately for strong supporting evidence in a library help desk?",
-    "audio_prompt": "Which sentence uses modality most appropriately for strong supporting evidence in a library help desk?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-p-003",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a library help desk. A three-part modality-scale guide supports the question."
-    },
-    "answers": [
       {
         "text": "The results perhaps prove absolutely everything.",
         "is_correct": false
@@ -95,72 +51,24 @@
       {
         "text": "The results feel wonderfully correct.",
         "is_correct": false
-      },
-      {
-        "text": "The repeated results strongly suggest a reliable difference.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The modal wording matches the degree of certainty or obligation justified by the situation.",
-      "hint": "Decide whether the sentence expresses certainty or obligation, then match its force to the evidence or risk."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9e5la09-p-004",
-    "curriculum_code": "AC9E5LA09",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "cautious_recommendation",
-    "question": "Which sentence uses modality most appropriately for cautious recommendation in a family picnic?",
-    "audio_prompt": "Which sentence uses modality most appropriately for cautious recommendation in a family picnic?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-p-004",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a family picnic. A three-part modality-scale guide supports the question."
-    },
-    "answers": [
-      {
-        "text": "The council could consider adding another crossing.",
-        "is_correct": true
-      },
-      {
-        "text": "The council must instantly accept the only perfect plan.",
-        "is_correct": false
-      },
-      {
-        "text": "The council possibly has a crossing maybe.",
-        "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The modal wording matches the degree of certainty or obligation justified by the situation.",
+      "summary": "“The repeated results strongly suggest a reliable difference.” fits the meaning and the language clue in this example. The modal wording matches the degree of certainty or obligation justified by the situation.",
       "hint": "Decide whether the sentence expresses certainty or obligation, then match its force to the evidence or risk."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
-    "id": "ac9e5la09-p-005",
+    "id": "AC9E5LA09-P-003",
     "curriculum_code": "AC9E5LA09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "urgent_obligation",
-    "question": "Which sentence uses modality most appropriately for urgent obligation in a science group?",
-    "audio_prompt": "Which sentence uses modality most appropriately for urgent obligation in a science group?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-p-005",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a science group. A three-part modality-scale guide supports the question."
-    },
+    "question": "Which answer makes the most sense here? Which sentence uses modality most appropriately for urgent obligation in a sports report?",
+    "audio_prompt": "Which answer makes the most sense here? Which sentence uses modality most appropriately for urgent obligation in a sports report?",
     "answers": [
       {
         "text": "The loose railing may be admired before reopening.",
@@ -177,69 +85,21 @@
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The modal wording matches the degree of certainty or obligation justified by the situation.",
+      "summary": "“The loose railing must be repaired before the area reopens.” fits the meaning and the language clue in this example. The modal wording matches the degree of certainty or obligation justified by the situation.",
       "hint": "Decide whether the sentence expresses certainty or obligation, then match its force to the evidence or risk."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
-    "id": "ac9e5la09-p-006",
+    "id": "AC9E5LA09-P-004",
     "curriculum_code": "AC9E5LA09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "skill": "limited_evidence",
-    "question": "Which sentence uses modality most appropriately for limited evidence in a school assembly?",
-    "audio_prompt": "Which sentence uses modality most appropriately for limited evidence in a school assembly?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-p-006",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a school assembly. A three-part modality-scale guide supports the question."
-    },
-    "answers": [
-      {
-        "text": "The pattern certainly proves this for every place.",
-        "is_correct": false
-      },
-      {
-        "text": "The pattern must force everyone to agree.",
-        "is_correct": false
-      },
-      {
-        "text": "The pattern may suggest that shade reduced evaporation.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The modal wording matches the degree of certainty or obligation justified by the situation.",
-      "hint": "Decide whether the sentence expresses certainty or obligation, then match its force to the evidence or risk."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9e5la09-p-007",
-    "curriculum_code": "AC9E5LA09",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
+    "stage": "recognise",
     "skill": "moderate_obligation",
-    "question": "Which sentence uses modality most appropriately for moderate obligation in a art club?",
-    "audio_prompt": "Which sentence uses modality most appropriately for moderate obligation in a art club?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-p-007",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a art club. A three-part modality-scale guide supports the question."
-    },
+    "question": "Look at the wording and meaning. Which sentence uses modality most appropriately for moderate obligation in a fundraising stall?",
+    "audio_prompt": "Look at the wording and meaning. Which sentence uses modality most appropriately for moderate obligation in a fundraising stall?",
     "answers": [
-      {
-        "text": "Visitors should remain behind the safety line.",
-        "is_correct": true
-      },
       {
         "text": "Visitors might ignore every safety instruction.",
         "is_correct": false
@@ -247,104 +107,28 @@
       {
         "text": "Visitors certainly are the safety line.",
         "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The modal wording matches the degree of certainty or obligation justified by the situation.",
-      "hint": "Decide whether the sentence expresses certainty or obligation, then match its force to the evidence or risk."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9e5la09-p-008",
-    "curriculum_code": "AC9E5LA09",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "strong_supporting_evidence",
-    "question": "Which sentence uses modality most appropriately for strong supporting evidence in a neighbourhood clean-up?",
-    "audio_prompt": "Which sentence uses modality most appropriately for strong supporting evidence in a neighbourhood clean-up?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-p-008",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a neighbourhood clean-up. A three-part modality-scale guide supports the question."
-    },
-    "answers": [
-      {
-        "text": "The results perhaps prove absolutely everything.",
-        "is_correct": false
       },
       {
-        "text": "The repeated results strongly suggest a reliable difference.",
-        "is_correct": true
-      },
-      {
-        "text": "The results feel wonderfully correct.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The modal wording matches the degree of certainty or obligation justified by the situation.",
-      "hint": "Decide whether the sentence expresses certainty or obligation, then match its force to the evidence or risk."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9e5la09-p-009",
-    "curriculum_code": "AC9E5LA09",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "cautious_recommendation",
-    "question": "Which sentence uses modality most appropriately for cautious recommendation in a music rehearsal?",
-    "audio_prompt": "Which sentence uses modality most appropriately for cautious recommendation in a music rehearsal?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-p-009",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a music rehearsal. A three-part modality-scale guide supports the question."
-    },
-    "answers": [
-      {
-        "text": "The council must instantly accept the only perfect plan.",
-        "is_correct": false
-      },
-      {
-        "text": "The council possibly has a crossing maybe.",
-        "is_correct": false
-      },
-      {
-        "text": "The council could consider adding another crossing.",
+        "text": "Visitors should remain behind the safety line.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The modal wording matches the degree of certainty or obligation justified by the situation.",
+      "summary": "“Visitors should remain behind the safety line.” fits the meaning and the language clue in this example. The modal wording matches the degree of certainty or obligation justified by the situation.",
       "hint": "Decide whether the sentence expresses certainty or obligation, then match its force to the evidence or risk."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9e5la09-p-010",
+    "id": "AC9E5LA09-P-005",
     "curriculum_code": "AC9E5LA09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "urgent_obligation",
-    "question": "Which sentence uses modality most appropriately for urgent obligation in a student council?",
-    "audio_prompt": "Which sentence uses modality most appropriately for urgent obligation in a student council?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-p-010",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a student council. A three-part modality-scale guide supports the question."
-    },
+    "question": "Choose the option that fits the situation best. Which sentence uses modality most appropriately for urgent obligation in a science group?",
+    "audio_prompt": "Choose the option that fits the situation best. Which sentence uses modality most appropriately for urgent obligation in a science group?",
     "answers": [
       {
         "text": "The loose railing must be repaired before the area reopens.",
@@ -361,63 +145,85 @@
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The modal wording matches the degree of certainty or obligation justified by the situation.",
+      "summary": "“The loose railing must be repaired before the area reopens.” fits the meaning and the language clue in this example. The modal wording matches the degree of certainty or obligation justified by the situation.",
       "hint": "Decide whether the sentence expresses certainty or obligation, then match its force to the evidence or risk."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9e5la09-p-011",
+    "id": "AC9E5LA09-P-006",
     "curriculum_code": "AC9E5LA09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "skill": "limited_evidence",
-    "question": "Which sentence uses modality most appropriately for limited evidence in a museum visit?",
-    "audio_prompt": "Which sentence uses modality most appropriately for limited evidence in a museum visit?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-p-011",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a museum visit. A three-part modality-scale guide supports the question."
-    },
+    "stage": "recognise",
+    "skill": "moderate_obligation",
+    "question": "Which choice is accurate in this example? Which sentence uses modality most appropriately for moderate obligation in a cooking lesson?",
+    "audio_prompt": "Which choice is accurate in this example? Which sentence uses modality most appropriately for moderate obligation in a cooking lesson?",
     "answers": [
       {
-        "text": "The pattern certainly proves this for every place.",
+        "text": "Visitors might ignore every safety instruction.",
         "is_correct": false
       },
       {
-        "text": "The pattern may suggest that shade reduced evaporation.",
+        "text": "Visitors should remain behind the safety line.",
         "is_correct": true
       },
       {
-        "text": "The pattern must force everyone to agree.",
+        "text": "Visitors certainly are the safety line.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The modal wording matches the degree of certainty or obligation justified by the situation.",
+      "summary": "“Visitors should remain behind the safety line.” fits the meaning and the language clue in this example. The modal wording matches the degree of certainty or obligation justified by the situation.",
       "hint": "Decide whether the sentence expresses certainty or obligation, then match its force to the evidence or risk."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9e5la09-p-012",
+    "id": "AC9E5LA09-P-007",
     "curriculum_code": "AC9E5LA09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "skill": "moderate_obligation",
-    "question": "Which sentence uses modality most appropriately for moderate obligation in a cooking lesson?",
-    "audio_prompt": "Which sentence uses modality most appropriately for moderate obligation in a cooking lesson?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-p-012",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a cooking lesson. A three-part modality-scale guide supports the question."
-    },
+    "stage": "recognise",
+    "skill": "cautious_recommendation",
+    "question": "Focus on the key clue. Which sentence uses modality most appropriately for cautious recommendation in a school newsletter?",
+    "audio_prompt": "Focus on the key clue. Which sentence uses modality most appropriately for cautious recommendation in a school newsletter?",
     "answers": [
+      {
+        "text": "The council must instantly accept the only perfect plan.",
+        "is_correct": false
+      },
+      {
+        "text": "The council possibly has a crossing maybe.",
+        "is_correct": false
+      },
+      {
+        "text": "The council could consider adding another crossing.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“The council could consider adding another crossing.” fits the meaning and the language clue in this example. The modal wording matches the degree of certainty or obligation justified by the situation.",
+      "hint": "Decide whether the sentence expresses certainty or obligation, then match its force to the evidence or risk."
+    }
+  },
+  {
+    "id": "AC9E5LA09-P-008",
+    "curriculum_code": "AC9E5LA09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "moderate_obligation",
+    "question": "What works best in this situation? Which sentence uses modality most appropriately for moderate obligation in a football training?",
+    "audio_prompt": "What works best in this situation? Which sentence uses modality most appropriately for moderate obligation in a football training?",
+    "answers": [
+      {
+        "text": "Visitors should remain behind the safety line.",
+        "is_correct": true
+      },
       {
         "text": "Visitors might ignore every safety instruction.",
         "is_correct": false
@@ -425,70 +231,24 @@
       {
         "text": "Visitors certainly are the safety line.",
         "is_correct": false
-      },
-      {
-        "text": "Visitors should remain behind the safety line.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The modal wording matches the degree of certainty or obligation justified by the situation.",
-      "hint": "Decide whether the sentence expresses certainty or obligation, then match its force to the evidence or risk."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9e5la09-p-013",
-    "curriculum_code": "AC9E5LA09",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "strong_supporting_evidence",
-    "question": "Which sentence uses modality most appropriately for strong supporting evidence in a garden project?",
-    "audio_prompt": "Which sentence uses modality most appropriately for strong supporting evidence in a garden project?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-p-013",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a garden project. A three-part modality-scale guide supports the question."
-    },
-    "answers": [
-      {
-        "text": "The repeated results strongly suggest a reliable difference.",
-        "is_correct": true
-      },
-      {
-        "text": "The results perhaps prove absolutely everything.",
-        "is_correct": false
-      },
-      {
-        "text": "The results feel wonderfully correct.",
-        "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The modal wording matches the degree of certainty or obligation justified by the situation.",
+      "summary": "“Visitors should remain behind the safety line.” fits the meaning and the language clue in this example. The modal wording matches the degree of certainty or obligation justified by the situation.",
       "hint": "Decide whether the sentence expresses certainty or obligation, then match its force to the evidence or risk."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9e5la09-p-014",
+    "id": "AC9E5LA09-P-009",
     "curriculum_code": "AC9E5LA09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "cautious_recommendation",
-    "question": "Which sentence uses modality most appropriately for cautious recommendation in a book discussion?",
-    "audio_prompt": "Which sentence uses modality most appropriately for cautious recommendation in a book discussion?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-p-014",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a book discussion. A three-part modality-scale guide supports the question."
-    },
+    "question": "Which option matches what is happening? Which sentence uses modality most appropriately for cautious recommendation in a music rehearsal?",
+    "audio_prompt": "Which option matches what is happening? Which sentence uses modality most appropriately for cautious recommendation in a music rehearsal?",
     "answers": [
       {
         "text": "The council must instantly accept the only perfect plan.",
@@ -505,27 +265,865 @@
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The modal wording matches the degree of certainty or obligation justified by the situation.",
+      "summary": "“The council could consider adding another crossing.” fits the meaning and the language clue in this example. The modal wording matches the degree of certainty or obligation justified by the situation.",
       "hint": "Decide whether the sentence expresses certainty or obligation, then match its force to the evidence or risk."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9e5la09-p-015",
+    "id": "AC9E5LA09-P-010",
     "curriculum_code": "AC9E5LA09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "skill": "urgent_obligation",
-    "question": "Which sentence uses modality most appropriately for urgent obligation in a sports report?",
-    "audio_prompt": "Which sentence uses modality most appropriately for urgent obligation in a sports report?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-p-015",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a sports report. A three-part modality-scale guide supports the question."
-    },
+    "stage": "recognise",
+    "skill": "limited_evidence",
+    "question": "Use the details in the example. Which sentence uses modality most appropriately for limited evidence in a weather presentation?",
+    "audio_prompt": "Use the details in the example. Which sentence uses modality most appropriately for limited evidence in a weather presentation?",
     "answers": [
+      {
+        "text": "The pattern certainly proves this for every place.",
+        "is_correct": false
+      },
+      {
+        "text": "The pattern must force everyone to agree.",
+        "is_correct": false
+      },
+      {
+        "text": "The pattern may suggest that shade reduced evaporation.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“The pattern may suggest that shade reduced evaporation.” fits the meaning and the language clue in this example. The modal wording matches the degree of certainty or obligation justified by the situation.",
+      "hint": "Decide whether the sentence expresses certainty or obligation, then match its force to the evidence or risk."
+    }
+  },
+  {
+    "id": "AC9E5LA09-P-011",
+    "curriculum_code": "AC9E5LA09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "moderate_obligation",
+    "question": "Why is “Visitors should remain behind the safety line.” the strongest answer to this question: Which sentence uses modality most appropriately for moderate obligation in a football training?",
+    "audio_prompt": "Why is “Visitors should remain behind the safety line.” the strongest answer to this question: Which sentence uses modality most appropriately for moderate obligation in a football training?",
+    "answers": [
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      },
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The modal wording matches the degree of certainty or obligation justified by the situation.",
+      "hint": "Find the exact clue that makes “Visitors should remain behind the safety line.” fit."
+    }
+  },
+  {
+    "id": "AC9E5LA09-P-012",
+    "curriculum_code": "AC9E5LA09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "cautious_recommendation",
+    "question": "What makes “The council could consider adding another crossing.” work in this example? Which sentence uses modality most appropriately for cautious recommendation in a music rehearsal?",
+    "audio_prompt": "What makes “The council could consider adding another crossing.” work in this example? Which sentence uses modality most appropriately for cautious recommendation in a music rehearsal?",
+    "answers": [
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The modal wording matches the degree of certainty or obligation justified by the situation.",
+      "hint": "Find the exact clue that makes “The council could consider adding another crossing.” fit."
+    }
+  },
+  {
+    "id": "AC9E5LA09-P-013",
+    "curriculum_code": "AC9E5LA09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "limited_evidence",
+    "question": "Which reason best explains why “The pattern may suggest that shade reduced evaporation.” fits? Which sentence uses modality most appropriately for limited evidence in a weather presentation?",
+    "audio_prompt": "Which reason best explains why “The pattern may suggest that shade reduced evaporation.” fits? Which sentence uses modality most appropriately for limited evidence in a weather presentation?",
+    "answers": [
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      },
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The modal wording matches the degree of certainty or obligation justified by the situation.",
+      "hint": "Find the exact clue that makes “The pattern may suggest that shade reduced evaporation.” fit."
+    }
+  },
+  {
+    "id": "AC9E5LA09-P-014",
+    "curriculum_code": "AC9E5LA09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "strong_supporting_evidence",
+    "question": "How does “The repeated results strongly suggest a reliable difference.” match the meaning of this example? Which sentence uses modality most appropriately for strong supporting evidence in a class debate?",
+    "audio_prompt": "How does “The repeated results strongly suggest a reliable difference.” match the meaning of this example? Which sentence uses modality most appropriately for strong supporting evidence in a class debate?",
+    "answers": [
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      },
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The modal wording matches the degree of certainty or obligation justified by the situation.",
+      "hint": "Find the exact clue that makes “The repeated results strongly suggest a reliable difference.” fit."
+    }
+  },
+  {
+    "id": "AC9E5LA09-P-015",
+    "curriculum_code": "AC9E5LA09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "limited_evidence",
+    "question": "Why does “The pattern may suggest that shade reduced evaporation.” suit this situation better than the other choices? Which sentence uses modality most appropriately for limited evidence in a school assembly?",
+    "audio_prompt": "Why does “The pattern may suggest that shade reduced evaporation.” suit this situation better than the other choices? Which sentence uses modality most appropriately for limited evidence in a school assembly?",
+    "answers": [
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The modal wording matches the degree of certainty or obligation justified by the situation.",
+      "hint": "Find the exact clue that makes “The pattern may suggest that shade reduced evaporation.” fit."
+    }
+  },
+  {
+    "id": "AC9E5LA09-P-016",
+    "curriculum_code": "AC9E5LA09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "strong_supporting_evidence",
+    "question": "What clue in the example supports “The repeated results strongly suggest a reliable difference.”? Which sentence uses modality most appropriately for strong supporting evidence in a garden project?",
+    "audio_prompt": "What clue in the example supports “The repeated results strongly suggest a reliable difference.”? Which sentence uses modality most appropriately for strong supporting evidence in a garden project?",
+    "answers": [
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      },
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The modal wording matches the degree of certainty or obligation justified by the situation.",
+      "hint": "Find the exact clue that makes “The repeated results strongly suggest a reliable difference.” fit."
+    }
+  },
+  {
+    "id": "AC9E5LA09-P-017",
+    "curriculum_code": "AC9E5LA09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "urgent_obligation",
+    "question": "Which explanation shows why “The loose railing must be repaired before the area reopens.” is correct here? Which sentence uses modality most appropriately for urgent obligation in a peer conference?",
+    "audio_prompt": "Which explanation shows why “The loose railing must be repaired before the area reopens.” is correct here? Which sentence uses modality most appropriately for urgent obligation in a peer conference?",
+    "answers": [
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      },
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The modal wording matches the degree of certainty or obligation justified by the situation.",
+      "hint": "Find the exact clue that makes “The loose railing must be repaired before the area reopens.” fit."
+    }
+  },
+  {
+    "id": "AC9E5LA09-P-018",
+    "curriculum_code": "AC9E5LA09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "strong_supporting_evidence",
+    "question": "Why would “The repeated results strongly suggest a reliable difference.” make sense to a careful reader? Which sentence uses modality most appropriately for strong supporting evidence in a library help desk?",
+    "audio_prompt": "Why would “The repeated results strongly suggest a reliable difference.” make sense to a careful reader? Which sentence uses modality most appropriately for strong supporting evidence in a library help desk?",
+    "answers": [
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The modal wording matches the degree of certainty or obligation justified by the situation.",
+      "hint": "Find the exact clue that makes “The repeated results strongly suggest a reliable difference.” fit."
+    }
+  },
+  {
+    "id": "AC9E5LA09-P-019",
+    "curriculum_code": "AC9E5LA09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "urgent_obligation",
+    "question": "What is the best reason for choosing “The loose railing must be repaired before the area reopens.”? Which sentence uses modality most appropriately for urgent obligation in a student council?",
+    "audio_prompt": "What is the best reason for choosing “The loose railing must be repaired before the area reopens.”? Which sentence uses modality most appropriately for urgent obligation in a student council?",
+    "answers": [
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      },
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The modal wording matches the degree of certainty or obligation justified by the situation.",
+      "hint": "Find the exact clue that makes “The loose railing must be repaired before the area reopens.” fit."
+    }
+  },
+  {
+    "id": "AC9E5LA09-P-020",
+    "curriculum_code": "AC9E5LA09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "moderate_obligation",
+    "question": "Which explanation connects “Visitors should remain behind the safety line.” to the key clue? Which sentence uses modality most appropriately for moderate obligation in a camp planning?",
+    "audio_prompt": "Which explanation connects “Visitors should remain behind the safety line.” to the key clue? Which sentence uses modality most appropriately for moderate obligation in a camp planning?",
+    "answers": [
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      },
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The modal wording matches the degree of certainty or obligation justified by the situation.",
+      "hint": "Find the exact clue that makes “Visitors should remain behind the safety line.” fit."
+    }
+  },
+  {
+    "id": "AC9E5LA09-P-021",
+    "curriculum_code": "AC9E5LA09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "strong_supporting_evidence",
+    "question": "“The results perhaps prove absolutely everything.” might seem possible at first. What should you notice before answering this question: Which sentence uses modality most appropriately for strong supporting evidence in a library help desk?",
+    "audio_prompt": "“The results perhaps prove absolutely everything.” might seem possible at first. What should you notice before answering this question: Which sentence uses modality most appropriately for strong supporting evidence in a library help desk?",
+    "answers": [
+      {
+        "text": "Keep “The results perhaps prove absolutely everything.” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole example: “The repeated results strongly suggest a reliable difference.” matches the key clue, while “The results perhaps prove absolutely everything.” does not.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “The results perhaps prove absolutely everything.” fail and “The repeated results strongly suggest a reliable difference.” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LA09-P-022",
+    "curriculum_code": "AC9E5LA09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "urgent_obligation",
+    "question": "Why is “The loose railing may be admired before reopening.” not the best choice here? Which sentence uses modality most appropriately for urgent obligation in a student council?",
+    "audio_prompt": "Why is “The loose railing may be admired before reopening.” not the best choice here? Which sentence uses modality most appropriately for urgent obligation in a student council?",
+    "answers": [
+      {
+        "text": "Keep “The loose railing may be admired before reopening.” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole example: “The loose railing must be repaired before the area reopens.” matches the key clue, while “The loose railing may be admired before reopening.” does not.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “The loose railing may be admired before reopening.” fail and “The loose railing must be repaired before the area reopens.” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LA09-P-023",
+    "curriculum_code": "AC9E5LA09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "moderate_obligation",
+    "question": "Compare “Visitors might ignore every safety instruction.” with “Visitors should remain behind the safety line.”. What important difference matters in this example? Which sentence uses modality most appropriately for moderate obligation in a camp planning?",
+    "audio_prompt": "Compare “Visitors might ignore every safety instruction.” with “Visitors should remain behind the safety line.”. What important difference matters in this example? Which sentence uses modality most appropriately for moderate obligation in a camp planning?",
+    "answers": [
+      {
+        "text": "Check the whole example: “Visitors should remain behind the safety line.” matches the key clue, while “Visitors might ignore every safety instruction.” does not.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Visitors might ignore every safety instruction.” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “Visitors might ignore every safety instruction.” fail and “Visitors should remain behind the safety line.” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LA09-P-024",
+    "curriculum_code": "AC9E5LA09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "cautious_recommendation",
+    "question": "Which clue rules out “The council must instantly accept the only perfect plan.” in this situation? Which sentence uses modality most appropriately for cautious recommendation in a school excursion briefing?",
+    "audio_prompt": "Which clue rules out “The council must instantly accept the only perfect plan.” in this situation? Which sentence uses modality most appropriately for cautious recommendation in a school excursion briefing?",
+    "answers": [
+      {
+        "text": "Keep “The council must instantly accept the only perfect plan.” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole example: “The council could consider adding another crossing.” matches the key clue, while “The council must instantly accept the only perfect plan.” does not.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “The council must instantly accept the only perfect plan.” fail and “The council could consider adding another crossing.” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LA09-P-025",
+    "curriculum_code": "AC9E5LA09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "moderate_obligation",
+    "question": "A quick reader might choose “Visitors might ignore every safety instruction.”. What would a closer reading show? Which sentence uses modality most appropriately for moderate obligation in a art club?",
+    "audio_prompt": "A quick reader might choose “Visitors might ignore every safety instruction.”. What would a closer reading show? Which sentence uses modality most appropriately for moderate obligation in a art club?",
+    "answers": [
+      {
+        "text": "Keep “Visitors might ignore every safety instruction.” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole example: “Visitors should remain behind the safety line.” matches the key clue, while “Visitors might ignore every safety instruction.” does not.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “Visitors might ignore every safety instruction.” fail and “Visitors should remain behind the safety line.” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LA09-P-026",
+    "curriculum_code": "AC9E5LA09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "cautious_recommendation",
+    "question": "What makes “The council could consider adding another crossing.” more precise than “The council must instantly accept the only perfect plan.” here? Which sentence uses modality most appropriately for cautious recommendation in a book discussion?",
+    "audio_prompt": "What makes “The council could consider adding another crossing.” more precise than “The council must instantly accept the only perfect plan.” here? Which sentence uses modality most appropriately for cautious recommendation in a book discussion?",
+    "answers": [
+      {
+        "text": "Check the whole example: “The council could consider adding another crossing.” matches the key clue, while “The council must instantly accept the only perfect plan.” does not.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “The council must instantly accept the only perfect plan.” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “The council must instantly accept the only perfect plan.” fail and “The council could consider adding another crossing.” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LA09-P-027",
+    "curriculum_code": "AC9E5LA09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "limited_evidence",
+    "question": "Which detail helps you reject “The pattern certainly proves this for every place.”? Which sentence uses modality most appropriately for limited evidence in a history display?",
+    "audio_prompt": "Which detail helps you reject “The pattern certainly proves this for every place.”? Which sentence uses modality most appropriately for limited evidence in a history display?",
+    "answers": [
+      {
+        "text": "Keep “The pattern certainly proves this for every place.” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole example: “The pattern may suggest that shade reduced evaporation.” matches the key clue, while “The pattern certainly proves this for every place.” does not.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “The pattern certainly proves this for every place.” fail and “The pattern may suggest that shade reduced evaporation.” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LA09-P-028",
+    "curriculum_code": "AC9E5LA09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "cautious_recommendation",
+    "question": "What is the problem with choosing “The council must instantly accept the only perfect plan.” for this example? Which sentence uses modality most appropriately for cautious recommendation in a family picnic?",
+    "audio_prompt": "What is the problem with choosing “The council must instantly accept the only perfect plan.” for this example? Which sentence uses modality most appropriately for cautious recommendation in a family picnic?",
+    "answers": [
+      {
+        "text": "Keep “The council must instantly accept the only perfect plan.” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole example: “The council could consider adding another crossing.” matches the key clue, while “The council must instantly accept the only perfect plan.” does not.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “The council must instantly accept the only perfect plan.” fail and “The council could consider adding another crossing.” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LA09-P-029",
+    "curriculum_code": "AC9E5LA09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "limited_evidence",
+    "question": "Which comparison best separates “The pattern may suggest that shade reduced evaporation.” from “The pattern certainly proves this for every place.”? Which sentence uses modality most appropriately for limited evidence in a museum visit?",
+    "audio_prompt": "Which comparison best separates “The pattern may suggest that shade reduced evaporation.” from “The pattern certainly proves this for every place.”? Which sentence uses modality most appropriately for limited evidence in a museum visit?",
+    "answers": [
+      {
+        "text": "Check the whole example: “The pattern may suggest that shade reduced evaporation.” matches the key clue, while “The pattern certainly proves this for every place.” does not.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “The pattern certainly proves this for every place.” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “The pattern certainly proves this for every place.” fail and “The pattern may suggest that shade reduced evaporation.” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LA09-P-030",
+    "curriculum_code": "AC9E5LA09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "strong_supporting_evidence",
+    "question": "What should you check so you do not confuse “The results perhaps prove absolutely everything.” with the correct answer? Which sentence uses modality most appropriately for strong supporting evidence in a robotics team?",
+    "audio_prompt": "What should you check so you do not confuse “The results perhaps prove absolutely everything.” with the correct answer? Which sentence uses modality most appropriately for strong supporting evidence in a robotics team?",
+    "answers": [
+      {
+        "text": "Keep “The results perhaps prove absolutely everything.” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole example: “The repeated results strongly suggest a reliable difference.” matches the key clue, while “The results perhaps prove absolutely everything.” does not.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “The results perhaps prove absolutely everything.” fail and “The repeated results strongly suggest a reliable difference.” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LA09-P-031",
+    "curriculum_code": "AC9E5LA09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "cautious_recommendation",
+    "question": "Apply what you know to this example: Which sentence uses modality most appropriately for cautious recommendation in a family picnic?",
+    "audio_prompt": "Apply what you know to this example: Which sentence uses modality most appropriately for cautious recommendation in a family picnic?",
+    "answers": [
+      {
+        "text": "The council must instantly accept the only perfect plan.",
+        "is_correct": false
+      },
+      {
+        "text": "The council possibly has a crossing maybe.",
+        "is_correct": false
+      },
+      {
+        "text": "The council could consider adding another crossing.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“The council could consider adding another crossing.” fits the meaning and the language clue in this example. The modal wording matches the degree of certainty or obligation justified by the situation.",
+      "hint": "Decide whether the sentence expresses certainty or obligation, then match its force to the evidence or risk."
+    }
+  },
+  {
+    "id": "AC9E5LA09-P-032",
+    "curriculum_code": "AC9E5LA09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "limited_evidence",
+    "question": "Use the skill independently. Which sentence uses modality most appropriately for limited evidence in a museum visit?",
+    "audio_prompt": "Use the skill independently. Which sentence uses modality most appropriately for limited evidence in a museum visit?",
+    "answers": [
+      {
+        "text": "The pattern may suggest that shade reduced evaporation.",
+        "is_correct": true
+      },
+      {
+        "text": "The pattern certainly proves this for every place.",
+        "is_correct": false
+      },
+      {
+        "text": "The pattern must force everyone to agree.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“The pattern may suggest that shade reduced evaporation.” fits the meaning and the language clue in this example. The modal wording matches the degree of certainty or obligation justified by the situation.",
+      "hint": "Decide whether the sentence expresses certainty or obligation, then match its force to the evidence or risk."
+    }
+  },
+  {
+    "id": "AC9E5LA09-P-033",
+    "curriculum_code": "AC9E5LA09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "strong_supporting_evidence",
+    "question": "Work out the answer from the details given. Which sentence uses modality most appropriately for strong supporting evidence in a robotics team?",
+    "audio_prompt": "Work out the answer from the details given. Which sentence uses modality most appropriately for strong supporting evidence in a robotics team?",
+    "answers": [
+      {
+        "text": "The results perhaps prove absolutely everything.",
+        "is_correct": false
+      },
+      {
+        "text": "The repeated results strongly suggest a reliable difference.",
+        "is_correct": true
+      },
+      {
+        "text": "The results feel wonderfully correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“The repeated results strongly suggest a reliable difference.” fits the meaning and the language clue in this example. The modal wording matches the degree of certainty or obligation justified by the situation.",
+      "hint": "Decide whether the sentence expresses certainty or obligation, then match its force to the evidence or risk."
+    }
+  },
+  {
+    "id": "AC9E5LA09-P-034",
+    "curriculum_code": "AC9E5LA09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "limited_evidence",
+    "question": "Now use the idea in context. Which sentence uses modality most appropriately for limited evidence in a class meeting?",
+    "audio_prompt": "Now use the idea in context. Which sentence uses modality most appropriately for limited evidence in a class meeting?",
+    "answers": [
+      {
+        "text": "The pattern certainly proves this for every place.",
+        "is_correct": false
+      },
+      {
+        "text": "The pattern must force everyone to agree.",
+        "is_correct": false
+      },
+      {
+        "text": "The pattern may suggest that shade reduced evaporation.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“The pattern may suggest that shade reduced evaporation.” fits the meaning and the language clue in this example. The modal wording matches the degree of certainty or obligation justified by the situation.",
+      "hint": "Decide whether the sentence expresses certainty or obligation, then match its force to the evidence or risk."
+    }
+  },
+  {
+    "id": "AC9E5LA09-P-035",
+    "curriculum_code": "AC9E5LA09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "strong_supporting_evidence",
+    "question": "Choose carefully using meaning, not just a familiar word. Which sentence uses modality most appropriately for strong supporting evidence in a neighbourhood clean-up?",
+    "audio_prompt": "Choose carefully using meaning, not just a familiar word. Which sentence uses modality most appropriately for strong supporting evidence in a neighbourhood clean-up?",
+    "answers": [
+      {
+        "text": "The repeated results strongly suggest a reliable difference.",
+        "is_correct": true
+      },
+      {
+        "text": "The results perhaps prove absolutely everything.",
+        "is_correct": false
+      },
+      {
+        "text": "The results feel wonderfully correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“The repeated results strongly suggest a reliable difference.” fits the meaning and the language clue in this example. The modal wording matches the degree of certainty or obligation justified by the situation.",
+      "hint": "Decide whether the sentence expresses certainty or obligation, then match its force to the evidence or risk."
+    }
+  },
+  {
+    "id": "AC9E5LA09-P-036",
+    "curriculum_code": "AC9E5LA09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "urgent_obligation",
+    "question": "Which answer still works when you consider the whole example? Which sentence uses modality most appropriately for urgent obligation in a sports report?",
+    "audio_prompt": "Which answer still works when you consider the whole example? Which sentence uses modality most appropriately for urgent obligation in a sports report?",
+    "answers": [
+      {
+        "text": "The loose railing may be admired before reopening.",
+        "is_correct": false
+      },
+      {
+        "text": "The loose railing must be repaired before the area reopens.",
+        "is_correct": true
+      },
+      {
+        "text": "The railing probably feels repaired already.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“The loose railing must be repaired before the area reopens.” fits the meaning and the language clue in this example. The modal wording matches the degree of certainty or obligation justified by the situation.",
+      "hint": "Decide whether the sentence expresses certainty or obligation, then match its force to the evidence or risk."
+    }
+  },
+  {
+    "id": "AC9E5LA09-P-037",
+    "curriculum_code": "AC9E5LA09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "moderate_obligation",
+    "question": "Use all the clues in this situation. Which sentence uses modality most appropriately for moderate obligation in a fundraising stall?",
+    "audio_prompt": "Use all the clues in this situation. Which sentence uses modality most appropriately for moderate obligation in a fundraising stall?",
+    "answers": [
+      {
+        "text": "Visitors might ignore every safety instruction.",
+        "is_correct": false
+      },
+      {
+        "text": "Visitors certainly are the safety line.",
+        "is_correct": false
+      },
+      {
+        "text": "Visitors should remain behind the safety line.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“Visitors should remain behind the safety line.” fits the meaning and the language clue in this example. The modal wording matches the degree of certainty or obligation justified by the situation.",
+      "hint": "Decide whether the sentence expresses certainty or obligation, then match its force to the evidence or risk."
+    }
+  },
+  {
+    "id": "AC9E5LA09-P-038",
+    "curriculum_code": "AC9E5LA09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "urgent_obligation",
+    "question": "Decide which option is most precise. Which sentence uses modality most appropriately for urgent obligation in a science group?",
+    "audio_prompt": "Decide which option is most precise. Which sentence uses modality most appropriately for urgent obligation in a science group?",
+    "answers": [
+      {
+        "text": "The loose railing must be repaired before the area reopens.",
+        "is_correct": true
+      },
       {
         "text": "The loose railing may be admired before reopening.",
         "is_correct": false
@@ -533,70 +1131,24 @@
       {
         "text": "The railing probably feels repaired already.",
         "is_correct": false
-      },
-      {
-        "text": "The loose railing must be repaired before the area reopens.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The modal wording matches the degree of certainty or obligation justified by the situation.",
-      "hint": "Decide whether the sentence expresses certainty or obligation, then match its force to the evidence or risk."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9e5la09-p-016",
-    "curriculum_code": "AC9E5LA09",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "limited_evidence",
-    "question": "Which sentence uses modality most appropriately for limited evidence in a weather presentation?",
-    "audio_prompt": "Which sentence uses modality most appropriately for limited evidence in a weather presentation?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-p-016",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a weather presentation. A three-part modality-scale guide supports the question."
-    },
-    "answers": [
-      {
-        "text": "The pattern may suggest that shade reduced evaporation.",
-        "is_correct": true
-      },
-      {
-        "text": "The pattern certainly proves this for every place.",
-        "is_correct": false
-      },
-      {
-        "text": "The pattern must force everyone to agree.",
-        "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The modal wording matches the degree of certainty or obligation justified by the situation.",
+      "summary": "“The loose railing must be repaired before the area reopens.” fits the meaning and the language clue in this example. The modal wording matches the degree of certainty or obligation justified by the situation.",
       "hint": "Decide whether the sentence expresses certainty or obligation, then match its force to the evidence or risk."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9e5la09-p-017",
+    "id": "AC9E5LA09-P-039",
     "curriculum_code": "AC9E5LA09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
+    "stage": "apply",
     "skill": "moderate_obligation",
-    "question": "Which sentence uses modality most appropriately for moderate obligation in a camp planning?",
-    "audio_prompt": "Which sentence uses modality most appropriately for moderate obligation in a camp planning?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-p-017",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a camp planning. A three-part modality-scale guide supports the question."
-    },
+    "question": "Which choice best shows your understanding here? Which sentence uses modality most appropriately for moderate obligation in a cooking lesson?",
+    "audio_prompt": "Which choice best shows your understanding here? Which sentence uses modality most appropriately for moderate obligation in a cooking lesson?",
     "answers": [
       {
         "text": "Visitors might ignore every safety instruction.",
@@ -613,242 +1165,20 @@
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The modal wording matches the degree of certainty or obligation justified by the situation.",
+      "summary": "“Visitors should remain behind the safety line.” fits the meaning and the language clue in this example. The modal wording matches the degree of certainty or obligation justified by the situation.",
       "hint": "Decide whether the sentence expresses certainty or obligation, then match its force to the evidence or risk."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9e5la09-p-018",
+    "id": "AC9E5LA09-P-040",
     "curriculum_code": "AC9E5LA09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "skill": "strong_supporting_evidence",
-    "question": "Which sentence uses modality most appropriately for strong supporting evidence in a robotics team?",
-    "audio_prompt": "Which sentence uses modality most appropriately for strong supporting evidence in a robotics team?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-p-018",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a robotics team. A three-part modality-scale guide supports the question."
-    },
-    "answers": [
-      {
-        "text": "The results perhaps prove absolutely everything.",
-        "is_correct": false
-      },
-      {
-        "text": "The results feel wonderfully correct.",
-        "is_correct": false
-      },
-      {
-        "text": "The repeated results strongly suggest a reliable difference.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The modal wording matches the degree of certainty or obligation justified by the situation.",
-      "hint": "Decide whether the sentence expresses certainty or obligation, then match its force to the evidence or risk."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9e5la09-p-019",
-    "curriculum_code": "AC9E5LA09",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
+    "stage": "apply",
     "skill": "cautious_recommendation",
-    "question": "Which sentence uses modality most appropriately for cautious recommendation in a school newsletter?",
-    "audio_prompt": "Which sentence uses modality most appropriately for cautious recommendation in a school newsletter?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-p-019",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a school newsletter. A three-part modality-scale guide supports the question."
-    },
-    "answers": [
-      {
-        "text": "The council could consider adding another crossing.",
-        "is_correct": true
-      },
-      {
-        "text": "The council must instantly accept the only perfect plan.",
-        "is_correct": false
-      },
-      {
-        "text": "The council possibly has a crossing maybe.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The modal wording matches the degree of certainty or obligation justified by the situation.",
-      "hint": "Decide whether the sentence expresses certainty or obligation, then match its force to the evidence or risk."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9e5la09-p-020",
-    "curriculum_code": "AC9E5LA09",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "urgent_obligation",
-    "question": "Which sentence uses modality most appropriately for urgent obligation in a peer conference?",
-    "audio_prompt": "Which sentence uses modality most appropriately for urgent obligation in a peer conference?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-p-020",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a peer conference. A three-part modality-scale guide supports the question."
-    },
-    "answers": [
-      {
-        "text": "The loose railing may be admired before reopening.",
-        "is_correct": false
-      },
-      {
-        "text": "The loose railing must be repaired before the area reopens.",
-        "is_correct": true
-      },
-      {
-        "text": "The railing probably feels repaired already.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The modal wording matches the degree of certainty or obligation justified by the situation.",
-      "hint": "Decide whether the sentence expresses certainty or obligation, then match its force to the evidence or risk."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9e5la09-p-021",
-    "curriculum_code": "AC9E5LA09",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "limited_evidence",
-    "question": "Which sentence uses modality most appropriately for limited evidence in a history display?",
-    "audio_prompt": "Which sentence uses modality most appropriately for limited evidence in a history display?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-p-021",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a history display. A three-part modality-scale guide supports the question."
-    },
-    "answers": [
-      {
-        "text": "The pattern certainly proves this for every place.",
-        "is_correct": false
-      },
-      {
-        "text": "The pattern must force everyone to agree.",
-        "is_correct": false
-      },
-      {
-        "text": "The pattern may suggest that shade reduced evaporation.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The modal wording matches the degree of certainty or obligation justified by the situation.",
-      "hint": "Decide whether the sentence expresses certainty or obligation, then match its force to the evidence or risk."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9e5la09-p-022",
-    "curriculum_code": "AC9E5LA09",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "moderate_obligation",
-    "question": "Which sentence uses modality most appropriately for moderate obligation in a fundraising stall?",
-    "audio_prompt": "Which sentence uses modality most appropriately for moderate obligation in a fundraising stall?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-p-022",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a fundraising stall. A three-part modality-scale guide supports the question."
-    },
-    "answers": [
-      {
-        "text": "Visitors should remain behind the safety line.",
-        "is_correct": true
-      },
-      {
-        "text": "Visitors might ignore every safety instruction.",
-        "is_correct": false
-      },
-      {
-        "text": "Visitors certainly are the safety line.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The modal wording matches the degree of certainty or obligation justified by the situation.",
-      "hint": "Decide whether the sentence expresses certainty or obligation, then match its force to the evidence or risk."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9e5la09-p-023",
-    "curriculum_code": "AC9E5LA09",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "strong_supporting_evidence",
-    "question": "Which sentence uses modality most appropriately for strong supporting evidence in a class debate?",
-    "audio_prompt": "Which sentence uses modality most appropriately for strong supporting evidence in a class debate?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-p-023",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a class debate. A three-part modality-scale guide supports the question."
-    },
-    "answers": [
-      {
-        "text": "The results perhaps prove absolutely everything.",
-        "is_correct": false
-      },
-      {
-        "text": "The repeated results strongly suggest a reliable difference.",
-        "is_correct": true
-      },
-      {
-        "text": "The results feel wonderfully correct.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The modal wording matches the degree of certainty or obligation justified by the situation.",
-      "hint": "Decide whether the sentence expresses certainty or obligation, then match its force to the evidence or risk."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9e5la09-p-024",
-    "curriculum_code": "AC9E5LA09",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "cautious_recommendation",
-    "question": "Which sentence uses modality most appropriately for cautious recommendation in a school excursion briefing?",
-    "audio_prompt": "Which sentence uses modality most appropriately for cautious recommendation in a school excursion briefing?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-p-024",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a school excursion briefing. A three-part modality-scale guide supports the question."
-    },
+    "question": "Read the full example before deciding. Which sentence uses modality most appropriately for cautious recommendation in a school newsletter?",
+    "audio_prompt": "Read the full example before deciding. Which sentence uses modality most appropriately for cautious recommendation in a school newsletter?",
     "answers": [
       {
         "text": "The council must instantly accept the only perfect plan.",
@@ -865,26 +1195,20 @@
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The modal wording matches the degree of certainty or obligation justified by the situation.",
+      "summary": "“The council could consider adding another crossing.” fits the meaning and the language clue in this example. The modal wording matches the degree of certainty or obligation justified by the situation.",
       "hint": "Decide whether the sentence expresses certainty or obligation, then match its force to the evidence or risk."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9e5la09-t-001",
+    "id": "AC9E5LA09-T-001",
     "curriculum_code": "AC9E5LA09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
     "skill": "urgent_obligation",
     "question": "Which sentence uses modality most appropriately for urgent obligation in a community radio interview?",
     "audio_prompt": "Which sentence uses modality most appropriately for urgent obligation in a community radio interview?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-001",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a community radio interview. A three-part modality-scale guide supports the question."
-    },
     "answers": [
       {
         "text": "The loose railing must be repaired before the area reopens.",
@@ -906,19 +1230,15 @@
     }
   },
   {
-    "id": "ac9e5la09-t-002",
+    "id": "AC9E5LA09-T-002",
     "curriculum_code": "AC9E5LA09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
     "skill": "limited_evidence",
-    "question": "Which sentence uses modality most appropriately for limited evidence in a wildlife rescue report?",
-    "audio_prompt": "Which sentence uses modality most appropriately for limited evidence in a wildlife rescue report?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-002",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a wildlife rescue report. A three-part modality-scale guide supports the question."
-    },
+    "question": "Read this new example closely. Which sentence uses modality most appropriately for limited evidence in a wildlife rescue report?",
+    "audio_prompt": "Read this new example closely. Which sentence uses modality most appropriately for limited evidence in a wildlife rescue report?",
     "answers": [
       {
         "text": "The pattern certainly proves this for every place.",
@@ -940,19 +1260,15 @@
     }
   },
   {
-    "id": "ac9e5la09-t-003",
+    "id": "AC9E5LA09-T-003",
     "curriculum_code": "AC9E5LA09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
     "skill": "moderate_obligation",
-    "question": "Which sentence uses modality most appropriately for moderate obligation in a town planning forum?",
-    "audio_prompt": "Which sentence uses modality most appropriately for moderate obligation in a town planning forum?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-003",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a town planning forum. A three-part modality-scale guide supports the question."
-    },
+    "question": "Which answer is most accurate here? Which sentence uses modality most appropriately for moderate obligation in a town planning forum?",
+    "audio_prompt": "Which answer is most accurate here? Which sentence uses modality most appropriately for moderate obligation in a town planning forum?",
     "answers": [
       {
         "text": "Visitors might ignore every safety instruction.",
@@ -974,19 +1290,15 @@
     }
   },
   {
-    "id": "ac9e5la09-t-004",
+    "id": "AC9E5LA09-T-004",
     "curriculum_code": "AC9E5LA09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
     "skill": "strong_supporting_evidence",
-    "question": "Which sentence uses modality most appropriately for strong supporting evidence in a aquarium information panel?",
-    "audio_prompt": "Which sentence uses modality most appropriately for strong supporting evidence in a aquarium information panel?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-004",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a aquarium information panel. A three-part modality-scale guide supports the question."
-    },
+    "question": "Use the details in this new situation. Which sentence uses modality most appropriately for strong supporting evidence in a aquarium information panel?",
+    "audio_prompt": "Use the details in this new situation. Which sentence uses modality most appropriately for strong supporting evidence in a aquarium information panel?",
     "answers": [
       {
         "text": "The repeated results strongly suggest a reliable difference.",
@@ -1008,19 +1320,15 @@
     }
   },
   {
-    "id": "ac9e5la09-t-005",
+    "id": "AC9E5LA09-T-005",
     "curriculum_code": "AC9E5LA09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
     "skill": "cautious_recommendation",
-    "question": "Which sentence uses modality most appropriately for cautious recommendation in a youth theatre rehearsal?",
-    "audio_prompt": "Which sentence uses modality most appropriately for cautious recommendation in a youth theatre rehearsal?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-005",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a youth theatre rehearsal. A three-part modality-scale guide supports the question."
-    },
+    "question": "Choose the answer supported by the whole example. Which sentence uses modality most appropriately for cautious recommendation in a youth theatre rehearsal?",
+    "audio_prompt": "Choose the answer supported by the whole example. Which sentence uses modality most appropriately for cautious recommendation in a youth theatre rehearsal?",
     "answers": [
       {
         "text": "The council must instantly accept the only perfect plan.",
@@ -1042,19 +1350,15 @@
     }
   },
   {
-    "id": "ac9e5la09-t-006",
+    "id": "AC9E5LA09-T-006",
     "curriculum_code": "AC9E5LA09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
     "skill": "urgent_obligation",
-    "question": "Which sentence uses modality most appropriately for urgent obligation in a local history podcast?",
-    "audio_prompt": "Which sentence uses modality most appropriately for urgent obligation in a local history podcast?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-006",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a local history podcast. A three-part modality-scale guide supports the question."
-    },
+    "question": "Which option best fits the meaning? Which sentence uses modality most appropriately for urgent obligation in a local history podcast?",
+    "audio_prompt": "Which option best fits the meaning? Which sentence uses modality most appropriately for urgent obligation in a local history podcast?",
     "answers": [
       {
         "text": "The loose railing may be admired before reopening.",
@@ -1076,19 +1380,15 @@
     }
   },
   {
-    "id": "ac9e5la09-t-007",
+    "id": "AC9E5LA09-T-007",
     "curriculum_code": "AC9E5LA09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
     "skill": "limited_evidence",
-    "question": "Which sentence uses modality most appropriately for limited evidence in a water-saving campaign?",
-    "audio_prompt": "Which sentence uses modality most appropriately for limited evidence in a water-saving campaign?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-007",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a water-saving campaign. A three-part modality-scale guide supports the question."
-    },
+    "question": "Work this out independently. Which sentence uses modality most appropriately for limited evidence in a water-saving campaign?",
+    "audio_prompt": "Work this out independently. Which sentence uses modality most appropriately for limited evidence in a water-saving campaign?",
     "answers": [
       {
         "text": "The pattern may suggest that shade reduced evaporation.",
@@ -1110,19 +1410,15 @@
     }
   },
   {
-    "id": "ac9e5la09-t-008",
+    "id": "AC9E5LA09-T-008",
     "curriculum_code": "AC9E5LA09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
     "skill": "moderate_obligation",
-    "question": "Which sentence uses modality most appropriately for moderate obligation in a cycling safety workshop?",
-    "audio_prompt": "Which sentence uses modality most appropriately for moderate obligation in a cycling safety workshop?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-008",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a cycling safety workshop. A three-part modality-scale guide supports the question."
-    },
+    "question": "What is the best answer in this context? Which sentence uses modality most appropriately for moderate obligation in a cycling safety workshop?",
+    "audio_prompt": "What is the best answer in this context? Which sentence uses modality most appropriately for moderate obligation in a cycling safety workshop?",
     "answers": [
       {
         "text": "Visitors might ignore every safety instruction.",
@@ -1144,19 +1440,15 @@
     }
   },
   {
-    "id": "ac9e5la09-t-009",
+    "id": "AC9E5LA09-T-009",
     "curriculum_code": "AC9E5LA09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "apply",
     "skill": "strong_supporting_evidence",
-    "question": "Which sentence uses modality most appropriately for strong supporting evidence in a festival program?",
-    "audio_prompt": "Which sentence uses modality most appropriately for strong supporting evidence in a festival program?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-009",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a festival program. A three-part modality-scale guide supports the question."
-    },
+    "question": "Which choice is supported by the evidence given? Which sentence uses modality most appropriately for strong supporting evidence in a festival program?",
+    "audio_prompt": "Which choice is supported by the evidence given? Which sentence uses modality most appropriately for strong supporting evidence in a festival program?",
     "answers": [
       {
         "text": "The results perhaps prove absolutely everything.",
@@ -1178,19 +1470,15 @@
     }
   },
   {
-    "id": "ac9e5la09-t-010",
+    "id": "AC9E5LA09-T-010",
     "curriculum_code": "AC9E5LA09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "apply",
     "skill": "cautious_recommendation",
-    "question": "Which sentence uses modality most appropriately for cautious recommendation in a marine research log?",
-    "audio_prompt": "Which sentence uses modality most appropriately for cautious recommendation in a marine research log?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-010",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a marine research log. A three-part modality-scale guide supports the question."
-    },
+    "question": "Read for meaning before you choose. Which sentence uses modality most appropriately for cautious recommendation in a marine research log?",
+    "audio_prompt": "Read for meaning before you choose. Which sentence uses modality most appropriately for cautious recommendation in a marine research log?",
     "answers": [
       {
         "text": "The council could consider adding another crossing.",
@@ -1212,19 +1500,15 @@
     }
   },
   {
-    "id": "ac9e5la09-t-011",
+    "id": "AC9E5LA09-T-011",
     "curriculum_code": "AC9E5LA09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "apply",
     "skill": "urgent_obligation",
-    "question": "Which sentence uses modality most appropriately for urgent obligation in a public transport survey?",
-    "audio_prompt": "Which sentence uses modality most appropriately for urgent obligation in a public transport survey?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-011",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a public transport survey. A three-part modality-scale guide supports the question."
-    },
+    "question": "Which option is the most precise? Which sentence uses modality most appropriately for urgent obligation in a public transport survey?",
+    "audio_prompt": "Which option is the most precise? Which sentence uses modality most appropriately for urgent obligation in a public transport survey?",
     "answers": [
       {
         "text": "The loose railing may be admired before reopening.",
@@ -1246,19 +1530,15 @@
     }
   },
   {
-    "id": "ac9e5la09-t-012",
+    "id": "AC9E5LA09-T-012",
     "curriculum_code": "AC9E5LA09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "apply",
     "skill": "limited_evidence",
-    "question": "Which sentence uses modality most appropriately for limited evidence in a heritage walk brochure?",
-    "audio_prompt": "Which sentence uses modality most appropriately for limited evidence in a heritage walk brochure?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-012",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a heritage walk brochure. A three-part modality-scale guide supports the question."
-    },
+    "question": "Use every clue in the example. Which sentence uses modality most appropriately for limited evidence in a heritage walk brochure?",
+    "audio_prompt": "Use every clue in the example. Which sentence uses modality most appropriately for limited evidence in a heritage walk brochure?",
     "answers": [
       {
         "text": "The pattern certainly proves this for every place.",
@@ -1280,19 +1560,15 @@
     }
   },
   {
-    "id": "ac9e5la09-t-013",
+    "id": "AC9E5LA09-T-013",
     "curriculum_code": "AC9E5LA09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "apply",
     "skill": "moderate_obligation",
-    "question": "Which sentence uses modality most appropriately for moderate obligation in a emergency drill briefing?",
-    "audio_prompt": "Which sentence uses modality most appropriately for moderate obligation in a emergency drill briefing?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-013",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a emergency drill briefing. A three-part modality-scale guide supports the question."
-    },
+    "question": "Which answer holds up when you check the full context? Which sentence uses modality most appropriately for moderate obligation in a emergency drill briefing?",
+    "audio_prompt": "Which answer holds up when you check the full context? Which sentence uses modality most appropriately for moderate obligation in a emergency drill briefing?",
     "answers": [
       {
         "text": "Visitors should remain behind the safety line.",
@@ -1314,19 +1590,15 @@
     }
   },
   {
-    "id": "ac9e5la09-t-014",
+    "id": "AC9E5LA09-T-014",
     "curriculum_code": "AC9E5LA09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "apply",
     "skill": "strong_supporting_evidence",
-    "question": "Which sentence uses modality most appropriately for strong supporting evidence in a farmers market review?",
-    "audio_prompt": "Which sentence uses modality most appropriately for strong supporting evidence in a farmers market review?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-014",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a farmers market review. A three-part modality-scale guide supports the question."
-    },
+    "question": "Decide which option best matches what the text shows. Which sentence uses modality most appropriately for strong supporting evidence in a farmers market review?",
+    "audio_prompt": "Decide which option best matches what the text shows. Which sentence uses modality most appropriately for strong supporting evidence in a farmers market review?",
     "answers": [
       {
         "text": "The results perhaps prove absolutely everything.",
@@ -1348,19 +1620,15 @@
     }
   },
   {
-    "id": "ac9e5la09-t-015",
+    "id": "AC9E5LA09-T-015",
     "curriculum_code": "AC9E5LA09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "apply",
     "skill": "cautious_recommendation",
-    "question": "Which sentence uses modality most appropriately for cautious recommendation in a space exhibition talk?",
-    "audio_prompt": "Which sentence uses modality most appropriately for cautious recommendation in a space exhibition talk?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-015",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a space exhibition talk. A three-part modality-scale guide supports the question."
-    },
+    "question": "Which choice best demonstrates the skill in this new example? Which sentence uses modality most appropriately for cautious recommendation in a space exhibition talk?",
+    "audio_prompt": "Which choice best demonstrates the skill in this new example? Which sentence uses modality most appropriately for cautious recommendation in a space exhibition talk?",
     "answers": [
       {
         "text": "The council must instantly accept the only perfect plan.",
@@ -1382,19 +1650,15 @@
     }
   },
   {
-    "id": "ac9e5la09-t-016",
+    "id": "AC9E5LA09-T-016",
     "curriculum_code": "AC9E5LA09",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "apply",
     "skill": "urgent_obligation",
-    "question": "Which sentence uses modality most appropriately for urgent obligation in a river restoration proposal?",
-    "audio_prompt": "Which sentence uses modality most appropriately for urgent obligation in a river restoration proposal?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-016",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a river restoration proposal. A three-part modality-scale guide supports the question."
-    },
+    "question": "Make your final choice from the evidence in the question. Which sentence uses modality most appropriately for urgent obligation in a river restoration proposal?",
+    "audio_prompt": "Make your final choice from the evidence in the question. Which sentence uses modality most appropriately for urgent obligation in a river restoration proposal?",
     "answers": [
       {
         "text": "The loose railing must be repaired before the area reopens.",

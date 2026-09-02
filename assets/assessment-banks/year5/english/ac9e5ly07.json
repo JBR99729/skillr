@@ -1,547 +1,261 @@
 [
   {
-    "id": "ac9e5ly07-p-001",
+    "id": "AC9E5LY07-P-001",
     "curriculum_code": "AC9E5LY07",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "oral_and_multimodal_presentations",
     "question": "A student will explain why local frogs need healthy wetlands. Which visual best supports the spoken message?",
     "audio_prompt": "A student will explain why local frogs need healthy wetlands. Which visual best supports the spoken message?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly07.svg#ac9e5ly07-p-001",
-      "alt_text": "A presentation slide contains a wetland diagram with three concise labels. A three-part cards guide supports the question."
-    },
     "answers": [
+      {
+        "text": "a slide filled with the complete script",
+        "is_correct": false
+      },
+      {
+        "text": "an animated image unrelated to the ideas",
+        "is_correct": false
+      },
       {
         "text": "a wetland diagram with three concise labels",
         "is_correct": true
-      },
-      {
-        "text": "a slide filled with the complete script",
-        "is_correct": false
-      },
-      {
-        "text": "an animated image unrelated to the ideas",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The visual clarifies information while leaving the speaker to elaborate.",
-      "hint": "Choose a readable visual with a job the spoken words cannot do as efficiently."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9e5ly07-p-002",
-    "curriculum_code": "AC9E5LY07",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "oral_and_multimodal_presentations",
-    "question": "Which rehearsal adjustment best suits a presentation that will explain why local frogs need healthy wetlands?",
-    "audio_prompt": "Which rehearsal adjustment best suits a presentation that will explain why local frogs need healthy wetlands?",
-    "answers": [
-      {
-        "text": "Speak as quickly as possible throughout",
-        "is_correct": false
-      },
-      {
-        "text": "pause after each cause before explaining its effect",
-        "is_correct": true
-      },
-      {
-        "text": "Use maximum volume for every sentence",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Controlled delivery helps listeners process the intended meaning.",
-      "hint": "Match pace, pitch, tone and volume to the message and room."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9e5ly07-p-003",
-    "curriculum_code": "AC9E5LY07",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "oral_and_multimodal_presentations",
-    "question": "Which sequence best organises the key ideas when presenting to explain why local frogs need healthy wetlands?",
-    "audio_prompt": "Which sequence best organises the key ideas when presenting to explain why local frogs need healthy wetlands?",
-    "answers": [
-      {
-        "text": "unrelated details followed by a new topic",
-        "is_correct": false
-      },
-      {
-        "text": "the conclusion first with no explanation or evidence",
-        "is_correct": false
-      },
-      {
-        "text": "cause, evidence and consequence",
-        "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A clear sequence makes relationships audible to listeners.",
-      "hint": "Give each section one role and signpost movement between sections."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9e5ly07-p-004",
-    "curriculum_code": "AC9E5LY07",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "oral_and_multimodal_presentations",
-    "question": "A rehearsal for a talk that will explain why local frogs need healthy wetlands runs one minute over time. What is the best revision?",
-    "audio_prompt": "A rehearsal for a talk that will explain why local frogs need healthy wetlands runs one minute over time. What is the best revision?",
-    "answers": [
-      {
-        "text": "Keep the essential cause, evidence and consequence and remove repeated or minor detail",
-        "is_correct": true
-      },
-      {
-        "text": "Speak one minute faster without pausing",
-        "is_correct": false
-      },
-      {
-        "text": "Delete the evidence but keep every decoration",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Timing problems often reveal overloaded content that should be prioritised.",
-      "hint": "Protect the main idea, evidence and audience pathway."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9e5ly07-p-005",
-    "curriculum_code": "AC9E5LY07",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "oral_and_multimodal_presentations",
-    "question": "A student will persuade students to walk safely near the car park. Which visual best supports the spoken message?",
-    "audio_prompt": "A student will persuade students to walk safely near the car park. Which visual best supports the spoken message?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly07.svg#ac9e5ly07-p-005",
-      "alt_text": "A presentation slide contains a site map highlighting two danger points. A three-part cards guide supports the question."
-    },
-    "answers": [
-      {
-        "text": "a slide filled with the complete script",
-        "is_correct": false
-      },
-      {
-        "text": "a site map highlighting two danger points",
-        "is_correct": true
-      },
-      {
-        "text": "an animated image unrelated to the ideas",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The visual clarifies information while leaving the speaker to elaborate.",
+      "summary": "“a wetland diagram with three concise labels” fits the meaning and the language clue in this example. The visual clarifies information while leaving the speaker to elaborate.",
       "hint": "Choose a readable visual with a job the spoken words cannot do as efficiently."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9e5ly07-p-006",
+    "id": "AC9E5LY07-P-002",
     "curriculum_code": "AC9E5LY07",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "oral_and_multimodal_presentations",
-    "question": "Which rehearsal adjustment best suits a presentation that will persuade students to walk safely near the car park?",
-    "audio_prompt": "Which rehearsal adjustment best suits a presentation that will persuade students to walk safely near the car park?",
+    "question": "Read carefully: A rehearsal for a talk that will persuade students to walk safely near the car park runs one minute over time. What is the best revision?",
+    "audio_prompt": "Read carefully: A rehearsal for a talk that will persuade students to walk safely near the car park runs one minute over time. What is the best revision?",
     "answers": [
-      {
-        "text": "Speak as quickly as possible throughout",
-        "is_correct": false
-      },
-      {
-        "text": "Use maximum volume for every sentence",
-        "is_correct": false
-      },
-      {
-        "text": "use a firm, calm tone for the recommended actions",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Controlled delivery helps listeners process the intended meaning.",
-      "hint": "Match pace, pitch, tone and volume to the message and room."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9e5ly07-p-007",
-    "curriculum_code": "AC9E5LY07",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "oral_and_multimodal_presentations",
-    "question": "Which sequence best organises the key ideas when presenting to persuade students to walk safely near the car park?",
-    "audio_prompt": "Which sequence best organises the key ideas when presenting to persuade students to walk safely near the car park?",
-    "answers": [
-      {
-        "text": "problem, evidence and action",
-        "is_correct": true
-      },
-      {
-        "text": "unrelated details followed by a new topic",
-        "is_correct": false
-      },
-      {
-        "text": "the conclusion first with no explanation or evidence",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "A clear sequence makes relationships audible to listeners.",
-      "hint": "Give each section one role and signpost movement between sections."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9e5ly07-p-008",
-    "curriculum_code": "AC9E5LY07",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "oral_and_multimodal_presentations",
-    "question": "A rehearsal for a talk that will persuade students to walk safely near the car park runs one minute over time. What is the best revision?",
-    "audio_prompt": "A rehearsal for a talk that will persuade students to walk safely near the car park runs one minute over time. What is the best revision?",
-    "answers": [
-      {
-        "text": "Speak one minute faster without pausing",
-        "is_correct": false
-      },
       {
         "text": "Keep the essential problem, evidence and action and remove repeated or minor detail",
         "is_correct": true
       },
       {
-        "text": "Delete the evidence but keep every decoration",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Timing problems often reveal overloaded content that should be prioritised.",
-      "hint": "Protect the main idea, evidence and audience pathway."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9e5ly07-p-009",
-    "curriculum_code": "AC9E5LY07",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "oral_and_multimodal_presentations",
-    "question": "A student will report results from a bridge-building investigation. Which visual best supports the spoken message?",
-    "audio_prompt": "A student will report results from a bridge-building investigation. Which visual best supports the spoken message?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly07.svg#ac9e5ly07-p-009",
-      "alt_text": "A presentation slide contains a graph with labelled axes and units. A three-part cards guide supports the question."
-    },
-    "answers": [
-      {
-        "text": "a slide filled with the complete script",
-        "is_correct": false
-      },
-      {
-        "text": "an animated image unrelated to the ideas",
-        "is_correct": false
-      },
-      {
-        "text": "a graph with labelled axes and units",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The visual clarifies information while leaving the speaker to elaborate.",
-      "hint": "Choose a readable visual with a job the spoken words cannot do as efficiently."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9e5ly07-p-010",
-    "curriculum_code": "AC9E5LY07",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "oral_and_multimodal_presentations",
-    "question": "Which rehearsal adjustment best suits a presentation that will report results from a bridge-building investigation?",
-    "audio_prompt": "Which rehearsal adjustment best suits a presentation that will report results from a bridge-building investigation?",
-    "answers": [
-      {
-        "text": "slow slightly when interpreting the key result",
-        "is_correct": true
-      },
-      {
-        "text": "Speak as quickly as possible throughout",
-        "is_correct": false
-      },
-      {
-        "text": "Use maximum volume for every sentence",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Controlled delivery helps listeners process the intended meaning.",
-      "hint": "Match pace, pitch, tone and volume to the message and room."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9e5ly07-p-011",
-    "curriculum_code": "AC9E5LY07",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "oral_and_multimodal_presentations",
-    "question": "Which sequence best organises the key ideas when presenting to report results from a bridge-building investigation?",
-    "audio_prompt": "Which sequence best organises the key ideas when presenting to report results from a bridge-building investigation?",
-    "answers": [
-      {
-        "text": "unrelated details followed by a new topic",
-        "is_correct": false
-      },
-      {
-        "text": "method, result and interpretation",
-        "is_correct": true
-      },
-      {
-        "text": "the conclusion first with no explanation or evidence",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "A clear sequence makes relationships audible to listeners.",
-      "hint": "Give each section one role and signpost movement between sections."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9e5ly07-p-012",
-    "curriculum_code": "AC9E5LY07",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "oral_and_multimodal_presentations",
-    "question": "A rehearsal for a talk that will report results from a bridge-building investigation runs one minute over time. What is the best revision?",
-    "audio_prompt": "A rehearsal for a talk that will report results from a bridge-building investigation runs one minute over time. What is the best revision?",
-    "answers": [
-      {
         "text": "Speak one minute faster without pausing",
         "is_correct": false
       },
       {
         "text": "Delete the evidence but keep every decoration",
         "is_correct": false
-      },
-      {
-        "text": "Keep the essential method, result and interpretation and remove repeated or minor detail",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Timing problems often reveal overloaded content that should be prioritised.",
-      "hint": "Protect the main idea, evidence and audience pathway."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9e5ly07-p-013",
-    "curriculum_code": "AC9E5LY07",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "oral_and_multimodal_presentations",
-    "question": "A student will retell a historical event from two viewpoints. Which visual best supports the spoken message?",
-    "audio_prompt": "A student will retell a historical event from two viewpoints. Which visual best supports the spoken message?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly07.svg#ac9e5ly07-p-013",
-      "alt_text": "A presentation slide contains two images with short source captions. A three-part cards guide supports the question."
-    },
-    "answers": [
-      {
-        "text": "two images with short source captions",
-        "is_correct": true
-      },
-      {
-        "text": "a slide filled with the complete script",
-        "is_correct": false
-      },
-      {
-        "text": "an animated image unrelated to the ideas",
-        "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The visual clarifies information while leaving the speaker to elaborate.",
-      "hint": "Choose a readable visual with a job the spoken words cannot do as efficiently."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "“Keep the essential problem, evidence and action and remove repeated or minor detail” fits the meaning and the language clue in this example. Timing problems often reveal overloaded content that should be prioritised.",
+      "hint": "Protect the main idea, evidence and audience pathway."
+    }
   },
   {
-    "id": "ac9e5ly07-p-014",
+    "id": "AC9E5LY07-P-003",
     "curriculum_code": "AC9E5LY07",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "oral_and_multimodal_presentations",
-    "question": "Which rehearsal adjustment best suits a presentation that will retell a historical event from two viewpoints?",
-    "audio_prompt": "Which rehearsal adjustment best suits a presentation that will retell a historical event from two viewpoints?",
-    "answers": [
-      {
-        "text": "Speak as quickly as possible throughout",
-        "is_correct": false
-      },
-      {
-        "text": "change pitch subtly when shifting viewpoint",
-        "is_correct": true
-      },
-      {
-        "text": "Use maximum volume for every sentence",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Controlled delivery helps listeners process the intended meaning.",
-      "hint": "Match pace, pitch, tone and volume to the message and room."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9e5ly07-p-015",
-    "curriculum_code": "AC9E5LY07",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "oral_and_multimodal_presentations",
-    "question": "Which sequence best organises the key ideas when presenting to retell a historical event from two viewpoints?",
-    "audio_prompt": "Which sequence best organises the key ideas when presenting to retell a historical event from two viewpoints?",
+    "question": "Which answer makes the most sense here? Which sequence best organises the key ideas when presenting to retell a historical event from two viewpoints?",
+    "audio_prompt": "Which answer makes the most sense here? Which sequence best organises the key ideas when presenting to retell a historical event from two viewpoints?",
     "answers": [
       {
         "text": "unrelated details followed by a new topic",
-        "is_correct": false
-      },
-      {
-        "text": "the conclusion first with no explanation or evidence",
         "is_correct": false
       },
       {
         "text": "event, contrasting perspectives and reflection",
         "is_correct": true
+      },
+      {
+        "text": "the conclusion first with no explanation or evidence",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A clear sequence makes relationships audible to listeners.",
+      "summary": "“event, contrasting perspectives and reflection” fits the meaning and the language clue in this example. A clear sequence makes relationships audible to listeners.",
       "hint": "Give each section one role and signpost movement between sections."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
-    "id": "ac9e5ly07-p-016",
+    "id": "AC9E5LY07-P-004",
     "curriculum_code": "AC9E5LY07",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "oral_and_multimodal_presentations",
-    "question": "A rehearsal for a talk that will retell a historical event from two viewpoints runs one minute over time. What is the best revision?",
-    "audio_prompt": "A rehearsal for a talk that will retell a historical event from two viewpoints runs one minute over time. What is the best revision?",
+    "question": "Look at the wording and meaning. Which rehearsal adjustment best suits a presentation that will recommend a novel to the school book club?",
+    "audio_prompt": "Look at the wording and meaning. Which rehearsal adjustment best suits a presentation that will recommend a novel to the school book club?",
     "answers": [
       {
-        "text": "Keep the essential event, contrasting perspectives and reflection and remove repeated or minor detail",
+        "text": "Speak as quickly as possible throughout",
+        "is_correct": false
+      },
+      {
+        "text": "Use maximum volume for every sentence",
+        "is_correct": false
+      },
+      {
+        "text": "sound enthusiastic while keeping an even pace",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“sound enthusiastic while keeping an even pace” fits the meaning and the language clue in this example. Controlled delivery helps listeners process the intended meaning.",
+      "hint": "Match pace, pitch, tone and volume to the message and room."
+    }
+  },
+  {
+    "id": "AC9E5LY07-P-005",
+    "curriculum_code": "AC9E5LY07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "oral_and_multimodal_presentations",
+    "question": "Choose the option that fits the situation best. A student will persuade students to walk safely near the car park. Which visual best supports the spoken message?",
+    "audio_prompt": "Choose the option that fits the situation best. A student will persuade students to walk safely near the car park. Which visual best supports the spoken message?",
+    "answers": [
+      {
+        "text": "a site map highlighting two danger points",
         "is_correct": true
       },
       {
+        "text": "a slide filled with the complete script",
+        "is_correct": false
+      },
+      {
+        "text": "an animated image unrelated to the ideas",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“a site map highlighting two danger points” fits the meaning and the language clue in this example. The visual clarifies information while leaving the speaker to elaborate.",
+      "hint": "Choose a readable visual with a job the spoken words cannot do as efficiently."
+    }
+  },
+  {
+    "id": "AC9E5LY07-P-006",
+    "curriculum_code": "AC9E5LY07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "oral_and_multimodal_presentations",
+    "question": "Which choice is accurate in this example? A rehearsal for a talk that will report results from a bridge-building investigation runs one minute over time. What is the best revision?",
+    "audio_prompt": "Which choice is accurate in this example? A rehearsal for a talk that will report results from a bridge-building investigation runs one minute over time. What is the best revision?",
+    "answers": [
+      {
         "text": "Speak one minute faster without pausing",
         "is_correct": false
+      },
+      {
+        "text": "Keep the essential method, result and interpretation and remove repeated or minor detail",
+        "is_correct": true
       },
       {
         "text": "Delete the evidence but keep every decoration",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Timing problems often reveal overloaded content that should be prioritised.",
+      "summary": "“Keep the essential method, result and interpretation and remove repeated or minor detail” fits the meaning and the language clue in this example. Timing problems often reveal overloaded content that should be prioritised.",
       "hint": "Protect the main idea, evidence and audience pathway."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9e5ly07-p-017",
+    "id": "AC9E5LY07-P-007",
     "curriculum_code": "AC9E5LY07",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "oral_and_multimodal_presentations",
-    "question": "A student will teach younger students how to check online claims. Which visual best supports the spoken message?",
-    "audio_prompt": "A student will teach younger students how to check online claims. Which visual best supports the spoken message?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly07.svg#ac9e5ly07-p-017",
-      "alt_text": "A presentation slide contains three large verification icons. A three-part cards guide supports the question."
-    },
+    "question": "Focus on the key clue. Which sequence best organises the key ideas when presenting to teach younger students how to check online claims?",
+    "audio_prompt": "Focus on the key clue. Which sequence best organises the key ideas when presenting to teach younger students how to check online claims?",
+    "answers": [
+      {
+        "text": "unrelated details followed by a new topic",
+        "is_correct": false
+      },
+      {
+        "text": "the conclusion first with no explanation or evidence",
+        "is_correct": false
+      },
+      {
+        "text": "question, check and decide",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“question, check and decide” fits the meaning and the language clue in this example. A clear sequence makes relationships audible to listeners.",
+      "hint": "Give each section one role and signpost movement between sections."
+    }
+  },
+  {
+    "id": "AC9E5LY07-P-008",
+    "curriculum_code": "AC9E5LY07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "oral_and_multimodal_presentations",
+    "question": "What works best in this situation? Which rehearsal adjustment best suits a presentation that will explain why local frogs need healthy wetlands?",
+    "audio_prompt": "What works best in this situation? Which rehearsal adjustment best suits a presentation that will explain why local frogs need healthy wetlands?",
+    "answers": [
+      {
+        "text": "pause after each cause before explaining its effect",
+        "is_correct": true
+      },
+      {
+        "text": "Speak as quickly as possible throughout",
+        "is_correct": false
+      },
+      {
+        "text": "Use maximum volume for every sentence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“pause after each cause before explaining its effect” fits the meaning and the language clue in this example. Controlled delivery helps listeners process the intended meaning.",
+      "hint": "Match pace, pitch, tone and volume to the message and room."
+    }
+  },
+  {
+    "id": "AC9E5LY07-P-009",
+    "curriculum_code": "AC9E5LY07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "oral_and_multimodal_presentations",
+    "question": "Which option matches what is happening? A student will report results from a bridge-building investigation. Which visual best supports the spoken message?",
+    "audio_prompt": "Which option matches what is happening? A student will report results from a bridge-building investigation. Which visual best supports the spoken message?",
     "answers": [
       {
         "text": "a slide filled with the complete script",
         "is_correct": false
       },
       {
-        "text": "three large verification icons",
+        "text": "a graph with labelled axes and units",
         "is_correct": true
       },
       {
@@ -551,121 +265,740 @@
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The visual clarifies information while leaving the speaker to elaborate.",
+      "summary": "“a graph with labelled axes and units” fits the meaning and the language clue in this example. The visual clarifies information while leaving the speaker to elaborate.",
       "hint": "Choose a readable visual with a job the spoken words cannot do as efficiently."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9e5ly07-p-018",
+    "id": "AC9E5LY07-P-010",
     "curriculum_code": "AC9E5LY07",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "oral_and_multimodal_presentations",
-    "question": "Which rehearsal adjustment best suits a presentation that will teach younger students how to check online claims?",
-    "audio_prompt": "Which rehearsal adjustment best suits a presentation that will teach younger students how to check online claims?",
+    "question": "Use the details in the example. A rehearsal for a talk that will retell a historical event from two viewpoints runs one minute over time. What is the best revision?",
+    "audio_prompt": "Use the details in the example. A rehearsal for a talk that will retell a historical event from two viewpoints runs one minute over time. What is the best revision?",
     "answers": [
       {
-        "text": "Speak as quickly as possible throughout",
+        "text": "Speak one minute faster without pausing",
         "is_correct": false
       },
       {
-        "text": "Use maximum volume for every sentence",
+        "text": "Delete the evidence but keep every decoration",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the essential event, contrasting perspectives and reflection and remove repeated or minor detail",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“Keep the essential event, contrasting perspectives and reflection and remove repeated or minor detail” fits the meaning and the language clue in this example. Timing problems often reveal overloaded content that should be prioritised.",
+      "hint": "Protect the main idea, evidence and audience pathway."
+    }
+  },
+  {
+    "id": "AC9E5LY07-P-011",
+    "curriculum_code": "AC9E5LY07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "oral_and_multimodal_presentations",
+    "question": "Why is “pause after each cause before explaining its effect” the strongest answer to this question: Which rehearsal adjustment best suits a presentation that will explain why local frogs need healthy wetlands?",
+    "audio_prompt": "Why is “pause after each cause before explaining its effect” the strongest answer to this question: Which rehearsal adjustment best suits a presentation that will explain why local frogs need healthy wetlands?",
+    "answers": [
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      },
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Controlled delivery helps listeners process the intended meaning.",
+      "hint": "Find the exact clue that makes “pause after each cause before explaining its effect” fit."
+    }
+  },
+  {
+    "id": "AC9E5LY07-P-012",
+    "curriculum_code": "AC9E5LY07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "oral_and_multimodal_presentations",
+    "question": "What makes “a graph with labelled axes and units” work in this example? A student will report results from a bridge-building investigation. Which visual best supports the spoken message?",
+    "audio_prompt": "What makes “a graph with labelled axes and units” work in this example? A student will report results from a bridge-building investigation. Which visual best supports the spoken message?",
+    "answers": [
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The visual clarifies information while leaving the speaker to elaborate.",
+      "hint": "Find the exact clue that makes “a graph with labelled axes and units” fit."
+    }
+  },
+  {
+    "id": "AC9E5LY07-P-013",
+    "curriculum_code": "AC9E5LY07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "oral_and_multimodal_presentations",
+    "question": "Which reason best explains why “Keep the essential event, contrasting perspectives and reflection and remove repeated or minor detail” fits? A rehearsal for a talk that will retell a historical event from two viewpoints runs one minute over time. What is the best revision?",
+    "audio_prompt": "Which reason best explains why “Keep the essential event, contrasting perspectives and reflection and remove repeated or minor detail” fits? A rehearsal for a talk that will retell a historical event from two viewpoints runs one minute over time. What is the best revision?",
+    "answers": [
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      },
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Timing problems often reveal overloaded content that should be prioritised.",
+      "hint": "Find the exact clue that makes “Keep the essential event, contrasting perspectives and reflection and remove repeated or minor detail” fit."
+    }
+  },
+  {
+    "id": "AC9E5LY07-P-014",
+    "curriculum_code": "AC9E5LY07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "oral_and_multimodal_presentations",
+    "question": "How does “judgement, examples and recommendation” match the meaning of this example? Which sequence best organises the key ideas when presenting to recommend a novel to the school book club?",
+    "audio_prompt": "How does “judgement, examples and recommendation” match the meaning of this example? Which sequence best organises the key ideas when presenting to recommend a novel to the school book club?",
+    "answers": [
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      },
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. A clear sequence makes relationships audible to listeners.",
+      "hint": "Find the exact clue that makes “judgement, examples and recommendation” fit."
+    }
+  },
+  {
+    "id": "AC9E5LY07-P-015",
+    "curriculum_code": "AC9E5LY07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "oral_and_multimodal_presentations",
+    "question": "Why does “use a firm, calm tone for the recommended actions” suit this situation better than the other choices? Which rehearsal adjustment best suits a presentation that will persuade students to walk safely near the car park?",
+    "audio_prompt": "Why does “use a firm, calm tone for the recommended actions” suit this situation better than the other choices? Which rehearsal adjustment best suits a presentation that will persuade students to walk safely near the car park?",
+    "answers": [
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Controlled delivery helps listeners process the intended meaning.",
+      "hint": "Find the exact clue that makes “use a firm, calm tone for the recommended actions” fit."
+    }
+  },
+  {
+    "id": "AC9E5LY07-P-016",
+    "curriculum_code": "AC9E5LY07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "oral_and_multimodal_presentations",
+    "question": "What clue in the example supports “two images with short source captions”? A student will retell a historical event from two viewpoints. Which visual best supports the spoken message?",
+    "audio_prompt": "What clue in the example supports “two images with short source captions”? A student will retell a historical event from two viewpoints. Which visual best supports the spoken message?",
+    "answers": [
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      },
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The visual clarifies information while leaving the speaker to elaborate.",
+      "hint": "Find the exact clue that makes “two images with short source captions” fit."
+    }
+  },
+  {
+    "id": "AC9E5LY07-P-017",
+    "curriculum_code": "AC9E5LY07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "oral_and_multimodal_presentations",
+    "question": "Which explanation shows why “Keep the essential question, check and decide and remove repeated or minor detail” is correct here? A rehearsal for a talk that will teach younger students how to check online claims runs one minute over time. What is the best revision?",
+    "audio_prompt": "Which explanation shows why “Keep the essential question, check and decide and remove repeated or minor detail” is correct here? A rehearsal for a talk that will teach younger students how to check online claims runs one minute over time. What is the best revision?",
+    "answers": [
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      },
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Timing problems often reveal overloaded content that should be prioritised.",
+      "hint": "Find the exact clue that makes “Keep the essential question, check and decide and remove repeated or minor detail” fit."
+    }
+  },
+  {
+    "id": "AC9E5LY07-P-018",
+    "curriculum_code": "AC9E5LY07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "oral_and_multimodal_presentations",
+    "question": "Why would “cause, evidence and consequence” make sense to a careful reader? Which sequence best organises the key ideas when presenting to explain why local frogs need healthy wetlands?",
+    "audio_prompt": "Why would “cause, evidence and consequence” make sense to a careful reader? Which sequence best organises the key ideas when presenting to explain why local frogs need healthy wetlands?",
+    "answers": [
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. A clear sequence makes relationships audible to listeners.",
+      "hint": "Find the exact clue that makes “cause, evidence and consequence” fit."
+    }
+  },
+  {
+    "id": "AC9E5LY07-P-019",
+    "curriculum_code": "AC9E5LY07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "oral_and_multimodal_presentations",
+    "question": "What is the best reason for choosing “slow slightly when interpreting the key result”? Which rehearsal adjustment best suits a presentation that will report results from a bridge-building investigation?",
+    "audio_prompt": "What is the best reason for choosing “slow slightly when interpreting the key result”? Which rehearsal adjustment best suits a presentation that will report results from a bridge-building investigation?",
+    "answers": [
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      },
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Controlled delivery helps listeners process the intended meaning.",
+      "hint": "Find the exact clue that makes “slow slightly when interpreting the key result” fit."
+    }
+  },
+  {
+    "id": "AC9E5LY07-P-020",
+    "curriculum_code": "AC9E5LY07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "oral_and_multimodal_presentations",
+    "question": "Which explanation connects “three large verification icons” to the key clue? A student will teach younger students how to check online claims. Which visual best supports the spoken message?",
+    "audio_prompt": "Which explanation connects “three large verification icons” to the key clue? A student will teach younger students how to check online claims. Which visual best supports the spoken message?",
+    "answers": [
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      },
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The visual clarifies information while leaving the speaker to elaborate.",
+      "hint": "Find the exact clue that makes “three large verification icons” fit."
+    }
+  },
+  {
+    "id": "AC9E5LY07-P-021",
+    "curriculum_code": "AC9E5LY07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "oral_and_multimodal_presentations",
+    "question": "“unrelated details followed by a new topic” might seem possible at first. What should you notice before answering this question: Which sequence best organises the key ideas when presenting to explain why local frogs need healthy wetlands?",
+    "audio_prompt": "“unrelated details followed by a new topic” might seem possible at first. What should you notice before answering this question: Which sequence best organises the key ideas when presenting to explain why local frogs need healthy wetlands?",
+    "answers": [
+      {
+        "text": "Keep “unrelated details followed by a new topic” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole example: “cause, evidence and consequence” matches the key clue, while “unrelated details followed by a new topic” does not.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “unrelated details followed by a new topic” fail and “cause, evidence and consequence” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LY07-P-022",
+    "curriculum_code": "AC9E5LY07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "oral_and_multimodal_presentations",
+    "question": "Why is “Speak as quickly as possible throughout” not the best choice here? Which rehearsal adjustment best suits a presentation that will report results from a bridge-building investigation?",
+    "audio_prompt": "Why is “Speak as quickly as possible throughout” not the best choice here? Which rehearsal adjustment best suits a presentation that will report results from a bridge-building investigation?",
+    "answers": [
+      {
+        "text": "Keep “Speak as quickly as possible throughout” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole example: “slow slightly when interpreting the key result” matches the key clue, while “Speak as quickly as possible throughout” does not.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “Speak as quickly as possible throughout” fail and “slow slightly when interpreting the key result” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LY07-P-023",
+    "curriculum_code": "AC9E5LY07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "oral_and_multimodal_presentations",
+    "question": "Compare “a slide filled with the complete script” with “three large verification icons”. What important difference matters in this example? A student will teach younger students how to check online claims. Which visual best supports the spoken message?",
+    "audio_prompt": "Compare “a slide filled with the complete script” with “three large verification icons”. What important difference matters in this example? A student will teach younger students how to check online claims. Which visual best supports the spoken message?",
+    "answers": [
+      {
+        "text": "Check the whole example: “three large verification icons” matches the key clue, while “a slide filled with the complete script” does not.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “a slide filled with the complete script” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “a slide filled with the complete script” fail and “three large verification icons” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LY07-P-024",
+    "curriculum_code": "AC9E5LY07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "oral_and_multimodal_presentations",
+    "question": "Which clue rules out “Speak one minute faster without pausing” in this situation? A rehearsal for a talk that will recommend a novel to the school book club runs one minute over time. What is the best revision?",
+    "audio_prompt": "Which clue rules out “Speak one minute faster without pausing” in this situation? A rehearsal for a talk that will recommend a novel to the school book club runs one minute over time. What is the best revision?",
+    "answers": [
+      {
+        "text": "Keep “Speak one minute faster without pausing” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole example: “Keep the essential judgement, examples and recommendation and remove repeated or minor detail” matches the key clue, while “Speak one minute faster without pausing” does not.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “Speak one minute faster without pausing” fail and “Keep the essential judgement, examples and recommendation and remove repeated or minor detail” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LY07-P-025",
+    "curriculum_code": "AC9E5LY07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "oral_and_multimodal_presentations",
+    "question": "A quick reader might choose “unrelated details followed by a new topic”. What would a closer reading show? Which sequence best organises the key ideas when presenting to persuade students to walk safely near the car park?",
+    "audio_prompt": "A quick reader might choose “unrelated details followed by a new topic”. What would a closer reading show? Which sequence best organises the key ideas when presenting to persuade students to walk safely near the car park?",
+    "answers": [
+      {
+        "text": "Keep “unrelated details followed by a new topic” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole example: “problem, evidence and action” matches the key clue, while “unrelated details followed by a new topic” does not.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “unrelated details followed by a new topic” fail and “problem, evidence and action” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LY07-P-026",
+    "curriculum_code": "AC9E5LY07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "oral_and_multimodal_presentations",
+    "question": "What makes “change pitch subtly when shifting viewpoint” more precise than “Speak as quickly as possible throughout” here? Which rehearsal adjustment best suits a presentation that will retell a historical event from two viewpoints?",
+    "audio_prompt": "What makes “change pitch subtly when shifting viewpoint” more precise than “Speak as quickly as possible throughout” here? Which rehearsal adjustment best suits a presentation that will retell a historical event from two viewpoints?",
+    "answers": [
+      {
+        "text": "Check the whole example: “change pitch subtly when shifting viewpoint” matches the key clue, while “Speak as quickly as possible throughout” does not.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Speak as quickly as possible throughout” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “Speak as quickly as possible throughout” fail and “change pitch subtly when shifting viewpoint” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LY07-P-027",
+    "curriculum_code": "AC9E5LY07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "oral_and_multimodal_presentations",
+    "question": "Which detail helps you reject “a slide filled with the complete script”? A student will recommend a novel to the school book club. Which visual best supports the spoken message?",
+    "audio_prompt": "Which detail helps you reject “a slide filled with the complete script”? A student will recommend a novel to the school book club. Which visual best supports the spoken message?",
+    "answers": [
+      {
+        "text": "Keep “a slide filled with the complete script” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole example: “a cover image beside three selection criteria” matches the key clue, while “a slide filled with the complete script” does not.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “a slide filled with the complete script” fail and “a cover image beside three selection criteria” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LY07-P-028",
+    "curriculum_code": "AC9E5LY07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "oral_and_multimodal_presentations",
+    "question": "What is the problem with choosing “Speak one minute faster without pausing” for this example? A rehearsal for a talk that will explain why local frogs need healthy wetlands runs one minute over time. What is the best revision?",
+    "audio_prompt": "What is the problem with choosing “Speak one minute faster without pausing” for this example? A rehearsal for a talk that will explain why local frogs need healthy wetlands runs one minute over time. What is the best revision?",
+    "answers": [
+      {
+        "text": "Keep “Speak one minute faster without pausing” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole example: “Keep the essential cause, evidence and consequence and remove repeated or minor detail” matches the key clue, while “Speak one minute faster without pausing” does not.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “Speak one minute faster without pausing” fail and “Keep the essential cause, evidence and consequence and remove repeated or minor detail” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LY07-P-029",
+    "curriculum_code": "AC9E5LY07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "oral_and_multimodal_presentations",
+    "question": "Which comparison best separates “method, result and interpretation” from “unrelated details followed by a new topic”? Which sequence best organises the key ideas when presenting to report results from a bridge-building investigation?",
+    "audio_prompt": "Which comparison best separates “method, result and interpretation” from “unrelated details followed by a new topic”? Which sequence best organises the key ideas when presenting to report results from a bridge-building investigation?",
+    "answers": [
+      {
+        "text": "Check the whole example: “method, result and interpretation” matches the key clue, while “unrelated details followed by a new topic” does not.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “unrelated details followed by a new topic” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “unrelated details followed by a new topic” fail and “method, result and interpretation” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LY07-P-030",
+    "curriculum_code": "AC9E5LY07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "oral_and_multimodal_presentations",
+    "question": "What should you check so you do not confuse “Speak as quickly as possible throughout” with the correct answer? Which rehearsal adjustment best suits a presentation that will teach younger students how to check online claims?",
+    "audio_prompt": "What should you check so you do not confuse “Speak as quickly as possible throughout” with the correct answer? Which rehearsal adjustment best suits a presentation that will teach younger students how to check online claims?",
+    "answers": [
+      {
+        "text": "Keep “Speak as quickly as possible throughout” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole example: “use clear signposts and allow time after each step” matches the key clue, while “Speak as quickly as possible throughout” does not.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “Speak as quickly as possible throughout” fail and “use clear signposts and allow time after each step” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LY07-P-031",
+    "curriculum_code": "AC9E5LY07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "oral_and_multimodal_presentations",
+    "question": "Apply what you know to this example: A rehearsal for a talk that will explain why local frogs need healthy wetlands runs one minute over time. What is the best revision?",
+    "audio_prompt": "Apply what you know to this example: A rehearsal for a talk that will explain why local frogs need healthy wetlands runs one minute over time. What is the best revision?",
+    "answers": [
+      {
+        "text": "Speak one minute faster without pausing",
+        "is_correct": false
+      },
+      {
+        "text": "Delete the evidence but keep every decoration",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the essential cause, evidence and consequence and remove repeated or minor detail",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“Keep the essential cause, evidence and consequence and remove repeated or minor detail” fits the meaning and the language clue in this example. Timing problems often reveal overloaded content that should be prioritised.",
+      "hint": "Protect the main idea, evidence and audience pathway."
+    }
+  },
+  {
+    "id": "AC9E5LY07-P-032",
+    "curriculum_code": "AC9E5LY07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "oral_and_multimodal_presentations",
+    "question": "Use the skill independently. Which sequence best organises the key ideas when presenting to report results from a bridge-building investigation?",
+    "audio_prompt": "Use the skill independently. Which sequence best organises the key ideas when presenting to report results from a bridge-building investigation?",
+    "answers": [
+      {
+        "text": "method, result and interpretation",
+        "is_correct": true
+      },
+      {
+        "text": "unrelated details followed by a new topic",
+        "is_correct": false
+      },
+      {
+        "text": "the conclusion first with no explanation or evidence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“method, result and interpretation” fits the meaning and the language clue in this example. A clear sequence makes relationships audible to listeners.",
+      "hint": "Give each section one role and signpost movement between sections."
+    }
+  },
+  {
+    "id": "AC9E5LY07-P-033",
+    "curriculum_code": "AC9E5LY07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "oral_and_multimodal_presentations",
+    "question": "Work out the answer from the details given. Which rehearsal adjustment best suits a presentation that will teach younger students how to check online claims?",
+    "audio_prompt": "Work out the answer from the details given. Which rehearsal adjustment best suits a presentation that will teach younger students how to check online claims?",
+    "answers": [
+      {
+        "text": "Speak as quickly as possible throughout",
         "is_correct": false
       },
       {
         "text": "use clear signposts and allow time after each step",
         "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Controlled delivery helps listeners process the intended meaning.",
-      "hint": "Match pace, pitch, tone and volume to the message and room."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9e5ly07-p-019",
-    "curriculum_code": "AC9E5LY07",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "oral_and_multimodal_presentations",
-    "question": "Which sequence best organises the key ideas when presenting to teach younger students how to check online claims?",
-    "audio_prompt": "Which sequence best organises the key ideas when presenting to teach younger students how to check online claims?",
-    "answers": [
-      {
-        "text": "question, check and decide",
-        "is_correct": true
       },
       {
-        "text": "unrelated details followed by a new topic",
-        "is_correct": false
-      },
-      {
-        "text": "the conclusion first with no explanation or evidence",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "A clear sequence makes relationships audible to listeners.",
-      "hint": "Give each section one role and signpost movement between sections."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9e5ly07-p-020",
-    "curriculum_code": "AC9E5LY07",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "oral_and_multimodal_presentations",
-    "question": "A rehearsal for a talk that will teach younger students how to check online claims runs one minute over time. What is the best revision?",
-    "audio_prompt": "A rehearsal for a talk that will teach younger students how to check online claims runs one minute over time. What is the best revision?",
-    "answers": [
-      {
-        "text": "Speak one minute faster without pausing",
-        "is_correct": false
-      },
-      {
-        "text": "Keep the essential question, check and decide and remove repeated or minor detail",
-        "is_correct": true
-      },
-      {
-        "text": "Delete the evidence but keep every decoration",
+        "text": "Use maximum volume for every sentence",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Timing problems often reveal overloaded content that should be prioritised.",
-      "hint": "Protect the main idea, evidence and audience pathway."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+      "summary": "“use clear signposts and allow time after each step” fits the meaning and the language clue in this example. Controlled delivery helps listeners process the intended meaning.",
+      "hint": "Match pace, pitch, tone and volume to the message and room."
+    }
   },
   {
-    "id": "ac9e5ly07-p-021",
+    "id": "AC9E5LY07-P-034",
     "curriculum_code": "AC9E5LY07",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
+    "stage": "apply",
     "skill": "oral_and_multimodal_presentations",
-    "question": "A student will recommend a novel to the school book club. Which visual best supports the spoken message?",
-    "audio_prompt": "A student will recommend a novel to the school book club. Which visual best supports the spoken message?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly07.svg#ac9e5ly07-p-021",
-      "alt_text": "A presentation slide contains a cover image beside three selection criteria. A three-part cards guide supports the question."
-    },
+    "question": "Now use the idea in context. A student will explain why local frogs need healthy wetlands. Which visual best supports the spoken message?",
+    "audio_prompt": "Now use the idea in context. A student will explain why local frogs need healthy wetlands. Which visual best supports the spoken message?",
     "answers": [
       {
         "text": "a slide filled with the complete script",
@@ -676,65 +1009,63 @@
         "is_correct": false
       },
       {
-        "text": "a cover image beside three selection criteria",
+        "text": "a wetland diagram with three concise labels",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The visual clarifies information while leaving the speaker to elaborate.",
+      "summary": "“a wetland diagram with three concise labels” fits the meaning and the language clue in this example. The visual clarifies information while leaving the speaker to elaborate.",
       "hint": "Choose a readable visual with a job the spoken words cannot do as efficiently."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9e5ly07-p-022",
+    "id": "AC9E5LY07-P-035",
     "curriculum_code": "AC9E5LY07",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
+    "stage": "apply",
     "skill": "oral_and_multimodal_presentations",
-    "question": "Which rehearsal adjustment best suits a presentation that will recommend a novel to the school book club?",
-    "audio_prompt": "Which rehearsal adjustment best suits a presentation that will recommend a novel to the school book club?",
+    "question": "Choose carefully using meaning, not just a familiar word. A rehearsal for a talk that will persuade students to walk safely near the car park runs one minute over time. What is the best revision?",
+    "audio_prompt": "Choose carefully using meaning, not just a familiar word. A rehearsal for a talk that will persuade students to walk safely near the car park runs one minute over time. What is the best revision?",
     "answers": [
       {
-        "text": "sound enthusiastic while keeping an even pace",
+        "text": "Keep the essential problem, evidence and action and remove repeated or minor detail",
         "is_correct": true
       },
       {
-        "text": "Speak as quickly as possible throughout",
+        "text": "Speak one minute faster without pausing",
         "is_correct": false
       },
       {
-        "text": "Use maximum volume for every sentence",
+        "text": "Delete the evidence but keep every decoration",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Controlled delivery helps listeners process the intended meaning.",
-      "hint": "Match pace, pitch, tone and volume to the message and room."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+      "summary": "“Keep the essential problem, evidence and action and remove repeated or minor detail” fits the meaning and the language clue in this example. Timing problems often reveal overloaded content that should be prioritised.",
+      "hint": "Protect the main idea, evidence and audience pathway."
+    }
   },
   {
-    "id": "ac9e5ly07-p-023",
+    "id": "AC9E5LY07-P-036",
     "curriculum_code": "AC9E5LY07",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
+    "stage": "apply",
     "skill": "oral_and_multimodal_presentations",
-    "question": "Which sequence best organises the key ideas when presenting to recommend a novel to the school book club?",
-    "audio_prompt": "Which sequence best organises the key ideas when presenting to recommend a novel to the school book club?",
+    "question": "Which answer still works when you consider the whole example? Which sequence best organises the key ideas when presenting to retell a historical event from two viewpoints?",
+    "audio_prompt": "Which answer still works when you consider the whole example? Which sequence best organises the key ideas when presenting to retell a historical event from two viewpoints?",
     "answers": [
       {
         "text": "unrelated details followed by a new topic",
         "is_correct": false
       },
       {
-        "text": "judgement, examples and recommendation",
+        "text": "event, contrasting perspectives and reflection",
         "is_correct": true
       },
       {
@@ -744,57 +1075,140 @@
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A clear sequence makes relationships audible to listeners.",
+      "summary": "“event, contrasting perspectives and reflection” fits the meaning and the language clue in this example. A clear sequence makes relationships audible to listeners.",
       "hint": "Give each section one role and signpost movement between sections."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9e5ly07-p-024",
+    "id": "AC9E5LY07-P-037",
     "curriculum_code": "AC9E5LY07",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
+    "stage": "apply",
     "skill": "oral_and_multimodal_presentations",
-    "question": "A rehearsal for a talk that will recommend a novel to the school book club runs one minute over time. What is the best revision?",
-    "audio_prompt": "A rehearsal for a talk that will recommend a novel to the school book club runs one minute over time. What is the best revision?",
+    "question": "Use all the clues in this situation. Which rehearsal adjustment best suits a presentation that will recommend a novel to the school book club?",
+    "audio_prompt": "Use all the clues in this situation. Which rehearsal adjustment best suits a presentation that will recommend a novel to the school book club?",
+    "answers": [
+      {
+        "text": "Speak as quickly as possible throughout",
+        "is_correct": false
+      },
+      {
+        "text": "Use maximum volume for every sentence",
+        "is_correct": false
+      },
+      {
+        "text": "sound enthusiastic while keeping an even pace",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“sound enthusiastic while keeping an even pace” fits the meaning and the language clue in this example. Controlled delivery helps listeners process the intended meaning.",
+      "hint": "Match pace, pitch, tone and volume to the message and room."
+    }
+  },
+  {
+    "id": "AC9E5LY07-P-038",
+    "curriculum_code": "AC9E5LY07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "oral_and_multimodal_presentations",
+    "question": "Decide which option is most precise. A student will persuade students to walk safely near the car park. Which visual best supports the spoken message?",
+    "audio_prompt": "Decide which option is most precise. A student will persuade students to walk safely near the car park. Which visual best supports the spoken message?",
+    "answers": [
+      {
+        "text": "a site map highlighting two danger points",
+        "is_correct": true
+      },
+      {
+        "text": "a slide filled with the complete script",
+        "is_correct": false
+      },
+      {
+        "text": "an animated image unrelated to the ideas",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“a site map highlighting two danger points” fits the meaning and the language clue in this example. The visual clarifies information while leaving the speaker to elaborate.",
+      "hint": "Choose a readable visual with a job the spoken words cannot do as efficiently."
+    }
+  },
+  {
+    "id": "AC9E5LY07-P-039",
+    "curriculum_code": "AC9E5LY07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "oral_and_multimodal_presentations",
+    "question": "Which choice best shows your understanding here? A rehearsal for a talk that will report results from a bridge-building investigation runs one minute over time. What is the best revision?",
+    "audio_prompt": "Which choice best shows your understanding here? A rehearsal for a talk that will report results from a bridge-building investigation runs one minute over time. What is the best revision?",
     "answers": [
       {
         "text": "Speak one minute faster without pausing",
         "is_correct": false
       },
       {
+        "text": "Keep the essential method, result and interpretation and remove repeated or minor detail",
+        "is_correct": true
+      },
+      {
         "text": "Delete the evidence but keep every decoration",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“Keep the essential method, result and interpretation and remove repeated or minor detail” fits the meaning and the language clue in this example. Timing problems often reveal overloaded content that should be prioritised.",
+      "hint": "Protect the main idea, evidence and audience pathway."
+    }
+  },
+  {
+    "id": "AC9E5LY07-P-040",
+    "curriculum_code": "AC9E5LY07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "oral_and_multimodal_presentations",
+    "question": "Read the full example before deciding. Which sequence best organises the key ideas when presenting to teach younger students how to check online claims?",
+    "audio_prompt": "Read the full example before deciding. Which sequence best organises the key ideas when presenting to teach younger students how to check online claims?",
+    "answers": [
+      {
+        "text": "unrelated details followed by a new topic",
         "is_correct": false
       },
       {
-        "text": "Keep the essential judgement, examples and recommendation and remove repeated or minor detail",
+        "text": "the conclusion first with no explanation or evidence",
+        "is_correct": false
+      },
+      {
+        "text": "question, check and decide",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Timing problems often reveal overloaded content that should be prioritised.",
-      "hint": "Protect the main idea, evidence and audience pathway."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+      "summary": "“question, check and decide” fits the meaning and the language clue in this example. A clear sequence makes relationships audible to listeners.",
+      "hint": "Give each section one role and signpost movement between sections."
+    }
   },
   {
-    "id": "ac9e5ly07-t-001",
+    "id": "AC9E5LY07-T-001",
     "curriculum_code": "AC9E5LY07",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
     "skill": "oral_and_multimodal_presentations",
     "question": "A student will compare solar and wind energy. Which visual best supports the spoken message?",
     "audio_prompt": "A student will compare solar and wind energy. Which visual best supports the spoken message?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly07.svg#ac9e5ly07-t-001",
-      "alt_text": "A presentation slide contains one readable comparison chart. A three-part cards guide supports the question."
-    },
     "answers": [
       {
         "text": "one readable comparison chart",
@@ -816,14 +1230,15 @@
     }
   },
   {
-    "id": "ac9e5ly07-t-002",
+    "id": "AC9E5LY07-T-002",
     "curriculum_code": "AC9E5LY07",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
     "skill": "oral_and_multimodal_presentations",
-    "question": "Which rehearsal adjustment best suits a presentation that will compare solar and wind energy?",
-    "audio_prompt": "Which rehearsal adjustment best suits a presentation that will compare solar and wind energy?",
+    "question": "Read this new example closely. Which rehearsal adjustment best suits a presentation that will compare solar and wind energy?",
+    "audio_prompt": "Read this new example closely. Which rehearsal adjustment best suits a presentation that will compare solar and wind energy?",
     "answers": [
       {
         "text": "Speak as quickly as possible throughout",
@@ -845,14 +1260,15 @@
     }
   },
   {
-    "id": "ac9e5ly07-t-003",
+    "id": "AC9E5LY07-T-003",
     "curriculum_code": "AC9E5LY07",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
     "skill": "oral_and_multimodal_presentations",
-    "question": "Which sequence best organises the key ideas when presenting to compare solar and wind energy?",
-    "audio_prompt": "Which sequence best organises the key ideas when presenting to compare solar and wind energy?",
+    "question": "Which answer is most accurate here? Which sequence best organises the key ideas when presenting to compare solar and wind energy?",
+    "audio_prompt": "Which answer is most accurate here? Which sequence best organises the key ideas when presenting to compare solar and wind energy?",
     "answers": [
       {
         "text": "unrelated details followed by a new topic",
@@ -874,14 +1290,15 @@
     }
   },
   {
-    "id": "ac9e5ly07-t-004",
+    "id": "AC9E5LY07-T-004",
     "curriculum_code": "AC9E5LY07",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
     "skill": "oral_and_multimodal_presentations",
-    "question": "A rehearsal for a talk that will compare solar and wind energy runs one minute over time. What is the best revision?",
-    "audio_prompt": "A rehearsal for a talk that will compare solar and wind energy runs one minute over time. What is the best revision?",
+    "question": "Use the details in this new situation. A rehearsal for a talk that will compare solar and wind energy runs one minute over time. What is the best revision?",
+    "audio_prompt": "Use the details in this new situation. A rehearsal for a talk that will compare solar and wind energy runs one minute over time. What is the best revision?",
     "answers": [
       {
         "text": "Keep the essential shared goal, differences and trade-offs and remove repeated or minor detail",
@@ -903,19 +1320,15 @@
     }
   },
   {
-    "id": "ac9e5ly07-t-005",
+    "id": "AC9E5LY07-T-005",
     "curriculum_code": "AC9E5LY07",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
     "skill": "oral_and_multimodal_presentations",
-    "question": "A student will present a plan for a sensory garden. Which visual best supports the spoken message?",
-    "audio_prompt": "A student will present a plan for a sensory garden. Which visual best supports the spoken message?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly07.svg#ac9e5ly07-t-005",
-      "alt_text": "A presentation slide contains a labelled site sketch. A three-part cards guide supports the question."
-    },
+    "question": "Choose the answer supported by the whole example. A student will present a plan for a sensory garden. Which visual best supports the spoken message?",
+    "audio_prompt": "Choose the answer supported by the whole example. A student will present a plan for a sensory garden. Which visual best supports the spoken message?",
     "answers": [
       {
         "text": "a slide filled with the complete script",
@@ -937,14 +1350,15 @@
     }
   },
   {
-    "id": "ac9e5ly07-t-006",
+    "id": "AC9E5LY07-T-006",
     "curriculum_code": "AC9E5LY07",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
     "skill": "oral_and_multimodal_presentations",
-    "question": "Which rehearsal adjustment best suits a presentation that will present a plan for a sensory garden?",
-    "audio_prompt": "Which rehearsal adjustment best suits a presentation that will present a plan for a sensory garden?",
+    "question": "Which option best fits the meaning? Which rehearsal adjustment best suits a presentation that will present a plan for a sensory garden?",
+    "audio_prompt": "Which option best fits the meaning? Which rehearsal adjustment best suits a presentation that will present a plan for a sensory garden?",
     "answers": [
       {
         "text": "Speak as quickly as possible throughout",
@@ -966,14 +1380,15 @@
     }
   },
   {
-    "id": "ac9e5ly07-t-007",
+    "id": "AC9E5LY07-T-007",
     "curriculum_code": "AC9E5LY07",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
     "skill": "oral_and_multimodal_presentations",
-    "question": "Which sequence best organises the key ideas when presenting to present a plan for a sensory garden?",
-    "audio_prompt": "Which sequence best organises the key ideas when presenting to present a plan for a sensory garden?",
+    "question": "Work this out independently. Which sequence best organises the key ideas when presenting to present a plan for a sensory garden?",
+    "audio_prompt": "Work this out independently. Which sequence best organises the key ideas when presenting to present a plan for a sensory garden?",
     "answers": [
       {
         "text": "need, design choices and benefits",
@@ -995,14 +1410,15 @@
     }
   },
   {
-    "id": "ac9e5ly07-t-008",
+    "id": "AC9E5LY07-T-008",
     "curriculum_code": "AC9E5LY07",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
     "skill": "oral_and_multimodal_presentations",
-    "question": "A rehearsal for a talk that will present a plan for a sensory garden runs one minute over time. What is the best revision?",
-    "audio_prompt": "A rehearsal for a talk that will present a plan for a sensory garden runs one minute over time. What is the best revision?",
+    "question": "What is the best answer in this context? A rehearsal for a talk that will present a plan for a sensory garden runs one minute over time. What is the best revision?",
+    "audio_prompt": "What is the best answer in this context? A rehearsal for a talk that will present a plan for a sensory garden runs one minute over time. What is the best revision?",
     "answers": [
       {
         "text": "Speak one minute faster without pausing",
@@ -1024,19 +1440,15 @@
     }
   },
   {
-    "id": "ac9e5ly07-t-009",
+    "id": "AC9E5LY07-T-009",
     "curriculum_code": "AC9E5LY07",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "apply",
     "skill": "oral_and_multimodal_presentations",
-    "question": "A student will explain the stages of the water cycle. Which visual best supports the spoken message?",
-    "audio_prompt": "A student will explain the stages of the water cycle. Which visual best supports the spoken message?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly07.svg#ac9e5ly07-t-009",
-      "alt_text": "A presentation slide contains an uncluttered cycle diagram. A three-part cards guide supports the question."
-    },
+    "question": "Which choice is supported by the evidence given? A student will explain the stages of the water cycle. Which visual best supports the spoken message?",
+    "audio_prompt": "Which choice is supported by the evidence given? A student will explain the stages of the water cycle. Which visual best supports the spoken message?",
     "answers": [
       {
         "text": "a slide filled with the complete script",
@@ -1058,14 +1470,15 @@
     }
   },
   {
-    "id": "ac9e5ly07-t-010",
+    "id": "AC9E5LY07-T-010",
     "curriculum_code": "AC9E5LY07",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "apply",
     "skill": "oral_and_multimodal_presentations",
-    "question": "Which rehearsal adjustment best suits a presentation that will explain the stages of the water cycle?",
-    "audio_prompt": "Which rehearsal adjustment best suits a presentation that will explain the stages of the water cycle?",
+    "question": "Read for meaning before you choose. Which rehearsal adjustment best suits a presentation that will explain the stages of the water cycle?",
+    "audio_prompt": "Read for meaning before you choose. Which rehearsal adjustment best suits a presentation that will explain the stages of the water cycle?",
     "answers": [
       {
         "text": "use brief pauses as the diagram moves to each stage",
@@ -1087,14 +1500,15 @@
     }
   },
   {
-    "id": "ac9e5ly07-t-011",
+    "id": "AC9E5LY07-T-011",
     "curriculum_code": "AC9E5LY07",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "apply",
     "skill": "oral_and_multimodal_presentations",
-    "question": "Which sequence best organises the key ideas when presenting to explain the stages of the water cycle?",
-    "audio_prompt": "Which sequence best organises the key ideas when presenting to explain the stages of the water cycle?",
+    "question": "Which option is the most precise? Which sequence best organises the key ideas when presenting to explain the stages of the water cycle?",
+    "audio_prompt": "Which option is the most precise? Which sequence best organises the key ideas when presenting to explain the stages of the water cycle?",
     "answers": [
       {
         "text": "unrelated details followed by a new topic",
@@ -1116,14 +1530,15 @@
     }
   },
   {
-    "id": "ac9e5ly07-t-012",
+    "id": "AC9E5LY07-T-012",
     "curriculum_code": "AC9E5LY07",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "apply",
     "skill": "oral_and_multimodal_presentations",
-    "question": "A rehearsal for a talk that will explain the stages of the water cycle runs one minute over time. What is the best revision?",
-    "audio_prompt": "A rehearsal for a talk that will explain the stages of the water cycle runs one minute over time. What is the best revision?",
+    "question": "Use every clue in the example. A rehearsal for a talk that will explain the stages of the water cycle runs one minute over time. What is the best revision?",
+    "audio_prompt": "Use every clue in the example. A rehearsal for a talk that will explain the stages of the water cycle runs one minute over time. What is the best revision?",
     "answers": [
       {
         "text": "Speak one minute faster without pausing",
@@ -1145,19 +1560,15 @@
     }
   },
   {
-    "id": "ac9e5ly07-t-013",
+    "id": "AC9E5LY07-T-013",
     "curriculum_code": "AC9E5LY07",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "apply",
     "skill": "oral_and_multimodal_presentations",
-    "question": "A student will share a dramatic monologue as an explorer. Which visual best supports the spoken message?",
-    "audio_prompt": "A student will share a dramatic monologue as an explorer. Which visual best supports the spoken message?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly07.svg#ac9e5ly07-t-013",
-      "alt_text": "A presentation slide contains one map showing the journey route. A three-part cards guide supports the question."
-    },
+    "question": "Which answer holds up when you check the full context? A student will share a dramatic monologue as an explorer. Which visual best supports the spoken message?",
+    "audio_prompt": "Which answer holds up when you check the full context? A student will share a dramatic monologue as an explorer. Which visual best supports the spoken message?",
     "answers": [
       {
         "text": "one map showing the journey route",
@@ -1179,14 +1590,15 @@
     }
   },
   {
-    "id": "ac9e5ly07-t-014",
+    "id": "AC9E5LY07-T-014",
     "curriculum_code": "AC9E5LY07",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "apply",
     "skill": "oral_and_multimodal_presentations",
-    "question": "Which rehearsal adjustment best suits a presentation that will share a dramatic monologue as an explorer?",
-    "audio_prompt": "Which rehearsal adjustment best suits a presentation that will share a dramatic monologue as an explorer?",
+    "question": "Decide which option best matches what the text shows. Which rehearsal adjustment best suits a presentation that will share a dramatic monologue as an explorer?",
+    "audio_prompt": "Decide which option best matches what the text shows. Which rehearsal adjustment best suits a presentation that will share a dramatic monologue as an explorer?",
     "answers": [
       {
         "text": "Speak as quickly as possible throughout",
@@ -1208,14 +1620,15 @@
     }
   },
   {
-    "id": "ac9e5ly07-t-015",
+    "id": "AC9E5LY07-T-015",
     "curriculum_code": "AC9E5LY07",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "apply",
     "skill": "oral_and_multimodal_presentations",
-    "question": "Which sequence best organises the key ideas when presenting to share a dramatic monologue as an explorer?",
-    "audio_prompt": "Which sequence best organises the key ideas when presenting to share a dramatic monologue as an explorer?",
+    "question": "Which choice best demonstrates the skill in this new example? Which sequence best organises the key ideas when presenting to share a dramatic monologue as an explorer?",
+    "audio_prompt": "Which choice best demonstrates the skill in this new example? Which sequence best organises the key ideas when presenting to share a dramatic monologue as an explorer?",
     "answers": [
       {
         "text": "unrelated details followed by a new topic",
@@ -1237,14 +1650,15 @@
     }
   },
   {
-    "id": "ac9e5ly07-t-016",
+    "id": "AC9E5LY07-T-016",
     "curriculum_code": "AC9E5LY07",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "apply",
     "skill": "oral_and_multimodal_presentations",
-    "question": "A rehearsal for a talk that will share a dramatic monologue as an explorer runs one minute over time. What is the best revision?",
-    "audio_prompt": "A rehearsal for a talk that will share a dramatic monologue as an explorer runs one minute over time. What is the best revision?",
+    "question": "Make your final choice from the evidence in the question. A rehearsal for a talk that will share a dramatic monologue as an explorer runs one minute over time. What is the best revision?",
+    "audio_prompt": "Make your final choice from the evidence in the question. A rehearsal for a talk that will share a dramatic monologue as an explorer runs one minute over time. What is the best revision?",
     "answers": [
       {
         "text": "Keep the essential setting, challenge and decision and remove repeated or minor detail",
