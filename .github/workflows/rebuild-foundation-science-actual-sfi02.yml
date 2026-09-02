@@ -1,0 +1,25 @@
+name: Rebuild Foundation Science AC9SFI02
+on:
+  push:
+    branches: [content/foundation-science-actual-rebuild]
+    paths: ['scripts/foundation_science_actual/ac9sfi02_authored.mjs','scripts/materialise_foundation_science_sfi02.mjs','.github/workflows/rebuild-foundation-science-actual-sfi02.yml']
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    permissions: {contents: write}
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: content/foundation-science-actual-rebuild, fetch-depth: 0}
+      - uses: actions/setup-node@v4
+        with: {node-version: '22'}
+      - run: node scripts/materialise_foundation_science_sfi02.mjs
+      - name: Guard non-assessment Foundation Science content
+        run: "if git status --porcelain | grep -E 'teacher-slides|worksheet|/index.html'; then exit 1; fi"
+      - name: Commit production bank
+        run: |
+          git config user.name JBR99729
+          git config user.email jbhasker9@gmail.com
+          git add quiz/grade-k/science/ac9sfi02/practice/questions.js quiz/grade-k/science/ac9sfi02/test/questions.js
+          git diff --cached --quiet && exit 1
+          git commit -m 'Rebuild AC9SFI02 actual question bank'
+          git push origin HEAD:content/foundation-science-actual-rebuild
