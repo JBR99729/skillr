@@ -247,14 +247,14 @@ window.skillrPracticeQuestions = [
     "skill": "Technical Vocabulary and Context",
     "printable": true,
     "type": "single",
-    "question": "Why is “germination” stronger than “thing” in a plant science lesson?",
-    "audioPrompt": "Why is “germination” stronger than “thing” in a plant science lesson?",
+    "question": "Why is “It communicates the exact subject meaning.” the best answer here? Why is “germination” stronger than “thing” in a plant science lesson?",
+    "audioPrompt": "Why is “It communicates the exact subject meaning.” the best answer here? Why is “germination” stronger than “thing” in a plant science lesson?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It is longer, so it must always be better.",
-      "It communicates the exact subject meaning.",
-      "It removes information from the explanation."
+      "Because “It is longer, so it must always be better.” sounds familiar.",
+      "Precision, not word length, makes technical vocabulary useful.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 1,
     "explanation": "Precision, not word length, makes technical vocabulary useful.\nHint: Ask which word identifies the concept accurately.",
@@ -271,14 +271,14 @@ window.skillrPracticeQuestions = [
     "skill": "Technical Vocabulary and Context",
     "printable": true,
     "type": "single",
-    "question": "A reader does not know “germination” in a plant science lesson. Which clue is most useful?",
-    "audioPrompt": "A reader does not know “germination” in a plant science lesson. Which clue is most useful?",
+    "question": "Why is “The nearby explanation “a seed beginning to grow”.” the best answer here? A reader does not know “germination” in a plant science lesson. Which clue is most useful?",
+    "audioPrompt": "Why is “The nearby explanation “a seed beginning to grow”.” the best answer here? A reader does not know “germination” in a plant science lesson. Which clue is most useful?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "The colour of the page border.",
-      "The number of letters in the heading.",
-      "The nearby explanation “a seed beginning to grow”."
+      "Because “The colour of the page border.” sounds familiar.",
+      "Because the longest-looking option should always be chosen.",
+      "Definitions and surrounding information support word meaning."
     ],
     "correct": 2,
     "explanation": "Definitions and surrounding information support word meaning.\nHint: Look for a clue that explains the idea.",
@@ -295,14 +295,14 @@ window.skillrPracticeQuestions = [
     "skill": "Technical Vocabulary and Context",
     "printable": true,
     "type": "single",
-    "question": "The word “shoot” can have more than one meaning. What should a reader check first?",
-    "audioPrompt": "The word “shoot” can have more than one meaning. What should a reader check first?",
+    "question": "Why is “The subject and surrounding sentence.” the best answer here? The word “shoot” can have more than one meaning. What should a reader check first?",
+    "audioPrompt": "Why is “The subject and surrounding sentence.” the best answer here? The word “shoot” can have more than one meaning. What should a reader check first?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "The subject and surrounding sentence.",
-      "Only whether the word is short.",
-      "Only its position in the alphabet."
+      "Context determines which meaning is intended.",
+      "Because “Only whether the word is short.” sounds familiar.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 0,
     "explanation": "Context determines which meaning is intended.\nHint: Read around the word before choosing a meaning.",
@@ -319,14 +319,14 @@ window.skillrPracticeQuestions = [
     "skill": "Technical Vocabulary and Context",
     "printable": true,
     "type": "single",
-    "question": "Which sentence uses “germination” precisely?",
-    "audioPrompt": "Which sentence uses “germination” precisely?",
+    "question": "Why is “The a plant science lesson explains germination as a seed beginning to grow.” the best answer here? Which sentence uses “germination” precisely?",
+    "audioPrompt": "Why is “The a plant science lesson explains germination as a seed beginning to grow.” the best answer here? Which sentence uses “germination” precisely?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "The germination was a random colour with no connection to a plant science lesson.",
-      "The a plant science lesson explains germination as a seed beginning to grow.",
-      "Every object is always called germination."
+      "Because “The germination was a random colour with no connection to a plant science lesson.” sounds familiar.",
+      "Precise usage fits the word's field-specific meaning.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 1,
     "explanation": "Precise usage fits the word's field-specific meaning.\nHint: Check whether the sentence matches the definition.",
@@ -343,14 +343,14 @@ window.skillrPracticeQuestions = [
     "skill": "Technical Vocabulary and Context",
     "printable": true,
     "type": "single",
-    "question": "Which vocabulary note would best help a reader of a plant science lesson?",
-    "audioPrompt": "Which vocabulary note would best help a reader of a plant science lesson?",
+    "question": "Why is “germination: a seed beginning to grow” the best answer here? Which vocabulary note would best help a reader of a plant science lesson?",
+    "audioPrompt": "Why is “germination: a seed beginning to grow” the best answer here? Which vocabulary note would best help a reader of a plant science lesson?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "germination: any word at all",
-      "germination: meaning not given",
-      "germination: a seed beginning to grow"
+      "Because “germination: any word at all” sounds familiar.",
+      "Because the longest-looking option should always be chosen.",
+      "A glossary-style note gives a clear contextual definition."
     ],
     "correct": 2,
     "explanation": "A glossary-style note gives a clear contextual definition.\nHint: Choose the note that is specific and accurate.",
@@ -367,14 +367,14 @@ window.skillrPracticeQuestions = [
     "skill": "Technical Vocabulary and Context",
     "printable": true,
     "type": "single",
-    "question": "A writer replaces “germination” with “nice thing” in a plant science lesson. What is lost?",
-    "audioPrompt": "A writer replaces “germination” with “nice thing” in a plant science lesson. What is lost?",
+    "question": "Why is “The precise technical meaning.” the best answer here? A writer replaces “germination” with “nice thing” in a plant science lesson. What is lost?",
+    "audioPrompt": "Why is “The precise technical meaning.” the best answer here? A writer replaces “germination” with “nice thing” in a plant science lesson. What is lost?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "The precise technical meaning.",
-      "Only the page decoration.",
-      "The ability to use capital letters."
+      "Vague wording can weaken a subject explanation.",
+      "Because “Only the page decoration.” sounds familiar.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 0,
     "explanation": "Vague wording can weaken a subject explanation.\nHint: Compare how exactly each phrase names the concept.",
@@ -391,14 +391,14 @@ window.skillrPracticeQuestions = [
     "skill": "Technical Vocabulary and Context",
     "printable": true,
     "type": "single",
-    "question": "Which technical word precisely names earth material being worn away and moved in a geography article?",
-    "audioPrompt": "Which technical word precisely names earth material being worn away and moved in a geography article?",
+    "question": "Why is “erosion” the best answer here? Which technical word precisely names earth material being worn away and moved in a geography article?",
+    "audioPrompt": "Why is “erosion” the best answer here? Which technical word precisely names earth material being worn away and moved in a geography article?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "thing",
-      "erosion",
-      "stuff"
+      "Because “thing” sounds familiar.",
+      "Technical vocabulary names ideas precisely within a field.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 1,
     "explanation": "Technical vocabulary names ideas precisely within a field.\nHint: Choose the word a subject expert would use.",
@@ -415,14 +415,14 @@ window.skillrPracticeQuestions = [
     "skill": "Technical Vocabulary and Context",
     "printable": true,
     "type": "single",
-    "question": "In a geography article, what does “erosion” mean?",
-    "audioPrompt": "In a geography article, what does “erosion” mean?",
+    "question": "Why is “earth material being worn away and moved” the best answer here? In a geography article, what does “erosion” mean?",
+    "audioPrompt": "Why is “earth material being worn away and moved” the best answer here? In a geography article, what does “erosion” mean?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "a decorative page feature",
-      "a character's name with no subject meaning",
-      "earth material being worn away and moved"
+      "Because “a decorative page feature” sounds familiar.",
+      "Because the longest-looking option should always be chosen.",
+      "Context helps readers select the relevant meaning of a technical word."
     ],
     "correct": 2,
     "explanation": "Context helps readers select the relevant meaning of a technical word.\nHint: Use the subject and surrounding idea.",
@@ -439,14 +439,14 @@ window.skillrPracticeQuestions = [
     "skill": "Technical Vocabulary and Context",
     "printable": true,
     "type": "single",
-    "question": "Why is “erosion” stronger than “thing” in a geography article?",
-    "audioPrompt": "Why is “erosion” stronger than “thing” in a geography article?",
+    "question": "Why is “It communicates the exact subject meaning.” the best answer here? Why is “erosion” stronger than “thing” in a geography article?",
+    "audioPrompt": "Why is “It communicates the exact subject meaning.” the best answer here? Why is “erosion” stronger than “thing” in a geography article?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It communicates the exact subject meaning.",
-      "It is longer, so it must always be better.",
-      "It removes information from the explanation."
+      "Precision, not word length, makes technical vocabulary useful.",
+      "Because “It is longer, so it must always be better.” sounds familiar.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 0,
     "explanation": "Precision, not word length, makes technical vocabulary useful.\nHint: Ask which word identifies the concept accurately.",
@@ -463,14 +463,14 @@ window.skillrPracticeQuestions = [
     "skill": "Technical Vocabulary and Context",
     "printable": true,
     "type": "single",
-    "question": "A reader does not know “erosion” in a geography article. Which clue is most useful?",
-    "audioPrompt": "A reader does not know “erosion” in a geography article. Which clue is most useful?",
+    "question": "Why is “The nearby explanation “earth material being worn away and moved”.” the best answer here? A reader does not know “erosion” in a geography article. Which clue is most useful?",
+    "audioPrompt": "Why is “The nearby explanation “earth material being worn away and moved”.” the best answer here? A reader does not know “erosion” in a geography article. Which clue is most useful?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "The colour of the page border.",
-      "The nearby explanation “earth material being worn away and moved”.",
-      "The number of letters in the heading."
+      "Because “The colour of the page border.” sounds familiar.",
+      "Definitions and surrounding information support word meaning.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 1,
     "explanation": "Definitions and surrounding information support word meaning.\nHint: Look for a clue that explains the idea.",
@@ -487,20 +487,20 @@ window.skillrPracticeQuestions = [
     "skill": "Technical Vocabulary and Context",
     "printable": true,
     "type": "single",
-    "question": "The word “bank” can have more than one meaning. What should a reader check first?",
-    "audioPrompt": "The word “bank” can have more than one meaning. What should a reader check first?",
+    "question": "A student chooses “thing” for this task: Which technical word precisely names liquid water changing into water vapour in a water-cycle report? What should they check?",
+    "audioPrompt": "A student chooses “thing” for this task: Which technical word precisely names liquid water changing into water vapour in a water-cycle report? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Only whether the word is short.",
-      "Only its position in the alphabet.",
-      "The subject and surrounding sentence."
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option.",
+      "Choose the word a subject expert would use."
     ],
     "correct": 2,
-    "explanation": "Context determines which meaning is intended.\nHint: Read around the word before choosing a meaning.",
+    "explanation": "Choose the word a subject expert would use. Technical vocabulary names ideas precisely within a field.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Context determines which meaning is intended.",
-      "hint": "Read around the word before choosing a meaning."
+      "summary": "Choose the word a subject expert would use. Technical vocabulary names ideas precisely within a field.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -511,20 +511,20 @@ window.skillrPracticeQuestions = [
     "skill": "Technical Vocabulary and Context",
     "printable": true,
     "type": "single",
-    "question": "Which sentence uses “erosion” precisely?",
-    "audioPrompt": "Which sentence uses “erosion” precisely?",
+    "question": "A student chooses “a decorative page feature” for this task: In a water-cycle report, what does “evaporation” mean? What should they check?",
+    "audioPrompt": "A student chooses “a decorative page feature” for this task: In a water-cycle report, what does “evaporation” mean? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "The a geography article explains erosion as earth material being worn away and moved.",
-      "The erosion was a random colour with no connection to a geography article.",
-      "Every object is always called erosion."
+      "Use the subject and surrounding idea.",
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 0,
-    "explanation": "Precise usage fits the word's field-specific meaning.\nHint: Check whether the sentence matches the definition.",
+    "explanation": "Use the subject and surrounding idea. Context helps readers select the relevant meaning of a technical word.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Precise usage fits the word's field-specific meaning.",
-      "hint": "Check whether the sentence matches the definition."
+      "summary": "Use the subject and surrounding idea. Context helps readers select the relevant meaning of a technical word.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -535,20 +535,20 @@ window.skillrPracticeQuestions = [
     "skill": "Technical Vocabulary and Context",
     "printable": true,
     "type": "single",
-    "question": "Which vocabulary note would best help a reader of a geography article?",
-    "audioPrompt": "Which vocabulary note would best help a reader of a geography article?",
+    "question": "A student chooses “It is longer, so it must always be better.” for this task: Why is “evaporation” stronger than “thing” in a water-cycle report? What should they check?",
+    "audioPrompt": "A student chooses “It is longer, so it must always be better.” for this task: Why is “evaporation” stronger than “thing” in a water-cycle report? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "erosion: any word at all",
-      "erosion: earth material being worn away and moved",
-      "erosion: meaning not given"
+      "Keep the answer because it uses a familiar word.",
+      "Ask which word identifies the concept accurately.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 1,
-    "explanation": "A glossary-style note gives a clear contextual definition.\nHint: Choose the note that is specific and accurate.",
+    "explanation": "Ask which word identifies the concept accurately. Precision, not word length, makes technical vocabulary useful.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "A glossary-style note gives a clear contextual definition.",
-      "hint": "Choose the note that is specific and accurate."
+      "summary": "Ask which word identifies the concept accurately. Precision, not word length, makes technical vocabulary useful.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -559,20 +559,20 @@ window.skillrPracticeQuestions = [
     "skill": "Technical Vocabulary and Context",
     "printable": true,
     "type": "single",
-    "question": "A writer replaces “erosion” with “nice thing” in a geography article. What is lost?",
-    "audioPrompt": "A writer replaces “erosion” with “nice thing” in a geography article. What is lost?",
+    "question": "A student chooses “The colour of the page border.” for this task: A reader does not know “evaporation” in a water-cycle report. Which clue is most useful? What should they check?",
+    "audioPrompt": "A student chooses “The colour of the page border.” for this task: A reader does not know “evaporation” in a water-cycle report. Which clue is most useful? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Only the page decoration.",
-      "The ability to use capital letters.",
-      "The precise technical meaning."
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option.",
+      "Look for a clue that explains the idea."
     ],
     "correct": 2,
-    "explanation": "Vague wording can weaken a subject explanation.\nHint: Compare how exactly each phrase names the concept.",
+    "explanation": "Look for a clue that explains the idea. Definitions and surrounding information support word meaning.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Vague wording can weaken a subject explanation.",
-      "hint": "Compare how exactly each phrase names the concept."
+      "summary": "Look for a clue that explains the idea. Definitions and surrounding information support word meaning.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -583,20 +583,20 @@ window.skillrPracticeQuestions = [
     "skill": "Technical Vocabulary and Context",
     "printable": true,
     "type": "single",
-    "question": "Which technical word precisely names how loud or soft a sound is in a music guide?",
-    "audioPrompt": "Which technical word precisely names how loud or soft a sound is in a music guide?",
+    "question": "A student chooses “Only whether the word is short.” for this task: The word “cycle” can have more than one meaning. What should a reader check first? What should they check?",
+    "audioPrompt": "A student chooses “Only whether the word is short.” for this task: The word “cycle” can have more than one meaning. What should a reader check first? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "volume",
-      "thing",
-      "stuff"
+      "Read around the word before choosing a meaning.",
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 0,
-    "explanation": "Technical vocabulary names ideas precisely within a field.\nHint: Choose the word a subject expert would use.",
+    "explanation": "Read around the word before choosing a meaning. Context determines which meaning is intended.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Technical vocabulary names ideas precisely within a field.",
-      "hint": "Choose the word a subject expert would use."
+      "summary": "Read around the word before choosing a meaning. Context determines which meaning is intended.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -607,20 +607,20 @@ window.skillrPracticeQuestions = [
     "skill": "Technical Vocabulary and Context",
     "printable": true,
     "type": "single",
-    "question": "In a music guide, what does “volume” mean?",
-    "audioPrompt": "In a music guide, what does “volume” mean?",
+    "question": "A student chooses “The evaporation was a random colour with no connection to a water-cycle report.” for this task: Which sentence uses “evaporation” precisely? What should they check?",
+    "audioPrompt": "A student chooses “The evaporation was a random colour with no connection to a water-cycle report.” for this task: Which sentence uses “evaporation” precisely? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "a decorative page feature",
-      "how loud or soft a sound is",
-      "a character's name with no subject meaning"
+      "Keep the answer because it uses a familiar word.",
+      "Check whether the sentence matches the definition.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 1,
-    "explanation": "Context helps readers select the relevant meaning of a technical word.\nHint: Use the subject and surrounding idea.",
+    "explanation": "Check whether the sentence matches the definition. Precise usage fits the word's field-specific meaning.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Context helps readers select the relevant meaning of a technical word.",
-      "hint": "Use the subject and surrounding idea."
+      "summary": "Check whether the sentence matches the definition. Precise usage fits the word's field-specific meaning.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -631,20 +631,20 @@ window.skillrPracticeQuestions = [
     "skill": "Technical Vocabulary and Context",
     "printable": true,
     "type": "single",
-    "question": "Why is “volume” stronger than “thing” in a music guide?",
-    "audioPrompt": "Why is “volume” stronger than “thing” in a music guide?",
+    "question": "A student chooses “evaporation: any word at all” for this task: Which vocabulary note would best help a reader of a water-cycle report? What should they check?",
+    "audioPrompt": "A student chooses “evaporation: any word at all” for this task: Which vocabulary note would best help a reader of a water-cycle report? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It is longer, so it must always be better.",
-      "It removes information from the explanation.",
-      "It communicates the exact subject meaning."
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option.",
+      "Choose the note that is specific and accurate."
     ],
     "correct": 2,
-    "explanation": "Precision, not word length, makes technical vocabulary useful.\nHint: Ask which word identifies the concept accurately.",
+    "explanation": "Choose the note that is specific and accurate. A glossary-style note gives a clear contextual definition.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Precision, not word length, makes technical vocabulary useful.",
-      "hint": "Ask which word identifies the concept accurately."
+      "summary": "Choose the note that is specific and accurate. A glossary-style note gives a clear contextual definition.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -655,20 +655,20 @@ window.skillrPracticeQuestions = [
     "skill": "Technical Vocabulary and Context",
     "printable": true,
     "type": "single",
-    "question": "A reader does not know “volume” in a music guide. Which clue is most useful?",
-    "audioPrompt": "A reader does not know “volume” in a music guide. Which clue is most useful?",
+    "question": "A student chooses “Only the page decoration.” for this task: A writer replaces “evaporation” with “nice thing” in a water-cycle report. What is lost? What should they check?",
+    "audioPrompt": "A student chooses “Only the page decoration.” for this task: A writer replaces “evaporation” with “nice thing” in a water-cycle report. What is lost? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "The nearby explanation “how loud or soft a sound is”.",
-      "The colour of the page border.",
-      "The number of letters in the heading."
+      "Compare how exactly each phrase names the concept.",
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 0,
-    "explanation": "Definitions and surrounding information support word meaning.\nHint: Look for a clue that explains the idea.",
+    "explanation": "Compare how exactly each phrase names the concept. Vague wording can weaken a subject explanation.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Definitions and surrounding information support word meaning.",
-      "hint": "Look for a clue that explains the idea."
+      "summary": "Compare how exactly each phrase names the concept. Vague wording can weaken a subject explanation.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -679,20 +679,20 @@ window.skillrPracticeQuestions = [
     "skill": "Technical Vocabulary and Context",
     "printable": true,
     "type": "single",
-    "question": "The word “note” can have more than one meaning. What should a reader check first?",
-    "audioPrompt": "The word “note” can have more than one meaning. What should a reader check first?",
+    "question": "A student chooses “thing” for this task: Which technical word precisely names a seed beginning to grow in a plant science lesson? What should they check?",
+    "audioPrompt": "A student chooses “thing” for this task: Which technical word precisely names a seed beginning to grow in a plant science lesson? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Only whether the word is short.",
-      "The subject and surrounding sentence.",
-      "Only its position in the alphabet."
+      "Keep the answer because it uses a familiar word.",
+      "Choose the word a subject expert would use.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 1,
-    "explanation": "Context determines which meaning is intended.\nHint: Read around the word before choosing a meaning.",
+    "explanation": "Choose the word a subject expert would use. Technical vocabulary names ideas precisely within a field.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Context determines which meaning is intended.",
-      "hint": "Read around the word before choosing a meaning."
+      "summary": "Choose the word a subject expert would use. Technical vocabulary names ideas precisely within a field.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -703,20 +703,20 @@ window.skillrPracticeQuestions = [
     "skill": "Technical Vocabulary and Context",
     "printable": true,
     "type": "single",
-    "question": "Which sentence uses “volume” precisely?",
-    "audioPrompt": "Which sentence uses “volume” precisely?",
+    "question": "A student chooses “a decorative page feature” for this task: In a plant science lesson, what does “germination” mean? What should they check?",
+    "audioPrompt": "A student chooses “a decorative page feature” for this task: In a plant science lesson, what does “germination” mean? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "The volume was a random colour with no connection to a music guide.",
-      "Every object is always called volume.",
-      "The a music guide explains volume as how loud or soft a sound is."
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option.",
+      "Use the subject and surrounding idea."
     ],
     "correct": 2,
-    "explanation": "Precise usage fits the word's field-specific meaning.\nHint: Check whether the sentence matches the definition.",
+    "explanation": "Use the subject and surrounding idea. Context helps readers select the relevant meaning of a technical word.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Precise usage fits the word's field-specific meaning.",
-      "hint": "Check whether the sentence matches the definition."
+      "summary": "Use the subject and surrounding idea. Context helps readers select the relevant meaning of a technical word.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -727,14 +727,14 @@ window.skillrPracticeQuestions = [
     "skill": "Technical Vocabulary and Context",
     "printable": true,
     "type": "single",
-    "question": "Which vocabulary note would best help a reader of a music guide?",
-    "audioPrompt": "Which vocabulary note would best help a reader of a music guide?",
+    "question": "Which vocabulary note would best help a reader of a plant science lesson?",
+    "audioPrompt": "Which vocabulary note would best help a reader of a plant science lesson?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "volume: how loud or soft a sound is",
-      "volume: any word at all",
-      "volume: meaning not given"
+      "germination: a seed beginning to grow",
+      "germination: any word at all",
+      "germination: meaning not given"
     ],
     "correct": 0,
     "explanation": "A glossary-style note gives a clear contextual definition.\nHint: Choose the note that is specific and accurate.",
@@ -751,8 +751,8 @@ window.skillrPracticeQuestions = [
     "skill": "Technical Vocabulary and Context",
     "printable": true,
     "type": "single",
-    "question": "A writer replaces “volume” with “nice thing” in a music guide. What is lost?",
-    "audioPrompt": "A writer replaces “volume” with “nice thing” in a music guide. What is lost?",
+    "question": "A writer replaces “germination” with “nice thing” in a plant science lesson. What is lost?",
+    "audioPrompt": "A writer replaces “germination” with “nice thing” in a plant science lesson. What is lost?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -775,14 +775,14 @@ window.skillrPracticeQuestions = [
     "skill": "Technical Vocabulary and Context",
     "printable": true,
     "type": "single",
-    "question": "Which technical word precisely names a basic unit of living things in a biology explanation?",
-    "audioPrompt": "Which technical word precisely names a basic unit of living things in a biology explanation?",
+    "question": "Which technical word precisely names earth material being worn away and moved in a geography article?",
+    "audioPrompt": "Which technical word precisely names earth material being worn away and moved in a geography article?",
     "visual": "",
     "visualHtml": "",
     "answers": [
       "thing",
       "stuff",
-      "cell"
+      "erosion"
     ],
     "correct": 2,
     "explanation": "Technical vocabulary names ideas precisely within a field.\nHint: Choose the word a subject expert would use.",
@@ -799,12 +799,12 @@ window.skillrPracticeQuestions = [
     "skill": "Technical Vocabulary and Context",
     "printable": true,
     "type": "single",
-    "question": "In a biology explanation, what does “cell” mean?",
-    "audioPrompt": "In a biology explanation, what does “cell” mean?",
+    "question": "In a geography article, what does “erosion” mean?",
+    "audioPrompt": "In a geography article, what does “erosion” mean?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "a basic unit of living things",
+      "earth material being worn away and moved",
       "a decorative page feature",
       "a character's name with no subject meaning"
     ],
@@ -823,8 +823,8 @@ window.skillrPracticeQuestions = [
     "skill": "Technical Vocabulary and Context",
     "printable": true,
     "type": "single",
-    "question": "Why is “cell” stronger than “thing” in a biology explanation?",
-    "audioPrompt": "Why is “cell” stronger than “thing” in a biology explanation?",
+    "question": "Why is “erosion” stronger than “thing” in a geography article?",
+    "audioPrompt": "Why is “erosion” stronger than “thing” in a geography article?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -847,14 +847,14 @@ window.skillrPracticeQuestions = [
     "skill": "Technical Vocabulary and Context",
     "printable": true,
     "type": "single",
-    "question": "A reader does not know “cell” in a biology explanation. Which clue is most useful?",
-    "audioPrompt": "A reader does not know “cell” in a biology explanation. Which clue is most useful?",
+    "question": "A reader does not know “erosion” in a geography article. Which clue is most useful?",
+    "audioPrompt": "A reader does not know “erosion” in a geography article. Which clue is most useful?",
     "visual": "",
     "visualHtml": "",
     "answers": [
       "The colour of the page border.",
       "The number of letters in the heading.",
-      "The nearby explanation “a basic unit of living things”."
+      "The nearby explanation “earth material being worn away and moved”."
     ],
     "correct": 2,
     "explanation": "Definitions and surrounding information support word meaning.\nHint: Look for a clue that explains the idea.",
@@ -871,8 +871,8 @@ window.skillrPracticeQuestions = [
     "skill": "Technical Vocabulary and Context",
     "printable": true,
     "type": "single",
-    "question": "The word “organ” can have more than one meaning. What should a reader check first?",
-    "audioPrompt": "The word “organ” can have more than one meaning. What should a reader check first?",
+    "question": "The word “bank” can have more than one meaning. What should a reader check first?",
+    "audioPrompt": "The word “bank” can have more than one meaning. What should a reader check first?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -895,14 +895,14 @@ window.skillrPracticeQuestions = [
     "skill": "Technical Vocabulary and Context",
     "printable": true,
     "type": "single",
-    "question": "Which sentence uses “cell” precisely?",
-    "audioPrompt": "Which sentence uses “cell” precisely?",
+    "question": "Which sentence uses “erosion” precisely?",
+    "audioPrompt": "Which sentence uses “erosion” precisely?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "The cell was a random colour with no connection to a biology explanation.",
-      "The a biology explanation explains cell as a basic unit of living things.",
-      "Every object is always called cell."
+      "The erosion was a random colour with no connection to a geography article.",
+      "The a geography article explains erosion as earth material being worn away and moved.",
+      "Every object is always called erosion."
     ],
     "correct": 1,
     "explanation": "Precise usage fits the word's field-specific meaning.\nHint: Check whether the sentence matches the definition.",
@@ -919,14 +919,14 @@ window.skillrPracticeQuestions = [
     "skill": "Technical Vocabulary and Context",
     "printable": true,
     "type": "single",
-    "question": "Which vocabulary note would best help a reader of a biology explanation?",
-    "audioPrompt": "Which vocabulary note would best help a reader of a biology explanation?",
+    "question": "Which vocabulary note would best help a reader of a geography article?",
+    "audioPrompt": "Which vocabulary note would best help a reader of a geography article?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "cell: any word at all",
-      "cell: meaning not given",
-      "cell: a basic unit of living things"
+      "erosion: any word at all",
+      "erosion: meaning not given",
+      "erosion: earth material being worn away and moved"
     ],
     "correct": 2,
     "explanation": "A glossary-style note gives a clear contextual definition.\nHint: Choose the note that is specific and accurate.",
@@ -943,8 +943,8 @@ window.skillrPracticeQuestions = [
     "skill": "Technical Vocabulary and Context",
     "printable": true,
     "type": "single",
-    "question": "A writer replaces “cell” with “nice thing” in a biology explanation. What is lost?",
-    "audioPrompt": "A writer replaces “cell” with “nice thing” in a biology explanation. What is lost?",
+    "question": "A writer replaces “erosion” with “nice thing” in a geography article. What is lost?",
+    "audioPrompt": "A writer replaces “erosion” with “nice thing” in a geography article. What is lost?",
     "visual": "",
     "visualHtml": "",
     "answers": [

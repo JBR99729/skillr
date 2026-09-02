@@ -307,19 +307,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Listening and Viewing Comprehension",
-    "question": "While viewing a video about waterways, what should support an interpretation?",
-    "audio_prompt": "While viewing a video about waterways, what should support an interpretation?",
+    "question": "Why is “Relevant spoken, visual or sound evidence” the best answer here? While viewing a video about waterways, what should support an interpretation?",
+    "audio_prompt": "Why is “Relevant spoken, visual or sound evidence” the best answer here? While viewing a video about waterways, what should support an interpretation?",
     "answers": [
       {
-        "text": "Relevant spoken, visual or sound evidence",
+        "text": "Relevant spoken, visual or sound evidence This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "A guess unrelated to the text",
+        "text": "Because “A guess unrelated to the text” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Only a personal preference",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -337,19 +337,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Listening and Viewing Comprehension",
-    "question": "While viewing a video about waterways, how can music affect a viewed text?",
-    "audio_prompt": "While viewing a video about waterways, how can music affect a viewed text?",
+    "question": "Why is “It can shape mood and expectations” the best answer here? While viewing a video about waterways, how can music affect a viewed text?",
+    "audio_prompt": "Why is “It can shape mood and expectations” the best answer here? While viewing a video about waterways, how can music affect a viewed text?",
     "answers": [
       {
-        "text": "It changes every spoken fact",
+        "text": "Because “It changes every spoken fact” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "It can shape mood and expectations",
+        "text": "It can shape mood and expectations This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "It identifies the page number",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -367,19 +367,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Listening and Viewing Comprehension",
-    "question": "While viewing a video about waterways, which response begins to evaluate a presentation?",
-    "audio_prompt": "While viewing a video about waterways, which response begins to evaluate a presentation?",
+    "question": "Why is “The labelled diagram made the explanation easier to follow” the best answer here? While viewing a video about waterways, which response begins to evaluate a presentation?",
+    "audio_prompt": "Why is “The labelled diagram made the explanation easier to follow” the best answer here? While viewing a video about waterways, which response begins to evaluate a presentation?",
     "answers": [
       {
-        "text": "It existed",
+        "text": "Because “It existed” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "I watched it",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "The labelled diagram made the explanation easier to follow",
+        "text": "The labelled diagram made the explanation easier to follow This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       }
     ],
@@ -397,19 +397,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Listening and Viewing Comprehension",
-    "question": "While viewing a video about waterways, a speaker pauses and points to a falling graph. What combined meaning is likely?",
-    "audio_prompt": "While viewing a video about waterways, a speaker pauses and points to a falling graph. What combined meaning is likely?",
+    "question": "Why is “The decrease is important to the explanation” the best answer here? While viewing a video about waterways, a speaker pauses and points to a falling graph. What combined meaning is likely?",
+    "audio_prompt": "Why is “The decrease is important to the explanation” the best answer here? While viewing a video about waterways, a speaker pauses and points to a falling graph. What combined meaning is likely?",
     "answers": [
       {
-        "text": "The decrease is important to the explanation",
+        "text": "The decrease is important to the explanation This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "The speaker forgot the topic",
+        "text": "Because “The speaker forgot the topic” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Graphs always show danger",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -427,19 +427,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Listening and Viewing Comprehension",
-    "question": "While viewing a video about waterways, why can two viewers infer different ideas?",
-    "audio_prompt": "While viewing a video about waterways, why can two viewers infer different ideas?",
+    "question": "Why is “They may notice different clues, but should justify interpretations with evidence” the best answer here? While viewing a video about waterways, why can two viewers infer different ideas?",
+    "audio_prompt": "Why is “They may notice different clues, but should justify interpretations with evidence” the best answer here? While viewing a video about waterways, why can two viewers infer different ideas?",
     "answers": [
       {
-        "text": "Only one viewer can use evidence",
+        "text": "Because “Only one viewer can use evidence” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "They may notice different clues, but should justify interpretations with evidence",
+        "text": "They may notice different clues, but should justify interpretations with evidence This explanation follows the relevant Year 3 English evidence.",
         "is_correct": true
       },
       {
-        "text": "Inferences never need support",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -457,19 +457,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Listening and Viewing Comprehension",
-    "question": "While viewing a video about waterways, which summary includes the central message?",
-    "audio_prompt": "While viewing a video about waterways, which summary includes the central message?",
+    "question": "Why is “It states the main idea and the most important supporting point” the best answer here? While viewing a video about waterways, which summary includes the central message?",
+    "audio_prompt": "Why is “It states the main idea and the most important supporting point” the best answer here? While viewing a video about waterways, which summary includes the central message?",
     "answers": [
       {
-        "text": "It lists one minor colour detail",
+        "text": "Because “It lists one minor colour detail” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "It repeats every sentence",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "It states the main idea and the most important supporting point",
+        "text": "It states the main idea and the most important supporting point This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       }
     ],
@@ -487,19 +487,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Listening and Viewing Comprehension",
-    "question": "After hearing a story about a rescue, which question checks literal meaning?",
-    "audio_prompt": "After hearing a story about a rescue, which question checks literal meaning?",
+    "question": "Why is “What did the speaker say happened first?” the best answer here? After hearing a story about a rescue, which question checks literal meaning?",
+    "audio_prompt": "Why is “What did the speaker say happened first?” the best answer here? After hearing a story about a rescue, which question checks literal meaning?",
     "answers": [
       {
-        "text": "What did the speaker say happened first?",
+        "text": "What did the speaker say happened first? This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "Why might the speaker value this idea?",
+        "text": "Because “Why might the speaker value this idea?” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Was the background colour attractive?",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -517,19 +517,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Listening and Viewing Comprehension",
-    "question": "After hearing a story about a rescue, which question asks for an inference?",
-    "audio_prompt": "After hearing a story about a rescue, which question asks for an inference?",
+    "question": "Why is “What clues suggest the animal was frightened?” the best answer here? After hearing a story about a rescue, which question asks for an inference?",
+    "audio_prompt": "Why is “What clues suggest the animal was frightened?” the best answer here? After hearing a story about a rescue, which question asks for an inference?",
     "answers": [
       {
-        "text": "What was the animal's name?",
+        "text": "Because “What was the animal's name?” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "What clues suggest the animal was frightened?",
+        "text": "What clues suggest the animal was frightened? This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "How many minutes was the video?",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -547,19 +547,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Listening and Viewing Comprehension",
-    "question": "After hearing a story about a rescue, what should support an interpretation?",
-    "audio_prompt": "After hearing a story about a rescue, what should support an interpretation?",
+    "question": "Why is “Relevant spoken, visual or sound evidence” the best answer here? After hearing a story about a rescue, what should support an interpretation?",
+    "audio_prompt": "Why is “Relevant spoken, visual or sound evidence” the best answer here? After hearing a story about a rescue, what should support an interpretation?",
     "answers": [
       {
-        "text": "A guess unrelated to the text",
+        "text": "Because “A guess unrelated to the text” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Only a personal preference",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "Relevant spoken, visual or sound evidence",
+        "text": "Relevant spoken, visual or sound evidence This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       }
     ],
@@ -577,19 +577,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Listening and Viewing Comprehension",
-    "question": "After hearing a story about a rescue, how can music affect a viewed text?",
-    "audio_prompt": "After hearing a story about a rescue, how can music affect a viewed text?",
+    "question": "Why is “It can shape mood and expectations” the best answer here? After hearing a story about a rescue, how can music affect a viewed text?",
+    "audio_prompt": "Why is “It can shape mood and expectations” the best answer here? After hearing a story about a rescue, how can music affect a viewed text?",
     "answers": [
       {
-        "text": "It can shape mood and expectations",
+        "text": "It can shape mood and expectations This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "It changes every spoken fact",
+        "text": "Because “It changes every spoken fact” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "It identifies the page number",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -607,26 +607,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Listening and Viewing Comprehension",
-    "question": "After hearing a story about a rescue, which response begins to evaluate a presentation?",
-    "audio_prompt": "After hearing a story about a rescue, which response begins to evaluate a presentation?",
+    "question": "A student chooses “Why might the speaker value this idea?” for this task: After listening to a talk about bees, which question checks literal meaning? What should they check?",
+    "audio_prompt": "A student chooses “Why might the speaker value this idea?” for this task: After listening to a talk about bees, which question checks literal meaning? What should they check?",
     "answers": [
       {
-        "text": "It existed",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "The labelled diagram made the explanation easier to follow",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "I watched it",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The labelled diagram made the explanation easier to follow This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. What did the speaker say happened first? This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -637,26 +637,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Listening and Viewing Comprehension",
-    "question": "After hearing a story about a rescue, a speaker pauses and points to a falling graph. What combined meaning is likely?",
-    "audio_prompt": "After hearing a story about a rescue, a speaker pauses and points to a falling graph. What combined meaning is likely?",
+    "question": "A student chooses “What was the animal's name?” for this task: After listening to a talk about bees, which question asks for an inference? What should they check?",
+    "audio_prompt": "A student chooses “What was the animal's name?” for this task: After listening to a talk about bees, which question asks for an inference? What should they check?",
     "answers": [
       {
-        "text": "The speaker forgot the topic",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Graphs always show danger",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "The decrease is important to the explanation",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The decrease is important to the explanation This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. What clues suggest the animal was frightened? This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -667,26 +667,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Listening and Viewing Comprehension",
-    "question": "After hearing a story about a rescue, why can two viewers infer different ideas?",
-    "audio_prompt": "After hearing a story about a rescue, why can two viewers infer different ideas?",
+    "question": "A student chooses “A guess unrelated to the text” for this task: After listening to a talk about bees, what should support an interpretation? What should they check?",
+    "audio_prompt": "A student chooses “A guess unrelated to the text” for this task: After listening to a talk about bees, what should support an interpretation? What should they check?",
     "answers": [
       {
-        "text": "They may notice different clues, but should justify interpretations with evidence",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "Only one viewer can use evidence",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Inferences never need support",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "They may notice different clues, but should justify interpretations with evidence This explanation follows the relevant Year 3 English evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Relevant spoken, visual or sound evidence This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -697,26 +697,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Listening and Viewing Comprehension",
-    "question": "After hearing a story about a rescue, which summary includes the central message?",
-    "audio_prompt": "After hearing a story about a rescue, which summary includes the central message?",
+    "question": "A student chooses “It changes every spoken fact” for this task: After listening to a talk about bees, how can music affect a viewed text? What should they check?",
+    "audio_prompt": "A student chooses “It changes every spoken fact” for this task: After listening to a talk about bees, how can music affect a viewed text? What should they check?",
     "answers": [
       {
-        "text": "It lists one minor colour detail",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "It states the main idea and the most important supporting point",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "It repeats every sentence",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "It states the main idea and the most important supporting point This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. It can shape mood and expectations This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -727,26 +727,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Listening and Viewing Comprehension",
-    "question": "While viewing a report about recycling, which question checks literal meaning?",
-    "audio_prompt": "While viewing a report about recycling, which question checks literal meaning?",
+    "question": "A student chooses “It existed” for this task: After listening to a talk about bees, which response begins to evaluate a presentation? What should they check?",
+    "audio_prompt": "A student chooses “It existed” for this task: After listening to a talk about bees, which response begins to evaluate a presentation? What should they check?",
     "answers": [
       {
-        "text": "Why might the speaker value this idea?",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Was the background colour attractive?",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "What did the speaker say happened first?",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "What did the speaker say happened first? This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. The labelled diagram made the explanation easier to follow This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -757,26 +757,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Listening and Viewing Comprehension",
-    "question": "While viewing a report about recycling, which question asks for an inference?",
-    "audio_prompt": "While viewing a report about recycling, which question asks for an inference?",
+    "question": "A student chooses “The speaker forgot the topic” for this task: After listening to a talk about bees, a speaker pauses and points to a falling graph. What combined meaning is likely? What should they check?",
+    "audio_prompt": "A student chooses “The speaker forgot the topic” for this task: After listening to a talk about bees, a speaker pauses and points to a falling graph. What combined meaning is likely? What should they check?",
     "answers": [
       {
-        "text": "What clues suggest the animal was frightened?",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "What was the animal's name?",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "How many minutes was the video?",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "What clues suggest the animal was frightened? This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. The decrease is important to the explanation This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -787,26 +787,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Listening and Viewing Comprehension",
-    "question": "While viewing a report about recycling, what should support an interpretation?",
-    "audio_prompt": "While viewing a report about recycling, what should support an interpretation?",
+    "question": "A student chooses “Only one viewer can use evidence” for this task: After listening to a talk about bees, why can two viewers infer different ideas? What should they check?",
+    "audio_prompt": "A student chooses “Only one viewer can use evidence” for this task: After listening to a talk about bees, why can two viewers infer different ideas? What should they check?",
     "answers": [
       {
-        "text": "A guess unrelated to the text",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Relevant spoken, visual or sound evidence",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "Only a personal preference",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Relevant spoken, visual or sound evidence This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. They may notice different clues, but should justify interpretations with evidence This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -817,26 +817,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Listening and Viewing Comprehension",
-    "question": "While viewing a report about recycling, how can music affect a viewed text?",
-    "audio_prompt": "While viewing a report about recycling, how can music affect a viewed text?",
+    "question": "A student chooses “It lists one minor colour detail” for this task: After listening to a talk about bees, which summary includes the central message? What should they check?",
+    "audio_prompt": "A student chooses “It lists one minor colour detail” for this task: After listening to a talk about bees, which summary includes the central message? What should they check?",
     "answers": [
       {
-        "text": "It changes every spoken fact",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "It identifies the page number",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "It can shape mood and expectations",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "It can shape mood and expectations This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. It states the main idea and the most important supporting point This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -847,26 +847,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Listening and Viewing Comprehension",
-    "question": "While viewing a report about recycling, which response begins to evaluate a presentation?",
-    "audio_prompt": "While viewing a report about recycling, which response begins to evaluate a presentation?",
+    "question": "A student chooses “Why might the speaker value this idea?” for this task: While viewing a video about waterways, which question checks literal meaning? What should they check?",
+    "audio_prompt": "A student chooses “Why might the speaker value this idea?” for this task: While viewing a video about waterways, which question checks literal meaning? What should they check?",
     "answers": [
       {
-        "text": "The labelled diagram made the explanation easier to follow",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "It existed",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "I watched it",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The labelled diagram made the explanation easier to follow This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. What did the speaker say happened first? This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -877,26 +877,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Listening and Viewing Comprehension",
-    "question": "While viewing a report about recycling, a speaker pauses and points to a falling graph. What combined meaning is likely?",
-    "audio_prompt": "While viewing a report about recycling, a speaker pauses and points to a falling graph. What combined meaning is likely?",
+    "question": "A student chooses “What was the animal's name?” for this task: While viewing a video about waterways, which question asks for an inference? What should they check?",
+    "audio_prompt": "A student chooses “What was the animal's name?” for this task: While viewing a video about waterways, which question asks for an inference? What should they check?",
     "answers": [
       {
-        "text": "The speaker forgot the topic",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "The decrease is important to the explanation",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "Graphs always show danger",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The decrease is important to the explanation This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. What clues suggest the animal was frightened? This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -907,8 +907,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Listening and Viewing Comprehension",
-    "question": "While viewing a report about recycling, why can two viewers infer different ideas?",
-    "audio_prompt": "While viewing a report about recycling, why can two viewers infer different ideas?",
+    "question": "While viewing a video about waterways, why can two viewers infer different ideas?",
+    "audio_prompt": "While viewing a video about waterways, why can two viewers infer different ideas?",
     "answers": [
       {
         "text": "Only one viewer can use evidence",
@@ -937,8 +937,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Listening and Viewing Comprehension",
-    "question": "While viewing a report about recycling, which summary includes the central message?",
-    "audio_prompt": "While viewing a report about recycling, which summary includes the central message?",
+    "question": "While viewing a video about waterways, which summary includes the central message?",
+    "audio_prompt": "While viewing a video about waterways, which summary includes the central message?",
     "answers": [
       {
         "text": "It states the main idea and the most important supporting point",
@@ -967,8 +967,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Listening and Viewing Comprehension",
-    "question": "After listening to an explanation of shadows, which question checks literal meaning?",
-    "audio_prompt": "After listening to an explanation of shadows, which question checks literal meaning?",
+    "question": "After hearing a story about a rescue, which question checks literal meaning?",
+    "audio_prompt": "After hearing a story about a rescue, which question checks literal meaning?",
     "answers": [
       {
         "text": "Why might the speaker value this idea?",
@@ -997,8 +997,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Listening and Viewing Comprehension",
-    "question": "After listening to an explanation of shadows, which question asks for an inference?",
-    "audio_prompt": "After listening to an explanation of shadows, which question asks for an inference?",
+    "question": "After hearing a story about a rescue, which question asks for an inference?",
+    "audio_prompt": "After hearing a story about a rescue, which question asks for an inference?",
     "answers": [
       {
         "text": "What was the animal's name?",
@@ -1027,8 +1027,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Listening and Viewing Comprehension",
-    "question": "After listening to an explanation of shadows, what should support an interpretation?",
-    "audio_prompt": "After listening to an explanation of shadows, what should support an interpretation?",
+    "question": "After hearing a story about a rescue, what should support an interpretation?",
+    "audio_prompt": "After hearing a story about a rescue, what should support an interpretation?",
     "answers": [
       {
         "text": "Relevant spoken, visual or sound evidence",
@@ -1057,8 +1057,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Listening and Viewing Comprehension",
-    "question": "After listening to an explanation of shadows, how can music affect a viewed text?",
-    "audio_prompt": "After listening to an explanation of shadows, how can music affect a viewed text?",
+    "question": "After hearing a story about a rescue, how can music affect a viewed text?",
+    "audio_prompt": "After hearing a story about a rescue, how can music affect a viewed text?",
     "answers": [
       {
         "text": "It changes every spoken fact",
@@ -1087,8 +1087,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Listening and Viewing Comprehension",
-    "question": "After listening to an explanation of shadows, which response begins to evaluate a presentation?",
-    "audio_prompt": "After listening to an explanation of shadows, which response begins to evaluate a presentation?",
+    "question": "After hearing a story about a rescue, which response begins to evaluate a presentation?",
+    "audio_prompt": "After hearing a story about a rescue, which response begins to evaluate a presentation?",
     "answers": [
       {
         "text": "It existed",
@@ -1117,8 +1117,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Listening and Viewing Comprehension",
-    "question": "After listening to an explanation of shadows, a speaker pauses and points to a falling graph. What combined meaning is likely?",
-    "audio_prompt": "After listening to an explanation of shadows, a speaker pauses and points to a falling graph. What combined meaning is likely?",
+    "question": "After hearing a story about a rescue, a speaker pauses and points to a falling graph. What combined meaning is likely?",
+    "audio_prompt": "After hearing a story about a rescue, a speaker pauses and points to a falling graph. What combined meaning is likely?",
     "answers": [
       {
         "text": "The decrease is important to the explanation",
@@ -1147,8 +1147,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Listening and Viewing Comprehension",
-    "question": "After listening to an explanation of shadows, why can two viewers infer different ideas?",
-    "audio_prompt": "After listening to an explanation of shadows, why can two viewers infer different ideas?",
+    "question": "After hearing a story about a rescue, why can two viewers infer different ideas?",
+    "audio_prompt": "After hearing a story about a rescue, why can two viewers infer different ideas?",
     "answers": [
       {
         "text": "Only one viewer can use evidence",
@@ -1177,8 +1177,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Listening and Viewing Comprehension",
-    "question": "After listening to an explanation of shadows, which summary includes the central message?",
-    "audio_prompt": "After listening to an explanation of shadows, which summary includes the central message?",
+    "question": "After hearing a story about a rescue, which summary includes the central message?",
+    "audio_prompt": "After hearing a story about a rescue, which summary includes the central message?",
     "answers": [
       {
         "text": "It lists one minor colour detail",
@@ -1205,8 +1205,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY05",
     "bank": "test",
+    "stage": "verify",
     "skill": "Listening and Viewing Comprehension",
-    "question": "New check: While viewing a report about recycling, which question checks literal meaning?",
+    "question": "While viewing a report about recycling, which question checks literal meaning?",
     "audio_prompt": "While viewing a report about recycling, which question checks literal meaning?",
     "answers": [
       {
@@ -1234,8 +1235,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY05",
     "bank": "test",
+    "stage": "verify",
     "skill": "Listening and Viewing Comprehension",
-    "question": "New check: While viewing a report about recycling, which question asks for an inference?",
+    "question": "While viewing a report about recycling, which question asks for an inference?",
     "audio_prompt": "While viewing a report about recycling, which question asks for an inference?",
     "answers": [
       {
@@ -1263,8 +1265,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY05",
     "bank": "test",
+    "stage": "verify",
     "skill": "Listening and Viewing Comprehension",
-    "question": "New check: While viewing a report about recycling, what should support an interpretation?",
+    "question": "While viewing a report about recycling, what should support an interpretation?",
     "audio_prompt": "While viewing a report about recycling, what should support an interpretation?",
     "answers": [
       {
@@ -1292,8 +1295,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY05",
     "bank": "test",
+    "stage": "verify",
     "skill": "Listening and Viewing Comprehension",
-    "question": "New check: While viewing a report about recycling, how can music affect a viewed text?",
+    "question": "While viewing a report about recycling, how can music affect a viewed text?",
     "audio_prompt": "While viewing a report about recycling, how can music affect a viewed text?",
     "answers": [
       {
@@ -1321,8 +1325,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY05",
     "bank": "test",
+    "stage": "verify",
     "skill": "Listening and Viewing Comprehension",
-    "question": "New check: While viewing a report about recycling, which response begins to evaluate a presentation?",
+    "question": "While viewing a report about recycling, which response begins to evaluate a presentation?",
     "audio_prompt": "While viewing a report about recycling, which response begins to evaluate a presentation?",
     "answers": [
       {
@@ -1350,8 +1355,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY05",
     "bank": "test",
+    "stage": "verify",
     "skill": "Listening and Viewing Comprehension",
-    "question": "New check: While viewing a report about recycling, a speaker pauses and points to a falling graph. What combined meaning is likely?",
+    "question": "While viewing a report about recycling, a speaker pauses and points to a falling graph. What combined meaning is likely?",
     "audio_prompt": "While viewing a report about recycling, a speaker pauses and points to a falling graph. What combined meaning is likely?",
     "answers": [
       {
@@ -1379,8 +1385,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY05",
     "bank": "test",
+    "stage": "verify",
     "skill": "Listening and Viewing Comprehension",
-    "question": "New check: While viewing a report about recycling, why can two viewers infer different ideas?",
+    "question": "While viewing a report about recycling, why can two viewers infer different ideas?",
     "audio_prompt": "While viewing a report about recycling, why can two viewers infer different ideas?",
     "answers": [
       {
@@ -1408,8 +1415,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY05",
     "bank": "test",
+    "stage": "verify",
     "skill": "Listening and Viewing Comprehension",
-    "question": "New check: While viewing a report about recycling, which summary includes the central message?",
+    "question": "While viewing a report about recycling, which summary includes the central message?",
     "audio_prompt": "While viewing a report about recycling, which summary includes the central message?",
     "answers": [
       {
@@ -1437,8 +1445,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY05",
     "bank": "test",
+    "stage": "apply",
     "skill": "Listening and Viewing Comprehension",
-    "question": "New check: After listening to an explanation of shadows, which question checks literal meaning?",
+    "question": "After listening to an explanation of shadows, which question checks literal meaning?",
     "audio_prompt": "After listening to an explanation of shadows, which question checks literal meaning?",
     "answers": [
       {
@@ -1466,8 +1475,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY05",
     "bank": "test",
+    "stage": "apply",
     "skill": "Listening and Viewing Comprehension",
-    "question": "New check: After listening to an explanation of shadows, which question asks for an inference?",
+    "question": "After listening to an explanation of shadows, which question asks for an inference?",
     "audio_prompt": "After listening to an explanation of shadows, which question asks for an inference?",
     "answers": [
       {
@@ -1495,8 +1505,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY05",
     "bank": "test",
+    "stage": "apply",
     "skill": "Listening and Viewing Comprehension",
-    "question": "New check: After listening to an explanation of shadows, what should support an interpretation?",
+    "question": "After listening to an explanation of shadows, what should support an interpretation?",
     "audio_prompt": "After listening to an explanation of shadows, what should support an interpretation?",
     "answers": [
       {
@@ -1524,8 +1535,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY05",
     "bank": "test",
+    "stage": "apply",
     "skill": "Listening and Viewing Comprehension",
-    "question": "New check: After listening to an explanation of shadows, how can music affect a viewed text?",
+    "question": "After listening to an explanation of shadows, how can music affect a viewed text?",
     "audio_prompt": "After listening to an explanation of shadows, how can music affect a viewed text?",
     "answers": [
       {
@@ -1553,8 +1565,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY05",
     "bank": "test",
+    "stage": "apply",
     "skill": "Listening and Viewing Comprehension",
-    "question": "New check: After listening to an explanation of shadows, which response begins to evaluate a presentation?",
+    "question": "After listening to an explanation of shadows, which response begins to evaluate a presentation?",
     "audio_prompt": "After listening to an explanation of shadows, which response begins to evaluate a presentation?",
     "answers": [
       {
@@ -1582,8 +1595,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY05",
     "bank": "test",
+    "stage": "apply",
     "skill": "Listening and Viewing Comprehension",
-    "question": "New check: After listening to an explanation of shadows, a speaker pauses and points to a falling graph. What combined meaning is likely?",
+    "question": "After listening to an explanation of shadows, a speaker pauses and points to a falling graph. What combined meaning is likely?",
     "audio_prompt": "After listening to an explanation of shadows, a speaker pauses and points to a falling graph. What combined meaning is likely?",
     "answers": [
       {
@@ -1611,8 +1625,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY05",
     "bank": "test",
+    "stage": "apply",
     "skill": "Listening and Viewing Comprehension",
-    "question": "New check: After listening to an explanation of shadows, why can two viewers infer different ideas?",
+    "question": "After listening to an explanation of shadows, why can two viewers infer different ideas?",
     "audio_prompt": "After listening to an explanation of shadows, why can two viewers infer different ideas?",
     "answers": [
       {
@@ -1640,8 +1655,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY05",
     "bank": "test",
+    "stage": "apply",
     "skill": "Listening and Viewing Comprehension",
-    "question": "New check: After listening to an explanation of shadows, which summary includes the central message?",
+    "question": "After listening to an explanation of shadows, which summary includes the central message?",
     "audio_prompt": "After listening to an explanation of shadows, which summary includes the central message?",
     "answers": [
       {

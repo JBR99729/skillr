@@ -307,19 +307,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For a book recommendation, which voice choice helps an audience follow?",
-    "audio_prompt": "For a book recommendation, which voice choice helps an audience follow?",
+    "question": "Why is “Clear volume, suitable pace and meaningful emphasis” the best answer here? For a book recommendation, which voice choice helps an audience follow?",
+    "audio_prompt": "Why is “Clear volume, suitable pace and meaningful emphasis” the best answer here? For a book recommendation, which voice choice helps an audience follow?",
     "answers": [
       {
-        "text": "A whisper throughout",
+        "text": "Because “A whisper throughout” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Maximum speed without pauses",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "Clear volume, suitable pace and meaningful emphasis",
+        "text": "Clear volume, suitable pace and meaningful emphasis This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       }
     ],
@@ -337,19 +337,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For a book recommendation, what is the best use of a visual?",
-    "audio_prompt": "For a book recommendation, what is the best use of a visual?",
+    "question": "Why is “Show evidence or a relationship while the speaker explains it” the best answer here? For a book recommendation, what is the best use of a visual?",
+    "audio_prompt": "Why is “Show evidence or a relationship while the speaker explains it” the best answer here? For a book recommendation, what is the best use of a visual?",
     "answers": [
       {
-        "text": "Show evidence or a relationship while the speaker explains it",
+        "text": "Show evidence or a relationship while the speaker explains it This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "Cover the visual with unrelated text",
+        "text": "Because “Cover the visual with unrelated text” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Read every label without explanation",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -367,19 +367,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For a book recommendation, why should vocabulary suit the audience?",
-    "audio_prompt": "For a book recommendation, why should vocabulary suit the audience?",
+    "question": "Why is “Listeners need accurate terms they can understand” the best answer here? For a book recommendation, why should vocabulary suit the audience?",
+    "audio_prompt": "Why is “Listeners need accurate terms they can understand” the best answer here? For a book recommendation, why should vocabulary suit the audience?",
     "answers": [
       {
-        "text": "Technical words always impress everyone",
+        "text": "Because “Technical words always impress everyone” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Listeners need accurate terms they can understand",
+        "text": "Listeners need accurate terms they can understand This explanation follows the relevant Year 3 English evidence.",
         "is_correct": true
       },
       {
-        "text": "Audience knowledge never matters",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -397,19 +397,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For a book recommendation, which transition signals a new point?",
-    "audio_prompt": "For a book recommendation, which transition signals a new point?",
+    "question": "Why is “Next, let us compare the two results” the best answer here? For a book recommendation, which transition signals a new point?",
+    "audio_prompt": "Why is “Next, let us compare the two results” the best answer here? For a book recommendation, which transition signals a new point?",
     "answers": [
       {
-        "text": "Um, anyway",
+        "text": "Because “Um, anyway” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "The end, before the middle",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "Next, let us compare the two results",
+        "text": "Next, let us compare the two results This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       }
     ],
@@ -427,19 +427,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For a book recommendation, a listener looks confused. What can the speaker do?",
-    "audio_prompt": "For a book recommendation, a listener looks confused. What can the speaker do?",
+    "question": "Why is “Restate the idea with a clear example” the best answer here? For a book recommendation, a listener looks confused. What can the speaker do?",
+    "audio_prompt": "Why is “Restate the idea with a clear example” the best answer here? For a book recommendation, a listener looks confused. What can the speaker do?",
     "answers": [
       {
-        "text": "Restate the idea with a clear example",
+        "text": "Restate the idea with a clear example This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "Speak faster",
+        "text": "Because “Speak faster” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Remove the main point",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -457,19 +457,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For a book recommendation, which conclusion is effective?",
-    "audio_prompt": "For a book recommendation, which conclusion is effective?",
+    "question": "Why is “Summarise the central idea and connect back to the purpose” the best answer here? For a book recommendation, which conclusion is effective?",
+    "audio_prompt": "Why is “Summarise the central idea and connect back to the purpose” the best answer here? For a book recommendation, which conclusion is effective?",
     "answers": [
       {
-        "text": "Introduce three new topics",
+        "text": "Because “Introduce three new topics” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Summarise the central idea and connect back to the purpose",
+        "text": "Summarise the central idea and connect back to the purpose This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "Repeat the greeting only",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -487,19 +487,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For an explanation of a local place, which opening best orients listeners?",
-    "audio_prompt": "For an explanation of a local place, which opening best orients listeners?",
+    "question": "Why is “State the topic and why it matters” the best answer here? For an explanation of a local place, which opening best orients listeners?",
+    "audio_prompt": "Why is “State the topic and why it matters” the best answer here? For an explanation of a local place, which opening best orients listeners?",
     "answers": [
       {
-        "text": "Begin with an unexplained final detail",
+        "text": "Because “Begin with an unexplained final detail” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Apologise for speaking",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "State the topic and why it matters",
+        "text": "State the topic and why it matters This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       }
     ],
@@ -517,19 +517,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For an explanation of a local place, how should ideas be ordered?",
-    "audio_prompt": "For an explanation of a local place, how should ideas be ordered?",
+    "question": "Why is “In a clear sequence with linking language” the best answer here? For an explanation of a local place, how should ideas be ordered?",
+    "audio_prompt": "Why is “In a clear sequence with linking language” the best answer here? For an explanation of a local place, how should ideas be ordered?",
     "answers": [
       {
-        "text": "In a clear sequence with linking language",
+        "text": "In a clear sequence with linking language This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "Randomly as they are remembered",
+        "text": "Because “Randomly as they are remembered” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "With the conclusion before any topic",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -547,19 +547,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For an explanation of a local place, which voice choice helps an audience follow?",
-    "audio_prompt": "For an explanation of a local place, which voice choice helps an audience follow?",
+    "question": "Why is “Clear volume, suitable pace and meaningful emphasis” the best answer here? For an explanation of a local place, which voice choice helps an audience follow?",
+    "audio_prompt": "Why is “Clear volume, suitable pace and meaningful emphasis” the best answer here? For an explanation of a local place, which voice choice helps an audience follow?",
     "answers": [
       {
-        "text": "A whisper throughout",
+        "text": "Because “A whisper throughout” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Clear volume, suitable pace and meaningful emphasis",
+        "text": "Clear volume, suitable pace and meaningful emphasis This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "Maximum speed without pauses",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -577,19 +577,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For an explanation of a local place, what is the best use of a visual?",
-    "audio_prompt": "For an explanation of a local place, what is the best use of a visual?",
+    "question": "Why is “Show evidence or a relationship while the speaker explains it” the best answer here? For an explanation of a local place, what is the best use of a visual?",
+    "audio_prompt": "Why is “Show evidence or a relationship while the speaker explains it” the best answer here? For an explanation of a local place, what is the best use of a visual?",
     "answers": [
       {
-        "text": "Cover the visual with unrelated text",
+        "text": "Because “Cover the visual with unrelated text” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Read every label without explanation",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "Show evidence or a relationship while the speaker explains it",
+        "text": "Show evidence or a relationship while the speaker explains it This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       }
     ],
@@ -607,26 +607,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For an explanation of a local place, why should vocabulary suit the audience?",
-    "audio_prompt": "For an explanation of a local place, why should vocabulary suit the audience?",
+    "question": "A student chooses “Begin with an unexplained final detail” for this task: For a talk about a class investigation, which opening best orients listeners? What should they check?",
+    "audio_prompt": "A student chooses “Begin with an unexplained final detail” for this task: For a talk about a class investigation, which opening best orients listeners? What should they check?",
     "answers": [
       {
-        "text": "Listeners need accurate terms they can understand",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "Technical words always impress everyone",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Audience knowledge never matters",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Listeners need accurate terms they can understand This explanation follows the relevant Year 3 English evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. State the topic and why it matters This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -637,26 +637,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For an explanation of a local place, which transition signals a new point?",
-    "audio_prompt": "For an explanation of a local place, which transition signals a new point?",
+    "question": "A student chooses “Randomly as they are remembered” for this task: For a talk about a class investigation, how should ideas be ordered? What should they check?",
+    "audio_prompt": "A student chooses “Randomly as they are remembered” for this task: For a talk about a class investigation, how should ideas be ordered? What should they check?",
     "answers": [
       {
-        "text": "Um, anyway",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Next, let us compare the two results",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "The end, before the middle",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Next, let us compare the two results This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. In a clear sequence with linking language This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -667,26 +667,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For an explanation of a local place, a listener looks confused. What can the speaker do?",
-    "audio_prompt": "For an explanation of a local place, a listener looks confused. What can the speaker do?",
+    "question": "A student chooses “A whisper throughout” for this task: For a talk about a class investigation, which voice choice helps an audience follow? What should they check?",
+    "audio_prompt": "A student chooses “A whisper throughout” for this task: For a talk about a class investigation, which voice choice helps an audience follow? What should they check?",
     "answers": [
       {
-        "text": "Speak faster",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Remove the main point",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "Restate the idea with a clear example",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Restate the idea with a clear example This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Clear volume, suitable pace and meaningful emphasis This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -697,26 +697,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For an explanation of a local place, which conclusion is effective?",
-    "audio_prompt": "For an explanation of a local place, which conclusion is effective?",
+    "question": "A student chooses “Cover the visual with unrelated text” for this task: For a talk about a class investigation, what is the best use of a visual? What should they check?",
+    "audio_prompt": "A student chooses “Cover the visual with unrelated text” for this task: For a talk about a class investigation, what is the best use of a visual? What should they check?",
     "answers": [
       {
-        "text": "Summarise the central idea and connect back to the purpose",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "Introduce three new topics",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Repeat the greeting only",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Summarise the central idea and connect back to the purpose This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Show evidence or a relationship while the speaker explains it This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -727,26 +727,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For a presentation about saving water, which opening best orients listeners?",
-    "audio_prompt": "For a presentation about saving water, which opening best orients listeners?",
+    "question": "A student chooses “Technical words always impress everyone” for this task: For a talk about a class investigation, why should vocabulary suit the audience? What should they check?",
+    "audio_prompt": "A student chooses “Technical words always impress everyone” for this task: For a talk about a class investigation, why should vocabulary suit the audience? What should they check?",
     "answers": [
       {
-        "text": "Begin with an unexplained final detail",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "State the topic and why it matters",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "Apologise for speaking",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "State the topic and why it matters This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Listeners need accurate terms they can understand This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -757,26 +757,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For a presentation about saving water, how should ideas be ordered?",
-    "audio_prompt": "For a presentation about saving water, how should ideas be ordered?",
+    "question": "A student chooses “Um, anyway” for this task: For a talk about a class investigation, which transition signals a new point? What should they check?",
+    "audio_prompt": "A student chooses “Um, anyway” for this task: For a talk about a class investigation, which transition signals a new point? What should they check?",
     "answers": [
       {
-        "text": "Randomly as they are remembered",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "With the conclusion before any topic",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "In a clear sequence with linking language",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "In a clear sequence with linking language This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Next, let us compare the two results This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -787,26 +787,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For a presentation about saving water, which voice choice helps an audience follow?",
-    "audio_prompt": "For a presentation about saving water, which voice choice helps an audience follow?",
+    "question": "A student chooses “Speak faster” for this task: For a talk about a class investigation, a listener looks confused. What can the speaker do? What should they check?",
+    "audio_prompt": "A student chooses “Speak faster” for this task: For a talk about a class investigation, a listener looks confused. What can the speaker do? What should they check?",
     "answers": [
       {
-        "text": "Clear volume, suitable pace and meaningful emphasis",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "A whisper throughout",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Maximum speed without pauses",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Clear volume, suitable pace and meaningful emphasis This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Restate the idea with a clear example This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -817,26 +817,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For a presentation about saving water, what is the best use of a visual?",
-    "audio_prompt": "For a presentation about saving water, what is the best use of a visual?",
+    "question": "A student chooses “Introduce three new topics” for this task: For a talk about a class investigation, which conclusion is effective? What should they check?",
+    "audio_prompt": "A student chooses “Introduce three new topics” for this task: For a talk about a class investigation, which conclusion is effective? What should they check?",
     "answers": [
       {
-        "text": "Cover the visual with unrelated text",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Show evidence or a relationship while the speaker explains it",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "Read every label without explanation",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Show evidence or a relationship while the speaker explains it This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Summarise the central idea and connect back to the purpose This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -847,26 +847,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For a presentation about saving water, why should vocabulary suit the audience?",
-    "audio_prompt": "For a presentation about saving water, why should vocabulary suit the audience?",
+    "question": "A student chooses “Begin with an unexplained final detail” for this task: For a book recommendation, which opening best orients listeners? What should they check?",
+    "audio_prompt": "A student chooses “Begin with an unexplained final detail” for this task: For a book recommendation, which opening best orients listeners? What should they check?",
     "answers": [
       {
-        "text": "Technical words always impress everyone",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Audience knowledge never matters",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "Listeners need accurate terms they can understand",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Listeners need accurate terms they can understand This explanation follows the relevant Year 3 English evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. State the topic and why it matters This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -877,26 +877,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For a presentation about saving water, which transition signals a new point?",
-    "audio_prompt": "For a presentation about saving water, which transition signals a new point?",
+    "question": "A student chooses “Randomly as they are remembered” for this task: For a book recommendation, how should ideas be ordered? What should they check?",
+    "audio_prompt": "A student chooses “Randomly as they are remembered” for this task: For a book recommendation, how should ideas be ordered? What should they check?",
     "answers": [
       {
-        "text": "Next, let us compare the two results",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "Um, anyway",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "The end, before the middle",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Next, let us compare the two results This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. In a clear sequence with linking language This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -907,8 +907,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For a presentation about saving water, a listener looks confused. What can the speaker do?",
-    "audio_prompt": "For a presentation about saving water, a listener looks confused. What can the speaker do?",
+    "question": "For a book recommendation, a listener looks confused. What can the speaker do?",
+    "audio_prompt": "For a book recommendation, a listener looks confused. What can the speaker do?",
     "answers": [
       {
         "text": "Speak faster",
@@ -937,8 +937,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For a presentation about saving water, which conclusion is effective?",
-    "audio_prompt": "For a presentation about saving water, which conclusion is effective?",
+    "question": "For a book recommendation, which conclusion is effective?",
+    "audio_prompt": "For a book recommendation, which conclusion is effective?",
     "answers": [
       {
         "text": "Introduce three new topics",
@@ -967,8 +967,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For a demonstration of a simple machine, which opening best orients listeners?",
-    "audio_prompt": "For a demonstration of a simple machine, which opening best orients listeners?",
+    "question": "For an explanation of a local place, which opening best orients listeners?",
+    "audio_prompt": "For an explanation of a local place, which opening best orients listeners?",
     "answers": [
       {
         "text": "State the topic and why it matters",
@@ -997,8 +997,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For a demonstration of a simple machine, how should ideas be ordered?",
-    "audio_prompt": "For a demonstration of a simple machine, how should ideas be ordered?",
+    "question": "For an explanation of a local place, how should ideas be ordered?",
+    "audio_prompt": "For an explanation of a local place, how should ideas be ordered?",
     "answers": [
       {
         "text": "Randomly as they are remembered",
@@ -1027,8 +1027,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For a demonstration of a simple machine, which voice choice helps an audience follow?",
-    "audio_prompt": "For a demonstration of a simple machine, which voice choice helps an audience follow?",
+    "question": "For an explanation of a local place, which voice choice helps an audience follow?",
+    "audio_prompt": "For an explanation of a local place, which voice choice helps an audience follow?",
     "answers": [
       {
         "text": "A whisper throughout",
@@ -1057,8 +1057,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For a demonstration of a simple machine, what is the best use of a visual?",
-    "audio_prompt": "For a demonstration of a simple machine, what is the best use of a visual?",
+    "question": "For an explanation of a local place, what is the best use of a visual?",
+    "audio_prompt": "For an explanation of a local place, what is the best use of a visual?",
     "answers": [
       {
         "text": "Show evidence or a relationship while the speaker explains it",
@@ -1087,8 +1087,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For a demonstration of a simple machine, why should vocabulary suit the audience?",
-    "audio_prompt": "For a demonstration of a simple machine, why should vocabulary suit the audience?",
+    "question": "For an explanation of a local place, why should vocabulary suit the audience?",
+    "audio_prompt": "For an explanation of a local place, why should vocabulary suit the audience?",
     "answers": [
       {
         "text": "Technical words always impress everyone",
@@ -1117,8 +1117,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For a demonstration of a simple machine, which transition signals a new point?",
-    "audio_prompt": "For a demonstration of a simple machine, which transition signals a new point?",
+    "question": "For an explanation of a local place, which transition signals a new point?",
+    "audio_prompt": "For an explanation of a local place, which transition signals a new point?",
     "answers": [
       {
         "text": "Um, anyway",
@@ -1147,8 +1147,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For a demonstration of a simple machine, a listener looks confused. What can the speaker do?",
-    "audio_prompt": "For a demonstration of a simple machine, a listener looks confused. What can the speaker do?",
+    "question": "For an explanation of a local place, a listener looks confused. What can the speaker do?",
+    "audio_prompt": "For an explanation of a local place, a listener looks confused. What can the speaker do?",
     "answers": [
       {
         "text": "Restate the idea with a clear example",
@@ -1177,8 +1177,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For a demonstration of a simple machine, which conclusion is effective?",
-    "audio_prompt": "For a demonstration of a simple machine, which conclusion is effective?",
+    "question": "For an explanation of a local place, which conclusion is effective?",
+    "audio_prompt": "For an explanation of a local place, which conclusion is effective?",
     "answers": [
       {
         "text": "Introduce three new topics",
@@ -1205,8 +1205,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY07",
     "bank": "test",
+    "stage": "verify",
     "skill": "Oral and Multimodal Presentations",
-    "question": "New check: For a presentation about saving water, which opening best orients listeners?",
+    "question": "For a presentation about saving water, which opening best orients listeners?",
     "audio_prompt": "For a presentation about saving water, which opening best orients listeners?",
     "answers": [
       {
@@ -1234,8 +1235,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY07",
     "bank": "test",
+    "stage": "verify",
     "skill": "Oral and Multimodal Presentations",
-    "question": "New check: For a presentation about saving water, how should ideas be ordered?",
+    "question": "For a presentation about saving water, how should ideas be ordered?",
     "audio_prompt": "For a presentation about saving water, how should ideas be ordered?",
     "answers": [
       {
@@ -1263,8 +1265,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY07",
     "bank": "test",
+    "stage": "verify",
     "skill": "Oral and Multimodal Presentations",
-    "question": "New check: For a presentation about saving water, which voice choice helps an audience follow?",
+    "question": "For a presentation about saving water, which voice choice helps an audience follow?",
     "audio_prompt": "For a presentation about saving water, which voice choice helps an audience follow?",
     "answers": [
       {
@@ -1292,8 +1295,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY07",
     "bank": "test",
+    "stage": "verify",
     "skill": "Oral and Multimodal Presentations",
-    "question": "New check: For a presentation about saving water, what is the best use of a visual?",
+    "question": "For a presentation about saving water, what is the best use of a visual?",
     "audio_prompt": "For a presentation about saving water, what is the best use of a visual?",
     "answers": [
       {
@@ -1321,8 +1325,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY07",
     "bank": "test",
+    "stage": "verify",
     "skill": "Oral and Multimodal Presentations",
-    "question": "New check: For a presentation about saving water, why should vocabulary suit the audience?",
+    "question": "For a presentation about saving water, why should vocabulary suit the audience?",
     "audio_prompt": "For a presentation about saving water, why should vocabulary suit the audience?",
     "answers": [
       {
@@ -1350,8 +1355,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY07",
     "bank": "test",
+    "stage": "verify",
     "skill": "Oral and Multimodal Presentations",
-    "question": "New check: For a presentation about saving water, which transition signals a new point?",
+    "question": "For a presentation about saving water, which transition signals a new point?",
     "audio_prompt": "For a presentation about saving water, which transition signals a new point?",
     "answers": [
       {
@@ -1379,8 +1385,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY07",
     "bank": "test",
+    "stage": "verify",
     "skill": "Oral and Multimodal Presentations",
-    "question": "New check: For a presentation about saving water, a listener looks confused. What can the speaker do?",
+    "question": "For a presentation about saving water, a listener looks confused. What can the speaker do?",
     "audio_prompt": "For a presentation about saving water, a listener looks confused. What can the speaker do?",
     "answers": [
       {
@@ -1408,8 +1415,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY07",
     "bank": "test",
+    "stage": "verify",
     "skill": "Oral and Multimodal Presentations",
-    "question": "New check: For a presentation about saving water, which conclusion is effective?",
+    "question": "For a presentation about saving water, which conclusion is effective?",
     "audio_prompt": "For a presentation about saving water, which conclusion is effective?",
     "answers": [
       {
@@ -1437,8 +1445,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY07",
     "bank": "test",
+    "stage": "apply",
     "skill": "Oral and Multimodal Presentations",
-    "question": "New check: For a demonstration of a simple machine, which opening best orients listeners?",
+    "question": "For a demonstration of a simple machine, which opening best orients listeners?",
     "audio_prompt": "For a demonstration of a simple machine, which opening best orients listeners?",
     "answers": [
       {
@@ -1466,8 +1475,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY07",
     "bank": "test",
+    "stage": "apply",
     "skill": "Oral and Multimodal Presentations",
-    "question": "New check: For a demonstration of a simple machine, how should ideas be ordered?",
+    "question": "For a demonstration of a simple machine, how should ideas be ordered?",
     "audio_prompt": "For a demonstration of a simple machine, how should ideas be ordered?",
     "answers": [
       {
@@ -1495,8 +1505,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY07",
     "bank": "test",
+    "stage": "apply",
     "skill": "Oral and Multimodal Presentations",
-    "question": "New check: For a demonstration of a simple machine, which voice choice helps an audience follow?",
+    "question": "For a demonstration of a simple machine, which voice choice helps an audience follow?",
     "audio_prompt": "For a demonstration of a simple machine, which voice choice helps an audience follow?",
     "answers": [
       {
@@ -1524,8 +1535,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY07",
     "bank": "test",
+    "stage": "apply",
     "skill": "Oral and Multimodal Presentations",
-    "question": "New check: For a demonstration of a simple machine, what is the best use of a visual?",
+    "question": "For a demonstration of a simple machine, what is the best use of a visual?",
     "audio_prompt": "For a demonstration of a simple machine, what is the best use of a visual?",
     "answers": [
       {
@@ -1553,8 +1565,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY07",
     "bank": "test",
+    "stage": "apply",
     "skill": "Oral and Multimodal Presentations",
-    "question": "New check: For a demonstration of a simple machine, why should vocabulary suit the audience?",
+    "question": "For a demonstration of a simple machine, why should vocabulary suit the audience?",
     "audio_prompt": "For a demonstration of a simple machine, why should vocabulary suit the audience?",
     "answers": [
       {
@@ -1582,8 +1595,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY07",
     "bank": "test",
+    "stage": "apply",
     "skill": "Oral and Multimodal Presentations",
-    "question": "New check: For a demonstration of a simple machine, which transition signals a new point?",
+    "question": "For a demonstration of a simple machine, which transition signals a new point?",
     "audio_prompt": "For a demonstration of a simple machine, which transition signals a new point?",
     "answers": [
       {
@@ -1611,8 +1625,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY07",
     "bank": "test",
+    "stage": "apply",
     "skill": "Oral and Multimodal Presentations",
-    "question": "New check: For a demonstration of a simple machine, a listener looks confused. What can the speaker do?",
+    "question": "For a demonstration of a simple machine, a listener looks confused. What can the speaker do?",
     "audio_prompt": "For a demonstration of a simple machine, a listener looks confused. What can the speaker do?",
     "answers": [
       {
@@ -1640,8 +1655,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY07",
     "bank": "test",
+    "stage": "apply",
     "skill": "Oral and Multimodal Presentations",
-    "question": "New check: For a demonstration of a simple machine, which conclusion is effective?",
+    "question": "For a demonstration of a simple machine, which conclusion is effective?",
     "audio_prompt": "For a demonstration of a simple machine, which conclusion is effective?",
     "answers": [
       {

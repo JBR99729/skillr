@@ -307,19 +307,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "Which option correctly explains the single owner in “the girl's bicycle”?",
-    "audio_prompt": "Which option correctly explains the single owner in “the girl's bicycle”?",
+    "question": "Why is “Use “the girl's bicycle” to show one owner.” the best answer here? Which option correctly explains the single owner in “the girl's bicycle”?",
+    "audio_prompt": "Why is “Use “the girl's bicycle” to show one owner.” the best answer here? Which option correctly explains the single owner in “the girl's bicycle”?",
     "answers": [
       {
-        "text": "Use “the girls' bicycles” to show several owners.",
+        "text": "Because “Use “the girls' bicycles” to show several owners.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Use “the girls bicycle” with no ownership mark.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "Use “the girl's bicycle” to show one owner.",
+        "text": "An apostrophe and s commonly show possession by one singular noun.",
         "is_correct": true
       }
     ],
@@ -337,19 +337,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "Which option correctly explains the multiple owners in “the girls' bicycles”?",
-    "audio_prompt": "Which option correctly explains the multiple owners in “the girls' bicycles”?",
+    "question": "Why is “Use “the girls' bicycles” to show several owners.” the best answer here? Which option correctly explains the multiple owners in “the girls' bicycles”?",
+    "audio_prompt": "Why is “Use “the girls' bicycles” to show several owners.” the best answer here? Which option correctly explains the multiple owners in “the girls' bicycles”?",
     "answers": [
       {
-        "text": "Use “the girls' bicycles” to show several owners.",
+        "text": "For a regular plural ending in s, the possessive apostrophe follows the plural s.",
         "is_correct": true
       },
       {
-        "text": "Use “the girl's bicycle” to show one owner.",
+        "text": "Because “Use “the girl's bicycle” to show one owner.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Use “the girls bicycles” with no ownership mark.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -367,19 +367,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "In “the girl's bicycle”, what does the apostrophe show?",
-    "audio_prompt": "In “the girl's bicycle”, what does the apostrophe show?",
+    "question": "Why is “One noun owns or is connected with something.” the best answer here? In “the girl's bicycle”, what does the apostrophe show?",
+    "audio_prompt": "Why is “One noun owns or is connected with something.” the best answer here? In “the girl's bicycle”, what does the apostrophe show?",
     "answers": [
       {
-        "text": "The noun is shortened from two words.",
+        "text": "Because “The noun is shortened from two words.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "One noun owns or is connected with something.",
+        "text": "The apostrophe in a singular possessive marks ownership or connection.",
         "is_correct": true
       },
       {
-        "text": "The noun names several owners.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -397,19 +397,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "In “the girls' bicycles”, where is the apostrophe placed?",
-    "audio_prompt": "In “the girls' bicycles”, where is the apostrophe placed?",
+    "question": "Why is “After the plural s.” the best answer here? In “the girls' bicycles”, where is the apostrophe placed?",
+    "audio_prompt": "Why is “After the plural s.” the best answer here? In “the girls' bicycles”, where is the apostrophe placed?",
     "answers": [
       {
-        "text": "Before the plural s.",
+        "text": "Because “Before the plural s.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "At the start of the phrase.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "After the plural s.",
+        "text": "Regular plural possessives place the apostrophe after the plural s.",
         "is_correct": true
       }
     ],
@@ -427,19 +427,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "Which explanation correctly compares “can't” and “the girl's bicycle”?",
-    "audio_prompt": "Which explanation correctly compares “can't” and “the girl's bicycle”?",
+    "question": "Why is “In “can't” the apostrophe marks missing letters; in “the girl's bicycle” it marks possession.” the best answer here? Which explanation correctly compares “can't” and “the girl's bicycle”?",
+    "audio_prompt": "Why is “In “can't” the apostrophe marks missing letters; in “the girl's bicycle” it marks possession.” the best answer here? Which explanation correctly compares “can't” and “the girl's bicycle”?",
     "answers": [
       {
-        "text": "In “can't” the apostrophe marks missing letters; in “the girl's bicycle” it marks possession.",
+        "text": "Apostrophes have different jobs in contractions and possessives.",
         "is_correct": true
       },
       {
-        "text": "Both apostrophes make nouns plural.",
+        "text": "Because “Both apostrophes make nouns plural.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Both apostrophes mark missing letters only.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -457,19 +457,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "A student writes “the girls bicycles\" for several owners. What edit is needed?",
-    "audio_prompt": "A student writes “the girls bicycles\" for several owners. What edit is needed?",
+    "question": "Why is “Add an apostrophe after the plural s.” the best answer here? A student writes “the girls bicycles\" for several owners. What edit is needed?",
+    "audio_prompt": "Why is “Add an apostrophe after the plural s.” the best answer here? A student writes “the girls bicycles\" for several owners. What edit is needed?",
     "answers": [
       {
-        "text": "Add an apostrophe before the first letter.",
+        "text": "Because “Add an apostrophe before the first letter.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Add an apostrophe after the plural s.",
+        "text": "The apostrophe after a regular plural noun shows possession by several owners.",
         "is_correct": true
       },
       {
-        "text": "Remove the plural s.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -487,19 +487,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "Which option correctly explains how to shorten “it is”?",
-    "audio_prompt": "Which option correctly explains how to shorten “it is”?",
+    "question": "Why is “Use “it's”, the accepted shortened form.” the best answer here? Which option correctly explains how to shorten “it is”?",
+    "audio_prompt": "Why is “Use “it's”, the accepted shortened form.” the best answer here? Which option correctly explains how to shorten “it is”?",
     "answers": [
       {
-        "text": "Keep “it is” as two unshortened words.",
+        "text": "Because “Keep “it is” as two unshortened words.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Remove letters without marking where letters are missing.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "Use “it's”, the accepted shortened form.",
+        "text": "An apostrophe in a contraction marks omitted letters.",
         "is_correct": true
       }
     ],
@@ -517,19 +517,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "What job does the apostrophe do in “it's”?",
-    "audio_prompt": "What job does the apostrophe do in “it's”?",
+    "question": "Why is “It marks letters omitted from the full form.” the best answer here? What job does the apostrophe do in “it's”?",
+    "audio_prompt": "Why is “It marks letters omitted from the full form.” the best answer here? What job does the apostrophe do in “it's”?",
     "answers": [
       {
-        "text": "It marks letters omitted from the full form.",
+        "text": "Contraction apostrophes show where letters have been left out.",
         "is_correct": true
       },
       {
-        "text": "It makes the word plural.",
+        "text": "Because “It makes the word plural.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "It shows that several people own something.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -547,19 +547,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "Which option correctly explains the single owner in “the teacher's desk”?",
-    "audio_prompt": "Which option correctly explains the single owner in “the teacher's desk”?",
+    "question": "Why is “Use “the teacher's desk” to show one owner.” the best answer here? Which option correctly explains the single owner in “the teacher's desk”?",
+    "audio_prompt": "Why is “Use “the teacher's desk” to show one owner.” the best answer here? Which option correctly explains the single owner in “the teacher's desk”?",
     "answers": [
       {
-        "text": "Use “the teachers' desks” to show several owners.",
+        "text": "Because “Use “the teachers' desks” to show several owners.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Use “the teacher's desk” to show one owner.",
+        "text": "An apostrophe and s commonly show possession by one singular noun.",
         "is_correct": true
       },
       {
-        "text": "Use “the teachers desk” with no ownership mark.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -577,19 +577,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "Which option correctly explains the multiple owners in “the teachers' desks”?",
-    "audio_prompt": "Which option correctly explains the multiple owners in “the teachers' desks”?",
+    "question": "Why is “Use “the teachers' desks” to show several owners.” the best answer here? Which option correctly explains the multiple owners in “the teachers' desks”?",
+    "audio_prompt": "Why is “Use “the teachers' desks” to show several owners.” the best answer here? Which option correctly explains the multiple owners in “the teachers' desks”?",
     "answers": [
       {
-        "text": "Use “the teacher's desk” to show one owner.",
+        "text": "Because “Use “the teacher's desk” to show one owner.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Use “the teachers desks” with no ownership mark.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "Use “the teachers' desks” to show several owners.",
+        "text": "For a regular plural ending in s, the possessive apostrophe follows the plural s.",
         "is_correct": true
       }
     ],
@@ -607,26 +607,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "In “the teacher's desk”, what does the apostrophe show?",
-    "audio_prompt": "In “the teacher's desk”, what does the apostrophe show?",
+    "question": "A student chooses “Keep “do not” as two unshortened words.” for this task: Which option correctly explains how to shorten “do not”? What should they check?",
+    "audio_prompt": "A student chooses “Keep “do not” as two unshortened words.” for this task: Which option correctly explains how to shorten “do not”? What should they check?",
     "answers": [
       {
-        "text": "One noun owns or is connected with something.",
+        "text": "Say the full form, then find the accepted shortened form.",
         "is_correct": true
       },
       {
-        "text": "The noun is shortened from two words.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "The noun names several owners.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The apostrophe in a singular possessive marks ownership or connection.",
-      "hint": "Look at the noun immediately before the apostrophe."
+      "summary": "Say the full form, then find the accepted shortened form. An apostrophe in a contraction marks omitted letters.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -637,26 +637,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "In “the teachers' desks”, where is the apostrophe placed?",
-    "audio_prompt": "In “the teachers' desks”, where is the apostrophe placed?",
+    "question": "A student chooses “It makes the word plural.” for this task: What job does the apostrophe do in “don't”? What should they check?",
+    "audio_prompt": "A student chooses “It makes the word plural.” for this task: What job does the apostrophe do in “don't”? What should they check?",
     "answers": [
       {
-        "text": "Before the plural s.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "After the plural s.",
+        "text": "Expand the contraction to find the missing letters.",
         "is_correct": true
       },
       {
-        "text": "At the start of the phrase.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Regular plural possessives place the apostrophe after the plural s.",
-      "hint": "Find the plural owner before adding the possession mark."
+      "summary": "Expand the contraction to find the missing letters. Contraction apostrophes show where letters have been left out.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -667,26 +667,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "Which explanation correctly compares “it's” and “the teacher's desk”?",
-    "audio_prompt": "Which explanation correctly compares “it's” and “the teacher's desk”?",
+    "question": "A student chooses “Use “the dogs' bowls” to show several owners.” for this task: Which option correctly explains the single owner in “the dog's bowl”? What should they check?",
+    "audio_prompt": "A student chooses “Use “the dogs' bowls” to show several owners.” for this task: Which option correctly explains the single owner in “the dog's bowl”? What should they check?",
     "answers": [
       {
-        "text": "Both apostrophes make nouns plural.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Both apostrophes mark missing letters only.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "In “it's” the apostrophe marks missing letters; in “the teacher's desk” it marks possession.",
+        "text": "Identify whether the owner is one or more than one.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Apostrophes have different jobs in contractions and possessives.",
-      "hint": "Expand the contraction, then identify the owner in the phrase."
+      "summary": "Identify whether the owner is one or more than one. An apostrophe and s commonly show possession by one singular noun.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -697,26 +697,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "A student writes “the teachers desks\" for several owners. What edit is needed?",
-    "audio_prompt": "A student writes “the teachers desks\" for several owners. What edit is needed?",
+    "question": "A student chooses “Use “the dog's bowl” to show one owner.” for this task: Which option correctly explains the multiple owners in “the dogs' bowls”? What should they check?",
+    "audio_prompt": "A student chooses “Use “the dog's bowl” to show one owner.” for this task: Which option correctly explains the multiple owners in “the dogs' bowls”? What should they check?",
     "answers": [
       {
-        "text": "Add an apostrophe after the plural s.",
+        "text": "First make the owner plural, then show possession.",
         "is_correct": true
       },
       {
-        "text": "Add an apostrophe before the first letter.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Remove the plural s.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The apostrophe after a regular plural noun shows possession by several owners.",
-      "hint": "Keep the plural form and mark ownership after it."
+      "summary": "First make the owner plural, then show possession. For a regular plural ending in s, the possessive apostrophe follows the plural s.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -727,26 +727,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "Which option correctly explains how to shorten “they are”?",
-    "audio_prompt": "Which option correctly explains how to shorten “they are”?",
+    "question": "A student chooses “The noun is shortened from two words.” for this task: In “the dog's bowl”, what does the apostrophe show? What should they check?",
+    "audio_prompt": "A student chooses “The noun is shortened from two words.” for this task: In “the dog's bowl”, what does the apostrophe show? What should they check?",
     "answers": [
       {
-        "text": "Keep “they are” as two unshortened words.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Use “they're”, the accepted shortened form.",
+        "text": "Look at the noun immediately before the apostrophe.",
         "is_correct": true
       },
       {
-        "text": "Remove letters without marking where letters are missing.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "An apostrophe in a contraction marks omitted letters.",
-      "hint": "Say the full form, then find the accepted shortened form."
+      "summary": "Look at the noun immediately before the apostrophe. The apostrophe in a singular possessive marks ownership or connection.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -757,26 +757,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "What job does the apostrophe do in “they're”?",
-    "audio_prompt": "What job does the apostrophe do in “they're”?",
+    "question": "A student chooses “Before the plural s.” for this task: In “the dogs' bowls”, where is the apostrophe placed? What should they check?",
+    "audio_prompt": "A student chooses “Before the plural s.” for this task: In “the dogs' bowls”, where is the apostrophe placed? What should they check?",
     "answers": [
       {
-        "text": "It makes the word plural.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "It shows that several people own something.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "It marks letters omitted from the full form.",
+        "text": "Find the plural owner before adding the possession mark.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Contraction apostrophes show where letters have been left out.",
-      "hint": "Expand the contraction to find the missing letters."
+      "summary": "Find the plural owner before adding the possession mark. Regular plural possessives place the apostrophe after the plural s.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -787,26 +787,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "Which option correctly explains the single owner in “the fox's den”?",
-    "audio_prompt": "Which option correctly explains the single owner in “the fox's den”?",
+    "question": "A student chooses “Both apostrophes make nouns plural.” for this task: Which explanation correctly compares “don't” and “the dog's bowl”? What should they check?",
+    "audio_prompt": "A student chooses “Both apostrophes make nouns plural.” for this task: Which explanation correctly compares “don't” and “the dog's bowl”? What should they check?",
     "answers": [
       {
-        "text": "Use “the fox's den” to show one owner.",
+        "text": "Expand the contraction, then identify the owner in the phrase.",
         "is_correct": true
       },
       {
-        "text": "Use “the foxes' dens” to show several owners.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Use “the foxs den” with no ownership mark.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "An apostrophe and s commonly show possession by one singular noun.",
-      "hint": "Identify whether the owner is one or more than one."
+      "summary": "Expand the contraction, then identify the owner in the phrase. Apostrophes have different jobs in contractions and possessives.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -817,26 +817,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "Which option correctly explains the multiple owners in “the foxes' dens”?",
-    "audio_prompt": "Which option correctly explains the multiple owners in “the foxes' dens”?",
+    "question": "A student chooses “Add an apostrophe before the first letter.” for this task: A student writes “the dogs bowls\" for several owners. What edit is needed? What should they check?",
+    "audio_prompt": "A student chooses “Add an apostrophe before the first letter.” for this task: A student writes “the dogs bowls\" for several owners. What edit is needed? What should they check?",
     "answers": [
       {
-        "text": "Use “the fox's den” to show one owner.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Use “the foxes' dens” to show several owners.",
+        "text": "Keep the plural form and mark ownership after it.",
         "is_correct": true
       },
       {
-        "text": "Use “the foxes dens” with no ownership mark.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "For a regular plural ending in s, the possessive apostrophe follows the plural s.",
-      "hint": "First make the owner plural, then show possession."
+      "summary": "Keep the plural form and mark ownership after it. The apostrophe after a regular plural noun shows possession by several owners.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -847,26 +847,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "In “the fox's den”, what does the apostrophe show?",
-    "audio_prompt": "In “the fox's den”, what does the apostrophe show?",
+    "question": "A student chooses “Keep “cannot” as two unshortened words.” for this task: Which option correctly explains how to shorten “cannot”? What should they check?",
+    "audio_prompt": "A student chooses “Keep “cannot” as two unshortened words.” for this task: Which option correctly explains how to shorten “cannot”? What should they check?",
     "answers": [
       {
-        "text": "The noun is shortened from two words.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "The noun names several owners.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "One noun owns or is connected with something.",
+        "text": "Say the full form, then find the accepted shortened form.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The apostrophe in a singular possessive marks ownership or connection.",
-      "hint": "Look at the noun immediately before the apostrophe."
+      "summary": "Say the full form, then find the accepted shortened form. An apostrophe in a contraction marks omitted letters.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -877,26 +877,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "In “the foxes' dens”, where is the apostrophe placed?",
-    "audio_prompt": "In “the foxes' dens”, where is the apostrophe placed?",
+    "question": "A student chooses “It makes the word plural.” for this task: What job does the apostrophe do in “can't”? What should they check?",
+    "audio_prompt": "A student chooses “It makes the word plural.” for this task: What job does the apostrophe do in “can't”? What should they check?",
     "answers": [
       {
-        "text": "After the plural s.",
+        "text": "Expand the contraction to find the missing letters.",
         "is_correct": true
       },
       {
-        "text": "Before the plural s.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "At the start of the phrase.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Regular plural possessives place the apostrophe after the plural s.",
-      "hint": "Find the plural owner before adding the possession mark."
+      "summary": "Expand the contraction to find the missing letters. Contraction apostrophes show where letters have been left out.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -907,15 +907,15 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "Which explanation correctly compares “they're” and “the fox's den”?",
-    "audio_prompt": "Which explanation correctly compares “they're” and “the fox's den”?",
+    "question": "Which explanation correctly compares “can't” and “the girl's bicycle”?",
+    "audio_prompt": "Which explanation correctly compares “can't” and “the girl's bicycle”?",
     "answers": [
       {
         "text": "Both apostrophes make nouns plural.",
         "is_correct": false
       },
       {
-        "text": "In “they're” the apostrophe marks missing letters; in “the fox's den” it marks possession.",
+        "text": "In “can't” the apostrophe marks missing letters; in “the girl's bicycle” it marks possession.",
         "is_correct": true
       },
       {
@@ -937,8 +937,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "A student writes “the foxes dens\" for several owners. What edit is needed?",
-    "audio_prompt": "A student writes “the foxes dens\" for several owners. What edit is needed?",
+    "question": "A student writes “the girls bicycles\" for several owners. What edit is needed?",
+    "audio_prompt": "A student writes “the girls bicycles\" for several owners. What edit is needed?",
     "answers": [
       {
         "text": "Add an apostrophe before the first letter.",
@@ -967,15 +967,15 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "Which option correctly explains how to shorten “we will”?",
-    "audio_prompt": "Which option correctly explains how to shorten “we will”?",
+    "question": "Which option correctly explains how to shorten “it is”?",
+    "audio_prompt": "Which option correctly explains how to shorten “it is”?",
     "answers": [
       {
-        "text": "Use “we'll”, the accepted shortened form.",
+        "text": "Use “it's”, the accepted shortened form.",
         "is_correct": true
       },
       {
-        "text": "Keep “we will” as two unshortened words.",
+        "text": "Keep “it is” as two unshortened words.",
         "is_correct": false
       },
       {
@@ -997,8 +997,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "What job does the apostrophe do in “we'll”?",
-    "audio_prompt": "What job does the apostrophe do in “we'll”?",
+    "question": "What job does the apostrophe do in “it's”?",
+    "audio_prompt": "What job does the apostrophe do in “it's”?",
     "answers": [
       {
         "text": "It makes the word plural.",
@@ -1027,19 +1027,19 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "Which option correctly explains the single owner in “the player's boot”?",
-    "audio_prompt": "Which option correctly explains the single owner in “the player's boot”?",
+    "question": "Which option correctly explains the single owner in “the teacher's desk”?",
+    "audio_prompt": "Which option correctly explains the single owner in “the teacher's desk”?",
     "answers": [
       {
-        "text": "Use “the players' boots” to show several owners.",
+        "text": "Use “the teachers' desks” to show several owners.",
         "is_correct": false
       },
       {
-        "text": "Use “the players boot” with no ownership mark.",
+        "text": "Use “the teachers desk” with no ownership mark.",
         "is_correct": false
       },
       {
-        "text": "Use “the player's boot” to show one owner.",
+        "text": "Use “the teacher's desk” to show one owner.",
         "is_correct": true
       }
     ],
@@ -1057,19 +1057,19 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "Which option correctly explains the multiple owners in “the players' boots”?",
-    "audio_prompt": "Which option correctly explains the multiple owners in “the players' boots”?",
+    "question": "Which option correctly explains the multiple owners in “the teachers' desks”?",
+    "audio_prompt": "Which option correctly explains the multiple owners in “the teachers' desks”?",
     "answers": [
       {
-        "text": "Use “the players' boots” to show several owners.",
+        "text": "Use “the teachers' desks” to show several owners.",
         "is_correct": true
       },
       {
-        "text": "Use “the player's boot” to show one owner.",
+        "text": "Use “the teacher's desk” to show one owner.",
         "is_correct": false
       },
       {
-        "text": "Use “the players boots” with no ownership mark.",
+        "text": "Use “the teachers desks” with no ownership mark.",
         "is_correct": false
       }
     ],
@@ -1087,8 +1087,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "In “the player's boot”, what does the apostrophe show?",
-    "audio_prompt": "In “the player's boot”, what does the apostrophe show?",
+    "question": "In “the teacher's desk”, what does the apostrophe show?",
+    "audio_prompt": "In “the teacher's desk”, what does the apostrophe show?",
     "answers": [
       {
         "text": "The noun is shortened from two words.",
@@ -1117,8 +1117,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "In “the players' boots”, where is the apostrophe placed?",
-    "audio_prompt": "In “the players' boots”, where is the apostrophe placed?",
+    "question": "In “the teachers' desks”, where is the apostrophe placed?",
+    "audio_prompt": "In “the teachers' desks”, where is the apostrophe placed?",
     "answers": [
       {
         "text": "Before the plural s.",
@@ -1147,11 +1147,11 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "Which explanation correctly compares “we'll” and “the player's boot”?",
-    "audio_prompt": "Which explanation correctly compares “we'll” and “the player's boot”?",
+    "question": "Which explanation correctly compares “it's” and “the teacher's desk”?",
+    "audio_prompt": "Which explanation correctly compares “it's” and “the teacher's desk”?",
     "answers": [
       {
-        "text": "In “we'll” the apostrophe marks missing letters; in “the player's boot” it marks possession.",
+        "text": "In “it's” the apostrophe marks missing letters; in “the teacher's desk” it marks possession.",
         "is_correct": true
       },
       {
@@ -1177,8 +1177,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "A student writes “the players boots\" for several owners. What edit is needed?",
-    "audio_prompt": "A student writes “the players boots\" for several owners. What edit is needed?",
+    "question": "A student writes “the teachers desks\" for several owners. What edit is needed?",
+    "audio_prompt": "A student writes “the teachers desks\" for several owners. What edit is needed?",
     "answers": [
       {
         "text": "Add an apostrophe before the first letter.",
@@ -1205,8 +1205,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA11",
     "bank": "test",
+    "stage": "verify",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "New check: Which option correctly explains how to shorten “they are”?",
+    "question": "Which option correctly explains how to shorten “they are”?",
     "audio_prompt": "Which option correctly explains how to shorten “they are”?",
     "answers": [
       {
@@ -1234,8 +1235,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA11",
     "bank": "test",
+    "stage": "verify",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "New check: What job does the apostrophe do in “they're”?",
+    "question": "What job does the apostrophe do in “they're”?",
     "audio_prompt": "What job does the apostrophe do in “they're”?",
     "answers": [
       {
@@ -1263,8 +1265,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA11",
     "bank": "test",
+    "stage": "verify",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "New check: Which option correctly explains the single owner in “the fox's den”?",
+    "question": "Which option correctly explains the single owner in “the fox's den”?",
     "audio_prompt": "Which option correctly explains the single owner in “the fox's den”?",
     "answers": [
       {
@@ -1292,8 +1295,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA11",
     "bank": "test",
+    "stage": "verify",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "New check: Which option correctly explains the multiple owners in “the foxes' dens”?",
+    "question": "Which option correctly explains the multiple owners in “the foxes' dens”?",
     "audio_prompt": "Which option correctly explains the multiple owners in “the foxes' dens”?",
     "answers": [
       {
@@ -1321,8 +1325,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA11",
     "bank": "test",
+    "stage": "verify",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "New check: In “the fox's den”, what does the apostrophe show?",
+    "question": "In “the fox's den”, what does the apostrophe show?",
     "audio_prompt": "In “the fox's den”, what does the apostrophe show?",
     "answers": [
       {
@@ -1350,8 +1355,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA11",
     "bank": "test",
+    "stage": "verify",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "New check: In “the foxes' dens”, where is the apostrophe placed?",
+    "question": "In “the foxes' dens”, where is the apostrophe placed?",
     "audio_prompt": "In “the foxes' dens”, where is the apostrophe placed?",
     "answers": [
       {
@@ -1379,8 +1385,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA11",
     "bank": "test",
+    "stage": "verify",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "New check: Which explanation correctly compares “they're” and “the fox's den”?",
+    "question": "Which explanation correctly compares “they're” and “the fox's den”?",
     "audio_prompt": "Which explanation correctly compares “they're” and “the fox's den”?",
     "answers": [
       {
@@ -1408,8 +1415,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA11",
     "bank": "test",
+    "stage": "verify",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "New check: A student writes “the foxes dens\" for several owners. What edit is needed?",
+    "question": "A student writes “the foxes dens\" for several owners. What edit is needed?",
     "audio_prompt": "A student writes “the foxes dens\" for several owners. What edit is needed?",
     "answers": [
       {
@@ -1437,8 +1445,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA11",
     "bank": "test",
+    "stage": "apply",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "New check: Which option correctly explains how to shorten “we will”?",
+    "question": "Which option correctly explains how to shorten “we will”?",
     "audio_prompt": "Which option correctly explains how to shorten “we will”?",
     "answers": [
       {
@@ -1466,8 +1475,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA11",
     "bank": "test",
+    "stage": "apply",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "New check: What job does the apostrophe do in “we'll”?",
+    "question": "What job does the apostrophe do in “we'll”?",
     "audio_prompt": "What job does the apostrophe do in “we'll”?",
     "answers": [
       {
@@ -1495,8 +1505,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA11",
     "bank": "test",
+    "stage": "apply",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "New check: Which option correctly explains the single owner in “the player's boot”?",
+    "question": "Which option correctly explains the single owner in “the player's boot”?",
     "audio_prompt": "Which option correctly explains the single owner in “the player's boot”?",
     "answers": [
       {
@@ -1524,8 +1535,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA11",
     "bank": "test",
+    "stage": "apply",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "New check: Which option correctly explains the multiple owners in “the players' boots”?",
+    "question": "Which option correctly explains the multiple owners in “the players' boots”?",
     "audio_prompt": "Which option correctly explains the multiple owners in “the players' boots”?",
     "answers": [
       {
@@ -1553,8 +1565,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA11",
     "bank": "test",
+    "stage": "apply",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "New check: In “the player's boot”, what does the apostrophe show?",
+    "question": "In “the player's boot”, what does the apostrophe show?",
     "audio_prompt": "In “the player's boot”, what does the apostrophe show?",
     "answers": [
       {
@@ -1582,8 +1595,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA11",
     "bank": "test",
+    "stage": "apply",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "New check: In “the players' boots”, where is the apostrophe placed?",
+    "question": "In “the players' boots”, where is the apostrophe placed?",
     "audio_prompt": "In “the players' boots”, where is the apostrophe placed?",
     "answers": [
       {
@@ -1611,8 +1625,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA11",
     "bank": "test",
+    "stage": "apply",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "New check: Which explanation correctly compares “we'll” and “the player's boot”?",
+    "question": "Which explanation correctly compares “we'll” and “the player's boot”?",
     "audio_prompt": "Which explanation correctly compares “we'll” and “the player's boot”?",
     "answers": [
       {
@@ -1640,8 +1655,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA11",
     "bank": "test",
+    "stage": "apply",
     "skill": "Apostrophes in Contractions and Possession",
-    "question": "New check: A student writes “the players boots\" for several owners. What edit is needed?",
+    "question": "A student writes “the players boots\" for several owners. What edit is needed?",
     "audio_prompt": "A student writes “the players boots\" for several owners. What edit is needed?",
     "answers": [
       {

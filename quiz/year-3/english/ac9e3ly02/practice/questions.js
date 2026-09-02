@@ -247,14 +247,14 @@ window.skillrPracticeQuestions = [
     "skill": "Contributing to Conversations and Discussions",
     "printable": true,
     "type": "single",
-    "question": "During a group talk about a graph, what does an active listener do?",
-    "audioPrompt": "During a group talk about a graph, what does an active listener do?",
+    "question": "Why is “Pays attention and responds to the speaker's idea” the best answer here? During a group talk about a graph, what does an active listener do?",
+    "audioPrompt": "Why is “Pays attention and responds to the speaker's idea” the best answer here? During a group talk about a graph, what does an active listener do?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Pays attention and responds to the speaker's idea",
-      "Plans an interruption",
-      "Ignores evidence"
+      "Pays attention and responds to the speaker's idea This choice best fits the language, text or literacy evidence.",
+      "Because “Plans an interruption” sounds familiar.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 0,
     "explanation": "Pays attention and responds to the speaker's idea This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -271,14 +271,14 @@ window.skillrPracticeQuestions = [
     "skill": "Contributing to Conversations and Discussions",
     "printable": true,
     "type": "single",
-    "question": "During a group talk about a graph, which disagreement is respectful and useful?",
-    "audioPrompt": "During a group talk about a graph, which disagreement is respectful and useful?",
+    "question": "Why is “I see it differently because the table shows...” the best answer here? During a group talk about a graph, which disagreement is respectful and useful?",
+    "audioPrompt": "Why is “I see it differently because the table shows...” the best answer here? During a group talk about a graph, which disagreement is respectful and useful?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "No, wrong",
-      "I see it differently because the table shows...",
-      "That idea is terrible"
+      "Because “No, wrong” sounds familiar.",
+      "I see it differently because the table shows... This choice best fits the language, text or literacy evidence.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 1,
     "explanation": "I see it differently because the table shows... This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -295,14 +295,14 @@ window.skillrPracticeQuestions = [
     "skill": "Contributing to Conversations and Discussions",
     "printable": true,
     "type": "single",
-    "question": "During a group talk about a graph, why can assigned roles improve group talk?",
-    "audioPrompt": "During a group talk about a graph, why can assigned roles improve group talk?",
+    "question": "Why is “They help share turns and responsibilities” the best answer here? During a group talk about a graph, why can assigned roles improve group talk?",
+    "audioPrompt": "Why is “They help share turns and responsibilities” the best answer here? During a group talk about a graph, why can assigned roles improve group talk?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "They let one person control everything",
-      "They make listening optional",
-      "They help share turns and responsibilities"
+      "Because “They let one person control everything” sounds familiar.",
+      "Because the longest-looking option should always be chosen.",
+      "They help share turns and responsibilities This explanation follows the relevant Year 3 English evidence."
     ],
     "correct": 2,
     "explanation": "They help share turns and responsibilities This explanation follows the relevant Year 3 English evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -319,14 +319,14 @@ window.skillrPracticeQuestions = [
     "skill": "Contributing to Conversations and Discussions",
     "printable": true,
     "type": "single",
-    "question": "During a group talk about a graph, which statement summarises a partner accurately?",
-    "audioPrompt": "During a group talk about a graph, which statement summarises a partner accurately?",
+    "question": "Why is “You think shade will protect the plants from heat” the best answer here? During a group talk about a graph, which statement summarises a partner accurately?",
+    "audioPrompt": "Why is “You think shade will protect the plants from heat” the best answer here? During a group talk about a graph, which statement summarises a partner accurately?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "You think shade will protect the plants from heat",
-      "You said plants are boring",
-      "I will replace your idea"
+      "You think shade will protect the plants from heat This choice best fits the language, text or literacy evidence.",
+      "Because “You said plants are boring” sounds familiar.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 0,
     "explanation": "You think shade will protect the plants from heat This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -343,14 +343,14 @@ window.skillrPracticeQuestions = [
     "skill": "Contributing to Conversations and Discussions",
     "printable": true,
     "type": "single",
-    "question": "During a group talk about a graph, which contribution includes evidence?",
-    "audioPrompt": "During a group talk about a graph, which contribution includes evidence?",
+    "question": "Why is “I agree because twelve students recorded the same result” the best answer here? During a group talk about a graph, which contribution includes evidence?",
+    "audioPrompt": "Why is “I agree because twelve students recorded the same result” the best answer here? During a group talk about a graph, which contribution includes evidence?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "I agree",
-      "I agree because twelve students recorded the same result",
-      "Cool idea"
+      "Because “I agree” sounds familiar.",
+      "I agree because twelve students recorded the same result This choice best fits the language, text or literacy evidence.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 1,
     "explanation": "I agree because twelve students recorded the same result This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -367,14 +367,14 @@ window.skillrPracticeQuestions = [
     "skill": "Contributing to Conversations and Discussions",
     "printable": true,
     "type": "single",
-    "question": "During a group talk about a graph, one person speaks for too long. What is the fairest response?",
-    "audioPrompt": "During a group talk about a graph, one person speaks for too long. What is the fairest response?",
+    "question": "Why is “Invite others and use an agreed turn-taking routine” the best answer here? During a group talk about a graph, one person speaks for too long. What is the fairest response?",
+    "audioPrompt": "Why is “Invite others and use an agreed turn-taking routine” the best answer here? During a group talk about a graph, one person speaks for too long. What is the fairest response?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Talk over the speaker",
-      "End the discussion without explanation",
-      "Invite others and use an agreed turn-taking routine"
+      "Because “Talk over the speaker” sounds familiar.",
+      "Because the longest-looking option should always be chosen.",
+      "Invite others and use an agreed turn-taking routine This choice best fits the language, text or literacy evidence."
     ],
     "correct": 2,
     "explanation": "Invite others and use an agreed turn-taking routine This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -391,14 +391,14 @@ window.skillrPracticeQuestions = [
     "skill": "Contributing to Conversations and Discussions",
     "printable": true,
     "type": "single",
-    "question": "During a conversation about a shared book, which move best builds on another speaker's idea?",
-    "audioPrompt": "During a conversation about a shared book, which move best builds on another speaker's idea?",
+    "question": "Why is “I agree with your point, and the data also show...” the best answer here? During a conversation about a shared book, which move best builds on another speaker's idea?",
+    "audioPrompt": "Why is “I agree with your point, and the data also show...” the best answer here? During a conversation about a shared book, which move best builds on another speaker's idea?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "I agree with your point, and the data also show...",
-      "That is silly",
-      "Let us discuss something else"
+      "I agree with your point, and the data also show... This choice best fits the language, text or literacy evidence.",
+      "Because “That is silly” sounds familiar.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 0,
     "explanation": "I agree with your point, and the data also show... This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -415,14 +415,14 @@ window.skillrPracticeQuestions = [
     "skill": "Contributing to Conversations and Discussions",
     "printable": true,
     "type": "single",
-    "question": "During a conversation about a shared book, which follow-up question seeks useful information?",
-    "audioPrompt": "During a conversation about a shared book, which follow-up question seeks useful information?",
+    "question": "Why is “How many results support that pattern?” the best answer here? During a conversation about a shared book, which follow-up question seeks useful information?",
+    "audioPrompt": "Why is “How many results support that pattern?” the best answer here? During a conversation about a shared book, which follow-up question seeks useful information?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Is your favourite colour blue?",
-      "How many results support that pattern?",
-      "Can we stop listening?"
+      "Because “Is your favourite colour blue?” sounds familiar.",
+      "How many results support that pattern? This choice best fits the language, text or literacy evidence.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 1,
     "explanation": "How many results support that pattern? This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -439,14 +439,14 @@ window.skillrPracticeQuestions = [
     "skill": "Contributing to Conversations and Discussions",
     "printable": true,
     "type": "single",
-    "question": "During a conversation about a shared book, what does an active listener do?",
-    "audioPrompt": "During a conversation about a shared book, what does an active listener do?",
+    "question": "Why is “Pays attention and responds to the speaker's idea” the best answer here? During a conversation about a shared book, what does an active listener do?",
+    "audioPrompt": "Why is “Pays attention and responds to the speaker's idea” the best answer here? During a conversation about a shared book, what does an active listener do?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Plans an interruption",
-      "Ignores evidence",
-      "Pays attention and responds to the speaker's idea"
+      "Because “Plans an interruption” sounds familiar.",
+      "Because the longest-looking option should always be chosen.",
+      "Pays attention and responds to the speaker's idea This choice best fits the language, text or literacy evidence."
     ],
     "correct": 2,
     "explanation": "Pays attention and responds to the speaker's idea This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -463,14 +463,14 @@ window.skillrPracticeQuestions = [
     "skill": "Contributing to Conversations and Discussions",
     "printable": true,
     "type": "single",
-    "question": "During a conversation about a shared book, which disagreement is respectful and useful?",
-    "audioPrompt": "During a conversation about a shared book, which disagreement is respectful and useful?",
+    "question": "Why is “I see it differently because the table shows...” the best answer here? During a conversation about a shared book, which disagreement is respectful and useful?",
+    "audioPrompt": "Why is “I see it differently because the table shows...” the best answer here? During a conversation about a shared book, which disagreement is respectful and useful?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "I see it differently because the table shows...",
-      "No, wrong",
-      "That idea is terrible"
+      "I see it differently because the table shows... This choice best fits the language, text or literacy evidence.",
+      "Because “No, wrong” sounds familiar.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 0,
     "explanation": "I see it differently because the table shows... This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -487,20 +487,20 @@ window.skillrPracticeQuestions = [
     "skill": "Contributing to Conversations and Discussions",
     "printable": true,
     "type": "single",
-    "question": "During a conversation about a shared book, why can assigned roles improve group talk?",
-    "audioPrompt": "During a conversation about a shared book, why can assigned roles improve group talk?",
+    "question": "A student chooses “That is silly” for this task: During a discussion about a class garden, which move best builds on another speaker's idea? What should they check?",
+    "audioPrompt": "A student chooses “That is silly” for this task: During a discussion about a class garden, which move best builds on another speaker's idea? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "They let one person control everything",
-      "They help share turns and responsibilities",
-      "They make listening optional"
+      "Keep the answer because it uses a familiar word.",
+      "Use the wording, structure and context before choosing.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 1,
-    "explanation": "They help share turns and responsibilities This explanation follows the relevant Year 3 English evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. I agree with your point, and the data also show... This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "They help share turns and responsibilities This explanation follows the relevant Year 3 English evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. I agree with your point, and the data also show... This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -511,20 +511,20 @@ window.skillrPracticeQuestions = [
     "skill": "Contributing to Conversations and Discussions",
     "printable": true,
     "type": "single",
-    "question": "During a conversation about a shared book, which statement summarises a partner accurately?",
-    "audioPrompt": "During a conversation about a shared book, which statement summarises a partner accurately?",
+    "question": "A student chooses “Is your favourite colour blue?” for this task: During a discussion about a class garden, which follow-up question seeks useful information? What should they check?",
+    "audioPrompt": "A student chooses “Is your favourite colour blue?” for this task: During a discussion about a class garden, which follow-up question seeks useful information? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "You said plants are boring",
-      "I will replace your idea",
-      "You think shade will protect the plants from heat"
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option.",
+      "Use the wording, structure and context before choosing."
     ],
     "correct": 2,
-    "explanation": "You think shade will protect the plants from heat This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. How many results support that pattern? This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "You think shade will protect the plants from heat This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. How many results support that pattern? This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -535,20 +535,20 @@ window.skillrPracticeQuestions = [
     "skill": "Contributing to Conversations and Discussions",
     "printable": true,
     "type": "single",
-    "question": "During a conversation about a shared book, which contribution includes evidence?",
-    "audioPrompt": "During a conversation about a shared book, which contribution includes evidence?",
+    "question": "A student chooses “Plans an interruption” for this task: During a discussion about a class garden, what does an active listener do? What should they check?",
+    "audioPrompt": "A student chooses “Plans an interruption” for this task: During a discussion about a class garden, what does an active listener do? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "I agree because twelve students recorded the same result",
-      "I agree",
-      "Cool idea"
+      "Use the wording, structure and context before choosing.",
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 0,
-    "explanation": "I agree because twelve students recorded the same result This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. Pays attention and responds to the speaker's idea This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "I agree because twelve students recorded the same result This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Pays attention and responds to the speaker's idea This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -559,20 +559,20 @@ window.skillrPracticeQuestions = [
     "skill": "Contributing to Conversations and Discussions",
     "printable": true,
     "type": "single",
-    "question": "During a conversation about a shared book, one person speaks for too long. What is the fairest response?",
-    "audioPrompt": "During a conversation about a shared book, one person speaks for too long. What is the fairest response?",
+    "question": "A student chooses “No, wrong” for this task: During a discussion about a class garden, which disagreement is respectful and useful? What should they check?",
+    "audioPrompt": "A student chooses “No, wrong” for this task: During a discussion about a class garden, which disagreement is respectful and useful? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Talk over the speaker",
-      "Invite others and use an agreed turn-taking routine",
-      "End the discussion without explanation"
+      "Keep the answer because it uses a familiar word.",
+      "Use the wording, structure and context before choosing.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 1,
-    "explanation": "Invite others and use an agreed turn-taking routine This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. I see it differently because the table shows... This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Invite others and use an agreed turn-taking routine This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. I see it differently because the table shows... This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -583,20 +583,20 @@ window.skillrPracticeQuestions = [
     "skill": "Contributing to Conversations and Discussions",
     "printable": true,
     "type": "single",
-    "question": "During a meeting about playground shade, which move best builds on another speaker's idea?",
-    "audioPrompt": "During a meeting about playground shade, which move best builds on another speaker's idea?",
+    "question": "A student chooses “They let one person control everything” for this task: During a discussion about a class garden, why can assigned roles improve group talk? What should they check?",
+    "audioPrompt": "A student chooses “They let one person control everything” for this task: During a discussion about a class garden, why can assigned roles improve group talk? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "That is silly",
-      "Let us discuss something else",
-      "I agree with your point, and the data also show..."
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option.",
+      "Use the wording, structure and context before choosing."
     ],
     "correct": 2,
-    "explanation": "I agree with your point, and the data also show... This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. They help share turns and responsibilities This explanation follows the relevant Year 3 English evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "I agree with your point, and the data also show... This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. They help share turns and responsibilities This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -607,20 +607,20 @@ window.skillrPracticeQuestions = [
     "skill": "Contributing to Conversations and Discussions",
     "printable": true,
     "type": "single",
-    "question": "During a meeting about playground shade, which follow-up question seeks useful information?",
-    "audioPrompt": "During a meeting about playground shade, which follow-up question seeks useful information?",
+    "question": "A student chooses “You said plants are boring” for this task: During a discussion about a class garden, which statement summarises a partner accurately? What should they check?",
+    "audioPrompt": "A student chooses “You said plants are boring” for this task: During a discussion about a class garden, which statement summarises a partner accurately? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "How many results support that pattern?",
-      "Is your favourite colour blue?",
-      "Can we stop listening?"
+      "Use the wording, structure and context before choosing.",
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 0,
-    "explanation": "How many results support that pattern? This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. You think shade will protect the plants from heat This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "How many results support that pattern? This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. You think shade will protect the plants from heat This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -631,20 +631,20 @@ window.skillrPracticeQuestions = [
     "skill": "Contributing to Conversations and Discussions",
     "printable": true,
     "type": "single",
-    "question": "During a meeting about playground shade, what does an active listener do?",
-    "audioPrompt": "During a meeting about playground shade, what does an active listener do?",
+    "question": "A student chooses “I agree” for this task: During a discussion about a class garden, which contribution includes evidence? What should they check?",
+    "audioPrompt": "A student chooses “I agree” for this task: During a discussion about a class garden, which contribution includes evidence? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Plans an interruption",
-      "Pays attention and responds to the speaker's idea",
-      "Ignores evidence"
+      "Keep the answer because it uses a familiar word.",
+      "Use the wording, structure and context before choosing.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 1,
-    "explanation": "Pays attention and responds to the speaker's idea This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. I agree because twelve students recorded the same result This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Pays attention and responds to the speaker's idea This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. I agree because twelve students recorded the same result This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -655,20 +655,20 @@ window.skillrPracticeQuestions = [
     "skill": "Contributing to Conversations and Discussions",
     "printable": true,
     "type": "single",
-    "question": "During a meeting about playground shade, which disagreement is respectful and useful?",
-    "audioPrompt": "During a meeting about playground shade, which disagreement is respectful and useful?",
+    "question": "A student chooses “Talk over the speaker” for this task: During a discussion about a class garden, one person speaks for too long. What is the fairest response? What should they check?",
+    "audioPrompt": "A student chooses “Talk over the speaker” for this task: During a discussion about a class garden, one person speaks for too long. What is the fairest response? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "No, wrong",
-      "That idea is terrible",
-      "I see it differently because the table shows..."
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option.",
+      "Use the wording, structure and context before choosing."
     ],
     "correct": 2,
-    "explanation": "I see it differently because the table shows... This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. Invite others and use an agreed turn-taking routine This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "I see it differently because the table shows... This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Invite others and use an agreed turn-taking routine This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -679,20 +679,20 @@ window.skillrPracticeQuestions = [
     "skill": "Contributing to Conversations and Discussions",
     "printable": true,
     "type": "single",
-    "question": "During a meeting about playground shade, why can assigned roles improve group talk?",
-    "audioPrompt": "During a meeting about playground shade, why can assigned roles improve group talk?",
+    "question": "A student chooses “That is silly” for this task: During a group talk about a graph, which move best builds on another speaker's idea? What should they check?",
+    "audioPrompt": "A student chooses “That is silly” for this task: During a group talk about a graph, which move best builds on another speaker's idea? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "They help share turns and responsibilities",
-      "They let one person control everything",
-      "They make listening optional"
+      "Use the wording, structure and context before choosing.",
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 0,
-    "explanation": "They help share turns and responsibilities This explanation follows the relevant Year 3 English evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. I agree with your point, and the data also show... This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "They help share turns and responsibilities This explanation follows the relevant Year 3 English evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. I agree with your point, and the data also show... This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -703,20 +703,20 @@ window.skillrPracticeQuestions = [
     "skill": "Contributing to Conversations and Discussions",
     "printable": true,
     "type": "single",
-    "question": "During a meeting about playground shade, which statement summarises a partner accurately?",
-    "audioPrompt": "During a meeting about playground shade, which statement summarises a partner accurately?",
+    "question": "A student chooses “Is your favourite colour blue?” for this task: During a group talk about a graph, which follow-up question seeks useful information? What should they check?",
+    "audioPrompt": "A student chooses “Is your favourite colour blue?” for this task: During a group talk about a graph, which follow-up question seeks useful information? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "You said plants are boring",
-      "You think shade will protect the plants from heat",
-      "I will replace your idea"
+      "Keep the answer because it uses a familiar word.",
+      "Use the wording, structure and context before choosing.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 1,
-    "explanation": "You think shade will protect the plants from heat This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. How many results support that pattern? This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "You think shade will protect the plants from heat This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. How many results support that pattern? This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -727,8 +727,8 @@ window.skillrPracticeQuestions = [
     "skill": "Contributing to Conversations and Discussions",
     "printable": true,
     "type": "single",
-    "question": "During a meeting about playground shade, which contribution includes evidence?",
-    "audioPrompt": "During a meeting about playground shade, which contribution includes evidence?",
+    "question": "During a group talk about a graph, which contribution includes evidence?",
+    "audioPrompt": "During a group talk about a graph, which contribution includes evidence?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -751,8 +751,8 @@ window.skillrPracticeQuestions = [
     "skill": "Contributing to Conversations and Discussions",
     "printable": true,
     "type": "single",
-    "question": "During a meeting about playground shade, one person speaks for too long. What is the fairest response?",
-    "audioPrompt": "During a meeting about playground shade, one person speaks for too long. What is the fairest response?",
+    "question": "During a group talk about a graph, one person speaks for too long. What is the fairest response?",
+    "audioPrompt": "During a group talk about a graph, one person speaks for too long. What is the fairest response?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -775,8 +775,8 @@ window.skillrPracticeQuestions = [
     "skill": "Contributing to Conversations and Discussions",
     "printable": true,
     "type": "single",
-    "question": "During a discussion about reducing waste, which move best builds on another speaker's idea?",
-    "audioPrompt": "During a discussion about reducing waste, which move best builds on another speaker's idea?",
+    "question": "During a conversation about a shared book, which move best builds on another speaker's idea?",
+    "audioPrompt": "During a conversation about a shared book, which move best builds on another speaker's idea?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -799,8 +799,8 @@ window.skillrPracticeQuestions = [
     "skill": "Contributing to Conversations and Discussions",
     "printable": true,
     "type": "single",
-    "question": "During a discussion about reducing waste, which follow-up question seeks useful information?",
-    "audioPrompt": "During a discussion about reducing waste, which follow-up question seeks useful information?",
+    "question": "During a conversation about a shared book, which follow-up question seeks useful information?",
+    "audioPrompt": "During a conversation about a shared book, which follow-up question seeks useful information?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -823,8 +823,8 @@ window.skillrPracticeQuestions = [
     "skill": "Contributing to Conversations and Discussions",
     "printable": true,
     "type": "single",
-    "question": "During a discussion about reducing waste, what does an active listener do?",
-    "audioPrompt": "During a discussion about reducing waste, what does an active listener do?",
+    "question": "During a conversation about a shared book, what does an active listener do?",
+    "audioPrompt": "During a conversation about a shared book, what does an active listener do?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -847,8 +847,8 @@ window.skillrPracticeQuestions = [
     "skill": "Contributing to Conversations and Discussions",
     "printable": true,
     "type": "single",
-    "question": "During a discussion about reducing waste, which disagreement is respectful and useful?",
-    "audioPrompt": "During a discussion about reducing waste, which disagreement is respectful and useful?",
+    "question": "During a conversation about a shared book, which disagreement is respectful and useful?",
+    "audioPrompt": "During a conversation about a shared book, which disagreement is respectful and useful?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -871,8 +871,8 @@ window.skillrPracticeQuestions = [
     "skill": "Contributing to Conversations and Discussions",
     "printable": true,
     "type": "single",
-    "question": "During a discussion about reducing waste, why can assigned roles improve group talk?",
-    "audioPrompt": "During a discussion about reducing waste, why can assigned roles improve group talk?",
+    "question": "During a conversation about a shared book, why can assigned roles improve group talk?",
+    "audioPrompt": "During a conversation about a shared book, why can assigned roles improve group talk?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -895,8 +895,8 @@ window.skillrPracticeQuestions = [
     "skill": "Contributing to Conversations and Discussions",
     "printable": true,
     "type": "single",
-    "question": "During a discussion about reducing waste, which statement summarises a partner accurately?",
-    "audioPrompt": "During a discussion about reducing waste, which statement summarises a partner accurately?",
+    "question": "During a conversation about a shared book, which statement summarises a partner accurately?",
+    "audioPrompt": "During a conversation about a shared book, which statement summarises a partner accurately?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -919,8 +919,8 @@ window.skillrPracticeQuestions = [
     "skill": "Contributing to Conversations and Discussions",
     "printable": true,
     "type": "single",
-    "question": "During a discussion about reducing waste, which contribution includes evidence?",
-    "audioPrompt": "During a discussion about reducing waste, which contribution includes evidence?",
+    "question": "During a conversation about a shared book, which contribution includes evidence?",
+    "audioPrompt": "During a conversation about a shared book, which contribution includes evidence?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -943,8 +943,8 @@ window.skillrPracticeQuestions = [
     "skill": "Contributing to Conversations and Discussions",
     "printable": true,
     "type": "single",
-    "question": "During a discussion about reducing waste, one person speaks for too long. What is the fairest response?",
-    "audioPrompt": "During a discussion about reducing waste, one person speaks for too long. What is the fairest response?",
+    "question": "During a conversation about a shared book, one person speaks for too long. What is the fairest response?",
+    "audioPrompt": "During a conversation about a shared book, one person speaks for too long. What is the fairest response?",
     "visual": "",
     "visualHtml": "",
     "answers": [

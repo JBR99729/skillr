@@ -307,19 +307,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Audience and Purpose of Text Types",
-    "question": "In a school-fair poster, which clue identifies the audience?",
-    "audio_prompt": "In a school-fair poster, which clue identifies the audience?",
+    "question": "Why is “Parents and carers are invited” the best answer here? In a school-fair poster, which clue identifies the audience?",
+    "audio_prompt": "Why is “Parents and carers are invited” the best answer here? In a school-fair poster, which clue identifies the audience?",
     "answers": [
       {
-        "text": "The page has a border",
+        "text": "Because “The page has a border” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Parents and carers are invited",
+        "text": "Parents and carers are invited This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "The text uses a full stop",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -337,19 +337,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Audience and Purpose of Text Types",
-    "question": "In a school-fair poster, which text is mainly imaginative?",
-    "audio_prompt": "In a school-fair poster, which text is mainly imaginative?",
+    "question": "Why is “A story with characters, setting and invented events” the best answer here? In a school-fair poster, which text is mainly imaginative?",
+    "audio_prompt": "Why is “A story with characters, setting and invented events” the best answer here? In a school-fair poster, which text is mainly imaginative?",
     "answers": [
       {
-        "text": "A report of measured rainfall",
+        "text": "Because “A report of measured rainfall” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "A notice listing meeting times",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "A story with characters, setting and invented events",
+        "text": "A story with characters, setting and invented events This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       }
     ],
@@ -367,19 +367,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Audience and Purpose of Text Types",
-    "question": "In a school-fair poster, how do audience and purpose work together?",
-    "audio_prompt": "In a school-fair poster, how do audience and purpose work together?",
+    "question": "Why is “They guide language, content and design choices” the best answer here? In a school-fair poster, how do audience and purpose work together?",
+    "audio_prompt": "Why is “They guide language, content and design choices” the best answer here? In a school-fair poster, how do audience and purpose work together?",
     "answers": [
       {
-        "text": "They guide language, content and design choices",
+        "text": "They guide language, content and design choices This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "They determine the paper colour only",
+        "text": "Because “They determine the paper colour only” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "They remove the need for structure",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -397,19 +397,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Audience and Purpose of Text Types",
-    "question": "In a school-fair poster, which feature best suits an invitation?",
-    "audio_prompt": "In a school-fair poster, which feature best suits an invitation?",
+    "question": "Why is “Date, time, place and welcoming wording” the best answer here? In a school-fair poster, which feature best suits an invitation?",
+    "audio_prompt": "Why is “Date, time, place and welcoming wording” the best answer here? In a school-fair poster, which feature best suits an invitation?",
     "answers": [
       {
-        "text": "A results table only",
+        "text": "Because “A results table only” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Date, time, place and welcoming wording",
+        "text": "Date, time, place and welcoming wording This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "A problem with no event details",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -427,19 +427,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Audience and Purpose of Text Types",
-    "question": "In a school-fair poster, a text includes prices, positive claims and a call to act. What is its likely purpose?",
-    "audio_prompt": "In a school-fair poster, a text includes prices, positive claims and a call to act. What is its likely purpose?",
+    "question": "Why is “To persuade” the best answer here? In a school-fair poster, a text includes prices, positive claims and a call to act. What is its likely purpose?",
+    "audio_prompt": "Why is “To persuade” the best answer here? In a school-fair poster, a text includes prices, positive claims and a call to act. What is its likely purpose?",
     "answers": [
       {
-        "text": "To recount privately",
+        "text": "Because “To recount privately” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "To define a scientific term",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "To persuade",
+        "text": "To persuade This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       }
     ],
@@ -457,19 +457,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Audience and Purpose of Text Types",
-    "question": "In a school-fair poster, which explanation uses multiple clues?",
-    "audio_prompt": "In a school-fair poster, which explanation uses multiple clues?",
+    "question": "Why is “The text informs families because it names them and gives factual steps” the best answer here? In a school-fair poster, which explanation uses multiple clues?",
+    "audio_prompt": "Why is “The text informs families because it names them and gives factual steps” the best answer here? In a school-fair poster, which explanation uses multiple clues?",
     "answers": [
       {
-        "text": "The text informs families because it names them and gives factual steps",
+        "text": "The text informs families because it names them and gives factual steps This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "It is informative because I like it",
+        "text": "Because “It is informative because I like it” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Its purpose cannot be inferred",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -487,19 +487,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Audience and Purpose of Text Types",
-    "question": "At the start of a fantasy story, which feature most clearly signals an informative purpose?",
-    "audio_prompt": "At the start of a fantasy story, which feature most clearly signals an informative purpose?",
+    "question": "Why is “A facts table with labelled information” the best answer here? At the start of a fantasy story, which feature most clearly signals an informative purpose?",
+    "audio_prompt": "Why is “A facts table with labelled information” the best answer here? At the start of a fantasy story, which feature most clearly signals an informative purpose?",
     "answers": [
       {
-        "text": "A magical character",
+        "text": "Because “A magical character” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "A facts table with labelled information",
+        "text": "A facts table with labelled information This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "A command to buy now",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -517,19 +517,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Audience and Purpose of Text Types",
-    "question": "At the start of a fantasy story, which wording most clearly signals persuasion?",
-    "audio_prompt": "At the start of a fantasy story, which wording most clearly signals persuasion?",
+    "question": "Why is “Join today because every child deserves a chance” the best answer here? At the start of a fantasy story, which wording most clearly signals persuasion?",
+    "audio_prompt": "Why is “Join today because every child deserves a chance” the best answer here? At the start of a fantasy story, which wording most clearly signals persuasion?",
     "answers": [
       {
-        "text": "The event begins at ten",
+        "text": "Because “The event begins at ten” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Long ago, a dragon woke",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "Join today because every child deserves a chance",
+        "text": "Join today because every child deserves a chance This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       }
     ],
@@ -547,19 +547,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Audience and Purpose of Text Types",
-    "question": "At the start of a fantasy story, which clue identifies the audience?",
-    "audio_prompt": "At the start of a fantasy story, which clue identifies the audience?",
+    "question": "Why is “Parents and carers are invited” the best answer here? At the start of a fantasy story, which clue identifies the audience?",
+    "audio_prompt": "Why is “Parents and carers are invited” the best answer here? At the start of a fantasy story, which clue identifies the audience?",
     "answers": [
       {
-        "text": "Parents and carers are invited",
+        "text": "Parents and carers are invited This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "The page has a border",
+        "text": "Because “The page has a border” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "The text uses a full stop",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -577,19 +577,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Audience and Purpose of Text Types",
-    "question": "At the start of a fantasy story, which text is mainly imaginative?",
-    "audio_prompt": "At the start of a fantasy story, which text is mainly imaginative?",
+    "question": "Why is “A story with characters, setting and invented events” the best answer here? At the start of a fantasy story, which text is mainly imaginative?",
+    "audio_prompt": "Why is “A story with characters, setting and invented events” the best answer here? At the start of a fantasy story, which text is mainly imaginative?",
     "answers": [
       {
-        "text": "A report of measured rainfall",
+        "text": "Because “A report of measured rainfall” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "A story with characters, setting and invented events",
+        "text": "A story with characters, setting and invented events This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "A notice listing meeting times",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -607,26 +607,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Audience and Purpose of Text Types",
-    "question": "At the start of a fantasy story, how do audience and purpose work together?",
-    "audio_prompt": "At the start of a fantasy story, how do audience and purpose work together?",
+    "question": "A student chooses “A magical character” for this task: On a wildlife webpage, which feature most clearly signals an informative purpose? What should they check?",
+    "audio_prompt": "A student chooses “A magical character” for this task: On a wildlife webpage, which feature most clearly signals an informative purpose? What should they check?",
     "answers": [
       {
-        "text": "They determine the paper colour only",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "They remove the need for structure",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "They guide language, content and design choices",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "They guide language, content and design choices This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. A facts table with labelled information This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -637,26 +637,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Audience and Purpose of Text Types",
-    "question": "At the start of a fantasy story, which feature best suits an invitation?",
-    "audio_prompt": "At the start of a fantasy story, which feature best suits an invitation?",
+    "question": "A student chooses “The event begins at ten” for this task: On a wildlife webpage, which wording most clearly signals persuasion? What should they check?",
+    "audio_prompt": "A student chooses “The event begins at ten” for this task: On a wildlife webpage, which wording most clearly signals persuasion? What should they check?",
     "answers": [
       {
-        "text": "Date, time, place and welcoming wording",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "A results table only",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "A problem with no event details",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Date, time, place and welcoming wording This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Join today because every child deserves a chance This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -667,26 +667,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Audience and Purpose of Text Types",
-    "question": "At the start of a fantasy story, a text includes prices, positive claims and a call to act. What is its likely purpose?",
-    "audio_prompt": "At the start of a fantasy story, a text includes prices, positive claims and a call to act. What is its likely purpose?",
+    "question": "A student chooses “The page has a border” for this task: On a wildlife webpage, which clue identifies the audience? What should they check?",
+    "audio_prompt": "A student chooses “The page has a border” for this task: On a wildlife webpage, which clue identifies the audience? What should they check?",
     "answers": [
       {
-        "text": "To recount privately",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "To persuade",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "To define a scientific term",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "To persuade This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Parents and carers are invited This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -697,26 +697,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Audience and Purpose of Text Types",
-    "question": "At the start of a fantasy story, which explanation uses multiple clues?",
-    "audio_prompt": "At the start of a fantasy story, which explanation uses multiple clues?",
+    "question": "A student chooses “A report of measured rainfall” for this task: On a wildlife webpage, which text is mainly imaginative? What should they check?",
+    "audio_prompt": "A student chooses “A report of measured rainfall” for this task: On a wildlife webpage, which text is mainly imaginative? What should they check?",
     "answers": [
       {
-        "text": "It is informative because I like it",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Its purpose cannot be inferred",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "The text informs families because it names them and gives factual steps",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The text informs families because it names them and gives factual steps This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. A story with characters, setting and invented events This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -727,26 +727,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Audience and Purpose of Text Types",
-    "question": "In a council information leaflet, which feature most clearly signals an informative purpose?",
-    "audio_prompt": "In a council information leaflet, which feature most clearly signals an informative purpose?",
+    "question": "A student chooses “They determine the paper colour only” for this task: On a wildlife webpage, how do audience and purpose work together? What should they check?",
+    "audio_prompt": "A student chooses “They determine the paper colour only” for this task: On a wildlife webpage, how do audience and purpose work together? What should they check?",
     "answers": [
       {
-        "text": "A facts table with labelled information",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "A magical character",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "A command to buy now",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A facts table with labelled information This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. They guide language, content and design choices This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -757,26 +757,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Audience and Purpose of Text Types",
-    "question": "In a council information leaflet, which wording most clearly signals persuasion?",
-    "audio_prompt": "In a council information leaflet, which wording most clearly signals persuasion?",
+    "question": "A student chooses “A results table only” for this task: On a wildlife webpage, which feature best suits an invitation? What should they check?",
+    "audio_prompt": "A student chooses “A results table only” for this task: On a wildlife webpage, which feature best suits an invitation? What should they check?",
     "answers": [
       {
-        "text": "The event begins at ten",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Join today because every child deserves a chance",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "Long ago, a dragon woke",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Join today because every child deserves a chance This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Date, time, place and welcoming wording This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -787,26 +787,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Audience and Purpose of Text Types",
-    "question": "In a council information leaflet, which clue identifies the audience?",
-    "audio_prompt": "In a council information leaflet, which clue identifies the audience?",
+    "question": "A student chooses “To recount privately” for this task: On a wildlife webpage, a text includes prices, positive claims and a call to act. What is its likely purpose? What should they check?",
+    "audio_prompt": "A student chooses “To recount privately” for this task: On a wildlife webpage, a text includes prices, positive claims and a call to act. What is its likely purpose? What should they check?",
     "answers": [
       {
-        "text": "The page has a border",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "The text uses a full stop",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "Parents and carers are invited",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Parents and carers are invited This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. To persuade This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -817,26 +817,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Audience and Purpose of Text Types",
-    "question": "In a council information leaflet, which text is mainly imaginative?",
-    "audio_prompt": "In a council information leaflet, which text is mainly imaginative?",
+    "question": "A student chooses “It is informative because I like it” for this task: On a wildlife webpage, which explanation uses multiple clues? What should they check?",
+    "audio_prompt": "A student chooses “It is informative because I like it” for this task: On a wildlife webpage, which explanation uses multiple clues? What should they check?",
     "answers": [
       {
-        "text": "A story with characters, setting and invented events",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "A report of measured rainfall",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "A notice listing meeting times",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A story with characters, setting and invented events This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. The text informs families because it names them and gives factual steps This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -847,26 +847,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Audience and Purpose of Text Types",
-    "question": "In a council information leaflet, how do audience and purpose work together?",
-    "audio_prompt": "In a council information leaflet, how do audience and purpose work together?",
+    "question": "A student chooses “A magical character” for this task: In a school-fair poster, which feature most clearly signals an informative purpose? What should they check?",
+    "audio_prompt": "A student chooses “A magical character” for this task: In a school-fair poster, which feature most clearly signals an informative purpose? What should they check?",
     "answers": [
       {
-        "text": "They determine the paper colour only",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "They guide language, content and design choices",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "They remove the need for structure",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "They guide language, content and design choices This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. A facts table with labelled information This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -877,26 +877,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Audience and Purpose of Text Types",
-    "question": "In a council information leaflet, which feature best suits an invitation?",
-    "audio_prompt": "In a council information leaflet, which feature best suits an invitation?",
+    "question": "A student chooses “The event begins at ten” for this task: In a school-fair poster, which wording most clearly signals persuasion? What should they check?",
+    "audio_prompt": "A student chooses “The event begins at ten” for this task: In a school-fair poster, which wording most clearly signals persuasion? What should they check?",
     "answers": [
       {
-        "text": "A results table only",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "A problem with no event details",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "Date, time, place and welcoming wording",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Date, time, place and welcoming wording This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Join today because every child deserves a chance This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -907,8 +907,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Audience and Purpose of Text Types",
-    "question": "In a council information leaflet, a text includes prices, positive claims and a call to act. What is its likely purpose?",
-    "audio_prompt": "In a council information leaflet, a text includes prices, positive claims and a call to act. What is its likely purpose?",
+    "question": "In a school-fair poster, a text includes prices, positive claims and a call to act. What is its likely purpose?",
+    "audio_prompt": "In a school-fair poster, a text includes prices, positive claims and a call to act. What is its likely purpose?",
     "answers": [
       {
         "text": "To persuade",
@@ -937,8 +937,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Audience and Purpose of Text Types",
-    "question": "In a council information leaflet, which explanation uses multiple clues?",
-    "audio_prompt": "In a council information leaflet, which explanation uses multiple clues?",
+    "question": "In a school-fair poster, which explanation uses multiple clues?",
+    "audio_prompt": "In a school-fair poster, which explanation uses multiple clues?",
     "answers": [
       {
         "text": "It is informative because I like it",
@@ -967,8 +967,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Audience and Purpose of Text Types",
-    "question": "In an advertisement for a sports club, which feature most clearly signals an informative purpose?",
-    "audio_prompt": "In an advertisement for a sports club, which feature most clearly signals an informative purpose?",
+    "question": "At the start of a fantasy story, which feature most clearly signals an informative purpose?",
+    "audio_prompt": "At the start of a fantasy story, which feature most clearly signals an informative purpose?",
     "answers": [
       {
         "text": "A magical character",
@@ -997,8 +997,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Audience and Purpose of Text Types",
-    "question": "In an advertisement for a sports club, which wording most clearly signals persuasion?",
-    "audio_prompt": "In an advertisement for a sports club, which wording most clearly signals persuasion?",
+    "question": "At the start of a fantasy story, which wording most clearly signals persuasion?",
+    "audio_prompt": "At the start of a fantasy story, which wording most clearly signals persuasion?",
     "answers": [
       {
         "text": "Join today because every child deserves a chance",
@@ -1027,8 +1027,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Audience and Purpose of Text Types",
-    "question": "In an advertisement for a sports club, which clue identifies the audience?",
-    "audio_prompt": "In an advertisement for a sports club, which clue identifies the audience?",
+    "question": "At the start of a fantasy story, which clue identifies the audience?",
+    "audio_prompt": "At the start of a fantasy story, which clue identifies the audience?",
     "answers": [
       {
         "text": "The page has a border",
@@ -1057,8 +1057,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Audience and Purpose of Text Types",
-    "question": "In an advertisement for a sports club, which text is mainly imaginative?",
-    "audio_prompt": "In an advertisement for a sports club, which text is mainly imaginative?",
+    "question": "At the start of a fantasy story, which text is mainly imaginative?",
+    "audio_prompt": "At the start of a fantasy story, which text is mainly imaginative?",
     "answers": [
       {
         "text": "A report of measured rainfall",
@@ -1087,8 +1087,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Audience and Purpose of Text Types",
-    "question": "In an advertisement for a sports club, how do audience and purpose work together?",
-    "audio_prompt": "In an advertisement for a sports club, how do audience and purpose work together?",
+    "question": "At the start of a fantasy story, how do audience and purpose work together?",
+    "audio_prompt": "At the start of a fantasy story, how do audience and purpose work together?",
     "answers": [
       {
         "text": "They guide language, content and design choices",
@@ -1117,8 +1117,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Audience and Purpose of Text Types",
-    "question": "In an advertisement for a sports club, which feature best suits an invitation?",
-    "audio_prompt": "In an advertisement for a sports club, which feature best suits an invitation?",
+    "question": "At the start of a fantasy story, which feature best suits an invitation?",
+    "audio_prompt": "At the start of a fantasy story, which feature best suits an invitation?",
     "answers": [
       {
         "text": "A results table only",
@@ -1147,8 +1147,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Audience and Purpose of Text Types",
-    "question": "In an advertisement for a sports club, a text includes prices, positive claims and a call to act. What is its likely purpose?",
-    "audio_prompt": "In an advertisement for a sports club, a text includes prices, positive claims and a call to act. What is its likely purpose?",
+    "question": "At the start of a fantasy story, a text includes prices, positive claims and a call to act. What is its likely purpose?",
+    "audio_prompt": "At the start of a fantasy story, a text includes prices, positive claims and a call to act. What is its likely purpose?",
     "answers": [
       {
         "text": "To recount privately",
@@ -1177,8 +1177,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Audience and Purpose of Text Types",
-    "question": "In an advertisement for a sports club, which explanation uses multiple clues?",
-    "audio_prompt": "In an advertisement for a sports club, which explanation uses multiple clues?",
+    "question": "At the start of a fantasy story, which explanation uses multiple clues?",
+    "audio_prompt": "At the start of a fantasy story, which explanation uses multiple clues?",
     "answers": [
       {
         "text": "The text informs families because it names them and gives factual steps",
@@ -1205,8 +1205,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY03",
     "bank": "test",
+    "stage": "verify",
     "skill": "Audience and Purpose of Text Types",
-    "question": "New check: In a council information leaflet, which feature most clearly signals an informative purpose?",
+    "question": "In a council information leaflet, which feature most clearly signals an informative purpose?",
     "audio_prompt": "In a council information leaflet, which feature most clearly signals an informative purpose?",
     "answers": [
       {
@@ -1234,8 +1235,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY03",
     "bank": "test",
+    "stage": "verify",
     "skill": "Audience and Purpose of Text Types",
-    "question": "New check: In a council information leaflet, which wording most clearly signals persuasion?",
+    "question": "In a council information leaflet, which wording most clearly signals persuasion?",
     "audio_prompt": "In a council information leaflet, which wording most clearly signals persuasion?",
     "answers": [
       {
@@ -1263,8 +1265,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY03",
     "bank": "test",
+    "stage": "verify",
     "skill": "Audience and Purpose of Text Types",
-    "question": "New check: In a council information leaflet, which clue identifies the audience?",
+    "question": "In a council information leaflet, which clue identifies the audience?",
     "audio_prompt": "In a council information leaflet, which clue identifies the audience?",
     "answers": [
       {
@@ -1292,8 +1295,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY03",
     "bank": "test",
+    "stage": "verify",
     "skill": "Audience and Purpose of Text Types",
-    "question": "New check: In a council information leaflet, which text is mainly imaginative?",
+    "question": "In a council information leaflet, which text is mainly imaginative?",
     "audio_prompt": "In a council information leaflet, which text is mainly imaginative?",
     "answers": [
       {
@@ -1321,8 +1325,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY03",
     "bank": "test",
+    "stage": "verify",
     "skill": "Audience and Purpose of Text Types",
-    "question": "New check: In a council information leaflet, how do audience and purpose work together?",
+    "question": "In a council information leaflet, how do audience and purpose work together?",
     "audio_prompt": "In a council information leaflet, how do audience and purpose work together?",
     "answers": [
       {
@@ -1350,8 +1355,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY03",
     "bank": "test",
+    "stage": "verify",
     "skill": "Audience and Purpose of Text Types",
-    "question": "New check: In a council information leaflet, which feature best suits an invitation?",
+    "question": "In a council information leaflet, which feature best suits an invitation?",
     "audio_prompt": "In a council information leaflet, which feature best suits an invitation?",
     "answers": [
       {
@@ -1379,8 +1385,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY03",
     "bank": "test",
+    "stage": "verify",
     "skill": "Audience and Purpose of Text Types",
-    "question": "New check: In a council information leaflet, a text includes prices, positive claims and a call to act. What is its likely purpose?",
+    "question": "In a council information leaflet, a text includes prices, positive claims and a call to act. What is its likely purpose?",
     "audio_prompt": "In a council information leaflet, a text includes prices, positive claims and a call to act. What is its likely purpose?",
     "answers": [
       {
@@ -1408,8 +1415,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY03",
     "bank": "test",
+    "stage": "verify",
     "skill": "Audience and Purpose of Text Types",
-    "question": "New check: In a council information leaflet, which explanation uses multiple clues?",
+    "question": "In a council information leaflet, which explanation uses multiple clues?",
     "audio_prompt": "In a council information leaflet, which explanation uses multiple clues?",
     "answers": [
       {
@@ -1437,8 +1445,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY03",
     "bank": "test",
+    "stage": "apply",
     "skill": "Audience and Purpose of Text Types",
-    "question": "New check: In an advertisement for a sports club, which feature most clearly signals an informative purpose?",
+    "question": "In an advertisement for a sports club, which feature most clearly signals an informative purpose?",
     "audio_prompt": "In an advertisement for a sports club, which feature most clearly signals an informative purpose?",
     "answers": [
       {
@@ -1466,8 +1475,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY03",
     "bank": "test",
+    "stage": "apply",
     "skill": "Audience and Purpose of Text Types",
-    "question": "New check: In an advertisement for a sports club, which wording most clearly signals persuasion?",
+    "question": "In an advertisement for a sports club, which wording most clearly signals persuasion?",
     "audio_prompt": "In an advertisement for a sports club, which wording most clearly signals persuasion?",
     "answers": [
       {
@@ -1495,8 +1505,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY03",
     "bank": "test",
+    "stage": "apply",
     "skill": "Audience and Purpose of Text Types",
-    "question": "New check: In an advertisement for a sports club, which clue identifies the audience?",
+    "question": "In an advertisement for a sports club, which clue identifies the audience?",
     "audio_prompt": "In an advertisement for a sports club, which clue identifies the audience?",
     "answers": [
       {
@@ -1524,8 +1535,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY03",
     "bank": "test",
+    "stage": "apply",
     "skill": "Audience and Purpose of Text Types",
-    "question": "New check: In an advertisement for a sports club, which text is mainly imaginative?",
+    "question": "In an advertisement for a sports club, which text is mainly imaginative?",
     "audio_prompt": "In an advertisement for a sports club, which text is mainly imaginative?",
     "answers": [
       {
@@ -1553,8 +1565,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY03",
     "bank": "test",
+    "stage": "apply",
     "skill": "Audience and Purpose of Text Types",
-    "question": "New check: In an advertisement for a sports club, how do audience and purpose work together?",
+    "question": "In an advertisement for a sports club, how do audience and purpose work together?",
     "audio_prompt": "In an advertisement for a sports club, how do audience and purpose work together?",
     "answers": [
       {
@@ -1582,8 +1595,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY03",
     "bank": "test",
+    "stage": "apply",
     "skill": "Audience and Purpose of Text Types",
-    "question": "New check: In an advertisement for a sports club, which feature best suits an invitation?",
+    "question": "In an advertisement for a sports club, which feature best suits an invitation?",
     "audio_prompt": "In an advertisement for a sports club, which feature best suits an invitation?",
     "answers": [
       {
@@ -1611,8 +1625,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY03",
     "bank": "test",
+    "stage": "apply",
     "skill": "Audience and Purpose of Text Types",
-    "question": "New check: In an advertisement for a sports club, a text includes prices, positive claims and a call to act. What is its likely purpose?",
+    "question": "In an advertisement for a sports club, a text includes prices, positive claims and a call to act. What is its likely purpose?",
     "audio_prompt": "In an advertisement for a sports club, a text includes prices, positive claims and a call to act. What is its likely purpose?",
     "answers": [
       {
@@ -1640,8 +1655,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY03",
     "bank": "test",
+    "stage": "apply",
     "skill": "Audience and Purpose of Text Types",
-    "question": "New check: In an advertisement for a sports club, which explanation uses multiple clues?",
+    "question": "In an advertisement for a sports club, which explanation uses multiple clues?",
     "audio_prompt": "In an advertisement for a sports club, which explanation uses multiple clues?",
     "answers": [
       {

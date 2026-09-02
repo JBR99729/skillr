@@ -307,19 +307,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Verb Tense and Time",
-    "question": "Which sentence correctly links next week with the verb?",
-    "audio_prompt": "Which sentence correctly links next week with the verb?",
+    "question": "Why is “Next week, the student will measure a note.” the best answer here? Which sentence correctly links next week with the verb?",
+    "audio_prompt": "Why is “Next week, the student will measure a note.” the best answer here? Which sentence correctly links next week with the verb?",
     "answers": [
       {
-        "text": "Next week, the student measured a note.",
+        "text": "Because “Next week, the student measured a note.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Next week, the student measures a note.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "Next week, the student will measure a note.",
+        "text": "Future tense locates a process after now.",
         "is_correct": true
       }
     ],
@@ -337,19 +337,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Verb Tense and Time",
-    "question": "A recount begins “Last week, we measured carefully.” Which continuation keeps past tense?",
-    "audio_prompt": "A recount begins “Last week, we measured carefully.” Which continuation keeps past tense?",
+    "question": "Why is “Then we measured again.” the best answer here? A recount begins “Last week, we measured carefully.” Which continuation keeps past tense?",
+    "audio_prompt": "Why is “Then we measured again.” the best answer here? A recount begins “Last week, we measured carefully.” Which continuation keeps past tense?",
     "answers": [
       {
-        "text": "Then we measured again.",
+        "text": "Consistent tense helps readers follow time.",
         "is_correct": true
       },
       {
-        "text": "Then we measures again.",
+        "text": "Because “Then we measures again.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Then we will measure again.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -367,19 +367,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Verb Tense and Time",
-    "question": "Which edit fixes the tense shift in “Last week, she measured, then she measures”?",
-    "audio_prompt": "Which edit fixes the tense shift in “Last week, she measured, then she measures”?",
+    "question": "Why is “Change “measures” to “measured”.” the best answer here? Which edit fixes the tense shift in “Last week, she measured, then she measures”?",
+    "audio_prompt": "Why is “Change “measures” to “measured”.” the best answer here? Which edit fixes the tense shift in “Last week, she measured, then she measures”?",
     "answers": [
       {
-        "text": "Change “measured” to “will measure”.",
+        "text": "Because “Change “measured” to “will measure”.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Change “measures” to “measured”.",
+        "text": "Both events with the same past-time frame need past forms.",
         "is_correct": true
       },
       {
-        "text": "Keep both verbs because their times already match.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -397,19 +397,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Verb Tense and Time",
-    "question": "Which words in “Next week, they will measure” show future time?",
-    "audio_prompt": "Which words in “Next week, they will measure” show future time?",
+    "question": "Why is “Next week and “will measure”” the best answer here? Which words in “Next week, they will measure” show future time?",
+    "audio_prompt": "Why is “Next week and “will measure”” the best answer here? Which words in “Next week, they will measure” show future time?",
     "answers": [
       {
-        "text": "Last week and “measured”",
+        "text": "Because “Last week and “measured”” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Each day and “measures”",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "Next week and “will measure”",
+        "text": "A time phrase and verb form can both anchor an event in time.",
         "is_correct": true
       }
     ],
@@ -427,19 +427,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Verb Tense and Time",
-    "question": "Why does a writer use “measures” after each day?",
-    "audio_prompt": "Why does a writer use “measures” after each day?",
+    "question": "Why is “To show a current or repeated process.” the best answer here? Why does a writer use “measures” after each day?",
+    "audio_prompt": "Why is “To show a current or repeated process.” the best answer here? Why does a writer use “measures” after each day?",
     "answers": [
       {
-        "text": "To show a current or repeated process.",
+        "text": "Present tense suits current and habitual actions.",
         "is_correct": true
       },
       {
-        "text": "To show that the process ended long ago.",
+        "text": "Because “To show that the process ended long ago.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "To show that the process can never occur.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -457,19 +457,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Verb Tense and Time",
-    "question": "Using “measured”, “measures” and “will measure”, which sequence moves clearly from past to present to future?",
-    "audio_prompt": "Using “measured”, “measures” and “will measure”, which sequence moves clearly from past to present to future?",
+    "question": "Why is “Last week: measured; each day: measures; next week: will measure.” the best answer here? Using “measured”, “measures” and “will measure”, which sequence moves clearly from past to present to future?",
+    "audio_prompt": "Why is “Last week: measured; each day: measures; next week: will measure.” the best answer here? Using “measured”, “measures” and “will measure”, which sequence moves clearly from past to present to future?",
     "answers": [
       {
-        "text": "Last week: will measure; each day: measured; next week: measures.",
+        "text": "Because “Last week: will measure; each day: measured; next week: measures.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Last week: measured; each day: measures; next week: will measure.",
+        "text": "Verb tense can organise events along a timeline.",
         "is_correct": true
       },
       {
-        "text": "Last week: measures; each day: will measure; next week: measured.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -487,19 +487,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Verb Tense and Time",
-    "question": "Which sentence correctly links earlier with the verb?",
-    "audio_prompt": "Which sentence correctly links earlier with the verb?",
+    "question": "Why is “Earlier, the student wrote a note.” the best answer here? Which sentence correctly links earlier with the verb?",
+    "audio_prompt": "Why is “Earlier, the student wrote a note.” the best answer here? Which sentence correctly links earlier with the verb?",
     "answers": [
       {
-        "text": "Earlier, the student writes a note.",
+        "text": "Because “Earlier, the student writes a note.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Earlier, the student will write a note.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "Earlier, the student wrote a note.",
+        "text": "Past-tense verbs locate a process before now.",
         "is_correct": true
       }
     ],
@@ -517,19 +517,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Verb Tense and Time",
-    "question": "Which sentence correctly links now with the verb?",
-    "audio_prompt": "Which sentence correctly links now with the verb?",
+    "question": "Why is “Now, the student writes a note.” the best answer here? Which sentence correctly links now with the verb?",
+    "audio_prompt": "Why is “Now, the student writes a note.” the best answer here? Which sentence correctly links now with the verb?",
     "answers": [
       {
-        "text": "Now, the student writes a note.",
+        "text": "Present tense can describe what happens now or regularly.",
         "is_correct": true
       },
       {
-        "text": "Now, the student wrote a note.",
+        "text": "Because “Now, the student wrote a note.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Now, the student will write a note.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -547,19 +547,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Verb Tense and Time",
-    "question": "Which sentence correctly links later with the verb?",
-    "audio_prompt": "Which sentence correctly links later with the verb?",
+    "question": "Why is “Later, the student will write a note.” the best answer here? Which sentence correctly links later with the verb?",
+    "audio_prompt": "Why is “Later, the student will write a note.” the best answer here? Which sentence correctly links later with the verb?",
     "answers": [
       {
-        "text": "Later, the student wrote a note.",
+        "text": "Because “Later, the student wrote a note.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Later, the student will write a note.",
+        "text": "Future tense locates a process after now.",
         "is_correct": true
       },
       {
-        "text": "Later, the student writes a note.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -577,19 +577,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Verb Tense and Time",
-    "question": "A recount begins “Earlier, we wrote carefully.” Which continuation keeps past tense?",
-    "audio_prompt": "A recount begins “Earlier, we wrote carefully.” Which continuation keeps past tense?",
+    "question": "Why is “Then we wrote again.” the best answer here? A recount begins “Earlier, we wrote carefully.” Which continuation keeps past tense?",
+    "audio_prompt": "Why is “Then we wrote again.” the best answer here? A recount begins “Earlier, we wrote carefully.” Which continuation keeps past tense?",
     "answers": [
       {
-        "text": "Then we writes again.",
+        "text": "Because “Then we writes again.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Then we will write again.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "Then we wrote again.",
+        "text": "Consistent tense helps readers follow time.",
         "is_correct": true
       }
     ],
@@ -607,26 +607,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Verb Tense and Time",
-    "question": "Which edit fixes the tense shift in “Earlier, she wrote, then she writes”?",
-    "audio_prompt": "Which edit fixes the tense shift in “Earlier, she wrote, then she writes”?",
+    "question": "A student chooses “Yesterday, the student walks a note.” for this task: Which sentence correctly links yesterday with the verb? What should they check?",
+    "audio_prompt": "A student chooses “Yesterday, the student walks a note.” for this task: Which sentence correctly links yesterday with the verb? What should they check?",
     "answers": [
       {
-        "text": "Change “writes” to “wrote”.",
+        "text": "Match the verb form to the past-time clue.",
         "is_correct": true
       },
       {
-        "text": "Change “wrote” to “will write”.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Keep both verbs because their times already match.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Both events with the same past-time frame need past forms.",
-      "hint": "Use the opening time phrase as your guide."
+      "summary": "Match the verb form to the past-time clue. Past-tense verbs locate a process before now.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -637,26 +637,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Verb Tense and Time",
-    "question": "Which words in “Later, they will write” show future time?",
-    "audio_prompt": "Which words in “Later, they will write” show future time?",
+    "question": "A student chooses “Today, the student walked a note.” for this task: Which sentence correctly links today with the verb? What should they check?",
+    "audio_prompt": "A student chooses “Today, the student walked a note.” for this task: Which sentence correctly links today with the verb? What should they check?",
     "answers": [
       {
-        "text": "Earlier and “wrote”",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Later and “will write”",
+        "text": "Use the time clue to select the present form.",
         "is_correct": true
       },
       {
-        "text": "Now and “writes”",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A time phrase and verb form can both anchor an event in time.",
-      "hint": "Find the pair that points after now."
+      "summary": "Use the time clue to select the present form. Present tense can describe what happens now or regularly.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -667,26 +667,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Verb Tense and Time",
-    "question": "Why does a writer use “writes” after now?",
-    "audio_prompt": "Why does a writer use “writes” after now?",
+    "question": "A student chooses “Tomorrow, the student walked a note.” for this task: Which sentence correctly links tomorrow with the verb? What should they check?",
+    "audio_prompt": "A student chooses “Tomorrow, the student walked a note.” for this task: Which sentence correctly links tomorrow with the verb? What should they check?",
     "answers": [
       {
-        "text": "To show that the process ended long ago.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "To show that the process can never occur.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "To show a current or repeated process.",
+        "text": "Look for the verb phrase beginning with will.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Present tense suits current and habitual actions.",
-      "hint": "Connect the tense to the time clue."
+      "summary": "Look for the verb phrase beginning with will. Future tense locates a process after now.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -697,26 +697,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Verb Tense and Time",
-    "question": "Using “wrote”, “writes” and “will write”, which sequence moves clearly from past to present to future?",
-    "audio_prompt": "Using “wrote”, “writes” and “will write”, which sequence moves clearly from past to present to future?",
+    "question": "A student chooses “Then we walks again.” for this task: A recount begins “Yesterday, we walked carefully.” Which continuation keeps past tense? What should they check?",
+    "audio_prompt": "A student chooses “Then we walks again.” for this task: A recount begins “Yesterday, we walked carefully.” Which continuation keeps past tense? What should they check?",
     "answers": [
       {
-        "text": "Earlier: wrote; now: writes; later: will write.",
+        "text": "Keep the next verb in the same time as the first.",
         "is_correct": true
       },
       {
-        "text": "Earlier: will write; now: wrote; later: writes.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Earlier: writes; now: will write; later: wrote.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Verb tense can organise events along a timeline.",
-      "hint": "Match each form to before now, now, and after now."
+      "summary": "Keep the next verb in the same time as the first. Consistent tense helps readers follow time.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -727,26 +727,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Verb Tense and Time",
-    "question": "Which sentence correctly links on monday with the verb?",
-    "audio_prompt": "Which sentence correctly links on monday with the verb?",
+    "question": "A student chooses “Change “walked” to “will walk”.” for this task: Which edit fixes the tense shift in “Yesterday, she walked, then she walks”? What should they check?",
+    "audio_prompt": "A student chooses “Change “walked” to “will walk”.” for this task: Which edit fixes the tense shift in “Yesterday, she walked, then she walks”? What should they check?",
     "answers": [
       {
-        "text": "On Monday, the student finds a note.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "On Monday, the student found a note.",
+        "text": "Use the opening time phrase as your guide.",
         "is_correct": true
       },
       {
-        "text": "On Monday, the student will find a note.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Past-tense verbs locate a process before now.",
-      "hint": "Match the verb form to the past-time clue."
+      "summary": "Use the opening time phrase as your guide. Both events with the same past-time frame need past forms.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -757,26 +757,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Verb Tense and Time",
-    "question": "Which sentence correctly links every morning with the verb?",
-    "audio_prompt": "Which sentence correctly links every morning with the verb?",
+    "question": "A student chooses “Yesterday and “walked”” for this task: Which words in “Tomorrow, they will walk” show future time? What should they check?",
+    "audio_prompt": "A student chooses “Yesterday and “walked”” for this task: Which words in “Tomorrow, they will walk” show future time? What should they check?",
     "answers": [
       {
-        "text": "Every morning, the student found a note.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Every morning, the student will find a note.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "Every morning, the student finds a note.",
+        "text": "Find the pair that points after now.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Present tense can describe what happens now or regularly.",
-      "hint": "Use the time clue to select the present form."
+      "summary": "Find the pair that points after now. A time phrase and verb form can both anchor an event in time.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -787,26 +787,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Verb Tense and Time",
-    "question": "Which sentence correctly links on friday with the verb?",
-    "audio_prompt": "Which sentence correctly links on friday with the verb?",
+    "question": "A student chooses “To show that the process ended long ago.” for this task: Why does a writer use “walks” after today? What should they check?",
+    "audio_prompt": "A student chooses “To show that the process ended long ago.” for this task: Why does a writer use “walks” after today? What should they check?",
     "answers": [
       {
-        "text": "On Friday, the student will find a note.",
+        "text": "Connect the tense to the time clue.",
         "is_correct": true
       },
       {
-        "text": "On Friday, the student found a note.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "On Friday, the student finds a note.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Future tense locates a process after now.",
-      "hint": "Look for the verb phrase beginning with will."
+      "summary": "Connect the tense to the time clue. Present tense suits current and habitual actions.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -817,26 +817,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Verb Tense and Time",
-    "question": "A recount begins “On Monday, we found carefully.” Which continuation keeps past tense?",
-    "audio_prompt": "A recount begins “On Monday, we found carefully.” Which continuation keeps past tense?",
+    "question": "A student chooses “Yesterday: will walk; today: walked; tomorrow: walks.” for this task: Using “walked”, “walks” and “will walk”, which sequence moves clearly from past to present to future? What should they check?",
+    "audio_prompt": "A student chooses “Yesterday: will walk; today: walked; tomorrow: walks.” for this task: Using “walked”, “walks” and “will walk”, which sequence moves clearly from past to present to future? What should they check?",
     "answers": [
       {
-        "text": "Then we finds again.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Then we found again.",
+        "text": "Match each form to before now, now, and after now.",
         "is_correct": true
       },
       {
-        "text": "Then we will find again.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Consistent tense helps readers follow time.",
-      "hint": "Keep the next verb in the same time as the first."
+      "summary": "Match each form to before now, now, and after now. Verb tense can organise events along a timeline.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -847,26 +847,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Verb Tense and Time",
-    "question": "Which edit fixes the tense shift in “On Monday, she found, then she finds”?",
-    "audio_prompt": "Which edit fixes the tense shift in “On Monday, she found, then she finds”?",
+    "question": "A student chooses “Last week, the student measures a note.” for this task: Which sentence correctly links last week with the verb? What should they check?",
+    "audio_prompt": "A student chooses “Last week, the student measures a note.” for this task: Which sentence correctly links last week with the verb? What should they check?",
     "answers": [
       {
-        "text": "Change “found” to “will find”.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Keep both verbs because their times already match.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "Change “finds” to “found”.",
+        "text": "Match the verb form to the past-time clue.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Both events with the same past-time frame need past forms.",
-      "hint": "Use the opening time phrase as your guide."
+      "summary": "Match the verb form to the past-time clue. Past-tense verbs locate a process before now.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -877,26 +877,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Verb Tense and Time",
-    "question": "Which words in “On Friday, they will find” show future time?",
-    "audio_prompt": "Which words in “On Friday, they will find” show future time?",
+    "question": "A student chooses “Each day, the student measured a note.” for this task: Which sentence correctly links each day with the verb? What should they check?",
+    "audio_prompt": "A student chooses “Each day, the student measured a note.” for this task: Which sentence correctly links each day with the verb? What should they check?",
     "answers": [
       {
-        "text": "On Friday and “will find”",
+        "text": "Use the time clue to select the present form.",
         "is_correct": true
       },
       {
-        "text": "On Monday and “found”",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Every morning and “finds”",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A time phrase and verb form can both anchor an event in time.",
-      "hint": "Find the pair that points after now."
+      "summary": "Use the time clue to select the present form. Present tense can describe what happens now or regularly.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -907,8 +907,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Verb Tense and Time",
-    "question": "Why does a writer use “finds” after every morning?",
-    "audio_prompt": "Why does a writer use “finds” after every morning?",
+    "question": "Why does a writer use “measures” after each day?",
+    "audio_prompt": "Why does a writer use “measures” after each day?",
     "answers": [
       {
         "text": "To show that the process ended long ago.",
@@ -937,19 +937,19 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Verb Tense and Time",
-    "question": "Using “found”, “finds” and “will find”, which sequence moves clearly from past to present to future?",
-    "audio_prompt": "Using “found”, “finds” and “will find”, which sequence moves clearly from past to present to future?",
+    "question": "Using “measured”, “measures” and “will measure”, which sequence moves clearly from past to present to future?",
+    "audio_prompt": "Using “measured”, “measures” and “will measure”, which sequence moves clearly from past to present to future?",
     "answers": [
       {
-        "text": "On Monday: will find; every morning: found; on friday: finds.",
+        "text": "Last week: will measure; each day: measured; next week: measures.",
         "is_correct": false
       },
       {
-        "text": "On Monday: finds; every morning: will find; on friday: found.",
+        "text": "Last week: measures; each day: will measure; next week: measured.",
         "is_correct": false
       },
       {
-        "text": "On Monday: found; every morning: finds; on friday: will find.",
+        "text": "Last week: measured; each day: measures; next week: will measure.",
         "is_correct": true
       }
     ],
@@ -967,19 +967,19 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Verb Tense and Time",
-    "question": "Which sentence correctly links before lunch with the verb?",
-    "audio_prompt": "Which sentence correctly links before lunch with the verb?",
+    "question": "Which sentence correctly links earlier with the verb?",
+    "audio_prompt": "Which sentence correctly links earlier with the verb?",
     "answers": [
       {
-        "text": "Before lunch, the student made a note.",
+        "text": "Earlier, the student wrote a note.",
         "is_correct": true
       },
       {
-        "text": "Before lunch, the student makes a note.",
+        "text": "Earlier, the student writes a note.",
         "is_correct": false
       },
       {
-        "text": "Before lunch, the student will make a note.",
+        "text": "Earlier, the student will write a note.",
         "is_correct": false
       }
     ],
@@ -997,19 +997,19 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Verb Tense and Time",
-    "question": "Which sentence correctly links at present with the verb?",
-    "audio_prompt": "Which sentence correctly links at present with the verb?",
+    "question": "Which sentence correctly links now with the verb?",
+    "audio_prompt": "Which sentence correctly links now with the verb?",
     "answers": [
       {
-        "text": "At present, the student made a note.",
+        "text": "Now, the student wrote a note.",
         "is_correct": false
       },
       {
-        "text": "At present, the student makes a note.",
+        "text": "Now, the student writes a note.",
         "is_correct": true
       },
       {
-        "text": "At present, the student will make a note.",
+        "text": "Now, the student will write a note.",
         "is_correct": false
       }
     ],
@@ -1027,19 +1027,19 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Verb Tense and Time",
-    "question": "Which sentence correctly links after lunch with the verb?",
-    "audio_prompt": "Which sentence correctly links after lunch with the verb?",
+    "question": "Which sentence correctly links later with the verb?",
+    "audio_prompt": "Which sentence correctly links later with the verb?",
     "answers": [
       {
-        "text": "After lunch, the student made a note.",
+        "text": "Later, the student wrote a note.",
         "is_correct": false
       },
       {
-        "text": "After lunch, the student makes a note.",
+        "text": "Later, the student writes a note.",
         "is_correct": false
       },
       {
-        "text": "After lunch, the student will make a note.",
+        "text": "Later, the student will write a note.",
         "is_correct": true
       }
     ],
@@ -1057,19 +1057,19 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Verb Tense and Time",
-    "question": "A recount begins “Before lunch, we made carefully.” Which continuation keeps past tense?",
-    "audio_prompt": "A recount begins “Before lunch, we made carefully.” Which continuation keeps past tense?",
+    "question": "A recount begins “Earlier, we wrote carefully.” Which continuation keeps past tense?",
+    "audio_prompt": "A recount begins “Earlier, we wrote carefully.” Which continuation keeps past tense?",
     "answers": [
       {
-        "text": "Then we made again.",
+        "text": "Then we wrote again.",
         "is_correct": true
       },
       {
-        "text": "Then we makes again.",
+        "text": "Then we writes again.",
         "is_correct": false
       },
       {
-        "text": "Then we will make again.",
+        "text": "Then we will write again.",
         "is_correct": false
       }
     ],
@@ -1087,15 +1087,15 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Verb Tense and Time",
-    "question": "Which edit fixes the tense shift in “Before lunch, she made, then she makes”?",
-    "audio_prompt": "Which edit fixes the tense shift in “Before lunch, she made, then she makes”?",
+    "question": "Which edit fixes the tense shift in “Earlier, she wrote, then she writes”?",
+    "audio_prompt": "Which edit fixes the tense shift in “Earlier, she wrote, then she writes”?",
     "answers": [
       {
-        "text": "Change “made” to “will make”.",
+        "text": "Change “wrote” to “will write”.",
         "is_correct": false
       },
       {
-        "text": "Change “makes” to “made”.",
+        "text": "Change “writes” to “wrote”.",
         "is_correct": true
       },
       {
@@ -1117,19 +1117,19 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Verb Tense and Time",
-    "question": "Which words in “After lunch, they will make” show future time?",
-    "audio_prompt": "Which words in “After lunch, they will make” show future time?",
+    "question": "Which words in “Later, they will write” show future time?",
+    "audio_prompt": "Which words in “Later, they will write” show future time?",
     "answers": [
       {
-        "text": "Before lunch and “made”",
+        "text": "Earlier and “wrote”",
         "is_correct": false
       },
       {
-        "text": "At present and “makes”",
+        "text": "Now and “writes”",
         "is_correct": false
       },
       {
-        "text": "After lunch and “will make”",
+        "text": "Later and “will write”",
         "is_correct": true
       }
     ],
@@ -1147,8 +1147,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Verb Tense and Time",
-    "question": "Why does a writer use “makes” after at present?",
-    "audio_prompt": "Why does a writer use “makes” after at present?",
+    "question": "Why does a writer use “writes” after now?",
+    "audio_prompt": "Why does a writer use “writes” after now?",
     "answers": [
       {
         "text": "To show a current or repeated process.",
@@ -1177,19 +1177,19 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Verb Tense and Time",
-    "question": "Using “made”, “makes” and “will make”, which sequence moves clearly from past to present to future?",
-    "audio_prompt": "Using “made”, “makes” and “will make”, which sequence moves clearly from past to present to future?",
+    "question": "Using “wrote”, “writes” and “will write”, which sequence moves clearly from past to present to future?",
+    "audio_prompt": "Using “wrote”, “writes” and “will write”, which sequence moves clearly from past to present to future?",
     "answers": [
       {
-        "text": "Before lunch: will make; at present: made; after lunch: makes.",
+        "text": "Earlier: will write; now: wrote; later: writes.",
         "is_correct": false
       },
       {
-        "text": "Before lunch: made; at present: makes; after lunch: will make.",
+        "text": "Earlier: wrote; now: writes; later: will write.",
         "is_correct": true
       },
       {
-        "text": "Before lunch: makes; at present: will make; after lunch: made.",
+        "text": "Earlier: writes; now: will write; later: wrote.",
         "is_correct": false
       }
     ],
@@ -1205,8 +1205,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA08",
     "bank": "test",
+    "stage": "verify",
     "skill": "Verb Tense and Time",
-    "question": "New check: Which sentence correctly links on monday with the verb?",
+    "question": "Which sentence correctly links on monday with the verb?",
     "audio_prompt": "Which sentence correctly links on monday with the verb?",
     "answers": [
       {
@@ -1234,8 +1235,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA08",
     "bank": "test",
+    "stage": "verify",
     "skill": "Verb Tense and Time",
-    "question": "New check: Which sentence correctly links every morning with the verb?",
+    "question": "Which sentence correctly links every morning with the verb?",
     "audio_prompt": "Which sentence correctly links every morning with the verb?",
     "answers": [
       {
@@ -1263,8 +1265,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA08",
     "bank": "test",
+    "stage": "verify",
     "skill": "Verb Tense and Time",
-    "question": "New check: Which sentence correctly links on friday with the verb?",
+    "question": "Which sentence correctly links on friday with the verb?",
     "audio_prompt": "Which sentence correctly links on friday with the verb?",
     "answers": [
       {
@@ -1292,8 +1295,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA08",
     "bank": "test",
+    "stage": "verify",
     "skill": "Verb Tense and Time",
-    "question": "New check: A recount begins “On Monday, we found carefully.” Which continuation keeps past tense?",
+    "question": "A recount begins “On Monday, we found carefully.” Which continuation keeps past tense?",
     "audio_prompt": "A recount begins “On Monday, we found carefully.” Which continuation keeps past tense?",
     "answers": [
       {
@@ -1321,8 +1325,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA08",
     "bank": "test",
+    "stage": "verify",
     "skill": "Verb Tense and Time",
-    "question": "New check: Which edit fixes the tense shift in “On Monday, she found, then she finds”?",
+    "question": "Which edit fixes the tense shift in “On Monday, she found, then she finds”?",
     "audio_prompt": "Which edit fixes the tense shift in “On Monday, she found, then she finds”?",
     "answers": [
       {
@@ -1350,8 +1355,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA08",
     "bank": "test",
+    "stage": "verify",
     "skill": "Verb Tense and Time",
-    "question": "New check: Which words in “On Friday, they will find” show future time?",
+    "question": "Which words in “On Friday, they will find” show future time?",
     "audio_prompt": "Which words in “On Friday, they will find” show future time?",
     "answers": [
       {
@@ -1379,8 +1385,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA08",
     "bank": "test",
+    "stage": "verify",
     "skill": "Verb Tense and Time",
-    "question": "New check: Why does a writer use “finds” after every morning?",
+    "question": "Why does a writer use “finds” after every morning?",
     "audio_prompt": "Why does a writer use “finds” after every morning?",
     "answers": [
       {
@@ -1408,8 +1415,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA08",
     "bank": "test",
+    "stage": "verify",
     "skill": "Verb Tense and Time",
-    "question": "New check: Using “found”, “finds” and “will find”, which sequence moves clearly from past to present to future?",
+    "question": "Using “found”, “finds” and “will find”, which sequence moves clearly from past to present to future?",
     "audio_prompt": "Using “found”, “finds” and “will find”, which sequence moves clearly from past to present to future?",
     "answers": [
       {
@@ -1437,8 +1445,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA08",
     "bank": "test",
+    "stage": "apply",
     "skill": "Verb Tense and Time",
-    "question": "New check: Which sentence correctly links before lunch with the verb?",
+    "question": "Which sentence correctly links before lunch with the verb?",
     "audio_prompt": "Which sentence correctly links before lunch with the verb?",
     "answers": [
       {
@@ -1466,8 +1475,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA08",
     "bank": "test",
+    "stage": "apply",
     "skill": "Verb Tense and Time",
-    "question": "New check: Which sentence correctly links at present with the verb?",
+    "question": "Which sentence correctly links at present with the verb?",
     "audio_prompt": "Which sentence correctly links at present with the verb?",
     "answers": [
       {
@@ -1495,8 +1505,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA08",
     "bank": "test",
+    "stage": "apply",
     "skill": "Verb Tense and Time",
-    "question": "New check: Which sentence correctly links after lunch with the verb?",
+    "question": "Which sentence correctly links after lunch with the verb?",
     "audio_prompt": "Which sentence correctly links after lunch with the verb?",
     "answers": [
       {
@@ -1524,8 +1535,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA08",
     "bank": "test",
+    "stage": "apply",
     "skill": "Verb Tense and Time",
-    "question": "New check: A recount begins “Before lunch, we made carefully.” Which continuation keeps past tense?",
+    "question": "A recount begins “Before lunch, we made carefully.” Which continuation keeps past tense?",
     "audio_prompt": "A recount begins “Before lunch, we made carefully.” Which continuation keeps past tense?",
     "answers": [
       {
@@ -1553,8 +1565,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA08",
     "bank": "test",
+    "stage": "apply",
     "skill": "Verb Tense and Time",
-    "question": "New check: Which edit fixes the tense shift in “Before lunch, she made, then she makes”?",
+    "question": "Which edit fixes the tense shift in “Before lunch, she made, then she makes”?",
     "audio_prompt": "Which edit fixes the tense shift in “Before lunch, she made, then she makes”?",
     "answers": [
       {
@@ -1582,8 +1595,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA08",
     "bank": "test",
+    "stage": "apply",
     "skill": "Verb Tense and Time",
-    "question": "New check: Which words in “After lunch, they will make” show future time?",
+    "question": "Which words in “After lunch, they will make” show future time?",
     "audio_prompt": "Which words in “After lunch, they will make” show future time?",
     "answers": [
       {
@@ -1611,8 +1625,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA08",
     "bank": "test",
+    "stage": "apply",
     "skill": "Verb Tense and Time",
-    "question": "New check: Why does a writer use “makes” after at present?",
+    "question": "Why does a writer use “makes” after at present?",
     "audio_prompt": "Why does a writer use “makes” after at present?",
     "answers": [
       {
@@ -1640,8 +1655,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA08",
     "bank": "test",
+    "stage": "apply",
     "skill": "Verb Tense and Time",
-    "question": "New check: Using “made”, “makes” and “will make”, which sequence moves clearly from past to present to future?",
+    "question": "Using “made”, “makes” and “will make”, which sequence moves clearly from past to present to future?",
     "audio_prompt": "Using “made”, “makes” and “will make”, which sequence moves clearly from past to present to future?",
     "answers": [
       {

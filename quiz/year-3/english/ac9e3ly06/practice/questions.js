@@ -247,14 +247,14 @@ window.skillrPracticeQuestions = [
     "skill": "Planning, Creating, Editing and Publishing Texts",
     "printable": true,
     "type": "single",
-    "question": "While editing a story about a lost compass, which edit fixes tense consistency?",
-    "audioPrompt": "While editing a story about a lost compass, which edit fixes tense consistency?",
+    "question": "Why is “Change the one past-tense event so it matches the surrounding past tense” the best answer here? While editing a story about a lost compass, which edit fixes tense consistency?",
+    "audioPrompt": "Why is “Change the one past-tense event so it matches the surrounding past tense” the best answer here? While editing a story about a lost compass, which edit fixes tense consistency?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Add an unrelated adjective",
-      "Change the one past-tense event so it matches the surrounding past tense",
-      "Remove every verb"
+      "Because “Add an unrelated adjective” sounds familiar.",
+      "Change the one past-tense event so it matches the surrounding past tense This choice best fits the language, text or literacy evidence.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 1,
     "explanation": "Change the one past-tense event so it matches the surrounding past tense This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -271,14 +271,14 @@ window.skillrPracticeQuestions = [
     "skill": "Planning, Creating, Editing and Publishing Texts",
     "printable": true,
     "type": "single",
-    "question": "While editing a story about a lost compass, which vocabulary choice is most precise?",
-    "audioPrompt": "While editing a story about a lost compass, which vocabulary choice is most precise?",
+    "question": "Why is “Measure fifty millilitres of water” the best answer here? While editing a story about a lost compass, which vocabulary choice is most precise?",
+    "audioPrompt": "Why is “Measure fifty millilitres of water” the best answer here? While editing a story about a lost compass, which vocabulary choice is most precise?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Add some stuff",
-      "Do the thing",
-      "Measure fifty millilitres of water"
+      "Because “Add some stuff” sounds familiar.",
+      "Because the longest-looking option should always be chosen.",
+      "Measure fifty millilitres of water This choice best fits the language, text or literacy evidence."
     ],
     "correct": 2,
     "explanation": "Measure fifty millilitres of water This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -295,14 +295,14 @@ window.skillrPracticeQuestions = [
     "skill": "Planning, Creating, Editing and Publishing Texts",
     "printable": true,
     "type": "single",
-    "question": "While editing a story about a lost compass, which feature materially helps a multimodal explanation?",
-    "audioPrompt": "While editing a story about a lost compass, which feature materially helps a multimodal explanation?",
+    "question": "Why is “A labelled diagram connected to the text” the best answer here? While editing a story about a lost compass, which feature materially helps a multimodal explanation?",
+    "audioPrompt": "Why is “A labelled diagram connected to the text” the best answer here? While editing a story about a lost compass, which feature materially helps a multimodal explanation?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "A labelled diagram connected to the text",
-      "A decorative image with no relation",
-      "A flashing border"
+      "A labelled diagram connected to the text This choice best fits the language, text or literacy evidence.",
+      "Because “A decorative image with no relation” sounds familiar.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 0,
     "explanation": "A labelled diagram connected to the text This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -319,14 +319,14 @@ window.skillrPracticeQuestions = [
     "skill": "Planning, Creating, Editing and Publishing Texts",
     "printable": true,
     "type": "single",
-    "question": "While editing a story about a lost compass, what should happen during editing?",
-    "audioPrompt": "While editing a story about a lost compass, what should happen during editing?",
+    "question": "Why is “Check meaning, structure, sentences, spelling and punctuation” the best answer here? While editing a story about a lost compass, what should happen during editing?",
+    "audioPrompt": "Why is “Check meaning, structure, sentences, spelling and punctuation” the best answer here? While editing a story about a lost compass, what should happen during editing?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Change only the title colour",
-      "Check meaning, structure, sentences, spelling and punctuation",
-      "Publish without rereading"
+      "Because “Change only the title colour” sounds familiar.",
+      "Check meaning, structure, sentences, spelling and punctuation This choice best fits the language, text or literacy evidence.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 1,
     "explanation": "Check meaning, structure, sentences, spelling and punctuation This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -343,14 +343,14 @@ window.skillrPracticeQuestions = [
     "skill": "Planning, Creating, Editing and Publishing Texts",
     "printable": true,
     "type": "single",
-    "question": "While editing a story about a lost compass, why should a writer seek feedback?",
-    "audioPrompt": "While editing a story about a lost compass, why should a writer seek feedback?",
+    "question": "Why is “A reader may identify unclear ideas or missing evidence” the best answer here? While editing a story about a lost compass, why should a writer seek feedback?",
+    "audioPrompt": "Why is “A reader may identify unclear ideas or missing evidence” the best answer here? While editing a story about a lost compass, why should a writer seek feedback?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Feedback guarantees no revision is needed",
-      "Feedback replaces the writer's decisions",
-      "A reader may identify unclear ideas or missing evidence"
+      "Because “Feedback guarantees no revision is needed” sounds familiar.",
+      "Because the longest-looking option should always be chosen.",
+      "A reader may identify unclear ideas or missing evidence This explanation follows the relevant Year 3 English evidence."
     ],
     "correct": 2,
     "explanation": "A reader may identify unclear ideas or missing evidence This explanation follows the relevant Year 3 English evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -367,14 +367,14 @@ window.skillrPracticeQuestions = [
     "skill": "Planning, Creating, Editing and Publishing Texts",
     "printable": true,
     "type": "single",
-    "question": "While editing a story about a lost compass, which final check protects accessibility?",
-    "audioPrompt": "While editing a story about a lost compass, which final check protects accessibility?",
+    "question": "Why is “Confirm visuals have useful descriptions and text remains understandable” the best answer here? While editing a story about a lost compass, which final check protects accessibility?",
+    "audioPrompt": "Why is “Confirm visuals have useful descriptions and text remains understandable” the best answer here? While editing a story about a lost compass, which final check protects accessibility?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Confirm visuals have useful descriptions and text remains understandable",
-      "Hide important words inside images",
-      "Remove labels from diagrams"
+      "Confirm visuals have useful descriptions and text remains understandable This choice best fits the language, text or literacy evidence.",
+      "Because “Hide important words inside images” sounds familiar.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 0,
     "explanation": "Confirm visuals have useful descriptions and text remains understandable This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -391,14 +391,14 @@ window.skillrPracticeQuestions = [
     "skill": "Planning, Creating, Editing and Publishing Texts",
     "printable": true,
     "type": "single",
-    "question": "While publishing instructions for planting seeds, what should a writer decide before drafting?",
-    "audioPrompt": "While publishing instructions for planting seeds, what should a writer decide before drafting?",
+    "question": "Why is “Purpose, audience and key ideas” the best answer here? While publishing instructions for planting seeds, what should a writer decide before drafting?",
+    "audioPrompt": "Why is “Purpose, audience and key ideas” the best answer here? While publishing instructions for planting seeds, what should a writer decide before drafting?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Font colour only",
-      "Purpose, audience and key ideas",
-      "The final score"
+      "Because “Font colour only” sounds familiar.",
+      "Purpose, audience and key ideas This choice best fits the language, text or literacy evidence.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 1,
     "explanation": "Purpose, audience and key ideas This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -415,14 +415,14 @@ window.skillrPracticeQuestions = [
     "skill": "Planning, Creating, Editing and Publishing Texts",
     "printable": true,
     "type": "single",
-    "question": "While publishing instructions for planting seeds, which structure groups related information clearly?",
-    "audioPrompt": "While publishing instructions for planting seeds, which structure groups related information clearly?",
+    "question": "Why is “Focused paragraphs with useful headings” the best answer here? While publishing instructions for planting seeds, which structure groups related information clearly?",
+    "audioPrompt": "Why is “Focused paragraphs with useful headings” the best answer here? While publishing instructions for planting seeds, which structure groups related information clearly?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "A new paragraph after every word",
-      "One block mixing all topics",
-      "Focused paragraphs with useful headings"
+      "Because “A new paragraph after every word” sounds familiar.",
+      "Because the longest-looking option should always be chosen.",
+      "Focused paragraphs with useful headings This choice best fits the language, text or literacy evidence."
     ],
     "correct": 2,
     "explanation": "Focused paragraphs with useful headings This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -439,14 +439,14 @@ window.skillrPracticeQuestions = [
     "skill": "Planning, Creating, Editing and Publishing Texts",
     "printable": true,
     "type": "single",
-    "question": "While publishing instructions for planting seeds, which edit fixes tense consistency?",
-    "audioPrompt": "While publishing instructions for planting seeds, which edit fixes tense consistency?",
+    "question": "Why is “Change the one past-tense event so it matches the surrounding past tense” the best answer here? While publishing instructions for planting seeds, which edit fixes tense consistency?",
+    "audioPrompt": "Why is “Change the one past-tense event so it matches the surrounding past tense” the best answer here? While publishing instructions for planting seeds, which edit fixes tense consistency?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Change the one past-tense event so it matches the surrounding past tense",
-      "Add an unrelated adjective",
-      "Remove every verb"
+      "Change the one past-tense event so it matches the surrounding past tense This choice best fits the language, text or literacy evidence.",
+      "Because “Add an unrelated adjective” sounds familiar.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 0,
     "explanation": "Change the one past-tense event so it matches the surrounding past tense This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -463,14 +463,14 @@ window.skillrPracticeQuestions = [
     "skill": "Planning, Creating, Editing and Publishing Texts",
     "printable": true,
     "type": "single",
-    "question": "While publishing instructions for planting seeds, which vocabulary choice is most precise?",
-    "audioPrompt": "While publishing instructions for planting seeds, which vocabulary choice is most precise?",
+    "question": "Why is “Measure fifty millilitres of water” the best answer here? While publishing instructions for planting seeds, which vocabulary choice is most precise?",
+    "audioPrompt": "Why is “Measure fifty millilitres of water” the best answer here? While publishing instructions for planting seeds, which vocabulary choice is most precise?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Add some stuff",
-      "Measure fifty millilitres of water",
-      "Do the thing"
+      "Because “Add some stuff” sounds familiar.",
+      "Measure fifty millilitres of water This choice best fits the language, text or literacy evidence.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 1,
     "explanation": "Measure fifty millilitres of water This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -487,20 +487,20 @@ window.skillrPracticeQuestions = [
     "skill": "Planning, Creating, Editing and Publishing Texts",
     "printable": true,
     "type": "single",
-    "question": "While publishing instructions for planting seeds, which feature materially helps a multimodal explanation?",
-    "audioPrompt": "While publishing instructions for planting seeds, which feature materially helps a multimodal explanation?",
+    "question": "A student chooses “Font colour only” for this task: While creating an information page about frogs, what should a writer decide before drafting? What should they check?",
+    "audioPrompt": "A student chooses “Font colour only” for this task: While creating an information page about frogs, what should a writer decide before drafting? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "A decorative image with no relation",
-      "A flashing border",
-      "A labelled diagram connected to the text"
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option.",
+      "Use the wording, structure and context before choosing."
     ],
     "correct": 2,
-    "explanation": "A labelled diagram connected to the text This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. Purpose, audience and key ideas This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "A labelled diagram connected to the text This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Purpose, audience and key ideas This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -511,20 +511,20 @@ window.skillrPracticeQuestions = [
     "skill": "Planning, Creating, Editing and Publishing Texts",
     "printable": true,
     "type": "single",
-    "question": "While publishing instructions for planting seeds, what should happen during editing?",
-    "audioPrompt": "While publishing instructions for planting seeds, what should happen during editing?",
+    "question": "A student chooses “A new paragraph after every word” for this task: While creating an information page about frogs, which structure groups related information clearly? What should they check?",
+    "audioPrompt": "A student chooses “A new paragraph after every word” for this task: While creating an information page about frogs, which structure groups related information clearly? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Check meaning, structure, sentences, spelling and punctuation",
-      "Change only the title colour",
-      "Publish without rereading"
+      "Use the wording, structure and context before choosing.",
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 0,
-    "explanation": "Check meaning, structure, sentences, spelling and punctuation This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. Focused paragraphs with useful headings This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Check meaning, structure, sentences, spelling and punctuation This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Focused paragraphs with useful headings This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -535,20 +535,20 @@ window.skillrPracticeQuestions = [
     "skill": "Planning, Creating, Editing and Publishing Texts",
     "printable": true,
     "type": "single",
-    "question": "While publishing instructions for planting seeds, why should a writer seek feedback?",
-    "audioPrompt": "While publishing instructions for planting seeds, why should a writer seek feedback?",
+    "question": "A student chooses “Add an unrelated adjective” for this task: While creating an information page about frogs, which edit fixes tense consistency? What should they check?",
+    "audioPrompt": "A student chooses “Add an unrelated adjective” for this task: While creating an information page about frogs, which edit fixes tense consistency? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Feedback guarantees no revision is needed",
-      "A reader may identify unclear ideas or missing evidence",
-      "Feedback replaces the writer's decisions"
+      "Keep the answer because it uses a familiar word.",
+      "Use the wording, structure and context before choosing.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 1,
-    "explanation": "A reader may identify unclear ideas or missing evidence This explanation follows the relevant Year 3 English evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. Change the one past-tense event so it matches the surrounding past tense This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "A reader may identify unclear ideas or missing evidence This explanation follows the relevant Year 3 English evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Change the one past-tense event so it matches the surrounding past tense This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -559,20 +559,20 @@ window.skillrPracticeQuestions = [
     "skill": "Planning, Creating, Editing and Publishing Texts",
     "printable": true,
     "type": "single",
-    "question": "While publishing instructions for planting seeds, which final check protects accessibility?",
-    "audioPrompt": "While publishing instructions for planting seeds, which final check protects accessibility?",
+    "question": "A student chooses “Add some stuff” for this task: While creating an information page about frogs, which vocabulary choice is most precise? What should they check?",
+    "audioPrompt": "A student chooses “Add some stuff” for this task: While creating an information page about frogs, which vocabulary choice is most precise? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Hide important words inside images",
-      "Remove labels from diagrams",
-      "Confirm visuals have useful descriptions and text remains understandable"
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option.",
+      "Use the wording, structure and context before choosing."
     ],
     "correct": 2,
-    "explanation": "Confirm visuals have useful descriptions and text remains understandable This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. Measure fifty millilitres of water This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Confirm visuals have useful descriptions and text remains understandable This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Measure fifty millilitres of water This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -583,20 +583,20 @@ window.skillrPracticeQuestions = [
     "skill": "Planning, Creating, Editing and Publishing Texts",
     "printable": true,
     "type": "single",
-    "question": "While creating a persuasive poster about shade, what should a writer decide before drafting?",
-    "audioPrompt": "While creating a persuasive poster about shade, what should a writer decide before drafting?",
+    "question": "A student chooses “A decorative image with no relation” for this task: While creating an information page about frogs, which feature materially helps a multimodal explanation? What should they check?",
+    "audioPrompt": "A student chooses “A decorative image with no relation” for this task: While creating an information page about frogs, which feature materially helps a multimodal explanation? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Purpose, audience and key ideas",
-      "Font colour only",
-      "The final score"
+      "Use the wording, structure and context before choosing.",
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 0,
-    "explanation": "Purpose, audience and key ideas This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. A labelled diagram connected to the text This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Purpose, audience and key ideas This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. A labelled diagram connected to the text This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -607,20 +607,20 @@ window.skillrPracticeQuestions = [
     "skill": "Planning, Creating, Editing and Publishing Texts",
     "printable": true,
     "type": "single",
-    "question": "While creating a persuasive poster about shade, which structure groups related information clearly?",
-    "audioPrompt": "While creating a persuasive poster about shade, which structure groups related information clearly?",
+    "question": "A student chooses “Change only the title colour” for this task: While creating an information page about frogs, what should happen during editing? What should they check?",
+    "audioPrompt": "A student chooses “Change only the title colour” for this task: While creating an information page about frogs, what should happen during editing? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "A new paragraph after every word",
-      "Focused paragraphs with useful headings",
-      "One block mixing all topics"
+      "Keep the answer because it uses a familiar word.",
+      "Use the wording, structure and context before choosing.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 1,
-    "explanation": "Focused paragraphs with useful headings This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. Check meaning, structure, sentences, spelling and punctuation This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Focused paragraphs with useful headings This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Check meaning, structure, sentences, spelling and punctuation This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -631,20 +631,20 @@ window.skillrPracticeQuestions = [
     "skill": "Planning, Creating, Editing and Publishing Texts",
     "printable": true,
     "type": "single",
-    "question": "While creating a persuasive poster about shade, which edit fixes tense consistency?",
-    "audioPrompt": "While creating a persuasive poster about shade, which edit fixes tense consistency?",
+    "question": "A student chooses “Feedback guarantees no revision is needed” for this task: While creating an information page about frogs, why should a writer seek feedback? What should they check?",
+    "audioPrompt": "A student chooses “Feedback guarantees no revision is needed” for this task: While creating an information page about frogs, why should a writer seek feedback? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Add an unrelated adjective",
-      "Remove every verb",
-      "Change the one past-tense event so it matches the surrounding past tense"
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option.",
+      "Use the wording, structure and context before choosing."
     ],
     "correct": 2,
-    "explanation": "Change the one past-tense event so it matches the surrounding past tense This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. A reader may identify unclear ideas or missing evidence This explanation follows the relevant Year 3 English evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Change the one past-tense event so it matches the surrounding past tense This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. A reader may identify unclear ideas or missing evidence This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -655,20 +655,20 @@ window.skillrPracticeQuestions = [
     "skill": "Planning, Creating, Editing and Publishing Texts",
     "printable": true,
     "type": "single",
-    "question": "While creating a persuasive poster about shade, which vocabulary choice is most precise?",
-    "audioPrompt": "While creating a persuasive poster about shade, which vocabulary choice is most precise?",
+    "question": "A student chooses “Hide important words inside images” for this task: While creating an information page about frogs, which final check protects accessibility? What should they check?",
+    "audioPrompt": "A student chooses “Hide important words inside images” for this task: While creating an information page about frogs, which final check protects accessibility? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Measure fifty millilitres of water",
-      "Add some stuff",
-      "Do the thing"
+      "Use the wording, structure and context before choosing.",
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 0,
-    "explanation": "Measure fifty millilitres of water This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. Confirm visuals have useful descriptions and text remains understandable This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Measure fifty millilitres of water This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Confirm visuals have useful descriptions and text remains understandable This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -679,20 +679,20 @@ window.skillrPracticeQuestions = [
     "skill": "Planning, Creating, Editing and Publishing Texts",
     "printable": true,
     "type": "single",
-    "question": "While creating a persuasive poster about shade, which feature materially helps a multimodal explanation?",
-    "audioPrompt": "While creating a persuasive poster about shade, which feature materially helps a multimodal explanation?",
+    "question": "A student chooses “Font colour only” for this task: While editing a story about a lost compass, what should a writer decide before drafting? What should they check?",
+    "audioPrompt": "A student chooses “Font colour only” for this task: While editing a story about a lost compass, what should a writer decide before drafting? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "A decorative image with no relation",
-      "A labelled diagram connected to the text",
-      "A flashing border"
+      "Keep the answer because it uses a familiar word.",
+      "Use the wording, structure and context before choosing.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 1,
-    "explanation": "A labelled diagram connected to the text This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. Purpose, audience and key ideas This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "A labelled diagram connected to the text This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Purpose, audience and key ideas This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -703,20 +703,20 @@ window.skillrPracticeQuestions = [
     "skill": "Planning, Creating, Editing and Publishing Texts",
     "printable": true,
     "type": "single",
-    "question": "While creating a persuasive poster about shade, what should happen during editing?",
-    "audioPrompt": "While creating a persuasive poster about shade, what should happen during editing?",
+    "question": "A student chooses “A new paragraph after every word” for this task: While editing a story about a lost compass, which structure groups related information clearly? What should they check?",
+    "audioPrompt": "A student chooses “A new paragraph after every word” for this task: While editing a story about a lost compass, which structure groups related information clearly? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Change only the title colour",
-      "Publish without rereading",
-      "Check meaning, structure, sentences, spelling and punctuation"
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option.",
+      "Use the wording, structure and context before choosing."
     ],
     "correct": 2,
-    "explanation": "Check meaning, structure, sentences, spelling and punctuation This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. Focused paragraphs with useful headings This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Check meaning, structure, sentences, spelling and punctuation This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Focused paragraphs with useful headings This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -727,8 +727,8 @@ window.skillrPracticeQuestions = [
     "skill": "Planning, Creating, Editing and Publishing Texts",
     "printable": true,
     "type": "single",
-    "question": "While creating a persuasive poster about shade, why should a writer seek feedback?",
-    "audioPrompt": "While creating a persuasive poster about shade, why should a writer seek feedback?",
+    "question": "While editing a story about a lost compass, why should a writer seek feedback?",
+    "audioPrompt": "While editing a story about a lost compass, why should a writer seek feedback?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -751,8 +751,8 @@ window.skillrPracticeQuestions = [
     "skill": "Planning, Creating, Editing and Publishing Texts",
     "printable": true,
     "type": "single",
-    "question": "While creating a persuasive poster about shade, which final check protects accessibility?",
-    "audioPrompt": "While creating a persuasive poster about shade, which final check protects accessibility?",
+    "question": "While editing a story about a lost compass, which final check protects accessibility?",
+    "audioPrompt": "While editing a story about a lost compass, which final check protects accessibility?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -775,8 +775,8 @@ window.skillrPracticeQuestions = [
     "skill": "Planning, Creating, Editing and Publishing Texts",
     "printable": true,
     "type": "single",
-    "question": "While editing a digital report about waste, what should a writer decide before drafting?",
-    "audioPrompt": "While editing a digital report about waste, what should a writer decide before drafting?",
+    "question": "While publishing instructions for planting seeds, what should a writer decide before drafting?",
+    "audioPrompt": "While publishing instructions for planting seeds, what should a writer decide before drafting?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -799,8 +799,8 @@ window.skillrPracticeQuestions = [
     "skill": "Planning, Creating, Editing and Publishing Texts",
     "printable": true,
     "type": "single",
-    "question": "While editing a digital report about waste, which structure groups related information clearly?",
-    "audioPrompt": "While editing a digital report about waste, which structure groups related information clearly?",
+    "question": "While publishing instructions for planting seeds, which structure groups related information clearly?",
+    "audioPrompt": "While publishing instructions for planting seeds, which structure groups related information clearly?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -823,8 +823,8 @@ window.skillrPracticeQuestions = [
     "skill": "Planning, Creating, Editing and Publishing Texts",
     "printable": true,
     "type": "single",
-    "question": "While editing a digital report about waste, which edit fixes tense consistency?",
-    "audioPrompt": "While editing a digital report about waste, which edit fixes tense consistency?",
+    "question": "While publishing instructions for planting seeds, which edit fixes tense consistency?",
+    "audioPrompt": "While publishing instructions for planting seeds, which edit fixes tense consistency?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -847,8 +847,8 @@ window.skillrPracticeQuestions = [
     "skill": "Planning, Creating, Editing and Publishing Texts",
     "printable": true,
     "type": "single",
-    "question": "While editing a digital report about waste, which vocabulary choice is most precise?",
-    "audioPrompt": "While editing a digital report about waste, which vocabulary choice is most precise?",
+    "question": "While publishing instructions for planting seeds, which vocabulary choice is most precise?",
+    "audioPrompt": "While publishing instructions for planting seeds, which vocabulary choice is most precise?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -871,8 +871,8 @@ window.skillrPracticeQuestions = [
     "skill": "Planning, Creating, Editing and Publishing Texts",
     "printable": true,
     "type": "single",
-    "question": "While editing a digital report about waste, which feature materially helps a multimodal explanation?",
-    "audioPrompt": "While editing a digital report about waste, which feature materially helps a multimodal explanation?",
+    "question": "While publishing instructions for planting seeds, which feature materially helps a multimodal explanation?",
+    "audioPrompt": "While publishing instructions for planting seeds, which feature materially helps a multimodal explanation?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -895,8 +895,8 @@ window.skillrPracticeQuestions = [
     "skill": "Planning, Creating, Editing and Publishing Texts",
     "printable": true,
     "type": "single",
-    "question": "While editing a digital report about waste, what should happen during editing?",
-    "audioPrompt": "While editing a digital report about waste, what should happen during editing?",
+    "question": "While publishing instructions for planting seeds, what should happen during editing?",
+    "audioPrompt": "While publishing instructions for planting seeds, what should happen during editing?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -919,8 +919,8 @@ window.skillrPracticeQuestions = [
     "skill": "Planning, Creating, Editing and Publishing Texts",
     "printable": true,
     "type": "single",
-    "question": "While editing a digital report about waste, why should a writer seek feedback?",
-    "audioPrompt": "While editing a digital report about waste, why should a writer seek feedback?",
+    "question": "While publishing instructions for planting seeds, why should a writer seek feedback?",
+    "audioPrompt": "While publishing instructions for planting seeds, why should a writer seek feedback?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -943,8 +943,8 @@ window.skillrPracticeQuestions = [
     "skill": "Planning, Creating, Editing and Publishing Texts",
     "printable": true,
     "type": "single",
-    "question": "While editing a digital report about waste, which final check protects accessibility?",
-    "audioPrompt": "While editing a digital report about waste, which final check protects accessibility?",
+    "question": "While publishing instructions for planting seeds, which final check protects accessibility?",
+    "audioPrompt": "While publishing instructions for planting seeds, which final check protects accessibility?",
     "visual": "",
     "visualHtml": "",
     "answers": [

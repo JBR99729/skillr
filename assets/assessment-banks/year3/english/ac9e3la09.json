@@ -307,19 +307,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "How Images Extend Meaning",
-    "question": "What does “lowered ears and a wagging tail” add to the words “The dog waited by the gate.”?",
-    "audio_prompt": "What does “lowered ears and a wagging tail” add to the words “The dog waited by the gate.”?",
+    "question": "Why is “It suggests that the dog is hopeful but uncertain.” the best answer here? What does “lowered ears and a wagging tail” add to the words “The dog waited by the gate.”?",
+    "audio_prompt": "Why is “It suggests that the dog is hopeful but uncertain.” the best answer here? What does “lowered ears and a wagging tail” add to the words “The dog waited by the gate.”?",
     "answers": [
       {
-        "text": "It suggests that the dog is hopeful but uncertain.",
+        "text": "A relevant visual detail can add setting, mood, action or character information.",
         "is_correct": true
       },
       {
-        "text": "It gives the spelling of every word.",
+        "text": "Because “It gives the spelling of every word.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "It proves a fact that has no support in the text.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -337,19 +337,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "How Images Extend Meaning",
-    "question": "Which visual change would most alter the mood of “The dog waited by the gate.”?",
-    "audio_prompt": "Which visual change would most alter the mood of “The dog waited by the gate.”?",
+    "question": "Why is “Replace the scene with bright light and relaxed expressions.” the best answer here? Which visual change would most alter the mood of “The dog waited by the gate.”?",
+    "audio_prompt": "Why is “Replace the scene with bright light and relaxed expressions.” the best answer here? Which visual change would most alter the mood of “The dog waited by the gate.”?",
     "answers": [
       {
-        "text": "Change the page number.",
+        "text": "Because “Change the page number.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Replace the scene with bright light and relaxed expressions.",
+        "text": "Visual choices such as light and expression influence mood.",
         "is_correct": true
       },
       {
-        "text": "Make the margin slightly wider.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -367,19 +367,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "How Images Extend Meaning",
-    "question": "A caption simply repeats “The dog waited by the gate.” What would improve it?",
-    "audio_prompt": "A caption simply repeats “The dog waited by the gate.” What would improve it?",
+    "question": "Why is “Explain how lowered ears and a wagging tail adds information.” the best answer here? A caption simply repeats “The dog waited by the gate.” What would improve it?",
+    "audio_prompt": "Why is “Explain how lowered ears and a wagging tail adds information.” the best answer here? A caption simply repeats “The dog waited by the gate.” What would improve it?",
     "answers": [
       {
-        "text": "Repeat the same sentence twice more.",
+        "text": "Because “Repeat the same sentence twice more.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Describe an unrelated object outside the scene.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "Explain how lowered ears and a wagging tail adds information.",
+        "text": "Useful captions can guide attention to meaningful visual evidence.",
         "is_correct": true
       }
     ],
@@ -397,19 +397,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "How Images Extend Meaning",
-    "question": "Which statement uses evidence responsibly for “The dog waited by the gate.” and “lowered ears and a wagging tail”?",
-    "audio_prompt": "Which statement uses evidence responsibly for “The dog waited by the gate.” and “lowered ears and a wagging tail”?",
+    "question": "Why is “The visual clue suggests that the dog is hopeful but uncertain.” the best answer here? Which statement uses evidence responsibly for “The dog waited by the gate.” and “lowered ears and a wagging tail”?",
+    "audio_prompt": "Why is “The visual clue suggests that the dog is hopeful but uncertain.” the best answer here? Which statement uses evidence responsibly for “The dog waited by the gate.” and “lowered ears and a wagging tail”?",
     "answers": [
       {
-        "text": "The visual clue suggests that the dog is hopeful but uncertain.",
+        "text": "Visual inference should be expressed as supported interpretation, not certainty beyond evidence.",
         "is_correct": true
       },
       {
-        "text": "The image guarantees every detail of the dog is hopeful but uncertain.",
+        "text": "Because “The image guarantees every detail of the dog is hopeful but uncertain.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "The words and image cannot be read together.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -427,19 +427,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "How Images Extend Meaning",
-    "question": "Why might the creator pair “The dog waited by the gate.” with “lowered ears and a wagging tail”?",
-    "audio_prompt": "Why might the creator pair “The dog waited by the gate.” with “lowered ears and a wagging tail”?",
+    "question": "Why is “To let the image extend the event, setting or mood.” the best answer here? Why might the creator pair “The dog waited by the gate.” with “lowered ears and a wagging tail”?",
+    "audio_prompt": "Why is “To let the image extend the event, setting or mood.” the best answer here? Why might the creator pair “The dog waited by the gate.” with “lowered ears and a wagging tail”?",
     "answers": [
       {
-        "text": "To make the written words impossible to understand.",
+        "text": "Because “To make the written words impossible to understand.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "To let the image extend the event, setting or mood.",
+        "text": "Words and images can work together to create richer meaning.",
         "is_correct": true
       },
       {
-        "text": "To ensure the image has no purpose.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -457,19 +457,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "How Images Extend Meaning",
-    "question": "Which reading strategy best suits a page containing “The dog waited by the gate.” and “lowered ears and a wagging tail”?",
-    "audio_prompt": "Which reading strategy best suits a page containing “The dog waited by the gate.” and “lowered ears and a wagging tail”?",
+    "question": "Why is “Notice details in both the words and image, then connect them.” the best answer here? Which reading strategy best suits a page containing “The dog waited by the gate.” and “lowered ears and a wagging tail”?",
+    "audio_prompt": "Why is “Notice details in both the words and image, then connect them.” the best answer here? Which reading strategy best suits a page containing “The dog waited by the gate.” and “lowered ears and a wagging tail”?",
     "answers": [
       {
-        "text": "Ignore the image completely.",
+        "text": "Because “Ignore the image completely.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Guess without using either source.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "Notice details in both the words and image, then connect them.",
+        "text": "Multimodal reading combines evidence across modes.",
         "is_correct": true
       }
     ],
@@ -487,19 +487,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "How Images Extend Meaning",
-    "question": "The words say, “The hikers stopped.” Which image detail would extend their meaning?",
-    "audio_prompt": "The words say, “The hikers stopped.” Which image detail would extend their meaning?",
+    "question": "Why is “a fallen tree blocking the narrow track” the best answer here? The words say, “The hikers stopped.” Which image detail would extend their meaning?",
+    "audio_prompt": "Why is “a fallen tree blocking the narrow track” the best answer here? The words say, “The hikers stopped.” Which image detail would extend their meaning?",
     "answers": [
       {
-        "text": "a fallen tree blocking the narrow track",
+        "text": "An image extends meaning when it adds relevant information beyond the words.",
         "is_correct": true
       },
       {
-        "text": "a plain page number",
+        "text": "Because “a plain page number” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "an empty white margin",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -517,19 +517,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "How Images Extend Meaning",
-    "question": "Combine “The hikers stopped.” with the image detail “a fallen tree blocking the narrow track”. What can a reader infer?",
-    "audio_prompt": "Combine “The hikers stopped.” with the image detail “a fallen tree blocking the narrow track”. What can a reader infer?",
+    "question": "Why is “the journey has met an obstacle” the best answer here? Combine “The hikers stopped.” with the image detail “a fallen tree blocking the narrow track”. What can a reader infer?",
+    "audio_prompt": "Why is “the journey has met an obstacle” the best answer here? Combine “The hikers stopped.” with the image detail “a fallen tree blocking the narrow track”. What can a reader infer?",
     "answers": [
       {
-        "text": "The image has no relationship to the words.",
+        "text": "Because “The image has no relationship to the words.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "the journey has met an obstacle",
+        "text": "Readers combine written and visual clues to infer added meaning.",
         "is_correct": true
       },
       {
-        "text": "The page number explains the whole event.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -547,19 +547,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "How Images Extend Meaning",
-    "question": "What does “a fallen tree blocking the narrow track” add to the words “The hikers stopped.”?",
-    "audio_prompt": "What does “a fallen tree blocking the narrow track” add to the words “The hikers stopped.”?",
+    "question": "Why is “It suggests that the journey has met an obstacle.” the best answer here? What does “a fallen tree blocking the narrow track” add to the words “The hikers stopped.”?",
+    "audio_prompt": "Why is “It suggests that the journey has met an obstacle.” the best answer here? What does “a fallen tree blocking the narrow track” add to the words “The hikers stopped.”?",
     "answers": [
       {
-        "text": "It gives the spelling of every word.",
+        "text": "Because “It gives the spelling of every word.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "It proves a fact that has no support in the text.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "It suggests that the journey has met an obstacle.",
+        "text": "A relevant visual detail can add setting, mood, action or character information.",
         "is_correct": true
       }
     ],
@@ -577,19 +577,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "How Images Extend Meaning",
-    "question": "Which visual change would most alter the mood of “The hikers stopped.”?",
-    "audio_prompt": "Which visual change would most alter the mood of “The hikers stopped.”?",
+    "question": "Why is “Replace the scene with bright light and relaxed expressions.” the best answer here? Which visual change would most alter the mood of “The hikers stopped.”?",
+    "audio_prompt": "Why is “Replace the scene with bright light and relaxed expressions.” the best answer here? Which visual change would most alter the mood of “The hikers stopped.”?",
     "answers": [
       {
-        "text": "Replace the scene with bright light and relaxed expressions.",
+        "text": "Visual choices such as light and expression influence mood.",
         "is_correct": true
       },
       {
-        "text": "Change the page number.",
+        "text": "Because “Change the page number.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Make the margin slightly wider.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -607,26 +607,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "How Images Extend Meaning",
-    "question": "A caption simply repeats “The hikers stopped.” What would improve it?",
-    "audio_prompt": "A caption simply repeats “The hikers stopped.” What would improve it?",
+    "question": "A student chooses “a plain page number” for this task: The words say, “Ari hurried home.” Which image detail would extend their meaning? What should they check?",
+    "audio_prompt": "A student chooses “a plain page number” for this task: The words say, “Ari hurried home.” Which image detail would extend their meaning? What should they check?",
     "answers": [
       {
-        "text": "Repeat the same sentence twice more.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Explain how a fallen tree blocking the narrow track adds information.",
+        "text": "Choose a detail that changes or deepens what readers understand.",
         "is_correct": true
       },
       {
-        "text": "Describe an unrelated object outside the scene.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Useful captions can guide attention to meaningful visual evidence.",
-      "hint": "Add information rather than copying the words."
+      "summary": "Choose a detail that changes or deepens what readers understand. An image extends meaning when it adds relevant information beyond the words.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -637,26 +637,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "How Images Extend Meaning",
-    "question": "Which statement uses evidence responsibly for “The hikers stopped.” and “a fallen tree blocking the narrow track”?",
-    "audio_prompt": "Which statement uses evidence responsibly for “The hikers stopped.” and “a fallen tree blocking the narrow track”?",
+    "question": "A student chooses “The image has no relationship to the words.” for this task: Combine “Ari hurried home.” with the image detail “dark clouds above an empty road”. What can a reader infer? What should they check?",
+    "audio_prompt": "A student chooses “The image has no relationship to the words.” for this task: Combine “Ari hurried home.” with the image detail “dark clouds above an empty road”. What can a reader infer? What should they check?",
     "answers": [
       {
-        "text": "The image guarantees every detail of the journey has met an obstacle.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "The words and image cannot be read together.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "The visual clue suggests that the journey has met an obstacle.",
+        "text": "Use evidence from both modes.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Visual inference should be expressed as supported interpretation, not certainty beyond evidence.",
-      "hint": "Prefer suggests when the evidence allows an inference."
+      "summary": "Use evidence from both modes. Readers combine written and visual clues to infer added meaning.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -667,26 +667,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "How Images Extend Meaning",
-    "question": "Why might the creator pair “The hikers stopped.” with “a fallen tree blocking the narrow track”?",
-    "audio_prompt": "Why might the creator pair “The hikers stopped.” with “a fallen tree blocking the narrow track”?",
+    "question": "A student chooses “It gives the spelling of every word.” for this task: What does “dark clouds above an empty road” add to the words “Ari hurried home.”? What should they check?",
+    "audio_prompt": "A student chooses “It gives the spelling of every word.” for this task: What does “dark clouds above an empty road” add to the words “Ari hurried home.”? What should they check?",
     "answers": [
       {
-        "text": "To let the image extend the event, setting or mood.",
+        "text": "Name the new meaning supplied by the image.",
         "is_correct": true
       },
       {
-        "text": "To make the written words impossible to understand.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "To ensure the image has no purpose.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Words and images can work together to create richer meaning.",
-      "hint": "Explain what the visual contributes."
+      "summary": "Name the new meaning supplied by the image. A relevant visual detail can add setting, mood, action or character information.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -697,26 +697,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "How Images Extend Meaning",
-    "question": "Which reading strategy best suits a page containing “The hikers stopped.” and “a fallen tree blocking the narrow track”?",
-    "audio_prompt": "Which reading strategy best suits a page containing “The hikers stopped.” and “a fallen tree blocking the narrow track”?",
+    "question": "A student chooses “Change the page number.” for this task: Which visual change would most alter the mood of “Ari hurried home.”? What should they check?",
+    "audio_prompt": "A student chooses “Change the page number.” for this task: Which visual change would most alter the mood of “Ari hurried home.”? What should they check?",
     "answers": [
       {
-        "text": "Ignore the image completely.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Notice details in both the words and image, then connect them.",
+        "text": "Look for a change readers would interpret emotionally.",
         "is_correct": true
       },
       {
-        "text": "Guess without using either source.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Multimodal reading combines evidence across modes.",
-      "hint": "Use every relevant clue available."
+      "summary": "Look for a change readers would interpret emotionally. Visual choices such as light and expression influence mood.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -727,26 +727,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "How Images Extend Meaning",
-    "question": "The words say, “Lena opened the old box.” Which image detail would extend their meaning?",
-    "audio_prompt": "The words say, “Lena opened the old box.” Which image detail would extend their meaning?",
+    "question": "A student chooses “Repeat the same sentence twice more.” for this task: A caption simply repeats “Ari hurried home.” What would improve it? What should they check?",
+    "audio_prompt": "A student chooses “Repeat the same sentence twice more.” for this task: A caption simply repeats “Ari hurried home.” What would improve it? What should they check?",
     "answers": [
       {
-        "text": "a plain page number",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "an empty white margin",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "a faded photograph tucked beneath a medal",
+        "text": "Add information rather than copying the words.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "An image extends meaning when it adds relevant information beyond the words.",
-      "hint": "Choose a detail that changes or deepens what readers understand."
+      "summary": "Add information rather than copying the words. Useful captions can guide attention to meaningful visual evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -757,26 +757,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "How Images Extend Meaning",
-    "question": "Combine “Lena opened the old box.” with the image detail “a faded photograph tucked beneath a medal”. What can a reader infer?",
-    "audio_prompt": "Combine “Lena opened the old box.” with the image detail “a faded photograph tucked beneath a medal”. What can a reader infer?",
+    "question": "A student chooses “The image guarantees every detail of an uneasy storm is approaching.” for this task: Which statement uses evidence responsibly for “Ari hurried home.” and “dark clouds above an empty road”? What should they check?",
+    "audio_prompt": "A student chooses “The image guarantees every detail of an uneasy storm is approaching.” for this task: Which statement uses evidence responsibly for “Ari hurried home.” and “dark clouds above an empty road”? What should they check?",
     "answers": [
       {
-        "text": "the objects may hold a family memory",
+        "text": "Prefer suggests when the evidence allows an inference.",
         "is_correct": true
       },
       {
-        "text": "The image has no relationship to the words.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "The page number explains the whole event.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Readers combine written and visual clues to infer added meaning.",
-      "hint": "Use evidence from both modes."
+      "summary": "Prefer suggests when the evidence allows an inference. Visual inference should be expressed as supported interpretation, not certainty beyond evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -787,26 +787,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "How Images Extend Meaning",
-    "question": "What does “a faded photograph tucked beneath a medal” add to the words “Lena opened the old box.”?",
-    "audio_prompt": "What does “a faded photograph tucked beneath a medal” add to the words “Lena opened the old box.”?",
+    "question": "A student chooses “To make the written words impossible to understand.” for this task: Why might the creator pair “Ari hurried home.” with “dark clouds above an empty road”? What should they check?",
+    "audio_prompt": "A student chooses “To make the written words impossible to understand.” for this task: Why might the creator pair “Ari hurried home.” with “dark clouds above an empty road”? What should they check?",
     "answers": [
       {
-        "text": "It gives the spelling of every word.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "It suggests that the objects may hold a family memory.",
+        "text": "Explain what the visual contributes.",
         "is_correct": true
       },
       {
-        "text": "It proves a fact that has no support in the text.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A relevant visual detail can add setting, mood, action or character information.",
-      "hint": "Name the new meaning supplied by the image."
+      "summary": "Explain what the visual contributes. Words and images can work together to create richer meaning.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -817,26 +817,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "How Images Extend Meaning",
-    "question": "Which visual change would most alter the mood of “Lena opened the old box.”?",
-    "audio_prompt": "Which visual change would most alter the mood of “Lena opened the old box.”?",
+    "question": "A student chooses “Ignore the image completely.” for this task: Which reading strategy best suits a page containing “Ari hurried home.” and “dark clouds above an empty road”? What should they check?",
+    "audio_prompt": "A student chooses “Ignore the image completely.” for this task: Which reading strategy best suits a page containing “Ari hurried home.” and “dark clouds above an empty road”? What should they check?",
     "answers": [
       {
-        "text": "Change the page number.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Make the margin slightly wider.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "Replace the scene with bright light and relaxed expressions.",
+        "text": "Use every relevant clue available.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Visual choices such as light and expression influence mood.",
-      "hint": "Look for a change readers would interpret emotionally."
+      "summary": "Use every relevant clue available. Multimodal reading combines evidence across modes.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -847,26 +847,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "How Images Extend Meaning",
-    "question": "A caption simply repeats “Lena opened the old box.” What would improve it?",
-    "audio_prompt": "A caption simply repeats “Lena opened the old box.” What would improve it?",
+    "question": "A student chooses “a plain page number” for this task: The words say, “The dog waited by the gate.” Which image detail would extend their meaning? What should they check?",
+    "audio_prompt": "A student chooses “a plain page number” for this task: The words say, “The dog waited by the gate.” Which image detail would extend their meaning? What should they check?",
     "answers": [
       {
-        "text": "Explain how a faded photograph tucked beneath a medal adds information.",
+        "text": "Choose a detail that changes or deepens what readers understand.",
         "is_correct": true
       },
       {
-        "text": "Repeat the same sentence twice more.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Describe an unrelated object outside the scene.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Useful captions can guide attention to meaningful visual evidence.",
-      "hint": "Add information rather than copying the words."
+      "summary": "Choose a detail that changes or deepens what readers understand. An image extends meaning when it adds relevant information beyond the words.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -877,26 +877,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "How Images Extend Meaning",
-    "question": "Which statement uses evidence responsibly for “Lena opened the old box.” and “a faded photograph tucked beneath a medal”?",
-    "audio_prompt": "Which statement uses evidence responsibly for “Lena opened the old box.” and “a faded photograph tucked beneath a medal”?",
+    "question": "A student chooses “The image has no relationship to the words.” for this task: Combine “The dog waited by the gate.” with the image detail “lowered ears and a wagging tail”. What can a reader infer? What should they check?",
+    "audio_prompt": "A student chooses “The image has no relationship to the words.” for this task: Combine “The dog waited by the gate.” with the image detail “lowered ears and a wagging tail”. What can a reader infer? What should they check?",
     "answers": [
       {
-        "text": "The image guarantees every detail of the objects may hold a family memory.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "The visual clue suggests that the objects may hold a family memory.",
+        "text": "Use evidence from both modes.",
         "is_correct": true
       },
       {
-        "text": "The words and image cannot be read together.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Visual inference should be expressed as supported interpretation, not certainty beyond evidence.",
-      "hint": "Prefer suggests when the evidence allows an inference."
+      "summary": "Use evidence from both modes. Readers combine written and visual clues to infer added meaning.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -907,8 +907,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "How Images Extend Meaning",
-    "question": "Why might the creator pair “Lena opened the old box.” with “a faded photograph tucked beneath a medal”?",
-    "audio_prompt": "Why might the creator pair “Lena opened the old box.” with “a faded photograph tucked beneath a medal”?",
+    "question": "Why might the creator pair “The dog waited by the gate.” with “lowered ears and a wagging tail”?",
+    "audio_prompt": "Why might the creator pair “The dog waited by the gate.” with “lowered ears and a wagging tail”?",
     "answers": [
       {
         "text": "To make the written words impossible to understand.",
@@ -937,8 +937,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "How Images Extend Meaning",
-    "question": "Which reading strategy best suits a page containing “Lena opened the old box.” and “a faded photograph tucked beneath a medal”?",
-    "audio_prompt": "Which reading strategy best suits a page containing “Lena opened the old box.” and “a faded photograph tucked beneath a medal”?",
+    "question": "Which reading strategy best suits a page containing “The dog waited by the gate.” and “lowered ears and a wagging tail”?",
+    "audio_prompt": "Which reading strategy best suits a page containing “The dog waited by the gate.” and “lowered ears and a wagging tail”?",
     "answers": [
       {
         "text": "Notice details in both the words and image, then connect them.",
@@ -967,15 +967,15 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "How Images Extend Meaning",
-    "question": "The words say, “The crowd became quiet.” Which image detail would extend their meaning?",
-    "audio_prompt": "The words say, “The crowd became quiet.” Which image detail would extend their meaning?",
+    "question": "The words say, “The hikers stopped.” Which image detail would extend their meaning?",
+    "audio_prompt": "The words say, “The hikers stopped.” Which image detail would extend their meaning?",
     "answers": [
       {
         "text": "a plain page number",
         "is_correct": false
       },
       {
-        "text": "a tiny turtle moving towards the sea",
+        "text": "a fallen tree blocking the narrow track",
         "is_correct": true
       },
       {
@@ -997,8 +997,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "How Images Extend Meaning",
-    "question": "Combine “The crowd became quiet.” with the image detail “a tiny turtle moving towards the sea”. What can a reader infer?",
-    "audio_prompt": "Combine “The crowd became quiet.” with the image detail “a tiny turtle moving towards the sea”. What can a reader infer?",
+    "question": "Combine “The hikers stopped.” with the image detail “a fallen tree blocking the narrow track”. What can a reader infer?",
+    "audio_prompt": "Combine “The hikers stopped.” with the image detail “a fallen tree blocking the narrow track”. What can a reader infer?",
     "answers": [
       {
         "text": "The image has no relationship to the words.",
@@ -1009,7 +1009,7 @@
         "is_correct": false
       },
       {
-        "text": "the crowd is watching a fragile animal",
+        "text": "the journey has met an obstacle",
         "is_correct": true
       }
     ],
@@ -1027,11 +1027,11 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "How Images Extend Meaning",
-    "question": "What does “a tiny turtle moving towards the sea” add to the words “The crowd became quiet.”?",
-    "audio_prompt": "What does “a tiny turtle moving towards the sea” add to the words “The crowd became quiet.”?",
+    "question": "What does “a fallen tree blocking the narrow track” add to the words “The hikers stopped.”?",
+    "audio_prompt": "What does “a fallen tree blocking the narrow track” add to the words “The hikers stopped.”?",
     "answers": [
       {
-        "text": "It suggests that the crowd is watching a fragile animal.",
+        "text": "It suggests that the journey has met an obstacle.",
         "is_correct": true
       },
       {
@@ -1057,8 +1057,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "How Images Extend Meaning",
-    "question": "Which visual change would most alter the mood of “The crowd became quiet.”?",
-    "audio_prompt": "Which visual change would most alter the mood of “The crowd became quiet.”?",
+    "question": "Which visual change would most alter the mood of “The hikers stopped.”?",
+    "audio_prompt": "Which visual change would most alter the mood of “The hikers stopped.”?",
     "answers": [
       {
         "text": "Change the page number.",
@@ -1087,8 +1087,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "How Images Extend Meaning",
-    "question": "A caption simply repeats “The crowd became quiet.” What would improve it?",
-    "audio_prompt": "A caption simply repeats “The crowd became quiet.” What would improve it?",
+    "question": "A caption simply repeats “The hikers stopped.” What would improve it?",
+    "audio_prompt": "A caption simply repeats “The hikers stopped.” What would improve it?",
     "answers": [
       {
         "text": "Repeat the same sentence twice more.",
@@ -1099,7 +1099,7 @@
         "is_correct": false
       },
       {
-        "text": "Explain how a tiny turtle moving towards the sea adds information.",
+        "text": "Explain how a fallen tree blocking the narrow track adds information.",
         "is_correct": true
       }
     ],
@@ -1117,15 +1117,15 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "How Images Extend Meaning",
-    "question": "Which statement uses evidence responsibly for “The crowd became quiet.” and “a tiny turtle moving towards the sea”?",
-    "audio_prompt": "Which statement uses evidence responsibly for “The crowd became quiet.” and “a tiny turtle moving towards the sea”?",
+    "question": "Which statement uses evidence responsibly for “The hikers stopped.” and “a fallen tree blocking the narrow track”?",
+    "audio_prompt": "Which statement uses evidence responsibly for “The hikers stopped.” and “a fallen tree blocking the narrow track”?",
     "answers": [
       {
-        "text": "The visual clue suggests that the crowd is watching a fragile animal.",
+        "text": "The visual clue suggests that the journey has met an obstacle.",
         "is_correct": true
       },
       {
-        "text": "The image guarantees every detail of the crowd is watching a fragile animal.",
+        "text": "The image guarantees every detail of the journey has met an obstacle.",
         "is_correct": false
       },
       {
@@ -1147,8 +1147,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "How Images Extend Meaning",
-    "question": "Why might the creator pair “The crowd became quiet.” with “a tiny turtle moving towards the sea”?",
-    "audio_prompt": "Why might the creator pair “The crowd became quiet.” with “a tiny turtle moving towards the sea”?",
+    "question": "Why might the creator pair “The hikers stopped.” with “a fallen tree blocking the narrow track”?",
+    "audio_prompt": "Why might the creator pair “The hikers stopped.” with “a fallen tree blocking the narrow track”?",
     "answers": [
       {
         "text": "To make the written words impossible to understand.",
@@ -1177,8 +1177,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "How Images Extend Meaning",
-    "question": "Which reading strategy best suits a page containing “The crowd became quiet.” and “a tiny turtle moving towards the sea”?",
-    "audio_prompt": "Which reading strategy best suits a page containing “The crowd became quiet.” and “a tiny turtle moving towards the sea”?",
+    "question": "Which reading strategy best suits a page containing “The hikers stopped.” and “a fallen tree blocking the narrow track”?",
+    "audio_prompt": "Which reading strategy best suits a page containing “The hikers stopped.” and “a fallen tree blocking the narrow track”?",
     "answers": [
       {
         "text": "Ignore the image completely.",
@@ -1205,8 +1205,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "test",
+    "stage": "verify",
     "skill": "How Images Extend Meaning",
-    "question": "New check: The words say, “Lena opened the old box.” Which image detail would extend their meaning?",
+    "question": "The words say, “Lena opened the old box.” Which image detail would extend their meaning?",
     "audio_prompt": "The words say, “Lena opened the old box.” Which image detail would extend their meaning?",
     "answers": [
       {
@@ -1234,8 +1235,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "test",
+    "stage": "verify",
     "skill": "How Images Extend Meaning",
-    "question": "New check: Combine “Lena opened the old box.” with the image detail “a faded photograph tucked beneath a medal”. What can a reader infer?",
+    "question": "Combine “Lena opened the old box.” with the image detail “a faded photograph tucked beneath a medal”. What can a reader infer?",
     "audio_prompt": "Combine “Lena opened the old box.” with the image detail “a faded photograph tucked beneath a medal”. What can a reader infer?",
     "answers": [
       {
@@ -1263,8 +1265,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "test",
+    "stage": "verify",
     "skill": "How Images Extend Meaning",
-    "question": "New check: What does “a faded photograph tucked beneath a medal” add to the words “Lena opened the old box.”?",
+    "question": "What does “a faded photograph tucked beneath a medal” add to the words “Lena opened the old box.”?",
     "audio_prompt": "What does “a faded photograph tucked beneath a medal” add to the words “Lena opened the old box.”?",
     "answers": [
       {
@@ -1292,8 +1295,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "test",
+    "stage": "verify",
     "skill": "How Images Extend Meaning",
-    "question": "New check: Which visual change would most alter the mood of “Lena opened the old box.”?",
+    "question": "Which visual change would most alter the mood of “Lena opened the old box.”?",
     "audio_prompt": "Which visual change would most alter the mood of “Lena opened the old box.”?",
     "answers": [
       {
@@ -1321,8 +1325,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "test",
+    "stage": "verify",
     "skill": "How Images Extend Meaning",
-    "question": "New check: A caption simply repeats “Lena opened the old box.” What would improve it?",
+    "question": "A caption simply repeats “Lena opened the old box.” What would improve it?",
     "audio_prompt": "A caption simply repeats “Lena opened the old box.” What would improve it?",
     "answers": [
       {
@@ -1350,8 +1355,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "test",
+    "stage": "verify",
     "skill": "How Images Extend Meaning",
-    "question": "New check: Which statement uses evidence responsibly for “Lena opened the old box.” and “a faded photograph tucked beneath a medal”?",
+    "question": "Which statement uses evidence responsibly for “Lena opened the old box.” and “a faded photograph tucked beneath a medal”?",
     "audio_prompt": "Which statement uses evidence responsibly for “Lena opened the old box.” and “a faded photograph tucked beneath a medal”?",
     "answers": [
       {
@@ -1379,8 +1385,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "test",
+    "stage": "verify",
     "skill": "How Images Extend Meaning",
-    "question": "New check: Why might the creator pair “Lena opened the old box.” with “a faded photograph tucked beneath a medal”?",
+    "question": "Why might the creator pair “Lena opened the old box.” with “a faded photograph tucked beneath a medal”?",
     "audio_prompt": "Why might the creator pair “Lena opened the old box.” with “a faded photograph tucked beneath a medal”?",
     "answers": [
       {
@@ -1408,8 +1415,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "test",
+    "stage": "verify",
     "skill": "How Images Extend Meaning",
-    "question": "New check: Which reading strategy best suits a page containing “Lena opened the old box.” and “a faded photograph tucked beneath a medal”?",
+    "question": "Which reading strategy best suits a page containing “Lena opened the old box.” and “a faded photograph tucked beneath a medal”?",
     "audio_prompt": "Which reading strategy best suits a page containing “Lena opened the old box.” and “a faded photograph tucked beneath a medal”?",
     "answers": [
       {
@@ -1437,8 +1445,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "test",
+    "stage": "apply",
     "skill": "How Images Extend Meaning",
-    "question": "New check: The words say, “The crowd became quiet.” Which image detail would extend their meaning?",
+    "question": "The words say, “The crowd became quiet.” Which image detail would extend their meaning?",
     "audio_prompt": "The words say, “The crowd became quiet.” Which image detail would extend their meaning?",
     "answers": [
       {
@@ -1466,8 +1475,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "test",
+    "stage": "apply",
     "skill": "How Images Extend Meaning",
-    "question": "New check: Combine “The crowd became quiet.” with the image detail “a tiny turtle moving towards the sea”. What can a reader infer?",
+    "question": "Combine “The crowd became quiet.” with the image detail “a tiny turtle moving towards the sea”. What can a reader infer?",
     "audio_prompt": "Combine “The crowd became quiet.” with the image detail “a tiny turtle moving towards the sea”. What can a reader infer?",
     "answers": [
       {
@@ -1495,8 +1505,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "test",
+    "stage": "apply",
     "skill": "How Images Extend Meaning",
-    "question": "New check: What does “a tiny turtle moving towards the sea” add to the words “The crowd became quiet.”?",
+    "question": "What does “a tiny turtle moving towards the sea” add to the words “The crowd became quiet.”?",
     "audio_prompt": "What does “a tiny turtle moving towards the sea” add to the words “The crowd became quiet.”?",
     "answers": [
       {
@@ -1524,8 +1535,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "test",
+    "stage": "apply",
     "skill": "How Images Extend Meaning",
-    "question": "New check: Which visual change would most alter the mood of “The crowd became quiet.”?",
+    "question": "Which visual change would most alter the mood of “The crowd became quiet.”?",
     "audio_prompt": "Which visual change would most alter the mood of “The crowd became quiet.”?",
     "answers": [
       {
@@ -1553,8 +1565,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "test",
+    "stage": "apply",
     "skill": "How Images Extend Meaning",
-    "question": "New check: A caption simply repeats “The crowd became quiet.” What would improve it?",
+    "question": "A caption simply repeats “The crowd became quiet.” What would improve it?",
     "audio_prompt": "A caption simply repeats “The crowd became quiet.” What would improve it?",
     "answers": [
       {
@@ -1582,8 +1595,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "test",
+    "stage": "apply",
     "skill": "How Images Extend Meaning",
-    "question": "New check: Which statement uses evidence responsibly for “The crowd became quiet.” and “a tiny turtle moving towards the sea”?",
+    "question": "Which statement uses evidence responsibly for “The crowd became quiet.” and “a tiny turtle moving towards the sea”?",
     "audio_prompt": "Which statement uses evidence responsibly for “The crowd became quiet.” and “a tiny turtle moving towards the sea”?",
     "answers": [
       {
@@ -1611,8 +1625,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "test",
+    "stage": "apply",
     "skill": "How Images Extend Meaning",
-    "question": "New check: Why might the creator pair “The crowd became quiet.” with “a tiny turtle moving towards the sea”?",
+    "question": "Why might the creator pair “The crowd became quiet.” with “a tiny turtle moving towards the sea”?",
     "audio_prompt": "Why might the creator pair “The crowd became quiet.” with “a tiny turtle moving towards the sea”?",
     "answers": [
       {
@@ -1640,8 +1655,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "test",
+    "stage": "apply",
     "skill": "How Images Extend Meaning",
-    "question": "New check: Which reading strategy best suits a page containing “The crowd became quiet.” and “a tiny turtle moving towards the sea”?",
+    "question": "Which reading strategy best suits a page containing “The crowd became quiet.” and “a tiny turtle moving towards the sea”?",
     "audio_prompt": "Which reading strategy best suits a page containing “The crowd became quiet.” and “a tiny turtle moving towards the sea”?",
     "answers": [
       {

@@ -307,19 +307,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "In “Our science group records the temperature,” which word is the verb?",
-    "audio_prompt": "In “Our science group records the temperature,” which word is the verb?",
+    "question": "Why is “records” the best answer here? In “Our science group records the temperature,” which word is the verb?",
+    "audio_prompt": "Why is “records” the best answer here? In “Our science group records the temperature,” which word is the verb?",
     "answers": [
       {
-        "text": "records",
+        "text": "The verb expresses the process in the clause.",
         "is_correct": true
       },
       {
-        "text": "Our science group",
+        "text": "Because “Our science group” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "the temperature",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -337,19 +337,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "Which sentence has correct subject–verb agreement for Our science group?",
-    "audio_prompt": "Which sentence has correct subject–verb agreement for Our science group?",
+    "question": "Why is “Our science group records the temperature.” the best answer here? Which sentence has correct subject–verb agreement for Our science group?",
+    "audio_prompt": "Why is “Our science group records the temperature.” the best answer here? Which sentence has correct subject–verb agreement for Our science group?",
     "answers": [
       {
-        "text": "Our science group is records the temperature.",
+        "text": "Because “Our science group is records the temperature.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Our science group records the temperature.",
+        "text": "The verb form must agree with its subject.",
         "is_correct": true
       },
       {
-        "text": "Our science group does records the temperature.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -367,19 +367,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "Which group is a complete clause about Our science group?",
-    "audio_prompt": "Which group is a complete clause about Our science group?",
+    "question": "Why is “Our science group records.” the best answer here? Which group is a complete clause about Our science group?",
+    "audio_prompt": "Why is “Our science group records.” the best answer here? Which group is a complete clause about Our science group?",
     "answers": [
       {
-        "text": "Our science group.",
+        "text": "Because “Our science group.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "the temperature.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "Our science group records.",
+        "text": "A complete clause usually needs both a subject and a verb.",
         "is_correct": true
       }
     ],
@@ -397,19 +397,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "A writer changes Our science group to one animal or person. What else may need to change?",
-    "audio_prompt": "A writer changes Our science group to one animal or person. What else may need to change?",
+    "question": "Why is “The form of the verb.” the best answer here? A writer changes Our science group to one animal or person. What else may need to change?",
+    "audio_prompt": "Why is “The form of the verb.” the best answer here? A writer changes Our science group to one animal or person. What else may need to change?",
     "answers": [
       {
-        "text": "The form of the verb.",
+        "text": "Singular and plural subjects can require different verb forms.",
         "is_correct": true
       },
       {
-        "text": "The page number.",
+        "text": "Because “The page number.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "The colour of the paper.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -427,19 +427,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "Which revision fixes a missing verb after “Our science group”?",
-    "audio_prompt": "Which revision fixes a missing verb after “Our science group”?",
+    "question": "Why is “Add “records”.” the best answer here? Which revision fixes a missing verb after “Our science group”?",
+    "audio_prompt": "Why is “Add “records”.” the best answer here? Which revision fixes a missing verb after “Our science group”?",
     "answers": [
       {
-        "text": "Add only “the temperature”.",
+        "text": "Because “Add only “the temperature”.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Add “records”.",
+        "text": "Adding an agreeing verb can complete the clause.",
         "is_correct": true
       },
       {
-        "text": "Remove the subject.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -457,19 +457,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "Why do Our science group and “records” work together in the clause?",
-    "audio_prompt": "Why do Our science group and “records” work together in the clause?",
+    "question": "Why is “The subject and verb agree in number.” the best answer here? Why do Our science group and “records” work together in the clause?",
+    "audio_prompt": "Why is “The subject and verb agree in number.” the best answer here? Why do Our science group and “records” work together in the clause?",
     "answers": [
       {
-        "text": "They are both page headings.",
+        "text": "Because “They are both page headings.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Neither word contributes meaning.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "The subject and verb agree in number.",
+        "text": "Agreement connects the subject with an appropriate verb form.",
         "is_correct": true
       }
     ],
@@ -487,19 +487,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "Which words complete a clause beginning “Two young puppies”?",
-    "audio_prompt": "Which words complete a clause beginning “Two young puppies”?",
+    "question": "Why is “chase a red ball.” the best answer here? Which words complete a clause beginning “Two young puppies”?",
+    "audio_prompt": "Why is “chase a red ball.” the best answer here? Which words complete a clause beginning “Two young puppies”?",
     "answers": [
       {
-        "text": "chase a red ball.",
+        "text": "A clause usually contains a subject and an agreeing verb.",
         "is_correct": true
       },
       {
-        "text": "a red ball.",
+        "text": "Because “a red ball.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "very bright and.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -517,19 +517,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "In “Two young puppies chase a red ball,” which words form the subject?",
-    "audio_prompt": "In “Two young puppies chase a red ball,” which words form the subject?",
+    "question": "Why is “Two young puppies” the best answer here? In “Two young puppies chase a red ball,” which words form the subject?",
+    "audio_prompt": "Why is “Two young puppies” the best answer here? In “Two young puppies chase a red ball,” which words form the subject?",
     "answers": [
       {
-        "text": "chase",
+        "text": "Because “chase” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Two young puppies",
+        "text": "The subject is who or what the clause is about.",
         "is_correct": true
       },
       {
-        "text": "a red ball",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -547,19 +547,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "In “Two young puppies chase a red ball,” which word is the verb?",
-    "audio_prompt": "In “Two young puppies chase a red ball,” which word is the verb?",
+    "question": "Why is “chase” the best answer here? In “Two young puppies chase a red ball,” which word is the verb?",
+    "audio_prompt": "Why is “chase” the best answer here? In “Two young puppies chase a red ball,” which word is the verb?",
     "answers": [
       {
-        "text": "Two young puppies",
+        "text": "Because “Two young puppies” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "a red ball",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "chase",
+        "text": "The verb expresses the process in the clause.",
         "is_correct": true
       }
     ],
@@ -577,19 +577,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "Which sentence has correct subject–verb agreement for Two young puppies?",
-    "audio_prompt": "Which sentence has correct subject–verb agreement for Two young puppies?",
+    "question": "Why is “Two young puppies chase a red ball.” the best answer here? Which sentence has correct subject–verb agreement for Two young puppies?",
+    "audio_prompt": "Why is “Two young puppies chase a red ball.” the best answer here? Which sentence has correct subject–verb agreement for Two young puppies?",
     "answers": [
       {
-        "text": "Two young puppies chase a red ball.",
+        "text": "The verb form must agree with its subject.",
         "is_correct": true
       },
       {
-        "text": "Two young puppies is chase a red ball.",
+        "text": "Because “Two young puppies is chase a red ball.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Two young puppies does chase a red ball.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -607,26 +607,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "Which group is a complete clause about Two young puppies?",
-    "audio_prompt": "Which group is a complete clause about Two young puppies?",
+    "question": "A student chooses “at sunrise.” for this task: Which words complete a clause beginning “The noisy parrots”? What should they check?",
+    "audio_prompt": "A student chooses “at sunrise.” for this task: Which words complete a clause beginning “The noisy parrots”? What should they check?",
     "answers": [
       {
-        "text": "Two young puppies.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Two young puppies chase.",
+        "text": "Choose words that tell what the subject does or is.",
         "is_correct": true
       },
       {
-        "text": "a red ball.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A complete clause usually needs both a subject and a verb.",
-      "hint": "Find the group that tells who or what and what happens."
+      "summary": "Choose words that tell what the subject does or is. A clause usually contains a subject and an agreeing verb.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -637,26 +637,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "A writer changes Two young puppies to one animal or person. What else may need to change?",
-    "audio_prompt": "A writer changes Two young puppies to one animal or person. What else may need to change?",
+    "question": "A student chooses “squawk” for this task: In “The noisy parrots squawk at sunrise,” which words form the subject? What should they check?",
+    "audio_prompt": "A student chooses “squawk” for this task: In “The noisy parrots squawk at sunrise,” which words form the subject? What should they check?",
     "answers": [
       {
-        "text": "The page number.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "The colour of the paper.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "The form of the verb.",
+        "text": "Ask who or what performs the process.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Singular and plural subjects can require different verb forms.",
-      "hint": "Check whether the verb still sounds right with one subject."
+      "summary": "Ask who or what performs the process. The subject is who or what the clause is about.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -667,26 +667,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "Which revision fixes a missing verb after “Two young puppies”?",
-    "audio_prompt": "Which revision fixes a missing verb after “Two young puppies”?",
+    "question": "A student chooses “The noisy parrots” for this task: In “The noisy parrots squawk at sunrise,” which word is the verb? What should they check?",
+    "audio_prompt": "A student chooses “The noisy parrots” for this task: In “The noisy parrots squawk at sunrise,” which word is the verb? What should they check?",
     "answers": [
       {
-        "text": "Add “chase”.",
+        "text": "Ask what happens or what the subject does.",
         "is_correct": true
       },
       {
-        "text": "Add only “a red ball”.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Remove the subject.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Adding an agreeing verb can complete the clause.",
-      "hint": "The clause needs a process word."
+      "summary": "Ask what happens or what the subject does. The verb expresses the process in the clause.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -697,26 +697,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "Why do Two young puppies and “chase” work together in the clause?",
-    "audio_prompt": "Why do Two young puppies and “chase” work together in the clause?",
+    "question": "A student chooses “The noisy parrots is squawk at sunrise.” for this task: Which sentence has correct subject–verb agreement for The noisy parrots? What should they check?",
+    "audio_prompt": "A student chooses “The noisy parrots is squawk at sunrise.” for this task: Which sentence has correct subject–verb agreement for The noisy parrots? What should they check?",
     "answers": [
       {
-        "text": "They are both page headings.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "The subject and verb agree in number.",
+        "text": "Read the subject and verb together aloud.",
         "is_correct": true
       },
       {
-        "text": "Neither word contributes meaning.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Agreement connects the subject with an appropriate verb form.",
-      "hint": "Decide whether the subject refers to one or more than one."
+      "summary": "Read the subject and verb together aloud. The verb form must agree with its subject.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -727,26 +727,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "Which words complete a clause beginning “The museum guide”?",
-    "audio_prompt": "Which words complete a clause beginning “The museum guide”?",
+    "question": "A student chooses “The noisy parrots.” for this task: Which group is a complete clause about The noisy parrots? What should they check?",
+    "audio_prompt": "A student chooses “The noisy parrots.” for this task: Which group is a complete clause about The noisy parrots? What should they check?",
     "answers": [
       {
-        "text": "the ancient map.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "very bright and.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "explains the ancient map.",
+        "text": "Find the group that tells who or what and what happens.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A clause usually contains a subject and an agreeing verb.",
-      "hint": "Choose words that tell what the subject does or is."
+      "summary": "Find the group that tells who or what and what happens. A complete clause usually needs both a subject and a verb.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -757,26 +757,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "In “The museum guide explains the ancient map,” which words form the subject?",
-    "audio_prompt": "In “The museum guide explains the ancient map,” which words form the subject?",
+    "question": "A student chooses “The page number.” for this task: A writer changes The noisy parrots to one animal or person. What else may need to change? What should they check?",
+    "audio_prompt": "A student chooses “The page number.” for this task: A writer changes The noisy parrots to one animal or person. What else may need to change? What should they check?",
     "answers": [
       {
-        "text": "The museum guide",
+        "text": "Check whether the verb still sounds right with one subject.",
         "is_correct": true
       },
       {
-        "text": "explains",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "the ancient map",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The subject is who or what the clause is about.",
-      "hint": "Ask who or what performs the process."
+      "summary": "Check whether the verb still sounds right with one subject. Singular and plural subjects can require different verb forms.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -787,26 +787,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "In “The museum guide explains the ancient map,” which word is the verb?",
-    "audio_prompt": "In “The museum guide explains the ancient map,” which word is the verb?",
+    "question": "A student chooses “Add only “at sunrise”.” for this task: Which revision fixes a missing verb after “The noisy parrots”? What should they check?",
+    "audio_prompt": "A student chooses “Add only “at sunrise”.” for this task: Which revision fixes a missing verb after “The noisy parrots”? What should they check?",
     "answers": [
       {
-        "text": "The museum guide",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "explains",
+        "text": "The clause needs a process word.",
         "is_correct": true
       },
       {
-        "text": "the ancient map",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The verb expresses the process in the clause.",
-      "hint": "Ask what happens or what the subject does."
+      "summary": "The clause needs a process word. Adding an agreeing verb can complete the clause.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -817,26 +817,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "Which sentence has correct subject–verb agreement for The museum guide?",
-    "audio_prompt": "Which sentence has correct subject–verb agreement for The museum guide?",
+    "question": "A student chooses “They are both page headings.” for this task: Why do The noisy parrots and “squawk” work together in the clause? What should they check?",
+    "audio_prompt": "A student chooses “They are both page headings.” for this task: Why do The noisy parrots and “squawk” work together in the clause? What should they check?",
     "answers": [
       {
-        "text": "The museum guide is explains the ancient map.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "The museum guide does explains the ancient map.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "The museum guide explains the ancient map.",
+        "text": "Decide whether the subject refers to one or more than one.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The verb form must agree with its subject.",
-      "hint": "Read the subject and verb together aloud."
+      "summary": "Decide whether the subject refers to one or more than one. Agreement connects the subject with an appropriate verb form.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -847,26 +847,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "Which group is a complete clause about The museum guide?",
-    "audio_prompt": "Which group is a complete clause about The museum guide?",
+    "question": "A student chooses “the temperature.” for this task: Which words complete a clause beginning “Our science group”? What should they check?",
+    "audio_prompt": "A student chooses “the temperature.” for this task: Which words complete a clause beginning “Our science group”? What should they check?",
     "answers": [
       {
-        "text": "The museum guide explains.",
+        "text": "Choose words that tell what the subject does or is.",
         "is_correct": true
       },
       {
-        "text": "The museum guide.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "the ancient map.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A complete clause usually needs both a subject and a verb.",
-      "hint": "Find the group that tells who or what and what happens."
+      "summary": "Choose words that tell what the subject does or is. A clause usually contains a subject and an agreeing verb.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -877,26 +877,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "A writer changes The museum guide to one animal or person. What else may need to change?",
-    "audio_prompt": "A writer changes The museum guide to one animal or person. What else may need to change?",
+    "question": "A student chooses “records” for this task: In “Our science group records the temperature,” which words form the subject? What should they check?",
+    "audio_prompt": "A student chooses “records” for this task: In “Our science group records the temperature,” which words form the subject? What should they check?",
     "answers": [
       {
-        "text": "The page number.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "The form of the verb.",
+        "text": "Ask who or what performs the process.",
         "is_correct": true
       },
       {
-        "text": "The colour of the paper.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Singular and plural subjects can require different verb forms.",
-      "hint": "Check whether the verb still sounds right with one subject."
+      "summary": "Ask who or what performs the process. The subject is who or what the clause is about.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -907,11 +907,11 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "Which revision fixes a missing verb after “The museum guide”?",
-    "audio_prompt": "Which revision fixes a missing verb after “The museum guide”?",
+    "question": "Which revision fixes a missing verb after “Our science group”?",
+    "audio_prompt": "Which revision fixes a missing verb after “Our science group”?",
     "answers": [
       {
-        "text": "Add only “the ancient map”.",
+        "text": "Add only “the temperature”.",
         "is_correct": false
       },
       {
@@ -919,7 +919,7 @@
         "is_correct": false
       },
       {
-        "text": "Add “explains”.",
+        "text": "Add “records”.",
         "is_correct": true
       }
     ],
@@ -937,8 +937,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "Why do The museum guide and “explains” work together in the clause?",
-    "audio_prompt": "Why do The museum guide and “explains” work together in the clause?",
+    "question": "Why do Our science group and “records” work together in the clause?",
+    "audio_prompt": "Why do Our science group and “records” work together in the clause?",
     "answers": [
       {
         "text": "The subject and verb agree in number.",
@@ -967,15 +967,15 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "Which words complete a clause beginning “Those bright stars”?",
-    "audio_prompt": "Which words complete a clause beginning “Those bright stars”?",
+    "question": "Which words complete a clause beginning “Two young puppies”?",
+    "audio_prompt": "Which words complete a clause beginning “Two young puppies”?",
     "answers": [
       {
-        "text": "above the campsite.",
+        "text": "a red ball.",
         "is_correct": false
       },
       {
-        "text": "shine above the campsite.",
+        "text": "chase a red ball.",
         "is_correct": true
       },
       {
@@ -997,19 +997,19 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "In “Those bright stars shine above the campsite,” which words form the subject?",
-    "audio_prompt": "In “Those bright stars shine above the campsite,” which words form the subject?",
+    "question": "In “Two young puppies chase a red ball,” which words form the subject?",
+    "audio_prompt": "In “Two young puppies chase a red ball,” which words form the subject?",
     "answers": [
       {
-        "text": "shine",
+        "text": "chase",
         "is_correct": false
       },
       {
-        "text": "above the campsite",
+        "text": "a red ball",
         "is_correct": false
       },
       {
-        "text": "Those bright stars",
+        "text": "Two young puppies",
         "is_correct": true
       }
     ],
@@ -1027,19 +1027,19 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "In “Those bright stars shine above the campsite,” which word is the verb?",
-    "audio_prompt": "In “Those bright stars shine above the campsite,” which word is the verb?",
+    "question": "In “Two young puppies chase a red ball,” which word is the verb?",
+    "audio_prompt": "In “Two young puppies chase a red ball,” which word is the verb?",
     "answers": [
       {
-        "text": "shine",
+        "text": "chase",
         "is_correct": true
       },
       {
-        "text": "Those bright stars",
+        "text": "Two young puppies",
         "is_correct": false
       },
       {
-        "text": "above the campsite",
+        "text": "a red ball",
         "is_correct": false
       }
     ],
@@ -1057,19 +1057,19 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "Which sentence has correct subject–verb agreement for Those bright stars?",
-    "audio_prompt": "Which sentence has correct subject–verb agreement for Those bright stars?",
+    "question": "Which sentence has correct subject–verb agreement for Two young puppies?",
+    "audio_prompt": "Which sentence has correct subject–verb agreement for Two young puppies?",
     "answers": [
       {
-        "text": "Those bright stars is shine above the campsite.",
+        "text": "Two young puppies is chase a red ball.",
         "is_correct": false
       },
       {
-        "text": "Those bright stars shine above the campsite.",
+        "text": "Two young puppies chase a red ball.",
         "is_correct": true
       },
       {
-        "text": "Those bright stars does shine above the campsite.",
+        "text": "Two young puppies does chase a red ball.",
         "is_correct": false
       }
     ],
@@ -1087,19 +1087,19 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "Which group is a complete clause about Those bright stars?",
-    "audio_prompt": "Which group is a complete clause about Those bright stars?",
+    "question": "Which group is a complete clause about Two young puppies?",
+    "audio_prompt": "Which group is a complete clause about Two young puppies?",
     "answers": [
       {
-        "text": "Those bright stars.",
+        "text": "Two young puppies.",
         "is_correct": false
       },
       {
-        "text": "above the campsite.",
+        "text": "a red ball.",
         "is_correct": false
       },
       {
-        "text": "Those bright stars shine.",
+        "text": "Two young puppies chase.",
         "is_correct": true
       }
     ],
@@ -1117,8 +1117,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "A writer changes Those bright stars to one animal or person. What else may need to change?",
-    "audio_prompt": "A writer changes Those bright stars to one animal or person. What else may need to change?",
+    "question": "A writer changes Two young puppies to one animal or person. What else may need to change?",
+    "audio_prompt": "A writer changes Two young puppies to one animal or person. What else may need to change?",
     "answers": [
       {
         "text": "The form of the verb.",
@@ -1147,15 +1147,15 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "Which revision fixes a missing verb after “Those bright stars”?",
-    "audio_prompt": "Which revision fixes a missing verb after “Those bright stars”?",
+    "question": "Which revision fixes a missing verb after “Two young puppies”?",
+    "audio_prompt": "Which revision fixes a missing verb after “Two young puppies”?",
     "answers": [
       {
-        "text": "Add only “above the campsite”.",
+        "text": "Add only “a red ball”.",
         "is_correct": false
       },
       {
-        "text": "Add “shine”.",
+        "text": "Add “chase”.",
         "is_correct": true
       },
       {
@@ -1177,8 +1177,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "Why do Those bright stars and “shine” work together in the clause?",
-    "audio_prompt": "Why do Those bright stars and “shine” work together in the clause?",
+    "question": "Why do Two young puppies and “chase” work together in the clause?",
+    "audio_prompt": "Why do Two young puppies and “chase” work together in the clause?",
     "answers": [
       {
         "text": "They are both page headings.",
@@ -1205,8 +1205,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA06",
     "bank": "test",
+    "stage": "verify",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "New check: Which words complete a clause beginning “The museum guide”?",
+    "question": "Which words complete a clause beginning “The museum guide”?",
     "audio_prompt": "Which words complete a clause beginning “The museum guide”?",
     "answers": [
       {
@@ -1234,8 +1235,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA06",
     "bank": "test",
+    "stage": "verify",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "New check: In “The museum guide explains the ancient map,” which words form the subject?",
+    "question": "In “The museum guide explains the ancient map,” which words form the subject?",
     "audio_prompt": "In “The museum guide explains the ancient map,” which words form the subject?",
     "answers": [
       {
@@ -1263,8 +1265,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA06",
     "bank": "test",
+    "stage": "verify",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "New check: In “The museum guide explains the ancient map,” which word is the verb?",
+    "question": "In “The museum guide explains the ancient map,” which word is the verb?",
     "audio_prompt": "In “The museum guide explains the ancient map,” which word is the verb?",
     "answers": [
       {
@@ -1292,8 +1295,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA06",
     "bank": "test",
+    "stage": "verify",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "New check: Which sentence has correct subject–verb agreement for The museum guide?",
+    "question": "Which sentence has correct subject–verb agreement for The museum guide?",
     "audio_prompt": "Which sentence has correct subject–verb agreement for The museum guide?",
     "answers": [
       {
@@ -1321,8 +1325,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA06",
     "bank": "test",
+    "stage": "verify",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "New check: Which group is a complete clause about The museum guide?",
+    "question": "Which group is a complete clause about The museum guide?",
     "audio_prompt": "Which group is a complete clause about The museum guide?",
     "answers": [
       {
@@ -1350,8 +1355,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA06",
     "bank": "test",
+    "stage": "verify",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "New check: A writer changes The museum guide to one animal or person. What else may need to change?",
+    "question": "A writer changes The museum guide to one animal or person. What else may need to change?",
     "audio_prompt": "A writer changes The museum guide to one animal or person. What else may need to change?",
     "answers": [
       {
@@ -1379,8 +1385,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA06",
     "bank": "test",
+    "stage": "verify",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "New check: Which revision fixes a missing verb after “The museum guide”?",
+    "question": "Which revision fixes a missing verb after “The museum guide”?",
     "audio_prompt": "Which revision fixes a missing verb after “The museum guide”?",
     "answers": [
       {
@@ -1408,8 +1415,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA06",
     "bank": "test",
+    "stage": "verify",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "New check: Why do The museum guide and “explains” work together in the clause?",
+    "question": "Why do The museum guide and “explains” work together in the clause?",
     "audio_prompt": "Why do The museum guide and “explains” work together in the clause?",
     "answers": [
       {
@@ -1437,8 +1445,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA06",
     "bank": "test",
+    "stage": "apply",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "New check: Which words complete a clause beginning “Those bright stars”?",
+    "question": "Which words complete a clause beginning “Those bright stars”?",
     "audio_prompt": "Which words complete a clause beginning “Those bright stars”?",
     "answers": [
       {
@@ -1466,8 +1475,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA06",
     "bank": "test",
+    "stage": "apply",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "New check: In “Those bright stars shine above the campsite,” which words form the subject?",
+    "question": "In “Those bright stars shine above the campsite,” which words form the subject?",
     "audio_prompt": "In “Those bright stars shine above the campsite,” which words form the subject?",
     "answers": [
       {
@@ -1495,8 +1505,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA06",
     "bank": "test",
+    "stage": "apply",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "New check: In “Those bright stars shine above the campsite,” which word is the verb?",
+    "question": "In “Those bright stars shine above the campsite,” which word is the verb?",
     "audio_prompt": "In “Those bright stars shine above the campsite,” which word is the verb?",
     "answers": [
       {
@@ -1524,8 +1535,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA06",
     "bank": "test",
+    "stage": "apply",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "New check: Which sentence has correct subject–verb agreement for Those bright stars?",
+    "question": "Which sentence has correct subject–verb agreement for Those bright stars?",
     "audio_prompt": "Which sentence has correct subject–verb agreement for Those bright stars?",
     "answers": [
       {
@@ -1553,8 +1565,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA06",
     "bank": "test",
+    "stage": "apply",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "New check: Which group is a complete clause about Those bright stars?",
+    "question": "Which group is a complete clause about Those bright stars?",
     "audio_prompt": "Which group is a complete clause about Those bright stars?",
     "answers": [
       {
@@ -1582,8 +1595,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA06",
     "bank": "test",
+    "stage": "apply",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "New check: A writer changes Those bright stars to one animal or person. What else may need to change?",
+    "question": "A writer changes Those bright stars to one animal or person. What else may need to change?",
     "audio_prompt": "A writer changes Those bright stars to one animal or person. What else may need to change?",
     "answers": [
       {
@@ -1611,8 +1625,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA06",
     "bank": "test",
+    "stage": "apply",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "New check: Which revision fixes a missing verb after “Those bright stars”?",
+    "question": "Which revision fixes a missing verb after “Those bright stars”?",
     "audio_prompt": "Which revision fixes a missing verb after “Those bright stars”?",
     "answers": [
       {
@@ -1640,8 +1655,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA06",
     "bank": "test",
+    "stage": "apply",
     "skill": "Clauses and Subject–Verb Agreement",
-    "question": "New check: Why do Those bright stars and “shine” work together in the clause?",
+    "question": "Why do Those bright stars and “shine” work together in the clause?",
     "audio_prompt": "Why do Those bright stars and “shine” work together in the clause?",
     "answers": [
       {

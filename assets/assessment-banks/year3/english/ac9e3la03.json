@@ -307,19 +307,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Text Structures Across Subjects",
-    "question": "A writer begins a history recount of a community celebration. What should the writer decide first?",
-    "audio_prompt": "A writer begins a history recount of a community celebration. What should the writer decide first?",
+    "question": "Why is “The purpose and audience.” the best answer here? A writer begins a history recount of a community celebration. What should the writer decide first?",
+    "audio_prompt": "Why is “The purpose and audience.” the best answer here? A writer begins a history recount of a community celebration. What should the writer decide first?",
     "answers": [
       {
-        "text": "The purpose and audience.",
+        "text": "Purpose and audience guide structure and language choices.",
         "is_correct": true
       },
       {
-        "text": "The colour of the last full stop.",
+        "text": "Because “The colour of the last full stop.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "How many unrelated jokes to add.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -337,19 +337,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Text Structures Across Subjects",
-    "question": "Which feature would make a history recount of a community celebration easier to use?",
-    "audio_prompt": "Which feature would make a history recount of a community celebration easier to use?",
+    "question": "Why is “Use events in time order.” the best answer here? Which feature would make a history recount of a community celebration easier to use?",
+    "audio_prompt": "Why is “Use events in time order.” the best answer here? Which feature would make a history recount of a community celebration easier to use?",
     "answers": [
       {
-        "text": "Mix every section together.",
+        "text": "Because “Mix every section together.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Use events in time order.",
+        "text": "Organisation helps readers locate and connect information.",
         "is_correct": true
       },
       {
-        "text": "Hide the main information in an unrelated story.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -367,19 +367,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Text Structures Across Subjects",
-    "question": "Why is past-tense verbs and dates suitable for a history recount of a community celebration?",
-    "audio_prompt": "Why is past-tense verbs and dates suitable for a history recount of a community celebration?",
+    "question": "Why is “It communicates the subject information precisely for the purpose.” the best answer here? Why is past-tense verbs and dates suitable for a history recount of a community celebration?",
+    "audio_prompt": "Why is “It communicates the subject information precisely for the purpose.” the best answer here? Why is past-tense verbs and dates suitable for a history recount of a community celebration?",
     "answers": [
       {
-        "text": "It makes the information less accurate.",
+        "text": "Because “It makes the information less accurate.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "It prevents readers from finding the main idea.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "It communicates the subject information precisely for the purpose.",
+        "text": "Subject language and purpose work together.",
         "is_correct": true
       }
     ],
@@ -397,19 +397,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Text Structures Across Subjects",
-    "question": "Which addition would be least suitable in a history recount of a community celebration?",
-    "audio_prompt": "Which addition would be least suitable in a history recount of a community celebration?",
+    "question": "Why is “A long unrelated fantasy scene.” the best answer here? Which addition would be least suitable in a history recount of a community celebration?",
+    "audio_prompt": "Why is “A long unrelated fantasy scene.” the best answer here? Which addition would be least suitable in a history recount of a community celebration?",
     "answers": [
       {
-        "text": "A long unrelated fantasy scene.",
+        "text": "Every part should support the text's purpose.",
         "is_correct": true
       },
       {
-        "text": "A useful example linked to a history recount of a community celebration.",
+        "text": "Because “A useful example linked to a history recount of a community celebration.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "A heading that signals the topic.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -427,19 +427,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Text Structures Across Subjects",
-    "question": "A student copied a story structure for a history recount of a community celebration. What is the best revision?",
-    "audio_prompt": "A student copied a story structure for a history recount of a community celebration. What is the best revision?",
+    "question": "Why is “Reorganise it using events in time order.” the best answer here? A student copied a story structure for a history recount of a community celebration. What is the best revision?",
+    "audio_prompt": "Why is “Reorganise it using events in time order.” the best answer here? A student copied a story structure for a history recount of a community celebration. What is the best revision?",
     "answers": [
       {
-        "text": "Keep the structure and remove the facts.",
+        "text": "Because “Keep the structure and remove the facts.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Reorganise it using events in time order.",
+        "text": "Writers revise structure when it does not suit the purpose.",
         "is_correct": true
       },
       {
-        "text": "Add more fictional characters instead of information.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -457,19 +457,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Text Structures Across Subjects",
-    "question": "Which explanation best connects structure and language in a history recount of a community celebration?",
-    "audio_prompt": "Which explanation best connects structure and language in a history recount of a community celebration?",
+    "question": "Why is “events in time order organises ideas, while past-tense verbs and dates communicates them clearly.” the best answer here? Which explanation best connects structure and language in a history recount of a community celebration?",
+    "audio_prompt": "Why is “events in time order organises ideas, while past-tense verbs and dates communicates them clearly.” the best answer here? Which explanation best connects structure and language in a history recount of a community celebration?",
     "answers": [
       {
-        "text": "Structure and language have no effect on meaning.",
+        "text": "Because “Structure and language have no effect on meaning.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Only page colour determines the purpose.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "events in time order organises ideas, while past-tense verbs and dates communicates them clearly.",
+        "text": "Structure organises ideas and language expresses them.",
         "is_correct": true
       }
     ],
@@ -487,19 +487,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Text Structures Across Subjects",
-    "question": "Which structure best suits instructions for making fruit salad?",
-    "audio_prompt": "Which structure best suits instructions for making fruit salad?",
+    "question": "Why is “goal, ingredients and ordered steps” the best answer here? Which structure best suits instructions for making fruit salad?",
+    "audio_prompt": "Why is “goal, ingredients and ordered steps” the best answer here? Which structure best suits instructions for making fruit salad?",
     "answers": [
       {
-        "text": "goal, ingredients and ordered steps",
+        "text": "A text structure should suit its subject purpose.",
         "is_correct": true
       },
       {
-        "text": "A random list with no order.",
+        "text": "Because “A random list with no order.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Characters, complication and resolution only.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -517,19 +517,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Text Structures Across Subjects",
-    "question": "Which language feature best suits instructions for making fruit salad?",
-    "audio_prompt": "Which language feature best suits instructions for making fruit salad?",
+    "question": "Why is “command verbs such as cut and mix” the best answer here? Which language feature best suits instructions for making fruit salad?",
+    "audio_prompt": "Why is “command verbs such as cut and mix” the best answer here? Which language feature best suits instructions for making fruit salad?",
     "answers": [
       {
-        "text": "Unrelated rhyming words only.",
+        "text": "Because “Unrelated rhyming words only.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "command verbs such as cut and mix",
+        "text": "Language features help a text achieve its purpose.",
         "is_correct": true
       },
       {
-        "text": "Vague words with no useful detail.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -547,19 +547,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Text Structures Across Subjects",
-    "question": "A writer begins instructions for making fruit salad. What should the writer decide first?",
-    "audio_prompt": "A writer begins instructions for making fruit salad. What should the writer decide first?",
+    "question": "Why is “The purpose and audience.” the best answer here? A writer begins instructions for making fruit salad. What should the writer decide first?",
+    "audio_prompt": "Why is “The purpose and audience.” the best answer here? A writer begins instructions for making fruit salad. What should the writer decide first?",
     "answers": [
       {
-        "text": "The colour of the last full stop.",
+        "text": "Because “The colour of the last full stop.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "How many unrelated jokes to add.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "The purpose and audience.",
+        "text": "Purpose and audience guide structure and language choices.",
         "is_correct": true
       }
     ],
@@ -577,19 +577,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Text Structures Across Subjects",
-    "question": "Which feature would make instructions for making fruit salad easier to use?",
-    "audio_prompt": "Which feature would make instructions for making fruit salad easier to use?",
+    "question": "Why is “Use goal, ingredients and ordered steps.” the best answer here? Which feature would make instructions for making fruit salad easier to use?",
+    "audio_prompt": "Why is “Use goal, ingredients and ordered steps.” the best answer here? Which feature would make instructions for making fruit salad easier to use?",
     "answers": [
       {
-        "text": "Use goal, ingredients and ordered steps.",
+        "text": "Organisation helps readers locate and connect information.",
         "is_correct": true
       },
       {
-        "text": "Mix every section together.",
+        "text": "Because “Mix every section together.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Hide the main information in an unrelated story.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -607,26 +607,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Text Structures Across Subjects",
-    "question": "Why is command verbs such as cut and mix suitable for instructions for making fruit salad?",
-    "audio_prompt": "Why is command verbs such as cut and mix suitable for instructions for making fruit salad?",
+    "question": "A student chooses “A random list with no order.” for this task: Which structure best suits a science investigation of seed growth? What should they check?",
+    "audio_prompt": "A student chooses “A random list with no order.” for this task: Which structure best suits a science investigation of seed growth? What should they check?",
     "answers": [
       {
-        "text": "It makes the information less accurate.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "It communicates the subject information precisely for the purpose.",
+        "text": "Ask how readers need the information organised.",
         "is_correct": true
       },
       {
-        "text": "It prevents readers from finding the main idea.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Subject language and purpose work together.",
-      "hint": "Connect the feature to what the reader needs to learn or do."
+      "summary": "Ask how readers need the information organised. A text structure should suit its subject purpose.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -637,26 +637,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Text Structures Across Subjects",
-    "question": "Which addition would be least suitable in instructions for making fruit salad?",
-    "audio_prompt": "Which addition would be least suitable in instructions for making fruit salad?",
+    "question": "A student chooses “Unrelated rhyming words only.” for this task: Which language feature best suits a science investigation of seed growth? What should they check?",
+    "audio_prompt": "A student chooses “Unrelated rhyming words only.” for this task: Which language feature best suits a science investigation of seed growth? What should they check?",
     "answers": [
       {
-        "text": "A useful example linked to instructions for making fruit salad.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "A heading that signals the topic.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "A long unrelated fantasy scene.",
+        "text": "Choose the feature that makes the subject information clear.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Every part should support the text's purpose.",
-      "hint": "Find the addition that leads away from the subject."
+      "summary": "Choose the feature that makes the subject information clear. Language features help a text achieve its purpose.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -667,26 +667,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Text Structures Across Subjects",
-    "question": "A student copied a story structure for instructions for making fruit salad. What is the best revision?",
-    "audio_prompt": "A student copied a story structure for instructions for making fruit salad. What is the best revision?",
+    "question": "A student chooses “The colour of the last full stop.” for this task: A writer begins a science investigation of seed growth. What should the writer decide first? What should they check?",
+    "audio_prompt": "A student chooses “The colour of the last full stop.” for this task: A writer begins a science investigation of seed growth. What should the writer decide first? What should they check?",
     "answers": [
       {
-        "text": "Reorganise it using goal, ingredients and ordered steps.",
+        "text": "Think about why the text is being made and who will use it.",
         "is_correct": true
       },
       {
-        "text": "Keep the structure and remove the facts.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Add more fictional characters instead of information.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Writers revise structure when it does not suit the purpose.",
-      "hint": "Use the expected organisation for this subject text."
+      "summary": "Think about why the text is being made and who will use it. Purpose and audience guide structure and language choices.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -697,26 +697,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Text Structures Across Subjects",
-    "question": "Which explanation best connects structure and language in instructions for making fruit salad?",
-    "audio_prompt": "Which explanation best connects structure and language in instructions for making fruit salad?",
+    "question": "A student chooses “Mix every section together.” for this task: Which feature would make a science investigation of seed growth easier to use? What should they check?",
+    "audio_prompt": "A student chooses “Mix every section together.” for this task: Which feature would make a science investigation of seed growth easier to use? What should they check?",
     "answers": [
       {
-        "text": "Structure and language have no effect on meaning.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "goal, ingredients and ordered steps organises ideas, while command verbs such as cut and mix communicates them clearly.",
+        "text": "Select the organisation that matches the task.",
         "is_correct": true
       },
       {
-        "text": "Only page colour determines the purpose.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Structure organises ideas and language expresses them.",
-      "hint": "Choose the answer that explains both features."
+      "summary": "Select the organisation that matches the task. Organisation helps readers locate and connect information.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -727,26 +727,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Text Structures Across Subjects",
-    "question": "Which structure best suits a geography report about a river?",
-    "audio_prompt": "Which structure best suits a geography report about a river?",
+    "question": "A student chooses “It makes the information less accurate.” for this task: Why is technical terms and measured results suitable for a science investigation of seed growth? What should they check?",
+    "audio_prompt": "A student chooses “It makes the information less accurate.” for this task: Why is technical terms and measured results suitable for a science investigation of seed growth? What should they check?",
     "answers": [
       {
-        "text": "A random list with no order.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Characters, complication and resolution only.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "sections arranged by topic",
+        "text": "Connect the feature to what the reader needs to learn or do.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A text structure should suit its subject purpose.",
-      "hint": "Ask how readers need the information organised."
+      "summary": "Connect the feature to what the reader needs to learn or do. Subject language and purpose work together.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -757,26 +757,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Text Structures Across Subjects",
-    "question": "Which language feature best suits a geography report about a river?",
-    "audio_prompt": "Which language feature best suits a geography report about a river?",
+    "question": "A student chooses “A useful example linked to a science investigation of seed growth.” for this task: Which addition would be least suitable in a science investigation of seed growth? What should they check?",
+    "audio_prompt": "A student chooses “A useful example linked to a science investigation of seed growth.” for this task: Which addition would be least suitable in a science investigation of seed growth? What should they check?",
     "answers": [
       {
-        "text": "place names, maps and geographical terms",
+        "text": "Find the addition that leads away from the subject.",
         "is_correct": true
       },
       {
-        "text": "Unrelated rhyming words only.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Vague words with no useful detail.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Language features help a text achieve its purpose.",
-      "hint": "Choose the feature that makes the subject information clear."
+      "summary": "Find the addition that leads away from the subject. Every part should support the text's purpose.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -787,26 +787,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Text Structures Across Subjects",
-    "question": "A writer begins a geography report about a river. What should the writer decide first?",
-    "audio_prompt": "A writer begins a geography report about a river. What should the writer decide first?",
+    "question": "A student chooses “Keep the structure and remove the facts.” for this task: A student copied a story structure for a science investigation of seed growth. What is the best revision? What should they check?",
+    "audio_prompt": "A student chooses “Keep the structure and remove the facts.” for this task: A student copied a story structure for a science investigation of seed growth. What is the best revision? What should they check?",
     "answers": [
       {
-        "text": "The colour of the last full stop.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "The purpose and audience.",
+        "text": "Use the expected organisation for this subject text.",
         "is_correct": true
       },
       {
-        "text": "How many unrelated jokes to add.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Purpose and audience guide structure and language choices.",
-      "hint": "Think about why the text is being made and who will use it."
+      "summary": "Use the expected organisation for this subject text. Writers revise structure when it does not suit the purpose.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -817,26 +817,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Text Structures Across Subjects",
-    "question": "Which feature would make a geography report about a river easier to use?",
-    "audio_prompt": "Which feature would make a geography report about a river easier to use?",
+    "question": "A student chooses “Structure and language have no effect on meaning.” for this task: Which explanation best connects structure and language in a science investigation of seed growth? What should they check?",
+    "audio_prompt": "A student chooses “Structure and language have no effect on meaning.” for this task: Which explanation best connects structure and language in a science investigation of seed growth? What should they check?",
     "answers": [
       {
-        "text": "Mix every section together.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Hide the main information in an unrelated story.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "Use sections arranged by topic.",
+        "text": "Choose the answer that explains both features.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Organisation helps readers locate and connect information.",
-      "hint": "Select the organisation that matches the task."
+      "summary": "Choose the answer that explains both features. Structure organises ideas and language expresses them.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -847,26 +847,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Text Structures Across Subjects",
-    "question": "Why is place names, maps and geographical terms suitable for a geography report about a river?",
-    "audio_prompt": "Why is place names, maps and geographical terms suitable for a geography report about a river?",
+    "question": "A student chooses “A random list with no order.” for this task: Which structure best suits a history recount of a community celebration? What should they check?",
+    "audio_prompt": "A student chooses “A random list with no order.” for this task: Which structure best suits a history recount of a community celebration? What should they check?",
     "answers": [
       {
-        "text": "It communicates the subject information precisely for the purpose.",
+        "text": "Ask how readers need the information organised.",
         "is_correct": true
       },
       {
-        "text": "It makes the information less accurate.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "It prevents readers from finding the main idea.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Subject language and purpose work together.",
-      "hint": "Connect the feature to what the reader needs to learn or do."
+      "summary": "Ask how readers need the information organised. A text structure should suit its subject purpose.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -877,26 +877,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Text Structures Across Subjects",
-    "question": "Which addition would be least suitable in a geography report about a river?",
-    "audio_prompt": "Which addition would be least suitable in a geography report about a river?",
+    "question": "A student chooses “Unrelated rhyming words only.” for this task: Which language feature best suits a history recount of a community celebration? What should they check?",
+    "audio_prompt": "A student chooses “Unrelated rhyming words only.” for this task: Which language feature best suits a history recount of a community celebration? What should they check?",
     "answers": [
       {
-        "text": "A useful example linked to a geography report about a river.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "A long unrelated fantasy scene.",
+        "text": "Choose the feature that makes the subject information clear.",
         "is_correct": true
       },
       {
-        "text": "A heading that signals the topic.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Every part should support the text's purpose.",
-      "hint": "Find the addition that leads away from the subject."
+      "summary": "Choose the feature that makes the subject information clear. Language features help a text achieve its purpose.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -907,8 +907,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Text Structures Across Subjects",
-    "question": "A student copied a story structure for a geography report about a river. What is the best revision?",
-    "audio_prompt": "A student copied a story structure for a geography report about a river. What is the best revision?",
+    "question": "A student copied a story structure for a history recount of a community celebration. What is the best revision?",
+    "audio_prompt": "A student copied a story structure for a history recount of a community celebration. What is the best revision?",
     "answers": [
       {
         "text": "Keep the structure and remove the facts.",
@@ -919,7 +919,7 @@
         "is_correct": false
       },
       {
-        "text": "Reorganise it using sections arranged by topic.",
+        "text": "Reorganise it using events in time order.",
         "is_correct": true
       }
     ],
@@ -937,11 +937,11 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Text Structures Across Subjects",
-    "question": "Which explanation best connects structure and language in a geography report about a river?",
-    "audio_prompt": "Which explanation best connects structure and language in a geography report about a river?",
+    "question": "Which explanation best connects structure and language in a history recount of a community celebration?",
+    "audio_prompt": "Which explanation best connects structure and language in a history recount of a community celebration?",
     "answers": [
       {
-        "text": "sections arranged by topic organises ideas, while place names, maps and geographical terms communicates them clearly.",
+        "text": "events in time order organises ideas, while past-tense verbs and dates communicates them clearly.",
         "is_correct": true
       },
       {
@@ -967,15 +967,15 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Text Structures Across Subjects",
-    "question": "Which structure best suits a health poster about sun safety?",
-    "audio_prompt": "Which structure best suits a health poster about sun safety?",
+    "question": "Which structure best suits instructions for making fruit salad?",
+    "audio_prompt": "Which structure best suits instructions for making fruit salad?",
     "answers": [
       {
         "text": "A random list with no order.",
         "is_correct": false
       },
       {
-        "text": "clear heading and brief action points",
+        "text": "goal, ingredients and ordered steps",
         "is_correct": true
       },
       {
@@ -997,8 +997,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Text Structures Across Subjects",
-    "question": "Which language feature best suits a health poster about sun safety?",
-    "audio_prompt": "Which language feature best suits a health poster about sun safety?",
+    "question": "Which language feature best suits instructions for making fruit salad?",
+    "audio_prompt": "Which language feature best suits instructions for making fruit salad?",
     "answers": [
       {
         "text": "Unrelated rhyming words only.",
@@ -1009,7 +1009,7 @@
         "is_correct": false
       },
       {
-        "text": "direct advice and labelled images",
+        "text": "command verbs such as cut and mix",
         "is_correct": true
       }
     ],
@@ -1027,8 +1027,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Text Structures Across Subjects",
-    "question": "A writer begins a health poster about sun safety. What should the writer decide first?",
-    "audio_prompt": "A writer begins a health poster about sun safety. What should the writer decide first?",
+    "question": "A writer begins instructions for making fruit salad. What should the writer decide first?",
+    "audio_prompt": "A writer begins instructions for making fruit salad. What should the writer decide first?",
     "answers": [
       {
         "text": "The purpose and audience.",
@@ -1057,15 +1057,15 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Text Structures Across Subjects",
-    "question": "Which feature would make a health poster about sun safety easier to use?",
-    "audio_prompt": "Which feature would make a health poster about sun safety easier to use?",
+    "question": "Which feature would make instructions for making fruit salad easier to use?",
+    "audio_prompt": "Which feature would make instructions for making fruit salad easier to use?",
     "answers": [
       {
         "text": "Mix every section together.",
         "is_correct": false
       },
       {
-        "text": "Use clear heading and brief action points.",
+        "text": "Use goal, ingredients and ordered steps.",
         "is_correct": true
       },
       {
@@ -1087,8 +1087,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Text Structures Across Subjects",
-    "question": "Why is direct advice and labelled images suitable for a health poster about sun safety?",
-    "audio_prompt": "Why is direct advice and labelled images suitable for a health poster about sun safety?",
+    "question": "Why is command verbs such as cut and mix suitable for instructions for making fruit salad?",
+    "audio_prompt": "Why is command verbs such as cut and mix suitable for instructions for making fruit salad?",
     "answers": [
       {
         "text": "It makes the information less accurate.",
@@ -1117,15 +1117,15 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Text Structures Across Subjects",
-    "question": "Which addition would be least suitable in a health poster about sun safety?",
-    "audio_prompt": "Which addition would be least suitable in a health poster about sun safety?",
+    "question": "Which addition would be least suitable in instructions for making fruit salad?",
+    "audio_prompt": "Which addition would be least suitable in instructions for making fruit salad?",
     "answers": [
       {
         "text": "A long unrelated fantasy scene.",
         "is_correct": true
       },
       {
-        "text": "A useful example linked to a health poster about sun safety.",
+        "text": "A useful example linked to instructions for making fruit salad.",
         "is_correct": false
       },
       {
@@ -1147,15 +1147,15 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Text Structures Across Subjects",
-    "question": "A student copied a story structure for a health poster about sun safety. What is the best revision?",
-    "audio_prompt": "A student copied a story structure for a health poster about sun safety. What is the best revision?",
+    "question": "A student copied a story structure for instructions for making fruit salad. What is the best revision?",
+    "audio_prompt": "A student copied a story structure for instructions for making fruit salad. What is the best revision?",
     "answers": [
       {
         "text": "Keep the structure and remove the facts.",
         "is_correct": false
       },
       {
-        "text": "Reorganise it using clear heading and brief action points.",
+        "text": "Reorganise it using goal, ingredients and ordered steps.",
         "is_correct": true
       },
       {
@@ -1177,8 +1177,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Text Structures Across Subjects",
-    "question": "Which explanation best connects structure and language in a health poster about sun safety?",
-    "audio_prompt": "Which explanation best connects structure and language in a health poster about sun safety?",
+    "question": "Which explanation best connects structure and language in instructions for making fruit salad?",
+    "audio_prompt": "Which explanation best connects structure and language in instructions for making fruit salad?",
     "answers": [
       {
         "text": "Structure and language have no effect on meaning.",
@@ -1189,7 +1189,7 @@
         "is_correct": false
       },
       {
-        "text": "clear heading and brief action points organises ideas, while direct advice and labelled images communicates them clearly.",
+        "text": "goal, ingredients and ordered steps organises ideas, while command verbs such as cut and mix communicates them clearly.",
         "is_correct": true
       }
     ],
@@ -1205,8 +1205,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
     "bank": "test",
+    "stage": "verify",
     "skill": "Text Structures Across Subjects",
-    "question": "New check: Which structure best suits a geography report about a river?",
+    "question": "Which structure best suits a geography report about a river?",
     "audio_prompt": "Which structure best suits a geography report about a river?",
     "answers": [
       {
@@ -1234,8 +1235,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
     "bank": "test",
+    "stage": "verify",
     "skill": "Text Structures Across Subjects",
-    "question": "New check: Which language feature best suits a geography report about a river?",
+    "question": "Which language feature best suits a geography report about a river?",
     "audio_prompt": "Which language feature best suits a geography report about a river?",
     "answers": [
       {
@@ -1263,8 +1265,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
     "bank": "test",
+    "stage": "verify",
     "skill": "Text Structures Across Subjects",
-    "question": "New check: A writer begins a geography report about a river. What should the writer decide first?",
+    "question": "A writer begins a geography report about a river. What should the writer decide first?",
     "audio_prompt": "A writer begins a geography report about a river. What should the writer decide first?",
     "answers": [
       {
@@ -1292,8 +1295,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
     "bank": "test",
+    "stage": "verify",
     "skill": "Text Structures Across Subjects",
-    "question": "New check: Which feature would make a geography report about a river easier to use?",
+    "question": "Which feature would make a geography report about a river easier to use?",
     "audio_prompt": "Which feature would make a geography report about a river easier to use?",
     "answers": [
       {
@@ -1321,8 +1325,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
     "bank": "test",
+    "stage": "verify",
     "skill": "Text Structures Across Subjects",
-    "question": "New check: Why is place names, maps and geographical terms suitable for a geography report about a river?",
+    "question": "Why is place names, maps and geographical terms suitable for a geography report about a river?",
     "audio_prompt": "Why is place names, maps and geographical terms suitable for a geography report about a river?",
     "answers": [
       {
@@ -1350,8 +1355,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
     "bank": "test",
+    "stage": "verify",
     "skill": "Text Structures Across Subjects",
-    "question": "New check: Which addition would be least suitable in a geography report about a river?",
+    "question": "Which addition would be least suitable in a geography report about a river?",
     "audio_prompt": "Which addition would be least suitable in a geography report about a river?",
     "answers": [
       {
@@ -1379,8 +1385,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
     "bank": "test",
+    "stage": "verify",
     "skill": "Text Structures Across Subjects",
-    "question": "New check: A student copied a story structure for a geography report about a river. What is the best revision?",
+    "question": "A student copied a story structure for a geography report about a river. What is the best revision?",
     "audio_prompt": "A student copied a story structure for a geography report about a river. What is the best revision?",
     "answers": [
       {
@@ -1408,8 +1415,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
     "bank": "test",
+    "stage": "verify",
     "skill": "Text Structures Across Subjects",
-    "question": "New check: Which explanation best connects structure and language in a geography report about a river?",
+    "question": "Which explanation best connects structure and language in a geography report about a river?",
     "audio_prompt": "Which explanation best connects structure and language in a geography report about a river?",
     "answers": [
       {
@@ -1437,8 +1445,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
     "bank": "test",
+    "stage": "apply",
     "skill": "Text Structures Across Subjects",
-    "question": "New check: Which structure best suits a health poster about sun safety?",
+    "question": "Which structure best suits a health poster about sun safety?",
     "audio_prompt": "Which structure best suits a health poster about sun safety?",
     "answers": [
       {
@@ -1466,8 +1475,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
     "bank": "test",
+    "stage": "apply",
     "skill": "Text Structures Across Subjects",
-    "question": "New check: Which language feature best suits a health poster about sun safety?",
+    "question": "Which language feature best suits a health poster about sun safety?",
     "audio_prompt": "Which language feature best suits a health poster about sun safety?",
     "answers": [
       {
@@ -1495,8 +1505,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
     "bank": "test",
+    "stage": "apply",
     "skill": "Text Structures Across Subjects",
-    "question": "New check: A writer begins a health poster about sun safety. What should the writer decide first?",
+    "question": "A writer begins a health poster about sun safety. What should the writer decide first?",
     "audio_prompt": "A writer begins a health poster about sun safety. What should the writer decide first?",
     "answers": [
       {
@@ -1524,8 +1535,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
     "bank": "test",
+    "stage": "apply",
     "skill": "Text Structures Across Subjects",
-    "question": "New check: Which feature would make a health poster about sun safety easier to use?",
+    "question": "Which feature would make a health poster about sun safety easier to use?",
     "audio_prompt": "Which feature would make a health poster about sun safety easier to use?",
     "answers": [
       {
@@ -1553,8 +1565,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
     "bank": "test",
+    "stage": "apply",
     "skill": "Text Structures Across Subjects",
-    "question": "New check: Why is direct advice and labelled images suitable for a health poster about sun safety?",
+    "question": "Why is direct advice and labelled images suitable for a health poster about sun safety?",
     "audio_prompt": "Why is direct advice and labelled images suitable for a health poster about sun safety?",
     "answers": [
       {
@@ -1582,8 +1595,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
     "bank": "test",
+    "stage": "apply",
     "skill": "Text Structures Across Subjects",
-    "question": "New check: Which addition would be least suitable in a health poster about sun safety?",
+    "question": "Which addition would be least suitable in a health poster about sun safety?",
     "audio_prompt": "Which addition would be least suitable in a health poster about sun safety?",
     "answers": [
       {
@@ -1611,8 +1625,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
     "bank": "test",
+    "stage": "apply",
     "skill": "Text Structures Across Subjects",
-    "question": "New check: A student copied a story structure for a health poster about sun safety. What is the best revision?",
+    "question": "A student copied a story structure for a health poster about sun safety. What is the best revision?",
     "audio_prompt": "A student copied a story structure for a health poster about sun safety. What is the best revision?",
     "answers": [
       {
@@ -1640,8 +1655,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
     "bank": "test",
+    "stage": "apply",
     "skill": "Text Structures Across Subjects",
-    "question": "New check: Which explanation best connects structure and language in a health poster about sun safety?",
+    "question": "Which explanation best connects structure and language in a health poster about sun safety?",
     "audio_prompt": "Which explanation best connects structure and language in a health poster about sun safety?",
     "answers": [
       {

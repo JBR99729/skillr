@@ -247,14 +247,14 @@ window.skillrPracticeQuestions = [
     "skill": "Reading and Writing Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "While reading the word hopeful, how does blending help after finding syllables?",
-    "audioPrompt": "While reading the word hopeful, how does blending help after finding syllables?",
+    "question": "Why is “It joins the spoken chunks into the whole word” the best answer here? While reading the word hopeful, how does blending help after finding syllables?",
+    "audioPrompt": "Why is “It joins the spoken chunks into the whole word” the best answer here? While reading the word hopeful, how does blending help after finding syllables?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It removes the middle of the word",
-      "It joins the spoken chunks into the whole word",
-      "It changes the word's meaning"
+      "Because “It removes the middle of the word” sounds familiar.",
+      "It joins the spoken chunks into the whole word This choice best fits the language, text or literacy evidence.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 1,
     "explanation": "It joins the spoken chunks into the whole word This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -271,14 +271,14 @@ window.skillrPracticeQuestions = [
     "skill": "Reading and Writing Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "While reading the word hopeful, what should a reader do after blending the word?",
-    "audioPrompt": "While reading the word hopeful, what should a reader do after blending the word?",
+    "question": "Why is “Check that it sounds like a word and fits the sentence” the best answer here? While reading the word hopeful, what should a reader do after blending the word?",
+    "audioPrompt": "Why is “Check that it sounds like a word and fits the sentence” the best answer here? While reading the word hopeful, what should a reader do after blending the word?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Ignore sentence meaning",
-      "Spell a different word",
-      "Check that it sounds like a word and fits the sentence"
+      "Because “Ignore sentence meaning” sounds familiar.",
+      "Because the longest-looking option should always be chosen.",
+      "Check that it sounds like a word and fits the sentence This choice best fits the language, text or literacy evidence."
     ],
     "correct": 2,
     "explanation": "Check that it sounds like a word and fits the sentence This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -295,14 +295,14 @@ window.skillrPracticeQuestions = [
     "skill": "Reading and Writing Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "While reading the word hopeful, which strategy helps write a multisyllabic word?",
-    "audioPrompt": "While reading the word hopeful, which strategy helps write a multisyllabic word?",
+    "question": "Why is “Say each syllable slowly and map its sound patterns” the best answer here? While reading the word hopeful, which strategy helps write a multisyllabic word?",
+    "audioPrompt": "Why is “Say each syllable slowly and map its sound patterns” the best answer here? While reading the word hopeful, which strategy helps write a multisyllabic word?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Say each syllable slowly and map its sound patterns",
-      "Write only the first syllable",
-      "Add letters until it looks long"
+      "Say each syllable slowly and map its sound patterns This choice best fits the language, text or literacy evidence.",
+      "Because “Write only the first syllable” sounds familiar.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 0,
     "explanation": "Say each syllable slowly and map its sound patterns This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -319,14 +319,14 @@ window.skillrPracticeQuestions = [
     "skill": "Reading and Writing Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "While reading the word hopeful, why can a familiar word part help?",
-    "audioPrompt": "While reading the word hopeful, why can a familiar word part help?",
+    "question": "Why is “It reduces the word into known meaningful or pronounceable parts” the best answer here? While reading the word hopeful, why can a familiar word part help?",
+    "audioPrompt": "Why is “It reduces the word into known meaningful or pronounceable parts” the best answer here? While reading the word hopeful, why can a familiar word part help?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It proves every similar word rhymes",
-      "It reduces the word into known meaningful or pronounceable parts",
-      "It makes grammar unnecessary"
+      "Because “It proves every similar word rhymes” sounds familiar.",
+      "It reduces the word into known meaningful or pronounceable parts This explanation follows the relevant Year 3 English evidence.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 1,
     "explanation": "It reduces the word into known meaningful or pronounceable parts This explanation follows the relevant Year 3 English evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -343,14 +343,14 @@ window.skillrPracticeQuestions = [
     "skill": "Reading and Writing Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "While reading the word hopeful, a spoken word has three clear beats. What can the writer do?",
-    "audioPrompt": "While reading the word hopeful, a spoken word has three clear beats. What can the writer do?",
+    "question": "Why is “Record one syllable at a time, then check the whole spelling” the best answer here? While reading the word hopeful, a spoken word has three clear beats. What can the writer do?",
+    "audioPrompt": "Why is “Record one syllable at a time, then check the whole spelling” the best answer here? While reading the word hopeful, a spoken word has three clear beats. What can the writer do?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Use three random letters",
-      "Leave out the quietest syllable",
-      "Record one syllable at a time, then check the whole spelling"
+      "Because “Use three random letters” sounds familiar.",
+      "Because the longest-looking option should always be chosen.",
+      "Record one syllable at a time, then check the whole spelling This choice best fits the language, text or literacy evidence."
     ],
     "correct": 2,
     "explanation": "Record one syllable at a time, then check the whole spelling This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -367,14 +367,14 @@ window.skillrPracticeQuestions = [
     "skill": "Reading and Writing Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "While reading the word hopeful, which check combines decoding clues?",
-    "audioPrompt": "While reading the word hopeful, which check combines decoding clues?",
+    "question": "Why is “Use letter patterns, syllables and sentence meaning together” the best answer here? While reading the word hopeful, which check combines decoding clues?",
+    "audioPrompt": "Why is “Use letter patterns, syllables and sentence meaning together” the best answer here? While reading the word hopeful, which check combines decoding clues?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Use letter patterns, syllables and sentence meaning together",
-      "Use the picture alone",
-      "Use only the final letter name"
+      "Use letter patterns, syllables and sentence meaning together This choice best fits the language, text or literacy evidence.",
+      "Because “Use the picture alone” sounds familiar.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 0,
     "explanation": "Use letter patterns, syllables and sentence meaning together This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -391,14 +391,14 @@ window.skillrPracticeQuestions = [
     "skill": "Reading and Writing Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "While reading the word fantastic, what is the best first step for reading a long unfamiliar word?",
-    "audioPrompt": "While reading the word fantastic, what is the best first step for reading a long unfamiliar word?",
+    "question": "Why is “Look for pronounceable syllable chunks” the best answer here? While reading the word fantastic, what is the best first step for reading a long unfamiliar word?",
+    "audioPrompt": "Why is “Look for pronounceable syllable chunks” the best answer here? While reading the word fantastic, what is the best first step for reading a long unfamiliar word?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Say only its first letter name",
-      "Look for pronounceable syllable chunks",
-      "Guess from word length"
+      "Because “Say only its first letter name” sounds familiar.",
+      "Look for pronounceable syllable chunks This choice best fits the language, text or literacy evidence.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 1,
     "explanation": "Look for pronounceable syllable chunks This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -415,14 +415,14 @@ window.skillrPracticeQuestions = [
     "skill": "Reading and Writing Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "While reading the word fantastic, which description shows correct syllable chunking?",
-    "audioPrompt": "While reading the word fantastic, which description shows correct syllable chunking?",
+    "question": "Why is “Say each complete spoken syllable in order” the best answer here? While reading the word fantastic, which description shows correct syllable chunking?",
+    "audioPrompt": "Why is “Say each complete spoken syllable in order” the best answer here? While reading the word fantastic, which description shows correct syllable chunking?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Say only the first letter name, then guess",
-      "Split the word wherever it looks longest",
-      "Say each complete spoken syllable in order"
+      "Because “Say only the first letter name, then guess” sounds familiar.",
+      "Because the longest-looking option should always be chosen.",
+      "Say each complete spoken syllable in order This choice best fits the language, text or literacy evidence."
     ],
     "correct": 2,
     "explanation": "Say each complete spoken syllable in order This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -439,14 +439,14 @@ window.skillrPracticeQuestions = [
     "skill": "Reading and Writing Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "While reading the word fantastic, how does blending help after finding syllables?",
-    "audioPrompt": "While reading the word fantastic, how does blending help after finding syllables?",
+    "question": "Why is “It joins the spoken chunks into the whole word” the best answer here? While reading the word fantastic, how does blending help after finding syllables?",
+    "audioPrompt": "Why is “It joins the spoken chunks into the whole word” the best answer here? While reading the word fantastic, how does blending help after finding syllables?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It joins the spoken chunks into the whole word",
-      "It removes the middle of the word",
-      "It changes the word's meaning"
+      "It joins the spoken chunks into the whole word This choice best fits the language, text or literacy evidence.",
+      "Because “It removes the middle of the word” sounds familiar.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 0,
     "explanation": "It joins the spoken chunks into the whole word This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -463,14 +463,14 @@ window.skillrPracticeQuestions = [
     "skill": "Reading and Writing Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "While reading the word fantastic, what should a reader do after blending the word?",
-    "audioPrompt": "While reading the word fantastic, what should a reader do after blending the word?",
+    "question": "Why is “Check that it sounds like a word and fits the sentence” the best answer here? While reading the word fantastic, what should a reader do after blending the word?",
+    "audioPrompt": "Why is “Check that it sounds like a word and fits the sentence” the best answer here? While reading the word fantastic, what should a reader do after blending the word?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Ignore sentence meaning",
-      "Check that it sounds like a word and fits the sentence",
-      "Spell a different word"
+      "Because “Ignore sentence meaning” sounds familiar.",
+      "Check that it sounds like a word and fits the sentence This choice best fits the language, text or literacy evidence.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 1,
     "explanation": "Check that it sounds like a word and fits the sentence This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -487,20 +487,20 @@ window.skillrPracticeQuestions = [
     "skill": "Reading and Writing Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "While reading the word fantastic, which strategy helps write a multisyllabic word?",
-    "audioPrompt": "While reading the word fantastic, which strategy helps write a multisyllabic word?",
+    "question": "A student chooses “Say only its first letter name” for this task: While reading the word sunset, what is the best first step for reading a long unfamiliar word? What should they check?",
+    "audioPrompt": "A student chooses “Say only its first letter name” for this task: While reading the word sunset, what is the best first step for reading a long unfamiliar word? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Write only the first syllable",
-      "Add letters until it looks long",
-      "Say each syllable slowly and map its sound patterns"
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option.",
+      "Use the wording, structure and context before choosing."
     ],
     "correct": 2,
-    "explanation": "Say each syllable slowly and map its sound patterns This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. Look for pronounceable syllable chunks This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Say each syllable slowly and map its sound patterns This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Look for pronounceable syllable chunks This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -511,20 +511,20 @@ window.skillrPracticeQuestions = [
     "skill": "Reading and Writing Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "While reading the word fantastic, why can a familiar word part help?",
-    "audioPrompt": "While reading the word fantastic, why can a familiar word part help?",
+    "question": "A student chooses “Say only the first letter name, then guess” for this task: While reading the word sunset, which description shows correct syllable chunking? What should they check?",
+    "audioPrompt": "A student chooses “Say only the first letter name, then guess” for this task: While reading the word sunset, which description shows correct syllable chunking? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It reduces the word into known meaningful or pronounceable parts",
-      "It proves every similar word rhymes",
-      "It makes grammar unnecessary"
+      "Use the wording, structure and context before choosing.",
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 0,
-    "explanation": "It reduces the word into known meaningful or pronounceable parts This explanation follows the relevant Year 3 English evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. Say each complete spoken syllable in order This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "It reduces the word into known meaningful or pronounceable parts This explanation follows the relevant Year 3 English evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Say each complete spoken syllable in order This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -535,20 +535,20 @@ window.skillrPracticeQuestions = [
     "skill": "Reading and Writing Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "While reading the word fantastic, a spoken word has three clear beats. What can the writer do?",
-    "audioPrompt": "While reading the word fantastic, a spoken word has three clear beats. What can the writer do?",
+    "question": "A student chooses “It removes the middle of the word” for this task: While reading the word sunset, how does blending help after finding syllables? What should they check?",
+    "audioPrompt": "A student chooses “It removes the middle of the word” for this task: While reading the word sunset, how does blending help after finding syllables? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Use three random letters",
-      "Record one syllable at a time, then check the whole spelling",
-      "Leave out the quietest syllable"
+      "Keep the answer because it uses a familiar word.",
+      "Use the wording, structure and context before choosing.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 1,
-    "explanation": "Record one syllable at a time, then check the whole spelling This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. It joins the spoken chunks into the whole word This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Record one syllable at a time, then check the whole spelling This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. It joins the spoken chunks into the whole word This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -559,20 +559,20 @@ window.skillrPracticeQuestions = [
     "skill": "Reading and Writing Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "While reading the word fantastic, which check combines decoding clues?",
-    "audioPrompt": "While reading the word fantastic, which check combines decoding clues?",
+    "question": "A student chooses “Ignore sentence meaning” for this task: While reading the word sunset, what should a reader do after blending the word? What should they check?",
+    "audioPrompt": "A student chooses “Ignore sentence meaning” for this task: While reading the word sunset, what should a reader do after blending the word? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Use the picture alone",
-      "Use only the final letter name",
-      "Use letter patterns, syllables and sentence meaning together"
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option.",
+      "Use the wording, structure and context before choosing."
     ],
     "correct": 2,
-    "explanation": "Use letter patterns, syllables and sentence meaning together This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. Check that it sounds like a word and fits the sentence This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Use letter patterns, syllables and sentence meaning together This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Check that it sounds like a word and fits the sentence This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -583,20 +583,20 @@ window.skillrPracticeQuestions = [
     "skill": "Reading and Writing Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "While reading the word remember, what is the best first step for reading a long unfamiliar word?",
-    "audioPrompt": "While reading the word remember, what is the best first step for reading a long unfamiliar word?",
+    "question": "A student chooses “Write only the first syllable” for this task: While reading the word sunset, which strategy helps write a multisyllabic word? What should they check?",
+    "audioPrompt": "A student chooses “Write only the first syllable” for this task: While reading the word sunset, which strategy helps write a multisyllabic word? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Look for pronounceable syllable chunks",
-      "Say only its first letter name",
-      "Guess from word length"
+      "Use the wording, structure and context before choosing.",
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 0,
-    "explanation": "Look for pronounceable syllable chunks This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. Say each syllable slowly and map its sound patterns This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Look for pronounceable syllable chunks This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Say each syllable slowly and map its sound patterns This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -607,20 +607,20 @@ window.skillrPracticeQuestions = [
     "skill": "Reading and Writing Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "While reading the word remember, which description shows correct syllable chunking?",
-    "audioPrompt": "While reading the word remember, which description shows correct syllable chunking?",
+    "question": "A student chooses “It proves every similar word rhymes” for this task: While reading the word sunset, why can a familiar word part help? What should they check?",
+    "audioPrompt": "A student chooses “It proves every similar word rhymes” for this task: While reading the word sunset, why can a familiar word part help? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Say only the first letter name, then guess",
-      "Say each complete spoken syllable in order",
-      "Split the word wherever it looks longest"
+      "Keep the answer because it uses a familiar word.",
+      "Use the wording, structure and context before choosing.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 1,
-    "explanation": "Say each complete spoken syllable in order This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. It reduces the word into known meaningful or pronounceable parts This explanation follows the relevant Year 3 English evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Say each complete spoken syllable in order This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. It reduces the word into known meaningful or pronounceable parts This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -631,20 +631,20 @@ window.skillrPracticeQuestions = [
     "skill": "Reading and Writing Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "While reading the word remember, how does blending help after finding syllables?",
-    "audioPrompt": "While reading the word remember, how does blending help after finding syllables?",
+    "question": "A student chooses “Use three random letters” for this task: While reading the word sunset, a spoken word has three clear beats. What can the writer do? What should they check?",
+    "audioPrompt": "A student chooses “Use three random letters” for this task: While reading the word sunset, a spoken word has three clear beats. What can the writer do? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It removes the middle of the word",
-      "It changes the word's meaning",
-      "It joins the spoken chunks into the whole word"
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option.",
+      "Use the wording, structure and context before choosing."
     ],
     "correct": 2,
-    "explanation": "It joins the spoken chunks into the whole word This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. Record one syllable at a time, then check the whole spelling This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "It joins the spoken chunks into the whole word This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Record one syllable at a time, then check the whole spelling This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -655,20 +655,20 @@ window.skillrPracticeQuestions = [
     "skill": "Reading and Writing Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "While reading the word remember, what should a reader do after blending the word?",
-    "audioPrompt": "While reading the word remember, what should a reader do after blending the word?",
+    "question": "A student chooses “Use the picture alone” for this task: While reading the word sunset, which check combines decoding clues? What should they check?",
+    "audioPrompt": "A student chooses “Use the picture alone” for this task: While reading the word sunset, which check combines decoding clues? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Check that it sounds like a word and fits the sentence",
-      "Ignore sentence meaning",
-      "Spell a different word"
+      "Use the wording, structure and context before choosing.",
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 0,
-    "explanation": "Check that it sounds like a word and fits the sentence This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. Use letter patterns, syllables and sentence meaning together This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Check that it sounds like a word and fits the sentence This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Use letter patterns, syllables and sentence meaning together This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -679,20 +679,20 @@ window.skillrPracticeQuestions = [
     "skill": "Reading and Writing Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "While reading the word remember, which strategy helps write a multisyllabic word?",
-    "audioPrompt": "While reading the word remember, which strategy helps write a multisyllabic word?",
+    "question": "A student chooses “Say only its first letter name” for this task: While reading the word hopeful, what is the best first step for reading a long unfamiliar word? What should they check?",
+    "audioPrompt": "A student chooses “Say only its first letter name” for this task: While reading the word hopeful, what is the best first step for reading a long unfamiliar word? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Write only the first syllable",
-      "Say each syllable slowly and map its sound patterns",
-      "Add letters until it looks long"
+      "Keep the answer because it uses a familiar word.",
+      "Use the wording, structure and context before choosing.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 1,
-    "explanation": "Say each syllable slowly and map its sound patterns This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. Look for pronounceable syllable chunks This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Say each syllable slowly and map its sound patterns This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Look for pronounceable syllable chunks This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -703,20 +703,20 @@ window.skillrPracticeQuestions = [
     "skill": "Reading and Writing Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "While reading the word remember, why can a familiar word part help?",
-    "audioPrompt": "While reading the word remember, why can a familiar word part help?",
+    "question": "A student chooses “Say only the first letter name, then guess” for this task: While reading the word hopeful, which description shows correct syllable chunking? What should they check?",
+    "audioPrompt": "A student chooses “Say only the first letter name, then guess” for this task: While reading the word hopeful, which description shows correct syllable chunking? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It proves every similar word rhymes",
-      "It makes grammar unnecessary",
-      "It reduces the word into known meaningful or pronounceable parts"
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option.",
+      "Use the wording, structure and context before choosing."
     ],
     "correct": 2,
-    "explanation": "It reduces the word into known meaningful or pronounceable parts This explanation follows the relevant Year 3 English evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. Say each complete spoken syllable in order This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "It reduces the word into known meaningful or pronounceable parts This explanation follows the relevant Year 3 English evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Say each complete spoken syllable in order This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -727,8 +727,8 @@ window.skillrPracticeQuestions = [
     "skill": "Reading and Writing Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "While reading the word remember, a spoken word has three clear beats. What can the writer do?",
-    "audioPrompt": "While reading the word remember, a spoken word has three clear beats. What can the writer do?",
+    "question": "While reading the word hopeful, a spoken word has three clear beats. What can the writer do?",
+    "audioPrompt": "While reading the word hopeful, a spoken word has three clear beats. What can the writer do?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -751,8 +751,8 @@ window.skillrPracticeQuestions = [
     "skill": "Reading and Writing Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "While reading the word remember, which check combines decoding clues?",
-    "audioPrompt": "While reading the word remember, which check combines decoding clues?",
+    "question": "While reading the word hopeful, which check combines decoding clues?",
+    "audioPrompt": "While reading the word hopeful, which check combines decoding clues?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -775,8 +775,8 @@ window.skillrPracticeQuestions = [
     "skill": "Reading and Writing Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "While reading the word carefully, what is the best first step for reading a long unfamiliar word?",
-    "audioPrompt": "While reading the word carefully, what is the best first step for reading a long unfamiliar word?",
+    "question": "While reading the word fantastic, what is the best first step for reading a long unfamiliar word?",
+    "audioPrompt": "While reading the word fantastic, what is the best first step for reading a long unfamiliar word?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -799,8 +799,8 @@ window.skillrPracticeQuestions = [
     "skill": "Reading and Writing Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "While reading the word carefully, which description shows correct syllable chunking?",
-    "audioPrompt": "While reading the word carefully, which description shows correct syllable chunking?",
+    "question": "While reading the word fantastic, which description shows correct syllable chunking?",
+    "audioPrompt": "While reading the word fantastic, which description shows correct syllable chunking?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -823,8 +823,8 @@ window.skillrPracticeQuestions = [
     "skill": "Reading and Writing Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "While reading the word carefully, how does blending help after finding syllables?",
-    "audioPrompt": "While reading the word carefully, how does blending help after finding syllables?",
+    "question": "While reading the word fantastic, how does blending help after finding syllables?",
+    "audioPrompt": "While reading the word fantastic, how does blending help after finding syllables?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -847,8 +847,8 @@ window.skillrPracticeQuestions = [
     "skill": "Reading and Writing Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "While reading the word carefully, what should a reader do after blending the word?",
-    "audioPrompt": "While reading the word carefully, what should a reader do after blending the word?",
+    "question": "While reading the word fantastic, what should a reader do after blending the word?",
+    "audioPrompt": "While reading the word fantastic, what should a reader do after blending the word?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -871,8 +871,8 @@ window.skillrPracticeQuestions = [
     "skill": "Reading and Writing Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "While reading the word carefully, which strategy helps write a multisyllabic word?",
-    "audioPrompt": "While reading the word carefully, which strategy helps write a multisyllabic word?",
+    "question": "While reading the word fantastic, which strategy helps write a multisyllabic word?",
+    "audioPrompt": "While reading the word fantastic, which strategy helps write a multisyllabic word?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -895,8 +895,8 @@ window.skillrPracticeQuestions = [
     "skill": "Reading and Writing Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "While reading the word carefully, why can a familiar word part help?",
-    "audioPrompt": "While reading the word carefully, why can a familiar word part help?",
+    "question": "While reading the word fantastic, why can a familiar word part help?",
+    "audioPrompt": "While reading the word fantastic, why can a familiar word part help?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -919,8 +919,8 @@ window.skillrPracticeQuestions = [
     "skill": "Reading and Writing Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "While reading the word carefully, a spoken word has three clear beats. What can the writer do?",
-    "audioPrompt": "While reading the word carefully, a spoken word has three clear beats. What can the writer do?",
+    "question": "While reading the word fantastic, a spoken word has three clear beats. What can the writer do?",
+    "audioPrompt": "While reading the word fantastic, a spoken word has three clear beats. What can the writer do?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -943,8 +943,8 @@ window.skillrPracticeQuestions = [
     "skill": "Reading and Writing Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "While reading the word carefully, which check combines decoding clues?",
-    "audioPrompt": "While reading the word carefully, which check combines decoding clues?",
+    "question": "While reading the word fantastic, which check combines decoding clues?",
+    "audioPrompt": "While reading the word fantastic, which check combines decoding clues?",
     "visual": "",
     "visualHtml": "",
     "answers": [

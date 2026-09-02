@@ -307,19 +307,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "In a scene beside a crowded station, how can an image extend the written words?",
-    "audio_prompt": "In a scene beside a crowded station, how can an image extend the written words?",
+    "question": "Why is “It can add clues about mood, setting or character” the best answer here? In a scene beside a crowded station, how can an image extend the written words?",
+    "audio_prompt": "Why is “It can add clues about mood, setting or character” the best answer here? In a scene beside a crowded station, how can an image extend the written words?",
     "answers": [
       {
-        "text": "It repeats every sentence exactly",
+        "text": "Because “It repeats every sentence exactly” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "It removes the need for interpretation",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "It can add clues about mood, setting or character",
+        "text": "It can add clues about mood, setting or character This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       }
     ],
@@ -337,19 +337,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "In a scene beside a crowded station, which detail best portrays a hurried event?",
-    "audio_prompt": "In a scene beside a crowded station, which detail best portrays a hurried event?",
+    "question": "Why is “Boots pounded as people rushed past” the best answer here? In a scene beside a crowded station, which detail best portrays a hurried event?",
+    "audio_prompt": "Why is “Boots pounded as people rushed past” the best answer here? In a scene beside a crowded station, which detail best portrays a hurried event?",
     "answers": [
       {
-        "text": "Boots pounded as people rushed past",
+        "text": "Boots pounded as people rushed past This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "A chair was brown",
+        "text": "Because “A chair was brown” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "The clock had numbers",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -367,19 +367,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "In a scene beside a crowded station, the text says the character smiled, but the picture shows clenched fists. What might the contrast suggest?",
-    "audio_prompt": "In a scene beside a crowded station, the text says the character smiled, but the picture shows clenched fists. What might the contrast suggest?",
+    "question": "Why is “The character may be hiding tension” the best answer here? In a scene beside a crowded station, the text says the character smiled, but the picture shows clenched fists. What might the contrast suggest?",
+    "audio_prompt": "Why is “The character may be hiding tension” the best answer here? In a scene beside a crowded station, the text says the character smiled, but the picture shows clenched fists. What might the contrast suggest?",
     "answers": [
       {
-        "text": "The character has no feelings",
+        "text": "Because “The character has no feelings” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "The character may be hiding tension",
+        "text": "The character may be hiding tension This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "The picture cannot affect meaning",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -397,19 +397,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "In a scene beside a crowded station, which illustration best supports a dangerous storm scene?",
-    "audio_prompt": "In a scene beside a crowded station, which illustration best supports a dangerous storm scene?",
+    "question": "Why is “Bent trees beneath dark clouds” the best answer here? In a scene beside a crowded station, which illustration best supports a dangerous storm scene?",
+    "audio_prompt": "Why is “Bent trees beneath dark clouds” the best answer here? In a scene beside a crowded station, which illustration best supports a dangerous storm scene?",
     "answers": [
       {
-        "text": "A neat picnic under clear skies",
+        "text": "Because “A neat picnic under clear skies” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "A blank white wall",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "Bent trees beneath dark clouds",
+        "text": "Bent trees beneath dark clouds This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       }
     ],
@@ -427,19 +427,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "In a scene beside a crowded station, why might an author choose a close-up of a face?",
-    "audio_prompt": "In a scene beside a crowded station, why might an author choose a close-up of a face?",
+    "question": "Why is “To emphasise a character's emotion” the best answer here? In a scene beside a crowded station, why might an author choose a close-up of a face?",
+    "audio_prompt": "Why is “To emphasise a character's emotion” the best answer here? In a scene beside a crowded station, why might an author choose a close-up of a face?",
     "answers": [
       {
-        "text": "To emphasise a character's emotion",
+        "text": "To emphasise a character's emotion This explanation follows the relevant Year 3 English evidence.",
         "is_correct": true
       },
       {
-        "text": "To show the whole country's location",
+        "text": "Because “To show the whole country's location” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "To list the plot in order",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -457,19 +457,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "In a scene beside a crowded station, which comparison explains a combined effect?",
-    "audio_prompt": "In a scene beside a crowded station, which comparison explains a combined effect?",
+    "question": "Why is “The dark words and tilted image both make the scene feel unstable” the best answer here? In a scene beside a crowded station, which comparison explains a combined effect?",
+    "audio_prompt": "Why is “The dark words and tilted image both make the scene feel unstable” the best answer here? In a scene beside a crowded station, which comparison explains a combined effect?",
     "answers": [
       {
-        "text": "The page has words and a picture",
+        "text": "Because “The page has words and a picture” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "The dark words and tilted image both make the scene feel unstable",
+        "text": "The dark words and tilted image both make the scene feel unstable This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "Both versions use paper",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -487,19 +487,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "On a page showing an empty playground, which words create the strongest uneasy mood?",
-    "audio_prompt": "On a page showing an empty playground, which words create the strongest uneasy mood?",
+    "question": "Why is “silent shadows crept” the best answer here? On a page showing an empty playground, which words create the strongest uneasy mood?",
+    "audio_prompt": "Why is “silent shadows crept” the best answer here? On a page showing an empty playground, which words create the strongest uneasy mood?",
     "answers": [
       {
-        "text": "nice trees stood",
+        "text": "Because “nice trees stood” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "green leaves grew",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "silent shadows crept",
+        "text": "silent shadows crept This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       }
     ],
@@ -517,19 +517,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "On a page showing an empty playground, an illustration shows crossed arms and a frown. What does it suggest?",
-    "audio_prompt": "On a page showing an empty playground, an illustration shows crossed arms and a frown. What does it suggest?",
+    "question": "Why is “The character may be upset or unwilling” the best answer here? On a page showing an empty playground, an illustration shows crossed arms and a frown. What does it suggest?",
+    "audio_prompt": "Why is “The character may be upset or unwilling” the best answer here? On a page showing an empty playground, an illustration shows crossed arms and a frown. What does it suggest?",
     "answers": [
       {
-        "text": "The character may be upset or unwilling",
+        "text": "The character may be upset or unwilling This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "The character is certainly asleep",
+        "text": "Because “The character is certainly asleep” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "The setting is underwater",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -547,19 +547,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "On a page showing an empty playground, how can an image extend the written words?",
-    "audio_prompt": "On a page showing an empty playground, how can an image extend the written words?",
+    "question": "Why is “It can add clues about mood, setting or character” the best answer here? On a page showing an empty playground, how can an image extend the written words?",
+    "audio_prompt": "Why is “It can add clues about mood, setting or character” the best answer here? On a page showing an empty playground, how can an image extend the written words?",
     "answers": [
       {
-        "text": "It repeats every sentence exactly",
+        "text": "Because “It repeats every sentence exactly” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "It can add clues about mood, setting or character",
+        "text": "It can add clues about mood, setting or character This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "It removes the need for interpretation",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -577,19 +577,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "On a page showing an empty playground, which detail best portrays a hurried event?",
-    "audio_prompt": "On a page showing an empty playground, which detail best portrays a hurried event?",
+    "question": "Why is “Boots pounded as people rushed past” the best answer here? On a page showing an empty playground, which detail best portrays a hurried event?",
+    "audio_prompt": "Why is “Boots pounded as people rushed past” the best answer here? On a page showing an empty playground, which detail best portrays a hurried event?",
     "answers": [
       {
-        "text": "A chair was brown",
+        "text": "Because “A chair was brown” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "The clock had numbers",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "Boots pounded as people rushed past",
+        "text": "Boots pounded as people rushed past This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       }
     ],
@@ -607,26 +607,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "On a page showing an empty playground, the text says the character smiled, but the picture shows clenched fists. What might the contrast suggest?",
-    "audio_prompt": "On a page showing an empty playground, the text says the character smiled, but the picture shows clenched fists. What might the contrast suggest?",
+    "question": "A student chooses “nice trees stood” for this task: On a page showing a moonlit forest, which words create the strongest uneasy mood? What should they check?",
+    "audio_prompt": "A student chooses “nice trees stood” for this task: On a page showing a moonlit forest, which words create the strongest uneasy mood? What should they check?",
     "answers": [
       {
-        "text": "The character may be hiding tension",
+        "text": "Use the story details and reader effect before choosing.",
         "is_correct": true
       },
       {
-        "text": "The character has no feelings",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "The picture cannot affect meaning",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The character may be hiding tension This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Use the story details and reader effect before choosing. silent shadows crept This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -637,26 +637,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "On a page showing an empty playground, which illustration best supports a dangerous storm scene?",
-    "audio_prompt": "On a page showing an empty playground, which illustration best supports a dangerous storm scene?",
+    "question": "A student chooses “The character is certainly asleep” for this task: On a page showing a moonlit forest, an illustration shows crossed arms and a frown. What does it suggest? What should they check?",
+    "audio_prompt": "A student chooses “The character is certainly asleep” for this task: On a page showing a moonlit forest, an illustration shows crossed arms and a frown. What does it suggest? What should they check?",
     "answers": [
       {
-        "text": "A neat picnic under clear skies",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Bent trees beneath dark clouds",
+        "text": "Use the story details and reader effect before choosing.",
         "is_correct": true
       },
       {
-        "text": "A blank white wall",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Bent trees beneath dark clouds This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Use the story details and reader effect before choosing. The character may be upset or unwilling This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -667,26 +667,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "On a page showing an empty playground, why might an author choose a close-up of a face?",
-    "audio_prompt": "On a page showing an empty playground, why might an author choose a close-up of a face?",
+    "question": "A student chooses “It repeats every sentence exactly” for this task: On a page showing a moonlit forest, how can an image extend the written words? What should they check?",
+    "audio_prompt": "A student chooses “It repeats every sentence exactly” for this task: On a page showing a moonlit forest, how can an image extend the written words? What should they check?",
     "answers": [
       {
-        "text": "To show the whole country's location",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "To list the plot in order",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "To emphasise a character's emotion",
+        "text": "Use the story details and reader effect before choosing.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "To emphasise a character's emotion This explanation follows the relevant Year 3 English evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Use the story details and reader effect before choosing. It can add clues about mood, setting or character This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -697,26 +697,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "On a page showing an empty playground, which comparison explains a combined effect?",
-    "audio_prompt": "On a page showing an empty playground, which comparison explains a combined effect?",
+    "question": "A student chooses “A chair was brown” for this task: On a page showing a moonlit forest, which detail best portrays a hurried event? What should they check?",
+    "audio_prompt": "A student chooses “A chair was brown” for this task: On a page showing a moonlit forest, which detail best portrays a hurried event? What should they check?",
     "answers": [
       {
-        "text": "The dark words and tilted image both make the scene feel unstable",
+        "text": "Use the story details and reader effect before choosing.",
         "is_correct": true
       },
       {
-        "text": "The page has words and a picture",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Both versions use paper",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The dark words and tilted image both make the scene feel unstable This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Use the story details and reader effect before choosing. Boots pounded as people rushed past This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -727,26 +727,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "In a scene inside a storm shelter, which words create the strongest uneasy mood?",
-    "audio_prompt": "In a scene inside a storm shelter, which words create the strongest uneasy mood?",
+    "question": "A student chooses “The character has no feelings” for this task: On a page showing a moonlit forest, the text says the character smiled, but the picture shows clenched fists. What might the contrast suggest? What should they check?",
+    "audio_prompt": "A student chooses “The character has no feelings” for this task: On a page showing a moonlit forest, the text says the character smiled, but the picture shows clenched fists. What might the contrast suggest? What should they check?",
     "answers": [
       {
-        "text": "nice trees stood",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "silent shadows crept",
+        "text": "Use the story details and reader effect before choosing.",
         "is_correct": true
       },
       {
-        "text": "green leaves grew",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "silent shadows crept This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Use the story details and reader effect before choosing. The character may be hiding tension This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -757,26 +757,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "In a scene inside a storm shelter, an illustration shows crossed arms and a frown. What does it suggest?",
-    "audio_prompt": "In a scene inside a storm shelter, an illustration shows crossed arms and a frown. What does it suggest?",
+    "question": "A student chooses “A neat picnic under clear skies” for this task: On a page showing a moonlit forest, which illustration best supports a dangerous storm scene? What should they check?",
+    "audio_prompt": "A student chooses “A neat picnic under clear skies” for this task: On a page showing a moonlit forest, which illustration best supports a dangerous storm scene? What should they check?",
     "answers": [
       {
-        "text": "The character is certainly asleep",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "The setting is underwater",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "The character may be upset or unwilling",
+        "text": "Use the story details and reader effect before choosing.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The character may be upset or unwilling This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Use the story details and reader effect before choosing. Bent trees beneath dark clouds This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -787,26 +787,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "In a scene inside a storm shelter, how can an image extend the written words?",
-    "audio_prompt": "In a scene inside a storm shelter, how can an image extend the written words?",
+    "question": "A student chooses “To show the whole country's location” for this task: On a page showing a moonlit forest, why might an author choose a close-up of a face? What should they check?",
+    "audio_prompt": "A student chooses “To show the whole country's location” for this task: On a page showing a moonlit forest, why might an author choose a close-up of a face? What should they check?",
     "answers": [
       {
-        "text": "It can add clues about mood, setting or character",
+        "text": "Use the story details and reader effect before choosing.",
         "is_correct": true
       },
       {
-        "text": "It repeats every sentence exactly",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "It removes the need for interpretation",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "It can add clues about mood, setting or character This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Use the story details and reader effect before choosing. To emphasise a character's emotion This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -817,26 +817,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "In a scene inside a storm shelter, which detail best portrays a hurried event?",
-    "audio_prompt": "In a scene inside a storm shelter, which detail best portrays a hurried event?",
+    "question": "A student chooses “The page has words and a picture” for this task: On a page showing a moonlit forest, which comparison explains a combined effect? What should they check?",
+    "audio_prompt": "A student chooses “The page has words and a picture” for this task: On a page showing a moonlit forest, which comparison explains a combined effect? What should they check?",
     "answers": [
       {
-        "text": "A chair was brown",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Boots pounded as people rushed past",
+        "text": "Use the story details and reader effect before choosing.",
         "is_correct": true
       },
       {
-        "text": "The clock had numbers",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Boots pounded as people rushed past This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Use the story details and reader effect before choosing. The dark words and tilted image both make the scene feel unstable This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -847,26 +847,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "In a scene inside a storm shelter, the text says the character smiled, but the picture shows clenched fists. What might the contrast suggest?",
-    "audio_prompt": "In a scene inside a storm shelter, the text says the character smiled, but the picture shows clenched fists. What might the contrast suggest?",
+    "question": "A student chooses “nice trees stood” for this task: In a scene beside a crowded station, which words create the strongest uneasy mood? What should they check?",
+    "audio_prompt": "A student chooses “nice trees stood” for this task: In a scene beside a crowded station, which words create the strongest uneasy mood? What should they check?",
     "answers": [
       {
-        "text": "The character has no feelings",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "The picture cannot affect meaning",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "The character may be hiding tension",
+        "text": "Use the story details and reader effect before choosing.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The character may be hiding tension This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Use the story details and reader effect before choosing. silent shadows crept This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -877,26 +877,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "In a scene inside a storm shelter, which illustration best supports a dangerous storm scene?",
-    "audio_prompt": "In a scene inside a storm shelter, which illustration best supports a dangerous storm scene?",
+    "question": "A student chooses “The character is certainly asleep” for this task: In a scene beside a crowded station, an illustration shows crossed arms and a frown. What does it suggest? What should they check?",
+    "audio_prompt": "A student chooses “The character is certainly asleep” for this task: In a scene beside a crowded station, an illustration shows crossed arms and a frown. What does it suggest? What should they check?",
     "answers": [
       {
-        "text": "Bent trees beneath dark clouds",
+        "text": "Use the story details and reader effect before choosing.",
         "is_correct": true
       },
       {
-        "text": "A neat picnic under clear skies",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "A blank white wall",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Bent trees beneath dark clouds This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Use the story details and reader effect before choosing. The character may be upset or unwilling This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -907,8 +907,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "In a scene inside a storm shelter, why might an author choose a close-up of a face?",
-    "audio_prompt": "In a scene inside a storm shelter, why might an author choose a close-up of a face?",
+    "question": "In a scene beside a crowded station, why might an author choose a close-up of a face?",
+    "audio_prompt": "In a scene beside a crowded station, why might an author choose a close-up of a face?",
     "answers": [
       {
         "text": "To show the whole country's location",
@@ -937,8 +937,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "In a scene inside a storm shelter, which comparison explains a combined effect?",
-    "audio_prompt": "In a scene inside a storm shelter, which comparison explains a combined effect?",
+    "question": "In a scene beside a crowded station, which comparison explains a combined effect?",
+    "audio_prompt": "In a scene beside a crowded station, which comparison explains a combined effect?",
     "answers": [
       {
         "text": "The page has words and a picture",
@@ -967,8 +967,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "On a page showing a bright market, which words create the strongest uneasy mood?",
-    "audio_prompt": "On a page showing a bright market, which words create the strongest uneasy mood?",
+    "question": "On a page showing an empty playground, which words create the strongest uneasy mood?",
+    "audio_prompt": "On a page showing an empty playground, which words create the strongest uneasy mood?",
     "answers": [
       {
         "text": "silent shadows crept",
@@ -997,8 +997,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "On a page showing a bright market, an illustration shows crossed arms and a frown. What does it suggest?",
-    "audio_prompt": "On a page showing a bright market, an illustration shows crossed arms and a frown. What does it suggest?",
+    "question": "On a page showing an empty playground, an illustration shows crossed arms and a frown. What does it suggest?",
+    "audio_prompt": "On a page showing an empty playground, an illustration shows crossed arms and a frown. What does it suggest?",
     "answers": [
       {
         "text": "The character is certainly asleep",
@@ -1027,8 +1027,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "On a page showing a bright market, how can an image extend the written words?",
-    "audio_prompt": "On a page showing a bright market, how can an image extend the written words?",
+    "question": "On a page showing an empty playground, how can an image extend the written words?",
+    "audio_prompt": "On a page showing an empty playground, how can an image extend the written words?",
     "answers": [
       {
         "text": "It repeats every sentence exactly",
@@ -1057,8 +1057,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "On a page showing a bright market, which detail best portrays a hurried event?",
-    "audio_prompt": "On a page showing a bright market, which detail best portrays a hurried event?",
+    "question": "On a page showing an empty playground, which detail best portrays a hurried event?",
+    "audio_prompt": "On a page showing an empty playground, which detail best portrays a hurried event?",
     "answers": [
       {
         "text": "Boots pounded as people rushed past",
@@ -1087,8 +1087,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "On a page showing a bright market, the text says the character smiled, but the picture shows clenched fists. What might the contrast suggest?",
-    "audio_prompt": "On a page showing a bright market, the text says the character smiled, but the picture shows clenched fists. What might the contrast suggest?",
+    "question": "On a page showing an empty playground, the text says the character smiled, but the picture shows clenched fists. What might the contrast suggest?",
+    "audio_prompt": "On a page showing an empty playground, the text says the character smiled, but the picture shows clenched fists. What might the contrast suggest?",
     "answers": [
       {
         "text": "The character has no feelings",
@@ -1117,8 +1117,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "On a page showing a bright market, which illustration best supports a dangerous storm scene?",
-    "audio_prompt": "On a page showing a bright market, which illustration best supports a dangerous storm scene?",
+    "question": "On a page showing an empty playground, which illustration best supports a dangerous storm scene?",
+    "audio_prompt": "On a page showing an empty playground, which illustration best supports a dangerous storm scene?",
     "answers": [
       {
         "text": "A neat picnic under clear skies",
@@ -1147,8 +1147,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "On a page showing a bright market, why might an author choose a close-up of a face?",
-    "audio_prompt": "On a page showing a bright market, why might an author choose a close-up of a face?",
+    "question": "On a page showing an empty playground, why might an author choose a close-up of a face?",
+    "audio_prompt": "On a page showing an empty playground, why might an author choose a close-up of a face?",
     "answers": [
       {
         "text": "To emphasise a character's emotion",
@@ -1177,8 +1177,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "On a page showing a bright market, which comparison explains a combined effect?",
-    "audio_prompt": "On a page showing a bright market, which comparison explains a combined effect?",
+    "question": "On a page showing an empty playground, which comparison explains a combined effect?",
+    "audio_prompt": "On a page showing an empty playground, which comparison explains a combined effect?",
     "answers": [
       {
         "text": "The page has words and a picture",
@@ -1205,8 +1205,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE03",
     "bank": "test",
+    "stage": "verify",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "New check: In a scene inside a storm shelter, which words create the strongest uneasy mood?",
+    "question": "In a scene inside a storm shelter, which words create the strongest uneasy mood?",
     "audio_prompt": "In a scene inside a storm shelter, which words create the strongest uneasy mood?",
     "answers": [
       {
@@ -1234,8 +1235,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE03",
     "bank": "test",
+    "stage": "verify",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "New check: In a scene inside a storm shelter, an illustration shows crossed arms and a frown. What does it suggest?",
+    "question": "In a scene inside a storm shelter, an illustration shows crossed arms and a frown. What does it suggest?",
     "audio_prompt": "In a scene inside a storm shelter, an illustration shows crossed arms and a frown. What does it suggest?",
     "answers": [
       {
@@ -1263,8 +1265,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE03",
     "bank": "test",
+    "stage": "verify",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "New check: In a scene inside a storm shelter, how can an image extend the written words?",
+    "question": "In a scene inside a storm shelter, how can an image extend the written words?",
     "audio_prompt": "In a scene inside a storm shelter, how can an image extend the written words?",
     "answers": [
       {
@@ -1292,8 +1295,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE03",
     "bank": "test",
+    "stage": "verify",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "New check: In a scene inside a storm shelter, which detail best portrays a hurried event?",
+    "question": "In a scene inside a storm shelter, which detail best portrays a hurried event?",
     "audio_prompt": "In a scene inside a storm shelter, which detail best portrays a hurried event?",
     "answers": [
       {
@@ -1321,8 +1325,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE03",
     "bank": "test",
+    "stage": "verify",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "New check: In a scene inside a storm shelter, the text says the character smiled, but the picture shows clenched fists. What might the contrast suggest?",
+    "question": "In a scene inside a storm shelter, the text says the character smiled, but the picture shows clenched fists. What might the contrast suggest?",
     "audio_prompt": "In a scene inside a storm shelter, the text says the character smiled, but the picture shows clenched fists. What might the contrast suggest?",
     "answers": [
       {
@@ -1350,8 +1355,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE03",
     "bank": "test",
+    "stage": "verify",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "New check: In a scene inside a storm shelter, which illustration best supports a dangerous storm scene?",
+    "question": "In a scene inside a storm shelter, which illustration best supports a dangerous storm scene?",
     "audio_prompt": "In a scene inside a storm shelter, which illustration best supports a dangerous storm scene?",
     "answers": [
       {
@@ -1379,8 +1385,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE03",
     "bank": "test",
+    "stage": "verify",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "New check: In a scene inside a storm shelter, why might an author choose a close-up of a face?",
+    "question": "In a scene inside a storm shelter, why might an author choose a close-up of a face?",
     "audio_prompt": "In a scene inside a storm shelter, why might an author choose a close-up of a face?",
     "answers": [
       {
@@ -1408,8 +1415,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE03",
     "bank": "test",
+    "stage": "verify",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "New check: In a scene inside a storm shelter, which comparison explains a combined effect?",
+    "question": "In a scene inside a storm shelter, which comparison explains a combined effect?",
     "audio_prompt": "In a scene inside a storm shelter, which comparison explains a combined effect?",
     "answers": [
       {
@@ -1437,8 +1445,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE03",
     "bank": "test",
+    "stage": "apply",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "New check: On a page showing a bright market, which words create the strongest uneasy mood?",
+    "question": "On a page showing a bright market, which words create the strongest uneasy mood?",
     "audio_prompt": "On a page showing a bright market, which words create the strongest uneasy mood?",
     "answers": [
       {
@@ -1466,8 +1475,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE03",
     "bank": "test",
+    "stage": "apply",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "New check: On a page showing a bright market, an illustration shows crossed arms and a frown. What does it suggest?",
+    "question": "On a page showing a bright market, an illustration shows crossed arms and a frown. What does it suggest?",
     "audio_prompt": "On a page showing a bright market, an illustration shows crossed arms and a frown. What does it suggest?",
     "answers": [
       {
@@ -1495,8 +1505,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE03",
     "bank": "test",
+    "stage": "apply",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "New check: On a page showing a bright market, how can an image extend the written words?",
+    "question": "On a page showing a bright market, how can an image extend the written words?",
     "audio_prompt": "On a page showing a bright market, how can an image extend the written words?",
     "answers": [
       {
@@ -1524,8 +1535,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE03",
     "bank": "test",
+    "stage": "apply",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "New check: On a page showing a bright market, which detail best portrays a hurried event?",
+    "question": "On a page showing a bright market, which detail best portrays a hurried event?",
     "audio_prompt": "On a page showing a bright market, which detail best portrays a hurried event?",
     "answers": [
       {
@@ -1553,8 +1565,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE03",
     "bank": "test",
+    "stage": "apply",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "New check: On a page showing a bright market, the text says the character smiled, but the picture shows clenched fists. What might the contrast suggest?",
+    "question": "On a page showing a bright market, the text says the character smiled, but the picture shows clenched fists. What might the contrast suggest?",
     "audio_prompt": "On a page showing a bright market, the text says the character smiled, but the picture shows clenched fists. What might the contrast suggest?",
     "answers": [
       {
@@ -1582,8 +1595,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE03",
     "bank": "test",
+    "stage": "apply",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "New check: On a page showing a bright market, which illustration best supports a dangerous storm scene?",
+    "question": "On a page showing a bright market, which illustration best supports a dangerous storm scene?",
     "audio_prompt": "On a page showing a bright market, which illustration best supports a dangerous storm scene?",
     "answers": [
       {
@@ -1611,8 +1625,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE03",
     "bank": "test",
+    "stage": "apply",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "New check: On a page showing a bright market, why might an author choose a close-up of a face?",
+    "question": "On a page showing a bright market, why might an author choose a close-up of a face?",
     "audio_prompt": "On a page showing a bright market, why might an author choose a close-up of a face?",
     "answers": [
       {
@@ -1640,8 +1655,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE03",
     "bank": "test",
+    "stage": "apply",
     "skill": "Character, Setting and Narrative Mood",
-    "question": "New check: On a page showing a bright market, which comparison explains a combined effect?",
+    "question": "On a page showing a bright market, which comparison explains a combined effect?",
     "audio_prompt": "On a page showing a bright market, which comparison explains a combined effect?",
     "answers": [
       {

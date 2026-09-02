@@ -307,19 +307,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Personal Connections and Text Preferences",
-    "question": "During a tale about a lost pet, what keeps a personal connection relevant?",
-    "audio_prompt": "During a tale about a lost pet, what keeps a personal connection relevant?",
+    "question": "Why is “Linking the experience to a specific event or idea in the text” the best answer here? During a tale about a lost pet, what keeps a personal connection relevant?",
+    "audio_prompt": "Why is “Linking the experience to a specific event or idea in the text” the best answer here? During a tale about a lost pet, what keeps a personal connection relevant?",
     "answers": [
       {
-        "text": "Telling an unrelated long story",
+        "text": "Because “Telling an unrelated long story” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Linking the experience to a specific event or idea in the text",
+        "text": "Linking the experience to a specific event or idea in the text This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "Ignoring what the character did",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -337,19 +337,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Personal Connections and Text Preferences",
-    "question": "During a tale about a lost pet, why might two readers prefer different characters?",
-    "audio_prompt": "During a tale about a lost pet, why might two readers prefer different characters?",
+    "question": "Why is “Their experiences and values may lead them to notice different evidence” the best answer here? During a tale about a lost pet, why might two readers prefer different characters?",
+    "audio_prompt": "Why is “Their experiences and values may lead them to notice different evidence” the best answer here? During a tale about a lost pet, why might two readers prefer different characters?",
     "answers": [
       {
-        "text": "Only one reader can understand the story",
+        "text": "Because “Only one reader can understand the story” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Preferences never need reasons",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "Their experiences and values may lead them to notice different evidence",
+        "text": "Their experiences and values may lead them to notice different evidence This explanation follows the relevant Year 3 English evidence.",
         "is_correct": true
       }
     ],
@@ -367,19 +367,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Personal Connections and Text Preferences",
-    "question": "During a tale about a lost pet, which statement is a summary rather than a connection?",
-    "audio_prompt": "During a tale about a lost pet, which statement is a summary rather than a connection?",
+    "question": "Why is “The family moved to a new town” the best answer here? During a tale about a lost pet, which statement is a summary rather than a connection?",
+    "audio_prompt": "Why is “The family moved to a new town” the best answer here? During a tale about a lost pet, which statement is a summary rather than a connection?",
     "answers": [
       {
-        "text": "The family moved to a new town",
+        "text": "The family moved to a new town This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "I also moved to a new town",
+        "text": "Because “I also moved to a new town” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "The move reminds me of my first day",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -397,19 +397,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Personal Connections and Text Preferences",
-    "question": "During a tale about a lost pet, a reader felt tense when the bridge cracked. What supports that reaction?",
-    "audio_prompt": "During a tale about a lost pet, a reader felt tense when the bridge cracked. What supports that reaction?",
+    "question": "Why is “The dangerous event in the text” the best answer here? During a tale about a lost pet, a reader felt tense when the bridge cracked. What supports that reaction?",
+    "audio_prompt": "Why is “The dangerous event in the text” the best answer here? During a tale about a lost pet, a reader felt tense when the bridge cracked. What supports that reaction?",
     "answers": [
       {
-        "text": "The reader's favourite colour",
+        "text": "Because “The reader's favourite colour” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "The dangerous event in the text",
+        "text": "The dangerous event in the text This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "The number of chapters",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -427,19 +427,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Personal Connections and Text Preferences",
-    "question": "During a tale about a lost pet, which response evaluates a character fairly?",
-    "audio_prompt": "During a tale about a lost pet, which response evaluates a character fairly?",
+    "question": "Why is “I disagreed with the choice because the character ignored a warning” the best answer here? During a tale about a lost pet, which response evaluates a character fairly?",
+    "audio_prompt": "Why is “I disagreed with the choice because the character ignored a warning” the best answer here? During a tale about a lost pet, which response evaluates a character fairly?",
     "answers": [
       {
-        "text": "The character is bad",
+        "text": "Because “The character is bad” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "I did not like the font",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "I disagreed with the choice because the character ignored a warning",
+        "text": "I disagreed with the choice because the character ignored a warning This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       }
     ],
@@ -457,19 +457,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Personal Connections and Text Preferences",
-    "question": "During a tale about a lost pet, how can a connection deepen understanding?",
-    "audio_prompt": "During a tale about a lost pet, how can a connection deepen understanding?",
+    "question": "Why is “It can help a reader recognise a character's feelings while checking text evidence” the best answer here? During a tale about a lost pet, how can a connection deepen understanding?",
+    "audio_prompt": "Why is “It can help a reader recognise a character's feelings while checking text evidence” the best answer here? During a tale about a lost pet, how can a connection deepen understanding?",
     "answers": [
       {
-        "text": "It can help a reader recognise a character's feelings while checking text evidence",
+        "text": "It can help a reader recognise a character's feelings while checking text evidence This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "It replaces the need to read closely",
+        "text": "Because “It replaces the need to read closely” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "It proves every reader reacts identically",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -487,19 +487,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Personal Connections and Text Preferences",
-    "question": "After a story about a team challenge, which response makes a useful personal connection?",
-    "audio_prompt": "After a story about a team challenge, which response makes a useful personal connection?",
+    "question": "Why is “This reminds me of feeling new because both characters needed help” the best answer here? After a story about a team challenge, which response makes a useful personal connection?",
+    "audio_prompt": "Why is “This reminds me of feeling new because both characters needed help” the best answer here? After a story about a team challenge, which response makes a useful personal connection?",
     "answers": [
       {
-        "text": "I have read a book before",
+        "text": "Because “I have read a book before” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "This reminds me of feeling new because both characters needed help",
+        "text": "This reminds me of feeling new because both characters needed help This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "The cover is green",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -517,19 +517,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Personal Connections and Text Preferences",
-    "question": "After a story about a team challenge, which preference includes text evidence?",
-    "audio_prompt": "After a story about a team challenge, which preference includes text evidence?",
+    "question": "Why is “I prefer Kai because he returns the lost purse” the best answer here? After a story about a team challenge, which preference includes text evidence?",
+    "audio_prompt": "Why is “I prefer Kai because he returns the lost purse” the best answer here? After a story about a team challenge, which preference includes text evidence?",
     "answers": [
       {
-        "text": "Kai is just better",
+        "text": "Because “Kai is just better” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "I like page nine",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "I prefer Kai because he returns the lost purse",
+        "text": "I prefer Kai because he returns the lost purse This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       }
     ],
@@ -547,19 +547,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Personal Connections and Text Preferences",
-    "question": "After a story about a team challenge, what keeps a personal connection relevant?",
-    "audio_prompt": "After a story about a team challenge, what keeps a personal connection relevant?",
+    "question": "Why is “Linking the experience to a specific event or idea in the text” the best answer here? After a story about a team challenge, what keeps a personal connection relevant?",
+    "audio_prompt": "Why is “Linking the experience to a specific event or idea in the text” the best answer here? After a story about a team challenge, what keeps a personal connection relevant?",
     "answers": [
       {
-        "text": "Linking the experience to a specific event or idea in the text",
+        "text": "Linking the experience to a specific event or idea in the text This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "Telling an unrelated long story",
+        "text": "Because “Telling an unrelated long story” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Ignoring what the character did",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -577,19 +577,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Personal Connections and Text Preferences",
-    "question": "After a story about a team challenge, why might two readers prefer different characters?",
-    "audio_prompt": "After a story about a team challenge, why might two readers prefer different characters?",
+    "question": "Why is “Their experiences and values may lead them to notice different evidence” the best answer here? After a story about a team challenge, why might two readers prefer different characters?",
+    "audio_prompt": "Why is “Their experiences and values may lead them to notice different evidence” the best answer here? After a story about a team challenge, why might two readers prefer different characters?",
     "answers": [
       {
-        "text": "Only one reader can understand the story",
+        "text": "Because “Only one reader can understand the story” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Their experiences and values may lead them to notice different evidence",
+        "text": "Their experiences and values may lead them to notice different evidence This explanation follows the relevant Year 3 English evidence.",
         "is_correct": true
       },
       {
-        "text": "Preferences never need reasons",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -607,26 +607,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Personal Connections and Text Preferences",
-    "question": "After a story about a team challenge, which statement is a summary rather than a connection?",
-    "audio_prompt": "After a story about a team challenge, which statement is a summary rather than a connection?",
+    "question": "A student chooses “I have read a book before” for this task: While reading a story about moving school, which response makes a useful personal connection? What should they check?",
+    "audio_prompt": "A student chooses “I have read a book before” for this task: While reading a story about moving school, which response makes a useful personal connection? What should they check?",
     "answers": [
       {
-        "text": "I also moved to a new town",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "The move reminds me of my first day",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "The family moved to a new town",
+        "text": "Use the story details and reader effect before choosing.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The family moved to a new town This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Use the story details and reader effect before choosing. This reminds me of feeling new because both characters needed help This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -637,26 +637,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Personal Connections and Text Preferences",
-    "question": "After a story about a team challenge, a reader felt tense when the bridge cracked. What supports that reaction?",
-    "audio_prompt": "After a story about a team challenge, a reader felt tense when the bridge cracked. What supports that reaction?",
+    "question": "A student chooses “Kai is just better” for this task: While reading a story about moving school, which preference includes text evidence? What should they check?",
+    "audio_prompt": "A student chooses “Kai is just better” for this task: While reading a story about moving school, which preference includes text evidence? What should they check?",
     "answers": [
       {
-        "text": "The dangerous event in the text",
+        "text": "Use the story details and reader effect before choosing.",
         "is_correct": true
       },
       {
-        "text": "The reader's favourite colour",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "The number of chapters",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The dangerous event in the text This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Use the story details and reader effect before choosing. I prefer Kai because he returns the lost purse This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -667,26 +667,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Personal Connections and Text Preferences",
-    "question": "After a story about a team challenge, which response evaluates a character fairly?",
-    "audio_prompt": "After a story about a team challenge, which response evaluates a character fairly?",
+    "question": "A student chooses “Telling an unrelated long story” for this task: While reading a story about moving school, what keeps a personal connection relevant? What should they check?",
+    "audio_prompt": "A student chooses “Telling an unrelated long story” for this task: While reading a story about moving school, what keeps a personal connection relevant? What should they check?",
     "answers": [
       {
-        "text": "The character is bad",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "I disagreed with the choice because the character ignored a warning",
+        "text": "Use the story details and reader effect before choosing.",
         "is_correct": true
       },
       {
-        "text": "I did not like the font",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "I disagreed with the choice because the character ignored a warning This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Use the story details and reader effect before choosing. Linking the experience to a specific event or idea in the text This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -697,26 +697,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Personal Connections and Text Preferences",
-    "question": "After a story about a team challenge, how can a connection deepen understanding?",
-    "audio_prompt": "After a story about a team challenge, how can a connection deepen understanding?",
+    "question": "A student chooses “Only one reader can understand the story” for this task: While reading a story about moving school, why might two readers prefer different characters? What should they check?",
+    "audio_prompt": "A student chooses “Only one reader can understand the story” for this task: While reading a story about moving school, why might two readers prefer different characters? What should they check?",
     "answers": [
       {
-        "text": "It replaces the need to read closely",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "It proves every reader reacts identically",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "It can help a reader recognise a character's feelings while checking text evidence",
+        "text": "Use the story details and reader effect before choosing.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "It can help a reader recognise a character's feelings while checking text evidence This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Use the story details and reader effect before choosing. Their experiences and values may lead them to notice different evidence This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -727,26 +727,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Personal Connections and Text Preferences",
-    "question": "While reading about a family celebration, which response makes a useful personal connection?",
-    "audio_prompt": "While reading about a family celebration, which response makes a useful personal connection?",
+    "question": "A student chooses “I also moved to a new town” for this task: While reading a story about moving school, which statement is a summary rather than a connection? What should they check?",
+    "audio_prompt": "A student chooses “I also moved to a new town” for this task: While reading a story about moving school, which statement is a summary rather than a connection? What should they check?",
     "answers": [
       {
-        "text": "This reminds me of feeling new because both characters needed help",
+        "text": "Use the story details and reader effect before choosing.",
         "is_correct": true
       },
       {
-        "text": "I have read a book before",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "The cover is green",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "This reminds me of feeling new because both characters needed help This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Use the story details and reader effect before choosing. The family moved to a new town This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -757,26 +757,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Personal Connections and Text Preferences",
-    "question": "While reading about a family celebration, which preference includes text evidence?",
-    "audio_prompt": "While reading about a family celebration, which preference includes text evidence?",
+    "question": "A student chooses “The reader's favourite colour” for this task: While reading a story about moving school, a reader felt tense when the bridge cracked. What supports that reaction? What should they check?",
+    "audio_prompt": "A student chooses “The reader's favourite colour” for this task: While reading a story about moving school, a reader felt tense when the bridge cracked. What supports that reaction? What should they check?",
     "answers": [
       {
-        "text": "Kai is just better",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "I prefer Kai because he returns the lost purse",
+        "text": "Use the story details and reader effect before choosing.",
         "is_correct": true
       },
       {
-        "text": "I like page nine",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "I prefer Kai because he returns the lost purse This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Use the story details and reader effect before choosing. The dangerous event in the text This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -787,26 +787,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Personal Connections and Text Preferences",
-    "question": "While reading about a family celebration, what keeps a personal connection relevant?",
-    "audio_prompt": "While reading about a family celebration, what keeps a personal connection relevant?",
+    "question": "A student chooses “The character is bad” for this task: While reading a story about moving school, which response evaluates a character fairly? What should they check?",
+    "audio_prompt": "A student chooses “The character is bad” for this task: While reading a story about moving school, which response evaluates a character fairly? What should they check?",
     "answers": [
       {
-        "text": "Telling an unrelated long story",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Ignoring what the character did",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "Linking the experience to a specific event or idea in the text",
+        "text": "Use the story details and reader effect before choosing.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Linking the experience to a specific event or idea in the text This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Use the story details and reader effect before choosing. I disagreed with the choice because the character ignored a warning This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -817,26 +817,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Personal Connections and Text Preferences",
-    "question": "While reading about a family celebration, why might two readers prefer different characters?",
-    "audio_prompt": "While reading about a family celebration, why might two readers prefer different characters?",
+    "question": "A student chooses “It replaces the need to read closely” for this task: While reading a story about moving school, how can a connection deepen understanding? What should they check?",
+    "audio_prompt": "A student chooses “It replaces the need to read closely” for this task: While reading a story about moving school, how can a connection deepen understanding? What should they check?",
     "answers": [
       {
-        "text": "Their experiences and values may lead them to notice different evidence",
+        "text": "Use the story details and reader effect before choosing.",
         "is_correct": true
       },
       {
-        "text": "Only one reader can understand the story",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Preferences never need reasons",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Their experiences and values may lead them to notice different evidence This explanation follows the relevant Year 3 English evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Use the story details and reader effect before choosing. It can help a reader recognise a character's feelings while checking text evidence This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -847,26 +847,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Personal Connections and Text Preferences",
-    "question": "While reading about a family celebration, which statement is a summary rather than a connection?",
-    "audio_prompt": "While reading about a family celebration, which statement is a summary rather than a connection?",
+    "question": "A student chooses “I have read a book before” for this task: During a tale about a lost pet, which response makes a useful personal connection? What should they check?",
+    "audio_prompt": "A student chooses “I have read a book before” for this task: During a tale about a lost pet, which response makes a useful personal connection? What should they check?",
     "answers": [
       {
-        "text": "I also moved to a new town",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "The family moved to a new town",
+        "text": "Use the story details and reader effect before choosing.",
         "is_correct": true
       },
       {
-        "text": "The move reminds me of my first day",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The family moved to a new town This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Use the story details and reader effect before choosing. This reminds me of feeling new because both characters needed help This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -877,26 +877,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Personal Connections and Text Preferences",
-    "question": "While reading about a family celebration, a reader felt tense when the bridge cracked. What supports that reaction?",
-    "audio_prompt": "While reading about a family celebration, a reader felt tense when the bridge cracked. What supports that reaction?",
+    "question": "A student chooses “Kai is just better” for this task: During a tale about a lost pet, which preference includes text evidence? What should they check?",
+    "audio_prompt": "A student chooses “Kai is just better” for this task: During a tale about a lost pet, which preference includes text evidence? What should they check?",
     "answers": [
       {
-        "text": "The reader's favourite colour",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "The number of chapters",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "The dangerous event in the text",
+        "text": "Use the story details and reader effect before choosing.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The dangerous event in the text This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Use the story details and reader effect before choosing. I prefer Kai because he returns the lost purse This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -907,8 +907,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Personal Connections and Text Preferences",
-    "question": "While reading about a family celebration, which response evaluates a character fairly?",
-    "audio_prompt": "While reading about a family celebration, which response evaluates a character fairly?",
+    "question": "During a tale about a lost pet, which response evaluates a character fairly?",
+    "audio_prompt": "During a tale about a lost pet, which response evaluates a character fairly?",
     "answers": [
       {
         "text": "I disagreed with the choice because the character ignored a warning",
@@ -937,8 +937,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Personal Connections and Text Preferences",
-    "question": "While reading about a family celebration, how can a connection deepen understanding?",
-    "audio_prompt": "While reading about a family celebration, how can a connection deepen understanding?",
+    "question": "During a tale about a lost pet, how can a connection deepen understanding?",
+    "audio_prompt": "During a tale about a lost pet, how can a connection deepen understanding?",
     "answers": [
       {
         "text": "It replaces the need to read closely",
@@ -967,8 +967,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Personal Connections and Text Preferences",
-    "question": "During a story about facing a storm, which response makes a useful personal connection?",
-    "audio_prompt": "During a story about facing a storm, which response makes a useful personal connection?",
+    "question": "After a story about a team challenge, which response makes a useful personal connection?",
+    "audio_prompt": "After a story about a team challenge, which response makes a useful personal connection?",
     "answers": [
       {
         "text": "I have read a book before",
@@ -997,8 +997,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Personal Connections and Text Preferences",
-    "question": "During a story about facing a storm, which preference includes text evidence?",
-    "audio_prompt": "During a story about facing a storm, which preference includes text evidence?",
+    "question": "After a story about a team challenge, which preference includes text evidence?",
+    "audio_prompt": "After a story about a team challenge, which preference includes text evidence?",
     "answers": [
       {
         "text": "I prefer Kai because he returns the lost purse",
@@ -1027,8 +1027,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Personal Connections and Text Preferences",
-    "question": "During a story about facing a storm, what keeps a personal connection relevant?",
-    "audio_prompt": "During a story about facing a storm, what keeps a personal connection relevant?",
+    "question": "After a story about a team challenge, what keeps a personal connection relevant?",
+    "audio_prompt": "After a story about a team challenge, what keeps a personal connection relevant?",
     "answers": [
       {
         "text": "Telling an unrelated long story",
@@ -1057,8 +1057,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Personal Connections and Text Preferences",
-    "question": "During a story about facing a storm, why might two readers prefer different characters?",
-    "audio_prompt": "During a story about facing a storm, why might two readers prefer different characters?",
+    "question": "After a story about a team challenge, why might two readers prefer different characters?",
+    "audio_prompt": "After a story about a team challenge, why might two readers prefer different characters?",
     "answers": [
       {
         "text": "Only one reader can understand the story",
@@ -1087,8 +1087,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Personal Connections and Text Preferences",
-    "question": "During a story about facing a storm, which statement is a summary rather than a connection?",
-    "audio_prompt": "During a story about facing a storm, which statement is a summary rather than a connection?",
+    "question": "After a story about a team challenge, which statement is a summary rather than a connection?",
+    "audio_prompt": "After a story about a team challenge, which statement is a summary rather than a connection?",
     "answers": [
       {
         "text": "The family moved to a new town",
@@ -1117,8 +1117,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Personal Connections and Text Preferences",
-    "question": "During a story about facing a storm, a reader felt tense when the bridge cracked. What supports that reaction?",
-    "audio_prompt": "During a story about facing a storm, a reader felt tense when the bridge cracked. What supports that reaction?",
+    "question": "After a story about a team challenge, a reader felt tense when the bridge cracked. What supports that reaction?",
+    "audio_prompt": "After a story about a team challenge, a reader felt tense when the bridge cracked. What supports that reaction?",
     "answers": [
       {
         "text": "The reader's favourite colour",
@@ -1147,8 +1147,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Personal Connections and Text Preferences",
-    "question": "During a story about facing a storm, which response evaluates a character fairly?",
-    "audio_prompt": "During a story about facing a storm, which response evaluates a character fairly?",
+    "question": "After a story about a team challenge, which response evaluates a character fairly?",
+    "audio_prompt": "After a story about a team challenge, which response evaluates a character fairly?",
     "answers": [
       {
         "text": "The character is bad",
@@ -1177,8 +1177,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Personal Connections and Text Preferences",
-    "question": "During a story about facing a storm, how can a connection deepen understanding?",
-    "audio_prompt": "During a story about facing a storm, how can a connection deepen understanding?",
+    "question": "After a story about a team challenge, how can a connection deepen understanding?",
+    "audio_prompt": "After a story about a team challenge, how can a connection deepen understanding?",
     "answers": [
       {
         "text": "It can help a reader recognise a character's feelings while checking text evidence",
@@ -1205,8 +1205,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE02",
     "bank": "test",
+    "stage": "verify",
     "skill": "Personal Connections and Text Preferences",
-    "question": "New check: While reading about a family celebration, which response makes a useful personal connection?",
+    "question": "While reading about a family celebration, which response makes a useful personal connection?",
     "audio_prompt": "While reading about a family celebration, which response makes a useful personal connection?",
     "answers": [
       {
@@ -1234,8 +1235,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE02",
     "bank": "test",
+    "stage": "verify",
     "skill": "Personal Connections and Text Preferences",
-    "question": "New check: While reading about a family celebration, which preference includes text evidence?",
+    "question": "While reading about a family celebration, which preference includes text evidence?",
     "audio_prompt": "While reading about a family celebration, which preference includes text evidence?",
     "answers": [
       {
@@ -1263,8 +1265,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE02",
     "bank": "test",
+    "stage": "verify",
     "skill": "Personal Connections and Text Preferences",
-    "question": "New check: While reading about a family celebration, what keeps a personal connection relevant?",
+    "question": "While reading about a family celebration, what keeps a personal connection relevant?",
     "audio_prompt": "While reading about a family celebration, what keeps a personal connection relevant?",
     "answers": [
       {
@@ -1292,8 +1295,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE02",
     "bank": "test",
+    "stage": "verify",
     "skill": "Personal Connections and Text Preferences",
-    "question": "New check: While reading about a family celebration, why might two readers prefer different characters?",
+    "question": "While reading about a family celebration, why might two readers prefer different characters?",
     "audio_prompt": "While reading about a family celebration, why might two readers prefer different characters?",
     "answers": [
       {
@@ -1321,8 +1325,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE02",
     "bank": "test",
+    "stage": "verify",
     "skill": "Personal Connections and Text Preferences",
-    "question": "New check: While reading about a family celebration, which statement is a summary rather than a connection?",
+    "question": "While reading about a family celebration, which statement is a summary rather than a connection?",
     "audio_prompt": "While reading about a family celebration, which statement is a summary rather than a connection?",
     "answers": [
       {
@@ -1350,8 +1355,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE02",
     "bank": "test",
+    "stage": "verify",
     "skill": "Personal Connections and Text Preferences",
-    "question": "New check: While reading about a family celebration, a reader felt tense when the bridge cracked. What supports that reaction?",
+    "question": "While reading about a family celebration, a reader felt tense when the bridge cracked. What supports that reaction?",
     "audio_prompt": "While reading about a family celebration, a reader felt tense when the bridge cracked. What supports that reaction?",
     "answers": [
       {
@@ -1379,8 +1385,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE02",
     "bank": "test",
+    "stage": "verify",
     "skill": "Personal Connections and Text Preferences",
-    "question": "New check: While reading about a family celebration, which response evaluates a character fairly?",
+    "question": "While reading about a family celebration, which response evaluates a character fairly?",
     "audio_prompt": "While reading about a family celebration, which response evaluates a character fairly?",
     "answers": [
       {
@@ -1408,8 +1415,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE02",
     "bank": "test",
+    "stage": "verify",
     "skill": "Personal Connections and Text Preferences",
-    "question": "New check: While reading about a family celebration, how can a connection deepen understanding?",
+    "question": "While reading about a family celebration, how can a connection deepen understanding?",
     "audio_prompt": "While reading about a family celebration, how can a connection deepen understanding?",
     "answers": [
       {
@@ -1437,8 +1445,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE02",
     "bank": "test",
+    "stage": "apply",
     "skill": "Personal Connections and Text Preferences",
-    "question": "New check: During a story about facing a storm, which response makes a useful personal connection?",
+    "question": "During a story about facing a storm, which response makes a useful personal connection?",
     "audio_prompt": "During a story about facing a storm, which response makes a useful personal connection?",
     "answers": [
       {
@@ -1466,8 +1475,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE02",
     "bank": "test",
+    "stage": "apply",
     "skill": "Personal Connections and Text Preferences",
-    "question": "New check: During a story about facing a storm, which preference includes text evidence?",
+    "question": "During a story about facing a storm, which preference includes text evidence?",
     "audio_prompt": "During a story about facing a storm, which preference includes text evidence?",
     "answers": [
       {
@@ -1495,8 +1505,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE02",
     "bank": "test",
+    "stage": "apply",
     "skill": "Personal Connections and Text Preferences",
-    "question": "New check: During a story about facing a storm, what keeps a personal connection relevant?",
+    "question": "During a story about facing a storm, what keeps a personal connection relevant?",
     "audio_prompt": "During a story about facing a storm, what keeps a personal connection relevant?",
     "answers": [
       {
@@ -1524,8 +1535,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE02",
     "bank": "test",
+    "stage": "apply",
     "skill": "Personal Connections and Text Preferences",
-    "question": "New check: During a story about facing a storm, why might two readers prefer different characters?",
+    "question": "During a story about facing a storm, why might two readers prefer different characters?",
     "audio_prompt": "During a story about facing a storm, why might two readers prefer different characters?",
     "answers": [
       {
@@ -1553,8 +1565,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE02",
     "bank": "test",
+    "stage": "apply",
     "skill": "Personal Connections and Text Preferences",
-    "question": "New check: During a story about facing a storm, which statement is a summary rather than a connection?",
+    "question": "During a story about facing a storm, which statement is a summary rather than a connection?",
     "audio_prompt": "During a story about facing a storm, which statement is a summary rather than a connection?",
     "answers": [
       {
@@ -1582,8 +1595,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE02",
     "bank": "test",
+    "stage": "apply",
     "skill": "Personal Connections and Text Preferences",
-    "question": "New check: During a story about facing a storm, a reader felt tense when the bridge cracked. What supports that reaction?",
+    "question": "During a story about facing a storm, a reader felt tense when the bridge cracked. What supports that reaction?",
     "audio_prompt": "During a story about facing a storm, a reader felt tense when the bridge cracked. What supports that reaction?",
     "answers": [
       {
@@ -1611,8 +1625,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE02",
     "bank": "test",
+    "stage": "apply",
     "skill": "Personal Connections and Text Preferences",
-    "question": "New check: During a story about facing a storm, which response evaluates a character fairly?",
+    "question": "During a story about facing a storm, which response evaluates a character fairly?",
     "audio_prompt": "During a story about facing a storm, which response evaluates a character fairly?",
     "answers": [
       {
@@ -1640,8 +1655,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE02",
     "bank": "test",
+    "stage": "apply",
     "skill": "Personal Connections and Text Preferences",
-    "question": "New check: During a story about facing a storm, how can a connection deepen understanding?",
+    "question": "During a story about facing a storm, how can a connection deepen understanding?",
     "audio_prompt": "During a story about facing a storm, how can a connection deepen understanding?",
     "answers": [
       {

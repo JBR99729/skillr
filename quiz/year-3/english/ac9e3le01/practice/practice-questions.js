@@ -247,14 +247,14 @@ window.skillrPracticeQuestions = [
     "skill": "Characters, Events and Settings Across Contexts",
     "printable": true,
     "type": "single",
-    "question": "In a tale from a busy Australian harbour, a character shares scarce water with a traveller. What trait does this show?",
-    "audioPrompt": "In a tale from a busy Australian harbour, a character shares scarce water with a traveller. What trait does this show?",
+    "question": "Why is “Generosity” the best answer here? In a tale from a busy Australian harbour, a character shares scarce water with a traveller. What trait does this show?",
+    "audioPrompt": "Why is “Generosity” the best answer here? In a tale from a busy Australian harbour, a character shares scarce water with a traveller. What trait does this show?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Generosity",
-      "Forgetfulness",
-      "Impatience"
+      "Generosity This choice best fits the language, text or literacy evidence.",
+      "Because “Forgetfulness” sounds familiar.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 0,
     "explanation": "Generosity This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
@@ -271,14 +271,14 @@ window.skillrPracticeQuestions = [
     "skill": "Characters, Events and Settings Across Contexts",
     "printable": true,
     "type": "single",
-    "question": "In a tale from a busy Australian harbour, which clue most clearly shows the story happens long ago?",
-    "audioPrompt": "In a tale from a busy Australian harbour, which clue most clearly shows the story happens long ago?",
+    "question": "Why is “Messages travel by horseback” the best answer here? In a tale from a busy Australian harbour, which clue most clearly shows the story happens long ago?",
+    "audioPrompt": "Why is “Messages travel by horseback” the best answer here? In a tale from a busy Australian harbour, which clue most clearly shows the story happens long ago?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "The character feels worried",
-      "Messages travel by horseback",
-      "A bird lands nearby"
+      "Because “The character feels worried” sounds familiar.",
+      "Messages travel by horseback This choice best fits the language, text or literacy evidence.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 1,
     "explanation": "Messages travel by horseback This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
@@ -295,14 +295,14 @@ window.skillrPracticeQuestions = [
     "skill": "Characters, Events and Settings Across Contexts",
     "printable": true,
     "type": "single",
-    "question": "In a tale from a busy Australian harbour, why does cultural context matter when discussing a character's choice?",
-    "audioPrompt": "In a tale from a busy Australian harbour, why does cultural context matter when discussing a character's choice?",
+    "question": "Why is “It can explain customs, values and expectations” the best answer here? In a tale from a busy Australian harbour, why does cultural context matter when discussing a character's choice?",
+    "audioPrompt": "Why is “It can explain customs, values and expectations” the best answer here? In a tale from a busy Australian harbour, why does cultural context matter when discussing a character's choice?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It proves every character behaves alike",
-      "It makes evidence unnecessary",
-      "It can explain customs, values and expectations"
+      "Because “It proves every character behaves alike” sounds familiar.",
+      "Because the longest-looking option should always be chosen.",
+      "It can explain customs, values and expectations This explanation follows the relevant Year 3 English evidence."
     ],
     "correct": 2,
     "explanation": "It can explain customs, values and expectations This explanation follows the relevant Year 3 English evidence.\nHint: Use the story details and reader effect before choosing.",
@@ -319,14 +319,14 @@ window.skillrPracticeQuestions = [
     "skill": "Characters, Events and Settings Across Contexts",
     "printable": true,
     "type": "single",
-    "question": "In a tale from a busy Australian harbour, which comparison uses evidence from two settings?",
-    "audioPrompt": "In a tale from a busy Australian harbour, which comparison uses evidence from two settings?",
+    "question": "Why is “One setting is dry and remote, while the other is wet and crowded” the best answer here? In a tale from a busy Australian harbour, which comparison uses evidence from two settings?",
+    "audioPrompt": "Why is “One setting is dry and remote, while the other is wet and crowded” the best answer here? In a tale from a busy Australian harbour, which comparison uses evidence from two settings?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "One setting is dry and remote, while the other is wet and crowded",
-      "Both stories are good",
-      "The pictures use colours"
+      "One setting is dry and remote, while the other is wet and crowded This choice best fits the language, text or literacy evidence.",
+      "Because “Both stories are good” sounds familiar.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 0,
     "explanation": "One setting is dry and remote, while the other is wet and crowded This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
@@ -343,14 +343,14 @@ window.skillrPracticeQuestions = [
     "skill": "Characters, Events and Settings Across Contexts",
     "printable": true,
     "type": "single",
-    "question": "In a tale from a busy Australian harbour, how can a flood event affect a character?",
-    "audioPrompt": "In a tale from a busy Australian harbour, how can a flood event affect a character?",
+    "question": "Why is “It can create a problem that requires decisions” the best answer here? In a tale from a busy Australian harbour, how can a flood event affect a character?",
+    "audioPrompt": "Why is “It can create a problem that requires decisions” the best answer here? In a tale from a busy Australian harbour, how can a flood event affect a character?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It must change the character's name",
-      "It can create a problem that requires decisions",
-      "It removes the story setting"
+      "Because “It must change the character's name” sounds familiar.",
+      "It can create a problem that requires decisions This choice best fits the language, text or literacy evidence.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 1,
     "explanation": "It can create a problem that requires decisions This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
@@ -367,14 +367,14 @@ window.skillrPracticeQuestions = [
     "skill": "Characters, Events and Settings Across Contexts",
     "printable": true,
     "type": "single",
-    "question": "In a tale from a busy Australian harbour, which response respectfully discusses an unfamiliar cultural practice?",
-    "audioPrompt": "In a tale from a busy Australian harbour, which response respectfully discusses an unfamiliar cultural practice?",
+    "question": "Why is “It asks what the practice means in the story's context” the best answer here? In a tale from a busy Australian harbour, which response respectfully discusses an unfamiliar cultural practice?",
+    "audioPrompt": "Why is “It asks what the practice means in the story's context” the best answer here? In a tale from a busy Australian harbour, which response respectfully discusses an unfamiliar cultural practice?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It calls the practice strange without evidence",
-      "It assumes all cultures share it",
-      "It asks what the practice means in the story's context"
+      "Because “It calls the practice strange without evidence” sounds familiar.",
+      "Because the longest-looking option should always be chosen.",
+      "It asks what the practice means in the story's context This choice best fits the language, text or literacy evidence."
     ],
     "correct": 2,
     "explanation": "It asks what the practice means in the story's context This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
@@ -391,14 +391,14 @@ window.skillrPracticeQuestions = [
     "skill": "Characters, Events and Settings Across Contexts",
     "printable": true,
     "type": "single",
-    "question": "In a story set in a mountain village, which detail most clearly establishes the setting?",
-    "audioPrompt": "In a story set in a mountain village, which detail most clearly establishes the setting?",
+    "question": "Why is “Red cliffs surround the quiet waterhole” the best answer here? In a story set in a mountain village, which detail most clearly establishes the setting?",
+    "audioPrompt": "Why is “Red cliffs surround the quiet waterhole” the best answer here? In a story set in a mountain village, which detail most clearly establishes the setting?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Red cliffs surround the quiet waterhole",
-      "The character is called Mina",
-      "The book has twelve pages"
+      "Red cliffs surround the quiet waterhole This choice best fits the language, text or literacy evidence.",
+      "Because “The character is called Mina” sounds familiar.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 0,
     "explanation": "Red cliffs surround the quiet waterhole This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
@@ -415,14 +415,14 @@ window.skillrPracticeQuestions = [
     "skill": "Characters, Events and Settings Across Contexts",
     "printable": true,
     "type": "single",
-    "question": "In a story set in a mountain village, which event would fit this setting best?",
-    "audioPrompt": "In a story set in a mountain village, which event would fit this setting best?",
+    "question": "Why is “A sudden dust storm covers the track” the best answer here? In a story set in a mountain village, which event would fit this setting best?",
+    "audioPrompt": "Why is “A sudden dust storm covers the track” the best answer here? In a story set in a mountain village, which event would fit this setting best?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "A lift stops between city floors",
-      "A sudden dust storm covers the track",
-      "Snow blocks the ski path"
+      "Because “A lift stops between city floors” sounds familiar.",
+      "A sudden dust storm covers the track This choice best fits the language, text or literacy evidence.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 1,
     "explanation": "A sudden dust storm covers the track This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
@@ -439,14 +439,14 @@ window.skillrPracticeQuestions = [
     "skill": "Characters, Events and Settings Across Contexts",
     "printable": true,
     "type": "single",
-    "question": "In a story set in a mountain village, a character shares scarce water with a traveller. What trait does this show?",
-    "audioPrompt": "In a story set in a mountain village, a character shares scarce water with a traveller. What trait does this show?",
+    "question": "Why is “Generosity” the best answer here? In a story set in a mountain village, a character shares scarce water with a traveller. What trait does this show?",
+    "audioPrompt": "Why is “Generosity” the best answer here? In a story set in a mountain village, a character shares scarce water with a traveller. What trait does this show?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Forgetfulness",
-      "Impatience",
-      "Generosity"
+      "Because “Forgetfulness” sounds familiar.",
+      "Because the longest-looking option should always be chosen.",
+      "Generosity This choice best fits the language, text or literacy evidence."
     ],
     "correct": 2,
     "explanation": "Generosity This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
@@ -463,14 +463,14 @@ window.skillrPracticeQuestions = [
     "skill": "Characters, Events and Settings Across Contexts",
     "printable": true,
     "type": "single",
-    "question": "In a story set in a mountain village, which clue most clearly shows the story happens long ago?",
-    "audioPrompt": "In a story set in a mountain village, which clue most clearly shows the story happens long ago?",
+    "question": "Why is “Messages travel by horseback” the best answer here? In a story set in a mountain village, which clue most clearly shows the story happens long ago?",
+    "audioPrompt": "Why is “Messages travel by horseback” the best answer here? In a story set in a mountain village, which clue most clearly shows the story happens long ago?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Messages travel by horseback",
-      "The character feels worried",
-      "A bird lands nearby"
+      "Messages travel by horseback This choice best fits the language, text or literacy evidence.",
+      "Because “The character feels worried” sounds familiar.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 0,
     "explanation": "Messages travel by horseback This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
@@ -487,20 +487,20 @@ window.skillrPracticeQuestions = [
     "skill": "Characters, Events and Settings Across Contexts",
     "printable": true,
     "type": "single",
-    "question": "In a story set in a mountain village, why does cultural context matter when discussing a character's choice?",
-    "audioPrompt": "In a story set in a mountain village, why does cultural context matter when discussing a character's choice?",
+    "question": "A student chooses “The character is called Mina” for this task: In a story set beside a desert waterhole, which detail most clearly establishes the setting? What should they check?",
+    "audioPrompt": "A student chooses “The character is called Mina” for this task: In a story set beside a desert waterhole, which detail most clearly establishes the setting? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It proves every character behaves alike",
-      "It can explain customs, values and expectations",
-      "It makes evidence unnecessary"
+      "Keep the answer because it uses a familiar word.",
+      "Use the story details and reader effect before choosing.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 1,
-    "explanation": "It can explain customs, values and expectations This explanation follows the relevant Year 3 English evidence.\nHint: Use the story details and reader effect before choosing.",
+    "explanation": "Use the story details and reader effect before choosing. Red cliffs surround the quiet waterhole This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "It can explain customs, values and expectations This explanation follows the relevant Year 3 English evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Use the story details and reader effect before choosing. Red cliffs surround the quiet waterhole This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -511,20 +511,20 @@ window.skillrPracticeQuestions = [
     "skill": "Characters, Events and Settings Across Contexts",
     "printable": true,
     "type": "single",
-    "question": "In a story set in a mountain village, which comparison uses evidence from two settings?",
-    "audioPrompt": "In a story set in a mountain village, which comparison uses evidence from two settings?",
+    "question": "A student chooses “A lift stops between city floors” for this task: In a story set beside a desert waterhole, which event would fit this setting best? What should they check?",
+    "audioPrompt": "A student chooses “A lift stops between city floors” for this task: In a story set beside a desert waterhole, which event would fit this setting best? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Both stories are good",
-      "The pictures use colours",
-      "One setting is dry and remote, while the other is wet and crowded"
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option.",
+      "Use the story details and reader effect before choosing."
     ],
     "correct": 2,
-    "explanation": "One setting is dry and remote, while the other is wet and crowded This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "explanation": "Use the story details and reader effect before choosing. A sudden dust storm covers the track This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "One setting is dry and remote, while the other is wet and crowded This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Use the story details and reader effect before choosing. A sudden dust storm covers the track This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -535,20 +535,20 @@ window.skillrPracticeQuestions = [
     "skill": "Characters, Events and Settings Across Contexts",
     "printable": true,
     "type": "single",
-    "question": "In a story set in a mountain village, how can a flood event affect a character?",
-    "audioPrompt": "In a story set in a mountain village, how can a flood event affect a character?",
+    "question": "A student chooses “Forgetfulness” for this task: In a story set beside a desert waterhole, a character shares scarce water with a traveller. What trait does this show? What should they check?",
+    "audioPrompt": "A student chooses “Forgetfulness” for this task: In a story set beside a desert waterhole, a character shares scarce water with a traveller. What trait does this show? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It can create a problem that requires decisions",
-      "It must change the character's name",
-      "It removes the story setting"
+      "Use the story details and reader effect before choosing.",
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 0,
-    "explanation": "It can create a problem that requires decisions This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "explanation": "Use the story details and reader effect before choosing. Generosity This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "It can create a problem that requires decisions This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Use the story details and reader effect before choosing. Generosity This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -559,20 +559,20 @@ window.skillrPracticeQuestions = [
     "skill": "Characters, Events and Settings Across Contexts",
     "printable": true,
     "type": "single",
-    "question": "In a story set in a mountain village, which response respectfully discusses an unfamiliar cultural practice?",
-    "audioPrompt": "In a story set in a mountain village, which response respectfully discusses an unfamiliar cultural practice?",
+    "question": "A student chooses “The character feels worried” for this task: In a story set beside a desert waterhole, which clue most clearly shows the story happens long ago? What should they check?",
+    "audioPrompt": "A student chooses “The character feels worried” for this task: In a story set beside a desert waterhole, which clue most clearly shows the story happens long ago? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It calls the practice strange without evidence",
-      "It asks what the practice means in the story's context",
-      "It assumes all cultures share it"
+      "Keep the answer because it uses a familiar word.",
+      "Use the story details and reader effect before choosing.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 1,
-    "explanation": "It asks what the practice means in the story's context This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "explanation": "Use the story details and reader effect before choosing. Messages travel by horseback This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "It asks what the practice means in the story's context This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Use the story details and reader effect before choosing. Messages travel by horseback This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -583,20 +583,20 @@ window.skillrPracticeQuestions = [
     "skill": "Characters, Events and Settings Across Contexts",
     "printable": true,
     "type": "single",
-    "question": "In a tale from a tropical island, which detail most clearly establishes the setting?",
-    "audioPrompt": "In a tale from a tropical island, which detail most clearly establishes the setting?",
+    "question": "A student chooses “It proves every character behaves alike” for this task: In a story set beside a desert waterhole, why does cultural context matter when discussing a character's choice? What should they check?",
+    "audioPrompt": "A student chooses “It proves every character behaves alike” for this task: In a story set beside a desert waterhole, why does cultural context matter when discussing a character's choice? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "The character is called Mina",
-      "The book has twelve pages",
-      "Red cliffs surround the quiet waterhole"
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option.",
+      "Use the story details and reader effect before choosing."
     ],
     "correct": 2,
-    "explanation": "Red cliffs surround the quiet waterhole This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "explanation": "Use the story details and reader effect before choosing. It can explain customs, values and expectations This explanation follows the relevant Year 3 English evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Red cliffs surround the quiet waterhole This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Use the story details and reader effect before choosing. It can explain customs, values and expectations This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -607,20 +607,20 @@ window.skillrPracticeQuestions = [
     "skill": "Characters, Events and Settings Across Contexts",
     "printable": true,
     "type": "single",
-    "question": "In a tale from a tropical island, which event would fit this setting best?",
-    "audioPrompt": "In a tale from a tropical island, which event would fit this setting best?",
+    "question": "A student chooses “Both stories are good” for this task: In a story set beside a desert waterhole, which comparison uses evidence from two settings? What should they check?",
+    "audioPrompt": "A student chooses “Both stories are good” for this task: In a story set beside a desert waterhole, which comparison uses evidence from two settings? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "A sudden dust storm covers the track",
-      "A lift stops between city floors",
-      "Snow blocks the ski path"
+      "Use the story details and reader effect before choosing.",
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 0,
-    "explanation": "A sudden dust storm covers the track This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "explanation": "Use the story details and reader effect before choosing. One setting is dry and remote, while the other is wet and crowded This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "A sudden dust storm covers the track This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Use the story details and reader effect before choosing. One setting is dry and remote, while the other is wet and crowded This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -631,20 +631,20 @@ window.skillrPracticeQuestions = [
     "skill": "Characters, Events and Settings Across Contexts",
     "printable": true,
     "type": "single",
-    "question": "In a tale from a tropical island, a character shares scarce water with a traveller. What trait does this show?",
-    "audioPrompt": "In a tale from a tropical island, a character shares scarce water with a traveller. What trait does this show?",
+    "question": "A student chooses “It must change the character's name” for this task: In a story set beside a desert waterhole, how can a flood event affect a character? What should they check?",
+    "audioPrompt": "A student chooses “It must change the character's name” for this task: In a story set beside a desert waterhole, how can a flood event affect a character? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Forgetfulness",
-      "Generosity",
-      "Impatience"
+      "Keep the answer because it uses a familiar word.",
+      "Use the story details and reader effect before choosing.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 1,
-    "explanation": "Generosity This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "explanation": "Use the story details and reader effect before choosing. It can create a problem that requires decisions This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Generosity This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Use the story details and reader effect before choosing. It can create a problem that requires decisions This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -655,20 +655,20 @@ window.skillrPracticeQuestions = [
     "skill": "Characters, Events and Settings Across Contexts",
     "printable": true,
     "type": "single",
-    "question": "In a tale from a tropical island, which clue most clearly shows the story happens long ago?",
-    "audioPrompt": "In a tale from a tropical island, which clue most clearly shows the story happens long ago?",
+    "question": "A student chooses “It calls the practice strange without evidence” for this task: In a story set beside a desert waterhole, which response respectfully discusses an unfamiliar cultural practice? What should they check?",
+    "audioPrompt": "A student chooses “It calls the practice strange without evidence” for this task: In a story set beside a desert waterhole, which response respectfully discusses an unfamiliar cultural practice? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "The character feels worried",
-      "A bird lands nearby",
-      "Messages travel by horseback"
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option.",
+      "Use the story details and reader effect before choosing."
     ],
     "correct": 2,
-    "explanation": "Messages travel by horseback This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "explanation": "Use the story details and reader effect before choosing. It asks what the practice means in the story's context This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Messages travel by horseback This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Use the story details and reader effect before choosing. It asks what the practice means in the story's context This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -679,20 +679,20 @@ window.skillrPracticeQuestions = [
     "skill": "Characters, Events and Settings Across Contexts",
     "printable": true,
     "type": "single",
-    "question": "In a tale from a tropical island, why does cultural context matter when discussing a character's choice?",
-    "audioPrompt": "In a tale from a tropical island, why does cultural context matter when discussing a character's choice?",
+    "question": "A student chooses “The character is called Mina” for this task: In a tale from a busy Australian harbour, which detail most clearly establishes the setting? What should they check?",
+    "audioPrompt": "A student chooses “The character is called Mina” for this task: In a tale from a busy Australian harbour, which detail most clearly establishes the setting? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It can explain customs, values and expectations",
-      "It proves every character behaves alike",
-      "It makes evidence unnecessary"
+      "Use the story details and reader effect before choosing.",
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 0,
-    "explanation": "It can explain customs, values and expectations This explanation follows the relevant Year 3 English evidence.\nHint: Use the story details and reader effect before choosing.",
+    "explanation": "Use the story details and reader effect before choosing. Red cliffs surround the quiet waterhole This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "It can explain customs, values and expectations This explanation follows the relevant Year 3 English evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Use the story details and reader effect before choosing. Red cliffs surround the quiet waterhole This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -703,20 +703,20 @@ window.skillrPracticeQuestions = [
     "skill": "Characters, Events and Settings Across Contexts",
     "printable": true,
     "type": "single",
-    "question": "In a tale from a tropical island, which comparison uses evidence from two settings?",
-    "audioPrompt": "In a tale from a tropical island, which comparison uses evidence from two settings?",
+    "question": "A student chooses “A lift stops between city floors” for this task: In a tale from a busy Australian harbour, which event would fit this setting best? What should they check?",
+    "audioPrompt": "A student chooses “A lift stops between city floors” for this task: In a tale from a busy Australian harbour, which event would fit this setting best? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Both stories are good",
-      "One setting is dry and remote, while the other is wet and crowded",
-      "The pictures use colours"
+      "Keep the answer because it uses a familiar word.",
+      "Use the story details and reader effect before choosing.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 1,
-    "explanation": "One setting is dry and remote, while the other is wet and crowded This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "explanation": "Use the story details and reader effect before choosing. A sudden dust storm covers the track This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "One setting is dry and remote, while the other is wet and crowded This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Use the story details and reader effect before choosing. A sudden dust storm covers the track This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -727,8 +727,8 @@ window.skillrPracticeQuestions = [
     "skill": "Characters, Events and Settings Across Contexts",
     "printable": true,
     "type": "single",
-    "question": "In a tale from a tropical island, how can a flood event affect a character?",
-    "audioPrompt": "In a tale from a tropical island, how can a flood event affect a character?",
+    "question": "In a tale from a busy Australian harbour, how can a flood event affect a character?",
+    "audioPrompt": "In a tale from a busy Australian harbour, how can a flood event affect a character?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -751,8 +751,8 @@ window.skillrPracticeQuestions = [
     "skill": "Characters, Events and Settings Across Contexts",
     "printable": true,
     "type": "single",
-    "question": "In a tale from a tropical island, which response respectfully discusses an unfamiliar cultural practice?",
-    "audioPrompt": "In a tale from a tropical island, which response respectfully discusses an unfamiliar cultural practice?",
+    "question": "In a tale from a busy Australian harbour, which response respectfully discusses an unfamiliar cultural practice?",
+    "audioPrompt": "In a tale from a busy Australian harbour, which response respectfully discusses an unfamiliar cultural practice?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -775,8 +775,8 @@ window.skillrPracticeQuestions = [
     "skill": "Characters, Events and Settings Across Contexts",
     "printable": true,
     "type": "single",
-    "question": "In a story set in an ancient city, which detail most clearly establishes the setting?",
-    "audioPrompt": "In a story set in an ancient city, which detail most clearly establishes the setting?",
+    "question": "In a story set in a mountain village, which detail most clearly establishes the setting?",
+    "audioPrompt": "In a story set in a mountain village, which detail most clearly establishes the setting?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -799,8 +799,8 @@ window.skillrPracticeQuestions = [
     "skill": "Characters, Events and Settings Across Contexts",
     "printable": true,
     "type": "single",
-    "question": "In a story set in an ancient city, which event would fit this setting best?",
-    "audioPrompt": "In a story set in an ancient city, which event would fit this setting best?",
+    "question": "In a story set in a mountain village, which event would fit this setting best?",
+    "audioPrompt": "In a story set in a mountain village, which event would fit this setting best?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -823,8 +823,8 @@ window.skillrPracticeQuestions = [
     "skill": "Characters, Events and Settings Across Contexts",
     "printable": true,
     "type": "single",
-    "question": "In a story set in an ancient city, a character shares scarce water with a traveller. What trait does this show?",
-    "audioPrompt": "In a story set in an ancient city, a character shares scarce water with a traveller. What trait does this show?",
+    "question": "In a story set in a mountain village, a character shares scarce water with a traveller. What trait does this show?",
+    "audioPrompt": "In a story set in a mountain village, a character shares scarce water with a traveller. What trait does this show?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -847,8 +847,8 @@ window.skillrPracticeQuestions = [
     "skill": "Characters, Events and Settings Across Contexts",
     "printable": true,
     "type": "single",
-    "question": "In a story set in an ancient city, which clue most clearly shows the story happens long ago?",
-    "audioPrompt": "In a story set in an ancient city, which clue most clearly shows the story happens long ago?",
+    "question": "In a story set in a mountain village, which clue most clearly shows the story happens long ago?",
+    "audioPrompt": "In a story set in a mountain village, which clue most clearly shows the story happens long ago?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -871,8 +871,8 @@ window.skillrPracticeQuestions = [
     "skill": "Characters, Events and Settings Across Contexts",
     "printable": true,
     "type": "single",
-    "question": "In a story set in an ancient city, why does cultural context matter when discussing a character's choice?",
-    "audioPrompt": "In a story set in an ancient city, why does cultural context matter when discussing a character's choice?",
+    "question": "In a story set in a mountain village, why does cultural context matter when discussing a character's choice?",
+    "audioPrompt": "In a story set in a mountain village, why does cultural context matter when discussing a character's choice?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -895,8 +895,8 @@ window.skillrPracticeQuestions = [
     "skill": "Characters, Events and Settings Across Contexts",
     "printable": true,
     "type": "single",
-    "question": "In a story set in an ancient city, which comparison uses evidence from two settings?",
-    "audioPrompt": "In a story set in an ancient city, which comparison uses evidence from two settings?",
+    "question": "In a story set in a mountain village, which comparison uses evidence from two settings?",
+    "audioPrompt": "In a story set in a mountain village, which comparison uses evidence from two settings?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -919,8 +919,8 @@ window.skillrPracticeQuestions = [
     "skill": "Characters, Events and Settings Across Contexts",
     "printable": true,
     "type": "single",
-    "question": "In a story set in an ancient city, how can a flood event affect a character?",
-    "audioPrompt": "In a story set in an ancient city, how can a flood event affect a character?",
+    "question": "In a story set in a mountain village, how can a flood event affect a character?",
+    "audioPrompt": "In a story set in a mountain village, how can a flood event affect a character?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -943,8 +943,8 @@ window.skillrPracticeQuestions = [
     "skill": "Characters, Events and Settings Across Contexts",
     "printable": true,
     "type": "single",
-    "question": "In a story set in an ancient city, which response respectfully discusses an unfamiliar cultural practice?",
-    "audioPrompt": "In a story set in an ancient city, which response respectfully discusses an unfamiliar cultural practice?",
+    "question": "In a story set in a mountain village, which response respectfully discusses an unfamiliar cultural practice?",
+    "audioPrompt": "In a story set in a mountain village, which response respectfully discusses an unfamiliar cultural practice?",
     "visual": "",
     "visualHtml": "",
     "answers": [

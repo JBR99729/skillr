@@ -247,14 +247,14 @@ window.skillrPracticeQuestions = [
     "skill": "Clear Joined Handwriting",
     "printable": true,
     "type": "single",
-    "question": "While copying a short poem, why do spaces between words matter?",
-    "audioPrompt": "While copying a short poem, why do spaces between words matter?",
+    "question": "Why is “They show where one word ends and the next begins” the best answer here? While copying a short poem, why do spaces between words matter?",
+    "audioPrompt": "Why is “They show where one word ends and the next begins” the best answer here? While copying a short poem, why do spaces between words matter?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "They show where one word ends and the next begins",
-      "They make letters taller",
-      "They replace punctuation"
+      "They show where one word ends and the next begins This explanation follows the relevant Year 3 English evidence.",
+      "Because “They make letters taller” sounds familiar.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 0,
     "explanation": "They show where one word ends and the next begins This explanation follows the relevant Year 3 English evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -271,14 +271,14 @@ window.skillrPracticeQuestions = [
     "skill": "Clear Joined Handwriting",
     "printable": true,
     "type": "single",
-    "question": "While copying a short poem, what does alignment describe?",
-    "audioPrompt": "While copying a short poem, what does alignment describe?",
+    "question": "Why is “How letters and words sit along the writing line” the best answer here? While copying a short poem, what does alignment describe?",
+    "audioPrompt": "Why is “How letters and words sit along the writing line” the best answer here? While copying a short poem, what does alignment describe?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "How loudly words are read",
-      "How letters and words sit along the writing line",
-      "How many ideas are in a paragraph"
+      "Because “How loudly words are read” sounds familiar.",
+      "How letters and words sit along the writing line This choice best fits the language, text or literacy evidence.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 1,
     "explanation": "How letters and words sit along the writing line This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -295,14 +295,14 @@ window.skillrPracticeQuestions = [
     "skill": "Clear Joined Handwriting",
     "printable": true,
     "type": "single",
-    "question": "While copying a short poem, a writer cannot read a joined word later. What is the best revision?",
-    "audioPrompt": "While copying a short poem, a writer cannot read a joined word later. What is the best revision?",
+    "question": "Why is “Rewrite it with clearer formation and spacing” the best answer here? While copying a short poem, a writer cannot read a joined word later. What is the best revision?",
+    "audioPrompt": "Why is “Rewrite it with clearer formation and spacing” the best answer here? While copying a short poem, a writer cannot read a joined word later. What is the best revision?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Trace over it until it is black",
-      "Remove the whole sentence",
-      "Rewrite it with clearer formation and spacing"
+      "Because “Trace over it until it is black” sounds familiar.",
+      "Because the longest-looking option should always be chosen.",
+      "Rewrite it with clearer formation and spacing This choice best fits the language, text or literacy evidence."
     ],
     "correct": 2,
     "explanation": "Rewrite it with clearer formation and spacing This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -319,14 +319,14 @@ window.skillrPracticeQuestions = [
     "skill": "Clear Joined Handwriting",
     "printable": true,
     "type": "single",
-    "question": "While copying a short poem, which practice builds fluency without losing legibility?",
-    "audioPrompt": "While copying a short poem, which practice builds fluency without losing legibility?",
+    "question": "Why is “Repeat short patterns slowly, then increase speed while checking shape” the best answer here? While copying a short poem, which practice builds fluency without losing legibility?",
+    "audioPrompt": "Why is “Repeat short patterns slowly, then increase speed while checking shape” the best answer here? While copying a short poem, which practice builds fluency without losing legibility?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Repeat short patterns slowly, then increase speed while checking shape",
-      "Write as fast as possible immediately",
-      "Use a different letter form each time"
+      "Repeat short patterns slowly, then increase speed while checking shape This choice best fits the language, text or literacy evidence.",
+      "Because “Write as fast as possible immediately” sounds familiar.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 0,
     "explanation": "Repeat short patterns slowly, then increase speed while checking shape This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -343,14 +343,14 @@ window.skillrPracticeQuestions = [
     "skill": "Clear Joined Handwriting",
     "printable": true,
     "type": "single",
-    "question": "While copying a short poem, why should capital letters remain distinct?",
-    "audioPrompt": "While copying a short poem, why should capital letters remain distinct?",
+    "question": "Why is “They signal sentence starts and proper names” the best answer here? While copying a short poem, why should capital letters remain distinct?",
+    "audioPrompt": "Why is “They signal sentence starts and proper names” the best answer here? While copying a short poem, why should capital letters remain distinct?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "They must join to every following letter",
-      "They signal sentence starts and proper names",
-      "They replace full stops"
+      "Because “They must join to every following letter” sounds familiar.",
+      "They signal sentence starts and proper names This explanation follows the relevant Year 3 English evidence.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 1,
     "explanation": "They signal sentence starts and proper names This explanation follows the relevant Year 3 English evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -367,14 +367,14 @@ window.skillrPracticeQuestions = [
     "skill": "Clear Joined Handwriting",
     "printable": true,
     "type": "single",
-    "question": "While copying a short poem, which self-check is most useful?",
-    "audioPrompt": "While copying a short poem, which self-check is most useful?",
+    "question": "Why is “Can another reader identify every word easily?” the best answer here? While copying a short poem, which self-check is most useful?",
+    "audioPrompt": "Why is “Can another reader identify every word easily?” the best answer here? While copying a short poem, which self-check is most useful?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Did I fill the whole line?",
-      "Are all letters exactly the same height?",
-      "Can another reader identify every word easily?"
+      "Because “Did I fill the whole line?” sounds familiar.",
+      "Because the longest-looking option should always be chosen.",
+      "Can another reader identify every word easily? This choice best fits the language, text or literacy evidence."
     ],
     "correct": 2,
     "explanation": "Can another reader identify every word easily? This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -391,14 +391,14 @@ window.skillrPracticeQuestions = [
     "skill": "Clear Joined Handwriting",
     "printable": true,
     "type": "single",
-    "question": "While completing a class reflection, which feature makes joined handwriting easy to read?",
-    "audioPrompt": "While completing a class reflection, which feature makes joined handwriting easy to read?",
+    "question": "Why is “Consistent letter size, spacing and alignment” the best answer here? While completing a class reflection, which feature makes joined handwriting easy to read?",
+    "audioPrompt": "Why is “Consistent letter size, spacing and alignment” the best answer here? While completing a class reflection, which feature makes joined handwriting easy to read?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Consistent letter size, spacing and alignment",
-      "Every letter touching the next word",
-      "Random changes in slope"
+      "Consistent letter size, spacing and alignment This choice best fits the language, text or literacy evidence.",
+      "Because “Every letter touching the next word” sounds familiar.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 0,
     "explanation": "Consistent letter size, spacing and alignment This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -415,14 +415,14 @@ window.skillrPracticeQuestions = [
     "skill": "Clear Joined Handwriting",
     "printable": true,
     "type": "single",
-    "question": "While completing a class reflection, when should a join be avoided?",
-    "audioPrompt": "While completing a class reflection, when should a join be avoided?",
+    "question": "Why is “When it would make the letter shape unclear” the best answer here? While completing a class reflection, when should a join be avoided?",
+    "audioPrompt": "Why is “When it would make the letter shape unclear” the best answer here? While completing a class reflection, when should a join be avoided?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Whenever two letters belong to one word",
-      "When it would make the letter shape unclear",
-      "Only at the end of a page"
+      "Because “Whenever two letters belong to one word” sounds familiar.",
+      "When it would make the letter shape unclear This choice best fits the language, text or literacy evidence.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 1,
     "explanation": "When it would make the letter shape unclear This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -439,14 +439,14 @@ window.skillrPracticeQuestions = [
     "skill": "Clear Joined Handwriting",
     "printable": true,
     "type": "single",
-    "question": "While completing a class reflection, why do spaces between words matter?",
-    "audioPrompt": "While completing a class reflection, why do spaces between words matter?",
+    "question": "Why is “They show where one word ends and the next begins” the best answer here? While completing a class reflection, why do spaces between words matter?",
+    "audioPrompt": "Why is “They show where one word ends and the next begins” the best answer here? While completing a class reflection, why do spaces between words matter?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "They make letters taller",
-      "They replace punctuation",
-      "They show where one word ends and the next begins"
+      "Because “They make letters taller” sounds familiar.",
+      "Because the longest-looking option should always be chosen.",
+      "They show where one word ends and the next begins This explanation follows the relevant Year 3 English evidence."
     ],
     "correct": 2,
     "explanation": "They show where one word ends and the next begins This explanation follows the relevant Year 3 English evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -463,14 +463,14 @@ window.skillrPracticeQuestions = [
     "skill": "Clear Joined Handwriting",
     "printable": true,
     "type": "single",
-    "question": "While completing a class reflection, what does alignment describe?",
-    "audioPrompt": "While completing a class reflection, what does alignment describe?",
+    "question": "Why is “How letters and words sit along the writing line” the best answer here? While completing a class reflection, what does alignment describe?",
+    "audioPrompt": "Why is “How letters and words sit along the writing line” the best answer here? While completing a class reflection, what does alignment describe?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "How letters and words sit along the writing line",
-      "How loudly words are read",
-      "How many ideas are in a paragraph"
+      "How letters and words sit along the writing line This choice best fits the language, text or literacy evidence.",
+      "Because “How loudly words are read” sounds familiar.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 0,
     "explanation": "How letters and words sit along the writing line This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -487,20 +487,20 @@ window.skillrPracticeQuestions = [
     "skill": "Clear Joined Handwriting",
     "printable": true,
     "type": "single",
-    "question": "While completing a class reflection, a writer cannot read a joined word later. What is the best revision?",
-    "audioPrompt": "While completing a class reflection, a writer cannot read a joined word later. What is the best revision?",
+    "question": "A student chooses “Every letter touching the next word” for this task: While writing a science observation, which feature makes joined handwriting easy to read? What should they check?",
+    "audioPrompt": "A student chooses “Every letter touching the next word” for this task: While writing a science observation, which feature makes joined handwriting easy to read? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Trace over it until it is black",
-      "Rewrite it with clearer formation and spacing",
-      "Remove the whole sentence"
+      "Keep the answer because it uses a familiar word.",
+      "Use the wording, structure and context before choosing.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 1,
-    "explanation": "Rewrite it with clearer formation and spacing This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. Consistent letter size, spacing and alignment This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Rewrite it with clearer formation and spacing This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Consistent letter size, spacing and alignment This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -511,20 +511,20 @@ window.skillrPracticeQuestions = [
     "skill": "Clear Joined Handwriting",
     "printable": true,
     "type": "single",
-    "question": "While completing a class reflection, which practice builds fluency without losing legibility?",
-    "audioPrompt": "While completing a class reflection, which practice builds fluency without losing legibility?",
+    "question": "A student chooses “Whenever two letters belong to one word” for this task: While writing a science observation, when should a join be avoided? What should they check?",
+    "audioPrompt": "A student chooses “Whenever two letters belong to one word” for this task: While writing a science observation, when should a join be avoided? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Write as fast as possible immediately",
-      "Use a different letter form each time",
-      "Repeat short patterns slowly, then increase speed while checking shape"
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option.",
+      "Use the wording, structure and context before choosing."
     ],
     "correct": 2,
-    "explanation": "Repeat short patterns slowly, then increase speed while checking shape This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. When it would make the letter shape unclear This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Repeat short patterns slowly, then increase speed while checking shape This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. When it would make the letter shape unclear This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -535,20 +535,20 @@ window.skillrPracticeQuestions = [
     "skill": "Clear Joined Handwriting",
     "printable": true,
     "type": "single",
-    "question": "While completing a class reflection, why should capital letters remain distinct?",
-    "audioPrompt": "While completing a class reflection, why should capital letters remain distinct?",
+    "question": "A student chooses “They make letters taller” for this task: While writing a science observation, why do spaces between words matter? What should they check?",
+    "audioPrompt": "A student chooses “They make letters taller” for this task: While writing a science observation, why do spaces between words matter? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "They signal sentence starts and proper names",
-      "They must join to every following letter",
-      "They replace full stops"
+      "Use the wording, structure and context before choosing.",
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 0,
-    "explanation": "They signal sentence starts and proper names This explanation follows the relevant Year 3 English evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. They show where one word ends and the next begins This explanation follows the relevant Year 3 English evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "They signal sentence starts and proper names This explanation follows the relevant Year 3 English evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. They show where one word ends and the next begins This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -559,20 +559,20 @@ window.skillrPracticeQuestions = [
     "skill": "Clear Joined Handwriting",
     "printable": true,
     "type": "single",
-    "question": "While completing a class reflection, which self-check is most useful?",
-    "audioPrompt": "While completing a class reflection, which self-check is most useful?",
+    "question": "A student chooses “How loudly words are read” for this task: While writing a science observation, what does alignment describe? What should they check?",
+    "audioPrompt": "A student chooses “How loudly words are read” for this task: While writing a science observation, what does alignment describe? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Did I fill the whole line?",
-      "Can another reader identify every word easily?",
-      "Are all letters exactly the same height?"
+      "Keep the answer because it uses a familiar word.",
+      "Use the wording, structure and context before choosing.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 1,
-    "explanation": "Can another reader identify every word easily? This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. How letters and words sit along the writing line This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Can another reader identify every word easily? This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. How letters and words sit along the writing line This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -583,20 +583,20 @@ window.skillrPracticeQuestions = [
     "skill": "Clear Joined Handwriting",
     "printable": true,
     "type": "single",
-    "question": "While labelling a project display, which feature makes joined handwriting easy to read?",
-    "audioPrompt": "While labelling a project display, which feature makes joined handwriting easy to read?",
+    "question": "A student chooses “Trace over it until it is black” for this task: While writing a science observation, a writer cannot read a joined word later. What is the best revision? What should they check?",
+    "audioPrompt": "A student chooses “Trace over it until it is black” for this task: While writing a science observation, a writer cannot read a joined word later. What is the best revision? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Every letter touching the next word",
-      "Random changes in slope",
-      "Consistent letter size, spacing and alignment"
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option.",
+      "Use the wording, structure and context before choosing."
     ],
     "correct": 2,
-    "explanation": "Consistent letter size, spacing and alignment This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. Rewrite it with clearer formation and spacing This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Consistent letter size, spacing and alignment This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Rewrite it with clearer formation and spacing This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -607,20 +607,20 @@ window.skillrPracticeQuestions = [
     "skill": "Clear Joined Handwriting",
     "printable": true,
     "type": "single",
-    "question": "While labelling a project display, when should a join be avoided?",
-    "audioPrompt": "While labelling a project display, when should a join be avoided?",
+    "question": "A student chooses “Write as fast as possible immediately” for this task: While writing a science observation, which practice builds fluency without losing legibility? What should they check?",
+    "audioPrompt": "A student chooses “Write as fast as possible immediately” for this task: While writing a science observation, which practice builds fluency without losing legibility? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "When it would make the letter shape unclear",
-      "Whenever two letters belong to one word",
-      "Only at the end of a page"
+      "Use the wording, structure and context before choosing.",
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 0,
-    "explanation": "When it would make the letter shape unclear This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. Repeat short patterns slowly, then increase speed while checking shape This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "When it would make the letter shape unclear This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Repeat short patterns slowly, then increase speed while checking shape This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -631,20 +631,20 @@ window.skillrPracticeQuestions = [
     "skill": "Clear Joined Handwriting",
     "printable": true,
     "type": "single",
-    "question": "While labelling a project display, why do spaces between words matter?",
-    "audioPrompt": "While labelling a project display, why do spaces between words matter?",
+    "question": "A student chooses “They must join to every following letter” for this task: While writing a science observation, why should capital letters remain distinct? What should they check?",
+    "audioPrompt": "A student chooses “They must join to every following letter” for this task: While writing a science observation, why should capital letters remain distinct? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "They make letters taller",
-      "They show where one word ends and the next begins",
-      "They replace punctuation"
+      "Keep the answer because it uses a familiar word.",
+      "Use the wording, structure and context before choosing.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 1,
-    "explanation": "They show where one word ends and the next begins This explanation follows the relevant Year 3 English evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. They signal sentence starts and proper names This explanation follows the relevant Year 3 English evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "They show where one word ends and the next begins This explanation follows the relevant Year 3 English evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. They signal sentence starts and proper names This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -655,20 +655,20 @@ window.skillrPracticeQuestions = [
     "skill": "Clear Joined Handwriting",
     "printable": true,
     "type": "single",
-    "question": "While labelling a project display, what does alignment describe?",
-    "audioPrompt": "While labelling a project display, what does alignment describe?",
+    "question": "A student chooses “Did I fill the whole line?” for this task: While writing a science observation, which self-check is most useful? What should they check?",
+    "audioPrompt": "A student chooses “Did I fill the whole line?” for this task: While writing a science observation, which self-check is most useful? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "How loudly words are read",
-      "How many ideas are in a paragraph",
-      "How letters and words sit along the writing line"
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option.",
+      "Use the wording, structure and context before choosing."
     ],
     "correct": 2,
-    "explanation": "How letters and words sit along the writing line This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. Can another reader identify every word easily? This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "How letters and words sit along the writing line This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Can another reader identify every word easily? This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -679,20 +679,20 @@ window.skillrPracticeQuestions = [
     "skill": "Clear Joined Handwriting",
     "printable": true,
     "type": "single",
-    "question": "While labelling a project display, a writer cannot read a joined word later. What is the best revision?",
-    "audioPrompt": "While labelling a project display, a writer cannot read a joined word later. What is the best revision?",
+    "question": "A student chooses “Every letter touching the next word” for this task: While copying a short poem, which feature makes joined handwriting easy to read? What should they check?",
+    "audioPrompt": "A student chooses “Every letter touching the next word” for this task: While copying a short poem, which feature makes joined handwriting easy to read? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Rewrite it with clearer formation and spacing",
-      "Trace over it until it is black",
-      "Remove the whole sentence"
+      "Use the wording, structure and context before choosing.",
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 0,
-    "explanation": "Rewrite it with clearer formation and spacing This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. Consistent letter size, spacing and alignment This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Rewrite it with clearer formation and spacing This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Consistent letter size, spacing and alignment This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -703,20 +703,20 @@ window.skillrPracticeQuestions = [
     "skill": "Clear Joined Handwriting",
     "printable": true,
     "type": "single",
-    "question": "While labelling a project display, which practice builds fluency without losing legibility?",
-    "audioPrompt": "While labelling a project display, which practice builds fluency without losing legibility?",
+    "question": "A student chooses “Whenever two letters belong to one word” for this task: While copying a short poem, when should a join be avoided? What should they check?",
+    "audioPrompt": "A student chooses “Whenever two letters belong to one word” for this task: While copying a short poem, when should a join be avoided? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Write as fast as possible immediately",
-      "Repeat short patterns slowly, then increase speed while checking shape",
-      "Use a different letter form each time"
+      "Keep the answer because it uses a familiar word.",
+      "Use the wording, structure and context before choosing.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 1,
-    "explanation": "Repeat short patterns slowly, then increase speed while checking shape This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. When it would make the letter shape unclear This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Repeat short patterns slowly, then increase speed while checking shape This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. When it would make the letter shape unclear This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -727,8 +727,8 @@ window.skillrPracticeQuestions = [
     "skill": "Clear Joined Handwriting",
     "printable": true,
     "type": "single",
-    "question": "While labelling a project display, why should capital letters remain distinct?",
-    "audioPrompt": "While labelling a project display, why should capital letters remain distinct?",
+    "question": "While copying a short poem, why should capital letters remain distinct?",
+    "audioPrompt": "While copying a short poem, why should capital letters remain distinct?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -751,8 +751,8 @@ window.skillrPracticeQuestions = [
     "skill": "Clear Joined Handwriting",
     "printable": true,
     "type": "single",
-    "question": "While labelling a project display, which self-check is most useful?",
-    "audioPrompt": "While labelling a project display, which self-check is most useful?",
+    "question": "While copying a short poem, which self-check is most useful?",
+    "audioPrompt": "While copying a short poem, which self-check is most useful?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -775,8 +775,8 @@ window.skillrPracticeQuestions = [
     "skill": "Clear Joined Handwriting",
     "printable": true,
     "type": "single",
-    "question": "While writing a note for a community visitor, which feature makes joined handwriting easy to read?",
-    "audioPrompt": "While writing a note for a community visitor, which feature makes joined handwriting easy to read?",
+    "question": "While completing a class reflection, which feature makes joined handwriting easy to read?",
+    "audioPrompt": "While completing a class reflection, which feature makes joined handwriting easy to read?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -799,8 +799,8 @@ window.skillrPracticeQuestions = [
     "skill": "Clear Joined Handwriting",
     "printable": true,
     "type": "single",
-    "question": "While writing a note for a community visitor, when should a join be avoided?",
-    "audioPrompt": "While writing a note for a community visitor, when should a join be avoided?",
+    "question": "While completing a class reflection, when should a join be avoided?",
+    "audioPrompt": "While completing a class reflection, when should a join be avoided?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -823,8 +823,8 @@ window.skillrPracticeQuestions = [
     "skill": "Clear Joined Handwriting",
     "printable": true,
     "type": "single",
-    "question": "While writing a note for a community visitor, why do spaces between words matter?",
-    "audioPrompt": "While writing a note for a community visitor, why do spaces between words matter?",
+    "question": "While completing a class reflection, why do spaces between words matter?",
+    "audioPrompt": "While completing a class reflection, why do spaces between words matter?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -847,8 +847,8 @@ window.skillrPracticeQuestions = [
     "skill": "Clear Joined Handwriting",
     "printable": true,
     "type": "single",
-    "question": "While writing a note for a community visitor, what does alignment describe?",
-    "audioPrompt": "While writing a note for a community visitor, what does alignment describe?",
+    "question": "While completing a class reflection, what does alignment describe?",
+    "audioPrompt": "While completing a class reflection, what does alignment describe?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -871,8 +871,8 @@ window.skillrPracticeQuestions = [
     "skill": "Clear Joined Handwriting",
     "printable": true,
     "type": "single",
-    "question": "While writing a note for a community visitor, a writer cannot read a joined word later. What is the best revision?",
-    "audioPrompt": "While writing a note for a community visitor, a writer cannot read a joined word later. What is the best revision?",
+    "question": "While completing a class reflection, a writer cannot read a joined word later. What is the best revision?",
+    "audioPrompt": "While completing a class reflection, a writer cannot read a joined word later. What is the best revision?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -895,8 +895,8 @@ window.skillrPracticeQuestions = [
     "skill": "Clear Joined Handwriting",
     "printable": true,
     "type": "single",
-    "question": "While writing a note for a community visitor, which practice builds fluency without losing legibility?",
-    "audioPrompt": "While writing a note for a community visitor, which practice builds fluency without losing legibility?",
+    "question": "While completing a class reflection, which practice builds fluency without losing legibility?",
+    "audioPrompt": "While completing a class reflection, which practice builds fluency without losing legibility?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -919,8 +919,8 @@ window.skillrPracticeQuestions = [
     "skill": "Clear Joined Handwriting",
     "printable": true,
     "type": "single",
-    "question": "While writing a note for a community visitor, why should capital letters remain distinct?",
-    "audioPrompt": "While writing a note for a community visitor, why should capital letters remain distinct?",
+    "question": "While completing a class reflection, why should capital letters remain distinct?",
+    "audioPrompt": "While completing a class reflection, why should capital letters remain distinct?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -943,8 +943,8 @@ window.skillrPracticeQuestions = [
     "skill": "Clear Joined Handwriting",
     "printable": true,
     "type": "single",
-    "question": "While writing a note for a community visitor, which self-check is most useful?",
-    "audioPrompt": "While writing a note for a community visitor, which self-check is most useful?",
+    "question": "While completing a class reflection, which self-check is most useful?",
+    "audioPrompt": "While completing a class reflection, which self-check is most useful?",
     "visual": "",
     "visualHtml": "",
     "answers": [

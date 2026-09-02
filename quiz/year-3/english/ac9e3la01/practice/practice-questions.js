@@ -247,14 +247,14 @@ window.skillrPracticeQuestions = [
     "skill": "Conversation Conventions and Formality",
     "printable": true,
     "type": "single",
-    "question": "Which action best supports cooperation while choosing a team mascot?",
-    "audioPrompt": "Which action best supports cooperation while choosing a team mascot?",
+    "question": "Why is “Wait for a pause, then speak.” the best answer here? Which action best supports cooperation while choosing a team mascot?",
+    "audioPrompt": "Why is “Wait for a pause, then speak.” the best answer here? Which action best supports cooperation while choosing a team mascot?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Repeat the same interruption.",
-      "Wait for a pause, then speak.",
-      "Talk over the group."
+      "Because “Repeat the same interruption.” sounds familiar.",
+      "Waiting for a pause helps everyone take a fair turn.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 1,
     "explanation": "Waiting for a pause helps everyone take a fair turn.\nHint: Think about how each person gets heard.",
@@ -271,14 +271,14 @@ window.skillrPracticeQuestions = [
     "skill": "Conversation Conventions and Formality",
     "printable": true,
     "type": "single",
-    "question": "Which invitation would help a quiet group member join the talk about choosing a team mascot?",
-    "audioPrompt": "Which invitation would help a quiet group member join the talk about choosing a team mascot?",
+    "question": "Why is “Would you like to share your idea?” the best answer here? Which invitation would help a quiet group member join the talk about choosing a team mascot?",
+    "audioPrompt": "Why is “Would you like to share your idea?” the best answer here? Which invitation would help a quiet group member join the talk about choosing a team mascot?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "You have nothing to say, do you?",
-      "Do not speak yet.",
-      "Would you like to share your idea?"
+      "Because “You have nothing to say, do you?” sounds familiar.",
+      "Because the longest-looking option should always be chosen.",
+      "A respectful invitation makes space for another speaker."
     ],
     "correct": 2,
     "explanation": "A respectful invitation makes space for another speaker.\nHint: Choose the wording that welcomes a contribution.",
@@ -295,14 +295,14 @@ window.skillrPracticeQuestions = [
     "skill": "Conversation Conventions and Formality",
     "printable": true,
     "type": "single",
-    "question": "Someone misunderstands your point about choosing a team mascot. Which reply repairs the conversation?",
-    "audioPrompt": "Someone misunderstands your point about choosing a team mascot. Which reply repairs the conversation?",
+    "question": "Why is “I may not have explained clearly. I meant that we could try it first.” the best answer here? Someone misunderstands your point about choosing a team mascot. Which reply repairs the conversation?",
+    "audioPrompt": "Why is “I may not have explained clearly. I meant that we could try it first.” the best answer here? Someone misunderstands your point about choosing a team mascot. Which reply repairs the conversation?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "I may not have explained clearly. I meant that we could try it first.",
-      "You never listen properly.",
-      "Forget it. I will not explain."
+      "A repair calmly clarifies meaning without blaming the listener.",
+      "Because “You never listen properly.” sounds familiar.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 0,
     "explanation": "A repair calmly clarifies meaning without blaming the listener.\nHint: Find the reply that explains again respectfully.",
@@ -319,14 +319,14 @@ window.skillrPracticeQuestions = [
     "skill": "Conversation Conventions and Formality",
     "printable": true,
     "type": "single",
-    "question": "Which wording is best suited to a friend during choosing a team mascot?",
-    "audioPrompt": "Which wording is best suited to a friend during choosing a team mascot?",
+    "question": "Why is “I heard your idea. May I suggest a dolphin?” the best answer here? Which wording is best suited to a friend during choosing a team mascot?",
+    "audioPrompt": "Why is “I heard your idea. May I suggest a dolphin?” the best answer here? Which wording is best suited to a friend during choosing a team mascot?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Move over. My turn.",
-      "I heard your idea. May I suggest a dolphin?",
-      "Hey, listen to me right now."
+      "Because “Move over. My turn.” sounds familiar.",
+      "Language changes with audience and formality.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 1,
     "explanation": "Language changes with audience and formality.\nHint: Notice who is being addressed.",
@@ -343,14 +343,14 @@ window.skillrPracticeQuestions = [
     "skill": "Conversation Conventions and Formality",
     "printable": true,
     "type": "single",
-    "question": "Two people begin speaking together during choosing a team mascot. What is the most cooperative response?",
-    "audioPrompt": "Two people begin speaking together during choosing a team mascot. What is the most cooperative response?",
+    "question": "Why is “One speaker pauses and invites the other to continue.” the best answer here? Two people begin speaking together during choosing a team mascot. What is the most cooperative response?",
+    "audioPrompt": "Why is “One speaker pauses and invites the other to continue.” the best answer here? Two people begin speaking together during choosing a team mascot. What is the most cooperative response?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Both speakers talk louder.",
-      "One speaker insults the other.",
-      "One speaker pauses and invites the other to continue."
+      "Because “Both speakers talk louder.” sounds familiar.",
+      "Because the longest-looking option should always be chosen.",
+      "Cooperation means managing an accidental overlap respectfully."
     ],
     "correct": 2,
     "explanation": "Cooperation means managing an accidental overlap respectfully.\nHint: Choose the action that restores orderly turns.",
@@ -367,14 +367,14 @@ window.skillrPracticeQuestions = [
     "skill": "Conversation Conventions and Formality",
     "printable": true,
     "type": "single",
-    "question": "Which chairperson comment keeps the discussion about choosing a team mascot moving fairly?",
-    "audioPrompt": "Which chairperson comment keeps the discussion about choosing a team mascot moving fairly?",
+    "question": "Why is “We have heard one view. Let us invite another speaker.” the best answer here? Which chairperson comment keeps the discussion about choosing a team mascot moving fairly?",
+    "audioPrompt": "Why is “We have heard one view. Let us invite another speaker.” the best answer here? Which chairperson comment keeps the discussion about choosing a team mascot moving fairly?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "We have heard one view. Let us invite another speaker.",
-      "Only my friends may answer.",
-      "I will give every answer myself."
+      "A chairperson can acknowledge one view and invite another.",
+      "Because “Only my friends may answer.” sounds familiar.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 0,
     "explanation": "A chairperson can acknowledge one view and invite another.\nHint: Look for fair speaking opportunities.",
@@ -391,14 +391,14 @@ window.skillrPracticeQuestions = [
     "skill": "Conversation Conventions and Formality",
     "printable": true,
     "type": "single",
-    "question": "During discussing playground shade, which response politely takes a turn with the teacher?",
-    "audioPrompt": "During discussing playground shade, which response politely takes a turn with the teacher?",
+    "question": "Why is “Excuse me, may I respond to that point?” the best answer here? During discussing playground shade, which response politely takes a turn with the teacher?",
+    "audioPrompt": "Why is “Excuse me, may I respond to that point?” the best answer here? During discussing playground shade, which response politely takes a turn with the teacher?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "I am speaking now, so everyone stop.",
-      "Excuse me, may I respond to that point?",
-      "Your idea does not matter."
+      "Because “I am speaking now, so everyone stop.” sounds familiar.",
+      "Polite turn-taking acknowledges the audience and asks to contribute.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 1,
     "explanation": "Polite turn-taking acknowledges the audience and asks to contribute.\nHint: Choose language that shares speaking time.",
@@ -415,14 +415,14 @@ window.skillrPracticeQuestions = [
     "skill": "Conversation Conventions and Formality",
     "printable": true,
     "type": "single",
-    "question": "A speaker finishes a point during discussing playground shade. What should an active listener do next?",
-    "audioPrompt": "A speaker finishes a point during discussing playground shade. What should an active listener do next?",
+    "question": "Why is “Refer to the point before adding a new idea.” the best answer here? A speaker finishes a point during discussing playground shade. What should an active listener do next?",
+    "audioPrompt": "Why is “Refer to the point before adding a new idea.” the best answer here? A speaker finishes a point during discussing playground shade. What should an active listener do next?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Change the topic without responding.",
-      "Begin talking before the speaker finishes.",
-      "Refer to the point before adding a new idea."
+      "Because “Change the topic without responding.” sounds familiar.",
+      "Because the longest-looking option should always be chosen.",
+      "Active listeners connect their response to what was said."
     ],
     "correct": 2,
     "explanation": "Active listeners connect their response to what was said.\nHint: Look for a response that proves the listener paid attention.",
@@ -439,14 +439,14 @@ window.skillrPracticeQuestions = [
     "skill": "Conversation Conventions and Formality",
     "printable": true,
     "type": "single",
-    "question": "Which action best supports cooperation while discussing playground shade?",
-    "audioPrompt": "Which action best supports cooperation while discussing playground shade?",
+    "question": "Why is “Wait for a pause, then speak.” the best answer here? Which action best supports cooperation while discussing playground shade?",
+    "audioPrompt": "Why is “Wait for a pause, then speak.” the best answer here? Which action best supports cooperation while discussing playground shade?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Wait for a pause, then speak.",
-      "Repeat the same interruption.",
-      "Talk over the group."
+      "Waiting for a pause helps everyone take a fair turn.",
+      "Because “Repeat the same interruption.” sounds familiar.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 0,
     "explanation": "Waiting for a pause helps everyone take a fair turn.\nHint: Think about how each person gets heard.",
@@ -463,14 +463,14 @@ window.skillrPracticeQuestions = [
     "skill": "Conversation Conventions and Formality",
     "printable": true,
     "type": "single",
-    "question": "Which invitation would help a quiet group member join the talk about discussing playground shade?",
-    "audioPrompt": "Which invitation would help a quiet group member join the talk about discussing playground shade?",
+    "question": "Why is “Would you like to share your idea?” the best answer here? Which invitation would help a quiet group member join the talk about discussing playground shade?",
+    "audioPrompt": "Why is “Would you like to share your idea?” the best answer here? Which invitation would help a quiet group member join the talk about discussing playground shade?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "You have nothing to say, do you?",
-      "Would you like to share your idea?",
-      "Do not speak yet."
+      "Because “You have nothing to say, do you?” sounds familiar.",
+      "A respectful invitation makes space for another speaker.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 1,
     "explanation": "A respectful invitation makes space for another speaker.\nHint: Choose the wording that welcomes a contribution.",
@@ -487,20 +487,20 @@ window.skillrPracticeQuestions = [
     "skill": "Conversation Conventions and Formality",
     "printable": true,
     "type": "single",
-    "question": "Someone misunderstands your point about discussing playground shade. Which reply repairs the conversation?",
-    "audioPrompt": "Someone misunderstands your point about discussing playground shade. Which reply repairs the conversation?",
+    "question": "A student chooses “I am speaking now, so everyone stop.” for this task: During planning a class garden, which response politely takes a turn with a classmate? What should they check?",
+    "audioPrompt": "A student chooses “I am speaking now, so everyone stop.” for this task: During planning a class garden, which response politely takes a turn with a classmate? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "You never listen properly.",
-      "Forget it. I will not explain.",
-      "I may not have explained clearly. I meant that we could try it first."
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option.",
+      "Choose language that shares speaking time."
     ],
     "correct": 2,
-    "explanation": "A repair calmly clarifies meaning without blaming the listener.\nHint: Find the reply that explains again respectfully.",
+    "explanation": "Choose language that shares speaking time. Polite turn-taking acknowledges the audience and asks to contribute.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "A repair calmly clarifies meaning without blaming the listener.",
-      "hint": "Find the reply that explains again respectfully."
+      "summary": "Choose language that shares speaking time. Polite turn-taking acknowledges the audience and asks to contribute.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -511,20 +511,20 @@ window.skillrPracticeQuestions = [
     "skill": "Conversation Conventions and Formality",
     "printable": true,
     "type": "single",
-    "question": "Which wording is best suited to the teacher during discussing playground shade?",
-    "audioPrompt": "Which wording is best suited to the teacher during discussing playground shade?",
+    "question": "A student chooses “Change the topic without responding.” for this task: A speaker finishes a point during planning a class garden. What should an active listener do next? What should they check?",
+    "audioPrompt": "A student chooses “Change the topic without responding.” for this task: A speaker finishes a point during planning a class garden. What should an active listener do next? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Excuse me, may I respond to that point?",
-      "Move over. My turn.",
-      "Hey, listen to me right now."
+      "Look for a response that proves the listener paid attention.",
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 0,
-    "explanation": "Language changes with audience and formality.\nHint: Notice who is being addressed.",
+    "explanation": "Look for a response that proves the listener paid attention. Active listeners connect their response to what was said.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Language changes with audience and formality.",
-      "hint": "Notice who is being addressed."
+      "summary": "Look for a response that proves the listener paid attention. Active listeners connect their response to what was said.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -535,20 +535,20 @@ window.skillrPracticeQuestions = [
     "skill": "Conversation Conventions and Formality",
     "printable": true,
     "type": "single",
-    "question": "Two people begin speaking together during discussing playground shade. What is the most cooperative response?",
-    "audioPrompt": "Two people begin speaking together during discussing playground shade. What is the most cooperative response?",
+    "question": "A student chooses “Repeat the same interruption.” for this task: Which action best supports cooperation while planning a class garden? What should they check?",
+    "audioPrompt": "A student chooses “Repeat the same interruption.” for this task: Which action best supports cooperation while planning a class garden? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Both speakers talk louder.",
-      "One speaker pauses and invites the other to continue.",
-      "One speaker insults the other."
+      "Keep the answer because it uses a familiar word.",
+      "Think about how each person gets heard.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 1,
-    "explanation": "Cooperation means managing an accidental overlap respectfully.\nHint: Choose the action that restores orderly turns.",
+    "explanation": "Think about how each person gets heard. Waiting for a pause helps everyone take a fair turn.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Cooperation means managing an accidental overlap respectfully.",
-      "hint": "Choose the action that restores orderly turns."
+      "summary": "Think about how each person gets heard. Waiting for a pause helps everyone take a fair turn.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -559,20 +559,20 @@ window.skillrPracticeQuestions = [
     "skill": "Conversation Conventions and Formality",
     "printable": true,
     "type": "single",
-    "question": "Which chairperson comment keeps the discussion about discussing playground shade moving fairly?",
-    "audioPrompt": "Which chairperson comment keeps the discussion about discussing playground shade moving fairly?",
+    "question": "A student chooses “You have nothing to say, do you?” for this task: Which invitation would help a quiet group member join the talk about planning a class garden? What should they check?",
+    "audioPrompt": "A student chooses “You have nothing to say, do you?” for this task: Which invitation would help a quiet group member join the talk about planning a class garden? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Only my friends may answer.",
-      "I will give every answer myself.",
-      "We have heard one view. Let us invite another speaker."
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option.",
+      "Choose the wording that welcomes a contribution."
     ],
     "correct": 2,
-    "explanation": "A chairperson can acknowledge one view and invite another.\nHint: Look for fair speaking opportunities.",
+    "explanation": "Choose the wording that welcomes a contribution. A respectful invitation makes space for another speaker.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "A chairperson can acknowledge one view and invite another.",
-      "hint": "Look for fair speaking opportunities."
+      "summary": "Choose the wording that welcomes a contribution. A respectful invitation makes space for another speaker.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -583,20 +583,20 @@ window.skillrPracticeQuestions = [
     "skill": "Conversation Conventions and Formality",
     "printable": true,
     "type": "single",
-    "question": "During asking the principal about a library, which response politely takes a turn with the principal?",
-    "audioPrompt": "During asking the principal about a library, which response politely takes a turn with the principal?",
+    "question": "A student chooses “You never listen properly.” for this task: Someone misunderstands your point about planning a class garden. Which reply repairs the conversation? What should they check?",
+    "audioPrompt": "A student chooses “You never listen properly.” for this task: Someone misunderstands your point about planning a class garden. Which reply repairs the conversation? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Good morning. May I ask a question about the library?",
-      "I am speaking now, so everyone stop.",
-      "Your idea does not matter."
+      "Find the reply that explains again respectfully.",
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 0,
-    "explanation": "Polite turn-taking acknowledges the audience and asks to contribute.\nHint: Choose language that shares speaking time.",
+    "explanation": "Find the reply that explains again respectfully. A repair calmly clarifies meaning without blaming the listener.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Polite turn-taking acknowledges the audience and asks to contribute.",
-      "hint": "Choose language that shares speaking time."
+      "summary": "Find the reply that explains again respectfully. A repair calmly clarifies meaning without blaming the listener.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -607,20 +607,20 @@ window.skillrPracticeQuestions = [
     "skill": "Conversation Conventions and Formality",
     "printable": true,
     "type": "single",
-    "question": "A speaker finishes a point during asking the principal about a library. What should an active listener do next?",
-    "audioPrompt": "A speaker finishes a point during asking the principal about a library. What should an active listener do next?",
+    "question": "A student chooses “Move over. My turn.” for this task: Which wording is best suited to a classmate during planning a class garden? What should they check?",
+    "audioPrompt": "A student chooses “Move over. My turn.” for this task: Which wording is best suited to a classmate during planning a class garden? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Change the topic without responding.",
-      "Refer to the point before adding a new idea.",
-      "Begin talking before the speaker finishes."
+      "Keep the answer because it uses a familiar word.",
+      "Notice who is being addressed.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 1,
-    "explanation": "Active listeners connect their response to what was said.\nHint: Look for a response that proves the listener paid attention.",
+    "explanation": "Notice who is being addressed. Language changes with audience and formality.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Active listeners connect their response to what was said.",
-      "hint": "Look for a response that proves the listener paid attention."
+      "summary": "Notice who is being addressed. Language changes with audience and formality.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -631,20 +631,20 @@ window.skillrPracticeQuestions = [
     "skill": "Conversation Conventions and Formality",
     "printable": true,
     "type": "single",
-    "question": "Which action best supports cooperation while asking the principal about a library?",
-    "audioPrompt": "Which action best supports cooperation while asking the principal about a library?",
+    "question": "A student chooses “Both speakers talk louder.” for this task: Two people begin speaking together during planning a class garden. What is the most cooperative response? What should they check?",
+    "audioPrompt": "A student chooses “Both speakers talk louder.” for this task: Two people begin speaking together during planning a class garden. What is the most cooperative response? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Repeat the same interruption.",
-      "Talk over the group.",
-      "Wait for a pause, then speak."
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option.",
+      "Choose the action that restores orderly turns."
     ],
     "correct": 2,
-    "explanation": "Waiting for a pause helps everyone take a fair turn.\nHint: Think about how each person gets heard.",
+    "explanation": "Choose the action that restores orderly turns. Cooperation means managing an accidental overlap respectfully.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Waiting for a pause helps everyone take a fair turn.",
-      "hint": "Think about how each person gets heard."
+      "summary": "Choose the action that restores orderly turns. Cooperation means managing an accidental overlap respectfully.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -655,20 +655,20 @@ window.skillrPracticeQuestions = [
     "skill": "Conversation Conventions and Formality",
     "printable": true,
     "type": "single",
-    "question": "Which invitation would help a quiet group member join the talk about asking the principal about a library?",
-    "audioPrompt": "Which invitation would help a quiet group member join the talk about asking the principal about a library?",
+    "question": "A student chooses “Only my friends may answer.” for this task: Which chairperson comment keeps the discussion about planning a class garden moving fairly? What should they check?",
+    "audioPrompt": "A student chooses “Only my friends may answer.” for this task: Which chairperson comment keeps the discussion about planning a class garden moving fairly? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Would you like to share your idea?",
-      "You have nothing to say, do you?",
-      "Do not speak yet."
+      "Look for fair speaking opportunities.",
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 0,
-    "explanation": "A respectful invitation makes space for another speaker.\nHint: Choose the wording that welcomes a contribution.",
+    "explanation": "Look for fair speaking opportunities. A chairperson can acknowledge one view and invite another.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "A respectful invitation makes space for another speaker.",
-      "hint": "Choose the wording that welcomes a contribution."
+      "summary": "Look for fair speaking opportunities. A chairperson can acknowledge one view and invite another.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -679,20 +679,20 @@ window.skillrPracticeQuestions = [
     "skill": "Conversation Conventions and Formality",
     "printable": true,
     "type": "single",
-    "question": "Someone misunderstands your point about asking the principal about a library. Which reply repairs the conversation?",
-    "audioPrompt": "Someone misunderstands your point about asking the principal about a library. Which reply repairs the conversation?",
+    "question": "A student chooses “I am speaking now, so everyone stop.” for this task: During choosing a team mascot, which response politely takes a turn with a friend? What should they check?",
+    "audioPrompt": "A student chooses “I am speaking now, so everyone stop.” for this task: During choosing a team mascot, which response politely takes a turn with a friend? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "You never listen properly.",
-      "I may not have explained clearly. I meant that we could try it first.",
-      "Forget it. I will not explain."
+      "Keep the answer because it uses a familiar word.",
+      "Choose language that shares speaking time.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 1,
-    "explanation": "A repair calmly clarifies meaning without blaming the listener.\nHint: Find the reply that explains again respectfully.",
+    "explanation": "Choose language that shares speaking time. Polite turn-taking acknowledges the audience and asks to contribute.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "A repair calmly clarifies meaning without blaming the listener.",
-      "hint": "Find the reply that explains again respectfully."
+      "summary": "Choose language that shares speaking time. Polite turn-taking acknowledges the audience and asks to contribute.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -703,20 +703,20 @@ window.skillrPracticeQuestions = [
     "skill": "Conversation Conventions and Formality",
     "printable": true,
     "type": "single",
-    "question": "Which wording is best suited to the principal during asking the principal about a library?",
-    "audioPrompt": "Which wording is best suited to the principal during asking the principal about a library?",
+    "question": "A student chooses “Change the topic without responding.” for this task: A speaker finishes a point during choosing a team mascot. What should an active listener do next? What should they check?",
+    "audioPrompt": "A student chooses “Change the topic without responding.” for this task: A speaker finishes a point during choosing a team mascot. What should an active listener do next? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Move over. My turn.",
-      "Hey, listen to me right now.",
-      "Good morning. May I ask a question about the library?"
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option.",
+      "Look for a response that proves the listener paid attention."
     ],
     "correct": 2,
-    "explanation": "Language changes with audience and formality.\nHint: Notice who is being addressed.",
+    "explanation": "Look for a response that proves the listener paid attention. Active listeners connect their response to what was said.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Language changes with audience and formality.",
-      "hint": "Notice who is being addressed."
+      "summary": "Look for a response that proves the listener paid attention. Active listeners connect their response to what was said.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -727,8 +727,8 @@ window.skillrPracticeQuestions = [
     "skill": "Conversation Conventions and Formality",
     "printable": true,
     "type": "single",
-    "question": "Two people begin speaking together during asking the principal about a library. What is the most cooperative response?",
-    "audioPrompt": "Two people begin speaking together during asking the principal about a library. What is the most cooperative response?",
+    "question": "Two people begin speaking together during choosing a team mascot. What is the most cooperative response?",
+    "audioPrompt": "Two people begin speaking together during choosing a team mascot. What is the most cooperative response?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -751,8 +751,8 @@ window.skillrPracticeQuestions = [
     "skill": "Conversation Conventions and Formality",
     "printable": true,
     "type": "single",
-    "question": "Which chairperson comment keeps the discussion about asking the principal about a library moving fairly?",
-    "audioPrompt": "Which chairperson comment keeps the discussion about asking the principal about a library moving fairly?",
+    "question": "Which chairperson comment keeps the discussion about choosing a team mascot moving fairly?",
+    "audioPrompt": "Which chairperson comment keeps the discussion about choosing a team mascot moving fairly?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -775,14 +775,14 @@ window.skillrPracticeQuestions = [
     "skill": "Conversation Conventions and Formality",
     "printable": true,
     "type": "single",
-    "question": "During chairing a school council meeting, which response politely takes a turn with the council?",
-    "audioPrompt": "During chairing a school council meeting, which response politely takes a turn with the council?",
+    "question": "During discussing playground shade, which response politely takes a turn with the teacher?",
+    "audioPrompt": "During discussing playground shade, which response politely takes a turn with the teacher?",
     "visual": "",
     "visualHtml": "",
     "answers": [
       "I am speaking now, so everyone stop.",
       "Your idea does not matter.",
-      "Thank you, Priya. Noah, would you like to speak next?"
+      "Excuse me, may I respond to that point?"
     ],
     "correct": 2,
     "explanation": "Polite turn-taking acknowledges the audience and asks to contribute.\nHint: Choose language that shares speaking time.",
@@ -799,8 +799,8 @@ window.skillrPracticeQuestions = [
     "skill": "Conversation Conventions and Formality",
     "printable": true,
     "type": "single",
-    "question": "A speaker finishes a point during chairing a school council meeting. What should an active listener do next?",
-    "audioPrompt": "A speaker finishes a point during chairing a school council meeting. What should an active listener do next?",
+    "question": "A speaker finishes a point during discussing playground shade. What should an active listener do next?",
+    "audioPrompt": "A speaker finishes a point during discussing playground shade. What should an active listener do next?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -823,8 +823,8 @@ window.skillrPracticeQuestions = [
     "skill": "Conversation Conventions and Formality",
     "printable": true,
     "type": "single",
-    "question": "Which action best supports cooperation while chairing a school council meeting?",
-    "audioPrompt": "Which action best supports cooperation while chairing a school council meeting?",
+    "question": "Which action best supports cooperation while discussing playground shade?",
+    "audioPrompt": "Which action best supports cooperation while discussing playground shade?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -847,8 +847,8 @@ window.skillrPracticeQuestions = [
     "skill": "Conversation Conventions and Formality",
     "printable": true,
     "type": "single",
-    "question": "Which invitation would help a quiet group member join the talk about chairing a school council meeting?",
-    "audioPrompt": "Which invitation would help a quiet group member join the talk about chairing a school council meeting?",
+    "question": "Which invitation would help a quiet group member join the talk about discussing playground shade?",
+    "audioPrompt": "Which invitation would help a quiet group member join the talk about discussing playground shade?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -871,8 +871,8 @@ window.skillrPracticeQuestions = [
     "skill": "Conversation Conventions and Formality",
     "printable": true,
     "type": "single",
-    "question": "Someone misunderstands your point about chairing a school council meeting. Which reply repairs the conversation?",
-    "audioPrompt": "Someone misunderstands your point about chairing a school council meeting. Which reply repairs the conversation?",
+    "question": "Someone misunderstands your point about discussing playground shade. Which reply repairs the conversation?",
+    "audioPrompt": "Someone misunderstands your point about discussing playground shade. Which reply repairs the conversation?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -895,13 +895,13 @@ window.skillrPracticeQuestions = [
     "skill": "Conversation Conventions and Formality",
     "printable": true,
     "type": "single",
-    "question": "Which wording is best suited to the council during chairing a school council meeting?",
-    "audioPrompt": "Which wording is best suited to the council during chairing a school council meeting?",
+    "question": "Which wording is best suited to the teacher during discussing playground shade?",
+    "audioPrompt": "Which wording is best suited to the teacher during discussing playground shade?",
     "visual": "",
     "visualHtml": "",
     "answers": [
       "Move over. My turn.",
-      "Thank you, Priya. Noah, would you like to speak next?",
+      "Excuse me, may I respond to that point?",
       "Hey, listen to me right now."
     ],
     "correct": 1,
@@ -919,8 +919,8 @@ window.skillrPracticeQuestions = [
     "skill": "Conversation Conventions and Formality",
     "printable": true,
     "type": "single",
-    "question": "Two people begin speaking together during chairing a school council meeting. What is the most cooperative response?",
-    "audioPrompt": "Two people begin speaking together during chairing a school council meeting. What is the most cooperative response?",
+    "question": "Two people begin speaking together during discussing playground shade. What is the most cooperative response?",
+    "audioPrompt": "Two people begin speaking together during discussing playground shade. What is the most cooperative response?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -943,8 +943,8 @@ window.skillrPracticeQuestions = [
     "skill": "Conversation Conventions and Formality",
     "printable": true,
     "type": "single",
-    "question": "Which chairperson comment keeps the discussion about chairing a school council meeting moving fairly?",
-    "audioPrompt": "Which chairperson comment keeps the discussion about chairing a school council meeting moving fairly?",
+    "question": "Which chairperson comment keeps the discussion about discussing playground shade moving fairly?",
+    "audioPrompt": "Which chairperson comment keeps the discussion about discussing playground shade moving fairly?",
     "visual": "",
     "visualHtml": "",
     "answers": [

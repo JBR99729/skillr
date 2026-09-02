@@ -307,19 +307,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Same Purpose, Different Audiences",
-    "question": "For an excursion reminder, what can stay the same when texts target different audiences?",
-    "audio_prompt": "For an excursion reminder, what can stay the same when texts target different audiences?",
+    "question": "Why is “The central purpose” the best answer here? For an excursion reminder, what can stay the same when texts target different audiences?",
+    "audio_prompt": "Why is “The central purpose” the best answer here? For an excursion reminder, what can stay the same when texts target different audiences?",
     "answers": [
       {
-        "text": "Every word and image",
+        "text": "Because “Every word and image” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "The reading difficulty",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "The central purpose",
+        "text": "The central purpose This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       }
     ],
@@ -337,19 +337,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Same Purpose, Different Audiences",
-    "question": "For an excursion reminder, which wording best suits a public school notice?",
-    "audio_prompt": "For an excursion reminder, which wording best suits a public school notice?",
+    "question": "Why is “Please place bottles in the marked recycling bins” the best answer here? For an excursion reminder, which wording best suits a public school notice?",
+    "audio_prompt": "Why is “Please place bottles in the marked recycling bins” the best answer here? For an excursion reminder, which wording best suits a public school notice?",
     "answers": [
       {
-        "text": "Please place bottles in the marked recycling bins",
+        "text": "Please place bottles in the marked recycling bins This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "Chuck bottles over here",
+        "text": "Because “Chuck bottles over here” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "You know what to do",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -367,19 +367,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Same Purpose, Different Audiences",
-    "question": "For an excursion reminder, why might two texts use different images for the same purpose?",
-    "audio_prompt": "For an excursion reminder, why might two texts use different images for the same purpose?",
+    "question": "Why is “Their audiences may need different examples or detail” the best answer here? For an excursion reminder, why might two texts use different images for the same purpose?",
+    "audio_prompt": "Why is “Their audiences may need different examples or detail” the best answer here? For an excursion reminder, why might two texts use different images for the same purpose?",
     "answers": [
       {
-        "text": "One purpose must be incorrect",
+        "text": "Because “One purpose must be incorrect” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Their audiences may need different examples or detail",
+        "text": "Their audiences may need different examples or detail This explanation follows the relevant Year 3 English evidence.",
         "is_correct": true
       },
       {
-        "text": "Images cannot support purpose",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -397,19 +397,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Same Purpose, Different Audiences",
-    "question": "For an excursion reminder, which revision makes a message more formal?",
-    "audio_prompt": "For an excursion reminder, which revision makes a message more formal?",
+    "question": "Why is “Replace slang with polite precise wording” the best answer here? For an excursion reminder, which revision makes a message more formal?",
+    "audio_prompt": "Why is “Replace slang with polite precise wording” the best answer here? For an excursion reminder, which revision makes a message more formal?",
     "answers": [
       {
-        "text": "Add more emojis",
+        "text": "Because “Add more emojis” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Remove the greeting",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "Replace slang with polite precise wording",
+        "text": "Replace slang with polite precise wording This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       }
     ],
@@ -427,19 +427,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Same Purpose, Different Audiences",
-    "question": "For an excursion reminder, which feature helps families act on an event notice?",
-    "audio_prompt": "For an excursion reminder, which feature helps families act on an event notice?",
+    "question": "Why is “A clear date, time and location” the best answer here? For an excursion reminder, which feature helps families act on an event notice?",
+    "audio_prompt": "Why is “A clear date, time and location” the best answer here? For an excursion reminder, which feature helps families act on an event notice?",
     "answers": [
       {
-        "text": "A clear date, time and location",
+        "text": "A clear date, time and location This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "A mystery ending",
+        "text": "Because “A mystery ending” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "An unrelated rhyme",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -457,19 +457,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Same Purpose, Different Audiences",
-    "question": "For an excursion reminder, how should a technical word be handled for younger readers?",
-    "audio_prompt": "For an excursion reminder, how should a technical word be handled for younger readers?",
+    "question": "Why is “Explain it simply or replace it with a familiar accurate term” the best answer here? For an excursion reminder, how should a technical word be handled for younger readers?",
+    "audio_prompt": "Why is “Explain it simply or replace it with a familiar accurate term” the best answer here? For an excursion reminder, how should a technical word be handled for younger readers?",
     "answers": [
       {
-        "text": "Use it repeatedly without meaning",
+        "text": "Because “Use it repeatedly without meaning” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Explain it simply or replace it with a familiar accurate term",
+        "text": "Explain it simply or replace it with a familiar accurate term This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "Delete the whole idea",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -487,19 +487,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Same Purpose, Different Audiences",
-    "question": "For a library invitation, which greeting best suits a formal message to the principal?",
-    "audio_prompt": "For a library invitation, which greeting best suits a formal message to the principal?",
+    "question": "Why is “Dear Principal Chen” the best answer here? For a library invitation, which greeting best suits a formal message to the principal?",
+    "audio_prompt": "Why is “Dear Principal Chen” the best answer here? For a library invitation, which greeting best suits a formal message to the principal?",
     "answers": [
       {
-        "text": "Hey mate",
+        "text": "Because “Hey mate” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Yo there",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "Dear Principal Chen",
+        "text": "Dear Principal Chen This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       }
     ],
@@ -517,19 +517,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Same Purpose, Different Audiences",
-    "question": "For a library invitation, how should instructions for younger students be adapted?",
-    "audio_prompt": "For a library invitation, how should instructions for younger students be adapted?",
+    "question": "Why is “Use short clear steps and helpful pictures” the best answer here? For a library invitation, how should instructions for younger students be adapted?",
+    "audio_prompt": "Why is “Use short clear steps and helpful pictures” the best answer here? For a library invitation, how should instructions for younger students be adapted?",
     "answers": [
       {
-        "text": "Use short clear steps and helpful pictures",
+        "text": "Use short clear steps and helpful pictures This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "Use unexplained technical terms",
+        "text": "Because “Use unexplained technical terms” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Remove the main purpose",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -547,19 +547,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Same Purpose, Different Audiences",
-    "question": "For a library invitation, what can stay the same when texts target different audiences?",
-    "audio_prompt": "For a library invitation, what can stay the same when texts target different audiences?",
+    "question": "Why is “The central purpose” the best answer here? For a library invitation, what can stay the same when texts target different audiences?",
+    "audio_prompt": "Why is “The central purpose” the best answer here? For a library invitation, what can stay the same when texts target different audiences?",
     "answers": [
       {
-        "text": "Every word and image",
+        "text": "Because “Every word and image” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "The central purpose",
+        "text": "The central purpose This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "The reading difficulty",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -577,19 +577,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Same Purpose, Different Audiences",
-    "question": "For a library invitation, which wording best suits a public school notice?",
-    "audio_prompt": "For a library invitation, which wording best suits a public school notice?",
+    "question": "Why is “Please place bottles in the marked recycling bins” the best answer here? For a library invitation, which wording best suits a public school notice?",
+    "audio_prompt": "Why is “Please place bottles in the marked recycling bins” the best answer here? For a library invitation, which wording best suits a public school notice?",
     "answers": [
       {
-        "text": "Chuck bottles over here",
+        "text": "Because “Chuck bottles over here” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "You know what to do",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "Please place bottles in the marked recycling bins",
+        "text": "Please place bottles in the marked recycling bins This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       }
     ],
@@ -607,26 +607,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Same Purpose, Different Audiences",
-    "question": "For a library invitation, why might two texts use different images for the same purpose?",
-    "audio_prompt": "For a library invitation, why might two texts use different images for the same purpose?",
+    "question": "A student chooses “Hey mate” for this task: For a water-saving message, which greeting best suits a formal message to the principal? What should they check?",
+    "audio_prompt": "A student chooses “Hey mate” for this task: For a water-saving message, which greeting best suits a formal message to the principal? What should they check?",
     "answers": [
       {
-        "text": "Their audiences may need different examples or detail",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "One purpose must be incorrect",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Images cannot support purpose",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Their audiences may need different examples or detail This explanation follows the relevant Year 3 English evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Dear Principal Chen This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -637,26 +637,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Same Purpose, Different Audiences",
-    "question": "For a library invitation, which revision makes a message more formal?",
-    "audio_prompt": "For a library invitation, which revision makes a message more formal?",
+    "question": "A student chooses “Use unexplained technical terms” for this task: For a water-saving message, how should instructions for younger students be adapted? What should they check?",
+    "audio_prompt": "A student chooses “Use unexplained technical terms” for this task: For a water-saving message, how should instructions for younger students be adapted? What should they check?",
     "answers": [
       {
-        "text": "Add more emojis",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Replace slang with polite precise wording",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "Remove the greeting",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Replace slang with polite precise wording This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Use short clear steps and helpful pictures This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -667,26 +667,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Same Purpose, Different Audiences",
-    "question": "For a library invitation, which feature helps families act on an event notice?",
-    "audio_prompt": "For a library invitation, which feature helps families act on an event notice?",
+    "question": "A student chooses “Every word and image” for this task: For a water-saving message, what can stay the same when texts target different audiences? What should they check?",
+    "audio_prompt": "A student chooses “Every word and image” for this task: For a water-saving message, what can stay the same when texts target different audiences? What should they check?",
     "answers": [
       {
-        "text": "A mystery ending",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "An unrelated rhyme",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "A clear date, time and location",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A clear date, time and location This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. The central purpose This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -697,26 +697,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Same Purpose, Different Audiences",
-    "question": "For a library invitation, how should a technical word be handled for younger readers?",
-    "audio_prompt": "For a library invitation, how should a technical word be handled for younger readers?",
+    "question": "A student chooses “Chuck bottles over here” for this task: For a water-saving message, which wording best suits a public school notice? What should they check?",
+    "audio_prompt": "A student chooses “Chuck bottles over here” for this task: For a water-saving message, which wording best suits a public school notice? What should they check?",
     "answers": [
       {
-        "text": "Explain it simply or replace it with a familiar accurate term",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "Use it repeatedly without meaning",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Delete the whole idea",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Explain it simply or replace it with a familiar accurate term This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Please place bottles in the marked recycling bins This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -727,26 +727,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Same Purpose, Different Audiences",
-    "question": "For a playground safety notice, which greeting best suits a formal message to the principal?",
-    "audio_prompt": "For a playground safety notice, which greeting best suits a formal message to the principal?",
+    "question": "A student chooses “One purpose must be incorrect” for this task: For a water-saving message, why might two texts use different images for the same purpose? What should they check?",
+    "audio_prompt": "A student chooses “One purpose must be incorrect” for this task: For a water-saving message, why might two texts use different images for the same purpose? What should they check?",
     "answers": [
       {
-        "text": "Hey mate",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Dear Principal Chen",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "Yo there",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Dear Principal Chen This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Their audiences may need different examples or detail This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -757,26 +757,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Same Purpose, Different Audiences",
-    "question": "For a playground safety notice, how should instructions for younger students be adapted?",
-    "audio_prompt": "For a playground safety notice, how should instructions for younger students be adapted?",
+    "question": "A student chooses “Add more emojis” for this task: For a water-saving message, which revision makes a message more formal? What should they check?",
+    "audio_prompt": "A student chooses “Add more emojis” for this task: For a water-saving message, which revision makes a message more formal? What should they check?",
     "answers": [
       {
-        "text": "Use unexplained technical terms",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Remove the main purpose",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "Use short clear steps and helpful pictures",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use short clear steps and helpful pictures This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Replace slang with polite precise wording This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -787,26 +787,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Same Purpose, Different Audiences",
-    "question": "For a playground safety notice, what can stay the same when texts target different audiences?",
-    "audio_prompt": "For a playground safety notice, what can stay the same when texts target different audiences?",
+    "question": "A student chooses “A mystery ending” for this task: For a water-saving message, which feature helps families act on an event notice? What should they check?",
+    "audio_prompt": "A student chooses “A mystery ending” for this task: For a water-saving message, which feature helps families act on an event notice? What should they check?",
     "answers": [
       {
-        "text": "The central purpose",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "Every word and image",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "The reading difficulty",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The central purpose This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. A clear date, time and location This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -817,26 +817,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Same Purpose, Different Audiences",
-    "question": "For a playground safety notice, which wording best suits a public school notice?",
-    "audio_prompt": "For a playground safety notice, which wording best suits a public school notice?",
+    "question": "A student chooses “Use it repeatedly without meaning” for this task: For a water-saving message, how should a technical word be handled for younger readers? What should they check?",
+    "audio_prompt": "A student chooses “Use it repeatedly without meaning” for this task: For a water-saving message, how should a technical word be handled for younger readers? What should they check?",
     "answers": [
       {
-        "text": "Chuck bottles over here",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Please place bottles in the marked recycling bins",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "You know what to do",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Please place bottles in the marked recycling bins This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Explain it simply or replace it with a familiar accurate term This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -847,26 +847,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Same Purpose, Different Audiences",
-    "question": "For a playground safety notice, why might two texts use different images for the same purpose?",
-    "audio_prompt": "For a playground safety notice, why might two texts use different images for the same purpose?",
+    "question": "A student chooses “Hey mate” for this task: For an excursion reminder, which greeting best suits a formal message to the principal? What should they check?",
+    "audio_prompt": "A student chooses “Hey mate” for this task: For an excursion reminder, which greeting best suits a formal message to the principal? What should they check?",
     "answers": [
       {
-        "text": "One purpose must be incorrect",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Images cannot support purpose",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "Their audiences may need different examples or detail",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Their audiences may need different examples or detail This explanation follows the relevant Year 3 English evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Dear Principal Chen This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -877,26 +877,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Same Purpose, Different Audiences",
-    "question": "For a playground safety notice, which revision makes a message more formal?",
-    "audio_prompt": "For a playground safety notice, which revision makes a message more formal?",
+    "question": "A student chooses “Use unexplained technical terms” for this task: For an excursion reminder, how should instructions for younger students be adapted? What should they check?",
+    "audio_prompt": "A student chooses “Use unexplained technical terms” for this task: For an excursion reminder, how should instructions for younger students be adapted? What should they check?",
     "answers": [
       {
-        "text": "Replace slang with polite precise wording",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "Add more emojis",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Remove the greeting",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Replace slang with polite precise wording This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Use short clear steps and helpful pictures This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -907,8 +907,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Same Purpose, Different Audiences",
-    "question": "For a playground safety notice, which feature helps families act on an event notice?",
-    "audio_prompt": "For a playground safety notice, which feature helps families act on an event notice?",
+    "question": "For an excursion reminder, which feature helps families act on an event notice?",
+    "audio_prompt": "For an excursion reminder, which feature helps families act on an event notice?",
     "answers": [
       {
         "text": "A mystery ending",
@@ -937,8 +937,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Same Purpose, Different Audiences",
-    "question": "For a playground safety notice, how should a technical word be handled for younger readers?",
-    "audio_prompt": "For a playground safety notice, how should a technical word be handled for younger readers?",
+    "question": "For an excursion reminder, how should a technical word be handled for younger readers?",
+    "audio_prompt": "For an excursion reminder, how should a technical word be handled for younger readers?",
     "answers": [
       {
         "text": "Use it repeatedly without meaning",
@@ -967,8 +967,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Same Purpose, Different Audiences",
-    "question": "For a recycling campaign, which greeting best suits a formal message to the principal?",
-    "audio_prompt": "For a recycling campaign, which greeting best suits a formal message to the principal?",
+    "question": "For a library invitation, which greeting best suits a formal message to the principal?",
+    "audio_prompt": "For a library invitation, which greeting best suits a formal message to the principal?",
     "answers": [
       {
         "text": "Dear Principal Chen",
@@ -997,8 +997,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Same Purpose, Different Audiences",
-    "question": "For a recycling campaign, how should instructions for younger students be adapted?",
-    "audio_prompt": "For a recycling campaign, how should instructions for younger students be adapted?",
+    "question": "For a library invitation, how should instructions for younger students be adapted?",
+    "audio_prompt": "For a library invitation, how should instructions for younger students be adapted?",
     "answers": [
       {
         "text": "Use unexplained technical terms",
@@ -1027,8 +1027,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Same Purpose, Different Audiences",
-    "question": "For a recycling campaign, what can stay the same when texts target different audiences?",
-    "audio_prompt": "For a recycling campaign, what can stay the same when texts target different audiences?",
+    "question": "For a library invitation, what can stay the same when texts target different audiences?",
+    "audio_prompt": "For a library invitation, what can stay the same when texts target different audiences?",
     "answers": [
       {
         "text": "Every word and image",
@@ -1057,8 +1057,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Same Purpose, Different Audiences",
-    "question": "For a recycling campaign, which wording best suits a public school notice?",
-    "audio_prompt": "For a recycling campaign, which wording best suits a public school notice?",
+    "question": "For a library invitation, which wording best suits a public school notice?",
+    "audio_prompt": "For a library invitation, which wording best suits a public school notice?",
     "answers": [
       {
         "text": "Please place bottles in the marked recycling bins",
@@ -1087,8 +1087,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Same Purpose, Different Audiences",
-    "question": "For a recycling campaign, why might two texts use different images for the same purpose?",
-    "audio_prompt": "For a recycling campaign, why might two texts use different images for the same purpose?",
+    "question": "For a library invitation, why might two texts use different images for the same purpose?",
+    "audio_prompt": "For a library invitation, why might two texts use different images for the same purpose?",
     "answers": [
       {
         "text": "One purpose must be incorrect",
@@ -1117,8 +1117,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Same Purpose, Different Audiences",
-    "question": "For a recycling campaign, which revision makes a message more formal?",
-    "audio_prompt": "For a recycling campaign, which revision makes a message more formal?",
+    "question": "For a library invitation, which revision makes a message more formal?",
+    "audio_prompt": "For a library invitation, which revision makes a message more formal?",
     "answers": [
       {
         "text": "Add more emojis",
@@ -1147,8 +1147,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Same Purpose, Different Audiences",
-    "question": "For a recycling campaign, which feature helps families act on an event notice?",
-    "audio_prompt": "For a recycling campaign, which feature helps families act on an event notice?",
+    "question": "For a library invitation, which feature helps families act on an event notice?",
+    "audio_prompt": "For a library invitation, which feature helps families act on an event notice?",
     "answers": [
       {
         "text": "A clear date, time and location",
@@ -1177,8 +1177,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Same Purpose, Different Audiences",
-    "question": "For a recycling campaign, how should a technical word be handled for younger readers?",
-    "audio_prompt": "For a recycling campaign, how should a technical word be handled for younger readers?",
+    "question": "For a library invitation, how should a technical word be handled for younger readers?",
+    "audio_prompt": "For a library invitation, how should a technical word be handled for younger readers?",
     "answers": [
       {
         "text": "Use it repeatedly without meaning",
@@ -1205,8 +1205,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY01",
     "bank": "test",
+    "stage": "verify",
     "skill": "Same Purpose, Different Audiences",
-    "question": "New check: For a playground safety notice, which greeting best suits a formal message to the principal?",
+    "question": "For a playground safety notice, which greeting best suits a formal message to the principal?",
     "audio_prompt": "For a playground safety notice, which greeting best suits a formal message to the principal?",
     "answers": [
       {
@@ -1234,8 +1235,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY01",
     "bank": "test",
+    "stage": "verify",
     "skill": "Same Purpose, Different Audiences",
-    "question": "New check: For a playground safety notice, how should instructions for younger students be adapted?",
+    "question": "For a playground safety notice, how should instructions for younger students be adapted?",
     "audio_prompt": "For a playground safety notice, how should instructions for younger students be adapted?",
     "answers": [
       {
@@ -1263,8 +1265,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY01",
     "bank": "test",
+    "stage": "verify",
     "skill": "Same Purpose, Different Audiences",
-    "question": "New check: For a playground safety notice, what can stay the same when texts target different audiences?",
+    "question": "For a playground safety notice, what can stay the same when texts target different audiences?",
     "audio_prompt": "For a playground safety notice, what can stay the same when texts target different audiences?",
     "answers": [
       {
@@ -1292,8 +1295,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY01",
     "bank": "test",
+    "stage": "verify",
     "skill": "Same Purpose, Different Audiences",
-    "question": "New check: For a playground safety notice, which wording best suits a public school notice?",
+    "question": "For a playground safety notice, which wording best suits a public school notice?",
     "audio_prompt": "For a playground safety notice, which wording best suits a public school notice?",
     "answers": [
       {
@@ -1321,8 +1325,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY01",
     "bank": "test",
+    "stage": "verify",
     "skill": "Same Purpose, Different Audiences",
-    "question": "New check: For a playground safety notice, why might two texts use different images for the same purpose?",
+    "question": "For a playground safety notice, why might two texts use different images for the same purpose?",
     "audio_prompt": "For a playground safety notice, why might two texts use different images for the same purpose?",
     "answers": [
       {
@@ -1350,8 +1355,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY01",
     "bank": "test",
+    "stage": "verify",
     "skill": "Same Purpose, Different Audiences",
-    "question": "New check: For a playground safety notice, which revision makes a message more formal?",
+    "question": "For a playground safety notice, which revision makes a message more formal?",
     "audio_prompt": "For a playground safety notice, which revision makes a message more formal?",
     "answers": [
       {
@@ -1379,8 +1385,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY01",
     "bank": "test",
+    "stage": "verify",
     "skill": "Same Purpose, Different Audiences",
-    "question": "New check: For a playground safety notice, which feature helps families act on an event notice?",
+    "question": "For a playground safety notice, which feature helps families act on an event notice?",
     "audio_prompt": "For a playground safety notice, which feature helps families act on an event notice?",
     "answers": [
       {
@@ -1408,8 +1415,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY01",
     "bank": "test",
+    "stage": "verify",
     "skill": "Same Purpose, Different Audiences",
-    "question": "New check: For a playground safety notice, how should a technical word be handled for younger readers?",
+    "question": "For a playground safety notice, how should a technical word be handled for younger readers?",
     "audio_prompt": "For a playground safety notice, how should a technical word be handled for younger readers?",
     "answers": [
       {
@@ -1437,8 +1445,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY01",
     "bank": "test",
+    "stage": "apply",
     "skill": "Same Purpose, Different Audiences",
-    "question": "New check: For a recycling campaign, which greeting best suits a formal message to the principal?",
+    "question": "For a recycling campaign, which greeting best suits a formal message to the principal?",
     "audio_prompt": "For a recycling campaign, which greeting best suits a formal message to the principal?",
     "answers": [
       {
@@ -1466,8 +1475,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY01",
     "bank": "test",
+    "stage": "apply",
     "skill": "Same Purpose, Different Audiences",
-    "question": "New check: For a recycling campaign, how should instructions for younger students be adapted?",
+    "question": "For a recycling campaign, how should instructions for younger students be adapted?",
     "audio_prompt": "For a recycling campaign, how should instructions for younger students be adapted?",
     "answers": [
       {
@@ -1495,8 +1505,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY01",
     "bank": "test",
+    "stage": "apply",
     "skill": "Same Purpose, Different Audiences",
-    "question": "New check: For a recycling campaign, what can stay the same when texts target different audiences?",
+    "question": "For a recycling campaign, what can stay the same when texts target different audiences?",
     "audio_prompt": "For a recycling campaign, what can stay the same when texts target different audiences?",
     "answers": [
       {
@@ -1524,8 +1535,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY01",
     "bank": "test",
+    "stage": "apply",
     "skill": "Same Purpose, Different Audiences",
-    "question": "New check: For a recycling campaign, which wording best suits a public school notice?",
+    "question": "For a recycling campaign, which wording best suits a public school notice?",
     "audio_prompt": "For a recycling campaign, which wording best suits a public school notice?",
     "answers": [
       {
@@ -1553,8 +1565,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY01",
     "bank": "test",
+    "stage": "apply",
     "skill": "Same Purpose, Different Audiences",
-    "question": "New check: For a recycling campaign, why might two texts use different images for the same purpose?",
+    "question": "For a recycling campaign, why might two texts use different images for the same purpose?",
     "audio_prompt": "For a recycling campaign, why might two texts use different images for the same purpose?",
     "answers": [
       {
@@ -1582,8 +1595,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY01",
     "bank": "test",
+    "stage": "apply",
     "skill": "Same Purpose, Different Audiences",
-    "question": "New check: For a recycling campaign, which revision makes a message more formal?",
+    "question": "For a recycling campaign, which revision makes a message more formal?",
     "audio_prompt": "For a recycling campaign, which revision makes a message more formal?",
     "answers": [
       {
@@ -1611,8 +1625,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY01",
     "bank": "test",
+    "stage": "apply",
     "skill": "Same Purpose, Different Audiences",
-    "question": "New check: For a recycling campaign, which feature helps families act on an event notice?",
+    "question": "For a recycling campaign, which feature helps families act on an event notice?",
     "audio_prompt": "For a recycling campaign, which feature helps families act on an event notice?",
     "answers": [
       {
@@ -1640,8 +1655,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY01",
     "bank": "test",
+    "stage": "apply",
     "skill": "Same Purpose, Different Audiences",
-    "question": "New check: For a recycling campaign, how should a technical word be handled for younger readers?",
+    "question": "For a recycling campaign, how should a technical word be handled for younger readers?",
     "audio_prompt": "For a recycling campaign, how should a technical word be handled for younger readers?",
     "answers": [
       {

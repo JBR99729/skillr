@@ -307,19 +307,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "While editing a story about a lost compass, which edit fixes tense consistency?",
-    "audio_prompt": "While editing a story about a lost compass, which edit fixes tense consistency?",
+    "question": "Why is “Change the one past-tense event so it matches the surrounding past tense” the best answer here? While editing a story about a lost compass, which edit fixes tense consistency?",
+    "audio_prompt": "Why is “Change the one past-tense event so it matches the surrounding past tense” the best answer here? While editing a story about a lost compass, which edit fixes tense consistency?",
     "answers": [
       {
-        "text": "Add an unrelated adjective",
+        "text": "Because “Add an unrelated adjective” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Change the one past-tense event so it matches the surrounding past tense",
+        "text": "Change the one past-tense event so it matches the surrounding past tense This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "Remove every verb",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -337,19 +337,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "While editing a story about a lost compass, which vocabulary choice is most precise?",
-    "audio_prompt": "While editing a story about a lost compass, which vocabulary choice is most precise?",
+    "question": "Why is “Measure fifty millilitres of water” the best answer here? While editing a story about a lost compass, which vocabulary choice is most precise?",
+    "audio_prompt": "Why is “Measure fifty millilitres of water” the best answer here? While editing a story about a lost compass, which vocabulary choice is most precise?",
     "answers": [
       {
-        "text": "Add some stuff",
+        "text": "Because “Add some stuff” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Do the thing",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "Measure fifty millilitres of water",
+        "text": "Measure fifty millilitres of water This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       }
     ],
@@ -367,19 +367,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "While editing a story about a lost compass, which feature materially helps a multimodal explanation?",
-    "audio_prompt": "While editing a story about a lost compass, which feature materially helps a multimodal explanation?",
+    "question": "Why is “A labelled diagram connected to the text” the best answer here? While editing a story about a lost compass, which feature materially helps a multimodal explanation?",
+    "audio_prompt": "Why is “A labelled diagram connected to the text” the best answer here? While editing a story about a lost compass, which feature materially helps a multimodal explanation?",
     "answers": [
       {
-        "text": "A labelled diagram connected to the text",
+        "text": "A labelled diagram connected to the text This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "A decorative image with no relation",
+        "text": "Because “A decorative image with no relation” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "A flashing border",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -397,19 +397,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "While editing a story about a lost compass, what should happen during editing?",
-    "audio_prompt": "While editing a story about a lost compass, what should happen during editing?",
+    "question": "Why is “Check meaning, structure, sentences, spelling and punctuation” the best answer here? While editing a story about a lost compass, what should happen during editing?",
+    "audio_prompt": "Why is “Check meaning, structure, sentences, spelling and punctuation” the best answer here? While editing a story about a lost compass, what should happen during editing?",
     "answers": [
       {
-        "text": "Change only the title colour",
+        "text": "Because “Change only the title colour” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Check meaning, structure, sentences, spelling and punctuation",
+        "text": "Check meaning, structure, sentences, spelling and punctuation This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "Publish without rereading",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -427,19 +427,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "While editing a story about a lost compass, why should a writer seek feedback?",
-    "audio_prompt": "While editing a story about a lost compass, why should a writer seek feedback?",
+    "question": "Why is “A reader may identify unclear ideas or missing evidence” the best answer here? While editing a story about a lost compass, why should a writer seek feedback?",
+    "audio_prompt": "Why is “A reader may identify unclear ideas or missing evidence” the best answer here? While editing a story about a lost compass, why should a writer seek feedback?",
     "answers": [
       {
-        "text": "Feedback guarantees no revision is needed",
+        "text": "Because “Feedback guarantees no revision is needed” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Feedback replaces the writer's decisions",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "A reader may identify unclear ideas or missing evidence",
+        "text": "A reader may identify unclear ideas or missing evidence This explanation follows the relevant Year 3 English evidence.",
         "is_correct": true
       }
     ],
@@ -457,19 +457,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "While editing a story about a lost compass, which final check protects accessibility?",
-    "audio_prompt": "While editing a story about a lost compass, which final check protects accessibility?",
+    "question": "Why is “Confirm visuals have useful descriptions and text remains understandable” the best answer here? While editing a story about a lost compass, which final check protects accessibility?",
+    "audio_prompt": "Why is “Confirm visuals have useful descriptions and text remains understandable” the best answer here? While editing a story about a lost compass, which final check protects accessibility?",
     "answers": [
       {
-        "text": "Confirm visuals have useful descriptions and text remains understandable",
+        "text": "Confirm visuals have useful descriptions and text remains understandable This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "Hide important words inside images",
+        "text": "Because “Hide important words inside images” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Remove labels from diagrams",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -487,19 +487,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "While publishing instructions for planting seeds, what should a writer decide before drafting?",
-    "audio_prompt": "While publishing instructions for planting seeds, what should a writer decide before drafting?",
+    "question": "Why is “Purpose, audience and key ideas” the best answer here? While publishing instructions for planting seeds, what should a writer decide before drafting?",
+    "audio_prompt": "Why is “Purpose, audience and key ideas” the best answer here? While publishing instructions for planting seeds, what should a writer decide before drafting?",
     "answers": [
       {
-        "text": "Font colour only",
+        "text": "Because “Font colour only” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Purpose, audience and key ideas",
+        "text": "Purpose, audience and key ideas This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "The final score",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -517,19 +517,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "While publishing instructions for planting seeds, which structure groups related information clearly?",
-    "audio_prompt": "While publishing instructions for planting seeds, which structure groups related information clearly?",
+    "question": "Why is “Focused paragraphs with useful headings” the best answer here? While publishing instructions for planting seeds, which structure groups related information clearly?",
+    "audio_prompt": "Why is “Focused paragraphs with useful headings” the best answer here? While publishing instructions for planting seeds, which structure groups related information clearly?",
     "answers": [
       {
-        "text": "A new paragraph after every word",
+        "text": "Because “A new paragraph after every word” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "One block mixing all topics",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "Focused paragraphs with useful headings",
+        "text": "Focused paragraphs with useful headings This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       }
     ],
@@ -547,19 +547,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "While publishing instructions for planting seeds, which edit fixes tense consistency?",
-    "audio_prompt": "While publishing instructions for planting seeds, which edit fixes tense consistency?",
+    "question": "Why is “Change the one past-tense event so it matches the surrounding past tense” the best answer here? While publishing instructions for planting seeds, which edit fixes tense consistency?",
+    "audio_prompt": "Why is “Change the one past-tense event so it matches the surrounding past tense” the best answer here? While publishing instructions for planting seeds, which edit fixes tense consistency?",
     "answers": [
       {
-        "text": "Change the one past-tense event so it matches the surrounding past tense",
+        "text": "Change the one past-tense event so it matches the surrounding past tense This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "Add an unrelated adjective",
+        "text": "Because “Add an unrelated adjective” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Remove every verb",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -577,19 +577,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "While publishing instructions for planting seeds, which vocabulary choice is most precise?",
-    "audio_prompt": "While publishing instructions for planting seeds, which vocabulary choice is most precise?",
+    "question": "Why is “Measure fifty millilitres of water” the best answer here? While publishing instructions for planting seeds, which vocabulary choice is most precise?",
+    "audio_prompt": "Why is “Measure fifty millilitres of water” the best answer here? While publishing instructions for planting seeds, which vocabulary choice is most precise?",
     "answers": [
       {
-        "text": "Add some stuff",
+        "text": "Because “Add some stuff” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Measure fifty millilitres of water",
+        "text": "Measure fifty millilitres of water This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "Do the thing",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -607,26 +607,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "While publishing instructions for planting seeds, which feature materially helps a multimodal explanation?",
-    "audio_prompt": "While publishing instructions for planting seeds, which feature materially helps a multimodal explanation?",
+    "question": "A student chooses “Font colour only” for this task: While creating an information page about frogs, what should a writer decide before drafting? What should they check?",
+    "audio_prompt": "A student chooses “Font colour only” for this task: While creating an information page about frogs, what should a writer decide before drafting? What should they check?",
     "answers": [
       {
-        "text": "A decorative image with no relation",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "A flashing border",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "A labelled diagram connected to the text",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A labelled diagram connected to the text This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Purpose, audience and key ideas This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -637,26 +637,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "While publishing instructions for planting seeds, what should happen during editing?",
-    "audio_prompt": "While publishing instructions for planting seeds, what should happen during editing?",
+    "question": "A student chooses “A new paragraph after every word” for this task: While creating an information page about frogs, which structure groups related information clearly? What should they check?",
+    "audio_prompt": "A student chooses “A new paragraph after every word” for this task: While creating an information page about frogs, which structure groups related information clearly? What should they check?",
     "answers": [
       {
-        "text": "Check meaning, structure, sentences, spelling and punctuation",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "Change only the title colour",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Publish without rereading",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Check meaning, structure, sentences, spelling and punctuation This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Focused paragraphs with useful headings This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -667,26 +667,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "While publishing instructions for planting seeds, why should a writer seek feedback?",
-    "audio_prompt": "While publishing instructions for planting seeds, why should a writer seek feedback?",
+    "question": "A student chooses “Add an unrelated adjective” for this task: While creating an information page about frogs, which edit fixes tense consistency? What should they check?",
+    "audio_prompt": "A student chooses “Add an unrelated adjective” for this task: While creating an information page about frogs, which edit fixes tense consistency? What should they check?",
     "answers": [
       {
-        "text": "Feedback guarantees no revision is needed",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "A reader may identify unclear ideas or missing evidence",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "Feedback replaces the writer's decisions",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A reader may identify unclear ideas or missing evidence This explanation follows the relevant Year 3 English evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Change the one past-tense event so it matches the surrounding past tense This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -697,26 +697,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "While publishing instructions for planting seeds, which final check protects accessibility?",
-    "audio_prompt": "While publishing instructions for planting seeds, which final check protects accessibility?",
+    "question": "A student chooses “Add some stuff” for this task: While creating an information page about frogs, which vocabulary choice is most precise? What should they check?",
+    "audio_prompt": "A student chooses “Add some stuff” for this task: While creating an information page about frogs, which vocabulary choice is most precise? What should they check?",
     "answers": [
       {
-        "text": "Hide important words inside images",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Remove labels from diagrams",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "Confirm visuals have useful descriptions and text remains understandable",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Confirm visuals have useful descriptions and text remains understandable This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Measure fifty millilitres of water This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -727,26 +727,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "While creating a persuasive poster about shade, what should a writer decide before drafting?",
-    "audio_prompt": "While creating a persuasive poster about shade, what should a writer decide before drafting?",
+    "question": "A student chooses “A decorative image with no relation” for this task: While creating an information page about frogs, which feature materially helps a multimodal explanation? What should they check?",
+    "audio_prompt": "A student chooses “A decorative image with no relation” for this task: While creating an information page about frogs, which feature materially helps a multimodal explanation? What should they check?",
     "answers": [
       {
-        "text": "Purpose, audience and key ideas",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "Font colour only",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "The final score",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Purpose, audience and key ideas This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. A labelled diagram connected to the text This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -757,26 +757,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "While creating a persuasive poster about shade, which structure groups related information clearly?",
-    "audio_prompt": "While creating a persuasive poster about shade, which structure groups related information clearly?",
+    "question": "A student chooses “Change only the title colour” for this task: While creating an information page about frogs, what should happen during editing? What should they check?",
+    "audio_prompt": "A student chooses “Change only the title colour” for this task: While creating an information page about frogs, what should happen during editing? What should they check?",
     "answers": [
       {
-        "text": "A new paragraph after every word",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Focused paragraphs with useful headings",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "One block mixing all topics",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Focused paragraphs with useful headings This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Check meaning, structure, sentences, spelling and punctuation This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -787,26 +787,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "While creating a persuasive poster about shade, which edit fixes tense consistency?",
-    "audio_prompt": "While creating a persuasive poster about shade, which edit fixes tense consistency?",
+    "question": "A student chooses “Feedback guarantees no revision is needed” for this task: While creating an information page about frogs, why should a writer seek feedback? What should they check?",
+    "audio_prompt": "A student chooses “Feedback guarantees no revision is needed” for this task: While creating an information page about frogs, why should a writer seek feedback? What should they check?",
     "answers": [
       {
-        "text": "Add an unrelated adjective",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Remove every verb",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "Change the one past-tense event so it matches the surrounding past tense",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Change the one past-tense event so it matches the surrounding past tense This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. A reader may identify unclear ideas or missing evidence This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -817,26 +817,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "While creating a persuasive poster about shade, which vocabulary choice is most precise?",
-    "audio_prompt": "While creating a persuasive poster about shade, which vocabulary choice is most precise?",
+    "question": "A student chooses “Hide important words inside images” for this task: While creating an information page about frogs, which final check protects accessibility? What should they check?",
+    "audio_prompt": "A student chooses “Hide important words inside images” for this task: While creating an information page about frogs, which final check protects accessibility? What should they check?",
     "answers": [
       {
-        "text": "Measure fifty millilitres of water",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "Add some stuff",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Do the thing",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Measure fifty millilitres of water This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Confirm visuals have useful descriptions and text remains understandable This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -847,26 +847,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "While creating a persuasive poster about shade, which feature materially helps a multimodal explanation?",
-    "audio_prompt": "While creating a persuasive poster about shade, which feature materially helps a multimodal explanation?",
+    "question": "A student chooses “Font colour only” for this task: While editing a story about a lost compass, what should a writer decide before drafting? What should they check?",
+    "audio_prompt": "A student chooses “Font colour only” for this task: While editing a story about a lost compass, what should a writer decide before drafting? What should they check?",
     "answers": [
       {
-        "text": "A decorative image with no relation",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "A labelled diagram connected to the text",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "A flashing border",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A labelled diagram connected to the text This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Purpose, audience and key ideas This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -877,26 +877,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "While creating a persuasive poster about shade, what should happen during editing?",
-    "audio_prompt": "While creating a persuasive poster about shade, what should happen during editing?",
+    "question": "A student chooses “A new paragraph after every word” for this task: While editing a story about a lost compass, which structure groups related information clearly? What should they check?",
+    "audio_prompt": "A student chooses “A new paragraph after every word” for this task: While editing a story about a lost compass, which structure groups related information clearly? What should they check?",
     "answers": [
       {
-        "text": "Change only the title colour",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Publish without rereading",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "Check meaning, structure, sentences, spelling and punctuation",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Check meaning, structure, sentences, spelling and punctuation This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Focused paragraphs with useful headings This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -907,8 +907,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "While creating a persuasive poster about shade, why should a writer seek feedback?",
-    "audio_prompt": "While creating a persuasive poster about shade, why should a writer seek feedback?",
+    "question": "While editing a story about a lost compass, why should a writer seek feedback?",
+    "audio_prompt": "While editing a story about a lost compass, why should a writer seek feedback?",
     "answers": [
       {
         "text": "A reader may identify unclear ideas or missing evidence",
@@ -937,8 +937,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "While creating a persuasive poster about shade, which final check protects accessibility?",
-    "audio_prompt": "While creating a persuasive poster about shade, which final check protects accessibility?",
+    "question": "While editing a story about a lost compass, which final check protects accessibility?",
+    "audio_prompt": "While editing a story about a lost compass, which final check protects accessibility?",
     "answers": [
       {
         "text": "Hide important words inside images",
@@ -967,8 +967,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "While editing a digital report about waste, what should a writer decide before drafting?",
-    "audio_prompt": "While editing a digital report about waste, what should a writer decide before drafting?",
+    "question": "While publishing instructions for planting seeds, what should a writer decide before drafting?",
+    "audio_prompt": "While publishing instructions for planting seeds, what should a writer decide before drafting?",
     "answers": [
       {
         "text": "Font colour only",
@@ -997,8 +997,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "While editing a digital report about waste, which structure groups related information clearly?",
-    "audio_prompt": "While editing a digital report about waste, which structure groups related information clearly?",
+    "question": "While publishing instructions for planting seeds, which structure groups related information clearly?",
+    "audio_prompt": "While publishing instructions for planting seeds, which structure groups related information clearly?",
     "answers": [
       {
         "text": "Focused paragraphs with useful headings",
@@ -1027,8 +1027,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "While editing a digital report about waste, which edit fixes tense consistency?",
-    "audio_prompt": "While editing a digital report about waste, which edit fixes tense consistency?",
+    "question": "While publishing instructions for planting seeds, which edit fixes tense consistency?",
+    "audio_prompt": "While publishing instructions for planting seeds, which edit fixes tense consistency?",
     "answers": [
       {
         "text": "Add an unrelated adjective",
@@ -1057,8 +1057,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "While editing a digital report about waste, which vocabulary choice is most precise?",
-    "audio_prompt": "While editing a digital report about waste, which vocabulary choice is most precise?",
+    "question": "While publishing instructions for planting seeds, which vocabulary choice is most precise?",
+    "audio_prompt": "While publishing instructions for planting seeds, which vocabulary choice is most precise?",
     "answers": [
       {
         "text": "Add some stuff",
@@ -1087,8 +1087,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "While editing a digital report about waste, which feature materially helps a multimodal explanation?",
-    "audio_prompt": "While editing a digital report about waste, which feature materially helps a multimodal explanation?",
+    "question": "While publishing instructions for planting seeds, which feature materially helps a multimodal explanation?",
+    "audio_prompt": "While publishing instructions for planting seeds, which feature materially helps a multimodal explanation?",
     "answers": [
       {
         "text": "A labelled diagram connected to the text",
@@ -1117,8 +1117,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "While editing a digital report about waste, what should happen during editing?",
-    "audio_prompt": "While editing a digital report about waste, what should happen during editing?",
+    "question": "While publishing instructions for planting seeds, what should happen during editing?",
+    "audio_prompt": "While publishing instructions for planting seeds, what should happen during editing?",
     "answers": [
       {
         "text": "Change only the title colour",
@@ -1147,8 +1147,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "While editing a digital report about waste, why should a writer seek feedback?",
-    "audio_prompt": "While editing a digital report about waste, why should a writer seek feedback?",
+    "question": "While publishing instructions for planting seeds, why should a writer seek feedback?",
+    "audio_prompt": "While publishing instructions for planting seeds, why should a writer seek feedback?",
     "answers": [
       {
         "text": "Feedback guarantees no revision is needed",
@@ -1177,8 +1177,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "While editing a digital report about waste, which final check protects accessibility?",
-    "audio_prompt": "While editing a digital report about waste, which final check protects accessibility?",
+    "question": "While publishing instructions for planting seeds, which final check protects accessibility?",
+    "audio_prompt": "While publishing instructions for planting seeds, which final check protects accessibility?",
     "answers": [
       {
         "text": "Confirm visuals have useful descriptions and text remains understandable",
@@ -1205,8 +1205,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY06",
     "bank": "test",
+    "stage": "verify",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "New check: While creating a persuasive poster about shade, what should a writer decide before drafting?",
+    "question": "While creating a persuasive poster about shade, what should a writer decide before drafting?",
     "audio_prompt": "While creating a persuasive poster about shade, what should a writer decide before drafting?",
     "answers": [
       {
@@ -1234,8 +1235,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY06",
     "bank": "test",
+    "stage": "verify",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "New check: While creating a persuasive poster about shade, which structure groups related information clearly?",
+    "question": "While creating a persuasive poster about shade, which structure groups related information clearly?",
     "audio_prompt": "While creating a persuasive poster about shade, which structure groups related information clearly?",
     "answers": [
       {
@@ -1263,8 +1265,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY06",
     "bank": "test",
+    "stage": "verify",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "New check: While creating a persuasive poster about shade, which edit fixes tense consistency?",
+    "question": "While creating a persuasive poster about shade, which edit fixes tense consistency?",
     "audio_prompt": "While creating a persuasive poster about shade, which edit fixes tense consistency?",
     "answers": [
       {
@@ -1292,8 +1295,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY06",
     "bank": "test",
+    "stage": "verify",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "New check: While creating a persuasive poster about shade, which vocabulary choice is most precise?",
+    "question": "While creating a persuasive poster about shade, which vocabulary choice is most precise?",
     "audio_prompt": "While creating a persuasive poster about shade, which vocabulary choice is most precise?",
     "answers": [
       {
@@ -1321,8 +1325,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY06",
     "bank": "test",
+    "stage": "verify",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "New check: While creating a persuasive poster about shade, which feature materially helps a multimodal explanation?",
+    "question": "While creating a persuasive poster about shade, which feature materially helps a multimodal explanation?",
     "audio_prompt": "While creating a persuasive poster about shade, which feature materially helps a multimodal explanation?",
     "answers": [
       {
@@ -1350,8 +1355,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY06",
     "bank": "test",
+    "stage": "verify",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "New check: While creating a persuasive poster about shade, what should happen during editing?",
+    "question": "While creating a persuasive poster about shade, what should happen during editing?",
     "audio_prompt": "While creating a persuasive poster about shade, what should happen during editing?",
     "answers": [
       {
@@ -1379,8 +1385,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY06",
     "bank": "test",
+    "stage": "verify",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "New check: While creating a persuasive poster about shade, why should a writer seek feedback?",
+    "question": "While creating a persuasive poster about shade, why should a writer seek feedback?",
     "audio_prompt": "While creating a persuasive poster about shade, why should a writer seek feedback?",
     "answers": [
       {
@@ -1408,8 +1415,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY06",
     "bank": "test",
+    "stage": "verify",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "New check: While creating a persuasive poster about shade, which final check protects accessibility?",
+    "question": "While creating a persuasive poster about shade, which final check protects accessibility?",
     "audio_prompt": "While creating a persuasive poster about shade, which final check protects accessibility?",
     "answers": [
       {
@@ -1437,8 +1445,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY06",
     "bank": "test",
+    "stage": "apply",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "New check: While editing a digital report about waste, what should a writer decide before drafting?",
+    "question": "While editing a digital report about waste, what should a writer decide before drafting?",
     "audio_prompt": "While editing a digital report about waste, what should a writer decide before drafting?",
     "answers": [
       {
@@ -1466,8 +1475,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY06",
     "bank": "test",
+    "stage": "apply",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "New check: While editing a digital report about waste, which structure groups related information clearly?",
+    "question": "While editing a digital report about waste, which structure groups related information clearly?",
     "audio_prompt": "While editing a digital report about waste, which structure groups related information clearly?",
     "answers": [
       {
@@ -1495,8 +1505,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY06",
     "bank": "test",
+    "stage": "apply",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "New check: While editing a digital report about waste, which edit fixes tense consistency?",
+    "question": "While editing a digital report about waste, which edit fixes tense consistency?",
     "audio_prompt": "While editing a digital report about waste, which edit fixes tense consistency?",
     "answers": [
       {
@@ -1524,8 +1535,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY06",
     "bank": "test",
+    "stage": "apply",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "New check: While editing a digital report about waste, which vocabulary choice is most precise?",
+    "question": "While editing a digital report about waste, which vocabulary choice is most precise?",
     "audio_prompt": "While editing a digital report about waste, which vocabulary choice is most precise?",
     "answers": [
       {
@@ -1553,8 +1565,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY06",
     "bank": "test",
+    "stage": "apply",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "New check: While editing a digital report about waste, which feature materially helps a multimodal explanation?",
+    "question": "While editing a digital report about waste, which feature materially helps a multimodal explanation?",
     "audio_prompt": "While editing a digital report about waste, which feature materially helps a multimodal explanation?",
     "answers": [
       {
@@ -1582,8 +1595,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY06",
     "bank": "test",
+    "stage": "apply",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "New check: While editing a digital report about waste, what should happen during editing?",
+    "question": "While editing a digital report about waste, what should happen during editing?",
     "audio_prompt": "While editing a digital report about waste, what should happen during editing?",
     "answers": [
       {
@@ -1611,8 +1625,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY06",
     "bank": "test",
+    "stage": "apply",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "New check: While editing a digital report about waste, why should a writer seek feedback?",
+    "question": "While editing a digital report about waste, why should a writer seek feedback?",
     "audio_prompt": "While editing a digital report about waste, why should a writer seek feedback?",
     "answers": [
       {
@@ -1640,8 +1655,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY06",
     "bank": "test",
+    "stage": "apply",
     "skill": "Planning, Creating, Editing and Publishing Texts",
-    "question": "New check: While editing a digital report about waste, which final check protects accessibility?",
+    "question": "While editing a digital report about waste, which final check protects accessibility?",
     "audio_prompt": "While editing a digital report about waste, which final check protects accessibility?",
     "answers": [
       {

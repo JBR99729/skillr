@@ -307,19 +307,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Layout and Navigation Features",
-    "question": "A reader wants a section of the site in a webpage about weather. What should the reader do first?",
-    "audio_prompt": "A reader wants a section of the site in a webpage about weather. What should the reader do first?",
+    "question": "Why is “Use the menu.” the best answer here? A reader wants a section of the site in a webpage about weather. What should the reader do first?",
+    "audio_prompt": "Why is “Use the menu.” the best answer here? A reader wants a section of the site in a webpage about weather. What should the reader do first?",
     "answers": [
       {
-        "text": "Read an unrelated page repeatedly.",
+        "text": "Because “Read an unrelated page repeatedly.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Ignore all navigation words.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "Use the menu.",
+        "text": "Efficient readers select the most useful navigation path.",
         "is_correct": true
       }
     ],
@@ -337,19 +337,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Layout and Navigation Features",
-    "question": "Which word would be a clear navigation label in a webpage about weather?",
-    "audio_prompt": "Which word would be a clear navigation label in a webpage about weather?",
+    "question": "Why is “Next section” the best answer here? Which word would be a clear navigation label in a webpage about weather?",
+    "audio_prompt": "Why is “Next section” the best answer here? Which word would be a clear navigation label in a webpage about weather?",
     "answers": [
       {
-        "text": "Next section",
+        "text": "Clear navigation words predict where an action will lead.",
         "is_correct": true
       },
       {
-        "text": "Perhaps something",
+        "text": "Because “Perhaps something” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Mystery place",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -367,19 +367,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Layout and Navigation Features",
-    "question": "Why might a webpage about weather use subheadings?",
-    "audio_prompt": "Why might a webpage about weather use subheadings?",
+    "question": "Why is “To divide the information into smaller named topics.” the best answer here? Why might a webpage about weather use subheadings?",
+    "audio_prompt": "Why is “To divide the information into smaller named topics.” the best answer here? Why might a webpage about weather use subheadings?",
     "answers": [
       {
-        "text": "To make every section about the same detail.",
+        "text": "Because “To make every section about the same detail.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "To divide the information into smaller named topics.",
+        "text": "Subheadings signal the topic of each smaller section.",
         "is_correct": true
       },
       {
-        "text": "To stop readers from scanning the page.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -397,19 +397,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Layout and Navigation Features",
-    "question": "What should a useful caption do in a webpage about weather?",
-    "audio_prompt": "What should a useful caption do in a webpage about weather?",
+    "question": "Why is “Explain or add information about an image.” the best answer here? What should a useful caption do in a webpage about weather?",
+    "audio_prompt": "Why is “Explain or add information about an image.” the best answer here? What should a useful caption do in a webpage about weather?",
     "answers": [
       {
-        "text": "Repeat the page number only.",
+        "text": "Because “Repeat the page number only.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Give directions to an unrelated website.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "Explain or add information about an image.",
+        "text": "Captions connect images with relevant information.",
         "is_correct": true
       }
     ],
@@ -427,19 +427,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Layout and Navigation Features",
-    "question": "The menu in a webpage about weather leads to the wrong place. What needs editing?",
-    "audio_prompt": "The menu in a webpage about weather leads to the wrong place. What needs editing?",
+    "question": "Why is “The navigation link or reference.” the best answer here? The menu in a webpage about weather leads to the wrong place. What needs editing?",
+    "audio_prompt": "Why is “The navigation link or reference.” the best answer here? The menu in a webpage about weather leads to the wrong place. What needs editing?",
     "answers": [
       {
-        "text": "The navigation link or reference.",
+        "text": "Navigation must take readers to the promised location.",
         "is_correct": true
       },
       {
-        "text": "Every fact in the whole text.",
+        "text": "Because “Every fact in the whole text.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "The reader's name.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -457,19 +457,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Layout and Navigation Features",
-    "question": "Which layout choice would best support a reader using a webpage about weather?",
-    "audio_prompt": "Which layout choice would best support a reader using a webpage about weather?",
+    "question": "Why is “Place the menu where it is easy to notice and use.” the best answer here? Which layout choice would best support a reader using a webpage about weather?",
+    "audio_prompt": "Why is “Place the menu where it is easy to notice and use.” the best answer here? Which layout choice would best support a reader using a webpage about weather?",
     "answers": [
       {
-        "text": "Hide all labels behind images.",
+        "text": "Because “Hide all labels behind images.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Place the menu where it is easy to notice and use.",
+        "text": "Visible, specific features support navigation.",
         "is_correct": true
       },
       {
-        "text": "Use identical labels for different destinations.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -487,19 +487,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Layout and Navigation Features",
-    "question": "In an article about coral reefs, which feature helps a reader find what a photograph shows?",
-    "audio_prompt": "In an article about coral reefs, which feature helps a reader find what a photograph shows?",
+    "question": "Why is “caption” the best answer here? In an article about coral reefs, which feature helps a reader find what a photograph shows?",
+    "audio_prompt": "Why is “caption” the best answer here? In an article about coral reefs, which feature helps a reader find what a photograph shows?",
     "answers": [
       {
-        "text": "decorative border",
+        "text": "Because “decorative border” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "background colour",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "caption",
+        "text": "Layout and navigation features help readers locate information.",
         "is_correct": true
       }
     ],
@@ -517,19 +517,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Layout and Navigation Features",
-    "question": "What is the main purpose of the caption in an article about coral reefs?",
-    "audio_prompt": "What is the main purpose of the caption in an article about coral reefs?",
+    "question": "Why is “To help the reader find what a photograph shows.” the best answer here? What is the main purpose of the caption in an article about coral reefs?",
+    "audio_prompt": "Why is “To help the reader find what a photograph shows.” the best answer here? What is the main purpose of the caption in an article about coral reefs?",
     "answers": [
       {
-        "text": "To help the reader find what a photograph shows.",
+        "text": "Each navigation feature has a practical reading purpose.",
         "is_correct": true
       },
       {
-        "text": "To hide the topic from the reader.",
+        "text": "Because “To hide the topic from the reader.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "To replace every sentence in the text.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -547,19 +547,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Layout and Navigation Features",
-    "question": "A reader wants what a photograph shows in an article about coral reefs. What should the reader do first?",
-    "audio_prompt": "A reader wants what a photograph shows in an article about coral reefs. What should the reader do first?",
+    "question": "Why is “Use the caption.” the best answer here? A reader wants what a photograph shows in an article about coral reefs. What should the reader do first?",
+    "audio_prompt": "Why is “Use the caption.” the best answer here? A reader wants what a photograph shows in an article about coral reefs. What should the reader do first?",
     "answers": [
       {
-        "text": "Read an unrelated page repeatedly.",
+        "text": "Because “Read an unrelated page repeatedly.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Use the caption.",
+        "text": "Efficient readers select the most useful navigation path.",
         "is_correct": true
       },
       {
-        "text": "Ignore all navigation words.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -577,19 +577,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Layout and Navigation Features",
-    "question": "Which word would be a clear navigation label in an article about coral reefs?",
-    "audio_prompt": "Which word would be a clear navigation label in an article about coral reefs?",
+    "question": "Why is “Next section” the best answer here? Which word would be a clear navigation label in an article about coral reefs?",
+    "audio_prompt": "Why is “Next section” the best answer here? Which word would be a clear navigation label in an article about coral reefs?",
     "answers": [
       {
-        "text": "Perhaps something",
+        "text": "Because “Perhaps something” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Mystery place",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "Next section",
+        "text": "Clear navigation words predict where an action will lead.",
         "is_correct": true
       }
     ],
@@ -607,26 +607,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Layout and Navigation Features",
-    "question": "Why might an article about coral reefs use subheadings?",
-    "audio_prompt": "Why might an article about coral reefs use subheadings?",
+    "question": "A student chooses “decorative border” for this task: In a book about Australian animals, which feature helps a reader find a topic listed alphabetically? What should they check?",
+    "audio_prompt": "A student chooses “decorative border” for this task: In a book about Australian animals, which feature helps a reader find a topic listed alphabetically? What should they check?",
     "answers": [
       {
-        "text": "To divide the information into smaller named topics.",
+        "text": "Match the reader's need to the feature's purpose.",
         "is_correct": true
       },
       {
-        "text": "To make every section about the same detail.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "To stop readers from scanning the page.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Subheadings signal the topic of each smaller section.",
-      "hint": "Think about how readers scan for a particular idea."
+      "summary": "Match the reader's need to the feature's purpose. Layout and navigation features help readers locate information.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -637,26 +637,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Layout and Navigation Features",
-    "question": "What should a useful caption do in an article about coral reefs?",
-    "audio_prompt": "What should a useful caption do in an article about coral reefs?",
+    "question": "A student chooses “To hide the topic from the reader.” for this task: What is the main purpose of the index in a book about Australian animals? What should they check?",
+    "audio_prompt": "A student chooses “To hide the topic from the reader.” for this task: What is the main purpose of the index in a book about Australian animals? What should they check?",
     "answers": [
       {
-        "text": "Repeat the page number only.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Explain or add information about an image.",
+        "text": "Explain what the feature lets a reader do.",
         "is_correct": true
       },
       {
-        "text": "Give directions to an unrelated website.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Captions connect images with relevant information.",
-      "hint": "Choose the description that helps interpret the image."
+      "summary": "Explain what the feature lets a reader do. Each navigation feature has a practical reading purpose.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -667,26 +667,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Layout and Navigation Features",
-    "question": "The caption in an article about coral reefs leads to the wrong place. What needs editing?",
-    "audio_prompt": "The caption in an article about coral reefs leads to the wrong place. What needs editing?",
+    "question": "A student chooses “Read an unrelated page repeatedly.” for this task: A reader wants a topic listed alphabetically in a book about Australian animals. What should the reader do first? What should they check?",
+    "audio_prompt": "A student chooses “Read an unrelated page repeatedly.” for this task: A reader wants a topic listed alphabetically in a book about Australian animals. What should the reader do first? What should they check?",
     "answers": [
       {
-        "text": "Every fact in the whole text.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "The reader's name.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "The navigation link or reference.",
+        "text": "Choose the tool designed for that search.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Navigation must take readers to the promised location.",
-      "hint": "Check the connection between the label and destination."
+      "summary": "Choose the tool designed for that search. Efficient readers select the most useful navigation path.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -697,26 +697,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Layout and Navigation Features",
-    "question": "Which layout choice would best support a reader using an article about coral reefs?",
-    "audio_prompt": "Which layout choice would best support a reader using an article about coral reefs?",
+    "question": "A student chooses “Perhaps something” for this task: Which word would be a clear navigation label in a book about Australian animals? What should they check?",
+    "audio_prompt": "A student chooses “Perhaps something” for this task: Which word would be a clear navigation label in a book about Australian animals? What should they check?",
     "answers": [
       {
-        "text": "Place the caption where it is easy to notice and use.",
+        "text": "Choose the label whose destination is easy to understand.",
         "is_correct": true
       },
       {
-        "text": "Hide all labels behind images.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Use identical labels for different destinations.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Visible, specific features support navigation.",
-      "hint": "Consider whether readers can find and understand the tool."
+      "summary": "Choose the label whose destination is easy to understand. Clear navigation words predict where an action will lead.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -727,26 +727,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Layout and Navigation Features",
-    "question": "In a digital museum guide, which feature helps a reader find a named object quickly?",
-    "audio_prompt": "In a digital museum guide, which feature helps a reader find a named object quickly?",
+    "question": "A student chooses “To make every section about the same detail.” for this task: Why might a book about Australian animals use subheadings? What should they check?",
+    "audio_prompt": "A student chooses “To make every section about the same detail.” for this task: Why might a book about Australian animals use subheadings? What should they check?",
     "answers": [
       {
-        "text": "decorative border",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "search box",
+        "text": "Think about how readers scan for a particular idea.",
         "is_correct": true
       },
       {
-        "text": "background colour",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Layout and navigation features help readers locate information.",
-      "hint": "Match the reader's need to the feature's purpose."
+      "summary": "Think about how readers scan for a particular idea. Subheadings signal the topic of each smaller section.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -757,26 +757,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Layout and Navigation Features",
-    "question": "What is the main purpose of the search box in a digital museum guide?",
-    "audio_prompt": "What is the main purpose of the search box in a digital museum guide?",
+    "question": "A student chooses “Repeat the page number only.” for this task: What should a useful caption do in a book about Australian animals? What should they check?",
+    "audio_prompt": "A student chooses “Repeat the page number only.” for this task: What should a useful caption do in a book about Australian animals? What should they check?",
     "answers": [
       {
-        "text": "To hide the topic from the reader.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "To replace every sentence in the text.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "To help the reader find a named object quickly.",
+        "text": "Choose the description that helps interpret the image.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Each navigation feature has a practical reading purpose.",
-      "hint": "Explain what the feature lets a reader do."
+      "summary": "Choose the description that helps interpret the image. Captions connect images with relevant information.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -787,26 +787,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Layout and Navigation Features",
-    "question": "A reader wants a named object quickly in a digital museum guide. What should the reader do first?",
-    "audio_prompt": "A reader wants a named object quickly in a digital museum guide. What should the reader do first?",
+    "question": "A student chooses “Every fact in the whole text.” for this task: The index in a book about Australian animals leads to the wrong place. What needs editing? What should they check?",
+    "audio_prompt": "A student chooses “Every fact in the whole text.” for this task: The index in a book about Australian animals leads to the wrong place. What needs editing? What should they check?",
     "answers": [
       {
-        "text": "Use the search box.",
+        "text": "Check the connection between the label and destination.",
         "is_correct": true
       },
       {
-        "text": "Read an unrelated page repeatedly.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Ignore all navigation words.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Efficient readers select the most useful navigation path.",
-      "hint": "Choose the tool designed for that search."
+      "summary": "Check the connection between the label and destination. Navigation must take readers to the promised location.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -817,26 +817,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Layout and Navigation Features",
-    "question": "Which word would be a clear navigation label in a digital museum guide?",
-    "audio_prompt": "Which word would be a clear navigation label in a digital museum guide?",
+    "question": "A student chooses “Hide all labels behind images.” for this task: Which layout choice would best support a reader using a book about Australian animals? What should they check?",
+    "audio_prompt": "A student chooses “Hide all labels behind images.” for this task: Which layout choice would best support a reader using a book about Australian animals? What should they check?",
     "answers": [
       {
-        "text": "Perhaps something",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Next section",
+        "text": "Consider whether readers can find and understand the tool.",
         "is_correct": true
       },
       {
-        "text": "Mystery place",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Clear navigation words predict where an action will lead.",
-      "hint": "Choose the label whose destination is easy to understand."
+      "summary": "Consider whether readers can find and understand the tool. Visible, specific features support navigation.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -847,26 +847,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Layout and Navigation Features",
-    "question": "Why might a digital museum guide use subheadings?",
-    "audio_prompt": "Why might a digital museum guide use subheadings?",
+    "question": "A student chooses “decorative border” for this task: In a webpage about weather, which feature helps a reader find a section of the site? What should they check?",
+    "audio_prompt": "A student chooses “decorative border” for this task: In a webpage about weather, which feature helps a reader find a section of the site? What should they check?",
     "answers": [
       {
-        "text": "To make every section about the same detail.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "To stop readers from scanning the page.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "To divide the information into smaller named topics.",
+        "text": "Match the reader's need to the feature's purpose.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Subheadings signal the topic of each smaller section.",
-      "hint": "Think about how readers scan for a particular idea."
+      "summary": "Match the reader's need to the feature's purpose. Layout and navigation features help readers locate information.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -877,26 +877,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Layout and Navigation Features",
-    "question": "What should a useful caption do in a digital museum guide?",
-    "audio_prompt": "What should a useful caption do in a digital museum guide?",
+    "question": "A student chooses “To hide the topic from the reader.” for this task: What is the main purpose of the menu in a webpage about weather? What should they check?",
+    "audio_prompt": "A student chooses “To hide the topic from the reader.” for this task: What is the main purpose of the menu in a webpage about weather? What should they check?",
     "answers": [
       {
-        "text": "Explain or add information about an image.",
+        "text": "Explain what the feature lets a reader do.",
         "is_correct": true
       },
       {
-        "text": "Repeat the page number only.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Give directions to an unrelated website.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Captions connect images with relevant information.",
-      "hint": "Choose the description that helps interpret the image."
+      "summary": "Explain what the feature lets a reader do. Each navigation feature has a practical reading purpose.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -907,8 +907,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Layout and Navigation Features",
-    "question": "The search box in a digital museum guide leads to the wrong place. What needs editing?",
-    "audio_prompt": "The search box in a digital museum guide leads to the wrong place. What needs editing?",
+    "question": "The menu in a webpage about weather leads to the wrong place. What needs editing?",
+    "audio_prompt": "The menu in a webpage about weather leads to the wrong place. What needs editing?",
     "answers": [
       {
         "text": "Every fact in the whole text.",
@@ -937,8 +937,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Layout and Navigation Features",
-    "question": "Which layout choice would best support a reader using a digital museum guide?",
-    "audio_prompt": "Which layout choice would best support a reader using a digital museum guide?",
+    "question": "Which layout choice would best support a reader using a webpage about weather?",
+    "audio_prompt": "Which layout choice would best support a reader using a webpage about weather?",
     "answers": [
       {
         "text": "Hide all labels behind images.",
@@ -949,7 +949,7 @@
         "is_correct": false
       },
       {
-        "text": "Place the search box where it is easy to notice and use.",
+        "text": "Place the menu where it is easy to notice and use.",
         "is_correct": true
       }
     ],
@@ -967,11 +967,11 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Layout and Navigation Features",
-    "question": "In a safety handbook, which feature helps a reader find the page where a section begins?",
-    "audio_prompt": "In a safety handbook, which feature helps a reader find the page where a section begins?",
+    "question": "In an article about coral reefs, which feature helps a reader find what a photograph shows?",
+    "audio_prompt": "In an article about coral reefs, which feature helps a reader find what a photograph shows?",
     "answers": [
       {
-        "text": "contents page",
+        "text": "caption",
         "is_correct": true
       },
       {
@@ -997,15 +997,15 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Layout and Navigation Features",
-    "question": "What is the main purpose of the contents page in a safety handbook?",
-    "audio_prompt": "What is the main purpose of the contents page in a safety handbook?",
+    "question": "What is the main purpose of the caption in an article about coral reefs?",
+    "audio_prompt": "What is the main purpose of the caption in an article about coral reefs?",
     "answers": [
       {
         "text": "To hide the topic from the reader.",
         "is_correct": false
       },
       {
-        "text": "To help the reader find the page where a section begins.",
+        "text": "To help the reader find what a photograph shows.",
         "is_correct": true
       },
       {
@@ -1027,8 +1027,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Layout and Navigation Features",
-    "question": "A reader wants the page where a section begins in a safety handbook. What should the reader do first?",
-    "audio_prompt": "A reader wants the page where a section begins in a safety handbook. What should the reader do first?",
+    "question": "A reader wants what a photograph shows in an article about coral reefs. What should the reader do first?",
+    "audio_prompt": "A reader wants what a photograph shows in an article about coral reefs. What should the reader do first?",
     "answers": [
       {
         "text": "Read an unrelated page repeatedly.",
@@ -1039,7 +1039,7 @@
         "is_correct": false
       },
       {
-        "text": "Use the contents page.",
+        "text": "Use the caption.",
         "is_correct": true
       }
     ],
@@ -1057,8 +1057,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Layout and Navigation Features",
-    "question": "Which word would be a clear navigation label in a safety handbook?",
-    "audio_prompt": "Which word would be a clear navigation label in a safety handbook?",
+    "question": "Which word would be a clear navigation label in an article about coral reefs?",
+    "audio_prompt": "Which word would be a clear navigation label in an article about coral reefs?",
     "answers": [
       {
         "text": "Next section",
@@ -1087,8 +1087,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Layout and Navigation Features",
-    "question": "Why might a safety handbook use subheadings?",
-    "audio_prompt": "Why might a safety handbook use subheadings?",
+    "question": "Why might an article about coral reefs use subheadings?",
+    "audio_prompt": "Why might an article about coral reefs use subheadings?",
     "answers": [
       {
         "text": "To make every section about the same detail.",
@@ -1117,8 +1117,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Layout and Navigation Features",
-    "question": "What should a useful caption do in a safety handbook?",
-    "audio_prompt": "What should a useful caption do in a safety handbook?",
+    "question": "What should a useful caption do in an article about coral reefs?",
+    "audio_prompt": "What should a useful caption do in an article about coral reefs?",
     "answers": [
       {
         "text": "Repeat the page number only.",
@@ -1147,8 +1147,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Layout and Navigation Features",
-    "question": "The contents page in a safety handbook leads to the wrong place. What needs editing?",
-    "audio_prompt": "The contents page in a safety handbook leads to the wrong place. What needs editing?",
+    "question": "The caption in an article about coral reefs leads to the wrong place. What needs editing?",
+    "audio_prompt": "The caption in an article about coral reefs leads to the wrong place. What needs editing?",
     "answers": [
       {
         "text": "The navigation link or reference.",
@@ -1177,15 +1177,15 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Layout and Navigation Features",
-    "question": "Which layout choice would best support a reader using a safety handbook?",
-    "audio_prompt": "Which layout choice would best support a reader using a safety handbook?",
+    "question": "Which layout choice would best support a reader using an article about coral reefs?",
+    "audio_prompt": "Which layout choice would best support a reader using an article about coral reefs?",
     "answers": [
       {
         "text": "Hide all labels behind images.",
         "is_correct": false
       },
       {
-        "text": "Place the contents page where it is easy to notice and use.",
+        "text": "Place the caption where it is easy to notice and use.",
         "is_correct": true
       },
       {
@@ -1205,8 +1205,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
+    "stage": "verify",
     "skill": "Layout and Navigation Features",
-    "question": "New check: In a digital museum guide, which feature helps a reader find a named object quickly?",
+    "question": "In a digital museum guide, which feature helps a reader find a named object quickly?",
     "audio_prompt": "In a digital museum guide, which feature helps a reader find a named object quickly?",
     "answers": [
       {
@@ -1234,8 +1235,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
+    "stage": "verify",
     "skill": "Layout and Navigation Features",
-    "question": "New check: What is the main purpose of the search box in a digital museum guide?",
+    "question": "What is the main purpose of the search box in a digital museum guide?",
     "audio_prompt": "What is the main purpose of the search box in a digital museum guide?",
     "answers": [
       {
@@ -1263,8 +1265,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
+    "stage": "verify",
     "skill": "Layout and Navigation Features",
-    "question": "New check: A reader wants a named object quickly in a digital museum guide. What should the reader do first?",
+    "question": "A reader wants a named object quickly in a digital museum guide. What should the reader do first?",
     "audio_prompt": "A reader wants a named object quickly in a digital museum guide. What should the reader do first?",
     "answers": [
       {
@@ -1292,8 +1295,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
+    "stage": "verify",
     "skill": "Layout and Navigation Features",
-    "question": "New check: Which word would be a clear navigation label in a digital museum guide?",
+    "question": "Which word would be a clear navigation label in a digital museum guide?",
     "audio_prompt": "Which word would be a clear navigation label in a digital museum guide?",
     "answers": [
       {
@@ -1321,8 +1325,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
+    "stage": "verify",
     "skill": "Layout and Navigation Features",
-    "question": "New check: Why might a digital museum guide use subheadings?",
+    "question": "Why might a digital museum guide use subheadings?",
     "audio_prompt": "Why might a digital museum guide use subheadings?",
     "answers": [
       {
@@ -1350,8 +1355,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
+    "stage": "verify",
     "skill": "Layout and Navigation Features",
-    "question": "New check: What should a useful caption do in a digital museum guide?",
+    "question": "What should a useful caption do in a digital museum guide?",
     "audio_prompt": "What should a useful caption do in a digital museum guide?",
     "answers": [
       {
@@ -1379,8 +1385,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
+    "stage": "verify",
     "skill": "Layout and Navigation Features",
-    "question": "New check: The search box in a digital museum guide leads to the wrong place. What needs editing?",
+    "question": "The search box in a digital museum guide leads to the wrong place. What needs editing?",
     "audio_prompt": "The search box in a digital museum guide leads to the wrong place. What needs editing?",
     "answers": [
       {
@@ -1408,8 +1415,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
+    "stage": "verify",
     "skill": "Layout and Navigation Features",
-    "question": "New check: Which layout choice would best support a reader using a digital museum guide?",
+    "question": "Which layout choice would best support a reader using a digital museum guide?",
     "audio_prompt": "Which layout choice would best support a reader using a digital museum guide?",
     "answers": [
       {
@@ -1437,8 +1445,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
+    "stage": "apply",
     "skill": "Layout and Navigation Features",
-    "question": "New check: In a safety handbook, which feature helps a reader find the page where a section begins?",
+    "question": "In a safety handbook, which feature helps a reader find the page where a section begins?",
     "audio_prompt": "In a safety handbook, which feature helps a reader find the page where a section begins?",
     "answers": [
       {
@@ -1466,8 +1475,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
+    "stage": "apply",
     "skill": "Layout and Navigation Features",
-    "question": "New check: What is the main purpose of the contents page in a safety handbook?",
+    "question": "What is the main purpose of the contents page in a safety handbook?",
     "audio_prompt": "What is the main purpose of the contents page in a safety handbook?",
     "answers": [
       {
@@ -1495,8 +1505,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
+    "stage": "apply",
     "skill": "Layout and Navigation Features",
-    "question": "New check: A reader wants the page where a section begins in a safety handbook. What should the reader do first?",
+    "question": "A reader wants the page where a section begins in a safety handbook. What should the reader do first?",
     "audio_prompt": "A reader wants the page where a section begins in a safety handbook. What should the reader do first?",
     "answers": [
       {
@@ -1524,8 +1535,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
+    "stage": "apply",
     "skill": "Layout and Navigation Features",
-    "question": "New check: Which word would be a clear navigation label in a safety handbook?",
+    "question": "Which word would be a clear navigation label in a safety handbook?",
     "audio_prompt": "Which word would be a clear navigation label in a safety handbook?",
     "answers": [
       {
@@ -1553,8 +1565,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
+    "stage": "apply",
     "skill": "Layout and Navigation Features",
-    "question": "New check: Why might a safety handbook use subheadings?",
+    "question": "Why might a safety handbook use subheadings?",
     "audio_prompt": "Why might a safety handbook use subheadings?",
     "answers": [
       {
@@ -1582,8 +1595,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
+    "stage": "apply",
     "skill": "Layout and Navigation Features",
-    "question": "New check: What should a useful caption do in a safety handbook?",
+    "question": "What should a useful caption do in a safety handbook?",
     "audio_prompt": "What should a useful caption do in a safety handbook?",
     "answers": [
       {
@@ -1611,8 +1625,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
+    "stage": "apply",
     "skill": "Layout and Navigation Features",
-    "question": "New check: The contents page in a safety handbook leads to the wrong place. What needs editing?",
+    "question": "The contents page in a safety handbook leads to the wrong place. What needs editing?",
     "audio_prompt": "The contents page in a safety handbook leads to the wrong place. What needs editing?",
     "answers": [
       {
@@ -1640,8 +1655,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
+    "stage": "apply",
     "skill": "Layout and Navigation Features",
-    "question": "New check: Which layout choice would best support a reader using a safety handbook?",
+    "question": "Which layout choice would best support a reader using a safety handbook?",
     "audio_prompt": "Which layout choice would best support a reader using a safety handbook?",
     "answers": [
       {

@@ -307,19 +307,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "High-Frequency Words and Homophones",
-    "question": "In a message about helping a neighbour, which option correctly means 'in that place'?",
-    "audio_prompt": "In a message about helping a neighbour, which option correctly means 'in that place'?",
+    "question": "Why is “there, the place word” the best answer here? In a message about helping a neighbour, which option correctly means 'in that place'?",
+    "audio_prompt": "Why is “there, the place word” the best answer here? In a message about helping a neighbour, which option correctly means 'in that place'?",
     "answers": [
       {
-        "text": "their, the ownership word",
+        "text": "Because “their, the ownership word” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "there, the place word",
+        "text": "there, the place word This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "they're, the contraction meaning they are",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -337,19 +337,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "High-Frequency Words and Homophones",
-    "question": "In a message about helping a neighbour, which option correctly means 'they are'?",
-    "audio_prompt": "In a message about helping a neighbour, which option correctly means 'they are'?",
+    "question": "Why is “they're, the contraction meaning they are” the best answer here? In a message about helping a neighbour, which option correctly means 'they are'?",
+    "audio_prompt": "Why is “they're, the contraction meaning they are” the best answer here? In a message about helping a neighbour, which option correctly means 'they are'?",
     "answers": [
       {
-        "text": "their, the ownership word",
+        "text": "Because “their, the ownership word” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "there, the place word",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "they're, the contraction meaning they are",
+        "text": "they're, the contraction meaning they are This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       }
     ],
@@ -367,19 +367,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "High-Frequency Words and Homophones",
-    "question": "In a message about helping a neighbour, what helps spell a high-frequency word accurately?",
-    "audio_prompt": "In a message about helping a neighbour, what helps spell a high-frequency word accurately?",
+    "question": "Why is “Recall its complete stored spelling and check it in context” the best answer here? In a message about helping a neighbour, what helps spell a high-frequency word accurately?",
+    "audio_prompt": "Why is “Recall its complete stored spelling and check it in context” the best answer here? In a message about helping a neighbour, what helps spell a high-frequency word accurately?",
     "answers": [
       {
-        "text": "Recall its complete stored spelling and check it in context",
+        "text": "Recall its complete stored spelling and check it in context This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "Invent a new spelling each time",
+        "text": "Because “Invent a new spelling each time” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Rely only on how one speaker pronounces it",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -397,19 +397,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "High-Frequency Words and Homophones",
-    "question": "In a message about helping a neighbour, why can homophones confuse writers?",
-    "audio_prompt": "In a message about helping a neighbour, why can homophones confuse writers?",
+    "question": "Why is “They sound alike but have different spellings and meanings” the best answer here? In a message about helping a neighbour, why can homophones confuse writers?",
+    "audio_prompt": "Why is “They sound alike but have different spellings and meanings” the best answer here? In a message about helping a neighbour, why can homophones confuse writers?",
     "answers": [
       {
-        "text": "They always have opposite meanings",
+        "text": "Because “They always have opposite meanings” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "They sound alike but have different spellings and meanings",
+        "text": "They sound alike but have different spellings and meanings This explanation follows the relevant Year 3 English evidence.",
         "is_correct": true
       },
       {
-        "text": "They are written exactly alike",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -427,19 +427,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "High-Frequency Words and Homophones",
-    "question": "In a message about helping a neighbour, which proofreading question is most useful?",
-    "audio_prompt": "In a message about helping a neighbour, which proofreading question is most useful?",
+    "question": "Why is “Does this spelling match the meaning I intend?” the best answer here? In a message about helping a neighbour, which proofreading question is most useful?",
+    "audio_prompt": "Why is “Does this spelling match the meaning I intend?” the best answer here? In a message about helping a neighbour, which proofreading question is most useful?",
     "answers": [
       {
-        "text": "Is this the longest option?",
+        "text": "Because “Is this the longest option?” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Does the word begin the page?",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "Does this spelling match the meaning I intend?",
+        "text": "Does this spelling match the meaning I intend? This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       }
     ],
@@ -457,19 +457,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "High-Frequency Words and Homophones",
-    "question": "In a message about helping a neighbour, a familiar word still looks wrong. What should the writer do?",
-    "audio_prompt": "In a message about helping a neighbour, a familiar word still looks wrong. What should the writer do?",
+    "question": "Why is “Check the complete word in a trusted source and correct it” the best answer here? In a message about helping a neighbour, a familiar word still looks wrong. What should the writer do?",
+    "audio_prompt": "Why is “Check the complete word in a trusted source and correct it” the best answer here? In a message about helping a neighbour, a familiar word still looks wrong. What should the writer do?",
     "answers": [
       {
-        "text": "Check the complete word in a trusted source and correct it",
+        "text": "Check the complete word in a trusted source and correct it This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "Add an apostrophe anywhere",
+        "text": "Because “Add an apostrophe anywhere” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Replace it with a blank line",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -487,19 +487,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "High-Frequency Words and Homophones",
-    "question": "In a story about finding a lost bag, how should a writer choose between words that sound alike?",
-    "audio_prompt": "In a story about finding a lost bag, how should a writer choose between words that sound alike?",
+    "question": "Why is “Use the sentence meaning and grammar” the best answer here? In a story about finding a lost bag, how should a writer choose between words that sound alike?",
+    "audio_prompt": "Why is “Use the sentence meaning and grammar” the best answer here? In a story about finding a lost bag, how should a writer choose between words that sound alike?",
     "answers": [
       {
-        "text": "Choose whichever spelling is shorter",
+        "text": "Because “Choose whichever spelling is shorter” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Use the sentence meaning and grammar",
+        "text": "Use the sentence meaning and grammar This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "Use both spellings together",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -517,19 +517,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "High-Frequency Words and Homophones",
-    "question": "In a story about finding a lost bag, which option correctly completes the meaning 'belonging to them'?",
-    "audio_prompt": "In a story about finding a lost bag, which option correctly completes the meaning 'belonging to them'?",
+    "question": "Why is “their, the ownership word” the best answer here? In a story about finding a lost bag, which option correctly completes the meaning 'belonging to them'?",
+    "audio_prompt": "Why is “their, the ownership word” the best answer here? In a story about finding a lost bag, which option correctly completes the meaning 'belonging to them'?",
     "answers": [
       {
-        "text": "there, the place word",
+        "text": "Because “there, the place word” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "they're, the contraction meaning they are",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "their, the ownership word",
+        "text": "their, the ownership word This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       }
     ],
@@ -547,19 +547,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "High-Frequency Words and Homophones",
-    "question": "In a story about finding a lost bag, which option correctly means 'in that place'?",
-    "audio_prompt": "In a story about finding a lost bag, which option correctly means 'in that place'?",
+    "question": "Why is “there, the place word” the best answer here? In a story about finding a lost bag, which option correctly means 'in that place'?",
+    "audio_prompt": "Why is “there, the place word” the best answer here? In a story about finding a lost bag, which option correctly means 'in that place'?",
     "answers": [
       {
-        "text": "there, the place word",
+        "text": "there, the place word This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "their, the ownership word",
+        "text": "Because “their, the ownership word” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "they're, the contraction meaning they are",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -577,19 +577,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "High-Frequency Words and Homophones",
-    "question": "In a story about finding a lost bag, which option correctly means 'they are'?",
-    "audio_prompt": "In a story about finding a lost bag, which option correctly means 'they are'?",
+    "question": "Why is “they're, the contraction meaning they are” the best answer here? In a story about finding a lost bag, which option correctly means 'they are'?",
+    "audio_prompt": "Why is “they're, the contraction meaning they are” the best answer here? In a story about finding a lost bag, which option correctly means 'they are'?",
     "answers": [
       {
-        "text": "their, the ownership word",
+        "text": "Because “their, the ownership word” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "they're, the contraction meaning they are",
+        "text": "they're, the contraction meaning they are This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "there, the place word",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -607,26 +607,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "High-Frequency Words and Homophones",
-    "question": "In a story about finding a lost bag, what helps spell a high-frequency word accurately?",
-    "audio_prompt": "In a story about finding a lost bag, what helps spell a high-frequency word accurately?",
+    "question": "A student chooses “Choose whichever spelling is shorter” for this task: In a sentence about travelling to school, how should a writer choose between words that sound alike? What should they check?",
+    "audio_prompt": "A student chooses “Choose whichever spelling is shorter” for this task: In a sentence about travelling to school, how should a writer choose between words that sound alike? What should they check?",
     "answers": [
       {
-        "text": "Invent a new spelling each time",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Rely only on how one speaker pronounces it",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "Recall its complete stored spelling and check it in context",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Recall its complete stored spelling and check it in context This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Use the sentence meaning and grammar This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -637,26 +637,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "High-Frequency Words and Homophones",
-    "question": "In a story about finding a lost bag, why can homophones confuse writers?",
-    "audio_prompt": "In a story about finding a lost bag, why can homophones confuse writers?",
+    "question": "A student chooses “there, the place word” for this task: In a sentence about travelling to school, which option correctly completes the meaning 'belonging to them'? What should they check?",
+    "audio_prompt": "A student chooses “there, the place word” for this task: In a sentence about travelling to school, which option correctly completes the meaning 'belonging to them'? What should they check?",
     "answers": [
       {
-        "text": "They sound alike but have different spellings and meanings",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "They always have opposite meanings",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "They are written exactly alike",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "They sound alike but have different spellings and meanings This explanation follows the relevant Year 3 English evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. their, the ownership word This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -667,26 +667,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "High-Frequency Words and Homophones",
-    "question": "In a story about finding a lost bag, which proofreading question is most useful?",
-    "audio_prompt": "In a story about finding a lost bag, which proofreading question is most useful?",
+    "question": "A student chooses “their, the ownership word” for this task: In a sentence about travelling to school, which option correctly means 'in that place'? What should they check?",
+    "audio_prompt": "A student chooses “their, the ownership word” for this task: In a sentence about travelling to school, which option correctly means 'in that place'? What should they check?",
     "answers": [
       {
-        "text": "Is this the longest option?",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Does this spelling match the meaning I intend?",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "Does the word begin the page?",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Does this spelling match the meaning I intend? This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. there, the place word This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -697,26 +697,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "High-Frequency Words and Homophones",
-    "question": "In a story about finding a lost bag, a familiar word still looks wrong. What should the writer do?",
-    "audio_prompt": "In a story about finding a lost bag, a familiar word still looks wrong. What should the writer do?",
+    "question": "A student chooses “their, the ownership word” for this task: In a sentence about travelling to school, which option correctly means 'they are'? What should they check?",
+    "audio_prompt": "A student chooses “their, the ownership word” for this task: In a sentence about travelling to school, which option correctly means 'they are'? What should they check?",
     "answers": [
       {
-        "text": "Add an apostrophe anywhere",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Replace it with a blank line",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "Check the complete word in a trusted source and correct it",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Check the complete word in a trusted source and correct it This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. they're, the contraction meaning they are This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -727,26 +727,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "High-Frequency Words and Homophones",
-    "question": "In instructions for preparing lunch, how should a writer choose between words that sound alike?",
-    "audio_prompt": "In instructions for preparing lunch, how should a writer choose between words that sound alike?",
+    "question": "A student chooses “Invent a new spelling each time” for this task: In a sentence about travelling to school, what helps spell a high-frequency word accurately? What should they check?",
+    "audio_prompt": "A student chooses “Invent a new spelling each time” for this task: In a sentence about travelling to school, what helps spell a high-frequency word accurately? What should they check?",
     "answers": [
       {
-        "text": "Use the sentence meaning and grammar",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "Choose whichever spelling is shorter",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Use both spellings together",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the sentence meaning and grammar This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Recall its complete stored spelling and check it in context This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -757,26 +757,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "High-Frequency Words and Homophones",
-    "question": "In instructions for preparing lunch, which option correctly completes the meaning 'belonging to them'?",
-    "audio_prompt": "In instructions for preparing lunch, which option correctly completes the meaning 'belonging to them'?",
+    "question": "A student chooses “They always have opposite meanings” for this task: In a sentence about travelling to school, why can homophones confuse writers? What should they check?",
+    "audio_prompt": "A student chooses “They always have opposite meanings” for this task: In a sentence about travelling to school, why can homophones confuse writers? What should they check?",
     "answers": [
       {
-        "text": "there, the place word",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "their, the ownership word",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "they're, the contraction meaning they are",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "their, the ownership word This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. They sound alike but have different spellings and meanings This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -787,26 +787,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "High-Frequency Words and Homophones",
-    "question": "In instructions for preparing lunch, which option correctly means 'in that place'?",
-    "audio_prompt": "In instructions for preparing lunch, which option correctly means 'in that place'?",
+    "question": "A student chooses “Is this the longest option?” for this task: In a sentence about travelling to school, which proofreading question is most useful? What should they check?",
+    "audio_prompt": "A student chooses “Is this the longest option?” for this task: In a sentence about travelling to school, which proofreading question is most useful? What should they check?",
     "answers": [
       {
-        "text": "their, the ownership word",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "they're, the contraction meaning they are",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "there, the place word",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "there, the place word This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Does this spelling match the meaning I intend? This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -817,26 +817,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "High-Frequency Words and Homophones",
-    "question": "In instructions for preparing lunch, which option correctly means 'they are'?",
-    "audio_prompt": "In instructions for preparing lunch, which option correctly means 'they are'?",
+    "question": "A student chooses “Add an apostrophe anywhere” for this task: In a sentence about travelling to school, a familiar word still looks wrong. What should the writer do? What should they check?",
+    "audio_prompt": "A student chooses “Add an apostrophe anywhere” for this task: In a sentence about travelling to school, a familiar word still looks wrong. What should the writer do? What should they check?",
     "answers": [
       {
-        "text": "they're, the contraction meaning they are",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "their, the ownership word",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "there, the place word",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "they're, the contraction meaning they are This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Check the complete word in a trusted source and correct it This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -847,26 +847,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "High-Frequency Words and Homophones",
-    "question": "In instructions for preparing lunch, what helps spell a high-frequency word accurately?",
-    "audio_prompt": "In instructions for preparing lunch, what helps spell a high-frequency word accurately?",
+    "question": "A student chooses “Choose whichever spelling is shorter” for this task: In a message about helping a neighbour, how should a writer choose between words that sound alike? What should they check?",
+    "audio_prompt": "A student chooses “Choose whichever spelling is shorter” for this task: In a message about helping a neighbour, how should a writer choose between words that sound alike? What should they check?",
     "answers": [
       {
-        "text": "Invent a new spelling each time",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Recall its complete stored spelling and check it in context",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "Rely only on how one speaker pronounces it",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Recall its complete stored spelling and check it in context This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Use the sentence meaning and grammar This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -877,26 +877,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "High-Frequency Words and Homophones",
-    "question": "In instructions for preparing lunch, why can homophones confuse writers?",
-    "audio_prompt": "In instructions for preparing lunch, why can homophones confuse writers?",
+    "question": "A student chooses “there, the place word” for this task: In a message about helping a neighbour, which option correctly completes the meaning 'belonging to them'? What should they check?",
+    "audio_prompt": "A student chooses “there, the place word” for this task: In a message about helping a neighbour, which option correctly completes the meaning 'belonging to them'? What should they check?",
     "answers": [
       {
-        "text": "They always have opposite meanings",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "They are written exactly alike",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "They sound alike but have different spellings and meanings",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "They sound alike but have different spellings and meanings This explanation follows the relevant Year 3 English evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. their, the ownership word This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -907,8 +907,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "High-Frequency Words and Homophones",
-    "question": "In instructions for preparing lunch, which proofreading question is most useful?",
-    "audio_prompt": "In instructions for preparing lunch, which proofreading question is most useful?",
+    "question": "In a message about helping a neighbour, which proofreading question is most useful?",
+    "audio_prompt": "In a message about helping a neighbour, which proofreading question is most useful?",
     "answers": [
       {
         "text": "Does this spelling match the meaning I intend?",
@@ -937,8 +937,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "High-Frequency Words and Homophones",
-    "question": "In instructions for preparing lunch, a familiar word still looks wrong. What should the writer do?",
-    "audio_prompt": "In instructions for preparing lunch, a familiar word still looks wrong. What should the writer do?",
+    "question": "In a message about helping a neighbour, a familiar word still looks wrong. What should the writer do?",
+    "audio_prompt": "In a message about helping a neighbour, a familiar word still looks wrong. What should the writer do?",
     "answers": [
       {
         "text": "Add an apostrophe anywhere",
@@ -967,8 +967,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "High-Frequency Words and Homophones",
-    "question": "In a report about visiting the coast, how should a writer choose between words that sound alike?",
-    "audio_prompt": "In a report about visiting the coast, how should a writer choose between words that sound alike?",
+    "question": "In a story about finding a lost bag, how should a writer choose between words that sound alike?",
+    "audio_prompt": "In a story about finding a lost bag, how should a writer choose between words that sound alike?",
     "answers": [
       {
         "text": "Choose whichever spelling is shorter",
@@ -997,8 +997,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "High-Frequency Words and Homophones",
-    "question": "In a report about visiting the coast, which option correctly completes the meaning 'belonging to them'?",
-    "audio_prompt": "In a report about visiting the coast, which option correctly completes the meaning 'belonging to them'?",
+    "question": "In a story about finding a lost bag, which option correctly completes the meaning 'belonging to them'?",
+    "audio_prompt": "In a story about finding a lost bag, which option correctly completes the meaning 'belonging to them'?",
     "answers": [
       {
         "text": "their, the ownership word",
@@ -1027,8 +1027,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "High-Frequency Words and Homophones",
-    "question": "In a report about visiting the coast, which option correctly means 'in that place'?",
-    "audio_prompt": "In a report about visiting the coast, which option correctly means 'in that place'?",
+    "question": "In a story about finding a lost bag, which option correctly means 'in that place'?",
+    "audio_prompt": "In a story about finding a lost bag, which option correctly means 'in that place'?",
     "answers": [
       {
         "text": "their, the ownership word",
@@ -1057,8 +1057,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "High-Frequency Words and Homophones",
-    "question": "In a report about visiting the coast, which option correctly means 'they are'?",
-    "audio_prompt": "In a report about visiting the coast, which option correctly means 'they are'?",
+    "question": "In a story about finding a lost bag, which option correctly means 'they are'?",
+    "audio_prompt": "In a story about finding a lost bag, which option correctly means 'they are'?",
     "answers": [
       {
         "text": "their, the ownership word",
@@ -1087,8 +1087,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "High-Frequency Words and Homophones",
-    "question": "In a report about visiting the coast, what helps spell a high-frequency word accurately?",
-    "audio_prompt": "In a report about visiting the coast, what helps spell a high-frequency word accurately?",
+    "question": "In a story about finding a lost bag, what helps spell a high-frequency word accurately?",
+    "audio_prompt": "In a story about finding a lost bag, what helps spell a high-frequency word accurately?",
     "answers": [
       {
         "text": "Recall its complete stored spelling and check it in context",
@@ -1117,8 +1117,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "High-Frequency Words and Homophones",
-    "question": "In a report about visiting the coast, why can homophones confuse writers?",
-    "audio_prompt": "In a report about visiting the coast, why can homophones confuse writers?",
+    "question": "In a story about finding a lost bag, why can homophones confuse writers?",
+    "audio_prompt": "In a story about finding a lost bag, why can homophones confuse writers?",
     "answers": [
       {
         "text": "They always have opposite meanings",
@@ -1147,8 +1147,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "High-Frequency Words and Homophones",
-    "question": "In a report about visiting the coast, which proofreading question is most useful?",
-    "audio_prompt": "In a report about visiting the coast, which proofreading question is most useful?",
+    "question": "In a story about finding a lost bag, which proofreading question is most useful?",
+    "audio_prompt": "In a story about finding a lost bag, which proofreading question is most useful?",
     "answers": [
       {
         "text": "Is this the longest option?",
@@ -1177,8 +1177,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "High-Frequency Words and Homophones",
-    "question": "In a report about visiting the coast, a familiar word still looks wrong. What should the writer do?",
-    "audio_prompt": "In a report about visiting the coast, a familiar word still looks wrong. What should the writer do?",
+    "question": "In a story about finding a lost bag, a familiar word still looks wrong. What should the writer do?",
+    "audio_prompt": "In a story about finding a lost bag, a familiar word still looks wrong. What should the writer do?",
     "answers": [
       {
         "text": "Check the complete word in a trusted source and correct it",
@@ -1205,8 +1205,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY12",
     "bank": "test",
+    "stage": "verify",
     "skill": "High-Frequency Words and Homophones",
-    "question": "New check: In instructions for preparing lunch, how should a writer choose between words that sound alike?",
+    "question": "In instructions for preparing lunch, how should a writer choose between words that sound alike?",
     "audio_prompt": "In instructions for preparing lunch, how should a writer choose between words that sound alike?",
     "answers": [
       {
@@ -1234,8 +1235,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY12",
     "bank": "test",
+    "stage": "verify",
     "skill": "High-Frequency Words and Homophones",
-    "question": "New check: In instructions for preparing lunch, which option correctly completes the meaning 'belonging to them'?",
+    "question": "In instructions for preparing lunch, which option correctly completes the meaning 'belonging to them'?",
     "audio_prompt": "In instructions for preparing lunch, which option correctly completes the meaning 'belonging to them'?",
     "answers": [
       {
@@ -1263,8 +1265,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY12",
     "bank": "test",
+    "stage": "verify",
     "skill": "High-Frequency Words and Homophones",
-    "question": "New check: In instructions for preparing lunch, which option correctly means 'in that place'?",
+    "question": "In instructions for preparing lunch, which option correctly means 'in that place'?",
     "audio_prompt": "In instructions for preparing lunch, which option correctly means 'in that place'?",
     "answers": [
       {
@@ -1292,8 +1295,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY12",
     "bank": "test",
+    "stage": "verify",
     "skill": "High-Frequency Words and Homophones",
-    "question": "New check: In instructions for preparing lunch, which option correctly means 'they are'?",
+    "question": "In instructions for preparing lunch, which option correctly means 'they are'?",
     "audio_prompt": "In instructions for preparing lunch, which option correctly means 'they are'?",
     "answers": [
       {
@@ -1321,8 +1325,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY12",
     "bank": "test",
+    "stage": "verify",
     "skill": "High-Frequency Words and Homophones",
-    "question": "New check: In instructions for preparing lunch, what helps spell a high-frequency word accurately?",
+    "question": "In instructions for preparing lunch, what helps spell a high-frequency word accurately?",
     "audio_prompt": "In instructions for preparing lunch, what helps spell a high-frequency word accurately?",
     "answers": [
       {
@@ -1350,8 +1355,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY12",
     "bank": "test",
+    "stage": "verify",
     "skill": "High-Frequency Words and Homophones",
-    "question": "New check: In instructions for preparing lunch, why can homophones confuse writers?",
+    "question": "In instructions for preparing lunch, why can homophones confuse writers?",
     "audio_prompt": "In instructions for preparing lunch, why can homophones confuse writers?",
     "answers": [
       {
@@ -1379,8 +1385,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY12",
     "bank": "test",
+    "stage": "verify",
     "skill": "High-Frequency Words and Homophones",
-    "question": "New check: In instructions for preparing lunch, which proofreading question is most useful?",
+    "question": "In instructions for preparing lunch, which proofreading question is most useful?",
     "audio_prompt": "In instructions for preparing lunch, which proofreading question is most useful?",
     "answers": [
       {
@@ -1408,8 +1415,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY12",
     "bank": "test",
+    "stage": "verify",
     "skill": "High-Frequency Words and Homophones",
-    "question": "New check: In instructions for preparing lunch, a familiar word still looks wrong. What should the writer do?",
+    "question": "In instructions for preparing lunch, a familiar word still looks wrong. What should the writer do?",
     "audio_prompt": "In instructions for preparing lunch, a familiar word still looks wrong. What should the writer do?",
     "answers": [
       {
@@ -1437,8 +1445,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY12",
     "bank": "test",
+    "stage": "apply",
     "skill": "High-Frequency Words and Homophones",
-    "question": "New check: In a report about visiting the coast, how should a writer choose between words that sound alike?",
+    "question": "In a report about visiting the coast, how should a writer choose between words that sound alike?",
     "audio_prompt": "In a report about visiting the coast, how should a writer choose between words that sound alike?",
     "answers": [
       {
@@ -1466,8 +1475,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY12",
     "bank": "test",
+    "stage": "apply",
     "skill": "High-Frequency Words and Homophones",
-    "question": "New check: In a report about visiting the coast, which option correctly completes the meaning 'belonging to them'?",
+    "question": "In a report about visiting the coast, which option correctly completes the meaning 'belonging to them'?",
     "audio_prompt": "In a report about visiting the coast, which option correctly completes the meaning 'belonging to them'?",
     "answers": [
       {
@@ -1495,8 +1505,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY12",
     "bank": "test",
+    "stage": "apply",
     "skill": "High-Frequency Words and Homophones",
-    "question": "New check: In a report about visiting the coast, which option correctly means 'in that place'?",
+    "question": "In a report about visiting the coast, which option correctly means 'in that place'?",
     "audio_prompt": "In a report about visiting the coast, which option correctly means 'in that place'?",
     "answers": [
       {
@@ -1524,8 +1535,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY12",
     "bank": "test",
+    "stage": "apply",
     "skill": "High-Frequency Words and Homophones",
-    "question": "New check: In a report about visiting the coast, which option correctly means 'they are'?",
+    "question": "In a report about visiting the coast, which option correctly means 'they are'?",
     "audio_prompt": "In a report about visiting the coast, which option correctly means 'they are'?",
     "answers": [
       {
@@ -1553,8 +1565,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY12",
     "bank": "test",
+    "stage": "apply",
     "skill": "High-Frequency Words and Homophones",
-    "question": "New check: In a report about visiting the coast, what helps spell a high-frequency word accurately?",
+    "question": "In a report about visiting the coast, what helps spell a high-frequency word accurately?",
     "audio_prompt": "In a report about visiting the coast, what helps spell a high-frequency word accurately?",
     "answers": [
       {
@@ -1582,8 +1595,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY12",
     "bank": "test",
+    "stage": "apply",
     "skill": "High-Frequency Words and Homophones",
-    "question": "New check: In a report about visiting the coast, why can homophones confuse writers?",
+    "question": "In a report about visiting the coast, why can homophones confuse writers?",
     "audio_prompt": "In a report about visiting the coast, why can homophones confuse writers?",
     "answers": [
       {
@@ -1611,8 +1625,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY12",
     "bank": "test",
+    "stage": "apply",
     "skill": "High-Frequency Words and Homophones",
-    "question": "New check: In a report about visiting the coast, which proofreading question is most useful?",
+    "question": "In a report about visiting the coast, which proofreading question is most useful?",
     "audio_prompt": "In a report about visiting the coast, which proofreading question is most useful?",
     "answers": [
       {
@@ -1640,8 +1655,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY12",
     "bank": "test",
+    "stage": "apply",
     "skill": "High-Frequency Words and Homophones",
-    "question": "New check: In a report about visiting the coast, a familiar word still looks wrong. What should the writer do?",
+    "question": "In a report about visiting the coast, a familiar word still looks wrong. What should the writer do?",
     "audio_prompt": "In a report about visiting the coast, a familiar word still looks wrong. What should the writer do?",
     "answers": [
       {

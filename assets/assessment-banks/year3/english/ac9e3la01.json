@@ -307,19 +307,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Conversation Conventions and Formality",
-    "question": "Which action best supports cooperation while choosing a team mascot?",
-    "audio_prompt": "Which action best supports cooperation while choosing a team mascot?",
+    "question": "Why is “Wait for a pause, then speak.” the best answer here? Which action best supports cooperation while choosing a team mascot?",
+    "audio_prompt": "Why is “Wait for a pause, then speak.” the best answer here? Which action best supports cooperation while choosing a team mascot?",
     "answers": [
       {
-        "text": "Repeat the same interruption.",
+        "text": "Because “Repeat the same interruption.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Wait for a pause, then speak.",
+        "text": "Waiting for a pause helps everyone take a fair turn.",
         "is_correct": true
       },
       {
-        "text": "Talk over the group.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -337,19 +337,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Conversation Conventions and Formality",
-    "question": "Which invitation would help a quiet group member join the talk about choosing a team mascot?",
-    "audio_prompt": "Which invitation would help a quiet group member join the talk about choosing a team mascot?",
+    "question": "Why is “Would you like to share your idea?” the best answer here? Which invitation would help a quiet group member join the talk about choosing a team mascot?",
+    "audio_prompt": "Why is “Would you like to share your idea?” the best answer here? Which invitation would help a quiet group member join the talk about choosing a team mascot?",
     "answers": [
       {
-        "text": "You have nothing to say, do you?",
+        "text": "Because “You have nothing to say, do you?” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Do not speak yet.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "Would you like to share your idea?",
+        "text": "A respectful invitation makes space for another speaker.",
         "is_correct": true
       }
     ],
@@ -367,19 +367,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Conversation Conventions and Formality",
-    "question": "Someone misunderstands your point about choosing a team mascot. Which reply repairs the conversation?",
-    "audio_prompt": "Someone misunderstands your point about choosing a team mascot. Which reply repairs the conversation?",
+    "question": "Why is “I may not have explained clearly. I meant that we could try it first.” the best answer here? Someone misunderstands your point about choosing a team mascot. Which reply repairs the conversation?",
+    "audio_prompt": "Why is “I may not have explained clearly. I meant that we could try it first.” the best answer here? Someone misunderstands your point about choosing a team mascot. Which reply repairs the conversation?",
     "answers": [
       {
-        "text": "I may not have explained clearly. I meant that we could try it first.",
+        "text": "A repair calmly clarifies meaning without blaming the listener.",
         "is_correct": true
       },
       {
-        "text": "You never listen properly.",
+        "text": "Because “You never listen properly.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Forget it. I will not explain.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -397,19 +397,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Conversation Conventions and Formality",
-    "question": "Which wording is best suited to a friend during choosing a team mascot?",
-    "audio_prompt": "Which wording is best suited to a friend during choosing a team mascot?",
+    "question": "Why is “I heard your idea. May I suggest a dolphin?” the best answer here? Which wording is best suited to a friend during choosing a team mascot?",
+    "audio_prompt": "Why is “I heard your idea. May I suggest a dolphin?” the best answer here? Which wording is best suited to a friend during choosing a team mascot?",
     "answers": [
       {
-        "text": "Move over. My turn.",
+        "text": "Because “Move over. My turn.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "I heard your idea. May I suggest a dolphin?",
+        "text": "Language changes with audience and formality.",
         "is_correct": true
       },
       {
-        "text": "Hey, listen to me right now.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -427,19 +427,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Conversation Conventions and Formality",
-    "question": "Two people begin speaking together during choosing a team mascot. What is the most cooperative response?",
-    "audio_prompt": "Two people begin speaking together during choosing a team mascot. What is the most cooperative response?",
+    "question": "Why is “One speaker pauses and invites the other to continue.” the best answer here? Two people begin speaking together during choosing a team mascot. What is the most cooperative response?",
+    "audio_prompt": "Why is “One speaker pauses and invites the other to continue.” the best answer here? Two people begin speaking together during choosing a team mascot. What is the most cooperative response?",
     "answers": [
       {
-        "text": "Both speakers talk louder.",
+        "text": "Because “Both speakers talk louder.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "One speaker insults the other.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "One speaker pauses and invites the other to continue.",
+        "text": "Cooperation means managing an accidental overlap respectfully.",
         "is_correct": true
       }
     ],
@@ -457,19 +457,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Conversation Conventions and Formality",
-    "question": "Which chairperson comment keeps the discussion about choosing a team mascot moving fairly?",
-    "audio_prompt": "Which chairperson comment keeps the discussion about choosing a team mascot moving fairly?",
+    "question": "Why is “We have heard one view. Let us invite another speaker.” the best answer here? Which chairperson comment keeps the discussion about choosing a team mascot moving fairly?",
+    "audio_prompt": "Why is “We have heard one view. Let us invite another speaker.” the best answer here? Which chairperson comment keeps the discussion about choosing a team mascot moving fairly?",
     "answers": [
       {
-        "text": "We have heard one view. Let us invite another speaker.",
+        "text": "A chairperson can acknowledge one view and invite another.",
         "is_correct": true
       },
       {
-        "text": "Only my friends may answer.",
+        "text": "Because “Only my friends may answer.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "I will give every answer myself.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -487,19 +487,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Conversation Conventions and Formality",
-    "question": "During discussing playground shade, which response politely takes a turn with the teacher?",
-    "audio_prompt": "During discussing playground shade, which response politely takes a turn with the teacher?",
+    "question": "Why is “Excuse me, may I respond to that point?” the best answer here? During discussing playground shade, which response politely takes a turn with the teacher?",
+    "audio_prompt": "Why is “Excuse me, may I respond to that point?” the best answer here? During discussing playground shade, which response politely takes a turn with the teacher?",
     "answers": [
       {
-        "text": "I am speaking now, so everyone stop.",
+        "text": "Because “I am speaking now, so everyone stop.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Excuse me, may I respond to that point?",
+        "text": "Polite turn-taking acknowledges the audience and asks to contribute.",
         "is_correct": true
       },
       {
-        "text": "Your idea does not matter.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -517,19 +517,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Conversation Conventions and Formality",
-    "question": "A speaker finishes a point during discussing playground shade. What should an active listener do next?",
-    "audio_prompt": "A speaker finishes a point during discussing playground shade. What should an active listener do next?",
+    "question": "Why is “Refer to the point before adding a new idea.” the best answer here? A speaker finishes a point during discussing playground shade. What should an active listener do next?",
+    "audio_prompt": "Why is “Refer to the point before adding a new idea.” the best answer here? A speaker finishes a point during discussing playground shade. What should an active listener do next?",
     "answers": [
       {
-        "text": "Change the topic without responding.",
+        "text": "Because “Change the topic without responding.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Begin talking before the speaker finishes.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "Refer to the point before adding a new idea.",
+        "text": "Active listeners connect their response to what was said.",
         "is_correct": true
       }
     ],
@@ -547,19 +547,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Conversation Conventions and Formality",
-    "question": "Which action best supports cooperation while discussing playground shade?",
-    "audio_prompt": "Which action best supports cooperation while discussing playground shade?",
+    "question": "Why is “Wait for a pause, then speak.” the best answer here? Which action best supports cooperation while discussing playground shade?",
+    "audio_prompt": "Why is “Wait for a pause, then speak.” the best answer here? Which action best supports cooperation while discussing playground shade?",
     "answers": [
       {
-        "text": "Wait for a pause, then speak.",
+        "text": "Waiting for a pause helps everyone take a fair turn.",
         "is_correct": true
       },
       {
-        "text": "Repeat the same interruption.",
+        "text": "Because “Repeat the same interruption.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Talk over the group.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -577,19 +577,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Conversation Conventions and Formality",
-    "question": "Which invitation would help a quiet group member join the talk about discussing playground shade?",
-    "audio_prompt": "Which invitation would help a quiet group member join the talk about discussing playground shade?",
+    "question": "Why is “Would you like to share your idea?” the best answer here? Which invitation would help a quiet group member join the talk about discussing playground shade?",
+    "audio_prompt": "Why is “Would you like to share your idea?” the best answer here? Which invitation would help a quiet group member join the talk about discussing playground shade?",
     "answers": [
       {
-        "text": "You have nothing to say, do you?",
+        "text": "Because “You have nothing to say, do you?” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Would you like to share your idea?",
+        "text": "A respectful invitation makes space for another speaker.",
         "is_correct": true
       },
       {
-        "text": "Do not speak yet.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -607,26 +607,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Conversation Conventions and Formality",
-    "question": "Someone misunderstands your point about discussing playground shade. Which reply repairs the conversation?",
-    "audio_prompt": "Someone misunderstands your point about discussing playground shade. Which reply repairs the conversation?",
+    "question": "A student chooses “I am speaking now, so everyone stop.” for this task: During planning a class garden, which response politely takes a turn with a classmate? What should they check?",
+    "audio_prompt": "A student chooses “I am speaking now, so everyone stop.” for this task: During planning a class garden, which response politely takes a turn with a classmate? What should they check?",
     "answers": [
       {
-        "text": "You never listen properly.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Forget it. I will not explain.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "I may not have explained clearly. I meant that we could try it first.",
+        "text": "Choose language that shares speaking time.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A repair calmly clarifies meaning without blaming the listener.",
-      "hint": "Find the reply that explains again respectfully."
+      "summary": "Choose language that shares speaking time. Polite turn-taking acknowledges the audience and asks to contribute.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -637,26 +637,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Conversation Conventions and Formality",
-    "question": "Which wording is best suited to the teacher during discussing playground shade?",
-    "audio_prompt": "Which wording is best suited to the teacher during discussing playground shade?",
+    "question": "A student chooses “Change the topic without responding.” for this task: A speaker finishes a point during planning a class garden. What should an active listener do next? What should they check?",
+    "audio_prompt": "A student chooses “Change the topic without responding.” for this task: A speaker finishes a point during planning a class garden. What should an active listener do next? What should they check?",
     "answers": [
       {
-        "text": "Excuse me, may I respond to that point?",
+        "text": "Look for a response that proves the listener paid attention.",
         "is_correct": true
       },
       {
-        "text": "Move over. My turn.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Hey, listen to me right now.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Language changes with audience and formality.",
-      "hint": "Notice who is being addressed."
+      "summary": "Look for a response that proves the listener paid attention. Active listeners connect their response to what was said.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -667,26 +667,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Conversation Conventions and Formality",
-    "question": "Two people begin speaking together during discussing playground shade. What is the most cooperative response?",
-    "audio_prompt": "Two people begin speaking together during discussing playground shade. What is the most cooperative response?",
+    "question": "A student chooses “Repeat the same interruption.” for this task: Which action best supports cooperation while planning a class garden? What should they check?",
+    "audio_prompt": "A student chooses “Repeat the same interruption.” for this task: Which action best supports cooperation while planning a class garden? What should they check?",
     "answers": [
       {
-        "text": "Both speakers talk louder.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "One speaker pauses and invites the other to continue.",
+        "text": "Think about how each person gets heard.",
         "is_correct": true
       },
       {
-        "text": "One speaker insults the other.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Cooperation means managing an accidental overlap respectfully.",
-      "hint": "Choose the action that restores orderly turns."
+      "summary": "Think about how each person gets heard. Waiting for a pause helps everyone take a fair turn.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -697,26 +697,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Conversation Conventions and Formality",
-    "question": "Which chairperson comment keeps the discussion about discussing playground shade moving fairly?",
-    "audio_prompt": "Which chairperson comment keeps the discussion about discussing playground shade moving fairly?",
+    "question": "A student chooses “You have nothing to say, do you?” for this task: Which invitation would help a quiet group member join the talk about planning a class garden? What should they check?",
+    "audio_prompt": "A student chooses “You have nothing to say, do you?” for this task: Which invitation would help a quiet group member join the talk about planning a class garden? What should they check?",
     "answers": [
       {
-        "text": "Only my friends may answer.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "I will give every answer myself.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "We have heard one view. Let us invite another speaker.",
+        "text": "Choose the wording that welcomes a contribution.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A chairperson can acknowledge one view and invite another.",
-      "hint": "Look for fair speaking opportunities."
+      "summary": "Choose the wording that welcomes a contribution. A respectful invitation makes space for another speaker.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -727,26 +727,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Conversation Conventions and Formality",
-    "question": "During asking the principal about a library, which response politely takes a turn with the principal?",
-    "audio_prompt": "During asking the principal about a library, which response politely takes a turn with the principal?",
+    "question": "A student chooses “You never listen properly.” for this task: Someone misunderstands your point about planning a class garden. Which reply repairs the conversation? What should they check?",
+    "audio_prompt": "A student chooses “You never listen properly.” for this task: Someone misunderstands your point about planning a class garden. Which reply repairs the conversation? What should they check?",
     "answers": [
       {
-        "text": "Good morning. May I ask a question about the library?",
+        "text": "Find the reply that explains again respectfully.",
         "is_correct": true
       },
       {
-        "text": "I am speaking now, so everyone stop.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Your idea does not matter.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Polite turn-taking acknowledges the audience and asks to contribute.",
-      "hint": "Choose language that shares speaking time."
+      "summary": "Find the reply that explains again respectfully. A repair calmly clarifies meaning without blaming the listener.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -757,26 +757,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Conversation Conventions and Formality",
-    "question": "A speaker finishes a point during asking the principal about a library. What should an active listener do next?",
-    "audio_prompt": "A speaker finishes a point during asking the principal about a library. What should an active listener do next?",
+    "question": "A student chooses “Move over. My turn.” for this task: Which wording is best suited to a classmate during planning a class garden? What should they check?",
+    "audio_prompt": "A student chooses “Move over. My turn.” for this task: Which wording is best suited to a classmate during planning a class garden? What should they check?",
     "answers": [
       {
-        "text": "Change the topic without responding.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Refer to the point before adding a new idea.",
+        "text": "Notice who is being addressed.",
         "is_correct": true
       },
       {
-        "text": "Begin talking before the speaker finishes.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Active listeners connect their response to what was said.",
-      "hint": "Look for a response that proves the listener paid attention."
+      "summary": "Notice who is being addressed. Language changes with audience and formality.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -787,26 +787,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Conversation Conventions and Formality",
-    "question": "Which action best supports cooperation while asking the principal about a library?",
-    "audio_prompt": "Which action best supports cooperation while asking the principal about a library?",
+    "question": "A student chooses “Both speakers talk louder.” for this task: Two people begin speaking together during planning a class garden. What is the most cooperative response? What should they check?",
+    "audio_prompt": "A student chooses “Both speakers talk louder.” for this task: Two people begin speaking together during planning a class garden. What is the most cooperative response? What should they check?",
     "answers": [
       {
-        "text": "Repeat the same interruption.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Talk over the group.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "Wait for a pause, then speak.",
+        "text": "Choose the action that restores orderly turns.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Waiting for a pause helps everyone take a fair turn.",
-      "hint": "Think about how each person gets heard."
+      "summary": "Choose the action that restores orderly turns. Cooperation means managing an accidental overlap respectfully.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -817,26 +817,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Conversation Conventions and Formality",
-    "question": "Which invitation would help a quiet group member join the talk about asking the principal about a library?",
-    "audio_prompt": "Which invitation would help a quiet group member join the talk about asking the principal about a library?",
+    "question": "A student chooses “Only my friends may answer.” for this task: Which chairperson comment keeps the discussion about planning a class garden moving fairly? What should they check?",
+    "audio_prompt": "A student chooses “Only my friends may answer.” for this task: Which chairperson comment keeps the discussion about planning a class garden moving fairly? What should they check?",
     "answers": [
       {
-        "text": "Would you like to share your idea?",
+        "text": "Look for fair speaking opportunities.",
         "is_correct": true
       },
       {
-        "text": "You have nothing to say, do you?",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Do not speak yet.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A respectful invitation makes space for another speaker.",
-      "hint": "Choose the wording that welcomes a contribution."
+      "summary": "Look for fair speaking opportunities. A chairperson can acknowledge one view and invite another.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -847,26 +847,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Conversation Conventions and Formality",
-    "question": "Someone misunderstands your point about asking the principal about a library. Which reply repairs the conversation?",
-    "audio_prompt": "Someone misunderstands your point about asking the principal about a library. Which reply repairs the conversation?",
+    "question": "A student chooses “I am speaking now, so everyone stop.” for this task: During choosing a team mascot, which response politely takes a turn with a friend? What should they check?",
+    "audio_prompt": "A student chooses “I am speaking now, so everyone stop.” for this task: During choosing a team mascot, which response politely takes a turn with a friend? What should they check?",
     "answers": [
       {
-        "text": "You never listen properly.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "I may not have explained clearly. I meant that we could try it first.",
+        "text": "Choose language that shares speaking time.",
         "is_correct": true
       },
       {
-        "text": "Forget it. I will not explain.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A repair calmly clarifies meaning without blaming the listener.",
-      "hint": "Find the reply that explains again respectfully."
+      "summary": "Choose language that shares speaking time. Polite turn-taking acknowledges the audience and asks to contribute.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -877,26 +877,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Conversation Conventions and Formality",
-    "question": "Which wording is best suited to the principal during asking the principal about a library?",
-    "audio_prompt": "Which wording is best suited to the principal during asking the principal about a library?",
+    "question": "A student chooses “Change the topic without responding.” for this task: A speaker finishes a point during choosing a team mascot. What should an active listener do next? What should they check?",
+    "audio_prompt": "A student chooses “Change the topic without responding.” for this task: A speaker finishes a point during choosing a team mascot. What should an active listener do next? What should they check?",
     "answers": [
       {
-        "text": "Move over. My turn.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Hey, listen to me right now.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "Good morning. May I ask a question about the library?",
+        "text": "Look for a response that proves the listener paid attention.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Language changes with audience and formality.",
-      "hint": "Notice who is being addressed."
+      "summary": "Look for a response that proves the listener paid attention. Active listeners connect their response to what was said.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -907,8 +907,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Conversation Conventions and Formality",
-    "question": "Two people begin speaking together during asking the principal about a library. What is the most cooperative response?",
-    "audio_prompt": "Two people begin speaking together during asking the principal about a library. What is the most cooperative response?",
+    "question": "Two people begin speaking together during choosing a team mascot. What is the most cooperative response?",
+    "audio_prompt": "Two people begin speaking together during choosing a team mascot. What is the most cooperative response?",
     "answers": [
       {
         "text": "One speaker pauses and invites the other to continue.",
@@ -937,8 +937,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Conversation Conventions and Formality",
-    "question": "Which chairperson comment keeps the discussion about asking the principal about a library moving fairly?",
-    "audio_prompt": "Which chairperson comment keeps the discussion about asking the principal about a library moving fairly?",
+    "question": "Which chairperson comment keeps the discussion about choosing a team mascot moving fairly?",
+    "audio_prompt": "Which chairperson comment keeps the discussion about choosing a team mascot moving fairly?",
     "answers": [
       {
         "text": "Only my friends may answer.",
@@ -967,8 +967,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Conversation Conventions and Formality",
-    "question": "During chairing a school council meeting, which response politely takes a turn with the council?",
-    "audio_prompt": "During chairing a school council meeting, which response politely takes a turn with the council?",
+    "question": "During discussing playground shade, which response politely takes a turn with the teacher?",
+    "audio_prompt": "During discussing playground shade, which response politely takes a turn with the teacher?",
     "answers": [
       {
         "text": "I am speaking now, so everyone stop.",
@@ -979,7 +979,7 @@
         "is_correct": false
       },
       {
-        "text": "Thank you, Priya. Noah, would you like to speak next?",
+        "text": "Excuse me, may I respond to that point?",
         "is_correct": true
       }
     ],
@@ -997,8 +997,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Conversation Conventions and Formality",
-    "question": "A speaker finishes a point during chairing a school council meeting. What should an active listener do next?",
-    "audio_prompt": "A speaker finishes a point during chairing a school council meeting. What should an active listener do next?",
+    "question": "A speaker finishes a point during discussing playground shade. What should an active listener do next?",
+    "audio_prompt": "A speaker finishes a point during discussing playground shade. What should an active listener do next?",
     "answers": [
       {
         "text": "Refer to the point before adding a new idea.",
@@ -1027,8 +1027,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Conversation Conventions and Formality",
-    "question": "Which action best supports cooperation while chairing a school council meeting?",
-    "audio_prompt": "Which action best supports cooperation while chairing a school council meeting?",
+    "question": "Which action best supports cooperation while discussing playground shade?",
+    "audio_prompt": "Which action best supports cooperation while discussing playground shade?",
     "answers": [
       {
         "text": "Repeat the same interruption.",
@@ -1057,8 +1057,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Conversation Conventions and Formality",
-    "question": "Which invitation would help a quiet group member join the talk about chairing a school council meeting?",
-    "audio_prompt": "Which invitation would help a quiet group member join the talk about chairing a school council meeting?",
+    "question": "Which invitation would help a quiet group member join the talk about discussing playground shade?",
+    "audio_prompt": "Which invitation would help a quiet group member join the talk about discussing playground shade?",
     "answers": [
       {
         "text": "You have nothing to say, do you?",
@@ -1087,8 +1087,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Conversation Conventions and Formality",
-    "question": "Someone misunderstands your point about chairing a school council meeting. Which reply repairs the conversation?",
-    "audio_prompt": "Someone misunderstands your point about chairing a school council meeting. Which reply repairs the conversation?",
+    "question": "Someone misunderstands your point about discussing playground shade. Which reply repairs the conversation?",
+    "audio_prompt": "Someone misunderstands your point about discussing playground shade. Which reply repairs the conversation?",
     "answers": [
       {
         "text": "I may not have explained clearly. I meant that we could try it first.",
@@ -1117,15 +1117,15 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Conversation Conventions and Formality",
-    "question": "Which wording is best suited to the council during chairing a school council meeting?",
-    "audio_prompt": "Which wording is best suited to the council during chairing a school council meeting?",
+    "question": "Which wording is best suited to the teacher during discussing playground shade?",
+    "audio_prompt": "Which wording is best suited to the teacher during discussing playground shade?",
     "answers": [
       {
         "text": "Move over. My turn.",
         "is_correct": false
       },
       {
-        "text": "Thank you, Priya. Noah, would you like to speak next?",
+        "text": "Excuse me, may I respond to that point?",
         "is_correct": true
       },
       {
@@ -1147,8 +1147,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Conversation Conventions and Formality",
-    "question": "Two people begin speaking together during chairing a school council meeting. What is the most cooperative response?",
-    "audio_prompt": "Two people begin speaking together during chairing a school council meeting. What is the most cooperative response?",
+    "question": "Two people begin speaking together during discussing playground shade. What is the most cooperative response?",
+    "audio_prompt": "Two people begin speaking together during discussing playground shade. What is the most cooperative response?",
     "answers": [
       {
         "text": "Both speakers talk louder.",
@@ -1177,8 +1177,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Conversation Conventions and Formality",
-    "question": "Which chairperson comment keeps the discussion about chairing a school council meeting moving fairly?",
-    "audio_prompt": "Which chairperson comment keeps the discussion about chairing a school council meeting moving fairly?",
+    "question": "Which chairperson comment keeps the discussion about discussing playground shade moving fairly?",
+    "audio_prompt": "Which chairperson comment keeps the discussion about discussing playground shade moving fairly?",
     "answers": [
       {
         "text": "We have heard one view. Let us invite another speaker.",
@@ -1205,8 +1205,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA01",
     "bank": "test",
+    "stage": "verify",
     "skill": "Conversation Conventions and Formality",
-    "question": "New check: During asking the principal about a library, which response politely takes a turn with the principal?",
+    "question": "During asking the principal about a library, which response politely takes a turn with the principal?",
     "audio_prompt": "During asking the principal about a library, which response politely takes a turn with the principal?",
     "answers": [
       {
@@ -1234,8 +1235,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA01",
     "bank": "test",
+    "stage": "verify",
     "skill": "Conversation Conventions and Formality",
-    "question": "New check: A speaker finishes a point during asking the principal about a library. What should an active listener do next?",
+    "question": "A speaker finishes a point during asking the principal about a library. What should an active listener do next?",
     "audio_prompt": "A speaker finishes a point during asking the principal about a library. What should an active listener do next?",
     "answers": [
       {
@@ -1263,8 +1265,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA01",
     "bank": "test",
+    "stage": "verify",
     "skill": "Conversation Conventions and Formality",
-    "question": "New check: Which action best supports cooperation while asking the principal about a library?",
+    "question": "Which action best supports cooperation while asking the principal about a library?",
     "audio_prompt": "Which action best supports cooperation while asking the principal about a library?",
     "answers": [
       {
@@ -1292,8 +1295,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA01",
     "bank": "test",
+    "stage": "verify",
     "skill": "Conversation Conventions and Formality",
-    "question": "New check: Which invitation would help a quiet group member join the talk about asking the principal about a library?",
+    "question": "Which invitation would help a quiet group member join the talk about asking the principal about a library?",
     "audio_prompt": "Which invitation would help a quiet group member join the talk about asking the principal about a library?",
     "answers": [
       {
@@ -1321,8 +1325,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA01",
     "bank": "test",
+    "stage": "verify",
     "skill": "Conversation Conventions and Formality",
-    "question": "New check: Someone misunderstands your point about asking the principal about a library. Which reply repairs the conversation?",
+    "question": "Someone misunderstands your point about asking the principal about a library. Which reply repairs the conversation?",
     "audio_prompt": "Someone misunderstands your point about asking the principal about a library. Which reply repairs the conversation?",
     "answers": [
       {
@@ -1350,8 +1355,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA01",
     "bank": "test",
+    "stage": "verify",
     "skill": "Conversation Conventions and Formality",
-    "question": "New check: Which wording is best suited to the principal during asking the principal about a library?",
+    "question": "Which wording is best suited to the principal during asking the principal about a library?",
     "audio_prompt": "Which wording is best suited to the principal during asking the principal about a library?",
     "answers": [
       {
@@ -1379,8 +1385,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA01",
     "bank": "test",
+    "stage": "verify",
     "skill": "Conversation Conventions and Formality",
-    "question": "New check: Two people begin speaking together during asking the principal about a library. What is the most cooperative response?",
+    "question": "Two people begin speaking together during asking the principal about a library. What is the most cooperative response?",
     "audio_prompt": "Two people begin speaking together during asking the principal about a library. What is the most cooperative response?",
     "answers": [
       {
@@ -1408,8 +1415,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA01",
     "bank": "test",
+    "stage": "verify",
     "skill": "Conversation Conventions and Formality",
-    "question": "New check: Which chairperson comment keeps the discussion about asking the principal about a library moving fairly?",
+    "question": "Which chairperson comment keeps the discussion about asking the principal about a library moving fairly?",
     "audio_prompt": "Which chairperson comment keeps the discussion about asking the principal about a library moving fairly?",
     "answers": [
       {
@@ -1437,8 +1445,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA01",
     "bank": "test",
+    "stage": "apply",
     "skill": "Conversation Conventions and Formality",
-    "question": "New check: During chairing a school council meeting, which response politely takes a turn with the council?",
+    "question": "During chairing a school council meeting, which response politely takes a turn with the council?",
     "audio_prompt": "During chairing a school council meeting, which response politely takes a turn with the council?",
     "answers": [
       {
@@ -1466,8 +1475,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA01",
     "bank": "test",
+    "stage": "apply",
     "skill": "Conversation Conventions and Formality",
-    "question": "New check: A speaker finishes a point during chairing a school council meeting. What should an active listener do next?",
+    "question": "A speaker finishes a point during chairing a school council meeting. What should an active listener do next?",
     "audio_prompt": "A speaker finishes a point during chairing a school council meeting. What should an active listener do next?",
     "answers": [
       {
@@ -1495,8 +1505,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA01",
     "bank": "test",
+    "stage": "apply",
     "skill": "Conversation Conventions and Formality",
-    "question": "New check: Which action best supports cooperation while chairing a school council meeting?",
+    "question": "Which action best supports cooperation while chairing a school council meeting?",
     "audio_prompt": "Which action best supports cooperation while chairing a school council meeting?",
     "answers": [
       {
@@ -1524,8 +1535,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA01",
     "bank": "test",
+    "stage": "apply",
     "skill": "Conversation Conventions and Formality",
-    "question": "New check: Which invitation would help a quiet group member join the talk about chairing a school council meeting?",
+    "question": "Which invitation would help a quiet group member join the talk about chairing a school council meeting?",
     "audio_prompt": "Which invitation would help a quiet group member join the talk about chairing a school council meeting?",
     "answers": [
       {
@@ -1553,8 +1565,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA01",
     "bank": "test",
+    "stage": "apply",
     "skill": "Conversation Conventions and Formality",
-    "question": "New check: Someone misunderstands your point about chairing a school council meeting. Which reply repairs the conversation?",
+    "question": "Someone misunderstands your point about chairing a school council meeting. Which reply repairs the conversation?",
     "audio_prompt": "Someone misunderstands your point about chairing a school council meeting. Which reply repairs the conversation?",
     "answers": [
       {
@@ -1582,8 +1595,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA01",
     "bank": "test",
+    "stage": "apply",
     "skill": "Conversation Conventions and Formality",
-    "question": "New check: Which wording is best suited to the council during chairing a school council meeting?",
+    "question": "Which wording is best suited to the council during chairing a school council meeting?",
     "audio_prompt": "Which wording is best suited to the council during chairing a school council meeting?",
     "answers": [
       {
@@ -1611,8 +1625,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA01",
     "bank": "test",
+    "stage": "apply",
     "skill": "Conversation Conventions and Formality",
-    "question": "New check: Two people begin speaking together during chairing a school council meeting. What is the most cooperative response?",
+    "question": "Two people begin speaking together during chairing a school council meeting. What is the most cooperative response?",
     "audio_prompt": "Two people begin speaking together during chairing a school council meeting. What is the most cooperative response?",
     "answers": [
       {
@@ -1640,8 +1655,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA01",
     "bank": "test",
+    "stage": "apply",
     "skill": "Conversation Conventions and Formality",
-    "question": "New check: Which chairperson comment keeps the discussion about chairing a school council meeting moving fairly?",
+    "question": "Which chairperson comment keeps the discussion about chairing a school council meeting moving fairly?",
     "audio_prompt": "Which chairperson comment keeps the discussion about chairing a school council meeting moving fairly?",
     "answers": [
       {

@@ -307,19 +307,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "In a tale from a busy Australian harbour, a character shares scarce water with a traveller. What trait does this show?",
-    "audio_prompt": "In a tale from a busy Australian harbour, a character shares scarce water with a traveller. What trait does this show?",
+    "question": "Why is “Generosity” the best answer here? In a tale from a busy Australian harbour, a character shares scarce water with a traveller. What trait does this show?",
+    "audio_prompt": "Why is “Generosity” the best answer here? In a tale from a busy Australian harbour, a character shares scarce water with a traveller. What trait does this show?",
     "answers": [
       {
-        "text": "Generosity",
+        "text": "Generosity This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "Forgetfulness",
+        "text": "Because “Forgetfulness” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Impatience",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -337,19 +337,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "In a tale from a busy Australian harbour, which clue most clearly shows the story happens long ago?",
-    "audio_prompt": "In a tale from a busy Australian harbour, which clue most clearly shows the story happens long ago?",
+    "question": "Why is “Messages travel by horseback” the best answer here? In a tale from a busy Australian harbour, which clue most clearly shows the story happens long ago?",
+    "audio_prompt": "Why is “Messages travel by horseback” the best answer here? In a tale from a busy Australian harbour, which clue most clearly shows the story happens long ago?",
     "answers": [
       {
-        "text": "The character feels worried",
+        "text": "Because “The character feels worried” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Messages travel by horseback",
+        "text": "Messages travel by horseback This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "A bird lands nearby",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -367,19 +367,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "In a tale from a busy Australian harbour, why does cultural context matter when discussing a character's choice?",
-    "audio_prompt": "In a tale from a busy Australian harbour, why does cultural context matter when discussing a character's choice?",
+    "question": "Why is “It can explain customs, values and expectations” the best answer here? In a tale from a busy Australian harbour, why does cultural context matter when discussing a character's choice?",
+    "audio_prompt": "Why is “It can explain customs, values and expectations” the best answer here? In a tale from a busy Australian harbour, why does cultural context matter when discussing a character's choice?",
     "answers": [
       {
-        "text": "It proves every character behaves alike",
+        "text": "Because “It proves every character behaves alike” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "It makes evidence unnecessary",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "It can explain customs, values and expectations",
+        "text": "It can explain customs, values and expectations This explanation follows the relevant Year 3 English evidence.",
         "is_correct": true
       }
     ],
@@ -397,19 +397,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "In a tale from a busy Australian harbour, which comparison uses evidence from two settings?",
-    "audio_prompt": "In a tale from a busy Australian harbour, which comparison uses evidence from two settings?",
+    "question": "Why is “One setting is dry and remote, while the other is wet and crowded” the best answer here? In a tale from a busy Australian harbour, which comparison uses evidence from two settings?",
+    "audio_prompt": "Why is “One setting is dry and remote, while the other is wet and crowded” the best answer here? In a tale from a busy Australian harbour, which comparison uses evidence from two settings?",
     "answers": [
       {
-        "text": "One setting is dry and remote, while the other is wet and crowded",
+        "text": "One setting is dry and remote, while the other is wet and crowded This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "Both stories are good",
+        "text": "Because “Both stories are good” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "The pictures use colours",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -427,19 +427,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "In a tale from a busy Australian harbour, how can a flood event affect a character?",
-    "audio_prompt": "In a tale from a busy Australian harbour, how can a flood event affect a character?",
+    "question": "Why is “It can create a problem that requires decisions” the best answer here? In a tale from a busy Australian harbour, how can a flood event affect a character?",
+    "audio_prompt": "Why is “It can create a problem that requires decisions” the best answer here? In a tale from a busy Australian harbour, how can a flood event affect a character?",
     "answers": [
       {
-        "text": "It must change the character's name",
+        "text": "Because “It must change the character's name” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "It can create a problem that requires decisions",
+        "text": "It can create a problem that requires decisions This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "It removes the story setting",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -457,19 +457,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "In a tale from a busy Australian harbour, which response respectfully discusses an unfamiliar cultural practice?",
-    "audio_prompt": "In a tale from a busy Australian harbour, which response respectfully discusses an unfamiliar cultural practice?",
+    "question": "Why is “It asks what the practice means in the story's context” the best answer here? In a tale from a busy Australian harbour, which response respectfully discusses an unfamiliar cultural practice?",
+    "audio_prompt": "Why is “It asks what the practice means in the story's context” the best answer here? In a tale from a busy Australian harbour, which response respectfully discusses an unfamiliar cultural practice?",
     "answers": [
       {
-        "text": "It calls the practice strange without evidence",
+        "text": "Because “It calls the practice strange without evidence” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "It assumes all cultures share it",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "It asks what the practice means in the story's context",
+        "text": "It asks what the practice means in the story's context This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       }
     ],
@@ -487,19 +487,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "In a story set in a mountain village, which detail most clearly establishes the setting?",
-    "audio_prompt": "In a story set in a mountain village, which detail most clearly establishes the setting?",
+    "question": "Why is “Red cliffs surround the quiet waterhole” the best answer here? In a story set in a mountain village, which detail most clearly establishes the setting?",
+    "audio_prompt": "Why is “Red cliffs surround the quiet waterhole” the best answer here? In a story set in a mountain village, which detail most clearly establishes the setting?",
     "answers": [
       {
-        "text": "Red cliffs surround the quiet waterhole",
+        "text": "Red cliffs surround the quiet waterhole This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "The character is called Mina",
+        "text": "Because “The character is called Mina” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "The book has twelve pages",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -517,19 +517,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "In a story set in a mountain village, which event would fit this setting best?",
-    "audio_prompt": "In a story set in a mountain village, which event would fit this setting best?",
+    "question": "Why is “A sudden dust storm covers the track” the best answer here? In a story set in a mountain village, which event would fit this setting best?",
+    "audio_prompt": "Why is “A sudden dust storm covers the track” the best answer here? In a story set in a mountain village, which event would fit this setting best?",
     "answers": [
       {
-        "text": "A lift stops between city floors",
+        "text": "Because “A lift stops between city floors” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "A sudden dust storm covers the track",
+        "text": "A sudden dust storm covers the track This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "Snow blocks the ski path",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -547,19 +547,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "In a story set in a mountain village, a character shares scarce water with a traveller. What trait does this show?",
-    "audio_prompt": "In a story set in a mountain village, a character shares scarce water with a traveller. What trait does this show?",
+    "question": "Why is “Generosity” the best answer here? In a story set in a mountain village, a character shares scarce water with a traveller. What trait does this show?",
+    "audio_prompt": "Why is “Generosity” the best answer here? In a story set in a mountain village, a character shares scarce water with a traveller. What trait does this show?",
     "answers": [
       {
-        "text": "Forgetfulness",
+        "text": "Because “Forgetfulness” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Impatience",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "Generosity",
+        "text": "Generosity This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       }
     ],
@@ -577,19 +577,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "In a story set in a mountain village, which clue most clearly shows the story happens long ago?",
-    "audio_prompt": "In a story set in a mountain village, which clue most clearly shows the story happens long ago?",
+    "question": "Why is “Messages travel by horseback” the best answer here? In a story set in a mountain village, which clue most clearly shows the story happens long ago?",
+    "audio_prompt": "Why is “Messages travel by horseback” the best answer here? In a story set in a mountain village, which clue most clearly shows the story happens long ago?",
     "answers": [
       {
-        "text": "Messages travel by horseback",
+        "text": "Messages travel by horseback This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "The character feels worried",
+        "text": "Because “The character feels worried” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "A bird lands nearby",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -607,26 +607,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "In a story set in a mountain village, why does cultural context matter when discussing a character's choice?",
-    "audio_prompt": "In a story set in a mountain village, why does cultural context matter when discussing a character's choice?",
+    "question": "A student chooses “The character is called Mina” for this task: In a story set beside a desert waterhole, which detail most clearly establishes the setting? What should they check?",
+    "audio_prompt": "A student chooses “The character is called Mina” for this task: In a story set beside a desert waterhole, which detail most clearly establishes the setting? What should they check?",
     "answers": [
       {
-        "text": "It proves every character behaves alike",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "It can explain customs, values and expectations",
+        "text": "Use the story details and reader effect before choosing.",
         "is_correct": true
       },
       {
-        "text": "It makes evidence unnecessary",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "It can explain customs, values and expectations This explanation follows the relevant Year 3 English evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Use the story details and reader effect before choosing. Red cliffs surround the quiet waterhole This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -637,26 +637,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "In a story set in a mountain village, which comparison uses evidence from two settings?",
-    "audio_prompt": "In a story set in a mountain village, which comparison uses evidence from two settings?",
+    "question": "A student chooses “A lift stops between city floors” for this task: In a story set beside a desert waterhole, which event would fit this setting best? What should they check?",
+    "audio_prompt": "A student chooses “A lift stops between city floors” for this task: In a story set beside a desert waterhole, which event would fit this setting best? What should they check?",
     "answers": [
       {
-        "text": "Both stories are good",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "The pictures use colours",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "One setting is dry and remote, while the other is wet and crowded",
+        "text": "Use the story details and reader effect before choosing.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "One setting is dry and remote, while the other is wet and crowded This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Use the story details and reader effect before choosing. A sudden dust storm covers the track This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -667,26 +667,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "In a story set in a mountain village, how can a flood event affect a character?",
-    "audio_prompt": "In a story set in a mountain village, how can a flood event affect a character?",
+    "question": "A student chooses “Forgetfulness” for this task: In a story set beside a desert waterhole, a character shares scarce water with a traveller. What trait does this show? What should they check?",
+    "audio_prompt": "A student chooses “Forgetfulness” for this task: In a story set beside a desert waterhole, a character shares scarce water with a traveller. What trait does this show? What should they check?",
     "answers": [
       {
-        "text": "It can create a problem that requires decisions",
+        "text": "Use the story details and reader effect before choosing.",
         "is_correct": true
       },
       {
-        "text": "It must change the character's name",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "It removes the story setting",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "It can create a problem that requires decisions This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Use the story details and reader effect before choosing. Generosity This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -697,26 +697,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "In a story set in a mountain village, which response respectfully discusses an unfamiliar cultural practice?",
-    "audio_prompt": "In a story set in a mountain village, which response respectfully discusses an unfamiliar cultural practice?",
+    "question": "A student chooses “The character feels worried” for this task: In a story set beside a desert waterhole, which clue most clearly shows the story happens long ago? What should they check?",
+    "audio_prompt": "A student chooses “The character feels worried” for this task: In a story set beside a desert waterhole, which clue most clearly shows the story happens long ago? What should they check?",
     "answers": [
       {
-        "text": "It calls the practice strange without evidence",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "It asks what the practice means in the story's context",
+        "text": "Use the story details and reader effect before choosing.",
         "is_correct": true
       },
       {
-        "text": "It assumes all cultures share it",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "It asks what the practice means in the story's context This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Use the story details and reader effect before choosing. Messages travel by horseback This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -727,26 +727,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "In a tale from a tropical island, which detail most clearly establishes the setting?",
-    "audio_prompt": "In a tale from a tropical island, which detail most clearly establishes the setting?",
+    "question": "A student chooses “It proves every character behaves alike” for this task: In a story set beside a desert waterhole, why does cultural context matter when discussing a character's choice? What should they check?",
+    "audio_prompt": "A student chooses “It proves every character behaves alike” for this task: In a story set beside a desert waterhole, why does cultural context matter when discussing a character's choice? What should they check?",
     "answers": [
       {
-        "text": "The character is called Mina",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "The book has twelve pages",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "Red cliffs surround the quiet waterhole",
+        "text": "Use the story details and reader effect before choosing.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Red cliffs surround the quiet waterhole This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Use the story details and reader effect before choosing. It can explain customs, values and expectations This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -757,26 +757,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "In a tale from a tropical island, which event would fit this setting best?",
-    "audio_prompt": "In a tale from a tropical island, which event would fit this setting best?",
+    "question": "A student chooses “Both stories are good” for this task: In a story set beside a desert waterhole, which comparison uses evidence from two settings? What should they check?",
+    "audio_prompt": "A student chooses “Both stories are good” for this task: In a story set beside a desert waterhole, which comparison uses evidence from two settings? What should they check?",
     "answers": [
       {
-        "text": "A sudden dust storm covers the track",
+        "text": "Use the story details and reader effect before choosing.",
         "is_correct": true
       },
       {
-        "text": "A lift stops between city floors",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Snow blocks the ski path",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A sudden dust storm covers the track This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Use the story details and reader effect before choosing. One setting is dry and remote, while the other is wet and crowded This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -787,26 +787,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "In a tale from a tropical island, a character shares scarce water with a traveller. What trait does this show?",
-    "audio_prompt": "In a tale from a tropical island, a character shares scarce water with a traveller. What trait does this show?",
+    "question": "A student chooses “It must change the character's name” for this task: In a story set beside a desert waterhole, how can a flood event affect a character? What should they check?",
+    "audio_prompt": "A student chooses “It must change the character's name” for this task: In a story set beside a desert waterhole, how can a flood event affect a character? What should they check?",
     "answers": [
       {
-        "text": "Forgetfulness",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Generosity",
+        "text": "Use the story details and reader effect before choosing.",
         "is_correct": true
       },
       {
-        "text": "Impatience",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Generosity This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Use the story details and reader effect before choosing. It can create a problem that requires decisions This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -817,26 +817,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "In a tale from a tropical island, which clue most clearly shows the story happens long ago?",
-    "audio_prompt": "In a tale from a tropical island, which clue most clearly shows the story happens long ago?",
+    "question": "A student chooses “It calls the practice strange without evidence” for this task: In a story set beside a desert waterhole, which response respectfully discusses an unfamiliar cultural practice? What should they check?",
+    "audio_prompt": "A student chooses “It calls the practice strange without evidence” for this task: In a story set beside a desert waterhole, which response respectfully discusses an unfamiliar cultural practice? What should they check?",
     "answers": [
       {
-        "text": "The character feels worried",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "A bird lands nearby",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "Messages travel by horseback",
+        "text": "Use the story details and reader effect before choosing.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Messages travel by horseback This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Use the story details and reader effect before choosing. It asks what the practice means in the story's context This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -847,26 +847,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "In a tale from a tropical island, why does cultural context matter when discussing a character's choice?",
-    "audio_prompt": "In a tale from a tropical island, why does cultural context matter when discussing a character's choice?",
+    "question": "A student chooses “The character is called Mina” for this task: In a tale from a busy Australian harbour, which detail most clearly establishes the setting? What should they check?",
+    "audio_prompt": "A student chooses “The character is called Mina” for this task: In a tale from a busy Australian harbour, which detail most clearly establishes the setting? What should they check?",
     "answers": [
       {
-        "text": "It can explain customs, values and expectations",
+        "text": "Use the story details and reader effect before choosing.",
         "is_correct": true
       },
       {
-        "text": "It proves every character behaves alike",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "It makes evidence unnecessary",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "It can explain customs, values and expectations This explanation follows the relevant Year 3 English evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Use the story details and reader effect before choosing. Red cliffs surround the quiet waterhole This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -877,26 +877,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "In a tale from a tropical island, which comparison uses evidence from two settings?",
-    "audio_prompt": "In a tale from a tropical island, which comparison uses evidence from two settings?",
+    "question": "A student chooses “A lift stops between city floors” for this task: In a tale from a busy Australian harbour, which event would fit this setting best? What should they check?",
+    "audio_prompt": "A student chooses “A lift stops between city floors” for this task: In a tale from a busy Australian harbour, which event would fit this setting best? What should they check?",
     "answers": [
       {
-        "text": "Both stories are good",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "One setting is dry and remote, while the other is wet and crowded",
+        "text": "Use the story details and reader effect before choosing.",
         "is_correct": true
       },
       {
-        "text": "The pictures use colours",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "One setting is dry and remote, while the other is wet and crowded This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Use the story details and reader effect before choosing. A sudden dust storm covers the track This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -907,8 +907,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "In a tale from a tropical island, how can a flood event affect a character?",
-    "audio_prompt": "In a tale from a tropical island, how can a flood event affect a character?",
+    "question": "In a tale from a busy Australian harbour, how can a flood event affect a character?",
+    "audio_prompt": "In a tale from a busy Australian harbour, how can a flood event affect a character?",
     "answers": [
       {
         "text": "It must change the character's name",
@@ -937,8 +937,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "In a tale from a tropical island, which response respectfully discusses an unfamiliar cultural practice?",
-    "audio_prompt": "In a tale from a tropical island, which response respectfully discusses an unfamiliar cultural practice?",
+    "question": "In a tale from a busy Australian harbour, which response respectfully discusses an unfamiliar cultural practice?",
+    "audio_prompt": "In a tale from a busy Australian harbour, which response respectfully discusses an unfamiliar cultural practice?",
     "answers": [
       {
         "text": "It asks what the practice means in the story's context",
@@ -967,8 +967,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "In a story set in an ancient city, which detail most clearly establishes the setting?",
-    "audio_prompt": "In a story set in an ancient city, which detail most clearly establishes the setting?",
+    "question": "In a story set in a mountain village, which detail most clearly establishes the setting?",
+    "audio_prompt": "In a story set in a mountain village, which detail most clearly establishes the setting?",
     "answers": [
       {
         "text": "The character is called Mina",
@@ -997,8 +997,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "In a story set in an ancient city, which event would fit this setting best?",
-    "audio_prompt": "In a story set in an ancient city, which event would fit this setting best?",
+    "question": "In a story set in a mountain village, which event would fit this setting best?",
+    "audio_prompt": "In a story set in a mountain village, which event would fit this setting best?",
     "answers": [
       {
         "text": "A lift stops between city floors",
@@ -1027,8 +1027,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "In a story set in an ancient city, a character shares scarce water with a traveller. What trait does this show?",
-    "audio_prompt": "In a story set in an ancient city, a character shares scarce water with a traveller. What trait does this show?",
+    "question": "In a story set in a mountain village, a character shares scarce water with a traveller. What trait does this show?",
+    "audio_prompt": "In a story set in a mountain village, a character shares scarce water with a traveller. What trait does this show?",
     "answers": [
       {
         "text": "Generosity",
@@ -1057,8 +1057,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "In a story set in an ancient city, which clue most clearly shows the story happens long ago?",
-    "audio_prompt": "In a story set in an ancient city, which clue most clearly shows the story happens long ago?",
+    "question": "In a story set in a mountain village, which clue most clearly shows the story happens long ago?",
+    "audio_prompt": "In a story set in a mountain village, which clue most clearly shows the story happens long ago?",
     "answers": [
       {
         "text": "The character feels worried",
@@ -1087,8 +1087,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "In a story set in an ancient city, why does cultural context matter when discussing a character's choice?",
-    "audio_prompt": "In a story set in an ancient city, why does cultural context matter when discussing a character's choice?",
+    "question": "In a story set in a mountain village, why does cultural context matter when discussing a character's choice?",
+    "audio_prompt": "In a story set in a mountain village, why does cultural context matter when discussing a character's choice?",
     "answers": [
       {
         "text": "It proves every character behaves alike",
@@ -1117,8 +1117,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "In a story set in an ancient city, which comparison uses evidence from two settings?",
-    "audio_prompt": "In a story set in an ancient city, which comparison uses evidence from two settings?",
+    "question": "In a story set in a mountain village, which comparison uses evidence from two settings?",
+    "audio_prompt": "In a story set in a mountain village, which comparison uses evidence from two settings?",
     "answers": [
       {
         "text": "One setting is dry and remote, while the other is wet and crowded",
@@ -1147,8 +1147,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "In a story set in an ancient city, how can a flood event affect a character?",
-    "audio_prompt": "In a story set in an ancient city, how can a flood event affect a character?",
+    "question": "In a story set in a mountain village, how can a flood event affect a character?",
+    "audio_prompt": "In a story set in a mountain village, how can a flood event affect a character?",
     "answers": [
       {
         "text": "It must change the character's name",
@@ -1177,8 +1177,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "In a story set in an ancient city, which response respectfully discusses an unfamiliar cultural practice?",
-    "audio_prompt": "In a story set in an ancient city, which response respectfully discusses an unfamiliar cultural practice?",
+    "question": "In a story set in a mountain village, which response respectfully discusses an unfamiliar cultural practice?",
+    "audio_prompt": "In a story set in a mountain village, which response respectfully discusses an unfamiliar cultural practice?",
     "answers": [
       {
         "text": "It calls the practice strange without evidence",
@@ -1205,8 +1205,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE01",
     "bank": "test",
+    "stage": "verify",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "New check: In a tale from a tropical island, which detail most clearly establishes the setting?",
+    "question": "In a tale from a tropical island, which detail most clearly establishes the setting?",
     "audio_prompt": "In a tale from a tropical island, which detail most clearly establishes the setting?",
     "answers": [
       {
@@ -1234,8 +1235,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE01",
     "bank": "test",
+    "stage": "verify",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "New check: In a tale from a tropical island, which event would fit this setting best?",
+    "question": "In a tale from a tropical island, which event would fit this setting best?",
     "audio_prompt": "In a tale from a tropical island, which event would fit this setting best?",
     "answers": [
       {
@@ -1263,8 +1265,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE01",
     "bank": "test",
+    "stage": "verify",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "New check: In a tale from a tropical island, a character shares scarce water with a traveller. What trait does this show?",
+    "question": "In a tale from a tropical island, a character shares scarce water with a traveller. What trait does this show?",
     "audio_prompt": "In a tale from a tropical island, a character shares scarce water with a traveller. What trait does this show?",
     "answers": [
       {
@@ -1292,8 +1295,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE01",
     "bank": "test",
+    "stage": "verify",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "New check: In a tale from a tropical island, which clue most clearly shows the story happens long ago?",
+    "question": "In a tale from a tropical island, which clue most clearly shows the story happens long ago?",
     "audio_prompt": "In a tale from a tropical island, which clue most clearly shows the story happens long ago?",
     "answers": [
       {
@@ -1321,8 +1325,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE01",
     "bank": "test",
+    "stage": "verify",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "New check: In a tale from a tropical island, why does cultural context matter when discussing a character's choice?",
+    "question": "In a tale from a tropical island, why does cultural context matter when discussing a character's choice?",
     "audio_prompt": "In a tale from a tropical island, why does cultural context matter when discussing a character's choice?",
     "answers": [
       {
@@ -1350,8 +1355,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE01",
     "bank": "test",
+    "stage": "verify",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "New check: In a tale from a tropical island, which comparison uses evidence from two settings?",
+    "question": "In a tale from a tropical island, which comparison uses evidence from two settings?",
     "audio_prompt": "In a tale from a tropical island, which comparison uses evidence from two settings?",
     "answers": [
       {
@@ -1379,8 +1385,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE01",
     "bank": "test",
+    "stage": "verify",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "New check: In a tale from a tropical island, how can a flood event affect a character?",
+    "question": "In a tale from a tropical island, how can a flood event affect a character?",
     "audio_prompt": "In a tale from a tropical island, how can a flood event affect a character?",
     "answers": [
       {
@@ -1408,8 +1415,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE01",
     "bank": "test",
+    "stage": "verify",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "New check: In a tale from a tropical island, which response respectfully discusses an unfamiliar cultural practice?",
+    "question": "In a tale from a tropical island, which response respectfully discusses an unfamiliar cultural practice?",
     "audio_prompt": "In a tale from a tropical island, which response respectfully discusses an unfamiliar cultural practice?",
     "answers": [
       {
@@ -1437,8 +1445,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE01",
     "bank": "test",
+    "stage": "apply",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "New check: In a story set in an ancient city, which detail most clearly establishes the setting?",
+    "question": "In a story set in an ancient city, which detail most clearly establishes the setting?",
     "audio_prompt": "In a story set in an ancient city, which detail most clearly establishes the setting?",
     "answers": [
       {
@@ -1466,8 +1475,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE01",
     "bank": "test",
+    "stage": "apply",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "New check: In a story set in an ancient city, which event would fit this setting best?",
+    "question": "In a story set in an ancient city, which event would fit this setting best?",
     "audio_prompt": "In a story set in an ancient city, which event would fit this setting best?",
     "answers": [
       {
@@ -1495,8 +1505,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE01",
     "bank": "test",
+    "stage": "apply",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "New check: In a story set in an ancient city, a character shares scarce water with a traveller. What trait does this show?",
+    "question": "In a story set in an ancient city, a character shares scarce water with a traveller. What trait does this show?",
     "audio_prompt": "In a story set in an ancient city, a character shares scarce water with a traveller. What trait does this show?",
     "answers": [
       {
@@ -1524,8 +1535,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE01",
     "bank": "test",
+    "stage": "apply",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "New check: In a story set in an ancient city, which clue most clearly shows the story happens long ago?",
+    "question": "In a story set in an ancient city, which clue most clearly shows the story happens long ago?",
     "audio_prompt": "In a story set in an ancient city, which clue most clearly shows the story happens long ago?",
     "answers": [
       {
@@ -1553,8 +1565,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE01",
     "bank": "test",
+    "stage": "apply",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "New check: In a story set in an ancient city, why does cultural context matter when discussing a character's choice?",
+    "question": "In a story set in an ancient city, why does cultural context matter when discussing a character's choice?",
     "audio_prompt": "In a story set in an ancient city, why does cultural context matter when discussing a character's choice?",
     "answers": [
       {
@@ -1582,8 +1595,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE01",
     "bank": "test",
+    "stage": "apply",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "New check: In a story set in an ancient city, which comparison uses evidence from two settings?",
+    "question": "In a story set in an ancient city, which comparison uses evidence from two settings?",
     "audio_prompt": "In a story set in an ancient city, which comparison uses evidence from two settings?",
     "answers": [
       {
@@ -1611,8 +1625,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE01",
     "bank": "test",
+    "stage": "apply",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "New check: In a story set in an ancient city, how can a flood event affect a character?",
+    "question": "In a story set in an ancient city, how can a flood event affect a character?",
     "audio_prompt": "In a story set in an ancient city, how can a flood event affect a character?",
     "answers": [
       {
@@ -1640,8 +1655,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE01",
     "bank": "test",
+    "stage": "apply",
     "skill": "Characters, Events and Settings Across Contexts",
-    "question": "New check: In a story set in an ancient city, which response respectfully discusses an unfamiliar cultural practice?",
+    "question": "In a story set in an ancient city, which response respectfully discusses an unfamiliar cultural practice?",
     "audio_prompt": "In a story set in an ancient city, which response respectfully discusses an unfamiliar cultural practice?",
     "answers": [
       {

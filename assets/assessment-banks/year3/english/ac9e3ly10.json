@@ -307,19 +307,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "While examining the word kindness, what can a suffix do?",
-    "audio_prompt": "While examining the word kindness, what can a suffix do?",
+    "question": "Why is “Change a word's meaning or grammatical role” the best answer here? While examining the word kindness, what can a suffix do?",
+    "audio_prompt": "Why is “Change a word's meaning or grammatical role” the best answer here? While examining the word kindness, what can a suffix do?",
     "answers": [
       {
-        "text": "Erase the base meaning completely",
+        "text": "Because “Erase the base meaning completely” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Turn every word into a name",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "Change a word's meaning or grammatical role",
+        "text": "Change a word's meaning or grammatical role This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       }
     ],
@@ -337,19 +337,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "While examining the word kindness, which word means able to be washed?",
-    "audio_prompt": "While examining the word kindness, which word means able to be washed?",
+    "question": "Why is “washable” the best answer here? While examining the word kindness, which word means able to be washed?",
+    "audio_prompt": "Why is “washable” the best answer here? While examining the word kindness, which word means able to be washed?",
     "answers": [
       {
-        "text": "washable",
+        "text": "washable This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "rewash",
+        "text": "Because “rewash” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "washer",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -367,19 +367,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "While examining the word kindness, how does knowing morphology support reading?",
-    "audio_prompt": "While examining the word kindness, how does knowing morphology support reading?",
+    "question": "Why is “Meaningful word parts help decode and interpret the whole word” the best answer here? While examining the word kindness, how does knowing morphology support reading?",
+    "audio_prompt": "Why is “Meaningful word parts help decode and interpret the whole word” the best answer here? While examining the word kindness, how does knowing morphology support reading?",
     "answers": [
       {
-        "text": "Prefixes show sentence punctuation",
+        "text": "Because “Prefixes show sentence punctuation” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Meaningful word parts help decode and interpret the whole word",
+        "text": "Meaningful word parts help decode and interpret the whole word This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "Suffixes make all words rhyme",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -397,19 +397,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "While examining the word kindness, which analysis is accurate?",
-    "audio_prompt": "While examining the word kindness, which analysis is accurate?",
+    "question": "Why is “Unhappy contains the prefix un- and the base happy” the best answer here? While examining the word kindness, which analysis is accurate?",
+    "audio_prompt": "Why is “Unhappy contains the prefix un- and the base happy” the best answer here? While examining the word kindness, which analysis is accurate?",
     "answers": [
       {
-        "text": "Unhappy contains no base word",
+        "text": "Because “Unhappy contains no base word” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Happy is a suffix in unhappy",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "Unhappy contains the prefix un- and the base happy",
+        "text": "Unhappy contains the prefix un- and the base happy This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       }
     ],
@@ -427,19 +427,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "While examining the word kindness, why might spelling change before adding a suffix?",
-    "audio_prompt": "While examining the word kindness, why might spelling change before adding a suffix?",
+    "question": "Why is “A spelling generalisation can preserve the word's expected pattern” the best answer here? While examining the word kindness, why might spelling change before adding a suffix?",
+    "audio_prompt": "Why is “A spelling generalisation can preserve the word's expected pattern” the best answer here? While examining the word kindness, why might spelling change before adding a suffix?",
     "answers": [
       {
-        "text": "A spelling generalisation can preserve the word's expected pattern",
+        "text": "A spelling generalisation can preserve the word's expected pattern This explanation follows the relevant Year 3 English evidence.",
         "is_correct": true
       },
       {
-        "text": "Writers should change letters randomly",
+        "text": "Because “Writers should change letters randomly” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Every suffix doubles every letter",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -457,19 +457,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "While examining the word kindness, which strategy best checks a complex word?",
-    "audio_prompt": "While examining the word kindness, which strategy best checks a complex word?",
+    "question": "Why is “Identify the base and affixes, then test the meaning in context” the best answer here? While examining the word kindness, which strategy best checks a complex word?",
+    "audio_prompt": "Why is “Identify the base and affixes, then test the meaning in context” the best answer here? While examining the word kindness, which strategy best checks a complex word?",
     "answers": [
       {
-        "text": "Remove every affix and stop",
+        "text": "Because “Remove every affix and stop” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Identify the base and affixes, then test the meaning in context",
+        "text": "Identify the base and affixes, then test the meaning in context This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "Choose the longest possible meaning",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -487,19 +487,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "While examining the word unhappy, which part carries the central meaning?",
-    "audio_prompt": "While examining the word unhappy, which part carries the central meaning?",
+    "question": "Why is “The base word” the best answer here? While examining the word unhappy, which part carries the central meaning?",
+    "audio_prompt": "Why is “The base word” the best answer here? While examining the word unhappy, which part carries the central meaning?",
     "answers": [
       {
-        "text": "Every suffix alone",
+        "text": "Because “Every suffix alone” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "The punctuation",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "The base word",
+        "text": "The base word This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       }
     ],
@@ -517,19 +517,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "While examining the word unhappy, what can a prefix add to a base word?",
-    "audio_prompt": "While examining the word unhappy, what can a prefix add to a base word?",
+    "question": "Why is “A meaning such as again or not” the best answer here? While examining the word unhappy, what can a prefix add to a base word?",
+    "audio_prompt": "Why is “A meaning such as again or not” the best answer here? While examining the word unhappy, what can a prefix add to a base word?",
     "answers": [
       {
-        "text": "A meaning such as again or not",
+        "text": "A meaning such as again or not This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "A full stop at the end",
+        "text": "Because “A full stop at the end” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "A change to the page layout",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -547,19 +547,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "While examining the word unhappy, what can a suffix do?",
-    "audio_prompt": "While examining the word unhappy, what can a suffix do?",
+    "question": "Why is “Change a word's meaning or grammatical role” the best answer here? While examining the word unhappy, what can a suffix do?",
+    "audio_prompt": "Why is “Change a word's meaning or grammatical role” the best answer here? While examining the word unhappy, what can a suffix do?",
     "answers": [
       {
-        "text": "Erase the base meaning completely",
+        "text": "Because “Erase the base meaning completely” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Change a word's meaning or grammatical role",
+        "text": "Change a word's meaning or grammatical role This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "Turn every word into a name",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -577,19 +577,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "While examining the word unhappy, which word means able to be washed?",
-    "audio_prompt": "While examining the word unhappy, which word means able to be washed?",
+    "question": "Why is “washable” the best answer here? While examining the word unhappy, which word means able to be washed?",
+    "audio_prompt": "Why is “washable” the best answer here? While examining the word unhappy, which word means able to be washed?",
     "answers": [
       {
-        "text": "rewash",
+        "text": "Because “rewash” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "washer",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "washable",
+        "text": "washable This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       }
     ],
@@ -607,26 +607,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "While examining the word unhappy, how does knowing morphology support reading?",
-    "audio_prompt": "While examining the word unhappy, how does knowing morphology support reading?",
+    "question": "A student chooses “Every suffix alone” for this task: While examining the word replayed, which part carries the central meaning? What should they check?",
+    "audio_prompt": "A student chooses “Every suffix alone” for this task: While examining the word replayed, which part carries the central meaning? What should they check?",
     "answers": [
       {
-        "text": "Meaningful word parts help decode and interpret the whole word",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "Prefixes show sentence punctuation",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Suffixes make all words rhyme",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Meaningful word parts help decode and interpret the whole word This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. The base word This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -637,26 +637,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "While examining the word unhappy, which analysis is accurate?",
-    "audio_prompt": "While examining the word unhappy, which analysis is accurate?",
+    "question": "A student chooses “A full stop at the end” for this task: While examining the word replayed, what can a prefix add to a base word? What should they check?",
+    "audio_prompt": "A student chooses “A full stop at the end” for this task: While examining the word replayed, what can a prefix add to a base word? What should they check?",
     "answers": [
       {
-        "text": "Unhappy contains no base word",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Unhappy contains the prefix un- and the base happy",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "Happy is a suffix in unhappy",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Unhappy contains the prefix un- and the base happy This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. A meaning such as again or not This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -667,26 +667,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "While examining the word unhappy, why might spelling change before adding a suffix?",
-    "audio_prompt": "While examining the word unhappy, why might spelling change before adding a suffix?",
+    "question": "A student chooses “Erase the base meaning completely” for this task: While examining the word replayed, what can a suffix do? What should they check?",
+    "audio_prompt": "A student chooses “Erase the base meaning completely” for this task: While examining the word replayed, what can a suffix do? What should they check?",
     "answers": [
       {
-        "text": "Writers should change letters randomly",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Every suffix doubles every letter",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "A spelling generalisation can preserve the word's expected pattern",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A spelling generalisation can preserve the word's expected pattern This explanation follows the relevant Year 3 English evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Change a word's meaning or grammatical role This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -697,26 +697,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "While examining the word unhappy, which strategy best checks a complex word?",
-    "audio_prompt": "While examining the word unhappy, which strategy best checks a complex word?",
+    "question": "A student chooses “rewash” for this task: While examining the word replayed, which word means able to be washed? What should they check?",
+    "audio_prompt": "A student chooses “rewash” for this task: While examining the word replayed, which word means able to be washed? What should they check?",
     "answers": [
       {
-        "text": "Identify the base and affixes, then test the meaning in context",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "Remove every affix and stop",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Choose the longest possible meaning",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Identify the base and affixes, then test the meaning in context This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. washable This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -727,26 +727,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "While examining the word washable, which part carries the central meaning?",
-    "audio_prompt": "While examining the word washable, which part carries the central meaning?",
+    "question": "A student chooses “Prefixes show sentence punctuation” for this task: While examining the word replayed, how does knowing morphology support reading? What should they check?",
+    "audio_prompt": "A student chooses “Prefixes show sentence punctuation” for this task: While examining the word replayed, how does knowing morphology support reading? What should they check?",
     "answers": [
       {
-        "text": "Every suffix alone",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "The base word",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "The punctuation",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The base word This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Meaningful word parts help decode and interpret the whole word This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -757,26 +757,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "While examining the word washable, what can a prefix add to a base word?",
-    "audio_prompt": "While examining the word washable, what can a prefix add to a base word?",
+    "question": "A student chooses “Unhappy contains no base word” for this task: While examining the word replayed, which analysis is accurate? What should they check?",
+    "audio_prompt": "A student chooses “Unhappy contains no base word” for this task: While examining the word replayed, which analysis is accurate? What should they check?",
     "answers": [
       {
-        "text": "A full stop at the end",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "A change to the page layout",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "A meaning such as again or not",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A meaning such as again or not This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Unhappy contains the prefix un- and the base happy This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -787,26 +787,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "While examining the word washable, what can a suffix do?",
-    "audio_prompt": "While examining the word washable, what can a suffix do?",
+    "question": "A student chooses “Writers should change letters randomly” for this task: While examining the word replayed, why might spelling change before adding a suffix? What should they check?",
+    "audio_prompt": "A student chooses “Writers should change letters randomly” for this task: While examining the word replayed, why might spelling change before adding a suffix? What should they check?",
     "answers": [
       {
-        "text": "Change a word's meaning or grammatical role",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "Erase the base meaning completely",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Turn every word into a name",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Change a word's meaning or grammatical role This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. A spelling generalisation can preserve the word's expected pattern This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -817,26 +817,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "While examining the word washable, which word means able to be washed?",
-    "audio_prompt": "While examining the word washable, which word means able to be washed?",
+    "question": "A student chooses “Remove every affix and stop” for this task: While examining the word replayed, which strategy best checks a complex word? What should they check?",
+    "audio_prompt": "A student chooses “Remove every affix and stop” for this task: While examining the word replayed, which strategy best checks a complex word? What should they check?",
     "answers": [
       {
-        "text": "rewash",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "washable",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "washer",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "washable This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Identify the base and affixes, then test the meaning in context This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -847,26 +847,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "While examining the word washable, how does knowing morphology support reading?",
-    "audio_prompt": "While examining the word washable, how does knowing morphology support reading?",
+    "question": "A student chooses “Every suffix alone” for this task: While examining the word kindness, which part carries the central meaning? What should they check?",
+    "audio_prompt": "A student chooses “Every suffix alone” for this task: While examining the word kindness, which part carries the central meaning? What should they check?",
     "answers": [
       {
-        "text": "Prefixes show sentence punctuation",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Suffixes make all words rhyme",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "Meaningful word parts help decode and interpret the whole word",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Meaningful word parts help decode and interpret the whole word This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. The base word This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -877,26 +877,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "While examining the word washable, which analysis is accurate?",
-    "audio_prompt": "While examining the word washable, which analysis is accurate?",
+    "question": "A student chooses “A full stop at the end” for this task: While examining the word kindness, what can a prefix add to a base word? What should they check?",
+    "audio_prompt": "A student chooses “A full stop at the end” for this task: While examining the word kindness, what can a prefix add to a base word? What should they check?",
     "answers": [
       {
-        "text": "Unhappy contains the prefix un- and the base happy",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "Unhappy contains no base word",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Happy is a suffix in unhappy",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Unhappy contains the prefix un- and the base happy This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. A meaning such as again or not This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -907,8 +907,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "While examining the word washable, why might spelling change before adding a suffix?",
-    "audio_prompt": "While examining the word washable, why might spelling change before adding a suffix?",
+    "question": "While examining the word kindness, why might spelling change before adding a suffix?",
+    "audio_prompt": "While examining the word kindness, why might spelling change before adding a suffix?",
     "answers": [
       {
         "text": "Writers should change letters randomly",
@@ -937,8 +937,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "While examining the word washable, which strategy best checks a complex word?",
-    "audio_prompt": "While examining the word washable, which strategy best checks a complex word?",
+    "question": "While examining the word kindness, which strategy best checks a complex word?",
+    "audio_prompt": "While examining the word kindness, which strategy best checks a complex word?",
     "answers": [
       {
         "text": "Remove every affix and stop",
@@ -967,8 +967,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "While examining the word carefully, which part carries the central meaning?",
-    "audio_prompt": "While examining the word carefully, which part carries the central meaning?",
+    "question": "While examining the word unhappy, which part carries the central meaning?",
+    "audio_prompt": "While examining the word unhappy, which part carries the central meaning?",
     "answers": [
       {
         "text": "The base word",
@@ -997,8 +997,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "While examining the word carefully, what can a prefix add to a base word?",
-    "audio_prompt": "While examining the word carefully, what can a prefix add to a base word?",
+    "question": "While examining the word unhappy, what can a prefix add to a base word?",
+    "audio_prompt": "While examining the word unhappy, what can a prefix add to a base word?",
     "answers": [
       {
         "text": "A full stop at the end",
@@ -1027,8 +1027,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "While examining the word carefully, what can a suffix do?",
-    "audio_prompt": "While examining the word carefully, what can a suffix do?",
+    "question": "While examining the word unhappy, what can a suffix do?",
+    "audio_prompt": "While examining the word unhappy, what can a suffix do?",
     "answers": [
       {
         "text": "Erase the base meaning completely",
@@ -1057,8 +1057,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "While examining the word carefully, which word means able to be washed?",
-    "audio_prompt": "While examining the word carefully, which word means able to be washed?",
+    "question": "While examining the word unhappy, which word means able to be washed?",
+    "audio_prompt": "While examining the word unhappy, which word means able to be washed?",
     "answers": [
       {
         "text": "washable",
@@ -1087,8 +1087,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "While examining the word carefully, how does knowing morphology support reading?",
-    "audio_prompt": "While examining the word carefully, how does knowing morphology support reading?",
+    "question": "While examining the word unhappy, how does knowing morphology support reading?",
+    "audio_prompt": "While examining the word unhappy, how does knowing morphology support reading?",
     "answers": [
       {
         "text": "Prefixes show sentence punctuation",
@@ -1117,8 +1117,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "While examining the word carefully, which analysis is accurate?",
-    "audio_prompt": "While examining the word carefully, which analysis is accurate?",
+    "question": "While examining the word unhappy, which analysis is accurate?",
+    "audio_prompt": "While examining the word unhappy, which analysis is accurate?",
     "answers": [
       {
         "text": "Unhappy contains no base word",
@@ -1147,8 +1147,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "While examining the word carefully, why might spelling change before adding a suffix?",
-    "audio_prompt": "While examining the word carefully, why might spelling change before adding a suffix?",
+    "question": "While examining the word unhappy, why might spelling change before adding a suffix?",
+    "audio_prompt": "While examining the word unhappy, why might spelling change before adding a suffix?",
     "answers": [
       {
         "text": "A spelling generalisation can preserve the word's expected pattern",
@@ -1177,8 +1177,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "While examining the word carefully, which strategy best checks a complex word?",
-    "audio_prompt": "While examining the word carefully, which strategy best checks a complex word?",
+    "question": "While examining the word unhappy, which strategy best checks a complex word?",
+    "audio_prompt": "While examining the word unhappy, which strategy best checks a complex word?",
     "answers": [
       {
         "text": "Remove every affix and stop",
@@ -1205,8 +1205,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY10",
     "bank": "test",
+    "stage": "verify",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "New check: While examining the word washable, which part carries the central meaning?",
+    "question": "While examining the word washable, which part carries the central meaning?",
     "audio_prompt": "While examining the word washable, which part carries the central meaning?",
     "answers": [
       {
@@ -1234,8 +1235,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY10",
     "bank": "test",
+    "stage": "verify",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "New check: While examining the word washable, what can a prefix add to a base word?",
+    "question": "While examining the word washable, what can a prefix add to a base word?",
     "audio_prompt": "While examining the word washable, what can a prefix add to a base word?",
     "answers": [
       {
@@ -1263,8 +1265,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY10",
     "bank": "test",
+    "stage": "verify",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "New check: While examining the word washable, what can a suffix do?",
+    "question": "While examining the word washable, what can a suffix do?",
     "audio_prompt": "While examining the word washable, what can a suffix do?",
     "answers": [
       {
@@ -1292,8 +1295,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY10",
     "bank": "test",
+    "stage": "verify",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "New check: While examining the word washable, which word means able to be washed?",
+    "question": "While examining the word washable, which word means able to be washed?",
     "audio_prompt": "While examining the word washable, which word means able to be washed?",
     "answers": [
       {
@@ -1321,8 +1325,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY10",
     "bank": "test",
+    "stage": "verify",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "New check: While examining the word washable, how does knowing morphology support reading?",
+    "question": "While examining the word washable, how does knowing morphology support reading?",
     "audio_prompt": "While examining the word washable, how does knowing morphology support reading?",
     "answers": [
       {
@@ -1350,8 +1355,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY10",
     "bank": "test",
+    "stage": "verify",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "New check: While examining the word washable, which analysis is accurate?",
+    "question": "While examining the word washable, which analysis is accurate?",
     "audio_prompt": "While examining the word washable, which analysis is accurate?",
     "answers": [
       {
@@ -1379,8 +1385,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY10",
     "bank": "test",
+    "stage": "verify",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "New check: While examining the word washable, why might spelling change before adding a suffix?",
+    "question": "While examining the word washable, why might spelling change before adding a suffix?",
     "audio_prompt": "While examining the word washable, why might spelling change before adding a suffix?",
     "answers": [
       {
@@ -1408,8 +1415,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY10",
     "bank": "test",
+    "stage": "verify",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "New check: While examining the word washable, which strategy best checks a complex word?",
+    "question": "While examining the word washable, which strategy best checks a complex word?",
     "audio_prompt": "While examining the word washable, which strategy best checks a complex word?",
     "answers": [
       {
@@ -1437,8 +1445,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY10",
     "bank": "test",
+    "stage": "apply",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "New check: While examining the word carefully, which part carries the central meaning?",
+    "question": "While examining the word carefully, which part carries the central meaning?",
     "audio_prompt": "While examining the word carefully, which part carries the central meaning?",
     "answers": [
       {
@@ -1466,8 +1475,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY10",
     "bank": "test",
+    "stage": "apply",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "New check: While examining the word carefully, what can a prefix add to a base word?",
+    "question": "While examining the word carefully, what can a prefix add to a base word?",
     "audio_prompt": "While examining the word carefully, what can a prefix add to a base word?",
     "answers": [
       {
@@ -1495,8 +1505,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY10",
     "bank": "test",
+    "stage": "apply",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "New check: While examining the word carefully, what can a suffix do?",
+    "question": "While examining the word carefully, what can a suffix do?",
     "audio_prompt": "While examining the word carefully, what can a suffix do?",
     "answers": [
       {
@@ -1524,8 +1535,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY10",
     "bank": "test",
+    "stage": "apply",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "New check: While examining the word carefully, which word means able to be washed?",
+    "question": "While examining the word carefully, which word means able to be washed?",
     "audio_prompt": "While examining the word carefully, which word means able to be washed?",
     "answers": [
       {
@@ -1553,8 +1565,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY10",
     "bank": "test",
+    "stage": "apply",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "New check: While examining the word carefully, how does knowing morphology support reading?",
+    "question": "While examining the word carefully, how does knowing morphology support reading?",
     "audio_prompt": "While examining the word carefully, how does knowing morphology support reading?",
     "answers": [
       {
@@ -1582,8 +1595,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY10",
     "bank": "test",
+    "stage": "apply",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "New check: While examining the word carefully, which analysis is accurate?",
+    "question": "While examining the word carefully, which analysis is accurate?",
     "audio_prompt": "While examining the word carefully, which analysis is accurate?",
     "answers": [
       {
@@ -1611,8 +1625,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY10",
     "bank": "test",
+    "stage": "apply",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "New check: While examining the word carefully, why might spelling change before adding a suffix?",
+    "question": "While examining the word carefully, why might spelling change before adding a suffix?",
     "audio_prompt": "While examining the word carefully, why might spelling change before adding a suffix?",
     "answers": [
       {
@@ -1640,8 +1655,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY10",
     "bank": "test",
+    "stage": "apply",
     "skill": "Base Words, Prefixes and Suffixes",
-    "question": "New check: While examining the word carefully, which strategy best checks a complex word?",
+    "question": "While examining the word carefully, which strategy best checks a complex word?",
     "audio_prompt": "While examining the word carefully, which strategy best checks a complex word?",
     "answers": [
       {

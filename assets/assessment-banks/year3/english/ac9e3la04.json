@@ -307,19 +307,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "A paragraph about why exercise helps the body suddenly describes a birthday cake. What should the writer do?",
-    "audio_prompt": "A paragraph about why exercise helps the body suddenly describes a birthday cake. What should the writer do?",
+    "question": "Why is “Move the cake sentence to a relevant paragraph or remove it.” the best answer here? A paragraph about why exercise helps the body suddenly describes a birthday cake. What should the writer do?",
+    "audio_prompt": "Why is “Move the cake sentence to a relevant paragraph or remove it.” the best answer here? A paragraph about why exercise helps the body suddenly describes a birthday cake. What should the writer do?",
     "answers": [
       {
-        "text": "Keep it because every sentence belongs together.",
+        "text": "Because “Keep it because every sentence belongs together.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Move the cake sentence to a relevant paragraph or remove it.",
+        "text": "Unrelated information weakens paragraph focus.",
         "is_correct": true
       },
       {
-        "text": "Delete the sentences about the main topic.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -337,19 +337,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "When would a new paragraph be useful in a text about why exercise helps the body?",
-    "audio_prompt": "When would a new paragraph be useful in a text about why exercise helps the body?",
+    "question": "Why is “When the writer moves to a new stage, time or main idea.” the best answer here? When would a new paragraph be useful in a text about why exercise helps the body?",
+    "audio_prompt": "Why is “When the writer moves to a new stage, time or main idea.” the best answer here? When would a new paragraph be useful in a text about why exercise helps the body?",
     "answers": [
       {
-        "text": "After every single word.",
+        "text": "Because “After every single word.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Only when the page is completely full.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "When the writer moves to a new stage, time or main idea.",
+        "text": "Paragraph breaks signal a meaningful change.",
         "is_correct": true
       }
     ],
@@ -367,19 +367,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "Which order creates the clearest paragraph about why exercise helps the body?",
-    "audio_prompt": "Which order creates the clearest paragraph about why exercise helps the body?",
+    "question": "Why is “Begin with “Regular movement strengthens muscles.” and follow with “It can also improve heart health.”” the best answer here? Which order creates the clearest paragraph about why exercise helps the body?",
+    "audio_prompt": "Why is “Begin with “Regular movement strengthens muscles.” and follow with “It can also improve heart health.”” the best answer here? Which order creates the clearest paragraph about why exercise helps the body?",
     "answers": [
       {
-        "text": "Begin with “Regular movement strengthens muscles.” and follow with “It can also improve heart health.”",
+        "text": "A clear paragraph introduces its focus and develops it.",
         "is_correct": true
       },
       {
-        "text": "Begin with “It can also improve heart health.” and then add an unrelated joke.",
+        "text": "Because “Begin with “It can also improve heart health.” and then add an unrelated joke.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Place two unrelated sentences before the topic.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -397,19 +397,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "What is the job of “It can also improve heart health.” in a paragraph about why exercise helps the body?",
-    "audio_prompt": "What is the job of “It can also improve heart health.” in a paragraph about why exercise helps the body?",
+    "question": "Why is “It supports or develops the main idea.” the best answer here? What is the job of “It can also improve heart health.” in a paragraph about why exercise helps the body?",
+    "audio_prompt": "Why is “It supports or develops the main idea.” the best answer here? What is the job of “It can also improve heart health.” in a paragraph about why exercise helps the body?",
     "answers": [
       {
-        "text": "It changes the paragraph to an unrelated topic.",
+        "text": "Because “It changes the paragraph to an unrelated topic.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "It supports or develops the main idea.",
+        "text": "A supporting detail adds information about the paragraph focus.",
         "is_correct": true
       },
       {
-        "text": "It acts only as the page title.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -427,19 +427,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "Which closing sentence would best finish a paragraph about why exercise helps the body?",
-    "audio_prompt": "Which closing sentence would best finish a paragraph about why exercise helps the body?",
+    "question": "Why is “These details show why why exercise helps the body is worth understanding.” the best answer here? Which closing sentence would best finish a paragraph about why exercise helps the body?",
+    "audio_prompt": "Why is “These details show why why exercise helps the body is worth understanding.” the best answer here? Which closing sentence would best finish a paragraph about why exercise helps the body?",
     "answers": [
       {
-        "text": "Now I will discuss an unrelated toy.",
+        "text": "Because “Now I will discuss an unrelated toy.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "The middle sentence should be ignored.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "These details show why why exercise helps the body is worth understanding.",
+        "text": "A closing sentence can reinforce the main idea.",
         "is_correct": true
       }
     ],
@@ -457,19 +457,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "A writer puts every idea about why exercise helps the body into one very long block. What revision helps readers most?",
-    "audio_prompt": "A writer puts every idea about why exercise helps the body into one very long block. What revision helps readers most?",
+    "question": "Why is “Group related ideas into focused paragraphs.” the best answer here? A writer puts every idea about why exercise helps the body into one very long block. What revision helps readers most?",
+    "audio_prompt": "Why is “Group related ideas into focused paragraphs.” the best answer here? A writer puts every idea about why exercise helps the body into one very long block. What revision helps readers most?",
     "answers": [
       {
-        "text": "Group related ideas into focused paragraphs.",
+        "text": "Focused paragraphs make stages and related ideas visible.",
         "is_correct": true
       },
       {
-        "text": "Remove all topic sentences.",
+        "text": "Because “Remove all topic sentences.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Join every sentence without punctuation.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -487,19 +487,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "Which topic sentence best begins a paragraph about a visit to a coastal town?",
-    "audio_prompt": "Which topic sentence best begins a paragraph about a visit to a coastal town?",
+    "question": "Why is “We reached the harbour before lunch.” the best answer here? Which topic sentence best begins a paragraph about a visit to a coastal town?",
+    "audio_prompt": "Why is “We reached the harbour before lunch.” the best answer here? Which topic sentence best begins a paragraph about a visit to a coastal town?",
     "answers": [
       {
-        "text": "My favourite socks are green.",
+        "text": "Because “My favourite socks are green.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "We reached the harbour before lunch.",
+        "text": "A topic sentence introduces the paragraph's main idea.",
         "is_correct": true
       },
       {
-        "text": "A distant planet has many moons.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -517,19 +517,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "Which detail belongs with “We reached the harbour before lunch.”?",
-    "audio_prompt": "Which detail belongs with “We reached the harbour before lunch.”?",
+    "question": "Why is “Later, we explored the beach.” the best answer here? Which detail belongs with “We reached the harbour before lunch.”?",
+    "audio_prompt": "Why is “Later, we explored the beach.” the best answer here? Which detail belongs with “We reached the harbour before lunch.”?",
     "answers": [
       {
-        "text": "A train crossed the desert.",
+        "text": "Because “A train crossed the desert.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "The recipe uses two eggs.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "Later, we explored the beach.",
+        "text": "Supporting details develop the same main idea.",
         "is_correct": true
       }
     ],
@@ -547,19 +547,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "A paragraph about a visit to a coastal town suddenly describes a birthday cake. What should the writer do?",
-    "audio_prompt": "A paragraph about a visit to a coastal town suddenly describes a birthday cake. What should the writer do?",
+    "question": "Why is “Move the cake sentence to a relevant paragraph or remove it.” the best answer here? A paragraph about a visit to a coastal town suddenly describes a birthday cake. What should the writer do?",
+    "audio_prompt": "Why is “Move the cake sentence to a relevant paragraph or remove it.” the best answer here? A paragraph about a visit to a coastal town suddenly describes a birthday cake. What should the writer do?",
     "answers": [
       {
-        "text": "Move the cake sentence to a relevant paragraph or remove it.",
+        "text": "Unrelated information weakens paragraph focus.",
         "is_correct": true
       },
       {
-        "text": "Keep it because every sentence belongs together.",
+        "text": "Because “Keep it because every sentence belongs together.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Delete the sentences about the main topic.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -577,19 +577,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "When would a new paragraph be useful in a text about a visit to a coastal town?",
-    "audio_prompt": "When would a new paragraph be useful in a text about a visit to a coastal town?",
+    "question": "Why is “When the writer moves to a new stage, time or main idea.” the best answer here? When would a new paragraph be useful in a text about a visit to a coastal town?",
+    "audio_prompt": "Why is “When the writer moves to a new stage, time or main idea.” the best answer here? When would a new paragraph be useful in a text about a visit to a coastal town?",
     "answers": [
       {
-        "text": "After every single word.",
+        "text": "Because “After every single word.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "When the writer moves to a new stage, time or main idea.",
+        "text": "Paragraph breaks signal a meaningful change.",
         "is_correct": true
       },
       {
-        "text": "Only when the page is completely full.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -607,26 +607,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "Which order creates the clearest paragraph about a visit to a coastal town?",
-    "audio_prompt": "Which order creates the clearest paragraph about a visit to a coastal town?",
+    "question": "A student chooses “My favourite socks are green.” for this task: Which topic sentence best begins a paragraph about how bees pollinate flowers? What should they check?",
+    "audio_prompt": "A student chooses “My favourite socks are green.” for this task: Which topic sentence best begins a paragraph about how bees pollinate flowers? What should they check?",
     "answers": [
       {
-        "text": "Begin with “Later, we explored the beach.” and then add an unrelated joke.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Place two unrelated sentences before the topic.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "Begin with “We reached the harbour before lunch.” and follow with “Later, we explored the beach.”",
+        "text": "Choose the sentence that names or begins the focus.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A clear paragraph introduces its focus and develops it.",
-      "hint": "Put the main idea before its supporting information."
+      "summary": "Choose the sentence that names or begins the focus. A topic sentence introduces the paragraph's main idea.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -637,26 +637,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "What is the job of “Later, we explored the beach.” in a paragraph about a visit to a coastal town?",
-    "audio_prompt": "What is the job of “Later, we explored the beach.” in a paragraph about a visit to a coastal town?",
+    "question": "A student chooses “A train crossed the desert.” for this task: Which detail belongs with “Bees carry pollen between flowers.”? What should they check?",
+    "audio_prompt": "A student chooses “A train crossed the desert.” for this task: Which detail belongs with “Bees carry pollen between flowers.”? What should they check?",
     "answers": [
       {
-        "text": "It supports or develops the main idea.",
+        "text": "Check that the detail stays focused on the topic.",
         "is_correct": true
       },
       {
-        "text": "It changes the paragraph to an unrelated topic.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "It acts only as the page title.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A supporting detail adds information about the paragraph focus.",
-      "hint": "Relate the sentence back to the topic sentence."
+      "summary": "Check that the detail stays focused on the topic. Supporting details develop the same main idea.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -667,26 +667,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "Which closing sentence would best finish a paragraph about a visit to a coastal town?",
-    "audio_prompt": "Which closing sentence would best finish a paragraph about a visit to a coastal town?",
+    "question": "A student chooses “Keep it because every sentence belongs together.” for this task: A paragraph about how bees pollinate flowers suddenly describes a birthday cake. What should the writer do? What should they check?",
+    "audio_prompt": "A student chooses “Keep it because every sentence belongs together.” for this task: A paragraph about how bees pollinate flowers suddenly describes a birthday cake. What should the writer do? What should they check?",
     "answers": [
       {
-        "text": "Now I will discuss an unrelated toy.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "These details show why a visit to a coastal town is worth understanding.",
+        "text": "Keep sentences that support one main idea together.",
         "is_correct": true
       },
       {
-        "text": "The middle sentence should be ignored.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A closing sentence can reinforce the main idea.",
-      "hint": "Choose a conclusion that stays on topic."
+      "summary": "Keep sentences that support one main idea together. Unrelated information weakens paragraph focus.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -697,26 +697,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "A writer puts every idea about a visit to a coastal town into one very long block. What revision helps readers most?",
-    "audio_prompt": "A writer puts every idea about a visit to a coastal town into one very long block. What revision helps readers most?",
+    "question": "A student chooses “After every single word.” for this task: When would a new paragraph be useful in a text about how bees pollinate flowers? What should they check?",
+    "audio_prompt": "A student chooses “After every single word.” for this task: When would a new paragraph be useful in a text about how bees pollinate flowers? What should they check?",
     "answers": [
       {
-        "text": "Remove all topic sentences.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Join every sentence without punctuation.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "Group related ideas into focused paragraphs.",
+        "text": "Look for a change readers need to notice.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Focused paragraphs make stages and related ideas visible.",
-      "hint": "Sort the information by its main ideas."
+      "summary": "Look for a change readers need to notice. Paragraph breaks signal a meaningful change.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -727,26 +727,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "Which topic sentence best begins a paragraph about how frogs grow?",
-    "audio_prompt": "Which topic sentence best begins a paragraph about how frogs grow?",
+    "question": "A student chooses “Begin with “This movement helps plants produce seeds.” and then add an unrelated joke.” for this task: Which order creates the clearest paragraph about how bees pollinate flowers? What should they check?",
+    "audio_prompt": "A student chooses “Begin with “This movement helps plants produce seeds.” and then add an unrelated joke.” for this task: Which order creates the clearest paragraph about how bees pollinate flowers? What should they check?",
     "answers": [
       {
-        "text": "A tadpole begins life in water.",
+        "text": "Put the main idea before its supporting information.",
         "is_correct": true
       },
       {
-        "text": "My favourite socks are green.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "A distant planet has many moons.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A topic sentence introduces the paragraph's main idea.",
-      "hint": "Choose the sentence that names or begins the focus."
+      "summary": "Put the main idea before its supporting information. A clear paragraph introduces its focus and develops it.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -757,26 +757,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "Which detail belongs with “A tadpole begins life in water.”?",
-    "audio_prompt": "Which detail belongs with “A tadpole begins life in water.”?",
+    "question": "A student chooses “It changes the paragraph to an unrelated topic.” for this task: What is the job of “This movement helps plants produce seeds.” in a paragraph about how bees pollinate flowers? What should they check?",
+    "audio_prompt": "A student chooses “It changes the paragraph to an unrelated topic.” for this task: What is the job of “This movement helps plants produce seeds.” in a paragraph about how bees pollinate flowers? What should they check?",
     "answers": [
       {
-        "text": "A train crossed the desert.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Over time, it develops legs and lungs.",
+        "text": "Relate the sentence back to the topic sentence.",
         "is_correct": true
       },
       {
-        "text": "The recipe uses two eggs.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Supporting details develop the same main idea.",
-      "hint": "Check that the detail stays focused on the topic."
+      "summary": "Relate the sentence back to the topic sentence. A supporting detail adds information about the paragraph focus.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -787,26 +787,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "A paragraph about how frogs grow suddenly describes a birthday cake. What should the writer do?",
-    "audio_prompt": "A paragraph about how frogs grow suddenly describes a birthday cake. What should the writer do?",
+    "question": "A student chooses “Now I will discuss an unrelated toy.” for this task: Which closing sentence would best finish a paragraph about how bees pollinate flowers? What should they check?",
+    "audio_prompt": "A student chooses “Now I will discuss an unrelated toy.” for this task: Which closing sentence would best finish a paragraph about how bees pollinate flowers? What should they check?",
     "answers": [
       {
-        "text": "Keep it because every sentence belongs together.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Delete the sentences about the main topic.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "Move the cake sentence to a relevant paragraph or remove it.",
+        "text": "Choose a conclusion that stays on topic.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Unrelated information weakens paragraph focus.",
-      "hint": "Keep sentences that support one main idea together."
+      "summary": "Choose a conclusion that stays on topic. A closing sentence can reinforce the main idea.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -817,26 +817,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "When would a new paragraph be useful in a text about how frogs grow?",
-    "audio_prompt": "When would a new paragraph be useful in a text about how frogs grow?",
+    "question": "A student chooses “Remove all topic sentences.” for this task: A writer puts every idea about how bees pollinate flowers into one very long block. What revision helps readers most? What should they check?",
+    "audio_prompt": "A student chooses “Remove all topic sentences.” for this task: A writer puts every idea about how bees pollinate flowers into one very long block. What revision helps readers most? What should they check?",
     "answers": [
       {
-        "text": "When the writer moves to a new stage, time or main idea.",
+        "text": "Sort the information by its main ideas.",
         "is_correct": true
       },
       {
-        "text": "After every single word.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Only when the page is completely full.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Paragraph breaks signal a meaningful change.",
-      "hint": "Look for a change readers need to notice."
+      "summary": "Sort the information by its main ideas. Focused paragraphs make stages and related ideas visible.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -847,26 +847,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "Which order creates the clearest paragraph about how frogs grow?",
-    "audio_prompt": "Which order creates the clearest paragraph about how frogs grow?",
+    "question": "A student chooses “My favourite socks are green.” for this task: Which topic sentence best begins a paragraph about why exercise helps the body? What should they check?",
+    "audio_prompt": "A student chooses “My favourite socks are green.” for this task: Which topic sentence best begins a paragraph about why exercise helps the body? What should they check?",
     "answers": [
       {
-        "text": "Begin with “Over time, it develops legs and lungs.” and then add an unrelated joke.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Begin with “A tadpole begins life in water.” and follow with “Over time, it develops legs and lungs.”",
+        "text": "Choose the sentence that names or begins the focus.",
         "is_correct": true
       },
       {
-        "text": "Place two unrelated sentences before the topic.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A clear paragraph introduces its focus and develops it.",
-      "hint": "Put the main idea before its supporting information."
+      "summary": "Choose the sentence that names or begins the focus. A topic sentence introduces the paragraph's main idea.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -877,26 +877,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "What is the job of “Over time, it develops legs and lungs.” in a paragraph about how frogs grow?",
-    "audio_prompt": "What is the job of “Over time, it develops legs and lungs.” in a paragraph about how frogs grow?",
+    "question": "A student chooses “A train crossed the desert.” for this task: Which detail belongs with “Regular movement strengthens muscles.”? What should they check?",
+    "audio_prompt": "A student chooses “A train crossed the desert.” for this task: Which detail belongs with “Regular movement strengthens muscles.”? What should they check?",
     "answers": [
       {
-        "text": "It changes the paragraph to an unrelated topic.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "It acts only as the page title.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "It supports or develops the main idea.",
+        "text": "Check that the detail stays focused on the topic.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A supporting detail adds information about the paragraph focus.",
-      "hint": "Relate the sentence back to the topic sentence."
+      "summary": "Check that the detail stays focused on the topic. Supporting details develop the same main idea.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -907,11 +907,11 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "Which closing sentence would best finish a paragraph about how frogs grow?",
-    "audio_prompt": "Which closing sentence would best finish a paragraph about how frogs grow?",
+    "question": "Which closing sentence would best finish a paragraph about why exercise helps the body?",
+    "audio_prompt": "Which closing sentence would best finish a paragraph about why exercise helps the body?",
     "answers": [
       {
-        "text": "These details show why how frogs grow is worth understanding.",
+        "text": "These details show why why exercise helps the body is worth understanding.",
         "is_correct": true
       },
       {
@@ -937,8 +937,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "A writer puts every idea about how frogs grow into one very long block. What revision helps readers most?",
-    "audio_prompt": "A writer puts every idea about how frogs grow into one very long block. What revision helps readers most?",
+    "question": "A writer puts every idea about why exercise helps the body into one very long block. What revision helps readers most?",
+    "audio_prompt": "A writer puts every idea about why exercise helps the body into one very long block. What revision helps readers most?",
     "answers": [
       {
         "text": "Remove all topic sentences.",
@@ -967,8 +967,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "Which topic sentence best begins a paragraph about ways a school saves water?",
-    "audio_prompt": "Which topic sentence best begins a paragraph about ways a school saves water?",
+    "question": "Which topic sentence best begins a paragraph about a visit to a coastal town?",
+    "audio_prompt": "Which topic sentence best begins a paragraph about a visit to a coastal town?",
     "answers": [
       {
         "text": "My favourite socks are green.",
@@ -979,7 +979,7 @@
         "is_correct": false
       },
       {
-        "text": "The school collects rainwater for gardens.",
+        "text": "We reached the harbour before lunch.",
         "is_correct": true
       }
     ],
@@ -997,11 +997,11 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "Which detail belongs with “The school collects rainwater for gardens.”?",
-    "audio_prompt": "Which detail belongs with “The school collects rainwater for gardens.”?",
+    "question": "Which detail belongs with “We reached the harbour before lunch.”?",
+    "audio_prompt": "Which detail belongs with “We reached the harbour before lunch.”?",
     "answers": [
       {
-        "text": "Students also report leaking taps.",
+        "text": "Later, we explored the beach.",
         "is_correct": true
       },
       {
@@ -1027,8 +1027,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "A paragraph about ways a school saves water suddenly describes a birthday cake. What should the writer do?",
-    "audio_prompt": "A paragraph about ways a school saves water suddenly describes a birthday cake. What should the writer do?",
+    "question": "A paragraph about a visit to a coastal town suddenly describes a birthday cake. What should the writer do?",
+    "audio_prompt": "A paragraph about a visit to a coastal town suddenly describes a birthday cake. What should the writer do?",
     "answers": [
       {
         "text": "Keep it because every sentence belongs together.",
@@ -1057,8 +1057,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "When would a new paragraph be useful in a text about ways a school saves water?",
-    "audio_prompt": "When would a new paragraph be useful in a text about ways a school saves water?",
+    "question": "When would a new paragraph be useful in a text about a visit to a coastal town?",
+    "audio_prompt": "When would a new paragraph be useful in a text about a visit to a coastal town?",
     "answers": [
       {
         "text": "After every single word.",
@@ -1087,15 +1087,15 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "Which order creates the clearest paragraph about ways a school saves water?",
-    "audio_prompt": "Which order creates the clearest paragraph about ways a school saves water?",
+    "question": "Which order creates the clearest paragraph about a visit to a coastal town?",
+    "audio_prompt": "Which order creates the clearest paragraph about a visit to a coastal town?",
     "answers": [
       {
-        "text": "Begin with “The school collects rainwater for gardens.” and follow with “Students also report leaking taps.”",
+        "text": "Begin with “We reached the harbour before lunch.” and follow with “Later, we explored the beach.”",
         "is_correct": true
       },
       {
-        "text": "Begin with “Students also report leaking taps.” and then add an unrelated joke.",
+        "text": "Begin with “Later, we explored the beach.” and then add an unrelated joke.",
         "is_correct": false
       },
       {
@@ -1117,8 +1117,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "What is the job of “Students also report leaking taps.” in a paragraph about ways a school saves water?",
-    "audio_prompt": "What is the job of “Students also report leaking taps.” in a paragraph about ways a school saves water?",
+    "question": "What is the job of “Later, we explored the beach.” in a paragraph about a visit to a coastal town?",
+    "audio_prompt": "What is the job of “Later, we explored the beach.” in a paragraph about a visit to a coastal town?",
     "answers": [
       {
         "text": "It changes the paragraph to an unrelated topic.",
@@ -1147,8 +1147,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "Which closing sentence would best finish a paragraph about ways a school saves water?",
-    "audio_prompt": "Which closing sentence would best finish a paragraph about ways a school saves water?",
+    "question": "Which closing sentence would best finish a paragraph about a visit to a coastal town?",
+    "audio_prompt": "Which closing sentence would best finish a paragraph about a visit to a coastal town?",
     "answers": [
       {
         "text": "Now I will discuss an unrelated toy.",
@@ -1159,7 +1159,7 @@
         "is_correct": false
       },
       {
-        "text": "These details show why ways a school saves water is worth understanding.",
+        "text": "These details show why a visit to a coastal town is worth understanding.",
         "is_correct": true
       }
     ],
@@ -1177,8 +1177,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "A writer puts every idea about ways a school saves water into one very long block. What revision helps readers most?",
-    "audio_prompt": "A writer puts every idea about ways a school saves water into one very long block. What revision helps readers most?",
+    "question": "A writer puts every idea about a visit to a coastal town into one very long block. What revision helps readers most?",
+    "audio_prompt": "A writer puts every idea about a visit to a coastal town into one very long block. What revision helps readers most?",
     "answers": [
       {
         "text": "Group related ideas into focused paragraphs.",
@@ -1205,8 +1205,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA04",
     "bank": "test",
+    "stage": "verify",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "New check: Which topic sentence best begins a paragraph about how frogs grow?",
+    "question": "Which topic sentence best begins a paragraph about how frogs grow?",
     "audio_prompt": "Which topic sentence best begins a paragraph about how frogs grow?",
     "answers": [
       {
@@ -1234,8 +1235,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA04",
     "bank": "test",
+    "stage": "verify",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "New check: Which detail belongs with “A tadpole begins life in water.”?",
+    "question": "Which detail belongs with “A tadpole begins life in water.”?",
     "audio_prompt": "Which detail belongs with “A tadpole begins life in water.”?",
     "answers": [
       {
@@ -1263,8 +1265,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA04",
     "bank": "test",
+    "stage": "verify",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "New check: A paragraph about how frogs grow suddenly describes a birthday cake. What should the writer do?",
+    "question": "A paragraph about how frogs grow suddenly describes a birthday cake. What should the writer do?",
     "audio_prompt": "A paragraph about how frogs grow suddenly describes a birthday cake. What should the writer do?",
     "answers": [
       {
@@ -1292,8 +1295,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA04",
     "bank": "test",
+    "stage": "verify",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "New check: When would a new paragraph be useful in a text about how frogs grow?",
+    "question": "When would a new paragraph be useful in a text about how frogs grow?",
     "audio_prompt": "When would a new paragraph be useful in a text about how frogs grow?",
     "answers": [
       {
@@ -1321,8 +1325,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA04",
     "bank": "test",
+    "stage": "verify",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "New check: Which order creates the clearest paragraph about how frogs grow?",
+    "question": "Which order creates the clearest paragraph about how frogs grow?",
     "audio_prompt": "Which order creates the clearest paragraph about how frogs grow?",
     "answers": [
       {
@@ -1350,8 +1355,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA04",
     "bank": "test",
+    "stage": "verify",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "New check: What is the job of “Over time, it develops legs and lungs.” in a paragraph about how frogs grow?",
+    "question": "What is the job of “Over time, it develops legs and lungs.” in a paragraph about how frogs grow?",
     "audio_prompt": "What is the job of “Over time, it develops legs and lungs.” in a paragraph about how frogs grow?",
     "answers": [
       {
@@ -1379,8 +1385,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA04",
     "bank": "test",
+    "stage": "verify",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "New check: Which closing sentence would best finish a paragraph about how frogs grow?",
+    "question": "Which closing sentence would best finish a paragraph about how frogs grow?",
     "audio_prompt": "Which closing sentence would best finish a paragraph about how frogs grow?",
     "answers": [
       {
@@ -1408,8 +1415,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA04",
     "bank": "test",
+    "stage": "verify",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "New check: A writer puts every idea about how frogs grow into one very long block. What revision helps readers most?",
+    "question": "A writer puts every idea about how frogs grow into one very long block. What revision helps readers most?",
     "audio_prompt": "A writer puts every idea about how frogs grow into one very long block. What revision helps readers most?",
     "answers": [
       {
@@ -1437,8 +1445,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA04",
     "bank": "test",
+    "stage": "apply",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "New check: Which topic sentence best begins a paragraph about ways a school saves water?",
+    "question": "Which topic sentence best begins a paragraph about ways a school saves water?",
     "audio_prompt": "Which topic sentence best begins a paragraph about ways a school saves water?",
     "answers": [
       {
@@ -1466,8 +1475,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA04",
     "bank": "test",
+    "stage": "apply",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "New check: Which detail belongs with “The school collects rainwater for gardens.”?",
+    "question": "Which detail belongs with “The school collects rainwater for gardens.”?",
     "audio_prompt": "Which detail belongs with “The school collects rainwater for gardens.”?",
     "answers": [
       {
@@ -1495,8 +1505,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA04",
     "bank": "test",
+    "stage": "apply",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "New check: A paragraph about ways a school saves water suddenly describes a birthday cake. What should the writer do?",
+    "question": "A paragraph about ways a school saves water suddenly describes a birthday cake. What should the writer do?",
     "audio_prompt": "A paragraph about ways a school saves water suddenly describes a birthday cake. What should the writer do?",
     "answers": [
       {
@@ -1524,8 +1535,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA04",
     "bank": "test",
+    "stage": "apply",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "New check: When would a new paragraph be useful in a text about ways a school saves water?",
+    "question": "When would a new paragraph be useful in a text about ways a school saves water?",
     "audio_prompt": "When would a new paragraph be useful in a text about ways a school saves water?",
     "answers": [
       {
@@ -1553,8 +1565,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA04",
     "bank": "test",
+    "stage": "apply",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "New check: Which order creates the clearest paragraph about ways a school saves water?",
+    "question": "Which order creates the clearest paragraph about ways a school saves water?",
     "audio_prompt": "Which order creates the clearest paragraph about ways a school saves water?",
     "answers": [
       {
@@ -1582,8 +1595,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA04",
     "bank": "test",
+    "stage": "apply",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "New check: What is the job of “Students also report leaking taps.” in a paragraph about ways a school saves water?",
+    "question": "What is the job of “Students also report leaking taps.” in a paragraph about ways a school saves water?",
     "audio_prompt": "What is the job of “Students also report leaking taps.” in a paragraph about ways a school saves water?",
     "answers": [
       {
@@ -1611,8 +1625,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA04",
     "bank": "test",
+    "stage": "apply",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "New check: Which closing sentence would best finish a paragraph about ways a school saves water?",
+    "question": "Which closing sentence would best finish a paragraph about ways a school saves water?",
     "audio_prompt": "Which closing sentence would best finish a paragraph about ways a school saves water?",
     "answers": [
       {
@@ -1640,8 +1655,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA04",
     "bank": "test",
+    "stage": "apply",
     "skill": "Paragraphs Group Related Ideas",
-    "question": "New check: A writer puts every idea about ways a school saves water into one very long block. What revision helps readers most?",
+    "question": "A writer puts every idea about ways a school saves water into one very long block. What revision helps readers most?",
     "audio_prompt": "A writer puts every idea about ways a school saves water into one very long block. What revision helps readers most?",
     "answers": [
       {

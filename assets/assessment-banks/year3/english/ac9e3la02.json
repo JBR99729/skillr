@@ -307,19 +307,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Forceful and Gentle Language",
-    "question": "Which sentence gives a cautious evaluation connected with “students should bring hats”?",
-    "audio_prompt": "Which sentence gives a cautious evaluation connected with “students should bring hats”?",
+    "question": "Why is “The evidence suggests that students should bring hats.” the best answer here? Which sentence gives a cautious evaluation connected with “students should bring hats”?",
+    "audio_prompt": "Why is “The evidence suggests that students should bring hats.” the best answer here? Which sentence gives a cautious evaluation connected with “students should bring hats”?",
     "answers": [
       {
-        "text": "The evidence proves forever that students should bring hats.",
+        "text": "Because “The evidence proves forever that students should bring hats.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Everyone knows without checking that students should bring hats.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "The evidence suggests that students should bring hats.",
+        "text": "Cautious evaluation matches a claim to limited evidence.",
         "is_correct": true
       }
     ],
@@ -337,19 +337,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Forceful and Gentle Language",
-    "question": "Which sentence expresses the strongest positive emotion about students should bring hats?",
-    "audio_prompt": "Which sentence expresses the strongest positive emotion about students should bring hats?",
+    "question": "Why is “I am absolutely delighted that students should bring hats.” the best answer here? Which sentence expresses the strongest positive emotion about students should bring hats?",
+    "audio_prompt": "Why is “I am absolutely delighted that students should bring hats.” the best answer here? Which sentence expresses the strongest positive emotion about students should bring hats?",
     "answers": [
       {
-        "text": "I am absolutely delighted that students should bring hats.",
+        "text": "Absolutely delighted is more emotionally forceful than fairly pleased or noticed.",
         "is_correct": true
       },
       {
-        "text": "I am fairly pleased that students should bring hats.",
+        "text": "Because “I am fairly pleased that students should bring hats.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "I noticed that students should bring hats.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -367,19 +367,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Forceful and Gentle Language",
-    "question": "A writer has little evidence for students should bring hats. Which modal verb is most responsible?",
-    "audio_prompt": "A writer has little evidence for students should bring hats. Which modal verb is most responsible?",
+    "question": "Why is “might” the best answer here? A writer has little evidence for students should bring hats. Which modal verb is most responsible?",
+    "audio_prompt": "Why is “might” the best answer here? A writer has little evidence for students should bring hats. Which modal verb is most responsible?",
     "answers": [
       {
-        "text": "must",
+        "text": "Because “must” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "might",
+        "text": "Might signals possibility rather than certainty.",
         "is_correct": true
       },
       {
-        "text": "will",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -397,19 +397,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Forceful and Gentle Language",
-    "question": "Which change makes “students should bring hats” sound more certain?",
-    "audio_prompt": "Which change makes “students should bring hats” sound more certain?",
+    "question": "Why is “Change the modal wording to “must”.” the best answer here? Which change makes “students should bring hats” sound more certain?",
+    "audio_prompt": "Why is “Change the modal wording to “must”.” the best answer here? Which change makes “students should bring hats” sound more certain?",
     "answers": [
       {
-        "text": "Change it to “could”.",
+        "text": "Because “Change it to “could”.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Remove every verb.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "Change the modal wording to “must”.",
+        "text": "More forceful modal language increases certainty or obligation.",
         "is_correct": true
       }
     ],
@@ -427,19 +427,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Forceful and Gentle Language",
-    "question": "Which judgement is an evaluation rather than a plain fact about students should bring hats?",
-    "audio_prompt": "Which judgement is an evaluation rather than a plain fact about students should bring hats?",
+    "question": "Why is “It is an impressive result that students should bring hats.” the best answer here? Which judgement is an evaluation rather than a plain fact about students should bring hats?",
+    "audio_prompt": "Why is “It is an impressive result that students should bring hats.” the best answer here? Which judgement is an evaluation rather than a plain fact about students should bring hats?",
     "answers": [
       {
-        "text": "It is an impressive result that students should bring hats.",
+        "text": "An evaluation judges quality or value.",
         "is_correct": true
       },
       {
-        "text": "The report says students should bring hats.",
+        "text": "Because “The report says students should bring hats.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "The sentence contains the words “students should bring hats”.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -457,19 +457,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Forceful and Gentle Language",
-    "question": "Why might an author choose “could” instead of “must” when writing about students should bring hats?",
-    "audio_prompt": "Why might an author choose “could” instead of “must” when writing about students should bring hats?",
+    "question": "Why is “To show uncertainty or make the suggestion less forceful.” the best answer here? Why might an author choose “could” instead of “must” when writing about students should bring hats?",
+    "audio_prompt": "Why is “To show uncertainty or make the suggestion less forceful.” the best answer here? Why might an author choose “could” instead of “must” when writing about students should bring hats?",
     "answers": [
       {
-        "text": "To prove the claim is always true.",
+        "text": "Because “To prove the claim is always true.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "To show uncertainty or make the suggestion less forceful.",
+        "text": "Gentler modal language can signal uncertainty or politeness.",
         "is_correct": true
       },
       {
-        "text": "To remove all meaning from the sentence.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -487,19 +487,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Forceful and Gentle Language",
-    "question": "In the statement “the film was enjoyable”, which word or phrase could make the message gentler?",
-    "audio_prompt": "In the statement “the film was enjoyable”, which word or phrase could make the message gentler?",
+    "question": "Why is “pleasant” the best answer here? In the statement “the film was enjoyable”, which word or phrase could make the message gentler?",
+    "audio_prompt": "Why is “pleasant” the best answer here? In the statement “the film was enjoyable”, which word or phrase could make the message gentler?",
     "answers": [
       {
-        "text": "outstanding",
+        "text": "Because “outstanding” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "certainly without doubt",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "pleasant",
+        "text": "Modal and evaluative language can make a message gentler or stronger.",
         "is_correct": true
       }
     ],
@@ -517,19 +517,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Forceful and Gentle Language",
-    "question": "While discussing “the film was enjoyable”, which sentence makes the need to act most forceful?",
-    "audio_prompt": "While discussing “the film was enjoyable”, which sentence makes the need to act most forceful?",
+    "question": "Why is “We must act now.” the best answer here? While discussing “the film was enjoyable”, which sentence makes the need to act most forceful?",
+    "audio_prompt": "Why is “We must act now.” the best answer here? While discussing “the film was enjoyable”, which sentence makes the need to act most forceful?",
     "answers": [
       {
-        "text": "We must act now.",
+        "text": "Must expresses a stronger obligation than might or could.",
         "is_correct": true
       },
       {
-        "text": "We might act now.",
+        "text": "Because “We might act now.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "We could act now.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -547,19 +547,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Forceful and Gentle Language",
-    "question": "Which sentence gives a cautious evaluation connected with “the film was enjoyable”?",
-    "audio_prompt": "Which sentence gives a cautious evaluation connected with “the film was enjoyable”?",
+    "question": "Why is “The evidence suggests that the film was enjoyable.” the best answer here? Which sentence gives a cautious evaluation connected with “the film was enjoyable”?",
+    "audio_prompt": "Why is “The evidence suggests that the film was enjoyable.” the best answer here? Which sentence gives a cautious evaluation connected with “the film was enjoyable”?",
     "answers": [
       {
-        "text": "The evidence proves forever that the film was enjoyable.",
+        "text": "Because “The evidence proves forever that the film was enjoyable.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "The evidence suggests that the film was enjoyable.",
+        "text": "Cautious evaluation matches a claim to limited evidence.",
         "is_correct": true
       },
       {
-        "text": "Everyone knows without checking that the film was enjoyable.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -577,19 +577,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Forceful and Gentle Language",
-    "question": "Which sentence expresses the strongest positive emotion about the film was enjoyable?",
-    "audio_prompt": "Which sentence expresses the strongest positive emotion about the film was enjoyable?",
+    "question": "Why is “I am absolutely delighted that the film was enjoyable.” the best answer here? Which sentence expresses the strongest positive emotion about the film was enjoyable?",
+    "audio_prompt": "Why is “I am absolutely delighted that the film was enjoyable.” the best answer here? Which sentence expresses the strongest positive emotion about the film was enjoyable?",
     "answers": [
       {
-        "text": "I am fairly pleased that the film was enjoyable.",
+        "text": "Because “I am fairly pleased that the film was enjoyable.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "I noticed that the film was enjoyable.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "I am absolutely delighted that the film was enjoyable.",
+        "text": "Absolutely delighted is more emotionally forceful than fairly pleased or noticed.",
         "is_correct": true
       }
     ],
@@ -607,26 +607,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Forceful and Gentle Language",
-    "question": "A writer has little evidence for the film was enjoyable. Which modal verb is most responsible?",
-    "audio_prompt": "A writer has little evidence for the film was enjoyable. Which modal verb is most responsible?",
+    "question": "A student chooses “must” for this task: In the statement “the class might visit the zoo”, which word or phrase could make the message gentler? What should they check?",
+    "audio_prompt": "A student chooses “must” for this task: In the statement “the class might visit the zoo”, which word or phrase could make the message gentler? What should they check?",
     "answers": [
       {
-        "text": "might",
+        "text": "Choose the least certain or least intense wording.",
         "is_correct": true
       },
       {
-        "text": "must",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "will",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Might signals possibility rather than certainty.",
-      "hint": "Match the strength of the word to the strength of the evidence."
+      "summary": "Choose the least certain or least intense wording. Modal and evaluative language can make a message gentler or stronger.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -637,26 +637,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Forceful and Gentle Language",
-    "question": "Which change makes “the film was enjoyable” sound more certain?",
-    "audio_prompt": "Which change makes “the film was enjoyable” sound more certain?",
+    "question": "A student chooses “We might act now.” for this task: While discussing “the class might visit the zoo”, which sentence makes the need to act most forceful? What should they check?",
+    "audio_prompt": "A student chooses “We might act now.” for this task: While discussing “the class might visit the zoo”, which sentence makes the need to act most forceful? What should they check?",
     "answers": [
       {
-        "text": "Change it to “pleasant”.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Change the modal wording to “outstanding”.",
+        "text": "Place the modal verbs on a scale from possible to necessary.",
         "is_correct": true
       },
       {
-        "text": "Remove every verb.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "More forceful modal language increases certainty or obligation.",
-      "hint": "Choose the change that strengthens the claim."
+      "summary": "Place the modal verbs on a scale from possible to necessary. Must expresses a stronger obligation than might or could.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -667,26 +667,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Forceful and Gentle Language",
-    "question": "Which judgement is an evaluation rather than a plain fact about the film was enjoyable?",
-    "audio_prompt": "Which judgement is an evaluation rather than a plain fact about the film was enjoyable?",
+    "question": "A student chooses “The evidence proves forever that the class might visit the zoo.” for this task: Which sentence gives a cautious evaluation connected with “the class might visit the zoo”? What should they check?",
+    "audio_prompt": "A student chooses “The evidence proves forever that the class might visit the zoo.” for this task: Which sentence gives a cautious evaluation connected with “the class might visit the zoo”? What should they check?",
     "answers": [
       {
-        "text": "The report says the film was enjoyable.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "The sentence contains the words “the film was enjoyable”.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "It is an impressive result that the film was enjoyable.",
+        "text": "Look for wording that leaves room for uncertainty.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "An evaluation judges quality or value.",
-      "hint": "Find the sentence that includes a judgement."
+      "summary": "Look for wording that leaves room for uncertainty. Cautious evaluation matches a claim to limited evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -697,26 +697,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Forceful and Gentle Language",
-    "question": "Why might an author choose “pleasant” instead of “outstanding” when writing about the film was enjoyable?",
-    "audio_prompt": "Why might an author choose “pleasant” instead of “outstanding” when writing about the film was enjoyable?",
+    "question": "A student chooses “I am fairly pleased that the class might visit the zoo.” for this task: Which sentence expresses the strongest positive emotion about the class might visit the zoo? What should they check?",
+    "audio_prompt": "A student chooses “I am fairly pleased that the class might visit the zoo.” for this task: Which sentence expresses the strongest positive emotion about the class might visit the zoo? What should they check?",
     "answers": [
       {
-        "text": "To show uncertainty or make the suggestion less forceful.",
+        "text": "Compare the strength of the feeling words.",
         "is_correct": true
       },
       {
-        "text": "To prove the claim is always true.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "To remove all meaning from the sentence.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Gentler modal language can signal uncertainty or politeness.",
-      "hint": "Think about how certain the author sounds."
+      "summary": "Compare the strength of the feeling words. Absolutely delighted is more emotionally forceful than fairly pleased or noticed.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -727,26 +727,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Forceful and Gentle Language",
-    "question": "In the statement “the council may build a crossing”, which word or phrase could make the message gentler?",
-    "audio_prompt": "In the statement “the council may build a crossing”, which word or phrase could make the message gentler?",
+    "question": "A student chooses “must” for this task: A writer has little evidence for the class might visit the zoo. Which modal verb is most responsible? What should they check?",
+    "audio_prompt": "A student chooses “must” for this task: A writer has little evidence for the class might visit the zoo. Which modal verb is most responsible? What should they check?",
     "answers": [
       {
-        "text": "will definitely",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "may",
+        "text": "Match the strength of the word to the strength of the evidence.",
         "is_correct": true
       },
       {
-        "text": "certainly without doubt",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Modal and evaluative language can make a message gentler or stronger.",
-      "hint": "Choose the least certain or least intense wording."
+      "summary": "Match the strength of the word to the strength of the evidence. Might signals possibility rather than certainty.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -757,26 +757,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Forceful and Gentle Language",
-    "question": "While discussing “the council may build a crossing”, which sentence makes the need to act most forceful?",
-    "audio_prompt": "While discussing “the council may build a crossing”, which sentence makes the need to act most forceful?",
+    "question": "A student chooses “Change it to “might”.” for this task: Which change makes “the class might visit the zoo” sound more certain? What should they check?",
+    "audio_prompt": "A student chooses “Change it to “might”.” for this task: Which change makes “the class might visit the zoo” sound more certain? What should they check?",
     "answers": [
       {
-        "text": "We might act now.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "We could act now.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "We must act now.",
+        "text": "Choose the change that strengthens the claim.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Must expresses a stronger obligation than might or could.",
-      "hint": "Place the modal verbs on a scale from possible to necessary."
+      "summary": "Choose the change that strengthens the claim. More forceful modal language increases certainty or obligation.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -787,26 +787,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Forceful and Gentle Language",
-    "question": "Which sentence gives a cautious evaluation connected with “the council may build a crossing”?",
-    "audio_prompt": "Which sentence gives a cautious evaluation connected with “the council may build a crossing”?",
+    "question": "A student chooses “The report says the class might visit the zoo.” for this task: Which judgement is an evaluation rather than a plain fact about the class might visit the zoo? What should they check?",
+    "audio_prompt": "A student chooses “The report says the class might visit the zoo.” for this task: Which judgement is an evaluation rather than a plain fact about the class might visit the zoo? What should they check?",
     "answers": [
       {
-        "text": "The evidence suggests that the council may build a crossing.",
+        "text": "Find the sentence that includes a judgement.",
         "is_correct": true
       },
       {
-        "text": "The evidence proves forever that the council may build a crossing.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Everyone knows without checking that the council may build a crossing.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Cautious evaluation matches a claim to limited evidence.",
-      "hint": "Look for wording that leaves room for uncertainty."
+      "summary": "Find the sentence that includes a judgement. An evaluation judges quality or value.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -817,26 +817,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Forceful and Gentle Language",
-    "question": "Which sentence expresses the strongest positive emotion about the council may build a crossing?",
-    "audio_prompt": "Which sentence expresses the strongest positive emotion about the council may build a crossing?",
+    "question": "A student chooses “To prove the claim is always true.” for this task: Why might an author choose “might” instead of “must” when writing about the class might visit the zoo? What should they check?",
+    "audio_prompt": "A student chooses “To prove the claim is always true.” for this task: Why might an author choose “might” instead of “must” when writing about the class might visit the zoo? What should they check?",
     "answers": [
       {
-        "text": "I am fairly pleased that the council may build a crossing.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "I am absolutely delighted that the council may build a crossing.",
+        "text": "Think about how certain the author sounds.",
         "is_correct": true
       },
       {
-        "text": "I noticed that the council may build a crossing.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Absolutely delighted is more emotionally forceful than fairly pleased or noticed.",
-      "hint": "Compare the strength of the feeling words."
+      "summary": "Think about how certain the author sounds. Gentler modal language can signal uncertainty or politeness.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -847,26 +847,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Forceful and Gentle Language",
-    "question": "A writer has little evidence for the council may build a crossing. Which modal verb is most responsible?",
-    "audio_prompt": "A writer has little evidence for the council may build a crossing. Which modal verb is most responsible?",
+    "question": "A student chooses “must” for this task: In the statement “students should bring hats”, which word or phrase could make the message gentler? What should they check?",
+    "audio_prompt": "A student chooses “must” for this task: In the statement “students should bring hats”, which word or phrase could make the message gentler? What should they check?",
     "answers": [
       {
-        "text": "must",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "will",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "might",
+        "text": "Choose the least certain or least intense wording.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Might signals possibility rather than certainty.",
-      "hint": "Match the strength of the word to the strength of the evidence."
+      "summary": "Choose the least certain or least intense wording. Modal and evaluative language can make a message gentler or stronger.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -877,26 +877,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Forceful and Gentle Language",
-    "question": "Which change makes “the council may build a crossing” sound more certain?",
-    "audio_prompt": "Which change makes “the council may build a crossing” sound more certain?",
+    "question": "A student chooses “We might act now.” for this task: While discussing “students should bring hats”, which sentence makes the need to act most forceful? What should they check?",
+    "audio_prompt": "A student chooses “We might act now.” for this task: While discussing “students should bring hats”, which sentence makes the need to act most forceful? What should they check?",
     "answers": [
       {
-        "text": "Change the modal wording to “will definitely”.",
+        "text": "Place the modal verbs on a scale from possible to necessary.",
         "is_correct": true
       },
       {
-        "text": "Change it to “may”.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Remove every verb.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "More forceful modal language increases certainty or obligation.",
-      "hint": "Choose the change that strengthens the claim."
+      "summary": "Place the modal verbs on a scale from possible to necessary. Must expresses a stronger obligation than might or could.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -907,19 +907,19 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Forceful and Gentle Language",
-    "question": "Which judgement is an evaluation rather than a plain fact about the council may build a crossing?",
-    "audio_prompt": "Which judgement is an evaluation rather than a plain fact about the council may build a crossing?",
+    "question": "Which judgement is an evaluation rather than a plain fact about students should bring hats?",
+    "audio_prompt": "Which judgement is an evaluation rather than a plain fact about students should bring hats?",
     "answers": [
       {
-        "text": "The report says the council may build a crossing.",
+        "text": "The report says students should bring hats.",
         "is_correct": false
       },
       {
-        "text": "It is an impressive result that the council may build a crossing.",
+        "text": "It is an impressive result that students should bring hats.",
         "is_correct": true
       },
       {
-        "text": "The sentence contains the words “the council may build a crossing”.",
+        "text": "The sentence contains the words “students should bring hats”.",
         "is_correct": false
       }
     ],
@@ -937,8 +937,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Forceful and Gentle Language",
-    "question": "Why might an author choose “may” instead of “will definitely” when writing about the council may build a crossing?",
-    "audio_prompt": "Why might an author choose “may” instead of “will definitely” when writing about the council may build a crossing?",
+    "question": "Why might an author choose “could” instead of “must” when writing about students should bring hats?",
+    "audio_prompt": "Why might an author choose “could” instead of “must” when writing about students should bring hats?",
     "answers": [
       {
         "text": "To prove the claim is always true.",
@@ -967,15 +967,15 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Forceful and Gentle Language",
-    "question": "In the statement “the performance was disappointing”, which word or phrase could make the message gentler?",
-    "audio_prompt": "In the statement “the performance was disappointing”, which word or phrase could make the message gentler?",
+    "question": "In the statement “the film was enjoyable”, which word or phrase could make the message gentler?",
+    "audio_prompt": "In the statement “the film was enjoyable”, which word or phrase could make the message gentler?",
     "answers": [
       {
-        "text": "uneven",
+        "text": "pleasant",
         "is_correct": true
       },
       {
-        "text": "terrible",
+        "text": "outstanding",
         "is_correct": false
       },
       {
@@ -997,8 +997,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Forceful and Gentle Language",
-    "question": "While discussing “the performance was disappointing”, which sentence makes the need to act most forceful?",
-    "audio_prompt": "While discussing “the performance was disappointing”, which sentence makes the need to act most forceful?",
+    "question": "While discussing “the film was enjoyable”, which sentence makes the need to act most forceful?",
+    "audio_prompt": "While discussing “the film was enjoyable”, which sentence makes the need to act most forceful?",
     "answers": [
       {
         "text": "We might act now.",
@@ -1027,19 +1027,19 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Forceful and Gentle Language",
-    "question": "Which sentence gives a cautious evaluation connected with “the performance was disappointing”?",
-    "audio_prompt": "Which sentence gives a cautious evaluation connected with “the performance was disappointing”?",
+    "question": "Which sentence gives a cautious evaluation connected with “the film was enjoyable”?",
+    "audio_prompt": "Which sentence gives a cautious evaluation connected with “the film was enjoyable”?",
     "answers": [
       {
-        "text": "The evidence proves forever that the performance was disappointing.",
+        "text": "The evidence proves forever that the film was enjoyable.",
         "is_correct": false
       },
       {
-        "text": "Everyone knows without checking that the performance was disappointing.",
+        "text": "Everyone knows without checking that the film was enjoyable.",
         "is_correct": false
       },
       {
-        "text": "The evidence suggests that the performance was disappointing.",
+        "text": "The evidence suggests that the film was enjoyable.",
         "is_correct": true
       }
     ],
@@ -1057,19 +1057,19 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Forceful and Gentle Language",
-    "question": "Which sentence expresses the strongest positive emotion about the performance was disappointing?",
-    "audio_prompt": "Which sentence expresses the strongest positive emotion about the performance was disappointing?",
+    "question": "Which sentence expresses the strongest positive emotion about the film was enjoyable?",
+    "audio_prompt": "Which sentence expresses the strongest positive emotion about the film was enjoyable?",
     "answers": [
       {
-        "text": "I am absolutely delighted that the performance was disappointing.",
+        "text": "I am absolutely delighted that the film was enjoyable.",
         "is_correct": true
       },
       {
-        "text": "I am fairly pleased that the performance was disappointing.",
+        "text": "I am fairly pleased that the film was enjoyable.",
         "is_correct": false
       },
       {
-        "text": "I noticed that the performance was disappointing.",
+        "text": "I noticed that the film was enjoyable.",
         "is_correct": false
       }
     ],
@@ -1087,8 +1087,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Forceful and Gentle Language",
-    "question": "A writer has little evidence for the performance was disappointing. Which modal verb is most responsible?",
-    "audio_prompt": "A writer has little evidence for the performance was disappointing. Which modal verb is most responsible?",
+    "question": "A writer has little evidence for the film was enjoyable. Which modal verb is most responsible?",
+    "audio_prompt": "A writer has little evidence for the film was enjoyable. Which modal verb is most responsible?",
     "answers": [
       {
         "text": "must",
@@ -1117,11 +1117,11 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Forceful and Gentle Language",
-    "question": "Which change makes “the performance was disappointing” sound more certain?",
-    "audio_prompt": "Which change makes “the performance was disappointing” sound more certain?",
+    "question": "Which change makes “the film was enjoyable” sound more certain?",
+    "audio_prompt": "Which change makes “the film was enjoyable” sound more certain?",
     "answers": [
       {
-        "text": "Change it to “uneven”.",
+        "text": "Change it to “pleasant”.",
         "is_correct": false
       },
       {
@@ -1129,7 +1129,7 @@
         "is_correct": false
       },
       {
-        "text": "Change the modal wording to “terrible”.",
+        "text": "Change the modal wording to “outstanding”.",
         "is_correct": true
       }
     ],
@@ -1147,19 +1147,19 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Forceful and Gentle Language",
-    "question": "Which judgement is an evaluation rather than a plain fact about the performance was disappointing?",
-    "audio_prompt": "Which judgement is an evaluation rather than a plain fact about the performance was disappointing?",
+    "question": "Which judgement is an evaluation rather than a plain fact about the film was enjoyable?",
+    "audio_prompt": "Which judgement is an evaluation rather than a plain fact about the film was enjoyable?",
     "answers": [
       {
-        "text": "It is an impressive result that the performance was disappointing.",
+        "text": "It is an impressive result that the film was enjoyable.",
         "is_correct": true
       },
       {
-        "text": "The report says the performance was disappointing.",
+        "text": "The report says the film was enjoyable.",
         "is_correct": false
       },
       {
-        "text": "The sentence contains the words “the performance was disappointing”.",
+        "text": "The sentence contains the words “the film was enjoyable”.",
         "is_correct": false
       }
     ],
@@ -1177,8 +1177,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Forceful and Gentle Language",
-    "question": "Why might an author choose “uneven” instead of “terrible” when writing about the performance was disappointing?",
-    "audio_prompt": "Why might an author choose “uneven” instead of “terrible” when writing about the performance was disappointing?",
+    "question": "Why might an author choose “pleasant” instead of “outstanding” when writing about the film was enjoyable?",
+    "audio_prompt": "Why might an author choose “pleasant” instead of “outstanding” when writing about the film was enjoyable?",
     "answers": [
       {
         "text": "To prove the claim is always true.",
@@ -1205,8 +1205,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA02",
     "bank": "test",
+    "stage": "verify",
     "skill": "Forceful and Gentle Language",
-    "question": "New check: In the statement “the council may build a crossing”, which word or phrase could make the message gentler?",
+    "question": "In the statement “the council may build a crossing”, which word or phrase could make the message gentler?",
     "audio_prompt": "In the statement “the council may build a crossing”, which word or phrase could make the message gentler?",
     "answers": [
       {
@@ -1234,8 +1235,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA02",
     "bank": "test",
+    "stage": "verify",
     "skill": "Forceful and Gentle Language",
-    "question": "New check: While discussing “the council may build a crossing”, which sentence makes the need to act most forceful?",
+    "question": "While discussing “the council may build a crossing”, which sentence makes the need to act most forceful?",
     "audio_prompt": "While discussing “the council may build a crossing”, which sentence makes the need to act most forceful?",
     "answers": [
       {
@@ -1263,8 +1265,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA02",
     "bank": "test",
+    "stage": "verify",
     "skill": "Forceful and Gentle Language",
-    "question": "New check: Which sentence gives a cautious evaluation connected with “the council may build a crossing”?",
+    "question": "Which sentence gives a cautious evaluation connected with “the council may build a crossing”?",
     "audio_prompt": "Which sentence gives a cautious evaluation connected with “the council may build a crossing”?",
     "answers": [
       {
@@ -1292,8 +1295,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA02",
     "bank": "test",
+    "stage": "verify",
     "skill": "Forceful and Gentle Language",
-    "question": "New check: Which sentence expresses the strongest positive emotion about the council may build a crossing?",
+    "question": "Which sentence expresses the strongest positive emotion about the council may build a crossing?",
     "audio_prompt": "Which sentence expresses the strongest positive emotion about the council may build a crossing?",
     "answers": [
       {
@@ -1321,8 +1325,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA02",
     "bank": "test",
+    "stage": "verify",
     "skill": "Forceful and Gentle Language",
-    "question": "New check: A writer has little evidence for the council may build a crossing. Which modal verb is most responsible?",
+    "question": "A writer has little evidence for the council may build a crossing. Which modal verb is most responsible?",
     "audio_prompt": "A writer has little evidence for the council may build a crossing. Which modal verb is most responsible?",
     "answers": [
       {
@@ -1350,8 +1355,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA02",
     "bank": "test",
+    "stage": "verify",
     "skill": "Forceful and Gentle Language",
-    "question": "New check: Which change makes “the council may build a crossing” sound more certain?",
+    "question": "Which change makes “the council may build a crossing” sound more certain?",
     "audio_prompt": "Which change makes “the council may build a crossing” sound more certain?",
     "answers": [
       {
@@ -1379,8 +1385,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA02",
     "bank": "test",
+    "stage": "verify",
     "skill": "Forceful and Gentle Language",
-    "question": "New check: Which judgement is an evaluation rather than a plain fact about the council may build a crossing?",
+    "question": "Which judgement is an evaluation rather than a plain fact about the council may build a crossing?",
     "audio_prompt": "Which judgement is an evaluation rather than a plain fact about the council may build a crossing?",
     "answers": [
       {
@@ -1408,8 +1415,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA02",
     "bank": "test",
+    "stage": "verify",
     "skill": "Forceful and Gentle Language",
-    "question": "New check: Why might an author choose “may” instead of “will definitely” when writing about the council may build a crossing?",
+    "question": "Why might an author choose “may” instead of “will definitely” when writing about the council may build a crossing?",
     "audio_prompt": "Why might an author choose “may” instead of “will definitely” when writing about the council may build a crossing?",
     "answers": [
       {
@@ -1437,8 +1445,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA02",
     "bank": "test",
+    "stage": "apply",
     "skill": "Forceful and Gentle Language",
-    "question": "New check: In the statement “the performance was disappointing”, which word or phrase could make the message gentler?",
+    "question": "In the statement “the performance was disappointing”, which word or phrase could make the message gentler?",
     "audio_prompt": "In the statement “the performance was disappointing”, which word or phrase could make the message gentler?",
     "answers": [
       {
@@ -1466,8 +1475,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA02",
     "bank": "test",
+    "stage": "apply",
     "skill": "Forceful and Gentle Language",
-    "question": "New check: While discussing “the performance was disappointing”, which sentence makes the need to act most forceful?",
+    "question": "While discussing “the performance was disappointing”, which sentence makes the need to act most forceful?",
     "audio_prompt": "While discussing “the performance was disappointing”, which sentence makes the need to act most forceful?",
     "answers": [
       {
@@ -1495,8 +1505,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA02",
     "bank": "test",
+    "stage": "apply",
     "skill": "Forceful and Gentle Language",
-    "question": "New check: Which sentence gives a cautious evaluation connected with “the performance was disappointing”?",
+    "question": "Which sentence gives a cautious evaluation connected with “the performance was disappointing”?",
     "audio_prompt": "Which sentence gives a cautious evaluation connected with “the performance was disappointing”?",
     "answers": [
       {
@@ -1524,8 +1535,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA02",
     "bank": "test",
+    "stage": "apply",
     "skill": "Forceful and Gentle Language",
-    "question": "New check: Which sentence expresses the strongest positive emotion about the performance was disappointing?",
+    "question": "Which sentence expresses the strongest positive emotion about the performance was disappointing?",
     "audio_prompt": "Which sentence expresses the strongest positive emotion about the performance was disappointing?",
     "answers": [
       {
@@ -1553,8 +1565,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA02",
     "bank": "test",
+    "stage": "apply",
     "skill": "Forceful and Gentle Language",
-    "question": "New check: A writer has little evidence for the performance was disappointing. Which modal verb is most responsible?",
+    "question": "A writer has little evidence for the performance was disappointing. Which modal verb is most responsible?",
     "audio_prompt": "A writer has little evidence for the performance was disappointing. Which modal verb is most responsible?",
     "answers": [
       {
@@ -1582,8 +1595,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA02",
     "bank": "test",
+    "stage": "apply",
     "skill": "Forceful and Gentle Language",
-    "question": "New check: Which change makes “the performance was disappointing” sound more certain?",
+    "question": "Which change makes “the performance was disappointing” sound more certain?",
     "audio_prompt": "Which change makes “the performance was disappointing” sound more certain?",
     "answers": [
       {
@@ -1611,8 +1625,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA02",
     "bank": "test",
+    "stage": "apply",
     "skill": "Forceful and Gentle Language",
-    "question": "New check: Which judgement is an evaluation rather than a plain fact about the performance was disappointing?",
+    "question": "Which judgement is an evaluation rather than a plain fact about the performance was disappointing?",
     "audio_prompt": "Which judgement is an evaluation rather than a plain fact about the performance was disappointing?",
     "answers": [
       {
@@ -1640,8 +1655,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA02",
     "bank": "test",
+    "stage": "apply",
     "skill": "Forceful and Gentle Language",
-    "question": "New check: Why might an author choose “uneven” instead of “terrible” when writing about the performance was disappointing?",
+    "question": "Why might an author choose “uneven” instead of “terrible” when writing about the performance was disappointing?",
     "audio_prompt": "Why might an author choose “uneven” instead of “terrible” when writing about the performance was disappointing?",
     "answers": [
       {

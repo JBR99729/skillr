@@ -307,19 +307,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Verb Processes",
-    "question": "Which verb shows The explorer speaking?",
-    "audio_prompt": "Which verb shows The explorer speaking?",
+    "question": "Why is “announced” the best answer here? Which verb shows The explorer speaking?",
+    "audio_prompt": "Why is “announced” the best answer here? Which verb shows The explorer speaking?",
     "answers": [
       {
-        "text": "remembered",
+        "text": "Because “remembered” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "announced",
+        "text": "Saying verbs represent speech.",
         "is_correct": true
       },
       {
-        "text": "was",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -337,19 +337,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Verb Processes",
-    "question": "Which verb can relate The explorer to a quality or identity?",
-    "audio_prompt": "Which verb can relate The explorer to a quality or identity?",
+    "question": "Why is “was” the best answer here? Which verb can relate The explorer to a quality or identity?",
+    "audio_prompt": "Why is “was” the best answer here? Which verb can relate The explorer to a quality or identity?",
     "answers": [
       {
-        "text": "climbed",
+        "text": "Because “climbed” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "announced",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "was",
+        "text": "Relating verbs connect a participant with a quality or identity.",
         "is_correct": true
       }
     ],
@@ -367,19 +367,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Verb Processes",
-    "question": "Which sentence uses a precise saying verb for quiet speech by The explorer?",
-    "audio_prompt": "Which sentence uses a precise saying verb for quiet speech by The explorer?",
+    "question": "Why is “The explorer announced the answer softly.” the best answer here? Which sentence uses a precise saying verb for quiet speech by The explorer?",
+    "audio_prompt": "Why is “The explorer announced the answer softly.” the best answer here? Which sentence uses a precise saying verb for quiet speech by The explorer?",
     "answers": [
       {
-        "text": "The explorer announced the answer softly.",
+        "text": "A precise saying verb can show how speech sounds.",
         "is_correct": true
       },
       {
-        "text": "The explorer climbed the answer softly.",
+        "text": "Because “The explorer climbed the answer softly.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "The explorer was the answer softly.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -397,19 +397,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Verb Processes",
-    "question": "A writer wants readers to know what The explorer thinks. Which choice works best?",
-    "audio_prompt": "A writer wants readers to know what The explorer thinks. Which choice works best?",
+    "question": "Why is “The explorer remembered the earlier clue.” the best answer here? A writer wants readers to know what The explorer thinks. Which choice works best?",
+    "audio_prompt": "Why is “The explorer remembered the earlier clue.” the best answer here? A writer wants readers to know what The explorer thinks. Which choice works best?",
     "answers": [
       {
-        "text": "The explorer climbed across the room.",
+        "text": "Because “The explorer climbed across the room.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "The explorer remembered the earlier clue.",
+        "text": "An inner-process verb reveals thought or feeling.",
         "is_correct": true
       },
       {
-        "text": "The explorer announced loudly.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -427,19 +427,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Verb Processes",
-    "question": "Why might a writer replace “said” with “announced”?",
-    "audio_prompt": "Why might a writer replace “said” with “announced”?",
+    "question": "Why is “To show the manner or mood of the speech more precisely.” the best answer here? Why might a writer replace “said” with “announced”?",
+    "audio_prompt": "Why is “To show the manner or mood of the speech more precisely.” the best answer here? Why might a writer replace “said” with “announced”?",
     "answers": [
       {
-        "text": "To remove the speaker from the sentence.",
+        "text": "Because “To remove the speaker from the sentence.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "To turn the speech into a place name.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "To show the manner or mood of the speech more precisely.",
+        "text": "Specific saying verbs add information about delivery.",
         "is_correct": true
       }
     ],
@@ -457,19 +457,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Verb Processes",
-    "question": "Which explanation correctly compares “climbed” and “remembered”?",
-    "audio_prompt": "Which explanation correctly compares “climbed” and “remembered”?",
+    "question": "Why is ““climbed” represents doing, while “remembered” represents thinking or feeling.” the best answer here? Which explanation correctly compares “climbed” and “remembered”?",
+    "audio_prompt": "Why is ““climbed” represents doing, while “remembered” represents thinking or feeling.” the best answer here? Which explanation correctly compares “climbed” and “remembered”?",
     "answers": [
       {
-        "text": "“climbed” represents doing, while “remembered” represents thinking or feeling.",
+        "text": "Verbs can represent different kinds of processes.",
         "is_correct": true
       },
       {
-        "text": "Both words represent speech only.",
+        "text": "Because “Both words represent speech only.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "“remembered” names a place, while “climbed” names a thing.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -487,19 +487,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Verb Processes",
-    "question": "Which verb shows Our puppy doing a physical action?",
-    "audio_prompt": "Which verb shows Our puppy doing a physical action?",
+    "question": "Why is “bounded” the best answer here? Which verb shows Our puppy doing a physical action?",
+    "audio_prompt": "Why is “bounded” the best answer here? Which verb shows Our puppy doing a physical action?",
     "answers": [
       {
-        "text": "loved",
+        "text": "Because “loved” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "bounded",
+        "text": "Doing verbs represent actions.",
         "is_correct": true
       },
       {
-        "text": "grew",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -517,19 +517,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Verb Processes",
-    "question": "Which verb shows a thought or feeling belonging to Our puppy?",
-    "audio_prompt": "Which verb shows a thought or feeling belonging to Our puppy?",
+    "question": "Why is “loved” the best answer here? Which verb shows a thought or feeling belonging to Our puppy?",
+    "audio_prompt": "Why is “loved” the best answer here? Which verb shows a thought or feeling belonging to Our puppy?",
     "answers": [
       {
-        "text": "bounded",
+        "text": "Because “bounded” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "barked",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "loved",
+        "text": "Thinking and feeling verbs represent inner processes.",
         "is_correct": true
       }
     ],
@@ -547,19 +547,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Verb Processes",
-    "question": "Which verb shows Our puppy speaking?",
-    "audio_prompt": "Which verb shows Our puppy speaking?",
+    "question": "Why is “barked” the best answer here? Which verb shows Our puppy speaking?",
+    "audio_prompt": "Why is “barked” the best answer here? Which verb shows Our puppy speaking?",
     "answers": [
       {
-        "text": "barked",
+        "text": "Saying verbs represent speech.",
         "is_correct": true
       },
       {
-        "text": "loved",
+        "text": "Because “loved” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "grew",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -577,19 +577,19 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "Verb Processes",
-    "question": "Which verb can relate Our puppy to a quality or identity?",
-    "audio_prompt": "Which verb can relate Our puppy to a quality or identity?",
+    "question": "Why is “grew” the best answer here? Which verb can relate Our puppy to a quality or identity?",
+    "audio_prompt": "Why is “grew” the best answer here? Which verb can relate Our puppy to a quality or identity?",
     "answers": [
       {
-        "text": "bounded",
+        "text": "Because “bounded” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "grew",
+        "text": "Relating verbs connect a participant with a quality or identity.",
         "is_correct": true
       },
       {
-        "text": "barked",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -607,26 +607,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Verb Processes",
-    "question": "Which sentence uses a precise saying verb for quiet speech by Our puppy?",
-    "audio_prompt": "Which sentence uses a precise saying verb for quiet speech by Our puppy?",
+    "question": "A student chooses “wondered” for this task: Which verb shows Mina doing a physical action? What should they check?",
+    "audio_prompt": "A student chooses “wondered” for this task: Which verb shows Mina doing a physical action? What should they check?",
     "answers": [
       {
-        "text": "Our puppy bounded the answer softly.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Our puppy grew the answer softly.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "Our puppy barked the answer softly.",
+        "text": "Choose the verb that could be observed as an action.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A precise saying verb can show how speech sounds.",
-      "hint": "Match the verb to quiet speech."
+      "summary": "Choose the verb that could be observed as an action. Doing verbs represent actions.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -637,26 +637,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Verb Processes",
-    "question": "A writer wants readers to know what Our puppy thinks. Which choice works best?",
-    "audio_prompt": "A writer wants readers to know what Our puppy thinks. Which choice works best?",
+    "question": "A student chooses “leapt” for this task: Which verb shows a thought or feeling belonging to Mina? What should they check?",
+    "audio_prompt": "A student chooses “leapt” for this task: Which verb shows a thought or feeling belonging to Mina? What should they check?",
     "answers": [
       {
-        "text": "Our puppy loved the earlier clue.",
+        "text": "Choose what happens inside the character's mind or emotions.",
         "is_correct": true
       },
       {
-        "text": "Our puppy bounded across the room.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Our puppy barked loudly.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "An inner-process verb reveals thought or feeling.",
-      "hint": "Look for a process that is not simply seen or heard."
+      "summary": "Choose what happens inside the character's mind or emotions. Thinking and feeling verbs represent inner processes.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -667,26 +667,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Verb Processes",
-    "question": "Why might a writer replace “said” with “barked”?",
-    "audio_prompt": "Why might a writer replace “said” with “barked”?",
+    "question": "A student chooses “wondered” for this task: Which verb shows Mina speaking? What should they check?",
+    "audio_prompt": "A student chooses “wondered” for this task: Which verb shows Mina speaking? What should they check?",
     "answers": [
       {
-        "text": "To remove the speaker from the sentence.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "To show the manner or mood of the speech more precisely.",
+        "text": "Choose the word that could introduce spoken words.",
         "is_correct": true
       },
       {
-        "text": "To turn the speech into a place name.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Specific saying verbs add information about delivery.",
-      "hint": "Consider what the new verb tells the reader."
+      "summary": "Choose the word that could introduce spoken words. Saying verbs represent speech.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -697,26 +697,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Verb Processes",
-    "question": "Which explanation correctly compares “bounded” and “loved”?",
-    "audio_prompt": "Which explanation correctly compares “bounded” and “loved”?",
+    "question": "A student chooses “leapt” for this task: Which verb can relate Mina to a quality or identity? What should they check?",
+    "audio_prompt": "A student chooses “leapt” for this task: Which verb can relate Mina to a quality or identity? What should they check?",
     "answers": [
       {
-        "text": "Both words represent speech only.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "“loved” names a place, while “bounded” names a thing.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "“bounded” represents doing, while “loved” represents thinking or feeling.",
+        "text": "Try placing a describing word after each verb.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Verbs can represent different kinds of processes.",
-      "hint": "Classify each verb by the experience it expresses."
+      "summary": "Try placing a describing word after each verb. Relating verbs connect a participant with a quality or identity.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -727,26 +727,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Verb Processes",
-    "question": "Which verb shows The actor doing a physical action?",
-    "audio_prompt": "Which verb shows The actor doing a physical action?",
+    "question": "A student chooses “Mina leapt the answer softly.” for this task: Which sentence uses a precise saying verb for quiet speech by Mina? What should they check?",
+    "audio_prompt": "A student chooses “Mina leapt the answer softly.” for this task: Which sentence uses a precise saying verb for quiet speech by Mina? What should they check?",
     "answers": [
       {
-        "text": "bowed",
+        "text": "Match the verb to quiet speech.",
         "is_correct": true
       },
       {
-        "text": "hoped",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "seemed",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Doing verbs represent actions.",
-      "hint": "Choose the verb that could be observed as an action."
+      "summary": "Match the verb to quiet speech. A precise saying verb can show how speech sounds.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -757,26 +757,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Verb Processes",
-    "question": "Which verb shows a thought or feeling belonging to The actor?",
-    "audio_prompt": "Which verb shows a thought or feeling belonging to The actor?",
+    "question": "A student chooses “Mina leapt across the room.” for this task: A writer wants readers to know what Mina thinks. Which choice works best? What should they check?",
+    "audio_prompt": "A student chooses “Mina leapt across the room.” for this task: A writer wants readers to know what Mina thinks. Which choice works best? What should they check?",
     "answers": [
       {
-        "text": "bowed",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "hoped",
+        "text": "Look for a process that is not simply seen or heard.",
         "is_correct": true
       },
       {
-        "text": "murmured",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Thinking and feeling verbs represent inner processes.",
-      "hint": "Choose what happens inside the character's mind or emotions."
+      "summary": "Look for a process that is not simply seen or heard. An inner-process verb reveals thought or feeling.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -787,26 +787,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Verb Processes",
-    "question": "Which verb shows The actor speaking?",
-    "audio_prompt": "Which verb shows The actor speaking?",
+    "question": "A student chooses “To remove the speaker from the sentence.” for this task: Why might a writer replace “said” with “whispered”? What should they check?",
+    "audio_prompt": "A student chooses “To remove the speaker from the sentence.” for this task: Why might a writer replace “said” with “whispered”? What should they check?",
     "answers": [
       {
-        "text": "hoped",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "seemed",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "murmured",
+        "text": "Consider what the new verb tells the reader.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Saying verbs represent speech.",
-      "hint": "Choose the word that could introduce spoken words."
+      "summary": "Consider what the new verb tells the reader. Specific saying verbs add information about delivery.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -817,26 +817,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Verb Processes",
-    "question": "Which verb can relate The actor to a quality or identity?",
-    "audio_prompt": "Which verb can relate The actor to a quality or identity?",
+    "question": "A student chooses “Both words represent speech only.” for this task: Which explanation correctly compares “leapt” and “wondered”? What should they check?",
+    "audio_prompt": "A student chooses “Both words represent speech only.” for this task: Which explanation correctly compares “leapt” and “wondered”? What should they check?",
     "answers": [
       {
-        "text": "seemed",
+        "text": "Classify each verb by the experience it expresses.",
         "is_correct": true
       },
       {
-        "text": "bowed",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "murmured",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Relating verbs connect a participant with a quality or identity.",
-      "hint": "Try placing a describing word after each verb."
+      "summary": "Classify each verb by the experience it expresses. Verbs can represent different kinds of processes.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -847,26 +847,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Verb Processes",
-    "question": "Which sentence uses a precise saying verb for quiet speech by The actor?",
-    "audio_prompt": "Which sentence uses a precise saying verb for quiet speech by The actor?",
+    "question": "A student chooses “remembered” for this task: Which verb shows The explorer doing a physical action? What should they check?",
+    "audio_prompt": "A student chooses “remembered” for this task: Which verb shows The explorer doing a physical action? What should they check?",
     "answers": [
       {
-        "text": "The actor bowed the answer softly.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "The actor murmured the answer softly.",
+        "text": "Choose the verb that could be observed as an action.",
         "is_correct": true
       },
       {
-        "text": "The actor seemed the answer softly.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A precise saying verb can show how speech sounds.",
-      "hint": "Match the verb to quiet speech."
+      "summary": "Choose the verb that could be observed as an action. Doing verbs represent actions.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -877,26 +877,26 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "Verb Processes",
-    "question": "A writer wants readers to know what The actor thinks. Which choice works best?",
-    "audio_prompt": "A writer wants readers to know what The actor thinks. Which choice works best?",
+    "question": "A student chooses “climbed” for this task: Which verb shows a thought or feeling belonging to The explorer? What should they check?",
+    "audio_prompt": "A student chooses “climbed” for this task: Which verb shows a thought or feeling belonging to The explorer? What should they check?",
     "answers": [
       {
-        "text": "The actor bowed across the room.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "The actor murmured loudly.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "The actor hoped the earlier clue.",
+        "text": "Choose what happens inside the character's mind or emotions.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "An inner-process verb reveals thought or feeling.",
-      "hint": "Look for a process that is not simply seen or heard."
+      "summary": "Choose what happens inside the character's mind or emotions. Thinking and feeling verbs represent inner processes.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     }
   },
   {
@@ -907,8 +907,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Verb Processes",
-    "question": "Why might a writer replace “said” with “murmured”?",
-    "audio_prompt": "Why might a writer replace “said” with “murmured”?",
+    "question": "Why might a writer replace “said” with “announced”?",
+    "audio_prompt": "Why might a writer replace “said” with “announced”?",
     "answers": [
       {
         "text": "To show the manner or mood of the speech more precisely.",
@@ -937,19 +937,19 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Verb Processes",
-    "question": "Which explanation correctly compares “bowed” and “hoped”?",
-    "audio_prompt": "Which explanation correctly compares “bowed” and “hoped”?",
+    "question": "Which explanation correctly compares “climbed” and “remembered”?",
+    "audio_prompt": "Which explanation correctly compares “climbed” and “remembered”?",
     "answers": [
       {
         "text": "Both words represent speech only.",
         "is_correct": false
       },
       {
-        "text": "“bowed” represents doing, while “hoped” represents thinking or feeling.",
+        "text": "“climbed” represents doing, while “remembered” represents thinking or feeling.",
         "is_correct": true
       },
       {
-        "text": "“hoped” names a place, while “bowed” names a thing.",
+        "text": "“remembered” names a place, while “climbed” names a thing.",
         "is_correct": false
       }
     ],
@@ -967,19 +967,19 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Verb Processes",
-    "question": "Which verb shows Kai doing a physical action?",
-    "audio_prompt": "Which verb shows Kai doing a physical action?",
+    "question": "Which verb shows Our puppy doing a physical action?",
+    "audio_prompt": "Which verb shows Our puppy doing a physical action?",
     "answers": [
       {
-        "text": "believed",
+        "text": "loved",
         "is_correct": false
       },
       {
-        "text": "remained",
+        "text": "grew",
         "is_correct": false
       },
       {
-        "text": "stirred",
+        "text": "bounded",
         "is_correct": true
       }
     ],
@@ -997,19 +997,19 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Verb Processes",
-    "question": "Which verb shows a thought or feeling belonging to Kai?",
-    "audio_prompt": "Which verb shows a thought or feeling belonging to Kai?",
+    "question": "Which verb shows a thought or feeling belonging to Our puppy?",
+    "audio_prompt": "Which verb shows a thought or feeling belonging to Our puppy?",
     "answers": [
       {
-        "text": "believed",
+        "text": "loved",
         "is_correct": true
       },
       {
-        "text": "stirred",
+        "text": "bounded",
         "is_correct": false
       },
       {
-        "text": "replied",
+        "text": "barked",
         "is_correct": false
       }
     ],
@@ -1027,19 +1027,19 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Verb Processes",
-    "question": "Which verb shows Kai speaking?",
-    "audio_prompt": "Which verb shows Kai speaking?",
+    "question": "Which verb shows Our puppy speaking?",
+    "audio_prompt": "Which verb shows Our puppy speaking?",
     "answers": [
       {
-        "text": "believed",
+        "text": "loved",
         "is_correct": false
       },
       {
-        "text": "replied",
+        "text": "barked",
         "is_correct": true
       },
       {
-        "text": "remained",
+        "text": "grew",
         "is_correct": false
       }
     ],
@@ -1057,19 +1057,19 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Verb Processes",
-    "question": "Which verb can relate Kai to a quality or identity?",
-    "audio_prompt": "Which verb can relate Kai to a quality or identity?",
+    "question": "Which verb can relate Our puppy to a quality or identity?",
+    "audio_prompt": "Which verb can relate Our puppy to a quality or identity?",
     "answers": [
       {
-        "text": "stirred",
+        "text": "bounded",
         "is_correct": false
       },
       {
-        "text": "replied",
+        "text": "barked",
         "is_correct": false
       },
       {
-        "text": "remained",
+        "text": "grew",
         "is_correct": true
       }
     ],
@@ -1087,19 +1087,19 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Verb Processes",
-    "question": "Which sentence uses a precise saying verb for quiet speech by Kai?",
-    "audio_prompt": "Which sentence uses a precise saying verb for quiet speech by Kai?",
+    "question": "Which sentence uses a precise saying verb for quiet speech by Our puppy?",
+    "audio_prompt": "Which sentence uses a precise saying verb for quiet speech by Our puppy?",
     "answers": [
       {
-        "text": "Kai replied the answer softly.",
+        "text": "Our puppy barked the answer softly.",
         "is_correct": true
       },
       {
-        "text": "Kai stirred the answer softly.",
+        "text": "Our puppy bounded the answer softly.",
         "is_correct": false
       },
       {
-        "text": "Kai remained the answer softly.",
+        "text": "Our puppy grew the answer softly.",
         "is_correct": false
       }
     ],
@@ -1117,19 +1117,19 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Verb Processes",
-    "question": "A writer wants readers to know what Kai thinks. Which choice works best?",
-    "audio_prompt": "A writer wants readers to know what Kai thinks. Which choice works best?",
+    "question": "A writer wants readers to know what Our puppy thinks. Which choice works best?",
+    "audio_prompt": "A writer wants readers to know what Our puppy thinks. Which choice works best?",
     "answers": [
       {
-        "text": "Kai stirred across the room.",
+        "text": "Our puppy bounded across the room.",
         "is_correct": false
       },
       {
-        "text": "Kai believed the earlier clue.",
+        "text": "Our puppy loved the earlier clue.",
         "is_correct": true
       },
       {
-        "text": "Kai replied loudly.",
+        "text": "Our puppy barked loudly.",
         "is_correct": false
       }
     ],
@@ -1147,8 +1147,8 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Verb Processes",
-    "question": "Why might a writer replace “said” with “replied”?",
-    "audio_prompt": "Why might a writer replace “said” with “replied”?",
+    "question": "Why might a writer replace “said” with “barked”?",
+    "audio_prompt": "Why might a writer replace “said” with “barked”?",
     "answers": [
       {
         "text": "To remove the speaker from the sentence.",
@@ -1177,11 +1177,11 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "Verb Processes",
-    "question": "Which explanation correctly compares “stirred” and “believed”?",
-    "audio_prompt": "Which explanation correctly compares “stirred” and “believed”?",
+    "question": "Which explanation correctly compares “bounded” and “loved”?",
+    "audio_prompt": "Which explanation correctly compares “bounded” and “loved”?",
     "answers": [
       {
-        "text": "“stirred” represents doing, while “believed” represents thinking or feeling.",
+        "text": "“bounded” represents doing, while “loved” represents thinking or feeling.",
         "is_correct": true
       },
       {
@@ -1189,7 +1189,7 @@
         "is_correct": false
       },
       {
-        "text": "“believed” names a place, while “stirred” names a thing.",
+        "text": "“loved” names a place, while “bounded” names a thing.",
         "is_correct": false
       }
     ],
@@ -1205,8 +1205,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "test",
+    "stage": "verify",
     "skill": "Verb Processes",
-    "question": "New check: Which verb shows The actor doing a physical action?",
+    "question": "Which verb shows The actor doing a physical action?",
     "audio_prompt": "Which verb shows The actor doing a physical action?",
     "answers": [
       {
@@ -1234,8 +1235,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "test",
+    "stage": "verify",
     "skill": "Verb Processes",
-    "question": "New check: Which verb shows a thought or feeling belonging to The actor?",
+    "question": "Which verb shows a thought or feeling belonging to The actor?",
     "audio_prompt": "Which verb shows a thought or feeling belonging to The actor?",
     "answers": [
       {
@@ -1263,8 +1265,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "test",
+    "stage": "verify",
     "skill": "Verb Processes",
-    "question": "New check: Which verb shows The actor speaking?",
+    "question": "Which verb shows The actor speaking?",
     "audio_prompt": "Which verb shows The actor speaking?",
     "answers": [
       {
@@ -1292,8 +1295,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "test",
+    "stage": "verify",
     "skill": "Verb Processes",
-    "question": "New check: Which verb can relate The actor to a quality or identity?",
+    "question": "Which verb can relate The actor to a quality or identity?",
     "audio_prompt": "Which verb can relate The actor to a quality or identity?",
     "answers": [
       {
@@ -1321,8 +1325,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "test",
+    "stage": "verify",
     "skill": "Verb Processes",
-    "question": "New check: Which sentence uses a precise saying verb for quiet speech by The actor?",
+    "question": "Which sentence uses a precise saying verb for quiet speech by The actor?",
     "audio_prompt": "Which sentence uses a precise saying verb for quiet speech by The actor?",
     "answers": [
       {
@@ -1350,8 +1355,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "test",
+    "stage": "verify",
     "skill": "Verb Processes",
-    "question": "New check: A writer wants readers to know what The actor thinks. Which choice works best?",
+    "question": "A writer wants readers to know what The actor thinks. Which choice works best?",
     "audio_prompt": "A writer wants readers to know what The actor thinks. Which choice works best?",
     "answers": [
       {
@@ -1379,8 +1385,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "test",
+    "stage": "verify",
     "skill": "Verb Processes",
-    "question": "New check: Why might a writer replace “said” with “murmured”?",
+    "question": "Why might a writer replace “said” with “murmured”?",
     "audio_prompt": "Why might a writer replace “said” with “murmured”?",
     "answers": [
       {
@@ -1408,8 +1415,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "test",
+    "stage": "verify",
     "skill": "Verb Processes",
-    "question": "New check: Which explanation correctly compares “bowed” and “hoped”?",
+    "question": "Which explanation correctly compares “bowed” and “hoped”?",
     "audio_prompt": "Which explanation correctly compares “bowed” and “hoped”?",
     "answers": [
       {
@@ -1437,8 +1445,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "test",
+    "stage": "apply",
     "skill": "Verb Processes",
-    "question": "New check: Which verb shows Kai doing a physical action?",
+    "question": "Which verb shows Kai doing a physical action?",
     "audio_prompt": "Which verb shows Kai doing a physical action?",
     "answers": [
       {
@@ -1466,8 +1475,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "test",
+    "stage": "apply",
     "skill": "Verb Processes",
-    "question": "New check: Which verb shows a thought or feeling belonging to Kai?",
+    "question": "Which verb shows a thought or feeling belonging to Kai?",
     "audio_prompt": "Which verb shows a thought or feeling belonging to Kai?",
     "answers": [
       {
@@ -1495,8 +1505,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "test",
+    "stage": "apply",
     "skill": "Verb Processes",
-    "question": "New check: Which verb shows Kai speaking?",
+    "question": "Which verb shows Kai speaking?",
     "audio_prompt": "Which verb shows Kai speaking?",
     "answers": [
       {
@@ -1524,8 +1535,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "test",
+    "stage": "apply",
     "skill": "Verb Processes",
-    "question": "New check: Which verb can relate Kai to a quality or identity?",
+    "question": "Which verb can relate Kai to a quality or identity?",
     "audio_prompt": "Which verb can relate Kai to a quality or identity?",
     "answers": [
       {
@@ -1553,8 +1565,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "test",
+    "stage": "apply",
     "skill": "Verb Processes",
-    "question": "New check: Which sentence uses a precise saying verb for quiet speech by Kai?",
+    "question": "Which sentence uses a precise saying verb for quiet speech by Kai?",
     "audio_prompt": "Which sentence uses a precise saying verb for quiet speech by Kai?",
     "answers": [
       {
@@ -1582,8 +1595,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "test",
+    "stage": "apply",
     "skill": "Verb Processes",
-    "question": "New check: A writer wants readers to know what Kai thinks. Which choice works best?",
+    "question": "A writer wants readers to know what Kai thinks. Which choice works best?",
     "audio_prompt": "A writer wants readers to know what Kai thinks. Which choice works best?",
     "answers": [
       {
@@ -1611,8 +1625,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "test",
+    "stage": "apply",
     "skill": "Verb Processes",
-    "question": "New check: Why might a writer replace “said” with “replied”?",
+    "question": "Why might a writer replace “said” with “replied”?",
     "audio_prompt": "Why might a writer replace “said” with “replied”?",
     "answers": [
       {
@@ -1640,8 +1655,9 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "test",
+    "stage": "apply",
     "skill": "Verb Processes",
-    "question": "New check: Which explanation correctly compares “stirred” and “believed”?",
+    "question": "Which explanation correctly compares “stirred” and “believed”?",
     "audio_prompt": "Which explanation correctly compares “stirred” and “believed”?",
     "answers": [
       {

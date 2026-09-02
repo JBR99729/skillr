@@ -247,14 +247,14 @@ window.skillrPracticeQuestions = [
     "skill": "Less Common Spelling Patterns",
     "printable": true,
     "type": "single",
-    "question": "While spelling the word school using the cue word school, what should a writer do after attempting the word?",
-    "audioPrompt": "While spelling the word school using the cue word school, what should a writer do after attempting the word?",
+    "question": "Why is “Check it against a trusted spelling source” the best answer here? While spelling the word school using the cue word school, what should a writer do after attempting the word?",
+    "audioPrompt": "Why is “Check it against a trusted spelling source” the best answer here? While spelling the word school using the cue word school, what should a writer do after attempting the word?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Check it against a trusted spelling source",
-      "Assume the first attempt must be right",
-      "Remove the word from the sentence"
+      "Check it against a trusted spelling source This choice best fits the language, text or literacy evidence.",
+      "Because “Assume the first attempt must be right” sounds familiar.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 0,
     "explanation": "Check it against a trusted spelling source This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -271,14 +271,14 @@ window.skillrPracticeQuestions = [
     "skill": "Less Common Spelling Patterns",
     "printable": true,
     "type": "single",
-    "question": "While spelling the word school using the cue word school, why are cue words useful for less common patterns?",
-    "audioPrompt": "While spelling the word school using the cue word school, why are cue words useful for less common patterns?",
+    "question": "Why is “They connect a sound pattern with a familiar complete word” the best answer here? While spelling the word school using the cue word school, why are cue words useful for less common patterns?",
+    "audioPrompt": "Why is “They connect a sound pattern with a familiar complete word” the best answer here? While spelling the word school using the cue word school, why are cue words useful for less common patterns?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "They make all spellings regular",
-      "They connect a sound pattern with a familiar complete word",
-      "They remove the need for meaning"
+      "Because “They make all spellings regular” sounds familiar.",
+      "They connect a sound pattern with a familiar complete word This explanation follows the relevant Year 3 English evidence.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 1,
     "explanation": "They connect a sound pattern with a familiar complete word This explanation follows the relevant Year 3 English evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -295,14 +295,14 @@ window.skillrPracticeQuestions = [
     "skill": "Less Common Spelling Patterns",
     "printable": true,
     "type": "single",
-    "question": "While spelling the word school using the cue word school, which statement about English spelling is accurate?",
-    "audioPrompt": "While spelling the word school using the cue word school, which statement about English spelling is accurate?",
+    "question": "Why is “One sound can be represented by different letter patterns” the best answer here? While spelling the word school using the cue word school, which statement about English spelling is accurate?",
+    "audioPrompt": "Why is “One sound can be represented by different letter patterns” the best answer here? While spelling the word school using the cue word school, which statement about English spelling is accurate?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Every sound always has one spelling",
-      "Word history never affects spelling",
-      "One sound can be represented by different letter patterns"
+      "Because “Every sound always has one spelling” sounds familiar.",
+      "Because the longest-looking option should always be chosen.",
+      "One sound can be represented by different letter patterns This choice best fits the language, text or literacy evidence."
     ],
     "correct": 2,
     "explanation": "One sound can be represented by different letter patterns This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -319,14 +319,14 @@ window.skillrPracticeQuestions = [
     "skill": "Less Common Spelling Patterns",
     "printable": true,
     "type": "single",
-    "question": "While spelling the word school using the cue word school, how can word families help?",
-    "audioPrompt": "While spelling the word school using the cue word school, how can word families help?",
+    "question": "Why is “Related words may preserve a recognisable spelling pattern” the best answer here? While spelling the word school using the cue word school, how can word families help?",
+    "audioPrompt": "Why is “Related words may preserve a recognisable spelling pattern” the best answer here? While spelling the word school using the cue word school, how can word families help?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Related words may preserve a recognisable spelling pattern",
-      "Every related word is spelled identically",
-      "Families are based only on word length"
+      "Related words may preserve a recognisable spelling pattern This choice best fits the language, text or literacy evidence.",
+      "Because “Every related word is spelled identically” sounds familiar.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 0,
     "explanation": "Related words may preserve a recognisable spelling pattern This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -343,14 +343,14 @@ window.skillrPracticeQuestions = [
     "skill": "Less Common Spelling Patterns",
     "printable": true,
     "type": "single",
-    "question": "While spelling the word school using the cue word school, what is a useful personal spelling record?",
-    "audioPrompt": "While spelling the word school using the cue word school, what is a useful personal spelling record?",
+    "question": "Why is “The complete word, its tricky part and a meaningful example sentence” the best answer here? While spelling the word school using the cue word school, what is a useful personal spelling record?",
+    "audioPrompt": "Why is “The complete word, its tricky part and a meaningful example sentence” the best answer here? While spelling the word school using the cue word school, what is a useful personal spelling record?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "An isolated letter with no word",
-      "The complete word, its tricky part and a meaningful example sentence",
-      "A row of slashes"
+      "Because “An isolated letter with no word” sounds familiar.",
+      "The complete word, its tricky part and a meaningful example sentence This choice best fits the language, text or literacy evidence.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 1,
     "explanation": "The complete word, its tricky part and a meaningful example sentence This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -367,14 +367,14 @@ window.skillrPracticeQuestions = [
     "skill": "Less Common Spelling Patterns",
     "printable": true,
     "type": "single",
-    "question": "While spelling the word school using the cue word school, which proofreading method is strongest?",
-    "audioPrompt": "While spelling the word school using the cue word school, which proofreading method is strongest?",
+    "question": "Why is “Read the sentence, notice the uncertain word, then verify its complete spelling” the best answer here? While spelling the word school using the cue word school, which proofreading method is strongest?",
+    "audioPrompt": "Why is “Read the sentence, notice the uncertain word, then verify its complete spelling” the best answer here? While spelling the word school using the cue word school, which proofreading method is strongest?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Check only the first letter",
-      "Listen once and never inspect the written word",
-      "Read the sentence, notice the uncertain word, then verify its complete spelling"
+      "Because “Check only the first letter” sounds familiar.",
+      "Because the longest-looking option should always be chosen.",
+      "Read the sentence, notice the uncertain word, then verify its complete spelling This choice best fits the language, text or literacy evidence."
     ],
     "correct": 2,
     "explanation": "Read the sentence, notice the uncertain word, then verify its complete spelling This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -391,14 +391,14 @@ window.skillrPracticeQuestions = [
     "skill": "Less Common Spelling Patterns",
     "printable": true,
     "type": "single",
-    "question": "While spelling the word measure using the cue word measure, why can this word be difficult to spell?",
-    "audioPrompt": "While spelling the word measure using the cue word measure, why can this word be difficult to spell?",
+    "question": "Why is “Its sounds use a less common letter pattern” the best answer here? While spelling the word measure using the cue word measure, why can this word be difficult to spell?",
+    "audioPrompt": "Why is “Its sounds use a less common letter pattern” the best answer here? While spelling the word measure using the cue word measure, why can this word be difficult to spell?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Its sounds use a less common letter pattern",
-      "It has no spoken sounds",
-      "Every letter has only one possible sound"
+      "Its sounds use a less common letter pattern This explanation follows the relevant Year 3 English evidence.",
+      "Because “It has no spoken sounds” sounds familiar.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 0,
     "explanation": "Its sounds use a less common letter pattern This explanation follows the relevant Year 3 English evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -415,14 +415,14 @@ window.skillrPracticeQuestions = [
     "skill": "Less Common Spelling Patterns",
     "printable": true,
     "type": "single",
-    "question": "While spelling the word measure using the cue word measure, which strategy best supports the spelling?",
-    "audioPrompt": "While spelling the word measure using the cue word measure, which strategy best supports the spelling?",
+    "question": "Why is “Recall the whole word and its known letter pattern” the best answer here? While spelling the word measure using the cue word measure, which strategy best supports the spelling?",
+    "audioPrompt": "Why is “Recall the whole word and its known letter pattern” the best answer here? While spelling the word measure using the cue word measure, which strategy best supports the spelling?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Choose letters only by their alphabet names",
-      "Recall the whole word and its known letter pattern",
-      "Replace the difficult part with a dash"
+      "Because “Choose letters only by their alphabet names” sounds familiar.",
+      "Recall the whole word and its known letter pattern This choice best fits the language, text or literacy evidence.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 1,
     "explanation": "Recall the whole word and its known letter pattern This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -439,14 +439,14 @@ window.skillrPracticeQuestions = [
     "skill": "Less Common Spelling Patterns",
     "printable": true,
     "type": "single",
-    "question": "While spelling the word measure using the cue word measure, what should a writer do after attempting the word?",
-    "audioPrompt": "While spelling the word measure using the cue word measure, what should a writer do after attempting the word?",
+    "question": "Why is “Check it against a trusted spelling source” the best answer here? While spelling the word measure using the cue word measure, what should a writer do after attempting the word?",
+    "audioPrompt": "Why is “Check it against a trusted spelling source” the best answer here? While spelling the word measure using the cue word measure, what should a writer do after attempting the word?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Assume the first attempt must be right",
-      "Remove the word from the sentence",
-      "Check it against a trusted spelling source"
+      "Because “Assume the first attempt must be right” sounds familiar.",
+      "Because the longest-looking option should always be chosen.",
+      "Check it against a trusted spelling source This choice best fits the language, text or literacy evidence."
     ],
     "correct": 2,
     "explanation": "Check it against a trusted spelling source This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -463,14 +463,14 @@ window.skillrPracticeQuestions = [
     "skill": "Less Common Spelling Patterns",
     "printable": true,
     "type": "single",
-    "question": "While spelling the word measure using the cue word measure, why are cue words useful for less common patterns?",
-    "audioPrompt": "While spelling the word measure using the cue word measure, why are cue words useful for less common patterns?",
+    "question": "Why is “They connect a sound pattern with a familiar complete word” the best answer here? While spelling the word measure using the cue word measure, why are cue words useful for less common patterns?",
+    "audioPrompt": "Why is “They connect a sound pattern with a familiar complete word” the best answer here? While spelling the word measure using the cue word measure, why are cue words useful for less common patterns?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "They connect a sound pattern with a familiar complete word",
-      "They make all spellings regular",
-      "They remove the need for meaning"
+      "They connect a sound pattern with a familiar complete word This explanation follows the relevant Year 3 English evidence.",
+      "Because “They make all spellings regular” sounds familiar.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 0,
     "explanation": "They connect a sound pattern with a familiar complete word This explanation follows the relevant Year 3 English evidence.\nHint: Use the wording, structure and context before choosing.",
@@ -487,20 +487,20 @@ window.skillrPracticeQuestions = [
     "skill": "Less Common Spelling Patterns",
     "printable": true,
     "type": "single",
-    "question": "While spelling the word measure using the cue word measure, which statement about English spelling is accurate?",
-    "audioPrompt": "While spelling the word measure using the cue word measure, which statement about English spelling is accurate?",
+    "question": "A student chooses “It has no spoken sounds” for this task: While spelling the word phone using the cue word phone, why can this word be difficult to spell? What should they check?",
+    "audioPrompt": "A student chooses “It has no spoken sounds” for this task: While spelling the word phone using the cue word phone, why can this word be difficult to spell? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Every sound always has one spelling",
-      "One sound can be represented by different letter patterns",
-      "Word history never affects spelling"
+      "Keep the answer because it uses a familiar word.",
+      "Use the wording, structure and context before choosing.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 1,
-    "explanation": "One sound can be represented by different letter patterns This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. Its sounds use a less common letter pattern This explanation follows the relevant Year 3 English evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "One sound can be represented by different letter patterns This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Its sounds use a less common letter pattern This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -511,20 +511,20 @@ window.skillrPracticeQuestions = [
     "skill": "Less Common Spelling Patterns",
     "printable": true,
     "type": "single",
-    "question": "While spelling the word measure using the cue word measure, how can word families help?",
-    "audioPrompt": "While spelling the word measure using the cue word measure, how can word families help?",
+    "question": "A student chooses “Choose letters only by their alphabet names” for this task: While spelling the word phone using the cue word phone, which strategy best supports the spelling? What should they check?",
+    "audioPrompt": "A student chooses “Choose letters only by their alphabet names” for this task: While spelling the word phone using the cue word phone, which strategy best supports the spelling? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Every related word is spelled identically",
-      "Families are based only on word length",
-      "Related words may preserve a recognisable spelling pattern"
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option.",
+      "Use the wording, structure and context before choosing."
     ],
     "correct": 2,
-    "explanation": "Related words may preserve a recognisable spelling pattern This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. Recall the whole word and its known letter pattern This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Related words may preserve a recognisable spelling pattern This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Recall the whole word and its known letter pattern This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -535,20 +535,20 @@ window.skillrPracticeQuestions = [
     "skill": "Less Common Spelling Patterns",
     "printable": true,
     "type": "single",
-    "question": "While spelling the word measure using the cue word measure, what is a useful personal spelling record?",
-    "audioPrompt": "While spelling the word measure using the cue word measure, what is a useful personal spelling record?",
+    "question": "A student chooses “Assume the first attempt must be right” for this task: While spelling the word phone using the cue word phone, what should a writer do after attempting the word? What should they check?",
+    "audioPrompt": "A student chooses “Assume the first attempt must be right” for this task: While spelling the word phone using the cue word phone, what should a writer do after attempting the word? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "The complete word, its tricky part and a meaningful example sentence",
-      "An isolated letter with no word",
-      "A row of slashes"
+      "Use the wording, structure and context before choosing.",
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 0,
-    "explanation": "The complete word, its tricky part and a meaningful example sentence This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. Check it against a trusted spelling source This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "The complete word, its tricky part and a meaningful example sentence This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Check it against a trusted spelling source This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -559,20 +559,20 @@ window.skillrPracticeQuestions = [
     "skill": "Less Common Spelling Patterns",
     "printable": true,
     "type": "single",
-    "question": "While spelling the word measure using the cue word measure, which proofreading method is strongest?",
-    "audioPrompt": "While spelling the word measure using the cue word measure, which proofreading method is strongest?",
+    "question": "A student chooses “They make all spellings regular” for this task: While spelling the word phone using the cue word phone, why are cue words useful for less common patterns? What should they check?",
+    "audioPrompt": "A student chooses “They make all spellings regular” for this task: While spelling the word phone using the cue word phone, why are cue words useful for less common patterns? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Check only the first letter",
-      "Read the sentence, notice the uncertain word, then verify its complete spelling",
-      "Listen once and never inspect the written word"
+      "Keep the answer because it uses a familiar word.",
+      "Use the wording, structure and context before choosing.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 1,
-    "explanation": "Read the sentence, notice the uncertain word, then verify its complete spelling This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. They connect a sound pattern with a familiar complete word This explanation follows the relevant Year 3 English evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Read the sentence, notice the uncertain word, then verify its complete spelling This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. They connect a sound pattern with a familiar complete word This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -583,20 +583,20 @@ window.skillrPracticeQuestions = [
     "skill": "Less Common Spelling Patterns",
     "printable": true,
     "type": "single",
-    "question": "While spelling the word station using the cue word station, why can this word be difficult to spell?",
-    "audioPrompt": "While spelling the word station using the cue word station, why can this word be difficult to spell?",
+    "question": "A student chooses “Every sound always has one spelling” for this task: While spelling the word phone using the cue word phone, which statement about English spelling is accurate? What should they check?",
+    "audioPrompt": "A student chooses “Every sound always has one spelling” for this task: While spelling the word phone using the cue word phone, which statement about English spelling is accurate? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It has no spoken sounds",
-      "Every letter has only one possible sound",
-      "Its sounds use a less common letter pattern"
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option.",
+      "Use the wording, structure and context before choosing."
     ],
     "correct": 2,
-    "explanation": "Its sounds use a less common letter pattern This explanation follows the relevant Year 3 English evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. One sound can be represented by different letter patterns This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Its sounds use a less common letter pattern This explanation follows the relevant Year 3 English evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. One sound can be represented by different letter patterns This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -607,20 +607,20 @@ window.skillrPracticeQuestions = [
     "skill": "Less Common Spelling Patterns",
     "printable": true,
     "type": "single",
-    "question": "While spelling the word station using the cue word station, which strategy best supports the spelling?",
-    "audioPrompt": "While spelling the word station using the cue word station, which strategy best supports the spelling?",
+    "question": "A student chooses “Every related word is spelled identically” for this task: While spelling the word phone using the cue word phone, how can word families help? What should they check?",
+    "audioPrompt": "A student chooses “Every related word is spelled identically” for this task: While spelling the word phone using the cue word phone, how can word families help? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Recall the whole word and its known letter pattern",
-      "Choose letters only by their alphabet names",
-      "Replace the difficult part with a dash"
+      "Use the wording, structure and context before choosing.",
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 0,
-    "explanation": "Recall the whole word and its known letter pattern This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. Related words may preserve a recognisable spelling pattern This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Recall the whole word and its known letter pattern This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Related words may preserve a recognisable spelling pattern This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -631,20 +631,20 @@ window.skillrPracticeQuestions = [
     "skill": "Less Common Spelling Patterns",
     "printable": true,
     "type": "single",
-    "question": "While spelling the word station using the cue word station, what should a writer do after attempting the word?",
-    "audioPrompt": "While spelling the word station using the cue word station, what should a writer do after attempting the word?",
+    "question": "A student chooses “An isolated letter with no word” for this task: While spelling the word phone using the cue word phone, what is a useful personal spelling record? What should they check?",
+    "audioPrompt": "A student chooses “An isolated letter with no word” for this task: While spelling the word phone using the cue word phone, what is a useful personal spelling record? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Assume the first attempt must be right",
-      "Check it against a trusted spelling source",
-      "Remove the word from the sentence"
+      "Keep the answer because it uses a familiar word.",
+      "Use the wording, structure and context before choosing.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 1,
-    "explanation": "Check it against a trusted spelling source This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. The complete word, its tricky part and a meaningful example sentence This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Check it against a trusted spelling source This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. The complete word, its tricky part and a meaningful example sentence This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -655,20 +655,20 @@ window.skillrPracticeQuestions = [
     "skill": "Less Common Spelling Patterns",
     "printable": true,
     "type": "single",
-    "question": "While spelling the word station using the cue word station, why are cue words useful for less common patterns?",
-    "audioPrompt": "While spelling the word station using the cue word station, why are cue words useful for less common patterns?",
+    "question": "A student chooses “Check only the first letter” for this task: While spelling the word phone using the cue word phone, which proofreading method is strongest? What should they check?",
+    "audioPrompt": "A student chooses “Check only the first letter” for this task: While spelling the word phone using the cue word phone, which proofreading method is strongest? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "They make all spellings regular",
-      "They remove the need for meaning",
-      "They connect a sound pattern with a familiar complete word"
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option.",
+      "Use the wording, structure and context before choosing."
     ],
     "correct": 2,
-    "explanation": "They connect a sound pattern with a familiar complete word This explanation follows the relevant Year 3 English evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. Read the sentence, notice the uncertain word, then verify its complete spelling This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "They connect a sound pattern with a familiar complete word This explanation follows the relevant Year 3 English evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Read the sentence, notice the uncertain word, then verify its complete spelling This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -679,20 +679,20 @@ window.skillrPracticeQuestions = [
     "skill": "Less Common Spelling Patterns",
     "printable": true,
     "type": "single",
-    "question": "While spelling the word station using the cue word station, which statement about English spelling is accurate?",
-    "audioPrompt": "While spelling the word station using the cue word station, which statement about English spelling is accurate?",
+    "question": "A student chooses “It has no spoken sounds” for this task: While spelling the word school using the cue word school, why can this word be difficult to spell? What should they check?",
+    "audioPrompt": "A student chooses “It has no spoken sounds” for this task: While spelling the word school using the cue word school, why can this word be difficult to spell? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "One sound can be represented by different letter patterns",
-      "Every sound always has one spelling",
-      "Word history never affects spelling"
+      "Use the wording, structure and context before choosing.",
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 0,
-    "explanation": "One sound can be represented by different letter patterns This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. Its sounds use a less common letter pattern This explanation follows the relevant Year 3 English evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "One sound can be represented by different letter patterns This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Its sounds use a less common letter pattern This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -703,20 +703,20 @@ window.skillrPracticeQuestions = [
     "skill": "Less Common Spelling Patterns",
     "printable": true,
     "type": "single",
-    "question": "While spelling the word station using the cue word station, how can word families help?",
-    "audioPrompt": "While spelling the word station using the cue word station, how can word families help?",
+    "question": "A student chooses “Choose letters only by their alphabet names” for this task: While spelling the word school using the cue word school, which strategy best supports the spelling? What should they check?",
+    "audioPrompt": "A student chooses “Choose letters only by their alphabet names” for this task: While spelling the word school using the cue word school, which strategy best supports the spelling? What should they check?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Every related word is spelled identically",
-      "Related words may preserve a recognisable spelling pattern",
-      "Families are based only on word length"
+      "Keep the answer because it uses a familiar word.",
+      "Use the wording, structure and context before choosing.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 1,
-    "explanation": "Related words may preserve a recognisable spelling pattern This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Use the wording, structure and context before choosing. Recall the whole word and its known letter pattern This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Related words may preserve a recognisable spelling pattern This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Use the wording, structure and context before choosing. Recall the whole word and its known letter pattern This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -727,8 +727,8 @@ window.skillrPracticeQuestions = [
     "skill": "Less Common Spelling Patterns",
     "printable": true,
     "type": "single",
-    "question": "While spelling the word station using the cue word station, what is a useful personal spelling record?",
-    "audioPrompt": "While spelling the word station using the cue word station, what is a useful personal spelling record?",
+    "question": "While spelling the word school using the cue word school, what is a useful personal spelling record?",
+    "audioPrompt": "While spelling the word school using the cue word school, what is a useful personal spelling record?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -751,8 +751,8 @@ window.skillrPracticeQuestions = [
     "skill": "Less Common Spelling Patterns",
     "printable": true,
     "type": "single",
-    "question": "While spelling the word station using the cue word station, which proofreading method is strongest?",
-    "audioPrompt": "While spelling the word station using the cue word station, which proofreading method is strongest?",
+    "question": "While spelling the word school using the cue word school, which proofreading method is strongest?",
+    "audioPrompt": "While spelling the word school using the cue word school, which proofreading method is strongest?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -775,8 +775,8 @@ window.skillrPracticeQuestions = [
     "skill": "Less Common Spelling Patterns",
     "printable": true,
     "type": "single",
-    "question": "While spelling the word knee using the cue word knee, why can this word be difficult to spell?",
-    "audioPrompt": "While spelling the word knee using the cue word knee, why can this word be difficult to spell?",
+    "question": "While spelling the word measure using the cue word measure, why can this word be difficult to spell?",
+    "audioPrompt": "While spelling the word measure using the cue word measure, why can this word be difficult to spell?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -799,8 +799,8 @@ window.skillrPracticeQuestions = [
     "skill": "Less Common Spelling Patterns",
     "printable": true,
     "type": "single",
-    "question": "While spelling the word knee using the cue word knee, which strategy best supports the spelling?",
-    "audioPrompt": "While spelling the word knee using the cue word knee, which strategy best supports the spelling?",
+    "question": "While spelling the word measure using the cue word measure, which strategy best supports the spelling?",
+    "audioPrompt": "While spelling the word measure using the cue word measure, which strategy best supports the spelling?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -823,8 +823,8 @@ window.skillrPracticeQuestions = [
     "skill": "Less Common Spelling Patterns",
     "printable": true,
     "type": "single",
-    "question": "While spelling the word knee using the cue word knee, what should a writer do after attempting the word?",
-    "audioPrompt": "While spelling the word knee using the cue word knee, what should a writer do after attempting the word?",
+    "question": "While spelling the word measure using the cue word measure, what should a writer do after attempting the word?",
+    "audioPrompt": "While spelling the word measure using the cue word measure, what should a writer do after attempting the word?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -847,8 +847,8 @@ window.skillrPracticeQuestions = [
     "skill": "Less Common Spelling Patterns",
     "printable": true,
     "type": "single",
-    "question": "While spelling the word knee using the cue word knee, why are cue words useful for less common patterns?",
-    "audioPrompt": "While spelling the word knee using the cue word knee, why are cue words useful for less common patterns?",
+    "question": "While spelling the word measure using the cue word measure, why are cue words useful for less common patterns?",
+    "audioPrompt": "While spelling the word measure using the cue word measure, why are cue words useful for less common patterns?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -871,8 +871,8 @@ window.skillrPracticeQuestions = [
     "skill": "Less Common Spelling Patterns",
     "printable": true,
     "type": "single",
-    "question": "While spelling the word knee using the cue word knee, which statement about English spelling is accurate?",
-    "audioPrompt": "While spelling the word knee using the cue word knee, which statement about English spelling is accurate?",
+    "question": "While spelling the word measure using the cue word measure, which statement about English spelling is accurate?",
+    "audioPrompt": "While spelling the word measure using the cue word measure, which statement about English spelling is accurate?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -895,8 +895,8 @@ window.skillrPracticeQuestions = [
     "skill": "Less Common Spelling Patterns",
     "printable": true,
     "type": "single",
-    "question": "While spelling the word knee using the cue word knee, how can word families help?",
-    "audioPrompt": "While spelling the word knee using the cue word knee, how can word families help?",
+    "question": "While spelling the word measure using the cue word measure, how can word families help?",
+    "audioPrompt": "While spelling the word measure using the cue word measure, how can word families help?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -919,8 +919,8 @@ window.skillrPracticeQuestions = [
     "skill": "Less Common Spelling Patterns",
     "printable": true,
     "type": "single",
-    "question": "While spelling the word knee using the cue word knee, what is a useful personal spelling record?",
-    "audioPrompt": "While spelling the word knee using the cue word knee, what is a useful personal spelling record?",
+    "question": "While spelling the word measure using the cue word measure, what is a useful personal spelling record?",
+    "audioPrompt": "While spelling the word measure using the cue word measure, what is a useful personal spelling record?",
     "visual": "",
     "visualHtml": "",
     "answers": [
@@ -943,8 +943,8 @@ window.skillrPracticeQuestions = [
     "skill": "Less Common Spelling Patterns",
     "printable": true,
     "type": "single",
-    "question": "While spelling the word knee using the cue word knee, which proofreading method is strongest?",
-    "audioPrompt": "While spelling the word knee using the cue word knee, which proofreading method is strongest?",
+    "question": "While spelling the word measure using the cue word measure, which proofreading method is strongest?",
+    "audioPrompt": "While spelling the word measure using the cue word measure, which proofreading method is strongest?",
     "visual": "",
     "visualHtml": "",
     "answers": [
