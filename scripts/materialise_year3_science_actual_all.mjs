@@ -13,12 +13,16 @@ import * as i06 from'./year3_science_actual/ac9s3i06_authored.mjs';
 import * as u01 from'./year3_science_actual/ac9s3u01_authored.mjs';
 import * as u02 from'./year3_science_actual/ac9s3u02_authored.mjs';
 import * as u03 from'./year3_science_actual/ac9s3u03_authored.mjs';
+import * as u03t from'./year3_science_actual/ac9s3u03_test_authored.mjs';
 import * as u04 from'./year3_science_actual/ac9s3u04_authored.mjs';
+import * as u04t from'./year3_science_actual/ac9s3u04_test_authored.mjs';
 const root=process.cwd(),stages=['recognise','explain','discriminate','apply'];
 const i01bank={practice:i01.practice,test:i01t.test};
 const i03bank={practice:i03.practice,test:i03t.test};
 const i04bank={practice:i04.practice,test:i04t.test};
-const banks={AC9S3H01:[h01,'using data as evidence for scientific explanations'],AC9S3H02:[h02,'using scientific explanations to meet needs and solve problems'],AC9S3I01:[i01bank,'questions about patterns and evidence-based predictions'],AC9S3I02:[i02,'planning fair and safe investigations'],AC9S3I03:[i03bank,'observing, measuring and recording accurately'],AC9S3I04:[i04bank,'tables, graphs and scientific models'],AC9S3I05:[i05,'evaluating investigations and drawing conclusions'],AC9S3I06:[i06,'communicating scientific findings'],AC9S3U01:[u01,'living, non-living things and life cycles'],AC9S3U02:[u02,'soils, rocks, minerals and Earth resources'],AC9S3U03:[u03,'heat energy and temperature change'],AC9S3U04:[u04,'solids, liquids and changes of state']};
+const u03bank={practice:u03.practice,test:u03t.test};
+const u04bank={practice:u04.practice,test:u04t.test};
+const banks={AC9S3H01:[h01,'using data as evidence for scientific explanations'],AC9S3H02:[h02,'using scientific explanations to meet needs and solve problems'],AC9S3I01:[i01bank,'questions about patterns and evidence-based predictions'],AC9S3I02:[i02,'planning fair and safe investigations'],AC9S3I03:[i03bank,'observing, measuring and recording accurately'],AC9S3I04:[i04bank,'tables, graphs and scientific models'],AC9S3I05:[i05,'evaluating investigations and drawing conclusions'],AC9S3I06:[i06,'communicating scientific findings'],AC9S3U01:[u01,'living, non-living things and life cycles'],AC9S3U02:[u02,'soils, rocks, minerals and Earth resources'],AC9S3U03:[u03bank,'heat energy and temperature change'],AC9S3U04:[u04bank,'solids, liquids and changes of state']};
 const norm=s=>s.toLowerCase().replace(/[^a-z0-9]+/g,' ').trim();
 function rotate(a,c,shift){shift%=4;return[a.map((_,j)=>a[(j+shift)%4]),(c-shift+4)%4]}
 let total=0;
