@@ -28,6 +28,17 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
+      - name: Restore frozen Year 1 Classroom Views
+        shell: bash
+        run: |
+          set -euo pipefail
+          BASELINE=5636b201f2d592d9f830ecae577da4745ba62b92
+          git ls-tree -r --name-only HEAD year1/english | grep '/teacher-slides/' | while read -r file; do
+            git rm -f --ignore-unmatch -- "$file" >/dev/null || true
+          done
+          git ls-tree -r --name-only "$BASELINE" year1/english | grep '/teacher-slides/' | while read -r file; do
+            git checkout "$BASELINE" -- "$file"
+          done
       - name: Verify Year 1 English authored sources
         run: |
           test -f assets/year1-english-data.js
@@ -40,7 +51,7 @@ jobs:
           test -f scripts/validate_year1_english_student_facing.mjs
       - name: Rebuild and polish 40-question practice banks
         run: node scripts/polish_year1_english_student_facing.mjs
-      - name: Rebuild static Topic Guides and Classroom Views
+      - name: Rebuild static Topic Guides only
         run: node scripts/rebuild_year1_english_static_student_facing.mjs
       - name: Validate Year 1 English student-facing content
         run: node scripts/validate_year1_english_student_facing.mjs
@@ -59,5 +70,5 @@ jobs:
           fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git commit -m 'Generate Year 1 English student-facing resources'
+          git commit -m 'Restore frozen Year 1 Classroom Views and refresh topics'
           git push origin HEAD:${GITHUB_HEAD_REF}
