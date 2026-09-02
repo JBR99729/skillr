@@ -1,1418 +1,3402 @@
 [
   {
-    "id": "ac9s5u04-p-001",
-    "curriculum_code": "AC9S5U04",
-    "year_level": "Year 5",
+    "id": "AC9S5U04-P-001",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
     "bank": "practice",
-    "skill": "classify_a_geological_process",
-    "question": "During a habitat survey, a delta grows at a river mouth. Which geological process is occurring?",
-    "audio_prompt": "During a habitat survey, a delta grows at a river mouth. Which geological process is occurring?",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "Which process breaks rock down while it stays in the same place?",
+    "audio_prompt": "Which process breaks rock down while it stays in the same place?",
+    "audioPrompt": "Which process breaks rock down while it stays in the same place?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u04.svg#ac9s5u04-p-001",
-      "alt_text": "During a habitat survey: classify a geological process, shown as a three-step erosion reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "deposition",
+        "text": "Weathering",
         "is_correct": true
       },
       {
-        "text": "weathering",
+        "text": "Erosion",
         "is_correct": false
       },
       {
-        "text": "erosion",
+        "text": "Transportation",
+        "is_correct": false
+      },
+      {
+        "text": "Deposition",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "Weathering",
+      "Erosion",
+      "Transportation",
+      "Deposition"
+    ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "The event shows deposition.",
-      "hint": "Decide whether material is breaking down, being removed, moving or settling."
+      "summary": "Weathering is the breakdown of rock in place.",
+      "hint": "Breakdown, not movement."
     },
+    "structuredExplanation": {
+      "summary": "Weathering is the breakdown of rock in place.",
+      "hint": "Breakdown, not movement."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 1,
+    "sequencePriority": 1,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u04-p-002",
-    "curriculum_code": "AC9S5U04",
-    "year_level": "Year 5",
+    "id": "AC9S5U04-P-002",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
     "bank": "practice",
-    "skill": "explain_landscape_change",
-    "question": "At the school science table, which explanation best describes why rainwater removes loose soil from bare ground?",
-    "audio_prompt": "At the school science table, which explanation best describes why rainwater removes loose soil from bare ground?",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "Which process removes weathered material from one place?",
+    "audio_prompt": "Which process removes weathered material from one place?",
+    "audioPrompt": "Which process removes weathered material from one place?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u04.svg#ac9s5u04-p-002",
-      "alt_text": "At the school science table: explain landscape change, shown as a three-step erosion reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "rock is broken down in place",
+        "text": "Condensation",
         "is_correct": false
       },
       {
-        "text": "weathered material is removed",
+        "text": "Reflection",
+        "is_correct": false
+      },
+      {
+        "text": "Freezing only",
+        "is_correct": false
+      },
+      {
+        "text": "Erosion",
         "is_correct": true
-      },
-      {
-        "text": "moving water carries sediment",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "Condensation",
+      "Reflection",
+      "Freezing only",
+      "Erosion"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "The explanation connects the agent's energy with breakdown, movement or settling.",
-      "hint": "Follow the sediment and identify what changes at this location."
+      "summary": "Erosion removes weathered sediment from its original position.",
+      "hint": "Material is taken away."
     },
+    "structuredExplanation": {
+      "summary": "Erosion removes weathered sediment from its original position.",
+      "hint": "Material is taken away."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 2,
+    "sequencePriority": 2,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u04-p-003",
-    "curriculum_code": "AC9S5U04",
-    "year_level": "Year 5",
+    "id": "AC9S5U04-P-003",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
     "bank": "practice",
-    "skill": "classify_a_geological_process",
-    "question": "While examining a creek, sand settles where a river enters a calm lake. Which geological process is occurring?",
-    "audio_prompt": "While examining a creek, sand settles where a river enters a calm lake. Which geological process is occurring?",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "Which process moves sediment along by water, wind or ice?",
+    "audio_prompt": "Which process moves sediment along by water, wind or ice?",
+    "audioPrompt": "Which process moves sediment along by water, wind or ice?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u04.svg#ac9s5u04-p-003",
-      "alt_text": "While examining a creek: classify a geological process, shown as a three-step erosion reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "weathering",
+        "text": "Deposition",
         "is_correct": false
       },
       {
-        "text": "erosion",
+        "text": "Absorption",
         "is_correct": false
       },
       {
-        "text": "deposition",
+        "text": "Transportation",
         "is_correct": true
+      },
+      {
+        "text": "Weathering only",
+        "is_correct": false
       }
     ],
+    "answer_texts": [
+      "Deposition",
+      "Absorption",
+      "Transportation",
+      "Weathering only"
+    ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "The event shows deposition.",
-      "hint": "Decide whether material is breaking down, being removed, moving or settling."
+      "summary": "Transportation is the movement of sediment by an agent such as water, wind or ice.",
+      "hint": "Moving sediment."
     },
+    "structuredExplanation": {
+      "summary": "Transportation is the movement of sediment by an agent such as water, wind or ice.",
+      "hint": "Moving sediment."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 3,
+    "sequencePriority": 3,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u04-p-004",
-    "curriculum_code": "AC9S5U04",
-    "year_level": "Year 5",
+    "id": "AC9S5U04-P-004",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
     "bank": "practice",
-    "skill": "explain_landscape_change",
-    "question": "In a classroom investigation, which explanation best describes why a delta grows at a river mouth?",
-    "audio_prompt": "In a classroom investigation, which explanation best describes why a delta grows at a river mouth?",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "Which process happens when sediment settles as water or wind slows?",
+    "audio_prompt": "Which process happens when sediment settles as water or wind slows?",
+    "audioPrompt": "Which process happens when sediment settles as water or wind slows?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u04.svg#ac9s5u04-p-004",
-      "alt_text": "In a classroom investigation: explain landscape change, shown as a three-step erosion reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "sediment builds up as flow slows",
+        "text": "Evaporation",
+        "is_correct": false
+      },
+      {
+        "text": "Deposition",
         "is_correct": true
       },
       {
-        "text": "rock is broken down in place",
+        "text": "Weathering",
         "is_correct": false
       },
       {
-        "text": "weathered material is removed",
+        "text": "Refraction",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Evaporation",
+      "Deposition",
+      "Weathering",
+      "Refraction"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "The explanation connects the agent's energy with breakdown, movement or settling.",
-      "hint": "Follow the sediment and identify what changes at this location."
+      "summary": "Deposition occurs when transported sediment is dropped or settles.",
+      "hint": "Settling."
     },
+    "structuredExplanation": {
+      "summary": "Deposition occurs when transported sediment is dropped or settles.",
+      "hint": "Settling."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 4,
+    "sequencePriority": 4,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u04-p-005",
-    "curriculum_code": "AC9S5U04",
-    "year_level": "Year 5",
+    "id": "AC9S5U04-P-005",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
     "bank": "practice",
-    "skill": "classify_a_geological_process",
-    "question": "During a garden observation, rainwater removes loose soil from bare ground. Which geological process is occurring?",
-    "audio_prompt": "During a garden observation, rainwater removes loose soil from bare ground. Which geological process is occurring?",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "Which agent can erode a beach dune?",
+    "audio_prompt": "Which agent can erode a beach dune?",
+    "audioPrompt": "Which agent can erode a beach dune?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u04.svg#ac9s5u04-p-005",
-      "alt_text": "During a garden observation: classify a geological process, shown as a three-step erosion reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "weathering",
-        "is_correct": false
-      },
-      {
-        "text": "erosion",
+        "text": "Wind",
         "is_correct": true
       },
       {
-        "text": "transportation",
+        "text": "A mirror",
+        "is_correct": false
+      },
+      {
+        "text": "A magnet only",
+        "is_correct": false
+      },
+      {
+        "text": "A thermometer",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "Wind",
+      "A mirror",
+      "A magnet only",
+      "A thermometer"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "The event shows erosion.",
-      "hint": "Decide whether material is breaking down, being removed, moving or settling."
+      "summary": "Wind can move loose sand and erode dunes.",
+      "hint": "Moving air."
     },
+    "structuredExplanation": {
+      "summary": "Wind can move loose sand and erode dunes.",
+      "hint": "Moving air."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 5,
+    "sequencePriority": 5,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u04-p-006",
-    "curriculum_code": "AC9S5U04",
-    "year_level": "Year 5",
+    "id": "AC9S5U04-P-006",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
     "bank": "practice",
-    "skill": "explain_landscape_change",
-    "question": "At the coastal field station, which explanation best describes why sand settles where a river enters a calm lake?",
-    "audio_prompt": "At the coastal field station, which explanation best describes why sand settles where a river enters a calm lake?",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "Which example shows weathering?",
+    "audio_prompt": "Which example shows weathering?",
+    "audioPrompt": "Which example shows weathering?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u04.svg#ac9s5u04-p-006",
-      "alt_text": "At the coastal field station: explain landscape change, shown as a three-step erosion reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "rock is broken down in place",
+        "text": "A river carrying sand downstream",
         "is_correct": false
       },
       {
-        "text": "weathered material is removed",
+        "text": "Mud settling at a river mouth",
         "is_correct": false
       },
       {
-        "text": "slower water loses energy and sediment settles",
+        "text": "A wave moving pebbles along a beach",
+        "is_correct": false
+      },
+      {
+        "text": "Tree roots widening cracks in rock",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "A river carrying sand downstream",
+      "Mud settling at a river mouth",
+      "A wave moving pebbles along a beach",
+      "Tree roots widening cracks in rock"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "The explanation connects the agent's energy with breakdown, movement or settling.",
-      "hint": "Follow the sediment and identify what changes at this location."
+      "summary": "Roots can break rock apart in place, which is weathering.",
+      "hint": "Rock breaks where it is."
     },
+    "structuredExplanation": {
+      "summary": "Roots can break rock apart in place, which is weathering.",
+      "hint": "Rock breaks where it is."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 6,
+    "sequencePriority": 6,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u04-p-007",
-    "curriculum_code": "AC9S5U04",
-    "year_level": "Year 5",
+    "id": "AC9S5U04-P-007",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
     "bank": "practice",
-    "skill": "classify_a_geological_process",
-    "question": "While comparing samples, rock cracks after repeated freezing and thawing. Which geological process is occurring?",
-    "audio_prompt": "While comparing samples, rock cracks after repeated freezing and thawing. Which geological process is occurring?",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "Which example shows erosion?",
+    "audio_prompt": "Which example shows erosion?",
+    "audioPrompt": "Which example shows erosion?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u04.svg#ac9s5u04-p-007",
-      "alt_text": "While comparing samples: classify a geological process, shown as a three-step erosion reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "weathering",
+        "text": "Sand settling in calm water",
+        "is_correct": false
+      },
+      {
+        "text": "Sediment forming layers in a jar",
+        "is_correct": false
+      },
+      {
+        "text": "Rainwater carrying loosened soil from a bare slope",
         "is_correct": true
       },
       {
-        "text": "erosion",
-        "is_correct": false
-      },
-      {
-        "text": "transportation",
+        "text": "Rock cracking but staying in place",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Sand settling in calm water",
+      "Sediment forming layers in a jar",
+      "Rainwater carrying loosened soil from a bare slope",
+      "Rock cracking but staying in place"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "The event shows weathering.",
-      "hint": "Decide whether material is breaking down, being removed, moving or settling."
+      "summary": "Erosion removes and carries away loosened material.",
+      "hint": "Taken from the slope."
     },
+    "structuredExplanation": {
+      "summary": "Erosion removes and carries away loosened material.",
+      "hint": "Taken from the slope."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 7,
+    "sequencePriority": 7,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u04-p-008",
-    "curriculum_code": "AC9S5U04",
-    "year_level": "Year 5",
+    "id": "AC9S5U04-P-008",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
     "bank": "practice",
-    "skill": "explain_landscape_change",
-    "question": "In the school laboratory, which explanation best describes why a river carries sand downstream?",
-    "audio_prompt": "In the school laboratory, which explanation best describes why a river carries sand downstream?",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "Which example shows deposition?",
+    "audio_prompt": "Which example shows deposition?",
+    "audioPrompt": "Which example shows deposition?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u04.svg#ac9s5u04-p-008",
-      "alt_text": "In the school laboratory: explain landscape change, shown as a three-step erosion reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "rock is broken down in place",
+        "text": "Rock cracking in frost",
         "is_correct": false
       },
       {
-        "text": "moving water carries sediment",
+        "text": "Sand building up where a creek slows near a lake",
         "is_correct": true
       },
       {
-        "text": "weathered material is removed",
+        "text": "Water cutting into a bank",
+        "is_correct": false
+      },
+      {
+        "text": "Wind lifting dry dust",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "Rock cracking in frost",
+      "Sand building up where a creek slows near a lake",
+      "Water cutting into a bank",
+      "Wind lifting dry dust"
+    ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "The explanation connects the agent's energy with breakdown, movement or settling.",
-      "hint": "Follow the sediment and identify what changes at this location."
+      "summary": "Sediment is deposited where the moving water loses energy.",
+      "hint": "Settling builds up."
     },
+    "structuredExplanation": {
+      "summary": "Sediment is deposited where the moving water loses energy.",
+      "hint": "Settling builds up."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 8,
+    "sequencePriority": 8,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u04-p-009",
-    "curriculum_code": "AC9S5U04",
-    "year_level": "Year 5",
+    "id": "AC9S5U04-P-009",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
     "bank": "practice",
-    "skill": "classify_a_geological_process",
-    "question": "During a weather study, wind carries dry dust across a plain. Which geological process is occurring?",
-    "audio_prompt": "During a weather study, wind carries dry dust across a plain. Which geological process is occurring?",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "Which landform can be built by deposition?",
+    "audio_prompt": "Which landform can be built by deposition?",
+    "audioPrompt": "Which landform can be built by deposition?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u04.svg#ac9s5u04-p-009",
-      "alt_text": "During a weather study: classify a geological process, shown as a three-step erosion reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "weathering",
-        "is_correct": false
-      },
-      {
-        "text": "erosion",
-        "is_correct": false
-      },
-      {
-        "text": "transportation",
+        "text": "Beach",
         "is_correct": true
+      },
+      {
+        "text": "Fresh crack in a boulder",
+        "is_correct": false
+      },
+      {
+        "text": "Shadow",
+        "is_correct": false
+      },
+      {
+        "text": "Mirror image",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The event shows transportation.",
-      "hint": "Decide whether material is breaking down, being removed, moving or settling."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9s5u04-p-010",
-    "curriculum_code": "AC9S5U04",
-    "year_level": "Year 5",
-    "subject": "science",
-    "bank": "practice",
-    "skill": "explain_landscape_change",
-    "question": "At the wildlife centre, which explanation best describes why rock cracks after repeated freezing and thawing?",
-    "audio_prompt": "At the wildlife centre, which explanation best describes why rock cracks after repeated freezing and thawing?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u04.svg#ac9s5u04-p-010",
-      "alt_text": "At the wildlife centre: explain landscape change, shown as a three-step erosion reasoning pathway."
-    },
-    "answers": [
-      {
-        "text": "rock is broken down in place",
-        "is_correct": true
-      },
-      {
-        "text": "weathered material is removed",
-        "is_correct": false
-      },
-      {
-        "text": "moving water carries sediment",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "Beach",
+      "Fresh crack in a boulder",
+      "Shadow",
+      "Mirror image"
     ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "The explanation connects the agent's energy with breakdown, movement or settling.",
-      "hint": "Follow the sediment and identify what changes at this location."
+      "summary": "Beaches can form where waves deposit sand.",
+      "hint": "Built by settled sediment."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Beaches can form where waves deposit sand.",
+      "hint": "Built by settled sediment."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 9,
+    "sequencePriority": 9,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u04-p-011",
-    "curriculum_code": "AC9S5U04",
-    "year_level": "Year 5",
+    "id": "AC9S5U04-P-010",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
     "bank": "practice",
-    "skill": "classify_a_geological_process",
-    "question": "While reviewing a data table, a river carries sand downstream. Which geological process is occurring?",
-    "audio_prompt": "While reviewing a data table, a river carries sand downstream. Which geological process is occurring?",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "Which statement correctly separates weathering and erosion?",
+    "audio_prompt": "Which statement correctly separates weathering and erosion?",
+    "audioPrompt": "Which statement correctly separates weathering and erosion?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u04.svg#ac9s5u04-p-011",
-      "alt_text": "While reviewing a data table: classify a geological process, shown as a three-step erosion reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "weathering",
+        "text": "Weathering and erosion are exactly the same",
         "is_correct": false
       },
       {
-        "text": "transportation",
+        "text": "Erosion means sediment settles",
+        "is_correct": false
+      },
+      {
+        "text": "Weathering only happens in oceans",
+        "is_correct": false
+      },
+      {
+        "text": "Weathering breaks rock down; erosion moves material away",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Weathering and erosion are exactly the same",
+      "Erosion means sediment settles",
+      "Weathering only happens in oceans",
+      "Weathering breaks rock down; erosion moves material away"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Weathering is breakdown, while erosion involves removal.",
+      "hint": "Breakdown versus movement."
+    },
+    "structuredExplanation": {
+      "summary": "Weathering is breakdown, while erosion involves removal.",
+      "hint": "Breakdown versus movement."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 10,
+    "sequencePriority": 10,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U04-P-011",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
+    "bank": "practice",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "Why can vegetation reduce erosion on a slope?",
+    "audio_prompt": "Why can vegetation reduce erosion on a slope?",
+    "audioPrompt": "Why can vegetation reduce erosion on a slope?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Plants turn all soil into rock",
+        "is_correct": false
+      },
+      {
+        "text": "Vegetation increases every flood",
+        "is_correct": false
+      },
+      {
+        "text": "Roots hold soil and leaves reduce the impact of raindrops",
         "is_correct": true
       },
       {
-        "text": "erosion",
+        "text": "Leaves make gravity stop",
         "is_correct": false
       }
+    ],
+    "answer_texts": [
+      "Plants turn all soil into rock",
+      "Vegetation increases every flood",
+      "Roots hold soil and leaves reduce the impact of raindrops",
+      "Leaves make gravity stop"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Plant roots stabilise soil and leaves can soften rainfall impact.",
+      "hint": "Roots plus leaf cover."
+    },
+    "structuredExplanation": {
+      "summary": "Plant roots stabilise soil and leaves can soften rainfall impact.",
+      "hint": "Roots plus leaf cover."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 11,
+    "sequencePriority": 11,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U04-P-012",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
+    "bank": "practice",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "Why does a steeper slope often increase erosion by water?",
+    "audio_prompt": "Why does a steeper slope often increase erosion by water?",
+    "audioPrompt": "Why does a steeper slope often increase erosion by water?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Deposition always happens fastest on the steepest part",
+        "is_correct": false
+      },
+      {
+        "text": "Runoff can move faster and carry more sediment",
+        "is_correct": true
+      },
+      {
+        "text": "Water stops moving on steep slopes",
+        "is_correct": false
+      },
+      {
+        "text": "Steeper slopes make sediment heavier",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Deposition always happens fastest on the steepest part",
+      "Runoff can move faster and carry more sediment",
+      "Water stops moving on steep slopes",
+      "Steeper slopes make sediment heavier"
     ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "The event shows transportation.",
-      "hint": "Decide whether material is breaking down, being removed, moving or settling."
+      "summary": "Faster runoff has more energy to move loosened material.",
+      "hint": "Speed and transport."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Faster runoff has more energy to move loosened material.",
+      "hint": "Speed and transport."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 12,
+    "sequencePriority": 12,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u04-p-012",
-    "curriculum_code": "AC9S5U04",
-    "year_level": "Year 5",
+    "id": "AC9S5U04-P-013",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
     "bank": "practice",
-    "skill": "explain_landscape_change",
-    "question": "In a materials investigation, which explanation best describes why wind carries dry dust across a plain?",
-    "audio_prompt": "In a materials investigation, which explanation best describes why wind carries dry dust across a plain?",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "Why is deposition likely where a river enters a still lake?",
+    "audio_prompt": "Why is deposition likely where a river enters a still lake?",
+    "audioPrompt": "Why is deposition likely where a river enters a still lake?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u04.svg#ac9s5u04-p-012",
-      "alt_text": "In a materials investigation: explain landscape change, shown as a three-step erosion reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "rock is broken down in place",
-        "is_correct": false
-      },
-      {
-        "text": "weathered material is removed",
-        "is_correct": false
-      },
-      {
-        "text": "moving air carries loose particles",
+        "text": "The water slows and drops some of the sediment it carried",
         "is_correct": true
+      },
+      {
+        "text": "The sediment becomes invisible gas",
+        "is_correct": false
+      },
+      {
+        "text": "The lake makes rocks crack only",
+        "is_correct": false
+      },
+      {
+        "text": "Fast water always deposits most sediment",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The explanation connects the agent's energy with breakdown, movement or settling.",
-      "hint": "Follow the sediment and identify what changes at this location."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9s5u04-p-013",
-    "curriculum_code": "AC9S5U04",
-    "year_level": "Year 5",
-    "subject": "science",
-    "bank": "practice",
-    "skill": "classify_a_geological_process",
-    "question": "During an outdoor observation, rainwater removes loose soil from bare ground. Which geological process is occurring?",
-    "audio_prompt": "During an outdoor observation, rainwater removes loose soil from bare ground. Which geological process is occurring?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u04.svg#ac9s5u04-p-013",
-      "alt_text": "During an outdoor observation: classify a geological process, shown as a three-step erosion reasoning pathway."
-    },
-    "answers": [
-      {
-        "text": "erosion",
-        "is_correct": true
-      },
-      {
-        "text": "weathering",
-        "is_correct": false
-      },
-      {
-        "text": "transportation",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "The water slows and drops some of the sediment it carried",
+      "The sediment becomes invisible gas",
+      "The lake makes rocks crack only",
+      "Fast water always deposits most sediment"
     ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "The event shows erosion.",
-      "hint": "Decide whether material is breaking down, being removed, moving or settling."
+      "summary": "When water loses energy, sediment can settle.",
+      "hint": "Slower water."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "When water loses energy, sediment can settle.",
+      "hint": "Slower water."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 13,
+    "sequencePriority": 13,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u04-p-014",
-    "curriculum_code": "AC9S5U04",
-    "year_level": "Year 5",
+    "id": "AC9S5U04-P-014",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
     "bank": "practice",
-    "skill": "explain_landscape_change",
-    "question": "At the community science fair, which explanation best describes why sand settles where a river enters a calm lake?",
-    "audio_prompt": "At the community science fair, which explanation best describes why sand settles where a river enters a calm lake?",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "Why is “change only happens during disasters” wrong?",
+    "audio_prompt": "Why is “change only happens during disasters” wrong?",
+    "audioPrompt": "Why is “change only happens during disasters” wrong?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u04.svg#ac9s5u04-p-014",
-      "alt_text": "At the community science fair: explain landscape change, shown as a three-step erosion reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "rock is broken down in place",
+        "text": "Landscapes never change slowly",
         "is_correct": false
       },
       {
-        "text": "slower water loses energy and sediment settles",
+        "text": "Only earthquakes can move sediment",
+        "is_correct": false
+      },
+      {
+        "text": "Rain cannot affect land",
+        "is_correct": false
+      },
+      {
+        "text": "Small repeated weathering and erosion can change landscapes over long times",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Landscapes never change slowly",
+      "Only earthquakes can move sediment",
+      "Rain cannot affect land",
+      "Small repeated weathering and erosion can change landscapes over long times"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Slow repeated processes can reshape Earth’s surface over time.",
+      "hint": "Many small changes."
+    },
+    "structuredExplanation": {
+      "summary": "Slow repeated processes can reshape Earth’s surface over time.",
+      "hint": "Many small changes."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 14,
+    "sequencePriority": 14,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U04-P-015",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
+    "bank": "practice",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "Why are weathering and erosion often connected?",
+    "audio_prompt": "Why are weathering and erosion often connected?",
+    "audioPrompt": "Why are weathering and erosion often connected?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Weathering means sediment settles in layers",
+        "is_correct": false
+      },
+      {
+        "text": "They are unrelated to landscapes",
+        "is_correct": false
+      },
+      {
+        "text": "Weathering makes loose material that erosion can remove",
         "is_correct": true
       },
       {
-        "text": "weathered material is removed",
+        "text": "Erosion happens before any rock exists",
         "is_correct": false
       }
+    ],
+    "answer_texts": [
+      "Weathering means sediment settles in layers",
+      "They are unrelated to landscapes",
+      "Weathering makes loose material that erosion can remove",
+      "Erosion happens before any rock exists"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Broken-down material is easier for water, wind or ice to move.",
+      "hint": "Break then remove."
+    },
+    "structuredExplanation": {
+      "summary": "Broken-down material is easier for water, wind or ice to move.",
+      "hint": "Break then remove."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 15,
+    "sequencePriority": 15,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U04-P-016",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
+    "bank": "practice",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "How can freeze-thaw weathering widen cracks?",
+    "audio_prompt": "How can freeze-thaw weathering widen cracks?",
+    "audioPrompt": "How can freeze-thaw weathering widen cracks?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Freezing makes rocks magnetic",
+        "is_correct": false
+      },
+      {
+        "text": "Water enters cracks, freezes, expands and pushes the rock apart",
+        "is_correct": true
+      },
+      {
+        "text": "Ice melts rocks into sunlight",
+        "is_correct": false
+      },
+      {
+        "text": "Cold air carries sediment downstream",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Freezing makes rocks magnetic",
+      "Water enters cracks, freezes, expands and pushes the rock apart",
+      "Ice melts rocks into sunlight",
+      "Cold air carries sediment downstream"
     ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "The explanation connects the agent's energy with breakdown, movement or settling.",
-      "hint": "Follow the sediment and identify what changes at this location."
+      "summary": "Expanding ice can force cracks wider over repeated cycles.",
+      "hint": "Water expands when freezing."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Expanding ice can force cracks wider over repeated cycles.",
+      "hint": "Water expands when freezing."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 16,
+    "sequencePriority": 16,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u04-p-015",
-    "curriculum_code": "AC9S5U04",
-    "year_level": "Year 5",
+    "id": "AC9S5U04-P-017",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
     "bank": "practice",
-    "skill": "classify_a_geological_process",
-    "question": "While planning a fair test, a delta grows at a river mouth. Which geological process is occurring?",
-    "audio_prompt": "While planning a fair test, a delta grows at a river mouth. Which geological process is occurring?",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "Why can strong wind move dry sand more easily than wet clay?",
+    "audio_prompt": "Why can strong wind move dry sand more easily than wet clay?",
+    "audioPrompt": "Why can strong wind move dry sand more easily than wet clay?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u04.svg#ac9s5u04-p-015",
-      "alt_text": "While planning a fair test: classify a geological process, shown as a three-step erosion reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "weathering",
-        "is_correct": false
-      },
-      {
-        "text": "erosion",
-        "is_correct": false
-      },
-      {
-        "text": "deposition",
+        "text": "Loose dry particles are easier for wind to lift and transport",
         "is_correct": true
+      },
+      {
+        "text": "Wind only moves wet material",
+        "is_correct": false
+      },
+      {
+        "text": "Clay has no particles",
+        "is_correct": false
+      },
+      {
+        "text": "Dry sand is not matter",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The event shows deposition.",
-      "hint": "Decide whether material is breaking down, being removed, moving or settling."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9s5u04-p-016",
-    "curriculum_code": "AC9S5U04",
-    "year_level": "Year 5",
-    "subject": "science",
-    "bank": "practice",
-    "skill": "explain_landscape_change",
-    "question": "In a digital science journal, which explanation best describes why rainwater removes loose soil from bare ground?",
-    "audio_prompt": "In a digital science journal, which explanation best describes why rainwater removes loose soil from bare ground?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u04.svg#ac9s5u04-p-016",
-      "alt_text": "In a digital science journal: explain landscape change, shown as a three-step erosion reasoning pathway."
-    },
-    "answers": [
-      {
-        "text": "weathered material is removed",
-        "is_correct": true
-      },
-      {
-        "text": "rock is broken down in place",
-        "is_correct": false
-      },
-      {
-        "text": "moving water carries sediment",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "Loose dry particles are easier for wind to lift and transport",
+      "Wind only moves wet material",
+      "Clay has no particles",
+      "Dry sand is not matter"
     ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "The explanation connects the agent's energy with breakdown, movement or settling.",
-      "hint": "Follow the sediment and identify what changes at this location."
+      "summary": "Particle size, looseness and moisture affect transport.",
+      "hint": "Loose and dry."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Particle size, looseness and moisture affect transport.",
+      "hint": "Loose and dry."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 17,
+    "sequencePriority": 17,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u04-p-017",
-    "curriculum_code": "AC9S5U04",
-    "year_level": "Year 5",
+    "id": "AC9S5U04-P-018",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
     "bank": "practice",
-    "skill": "classify_a_geological_process",
-    "question": "During a light investigation, sand settles where a river enters a calm lake. Which geological process is occurring?",
-    "audio_prompt": "During a light investigation, sand settles where a river enters a calm lake. Which geological process is occurring?",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "Why can deposition build land as well as change land?",
+    "audio_prompt": "Why can deposition build land as well as change land?",
+    "audioPrompt": "Why can deposition build land as well as change land?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u04.svg#ac9s5u04-p-017",
-      "alt_text": "During a light investigation: classify a geological process, shown as a three-step erosion reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "weathering",
+        "text": "Deposition only destroys mountains",
         "is_correct": false
       },
       {
-        "text": "deposition",
+        "text": "Settling sediment disappears",
+        "is_correct": false
+      },
+      {
+        "text": "Deposited material cannot become landforms",
+        "is_correct": false
+      },
+      {
+        "text": "Settled sediment can accumulate into layers, bars, beaches or deltas",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Deposition only destroys mountains",
+      "Settling sediment disappears",
+      "Deposited material cannot become landforms",
+      "Settled sediment can accumulate into layers, bars, beaches or deltas"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Deposition adds material to places where sediment settles.",
+      "hint": "Sediment builds up."
+    },
+    "structuredExplanation": {
+      "summary": "Deposition adds material to places where sediment settles.",
+      "hint": "Sediment builds up."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 18,
+    "sequencePriority": 18,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U04-P-019",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
+    "bank": "practice",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "Why should a stream-table model not be treated as real time?",
+    "audio_prompt": "Why should a stream-table model not be treated as real time?",
+    "audioPrompt": "Why should a stream-table model not be treated as real time?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Models include every rock type exactly",
+        "is_correct": false
+      },
+      {
+        "text": "Models cannot show any relationship",
+        "is_correct": false
+      },
+      {
+        "text": "It speeds up and simplifies processes that may take much longer outdoors",
         "is_correct": true
       },
       {
-        "text": "erosion",
+        "text": "Classroom models run at real landscape time",
         "is_correct": false
       }
+    ],
+    "answer_texts": [
+      "Models include every rock type exactly",
+      "Models cannot show any relationship",
+      "It speeds up and simplifies processes that may take much longer outdoors",
+      "Classroom models run at real landscape time"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Models can show relationships while leaving out scale and time.",
+      "hint": "Model limitation."
+    },
+    "structuredExplanation": {
+      "summary": "Models can show relationships while leaving out scale and time.",
+      "hint": "Model limitation."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 19,
+    "sequencePriority": 19,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U04-P-020",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
+    "bank": "practice",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "Why might bare soil erode more than soil covered by plants?",
+    "audio_prompt": "Why might bare soil erode more than soil covered by plants?",
+    "audioPrompt": "Why might bare soil erode more than soil covered by plants?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Covered soil cannot be affected by water at all",
+        "is_correct": false
+      },
+      {
+        "text": "Bare soil is more exposed to raindrop impact and runoff",
+        "is_correct": true
+      },
+      {
+        "text": "Bare soil has stronger roots",
+        "is_correct": false
+      },
+      {
+        "text": "Plants make soil float away faster",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Covered soil cannot be affected by water at all",
+      "Bare soil is more exposed to raindrop impact and runoff",
+      "Bare soil has stronger roots",
+      "Plants make soil float away faster"
     ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "The event shows deposition.",
-      "hint": "Decide whether material is breaking down, being removed, moving or settling."
+      "summary": "Vegetation protects and stabilises soil.",
+      "hint": "Less protection when bare."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Vegetation protects and stabilises soil.",
+      "hint": "Less protection when bare."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 20,
+    "sequencePriority": 20,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u04-p-018",
-    "curriculum_code": "AC9S5U04",
-    "year_level": "Year 5",
+    "id": "AC9S5U04-P-021",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
     "bank": "practice",
-    "skill": "explain_landscape_change",
-    "question": "At the local wetland, which explanation best describes why a delta grows at a river mouth?",
-    "audio_prompt": "At the local wetland, which explanation best describes why a delta grows at a river mouth?",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "Which statement is a misconception?",
+    "audio_prompt": "Which statement is a misconception?",
+    "audioPrompt": "Which statement is a misconception?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u04.svg#ac9s5u04-p-018",
-      "alt_text": "At the local wetland: explain landscape change, shown as a three-step erosion reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "rock is broken down in place",
-        "is_correct": false
-      },
-      {
-        "text": "weathered material is removed",
-        "is_correct": false
-      },
-      {
-        "text": "sediment builds up as flow slows",
+        "text": "Weathering and erosion are the same process",
         "is_correct": true
+      },
+      {
+        "text": "Weathering breaks rock down in place",
+        "is_correct": false
+      },
+      {
+        "text": "Erosion removes material",
+        "is_correct": false
+      },
+      {
+        "text": "Deposition can build landforms",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The explanation connects the agent's energy with breakdown, movement or settling.",
-      "hint": "Follow the sediment and identify what changes at this location."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9s5u04-p-019",
-    "curriculum_code": "AC9S5U04",
-    "year_level": "Year 5",
-    "subject": "science",
-    "bank": "practice",
-    "skill": "classify_a_geological_process",
-    "question": "While checking another group's method, a river carries sand downstream. Which geological process is occurring?",
-    "audio_prompt": "While checking another group's method, a river carries sand downstream. Which geological process is occurring?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u04.svg#ac9s5u04-p-019",
-      "alt_text": "While checking another group's method: classify a geological process, shown as a three-step erosion reasoning pathway."
-    },
-    "answers": [
-      {
-        "text": "transportation",
-        "is_correct": true
-      },
-      {
-        "text": "weathering",
-        "is_correct": false
-      },
-      {
-        "text": "erosion",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "Weathering and erosion are the same process",
+      "Weathering breaks rock down in place",
+      "Erosion removes material",
+      "Deposition can build landforms"
     ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "The event shows transportation.",
-      "hint": "Decide whether material is breaking down, being removed, moving or settling."
+      "summary": "Weathering and erosion are related but different.",
+      "hint": "Not synonyms."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Weathering and erosion are related but different.",
+      "hint": "Not synonyms."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 21,
+    "sequencePriority": 21,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u04-p-020",
-    "curriculum_code": "AC9S5U04",
-    "year_level": "Year 5",
+    "id": "AC9S5U04-P-022",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
     "bank": "practice",
-    "skill": "explain_landscape_change",
-    "question": "In a model-building lesson, which explanation best describes why wind carries dry dust across a plain?",
-    "audio_prompt": "In a model-building lesson, which explanation best describes why wind carries dry dust across a plain?",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "Which process is shown when cliff rock cracks but stays on the cliff?",
+    "audio_prompt": "Which process is shown when cliff rock cracks but stays on the cliff?",
+    "audioPrompt": "Which process is shown when cliff rock cracks but stays on the cliff?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u04.svg#ac9s5u04-p-020",
-      "alt_text": "In a model-building lesson: explain landscape change, shown as a three-step erosion reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "rock is broken down in place",
+        "text": "Deposition",
         "is_correct": false
       },
       {
-        "text": "moving air carries loose particles",
+        "text": "Transportation",
+        "is_correct": false
+      },
+      {
+        "text": "Reflection",
+        "is_correct": false
+      },
+      {
+        "text": "Weathering",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Deposition",
+      "Transportation",
+      "Reflection",
+      "Weathering"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "The rock is being broken down in place.",
+      "hint": "No movement away yet."
+    },
+    "structuredExplanation": {
+      "summary": "The rock is being broken down in place.",
+      "hint": "No movement away yet."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 22,
+    "sequencePriority": 22,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U04-P-023",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
+    "bank": "practice",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "Which process is shown when floodwater carries muddy sediment downstream?",
+    "audio_prompt": "Which process is shown when floodwater carries muddy sediment downstream?",
+    "audioPrompt": "Which process is shown when floodwater carries muddy sediment downstream?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Deposition only",
+        "is_correct": false
+      },
+      {
+        "text": "Condensation",
+        "is_correct": false
+      },
+      {
+        "text": "Transportation",
         "is_correct": true
       },
       {
-        "text": "weathered material is removed",
+        "text": "Weathering",
         "is_correct": false
       }
+    ],
+    "answer_texts": [
+      "Deposition only",
+      "Condensation",
+      "Transportation",
+      "Weathering"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "The sediment is being moved by water.",
+      "hint": "Carried along."
+    },
+    "structuredExplanation": {
+      "summary": "The sediment is being moved by water.",
+      "hint": "Carried along."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 23,
+    "sequencePriority": 23,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U04-P-024",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
+    "bank": "practice",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "Which process is shown when muddy water slows and leaves silt on a floodplain?",
+    "audio_prompt": "Which process is shown when muddy water slows and leaves silt on a floodplain?",
+    "audioPrompt": "Which process is shown when muddy water slows and leaves silt on a floodplain?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Absorption",
+        "is_correct": false
+      },
+      {
+        "text": "Deposition",
+        "is_correct": true
+      },
+      {
+        "text": "Weathering",
+        "is_correct": false
+      },
+      {
+        "text": "Refraction",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Absorption",
+      "Deposition",
+      "Weathering",
+      "Refraction"
     ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "The explanation connects the agent's energy with breakdown, movement or settling.",
-      "hint": "Follow the sediment and identify what changes at this location."
+      "summary": "The sediment settles as the water slows.",
+      "hint": "Dropped sediment."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "The sediment settles as the water slows.",
+      "hint": "Dropped sediment."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 24,
+    "sequencePriority": 24,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u04-p-021",
-    "curriculum_code": "AC9S5U04",
-    "year_level": "Year 5",
+    "id": "AC9S5U04-P-025",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
     "bank": "practice",
-    "skill": "classify_a_geological_process",
-    "question": "During a temperature investigation, rock cracks after repeated freezing and thawing. Which geological process is occurring?",
-    "audio_prompt": "During a temperature investigation, rock cracks after repeated freezing and thawing. Which geological process is occurring?",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "Which location is most likely to show deposition in a stream table?",
+    "audio_prompt": "Which location is most likely to show deposition in a stream table?",
+    "audioPrompt": "Which location is most likely to show deposition in a stream table?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u04.svg#ac9s5u04-p-021",
-      "alt_text": "During a temperature investigation: classify a geological process, shown as a three-step erosion reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "erosion",
-        "is_correct": false
-      },
-      {
-        "text": "transportation",
-        "is_correct": false
-      },
-      {
-        "text": "weathering",
+        "text": "Where the water slows at the lower end",
         "is_correct": true
+      },
+      {
+        "text": "At the narrow fastest channel only",
+        "is_correct": false
+      },
+      {
+        "text": "Inside a dry rock crack",
+        "is_correct": false
+      },
+      {
+        "text": "Above the water source",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Where the water slows at the lower end",
+      "At the narrow fastest channel only",
+      "Inside a dry rock crack",
+      "Above the water source"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "The event shows weathering.",
-      "hint": "Decide whether material is breaking down, being removed, moving or settling."
+      "summary": "Slower water is more likely to drop sediment.",
+      "hint": "Low energy area."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Slower water is more likely to drop sediment.",
+      "hint": "Low energy area."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 25,
+    "sequencePriority": 25,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u04-p-022",
-    "curriculum_code": "AC9S5U04",
-    "year_level": "Year 5",
+    "id": "AC9S5U04-P-026",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
     "bank": "practice",
-    "skill": "explain_landscape_change",
-    "question": "At the environmental centre, which explanation best describes why a river carries sand downstream?",
-    "audio_prompt": "At the environmental centre, which explanation best describes why a river carries sand downstream?",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "Which condition would likely reduce soil erosion?",
+    "audio_prompt": "Which condition would likely reduce soil erosion?",
+    "audioPrompt": "Which condition would likely reduce soil erosion?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u04.svg#ac9s5u04-p-022",
-      "alt_text": "At the environmental centre: explain landscape change, shown as a three-step erosion reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "moving water carries sediment",
+        "text": "Bare loose soil after digging",
+        "is_correct": false
+      },
+      {
+        "text": "Very steep exposed ground",
+        "is_correct": false
+      },
+      {
+        "text": "Fast runoff after heavy rain",
+        "is_correct": false
+      },
+      {
+        "text": "Dense grass cover on a slope",
         "is_correct": true
-      },
-      {
-        "text": "rock is broken down in place",
-        "is_correct": false
-      },
-      {
-        "text": "weathered material is removed",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Bare loose soil after digging",
+      "Very steep exposed ground",
+      "Fast runoff after heavy rain",
+      "Dense grass cover on a slope"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "The explanation connects the agent's energy with breakdown, movement or settling.",
-      "hint": "Follow the sediment and identify what changes at this location."
+      "summary": "Grass roots and cover can protect soil.",
+      "hint": "Vegetation helps."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Grass roots and cover can protect soil.",
+      "hint": "Vegetation helps."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 26,
+    "sequencePriority": 26,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u04-p-023",
-    "curriculum_code": "AC9S5U04",
-    "year_level": "Year 5",
+    "id": "AC9S5U04-P-027",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
     "bank": "practice",
-    "skill": "classify_a_geological_process",
-    "question": "While preparing a science report, wind carries dry dust across a plain. Which geological process is occurring?",
-    "audio_prompt": "While preparing a science report, wind carries dry dust across a plain. Which geological process is occurring?",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "Which condition would likely increase sediment transport by water?",
+    "audio_prompt": "Which condition would likely increase sediment transport by water?",
+    "audioPrompt": "Which condition would likely increase sediment transport by water?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u04.svg#ac9s5u04-p-023",
-      "alt_text": "While preparing a science report: classify a geological process, shown as a three-step erosion reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "weathering",
+        "text": "Dense roots across the soil",
         "is_correct": false
       },
       {
-        "text": "transportation",
+        "text": "No loose sediment present",
+        "is_correct": false
+      },
+      {
+        "text": "Faster runoff on a steep slope",
         "is_correct": true
       },
       {
-        "text": "erosion",
+        "text": "Calm water in a flat pond",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "Dense roots across the soil",
+      "No loose sediment present",
+      "Faster runoff on a steep slope",
+      "Calm water in a flat pond"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "The event shows transportation.",
-      "hint": "Decide whether material is breaking down, being removed, moving or settling."
+      "summary": "Faster moving water can carry more sediment.",
+      "hint": "More energy."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Faster moving water can carry more sediment.",
+      "hint": "More energy."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 27,
+    "sequencePriority": 27,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u04-p-024",
-    "curriculum_code": "AC9S5U04",
-    "year_level": "Year 5",
+    "id": "AC9S5U04-P-028",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
     "bank": "practice",
-    "skill": "explain_landscape_change",
-    "question": "In a research discussion, which explanation best describes why rock cracks after repeated freezing and thawing?",
-    "audio_prompt": "In a research discussion, which explanation best describes why rock cracks after repeated freezing and thawing?",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "Which is a model limitation for a classroom erosion tray?",
+    "audio_prompt": "Which is a model limitation for a classroom erosion tray?",
+    "audioPrompt": "Which is a model limitation for a classroom erosion tray?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u04.svg#ac9s5u04-p-024",
-      "alt_text": "In a research discussion: explain landscape change, shown as a three-step erosion reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "weathered material is removed",
+        "text": "It includes every climate condition",
         "is_correct": false
       },
       {
-        "text": "moving water carries sediment",
+        "text": "It cannot show real landscape timescales or all rock types",
+        "is_correct": true
+      },
+      {
+        "text": "It proves exactly how every river behaves",
         "is_correct": false
       },
       {
-        "text": "rock is broken down in place",
+        "text": "It has no simplifications",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "It includes every climate condition",
+      "It cannot show real landscape timescales or all rock types",
+      "It proves exactly how every river behaves",
+      "It has no simplifications"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Classroom models simplify scale, materials and time.",
+      "hint": "Model limits."
+    },
+    "structuredExplanation": {
+      "summary": "Classroom models simplify scale, materials and time.",
+      "hint": "Model limits."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 28,
+    "sequencePriority": 28,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U04-P-029",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
+    "bank": "practice",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "Which statement about deposition is accurate?",
+    "audio_prompt": "Which statement about deposition is accurate?",
+    "audioPrompt": "Which statement about deposition is accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "It can form layers where sediment settles",
+        "is_correct": true
+      },
+      {
+        "text": "It only means rocks crack",
+        "is_correct": false
+      },
+      {
+        "text": "It never builds features",
+        "is_correct": false
+      },
+      {
+        "text": "It is the same as weathering",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "It can form layers where sediment settles",
+      "It only means rocks crack",
+      "It never builds features",
+      "It is the same as weathering"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Deposition can build layers or landforms.",
+      "hint": "Settled sediment."
+    },
+    "structuredExplanation": {
+      "summary": "Deposition can build layers or landforms.",
+      "hint": "Settled sediment."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 29,
+    "sequencePriority": 29,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U04-P-030",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
+    "bank": "practice",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "Which sequence best matches the process chain?",
+    "audio_prompt": "Which sequence best matches the process chain?",
+    "audioPrompt": "Which sequence best matches the process chain?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "deposition → sunlight → reflection → digestion",
+        "is_correct": false
+      },
+      {
+        "text": "transportation → weathering only after settling → refraction",
+        "is_correct": false
+      },
+      {
+        "text": "erosion → freezing → magnetism → evaporation",
+        "is_correct": false
+      },
+      {
+        "text": "weathering → erosion → transportation → deposition",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "deposition → sunlight → reflection → digestion",
+      "transportation → weathering only after settling → refraction",
+      "erosion → freezing → magnetism → evaporation",
+      "weathering → erosion → transportation → deposition"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "The explanation connects the agent's energy with breakdown, movement or settling.",
-      "hint": "Follow the sediment and identify what changes at this location."
+      "summary": "The sequence follows breakdown, removal, movement and settling.",
+      "hint": "Process order."
+    },
+    "structuredExplanation": {
+      "summary": "The sequence follows breakdown, removal, movement and settling.",
+      "hint": "Process order."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 30,
+    "sequencePriority": 30,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U04-P-031",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
+    "bank": "practice",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "A storm hits a bare building site and muddy water runs into the gutter. Which process removed the soil?",
+    "audio_prompt": "A storm hits a bare building site and muddy water runs into the gutter. Which process removed the soil?",
+    "audioPrompt": "A storm hits a bare building site and muddy water runs into the gutter. Which process removed the soil?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Condensation",
+        "is_correct": false
+      },
+      {
+        "text": "Reflection",
+        "is_correct": false
+      },
+      {
+        "text": "Erosion",
+        "is_correct": true
+      },
+      {
+        "text": "Deposition only",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Condensation",
+      "Reflection",
+      "Erosion",
+      "Deposition only"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Runoff removed loosened soil from the site.",
+      "hint": "Soil taken away."
+    },
+    "structuredExplanation": {
+      "summary": "Runoff removed loosened soil from the site.",
+      "hint": "Soil taken away."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 31,
+    "sequencePriority": 31,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U04-P-032",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
+    "bank": "practice",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "Sand piles up behind a low fence on a windy beach. Which process is mostly happening at the fence?",
+    "audio_prompt": "Sand piles up behind a low fence on a windy beach. Which process is mostly happening at the fence?",
+    "audioPrompt": "Sand piles up behind a low fence on a windy beach. Which process is mostly happening at the fence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Freezing",
+        "is_correct": false
+      },
+      {
+        "text": "Deposition",
+        "is_correct": true
+      },
+      {
+        "text": "Weathering",
+        "is_correct": false
+      },
+      {
+        "text": "Refraction",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Freezing",
+      "Deposition",
+      "Weathering",
+      "Refraction"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Wind slows near the fence and drops sand.",
+      "hint": "Sand settles."
+    },
+    "structuredExplanation": {
+      "summary": "Wind slows near the fence and drops sand.",
+      "hint": "Sand settles."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 32,
+    "sequencePriority": 32,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U04-P-033",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
+    "bank": "practice",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "A river carries sand from upstream and drops it where it enters the sea. What landform may begin to build?",
+    "audio_prompt": "A river carries sand from upstream and drops it where it enters the sea. What landform may begin to build?",
+    "audioPrompt": "A river carries sand from upstream and drops it where it enters the sea. What landform may begin to build?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "A delta or sand bar",
+        "is_correct": true
+      },
+      {
+        "text": "A mirror image",
+        "is_correct": false
+      },
+      {
+        "text": "A new shadow",
+        "is_correct": false
+      },
+      {
+        "text": "A frozen glacier instantly",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "A delta or sand bar",
+      "A mirror image",
+      "A new shadow",
+      "A frozen glacier instantly"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Deposition at a river mouth can build deltas or bars.",
+      "hint": "Sediment at river mouth."
+    },
+    "structuredExplanation": {
+      "summary": "Deposition at a river mouth can build deltas or bars.",
+      "hint": "Sediment at river mouth."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 33,
+    "sequencePriority": 33,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U04-P-034",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
+    "bank": "practice",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "A class compares two soil trays: one bare and one covered with grass. What should be kept the same?",
+    "audio_prompt": "A class compares two soil trays: one bare and one covered with grass. What should be kept the same?",
+    "audioPrompt": "A class compares two soil trays: one bare and one covered with grass. What should be kept the same?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Only the grass cover",
+        "is_correct": false
+      },
+      {
+        "text": "The results after testing",
+        "is_correct": false
+      },
+      {
+        "text": "The names of the groups",
+        "is_correct": false
+      },
+      {
+        "text": "Slope, water amount and soil type",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Only the grass cover",
+      "The results after testing",
+      "The names of the groups",
+      "Slope, water amount and soil type"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "A fair comparison changes vegetation cover and controls other conditions.",
+      "hint": "Control non-tested factors."
+    },
+    "structuredExplanation": {
+      "summary": "A fair comparison changes vegetation cover and controls other conditions.",
+      "hint": "Control non-tested factors."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 34,
+    "sequencePriority": 34,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U04-P-035",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
+    "bank": "practice",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "After water flows through a stream table, sediment is found at the lower flat end. What caused this pattern?",
+    "audio_prompt": "After water flows through a stream table, sediment is found at the lower flat end. What caused this pattern?",
+    "audioPrompt": "After water flows through a stream table, sediment is found at the lower flat end. What caused this pattern?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The sediment stopped being matter",
+        "is_correct": false
+      },
+      {
+        "text": "Weathering made a mirror image",
+        "is_correct": false
+      },
+      {
+        "text": "Water slowed and deposited sediment",
+        "is_correct": true
+      },
+      {
+        "text": "Rock grew from sunlight",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "The sediment stopped being matter",
+      "Weathering made a mirror image",
+      "Water slowed and deposited sediment",
+      "Rock grew from sunlight"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Sediment settles where water loses energy.",
+      "hint": "Slower flow."
+    },
+    "structuredExplanation": {
+      "summary": "Sediment settles where water loses energy.",
+      "hint": "Slower flow."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 35,
+    "sequencePriority": 35,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U04-P-036",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
+    "bank": "practice",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "A student says a beach is only destroyed by deposition. What is the best correction?",
+    "audio_prompt": "A student says a beach is only destroyed by deposition. What is the best correction?",
+    "audioPrompt": "A student says a beach is only destroyed by deposition. What is the best correction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Erosion builds every beach alone",
+        "is_correct": false
+      },
+      {
+        "text": "Deposition can build beaches by adding sand, while erosion can remove sand",
+        "is_correct": true
+      },
+      {
+        "text": "Deposition always cracks rocks",
+        "is_correct": false
+      },
+      {
+        "text": "Beaches cannot change",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Erosion builds every beach alone",
+      "Deposition can build beaches by adding sand, while erosion can remove sand",
+      "Deposition always cracks rocks",
+      "Beaches cannot change"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Beach shape can result from both added and removed sediment.",
+      "hint": "Build and remove."
+    },
+    "structuredExplanation": {
+      "summary": "Beach shape can result from both added and removed sediment.",
+      "hint": "Build and remove."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 36,
+    "sequencePriority": 36,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U04-P-037",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
+    "bank": "practice",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "A boulder has cracks widened by plant roots but no pieces have moved away yet. Which process is shown?",
+    "audio_prompt": "A boulder has cracks widened by plant roots but no pieces have moved away yet. Which process is shown?",
+    "audioPrompt": "A boulder has cracks widened by plant roots but no pieces have moved away yet. Which process is shown?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Weathering",
+        "is_correct": true
+      },
+      {
+        "text": "Transportation",
+        "is_correct": false
+      },
+      {
+        "text": "Deposition",
+        "is_correct": false
+      },
+      {
+        "text": "Evaporation",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Weathering",
+      "Transportation",
+      "Deposition",
+      "Evaporation"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "The rock is breaking down in place.",
+      "hint": "In-place breakdown."
+    },
+    "structuredExplanation": {
+      "summary": "The rock is breaking down in place.",
+      "hint": "In-place breakdown."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 37,
+    "sequencePriority": 37,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U04-P-038",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
+    "bank": "practice",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "A creek flows faster after heavy rain and carries more mud. Why?",
+    "audio_prompt": "A creek flows faster after heavy rain and carries more mud. Why?",
+    "audioPrompt": "A creek flows faster after heavy rain and carries more mud. Why?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Mud becomes weightless in rain",
+        "is_correct": false
+      },
+      {
+        "text": "Water cannot move sediment",
+        "is_correct": false
+      },
+      {
+        "text": "Deposition always increases in fast flow",
+        "is_correct": false
+      },
+      {
+        "text": "Faster water has more energy to transport sediment",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Mud becomes weightless in rain",
+      "Water cannot move sediment",
+      "Deposition always increases in fast flow",
+      "Faster water has more energy to transport sediment"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Increased flow can increase erosion and transport.",
+      "hint": "More flow energy."
+    },
+    "structuredExplanation": {
+      "summary": "Increased flow can increase erosion and transport.",
+      "hint": "More flow energy."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 38,
+    "sequencePriority": 38,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U04-P-039",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
+    "bank": "practice",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "A council plants native grasses on a loose slope. Which outcome is most likely?",
+    "audio_prompt": "A council plants native grasses on a loose slope. Which outcome is most likely?",
+    "audioPrompt": "A council plants native grasses on a loose slope. Which outcome is most likely?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Deposition stops everywhere",
+        "is_correct": false
+      },
+      {
+        "text": "Weathering can no longer occur in rocks",
+        "is_correct": false
+      },
+      {
+        "text": "Roots and cover may reduce soil erosion",
+        "is_correct": true
+      },
+      {
+        "text": "The slope becomes immune to all erosion",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Deposition stops everywhere",
+      "Weathering can no longer occur in rocks",
+      "Roots and cover may reduce soil erosion",
+      "The slope becomes immune to all erosion"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Vegetation can reduce but not completely prevent erosion.",
+      "hint": "Reduce, not guarantee."
+    },
+    "structuredExplanation": {
+      "summary": "Vegetation can reduce but not completely prevent erosion.",
+      "hint": "Reduce, not guarantee."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 39,
+    "sequencePriority": 39,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U04-P-040",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
+    "bank": "practice",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "A fast classroom model shows a gully forming in five minutes. What conclusion is safest?",
+    "audio_prompt": "A fast classroom model shows a gully forming in five minutes. What conclusion is safest?",
+    "audioPrompt": "A fast classroom model shows a gully forming in five minutes. What conclusion is safest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The model has no limitations",
+        "is_correct": false
+      },
+      {
+        "text": "The model shows how flowing water can erode, but not the real time needed outdoors",
+        "is_correct": true
+      },
+      {
+        "text": "Real gullies always form in five minutes",
+        "is_correct": false
+      },
+      {
+        "text": "The model proves all soils erode equally",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "The model has no limitations",
+      "The model shows how flowing water can erode, but not the real time needed outdoors",
+      "Real gullies always form in five minutes",
+      "The model proves all soils erode equally"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "A classroom model can demonstrate relationships but not exact real-world timescales.",
+      "hint": "Useful but limited."
+    },
+    "structuredExplanation": {
+      "summary": "A classroom model can demonstrate relationships but not exact real-world timescales.",
+      "hint": "Useful but limited."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 40,
+    "sequencePriority": 40,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U04-T-001",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
+    "bank": "test",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "A granite outcrop cracks after repeated heating, cooling and rain, but the pieces remain in place. Which process is this?",
+    "audio_prompt": "A granite outcrop cracks after repeated heating, cooling and rain, but the pieces remain in place. Which process is this?",
+    "audioPrompt": "A granite outcrop cracks after repeated heating, cooling and rain, but the pieces remain in place. Which process is this?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Transportation",
+        "is_correct": false
+      },
+      {
+        "text": "Refraction",
+        "is_correct": false
+      },
+      {
+        "text": "Weathering",
+        "is_correct": true
+      },
+      {
+        "text": "Deposition",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Transportation",
+      "Refraction",
+      "Weathering",
+      "Deposition"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Rock breaking down in place is weathering.",
+      "hint": "Breakdown in place."
+    },
+    "structuredExplanation": {
+      "summary": "Rock breaking down in place is weathering.",
+      "hint": "Breakdown in place."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 1,
+    "sequencePriority": 1,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u04-t-001",
-    "curriculum_code": "AC9S5U04",
-    "year_level": "Year 5",
+    "id": "AC9S5U04-T-002",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
     "bank": "test",
-    "skill": "classify_a_geological_process",
-    "question": "During a desert field study, a delta grows at a river mouth. Which geological process is occurring?",
-    "audio_prompt": "During a desert field study, a delta grows at a river mouth. Which geological process is occurring?",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "A wave drags sand away from the front of a dune. Which process removed the sand?",
+    "audio_prompt": "A wave drags sand away from the front of a dune. Which process removed the sand?",
+    "audioPrompt": "A wave drags sand away from the front of a dune. Which process removed the sand?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u04.svg#ac9s5u04-t-001",
-      "alt_text": "During a desert field study: classify a geological process, shown as a three-step erosion reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "deposition",
-        "is_correct": true
-      },
-      {
-        "text": "weathering",
+        "text": "Condensation",
         "is_correct": false
       },
       {
-        "text": "erosion",
+        "text": "Erosion",
+        "is_correct": true
+      },
+      {
+        "text": "Weathering only",
+        "is_correct": false
+      },
+      {
+        "text": "Deposition",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The event shows deposition.",
-      "hint": "Decide whether material is breaking down, being removed, moving or settling."
-    }
-  },
-  {
-    "id": "ac9s5u04-t-002",
-    "curriculum_code": "AC9S5U04",
-    "year_level": "Year 5",
-    "subject": "science",
-    "bank": "test",
-    "skill": "explain_landscape_change",
-    "question": "At a marine research centre, which explanation best describes why rainwater removes loose soil from bare ground?",
-    "audio_prompt": "At a marine research centre, which explanation best describes why rainwater removes loose soil from bare ground?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u04.svg#ac9s5u04-t-002",
-      "alt_text": "At a marine research centre: explain landscape change, shown as a three-step erosion reasoning pathway."
-    },
-    "answers": [
-      {
-        "text": "rock is broken down in place",
-        "is_correct": false
-      },
-      {
-        "text": "weathered material is removed",
-        "is_correct": true
-      },
-      {
-        "text": "moving water carries sediment",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "Condensation",
+      "Erosion",
+      "Weathering only",
+      "Deposition"
     ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "The explanation connects the agent's energy with breakdown, movement or settling.",
-      "hint": "Follow the sediment and identify what changes at this location."
-    }
+      "summary": "Erosion removes material from a location.",
+      "hint": "Taken away."
+    },
+    "structuredExplanation": {
+      "summary": "Erosion removes material from a location.",
+      "hint": "Taken away."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 2,
+    "sequencePriority": 2,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u04-t-003",
-    "curriculum_code": "AC9S5U04",
-    "year_level": "Year 5",
+    "id": "AC9S5U04-T-003",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
     "bank": "test",
-    "skill": "classify_a_geological_process",
-    "question": "While examining a riverbank, sand settles where a river enters a calm lake. Which geological process is occurring?",
-    "audio_prompt": "While examining a riverbank, sand settles where a river enters a calm lake. Which geological process is occurring?",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "Fine silt settles on a riverbank after floodwater slows. Which process occurred?",
+    "audio_prompt": "Fine silt settles on a riverbank after floodwater slows. Which process occurred?",
+    "audioPrompt": "Fine silt settles on a riverbank after floodwater slows. Which process occurred?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u04.svg#ac9s5u04-t-003",
-      "alt_text": "While examining a riverbank: classify a geological process, shown as a three-step erosion reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "weathering",
-        "is_correct": false
-      },
-      {
-        "text": "erosion",
-        "is_correct": false
-      },
-      {
-        "text": "deposition",
+        "text": "Deposition",
         "is_correct": true
+      },
+      {
+        "text": "Weathering",
+        "is_correct": false
+      },
+      {
+        "text": "Absorption",
+        "is_correct": false
+      },
+      {
+        "text": "Reflection",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The event shows deposition.",
-      "hint": "Decide whether material is breaking down, being removed, moving or settling."
-    }
-  },
-  {
-    "id": "ac9s5u04-t-004",
-    "curriculum_code": "AC9S5U04",
-    "year_level": "Year 5",
-    "subject": "science",
-    "bank": "test",
-    "skill": "explain_landscape_change",
-    "question": "In an independent investigation, which explanation best describes why a delta grows at a river mouth?",
-    "audio_prompt": "In an independent investigation, which explanation best describes why a delta grows at a river mouth?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u04.svg#ac9s5u04-t-004",
-      "alt_text": "In an independent investigation: explain landscape change, shown as a three-step erosion reasoning pathway."
-    },
-    "answers": [
-      {
-        "text": "sediment builds up as flow slows",
-        "is_correct": true
-      },
-      {
-        "text": "rock is broken down in place",
-        "is_correct": false
-      },
-      {
-        "text": "weathered material is removed",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "Deposition",
+      "Weathering",
+      "Absorption",
+      "Reflection"
     ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "The explanation connects the agent's energy with breakdown, movement or settling.",
-      "hint": "Follow the sediment and identify what changes at this location."
-    }
+      "summary": "Sediment settling from slower water is deposition.",
+      "hint": "Settling sediment."
+    },
+    "structuredExplanation": {
+      "summary": "Sediment settling from slower water is deposition.",
+      "hint": "Settling sediment."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 3,
+    "sequencePriority": 3,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u04-t-005",
-    "curriculum_code": "AC9S5U04",
-    "year_level": "Year 5",
+    "id": "AC9S5U04-T-004",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
     "bank": "test",
-    "skill": "classify_a_geological_process",
-    "question": "During a forest survey, rainwater removes loose soil from bare ground. Which geological process is occurring?",
-    "audio_prompt": "During a forest survey, rainwater removes loose soil from bare ground. Which geological process is occurring?",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "Which agent can transport sediment in an alpine area?",
+    "audio_prompt": "Which agent can transport sediment in an alpine area?",
+    "audioPrompt": "Which agent can transport sediment in an alpine area?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u04.svg#ac9s5u04-t-005",
-      "alt_text": "During a forest survey: classify a geological process, shown as a three-step erosion reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "weathering",
+        "text": "A classroom magnet only",
         "is_correct": false
       },
       {
-        "text": "erosion",
+        "text": "A shadow",
+        "is_correct": false
+      },
+      {
+        "text": "A thermometer",
+        "is_correct": false
+      },
+      {
+        "text": "Ice in a glacier",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "A classroom magnet only",
+      "A shadow",
+      "A thermometer",
+      "Ice in a glacier"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Ice can move rock and sediment in cold mountain environments.",
+      "hint": "Moving ice."
+    },
+    "structuredExplanation": {
+      "summary": "Ice can move rock and sediment in cold mountain environments.",
+      "hint": "Moving ice."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 4,
+    "sequencePriority": 4,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U04-T-005",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
+    "bank": "test",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "Why might soil under shrubs erode less than bare soil nearby?",
+    "audio_prompt": "Why might soil under shrubs erode less than bare soil nearby?",
+    "audioPrompt": "Why might soil under shrubs erode less than bare soil nearby?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Bare soil is always heavier",
+        "is_correct": false
+      },
+      {
+        "text": "Plants make erosion impossible",
+        "is_correct": false
+      },
+      {
+        "text": "Roots hold soil and leaves reduce raindrop impact",
         "is_correct": true
       },
       {
-        "text": "transportation",
+        "text": "Shrubs stop gravity forever",
         "is_correct": false
       }
+    ],
+    "answer_texts": [
+      "Bare soil is always heavier",
+      "Plants make erosion impossible",
+      "Roots hold soil and leaves reduce raindrop impact",
+      "Shrubs stop gravity forever"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Vegetation can stabilise and protect soil.",
+      "hint": "Roots and cover."
+    },
+    "structuredExplanation": {
+      "summary": "Vegetation can stabilise and protect soil.",
+      "hint": "Roots and cover."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 5,
+    "sequencePriority": 5,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U04-T-006",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
+    "bank": "test",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "Where is a creek most likely to deposit heavier sand?",
+    "audio_prompt": "Where is a creek most likely to deposit heavier sand?",
+    "audioPrompt": "Where is a creek most likely to deposit heavier sand?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Inside solid unweathered rock",
+        "is_correct": false
+      },
+      {
+        "text": "Where the flow slows on a flatter section",
+        "is_correct": true
+      },
+      {
+        "text": "Where water is fastest in a narrow channel",
+        "is_correct": false
+      },
+      {
+        "text": "Where no sediment exists",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Inside solid unweathered rock",
+      "Where the flow slows on a flatter section",
+      "Where water is fastest in a narrow channel",
+      "Where no sediment exists"
     ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "The event shows erosion.",
-      "hint": "Decide whether material is breaking down, being removed, moving or settling."
-    }
+      "summary": "Heavier sediment drops when water loses energy.",
+      "hint": "Slower water."
+    },
+    "structuredExplanation": {
+      "summary": "Heavier sediment drops when water loses energy.",
+      "hint": "Slower water."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 6,
+    "sequencePriority": 6,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u04-t-006",
-    "curriculum_code": "AC9S5U04",
-    "year_level": "Year 5",
+    "id": "AC9S5U04-T-007",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
     "bank": "test",
-    "skill": "explain_landscape_change",
-    "question": "At a regional science exhibition, which explanation best describes why sand settles where a river enters a calm lake?",
-    "audio_prompt": "At a regional science exhibition, which explanation best describes why sand settles where a river enters a calm lake?",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "Which sequence is correct for sediment reaching a beach?",
+    "audio_prompt": "Which sequence is correct for sediment reaching a beach?",
+    "audioPrompt": "Which sequence is correct for sediment reaching a beach?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u04.svg#ac9s5u04-t-006",
-      "alt_text": "At a regional science exhibition: explain landscape change, shown as a three-step erosion reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "rock is broken down in place",
-        "is_correct": false
-      },
-      {
-        "text": "weathered material is removed",
-        "is_correct": false
-      },
-      {
-        "text": "slower water loses energy and sediment settles",
+        "text": "weathering breaks rock, erosion removes it, water transports it, deposition settles it",
         "is_correct": true
+      },
+      {
+        "text": "deposition breaks rock, refraction moves it, weathering shines on it",
+        "is_correct": false
+      },
+      {
+        "text": "erosion settles sediment, weathering transports it",
+        "is_correct": false
+      },
+      {
+        "text": "light reflects sediment into the ocean",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The explanation connects the agent's energy with breakdown, movement or settling.",
-      "hint": "Follow the sediment and identify what changes at this location."
-    }
-  },
-  {
-    "id": "ac9s5u04-t-007",
-    "curriculum_code": "AC9S5U04",
-    "year_level": "Year 5",
-    "subject": "science",
-    "bank": "test",
-    "skill": "classify_a_geological_process",
-    "question": "While analysing unfamiliar evidence, rock cracks after repeated freezing and thawing. Which geological process is occurring?",
-    "audio_prompt": "While analysing unfamiliar evidence, rock cracks after repeated freezing and thawing. Which geological process is occurring?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u04.svg#ac9s5u04-t-007",
-      "alt_text": "While analysing unfamiliar evidence: classify a geological process, shown as a three-step erosion reasoning pathway."
-    },
-    "answers": [
-      {
-        "text": "weathering",
-        "is_correct": true
-      },
-      {
-        "text": "erosion",
-        "is_correct": false
-      },
-      {
-        "text": "transportation",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "weathering breaks rock, erosion removes it, water transports it, deposition settles it",
+      "deposition breaks rock, refraction moves it, weathering shines on it",
+      "erosion settles sediment, weathering transports it",
+      "light reflects sediment into the ocean"
     ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "The event shows weathering.",
-      "hint": "Decide whether material is breaking down, being removed, moving or settling."
-    }
+      "summary": "The correct sequence tracks breakdown, removal, movement and settling.",
+      "hint": "Four-process chain."
+    },
+    "structuredExplanation": {
+      "summary": "The correct sequence tracks breakdown, removal, movement and settling.",
+      "hint": "Four-process chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 7,
+    "sequencePriority": 7,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u04-t-008",
-    "curriculum_code": "AC9S5U04",
-    "year_level": "Year 5",
+    "id": "AC9S5U04-T-008",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
     "bank": "test",
-    "skill": "explain_landscape_change",
-    "question": "In a testing laboratory, which explanation best describes why a river carries sand downstream?",
-    "audio_prompt": "In a testing laboratory, which explanation best describes why a river carries sand downstream?",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "A stream-table model uses loose sand and a watering can. What is one limitation?",
+    "audio_prompt": "A stream-table model uses loose sand and a watering can. What is one limitation?",
+    "audioPrompt": "A stream-table model uses loose sand and a watering can. What is one limitation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u04.svg#ac9s5u04-t-008",
-      "alt_text": "In a testing laboratory: explain landscape change, shown as a three-step erosion reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "rock is broken down in place",
+        "text": "It exactly matches all landscapes",
         "is_correct": false
       },
       {
-        "text": "moving water carries sediment",
+        "text": "It has no variables",
+        "is_correct": false
+      },
+      {
+        "text": "It cannot show erosion at all",
+        "is_correct": false
+      },
+      {
+        "text": "It simplifies real soil, rainfall, scale and time",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "It exactly matches all landscapes",
+      "It has no variables",
+      "It cannot show erosion at all",
+      "It simplifies real soil, rainfall, scale and time"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Models can show relationships but simplify real conditions.",
+      "hint": "Model limitation."
+    },
+    "structuredExplanation": {
+      "summary": "Models can show relationships but simplify real conditions.",
+      "hint": "Model limitation."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 8,
+    "sequencePriority": 8,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U04-T-009",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
+    "bank": "test",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "Which statement is too strong?",
+    "audio_prompt": "Which statement is too strong?",
+    "audioPrompt": "Which statement is too strong?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Roots can help hold soil",
+        "is_correct": false
+      },
+      {
+        "text": "Leaves can reduce raindrop impact",
+        "is_correct": false
+      },
+      {
+        "text": "Vegetation prevents all erosion in every storm",
         "is_correct": true
       },
       {
-        "text": "weathered material is removed",
+        "text": "Vegetation can reduce erosion",
         "is_correct": false
       }
+    ],
+    "answer_texts": [
+      "Roots can help hold soil",
+      "Leaves can reduce raindrop impact",
+      "Vegetation prevents all erosion in every storm",
+      "Vegetation can reduce erosion"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Vegetation reduces erosion risk but does not guarantee no erosion.",
+      "hint": "Avoid all."
+    },
+    "structuredExplanation": {
+      "summary": "Vegetation reduces erosion risk but does not guarantee no erosion.",
+      "hint": "Avoid all."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 9,
+    "sequencePriority": 9,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U04-T-010",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
+    "bank": "test",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "A cliff face is worn by salt spray and wind, then pieces fall and waves carry them away. Which pair of processes is shown?",
+    "audio_prompt": "A cliff face is worn by salt spray and wind, then pieces fall and waves carry them away. Which pair of processes is shown?",
+    "audioPrompt": "A cliff face is worn by salt spray and wind, then pieces fall and waves carry them away. Which pair of processes is shown?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Condensation followed by evaporation",
+        "is_correct": false
+      },
+      {
+        "text": "Weathering followed by erosion and transport",
+        "is_correct": true
+      },
+      {
+        "text": "Deposition followed by freezing only",
+        "is_correct": false
+      },
+      {
+        "text": "Reflection followed by absorption",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Condensation followed by evaporation",
+      "Weathering followed by erosion and transport",
+      "Deposition followed by freezing only",
+      "Reflection followed by absorption"
     ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "The explanation connects the agent's energy with breakdown, movement or settling.",
-      "hint": "Follow the sediment and identify what changes at this location."
-    }
+      "summary": "The cliff material first breaks down, then is removed and moved.",
+      "hint": "Break then move."
+    },
+    "structuredExplanation": {
+      "summary": "The cliff material first breaks down, then is removed and moved.",
+      "hint": "Break then move."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 10,
+    "sequencePriority": 10,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u04-t-009",
-    "curriculum_code": "AC9S5U04",
-    "year_level": "Year 5",
+    "id": "AC9S5U04-T-011",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
     "bank": "test",
-    "skill": "classify_a_geological_process",
-    "question": "During a landscape study, wind carries dry dust across a plain. Which geological process is occurring?",
-    "audio_prompt": "During a landscape study, wind carries dry dust across a plain. Which geological process is occurring?",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "Why can strong wind move dry sand across a playground more easily than wet soil?",
+    "audio_prompt": "Why can strong wind move dry sand across a playground more easily than wet soil?",
+    "audioPrompt": "Why can strong wind move dry sand across a playground more easily than wet soil?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u04.svg#ac9s5u04-t-009",
-      "alt_text": "During a landscape study: classify a geological process, shown as a three-step erosion reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "weathering",
-        "is_correct": false
-      },
-      {
-        "text": "erosion",
-        "is_correct": false
-      },
-      {
-        "text": "transportation",
+        "text": "Loose dry particles are easier to lift and transport",
         "is_correct": true
+      },
+      {
+        "text": "Wet soil has no particles",
+        "is_correct": false
+      },
+      {
+        "text": "Wind only works indoors",
+        "is_correct": false
+      },
+      {
+        "text": "Dry sand is not matter",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The event shows transportation.",
-      "hint": "Decide whether material is breaking down, being removed, moving or settling."
-    }
-  },
-  {
-    "id": "ac9s5u04-t-010",
-    "curriculum_code": "AC9S5U04",
-    "year_level": "Year 5",
-    "subject": "science",
-    "bank": "test",
-    "skill": "explain_landscape_change",
-    "question": "At a conservation project, which explanation best describes why rock cracks after repeated freezing and thawing?",
-    "audio_prompt": "At a conservation project, which explanation best describes why rock cracks after repeated freezing and thawing?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u04.svg#ac9s5u04-t-010",
-      "alt_text": "At a conservation project: explain landscape change, shown as a three-step erosion reasoning pathway."
-    },
-    "answers": [
-      {
-        "text": "rock is broken down in place",
-        "is_correct": true
-      },
-      {
-        "text": "weathered material is removed",
-        "is_correct": false
-      },
-      {
-        "text": "moving water carries sediment",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "Loose dry particles are easier to lift and transport",
+      "Wet soil has no particles",
+      "Wind only works indoors",
+      "Dry sand is not matter"
     ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "The explanation connects the agent's energy with breakdown, movement or settling.",
-      "hint": "Follow the sediment and identify what changes at this location."
-    }
+      "summary": "Moisture and particle looseness affect wind transport.",
+      "hint": "Loose dry material."
+    },
+    "structuredExplanation": {
+      "summary": "Moisture and particle looseness affect wind transport.",
+      "hint": "Loose dry material."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 11,
+    "sequencePriority": 11,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u04-t-011",
-    "curriculum_code": "AC9S5U04",
-    "year_level": "Year 5",
+    "id": "AC9S5U04-T-012",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
     "bank": "test",
-    "skill": "classify_a_geological_process",
-    "question": "While auditing a results table, a river carries sand downstream. Which geological process is occurring?",
-    "audio_prompt": "While auditing a results table, a river carries sand downstream. Which geological process is occurring?",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "A river mouth slowly builds a fan-shaped deposit. What process is most responsible for the build-up?",
+    "audio_prompt": "A river mouth slowly builds a fan-shaped deposit. What process is most responsible for the build-up?",
+    "audioPrompt": "A river mouth slowly builds a fan-shaped deposit. What process is most responsible for the build-up?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u04.svg#ac9s5u04-t-011",
-      "alt_text": "While auditing a results table: classify a geological process, shown as a three-step erosion reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "weathering",
+        "text": "Weathering only",
         "is_correct": false
       },
       {
-        "text": "transportation",
+        "text": "Magnetic attraction",
+        "is_correct": false
+      },
+      {
+        "text": "Refraction",
+        "is_correct": false
+      },
+      {
+        "text": "Deposition",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Weathering only",
+      "Magnetic attraction",
+      "Refraction",
+      "Deposition"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Sediment builds up where a river slows and deposits material.",
+      "hint": "Build-up by settling."
+    },
+    "structuredExplanation": {
+      "summary": "Sediment builds up where a river slows and deposits material.",
+      "hint": "Build-up by settling."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 12,
+    "sequencePriority": 12,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U04-T-013",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
+    "bank": "test",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "Which observation best shows erosion rather than weathering?",
+    "audio_prompt": "Which observation best shows erosion rather than weathering?",
+    "audioPrompt": "Which observation best shows erosion rather than weathering?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "A boulder surface flakes but stays put",
+        "is_correct": false
+      },
+      {
+        "text": "Water freezes inside a crack",
+        "is_correct": false
+      },
+      {
+        "text": "Pebbles are carried downstream after being loosened",
         "is_correct": true
       },
       {
-        "text": "erosion",
+        "text": "A rock cracks beside a path",
         "is_correct": false
       }
+    ],
+    "answer_texts": [
+      "A boulder surface flakes but stays put",
+      "Water freezes inside a crack",
+      "Pebbles are carried downstream after being loosened",
+      "A rock cracks beside a path"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Carrying pebbles downstream involves removal and transport.",
+      "hint": "Movement away."
+    },
+    "structuredExplanation": {
+      "summary": "Carrying pebbles downstream involves removal and transport.",
+      "hint": "Movement away."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 13,
+    "sequencePriority": 13,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U04-T-014",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
+    "bank": "test",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "Why is “landscape change only happens in disasters” incorrect?",
+    "audio_prompt": "Why is “landscape change only happens in disasters” incorrect?",
+    "audioPrompt": "Why is “landscape change only happens in disasters” incorrect?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Small changes cannot add up",
+        "is_correct": false
+      },
+      {
+        "text": "Slow repeated processes can reshape landscapes over long periods",
+        "is_correct": true
+      },
+      {
+        "text": "Rain and wind never change land",
+        "is_correct": false
+      },
+      {
+        "text": "Only earthquakes affect sediment",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Small changes cannot add up",
+      "Slow repeated processes can reshape landscapes over long periods",
+      "Rain and wind never change land",
+      "Only earthquakes affect sediment"
     ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "The event shows transportation.",
-      "hint": "Decide whether material is breaking down, being removed, moving or settling."
-    }
+      "summary": "Everyday processes can accumulate into major changes over time.",
+      "hint": "Slow change matters."
+    },
+    "structuredExplanation": {
+      "summary": "Everyday processes can accumulate into major changes over time.",
+      "hint": "Slow change matters."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 14,
+    "sequencePriority": 14,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u04-t-012",
-    "curriculum_code": "AC9S5U04",
-    "year_level": "Year 5",
+    "id": "AC9S5U04-T-015",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
     "bank": "test",
-    "skill": "explain_landscape_change",
-    "question": "In a design evaluation, which explanation best describes why wind carries dry dust across a plain?",
-    "audio_prompt": "In a design evaluation, which explanation best describes why wind carries dry dust across a plain?",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "A class tests bare soil and leaf-litter soil with equal water. What is the changed variable?",
+    "audio_prompt": "A class tests bare soil and leaf-litter soil with equal water. What is the changed variable?",
+    "audioPrompt": "A class tests bare soil and leaf-litter soil with equal water. What is the changed variable?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u04.svg#ac9s5u04-t-012",
-      "alt_text": "In a design evaluation: explain landscape change, shown as a three-step erosion reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "rock is broken down in place",
-        "is_correct": false
-      },
-      {
-        "text": "weathered material is removed",
-        "is_correct": false
-      },
-      {
-        "text": "moving air carries loose particles",
+        "text": "Surface cover",
         "is_correct": true
+      },
+      {
+        "text": "Water amount",
+        "is_correct": false
+      },
+      {
+        "text": "Slope if kept same",
+        "is_correct": false
+      },
+      {
+        "text": "Measuring cup",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The explanation connects the agent's energy with breakdown, movement or settling.",
-      "hint": "Follow the sediment and identify what changes at this location."
-    }
-  },
-  {
-    "id": "ac9s5u04-t-013",
-    "curriculum_code": "AC9S5U04",
-    "year_level": "Year 5",
-    "subject": "science",
-    "bank": "test",
-    "skill": "classify_a_geological_process",
-    "question": "During a mountain field study, rainwater removes loose soil from bare ground. Which geological process is occurring?",
-    "audio_prompt": "During a mountain field study, rainwater removes loose soil from bare ground. Which geological process is occurring?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u04.svg#ac9s5u04-t-013",
-      "alt_text": "During a mountain field study: classify a geological process, shown as a three-step erosion reasoning pathway."
-    },
-    "answers": [
-      {
-        "text": "erosion",
-        "is_correct": true
-      },
-      {
-        "text": "weathering",
-        "is_correct": false
-      },
-      {
-        "text": "transportation",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "Surface cover",
+      "Water amount",
+      "Slope if kept same",
+      "Measuring cup"
     ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "The event shows erosion.",
-      "hint": "Decide whether material is breaking down, being removed, moving or settling."
-    }
+      "summary": "Surface cover is deliberately changed between the trays.",
+      "hint": "What differs?"
+    },
+    "structuredExplanation": {
+      "summary": "Surface cover is deliberately changed between the trays.",
+      "hint": "What differs?"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 15,
+    "sequencePriority": 15,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u04-t-014",
-    "curriculum_code": "AC9S5U04",
-    "year_level": "Year 5",
+    "id": "AC9S5U04-T-016",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U04",
+    "curriculumCode": "AC9S5U04",
     "bank": "test",
-    "skill": "explain_landscape_change",
-    "question": "At a public science forum, which explanation best describes why sand settles where a river enters a calm lake?",
-    "audio_prompt": "At a public science forum, which explanation best describes why sand settles where a river enters a calm lake?",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "Which conclusion is best from a model where faster water carried more sand?",
+    "audio_prompt": "Which conclusion is best from a model where faster water carried more sand?",
+    "audioPrompt": "Which conclusion is best from a model where faster water carried more sand?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u04.svg#ac9s5u04-t-014",
-      "alt_text": "At a public science forum: explain landscape change, shown as a three-step erosion reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "rock is broken down in place",
+        "text": "All rivers always carry the same sand in five minutes",
         "is_correct": false
       },
       {
-        "text": "slower water loses energy and sediment settles",
-        "is_correct": true
-      },
-      {
-        "text": "weathered material is removed",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The explanation connects the agent's energy with breakdown, movement or settling.",
-      "hint": "Follow the sediment and identify what changes at this location."
-    }
-  },
-  {
-    "id": "ac9s5u04-t-015",
-    "curriculum_code": "AC9S5U04",
-    "year_level": "Year 5",
-    "subject": "science",
-    "bank": "test",
-    "skill": "classify_a_geological_process",
-    "question": "While reviewing a new procedure, a delta grows at a river mouth. Which geological process is occurring?",
-    "audio_prompt": "While reviewing a new procedure, a delta grows at a river mouth. Which geological process is occurring?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u04.svg#ac9s5u04-t-015",
-      "alt_text": "While reviewing a new procedure: classify a geological process, shown as a three-step erosion reasoning pathway."
-    },
-    "answers": [
-      {
-        "text": "weathering",
+        "text": "The model proves rock type never matters",
         "is_correct": false
       },
       {
-        "text": "erosion",
+        "text": "Faster water cannot affect sediment",
         "is_correct": false
       },
       {
-        "text": "deposition",
+        "text": "In this model, faster flow transported more sand, but real rivers need more evidence",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The event shows deposition.",
-      "hint": "Decide whether material is breaking down, being removed, moving or settling."
-    }
-  },
-  {
-    "id": "ac9s5u04-t-016",
-    "curriculum_code": "AC9S5U04",
-    "year_level": "Year 5",
-    "subject": "science",
-    "bank": "test",
-    "skill": "explain_landscape_change",
-    "question": "In a multimedia science presentation, which explanation best describes why rainwater removes loose soil from bare ground?",
-    "audio_prompt": "In a multimedia science presentation, which explanation best describes why rainwater removes loose soil from bare ground?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u04.svg#ac9s5u04-t-016",
-      "alt_text": "In a multimedia science presentation: explain landscape change, shown as a three-step erosion reasoning pathway."
-    },
-    "answers": [
-      {
-        "text": "weathered material is removed",
-        "is_correct": true
-      },
-      {
-        "text": "rock is broken down in place",
-        "is_correct": false
-      },
-      {
-        "text": "moving water carries sediment",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "All rivers always carry the same sand in five minutes",
+      "The model proves rock type never matters",
+      "Faster water cannot affect sediment",
+      "In this model, faster flow transported more sand, but real rivers need more evidence"
     ],
-    "correct_index": 0,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "The explanation connects the agent's energy with breakdown, movement or settling.",
-      "hint": "Follow the sediment and identify what changes at this location."
-    }
+      "summary": "The conclusion uses the model evidence but states limits.",
+      "hint": "Cautious model claim."
+    },
+    "structuredExplanation": {
+      "summary": "The conclusion uses the model evidence but states limits.",
+      "hint": "Cautious model claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 16,
+    "sequencePriority": 16,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   }
 ]
