@@ -1,0 +1,37 @@
+name: Rebuild Remaining Foundation Science
+on:
+  push:
+    branches: [content/foundation-science-actual-rebuild]
+    paths:
+      - 'scripts/foundation_science_actual/ac9sfi03_authored.mjs'
+      - 'scripts/foundation_science_actual/ac9sfi04_authored.mjs'
+      - 'scripts/foundation_science_actual/ac9sfi05_authored.mjs'
+      - 'scripts/foundation_science_actual/ac9sfu01_authored.mjs'
+      - 'scripts/foundation_science_actual/ac9sfu02_authored.mjs'
+      - 'scripts/foundation_science_actual/ac9sfu03_authored.mjs'
+      - 'scripts/materialise_foundation_science_remaining.mjs'
+      - 'scripts/validate_foundation_science_actual.mjs'
+      - '.github/workflows/rebuild-foundation-science-actual-remaining.yml'
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    permissions: {contents: write}
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: content/foundation-science-actual-rebuild, fetch-depth: 0}
+      - uses: actions/setup-node@v4
+        with: {node-version: '22'}
+      - run: node scripts/materialise_foundation_science_remaining.mjs
+      - name: Guard non-assessment content
+        run: |
+          bad=$(git status --porcelain | awk '{print $2}' | grep -E 'teacher-slides|worksheet|/index.html|foundation/science/' || true)
+          if [ -n "$bad" ]; then echo "$bad"; exit 1; fi
+      - name: Commit production banks
+        run: |
+          git config user.name JBR99729
+          git config user.email jbhasker9@gmail.com
+          git add quiz/grade-k/science/ac9sfi03/practice/questions.js quiz/grade-k/science/ac9sfi03/test/questions.js quiz/grade-k/science/ac9sfi04/practice/questions.js quiz/grade-k/science/ac9sfi04/test/questions.js quiz/grade-k/science/ac9sfi05/practice/questions.js quiz/grade-k/science/ac9sfi05/test/questions.js quiz/grade-k/science/ac9sfu01/practice/questions.js quiz/grade-k/science/ac9sfu01/test/questions.js quiz/grade-k/science/ac9sfu02/practice/questions.js quiz/grade-k/science/ac9sfu02/test/questions.js quiz/grade-k/science/ac9sfu03/practice/questions.js quiz/grade-k/science/ac9sfu03/test/questions.js
+          git diff --cached --quiet || git commit -m 'Rebuild remaining Foundation Science actual banks'
+          git push origin HEAD:content/foundation-science-actual-rebuild
+      - name: Validate all Foundation Science banks
+        run: node scripts/validate_foundation_science_actual.mjs
