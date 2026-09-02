@@ -1,437 +1,435 @@
 "use strict";
 window.skillrExamQuestions = [
   {
+    "id": "ac9sfh01-t-001",
     "curriculumCode": "AC9SFH01",
     "bank": "test",
-    "skill": "direct observation",
-    "question": "Look at this assessment card. Which answer records only what is directly shown? Which statement is supported by the picture?",
-    "explanation": "The picture shows a cloud and a puddle; the other ideas are not shown.",
+    "skill": "observing, questioning and using evidence to learn about the natural world",
+    "question": "A child sees dew on grass. Which sentence is a direct observation?",
+    "audioPrompt": "A child sees dew on grass. Which sentence is a direct observation?",
+    "explanation": "Water drops can be seen directly; the other choices add causes or feelings not shown by the evidence. Hint: Choose only what is visible.",
+    "structuredExplanation": {
+      "summary": "Water drops can be seen directly; the other choices add causes or feelings not shown by the evidence.",
+      "hint": "Choose only what is visible."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "There is a puddle under the cloud",
-      "The cloud is angry",
-      "The puddle is warm",
-      "It rained all night"
+      "Water drops are on the grass",
+      "The grass is thirsty",
+      "Rain fell exactly one hour ago",
+      "The grass likes mornings"
     ],
     "correct": 0,
-    "visual": "Assessment card\n☁️\n     💧💧",
-    "id": "ac9sfh01-t-001"
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v1"
   },
   {
+    "id": "ac9sfh01-t-002",
     "curriculumCode": "AC9SFH01",
     "bank": "test",
-    "skill": "observation or question",
-    "question": "Which option asks for information rather than reporting an observation? Which card contains a science question?",
-    "explanation": "The question can guide an observation or investigation.",
+    "skill": "observing, questioning and using evidence to learn about the natural world",
+    "question": "Which question could a class answer by watching a birdbath for 15 minutes?",
+    "audioPrompt": "Which question could a class answer by watching a birdbath for 15 minutes?",
+    "explanation": "Bird landings can be counted during the observation period. Hint: Can the answer be collected now?",
+    "structuredExplanation": {
+      "summary": "Bird landings can be counted during the observation period.",
+      "hint": "Can the answer be collected now?"
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "Does the ice melt faster in sun or shade?",
-      "The ice is cold",
-      "The sun is bright",
-      "The ice cube is square"
+      "Which bird is happiest?",
+      "Where were these birds yesterday?",
+      "How many birds land at the birdbath?",
+      "Why do birds enjoy water?"
     ],
-    "correct": 0,
-    "visual": "Assessment card\n☀️  🧊   🌳  🧊",
-    "id": "ac9sfh01-t-002"
+    "correct": 2,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v1"
   },
   {
+    "id": "ac9sfh01-t-003",
     "curriculumCode": "AC9SFH01",
     "bank": "test",
-    "skill": "choose investigable question",
-    "question": "Which option could be answered by gathering evidence from this scene? Which question could be checked using the two cups?",
-    "explanation": "Capacity can be compared by using water.",
+    "skill": "observing, questioning and using evidence to learn about the natural world",
+    "question": "A student wants to compare two shells closely. Which tool is most useful for seeing tiny surface patterns?",
+    "audioPrompt": "A student wants to compare two shells closely. Which tool is most useful for seeing tiny surface patterns?",
+    "explanation": "Magnification helps reveal small visible details on the shell surface. Hint: Choose a tool for looking closely.",
+    "structuredExplanation": {
+      "summary": "Magnification helps reveal small visible details on the shell surface.",
+      "hint": "Choose a tool for looking closely."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "Which cup holds more water?",
-      "Which cup is friendlier?",
-      "Who invented cups?",
-      "Which cup has the best name?"
+      "a timer",
+      "a bucket",
+      "earmuffs",
+      "a magnifying glass"
     ],
-    "correct": 0,
-    "visual": "Assessment card\n🥤   🥛",
-    "id": "ac9sfh01-t-003"
+    "correct": 3,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v1"
   },
   {
+    "id": "ac9sfh01-t-004",
     "curriculumCode": "AC9SFH01",
     "bank": "test",
-    "skill": "choose a sense",
-    "question": "Choose the most useful safe sense for the observation shown. Which sense helps you notice that a flower is purple?",
-    "explanation": "Colour is noticed using sight.",
+    "skill": "observing, questioning and using evidence to learn about the natural world",
+    "question": "A recording contains three different frog sounds. What can the recording show?",
+    "audioPrompt": "A recording contains three different frog sounds. What can the recording show?",
+    "explanation": "The recording provides sound evidence but does not prove the number, mood or size of the animals making it. Hint: Stay within what audio evidence can show.",
+    "structuredExplanation": {
+      "summary": "The recording provides sound evidence but does not prove the number, mood or size of the animals making it.",
+      "hint": "Stay within what audio evidence can show."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "sight",
-      "hearing",
-      "taste",
-      "touch only"
+      "The frogs were all the same size",
+      "Three different frog sounds were recorded",
+      "Three frogs were definitely present",
+      "The frogs were happy"
     ],
-    "correct": 0,
-    "visual": "Assessment card\n🟣🌼  👁️",
-    "id": "ac9sfh01-t-004"
+    "correct": 1,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v1"
   },
   {
+    "id": "ac9sfh01-t-005",
     "curriculumCode": "AC9SFH01",
     "bank": "test",
-    "skill": "choose observation tool",
-    "question": "Choose the safest useful tool for this observation. Which tool makes a lasting record of how a seedling looks today?",
-    "explanation": "A photograph records appearance at one time.",
+    "skill": "observing, questioning and using evidence to learn about the natural world",
+    "question": "A tree is measured at 40 cm one month and 46 cm the next. What does the record support?",
+    "audioPrompt": "A tree is measured at 40 cm one month and 46 cm the next. What does the record support?",
+    "explanation": "The two measurements show a 6 cm increase for this period only. Hint: Compare the two measurements without making an “always” rule.",
+    "structuredExplanation": {
+      "summary": "The two measurements show a 6 cm increase for this period only.",
+      "hint": "Compare the two measurements without making an “always” rule."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "camera",
-      "whistle",
-      "cup",
-      "gloves"
+      "The tree will grow 6 cm every month",
+      "The tree is healthier than every other tree",
+      "The ruler caused the growth",
+      "The measured height increased by 6 cm"
     ],
-    "correct": 0,
-    "visual": "Assessment card\n🌱  📷",
-    "id": "ac9sfh01-t-005"
+    "correct": 3,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v1"
   },
   {
+    "id": "ac9sfh01-t-006",
     "curriculumCode": "AC9SFH01",
     "bank": "test",
-    "skill": "choose recording method",
-    "question": "Which record would make the evidence easiest to check later? The class compares red, yellow and white flowers. Which record makes the counts easy to compare?",
-    "explanation": "A table organises categories and counts.",
+    "skill": "observing, questioning and using evidence to learn about the natural world",
+    "question": "Which note is an inference rather than an observation?",
+    "audioPrompt": "Which note is an inference rather than an observation?",
+    "explanation": "“Looking for food” interprets the possum’s purpose; the other details can be seen. Hint: Which answer explains why?",
+    "structuredExplanation": {
+      "summary": "“Looking for food” interprets the possum’s purpose; the other details can be seen.",
+      "hint": "Which answer explains why?"
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "a simple table with one row for each colour",
-      "one long sentence",
-      "a picture of an unrelated garden",
-      "a guess made before counting"
+      "The possum is looking for food",
+      "The possum is on the branch",
+      "The possum has fur",
+      "The possum is beside leaves"
     ],
     "correct": 0,
-    "visual": "Assessment card\nred 3 | yellow 5 | white 2",
-    "id": "ac9sfh01-t-006"
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v1"
   },
   {
+    "id": "ac9sfh01-t-007",
     "curriculumCode": "AC9SFH01",
     "bank": "test",
-    "skill": "observation or inference",
-    "question": "Which answer separates direct evidence from a guess or opinion? Which statement goes beyond what the scene proves?",
-    "explanation": "The reason for waiting is not directly shown.",
+    "skill": "observing, questioning and using evidence to learn about the natural world",
+    "question": "A class wants to compare bee visits to two flower patches. What makes the comparison fairest?",
+    "audioPrompt": "A class wants to compare bee visits to two flower patches. What makes the comparison fairest?",
+    "explanation": "Equal observation time makes the visit counts more comparable. Hint: Keep the method the same.",
+    "structuredExplanation": {
+      "summary": "Equal observation time makes the visit counts more comparable.",
+      "hint": "Keep the method the same."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "The dog is waiting for its owner",
-      "The dog is sitting",
-      "The dog has a collar",
-      "The dog is beside a gate"
+      "Observe one patch today and guess the other",
+      "Watch both patches for the same amount of time",
+      "Watch one patch until ten bees arrive",
+      "Count only large bees in one patch"
     ],
-    "correct": 0,
-    "visual": "Assessment card\n🐕  🚪",
-    "id": "ac9sfh01-t-007"
+    "correct": 1,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v1"
   },
   {
+    "id": "ac9sfh01-t-008",
     "curriculumCode": "AC9SFH01",
     "bank": "test",
-    "skill": "evidence limits",
-    "question": "What is the strongest claim this evidence can support? A drawing shows five spots on a ladybird. Which conclusion is supported?",
-    "explanation": "One drawing supports only what was recorded in that example.",
+    "skill": "observing, questioning and using evidence to learn about the natural world",
+    "question": "A photo shows a cracked dry patch of soil. Which claim is too strong?",
+    "audioPrompt": "A photo shows a cracked dry patch of soil. Which claim is too strong?",
+    "explanation": "A single photo cannot establish that rain never occurs there. Hint: Watch for an absolute claim.",
+    "structuredExplanation": {
+      "summary": "A single photo cannot establish that rain never occurs there.",
+      "hint": "Watch for an absolute claim."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "The drawing records five spots",
-      "Every ladybird has five spots",
-      "The ladybird is five days old",
-      "Five is the ladybird's favourite number"
+      "The surface looks dry",
+      "There are visible gaps in the soil",
+      "This place never gets rain",
+      "The soil surface has cracks"
     ],
-    "correct": 0,
-    "visual": "Assessment card\n🐞  •••••",
-    "id": "ac9sfh01-t-008"
+    "correct": 2,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v1"
   },
   {
+    "id": "ac9sfh01-t-009",
     "curriculumCode": "AC9SFH01",
     "bank": "test",
-    "skill": "compare observations over time",
-    "question": "Compare the two records. Which answer describes the observed change? How did the ice change?",
-    "explanation": "The second observation shows less solid ice.",
+    "skill": "observing, questioning and using evidence to learn about the natural world",
+    "question": "The class draws the Moon from the same place on four evenings. Why label each drawing with the date?",
+    "audioPrompt": "The class draws the Moon from the same place on four evenings. Why label each drawing with the date?",
+    "explanation": "Dates help order observations and compare changes over time. Hint: The labels tell when each observation happened.",
+    "structuredExplanation": {
+      "summary": "Dates help order observations and compare changes over time.",
+      "hint": "The labels tell when each observation happened."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "It became smaller",
-      "It became larger",
-      "It changed into wood",
-      "It stayed exactly the same"
+      "To compare what was seen on different evenings",
+      "To make the Moon change shape",
+      "To prove every drawing is perfect",
+      "To make the page look fuller"
     ],
     "correct": 0,
-    "visual": "Assessment card\nStart: 🧊🧊\nLater: 🧊💧",
-    "id": "ac9sfh01-t-009"
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v1"
   },
   {
+    "id": "ac9sfh01-t-010",
     "curriculumCode": "AC9SFH01",
     "bank": "test",
-    "skill": "identify pattern",
-    "question": "Which answer describes the pattern in the recorded evidence? What does the record suggest?",
-    "explanation": "The warm-day records have more open flowers.",
+    "skill": "observing, questioning and using evidence to learn about the natural world",
+    "question": "A child records 1, 4, 2 and 5 butterflies on four mornings. Which statement is supported?",
+    "audioPrompt": "A child records 1, 4, 2 and 5 butterflies on four mornings. Which statement is supported?",
+    "explanation": "Five is the greatest of the four recorded counts; the sequence does not rise steadily. Hint: Check every number before choosing a pattern.",
+    "structuredExplanation": {
+      "summary": "Five is the greatest of the four recorded counts; the sequence does not rise steadily.",
+      "hint": "Check every number before choosing a pattern."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "More flowers opened on warmer days",
-      "Warm days closed every flower",
-      "Temperature never changed",
-      "Flowers caused the thermometer to grow"
+      "There were always more than 3 butterflies",
+      "The number stayed the same",
+      "The largest recorded count was 5",
+      "The number increased every morning"
     ],
-    "correct": 0,
-    "visual": "Assessment card\nCool: 🌼🌱🌱\nWarm: 🌼🌼🌼",
-    "id": "ac9sfh01-t-010"
+    "correct": 2,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v1"
   },
   {
+    "id": "ac9sfh01-t-011",
     "curriculumCode": "AC9SFH01",
     "bank": "test",
-    "skill": "use observations",
-    "question": "How could these observations be used responsibly? A park ranger counts nests in several trees. What can the count help the ranger do?",
-    "explanation": "Counts allow comparison across locations.",
+    "skill": "observing, questioning and using evidence to learn about the natural world",
+    "question": "You see a spider web with water drops on it. Which note is best?",
+    "audioPrompt": "You see a spider web with water drops on it. Which note is best?",
+    "explanation": "The first sentence records what is visible without adding an unsupported cause, feeling or prediction. Hint: Write what you can see now.",
+    "structuredExplanation": {
+      "summary": "The first sentence records what is visible without adding an unsupported cause, feeling or prediction.",
+      "hint": "Write what you can see now."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "Compare where nests were observed",
-      "Know what every bird is thinking",
-      "Name every bird without seeing it",
-      "Prove all trees are the same"
+      "The spider put the water there",
+      "The web likes wet weather",
+      "It will rain again tonight",
+      "Small water drops are sitting on the web"
     ],
-    "correct": 0,
-    "visual": "Assessment card\n🌳 2 nests | 🌲 5 nests",
-    "id": "ac9sfh01-t-011"
+    "correct": 3,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v1"
   },
   {
+    "id": "ac9sfh01-t-012",
     "curriculumCode": "AC9SFH01",
     "bank": "test",
-    "skill": "evidence-based statement",
-    "question": "Which conclusion is supported by the displayed evidence? Which sentence is supported by the drawings?",
-    "explanation": "The drawings show an increase in visible spots only.",
+    "skill": "observing, questioning and using evidence to learn about the natural world",
+    "question": "A seedling has 3 leaves on Monday and 5 leaves on Friday. What is a useful next observation?",
+    "audioPrompt": "A seedling has 3 leaves on Monday and 5 leaves on Friday. What is a useful next observation?",
+    "explanation": "Another count can extend the evidence about change over time. Hint: What new evidence would strengthen the record?",
+    "structuredExplanation": {
+      "summary": "Another count can extend the evidence about change over time.",
+      "hint": "What new evidence would strengthen the record?"
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "The leaf developed more brown spots",
-      "The leaf became happier",
-      "All leaves become brown in two days",
-      "The spots were caused by insects"
+      "Stop observing because two records prove everything",
+      "Count its leaves again next week",
+      "Decide it will always gain two leaves",
+      "Ask whether it feels proud"
     ],
-    "correct": 0,
-    "visual": "Assessment card\nDay 1: 🌿 •\nDay 4: 🌿 ••••",
-    "id": "ac9sfh01-t-012"
+    "correct": 1,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v1"
   },
   {
+    "id": "ac9sfh01-t-013",
     "curriculumCode": "AC9SFH01",
     "bank": "test",
-    "skill": "direct observation",
-    "question": "Look at this assessment card. Which answer records only what is directly shown? Which is a direct observation?",
-    "explanation": "The bee's location can be observed.",
+    "skill": "observing, questioning and using evidence to learn about the natural world",
+    "question": "A class hears many cicadas near one tree and few near another. What should they record?",
+    "audioPrompt": "A class hears many cicadas near one tree and few near another. What should they record?",
+    "explanation": "Equal listening periods and recorded counts support a fair comparison. Hint: Measure the same thing in both places.",
+    "structuredExplanation": {
+      "summary": "Equal listening periods and recorded counts support a fair comparison.",
+      "hint": "Measure the same thing in both places."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "A bee is near the flower",
-      "The bee loves the flower",
-      "The flower tastes sweet",
-      "The bee came from a hive nearby"
+      "Which tree they like best",
+      "That cicadas always prefer the first tree",
+      "That the first tree is happier",
+      "The number of calls heard for the same length of time at each tree"
     ],
-    "correct": 0,
-    "visual": "Assessment card\n🌼   🐝",
-    "id": "ac9sfh01-t-013"
+    "correct": 3,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v1"
   },
   {
+    "id": "ac9sfh01-t-014",
     "curriculumCode": "AC9SFH01",
     "bank": "test",
-    "skill": "observation or question",
-    "question": "Which option asks for information rather than reporting an observation? Which sentence is asking for new information?",
-    "explanation": "The question asks what could be discovered by careful observation.",
+    "skill": "observing, questioning and using evidence to learn about the natural world",
+    "question": "A child says, “The leaf has holes, so a snail definitely ate it.” What is the better conclusion?",
+    "audioPrompt": "A child says, “The leaf has holes, so a snail definitely ate it.” What is the better conclusion?",
+    "explanation": "The holes are direct evidence; the cause remains uncertain without further evidence. Hint: Separate the observation from the explanation.",
+    "structuredExplanation": {
+      "summary": "The holes are direct evidence; the cause remains uncertain without further evidence.",
+      "hint": "Separate the observation from the explanation."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "What animals live under this log?",
-      "The log is brown",
-      "An ant is beside the log",
-      "The log is on soil"
+      "The holes are observed, but more evidence is needed to know what caused them",
+      "A snail definitely caused every hole",
+      "The holes are not evidence",
+      "Leaves cannot be investigated"
     ],
     "correct": 0,
-    "visual": "Assessment card\n🪵   🐜",
-    "id": "ac9sfh01-t-014"
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v1"
   },
   {
+    "id": "ac9sfh01-t-015",
     "curriculumCode": "AC9SFH01",
     "bank": "test",
-    "skill": "choose investigable question",
-    "question": "Which option could be answered by gathering evidence from this scene? Which question could be answered by observing the shadow during the day?",
-    "explanation": "Shadow length can be observed and recorded.",
+    "skill": "observing, questioning and using evidence to learn about the natural world",
+    "question": "Which plan best shows whether a shadow changes between morning and afternoon?",
+    "audioPrompt": "Which plan best shows whether a shadow changes between morning and afternoon?",
+    "explanation": "Observing the same object at both times allows the shadow to be compared. Hint: Keep the object the same and change the time.",
+    "structuredExplanation": {
+      "summary": "Observing the same object at both times allows the shadow to be compared.",
+      "hint": "Keep the object the same and change the time."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "Does the shadow change length?",
-      "Does the shadow feel lonely?",
-      "Why is noon the best time?",
-      "Can a shadow choose where to go?"
+      "Ask which shadow looks better",
+      "Mark and compare the shadow at both times from the same object",
+      "Look only in the morning",
+      "Use two different objects and guess"
     ],
-    "correct": 0,
-    "visual": "Assessment card\n🌞  🧍  ▬",
-    "id": "ac9sfh01-t-015"
+    "correct": 1,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v1"
   },
   {
+    "id": "ac9sfh01-t-016",
     "curriculumCode": "AC9SFH01",
     "bank": "test",
-    "skill": "choose a sense",
-    "question": "Choose the most useful safe sense for the observation shown. Which sense helps you notice the smell of mint without tasting it?",
-    "explanation": "Smell can identify an odour without tasting.",
+    "skill": "observing, questioning and using evidence to learn about the natural world",
+    "question": "A class observes a puddle shrinking through the day. Which statement is most careful?",
+    "audioPrompt": "A class observes a puddle shrinking through the day. Which statement is most careful?",
+    "explanation": "The first statement stays with the actual observed change and avoids unsupported generalisations. Hint: Report what happened in this observation.",
+    "structuredExplanation": {
+      "summary": "The first statement stays with the actual observed change and avoids unsupported generalisations.",
+      "hint": "Report what happened in this observation."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "smell",
-      "hearing",
-      "touch",
-      "taste"
+      "Every puddle shrinks at the same rate",
+      "The puddle was trying to dry",
+      "The puddle became smaller during the times we observed it",
+      "The puddle will disappear at exactly the same time every day"
     ],
-    "correct": 0,
-    "visual": "Assessment card\n🌿  👃",
-    "id": "ac9sfh01-t-016"
-  },
-  {
-    "curriculumCode": "AC9SFH01",
-    "bank": "test",
-    "skill": "choose observation tool",
-    "question": "Choose the safest useful tool for this observation. Which tool is best for counting each bird that visits?",
-    "explanation": "A tally sheet records each visit once.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "tally sheet",
-      "mirror",
-      "torch",
-      "paint palette"
-    ],
-    "correct": 0,
-    "visual": "Assessment card\n🐦  ||||",
-    "id": "ac9sfh01-t-017"
-  },
-  {
-    "curriculumCode": "AC9SFH01",
-    "bank": "test",
-    "skill": "choose recording method",
-    "question": "Which record would make the evidence easiest to check later? You want to remember the sound of a bird call. Which record is most suitable?",
-    "explanation": "Audio records sound.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "a short audio recording",
-      "a ruler measurement",
-      "a texture rubbing",
-      "a colour chart only"
-    ],
-    "correct": 0,
-    "visual": "Assessment card\n🐦  🎙️",
-    "id": "ac9sfh01-t-018"
-  },
-  {
-    "curriculumCode": "AC9SFH01",
-    "bank": "test",
-    "skill": "observation or inference",
-    "question": "Which answer separates direct evidence from a guess or opinion? Which sentence is a direct observation, not a guess?",
-    "explanation": "Colour can be observed directly.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "The cloud is dark grey",
-      "The cloud wants to rain",
-      "The cloud is angry",
-      "The cloud will rain at exactly 3 o'clock"
-    ],
-    "correct": 0,
-    "visual": "Assessment card\n☁️",
-    "id": "ac9sfh01-t-019"
-  },
-  {
-    "curriculumCode": "AC9SFH01",
-    "bank": "test",
-    "skill": "evidence limits",
-    "question": "What is the strongest claim this evidence can support? A tally shows four worms under one log. What can you say?",
-    "explanation": "The evidence applies to the observed log and time.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Four worms were counted under that log",
-      "All logs have four worms",
-      "Worms prefer that log forever",
-      "There are only four worms in the whole garden"
-    ],
-    "correct": 0,
-    "visual": "Assessment card\n🪱 ||||",
-    "id": "ac9sfh01-t-020"
-  },
-  {
-    "curriculumCode": "AC9SFH01",
-    "bank": "test",
-    "skill": "compare observations over time",
-    "question": "Compare the two records. Which answer describes the observed change? Which record shows the flower opened?",
-    "explanation": "The second drawing shows open petals.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "The second drawing",
-      "The first drawing",
-      "Neither drawing",
-      "Both show a closed bud"
-    ],
-    "correct": 0,
-    "visual": "Assessment card\nFirst: 🌱\nSecond: 🌼",
-    "id": "ac9sfh01-t-021"
-  },
-  {
-    "curriculumCode": "AC9SFH01",
-    "bank": "test",
-    "skill": "identify pattern",
-    "question": "Which answer describes the pattern in the recorded evidence? Which statement matches the repeated observations?",
-    "explanation": "Each later outline is smaller.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "The puddle became smaller each day",
-      "The puddle became deeper each day",
-      "The puddle moved into a tree",
-      "The puddle stayed the same size"
-    ],
-    "correct": 0,
-    "visual": "Assessment card\nDay 1: ▰▰▰\nDay 2: ▰▰\nDay 3: ▰",
-    "id": "ac9sfh01-t-022"
-  },
-  {
-    "curriculumCode": "AC9SFH01",
-    "bank": "test",
-    "skill": "use observations",
-    "question": "How could these observations be used responsibly? A class records which playground areas stay wet after rain. How is this useful?",
-    "explanation": "Repeated observations can reveal a useful pattern.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "It helps identify areas that dry slowly",
-      "It proves rain is bad",
-      "It changes the shape of the playground",
-      "It tells everyone's favourite game"
-    ],
-    "correct": 0,
-    "visual": "Assessment card\nRain → wet path / dry path",
-    "id": "ac9sfh01-t-023"
-  },
-  {
-    "curriculumCode": "AC9SFH01",
-    "bank": "test",
-    "skill": "evidence-based statement",
-    "question": "Which conclusion is supported by the displayed evidence? Which statement uses the count correctly?",
-    "explanation": "The count applies to the observed square.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Three shells were found in the marked square",
-      "The beach has only three shells",
-      "Every square has three shells",
-      "Three is the best shell number"
-    ],
-    "correct": 0,
-    "visual": "Assessment card\n□  🐚 🐚 🐚",
-    "id": "ac9sfh01-t-024"
+    "correct": 2,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v1"
   }
 ];
-window.skillrTestQuestions = window.skillrExamQuestions;
-window.quizQuestions = window.skillrExamQuestions;
