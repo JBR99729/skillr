@@ -4,1415 +4,3399 @@
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
     "bank": "practice",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "A class observation is described as “liquid water changes to water vapour”. Which scientific term best labels it?",
-    "audio_prompt": "A class observation is described as “liquid water changes to water vapour”. Which scientific term best labels it?",
+    "question": "Which process changes liquid water from a puddle into water vapour in the air?",
+    "audio_prompt": "Which process changes liquid water from a puddle into water vapour in the air?",
+    "audioPrompt": "Which process changes liquid water from a puddle into water vapour in the air?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-p-001",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A class observation is described as “liquid water changes to water vapour”. Which scientific term best labels it?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "evaporation",
+        "text": "Evaporation",
         "is_correct": true
       },
       {
-        "text": "condensation",
+        "text": "Condensation",
         "is_correct": false
       },
       {
-        "text": "precipitation",
+        "text": "Precipitation",
+        "is_correct": false
+      },
+      {
+        "text": "Runoff",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "Evaporation",
+      "Condensation",
+      "Precipitation",
+      "Runoff"
+    ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "evaporation is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Evaporation changes liquid water into water vapour.",
+      "hint": "Think liquid to gas."
     },
+    "structuredExplanation": {
+      "summary": "Evaporation changes liquid water into water vapour.",
+      "hint": "Think liquid to gas."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 1,
+    "sequencePriority": 1,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U02-P-002",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
     "bank": "practice",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "A class observation is described as “water vapour cools and forms liquid droplets”. Which scientific term best labels it?",
-    "audio_prompt": "A class observation is described as “water vapour cools and forms liquid droplets”. Which scientific term best labels it?",
+    "question": "Which process forms tiny water droplets in a cloud?",
+    "audio_prompt": "Which process forms tiny water droplets in a cloud?",
+    "audioPrompt": "Which process forms tiny water droplets in a cloud?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-p-002",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A class observation is described as “water vapour cools and forms liquid droplets”. Which scientific term best labels it?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "precipitation",
+        "text": "Evaporation",
         "is_correct": false
       },
       {
-        "text": "condensation",
+        "text": "Runoff",
+        "is_correct": false
+      },
+      {
+        "text": "Infiltration",
+        "is_correct": false
+      },
+      {
+        "text": "Condensation",
         "is_correct": true
-      },
-      {
-        "text": "runoff",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "Evaporation",
+      "Runoff",
+      "Infiltration",
+      "Condensation"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "condensation is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Condensation happens when water vapour cools and forms liquid droplets or ice crystals.",
+      "hint": "Think vapour cooling."
     },
+    "structuredExplanation": {
+      "summary": "Condensation happens when water vapour cools and forms liquid droplets or ice crystals.",
+      "hint": "Think vapour cooling."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 2,
+    "sequencePriority": 2,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U02-P-003",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
     "bank": "practice",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "A class observation is described as “water falls from clouds as rain, snow, sleet or hail”. Which scientific term best labels it?",
-    "audio_prompt": "A class observation is described as “water falls from clouds as rain, snow, sleet or hail”. Which scientific term best labels it?",
+    "question": "What is precipitation?",
+    "audio_prompt": "What is precipitation?",
+    "audioPrompt": "What is precipitation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-p-003",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A class observation is described as “water falls from clouds as rain, snow, sleet or hail”. Which scientific term best labels it?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "runoff",
+        "text": "Water vapour becoming invisible",
         "is_correct": false
       },
       {
-        "text": "groundwater",
+        "text": "Ocean water turning into sand",
         "is_correct": false
       },
       {
-        "text": "precipitation",
+        "text": "Water falling from clouds as rain, hail, sleet or snow",
         "is_correct": true
+      },
+      {
+        "text": "Water soaking only into rocks",
+        "is_correct": false
       }
     ],
+    "answer_texts": [
+      "Water vapour becoming invisible",
+      "Ocean water turning into sand",
+      "Water falling from clouds as rain, hail, sleet or snow",
+      "Water soaking only into rocks"
+    ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "precipitation is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Precipitation is water that falls from clouds to Earth’s surface.",
+      "hint": "Rain is one example."
     },
+    "structuredExplanation": {
+      "summary": "Precipitation is water that falls from clouds to Earth’s surface.",
+      "hint": "Rain is one example."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 3,
+    "sequencePriority": 3,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U02-P-004",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
     "bank": "practice",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "A class observation is described as “water flows across land”. Which scientific term best labels it?",
-    "audio_prompt": "A class observation is described as “water flows across land”. Which scientific term best labels it?",
+    "question": "Which is a source or store of water?",
+    "audio_prompt": "Which is a source or store of water?",
+    "audioPrompt": "Which is a source or store of water?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-p-004",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A class observation is described as “water flows across land”. Which scientific term best labels it?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "runoff",
+        "text": "A metal chair",
+        "is_correct": false
+      },
+      {
+        "text": "Groundwater below the surface",
         "is_correct": true
       },
       {
-        "text": "groundwater",
+        "text": "A dry plastic ruler",
         "is_correct": false
       },
       {
-        "text": "evaporation",
+        "text": "A shadow on a wall",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "A metal chair",
+      "Groundwater below the surface",
+      "A dry plastic ruler",
+      "A shadow on a wall"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "runoff is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Groundwater is water stored and moving below Earth’s surface.",
+      "hint": "Hidden water can still be a water store."
     },
+    "structuredExplanation": {
+      "summary": "Groundwater is water stored and moving below Earth’s surface.",
+      "hint": "Hidden water can still be a water store."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 4,
+    "sequencePriority": 4,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U02-P-005",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
     "bank": "practice",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "A class observation is described as “water stored and moving below Earth’s surface”. Which scientific term best labels it?",
-    "audio_prompt": "A class observation is described as “water stored and moving below Earth’s surface”. Which scientific term best labels it?",
+    "question": "What usually drives runoff down a hill after rain?",
+    "audio_prompt": "What usually drives runoff down a hill after rain?",
+    "audioPrompt": "What usually drives runoff down a hill after rain?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-p-005",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A class observation is described as “water stored and moving below Earth’s surface”. Which scientific term best labels it?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "evaporation",
-        "is_correct": false
-      },
-      {
-        "text": "groundwater",
+        "text": "Gravity",
         "is_correct": true
       },
       {
-        "text": "condensation",
+        "text": "Moonlight only",
+        "is_correct": false
+      },
+      {
+        "text": "Magnetism",
+        "is_correct": false
+      },
+      {
+        "text": "Sound",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "Gravity",
+      "Moonlight only",
+      "Magnetism",
+      "Sound"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "groundwater is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Gravity pulls water downhill across the land.",
+      "hint": "What pulls water downward?"
     },
+    "structuredExplanation": {
+      "summary": "Gravity pulls water downhill across the land.",
+      "hint": "What pulls water downward?"
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 5,
+    "sequencePriority": 5,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U02-P-006",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
     "bank": "practice",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "A student needs a heading for this evidence: “liquid water changes to water vapour”. Which heading is most precise?",
-    "audio_prompt": "A student needs a heading for this evidence: “liquid water changes to water vapour”. Which heading is most precise?",
+    "question": "Which statement about water vapour is correct?",
+    "audio_prompt": "Which statement about water vapour is correct?",
+    "audioPrompt": "Which statement about water vapour is correct?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-p-006",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A student needs a heading for this evidence: “liquid water changes to water vapour”. Which heading is most precise?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "precipitation",
+        "text": "It is always a white cloud",
         "is_correct": false
       },
       {
-        "text": "runoff",
+        "text": "It is the same as dust",
         "is_correct": false
       },
       {
-        "text": "evaporation",
+        "text": "It only exists in boiling kettles",
+        "is_correct": false
+      },
+      {
+        "text": "It is invisible in the air",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "It is always a white cloud",
+      "It is the same as dust",
+      "It only exists in boiling kettles",
+      "It is invisible in the air"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "evaporation is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Water vapour is an invisible gas; visible clouds are droplets or ice crystals.",
+      "hint": "You cannot see vapour itself."
     },
+    "structuredExplanation": {
+      "summary": "Water vapour is an invisible gas; visible clouds are droplets or ice crystals.",
+      "hint": "You cannot see vapour itself."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 6,
+    "sequencePriority": 6,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U02-P-007",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
     "bank": "practice",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "A student needs a heading for this evidence: “water vapour cools and forms liquid droplets”. Which heading is most precise?",
-    "audio_prompt": "A student needs a heading for this evidence: “water vapour cools and forms liquid droplets”. Which heading is most precise?",
+    "question": "Which example shows condensation?",
+    "audio_prompt": "Which example shows condensation?",
+    "audioPrompt": "Which example shows condensation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-p-007",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A student needs a heading for this evidence: “water vapour cools and forms liquid droplets”. Which heading is most precise?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "condensation",
+        "text": "Rain running along a gutter",
+        "is_correct": false
+      },
+      {
+        "text": "A creek flowing to a river",
+        "is_correct": false
+      },
+      {
+        "text": "Droplets forming on the outside of a cold drink bottle",
         "is_correct": true
       },
       {
-        "text": "runoff",
-        "is_correct": false
-      },
-      {
-        "text": "groundwater",
+        "text": "A wet towel drying on a line",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Rain running along a gutter",
+      "A creek flowing to a river",
+      "Droplets forming on the outside of a cold drink bottle",
+      "A wet towel drying on a line"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "condensation is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Water vapour in the air can cool on a cold surface and form liquid droplets.",
+      "hint": "Think droplets on cold surfaces."
     },
+    "structuredExplanation": {
+      "summary": "Water vapour in the air can cool on a cold surface and form liquid droplets.",
+      "hint": "Think droplets on cold surfaces."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 7,
+    "sequencePriority": 7,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U02-P-008",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
     "bank": "practice",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "A student needs a heading for this evidence: “water falls from clouds as rain, snow, sleet or hail”. Which heading is most precise?",
-    "audio_prompt": "A student needs a heading for this evidence: “water falls from clouds as rain, snow, sleet or hail”. Which heading is most precise?",
+    "question": "Which example shows evaporation?",
+    "audio_prompt": "Which example shows evaporation?",
+    "audioPrompt": "Which example shows evaporation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-p-008",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A student needs a heading for this evidence: “water falls from clouds as rain, snow, sleet or hail”. Which heading is most precise?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "groundwater",
+        "text": "A well reaches groundwater",
         "is_correct": false
       },
       {
-        "text": "precipitation",
+        "text": "A shallow puddle becomes smaller on a sunny day",
         "is_correct": true
       },
       {
-        "text": "evaporation",
+        "text": "Rain falls from a storm cloud",
+        "is_correct": false
+      },
+      {
+        "text": "Water flows down a driveway",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "A well reaches groundwater",
+      "A shallow puddle becomes smaller on a sunny day",
+      "Rain falls from a storm cloud",
+      "Water flows down a driveway"
+    ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "precipitation is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "The puddle shrinks as liquid water changes to water vapour.",
+      "hint": "Liquid leaves the surface."
     },
+    "structuredExplanation": {
+      "summary": "The puddle shrinks as liquid water changes to water vapour.",
+      "hint": "Liquid leaves the surface."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 8,
+    "sequencePriority": 8,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U02-P-009",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
     "bank": "practice",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "A student needs a heading for this evidence: “water flows across land”. Which heading is most precise?",
-    "audio_prompt": "A student needs a heading for this evidence: “water flows across land”. Which heading is most precise?",
+    "question": "Which water store contains most of Earth’s water?",
+    "audio_prompt": "Which water store contains most of Earth’s water?",
+    "audioPrompt": "Which water store contains most of Earth’s water?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-p-009",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A student needs a heading for this evidence: “water flows across land”. Which heading is most precise?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "evaporation",
-        "is_correct": false
-      },
-      {
-        "text": "condensation",
-        "is_correct": false
-      },
-      {
-        "text": "runoff",
+        "text": "Oceans",
         "is_correct": true
+      },
+      {
+        "text": "Classroom sinks",
+        "is_correct": false
+      },
+      {
+        "text": "Backyard puddles",
+        "is_correct": false
+      },
+      {
+        "text": "Drink bottles",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Oceans",
+      "Classroom sinks",
+      "Backyard puddles",
+      "Drink bottles"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "runoff is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Most of Earth’s water is salt water in the oceans.",
+      "hint": "The largest water store."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Most of Earth’s water is salt water in the oceans.",
+      "hint": "The largest water store."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 9,
+    "sequencePriority": 9,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U02-P-010",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
     "bank": "practice",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "A student needs a heading for this evidence: “water stored and moving below Earth’s surface”. Which heading is most precise?",
-    "audio_prompt": "A student needs a heading for this evidence: “water stored and moving below Earth’s surface”. Which heading is most precise?",
+    "question": "Which pathway can happen after rain lands on soil?",
+    "audio_prompt": "Which pathway can happen after rain lands on soil?",
+    "audioPrompt": "Which pathway can happen after rain lands on soil?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-p-010",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A student needs a heading for this evidence: “water stored and moving below Earth’s surface”. Which heading is most precise?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "groundwater",
+        "text": "All water instantly becomes clouds",
+        "is_correct": false
+      },
+      {
+        "text": "Water stops being matter",
+        "is_correct": false
+      },
+      {
+        "text": "Rain always stays on leaves forever",
+        "is_correct": false
+      },
+      {
+        "text": "Some water can soak underground as infiltration",
         "is_correct": true
-      },
-      {
-        "text": "condensation",
-        "is_correct": false
-      },
-      {
-        "text": "precipitation",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "All water instantly becomes clouds",
+      "Water stops being matter",
+      "Rain always stays on leaves forever",
+      "Some water can soak underground as infiltration"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "groundwater is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Water can infiltrate soil and become part of groundwater.",
+      "hint": "Think soaking into the ground."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Water can infiltrate soil and become part of groundwater.",
+      "hint": "Think soaking into the ground."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 10,
+    "sequencePriority": 10,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U02-P-011",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
     "bank": "practice",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "During a Year 4 discussion, Student 1 says, “Clouds are water vapour”. Which response best corrects the science?",
-    "audio_prompt": "During a Year 4 discussion, Student 1 says, “Clouds are water vapour”. Which response best corrects the science?",
+    "question": "Why can a puddle dry even when it is not boiling?",
+    "audio_prompt": "Why can a puddle dry even when it is not boiling?",
+    "audioPrompt": "Why can a puddle dry even when it is not boiling?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-p-011",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: During a Year 4 discussion, Student 1 says, “Clouds are water vapour”. Which response best corrects the science?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Clouds are water vapour",
+        "text": "The puddle turns into soil",
         "is_correct": false
       },
       {
-        "text": "Visible clouds contain tiny liquid droplets or ice crystals; water vapour is invisible.",
+        "text": "Wind changes water into sunlight",
+        "is_correct": false
+      },
+      {
+        "text": "Water can evaporate from the surface below boiling point",
         "is_correct": true
       },
       {
-        "text": "Evaporation only happens when boiling",
+        "text": "Only boiling water can enter the air",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "The puddle turns into soil",
+      "Wind changes water into sunlight",
+      "Water can evaporate from the surface below boiling point",
+      "Only boiling water can enter the air"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Visible clouds contain tiny liquid droplets or ice crystals; water vapour is invisible.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Evaporation can happen slowly from liquid surfaces at everyday temperatures.",
+      "hint": "Boiling is not required."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Evaporation can happen slowly from liquid surfaces at everyday temperatures.",
+      "hint": "Boiling is not required."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 11,
+    "sequencePriority": 11,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U02-P-012",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
     "bank": "practice",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "During a Year 4 discussion, Student 2 says, “Evaporation only happens when boiling”. Which response best corrects the science?",
-    "audio_prompt": "During a Year 4 discussion, Student 2 says, “Evaporation only happens when boiling”. Which response best corrects the science?",
+    "question": "Why do droplets appear on the outside of a cold glass of water?",
+    "audio_prompt": "Why do droplets appear on the outside of a cold glass of water?",
+    "audioPrompt": "Why do droplets appear on the outside of a cold glass of water?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-p-012",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: During a Year 4 discussion, Student 2 says, “Evaporation only happens when boiling”. Which response best corrects the science?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Evaporation only happens when boiling",
+        "text": "The drink pushes water through the table",
         "is_correct": false
       },
       {
-        "text": "Droplets on a cold glass leak through",
-        "is_correct": false
-      },
-      {
-        "text": "Liquid water evaporates from its surface below boiling point.",
+        "text": "Water vapour in the air cools and condenses on the glass",
         "is_correct": true
+      },
+      {
+        "text": "Water leaks through solid glass",
+        "is_correct": false
+      },
+      {
+        "text": "The glass makes new water from nothing",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "The drink pushes water through the table",
+      "Water vapour in the air cools and condenses on the glass",
+      "Water leaks through solid glass",
+      "The glass makes new water from nothing"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Liquid water evaporates from its surface below boiling point.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "The cold surface cools nearby water vapour enough for liquid droplets to form.",
+      "hint": "The droplets come from air."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "The cold surface cools nearby water vapour enough for liquid droplets to form.",
+      "hint": "The droplets come from air."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 12,
+    "sequencePriority": 12,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U02-P-013",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
     "bank": "practice",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "During a Year 4 discussion, Student 3 says, “Droplets on a cold glass leak through”. Which response best corrects the science?",
-    "audio_prompt": "During a Year 4 discussion, Student 3 says, “Droplets on a cold glass leak through”. Which response best corrects the science?",
+    "question": "Why are visible clouds not simply water vapour?",
+    "audio_prompt": "Why are visible clouds not simply water vapour?",
+    "audioPrompt": "Why are visible clouds not simply water vapour?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-p-013",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: During a Year 4 discussion, Student 3 says, “Droplets on a cold glass leak through”. Which response best corrects the science?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "They form when water vapour in air condenses on the cool surface.",
+        "text": "Visible clouds contain tiny liquid droplets or ice crystals",
         "is_correct": true
       },
       {
-        "text": "Droplets on a cold glass leak through",
+        "text": "Water vapour is always bright white",
         "is_correct": false
       },
       {
-        "text": "The water cycle follows one fixed circle",
+        "text": "Clouds are made only of smoke",
+        "is_correct": false
+      },
+      {
+        "text": "Clouds are empty air with no water",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "Visible clouds contain tiny liquid droplets or ice crystals",
+      "Water vapour is always bright white",
+      "Clouds are made only of smoke",
+      "Clouds are empty air with no water"
+    ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "They form when water vapour in air condenses on the cool surface.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Water vapour itself is invisible; clouds become visible because tiny droplets or ice crystals scatter light.",
+      "hint": "Visible cloud water is not vapour gas."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Water vapour itself is invisible; clouds become visible because tiny droplets or ice crystals scatter light.",
+      "hint": "Visible cloud water is not vapour gas."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 13,
+    "sequencePriority": 13,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U02-P-014",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
     "bank": "practice",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "During a Year 4 discussion, Student 4 says, “The water cycle follows one fixed circle”. Which response best corrects the science?",
-    "audio_prompt": "During a Year 4 discussion, Student 4 says, “The water cycle follows one fixed circle”. Which response best corrects the science?",
+    "question": "Why does rainwater often flow toward drains, creeks or lower ground?",
+    "audio_prompt": "Why does rainwater often flow toward drains, creeks or lower ground?",
+    "audioPrompt": "Why does rainwater often flow toward drains, creeks or lower ground?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-p-014",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: During a Year 4 discussion, Student 4 says, “The water cycle follows one fixed circle”. Which response best corrects the science?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "The water cycle follows one fixed circle",
+        "text": "Condensation pushes water uphill",
         "is_correct": false
       },
       {
-        "text": "Water can take many pathways and remain stored for different times.",
+        "text": "Sunlight pulls water into drains",
+        "is_correct": false
+      },
+      {
+        "text": "Groundwater floats above clouds",
+        "is_correct": false
+      },
+      {
+        "text": "Gravity moves water downhill as runoff",
         "is_correct": true
-      },
-      {
-        "text": "Clouds are water vapour",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "Condensation pushes water uphill",
+      "Sunlight pulls water into drains",
+      "Groundwater floats above clouds",
+      "Gravity moves water downhill as runoff"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Water can take many pathways and remain stored for different times.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Runoff is surface water moving across land under gravity.",
+      "hint": "Water flows downhill."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Runoff is surface water moving across land under gravity.",
+      "hint": "Water flows downhill."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 14,
+    "sequencePriority": 14,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U02-P-015",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
     "bank": "practice",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "A group writes this claim on a poster: “Clouds are water vapour”. Which edit makes the claim scientifically accurate?",
-    "audio_prompt": "A group writes this claim on a poster: “Clouds are water vapour”. Which edit makes the claim scientifically accurate?",
+    "question": "Why is groundwater part of the water cycle?",
+    "audio_prompt": "Why is groundwater part of the water cycle?",
+    "audioPrompt": "Why is groundwater part of the water cycle?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-p-015",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A group writes this claim on a poster: “Clouds are water vapour”. Which edit makes the claim scientifically accurate?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Clouds are water vapour",
+        "text": "Groundwater is not water",
         "is_correct": false
       },
       {
-        "text": "Droplets on a cold glass leak through",
+        "text": "Groundwater can never move",
         "is_correct": false
       },
       {
-        "text": "Visible clouds contain tiny liquid droplets or ice crystals; water vapour is invisible.",
+        "text": "Water can soak into the ground, be stored there and later move to springs, wells or rivers",
         "is_correct": true
+      },
+      {
+        "text": "Groundwater is outside Earth",
+        "is_correct": false
       }
     ],
+    "answer_texts": [
+      "Groundwater is not water",
+      "Groundwater can never move",
+      "Water can soak into the ground, be stored there and later move to springs, wells or rivers",
+      "Groundwater is outside Earth"
+    ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Visible clouds contain tiny liquid droplets or ice crystals; water vapour is invisible.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Infiltrated water can be stored and move underground before returning to surface pathways.",
+      "hint": "Hidden stores still connect."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Infiltrated water can be stored and move underground before returning to surface pathways.",
+      "hint": "Hidden stores still connect."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 15,
+    "sequencePriority": 15,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U02-P-016",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
     "bank": "practice",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "A group writes this claim on a poster: “Evaporation only happens when boiling”. Which edit makes the claim scientifically accurate?",
-    "audio_prompt": "A group writes this claim on a poster: “Evaporation only happens when boiling”. Which edit makes the claim scientifically accurate?",
+    "question": "Why does the water cycle not have one fixed starting point?",
+    "audio_prompt": "Why does the water cycle not have one fixed starting point?",
+    "audioPrompt": "Why does the water cycle not have one fixed starting point?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-p-016",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A group writes this claim on a poster: “Evaporation only happens when boiling”. Which edit makes the claim scientifically accurate?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Liquid water evaporates from its surface below boiling point.",
+        "text": "Water disappears after precipitation",
+        "is_correct": false
+      },
+      {
+        "text": "Water can be stored and move through many connected pathways",
         "is_correct": true
       },
       {
-        "text": "Evaporation only happens when boiling",
+        "text": "All water must start in a school tap",
         "is_correct": false
       },
       {
-        "text": "The water cycle follows one fixed circle",
+        "text": "Every drop follows the same circle in one day",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Water disappears after precipitation",
+      "Water can be stored and move through many connected pathways",
+      "All water must start in a school tap",
+      "Every drop follows the same circle in one day"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Liquid water evaporates from its surface below boiling point.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "The cycle describes connected processes and stores, not a single identical route for every water particle.",
+      "hint": "No single start."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "The cycle describes connected processes and stores, not a single identical route for every water particle.",
+      "hint": "No single start."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 16,
+    "sequencePriority": 16,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U02-P-017",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
     "bank": "practice",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "A group writes this claim on a poster: “Droplets on a cold glass leak through”. Which edit makes the claim scientifically accurate?",
-    "audio_prompt": "A group writes this claim on a poster: “Droplets on a cold glass leak through”. Which edit makes the claim scientifically accurate?",
+    "question": "How does the Sun help the water cycle?",
+    "audio_prompt": "How does the Sun help the water cycle?",
+    "audioPrompt": "How does the Sun help the water cycle?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-p-017",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A group writes this claim on a poster: “Droplets on a cold glass leak through”. Which edit makes the claim scientifically accurate?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Droplets on a cold glass leak through",
-        "is_correct": false
-      },
-      {
-        "text": "They form when water vapour in air condenses on the cool surface.",
+        "text": "It provides energy that increases evaporation from surfaces",
         "is_correct": true
       },
       {
-        "text": "Clouds are water vapour",
+        "text": "It makes gravity switch off",
+        "is_correct": false
+      },
+      {
+        "text": "It turns clouds into rocks",
+        "is_correct": false
+      },
+      {
+        "text": "It stops oceans from storing water",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "It provides energy that increases evaporation from surfaces",
+      "It makes gravity switch off",
+      "It turns clouds into rocks",
+      "It stops oceans from storing water"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "They form when water vapour in air condenses on the cool surface.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Solar energy warms water surfaces and supports evaporation.",
+      "hint": "Sun energy helps liquid enter air."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Solar energy warms water surfaces and supports evaporation.",
+      "hint": "Sun energy helps liquid enter air."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 17,
+    "sequencePriority": 17,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U02-P-018",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
     "bank": "practice",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "A group writes this claim on a poster: “The water cycle follows one fixed circle”. Which edit makes the claim scientifically accurate?",
-    "audio_prompt": "A group writes this claim on a poster: “The water cycle follows one fixed circle”. Which edit makes the claim scientifically accurate?",
+    "question": "How can snow on a mountain become water in a river?",
+    "audio_prompt": "How can snow on a mountain become water in a river?",
+    "audioPrompt": "How can snow on a mountain become water in a river?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-p-018",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A group writes this claim on a poster: “The water cycle follows one fixed circle”. Which edit makes the claim scientifically accurate?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "The water cycle follows one fixed circle",
+        "text": "It must evaporate into a fish first",
         "is_correct": false
       },
       {
-        "text": "Evaporation only happens when boiling",
+        "text": "It condenses into soil forever",
         "is_correct": false
       },
       {
-        "text": "Water can take many pathways and remain stored for different times.",
+        "text": "It stops being water when white",
+        "is_correct": false
+      },
+      {
+        "text": "It can melt, then flow downhill as runoff",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "It must evaporate into a fish first",
+      "It condenses into soil forever",
+      "It stops being water when white",
+      "It can melt, then flow downhill as runoff"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Water can take many pathways and remain stored for different times.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Meltwater can flow downhill and join streams or rivers.",
+      "hint": "Solid water can melt, then move."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Meltwater can flow downhill and join streams or rivers.",
+      "hint": "Solid water can melt, then move."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 18,
+    "sequencePriority": 18,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U02-P-019",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
     "bank": "practice",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "Study the classroom example. Which process changes liquid water into water vapour?",
-    "audio_prompt": "Study the classroom example. Which process changes liquid water into water vapour?",
+    "question": "Why might water stay in an ocean, glacier or aquifer for a long time?",
+    "audio_prompt": "Why might water stay in an ocean, glacier or aquifer for a long time?",
+    "audioPrompt": "Why might water stay in an ocean, glacier or aquifer for a long time?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-p-019",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: Study the classroom example. Which process changes liquid water into water vapour?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "evaporation",
+        "text": "Stored water is no longer matter",
+        "is_correct": false
+      },
+      {
+        "text": "Only clouds can store water",
+        "is_correct": false
+      },
+      {
+        "text": "Water can be stored for different lengths of time before moving on",
         "is_correct": true
       },
       {
-        "text": "condensation",
-        "is_correct": false
-      },
-      {
-        "text": "precipitation",
+        "text": "The water cycle stops in every store",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Stored water is no longer matter",
+      "Only clouds can store water",
+      "Water can be stored for different lengths of time before moving on",
+      "The water cycle stops in every store"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "evaporation",
-      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
+      "summary": "Water stores can hold water for short or long periods before another process moves it.",
+      "hint": "Storage time can vary."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Water stores can hold water for short or long periods before another process moves it.",
+      "hint": "Storage time can vary."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 19,
+    "sequencePriority": 19,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U02-P-020",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
     "bank": "practice",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "Use the investigation evidence. Which statement best explains runoff?",
-    "audio_prompt": "Use the investigation evidence. Which statement best explains runoff?",
+    "question": "Why can the same water-cycle process happen in different places at different rates?",
+    "audio_prompt": "Why can the same water-cycle process happen in different places at different rates?",
+    "audioPrompt": "Why can the same water-cycle process happen in different places at different rates?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-p-020",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: Use the investigation evidence. Which statement best explains runoff?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Clouds pull water uphill",
+        "text": "Runoff always takes exactly one minute",
         "is_correct": false
       },
       {
-        "text": "Gravity moves water across land toward lower places",
+        "text": "Temperature, wind, sunlight and landscape can change how fast water moves or changes",
         "is_correct": true
       },
       {
-        "text": "Water disappears permanently",
+        "text": "Evaporation only happens in deserts",
+        "is_correct": false
+      },
+      {
+        "text": "Condensation only happens in freezers",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "Runoff always takes exactly one minute",
+      "Temperature, wind, sunlight and landscape can change how fast water moves or changes",
+      "Evaporation only happens in deserts",
+      "Condensation only happens in freezers"
+    ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Gravity moves water across land toward lower places",
-      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
+      "summary": "Local conditions affect rates, even when the processes are the same.",
+      "hint": "Stable process, changing rate."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Local conditions affect rates, even when the processes are the same.",
+      "hint": "Stable process, changing rate."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 20,
+    "sequencePriority": 20,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U02-P-021",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
     "bank": "practice",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "The class is preparing “Bag water-cycle model”. Which plan would produce useful scientific evidence?",
-    "audio_prompt": "The class is preparing “Bag water-cycle model”. Which plan would produce useful scientific evidence?",
+    "question": "Which statement is a misconception?",
+    "audio_prompt": "Which statement is a misconception?",
+    "audioPrompt": "Which statement is a misconception?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-p-021",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: The class is preparing “Bag water-cycle model”. Which plan would produce useful scientific evidence?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Begin bag water-cycle model, change two important conditions together, then compare only the preferred observation.",
-        "is_correct": false
-      },
-      {
-        "text": "Carry out bag water-cycle model once, omit the measurements and report the original prediction as the result.",
-        "is_correct": false
-      },
-      {
-        "text": "Observe sealed water warming, evaporating and condensing; label what the model represents and what it cannot show.",
+        "text": "Clouds are made only of invisible water vapour",
         "is_correct": true
+      },
+      {
+        "text": "Evaporation changes liquid water to vapour",
+        "is_correct": false
+      },
+      {
+        "text": "Precipitation can include rain or hail",
+        "is_correct": false
+      },
+      {
+        "text": "Runoff moves across land",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Clouds are made only of invisible water vapour",
+      "Evaporation changes liquid water to vapour",
+      "Precipitation can include rain or hail",
+      "Runoff moves across land"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Observe sealed water warming, evaporating and condensing; label what the model represents and what it cannot show.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+      "summary": "Visible clouds contain tiny droplets or ice crystals, not only invisible vapour.",
+      "hint": "Vapour itself cannot be seen."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Visible clouds contain tiny droplets or ice crystals, not only invisible vapour.",
+      "hint": "Vapour itself cannot be seen."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 21,
+    "sequencePriority": 21,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U02-P-022",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
     "bank": "practice",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "The class is preparing “Water-source map”. Which plan would produce useful scientific evidence?",
-    "audio_prompt": "The class is preparing “Water-source map”. Which plan would produce useful scientific evidence?",
+    "question": "Which observation best shows runoff?",
+    "audio_prompt": "Which observation best shows runoff?",
+    "audioPrompt": "Which observation best shows runoff?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-p-022",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: The class is preparing “Water-source map”. Which plan would produce useful scientific evidence?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Classify visible and hidden sources of fresh and salt water in a landscape diagram.",
+        "text": "A mirror fogging in a bathroom",
+        "is_correct": false
+      },
+      {
+        "text": "A wet shirt becoming dry",
+        "is_correct": false
+      },
+      {
+        "text": "Water stored in an underground aquifer",
+        "is_correct": false
+      },
+      {
+        "text": "Rainwater flowing along a path into a gutter",
         "is_correct": true
-      },
-      {
-        "text": "Begin water-source map, change two important conditions together, then compare only the preferred observation.",
-        "is_correct": false
-      },
-      {
-        "text": "Carry out water-source map once, omit the measurements and report the original prediction as the result.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "A mirror fogging in a bathroom",
+      "A wet shirt becoming dry",
+      "Water stored in an underground aquifer",
+      "Rainwater flowing along a path into a gutter"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Classify visible and hidden sources of fresh and salt water in a landscape diagram.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+      "summary": "Runoff is water flowing over the land surface.",
+      "hint": "Surface flow."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Runoff is water flowing over the land surface.",
+      "hint": "Surface flow."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 22,
+    "sequencePriority": 22,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U02-P-023",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
     "bank": "practice",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "The class is preparing “Process evidence stations”. Which plan would produce useful scientific evidence?",
-    "audio_prompt": "The class is preparing “Process evidence stations”. Which plan would produce useful scientific evidence?",
+    "question": "Which observation best shows condensation?",
+    "audio_prompt": "Which observation best shows condensation?",
+    "audioPrompt": "Which observation best shows condensation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-p-023",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: The class is preparing “Process evidence stations”. Which plan would produce useful scientific evidence?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Begin process evidence stations, change two important conditions together, then compare only the preferred observation.",
+        "text": "Water flowing down a creek",
         "is_correct": false
       },
       {
-        "text": "Use a cold container, wet cloth and sloped tray to observe condensation, evaporation and runoff.",
+        "text": "Rain soaking into soil",
+        "is_correct": false
+      },
+      {
+        "text": "Mist forming on a cold window",
         "is_correct": true
       },
       {
-        "text": "Carry out process evidence stations once, omit the measurements and report the original prediction as the result.",
+        "text": "A dam level dropping in hot weather",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "Water flowing down a creek",
+      "Rain soaking into soil",
+      "Mist forming on a cold window",
+      "A dam level dropping in hot weather"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Use a cold container, wet cloth and sloped tray to observe condensation, evaporation and runoff.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+      "summary": "Condensation forms liquid droplets when vapour cools.",
+      "hint": "Droplets after cooling."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Condensation forms liquid droplets when vapour cools.",
+      "hint": "Droplets after cooling."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 23,
+    "sequencePriority": 23,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U02-P-024",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
     "bank": "practice",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "A results display includes “puddle shrinks”. Which interpretation matches that evidence?",
-    "audio_prompt": "A results display includes “puddle shrinks”. Which interpretation matches that evidence?",
+    "question": "Which observation best shows evaporation?",
+    "audio_prompt": "Which observation best shows evaporation?",
+    "audioPrompt": "Which observation best shows evaporation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-p-024",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A results display includes “puddle shrinks”. Which interpretation matches that evidence?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "condensation because water vapour cools on surface",
+        "text": "Dew forms on grass overnight",
         "is_correct": false
       },
       {
-        "text": "runoff because gravity moves water downhill",
+        "text": "A wet playground dries after lunch",
+        "is_correct": true
+      },
+      {
+        "text": "Rain falls from dark clouds",
         "is_correct": false
       },
       {
-        "text": "evaporation because liquid water enters air as vapour",
+        "text": "Water trickles down a slope",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Dew forms on grass overnight",
+      "A wet playground dries after lunch",
+      "Rain falls from dark clouds",
+      "Water trickles down a slope"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Drying happens as liquid water evaporates into the air.",
+      "hint": "Liquid leaving surface."
+    },
+    "structuredExplanation": {
+      "summary": "Drying happens as liquid water evaporates into the air.",
+      "hint": "Liquid leaving surface."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 24,
+    "sequencePriority": 24,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U02-P-025",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
+    "bank": "practice",
+    "skill": "water_sources_and_the_water_cycle",
+    "question": "Which choice is freshwater stored below ground?",
+    "audio_prompt": "Which choice is freshwater stored below ground?",
+    "audioPrompt": "Which choice is freshwater stored below ground?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Groundwater",
+        "is_correct": true
+      },
+      {
+        "text": "Ocean water",
+        "is_correct": false
+      },
+      {
+        "text": "Water vapour only",
+        "is_correct": false
+      },
+      {
+        "text": "Cloud shadow",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Groundwater",
+      "Ocean water",
+      "Water vapour only",
+      "Cloud shadow"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Groundwater is water stored beneath Earth’s surface.",
+      "hint": "Below the surface."
+    },
+    "structuredExplanation": {
+      "summary": "Groundwater is water stored beneath Earth’s surface.",
+      "hint": "Below the surface."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 25,
+    "sequencePriority": 25,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U02-P-026",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
+    "bank": "practice",
+    "skill": "water_sources_and_the_water_cycle",
+    "question": "Which pathway is possible in the water cycle?",
+    "audio_prompt": "Which pathway is possible in the water cycle?",
+    "audioPrompt": "Which pathway is possible in the water cycle?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "ocean → runoff → sunlight → rock → animal",
+        "is_correct": false
+      },
+      {
+        "text": "cloud → producer → magnet → river",
+        "is_correct": false
+      },
+      {
+        "text": "groundwater → cloud shadow → plastic → hail",
+        "is_correct": false
+      },
+      {
+        "text": "ocean → evaporation → condensation → precipitation → runoff",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "ocean → runoff → sunlight → rock → animal",
+      "cloud → producer → magnet → river",
+      "groundwater → cloud shadow → plastic → hail",
+      "ocean → evaporation → condensation → precipitation → runoff"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "puddle shrinks is linked to evaporation because liquid water enters air as vapour.",
-      "hint": "Trace across the same row and keep the conclusion limited to the evidence shown."
+      "summary": "The first pathway uses connected water-cycle processes and stores.",
+      "hint": "Follow real processes."
     },
+    "structuredExplanation": {
+      "summary": "The first pathway uses connected water-cycle processes and stores.",
+      "hint": "Follow real processes."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 26,
+    "sequencePriority": 26,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U02-P-027",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
+    "bank": "practice",
+    "skill": "water_sources_and_the_water_cycle",
+    "question": "Which explanation avoids the cold-glass misconception?",
+    "audio_prompt": "Which explanation avoids the cold-glass misconception?",
+    "audioPrompt": "Which explanation avoids the cold-glass misconception?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The cold glass creates water from nothing",
+        "is_correct": false
+      },
+      {
+        "text": "The drink pushes drops through the cup",
+        "is_correct": false
+      },
+      {
+        "text": "Droplets come from water vapour in the surrounding air",
+        "is_correct": true
+      },
+      {
+        "text": "Water leaks through the glass wall",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "The cold glass creates water from nothing",
+      "The drink pushes drops through the cup",
+      "Droplets come from water vapour in the surrounding air",
+      "Water leaks through the glass wall"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Condensation on the outside comes from air, not leaking from inside.",
+      "hint": "Outside droplets start in air."
+    },
+    "structuredExplanation": {
+      "summary": "Condensation on the outside comes from air, not leaking from inside.",
+      "hint": "Outside droplets start in air."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 27,
+    "sequencePriority": 27,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U02-P-028",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
+    "bank": "practice",
+    "skill": "water_sources_and_the_water_cycle",
+    "question": "Which statement about precipitation is most accurate?",
+    "audio_prompt": "Which statement about precipitation is most accurate?",
+    "audioPrompt": "Which statement about precipitation is most accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "It is the same as groundwater",
+        "is_correct": false
+      },
+      {
+        "text": "It returns water from clouds to Earth’s surface",
+        "is_correct": true
+      },
+      {
+        "text": "It only means water disappears",
+        "is_correct": false
+      },
+      {
+        "text": "It only happens as snow in Australia",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "It is the same as groundwater",
+      "It returns water from clouds to Earth’s surface",
+      "It only means water disappears",
+      "It only happens as snow in Australia"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Precipitation includes forms such as rain, snow, sleet and hail falling from clouds.",
+      "hint": "Water falls from clouds."
+    },
+    "structuredExplanation": {
+      "summary": "Precipitation includes forms such as rain, snow, sleet and hail falling from clouds.",
+      "hint": "Water falls from clouds."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 28,
+    "sequencePriority": 28,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U02-P-029",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
+    "bank": "practice",
+    "skill": "water_sources_and_the_water_cycle",
+    "question": "Which claim is too fixed for the water cycle?",
+    "audio_prompt": "Which claim is too fixed for the water cycle?",
+    "audioPrompt": "Which claim is too fixed for the water cycle?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Every water drop follows the same circle at the same speed",
+        "is_correct": true
+      },
+      {
+        "text": "Some water soaks into soil",
+        "is_correct": false
+      },
+      {
+        "text": "Some water evaporates from oceans",
+        "is_correct": false
+      },
+      {
+        "text": "Gravity can move water downhill",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Every water drop follows the same circle at the same speed",
+      "Some water soaks into soil",
+      "Some water evaporates from oceans",
+      "Gravity can move water downhill"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Water can take many routes and spend different times in different stores.",
+      "hint": "Avoid one identical circle."
+    },
+    "structuredExplanation": {
+      "summary": "Water can take many routes and spend different times in different stores.",
+      "hint": "Avoid one identical circle."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 29,
+    "sequencePriority": 29,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U02-P-030",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
+    "bank": "practice",
+    "skill": "water_sources_and_the_water_cycle",
+    "question": "Which factor would most likely increase evaporation from a wet towel?",
+    "audio_prompt": "Which factor would most likely increase evaporation from a wet towel?",
+    "audioPrompt": "Which factor would most likely increase evaporation from a wet towel?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Covering it in a sealed cold box",
+        "is_correct": false
+      },
+      {
+        "text": "Putting it in complete shade with still air",
+        "is_correct": false
+      },
+      {
+        "text": "Freezing it solid immediately",
+        "is_correct": false
+      },
+      {
+        "text": "Warm sunny windy conditions",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Covering it in a sealed cold box",
+      "Putting it in complete shade with still air",
+      "Freezing it solid immediately",
+      "Warm sunny windy conditions"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Warmth, sunlight and moving air can increase evaporation from a wet surface.",
+      "hint": "What helps water enter air?"
+    },
+    "structuredExplanation": {
+      "summary": "Warmth, sunlight and moving air can increase evaporation from a wet surface.",
+      "hint": "What helps water enter air?"
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 30,
+    "sequencePriority": 30,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U02-P-031",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
+    "bank": "practice",
+    "skill": "water_sources_and_the_water_cycle",
+    "question": "A creek rises after heavy rain and water runs from streets into drains. Which process is happening on the land surface?",
+    "audio_prompt": "A creek rises after heavy rain and water runs from streets into drains. Which process is happening on the land surface?",
+    "audioPrompt": "A creek rises after heavy rain and water runs from streets into drains. Which process is happening on the land surface?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Freezing",
+        "is_correct": false
+      },
+      {
+        "text": "Magnetism",
+        "is_correct": false
+      },
+      {
+        "text": "Runoff",
+        "is_correct": true
+      },
+      {
+        "text": "Condensation",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Freezing",
+      "Magnetism",
+      "Runoff",
+      "Condensation"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Rainwater moving across surfaces toward drains and creeks is runoff.",
+      "hint": "Surface water moving downhill."
+    },
+    "structuredExplanation": {
+      "summary": "Rainwater moving across surfaces toward drains and creeks is runoff.",
+      "hint": "Surface water moving downhill."
+    },
+    "stage": "apply",
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 31,
+    "sequencePriority": 31,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U02-P-032",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
+    "bank": "practice",
+    "skill": "water_sources_and_the_water_cycle",
+    "question": "A student says a cold drink bottle is leaking because drops are outside it. What is the best correction?",
+    "audio_prompt": "A student says a cold drink bottle is leaking because drops are outside it. What is the best correction?",
+    "audioPrompt": "A student says a cold drink bottle is leaking because drops are outside it. What is the best correction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The bottle made water from sunlight",
+        "is_correct": false
+      },
+      {
+        "text": "Water vapour from the air condensed on the cold bottle",
+        "is_correct": true
+      },
+      {
+        "text": "The plastic turned into rain",
+        "is_correct": false
+      },
+      {
+        "text": "Water passed through the sealed bottle every time",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "The bottle made water from sunlight",
+      "Water vapour from the air condensed on the cold bottle",
+      "The plastic turned into rain",
+      "Water passed through the sealed bottle every time"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "The outside droplets form when air near the cold bottle cools.",
+      "hint": "The water came from air."
+    },
+    "structuredExplanation": {
+      "summary": "The outside droplets form when air near the cold bottle cools.",
+      "hint": "The water came from air."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 32,
+    "sequencePriority": 32,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U02-P-033",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
+    "bank": "practice",
+    "skill": "water_sources_and_the_water_cycle",
+    "question": "A dam level is lower after a hot dry week. Which process could explain some of the loss?",
+    "audio_prompt": "A dam level is lower after a hot dry week. Which process could explain some of the loss?",
+    "audioPrompt": "A dam level is lower after a hot dry week. Which process could explain some of the loss?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Evaporation from the water surface",
+        "is_correct": true
+      },
+      {
+        "text": "Condensation into the dam",
+        "is_correct": false
+      },
+      {
+        "text": "Runoff uphill into clouds",
+        "is_correct": false
+      },
+      {
+        "text": "Groundwater becoming sunlight",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Evaporation from the water surface",
+      "Condensation into the dam",
+      "Runoff uphill into clouds",
+      "Groundwater becoming sunlight"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Heat can increase evaporation from open water surfaces.",
+      "hint": "Liquid to vapour."
+    },
+    "structuredExplanation": {
+      "summary": "Heat can increase evaporation from open water surfaces.",
+      "hint": "Liquid to vapour."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 33,
+    "sequencePriority": 33,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U02-P-034",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
+    "bank": "practice",
+    "skill": "water_sources_and_the_water_cycle",
+    "question": "Rain falls on a sports oval. Some water puddles, some flows to a drain and some soaks into soil. What does this show?",
+    "audio_prompt": "Rain falls on a sports oval. Some water puddles, some flows to a drain and some soaks into soil. What does this show?",
+    "audioPrompt": "Rain falls on a sports oval. Some water puddles, some flows to a drain and some soaks into soil. What does this show?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "All water must go straight to the ocean",
+        "is_correct": false
+      },
+      {
+        "text": "The water cycle has stopped",
+        "is_correct": false
+      },
+      {
+        "text": "Only puddles are part of the cycle",
+        "is_correct": false
+      },
+      {
+        "text": "Water can follow different pathways after precipitation",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "All water must go straight to the ocean",
+      "The water cycle has stopped",
+      "Only puddles are part of the cycle",
+      "Water can follow different pathways after precipitation"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "After precipitation, water may run off, collect or infiltrate.",
+      "hint": "Several pathways."
+    },
+    "structuredExplanation": {
+      "summary": "After precipitation, water may run off, collect or infiltrate.",
+      "hint": "Several pathways."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 34,
+    "sequencePriority": 34,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U02-P-035",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
+    "bank": "practice",
+    "skill": "water_sources_and_the_water_cycle",
+    "question": "A class traces water from ocean to cloud to rain to river. Which process changes ocean water into vapour first?",
+    "audio_prompt": "A class traces water from ocean to cloud to rain to river. Which process changes ocean water into vapour first?",
+    "audioPrompt": "A class traces water from ocean to cloud to rain to river. Which process changes ocean water into vapour first?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Runoff",
+        "is_correct": false
+      },
+      {
+        "text": "Condensation",
+        "is_correct": false
+      },
+      {
+        "text": "Evaporation",
+        "is_correct": true
+      },
+      {
+        "text": "Precipitation",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Runoff",
+      "Condensation",
+      "Evaporation",
+      "Precipitation"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Ocean water can evaporate into water vapour before clouds form.",
+      "hint": "First liquid becomes vapour."
+    },
+    "structuredExplanation": {
+      "summary": "Ocean water can evaporate into water vapour before clouds form.",
+      "hint": "First liquid becomes vapour."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 35,
+    "sequencePriority": 35,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U02-P-036",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
+    "bank": "practice",
+    "skill": "water_sources_and_the_water_cycle",
+    "question": "A farmer pumps water from a bore during a dry month. Which water source is being used?",
+    "audio_prompt": "A farmer pumps water from a bore during a dry month. Which water source is being used?",
+    "audioPrompt": "A farmer pumps water from a bore during a dry month. Which water source is being used?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Cloud droplets inside the pump",
+        "is_correct": false
+      },
+      {
+        "text": "Groundwater",
+        "is_correct": true
+      },
+      {
+        "text": "Only precipitation in the sky",
+        "is_correct": false
+      },
+      {
+        "text": "Ocean waves",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Cloud droplets inside the pump",
+      "Groundwater",
+      "Only precipitation in the sky",
+      "Ocean waves"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "A bore accesses water stored underground.",
+      "hint": "Bores reach underground water."
+    },
+    "structuredExplanation": {
+      "summary": "A bore accesses water stored underground.",
+      "hint": "Bores reach underground water."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 36,
+    "sequencePriority": 36,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U02-P-037",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
+    "bank": "practice",
+    "skill": "water_sources_and_the_water_cycle",
+    "question": "A hillside has little vegetation after a fire. After rain, muddy water moves quickly into a creek. Which idea best explains this?",
+    "audio_prompt": "A hillside has little vegetation after a fire. After rain, muddy water moves quickly into a creek. Which idea best explains this?",
+    "audioPrompt": "A hillside has little vegetation after a fire. After rain, muddy water moves quickly into a creek. Which idea best explains this?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Runoff can increase when water flows across exposed ground",
+        "is_correct": true
+      },
+      {
+        "text": "Condensation is stronger inside soil",
+        "is_correct": false
+      },
+      {
+        "text": "Evaporation makes mud flow uphill",
+        "is_correct": false
+      },
+      {
+        "text": "Groundwater always prevents surface flow",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Runoff can increase when water flows across exposed ground",
+      "Condensation is stronger inside soil",
+      "Evaporation makes mud flow uphill",
+      "Groundwater always prevents surface flow"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Bare or compacted surfaces can allow more water to flow across land.",
+      "hint": "Surface flow after rain."
+    },
+    "structuredExplanation": {
+      "summary": "Bare or compacted surfaces can allow more water to flow across land.",
+      "hint": "Surface flow after rain."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 37,
+    "sequencePriority": 37,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U02-P-038",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
+    "bank": "practice",
+    "skill": "water_sources_and_the_water_cycle",
+    "question": "A sealed plastic bag with a little water is taped to a sunny window. Droplets form near the top later. What process made the droplets?",
+    "audio_prompt": "A sealed plastic bag with a little water is taped to a sunny window. Droplets form near the top later. What process made the droplets?",
+    "audioPrompt": "A sealed plastic bag with a little water is taped to a sunny window. Droplets form near the top later. What process made the droplets?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Precipitation from a real cloud inside the room",
+        "is_correct": false
+      },
+      {
+        "text": "Runoff through the plastic",
+        "is_correct": false
+      },
+      {
+        "text": "Groundwater rising into the bag",
+        "is_correct": false
+      },
+      {
+        "text": "Condensation after evaporated water vapour cooled",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Precipitation from a real cloud inside the room",
+      "Runoff through the plastic",
+      "Groundwater rising into the bag",
+      "Condensation after evaporated water vapour cooled"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Water evaporates inside the bag, then condenses on cooler parts as droplets.",
+      "hint": "Vapour to liquid droplets."
+    },
+    "structuredExplanation": {
+      "summary": "Water evaporates inside the bag, then condenses on cooler parts as droplets.",
+      "hint": "Vapour to liquid droplets."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 38,
+    "sequencePriority": 38,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U02-P-039",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
+    "bank": "practice",
+    "skill": "water_sources_and_the_water_cycle",
+    "question": "Why might a water-cycle diagram include arrows into soil as well as along rivers?",
+    "audio_prompt": "Why might a water-cycle diagram include arrows into soil as well as along rivers?",
+    "audioPrompt": "Why might a water-cycle diagram include arrows into soil as well as along rivers?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Rivers are not part of the water cycle",
+        "is_correct": false
+      },
+      {
+        "text": "Groundwater cannot connect to rivers",
+        "is_correct": false
+      },
+      {
+        "text": "Some precipitation infiltrates to groundwater while some moves as runoff",
+        "is_correct": true
+      },
+      {
+        "text": "Soil arrows show water becoming rocks only",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Rivers are not part of the water cycle",
+      "Groundwater cannot connect to rivers",
+      "Some precipitation infiltrates to groundwater while some moves as runoff",
+      "Soil arrows show water becoming rocks only"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Water can soak underground or move along surface pathways.",
+      "hint": "Two connected paths."
+    },
+    "structuredExplanation": {
+      "summary": "Water can soak underground or move along surface pathways.",
+      "hint": "Two connected paths."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 39,
+    "sequencePriority": 39,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U02-P-040",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
+    "bank": "practice",
+    "skill": "water_sources_and_the_water_cycle",
+    "question": "A coastal town and an inland town both have evaporation, condensation and precipitation. Why might their rainfall amounts differ?",
+    "audio_prompt": "A coastal town and an inland town both have evaporation, condensation and precipitation. Why might their rainfall amounts differ?",
+    "audioPrompt": "A coastal town and an inland town both have evaporation, condensation and precipitation. Why might their rainfall amounts differ?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Condensation always makes equal rain everywhere",
+        "is_correct": false
+      },
+      {
+        "text": "Local conditions affect how much water moves through each process",
+        "is_correct": true
+      },
+      {
+        "text": "The inland town has no water cycle",
+        "is_correct": false
+      },
+      {
+        "text": "Evaporation cannot happen near oceans",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Condensation always makes equal rain everywhere",
+      "Local conditions affect how much water moves through each process",
+      "The inland town has no water cycle",
+      "Evaporation cannot happen near oceans"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "The same processes operate in different places, but rates and amounts vary with conditions.",
+      "hint": "Same process, different rate."
+    },
+    "structuredExplanation": {
+      "summary": "The same processes operate in different places, but rates and amounts vary with conditions.",
+      "hint": "Same process, different rate."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 40,
+    "sequencePriority": 40,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U02-T-001",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
     "bank": "test",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "A museum activity card says, “liquid water changes to water vapour”. Which scientific term belongs on the card?",
-    "audio_prompt": "A museum activity card says, “liquid water changes to water vapour”. Which scientific term belongs on the card?",
+    "question": "A rain gauge fills overnight during a storm. Which water-cycle process put water into the gauge?",
+    "audio_prompt": "A rain gauge fills overnight during a storm. Which water-cycle process put water into the gauge?",
+    "audioPrompt": "A rain gauge fills overnight during a storm. Which water-cycle process put water into the gauge?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-001",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A museum activity card says, “liquid water changes to water vapour”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "evaporation",
+        "text": "Condensation only underground",
+        "is_correct": false
+      },
+      {
+        "text": "Runoff uphill",
+        "is_correct": false
+      },
+      {
+        "text": "Precipitation",
         "is_correct": true
       },
       {
-        "text": "condensation",
-        "is_correct": false
-      },
-      {
-        "text": "precipitation",
+        "text": "Evaporation",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Condensation only underground",
+      "Runoff uphill",
+      "Precipitation",
+      "Evaporation"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "evaporation is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+      "summary": "Rain entering the gauge is precipitation from clouds to the surface.",
+      "hint": "Water falling from clouds."
+    },
+    "structuredExplanation": {
+      "summary": "Rain entering the gauge is precipitation from clouds to the surface.",
+      "hint": "Water falling from clouds."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 1,
+    "sequencePriority": 1,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U02-T-002",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
     "bank": "test",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "A museum activity card says, “water vapour cools and forms liquid droplets”. Which scientific term belongs on the card?",
-    "audio_prompt": "A museum activity card says, “water vapour cools and forms liquid droplets”. Which scientific term belongs on the card?",
+    "question": "A bike seat is wet with dew on a cool morning. What process formed the droplets?",
+    "audio_prompt": "A bike seat is wet with dew on a cool morning. What process formed the droplets?",
+    "audioPrompt": "A bike seat is wet with dew on a cool morning. What process formed the droplets?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-002",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A museum activity card says, “water vapour cools and forms liquid droplets”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "precipitation",
+        "text": "Collection in an ocean",
         "is_correct": false
       },
       {
-        "text": "condensation",
+        "text": "Condensation",
         "is_correct": true
       },
       {
-        "text": "runoff",
+        "text": "Runoff",
+        "is_correct": false
+      },
+      {
+        "text": "Evaporation",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "Collection in an ocean",
+      "Condensation",
+      "Runoff",
+      "Evaporation"
+    ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "condensation is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+      "summary": "Water vapour cooled on the seat and condensed into droplets.",
+      "hint": "Vapour to liquid."
+    },
+    "structuredExplanation": {
+      "summary": "Water vapour cooled on the seat and condensed into droplets.",
+      "hint": "Vapour to liquid."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 2,
+    "sequencePriority": 2,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U02-T-003",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
     "bank": "test",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "A museum activity card says, “water falls from clouds as rain, snow, sleet or hail”. Which scientific term belongs on the card?",
-    "audio_prompt": "A museum activity card says, “water falls from clouds as rain, snow, sleet or hail”. Which scientific term belongs on the card?",
+    "question": "A birdbath slowly loses water during a warm afternoon. Which process is most likely?",
+    "audio_prompt": "A birdbath slowly loses water during a warm afternoon. Which process is most likely?",
+    "audioPrompt": "A birdbath slowly loses water during a warm afternoon. Which process is most likely?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-003",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A museum activity card says, “water falls from clouds as rain, snow, sleet or hail”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "runoff",
-        "is_correct": false
-      },
-      {
-        "text": "groundwater",
-        "is_correct": false
-      },
-      {
-        "text": "precipitation",
+        "text": "Evaporation",
         "is_correct": true
+      },
+      {
+        "text": "Precipitation",
+        "is_correct": false
+      },
+      {
+        "text": "Infiltration through metal",
+        "is_correct": false
+      },
+      {
+        "text": "Condensation into the birdbath",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Evaporation",
+      "Precipitation",
+      "Infiltration through metal",
+      "Condensation into the birdbath"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "precipitation is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+      "summary": "Liquid water can evaporate from the birdbath surface.",
+      "hint": "Liquid to vapour."
+    },
+    "structuredExplanation": {
+      "summary": "Liquid water can evaporate from the birdbath surface.",
+      "hint": "Liquid to vapour."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 3,
+    "sequencePriority": 3,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U02-T-004",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
     "bank": "test",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "A museum activity card says, “water flows across land”. Which scientific term belongs on the card?",
-    "audio_prompt": "A museum activity card says, “water flows across land”. Which scientific term belongs on the card?",
+    "question": "Which source is water stored under the ground?",
+    "audio_prompt": "Which source is water stored under the ground?",
+    "audioPrompt": "Which source is water stored under the ground?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-004",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A museum activity card says, “water flows across land”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "runoff",
+        "text": "Sunlight",
+        "is_correct": false
+      },
+      {
+        "text": "A cloud shadow",
+        "is_correct": false
+      },
+      {
+        "text": "Dry sand only",
+        "is_correct": false
+      },
+      {
+        "text": "Groundwater",
         "is_correct": true
-      },
-      {
-        "text": "groundwater",
-        "is_correct": false
-      },
-      {
-        "text": "evaporation",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Sunlight",
+      "A cloud shadow",
+      "Dry sand only",
+      "Groundwater"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "runoff is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+      "summary": "Groundwater is stored beneath Earth’s surface.",
+      "hint": "Below ground."
+    },
+    "structuredExplanation": {
+      "summary": "Groundwater is stored beneath Earth’s surface.",
+      "hint": "Below ground."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 4,
+    "sequencePriority": 4,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U02-T-005",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
     "bank": "test",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "A museum activity card says, “water stored and moving below Earth’s surface”. Which scientific term belongs on the card?",
-    "audio_prompt": "A museum activity card says, “water stored and moving below Earth’s surface”. Which scientific term belongs on the card?",
+    "question": "Why does water in a creek usually move toward lower land?",
+    "audio_prompt": "Why does water in a creek usually move toward lower land?",
+    "audioPrompt": "Why does water in a creek usually move toward lower land?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-005",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A museum activity card says, “water stored and moving below Earth’s surface”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "evaporation",
+        "text": "Condensation makes it magnetic",
         "is_correct": false
       },
       {
-        "text": "groundwater",
+        "text": "Evaporation turns it solid",
+        "is_correct": false
+      },
+      {
+        "text": "Gravity pulls water downhill",
         "is_correct": true
       },
       {
-        "text": "condensation",
+        "text": "Clouds push it with light",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "Condensation makes it magnetic",
+      "Evaporation turns it solid",
+      "Gravity pulls water downhill",
+      "Clouds push it with light"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "groundwater is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+      "summary": "Gravity drives water movement downhill as runoff or streamflow.",
+      "hint": "Downhill force."
+    },
+    "structuredExplanation": {
+      "summary": "Gravity drives water movement downhill as runoff or streamflow.",
+      "hint": "Downhill force."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 5,
+    "sequencePriority": 5,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U02-T-006",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
     "bank": "test",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "A different class records this conclusion: “Clouds are water vapour”. Which feedback would improve it most?",
-    "audio_prompt": "A different class records this conclusion: “Clouds are water vapour”. Which feedback would improve it most?",
+    "question": "Which statement about clouds is correct?",
+    "audio_prompt": "Which statement about clouds is correct?",
+    "audioPrompt": "Which statement about clouds is correct?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-006",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A different class records this conclusion: “Clouds are water vapour”. Which feedback would improve it most?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Clouds are water vapour",
+        "text": "Clouds are not connected to water",
         "is_correct": false
       },
       {
-        "text": "Evaporation only happens when boiling",
-        "is_correct": false
-      },
-      {
-        "text": "Visible clouds contain tiny liquid droplets or ice crystals; water vapour is invisible.",
+        "text": "Visible clouds contain tiny droplets or ice crystals",
         "is_correct": true
+      },
+      {
+        "text": "Clouds are only invisible vapour",
+        "is_correct": false
+      },
+      {
+        "text": "Clouds are made of dry dust only",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Clouds are not connected to water",
+      "Visible clouds contain tiny droplets or ice crystals",
+      "Clouds are only invisible vapour",
+      "Clouds are made of dry dust only"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Visible clouds contain tiny liquid droplets or ice crystals; water vapour is invisible.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+      "summary": "Clouds are visible because droplets or ice crystals scatter light.",
+      "hint": "Not just vapour."
+    },
+    "structuredExplanation": {
+      "summary": "Clouds are visible because droplets or ice crystals scatter light.",
+      "hint": "Not just vapour."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 6,
+    "sequencePriority": 6,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U02-T-007",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
     "bank": "test",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "A different class records this conclusion: “Evaporation only happens when boiling”. Which feedback would improve it most?",
-    "audio_prompt": "A different class records this conclusion: “Evaporation only happens when boiling”. Which feedback would improve it most?",
+    "question": "A sealed cold metal lunchbox has droplets on the outside. Where did the water most likely come from?",
+    "audio_prompt": "A sealed cold metal lunchbox has droplets on the outside. Where did the water most likely come from?",
+    "audioPrompt": "A sealed cold metal lunchbox has droplets on the outside. Where did the water most likely come from?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-007",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A different class records this conclusion: “Evaporation only happens when boiling”. Which feedback would improve it most?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Liquid water evaporates from its surface below boiling point.",
+        "text": "Water vapour in the surrounding air",
         "is_correct": true
       },
       {
-        "text": "Evaporation only happens when boiling",
+        "text": "Food leaking through metal",
         "is_correct": false
       },
       {
-        "text": "Droplets on a cold glass leak through",
+        "text": "The table making water",
+        "is_correct": false
+      },
+      {
+        "text": "Sunlight changing into drops",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "Water vapour in the surrounding air",
+      "Food leaking through metal",
+      "The table making water",
+      "Sunlight changing into drops"
+    ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Liquid water evaporates from its surface below boiling point.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+      "summary": "Condensation can form on the outside from air touching the cold surface.",
+      "hint": "Air around it."
+    },
+    "structuredExplanation": {
+      "summary": "Condensation can form on the outside from air touching the cold surface.",
+      "hint": "Air around it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 7,
+    "sequencePriority": 7,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U02-T-008",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
     "bank": "test",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "A different class records this conclusion: “Droplets on a cold glass leak through”. Which feedback would improve it most?",
-    "audio_prompt": "A different class records this conclusion: “Droplets on a cold glass leak through”. Which feedback would improve it most?",
+    "question": "Which pathway is reasonable after snow melts in alpine country?",
+    "audio_prompt": "Which pathway is reasonable after snow melts in alpine country?",
+    "audioPrompt": "Which pathway is reasonable after snow melts in alpine country?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-008",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A different class records this conclusion: “Droplets on a cold glass leak through”. Which feedback would improve it most?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Droplets on a cold glass leak through",
+        "text": "meltwater → magnet → cloud shadow",
         "is_correct": false
       },
       {
-        "text": "They form when water vapour in air condenses on the cool surface.",
+        "text": "meltwater → plastic → sunlight",
+        "is_correct": false
+      },
+      {
+        "text": "meltwater → tadpole → rock",
+        "is_correct": false
+      },
+      {
+        "text": "meltwater → stream → river → ocean",
         "is_correct": true
-      },
-      {
-        "text": "The water cycle follows one fixed circle",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "meltwater → magnet → cloud shadow",
+      "meltwater → plastic → sunlight",
+      "meltwater → tadpole → rock",
+      "meltwater → stream → river → ocean"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "They form when water vapour in air condenses on the cool surface.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+      "summary": "Melted snow can flow downhill into streams, rivers and eventually the ocean.",
+      "hint": "Follow flowing water."
+    },
+    "structuredExplanation": {
+      "summary": "Melted snow can flow downhill into streams, rivers and eventually the ocean.",
+      "hint": "Follow flowing water."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 8,
+    "sequencePriority": 8,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U02-T-009",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
     "bank": "test",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "A different class records this conclusion: “The water cycle follows one fixed circle”. Which feedback would improve it most?",
-    "audio_prompt": "A different class records this conclusion: “The water cycle follows one fixed circle”. Which feedback would improve it most?",
+    "question": "What can happen when rain soaks into sandy soil?",
+    "audio_prompt": "What can happen when rain soaks into sandy soil?",
+    "audioPrompt": "What can happen when rain soaks into sandy soil?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-009",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A different class records this conclusion: “The water cycle follows one fixed circle”. Which feedback would improve it most?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "The water cycle follows one fixed circle",
+        "text": "It immediately becomes hail",
         "is_correct": false
       },
       {
-        "text": "Clouds are water vapour",
+        "text": "It turns into sunlight",
         "is_correct": false
       },
       {
-        "text": "Water can take many pathways and remain stored for different times.",
+        "text": "It may infiltrate and add to groundwater",
         "is_correct": true
+      },
+      {
+        "text": "It stops being water forever",
+        "is_correct": false
       }
     ],
+    "answer_texts": [
+      "It immediately becomes hail",
+      "It turns into sunlight",
+      "It may infiltrate and add to groundwater",
+      "It stops being water forever"
+    ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Water can take many pathways and remain stored for different times.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+      "summary": "Water that soaks into soil can become part of groundwater.",
+      "hint": "Into the ground."
+    },
+    "structuredExplanation": {
+      "summary": "Water that soaks into soil can become part of groundwater.",
+      "hint": "Into the ground."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 9,
+    "sequencePriority": 9,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U02-T-010",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
     "bank": "test",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "A new field-note example asks: Which process changes liquid water into water vapour?",
-    "audio_prompt": "A new field-note example asks: Which process changes liquid water into water vapour?",
+    "question": "Which claim about the water cycle is best?",
+    "audio_prompt": "Which claim about the water cycle is best?",
+    "audioPrompt": "Which claim about the water cycle is best?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-010",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A new field-note example asks: Which process changes liquid water into water vapour?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "evaporation",
+        "text": "Groundwater is outside the cycle",
+        "is_correct": false
+      },
+      {
+        "text": "Water can move through different stores and processes at different rates",
         "is_correct": true
       },
       {
-        "text": "condensation",
+        "text": "Every water drop takes exactly one day to complete the cycle",
         "is_correct": false
       },
       {
-        "text": "precipitation",
+        "text": "The water cycle only starts at the ocean",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Groundwater is outside the cycle",
+      "Water can move through different stores and processes at different rates",
+      "Every water drop takes exactly one day to complete the cycle",
+      "The water cycle only starts at the ocean"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "evaporation",
-      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
-    }
+      "summary": "The water cycle has many connected pathways and storage times.",
+      "hint": "Avoid one fixed route."
+    },
+    "structuredExplanation": {
+      "summary": "The water cycle has many connected pathways and storage times.",
+      "hint": "Avoid one fixed route."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 10,
+    "sequencePriority": 10,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U02-T-011",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
     "bank": "test",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "A new design task asks: Which statement best explains runoff?",
-    "audio_prompt": "A new design task asks: Which statement best explains runoff?",
+    "question": "A wet towel dries faster in sun and wind than in a cool bathroom. Why?",
+    "audio_prompt": "A wet towel dries faster in sun and wind than in a cool bathroom. Why?",
+    "audioPrompt": "A wet towel dries faster in sun and wind than in a cool bathroom. Why?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-011",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A new design task asks: Which statement best explains runoff?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Clouds pull water uphill",
-        "is_correct": false
-      },
-      {
-        "text": "Gravity moves water across land toward lower places",
+        "text": "Sun and moving air can increase evaporation",
         "is_correct": true
       },
       {
-        "text": "Water disappears permanently",
+        "text": "Condensation always dries towels",
+        "is_correct": false
+      },
+      {
+        "text": "Runoff pulls water into the towel",
+        "is_correct": false
+      },
+      {
+        "text": "Precipitation removes water from cloth",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "Sun and moving air can increase evaporation",
+      "Condensation always dries towels",
+      "Runoff pulls water into the towel",
+      "Precipitation removes water from cloth"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Gravity moves water across land toward lower places",
-      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
-    }
+      "summary": "Warmth and air movement help liquid water evaporate from the towel.",
+      "hint": "Conditions affect rate."
+    },
+    "structuredExplanation": {
+      "summary": "Warmth and air movement help liquid water evaporate from the towel.",
+      "hint": "Conditions affect rate."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 11,
+    "sequencePriority": 11,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U02-T-012",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
     "bank": "test",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "A new group wants to adapt “Bag water-cycle model”. Which method keeps the investigation focused and reviewable?",
-    "audio_prompt": "A new group wants to adapt “Bag water-cycle model”. Which method keeps the investigation focused and reviewable?",
+    "question": "Which example is precipitation?",
+    "audio_prompt": "Which example is precipitation?",
+    "audioPrompt": "Which example is precipitation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-012",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A new group wants to adapt “Bag water-cycle model”. Which method keeps the investigation focused and reviewable?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Begin bag water-cycle model, change two important conditions together, then compare only the preferred observation.",
+        "text": "Fog forming on a window",
         "is_correct": false
       },
       {
-        "text": "Carry out bag water-cycle model once, omit the measurements and report the original prediction as the result.",
+        "text": "A puddle shrinking",
         "is_correct": false
       },
       {
-        "text": "Observe sealed water warming, evaporating and condensing; label what the model represents and what it cannot show.",
+        "text": "Water soaking into soil",
+        "is_correct": false
+      },
+      {
+        "text": "Hail falling during a storm",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Fog forming on a window",
+      "A puddle shrinking",
+      "Water soaking into soil",
+      "Hail falling during a storm"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Observe sealed water warming, evaporating and condensing; label what the model represents and what it cannot show.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
-    }
+      "summary": "Hail is water falling from clouds, so it is precipitation.",
+      "hint": "Falls from clouds."
+    },
+    "structuredExplanation": {
+      "summary": "Hail is water falling from clouds, so it is precipitation.",
+      "hint": "Falls from clouds."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 12,
+    "sequencePriority": 12,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U02-T-013",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
     "bank": "test",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "A new group wants to adapt “Water-source map”. Which method keeps the investigation focused and reviewable?",
-    "audio_prompt": "A new group wants to adapt “Water-source map”. Which method keeps the investigation focused and reviewable?",
+    "question": "A road slopes toward a stormwater drain. After rain, water moves along the gutter. What is this called?",
+    "audio_prompt": "A road slopes toward a stormwater drain. After rain, water moves along the gutter. What is this called?",
+    "audioPrompt": "A road slopes toward a stormwater drain. After rain, water moves along the gutter. What is this called?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-013",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A new group wants to adapt “Water-source map”. Which method keeps the investigation focused and reviewable?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Classify visible and hidden sources of fresh and salt water in a landscape diagram.",
+        "text": "Groundwater storage",
+        "is_correct": false
+      },
+      {
+        "text": "Evaporation only",
+        "is_correct": false
+      },
+      {
+        "text": "Runoff",
         "is_correct": true
       },
       {
-        "text": "Begin water-source map, change two important conditions together, then compare only the preferred observation.",
-        "is_correct": false
-      },
-      {
-        "text": "Carry out water-source map once, omit the measurements and report the original prediction as the result.",
+        "text": "Condensation",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Groundwater storage",
+      "Evaporation only",
+      "Runoff",
+      "Condensation"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Classify visible and hidden sources of fresh and salt water in a landscape diagram.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
-    }
+      "summary": "Water flowing over a surface after rain is runoff.",
+      "hint": "Across land surface."
+    },
+    "structuredExplanation": {
+      "summary": "Water flowing over a surface after rain is runoff.",
+      "hint": "Across land surface."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 13,
+    "sequencePriority": 13,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U02-T-014",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
     "bank": "test",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "A new group wants to adapt “Process evidence stations”. Which method keeps the investigation focused and reviewable?",
-    "audio_prompt": "A new group wants to adapt “Process evidence stations”. Which method keeps the investigation focused and reviewable?",
+    "question": "Which explanation best fits fogging on a bathroom mirror?",
+    "audio_prompt": "Which explanation best fits fogging on a bathroom mirror?",
+    "audioPrompt": "Which explanation best fits fogging on a bathroom mirror?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-014",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A new group wants to adapt “Process evidence stations”. Which method keeps the investigation focused and reviewable?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Begin process evidence stations, change two important conditions together, then compare only the preferred observation.",
+        "text": "Runoff climbs the wall",
         "is_correct": false
       },
       {
-        "text": "Use a cold container, wet cloth and sloped tray to observe condensation, evaporation and runoff.",
+        "text": "Water vapour cools on the mirror and condenses",
         "is_correct": true
       },
       {
-        "text": "Carry out process evidence stations once, omit the measurements and report the original prediction as the result.",
+        "text": "Mirror glass leaks water",
+        "is_correct": false
+      },
+      {
+        "text": "Reflections make water",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "Runoff climbs the wall",
+      "Water vapour cools on the mirror and condenses",
+      "Mirror glass leaks water",
+      "Reflections make water"
+    ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Use a cold container, wet cloth and sloped tray to observe condensation, evaporation and runoff.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
-    }
+      "summary": "Warm moist air can cool on the mirror and form tiny droplets.",
+      "hint": "Vapour cools."
+    },
+    "structuredExplanation": {
+      "summary": "Warm moist air can cool on the mirror and form tiny droplets.",
+      "hint": "Vapour cools."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 14,
+    "sequencePriority": 14,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U02-T-015",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
     "bank": "test",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "A new water sources and the water cycle investigation reports “puddle shrinks”. Which conclusion is best supported by the display?",
-    "audio_prompt": "A new water sources and the water cycle investigation reports “puddle shrinks”. Which conclusion is best supported by the display?",
+    "question": "Why is the ocean important in many water-cycle examples?",
+    "audio_prompt": "Why is the ocean important in many water-cycle examples?",
+    "audioPrompt": "Why is the ocean important in many water-cycle examples?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-015",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A new water sources and the water cycle investigation reports “puddle shrinks”. Which conclusion is best supported by the display?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "condensation because water vapour cools on surface",
-        "is_correct": false
-      },
-      {
-        "text": "runoff because gravity moves water downhill",
-        "is_correct": false
-      },
-      {
-        "text": "evaporation because liquid water enters air as vapour",
+        "text": "It is a huge water store where evaporation can occur",
         "is_correct": true
+      },
+      {
+        "text": "It is the only place rain can fall",
+        "is_correct": false
+      },
+      {
+        "text": "It is not part of Earth’s water",
+        "is_correct": false
+      },
+      {
+        "text": "It stops clouds forming",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "It is a huge water store where evaporation can occur",
+      "It is the only place rain can fall",
+      "It is not part of Earth’s water",
+      "It stops clouds forming"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "puddle shrinks is linked to evaporation because liquid water enters air as vapour.",
-      "hint": "Trace across the same row and keep the conclusion limited to the evidence shown."
-    }
+      "summary": "Oceans store most of Earth’s water and supply much evaporation.",
+      "hint": "Large store and evaporation source."
+    },
+    "structuredExplanation": {
+      "summary": "Oceans store most of Earth’s water and supply much evaporation.",
+      "hint": "Large store and evaporation source."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 15,
+    "sequencePriority": 15,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U02-T-016",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
     "bank": "test",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "A new water sources and the water cycle investigation reports “droplets outside cold glass”. Which conclusion is best supported by the display?",
-    "audio_prompt": "A new water sources and the water cycle investigation reports “droplets outside cold glass”. Which conclusion is best supported by the display?",
+    "question": "A child draws rain → soil → groundwater → spring → creek. What does the drawing show?",
+    "audio_prompt": "A child draws rain → soil → groundwater → spring → creek. What does the drawing show?",
+    "audioPrompt": "A child draws rain → soil → groundwater → spring → creek. What does the drawing show?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-016",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A new water sources and the water cycle investigation reports “droplets outside cold glass”. Which conclusion is best supported by the display?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "condensation because water vapour cools on surface",
+        "text": "A fixed path for every water drop",
+        "is_correct": false
+      },
+      {
+        "text": "Water leaving the cycle forever",
+        "is_correct": false
+      },
+      {
+        "text": "Condensation turning into rocks",
+        "is_correct": false
+      },
+      {
+        "text": "A possible water pathway through storage and movement",
         "is_correct": true
-      },
-      {
-        "text": "evaporation because liquid water enters air as vapour",
-        "is_correct": false
-      },
-      {
-        "text": "runoff because gravity moves water downhill",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "A fixed path for every water drop",
+      "Water leaving the cycle forever",
+      "Condensation turning into rocks",
+      "A possible water pathway through storage and movement"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "droplets outside cold glass is linked to condensation because water vapour cools on surface.",
-      "hint": "Trace across the same row and keep the conclusion limited to the evidence shown."
-    }
+      "summary": "The pathway shows water infiltrating, being stored underground and returning to surface flow.",
+      "hint": "One possible pathway."
+    },
+    "structuredExplanation": {
+      "summary": "The pathway shows water infiltrating, being stored underground and returning to surface flow.",
+      "hint": "One possible pathway."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 16,
+    "sequencePriority": 16,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   }
 ]
