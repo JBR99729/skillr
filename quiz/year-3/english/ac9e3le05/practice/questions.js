@@ -9,13 +9,8 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "While planning a mystery in a lighthouse, which order gives the clearest simple plot?",
     "audioPrompt": "While planning a mystery in a lighthouse, which order gives the clearest simple plot?",
-    "visual": "A classroom English model for while planning a mystery in a lighthouse showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while planning a mystery in a lighthouse showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-001",
-      "alt_text": "A classroom English model for while planning a mystery in a lighthouse showing the evidence needed for this task"
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "Introduce the situation, create a problem, attempt a solution, show the result",
       "Show the result, remove the problem, introduce nobody",
@@ -38,13 +33,8 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "While planning a mystery in a lighthouse, which detail makes a character more developed?",
     "audioPrompt": "While planning a mystery in a lighthouse, which detail makes a character more developed?",
-    "visual": "A classroom English model for while planning a mystery in a lighthouse showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while planning a mystery in a lighthouse showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-002\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-002",
-      "alt_text": "A classroom English model for while planning a mystery in a lighthouse showing the evidence needed for this task"
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "A first name only",
       "A goal and a fear that affect choices",
@@ -67,13 +57,8 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "While planning a mystery in a lighthouse, which opening creates a vivid setting?",
     "audioPrompt": "While planning a mystery in a lighthouse, which opening creates a vivid setting?",
-    "visual": "A classroom English model for while planning a mystery in a lighthouse showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while planning a mystery in a lighthouse showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-003",
-      "alt_text": "A classroom English model for while planning a mystery in a lighthouse showing the evidence needed for this task"
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "There was a place",
       "The story starts now",
@@ -96,13 +81,8 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "While planning a mystery in a lighthouse, which event creates a useful story problem?",
     "audioPrompt": "While planning a mystery in a lighthouse, which event creates a useful story problem?",
-    "visual": "A classroom English model for while planning a mystery in a lighthouse showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while planning a mystery in a lighthouse showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-004\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-004",
-      "alt_text": "A classroom English model for while planning a mystery in a lighthouse showing the evidence needed for this task"
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "The only map blows into the river",
       "A bag is blue",
@@ -125,13 +105,8 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "While planning a mystery in a lighthouse, how can a writer adapt a literary model appropriately?",
     "audioPrompt": "While planning a mystery in a lighthouse, how can a writer adapt a literary model appropriately?",
-    "visual": "A classroom English model for while planning a mystery in a lighthouse showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while planning a mystery in a lighthouse showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-005",
-      "alt_text": "A classroom English model for while planning a mystery in a lighthouse showing the evidence needed for this task"
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "Copy every sentence and name",
       "Reuse a structure but create new characters, events and language",
@@ -154,13 +129,8 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "While planning a mystery in a lighthouse, which edit would strengthen a draft with no clear ending?",
     "audioPrompt": "While planning a mystery in a lighthouse, which edit would strengthen a draft with no clear ending?",
-    "visual": "A classroom English model for while planning a mystery in a lighthouse showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while planning a mystery in a lighthouse showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-006",
-      "alt_text": "A classroom English model for while planning a mystery in a lighthouse showing the evidence needed for this task"
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "Add an unrelated object",
       "Delete the main event",
@@ -183,13 +153,8 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "While planning a mystery in a lighthouse, what is the purpose of dialogue in a scene?",
     "audioPrompt": "While planning a mystery in a lighthouse, what is the purpose of dialogue in a scene?",
-    "visual": "A classroom English model for while planning a mystery in a lighthouse showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while planning a mystery in a lighthouse showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-007",
-      "alt_text": "A classroom English model for while planning a mystery in a lighthouse showing the evidence needed for this task"
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "To reveal speech, relationships or character reactions",
       "To label every setting",
@@ -212,13 +177,8 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "While planning a mystery in a lighthouse, which revision best builds reader interest?",
     "audioPrompt": "While planning a mystery in a lighthouse, which revision best builds reader interest?",
-    "visual": "A classroom English model for while planning a mystery in a lighthouse showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while planning a mystery in a lighthouse showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-008\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-008",
-      "alt_text": "A classroom English model for while planning a mystery in a lighthouse showing the evidence needed for this task"
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "Repeat the opening three times",
       "Add precise setting clues and make the character's decision matter",
@@ -241,13 +201,8 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "While drafting an adventure in a rainforest, which order gives the clearest simple plot?",
     "audioPrompt": "While drafting an adventure in a rainforest, which order gives the clearest simple plot?",
-    "visual": "A classroom English model for while drafting an adventure in a rainforest showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while drafting an adventure in a rainforest showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-009",
-      "alt_text": "A classroom English model for while drafting an adventure in a rainforest showing the evidence needed for this task"
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "Show the result, remove the problem, introduce nobody",
       "List settings without an event",
@@ -270,13 +225,8 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "While drafting an adventure in a rainforest, which detail makes a character more developed?",
     "audioPrompt": "While drafting an adventure in a rainforest, which detail makes a character more developed?",
-    "visual": "A classroom English model for while drafting an adventure in a rainforest showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while drafting an adventure in a rainforest showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-010",
-      "alt_text": "A classroom English model for while drafting an adventure in a rainforest showing the evidence needed for this task"
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "A goal and a fear that affect choices",
       "A first name only",
@@ -297,19 +247,14 @@ window.skillrPracticeQuestions = [
     "skill": "Creating and Editing Imaginative Texts",
     "printable": true,
     "type": "single",
-    "question": "While drafting an adventure in a rainforest, which opening creates a vivid setting?",
-    "audioPrompt": "While drafting an adventure in a rainforest, which opening creates a vivid setting?",
-    "visual": "A classroom English model for while drafting an adventure in a rainforest showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while drafting an adventure in a rainforest showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-011",
-      "alt_text": "A classroom English model for while drafting an adventure in a rainforest showing the evidence needed for this task"
-    },
+    "question": "Why is “Salt wind rattled the lighthouse windows” the best answer here? While drafting an adventure in a rainforest, which opening creates a vivid setting?",
+    "audioPrompt": "Why is “Salt wind rattled the lighthouse windows” the best answer here? While drafting an adventure in a rainforest, which opening creates a vivid setting?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "There was a place",
-      "Salt wind rattled the lighthouse windows",
-      "The story starts now"
+      "Because “There was a place” sounds familiar.",
+      "Salt wind rattled the lighthouse windows This choice best fits the language, text or literacy evidence.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 1,
     "explanation": "Salt wind rattled the lighthouse windows This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
@@ -326,19 +271,14 @@ window.skillrPracticeQuestions = [
     "skill": "Creating and Editing Imaginative Texts",
     "printable": true,
     "type": "single",
-    "question": "While drafting an adventure in a rainforest, which event creates a useful story problem?",
-    "audioPrompt": "While drafting an adventure in a rainforest, which event creates a useful story problem?",
-    "visual": "A classroom English model for while drafting an adventure in a rainforest showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while drafting an adventure in a rainforest showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-012\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-012",
-      "alt_text": "A classroom English model for while drafting an adventure in a rainforest showing the evidence needed for this task"
-    },
+    "question": "Why is “The only map blows into the river” the best answer here? While drafting an adventure in a rainforest, which event creates a useful story problem?",
+    "audioPrompt": "Why is “The only map blows into the river” the best answer here? While drafting an adventure in a rainforest, which event creates a useful story problem?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "A bag is blue",
-      "Everyone finishes immediately",
-      "The only map blows into the river"
+      "Because “A bag is blue” sounds familiar.",
+      "Because the longest-looking option should always be chosen.",
+      "The only map blows into the river This choice best fits the language, text or literacy evidence."
     ],
     "correct": 2,
     "explanation": "The only map blows into the river This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
@@ -355,19 +295,14 @@ window.skillrPracticeQuestions = [
     "skill": "Creating and Editing Imaginative Texts",
     "printable": true,
     "type": "single",
-    "question": "While drafting an adventure in a rainforest, how can a writer adapt a literary model appropriately?",
-    "audioPrompt": "While drafting an adventure in a rainforest, how can a writer adapt a literary model appropriately?",
-    "visual": "A classroom English model for while drafting an adventure in a rainforest showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while drafting an adventure in a rainforest showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-013",
-      "alt_text": "A classroom English model for while drafting an adventure in a rainforest showing the evidence needed for this task"
-    },
+    "question": "Why is “Reuse a structure but create new characters, events and language” the best answer here? While drafting an adventure in a rainforest, how can a writer adapt a literary model appropriately?",
+    "audioPrompt": "Why is “Reuse a structure but create new characters, events and language” the best answer here? While drafting an adventure in a rainforest, how can a writer adapt a literary model appropriately?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Reuse a structure but create new characters, events and language",
-      "Copy every sentence and name",
-      "Change only the title"
+      "Reuse a structure but create new characters, events and language This choice best fits the language, text or literacy evidence.",
+      "Because “Copy every sentence and name” sounds familiar.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 0,
     "explanation": "Reuse a structure but create new characters, events and language This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
@@ -384,19 +319,14 @@ window.skillrPracticeQuestions = [
     "skill": "Creating and Editing Imaginative Texts",
     "printable": true,
     "type": "single",
-    "question": "While drafting an adventure in a rainforest, which edit would strengthen a draft with no clear ending?",
-    "audioPrompt": "While drafting an adventure in a rainforest, which edit would strengthen a draft with no clear ending?",
-    "visual": "A classroom English model for while drafting an adventure in a rainforest showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while drafting an adventure in a rainforest showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-014\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-014",
-      "alt_text": "A classroom English model for while drafting an adventure in a rainforest showing the evidence needed for this task"
-    },
+    "question": "Why is “Show how the character's final choice resolves or changes the problem” the best answer here? While drafting an adventure in a rainforest, which edit would strengthen a draft with no clear ending?",
+    "audioPrompt": "Why is “Show how the character's final choice resolves or changes the problem” the best answer here? While drafting an adventure in a rainforest, which edit would strengthen a draft with no clear ending?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Add an unrelated object",
-      "Show how the character's final choice resolves or changes the problem",
-      "Delete the main event"
+      "Because “Add an unrelated object” sounds familiar.",
+      "Show how the character's final choice resolves or changes the problem This choice best fits the language, text or literacy evidence.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 1,
     "explanation": "Show how the character's final choice resolves or changes the problem This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
@@ -413,19 +343,14 @@ window.skillrPracticeQuestions = [
     "skill": "Creating and Editing Imaginative Texts",
     "printable": true,
     "type": "single",
-    "question": "While drafting an adventure in a rainforest, what is the purpose of dialogue in a scene?",
-    "audioPrompt": "While drafting an adventure in a rainforest, what is the purpose of dialogue in a scene?",
-    "visual": "A classroom English model for while drafting an adventure in a rainforest showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while drafting an adventure in a rainforest showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-015",
-      "alt_text": "A classroom English model for while drafting an adventure in a rainforest showing the evidence needed for this task"
-    },
+    "question": "Why is “To reveal speech, relationships or character reactions” the best answer here? While drafting an adventure in a rainforest, what is the purpose of dialogue in a scene?",
+    "audioPrompt": "Why is “To reveal speech, relationships or character reactions” the best answer here? While drafting an adventure in a rainforest, what is the purpose of dialogue in a scene?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "To label every setting",
-      "To replace all action",
-      "To reveal speech, relationships or character reactions"
+      "Because “To label every setting” sounds familiar.",
+      "Because the longest-looking option should always be chosen.",
+      "To reveal speech, relationships or character reactions This choice best fits the language, text or literacy evidence."
     ],
     "correct": 2,
     "explanation": "To reveal speech, relationships or character reactions This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
@@ -442,19 +367,14 @@ window.skillrPracticeQuestions = [
     "skill": "Creating and Editing Imaginative Texts",
     "printable": true,
     "type": "single",
-    "question": "While drafting an adventure in a rainforest, which revision best builds reader interest?",
-    "audioPrompt": "While drafting an adventure in a rainforest, which revision best builds reader interest?",
-    "visual": "A classroom English model for while drafting an adventure in a rainforest showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while drafting an adventure in a rainforest showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-016",
-      "alt_text": "A classroom English model for while drafting an adventure in a rainforest showing the evidence needed for this task"
-    },
+    "question": "Why is “Add precise setting clues and make the character's decision matter” the best answer here? While drafting an adventure in a rainforest, which revision best builds reader interest?",
+    "audioPrompt": "Why is “Add precise setting clues and make the character's decision matter” the best answer here? While drafting an adventure in a rainforest, which revision best builds reader interest?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Add precise setting clues and make the character's decision matter",
-      "Repeat the opening three times",
-      "Remove the problem"
+      "Add precise setting clues and make the character's decision matter This choice best fits the language, text or literacy evidence.",
+      "Because “Repeat the opening three times” sounds familiar.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 0,
     "explanation": "Add precise setting clues and make the character's decision matter This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
@@ -471,19 +391,14 @@ window.skillrPracticeQuestions = [
     "skill": "Creating and Editing Imaginative Texts",
     "printable": true,
     "type": "single",
-    "question": "While editing a tale about a tiny robot, which order gives the clearest simple plot?",
-    "audioPrompt": "While editing a tale about a tiny robot, which order gives the clearest simple plot?",
-    "visual": "A classroom English model for while editing a tale about a tiny robot showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while editing a tale about a tiny robot showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-017",
-      "alt_text": "A classroom English model for while editing a tale about a tiny robot showing the evidence needed for this task"
-    },
+    "question": "Why is “Introduce the situation, create a problem, attempt a solution, show the result” the best answer here? While editing a tale about a tiny robot, which order gives the clearest simple plot?",
+    "audioPrompt": "Why is “Introduce the situation, create a problem, attempt a solution, show the result” the best answer here? While editing a tale about a tiny robot, which order gives the clearest simple plot?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Show the result, remove the problem, introduce nobody",
-      "Introduce the situation, create a problem, attempt a solution, show the result",
-      "List settings without an event"
+      "Because “Show the result, remove the problem, introduce nobody” sounds familiar.",
+      "Introduce the situation, create a problem, attempt a solution, show the result This choice best fits the language, text or literacy evidence.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 1,
     "explanation": "Introduce the situation, create a problem, attempt a solution, show the result This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
@@ -500,19 +415,14 @@ window.skillrPracticeQuestions = [
     "skill": "Creating and Editing Imaginative Texts",
     "printable": true,
     "type": "single",
-    "question": "While editing a tale about a tiny robot, which detail makes a character more developed?",
-    "audioPrompt": "While editing a tale about a tiny robot, which detail makes a character more developed?",
-    "visual": "A classroom English model for while editing a tale about a tiny robot showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while editing a tale about a tiny robot showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-018\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-018",
-      "alt_text": "A classroom English model for while editing a tale about a tiny robot showing the evidence needed for this task"
-    },
+    "question": "Why is “A goal and a fear that affect choices” the best answer here? While editing a tale about a tiny robot, which detail makes a character more developed?",
+    "audioPrompt": "Why is “A goal and a fear that affect choices” the best answer here? While editing a tale about a tiny robot, which detail makes a character more developed?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "A first name only",
-      "The page number",
-      "A goal and a fear that affect choices"
+      "Because “A first name only” sounds familiar.",
+      "Because the longest-looking option should always be chosen.",
+      "A goal and a fear that affect choices This choice best fits the language, text or literacy evidence."
     ],
     "correct": 2,
     "explanation": "A goal and a fear that affect choices This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
@@ -529,19 +439,14 @@ window.skillrPracticeQuestions = [
     "skill": "Creating and Editing Imaginative Texts",
     "printable": true,
     "type": "single",
-    "question": "While editing a tale about a tiny robot, which opening creates a vivid setting?",
-    "audioPrompt": "While editing a tale about a tiny robot, which opening creates a vivid setting?",
-    "visual": "A classroom English model for while editing a tale about a tiny robot showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while editing a tale about a tiny robot showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-019",
-      "alt_text": "A classroom English model for while editing a tale about a tiny robot showing the evidence needed for this task"
-    },
+    "question": "Why is “Salt wind rattled the lighthouse windows” the best answer here? While editing a tale about a tiny robot, which opening creates a vivid setting?",
+    "audioPrompt": "Why is “Salt wind rattled the lighthouse windows” the best answer here? While editing a tale about a tiny robot, which opening creates a vivid setting?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Salt wind rattled the lighthouse windows",
-      "There was a place",
-      "The story starts now"
+      "Salt wind rattled the lighthouse windows This choice best fits the language, text or literacy evidence.",
+      "Because “There was a place” sounds familiar.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 0,
     "explanation": "Salt wind rattled the lighthouse windows This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
@@ -558,19 +463,14 @@ window.skillrPracticeQuestions = [
     "skill": "Creating and Editing Imaginative Texts",
     "printable": true,
     "type": "single",
-    "question": "While editing a tale about a tiny robot, which event creates a useful story problem?",
-    "audioPrompt": "While editing a tale about a tiny robot, which event creates a useful story problem?",
-    "visual": "A classroom English model for while editing a tale about a tiny robot showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while editing a tale about a tiny robot showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-020\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-020",
-      "alt_text": "A classroom English model for while editing a tale about a tiny robot showing the evidence needed for this task"
-    },
+    "question": "Why is “The only map blows into the river” the best answer here? While editing a tale about a tiny robot, which event creates a useful story problem?",
+    "audioPrompt": "Why is “The only map blows into the river” the best answer here? While editing a tale about a tiny robot, which event creates a useful story problem?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "A bag is blue",
-      "The only map blows into the river",
-      "Everyone finishes immediately"
+      "Because “A bag is blue” sounds familiar.",
+      "The only map blows into the river This choice best fits the language, text or literacy evidence.",
+      "Because the longest-looking option should always be chosen."
     ],
     "correct": 1,
     "explanation": "The only map blows into the river This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
@@ -587,25 +487,20 @@ window.skillrPracticeQuestions = [
     "skill": "Creating and Editing Imaginative Texts",
     "printable": true,
     "type": "single",
-    "question": "While editing a tale about a tiny robot, how can a writer adapt a literary model appropriately?",
-    "audioPrompt": "While editing a tale about a tiny robot, how can a writer adapt a literary model appropriately?",
-    "visual": "A classroom English model for while editing a tale about a tiny robot showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while editing a tale about a tiny robot showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-021\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-021",
-      "alt_text": "A classroom English model for while editing a tale about a tiny robot showing the evidence needed for this task"
-    },
+    "question": "A student chooses “Show the result, remove the problem, introduce nobody” for this task: While planning a mystery in a lighthouse, which order gives the clearest simple plot? What should they check?",
+    "audioPrompt": "A student chooses “Show the result, remove the problem, introduce nobody” for this task: While planning a mystery in a lighthouse, which order gives the clearest simple plot? What should they check?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Copy every sentence and name",
-      "Change only the title",
-      "Reuse a structure but create new characters, events and language"
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option.",
+      "Use the story details and reader effect before choosing."
     ],
     "correct": 2,
-    "explanation": "Reuse a structure but create new characters, events and language This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "explanation": "Use the story details and reader effect before choosing. Introduce the situation, create a problem, attempt a solution, show the result This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Reuse a structure but create new characters, events and language This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Use the story details and reader effect before choosing. Introduce the situation, create a problem, attempt a solution, show the result This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -616,25 +511,20 @@ window.skillrPracticeQuestions = [
     "skill": "Creating and Editing Imaginative Texts",
     "printable": true,
     "type": "single",
-    "question": "While editing a tale about a tiny robot, which edit would strengthen a draft with no clear ending?",
-    "audioPrompt": "While editing a tale about a tiny robot, which edit would strengthen a draft with no clear ending?",
-    "visual": "A classroom English model for while editing a tale about a tiny robot showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while editing a tale about a tiny robot showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-022\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-022",
-      "alt_text": "A classroom English model for while editing a tale about a tiny robot showing the evidence needed for this task"
-    },
+    "question": "A student chooses “A first name only” for this task: While planning a mystery in a lighthouse, which detail makes a character more developed? What should they check?",
+    "audioPrompt": "A student chooses “A first name only” for this task: While planning a mystery in a lighthouse, which detail makes a character more developed? What should they check?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Show how the character's final choice resolves or changes the problem",
-      "Add an unrelated object",
-      "Delete the main event"
+      "Use the story details and reader effect before choosing.",
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 0,
-    "explanation": "Show how the character's final choice resolves or changes the problem This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "explanation": "Use the story details and reader effect before choosing. A goal and a fear that affect choices This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "Show how the character's final choice resolves or changes the problem This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Use the story details and reader effect before choosing. A goal and a fear that affect choices This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -645,25 +535,20 @@ window.skillrPracticeQuestions = [
     "skill": "Creating and Editing Imaginative Texts",
     "printable": true,
     "type": "single",
-    "question": "While editing a tale about a tiny robot, what is the purpose of dialogue in a scene?",
-    "audioPrompt": "While editing a tale about a tiny robot, what is the purpose of dialogue in a scene?",
-    "visual": "A classroom English model for while editing a tale about a tiny robot showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while editing a tale about a tiny robot showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-023\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-023",
-      "alt_text": "A classroom English model for while editing a tale about a tiny robot showing the evidence needed for this task"
-    },
+    "question": "A student chooses “There was a place” for this task: While planning a mystery in a lighthouse, which opening creates a vivid setting? What should they check?",
+    "audioPrompt": "A student chooses “There was a place” for this task: While planning a mystery in a lighthouse, which opening creates a vivid setting? What should they check?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "To label every setting",
-      "To reveal speech, relationships or character reactions",
-      "To replace all action"
+      "Keep the answer because it uses a familiar word.",
+      "Use the story details and reader effect before choosing.",
+      "Ignore the example and choose the remaining option."
     ],
     "correct": 1,
-    "explanation": "To reveal speech, relationships or character reactions This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "explanation": "Use the story details and reader effect before choosing. Salt wind rattled the lighthouse windows This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
     "structuredExplanation": {
-      "summary": "To reveal speech, relationships or character reactions This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Use the story details and reader effect before choosing. Salt wind rattled the lighthouse windows This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
     },
     "qualitySchema": "production-v1"
   },
@@ -674,21 +559,400 @@ window.skillrPracticeQuestions = [
     "skill": "Creating and Editing Imaginative Texts",
     "printable": true,
     "type": "single",
-    "question": "While editing a tale about a tiny robot, which revision best builds reader interest?",
-    "audioPrompt": "While editing a tale about a tiny robot, which revision best builds reader interest?",
-    "visual": "A classroom English model for while editing a tale about a tiny robot showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while editing a tale about a tiny robot showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-024\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le05.svg#ac9e3le05-p-024",
-      "alt_text": "A classroom English model for while editing a tale about a tiny robot showing the evidence needed for this task"
-    },
+    "question": "A student chooses “A bag is blue” for this task: While planning a mystery in a lighthouse, which event creates a useful story problem? What should they check?",
+    "audioPrompt": "A student chooses “A bag is blue” for this task: While planning a mystery in a lighthouse, which event creates a useful story problem? What should they check?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Repeat the opening three times",
-      "Remove the problem",
-      "Add precise setting clues and make the character's decision matter"
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option.",
+      "Use the story details and reader effect before choosing."
     ],
     "correct": 2,
+    "explanation": "Use the story details and reader effect before choosing. The only map blows into the river This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "structuredExplanation": {
+      "summary": "Use the story details and reader effect before choosing. The only map blows into the river This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3le05-p-025",
+    "curriculumCode": "AC9E3LE05",
+    "bank": "practice",
+    "skill": "Creating and Editing Imaginative Texts",
+    "printable": true,
+    "type": "single",
+    "question": "A student chooses “Copy every sentence and name” for this task: While planning a mystery in a lighthouse, how can a writer adapt a literary model appropriately? What should they check?",
+    "audioPrompt": "A student chooses “Copy every sentence and name” for this task: While planning a mystery in a lighthouse, how can a writer adapt a literary model appropriately? What should they check?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use the story details and reader effect before choosing.",
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option."
+    ],
+    "correct": 0,
+    "explanation": "Use the story details and reader effect before choosing. Reuse a structure but create new characters, events and language This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "structuredExplanation": {
+      "summary": "Use the story details and reader effect before choosing. Reuse a structure but create new characters, events and language This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3le05-p-026",
+    "curriculumCode": "AC9E3LE05",
+    "bank": "practice",
+    "skill": "Creating and Editing Imaginative Texts",
+    "printable": true,
+    "type": "single",
+    "question": "A student chooses “Add an unrelated object” for this task: While planning a mystery in a lighthouse, which edit would strengthen a draft with no clear ending? What should they check?",
+    "audioPrompt": "A student chooses “Add an unrelated object” for this task: While planning a mystery in a lighthouse, which edit would strengthen a draft with no clear ending? What should they check?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Keep the answer because it uses a familiar word.",
+      "Use the story details and reader effect before choosing.",
+      "Ignore the example and choose the remaining option."
+    ],
+    "correct": 1,
+    "explanation": "Use the story details and reader effect before choosing. Show how the character's final choice resolves or changes the problem This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "structuredExplanation": {
+      "summary": "Use the story details and reader effect before choosing. Show how the character's final choice resolves or changes the problem This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3le05-p-027",
+    "curriculumCode": "AC9E3LE05",
+    "bank": "practice",
+    "skill": "Creating and Editing Imaginative Texts",
+    "printable": true,
+    "type": "single",
+    "question": "A student chooses “To label every setting” for this task: While planning a mystery in a lighthouse, what is the purpose of dialogue in a scene? What should they check?",
+    "audioPrompt": "A student chooses “To label every setting” for this task: While planning a mystery in a lighthouse, what is the purpose of dialogue in a scene? What should they check?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option.",
+      "Use the story details and reader effect before choosing."
+    ],
+    "correct": 2,
+    "explanation": "Use the story details and reader effect before choosing. To reveal speech, relationships or character reactions This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "structuredExplanation": {
+      "summary": "Use the story details and reader effect before choosing. To reveal speech, relationships or character reactions This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3le05-p-028",
+    "curriculumCode": "AC9E3LE05",
+    "bank": "practice",
+    "skill": "Creating and Editing Imaginative Texts",
+    "printable": true,
+    "type": "single",
+    "question": "A student chooses “Repeat the opening three times” for this task: While planning a mystery in a lighthouse, which revision best builds reader interest? What should they check?",
+    "audioPrompt": "A student chooses “Repeat the opening three times” for this task: While planning a mystery in a lighthouse, which revision best builds reader interest? What should they check?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use the story details and reader effect before choosing.",
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option."
+    ],
+    "correct": 0,
+    "explanation": "Use the story details and reader effect before choosing. Add precise setting clues and make the character's decision matter This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "structuredExplanation": {
+      "summary": "Use the story details and reader effect before choosing. Add precise setting clues and make the character's decision matter This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3le05-p-029",
+    "curriculumCode": "AC9E3LE05",
+    "bank": "practice",
+    "skill": "Creating and Editing Imaginative Texts",
+    "printable": true,
+    "type": "single",
+    "question": "A student chooses “Show the result, remove the problem, introduce nobody” for this task: While drafting an adventure in a rainforest, which order gives the clearest simple plot? What should they check?",
+    "audioPrompt": "A student chooses “Show the result, remove the problem, introduce nobody” for this task: While drafting an adventure in a rainforest, which order gives the clearest simple plot? What should they check?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Keep the answer because it uses a familiar word.",
+      "Use the story details and reader effect before choosing.",
+      "Ignore the example and choose the remaining option."
+    ],
+    "correct": 1,
+    "explanation": "Use the story details and reader effect before choosing. Introduce the situation, create a problem, attempt a solution, show the result This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "structuredExplanation": {
+      "summary": "Use the story details and reader effect before choosing. Introduce the situation, create a problem, attempt a solution, show the result This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3le05-p-030",
+    "curriculumCode": "AC9E3LE05",
+    "bank": "practice",
+    "skill": "Creating and Editing Imaginative Texts",
+    "printable": true,
+    "type": "single",
+    "question": "A student chooses “A first name only” for this task: While drafting an adventure in a rainforest, which detail makes a character more developed? What should they check?",
+    "audioPrompt": "A student chooses “A first name only” for this task: While drafting an adventure in a rainforest, which detail makes a character more developed? What should they check?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Keep the answer because it uses a familiar word.",
+      "Ignore the example and choose the remaining option.",
+      "Use the story details and reader effect before choosing."
+    ],
+    "correct": 2,
+    "explanation": "Use the story details and reader effect before choosing. A goal and a fear that affect choices This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "structuredExplanation": {
+      "summary": "Use the story details and reader effect before choosing. A goal and a fear that affect choices This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3le05-p-031",
+    "curriculumCode": "AC9E3LE05",
+    "bank": "practice",
+    "skill": "Creating and Editing Imaginative Texts",
+    "printable": true,
+    "type": "single",
+    "question": "While drafting an adventure in a rainforest, what is the purpose of dialogue in a scene?",
+    "audioPrompt": "While drafting an adventure in a rainforest, what is the purpose of dialogue in a scene?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "To reveal speech, relationships or character reactions",
+      "To label every setting",
+      "To replace all action"
+    ],
+    "correct": 0,
+    "explanation": "To reveal speech, relationships or character reactions This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "structuredExplanation": {
+      "summary": "To reveal speech, relationships or character reactions This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3le05-p-032",
+    "curriculumCode": "AC9E3LE05",
+    "bank": "practice",
+    "skill": "Creating and Editing Imaginative Texts",
+    "printable": true,
+    "type": "single",
+    "question": "While drafting an adventure in a rainforest, which revision best builds reader interest?",
+    "audioPrompt": "While drafting an adventure in a rainforest, which revision best builds reader interest?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Repeat the opening three times",
+      "Add precise setting clues and make the character's decision matter",
+      "Remove the problem"
+    ],
+    "correct": 1,
+    "explanation": "Add precise setting clues and make the character's decision matter This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "structuredExplanation": {
+      "summary": "Add precise setting clues and make the character's decision matter This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3le05-p-033",
+    "curriculumCode": "AC9E3LE05",
+    "bank": "practice",
+    "skill": "Creating and Editing Imaginative Texts",
+    "printable": true,
+    "type": "single",
+    "question": "While editing a tale about a tiny robot, which order gives the clearest simple plot?",
+    "audioPrompt": "While editing a tale about a tiny robot, which order gives the clearest simple plot?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Show the result, remove the problem, introduce nobody",
+      "List settings without an event",
+      "Introduce the situation, create a problem, attempt a solution, show the result"
+    ],
+    "correct": 2,
+    "explanation": "Introduce the situation, create a problem, attempt a solution, show the result This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "structuredExplanation": {
+      "summary": "Introduce the situation, create a problem, attempt a solution, show the result This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3le05-p-034",
+    "curriculumCode": "AC9E3LE05",
+    "bank": "practice",
+    "skill": "Creating and Editing Imaginative Texts",
+    "printable": true,
+    "type": "single",
+    "question": "While editing a tale about a tiny robot, which detail makes a character more developed?",
+    "audioPrompt": "While editing a tale about a tiny robot, which detail makes a character more developed?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "A goal and a fear that affect choices",
+      "A first name only",
+      "The page number"
+    ],
+    "correct": 0,
+    "explanation": "A goal and a fear that affect choices This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "structuredExplanation": {
+      "summary": "A goal and a fear that affect choices This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3le05-p-035",
+    "curriculumCode": "AC9E3LE05",
+    "bank": "practice",
+    "skill": "Creating and Editing Imaginative Texts",
+    "printable": true,
+    "type": "single",
+    "question": "While editing a tale about a tiny robot, which opening creates a vivid setting?",
+    "audioPrompt": "While editing a tale about a tiny robot, which opening creates a vivid setting?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "There was a place",
+      "Salt wind rattled the lighthouse windows",
+      "The story starts now"
+    ],
+    "correct": 1,
+    "explanation": "Salt wind rattled the lighthouse windows This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "structuredExplanation": {
+      "summary": "Salt wind rattled the lighthouse windows This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3le05-p-036",
+    "curriculumCode": "AC9E3LE05",
+    "bank": "practice",
+    "skill": "Creating and Editing Imaginative Texts",
+    "printable": true,
+    "type": "single",
+    "question": "While editing a tale about a tiny robot, which event creates a useful story problem?",
+    "audioPrompt": "While editing a tale about a tiny robot, which event creates a useful story problem?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "A bag is blue",
+      "Everyone finishes immediately",
+      "The only map blows into the river"
+    ],
+    "correct": 2,
+    "explanation": "The only map blows into the river This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "structuredExplanation": {
+      "summary": "The only map blows into the river This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3le05-p-037",
+    "curriculumCode": "AC9E3LE05",
+    "bank": "practice",
+    "skill": "Creating and Editing Imaginative Texts",
+    "printable": true,
+    "type": "single",
+    "question": "While editing a tale about a tiny robot, how can a writer adapt a literary model appropriately?",
+    "audioPrompt": "While editing a tale about a tiny robot, how can a writer adapt a literary model appropriately?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Reuse a structure but create new characters, events and language",
+      "Copy every sentence and name",
+      "Change only the title"
+    ],
+    "correct": 0,
+    "explanation": "Reuse a structure but create new characters, events and language This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "structuredExplanation": {
+      "summary": "Reuse a structure but create new characters, events and language This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3le05-p-038",
+    "curriculumCode": "AC9E3LE05",
+    "bank": "practice",
+    "skill": "Creating and Editing Imaginative Texts",
+    "printable": true,
+    "type": "single",
+    "question": "While editing a tale about a tiny robot, which edit would strengthen a draft with no clear ending?",
+    "audioPrompt": "While editing a tale about a tiny robot, which edit would strengthen a draft with no clear ending?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Add an unrelated object",
+      "Show how the character's final choice resolves or changes the problem",
+      "Delete the main event"
+    ],
+    "correct": 1,
+    "explanation": "Show how the character's final choice resolves or changes the problem This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "structuredExplanation": {
+      "summary": "Show how the character's final choice resolves or changes the problem This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3le05-p-039",
+    "curriculumCode": "AC9E3LE05",
+    "bank": "practice",
+    "skill": "Creating and Editing Imaginative Texts",
+    "printable": true,
+    "type": "single",
+    "question": "While editing a tale about a tiny robot, what is the purpose of dialogue in a scene?",
+    "audioPrompt": "While editing a tale about a tiny robot, what is the purpose of dialogue in a scene?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "To label every setting",
+      "To replace all action",
+      "To reveal speech, relationships or character reactions"
+    ],
+    "correct": 2,
+    "explanation": "To reveal speech, relationships or character reactions This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "structuredExplanation": {
+      "summary": "To reveal speech, relationships or character reactions This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3le05-p-040",
+    "curriculumCode": "AC9E3LE05",
+    "bank": "practice",
+    "skill": "Creating and Editing Imaginative Texts",
+    "printable": true,
+    "type": "single",
+    "question": "While editing a tale about a tiny robot, which revision best builds reader interest?",
+    "audioPrompt": "While editing a tale about a tiny robot, which revision best builds reader interest?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Add precise setting clues and make the character's decision matter",
+      "Repeat the opening three times",
+      "Remove the problem"
+    ],
+    "correct": 0,
     "explanation": "Add precise setting clues and make the character's decision matter This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
     "structuredExplanation": {
       "summary": "Add precise setting clues and make the character's decision matter This choice best fits the language, text or literacy evidence.",

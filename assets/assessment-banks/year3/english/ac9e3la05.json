@@ -5,14 +5,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Layout and Navigation Features",
     "question": "In a book about Australian animals, which feature helps a reader find a topic listed alphabetically?",
     "audio_prompt": "In a book about Australian animals, which feature helps a reader find a topic listed alphabetically?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la05.svg#ac9e3la05-p-001",
-      "alt_text": "Learning aid for: In a book about Australian animals, which feature helps a reader find a topic listed alphabetically?"
-    },
     "answers": [
       {
         "text": "decorative border",
@@ -31,9 +27,7 @@
     "explanation": {
       "summary": "Layout and navigation features help readers locate information.",
       "hint": "Match the reader's need to the feature's purpose."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LA05-P-002",
@@ -41,14 +35,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Layout and Navigation Features",
     "question": "What is the main purpose of the index in a book about Australian animals?",
     "audio_prompt": "What is the main purpose of the index in a book about Australian animals?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la05.svg#ac9e3la05-p-002",
-      "alt_text": "Learning aid for: What is the main purpose of the index in a book about Australian animals?"
-    },
     "answers": [
       {
         "text": "To hide the topic from the reader.",
@@ -67,10 +57,7 @@
     "explanation": {
       "summary": "Each navigation feature has a practical reading purpose.",
       "hint": "Explain what the feature lets a reader do."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LA05-P-003",
@@ -78,14 +65,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Layout and Navigation Features",
     "question": "A reader wants a topic listed alphabetically in a book about Australian animals. What should the reader do first?",
     "audio_prompt": "A reader wants a topic listed alphabetically in a book about Australian animals. What should the reader do first?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la05.svg#ac9e3la05-p-003",
-      "alt_text": "Learning aid for: A reader wants a topic listed alphabetically in a book about Australian animals. What should the reader do first?"
-    },
     "answers": [
       {
         "text": "Use the index.",
@@ -104,9 +87,7 @@
     "explanation": {
       "summary": "Efficient readers select the most useful navigation path.",
       "hint": "Choose the tool designed for that search."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LA05-P-004",
@@ -114,14 +95,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Layout and Navigation Features",
     "question": "Which word would be a clear navigation label in a book about Australian animals?",
     "audio_prompt": "Which word would be a clear navigation label in a book about Australian animals?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la05.svg#ac9e3la05-p-004",
-      "alt_text": "Learning aid for: Which word would be a clear navigation label in a book about Australian animals?"
-    },
     "answers": [
       {
         "text": "Perhaps something",
@@ -140,10 +117,7 @@
     "explanation": {
       "summary": "Clear navigation words predict where an action will lead.",
       "hint": "Choose the label whose destination is easy to understand."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LA05-P-005",
@@ -151,14 +125,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Layout and Navigation Features",
     "question": "Why might a book about Australian animals use subheadings?",
     "audio_prompt": "Why might a book about Australian animals use subheadings?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la05.svg#ac9e3la05-p-005",
-      "alt_text": "Learning aid for: Why might a book about Australian animals use subheadings?"
-    },
     "answers": [
       {
         "text": "To make every section about the same detail.",
@@ -177,9 +147,7 @@
     "explanation": {
       "summary": "Subheadings signal the topic of each smaller section.",
       "hint": "Think about how readers scan for a particular idea."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LA05-P-006",
@@ -187,14 +155,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Layout and Navigation Features",
     "question": "What should a useful caption do in a book about Australian animals?",
     "audio_prompt": "What should a useful caption do in a book about Australian animals?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la05.svg#ac9e3la05-p-006",
-      "alt_text": "Learning aid for: What should a useful caption do in a book about Australian animals?"
-    },
     "answers": [
       {
         "text": "Explain or add information about an image.",
@@ -213,10 +177,7 @@
     "explanation": {
       "summary": "Captions connect images with relevant information.",
       "hint": "Choose the description that helps interpret the image."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LA05-P-007",
@@ -224,14 +185,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Layout and Navigation Features",
     "question": "The index in a book about Australian animals leads to the wrong place. What needs editing?",
     "audio_prompt": "The index in a book about Australian animals leads to the wrong place. What needs editing?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la05.svg#ac9e3la05-p-007",
-      "alt_text": "Learning aid for: The index in a book about Australian animals leads to the wrong place. What needs editing?"
-    },
     "answers": [
       {
         "text": "Every fact in the whole text.",
@@ -250,9 +207,7 @@
     "explanation": {
       "summary": "Navigation must take readers to the promised location.",
       "hint": "Check the connection between the label and destination."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LA05-P-008",
@@ -260,14 +215,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Layout and Navigation Features",
     "question": "Which layout choice would best support a reader using a book about Australian animals?",
     "audio_prompt": "Which layout choice would best support a reader using a book about Australian animals?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la05.svg#ac9e3la05-p-008",
-      "alt_text": "Learning aid for: Which layout choice would best support a reader using a book about Australian animals?"
-    },
     "answers": [
       {
         "text": "Hide all labels behind images.",
@@ -286,10 +237,7 @@
     "explanation": {
       "summary": "Visible, specific features support navigation.",
       "hint": "Consider whether readers can find and understand the tool."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LA05-P-009",
@@ -297,14 +245,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Layout and Navigation Features",
     "question": "In a webpage about weather, which feature helps a reader find a section of the site?",
     "audio_prompt": "In a webpage about weather, which feature helps a reader find a section of the site?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la05.svg#ac9e3la05-p-009",
-      "alt_text": "Learning aid for: In a webpage about weather, which feature helps a reader find a section of the site?"
-    },
     "answers": [
       {
         "text": "menu",
@@ -323,9 +267,7 @@
     "explanation": {
       "summary": "Layout and navigation features help readers locate information.",
       "hint": "Match the reader's need to the feature's purpose."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LA05-P-010",
@@ -333,14 +275,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Layout and Navigation Features",
     "question": "What is the main purpose of the menu in a webpage about weather?",
     "audio_prompt": "What is the main purpose of the menu in a webpage about weather?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la05.svg#ac9e3la05-p-010",
-      "alt_text": "Learning aid for: What is the main purpose of the menu in a webpage about weather?"
-    },
     "answers": [
       {
         "text": "To hide the topic from the reader.",
@@ -359,10 +297,7 @@
     "explanation": {
       "summary": "Each navigation feature has a practical reading purpose.",
       "hint": "Explain what the feature lets a reader do."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LA05-P-011",
@@ -370,25 +305,21 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Layout and Navigation Features",
-    "question": "A reader wants a section of the site in a webpage about weather. What should the reader do first?",
-    "audio_prompt": "A reader wants a section of the site in a webpage about weather. What should the reader do first?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la05.svg#ac9e3la05-p-011",
-      "alt_text": "Learning aid for: A reader wants a section of the site in a webpage about weather. What should the reader do first?"
-    },
+    "question": "Why is “Use the menu.” the best answer here? A reader wants a section of the site in a webpage about weather. What should the reader do first?",
+    "audio_prompt": "Why is “Use the menu.” the best answer here? A reader wants a section of the site in a webpage about weather. What should the reader do first?",
     "answers": [
       {
-        "text": "Read an unrelated page repeatedly.",
+        "text": "Because “Read an unrelated page repeatedly.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Ignore all navigation words.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "Use the menu.",
+        "text": "Efficient readers select the most useful navigation path.",
         "is_correct": true
       }
     ],
@@ -396,9 +327,7 @@
     "explanation": {
       "summary": "Efficient readers select the most useful navigation path.",
       "hint": "Choose the tool designed for that search."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LA05-P-012",
@@ -406,25 +335,21 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Layout and Navigation Features",
-    "question": "Which word would be a clear navigation label in a webpage about weather?",
-    "audio_prompt": "Which word would be a clear navigation label in a webpage about weather?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la05.svg#ac9e3la05-p-012",
-      "alt_text": "Learning aid for: Which word would be a clear navigation label in a webpage about weather?"
-    },
+    "question": "Why is “Next section” the best answer here? Which word would be a clear navigation label in a webpage about weather?",
+    "audio_prompt": "Why is “Next section” the best answer here? Which word would be a clear navigation label in a webpage about weather?",
     "answers": [
       {
-        "text": "Next section",
+        "text": "Clear navigation words predict where an action will lead.",
         "is_correct": true
       },
       {
-        "text": "Perhaps something",
+        "text": "Because “Perhaps something” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Mystery place",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -432,10 +357,7 @@
     "explanation": {
       "summary": "Clear navigation words predict where an action will lead.",
       "hint": "Choose the label whose destination is easy to understand."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LA05-P-013",
@@ -443,25 +365,21 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Layout and Navigation Features",
-    "question": "Why might a webpage about weather use subheadings?",
-    "audio_prompt": "Why might a webpage about weather use subheadings?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la05.svg#ac9e3la05-p-013",
-      "alt_text": "Learning aid for: Why might a webpage about weather use subheadings?"
-    },
+    "question": "Why is “To divide the information into smaller named topics.” the best answer here? Why might a webpage about weather use subheadings?",
+    "audio_prompt": "Why is “To divide the information into smaller named topics.” the best answer here? Why might a webpage about weather use subheadings?",
     "answers": [
       {
-        "text": "To make every section about the same detail.",
+        "text": "Because “To make every section about the same detail.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "To divide the information into smaller named topics.",
+        "text": "Subheadings signal the topic of each smaller section.",
         "is_correct": true
       },
       {
-        "text": "To stop readers from scanning the page.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -469,9 +387,7 @@
     "explanation": {
       "summary": "Subheadings signal the topic of each smaller section.",
       "hint": "Think about how readers scan for a particular idea."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LA05-P-014",
@@ -479,25 +395,21 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Layout and Navigation Features",
-    "question": "What should a useful caption do in a webpage about weather?",
-    "audio_prompt": "What should a useful caption do in a webpage about weather?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la05.svg#ac9e3la05-p-014",
-      "alt_text": "Learning aid for: What should a useful caption do in a webpage about weather?"
-    },
+    "question": "Why is “Explain or add information about an image.” the best answer here? What should a useful caption do in a webpage about weather?",
+    "audio_prompt": "Why is “Explain or add information about an image.” the best answer here? What should a useful caption do in a webpage about weather?",
     "answers": [
       {
-        "text": "Repeat the page number only.",
+        "text": "Because “Repeat the page number only.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Give directions to an unrelated website.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "Explain or add information about an image.",
+        "text": "Captions connect images with relevant information.",
         "is_correct": true
       }
     ],
@@ -505,10 +417,7 @@
     "explanation": {
       "summary": "Captions connect images with relevant information.",
       "hint": "Choose the description that helps interpret the image."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LA05-P-015",
@@ -516,25 +425,21 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Layout and Navigation Features",
-    "question": "The menu in a webpage about weather leads to the wrong place. What needs editing?",
-    "audio_prompt": "The menu in a webpage about weather leads to the wrong place. What needs editing?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la05.svg#ac9e3la05-p-015",
-      "alt_text": "Learning aid for: The menu in a webpage about weather leads to the wrong place. What needs editing?"
-    },
+    "question": "Why is “The navigation link or reference.” the best answer here? The menu in a webpage about weather leads to the wrong place. What needs editing?",
+    "audio_prompt": "Why is “The navigation link or reference.” the best answer here? The menu in a webpage about weather leads to the wrong place. What needs editing?",
     "answers": [
       {
-        "text": "The navigation link or reference.",
+        "text": "Navigation must take readers to the promised location.",
         "is_correct": true
       },
       {
-        "text": "Every fact in the whole text.",
+        "text": "Because “Every fact in the whole text.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "The reader's name.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -542,9 +447,7 @@
     "explanation": {
       "summary": "Navigation must take readers to the promised location.",
       "hint": "Check the connection between the label and destination."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LA05-P-016",
@@ -552,25 +455,21 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Layout and Navigation Features",
-    "question": "Which layout choice would best support a reader using a webpage about weather?",
-    "audio_prompt": "Which layout choice would best support a reader using a webpage about weather?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la05.svg#ac9e3la05-p-016",
-      "alt_text": "Learning aid for: Which layout choice would best support a reader using a webpage about weather?"
-    },
+    "question": "Why is “Place the menu where it is easy to notice and use.” the best answer here? Which layout choice would best support a reader using a webpage about weather?",
+    "audio_prompt": "Why is “Place the menu where it is easy to notice and use.” the best answer here? Which layout choice would best support a reader using a webpage about weather?",
     "answers": [
       {
-        "text": "Hide all labels behind images.",
+        "text": "Because “Hide all labels behind images.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Place the menu where it is easy to notice and use.",
+        "text": "Visible, specific features support navigation.",
         "is_correct": true
       },
       {
-        "text": "Use identical labels for different destinations.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -578,10 +477,7 @@
     "explanation": {
       "summary": "Visible, specific features support navigation.",
       "hint": "Consider whether readers can find and understand the tool."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LA05-P-017",
@@ -589,25 +485,21 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Layout and Navigation Features",
-    "question": "In an article about coral reefs, which feature helps a reader find what a photograph shows?",
-    "audio_prompt": "In an article about coral reefs, which feature helps a reader find what a photograph shows?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la05.svg#ac9e3la05-p-017",
-      "alt_text": "Learning aid for: In an article about coral reefs, which feature helps a reader find what a photograph shows?"
-    },
+    "question": "Why is “caption” the best answer here? In an article about coral reefs, which feature helps a reader find what a photograph shows?",
+    "audio_prompt": "Why is “caption” the best answer here? In an article about coral reefs, which feature helps a reader find what a photograph shows?",
     "answers": [
       {
-        "text": "decorative border",
+        "text": "Because “decorative border” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "background colour",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "caption",
+        "text": "Layout and navigation features help readers locate information.",
         "is_correct": true
       }
     ],
@@ -615,9 +507,7 @@
     "explanation": {
       "summary": "Layout and navigation features help readers locate information.",
       "hint": "Match the reader's need to the feature's purpose."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LA05-P-018",
@@ -625,25 +515,21 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Layout and Navigation Features",
-    "question": "What is the main purpose of the caption in an article about coral reefs?",
-    "audio_prompt": "What is the main purpose of the caption in an article about coral reefs?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la05.svg#ac9e3la05-p-018",
-      "alt_text": "Learning aid for: What is the main purpose of the caption in an article about coral reefs?"
-    },
+    "question": "Why is “To help the reader find what a photograph shows.” the best answer here? What is the main purpose of the caption in an article about coral reefs?",
+    "audio_prompt": "Why is “To help the reader find what a photograph shows.” the best answer here? What is the main purpose of the caption in an article about coral reefs?",
     "answers": [
       {
-        "text": "To help the reader find what a photograph shows.",
+        "text": "Each navigation feature has a practical reading purpose.",
         "is_correct": true
       },
       {
-        "text": "To hide the topic from the reader.",
+        "text": "Because “To hide the topic from the reader.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "To replace every sentence in the text.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -651,9 +537,7 @@
     "explanation": {
       "summary": "Each navigation feature has a practical reading purpose.",
       "hint": "Explain what the feature lets a reader do."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LA05-P-019",
@@ -661,25 +545,21 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Layout and Navigation Features",
-    "question": "A reader wants what a photograph shows in an article about coral reefs. What should the reader do first?",
-    "audio_prompt": "A reader wants what a photograph shows in an article about coral reefs. What should the reader do first?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la05.svg#ac9e3la05-p-019",
-      "alt_text": "Learning aid for: A reader wants what a photograph shows in an article about coral reefs. What should the reader do first?"
-    },
+    "question": "Why is “Use the caption.” the best answer here? A reader wants what a photograph shows in an article about coral reefs. What should the reader do first?",
+    "audio_prompt": "Why is “Use the caption.” the best answer here? A reader wants what a photograph shows in an article about coral reefs. What should the reader do first?",
     "answers": [
       {
-        "text": "Read an unrelated page repeatedly.",
+        "text": "Because “Read an unrelated page repeatedly.” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Use the caption.",
+        "text": "Efficient readers select the most useful navigation path.",
         "is_correct": true
       },
       {
-        "text": "Ignore all navigation words.",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -687,9 +567,7 @@
     "explanation": {
       "summary": "Efficient readers select the most useful navigation path.",
       "hint": "Choose the tool designed for that search."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LA05-P-020",
@@ -697,25 +575,21 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Layout and Navigation Features",
-    "question": "Which word would be a clear navigation label in an article about coral reefs?",
-    "audio_prompt": "Which word would be a clear navigation label in an article about coral reefs?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la05.svg#ac9e3la05-p-020",
-      "alt_text": "Learning aid for: Which word would be a clear navigation label in an article about coral reefs?"
-    },
+    "question": "Why is “Next section” the best answer here? Which word would be a clear navigation label in an article about coral reefs?",
+    "audio_prompt": "Why is “Next section” the best answer here? Which word would be a clear navigation label in an article about coral reefs?",
     "answers": [
       {
-        "text": "Perhaps something",
+        "text": "Because “Perhaps something” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Mystery place",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "Next section",
+        "text": "Clear navigation words predict where an action will lead.",
         "is_correct": true
       }
     ],
@@ -723,9 +597,7 @@
     "explanation": {
       "summary": "Clear navigation words predict where an action will lead.",
       "hint": "Choose the label whose destination is easy to understand."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LA05-P-021",
@@ -733,35 +605,29 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
+    "stage": "discriminate",
     "skill": "Layout and Navigation Features",
-    "question": "Why might an article about coral reefs use subheadings?",
-    "audio_prompt": "Why might an article about coral reefs use subheadings?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la05.svg#ac9e3la05-p-021",
-      "alt_text": "Learning aid for: Why might an article about coral reefs use subheadings?"
-    },
+    "question": "A student chooses “decorative border” for this task: In a book about Australian animals, which feature helps a reader find a topic listed alphabetically? What should they check?",
+    "audio_prompt": "A student chooses “decorative border” for this task: In a book about Australian animals, which feature helps a reader find a topic listed alphabetically? What should they check?",
     "answers": [
       {
-        "text": "To divide the information into smaller named topics.",
+        "text": "Match the reader's need to the feature's purpose.",
         "is_correct": true
       },
       {
-        "text": "To make every section about the same detail.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "To stop readers from scanning the page.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Subheadings signal the topic of each smaller section.",
-      "hint": "Think about how readers scan for a particular idea."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Match the reader's need to the feature's purpose. Layout and navigation features help readers locate information.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
   },
   {
     "id": "AC9E3LA05-P-022",
@@ -769,35 +635,29 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
+    "stage": "discriminate",
     "skill": "Layout and Navigation Features",
-    "question": "What should a useful caption do in an article about coral reefs?",
-    "audio_prompt": "What should a useful caption do in an article about coral reefs?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la05.svg#ac9e3la05-p-022",
-      "alt_text": "Learning aid for: What should a useful caption do in an article about coral reefs?"
-    },
+    "question": "A student chooses “To hide the topic from the reader.” for this task: What is the main purpose of the index in a book about Australian animals? What should they check?",
+    "audio_prompt": "A student chooses “To hide the topic from the reader.” for this task: What is the main purpose of the index in a book about Australian animals? What should they check?",
     "answers": [
       {
-        "text": "Repeat the page number only.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Explain or add information about an image.",
+        "text": "Explain what the feature lets a reader do.",
         "is_correct": true
       },
       {
-        "text": "Give directions to an unrelated website.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Captions connect images with relevant information.",
-      "hint": "Choose the description that helps interpret the image."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+      "summary": "Explain what the feature lets a reader do. Each navigation feature has a practical reading purpose.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
   },
   {
     "id": "AC9E3LA05-P-023",
@@ -805,35 +665,29 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
+    "stage": "discriminate",
     "skill": "Layout and Navigation Features",
-    "question": "The caption in an article about coral reefs leads to the wrong place. What needs editing?",
-    "audio_prompt": "The caption in an article about coral reefs leads to the wrong place. What needs editing?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la05.svg#ac9e3la05-p-023",
-      "alt_text": "Learning aid for: The caption in an article about coral reefs leads to the wrong place. What needs editing?"
-    },
+    "question": "A student chooses “Read an unrelated page repeatedly.” for this task: A reader wants a topic listed alphabetically in a book about Australian animals. What should the reader do first? What should they check?",
+    "audio_prompt": "A student chooses “Read an unrelated page repeatedly.” for this task: A reader wants a topic listed alphabetically in a book about Australian animals. What should the reader do first? What should they check?",
     "answers": [
       {
-        "text": "Every fact in the whole text.",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "The reader's name.",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "The navigation link or reference.",
+        "text": "Choose the tool designed for that search.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Navigation must take readers to the promised location.",
-      "hint": "Check the connection between the label and destination."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Choose the tool designed for that search. Efficient readers select the most useful navigation path.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
   },
   {
     "id": "AC9E3LA05-P-024",
@@ -841,19 +695,251 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
+    "stage": "discriminate",
     "skill": "Layout and Navigation Features",
-    "question": "Which layout choice would best support a reader using an article about coral reefs?",
-    "audio_prompt": "Which layout choice would best support a reader using an article about coral reefs?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la05.svg#ac9e3la05-p-024",
-      "alt_text": "Learning aid for: Which layout choice would best support a reader using an article about coral reefs?"
-    },
+    "question": "A student chooses “Perhaps something” for this task: Which word would be a clear navigation label in a book about Australian animals? What should they check?",
+    "audio_prompt": "A student chooses “Perhaps something” for this task: Which word would be a clear navigation label in a book about Australian animals? What should they check?",
     "answers": [
       {
-        "text": "Place the caption where it is easy to notice and use.",
+        "text": "Choose the label whose destination is easy to understand.",
         "is_correct": true
       },
+      {
+        "text": "Keep the answer because it uses a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the example and choose the remaining option.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Choose the label whose destination is easy to understand. Clear navigation words predict where an action will lead.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
+  },
+  {
+    "id": "AC9E3LA05-P-025",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA05",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Layout and Navigation Features",
+    "question": "A student chooses “To make every section about the same detail.” for this task: Why might a book about Australian animals use subheadings? What should they check?",
+    "audio_prompt": "A student chooses “To make every section about the same detail.” for this task: Why might a book about Australian animals use subheadings? What should they check?",
+    "answers": [
+      {
+        "text": "Keep the answer because it uses a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Think about how readers scan for a particular idea.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the example and choose the remaining option.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Think about how readers scan for a particular idea. Subheadings signal the topic of each smaller section.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
+  },
+  {
+    "id": "AC9E3LA05-P-026",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA05",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Layout and Navigation Features",
+    "question": "A student chooses “Repeat the page number only.” for this task: What should a useful caption do in a book about Australian animals? What should they check?",
+    "audio_prompt": "A student chooses “Repeat the page number only.” for this task: What should a useful caption do in a book about Australian animals? What should they check?",
+    "answers": [
+      {
+        "text": "Keep the answer because it uses a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the example and choose the remaining option.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the description that helps interpret the image.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Choose the description that helps interpret the image. Captions connect images with relevant information.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
+  },
+  {
+    "id": "AC9E3LA05-P-027",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA05",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Layout and Navigation Features",
+    "question": "A student chooses “Every fact in the whole text.” for this task: The index in a book about Australian animals leads to the wrong place. What needs editing? What should they check?",
+    "audio_prompt": "A student chooses “Every fact in the whole text.” for this task: The index in a book about Australian animals leads to the wrong place. What needs editing? What should they check?",
+    "answers": [
+      {
+        "text": "Check the connection between the label and destination.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the answer because it uses a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the example and choose the remaining option.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Check the connection between the label and destination. Navigation must take readers to the promised location.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
+  },
+  {
+    "id": "AC9E3LA05-P-028",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA05",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Layout and Navigation Features",
+    "question": "A student chooses “Hide all labels behind images.” for this task: Which layout choice would best support a reader using a book about Australian animals? What should they check?",
+    "audio_prompt": "A student chooses “Hide all labels behind images.” for this task: Which layout choice would best support a reader using a book about Australian animals? What should they check?",
+    "answers": [
+      {
+        "text": "Keep the answer because it uses a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Consider whether readers can find and understand the tool.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the example and choose the remaining option.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Consider whether readers can find and understand the tool. Visible, specific features support navigation.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
+  },
+  {
+    "id": "AC9E3LA05-P-029",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA05",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Layout and Navigation Features",
+    "question": "A student chooses “decorative border” for this task: In a webpage about weather, which feature helps a reader find a section of the site? What should they check?",
+    "audio_prompt": "A student chooses “decorative border” for this task: In a webpage about weather, which feature helps a reader find a section of the site? What should they check?",
+    "answers": [
+      {
+        "text": "Keep the answer because it uses a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the example and choose the remaining option.",
+        "is_correct": false
+      },
+      {
+        "text": "Match the reader's need to the feature's purpose.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Match the reader's need to the feature's purpose. Layout and navigation features help readers locate information.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
+  },
+  {
+    "id": "AC9E3LA05-P-030",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA05",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Layout and Navigation Features",
+    "question": "A student chooses “To hide the topic from the reader.” for this task: What is the main purpose of the menu in a webpage about weather? What should they check?",
+    "audio_prompt": "A student chooses “To hide the topic from the reader.” for this task: What is the main purpose of the menu in a webpage about weather? What should they check?",
+    "answers": [
+      {
+        "text": "Explain what the feature lets a reader do.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the answer because it uses a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the example and choose the remaining option.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Explain what the feature lets a reader do. Each navigation feature has a practical reading purpose.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
+  },
+  {
+    "id": "AC9E3LA05-P-031",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Layout and Navigation Features",
+    "question": "The menu in a webpage about weather leads to the wrong place. What needs editing?",
+    "audio_prompt": "The menu in a webpage about weather leads to the wrong place. What needs editing?",
+    "answers": [
+      {
+        "text": "Every fact in the whole text.",
+        "is_correct": false
+      },
+      {
+        "text": "The navigation link or reference.",
+        "is_correct": true
+      },
+      {
+        "text": "The reader's name.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Navigation must take readers to the promised location.",
+      "hint": "Check the connection between the label and destination."
+    }
+  },
+  {
+    "id": "AC9E3LA05-P-032",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Layout and Navigation Features",
+    "question": "Which layout choice would best support a reader using a webpage about weather?",
+    "audio_prompt": "Which layout choice would best support a reader using a webpage about weather?",
+    "answers": [
       {
         "text": "Hide all labels behind images.",
         "is_correct": false
@@ -861,15 +947,257 @@
       {
         "text": "Use identical labels for different destinations.",
         "is_correct": false
+      },
+      {
+        "text": "Place the menu where it is easy to notice and use.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Visible, specific features support navigation.",
+      "hint": "Consider whether readers can find and understand the tool."
+    }
+  },
+  {
+    "id": "AC9E3LA05-P-033",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Layout and Navigation Features",
+    "question": "In an article about coral reefs, which feature helps a reader find what a photograph shows?",
+    "audio_prompt": "In an article about coral reefs, which feature helps a reader find what a photograph shows?",
+    "answers": [
+      {
+        "text": "caption",
+        "is_correct": true
+      },
+      {
+        "text": "decorative border",
+        "is_correct": false
+      },
+      {
+        "text": "background colour",
+        "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
+      "summary": "Layout and navigation features help readers locate information.",
+      "hint": "Match the reader's need to the feature's purpose."
+    }
+  },
+  {
+    "id": "AC9E3LA05-P-034",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Layout and Navigation Features",
+    "question": "What is the main purpose of the caption in an article about coral reefs?",
+    "audio_prompt": "What is the main purpose of the caption in an article about coral reefs?",
+    "answers": [
+      {
+        "text": "To hide the topic from the reader.",
+        "is_correct": false
+      },
+      {
+        "text": "To help the reader find what a photograph shows.",
+        "is_correct": true
+      },
+      {
+        "text": "To replace every sentence in the text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Each navigation feature has a practical reading purpose.",
+      "hint": "Explain what the feature lets a reader do."
+    }
+  },
+  {
+    "id": "AC9E3LA05-P-035",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Layout and Navigation Features",
+    "question": "A reader wants what a photograph shows in an article about coral reefs. What should the reader do first?",
+    "audio_prompt": "A reader wants what a photograph shows in an article about coral reefs. What should the reader do first?",
+    "answers": [
+      {
+        "text": "Read an unrelated page repeatedly.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore all navigation words.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the caption.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Efficient readers select the most useful navigation path.",
+      "hint": "Choose the tool designed for that search."
+    }
+  },
+  {
+    "id": "AC9E3LA05-P-036",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Layout and Navigation Features",
+    "question": "Which word would be a clear navigation label in an article about coral reefs?",
+    "audio_prompt": "Which word would be a clear navigation label in an article about coral reefs?",
+    "answers": [
+      {
+        "text": "Next section",
+        "is_correct": true
+      },
+      {
+        "text": "Perhaps something",
+        "is_correct": false
+      },
+      {
+        "text": "Mystery place",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Clear navigation words predict where an action will lead.",
+      "hint": "Choose the label whose destination is easy to understand."
+    }
+  },
+  {
+    "id": "AC9E3LA05-P-037",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Layout and Navigation Features",
+    "question": "Why might an article about coral reefs use subheadings?",
+    "audio_prompt": "Why might an article about coral reefs use subheadings?",
+    "answers": [
+      {
+        "text": "To make every section about the same detail.",
+        "is_correct": false
+      },
+      {
+        "text": "To divide the information into smaller named topics.",
+        "is_correct": true
+      },
+      {
+        "text": "To stop readers from scanning the page.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Subheadings signal the topic of each smaller section.",
+      "hint": "Think about how readers scan for a particular idea."
+    }
+  },
+  {
+    "id": "AC9E3LA05-P-038",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Layout and Navigation Features",
+    "question": "What should a useful caption do in an article about coral reefs?",
+    "audio_prompt": "What should a useful caption do in an article about coral reefs?",
+    "answers": [
+      {
+        "text": "Repeat the page number only.",
+        "is_correct": false
+      },
+      {
+        "text": "Give directions to an unrelated website.",
+        "is_correct": false
+      },
+      {
+        "text": "Explain or add information about an image.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Captions connect images with relevant information.",
+      "hint": "Choose the description that helps interpret the image."
+    }
+  },
+  {
+    "id": "AC9E3LA05-P-039",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Layout and Navigation Features",
+    "question": "The caption in an article about coral reefs leads to the wrong place. What needs editing?",
+    "audio_prompt": "The caption in an article about coral reefs leads to the wrong place. What needs editing?",
+    "answers": [
+      {
+        "text": "The navigation link or reference.",
+        "is_correct": true
+      },
+      {
+        "text": "Every fact in the whole text.",
+        "is_correct": false
+      },
+      {
+        "text": "The reader's name.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Navigation must take readers to the promised location.",
+      "hint": "Check the connection between the label and destination."
+    }
+  },
+  {
+    "id": "AC9E3LA05-P-040",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Layout and Navigation Features",
+    "question": "Which layout choice would best support a reader using an article about coral reefs?",
+    "audio_prompt": "Which layout choice would best support a reader using an article about coral reefs?",
+    "answers": [
+      {
+        "text": "Hide all labels behind images.",
+        "is_correct": false
+      },
+      {
+        "text": "Place the caption where it is easy to notice and use.",
+        "is_correct": true
+      },
+      {
+        "text": "Use identical labels for different destinations.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
       "summary": "Visible, specific features support navigation.",
       "hint": "Consider whether readers can find and understand the tool."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LA05-T-001",
@@ -877,29 +1205,25 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
+    "stage": "verify",
     "skill": "Layout and Navigation Features",
     "question": "In a digital museum guide, which feature helps a reader find a named object quickly?",
     "audio_prompt": "In a digital museum guide, which feature helps a reader find a named object quickly?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la05.svg#ac9e3la05-t-001",
-      "alt_text": "Learning aid for: In a digital museum guide, which feature helps a reader find a named object quickly?"
-    },
     "answers": [
       {
         "text": "decorative border",
         "is_correct": false
       },
       {
-        "text": "search box",
-        "is_correct": true
-      },
-      {
         "text": "background colour",
         "is_correct": false
+      },
+      {
+        "text": "search box",
+        "is_correct": true
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
       "summary": "Layout and navigation features help readers locate information.",
       "hint": "Match the reader's need to the feature's purpose."
@@ -911,15 +1235,15 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
+    "stage": "verify",
     "skill": "Layout and Navigation Features",
     "question": "What is the main purpose of the search box in a digital museum guide?",
     "audio_prompt": "What is the main purpose of the search box in a digital museum guide?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la05.svg#ac9e3la05-t-002",
-      "alt_text": "Learning aid for: What is the main purpose of the search box in a digital museum guide?"
-    },
     "answers": [
+      {
+        "text": "To help the reader find a named object quickly.",
+        "is_correct": true
+      },
       {
         "text": "To hide the topic from the reader.",
         "is_correct": false
@@ -927,13 +1251,9 @@
       {
         "text": "To replace every sentence in the text.",
         "is_correct": false
-      },
-      {
-        "text": "To help the reader find a named object quickly.",
-        "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
       "summary": "Each navigation feature has a practical reading purpose.",
       "hint": "Explain what the feature lets a reader do."
@@ -945,29 +1265,25 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
+    "stage": "verify",
     "skill": "Layout and Navigation Features",
     "question": "A reader wants a named object quickly in a digital museum guide. What should the reader do first?",
     "audio_prompt": "A reader wants a named object quickly in a digital museum guide. What should the reader do first?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la05.svg#ac9e3la05-t-003",
-      "alt_text": "Learning aid for: A reader wants a named object quickly in a digital museum guide. What should the reader do first?"
-    },
     "answers": [
-      {
-        "text": "Use the search box.",
-        "is_correct": true
-      },
       {
         "text": "Read an unrelated page repeatedly.",
         "is_correct": false
+      },
+      {
+        "text": "Use the search box.",
+        "is_correct": true
       },
       {
         "text": "Ignore all navigation words.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
       "summary": "Efficient readers select the most useful navigation path.",
       "hint": "Choose the tool designed for that search."
@@ -979,29 +1295,25 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
+    "stage": "verify",
     "skill": "Layout and Navigation Features",
     "question": "Which word would be a clear navigation label in a digital museum guide?",
     "audio_prompt": "Which word would be a clear navigation label in a digital museum guide?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la05.svg#ac9e3la05-t-004",
-      "alt_text": "Learning aid for: Which word would be a clear navigation label in a digital museum guide?"
-    },
     "answers": [
       {
         "text": "Perhaps something",
         "is_correct": false
       },
       {
-        "text": "Next section",
-        "is_correct": true
-      },
-      {
         "text": "Mystery place",
         "is_correct": false
+      },
+      {
+        "text": "Next section",
+        "is_correct": true
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
       "summary": "Clear navigation words predict where an action will lead.",
       "hint": "Choose the label whose destination is easy to understand."
@@ -1013,15 +1325,15 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
+    "stage": "verify",
     "skill": "Layout and Navigation Features",
     "question": "Why might a digital museum guide use subheadings?",
     "audio_prompt": "Why might a digital museum guide use subheadings?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la05.svg#ac9e3la05-t-005",
-      "alt_text": "Learning aid for: Why might a digital museum guide use subheadings?"
-    },
     "answers": [
+      {
+        "text": "To divide the information into smaller named topics.",
+        "is_correct": true
+      },
       {
         "text": "To make every section about the same detail.",
         "is_correct": false
@@ -1029,13 +1341,9 @@
       {
         "text": "To stop readers from scanning the page.",
         "is_correct": false
-      },
-      {
-        "text": "To divide the information into smaller named topics.",
-        "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
       "summary": "Subheadings signal the topic of each smaller section.",
       "hint": "Think about how readers scan for a particular idea."
@@ -1047,29 +1355,25 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
+    "stage": "verify",
     "skill": "Layout and Navigation Features",
     "question": "What should a useful caption do in a digital museum guide?",
     "audio_prompt": "What should a useful caption do in a digital museum guide?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la05.svg#ac9e3la05-t-006",
-      "alt_text": "Learning aid for: What should a useful caption do in a digital museum guide?"
-    },
     "answers": [
-      {
-        "text": "Explain or add information about an image.",
-        "is_correct": true
-      },
       {
         "text": "Repeat the page number only.",
         "is_correct": false
+      },
+      {
+        "text": "Explain or add information about an image.",
+        "is_correct": true
       },
       {
         "text": "Give directions to an unrelated website.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
       "summary": "Captions connect images with relevant information.",
       "hint": "Choose the description that helps interpret the image."
@@ -1081,29 +1385,25 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
+    "stage": "verify",
     "skill": "Layout and Navigation Features",
     "question": "The search box in a digital museum guide leads to the wrong place. What needs editing?",
     "audio_prompt": "The search box in a digital museum guide leads to the wrong place. What needs editing?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la05.svg#ac9e3la05-t-007",
-      "alt_text": "Learning aid for: The search box in a digital museum guide leads to the wrong place. What needs editing?"
-    },
     "answers": [
       {
         "text": "Every fact in the whole text.",
         "is_correct": false
       },
       {
-        "text": "The navigation link or reference.",
-        "is_correct": true
-      },
-      {
         "text": "The reader's name.",
         "is_correct": false
+      },
+      {
+        "text": "The navigation link or reference.",
+        "is_correct": true
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
       "summary": "Navigation must take readers to the promised location.",
       "hint": "Check the connection between the label and destination."
@@ -1115,15 +1415,15 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
+    "stage": "verify",
     "skill": "Layout and Navigation Features",
     "question": "Which layout choice would best support a reader using a digital museum guide?",
     "audio_prompt": "Which layout choice would best support a reader using a digital museum guide?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la05.svg#ac9e3la05-t-008",
-      "alt_text": "Learning aid for: Which layout choice would best support a reader using a digital museum guide?"
-    },
     "answers": [
+      {
+        "text": "Place the search box where it is easy to notice and use.",
+        "is_correct": true
+      },
       {
         "text": "Hide all labels behind images.",
         "is_correct": false
@@ -1131,13 +1431,9 @@
       {
         "text": "Use identical labels for different destinations.",
         "is_correct": false
-      },
-      {
-        "text": "Place the search box where it is easy to notice and use.",
-        "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
       "summary": "Visible, specific features support navigation.",
       "hint": "Consider whether readers can find and understand the tool."
@@ -1149,29 +1445,25 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
+    "stage": "apply",
     "skill": "Layout and Navigation Features",
     "question": "In a safety handbook, which feature helps a reader find the page where a section begins?",
     "audio_prompt": "In a safety handbook, which feature helps a reader find the page where a section begins?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la05.svg#ac9e3la05-t-009",
-      "alt_text": "Learning aid for: In a safety handbook, which feature helps a reader find the page where a section begins?"
-    },
     "answers": [
-      {
-        "text": "contents page",
-        "is_correct": true
-      },
       {
         "text": "decorative border",
         "is_correct": false
+      },
+      {
+        "text": "contents page",
+        "is_correct": true
       },
       {
         "text": "background colour",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
       "summary": "Layout and navigation features help readers locate information.",
       "hint": "Match the reader's need to the feature's purpose."
@@ -1183,29 +1475,25 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
+    "stage": "apply",
     "skill": "Layout and Navigation Features",
     "question": "What is the main purpose of the contents page in a safety handbook?",
     "audio_prompt": "What is the main purpose of the contents page in a safety handbook?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la05.svg#ac9e3la05-t-010",
-      "alt_text": "Learning aid for: What is the main purpose of the contents page in a safety handbook?"
-    },
     "answers": [
       {
         "text": "To hide the topic from the reader.",
         "is_correct": false
       },
       {
-        "text": "To help the reader find the page where a section begins.",
-        "is_correct": true
-      },
-      {
         "text": "To replace every sentence in the text.",
         "is_correct": false
+      },
+      {
+        "text": "To help the reader find the page where a section begins.",
+        "is_correct": true
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
       "summary": "Each navigation feature has a practical reading purpose.",
       "hint": "Explain what the feature lets a reader do."
@@ -1217,15 +1505,15 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
+    "stage": "apply",
     "skill": "Layout and Navigation Features",
     "question": "A reader wants the page where a section begins in a safety handbook. What should the reader do first?",
     "audio_prompt": "A reader wants the page where a section begins in a safety handbook. What should the reader do first?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la05.svg#ac9e3la05-t-011",
-      "alt_text": "Learning aid for: A reader wants the page where a section begins in a safety handbook. What should the reader do first?"
-    },
     "answers": [
+      {
+        "text": "Use the contents page.",
+        "is_correct": true
+      },
       {
         "text": "Read an unrelated page repeatedly.",
         "is_correct": false
@@ -1233,13 +1521,9 @@
       {
         "text": "Ignore all navigation words.",
         "is_correct": false
-      },
-      {
-        "text": "Use the contents page.",
-        "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
       "summary": "Efficient readers select the most useful navigation path.",
       "hint": "Choose the tool designed for that search."
@@ -1251,29 +1535,25 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
+    "stage": "apply",
     "skill": "Layout and Navigation Features",
     "question": "Which word would be a clear navigation label in a safety handbook?",
     "audio_prompt": "Which word would be a clear navigation label in a safety handbook?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la05.svg#ac9e3la05-t-012",
-      "alt_text": "Learning aid for: Which word would be a clear navigation label in a safety handbook?"
-    },
     "answers": [
-      {
-        "text": "Next section",
-        "is_correct": true
-      },
       {
         "text": "Perhaps something",
         "is_correct": false
+      },
+      {
+        "text": "Next section",
+        "is_correct": true
       },
       {
         "text": "Mystery place",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
       "summary": "Clear navigation words predict where an action will lead.",
       "hint": "Choose the label whose destination is easy to understand."
@@ -1285,29 +1565,25 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
+    "stage": "apply",
     "skill": "Layout and Navigation Features",
     "question": "Why might a safety handbook use subheadings?",
     "audio_prompt": "Why might a safety handbook use subheadings?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la05.svg#ac9e3la05-t-013",
-      "alt_text": "Learning aid for: Why might a safety handbook use subheadings?"
-    },
     "answers": [
       {
         "text": "To make every section about the same detail.",
         "is_correct": false
       },
       {
-        "text": "To divide the information into smaller named topics.",
-        "is_correct": true
-      },
-      {
         "text": "To stop readers from scanning the page.",
         "is_correct": false
+      },
+      {
+        "text": "To divide the information into smaller named topics.",
+        "is_correct": true
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
       "summary": "Subheadings signal the topic of each smaller section.",
       "hint": "Think about how readers scan for a particular idea."
@@ -1319,15 +1595,15 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
+    "stage": "apply",
     "skill": "Layout and Navigation Features",
     "question": "What should a useful caption do in a safety handbook?",
     "audio_prompt": "What should a useful caption do in a safety handbook?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la05.svg#ac9e3la05-t-014",
-      "alt_text": "Learning aid for: What should a useful caption do in a safety handbook?"
-    },
     "answers": [
+      {
+        "text": "Explain or add information about an image.",
+        "is_correct": true
+      },
       {
         "text": "Repeat the page number only.",
         "is_correct": false
@@ -1335,13 +1611,9 @@
       {
         "text": "Give directions to an unrelated website.",
         "is_correct": false
-      },
-      {
-        "text": "Explain or add information about an image.",
-        "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
       "summary": "Captions connect images with relevant information.",
       "hint": "Choose the description that helps interpret the image."
@@ -1353,29 +1625,25 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
+    "stage": "apply",
     "skill": "Layout and Navigation Features",
     "question": "The contents page in a safety handbook leads to the wrong place. What needs editing?",
     "audio_prompt": "The contents page in a safety handbook leads to the wrong place. What needs editing?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la05.svg#ac9e3la05-t-015",
-      "alt_text": "Learning aid for: The contents page in a safety handbook leads to the wrong place. What needs editing?"
-    },
     "answers": [
-      {
-        "text": "The navigation link or reference.",
-        "is_correct": true
-      },
       {
         "text": "Every fact in the whole text.",
         "is_correct": false
+      },
+      {
+        "text": "The navigation link or reference.",
+        "is_correct": true
       },
       {
         "text": "The reader's name.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
       "summary": "Navigation must take readers to the promised location.",
       "hint": "Check the connection between the label and destination."
@@ -1387,29 +1655,25 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
+    "stage": "apply",
     "skill": "Layout and Navigation Features",
     "question": "Which layout choice would best support a reader using a safety handbook?",
     "audio_prompt": "Which layout choice would best support a reader using a safety handbook?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la05.svg#ac9e3la05-t-016",
-      "alt_text": "Learning aid for: Which layout choice would best support a reader using a safety handbook?"
-    },
     "answers": [
       {
         "text": "Hide all labels behind images.",
         "is_correct": false
       },
       {
-        "text": "Place the contents page where it is easy to notice and use.",
-        "is_correct": true
-      },
-      {
         "text": "Use identical labels for different destinations.",
         "is_correct": false
+      },
+      {
+        "text": "Place the contents page where it is easy to notice and use.",
+        "is_correct": true
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
       "summary": "Visible, specific features support navigation.",
       "hint": "Consider whether readers can find and understand the tool."

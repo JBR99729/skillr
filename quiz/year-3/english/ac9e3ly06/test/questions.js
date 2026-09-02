@@ -9,19 +9,14 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "While creating a persuasive poster about shade, what should a writer decide before drafting?",
     "audioPrompt": "While creating a persuasive poster about shade, what should a writer decide before drafting?",
-    "visual": "A classroom English model for while creating a persuasive poster about shade showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while creating a persuasive poster about shade showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-001",
-      "alt_text": "A classroom English model for while creating a persuasive poster about shade showing the evidence needed for this task"
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Purpose, audience and key ideas",
       "Font colour only",
+      "Purpose, audience and key ideas",
       "The final score"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Purpose, audience and key ideas This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
     "structuredExplanation": {
       "summary": "Purpose, audience and key ideas This choice best fits the language, text or literacy evidence.",
@@ -38,19 +33,14 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "While creating a persuasive poster about shade, which structure groups related information clearly?",
     "audioPrompt": "While creating a persuasive poster about shade, which structure groups related information clearly?",
-    "visual": "A classroom English model for while creating a persuasive poster about shade showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while creating a persuasive poster about shade showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-002\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-002",
-      "alt_text": "A classroom English model for while creating a persuasive poster about shade showing the evidence needed for this task"
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "A new paragraph after every word",
-      "Focused paragraphs with useful headings",
-      "One block mixing all topics"
+      "One block mixing all topics",
+      "Focused paragraphs with useful headings"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Focused paragraphs with useful headings This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
     "structuredExplanation": {
       "summary": "Focused paragraphs with useful headings This choice best fits the language, text or literacy evidence.",
@@ -67,19 +57,14 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "While creating a persuasive poster about shade, which edit fixes tense consistency?",
     "audioPrompt": "While creating a persuasive poster about shade, which edit fixes tense consistency?",
-    "visual": "A classroom English model for while creating a persuasive poster about shade showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while creating a persuasive poster about shade showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-003",
-      "alt_text": "A classroom English model for while creating a persuasive poster about shade showing the evidence needed for this task"
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
+      "Change the one past-tense event so it matches the surrounding past tense",
       "Add an unrelated adjective",
-      "Remove every verb",
-      "Change the one past-tense event so it matches the surrounding past tense"
+      "Remove every verb"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "Change the one past-tense event so it matches the surrounding past tense This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
     "structuredExplanation": {
       "summary": "Change the one past-tense event so it matches the surrounding past tense This choice best fits the language, text or literacy evidence.",
@@ -96,19 +81,14 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "While creating a persuasive poster about shade, which vocabulary choice is most precise?",
     "audioPrompt": "While creating a persuasive poster about shade, which vocabulary choice is most precise?",
-    "visual": "A classroom English model for while creating a persuasive poster about shade showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while creating a persuasive poster about shade showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-004\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-004",
-      "alt_text": "A classroom English model for while creating a persuasive poster about shade showing the evidence needed for this task"
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Measure fifty millilitres of water",
       "Add some stuff",
+      "Measure fifty millilitres of water",
       "Do the thing"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Measure fifty millilitres of water This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
     "structuredExplanation": {
       "summary": "Measure fifty millilitres of water This choice best fits the language, text or literacy evidence.",
@@ -125,19 +105,14 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "While creating a persuasive poster about shade, which feature materially helps a multimodal explanation?",
     "audioPrompt": "While creating a persuasive poster about shade, which feature materially helps a multimodal explanation?",
-    "visual": "A classroom English model for while creating a persuasive poster about shade showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while creating a persuasive poster about shade showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-005",
-      "alt_text": "A classroom English model for while creating a persuasive poster about shade showing the evidence needed for this task"
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "A decorative image with no relation",
-      "A labelled diagram connected to the text",
-      "A flashing border"
+      "A flashing border",
+      "A labelled diagram connected to the text"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "A labelled diagram connected to the text This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
     "structuredExplanation": {
       "summary": "A labelled diagram connected to the text This choice best fits the language, text or literacy evidence.",
@@ -154,19 +129,14 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "While creating a persuasive poster about shade, what should happen during editing?",
     "audioPrompt": "While creating a persuasive poster about shade, what should happen during editing?",
-    "visual": "A classroom English model for while creating a persuasive poster about shade showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while creating a persuasive poster about shade showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-006",
-      "alt_text": "A classroom English model for while creating a persuasive poster about shade showing the evidence needed for this task"
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
+      "Check meaning, structure, sentences, spelling and punctuation",
       "Change only the title colour",
-      "Publish without rereading",
-      "Check meaning, structure, sentences, spelling and punctuation"
+      "Publish without rereading"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "Check meaning, structure, sentences, spelling and punctuation This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
     "structuredExplanation": {
       "summary": "Check meaning, structure, sentences, spelling and punctuation This choice best fits the language, text or literacy evidence.",
@@ -183,19 +153,14 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "While creating a persuasive poster about shade, why should a writer seek feedback?",
     "audioPrompt": "While creating a persuasive poster about shade, why should a writer seek feedback?",
-    "visual": "A classroom English model for while creating a persuasive poster about shade showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while creating a persuasive poster about shade showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-007",
-      "alt_text": "A classroom English model for while creating a persuasive poster about shade showing the evidence needed for this task"
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "A reader may identify unclear ideas or missing evidence",
       "Feedback guarantees no revision is needed",
+      "A reader may identify unclear ideas or missing evidence",
       "Feedback replaces the writer's decisions"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "A reader may identify unclear ideas or missing evidence This explanation follows the relevant Year 3 English evidence.\nHint: Use the wording, structure and context before choosing.",
     "structuredExplanation": {
       "summary": "A reader may identify unclear ideas or missing evidence This explanation follows the relevant Year 3 English evidence.",
@@ -212,19 +177,14 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "While creating a persuasive poster about shade, which final check protects accessibility?",
     "audioPrompt": "While creating a persuasive poster about shade, which final check protects accessibility?",
-    "visual": "A classroom English model for while creating a persuasive poster about shade showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while creating a persuasive poster about shade showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-008\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-008",
-      "alt_text": "A classroom English model for while creating a persuasive poster about shade showing the evidence needed for this task"
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "Hide important words inside images",
-      "Confirm visuals have useful descriptions and text remains understandable",
-      "Remove labels from diagrams"
+      "Remove labels from diagrams",
+      "Confirm visuals have useful descriptions and text remains understandable"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Confirm visuals have useful descriptions and text remains understandable This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
     "structuredExplanation": {
       "summary": "Confirm visuals have useful descriptions and text remains understandable This choice best fits the language, text or literacy evidence.",
@@ -241,19 +201,14 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "While editing a digital report about waste, what should a writer decide before drafting?",
     "audioPrompt": "While editing a digital report about waste, what should a writer decide before drafting?",
-    "visual": "A classroom English model for while editing a digital report about waste showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while editing a digital report about waste showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-009",
-      "alt_text": "A classroom English model for while editing a digital report about waste showing the evidence needed for this task"
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
+      "Purpose, audience and key ideas",
       "Font colour only",
-      "The final score",
-      "Purpose, audience and key ideas"
+      "The final score"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "Purpose, audience and key ideas This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
     "structuredExplanation": {
       "summary": "Purpose, audience and key ideas This choice best fits the language, text or literacy evidence.",
@@ -270,19 +225,14 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "While editing a digital report about waste, which structure groups related information clearly?",
     "audioPrompt": "While editing a digital report about waste, which structure groups related information clearly?",
-    "visual": "A classroom English model for while editing a digital report about waste showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while editing a digital report about waste showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-010",
-      "alt_text": "A classroom English model for while editing a digital report about waste showing the evidence needed for this task"
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Focused paragraphs with useful headings",
       "A new paragraph after every word",
+      "Focused paragraphs with useful headings",
       "One block mixing all topics"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Focused paragraphs with useful headings This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
     "structuredExplanation": {
       "summary": "Focused paragraphs with useful headings This choice best fits the language, text or literacy evidence.",
@@ -299,19 +249,14 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "While editing a digital report about waste, which edit fixes tense consistency?",
     "audioPrompt": "While editing a digital report about waste, which edit fixes tense consistency?",
-    "visual": "A classroom English model for while editing a digital report about waste showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while editing a digital report about waste showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-011",
-      "alt_text": "A classroom English model for while editing a digital report about waste showing the evidence needed for this task"
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "Add an unrelated adjective",
-      "Change the one past-tense event so it matches the surrounding past tense",
-      "Remove every verb"
+      "Remove every verb",
+      "Change the one past-tense event so it matches the surrounding past tense"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Change the one past-tense event so it matches the surrounding past tense This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
     "structuredExplanation": {
       "summary": "Change the one past-tense event so it matches the surrounding past tense This choice best fits the language, text or literacy evidence.",
@@ -328,19 +273,14 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "While editing a digital report about waste, which vocabulary choice is most precise?",
     "audioPrompt": "While editing a digital report about waste, which vocabulary choice is most precise?",
-    "visual": "A classroom English model for while editing a digital report about waste showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while editing a digital report about waste showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-012\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-012",
-      "alt_text": "A classroom English model for while editing a digital report about waste showing the evidence needed for this task"
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
+      "Measure fifty millilitres of water",
       "Add some stuff",
-      "Do the thing",
-      "Measure fifty millilitres of water"
+      "Do the thing"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "Measure fifty millilitres of water This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
     "structuredExplanation": {
       "summary": "Measure fifty millilitres of water This choice best fits the language, text or literacy evidence.",
@@ -357,19 +297,14 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "While editing a digital report about waste, which feature materially helps a multimodal explanation?",
     "audioPrompt": "While editing a digital report about waste, which feature materially helps a multimodal explanation?",
-    "visual": "A classroom English model for while editing a digital report about waste showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while editing a digital report about waste showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-013",
-      "alt_text": "A classroom English model for while editing a digital report about waste showing the evidence needed for this task"
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "A labelled diagram connected to the text",
       "A decorative image with no relation",
+      "A labelled diagram connected to the text",
       "A flashing border"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "A labelled diagram connected to the text This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
     "structuredExplanation": {
       "summary": "A labelled diagram connected to the text This choice best fits the language, text or literacy evidence.",
@@ -386,19 +321,14 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "While editing a digital report about waste, what should happen during editing?",
     "audioPrompt": "While editing a digital report about waste, what should happen during editing?",
-    "visual": "A classroom English model for while editing a digital report about waste showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while editing a digital report about waste showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-014\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-014",
-      "alt_text": "A classroom English model for while editing a digital report about waste showing the evidence needed for this task"
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "Change only the title colour",
-      "Check meaning, structure, sentences, spelling and punctuation",
-      "Publish without rereading"
+      "Publish without rereading",
+      "Check meaning, structure, sentences, spelling and punctuation"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Check meaning, structure, sentences, spelling and punctuation This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
     "structuredExplanation": {
       "summary": "Check meaning, structure, sentences, spelling and punctuation This choice best fits the language, text or literacy evidence.",
@@ -415,19 +345,14 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "While editing a digital report about waste, why should a writer seek feedback?",
     "audioPrompt": "While editing a digital report about waste, why should a writer seek feedback?",
-    "visual": "A classroom English model for while editing a digital report about waste showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while editing a digital report about waste showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-015",
-      "alt_text": "A classroom English model for while editing a digital report about waste showing the evidence needed for this task"
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
+      "A reader may identify unclear ideas or missing evidence",
       "Feedback guarantees no revision is needed",
-      "Feedback replaces the writer's decisions",
-      "A reader may identify unclear ideas or missing evidence"
+      "Feedback replaces the writer's decisions"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "A reader may identify unclear ideas or missing evidence This explanation follows the relevant Year 3 English evidence.\nHint: Use the wording, structure and context before choosing.",
     "structuredExplanation": {
       "summary": "A reader may identify unclear ideas or missing evidence This explanation follows the relevant Year 3 English evidence.",
@@ -444,19 +369,14 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "While editing a digital report about waste, which final check protects accessibility?",
     "audioPrompt": "While editing a digital report about waste, which final check protects accessibility?",
-    "visual": "A classroom English model for while editing a digital report about waste showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while editing a digital report about waste showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly06.svg#ac9e3ly06-t-016",
-      "alt_text": "A classroom English model for while editing a digital report about waste showing the evidence needed for this task"
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Confirm visuals have useful descriptions and text remains understandable",
       "Hide important words inside images",
+      "Confirm visuals have useful descriptions and text remains understandable",
       "Remove labels from diagrams"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Confirm visuals have useful descriptions and text remains understandable This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
     "structuredExplanation": {
       "summary": "Confirm visuals have useful descriptions and text remains understandable This choice best fits the language, text or literacy evidence.",

@@ -5,14 +5,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY09",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Reading and Writing Multisyllabic Words",
     "question": "While reading the word sunset, what is the best first step for reading a long unfamiliar word?",
     "audio_prompt": "While reading the word sunset, what is the best first step for reading a long unfamiliar word?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly09.svg#ac9e3ly09-p-001",
-      "alt_text": "A classroom English model for while reading the word sunset showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Look for pronounceable syllable chunks",
@@ -31,9 +27,7 @@
     "explanation": {
       "summary": "Look for pronounceable syllable chunks This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LY09-P-002",
@@ -41,14 +35,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY09",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Reading and Writing Multisyllabic Words",
     "question": "While reading the word sunset, which description shows correct syllable chunking?",
     "audio_prompt": "While reading the word sunset, which description shows correct syllable chunking?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly09.svg#ac9e3ly09-p-002",
-      "alt_text": "A classroom English model for while reading the word sunset showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Say only the first letter name, then guess",
@@ -67,10 +57,7 @@
     "explanation": {
       "summary": "Say each complete spoken syllable in order This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LY09-P-003",
@@ -78,14 +65,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY09",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Reading and Writing Multisyllabic Words",
     "question": "While reading the word sunset, how does blending help after finding syllables?",
     "audio_prompt": "While reading the word sunset, how does blending help after finding syllables?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly09.svg#ac9e3ly09-p-003",
-      "alt_text": "A classroom English model for while reading the word sunset showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "It removes the middle of the word",
@@ -104,10 +87,7 @@
     "explanation": {
       "summary": "It joins the spoken chunks into the whole word This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LY09-P-004",
@@ -115,14 +95,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY09",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Reading and Writing Multisyllabic Words",
     "question": "While reading the word sunset, what should a reader do after blending the word?",
     "audio_prompt": "While reading the word sunset, what should a reader do after blending the word?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly09.svg#ac9e3ly09-p-004",
-      "alt_text": "A classroom English model for while reading the word sunset showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Check that it sounds like a word and fits the sentence",
@@ -141,10 +117,7 @@
     "explanation": {
       "summary": "Check that it sounds like a word and fits the sentence This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LY09-P-005",
@@ -152,14 +125,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY09",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Reading and Writing Multisyllabic Words",
     "question": "While reading the word sunset, which strategy helps write a multisyllabic word?",
     "audio_prompt": "While reading the word sunset, which strategy helps write a multisyllabic word?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly09.svg#ac9e3ly09-p-005",
-      "alt_text": "A classroom English model for while reading the word sunset showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Write only the first syllable",
@@ -178,10 +147,7 @@
     "explanation": {
       "summary": "Say each syllable slowly and map its sound patterns This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LY09-P-006",
@@ -189,14 +155,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY09",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Reading and Writing Multisyllabic Words",
     "question": "While reading the word sunset, why can a familiar word part help?",
     "audio_prompt": "While reading the word sunset, why can a familiar word part help?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly09.svg#ac9e3ly09-p-006",
-      "alt_text": "A classroom English model for while reading the word sunset showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "It proves every similar word rhymes",
@@ -215,10 +177,7 @@
     "explanation": {
       "summary": "It reduces the word into known meaningful or pronounceable parts This explanation follows the relevant Year 3 English evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LY09-P-007",
@@ -226,14 +185,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY09",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Reading and Writing Multisyllabic Words",
     "question": "While reading the word sunset, a spoken word has three clear beats. What can the writer do?",
     "audio_prompt": "While reading the word sunset, a spoken word has three clear beats. What can the writer do?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly09.svg#ac9e3ly09-p-007",
-      "alt_text": "A classroom English model for while reading the word sunset showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Record one syllable at a time, then check the whole spelling",
@@ -252,10 +207,7 @@
     "explanation": {
       "summary": "Record one syllable at a time, then check the whole spelling This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LY09-P-008",
@@ -263,14 +215,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY09",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Reading and Writing Multisyllabic Words",
     "question": "While reading the word sunset, which check combines decoding clues?",
     "audio_prompt": "While reading the word sunset, which check combines decoding clues?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly09.svg#ac9e3ly09-p-008",
-      "alt_text": "A classroom English model for while reading the word sunset showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Use the picture alone",
@@ -289,10 +237,7 @@
     "explanation": {
       "summary": "Use letter patterns, syllables and sentence meaning together This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LY09-P-009",
@@ -300,14 +245,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY09",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Reading and Writing Multisyllabic Words",
     "question": "While reading the word hopeful, what is the best first step for reading a long unfamiliar word?",
     "audio_prompt": "While reading the word hopeful, what is the best first step for reading a long unfamiliar word?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly09.svg#ac9e3ly09-p-009",
-      "alt_text": "A classroom English model for while reading the word hopeful showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Say only its first letter name",
@@ -326,9 +267,7 @@
     "explanation": {
       "summary": "Look for pronounceable syllable chunks This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LY09-P-010",
@@ -336,14 +275,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY09",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Reading and Writing Multisyllabic Words",
     "question": "While reading the word hopeful, which description shows correct syllable chunking?",
     "audio_prompt": "While reading the word hopeful, which description shows correct syllable chunking?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly09.svg#ac9e3ly09-p-010",
-      "alt_text": "A classroom English model for while reading the word hopeful showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Say each complete spoken syllable in order",
@@ -362,10 +297,7 @@
     "explanation": {
       "summary": "Say each complete spoken syllable in order This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LY09-P-011",
@@ -373,25 +305,21 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY09",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Reading and Writing Multisyllabic Words",
-    "question": "While reading the word hopeful, how does blending help after finding syllables?",
-    "audio_prompt": "While reading the word hopeful, how does blending help after finding syllables?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly09.svg#ac9e3ly09-p-011",
-      "alt_text": "A classroom English model for while reading the word hopeful showing the evidence needed for this task"
-    },
+    "question": "Why is “It joins the spoken chunks into the whole word” the best answer here? While reading the word hopeful, how does blending help after finding syllables?",
+    "audio_prompt": "Why is “It joins the spoken chunks into the whole word” the best answer here? While reading the word hopeful, how does blending help after finding syllables?",
     "answers": [
       {
-        "text": "It removes the middle of the word",
+        "text": "Because “It removes the middle of the word” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "It joins the spoken chunks into the whole word",
+        "text": "It joins the spoken chunks into the whole word This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "It changes the word's meaning",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -399,9 +327,7 @@
     "explanation": {
       "summary": "It joins the spoken chunks into the whole word This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LY09-P-012",
@@ -409,25 +335,21 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY09",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Reading and Writing Multisyllabic Words",
-    "question": "While reading the word hopeful, what should a reader do after blending the word?",
-    "audio_prompt": "While reading the word hopeful, what should a reader do after blending the word?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly09.svg#ac9e3ly09-p-012",
-      "alt_text": "A classroom English model for while reading the word hopeful showing the evidence needed for this task"
-    },
+    "question": "Why is “Check that it sounds like a word and fits the sentence” the best answer here? While reading the word hopeful, what should a reader do after blending the word?",
+    "audio_prompt": "Why is “Check that it sounds like a word and fits the sentence” the best answer here? While reading the word hopeful, what should a reader do after blending the word?",
     "answers": [
       {
-        "text": "Ignore sentence meaning",
+        "text": "Because “Ignore sentence meaning” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Spell a different word",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "Check that it sounds like a word and fits the sentence",
+        "text": "Check that it sounds like a word and fits the sentence This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       }
     ],
@@ -435,9 +357,7 @@
     "explanation": {
       "summary": "Check that it sounds like a word and fits the sentence This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LY09-P-013",
@@ -445,25 +365,21 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY09",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Reading and Writing Multisyllabic Words",
-    "question": "While reading the word hopeful, which strategy helps write a multisyllabic word?",
-    "audio_prompt": "While reading the word hopeful, which strategy helps write a multisyllabic word?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly09.svg#ac9e3ly09-p-013",
-      "alt_text": "A classroom English model for while reading the word hopeful showing the evidence needed for this task"
-    },
+    "question": "Why is “Say each syllable slowly and map its sound patterns” the best answer here? While reading the word hopeful, which strategy helps write a multisyllabic word?",
+    "audio_prompt": "Why is “Say each syllable slowly and map its sound patterns” the best answer here? While reading the word hopeful, which strategy helps write a multisyllabic word?",
     "answers": [
       {
-        "text": "Say each syllable slowly and map its sound patterns",
+        "text": "Say each syllable slowly and map its sound patterns This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "Write only the first syllable",
+        "text": "Because “Write only the first syllable” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Add letters until it looks long",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -471,9 +387,7 @@
     "explanation": {
       "summary": "Say each syllable slowly and map its sound patterns This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LY09-P-014",
@@ -481,25 +395,21 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY09",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Reading and Writing Multisyllabic Words",
-    "question": "While reading the word hopeful, why can a familiar word part help?",
-    "audio_prompt": "While reading the word hopeful, why can a familiar word part help?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly09.svg#ac9e3ly09-p-014",
-      "alt_text": "A classroom English model for while reading the word hopeful showing the evidence needed for this task"
-    },
+    "question": "Why is “It reduces the word into known meaningful or pronounceable parts” the best answer here? While reading the word hopeful, why can a familiar word part help?",
+    "audio_prompt": "Why is “It reduces the word into known meaningful or pronounceable parts” the best answer here? While reading the word hopeful, why can a familiar word part help?",
     "answers": [
       {
-        "text": "It proves every similar word rhymes",
+        "text": "Because “It proves every similar word rhymes” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "It reduces the word into known meaningful or pronounceable parts",
+        "text": "It reduces the word into known meaningful or pronounceable parts This explanation follows the relevant Year 3 English evidence.",
         "is_correct": true
       },
       {
-        "text": "It makes grammar unnecessary",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -507,9 +417,7 @@
     "explanation": {
       "summary": "It reduces the word into known meaningful or pronounceable parts This explanation follows the relevant Year 3 English evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LY09-P-015",
@@ -517,25 +425,21 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY09",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Reading and Writing Multisyllabic Words",
-    "question": "While reading the word hopeful, a spoken word has three clear beats. What can the writer do?",
-    "audio_prompt": "While reading the word hopeful, a spoken word has three clear beats. What can the writer do?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly09.svg#ac9e3ly09-p-015",
-      "alt_text": "A classroom English model for while reading the word hopeful showing the evidence needed for this task"
-    },
+    "question": "Why is “Record one syllable at a time, then check the whole spelling” the best answer here? While reading the word hopeful, a spoken word has three clear beats. What can the writer do?",
+    "audio_prompt": "Why is “Record one syllable at a time, then check the whole spelling” the best answer here? While reading the word hopeful, a spoken word has three clear beats. What can the writer do?",
     "answers": [
       {
-        "text": "Use three random letters",
+        "text": "Because “Use three random letters” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Leave out the quietest syllable",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "Record one syllable at a time, then check the whole spelling",
+        "text": "Record one syllable at a time, then check the whole spelling This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       }
     ],
@@ -543,9 +447,7 @@
     "explanation": {
       "summary": "Record one syllable at a time, then check the whole spelling This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LY09-P-016",
@@ -553,25 +455,21 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY09",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Reading and Writing Multisyllabic Words",
-    "question": "While reading the word hopeful, which check combines decoding clues?",
-    "audio_prompt": "While reading the word hopeful, which check combines decoding clues?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly09.svg#ac9e3ly09-p-016",
-      "alt_text": "A classroom English model for while reading the word hopeful showing the evidence needed for this task"
-    },
+    "question": "Why is “Use letter patterns, syllables and sentence meaning together” the best answer here? While reading the word hopeful, which check combines decoding clues?",
+    "audio_prompt": "Why is “Use letter patterns, syllables and sentence meaning together” the best answer here? While reading the word hopeful, which check combines decoding clues?",
     "answers": [
       {
-        "text": "Use letter patterns, syllables and sentence meaning together",
+        "text": "Use letter patterns, syllables and sentence meaning together This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "Use the picture alone",
+        "text": "Because “Use the picture alone” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Use only the final letter name",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -579,9 +477,7 @@
     "explanation": {
       "summary": "Use letter patterns, syllables and sentence meaning together This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LY09-P-017",
@@ -589,25 +485,21 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY09",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Reading and Writing Multisyllabic Words",
-    "question": "While reading the word fantastic, what is the best first step for reading a long unfamiliar word?",
-    "audio_prompt": "While reading the word fantastic, what is the best first step for reading a long unfamiliar word?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly09.svg#ac9e3ly09-p-017",
-      "alt_text": "A classroom English model for while reading the word fantastic showing the evidence needed for this task"
-    },
+    "question": "Why is “Look for pronounceable syllable chunks” the best answer here? While reading the word fantastic, what is the best first step for reading a long unfamiliar word?",
+    "audio_prompt": "Why is “Look for pronounceable syllable chunks” the best answer here? While reading the word fantastic, what is the best first step for reading a long unfamiliar word?",
     "answers": [
       {
-        "text": "Say only its first letter name",
+        "text": "Because “Say only its first letter name” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Look for pronounceable syllable chunks",
+        "text": "Look for pronounceable syllable chunks This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "Guess from word length",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -615,9 +507,7 @@
     "explanation": {
       "summary": "Look for pronounceable syllable chunks This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LY09-P-018",
@@ -625,25 +515,21 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY09",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Reading and Writing Multisyllabic Words",
-    "question": "While reading the word fantastic, which description shows correct syllable chunking?",
-    "audio_prompt": "While reading the word fantastic, which description shows correct syllable chunking?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly09.svg#ac9e3ly09-p-018",
-      "alt_text": "A classroom English model for while reading the word fantastic showing the evidence needed for this task"
-    },
+    "question": "Why is “Say each complete spoken syllable in order” the best answer here? While reading the word fantastic, which description shows correct syllable chunking?",
+    "audio_prompt": "Why is “Say each complete spoken syllable in order” the best answer here? While reading the word fantastic, which description shows correct syllable chunking?",
     "answers": [
       {
-        "text": "Say only the first letter name, then guess",
+        "text": "Because “Say only the first letter name, then guess” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Split the word wherever it looks longest",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       },
       {
-        "text": "Say each complete spoken syllable in order",
+        "text": "Say each complete spoken syllable in order This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       }
     ],
@@ -651,9 +537,7 @@
     "explanation": {
       "summary": "Say each complete spoken syllable in order This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LY09-P-019",
@@ -661,25 +545,21 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY09",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Reading and Writing Multisyllabic Words",
-    "question": "While reading the word fantastic, how does blending help after finding syllables?",
-    "audio_prompt": "While reading the word fantastic, how does blending help after finding syllables?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly09.svg#ac9e3ly09-p-019",
-      "alt_text": "A classroom English model for while reading the word fantastic showing the evidence needed for this task"
-    },
+    "question": "Why is “It joins the spoken chunks into the whole word” the best answer here? While reading the word fantastic, how does blending help after finding syllables?",
+    "audio_prompt": "Why is “It joins the spoken chunks into the whole word” the best answer here? While reading the word fantastic, how does blending help after finding syllables?",
     "answers": [
       {
-        "text": "It joins the spoken chunks into the whole word",
+        "text": "It joins the spoken chunks into the whole word This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "It removes the middle of the word",
+        "text": "Because “It removes the middle of the word” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "It changes the word's meaning",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -687,9 +567,7 @@
     "explanation": {
       "summary": "It joins the spoken chunks into the whole word This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LY09-P-020",
@@ -697,25 +575,21 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY09",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Reading and Writing Multisyllabic Words",
-    "question": "While reading the word fantastic, what should a reader do after blending the word?",
-    "audio_prompt": "While reading the word fantastic, what should a reader do after blending the word?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly09.svg#ac9e3ly09-p-020",
-      "alt_text": "A classroom English model for while reading the word fantastic showing the evidence needed for this task"
-    },
+    "question": "Why is “Check that it sounds like a word and fits the sentence” the best answer here? While reading the word fantastic, what should a reader do after blending the word?",
+    "audio_prompt": "Why is “Check that it sounds like a word and fits the sentence” the best answer here? While reading the word fantastic, what should a reader do after blending the word?",
     "answers": [
       {
-        "text": "Ignore sentence meaning",
+        "text": "Because “Ignore sentence meaning” sounds familiar.",
         "is_correct": false
       },
       {
-        "text": "Check that it sounds like a word and fits the sentence",
+        "text": "Check that it sounds like a word and fits the sentence This choice best fits the language, text or literacy evidence.",
         "is_correct": true
       },
       {
-        "text": "Spell a different word",
+        "text": "Because the longest-looking option should always be chosen.",
         "is_correct": false
       }
     ],
@@ -723,9 +597,7 @@
     "explanation": {
       "summary": "Check that it sounds like a word and fits the sentence This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LY09-P-021",
@@ -733,35 +605,29 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY09",
     "bank": "practice",
+    "stage": "discriminate",
     "skill": "Reading and Writing Multisyllabic Words",
-    "question": "While reading the word fantastic, which strategy helps write a multisyllabic word?",
-    "audio_prompt": "While reading the word fantastic, which strategy helps write a multisyllabic word?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly09.svg#ac9e3ly09-p-021",
-      "alt_text": "A classroom English model for while reading the word fantastic showing the evidence needed for this task"
-    },
+    "question": "A student chooses “Say only its first letter name” for this task: While reading the word sunset, what is the best first step for reading a long unfamiliar word? What should they check?",
+    "audio_prompt": "A student chooses “Say only its first letter name” for this task: While reading the word sunset, what is the best first step for reading a long unfamiliar word? What should they check?",
     "answers": [
       {
-        "text": "Write only the first syllable",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Add letters until it looks long",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       },
       {
-        "text": "Say each syllable slowly and map its sound patterns",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Say each syllable slowly and map its sound patterns This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Use the wording, structure and context before choosing. Look for pronounceable syllable chunks This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
   },
   {
     "id": "AC9E3LY09-P-022",
@@ -769,35 +635,29 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY09",
     "bank": "practice",
+    "stage": "discriminate",
     "skill": "Reading and Writing Multisyllabic Words",
-    "question": "While reading the word fantastic, why can a familiar word part help?",
-    "audio_prompt": "While reading the word fantastic, why can a familiar word part help?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly09.svg#ac9e3ly09-p-022",
-      "alt_text": "A classroom English model for while reading the word fantastic showing the evidence needed for this task"
-    },
+    "question": "A student chooses “Say only the first letter name, then guess” for this task: While reading the word sunset, which description shows correct syllable chunking? What should they check?",
+    "audio_prompt": "A student chooses “Say only the first letter name, then guess” for this task: While reading the word sunset, which description shows correct syllable chunking? What should they check?",
     "answers": [
       {
-        "text": "It reduces the word into known meaningful or pronounceable parts",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "It proves every similar word rhymes",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "It makes grammar unnecessary",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "It reduces the word into known meaningful or pronounceable parts This explanation follows the relevant Year 3 English evidence.",
-      "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Use the wording, structure and context before choosing. Say each complete spoken syllable in order This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
   },
   {
     "id": "AC9E3LY09-P-023",
@@ -805,35 +665,29 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY09",
     "bank": "practice",
+    "stage": "discriminate",
     "skill": "Reading and Writing Multisyllabic Words",
-    "question": "While reading the word fantastic, a spoken word has three clear beats. What can the writer do?",
-    "audio_prompt": "While reading the word fantastic, a spoken word has three clear beats. What can the writer do?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly09.svg#ac9e3ly09-p-023",
-      "alt_text": "A classroom English model for while reading the word fantastic showing the evidence needed for this task"
-    },
+    "question": "A student chooses “It removes the middle of the word” for this task: While reading the word sunset, how does blending help after finding syllables? What should they check?",
+    "audio_prompt": "A student chooses “It removes the middle of the word” for this task: While reading the word sunset, how does blending help after finding syllables? What should they check?",
     "answers": [
       {
-        "text": "Use three random letters",
+        "text": "Keep the answer because it uses a familiar word.",
         "is_correct": false
       },
       {
-        "text": "Record one syllable at a time, then check the whole spelling",
+        "text": "Use the wording, structure and context before choosing.",
         "is_correct": true
       },
       {
-        "text": "Leave out the quietest syllable",
+        "text": "Ignore the example and choose the remaining option.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Record one syllable at a time, then check the whole spelling This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Use the wording, structure and context before choosing. It joins the spoken chunks into the whole word This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
   },
   {
     "id": "AC9E3LY09-P-024",
@@ -841,55 +695,281 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY09",
     "bank": "practice",
+    "stage": "discriminate",
     "skill": "Reading and Writing Multisyllabic Words",
-    "question": "While reading the word fantastic, which check combines decoding clues?",
-    "audio_prompt": "While reading the word fantastic, which check combines decoding clues?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly09.svg#ac9e3ly09-p-024",
-      "alt_text": "A classroom English model for while reading the word fantastic showing the evidence needed for this task"
-    },
+    "question": "A student chooses “Ignore sentence meaning” for this task: While reading the word sunset, what should a reader do after blending the word? What should they check?",
+    "audio_prompt": "A student chooses “Ignore sentence meaning” for this task: While reading the word sunset, what should a reader do after blending the word? What should they check?",
+    "answers": [
+      {
+        "text": "Keep the answer because it uses a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the example and choose the remaining option.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the wording, structure and context before choosing.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the wording, structure and context before choosing. Check that it sounds like a word and fits the sentence This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
+  },
+  {
+    "id": "AC9E3LY09-P-025",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY09",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Reading and Writing Multisyllabic Words",
+    "question": "A student chooses “Write only the first syllable” for this task: While reading the word sunset, which strategy helps write a multisyllabic word? What should they check?",
+    "audio_prompt": "A student chooses “Write only the first syllable” for this task: While reading the word sunset, which strategy helps write a multisyllabic word? What should they check?",
+    "answers": [
+      {
+        "text": "Use the wording, structure and context before choosing.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the answer because it uses a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the example and choose the remaining option.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the wording, structure and context before choosing. Say each syllable slowly and map its sound patterns This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
+  },
+  {
+    "id": "AC9E3LY09-P-026",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY09",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Reading and Writing Multisyllabic Words",
+    "question": "A student chooses “It proves every similar word rhymes” for this task: While reading the word sunset, why can a familiar word part help? What should they check?",
+    "audio_prompt": "A student chooses “It proves every similar word rhymes” for this task: While reading the word sunset, why can a familiar word part help? What should they check?",
+    "answers": [
+      {
+        "text": "Keep the answer because it uses a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the wording, structure and context before choosing.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the example and choose the remaining option.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the wording, structure and context before choosing. It reduces the word into known meaningful or pronounceable parts This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
+  },
+  {
+    "id": "AC9E3LY09-P-027",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY09",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Reading and Writing Multisyllabic Words",
+    "question": "A student chooses “Use three random letters” for this task: While reading the word sunset, a spoken word has three clear beats. What can the writer do? What should they check?",
+    "audio_prompt": "A student chooses “Use three random letters” for this task: While reading the word sunset, a spoken word has three clear beats. What can the writer do? What should they check?",
+    "answers": [
+      {
+        "text": "Keep the answer because it uses a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the example and choose the remaining option.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the wording, structure and context before choosing.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the wording, structure and context before choosing. Record one syllable at a time, then check the whole spelling This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
+  },
+  {
+    "id": "AC9E3LY09-P-028",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY09",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Reading and Writing Multisyllabic Words",
+    "question": "A student chooses “Use the picture alone” for this task: While reading the word sunset, which check combines decoding clues? What should they check?",
+    "audio_prompt": "A student chooses “Use the picture alone” for this task: While reading the word sunset, which check combines decoding clues? What should they check?",
+    "answers": [
+      {
+        "text": "Use the wording, structure and context before choosing.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the answer because it uses a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the example and choose the remaining option.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the wording, structure and context before choosing. Use letter patterns, syllables and sentence meaning together This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
+  },
+  {
+    "id": "AC9E3LY09-P-029",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY09",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Reading and Writing Multisyllabic Words",
+    "question": "A student chooses “Say only its first letter name” for this task: While reading the word hopeful, what is the best first step for reading a long unfamiliar word? What should they check?",
+    "audio_prompt": "A student chooses “Say only its first letter name” for this task: While reading the word hopeful, what is the best first step for reading a long unfamiliar word? What should they check?",
+    "answers": [
+      {
+        "text": "Keep the answer because it uses a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the wording, structure and context before choosing.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the example and choose the remaining option.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the wording, structure and context before choosing. Look for pronounceable syllable chunks This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
+  },
+  {
+    "id": "AC9E3LY09-P-030",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY09",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Reading and Writing Multisyllabic Words",
+    "question": "A student chooses “Say only the first letter name, then guess” for this task: While reading the word hopeful, which description shows correct syllable chunking? What should they check?",
+    "audio_prompt": "A student chooses “Say only the first letter name, then guess” for this task: While reading the word hopeful, which description shows correct syllable chunking? What should they check?",
+    "answers": [
+      {
+        "text": "Keep the answer because it uses a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the example and choose the remaining option.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the wording, structure and context before choosing.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the wording, structure and context before choosing. Say each complete spoken syllable in order This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
+  },
+  {
+    "id": "AC9E3LY09-P-031",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Reading and Writing Multisyllabic Words",
+    "question": "While reading the word hopeful, a spoken word has three clear beats. What can the writer do?",
+    "audio_prompt": "While reading the word hopeful, a spoken word has three clear beats. What can the writer do?",
+    "answers": [
+      {
+        "text": "Record one syllable at a time, then check the whole spelling",
+        "is_correct": true
+      },
+      {
+        "text": "Use three random letters",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out the quietest syllable",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Record one syllable at a time, then check the whole spelling This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY09-P-032",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Reading and Writing Multisyllabic Words",
+    "question": "While reading the word hopeful, which check combines decoding clues?",
+    "audio_prompt": "While reading the word hopeful, which check combines decoding clues?",
     "answers": [
       {
         "text": "Use the picture alone",
         "is_correct": false
       },
       {
-        "text": "Use only the final letter name",
-        "is_correct": false
-      },
-      {
         "text": "Use letter patterns, syllables and sentence meaning together",
         "is_correct": true
+      },
+      {
+        "text": "Use only the final letter name",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
       "summary": "Use letter patterns, syllables and sentence meaning together This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "AC9E3LY09-T-001",
+    "id": "AC9E3LY09-P-033",
     "subject": "english",
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY09",
-    "bank": "test",
+    "bank": "practice",
+    "stage": "apply",
     "skill": "Reading and Writing Multisyllabic Words",
-    "question": "While reading the word remember, what is the best first step for reading a long unfamiliar word?",
-    "audio_prompt": "While reading the word remember, what is the best first step for reading a long unfamiliar word?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly09.svg#ac9e3ly09-t-001",
-      "alt_text": "A classroom English model for while reading the word remember showing the evidence needed for this task"
-    },
+    "question": "While reading the word fantastic, what is the best first step for reading a long unfamiliar word?",
+    "audio_prompt": "While reading the word fantastic, what is the best first step for reading a long unfamiliar word?",
     "answers": [
-      {
-        "text": "Look for pronounceable syllable chunks",
-        "is_correct": true
-      },
       {
         "text": "Say only its first letter name",
         "is_correct": false
@@ -897,9 +977,253 @@
       {
         "text": "Guess from word length",
         "is_correct": false
+      },
+      {
+        "text": "Look for pronounceable syllable chunks",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Look for pronounceable syllable chunks This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY09-P-034",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Reading and Writing Multisyllabic Words",
+    "question": "While reading the word fantastic, which description shows correct syllable chunking?",
+    "audio_prompt": "While reading the word fantastic, which description shows correct syllable chunking?",
+    "answers": [
+      {
+        "text": "Say each complete spoken syllable in order",
+        "is_correct": true
+      },
+      {
+        "text": "Say only the first letter name, then guess",
+        "is_correct": false
+      },
+      {
+        "text": "Split the word wherever it looks longest",
+        "is_correct": false
       }
     ],
     "correct_index": 0,
+    "explanation": {
+      "summary": "Say each complete spoken syllable in order This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY09-P-035",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Reading and Writing Multisyllabic Words",
+    "question": "While reading the word fantastic, how does blending help after finding syllables?",
+    "audio_prompt": "While reading the word fantastic, how does blending help after finding syllables?",
+    "answers": [
+      {
+        "text": "It removes the middle of the word",
+        "is_correct": false
+      },
+      {
+        "text": "It joins the spoken chunks into the whole word",
+        "is_correct": true
+      },
+      {
+        "text": "It changes the word's meaning",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "It joins the spoken chunks into the whole word This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY09-P-036",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Reading and Writing Multisyllabic Words",
+    "question": "While reading the word fantastic, what should a reader do after blending the word?",
+    "audio_prompt": "While reading the word fantastic, what should a reader do after blending the word?",
+    "answers": [
+      {
+        "text": "Ignore sentence meaning",
+        "is_correct": false
+      },
+      {
+        "text": "Spell a different word",
+        "is_correct": false
+      },
+      {
+        "text": "Check that it sounds like a word and fits the sentence",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check that it sounds like a word and fits the sentence This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY09-P-037",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Reading and Writing Multisyllabic Words",
+    "question": "While reading the word fantastic, which strategy helps write a multisyllabic word?",
+    "audio_prompt": "While reading the word fantastic, which strategy helps write a multisyllabic word?",
+    "answers": [
+      {
+        "text": "Say each syllable slowly and map its sound patterns",
+        "is_correct": true
+      },
+      {
+        "text": "Write only the first syllable",
+        "is_correct": false
+      },
+      {
+        "text": "Add letters until it looks long",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Say each syllable slowly and map its sound patterns This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY09-P-038",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Reading and Writing Multisyllabic Words",
+    "question": "While reading the word fantastic, why can a familiar word part help?",
+    "audio_prompt": "While reading the word fantastic, why can a familiar word part help?",
+    "answers": [
+      {
+        "text": "It proves every similar word rhymes",
+        "is_correct": false
+      },
+      {
+        "text": "It reduces the word into known meaningful or pronounceable parts",
+        "is_correct": true
+      },
+      {
+        "text": "It makes grammar unnecessary",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "It reduces the word into known meaningful or pronounceable parts This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY09-P-039",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Reading and Writing Multisyllabic Words",
+    "question": "While reading the word fantastic, a spoken word has three clear beats. What can the writer do?",
+    "audio_prompt": "While reading the word fantastic, a spoken word has three clear beats. What can the writer do?",
+    "answers": [
+      {
+        "text": "Use three random letters",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out the quietest syllable",
+        "is_correct": false
+      },
+      {
+        "text": "Record one syllable at a time, then check the whole spelling",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Record one syllable at a time, then check the whole spelling This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY09-P-040",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Reading and Writing Multisyllabic Words",
+    "question": "While reading the word fantastic, which check combines decoding clues?",
+    "audio_prompt": "While reading the word fantastic, which check combines decoding clues?",
+    "answers": [
+      {
+        "text": "Use letter patterns, syllables and sentence meaning together",
+        "is_correct": true
+      },
+      {
+        "text": "Use the picture alone",
+        "is_correct": false
+      },
+      {
+        "text": "Use only the final letter name",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use letter patterns, syllables and sentence meaning together This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY09-T-001",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY09",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Reading and Writing Multisyllabic Words",
+    "question": "While reading the word remember, what is the best first step for reading a long unfamiliar word?",
+    "audio_prompt": "While reading the word remember, what is the best first step for reading a long unfamiliar word?",
+    "answers": [
+      {
+        "text": "Say only its first letter name",
+        "is_correct": false
+      },
+      {
+        "text": "Look for pronounceable syllable chunks",
+        "is_correct": true
+      },
+      {
+        "text": "Guess from word length",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
     "explanation": {
       "summary": "Look for pronounceable syllable chunks This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
@@ -911,29 +1235,25 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY09",
     "bank": "test",
+    "stage": "verify",
     "skill": "Reading and Writing Multisyllabic Words",
     "question": "While reading the word remember, which description shows correct syllable chunking?",
     "audio_prompt": "While reading the word remember, which description shows correct syllable chunking?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly09.svg#ac9e3ly09-t-002",
-      "alt_text": "A classroom English model for while reading the word remember showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Say only the first letter name, then guess",
         "is_correct": false
       },
       {
-        "text": "Say each complete spoken syllable in order",
-        "is_correct": true
-      },
-      {
         "text": "Split the word wherever it looks longest",
         "is_correct": false
+      },
+      {
+        "text": "Say each complete spoken syllable in order",
+        "is_correct": true
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
       "summary": "Say each complete spoken syllable in order This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
@@ -945,15 +1265,15 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY09",
     "bank": "test",
+    "stage": "verify",
     "skill": "Reading and Writing Multisyllabic Words",
     "question": "While reading the word remember, how does blending help after finding syllables?",
     "audio_prompt": "While reading the word remember, how does blending help after finding syllables?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly09.svg#ac9e3ly09-t-003",
-      "alt_text": "A classroom English model for while reading the word remember showing the evidence needed for this task"
-    },
     "answers": [
+      {
+        "text": "It joins the spoken chunks into the whole word",
+        "is_correct": true
+      },
       {
         "text": "It removes the middle of the word",
         "is_correct": false
@@ -961,13 +1281,9 @@
       {
         "text": "It changes the word's meaning",
         "is_correct": false
-      },
-      {
-        "text": "It joins the spoken chunks into the whole word",
-        "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
       "summary": "It joins the spoken chunks into the whole word This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
@@ -979,29 +1295,25 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY09",
     "bank": "test",
+    "stage": "verify",
     "skill": "Reading and Writing Multisyllabic Words",
     "question": "While reading the word remember, what should a reader do after blending the word?",
     "audio_prompt": "While reading the word remember, what should a reader do after blending the word?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly09.svg#ac9e3ly09-t-004",
-      "alt_text": "A classroom English model for while reading the word remember showing the evidence needed for this task"
-    },
     "answers": [
-      {
-        "text": "Check that it sounds like a word and fits the sentence",
-        "is_correct": true
-      },
       {
         "text": "Ignore sentence meaning",
         "is_correct": false
+      },
+      {
+        "text": "Check that it sounds like a word and fits the sentence",
+        "is_correct": true
       },
       {
         "text": "Spell a different word",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
       "summary": "Check that it sounds like a word and fits the sentence This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
@@ -1013,29 +1325,25 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY09",
     "bank": "test",
+    "stage": "verify",
     "skill": "Reading and Writing Multisyllabic Words",
     "question": "While reading the word remember, which strategy helps write a multisyllabic word?",
     "audio_prompt": "While reading the word remember, which strategy helps write a multisyllabic word?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly09.svg#ac9e3ly09-t-005",
-      "alt_text": "A classroom English model for while reading the word remember showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Write only the first syllable",
         "is_correct": false
       },
       {
-        "text": "Say each syllable slowly and map its sound patterns",
-        "is_correct": true
-      },
-      {
         "text": "Add letters until it looks long",
         "is_correct": false
+      },
+      {
+        "text": "Say each syllable slowly and map its sound patterns",
+        "is_correct": true
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
       "summary": "Say each syllable slowly and map its sound patterns This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
@@ -1047,15 +1355,15 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY09",
     "bank": "test",
+    "stage": "verify",
     "skill": "Reading and Writing Multisyllabic Words",
     "question": "While reading the word remember, why can a familiar word part help?",
     "audio_prompt": "While reading the word remember, why can a familiar word part help?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly09.svg#ac9e3ly09-t-006",
-      "alt_text": "A classroom English model for while reading the word remember showing the evidence needed for this task"
-    },
     "answers": [
+      {
+        "text": "It reduces the word into known meaningful or pronounceable parts",
+        "is_correct": true
+      },
       {
         "text": "It proves every similar word rhymes",
         "is_correct": false
@@ -1063,13 +1371,9 @@
       {
         "text": "It makes grammar unnecessary",
         "is_correct": false
-      },
-      {
-        "text": "It reduces the word into known meaningful or pronounceable parts",
-        "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
       "summary": "It reduces the word into known meaningful or pronounceable parts This explanation follows the relevant Year 3 English evidence.",
       "hint": "Use the wording, structure and context before choosing."
@@ -1081,29 +1385,25 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY09",
     "bank": "test",
+    "stage": "verify",
     "skill": "Reading and Writing Multisyllabic Words",
     "question": "While reading the word remember, a spoken word has three clear beats. What can the writer do?",
     "audio_prompt": "While reading the word remember, a spoken word has three clear beats. What can the writer do?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly09.svg#ac9e3ly09-t-007",
-      "alt_text": "A classroom English model for while reading the word remember showing the evidence needed for this task"
-    },
     "answers": [
-      {
-        "text": "Record one syllable at a time, then check the whole spelling",
-        "is_correct": true
-      },
       {
         "text": "Use three random letters",
         "is_correct": false
+      },
+      {
+        "text": "Record one syllable at a time, then check the whole spelling",
+        "is_correct": true
       },
       {
         "text": "Leave out the quietest syllable",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
       "summary": "Record one syllable at a time, then check the whole spelling This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
@@ -1115,29 +1415,25 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY09",
     "bank": "test",
+    "stage": "verify",
     "skill": "Reading and Writing Multisyllabic Words",
     "question": "While reading the word remember, which check combines decoding clues?",
     "audio_prompt": "While reading the word remember, which check combines decoding clues?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly09.svg#ac9e3ly09-t-008",
-      "alt_text": "A classroom English model for while reading the word remember showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Use the picture alone",
         "is_correct": false
       },
       {
-        "text": "Use letter patterns, syllables and sentence meaning together",
-        "is_correct": true
-      },
-      {
         "text": "Use only the final letter name",
         "is_correct": false
+      },
+      {
+        "text": "Use letter patterns, syllables and sentence meaning together",
+        "is_correct": true
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
       "summary": "Use letter patterns, syllables and sentence meaning together This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
@@ -1149,15 +1445,15 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY09",
     "bank": "test",
+    "stage": "apply",
     "skill": "Reading and Writing Multisyllabic Words",
     "question": "While reading the word carefully, what is the best first step for reading a long unfamiliar word?",
     "audio_prompt": "While reading the word carefully, what is the best first step for reading a long unfamiliar word?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly09.svg#ac9e3ly09-t-009",
-      "alt_text": "A classroom English model for while reading the word carefully showing the evidence needed for this task"
-    },
     "answers": [
+      {
+        "text": "Look for pronounceable syllable chunks",
+        "is_correct": true
+      },
       {
         "text": "Say only its first letter name",
         "is_correct": false
@@ -1165,13 +1461,9 @@
       {
         "text": "Guess from word length",
         "is_correct": false
-      },
-      {
-        "text": "Look for pronounceable syllable chunks",
-        "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
       "summary": "Look for pronounceable syllable chunks This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
@@ -1183,29 +1475,25 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY09",
     "bank": "test",
+    "stage": "apply",
     "skill": "Reading and Writing Multisyllabic Words",
     "question": "While reading the word carefully, which description shows correct syllable chunking?",
     "audio_prompt": "While reading the word carefully, which description shows correct syllable chunking?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly09.svg#ac9e3ly09-t-010",
-      "alt_text": "A classroom English model for while reading the word carefully showing the evidence needed for this task"
-    },
     "answers": [
-      {
-        "text": "Say each complete spoken syllable in order",
-        "is_correct": true
-      },
       {
         "text": "Say only the first letter name, then guess",
         "is_correct": false
+      },
+      {
+        "text": "Say each complete spoken syllable in order",
+        "is_correct": true
       },
       {
         "text": "Split the word wherever it looks longest",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
       "summary": "Say each complete spoken syllable in order This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
@@ -1217,29 +1505,25 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY09",
     "bank": "test",
+    "stage": "apply",
     "skill": "Reading and Writing Multisyllabic Words",
     "question": "While reading the word carefully, how does blending help after finding syllables?",
     "audio_prompt": "While reading the word carefully, how does blending help after finding syllables?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly09.svg#ac9e3ly09-t-011",
-      "alt_text": "A classroom English model for while reading the word carefully showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "It removes the middle of the word",
         "is_correct": false
       },
       {
-        "text": "It joins the spoken chunks into the whole word",
-        "is_correct": true
-      },
-      {
         "text": "It changes the word's meaning",
         "is_correct": false
+      },
+      {
+        "text": "It joins the spoken chunks into the whole word",
+        "is_correct": true
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
       "summary": "It joins the spoken chunks into the whole word This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
@@ -1251,15 +1535,15 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY09",
     "bank": "test",
+    "stage": "apply",
     "skill": "Reading and Writing Multisyllabic Words",
     "question": "While reading the word carefully, what should a reader do after blending the word?",
     "audio_prompt": "While reading the word carefully, what should a reader do after blending the word?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly09.svg#ac9e3ly09-t-012",
-      "alt_text": "A classroom English model for while reading the word carefully showing the evidence needed for this task"
-    },
     "answers": [
+      {
+        "text": "Check that it sounds like a word and fits the sentence",
+        "is_correct": true
+      },
       {
         "text": "Ignore sentence meaning",
         "is_correct": false
@@ -1267,13 +1551,9 @@
       {
         "text": "Spell a different word",
         "is_correct": false
-      },
-      {
-        "text": "Check that it sounds like a word and fits the sentence",
-        "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
       "summary": "Check that it sounds like a word and fits the sentence This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
@@ -1285,29 +1565,25 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY09",
     "bank": "test",
+    "stage": "apply",
     "skill": "Reading and Writing Multisyllabic Words",
     "question": "While reading the word carefully, which strategy helps write a multisyllabic word?",
     "audio_prompt": "While reading the word carefully, which strategy helps write a multisyllabic word?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly09.svg#ac9e3ly09-t-013",
-      "alt_text": "A classroom English model for while reading the word carefully showing the evidence needed for this task"
-    },
     "answers": [
-      {
-        "text": "Say each syllable slowly and map its sound patterns",
-        "is_correct": true
-      },
       {
         "text": "Write only the first syllable",
         "is_correct": false
+      },
+      {
+        "text": "Say each syllable slowly and map its sound patterns",
+        "is_correct": true
       },
       {
         "text": "Add letters until it looks long",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
       "summary": "Say each syllable slowly and map its sound patterns This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
@@ -1319,29 +1595,25 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY09",
     "bank": "test",
+    "stage": "apply",
     "skill": "Reading and Writing Multisyllabic Words",
     "question": "While reading the word carefully, why can a familiar word part help?",
     "audio_prompt": "While reading the word carefully, why can a familiar word part help?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly09.svg#ac9e3ly09-t-014",
-      "alt_text": "A classroom English model for while reading the word carefully showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "It proves every similar word rhymes",
         "is_correct": false
       },
       {
-        "text": "It reduces the word into known meaningful or pronounceable parts",
-        "is_correct": true
-      },
-      {
         "text": "It makes grammar unnecessary",
         "is_correct": false
+      },
+      {
+        "text": "It reduces the word into known meaningful or pronounceable parts",
+        "is_correct": true
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
       "summary": "It reduces the word into known meaningful or pronounceable parts This explanation follows the relevant Year 3 English evidence.",
       "hint": "Use the wording, structure and context before choosing."
@@ -1353,15 +1625,15 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY09",
     "bank": "test",
+    "stage": "apply",
     "skill": "Reading and Writing Multisyllabic Words",
     "question": "While reading the word carefully, a spoken word has three clear beats. What can the writer do?",
     "audio_prompt": "While reading the word carefully, a spoken word has three clear beats. What can the writer do?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly09.svg#ac9e3ly09-t-015",
-      "alt_text": "A classroom English model for while reading the word carefully showing the evidence needed for this task"
-    },
     "answers": [
+      {
+        "text": "Record one syllable at a time, then check the whole spelling",
+        "is_correct": true
+      },
       {
         "text": "Use three random letters",
         "is_correct": false
@@ -1369,13 +1641,9 @@
       {
         "text": "Leave out the quietest syllable",
         "is_correct": false
-      },
-      {
-        "text": "Record one syllable at a time, then check the whole spelling",
-        "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
       "summary": "Record one syllable at a time, then check the whole spelling This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
@@ -1387,29 +1655,25 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY09",
     "bank": "test",
+    "stage": "apply",
     "skill": "Reading and Writing Multisyllabic Words",
     "question": "While reading the word carefully, which check combines decoding clues?",
     "audio_prompt": "While reading the word carefully, which check combines decoding clues?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly09.svg#ac9e3ly09-t-016",
-      "alt_text": "A classroom English model for while reading the word carefully showing the evidence needed for this task"
-    },
     "answers": [
-      {
-        "text": "Use letter patterns, syllables and sentence meaning together",
-        "is_correct": true
-      },
       {
         "text": "Use the picture alone",
         "is_correct": false
+      },
+      {
+        "text": "Use letter patterns, syllables and sentence meaning together",
+        "is_correct": true
       },
       {
         "text": "Use only the final letter name",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
       "summary": "Use letter patterns, syllables and sentence meaning together This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
