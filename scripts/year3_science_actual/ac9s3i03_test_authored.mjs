@@ -5,7 +5,7 @@ export const test=[
 ['Which unit is suitable for elapsed time?',['seconds','centimetres','millilitres','grams'],0,'Seconds measure time.','Think time.'],
 ['A student measures water as 75 mL. What quantity is this?',['Volume','Mass','Temperature','Length'],0,'Millilitres measure liquid volume.','mL = volume.'],
 ['Which observation is safest?',['Look at an unknown leaf with a hand lens','Taste the leaf','Rub it in your eyes','Chew a small piece'],0,'Visual observation avoids unnecessary exposure.','Do not taste unknown materials.'],
-['Why repeat a measurement?',['To check consistency','To guarantee the prediction','To remove units','To make values identical'],0,'Repeats can reveal variation or errors.','Compare repeated readings.'],
+['A class times the same ramp run several times. Why are repeated measurements useful?',['To check consistency','To guarantee the prediction','To remove units','To make values identical'],0,'Repeats can reveal variation or errors.','Compare repeated readings.'],
 ['An object starts at 4 cm and ends at 19 cm on a ruler. Its length is:',['15 cm','19 cm','23 cm','4 cm'],0,'19 − 4 = 15 cm.','Subtract the starting mark.'],
 ['Which result should be checked because it is very different?',['12 cm, 13 cm, 47 cm','12 cm, 13 cm, 12 cm','30 s, 31 s, 30 s','20 mL, 21 mL, 20 mL'],0,'47 cm is far from the other readings.','Find the unusual value.'],
 ['What does a thermometer measure?',['Temperature','Mass','Time','Volume'],0,'Thermometers measure temperature.','Think °C.'],
