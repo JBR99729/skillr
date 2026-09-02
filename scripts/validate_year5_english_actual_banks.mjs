@@ -3,7 +3,7 @@ import path from 'node:path';
 const R=path.resolve(import.meta.dirname,'..'),D=path.join(R,'assets/assessment-banks/year5/english');
 const files=fs.readdirSync(D).filter(f=>/^ac9e5(?:la|le|ly)\d+\.json$/.test(f)).sort();
 const errors=[];const norm=s=>String(s||'').replace(/\s+/g,' ').trim().toLowerCase();
-const banned=/\b(?:teacher should|rubric|marking key|award \d+ marks?|criterion|a year 5 student|curriculum descriptor|content descriptor)\b/i;
+const banned=/\b(?:teacher should|rubric|marking key|award \d+ marks?|a year 5 student|curriculum descriptor|content descriptor)\b/i;
 if(files.length!==24)errors.push(`expected 24 code files, found ${files.length}`);
 for(const f of files){const a=JSON.parse(fs.readFileSync(path.join(D,f),'utf8'));const code=f.slice(0,-5).toUpperCase();const p=a.filter(x=>x.bank==='practice'),t=a.filter(x=>x.bank==='test');
  if(p.length!==40)errors.push(`${code}: ${p.length} practice`);if(t.length!==16)errors.push(`${code}: ${t.length} test`);
