@@ -16,14 +16,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape determining and applying criteria for evaluating the content of a website.",
+      "A writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and influence how an audience understands the text.",
+      "A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience.",
+      "A writer or speaker can use structure to shape determining and applying criteria for evaluating the content of a website and influence how an audience understands the text.",
       "The feature has one fixed effect in every text, regardless of audience or purpose."
     ],
     "correct": 1,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its.",
+    "explanation": "A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 1
@@ -44,14 +44,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape determining and applying criteria for evaluating the content of a website.",
+      "A writer or speaker can use structure to shape determining and applying criteria for evaluating the content of a website and influence how an audience understands the text.",
       "Naming the feature is enough; evidence from the text is unnecessary.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its.",
+      "A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience.",
       "The most formal or complicated wording is automatically the best choice."
     ],
     "correct": 2,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its.",
+    "explanation": "A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 2
@@ -72,14 +72,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and.",
+      "A writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and influence how an audience understands the text.",
       "The most formal or complicated wording is automatically the best choice.",
       "One isolated word proves the whole interpretation without needing context.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its."
+      "A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience."
     ],
     "correct": 3,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its.",
+    "explanation": "A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 3
@@ -100,14 +100,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape determining and applying criteria for evaluating the content of a website.",
+      "A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience.",
+      "A writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and influence how an audience understands the text.",
+      "A writer or speaker can use structure to shape determining and applying criteria for evaluating the content of a website and influence how an audience understands the text.",
       "One isolated word proves the whole interpretation without needing context."
     ],
     "correct": 0,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its.",
+    "explanation": "A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 4
@@ -128,14 +128,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape determining and applying criteria for evaluating the content of a website.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its.",
+      "A writer or speaker can use structure to shape determining and applying criteria for evaluating the content of a website and influence how an audience understands the text.",
+      "A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience.",
       "The feature changes only surface style and cannot shape meaning.",
       "Any interpretation is equally strong even when it lacks supporting evidence."
     ],
     "correct": 1,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not assume that longer or more formal language is automatically stronger. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its.",
+    "explanation": "A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 5
@@ -156,14 +156,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and.",
+      "A writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and influence how an audience understands the text.",
       "Any interpretation is equally strong even when it lacks supporting evidence.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its.",
+      "A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience.",
       "Using more of the feature will always improve a text."
     ],
     "correct": 2,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Separate what the text actually shows from what a reader merely prefers. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its.",
+    "explanation": "A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 6
@@ -184,14 +184,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape determining and applying criteria for evaluating the content of a website.",
+      "A writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and influence how an audience understands the text.",
+      "A writer or speaker can use structure to shape determining and applying criteria for evaluating the content of a website and influence how an audience understands the text.",
       "Using more of the feature will always improve a text.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its."
+      "A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience."
     ],
     "correct": 3,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its.",
+    "explanation": "A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 7
@@ -212,14 +212,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape determining and applying criteria for evaluating the content of a website.",
+      "A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience.",
+      "A writer or speaker can use structure to shape determining and applying criteria for evaluating the content of a website and influence how an audience understands the text.",
       "Audience and purpose do not matter once the feature has been identified.",
       "The feature has one fixed effect in every text, regardless of audience or purpose."
     ],
     "correct": 0,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its.",
+    "explanation": "A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 8
@@ -240,14 +240,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its.",
+      "A writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and influence how an audience understands the text.",
+      "A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience.",
       "The feature has one fixed effect in every text, regardless of audience or purpose.",
       "Naming the feature is enough; evidence from the text is unnecessary."
     ],
     "correct": 1,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its.",
+    "explanation": "A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 9
@@ -268,14 +268,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape determining and applying criteria for evaluating the content of a website.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its.",
+      "A writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and influence how an audience understands the text.",
+      "A writer or speaker can use structure to shape determining and applying criteria for evaluating the content of a website and influence how an audience understands the text.",
+      "A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience.",
       "Naming the feature is enough; evidence from the text is unnecessary."
     ],
     "correct": 2,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its.",
+    "explanation": "A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 10
@@ -296,14 +296,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape determining and applying criteria for evaluating the content of a website.",
+      "A writer or speaker can use structure to shape determining and applying criteria for evaluating the content of a website and influence how an audience understands the text.",
       "The most formal or complicated wording is automatically the best choice.",
       "One isolated word proves the whole interpretation without needing context.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its."
+      "A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience."
     ],
     "correct": 3,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not assume that longer or more formal language is automatically stronger. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its.",
+    "explanation": "A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 11
@@ -324,14 +324,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and.",
+      "A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience.",
+      "A writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and influence how an audience understands the text.",
       "One isolated word proves the whole interpretation without needing context.",
       "The feature changes only surface style and cannot shape meaning."
     ],
     "correct": 0,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Separate what the text actually shows from what a reader merely prefers. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its.",
+    "explanation": "A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 12
@@ -352,14 +352,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape determining and applying criteria for evaluating the content of a website.",
+      "A writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and influence how an audience understands the text.",
+      "A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience.",
+      "A writer or speaker can use structure to shape determining and applying criteria for evaluating the content of a website and influence how an audience understands the text.",
       "The feature changes only surface style and cannot shape meaning."
     ],
     "correct": 1,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its.",
+    "explanation": "A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 13
@@ -380,14 +380,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape determining and applying criteria for evaluating the content of a website.",
+      "A writer or speaker can use structure to shape determining and applying criteria for evaluating the content of a website and influence how an audience understands the text.",
       "Any interpretation is equally strong even when it lacks supporting evidence.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its.",
+      "A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience.",
       "Using more of the feature will always improve a text."
     ],
     "correct": 2,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its.",
+    "explanation": "A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 14
@@ -408,14 +408,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and.",
+      "A writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and influence how an audience understands the text.",
       "Using more of the feature will always improve a text.",
       "Audience and purpose do not matter once the feature has been identified.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its."
+      "A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience."
     ],
     "correct": 3,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its.",
+    "explanation": "A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 15
@@ -436,14 +436,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape determining and applying criteria for evaluating the content of a website.",
+      "A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience.",
+      "A writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and influence how an audience understands the text.",
+      "A writer or speaker can use structure to shape determining and applying criteria for evaluating the content of a website and influence how an audience understands the text.",
       "Audience and purpose do not matter once the feature has been identified."
     ],
     "correct": 0,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its.",
+    "explanation": "A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 16

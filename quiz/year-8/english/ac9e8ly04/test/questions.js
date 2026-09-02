@@ -16,14 +16,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape examining texts that structure ideas according to proposition and.",
-      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience."
+      "A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence how an audience understands the text.",
+      "A writer or speaker can use structure to shape examining texts that structure ideas according to proposition and support, cause and effect, and compare and contrast, and determine their effectiveness and.",
+      "A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and influence how an audience understands the text.",
+      "A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience understands the text."
     ],
     "correct": 1,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape examining texts that structure ideas according to proposition and. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape examining texts that structure ideas according to proposition and.",
+    "explanation": "A writer or speaker can use structure to shape examining texts that structure ideas according to proposition and support, cause and effect, and compare and contrast, and determine their effectiveness and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use structure to shape examining texts that structure ideas according to proposition and support, cause and effect, and compare and contrast, and determine their effectiveness and.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 1
@@ -44,14 +44,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence.",
-      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience.",
+      "A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence how an audience understands the text.",
+      "A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and influence how an audience understands the text.",
+      "A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience understands the text.",
       "Naming the feature is enough; evidence from the text is unnecessary."
     ],
     "correct": 2,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience.",
+    "explanation": "A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience understands the text.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 2
@@ -72,14 +72,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience.",
+      "A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence how an audience understands the text.",
+      "A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience understands the text.",
       "The most formal or complicated wording is automatically the best choice.",
-      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and."
+      "A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and influence how an audience understands the text."
     ],
     "correct": 3,
-    "explanation": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and.",
+    "explanation": "A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and influence how an audience understands the text.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 3
@@ -100,14 +100,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence.",
-      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience.",
+      "A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence how an audience understands the text.",
+      "A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and influence how an audience understands the text.",
+      "A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience understands the text.",
       "One isolated word proves the whole interpretation without needing context."
     ],
     "correct": 0,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence.",
+    "explanation": "A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence how an audience understands the text.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 4
@@ -128,14 +128,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape examining texts that structure ideas according to proposition and.",
-      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience."
+      "A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence how an audience understands the text.",
+      "A writer or speaker can use structure to shape examining texts that structure ideas according to proposition and support, cause and effect, and compare and contrast, and determine their effectiveness and.",
+      "A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and influence how an audience understands the text.",
+      "A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience understands the text."
     ],
     "correct": 1,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape examining texts that structure ideas according to proposition and. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not assume that longer or more formal language is automatically stronger. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape examining texts that structure ideas according to proposition and.",
+    "explanation": "A writer or speaker can use structure to shape examining texts that structure ideas according to proposition and support, cause and effect, and compare and contrast, and determine their effectiveness and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use structure to shape examining texts that structure ideas according to proposition and support, cause and effect, and compare and contrast, and determine their effectiveness and.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 5
@@ -156,14 +156,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence.",
-      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience.",
+      "A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence how an audience understands the text.",
+      "A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and influence how an audience understands the text.",
+      "A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience understands the text.",
       "Any interpretation is equally strong even when it lacks supporting evidence."
     ],
     "correct": 2,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Separate what the text actually shows from what a reader merely prefers. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience.",
+    "explanation": "A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience understands the text.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 6
@@ -184,14 +184,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience.",
+      "A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence how an audience understands the text.",
+      "A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience understands the text.",
       "Using more of the feature will always improve a text.",
-      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and."
+      "A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and influence how an audience understands the text."
     ],
     "correct": 3,
-    "explanation": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and.",
+    "explanation": "A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and influence how an audience understands the text.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 7
@@ -212,14 +212,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence.",
-      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience.",
+      "A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence how an audience understands the text.",
+      "A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and influence how an audience understands the text.",
+      "A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience understands the text.",
       "Audience and purpose do not matter once the feature has been identified."
     ],
     "correct": 0,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence.",
+    "explanation": "A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence how an audience understands the text.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 8
@@ -240,14 +240,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape examining texts that structure ideas according to proposition and.",
-      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience."
+      "A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence how an audience understands the text.",
+      "A writer or speaker can use structure to shape examining texts that structure ideas according to proposition and support, cause and effect, and compare and contrast, and determine their effectiveness and.",
+      "A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and influence how an audience understands the text.",
+      "A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience understands the text."
     ],
     "correct": 1,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape examining texts that structure ideas according to proposition and. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape examining texts that structure ideas according to proposition and.",
+    "explanation": "A writer or speaker can use structure to shape examining texts that structure ideas according to proposition and support, cause and effect, and compare and contrast, and determine their effectiveness and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use structure to shape examining texts that structure ideas according to proposition and support, cause and effect, and compare and contrast, and determine their effectiveness and.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 9
@@ -268,14 +268,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence.",
-      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience.",
+      "A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence how an audience understands the text.",
+      "A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and influence how an audience understands the text.",
+      "A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience understands the text.",
       "Naming the feature is enough; evidence from the text is unnecessary."
     ],
     "correct": 2,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience.",
+    "explanation": "A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience understands the text.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 10
@@ -296,14 +296,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience.",
+      "A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence how an audience understands the text.",
+      "A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience understands the text.",
       "The most formal or complicated wording is automatically the best choice.",
-      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and."
+      "A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and influence how an audience understands the text."
     ],
     "correct": 3,
-    "explanation": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not assume that longer or more formal language is automatically stronger. A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and.",
+    "explanation": "A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and influence how an audience understands the text.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 11
@@ -324,14 +324,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence.",
-      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience.",
+      "A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence how an audience understands the text.",
+      "A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and influence how an audience understands the text.",
+      "A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience understands the text.",
       "One isolated word proves the whole interpretation without needing context."
     ],
     "correct": 0,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Separate what the text actually shows from what a reader merely prefers. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence.",
+    "explanation": "A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence how an audience understands the text.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 12
@@ -352,14 +352,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape examining texts that structure ideas according to proposition and.",
-      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience."
+      "A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence how an audience understands the text.",
+      "A writer or speaker can use structure to shape examining texts that structure ideas according to proposition and support, cause and effect, and compare and contrast, and determine their effectiveness and.",
+      "A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and influence how an audience understands the text.",
+      "A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience understands the text."
     ],
     "correct": 1,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape examining texts that structure ideas according to proposition and. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape examining texts that structure ideas according to proposition and.",
+    "explanation": "A writer or speaker can use structure to shape examining texts that structure ideas according to proposition and support, cause and effect, and compare and contrast, and determine their effectiveness and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use structure to shape examining texts that structure ideas according to proposition and support, cause and effect, and compare and contrast, and determine their effectiveness and.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 13
@@ -380,14 +380,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence.",
-      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience.",
+      "A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence how an audience understands the text.",
+      "A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and influence how an audience understands the text.",
+      "A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience understands the text.",
       "Any interpretation is equally strong even when it lacks supporting evidence."
     ],
     "correct": 2,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience.",
+    "explanation": "A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience understands the text.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 14
@@ -408,14 +408,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience.",
+      "A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence how an audience understands the text.",
+      "A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience understands the text.",
       "Using more of the feature will always improve a text.",
-      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and."
+      "A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and influence how an audience understands the text."
     ],
     "correct": 3,
-    "explanation": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and.",
+    "explanation": "A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and influence how an audience understands the text.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 15
@@ -436,14 +436,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence.",
-      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience.",
+      "A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence how an audience understands the text.",
+      "A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and influence how an audience understands the text.",
+      "A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience understands the text.",
       "Audience and purpose do not matter once the feature has been identified."
     ],
     "correct": 0,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence.",
+    "explanation": "A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence how an audience understands the text.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 16

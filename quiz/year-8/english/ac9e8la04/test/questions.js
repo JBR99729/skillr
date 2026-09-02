@@ -17,13 +17,13 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "The feature has one fixed effect in every text, regardless of audience or purpose.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a.",
+      "A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text.",
       "Naming the feature is enough; evidence from the text is unnecessary.",
       "The most formal or complicated wording is automatically the best choice."
     ],
     "correct": 1,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a.",
+    "explanation": "A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 1
@@ -46,12 +46,12 @@ window.skillrTestQuestions = [
     "answers": [
       "Naming the feature is enough; evidence from the text is unnecessary.",
       "The most formal or complicated wording is automatically the best choice.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a.",
+      "A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text.",
       "One isolated word proves the whole interpretation without needing context."
     ],
     "correct": 2,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a.",
+    "explanation": "A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 2
@@ -75,11 +75,11 @@ window.skillrTestQuestions = [
       "The most formal or complicated wording is automatically the best choice.",
       "One isolated word proves the whole interpretation without needing context.",
       "The feature changes only surface style and cannot shape meaning.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a."
+      "A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text."
     ],
     "correct": 3,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a.",
+    "explanation": "A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 3
@@ -100,14 +100,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a.",
+      "A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text.",
       "One isolated word proves the whole interpretation without needing context.",
       "The feature changes only surface style and cannot shape meaning.",
       "Any interpretation is equally strong even when it lacks supporting evidence."
     ],
     "correct": 0,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a.",
+    "explanation": "A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 4
@@ -129,13 +129,13 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "The feature changes only surface style and cannot shape meaning.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a.",
+      "A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text.",
       "Any interpretation is equally strong even when it lacks supporting evidence.",
       "Using more of the feature will always improve a text."
     ],
     "correct": 1,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not assume that longer or more formal language is automatically stronger. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a.",
+    "explanation": "A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 5
@@ -158,12 +158,12 @@ window.skillrTestQuestions = [
     "answers": [
       "Any interpretation is equally strong even when it lacks supporting evidence.",
       "Using more of the feature will always improve a text.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a.",
+      "A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text.",
       "Audience and purpose do not matter once the feature has been identified."
     ],
     "correct": 2,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Separate what the text actually shows from what a reader merely prefers. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a.",
+    "explanation": "A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 6
@@ -187,11 +187,11 @@ window.skillrTestQuestions = [
       "Using more of the feature will always improve a text.",
       "Audience and purpose do not matter once the feature has been identified.",
       "The feature has one fixed effect in every text, regardless of audience or purpose.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a."
+      "A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text."
     ],
     "correct": 3,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a.",
+    "explanation": "A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 7
@@ -212,14 +212,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a.",
+      "A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text.",
       "Audience and purpose do not matter once the feature has been identified.",
       "The feature has one fixed effect in every text, regardless of audience or purpose.",
       "Naming the feature is enough; evidence from the text is unnecessary."
     ],
     "correct": 0,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a.",
+    "explanation": "A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 8
@@ -241,13 +241,13 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "The feature has one fixed effect in every text, regardless of audience or purpose.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a.",
+      "A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text.",
       "Naming the feature is enough; evidence from the text is unnecessary.",
       "The most formal or complicated wording is automatically the best choice."
     ],
     "correct": 1,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a.",
+    "explanation": "A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 9
@@ -270,12 +270,12 @@ window.skillrTestQuestions = [
     "answers": [
       "Naming the feature is enough; evidence from the text is unnecessary.",
       "The most formal or complicated wording is automatically the best choice.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a.",
+      "A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text.",
       "One isolated word proves the whole interpretation without needing context."
     ],
     "correct": 2,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a.",
+    "explanation": "A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 10
@@ -299,11 +299,11 @@ window.skillrTestQuestions = [
       "The most formal or complicated wording is automatically the best choice.",
       "One isolated word proves the whole interpretation without needing context.",
       "The feature changes only surface style and cannot shape meaning.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a."
+      "A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text."
     ],
     "correct": 3,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not assume that longer or more formal language is automatically stronger. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a.",
+    "explanation": "A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 11
@@ -324,14 +324,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a.",
+      "A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text.",
       "One isolated word proves the whole interpretation without needing context.",
       "The feature changes only surface style and cannot shape meaning.",
       "Any interpretation is equally strong even when it lacks supporting evidence."
     ],
     "correct": 0,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Separate what the text actually shows from what a reader merely prefers. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a.",
+    "explanation": "A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 12
@@ -353,13 +353,13 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "The feature changes only surface style and cannot shape meaning.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a.",
+      "A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text.",
       "Any interpretation is equally strong even when it lacks supporting evidence.",
       "Using more of the feature will always improve a text."
     ],
     "correct": 1,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a.",
+    "explanation": "A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 13
@@ -382,12 +382,12 @@ window.skillrTestQuestions = [
     "answers": [
       "Any interpretation is equally strong even when it lacks supporting evidence.",
       "Using more of the feature will always improve a text.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a.",
+      "A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text.",
       "Audience and purpose do not matter once the feature has been identified."
     ],
     "correct": 2,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a.",
+    "explanation": "A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 14
@@ -411,11 +411,11 @@ window.skillrTestQuestions = [
       "Using more of the feature will always improve a text.",
       "Audience and purpose do not matter once the feature has been identified.",
       "The feature has one fixed effect in every text, regardless of audience or purpose.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a."
+      "A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text."
     ],
     "correct": 3,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a.",
+    "explanation": "A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 15
@@ -436,14 +436,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a.",
+      "A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text.",
       "Audience and purpose do not matter once the feature has been identified.",
       "The feature has one fixed effect in every text, regardless of audience or purpose.",
       "Naming the feature is enough; evidence from the text is unnecessary."
     ],
     "correct": 0,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a.",
+    "explanation": "A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 16

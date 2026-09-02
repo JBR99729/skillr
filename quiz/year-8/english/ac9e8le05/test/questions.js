@@ -16,14 +16,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
+      "A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text.",
+      "A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an.",
+      "A writer or speaker can use representation to shape examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning and influence.",
       "The feature has one fixed effect in every text, regardless of audience or purpose."
     ],
     "correct": 1,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
+    "explanation": "A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 1
@@ -44,14 +44,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
+      "A writer or speaker can use representation to shape examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning and influence.",
       "Naming the feature is enough; evidence from the text is unnecessary.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
+      "A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an.",
       "The most formal or complicated wording is automatically the best choice."
     ],
     "correct": 2,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
+    "explanation": "A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 2
@@ -72,14 +72,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
+      "A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text.",
       "The most formal or complicated wording is automatically the best choice.",
       "One isolated word proves the whole interpretation without needing context.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to."
+      "A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an."
     ],
     "correct": 3,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
+    "explanation": "A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 3
@@ -100,14 +100,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
+      "A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an.",
+      "A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text.",
+      "A writer or speaker can use representation to shape examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning and influence.",
       "One isolated word proves the whole interpretation without needing context."
     ],
     "correct": 0,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
+    "explanation": "A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 4
@@ -128,14 +128,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
+      "A writer or speaker can use representation to shape examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning and influence.",
+      "A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an.",
       "The feature changes only surface style and cannot shape meaning.",
       "Any interpretation is equally strong even when it lacks supporting evidence."
     ],
     "correct": 1,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not assume that longer or more formal language is automatically stronger. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
+    "explanation": "A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 5
@@ -156,14 +156,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
+      "A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text.",
       "Any interpretation is equally strong even when it lacks supporting evidence.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
+      "A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an.",
       "Using more of the feature will always improve a text."
     ],
     "correct": 2,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Separate what the text actually shows from what a reader merely prefers. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
+    "explanation": "A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 6
@@ -184,14 +184,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
+      "A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text.",
+      "A writer or speaker can use representation to shape examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning and influence.",
       "Using more of the feature will always improve a text.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to."
+      "A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an."
     ],
     "correct": 3,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
+    "explanation": "A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 7
@@ -212,14 +212,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
+      "A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an.",
+      "A writer or speaker can use representation to shape examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning and influence.",
       "Audience and purpose do not matter once the feature has been identified.",
       "The feature has one fixed effect in every text, regardless of audience or purpose."
     ],
     "correct": 0,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
+    "explanation": "A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 8
@@ -240,14 +240,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
+      "A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text.",
+      "A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an.",
       "The feature has one fixed effect in every text, regardless of audience or purpose.",
       "Naming the feature is enough; evidence from the text is unnecessary."
     ],
     "correct": 1,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
+    "explanation": "A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 9
@@ -268,14 +268,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
+      "A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text.",
+      "A writer or speaker can use representation to shape examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning and influence.",
+      "A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an.",
       "Naming the feature is enough; evidence from the text is unnecessary."
     ],
     "correct": 2,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
+    "explanation": "A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 10
@@ -296,14 +296,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
+      "A writer or speaker can use representation to shape examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning and influence.",
       "The most formal or complicated wording is automatically the best choice.",
       "One isolated word proves the whole interpretation without needing context.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to."
+      "A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an."
     ],
     "correct": 3,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not assume that longer or more formal language is automatically stronger. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
+    "explanation": "A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 11
@@ -324,14 +324,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
+      "A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an.",
+      "A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text.",
       "One isolated word proves the whole interpretation without needing context.",
       "The feature changes only surface style and cannot shape meaning."
     ],
     "correct": 0,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Separate what the text actually shows from what a reader merely prefers. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
+    "explanation": "A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 12
@@ -352,14 +352,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
+      "A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text.",
+      "A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an.",
+      "A writer or speaker can use representation to shape examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning and influence.",
       "The feature changes only surface style and cannot shape meaning."
     ],
     "correct": 1,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
+    "explanation": "A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 13
@@ -380,14 +380,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
+      "A writer or speaker can use representation to shape examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning and influence.",
       "Any interpretation is equally strong even when it lacks supporting evidence.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
+      "A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an.",
       "Using more of the feature will always improve a text."
     ],
     "correct": 2,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
+    "explanation": "A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 14
@@ -408,14 +408,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
+      "A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text.",
       "Using more of the feature will always improve a text.",
       "Audience and purpose do not matter once the feature has been identified.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to."
+      "A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an."
     ],
     "correct": 3,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
+    "explanation": "A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 15
@@ -436,14 +436,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
+      "A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an.",
+      "A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text.",
+      "A writer or speaker can use representation to shape examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning and influence.",
       "Audience and purpose do not matter once the feature has been identified."
     ],
     "correct": 0,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
+    "explanation": "A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 16

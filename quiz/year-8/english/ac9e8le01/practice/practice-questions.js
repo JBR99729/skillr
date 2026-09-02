@@ -16,14 +16,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
       "The feature has one fixed effect in every text, regardless of audience or purpose."
     ],
     "correct": 0,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+    "explanation": "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
@@ -45,14 +45,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
       "Naming the feature is enough; evidence from the text is unnecessary.",
       "The most formal or complicated wording is automatically the best choice."
     ],
     "correct": 1,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
+    "explanation": "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
@@ -74,14 +74,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
       "The most formal or complicated wording is automatically the best choice.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
       "One isolated word proves the whole interpretation without needing context."
     ],
     "correct": 2,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
+    "explanation": "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
@@ -103,14 +103,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
       "One isolated word proves the whole interpretation without needing context.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and."
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text."
     ],
     "correct": 3,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+    "explanation": "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
@@ -132,14 +132,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
       "The feature changes only surface style and cannot shape meaning.",
       "Any interpretation is equally strong even when it lacks supporting evidence."
     ],
     "correct": 0,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not assume that longer or more formal language is automatically stronger. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
+    "explanation": "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
@@ -161,14 +161,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
       "Any interpretation is equally strong even when it lacks supporting evidence.",
       "Using more of the feature will always improve a text."
     ],
     "correct": 1,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Separate what the text actually shows from what a reader merely prefers. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
+    "explanation": "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
@@ -190,14 +190,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
       "Using more of the feature will always improve a text."
     ],
     "correct": 2,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+    "explanation": "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
@@ -219,14 +219,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
       "Audience and purpose do not matter once the feature has been identified.",
       "The feature has one fixed effect in every text, regardless of audience or purpose.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary."
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience."
     ],
     "correct": 3,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
+    "explanation": "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
@@ -248,14 +248,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
       "The feature has one fixed effect in every text, regardless of audience or purpose.",
       "Naming the feature is enough; evidence from the text is unnecessary."
     ],
     "correct": 0,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
+    "explanation": "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
@@ -277,14 +277,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
       "Naming the feature is enough; evidence from the text is unnecessary."
     ],
     "correct": 1,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+    "explanation": "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
@@ -306,14 +306,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
       "The most formal or complicated wording is automatically the best choice.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
       "One isolated word proves the whole interpretation without needing context."
     ],
     "correct": 2,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not assume that longer or more formal language is automatically stronger. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
+    "explanation": "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
     "stage": "explain",
     "difficulty": 2,
     "difficultyTier": "explain",
@@ -335,14 +335,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
       "One isolated word proves the whole interpretation without needing context.",
       "The feature changes only surface style and cannot shape meaning.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent."
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience."
     ],
     "correct": 3,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Separate what the text actually shows from what a reader merely prefers. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
+    "explanation": "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
     "stage": "explain",
     "difficulty": 2,
     "difficultyTier": "explain",
@@ -364,14 +364,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
       "The feature changes only surface style and cannot shape meaning."
     ],
     "correct": 0,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+    "explanation": "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
     "stage": "explain",
     "difficulty": 2,
     "difficultyTier": "explain",
@@ -393,14 +393,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
       "Any interpretation is equally strong even when it lacks supporting evidence.",
       "Using more of the feature will always improve a text."
     ],
     "correct": 1,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
+    "explanation": "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
     "stage": "explain",
     "difficulty": 2,
     "difficultyTier": "explain",
@@ -422,14 +422,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
       "Using more of the feature will always improve a text.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
       "Audience and purpose do not matter once the feature has been identified."
     ],
     "correct": 2,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
+    "explanation": "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
     "stage": "explain",
     "difficulty": 2,
     "difficultyTier": "explain",
@@ -451,14 +451,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
       "Audience and purpose do not matter once the feature has been identified.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and."
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text."
     ],
     "correct": 3,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+    "explanation": "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
     "stage": "explain",
     "difficulty": 2,
     "difficultyTier": "explain",
@@ -480,14 +480,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
       "The feature has one fixed effect in every text, regardless of audience or purpose.",
       "Naming the feature is enough; evidence from the text is unnecessary."
     ],
     "correct": 0,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not assume that longer or more formal language is automatically stronger. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
+    "explanation": "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
     "stage": "explain",
     "difficulty": 2,
     "difficultyTier": "explain",
@@ -509,14 +509,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
       "Naming the feature is enough; evidence from the text is unnecessary.",
       "The most formal or complicated wording is automatically the best choice."
     ],
     "correct": 1,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Separate what the text actually shows from what a reader merely prefers. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
+    "explanation": "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
     "stage": "explain",
     "difficulty": 2,
     "difficultyTier": "explain",
@@ -538,14 +538,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
       "The most formal or complicated wording is automatically the best choice."
     ],
     "correct": 2,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+    "explanation": "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
     "stage": "explain",
     "difficulty": 2,
     "difficultyTier": "explain",
@@ -567,14 +567,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
       "One isolated word proves the whole interpretation without needing context.",
       "The feature changes only surface style and cannot shape meaning.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary."
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience."
     ],
     "correct": 3,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
+    "explanation": "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
     "stage": "explain",
     "difficulty": 2,
     "difficultyTier": "explain",
@@ -596,14 +596,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
       "The feature changes only surface style and cannot shape meaning.",
       "Any interpretation is equally strong even when it lacks supporting evidence."
     ],
     "correct": 0,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
+    "explanation": "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
     "stage": "discriminate",
     "difficulty": 2,
     "difficultyTier": "discriminate",
@@ -625,14 +625,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
       "Any interpretation is equally strong even when it lacks supporting evidence."
     ],
     "correct": 1,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+    "explanation": "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
     "stage": "discriminate",
     "difficulty": 2,
     "difficultyTier": "discriminate",
@@ -654,14 +654,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
       "Using more of the feature will always improve a text.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
       "Audience and purpose do not matter once the feature has been identified."
     ],
     "correct": 2,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not assume that longer or more formal language is automatically stronger. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
+    "explanation": "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
     "stage": "discriminate",
     "difficulty": 2,
     "difficultyTier": "discriminate",
@@ -683,14 +683,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
       "Audience and purpose do not matter once the feature has been identified.",
       "The feature has one fixed effect in every text, regardless of audience or purpose.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent."
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience."
     ],
     "correct": 3,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Separate what the text actually shows from what a reader merely prefers. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
+    "explanation": "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
     "stage": "discriminate",
     "difficulty": 2,
     "difficultyTier": "discriminate",
@@ -712,14 +712,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
       "The feature has one fixed effect in every text, regardless of audience or purpose."
     ],
     "correct": 0,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+    "explanation": "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
     "stage": "discriminate",
     "difficulty": 2,
     "difficultyTier": "discriminate",
@@ -741,14 +741,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
       "Naming the feature is enough; evidence from the text is unnecessary.",
       "The most formal or complicated wording is automatically the best choice."
     ],
     "correct": 1,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
+    "explanation": "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
     "stage": "discriminate",
     "difficulty": 2,
     "difficultyTier": "discriminate",
@@ -770,14 +770,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
       "The most formal or complicated wording is automatically the best choice.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
       "One isolated word proves the whole interpretation without needing context."
     ],
     "correct": 2,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
+    "explanation": "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
     "stage": "discriminate",
     "difficulty": 2,
     "difficultyTier": "discriminate",
@@ -799,14 +799,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
       "One isolated word proves the whole interpretation without needing context.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and."
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text."
     ],
     "correct": 3,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+    "explanation": "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
     "stage": "discriminate",
     "difficulty": 2,
     "difficultyTier": "discriminate",
@@ -828,14 +828,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
       "The feature changes only surface style and cannot shape meaning.",
       "Any interpretation is equally strong even when it lacks supporting evidence."
     ],
     "correct": 0,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not assume that longer or more formal language is automatically stronger. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
+    "explanation": "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
     "stage": "discriminate",
     "difficulty": 2,
     "difficultyTier": "discriminate",
@@ -857,14 +857,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
       "Any interpretation is equally strong even when it lacks supporting evidence.",
       "Using more of the feature will always improve a text."
     ],
     "correct": 1,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Separate what the text actually shows from what a reader merely prefers. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
+    "explanation": "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
     "stage": "discriminate",
     "difficulty": 2,
     "difficultyTier": "discriminate",
@@ -886,14 +886,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
       "Using more of the feature will always improve a text."
     ],
     "correct": 2,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+    "explanation": "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
     "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",
@@ -915,14 +915,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
       "Audience and purpose do not matter once the feature has been identified.",
       "The feature has one fixed effect in every text, regardless of audience or purpose.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary."
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience."
     ],
     "correct": 3,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
+    "explanation": "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
     "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",
@@ -944,14 +944,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
       "The feature has one fixed effect in every text, regardless of audience or purpose.",
       "Naming the feature is enough; evidence from the text is unnecessary."
     ],
     "correct": 0,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
+    "explanation": "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
     "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",
@@ -973,14 +973,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
       "Naming the feature is enough; evidence from the text is unnecessary."
     ],
     "correct": 1,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+    "explanation": "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
     "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",
@@ -1002,14 +1002,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
       "The most formal or complicated wording is automatically the best choice.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
       "One isolated word proves the whole interpretation without needing context."
     ],
     "correct": 2,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not assume that longer or more formal language is automatically stronger. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
+    "explanation": "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
     "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",
@@ -1031,14 +1031,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
       "One isolated word proves the whole interpretation without needing context.",
       "The feature changes only surface style and cannot shape meaning.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent."
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience."
     ],
     "correct": 3,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Separate what the text actually shows from what a reader merely prefers. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
+    "explanation": "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
     "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",
@@ -1060,14 +1060,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
       "The feature changes only surface style and cannot shape meaning."
     ],
     "correct": 0,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+    "explanation": "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
     "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",
@@ -1089,14 +1089,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
       "Any interpretation is equally strong even when it lacks supporting evidence.",
       "Using more of the feature will always improve a text."
     ],
     "correct": 1,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
+    "explanation": "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
     "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",
@@ -1118,14 +1118,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
       "Using more of the feature will always improve a text.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
       "Audience and purpose do not matter once the feature has been identified."
     ],
     "correct": 2,
-    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
+    "explanation": "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
     "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",
@@ -1147,14 +1147,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
-      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
       "Audience and purpose do not matter once the feature has been identified.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and."
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text."
     ],
     "correct": 3,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+    "explanation": "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
     "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",

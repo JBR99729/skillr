@@ -16,14 +16,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+      "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
+      "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
       "The feature has one fixed effect in every text, regardless of audience or purpose.",
       "Naming the feature is enough; evidence from the text is unnecessary."
     ],
     "correct": 0,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond.",
+    "explanation": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
@@ -46,13 +46,13 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Naming the feature is enough; evidence from the text is unnecessary.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+      "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
       "The most formal or complicated wording is automatically the best choice.",
       "One isolated word proves the whole interpretation without needing context."
     ],
     "correct": 1,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+    "explanation": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
@@ -74,14 +74,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+      "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
       "The most formal or complicated wording is automatically the best choice.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond.",
+      "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
       "One isolated word proves the whole interpretation without needing context."
     ],
     "correct": 2,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond.",
+    "explanation": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
@@ -106,11 +106,11 @@ window.skillrPracticeQuestions = [
       "One isolated word proves the whole interpretation without needing context.",
       "The feature changes only surface style and cannot shape meaning.",
       "Any interpretation is equally strong even when it lacks supporting evidence.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to."
+      "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
     ],
     "correct": 3,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+    "explanation": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
@@ -132,14 +132,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+      "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
+      "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
       "The feature changes only surface style and cannot shape meaning.",
       "Any interpretation is equally strong even when it lacks supporting evidence."
     ],
     "correct": 0,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not assume that longer or more formal language is automatically stronger. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond.",
+    "explanation": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
@@ -162,13 +162,13 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Any interpretation is equally strong even when it lacks supporting evidence.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+      "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
       "Using more of the feature will always improve a text.",
       "Audience and purpose do not matter once the feature has been identified."
     ],
     "correct": 1,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Separate what the text actually shows from what a reader merely prefers. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+    "explanation": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
@@ -190,14 +190,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+      "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
       "Using more of the feature will always improve a text.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond.",
+      "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
       "Audience and purpose do not matter once the feature has been identified."
     ],
     "correct": 2,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond.",
+    "explanation": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
@@ -222,11 +222,11 @@ window.skillrPracticeQuestions = [
       "Audience and purpose do not matter once the feature has been identified.",
       "The feature has one fixed effect in every text, regardless of audience or purpose.",
       "Naming the feature is enough; evidence from the text is unnecessary.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to."
+      "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
     ],
     "correct": 3,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+    "explanation": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
@@ -248,14 +248,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+      "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
+      "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
       "The feature has one fixed effect in every text, regardless of audience or purpose.",
       "Naming the feature is enough; evidence from the text is unnecessary."
     ],
     "correct": 0,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond.",
+    "explanation": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
@@ -278,13 +278,13 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Naming the feature is enough; evidence from the text is unnecessary.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+      "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
       "The most formal or complicated wording is automatically the best choice.",
       "One isolated word proves the whole interpretation without needing context."
     ],
     "correct": 1,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+    "explanation": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
@@ -306,14 +306,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+      "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
       "The most formal or complicated wording is automatically the best choice.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond.",
+      "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
       "One isolated word proves the whole interpretation without needing context."
     ],
     "correct": 2,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not assume that longer or more formal language is automatically stronger. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond.",
+    "explanation": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
     "stage": "explain",
     "difficulty": 2,
     "difficultyTier": "explain",
@@ -338,11 +338,11 @@ window.skillrPracticeQuestions = [
       "One isolated word proves the whole interpretation without needing context.",
       "The feature changes only surface style and cannot shape meaning.",
       "Any interpretation is equally strong even when it lacks supporting evidence.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to."
+      "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
     ],
     "correct": 3,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Separate what the text actually shows from what a reader merely prefers. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+    "explanation": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
     "stage": "explain",
     "difficulty": 2,
     "difficultyTier": "explain",
@@ -364,14 +364,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+      "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
+      "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
       "The feature changes only surface style and cannot shape meaning.",
       "Any interpretation is equally strong even when it lacks supporting evidence."
     ],
     "correct": 0,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond.",
+    "explanation": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
     "stage": "explain",
     "difficulty": 2,
     "difficultyTier": "explain",
@@ -394,13 +394,13 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Any interpretation is equally strong even when it lacks supporting evidence.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+      "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
       "Using more of the feature will always improve a text.",
       "Audience and purpose do not matter once the feature has been identified."
     ],
     "correct": 1,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+    "explanation": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
     "stage": "explain",
     "difficulty": 2,
     "difficultyTier": "explain",
@@ -422,14 +422,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+      "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
       "Using more of the feature will always improve a text.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond.",
+      "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
       "Audience and purpose do not matter once the feature has been identified."
     ],
     "correct": 2,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond.",
+    "explanation": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
     "stage": "explain",
     "difficulty": 2,
     "difficultyTier": "explain",
@@ -454,11 +454,11 @@ window.skillrPracticeQuestions = [
       "Audience and purpose do not matter once the feature has been identified.",
       "The feature has one fixed effect in every text, regardless of audience or purpose.",
       "Naming the feature is enough; evidence from the text is unnecessary.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to."
+      "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
     ],
     "correct": 3,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+    "explanation": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
     "stage": "explain",
     "difficulty": 2,
     "difficultyTier": "explain",
@@ -480,14 +480,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+      "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
+      "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
       "The feature has one fixed effect in every text, regardless of audience or purpose.",
       "Naming the feature is enough; evidence from the text is unnecessary."
     ],
     "correct": 0,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not assume that longer or more formal language is automatically stronger. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond.",
+    "explanation": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
     "stage": "explain",
     "difficulty": 2,
     "difficultyTier": "explain",
@@ -510,13 +510,13 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Naming the feature is enough; evidence from the text is unnecessary.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+      "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
       "The most formal or complicated wording is automatically the best choice.",
       "One isolated word proves the whole interpretation without needing context."
     ],
     "correct": 1,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Separate what the text actually shows from what a reader merely prefers. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+    "explanation": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
     "stage": "explain",
     "difficulty": 2,
     "difficultyTier": "explain",
@@ -538,14 +538,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+      "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
       "The most formal or complicated wording is automatically the best choice.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond.",
+      "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
       "One isolated word proves the whole interpretation without needing context."
     ],
     "correct": 2,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond.",
+    "explanation": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
     "stage": "explain",
     "difficulty": 2,
     "difficultyTier": "explain",
@@ -570,11 +570,11 @@ window.skillrPracticeQuestions = [
       "One isolated word proves the whole interpretation without needing context.",
       "The feature changes only surface style and cannot shape meaning.",
       "Any interpretation is equally strong even when it lacks supporting evidence.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to."
+      "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
     ],
     "correct": 3,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+    "explanation": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
     "stage": "explain",
     "difficulty": 2,
     "difficultyTier": "explain",
@@ -596,14 +596,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+      "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
+      "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
       "The feature changes only surface style and cannot shape meaning.",
       "Any interpretation is equally strong even when it lacks supporting evidence."
     ],
     "correct": 0,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond.",
+    "explanation": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
     "stage": "discriminate",
     "difficulty": 2,
     "difficultyTier": "discriminate",
@@ -626,13 +626,13 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Any interpretation is equally strong even when it lacks supporting evidence.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+      "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
       "Using more of the feature will always improve a text.",
       "Audience and purpose do not matter once the feature has been identified."
     ],
     "correct": 1,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+    "explanation": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
     "stage": "discriminate",
     "difficulty": 2,
     "difficultyTier": "discriminate",
@@ -654,14 +654,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+      "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
       "Using more of the feature will always improve a text.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond.",
+      "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
       "Audience and purpose do not matter once the feature has been identified."
     ],
     "correct": 2,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not assume that longer or more formal language is automatically stronger. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond.",
+    "explanation": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
     "stage": "discriminate",
     "difficulty": 2,
     "difficultyTier": "discriminate",
@@ -686,11 +686,11 @@ window.skillrPracticeQuestions = [
       "Audience and purpose do not matter once the feature has been identified.",
       "The feature has one fixed effect in every text, regardless of audience or purpose.",
       "Naming the feature is enough; evidence from the text is unnecessary.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to."
+      "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
     ],
     "correct": 3,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Separate what the text actually shows from what a reader merely prefers. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+    "explanation": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
     "stage": "discriminate",
     "difficulty": 2,
     "difficultyTier": "discriminate",
@@ -712,14 +712,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+      "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
+      "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
       "The feature has one fixed effect in every text, regardless of audience or purpose.",
       "Naming the feature is enough; evidence from the text is unnecessary."
     ],
     "correct": 0,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond.",
+    "explanation": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
     "stage": "discriminate",
     "difficulty": 2,
     "difficultyTier": "discriminate",
@@ -742,13 +742,13 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Naming the feature is enough; evidence from the text is unnecessary.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+      "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
       "The most formal or complicated wording is automatically the best choice.",
       "One isolated word proves the whole interpretation without needing context."
     ],
     "correct": 1,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+    "explanation": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
     "stage": "discriminate",
     "difficulty": 2,
     "difficultyTier": "discriminate",
@@ -770,14 +770,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+      "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
       "The most formal or complicated wording is automatically the best choice.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond.",
+      "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
       "One isolated word proves the whole interpretation without needing context."
     ],
     "correct": 2,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond.",
+    "explanation": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
     "stage": "discriminate",
     "difficulty": 2,
     "difficultyTier": "discriminate",
@@ -802,11 +802,11 @@ window.skillrPracticeQuestions = [
       "One isolated word proves the whole interpretation without needing context.",
       "The feature changes only surface style and cannot shape meaning.",
       "Any interpretation is equally strong even when it lacks supporting evidence.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to."
+      "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
     ],
     "correct": 3,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+    "explanation": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
     "stage": "discriminate",
     "difficulty": 2,
     "difficultyTier": "discriminate",
@@ -828,14 +828,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+      "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
+      "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
       "The feature changes only surface style and cannot shape meaning.",
       "Any interpretation is equally strong even when it lacks supporting evidence."
     ],
     "correct": 0,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not assume that longer or more formal language is automatically stronger. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond.",
+    "explanation": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
     "stage": "discriminate",
     "difficulty": 2,
     "difficultyTier": "discriminate",
@@ -858,13 +858,13 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Any interpretation is equally strong even when it lacks supporting evidence.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+      "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
       "Using more of the feature will always improve a text.",
       "Audience and purpose do not matter once the feature has been identified."
     ],
     "correct": 1,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Separate what the text actually shows from what a reader merely prefers. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+    "explanation": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
     "stage": "discriminate",
     "difficulty": 2,
     "difficultyTier": "discriminate",
@@ -886,14 +886,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+      "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
       "Using more of the feature will always improve a text.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond.",
+      "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
       "Audience and purpose do not matter once the feature has been identified."
     ],
     "correct": 2,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond.",
+    "explanation": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
     "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",
@@ -918,11 +918,11 @@ window.skillrPracticeQuestions = [
       "Audience and purpose do not matter once the feature has been identified.",
       "The feature has one fixed effect in every text, regardless of audience or purpose.",
       "Naming the feature is enough; evidence from the text is unnecessary.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to."
+      "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
     ],
     "correct": 3,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+    "explanation": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
     "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",
@@ -944,14 +944,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+      "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
+      "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
       "The feature has one fixed effect in every text, regardless of audience or purpose.",
       "Naming the feature is enough; evidence from the text is unnecessary."
     ],
     "correct": 0,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond.",
+    "explanation": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
     "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",
@@ -974,13 +974,13 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Naming the feature is enough; evidence from the text is unnecessary.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+      "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
       "The most formal or complicated wording is automatically the best choice.",
       "One isolated word proves the whole interpretation without needing context."
     ],
     "correct": 1,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+    "explanation": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
     "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",
@@ -1002,14 +1002,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+      "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
       "The most formal or complicated wording is automatically the best choice.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond.",
+      "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
       "One isolated word proves the whole interpretation without needing context."
     ],
     "correct": 2,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not assume that longer or more formal language is automatically stronger. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond.",
+    "explanation": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
     "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",
@@ -1034,11 +1034,11 @@ window.skillrPracticeQuestions = [
       "One isolated word proves the whole interpretation without needing context.",
       "The feature changes only surface style and cannot shape meaning.",
       "Any interpretation is equally strong even when it lacks supporting evidence.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to."
+      "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
     ],
     "correct": 3,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Separate what the text actually shows from what a reader merely prefers. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+    "explanation": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
     "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",
@@ -1060,14 +1060,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+      "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
+      "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
       "The feature changes only surface style and cannot shape meaning.",
       "Any interpretation is equally strong even when it lacks supporting evidence."
     ],
     "correct": 0,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond.",
+    "explanation": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
     "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",
@@ -1090,13 +1090,13 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Any interpretation is equally strong even when it lacks supporting evidence.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+      "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
       "Using more of the feature will always improve a text.",
       "Audience and purpose do not matter once the feature has been identified."
     ],
     "correct": 1,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+    "explanation": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
     "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",
@@ -1118,14 +1118,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+      "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
       "Using more of the feature will always improve a text.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond.",
+      "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
       "Audience and purpose do not matter once the feature has been identified."
     ],
     "correct": 2,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond.",
+    "explanation": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
     "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",
@@ -1150,11 +1150,11 @@ window.skillrPracticeQuestions = [
       "Audience and purpose do not matter once the feature has been identified.",
       "The feature has one fixed effect in every text, regardless of audience or purpose.",
       "Naming the feature is enough; evidence from the text is unnecessary.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to."
+      "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
     ],
     "correct": 3,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to.",
+    "explanation": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
     "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",

@@ -16,14 +16,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A language name on an authoritative map can help students recognise that language, identity and Country/Place are.",
+      "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+      "A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully.",
       "The feature has one fixed effect in every text, regardless of audience or purpose.",
       "Naming the feature is enough; evidence from the text is unnecessary."
     ],
     "correct": 1,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A language name on an authoritative map can help students recognise that language, identity and Country/Place are. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A language name on an authoritative map can help students recognise that language, identity and Country/Place are.",
+    "explanation": "A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 1
@@ -46,12 +46,12 @@ window.skillrTestQuestions = [
     "answers": [
       "Naming the feature is enough; evidence from the text is unnecessary.",
       "The most formal or complicated wording is automatically the best choice.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+      "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
       "One isolated word proves the whole interpretation without needing context."
     ],
     "correct": 2,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Do not stop at naming the feature. Ask what meaning it creates here. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+    "explanation": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 2
@@ -72,14 +72,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+      "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
       "The most formal or complicated wording is automatically the best choice.",
       "One isolated word proves the whole interpretation without needing context.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A language name on an authoritative map can help students recognise that language, identity and Country/Place are."
+      "A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully."
     ],
     "correct": 3,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A language name on an authoritative map can help students recognise that language, identity and Country/Place are. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A language name on an authoritative map can help students recognise that language, identity and Country/Place are.",
+    "explanation": "A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 3
@@ -100,14 +100,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+      "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
       "One isolated word proves the whole interpretation without needing context.",
       "The feature changes only surface style and cannot shape meaning.",
       "Any interpretation is equally strong even when it lacks supporting evidence."
     ],
     "correct": 0,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Do not stop at naming the feature. Ask what meaning it creates here. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+    "explanation": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 4
@@ -128,14 +128,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A language name on an authoritative map can help students recognise that language, identity and Country/Place are.",
+      "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+      "A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully.",
       "The feature changes only surface style and cannot shape meaning.",
       "Any interpretation is equally strong even when it lacks supporting evidence."
     ],
     "correct": 1,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A language name on an authoritative map can help students recognise that language, identity and Country/Place are. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not assume that longer or more formal language is automatically stronger. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A language name on an authoritative map can help students recognise that language, identity and Country/Place are.",
+    "explanation": "A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 5
@@ -158,12 +158,12 @@ window.skillrTestQuestions = [
     "answers": [
       "Any interpretation is equally strong even when it lacks supporting evidence.",
       "Using more of the feature will always improve a text.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+      "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
       "Audience and purpose do not matter once the feature has been identified."
     ],
     "correct": 2,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Separate what the text actually shows from what a reader merely prefers. Do not stop at naming the feature. Ask what meaning it creates here. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+    "explanation": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 6
@@ -184,14 +184,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+      "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
       "Using more of the feature will always improve a text.",
       "Audience and purpose do not matter once the feature has been identified.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A language name on an authoritative map can help students recognise that language, identity and Country/Place are."
+      "A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully."
     ],
     "correct": 3,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A language name on an authoritative map can help students recognise that language, identity and Country/Place are. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A language name on an authoritative map can help students recognise that language, identity and Country/Place are.",
+    "explanation": "A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 7
@@ -212,14 +212,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+      "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
       "Audience and purpose do not matter once the feature has been identified.",
       "The feature has one fixed effect in every text, regardless of audience or purpose.",
       "Naming the feature is enough; evidence from the text is unnecessary."
     ],
     "correct": 0,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Do not stop at naming the feature. Ask what meaning it creates here. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+    "explanation": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 8
@@ -240,14 +240,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A language name on an authoritative map can help students recognise that language, identity and Country/Place are.",
+      "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+      "A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully.",
       "The feature has one fixed effect in every text, regardless of audience or purpose.",
       "Naming the feature is enough; evidence from the text is unnecessary."
     ],
     "correct": 1,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A language name on an authoritative map can help students recognise that language, identity and Country/Place are. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A language name on an authoritative map can help students recognise that language, identity and Country/Place are.",
+    "explanation": "A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 9
@@ -270,12 +270,12 @@ window.skillrTestQuestions = [
     "answers": [
       "Naming the feature is enough; evidence from the text is unnecessary.",
       "The most formal or complicated wording is automatically the best choice.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+      "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
       "One isolated word proves the whole interpretation without needing context."
     ],
     "correct": 2,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Do not stop at naming the feature. Ask what meaning it creates here. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+    "explanation": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 10
@@ -296,14 +296,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+      "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
       "The most formal or complicated wording is automatically the best choice.",
       "One isolated word proves the whole interpretation without needing context.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A language name on an authoritative map can help students recognise that language, identity and Country/Place are."
+      "A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully."
     ],
     "correct": 3,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A language name on an authoritative map can help students recognise that language, identity and Country/Place are. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not assume that longer or more formal language is automatically stronger. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A language name on an authoritative map can help students recognise that language, identity and Country/Place are.",
+    "explanation": "A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 11
@@ -324,14 +324,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+      "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
       "One isolated word proves the whole interpretation without needing context.",
       "The feature changes only surface style and cannot shape meaning.",
       "Any interpretation is equally strong even when it lacks supporting evidence."
     ],
     "correct": 0,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Separate what the text actually shows from what a reader merely prefers. Do not stop at naming the feature. Ask what meaning it creates here. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+    "explanation": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 12
@@ -352,14 +352,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A language name on an authoritative map can help students recognise that language, identity and Country/Place are.",
+      "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+      "A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully.",
       "The feature changes only surface style and cannot shape meaning.",
       "Any interpretation is equally strong even when it lacks supporting evidence."
     ],
     "correct": 1,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A language name on an authoritative map can help students recognise that language, identity and Country/Place are. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A language name on an authoritative map can help students recognise that language, identity and Country/Place are.",
+    "explanation": "A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 13
@@ -382,12 +382,12 @@ window.skillrTestQuestions = [
     "answers": [
       "Any interpretation is equally strong even when it lacks supporting evidence.",
       "Using more of the feature will always improve a text.",
-      "Do not stop at naming the feature. Ask what meaning it creates here. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+      "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
       "Audience and purpose do not matter once the feature has been identified."
     ],
     "correct": 2,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Do not stop at naming the feature. Ask what meaning it creates here. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+    "explanation": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 14
@@ -408,14 +408,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+      "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
       "Using more of the feature will always improve a text.",
       "Audience and purpose do not matter once the feature has been identified.",
-      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A language name on an authoritative map can help students recognise that language, identity and Country/Place are."
+      "A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully."
     ],
     "correct": 3,
-    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A language name on an authoritative map can help students recognise that language, identity and Country/Place are. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A language name on an authoritative map can help students recognise that language, identity and Country/Place are.",
+    "explanation": "A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 15
@@ -436,14 +436,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Do not stop at naming the feature. Ask what meaning it creates here. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+      "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
       "Audience and purpose do not matter once the feature has been identified.",
       "The feature has one fixed effect in every text, regardless of audience or purpose.",
       "Naming the feature is enough; evidence from the text is unnecessary."
     ],
     "correct": 0,
-    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours. This answer works because it connects the language or text choice with the meaning it creates in context.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Do not stop at naming the feature. Ask what meaning it creates here. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+    "explanation": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 16
