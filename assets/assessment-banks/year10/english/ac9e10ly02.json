@@ -5,39 +5,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_spoken_and_multimodal_features_of_media_texts_and_discussing_the_effects_of_these_features_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "A news video lowers the music and lets an eyewitness speak without interruption. What effect is most likely?",
+    "audio_prompt": "A news video lowers the music and lets an eyewitness speak without interruption. What effect is most likely?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "analysing spoken and multimodal features of media texts and discussing the effects of these features; for example, presenting an opinion on the combination of words and sound in creating mood",
+        "text": "It foregrounds the speaker’s words and can make the moment feel more serious or direct.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "It proves the eyewitness is correct.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "It removes all editing from the video.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "It makes the report fictional.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "analysing spoken and multimodal features of media texts and discussing the effects of these features; for example, presenting an opinion on the combination of words and sound in creating mood",
-      "hint": "A writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text."
+      "summary": "Reducing competing sound can direct attention to the testimony and alter the emotional tone.",
+      "hint": "Ask what becomes most noticeable."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly02-p-002",
@@ -45,39 +47,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_spoken_and_multimodal_features_of_media_texts_and_discussing_the_effects_of_these_features_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "Which feature is spoken rather than visual?",
+    "audio_prompt": "Which feature is spoken rather than visual?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "analysing spoken and multimodal features of media texts and discussing the effects of these features; for example, presenting an opinion on the combination of words and sound in creating mood",
+        "text": "vocal pace",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "camera angle",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "caption placement",
+        "is_correct": false
+      },
+      {
+        "text": "colour contrast",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "analysing spoken and multimodal features of media texts and discussing the effects of these features; for example, presenting an opinion on the combination of words and sound in creating mood",
-      "hint": "A writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text."
+      "summary": "Vocal pace is part of delivery; the others are visual or layout choices.",
+      "hint": "Think about what you hear."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly02-p-003",
@@ -85,38 +89,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_spoken_and_multimodal_features_of_media_texts_and_discussing_the_effects_of_these_features_and_influence_how_an_audience_understands_the_text",
-    "question": "What should you check when using a writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text?",
-    "audio_prompt": "What should you check when using a writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text?",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "A documentary displays a statistic on screen while the narrator says the same figure aloud. What is happening?",
+    "audio_prompt": "A documentary displays a statistic on screen while the narrator says the same figure aloud. What is happening?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "analysing spoken and multimodal features of media texts and discussing the effects of these features; for example, presenting an opinion on the combination of words and sound in creating mood",
+        "text": "The verbal and visual modes reinforce the same information.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The modes contradict each other.",
+        "is_correct": false
+      },
+      {
+        "text": "The statistic becomes unreliable.",
+        "is_correct": false
+      },
+      {
+        "text": "The text stops being multimodal.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "analysing spoken and multimodal features of media texts and discussing the effects of these features; for example, presenting an opinion on the combination of words and sound in creating mood",
-      "hint": "A writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text."
+      "summary": "Two modes can repeat or reinforce information to increase salience and clarity.",
+      "hint": "Do the modes support or clash?"
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly02-p-004",
@@ -124,39 +131,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_spoken_and_multimodal_features_of_media_texts_and_discussing_the_effects_of_these_features_and_influence_how_an_audience_understands_the_text",
-    "question": "Which statement best explains a writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text?",
-    "audio_prompt": "Which statement best explains a writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text?",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "A podcast host pauses for three seconds before revealing a result. What can the pause create?",
+    "audio_prompt": "A podcast host pauses for three seconds before revealing a result. What can the pause create?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "analysing spoken and multimodal features of media texts and discussing the effects of these features; for example, presenting an opinion on the combination of words and sound in creating mood",
+        "text": "anticipation and emphasis",
         "is_correct": true
+      },
+      {
+        "text": "a camera zoom",
+        "is_correct": false
+      },
+      {
+        "text": "a visual symbol",
+        "is_correct": false
+      },
+      {
+        "text": "a caption",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "analysing spoken and multimodal features of media texts and discussing the effects of these features; for example, presenting an opinion on the combination of words and sound in creating mood",
-      "hint": "A writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text."
+      "summary": "Silence and pause are spoken/audio resources that can shape pacing and expectation.",
+      "hint": "What does waiting make the audience anticipate?"
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly02-p-005",
@@ -164,39 +173,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_spoken_and_multimodal_features_of_media_texts_and_discussing_the_effects_of_these_features_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "Which choice most directly creates visual salience in a social media post?",
+    "audio_prompt": "Which choice most directly creates visual salience in a social media post?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "analysing spoken and multimodal features of media texts and discussing the effects of these features; for example, presenting an opinion on the combination of words and sound in creating mood",
+        "text": "A large bold statistic placed at the centre",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "A quiet tone of voice",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "A long pause",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "A whisper",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "analysing spoken and multimodal features of media texts and discussing the effects of these features; for example, presenting an opinion on the combination of words and sound in creating mood",
-      "hint": "A writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text."
+      "summary": "Size, contrast and central placement can make an element visually prominent.",
+      "hint": "Which feature affects what the eye notices first?"
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly02-p-006",
@@ -204,39 +215,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_spoken_and_multimodal_features_of_media_texts_and_discussing_the_effects_of_these_features_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "A presenter smiles while saying, “This is a disaster.” What feature creates the contradiction?",
+    "audio_prompt": "A presenter smiles while saying, “This is a disaster.” What feature creates the contradiction?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "analysing spoken and multimodal features of media texts and discussing the effects of these features; for example, presenting an opinion on the combination of words and sound in creating mood",
+        "text": "facial expression conflicting with spoken words",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "caption length",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "background colour only",
+        "is_correct": false
+      },
+      {
+        "text": "camera resolution",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "analysing spoken and multimodal features of media texts and discussing the effects of these features; for example, presenting an opinion on the combination of words and sound in creating mood",
-      "hint": "A writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text."
+      "summary": "The mismatch between expression and words can create irony, discomfort or doubt depending on context.",
+      "hint": "Compare what is said with how it is presented."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly02-p-007",
@@ -244,39 +257,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_spoken_and_multimodal_features_of_media_texts_and_discussing_the_effects_of_these_features_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "A video cuts rapidly between several protest signs. Which feature is being manipulated?",
+    "audio_prompt": "A video cuts rapidly between several protest signs. Which feature is being manipulated?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "analysing spoken and multimodal features of media texts and discussing the effects of these features; for example, presenting an opinion on the combination of words and sound in creating mood",
+        "text": "editing pace",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "vocal pitch",
+        "is_correct": false
+      },
+      {
+        "text": "paragraphing",
+        "is_correct": false
+      },
+      {
+        "text": "font family",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "analysing spoken and multimodal features of media texts and discussing the effects of these features; for example, presenting an opinion on the combination of words and sound in creating mood",
-      "hint": "A writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text."
+      "summary": "Rapid cutting changes the rhythm and speed of the visual sequence.",
+      "hint": "Think about how shots are assembled."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly02-p-008",
@@ -284,39 +299,1385 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_spoken_and_multimodal_features_of_media_texts_and_discussing_the_effects_of_these_features_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "A radio ad increases volume on the words “today only”. What does this mainly do?",
+    "audio_prompt": "A radio ad increases volume on the words “today only”. What does this mainly do?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "analysing spoken and multimodal features of media texts and discussing the effects of these features; for example, presenting an opinion on the combination of words and sound in creating mood",
+        "text": "emphasises urgency",
         "is_correct": true
+      },
+      {
+        "text": "changes the camera angle",
+        "is_correct": false
+      },
+      {
+        "text": "creates visual hierarchy",
+        "is_correct": false
+      },
+      {
+        "text": "removes persuasion",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "analysing spoken and multimodal features of media texts and discussing the effects of these features; for example, presenting an opinion on the combination of words and sound in creating mood",
-      "hint": "A writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text."
+      "summary": "Volume can highlight selected words and intensify urgency.",
+      "hint": "Which words are made more prominent?"
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly02-p-009",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "Which feature combines words and image most directly?",
+    "audio_prompt": "Which feature combines words and image most directly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "a caption placed beneath a photograph",
+        "is_correct": true
+      },
+      {
+        "text": "a speaker’s accent",
+        "is_correct": false
+      },
+      {
+        "text": "background music",
+        "is_correct": false
+      },
+      {
+        "text": "a sound effect",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A caption links written language to a visual image and can guide interpretation.",
+      "hint": "Two modes are working together."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly02-p-010",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "A presenter looks directly into the camera while asking, “What would you do?” What does this encourage?",
+    "audio_prompt": "A presenter looks directly into the camera while asking, “What would you do?” What does this encourage?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "a sense of direct address to the viewer",
+        "is_correct": true
+      },
+      {
+        "text": "distance from the audience",
+        "is_correct": false
+      },
+      {
+        "text": "a purely factual tone",
+        "is_correct": false
+      },
+      {
+        "text": "silence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Direct gaze and second-person language can make viewers feel personally addressed.",
+      "hint": "Look at both gaze and pronoun choice."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly02-p-011",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "Why can background music change the meaning of the same images?",
+    "audio_prompt": "Why can background music change the meaning of the same images?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Music can cue different moods or interpretations even when the visuals stay unchanged.",
+        "is_correct": true
+      },
+      {
+        "text": "Music always tells the truth.",
+        "is_correct": false
+      },
+      {
+        "text": "Images have no meaning without music.",
+        "is_correct": false
+      },
+      {
+        "text": "Any music creates suspense.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Sound interacts with image; changing one mode can alter how another is interpreted.",
+      "hint": "Same image, different soundtrack."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly02-p-012",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "A report uses a calm narrator over chaotic footage. What effect might this contrast create?",
+    "audio_prompt": "A report uses a calm narrator over chaotic footage. What effect might this contrast create?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It can make the narration seem controlled and authoritative while the visuals convey disorder.",
+        "is_correct": true
+      },
+      {
+        "text": "It proves the footage is fake.",
+        "is_correct": false
+      },
+      {
+        "text": "It removes all emotion from the report.",
+        "is_correct": false
+      },
+      {
+        "text": "Narration and image cannot contrast.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Different modes can contribute different qualities at the same time, creating layered meaning.",
+      "hint": "Do not assume every mode must match."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly02-p-013",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "Why might a speaker slow down before a key claim?",
+    "audio_prompt": "Why might a speaker slow down before a key claim?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Slower pace can signal importance and give listeners time to process the statement.",
+        "is_correct": true
+      },
+      {
+        "text": "Slow speech automatically proves certainty.",
+        "is_correct": false
+      },
+      {
+        "text": "It changes the colour scheme.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the claim objective.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Pace influences emphasis and processing but does not guarantee truth.",
+      "hint": "Think about attention, not correctness."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly02-p-014",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "A campaign video shows smiling families while a voiceover describes rising housing stress. Why should the combination be analysed?",
+    "audio_prompt": "A campaign video shows smiling families while a voiceover describes rising housing stress. Why should the combination be analysed?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The contrast may challenge the cheerful imagery or expose a gap between appearance and lived difficulty.",
+        "is_correct": true
+      },
+      {
+        "text": "The image and voice cancel each other out completely.",
+        "is_correct": false
+      },
+      {
+        "text": "Only the voice matters.",
+        "is_correct": false
+      },
+      {
+        "text": "Only the image matters.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Meaning can arise from tension between modes, not just from each mode separately.",
+      "hint": "Ask what the mismatch suggests."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly02-p-015",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "Why can an on-screen graph increase a speaker’s credibility?",
+    "audio_prompt": "Why can an on-screen graph increase a speaker’s credibility?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It can provide visible evidence that audiences can inspect alongside the claim.",
+        "is_correct": true
+      },
+      {
+        "text": "Graphs automatically make every claim true.",
+        "is_correct": false
+      },
+      {
+        "text": "A graph removes the need for a source.",
+        "is_correct": false
+      },
+      {
+        "text": "Any visual is objective.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Visualised data can support a claim, but credibility still depends on source quality and accurate presentation.",
+      "hint": "Evidence helps; design does not guarantee truth."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly02-p-016",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "A video places subtitles on screen even though the audio is clear. What additional function can subtitles serve?",
+    "audio_prompt": "A video places subtitles on screen even though the audio is clear. What additional function can subtitles serve?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "They can improve accessibility and reinforce key wording.",
+        "is_correct": true
+      },
+      {
+        "text": "They make the speaker inaudible.",
+        "is_correct": false
+      },
+      {
+        "text": "They remove visual meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "They guarantee the audience agrees.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Subtitles can support access and strengthen the prominence of selected language.",
+      "hint": "Think beyond “translation”."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly02-p-017",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "Why is “The music makes it emotional” weak analysis?",
+    "audio_prompt": "Why is “The music makes it emotional” weak analysis?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It does not identify the qualities of the music or explain what emotion is created in context.",
+        "is_correct": true
+      },
+      {
+        "text": "Music cannot create emotion.",
+        "is_correct": false
+      },
+      {
+        "text": "Emotional effects are never analysed.",
+        "is_correct": false
+      },
+      {
+        "text": "All music creates the same mood.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Strong analysis specifies features such as tempo, volume, instrumentation or contrast and links them to a plausible effect.",
+      "hint": "Feature + evidence + effect."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly02-p-018",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "A speaker’s voice becomes quieter when discussing a personal loss. What might this change communicate?",
+    "audio_prompt": "A speaker’s voice becomes quieter when discussing a personal loss. What might this change communicate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "vulnerability or intimacy",
+        "is_correct": true
+      },
+      {
+        "text": "a new camera angle",
+        "is_correct": false
+      },
+      {
+        "text": "visual salience only",
+        "is_correct": false
+      },
+      {
+        "text": "objective certainty",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Changes in volume can shape emotional closeness and suggest a shift in stance or feeling.",
+      "hint": "How does quieter delivery alter the relationship with listeners?"
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly02-p-019",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "A news clip freezes on one image while a headline appears over it. Why is the image choice important?",
+    "audio_prompt": "A news clip freezes on one image while a headline appears over it. Why is the image choice important?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The selected frame can anchor the audience’s interpretation of the headline.",
+        "is_correct": true
+      },
+      {
+        "text": "Any still image has the same effect.",
+        "is_correct": false
+      },
+      {
+        "text": "Headlines work independently of images.",
+        "is_correct": false
+      },
+      {
+        "text": "Freeze frames are always neutral.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The chosen image and written headline can reinforce or complicate each other.",
+      "hint": "Selection matters."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly02-p-020",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "Why can rapid cuts make a media text feel urgent?",
+    "audio_prompt": "Why can rapid cuts make a media text feel urgent?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "They reduce viewing time per shot and increase the perceived pace.",
+        "is_correct": true
+      },
+      {
+        "text": "Fast cuts prove the event is dangerous.",
+        "is_correct": false
+      },
+      {
+        "text": "Editing speed has no effect.",
+        "is_correct": false
+      },
+      {
+        "text": "Urgency exists only in spoken words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Editing rhythm shapes how quickly information arrives and can intensify momentum.",
+      "hint": "Think pace, not truth."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly02-p-021",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "Which analysis is strongest?",
+    "audio_prompt": "Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“The low drone under the interview grows louder as the speaker hesitates, increasing tension without changing the words.”",
+        "is_correct": true
+      },
+      {
+        "text": "“There is music.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Music is effective.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The soundtrack makes everyone scared.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The first identifies a specific sound pattern and explains how it interacts with delivery.",
+      "hint": "Avoid generic claims."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly02-p-022",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "Which example shows modes contradicting each other?",
+    "audio_prompt": "Which example shows modes contradicting each other?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A cheerful jingle plays over footage of overflowing rubbish bins.",
+        "is_correct": true
+      },
+      {
+        "text": "A graph matches the statistic in the narration.",
+        "is_correct": false
+      },
+      {
+        "text": "A caption names the person shown.",
+        "is_correct": false
+      },
+      {
+        "text": "A map shows the place being discussed.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The cheerful audio clashes with the negative visuals, creating tension or irony.",
+      "hint": "Look for mismatch."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly02-p-023",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "Which claim about direct-to-camera gaze is most accurate?",
+    "audio_prompt": "Which claim about direct-to-camera gaze is most accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It can create a sense of direct engagement, but its effect depends on context and delivery.",
+        "is_correct": true
+      },
+      {
+        "text": "It always makes a speaker trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "It always makes viewers uncomfortable.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no relationship to audience positioning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Visual features do not have one automatic effect; context determines how direct gaze is interpreted.",
+      "hint": "Avoid universal effects."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly02-p-024",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "A creator wants viewers to notice a warning before anything else. Which choice is best?",
+    "audio_prompt": "A creator wants viewers to notice a warning before anything else. Which choice is best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Place it prominently with strong visual contrast and reinforce it verbally.",
+        "is_correct": true
+      },
+      {
+        "text": "Put it in small text at the end.",
+        "is_correct": false
+      },
+      {
+        "text": "Whisper it under loud music.",
+        "is_correct": false
+      },
+      {
+        "text": "Hide it behind decorative imagery.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Combining visual salience with spoken emphasis increases the chance that the warning is noticed and processed.",
+      "hint": "Use more than one mode strategically."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly02-p-025",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "Which statement best analyses a speaker’s pause?",
+    "audio_prompt": "Which statement best analyses a speaker’s pause?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“The pause after ‘we failed’ isolates the admission and gives listeners time to register it.”",
+        "is_correct": true
+      },
+      {
+        "text": "“The speaker paused.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Pauses always create sadness.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The pause proves honesty.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The first explains placement and effect without overclaiming.",
+      "hint": "Where is the pause, and what does it do there?"
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly02-p-026",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "A video uses archival footage while a present-day speaker comments on it. What is the strongest analytical focus?",
+    "audio_prompt": "A video uses archival footage while a present-day speaker comments on it. What is the strongest analytical focus?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "How the present commentary reframes the older images for a contemporary audience",
+        "is_correct": true
+      },
+      {
+        "text": "Whether old footage is lower resolution",
+        "is_correct": false
+      },
+      {
+        "text": "Only the age of the speaker",
+        "is_correct": false
+      },
+      {
+        "text": "Whether the video is longer than the archive",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The interaction between past imagery and present commentary can reshape interpretation.",
+      "hint": "Two time layers are working together."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly02-p-027",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "Which choice most clearly supports accessibility?",
+    "audio_prompt": "Which choice most clearly supports accessibility?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "accurate captions and meaningful audio description",
+        "is_correct": true
+      },
+      {
+        "text": "faster cuts",
+        "is_correct": false
+      },
+      {
+        "text": "smaller text",
+        "is_correct": false
+      },
+      {
+        "text": "music over all dialogue",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Captions and audio description help audiences access spoken and visual information through alternative modes.",
+      "hint": "Accessibility uses multiple pathways."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly02-p-028",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "A presenter speaks very quickly while a complex graph appears for two seconds. What is the main weakness?",
+    "audio_prompt": "A presenter speaks very quickly while a complex graph appears for two seconds. What is the main weakness?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The audience may not have enough time to process either the spoken explanation or the visual data.",
+        "is_correct": true
+      },
+      {
+        "text": "Fast delivery always sounds more credible.",
+        "is_correct": false
+      },
+      {
+        "text": "Graphs should never appear in videos.",
+        "is_correct": false
+      },
+      {
+        "text": "Complex information must be silent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Mode coordination matters; pacing should allow viewers to process information across channels.",
+      "hint": "Can the audience realistically take it in?"
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly02-p-029",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "Which use of sound is diegetic?",
+    "audio_prompt": "Which use of sound is diegetic?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A train horn heard by characters in the scene",
+        "is_correct": true
+      },
+      {
+        "text": "A dramatic score added for viewers",
+        "is_correct": false
+      },
+      {
+        "text": "A narrator’s commentary over archival footage",
+        "is_correct": false
+      },
+      {
+        "text": "A podcast intro theme",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Diegetic sound belongs to the represented world and can be heard by characters within it.",
+      "hint": "Could the characters hear it?"
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly02-p-030",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "A headline says “Crisis deepens” while the accompanying image shows an empty supermarket shelf from months earlier. What should an analyst question?",
+    "audio_prompt": "A headline says “Crisis deepens” while the accompanying image shows an empty supermarket shelf from months earlier. What should an analyst question?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Whether the image accurately represents the current claim and context",
+        "is_correct": true
+      },
+      {
+        "text": "Whether photographs can appear with headlines",
+        "is_correct": false
+      },
+      {
+        "text": "Whether shelves exist",
+        "is_correct": false
+      },
+      {
+        "text": "Whether “crisis” has six letters",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Multimodal analysis should test whether image and words genuinely support the same current representation.",
+      "hint": "Check relevance and timing."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly02-p-031",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "You are designing a short video to explain a bushfire evacuation route. Which combination is strongest?",
+    "audio_prompt": "You are designing a short video to explain a bushfire evacuation route. Which combination is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A clear map, concise spoken directions, highlighted route markers and restrained background sound",
+        "is_correct": true
+      },
+      {
+        "text": "Fast music, decorative footage and no map",
+        "is_correct": false
+      },
+      {
+        "text": "A long paragraph read over unrelated images",
+        "is_correct": false
+      },
+      {
+        "text": "Tiny captions that disappear quickly",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Instructional multimodal texts work best when modes reinforce the same practical information without distraction.",
+      "hint": "Clarity and coordination matter."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly02-p-032",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "A campaign wants a testimonial to feel credible rather than overproduced. Which choice is strongest?",
+    "audio_prompt": "A campaign wants a testimonial to feel credible rather than overproduced. Which choice is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use a steady close framing, natural voice and minimal music so attention stays on the speaker.",
+        "is_correct": true
+      },
+      {
+        "text": "Add dramatic sound effects after every sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use constant fast zooms.",
+        "is_correct": false
+      },
+      {
+        "text": "Cover the speaker with animated text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Restrained production can foreground the testimony and reduce competition from other modes.",
+      "hint": "Let the speaker carry the message."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly02-p-033",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "You want a podcast introduction to create suspense. Which sequence is most effective?",
+    "audio_prompt": "You want a podcast introduction to create suspense. Which sequence is most effective?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Begin with an unresolved question, use a brief silence, then introduce a low restrained sound bed.",
+        "is_correct": true
+      },
+      {
+        "text": "Reveal the answer immediately in a flat list.",
+        "is_correct": false
+      },
+      {
+        "text": "Use unrelated cheerful advertising music.",
+        "is_correct": false
+      },
+      {
+        "text": "Speak as quickly as possible without pauses.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Question, silence and controlled sound can work together to delay resolution and build anticipation.",
+      "hint": "Coordinate language, pause and sound."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly02-p-034",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "A school video must present statistics about vaping without overwhelming viewers. Which design works best?",
+    "audio_prompt": "A school video must present statistics about vaping without overwhelming viewers. Which design works best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Show one clear statistic at a time while the narration explains its significance.",
+        "is_correct": true
+      },
+      {
+        "text": "Display ten graphs at once while reading different numbers aloud.",
+        "is_correct": false
+      },
+      {
+        "text": "Use decorative animation over every figure.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove labels from the graphs.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Synchronising spoken explanation with simple visual data reduces cognitive overload.",
+      "hint": "One message at a time."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly02-p-035",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "A news explainer wants to show uncertainty responsibly. Which combination is strongest?",
+    "audio_prompt": "A news explainer wants to show uncertainty responsibly. Which combination is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use qualified spoken language such as “may” while displaying a range rather than one exact predicted number.",
+        "is_correct": true
+      },
+      {
+        "text": "Say “definitely” while showing a wide range.",
+        "is_correct": false
+      },
+      {
+        "text": "Hide the uncertainty in tiny footnotes.",
+        "is_correct": false
+      },
+      {
+        "text": "Use dramatic music to imply certainty.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Verbal modality and visual data should align so uncertainty is represented consistently across modes.",
+      "hint": "Make the modes agree about confidence."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly02-p-036",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "You are editing an interview about grief. Which choice best avoids manipulating the audience excessively?",
+    "audio_prompt": "You are editing an interview about grief. Which choice best avoids manipulating the audience excessively?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Let key pauses remain and keep music minimal rather than adding swelling music under every emotional line.",
+        "is_correct": true
+      },
+      {
+        "text": "Add dramatic strings whenever the speaker stops.",
+        "is_correct": false
+      },
+      {
+        "text": "Cut out every hesitation.",
+        "is_correct": false
+      },
+      {
+        "text": "Insert applause after emotional statements.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Restraint can preserve the speaker’s own delivery rather than imposing a stronger emotional cue through editing.",
+      "hint": "Do not let production overwhelm testimony."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly02-p-037",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "A social post warns about a heatwave. Which first-screen design is strongest?",
+    "audio_prompt": "A social post warns about a heatwave. Which first-screen design is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A prominent temperature warning, short action message and clear source attribution",
+        "is_correct": true
+      },
+      {
+        "text": "A decorative landscape image with the warning hidden below",
+        "is_correct": false
+      },
+      {
+        "text": "A long paragraph in tiny text",
+        "is_correct": false
+      },
+      {
+        "text": "A vague slogan with no practical information",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "High-salience practical information and source attribution support quick comprehension and credibility.",
+      "hint": "What must viewers notice immediately?"
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly02-p-038",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "A documentary wants to question an official claim without directly stating it is false. Which edit is strongest?",
+    "audio_prompt": "A documentary wants to question an official claim without directly stating it is false. Which edit is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Place the claim beside relevant footage or data that creates a clear, evidence-based contrast.",
+        "is_correct": true
+      },
+      {
+        "text": "Add mocking sound effects only.",
+        "is_correct": false
+      },
+      {
+        "text": "Cut the claim so no context remains.",
+        "is_correct": false
+      },
+      {
+        "text": "Use an unrelated image.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Juxtaposing the claim with relevant contradictory evidence invites evaluation without relying on ridicule.",
+      "hint": "Use evidence, not just tone."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly02-p-039",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "A presenter is explaining a sensitive issue to teenagers. Which delivery choice is strongest?",
+    "audio_prompt": "A presenter is explaining a sensitive issue to teenagers. Which delivery choice is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use clear, respectful language, measured pace and visuals that inform rather than sensationalise.",
+        "is_correct": true
+      },
+      {
+        "text": "Use exaggerated slang and shocking images.",
+        "is_correct": false
+      },
+      {
+        "text": "Speak in dense technical jargon without explanation.",
+        "is_correct": false
+      },
+      {
+        "text": "Use loud music throughout.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Audience adaptation should improve clarity and respect without stereotyping or overwhelming the audience.",
+      "hint": "Accessible does not mean simplistic or sensational."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly02-p-040",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "A creator wants the final message of a video to stay with viewers. Which choice is strongest?",
+    "audio_prompt": "A creator wants the final message of a video to stay with viewers. Which choice is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Reduce background sound, hold on one relevant image and deliver the final line slowly.",
+        "is_correct": true
+      },
+      {
+        "text": "Add several competing graphics and speed up the narration.",
+        "is_correct": false
+      },
+      {
+        "text": "Cut to unrelated footage.",
+        "is_correct": false
+      },
+      {
+        "text": "Hide the final line in small text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Reducing competing elements and slowing delivery can increase salience and give the closing idea weight.",
+      "hint": "Make the ending less crowded, not more."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly02-t-001",
@@ -324,36 +1685,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_spoken_and_multimodal_features_of_media_texts_and_discussing_the_effects_of_these_features_and_influence_how_an_audience_understands_the_text",
-    "question": "What is the correct way to apply a writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text?",
-    "audio_prompt": "What is the correct way to apply a writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text?",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "A podcast host lowers their voice and pauses before saying, “We found another one.” What is the most likely combined effect?",
+    "audio_prompt": "A podcast host lowers their voice and pauses before saying, “We found another one.” What is the most likely combined effect?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "analysing spoken and multimodal features of media texts and discussing the effects of these features; for example, presenting an opinion on the combination of words and sound in creating mood",
+        "text": "It can heighten tension and make the line feel significant.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "It changes the visual hierarchy.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "It proves the statement is true.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "It removes audience positioning.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "analysing spoken and multimodal features of media texts and discussing the effects of these features; for example, presenting an opinion on the combination of words and sound in creating mood",
-      "hint": "A writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text."
-    }
+      "summary": "Quiet delivery plus pause can create suspense and emphasis.",
+      "hint": "Think about sound and pacing together."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly02-t-002",
@@ -361,36 +1726,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_spoken_and_multimodal_features_of_media_texts_and_discussing_the_effects_of_these_features_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "A video displays the words “NO SAFE LEVEL” in large text while the narrator repeats the phrase. What is happening?",
+    "audio_prompt": "A video displays the words “NO SAFE LEVEL” in large text while the narrator repeats the phrase. What is happening?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "analysing spoken and multimodal features of media texts and discussing the effects of these features; for example, presenting an opinion on the combination of words and sound in creating mood",
+        "text": "The visual and spoken modes reinforce the same warning.",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "The modes contradict each other.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The visual replaces the narration entirely.",
+        "is_correct": false
+      },
+      {
+        "text": "The text becomes non-multimodal.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "analysing spoken and multimodal features of media texts and discussing the effects of these features; for example, presenting an opinion on the combination of words and sound in creating mood",
-      "hint": "A writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text."
-    }
+      "summary": "Repetition across modes increases salience and reinforces the message.",
+      "hint": "Same message, two channels."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly02-t-003",
@@ -398,36 +1767,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_spoken_and_multimodal_features_of_media_texts_and_discussing_the_effects_of_these_features_and_influence_how_an_audience_understands_the_text",
-    "question": "Which response correctly uses a writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text?",
-    "audio_prompt": "Which response correctly uses a writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text?",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "A politician’s confident words are paired with footage of visible hesitation and confusion. What should an analyst examine?",
+    "audio_prompt": "A politician’s confident words are paired with footage of visible hesitation and confusion. What should an analyst examine?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "analysing spoken and multimodal features of media texts and discussing the effects of these features; for example, presenting an opinion on the combination of words and sound in creating mood",
+        "text": "The tension between verbal claim and visual evidence",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Only the words",
+        "is_correct": false
+      },
+      {
+        "text": "Only the footage",
+        "is_correct": false
+      },
+      {
+        "text": "The font used in captions",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "analysing spoken and multimodal features of media texts and discussing the effects of these features; for example, presenting an opinion on the combination of words and sound in creating mood",
-      "hint": "A writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text."
-    }
+      "summary": "Meaning can emerge from contradiction between modes.",
+      "hint": "Compare what is said with what is shown."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly02-t-004",
@@ -435,36 +1808,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_spoken_and_multimodal_features_of_media_texts_and_discussing_the_effects_of_these_features_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "Which feature most directly controls how quickly viewers receive visual information?",
+    "audio_prompt": "Which feature most directly controls how quickly viewers receive visual information?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "analysing spoken and multimodal features of media texts and discussing the effects of these features; for example, presenting an opinion on the combination of words and sound in creating mood",
+        "text": "editing pace",
         "is_correct": true
+      },
+      {
+        "text": "speaker accent",
+        "is_correct": false
+      },
+      {
+        "text": "caption spelling",
+        "is_correct": false
+      },
+      {
+        "text": "microphone brand",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "analysing spoken and multimodal features of media texts and discussing the effects of these features; for example, presenting an opinion on the combination of words and sound in creating mood",
-      "hint": "A writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text."
-    }
+      "summary": "Editing pace determines the duration and succession of shots.",
+      "hint": "Think cuts and shot length."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly02-t-005",
@@ -472,36 +1849,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_spoken_and_multimodal_features_of_media_texts_and_discussing_the_effects_of_these_features_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text?",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "A graph appears for one second while six figures are read aloud. What is the main design problem?",
+    "audio_prompt": "A graph appears for one second while six figures are read aloud. What is the main design problem?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "analysing spoken and multimodal features of media texts and discussing the effects of these features; for example, presenting an opinion on the combination of words and sound in creating mood",
+        "text": "The audience may not have enough processing time.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "Graphs are unsuitable for media texts.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Numbers should never be spoken.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Short videos cannot contain evidence.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "analysing spoken and multimodal features of media texts and discussing the effects of these features; for example, presenting an opinion on the combination of words and sound in creating mood",
-      "hint": "A writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text."
-    }
+      "summary": "Complex multimodal information needs enough time for audiences to process both visual and spoken elements.",
+      "hint": "Can viewers realistically read and listen?"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly02-t-006",
@@ -509,36 +1890,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_spoken_and_multimodal_features_of_media_texts_and_discussing_the_effects_of_these_features_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "Which example shows direct audience engagement through two modes?",
+    "audio_prompt": "Which example shows direct audience engagement through two modes?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "analysing spoken and multimodal features of media texts and discussing the effects of these features; for example, presenting an opinion on the combination of words and sound in creating mood",
+        "text": "A presenter looks into the camera and asks, “Will you act?”",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "A map appears silently.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Music plays under a title card.",
+        "is_correct": false
+      },
+      {
+        "text": "A narrator reads a definition over stock footage.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "analysing spoken and multimodal features of media texts and discussing the effects of these features; for example, presenting an opinion on the combination of words and sound in creating mood",
-      "hint": "A writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text."
-    }
+      "summary": "Direct gaze and second-person questioning combine visual and spoken address.",
+      "hint": "Both eye contact and language matter."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly02-t-007",
@@ -546,36 +1931,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_spoken_and_multimodal_features_of_media_texts_and_discussing_the_effects_of_these_features_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "A documentary uses no music during a survivor’s account. Why might this be effective?",
+    "audio_prompt": "A documentary uses no music during a survivor’s account. Why might this be effective?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "analysing spoken and multimodal features of media texts and discussing the effects of these features; for example, presenting an opinion on the combination of words and sound in creating mood",
+        "text": "The absence of music can keep attention on the testimony and avoid imposing an emotional cue.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Silence proves the account is objective.",
+        "is_correct": false
+      },
+      {
+        "text": "Music is never appropriate in documentaries.",
+        "is_correct": false
+      },
+      {
+        "text": "No music means no editing occurred.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "analysing spoken and multimodal features of media texts and discussing the effects of these features; for example, presenting an opinion on the combination of words and sound in creating mood",
-      "hint": "A writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text."
-    }
+      "summary": "Withholding soundtrack can itself be a meaningful production choice.",
+      "hint": "Absence can be a feature."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly02-t-008",
@@ -583,35 +1972,367 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_spoken_and_multimodal_features_of_media_texts_and_discussing_the_effects_of_these_features_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "A social video uses fast cuts, rising music and a countdown timer. What overall effect is most plausible?",
+    "audio_prompt": "A social video uses fast cuts, rising music and a countdown timer. What overall effect is most plausible?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "analysing spoken and multimodal features of media texts and discussing the effects of these features; for example, presenting an opinion on the combination of words and sound in creating mood",
+        "text": "increased urgency",
         "is_correct": true
+      },
+      {
+        "text": "greater neutrality",
+        "is_correct": false
+      },
+      {
+        "text": "slower pacing",
+        "is_correct": false
+      },
+      {
+        "text": "reduced salience",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "analysing spoken and multimodal features of media texts and discussing the effects of these features; for example, presenting an opinion on the combination of words and sound in creating mood",
-      "hint": "A writer or speaker can use purpose to shape analysing spoken and multimodal features of media texts and discussing the effects of these features and influence how an audience understands the text."
-    }
+      "summary": "All three features intensify pace and time pressure.",
+      "hint": "The modes point in the same direction."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly02-t-009",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "Which analysis best avoids overclaiming?",
+    "audio_prompt": "Which analysis best avoids overclaiming?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“The close framing and quiet delivery may encourage viewers to focus on the speaker’s emotion.”",
+        "is_correct": true
+      },
+      {
+        "text": "“Close-ups always make viewers trust people.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Quiet voices prove honesty.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The framing forces every viewer to agree.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The first makes a plausible contextual claim without treating an effect as automatic.",
+      "hint": "Use evidence and cautious wording."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly02-t-010",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "A caption says “Record crowds” over an image taken from a tight angle that hides empty areas. What should a critical viewer question?",
+    "audio_prompt": "A caption says “Record crowds” over an image taken from a tight angle that hides empty areas. What should a critical viewer question?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Whether the framing supports or exaggerates the written claim",
+        "is_correct": true
+      },
+      {
+        "text": "Whether captions are grammatical",
+        "is_correct": false
+      },
+      {
+        "text": "Whether crowds can be photographed",
+        "is_correct": false
+      },
+      {
+        "text": "Whether angles exist",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Image framing can selectively support a claim, so viewers should assess what is visible and omitted.",
+      "hint": "Check whether the modes fairly represent the same reality."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly02-t-011",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "Which change would best improve accessibility in a video interview?",
+    "audio_prompt": "Which change would best improve accessibility in a video interview?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Add accurate captions and identify speakers clearly.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the music louder.",
+        "is_correct": false
+      },
+      {
+        "text": "Reduce text contrast.",
+        "is_correct": false
+      },
+      {
+        "text": "Speed up the dialogue.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Captions and speaker labels improve access to spoken information.",
+      "hint": "Provide another pathway to the content."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly02-t-012",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "A creator uses cheerful music under footage of repeated transport delays. What technique is most relevant?",
+    "audio_prompt": "A creator uses cheerful music under footage of repeated transport delays. What technique is most relevant?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "ironic multimodal contrast",
+        "is_correct": true
+      },
+      {
+        "text": "visual rhyme",
+        "is_correct": false
+      },
+      {
+        "text": "formal register",
+        "is_correct": false
+      },
+      {
+        "text": "chronological narration",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The upbeat soundtrack clashes with frustrating visuals, producing irony or critique.",
+      "hint": "Mismatch creates meaning."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly02-t-013",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "A speaker says “This may happen” while a graphic reads “CERTAIN”. What is the main issue?",
+    "audio_prompt": "A speaker says “This may happen” while a graphic reads “CERTAIN”. What is the main issue?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The modes communicate conflicting levels of certainty.",
+        "is_correct": true
+      },
+      {
+        "text": "The graphic is larger than the speaker.",
+        "is_correct": false
+      },
+      {
+        "text": "The statement contains a modal verb.",
+        "is_correct": false
+      },
+      {
+        "text": "The video uses text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The spoken modality expresses possibility while the graphic asserts certainty.",
+      "hint": "Do the modes agree about confidence?"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly02-t-014",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "Which choice best supports a calm explanatory mood?",
+    "audio_prompt": "Which choice best supports a calm explanatory mood?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Measured narration, longer shot duration and unobtrusive background sound",
+        "is_correct": true
+      },
+      {
+        "text": "rapid cuts, flashing text and loud percussion",
+        "is_correct": false
+      },
+      {
+        "text": "constant zooms and shouted delivery",
+        "is_correct": false
+      },
+      {
+        "text": "several overlapping audio tracks",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Slower pacing and restrained sound reduce intensity and support a calm mood.",
+      "hint": "Coordinate pace and sound."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly02-t-015",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "A video ends by fading the music to silence before a final statistic appears. What does the silence most likely do?",
+    "audio_prompt": "A video ends by fading the music to silence before a final statistic appears. What does the silence most likely do?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It isolates the final statistic and gives it emphasis.",
+        "is_correct": true
+      },
+      {
+        "text": "It proves the statistic is correct.",
+        "is_correct": false
+      },
+      {
+        "text": "It removes visual meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the ending faster.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Silence can clear competing sound and make the final visual information more salient.",
+      "hint": "What becomes more noticeable when sound disappears?"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly02-t-016",
+    "curriculum_code": "AC9E10LY02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "spoken and multimodal media features and effects",
+    "question": "A reporter’s words are neutral, but ominous music plays underneath. What is the strongest interpretation?",
+    "audio_prompt": "A reporter’s words are neutral, but ominous music plays underneath. What is the strongest interpretation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The soundtrack adds a threatening frame that the wording alone does not contain.",
+        "is_correct": true
+      },
+      {
+        "text": "The report is fully neutral because the words are neutral.",
+        "is_correct": false
+      },
+      {
+        "text": "Music cannot shape interpretation.",
+        "is_correct": false
+      },
+      {
+        "text": "The soundtrack changes the factual content of every sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Non-verbal sound can position audiences even when the spoken language is restrained.",
+      "hint": "Analyse all modes, not only words."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v6"
   }
 ]
