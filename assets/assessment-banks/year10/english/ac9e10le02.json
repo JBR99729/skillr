@@ -5,39 +5,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_debating_whether_a_text_possesses_universal_qualities_and_retains_relevance_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape debating whether a text possesses universal qualities and retains relevance and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape debating whether a text possesses universal qualities and retains relevance and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "Which claim about an older novel is most defensible?",
+    "audio_prompt": "Which claim about an older novel is most defensible?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "debating whether a text possesses universal qualities and retains relevance",
+        "text": "Its conflict between loyalty and ambition may still resonate, but its treatment of class also reflects the period in which it was written.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "It is universal because every reader must react to it identically.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "It is irrelevant because it was written before smartphones.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Its age proves its values are timeless.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "debating whether a text possesses universal qualities and retains relevance",
-      "hint": "A writer or speaker can use voice to shape debating whether a text possesses universal qualities and retains relevance and influence how an audience understands the text."
+      "summary": "A strong claim can recognise both enduring concerns and context-specific assumptions.",
+      "hint": "Avoid absolute claims about every reader or every era."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le02-p-002",
@@ -45,39 +47,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_representation_to_shape_presenting_arguments_based_on_close_textual_analysis_to_support_an_interpretation_of_a_text_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use representation to shape presenting arguments based on close textual analysis to support an interpretation of a text and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use representation to shape presenting arguments based on close textual analysis to support an interpretation of a text and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "What does “close textual analysis” require?",
+    "audio_prompt": "What does “close textual analysis” require?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "presenting arguments based on close textual analysis to support an interpretation of a text; for example, writing an essay or creating a set of director’s notes",
+        "text": "Examining specific language, structure or textual details to support an interpretation",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Summarising the whole plot without evidence",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Explaining only what the author intended",
+        "is_correct": false
+      },
+      {
+        "text": "Giving a personal rating of the text",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "presenting arguments based on close textual analysis to support an interpretation of a text; for example, writing an essay or creating a set of director’s notes",
-      "hint": "A writer or speaker can use representation to shape presenting arguments based on close textual analysis to support an interpretation of a text and influence how an audience understands the text."
+      "summary": "Close analysis connects precise textual choices to a reasoned interpretation.",
+      "hint": "Look for evidence + analysis."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le02-p-003",
@@ -85,39 +89,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_text_choice_to_shape_creating_personal_reading_lists_in_a_variety_of_genres_and_explaining_why_texts_qualify_for_inclusion_on_a_particular_list_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use text choice to shape creating personal reading lists in a variety of genres and explaining why texts qualify for inclusion on a particular list and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use text choice to shape creating personal reading lists in a variety of genres and explaining why texts qualify for inclusion on a particular list and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "Which evidence best supports the claim that a character feels trapped?",
+    "audio_prompt": "Which evidence best supports the claim that a character feels trapped?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "creating personal reading lists in a variety of genres and explaining why texts qualify for inclusion on a particular list",
+        "text": "The narration repeatedly describes doors, fences and “narrow rooms” around the character.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The book has 24 chapters.",
+        "is_correct": false
+      },
+      {
+        "text": "The character appears on the cover.",
+        "is_correct": false
+      },
+      {
+        "text": "The novel was published in winter.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "creating personal reading lists in a variety of genres and explaining why texts qualify for inclusion on a particular list",
-      "hint": "A writer or speaker can use text choice to shape creating personal reading lists in a variety of genres and explaining why texts qualify for inclusion on a particular list and influence how an audience understands the text."
+      "summary": "Repeated imagery connected to confinement directly supports an interpretation of entrapment.",
+      "hint": "Choose evidence tied to the claim."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le02-p-004",
@@ -125,39 +131,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_debating_whether_a_text_possesses_universal_qualities_and_retains_relevance_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape debating whether a text possesses universal qualities and retains relevance and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape debating whether a text possesses universal qualities and retains relevance and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "A text remains “relevant” when:",
+    "audio_prompt": "A text remains “relevant” when:",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "debating whether a text possesses universal qualities and retains relevance",
+        "text": "its ideas, conflicts or questions continue to matter to later audiences in some way",
         "is_correct": true
+      },
+      {
+        "text": "it contains only modern technology",
+        "is_correct": false
+      },
+      {
+        "text": "every detail matches contemporary life",
+        "is_correct": false
+      },
+      {
+        "text": "all readers agree with its values",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "debating whether a text possesses universal qualities and retains relevance",
-      "hint": "A writer or speaker can use voice to shape debating whether a text possesses universal qualities and retains relevance and influence how an audience understands the text."
+      "summary": "Relevance concerns continuing significance, not literal similarity or universal agreement.",
+      "hint": "A text can matter even when its setting is old."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le02-p-005",
@@ -165,39 +173,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_representation_to_shape_presenting_arguments_based_on_close_textual_analysis_to_support_an_interpretation_of_a_text_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use representation to shape presenting arguments based on close textual analysis to support an interpretation of a text and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use representation to shape presenting arguments based on close textual analysis to support an interpretation of a text and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "Which statement is an interpretation rather than a plot summary?",
+    "audio_prompt": "Which statement is an interpretation rather than a plot summary?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "presenting arguments based on close textual analysis to support an interpretation of a text; for example, writing an essay or creating a set of director’s notes",
+        "text": "The repeated silence between the sisters suggests resentment has become part of their relationship.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "The sisters eat dinner together.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "One sister leaves the house at the end.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The story is set over three days.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "presenting arguments based on close textual analysis to support an interpretation of a text; for example, writing an essay or creating a set of director’s notes",
-      "hint": "A writer or speaker can use representation to shape presenting arguments based on close textual analysis to support an interpretation of a text and influence how an audience understands the text."
+      "summary": "An interpretation explains what textual details may mean rather than simply recounting events.",
+      "hint": "Meaning, not just what happened."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le02-p-006",
@@ -205,39 +215,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_text_choice_to_shape_creating_personal_reading_lists_in_a_variety_of_genres_and_explaining_why_texts_qualify_for_inclusion_on_a_particular_list_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use text choice to shape creating personal reading lists in a variety of genres and explaining why texts qualify for inclusion on a particular list and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use text choice to shape creating personal reading lists in a variety of genres and explaining why texts qualify for inclusion on a particular list and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "Which sentence introduces a counterargument?",
+    "audio_prompt": "Which sentence introduces a counterargument?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "creating personal reading lists in a variety of genres and explaining why texts qualify for inclusion on a particular list",
+        "text": "Some readers may argue that the ending restores traditional authority; however, its final image remains deeply ambiguous.",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "The ending contains three paragraphs.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The final image appears on the last page.",
+        "is_correct": false
+      },
+      {
+        "text": "The protagonist leaves town.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "creating personal reading lists in a variety of genres and explaining why texts qualify for inclusion on a particular list",
-      "hint": "A writer or speaker can use text choice to shape creating personal reading lists in a variety of genres and explaining why texts qualify for inclusion on a particular list and influence how an audience understands the text."
+      "summary": "A counterargument acknowledges a competing reading before responding to it.",
+      "hint": "Look for another plausible view being considered."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le02-p-007",
@@ -245,38 +257,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_debating_whether_a_text_possesses_universal_qualities_and_retains_relevance_and_influence_how_an_audience_understands_the_text",
-    "question": "What should you check when using a writer or speaker can use voice to shape debating whether a text possesses universal qualities and retains relevance and influence how an audience understands the text?",
-    "audio_prompt": "What should you check when using a writer or speaker can use voice to shape debating whether a text possesses universal qualities and retains relevance and influence how an audience understands the text?",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "What makes an interpretation “supported”?",
+    "audio_prompt": "What makes an interpretation “supported”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "debating whether a text possesses universal qualities and retains relevance",
+        "text": "Relevant textual evidence and reasoning connect the evidence to the claim.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The writer sounds confident.",
+        "is_correct": false
+      },
+      {
+        "text": "The interpretation is the longest answer.",
+        "is_correct": false
+      },
+      {
+        "text": "The interpretation matches a friend’s opinion.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "debating whether a text possesses universal qualities and retains relevance",
-      "hint": "A writer or speaker can use voice to shape debating whether a text possesses universal qualities and retains relevance and influence how an audience understands the text."
+      "summary": "Support comes from evidence and explanation, not confidence or popularity.",
+      "hint": "Ask: what proves this reading?"
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le02-p-008",
@@ -284,38 +299,1385 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_representation_to_shape_presenting_arguments_based_on_close_textual_analysis_to_support_an_interpretation_of_a_text_and_influence_how_an_audience_understands_the_text",
-    "question": "What should you check when using a writer or speaker can use representation to shape presenting arguments based on close textual analysis to support an interpretation of a text and influence how an audience understands the text?",
-    "audio_prompt": "What should you check when using a writer or speaker can use representation to shape presenting arguments based on close textual analysis to support an interpretation of a text and influence how an audience understands the text?",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "Which question best tests whether a theme is still relevant?",
+    "audio_prompt": "Which question best tests whether a theme is still relevant?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "presenting arguments based on close textual analysis to support an interpretation of a text; for example, writing an essay or creating a set of director’s notes",
+        "text": "How might the text’s treatment of belonging connect with experiences or debates audiences still encounter?",
         "is_correct": true
+      },
+      {
+        "text": "How old is the paper edition?",
+        "is_correct": false
+      },
+      {
+        "text": "Does the text contain current slang?",
+        "is_correct": false
+      },
+      {
+        "text": "Is the author still alive?",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "presenting arguments based on close textual analysis to support an interpretation of a text; for example, writing an essay or creating a set of director’s notes",
-      "hint": "A writer or speaker can use representation to shape presenting arguments based on close textual analysis to support an interpretation of a text and influence how an audience understands the text."
+      "summary": "Relevance is about continuing significance of ideas, conflicts or questions.",
+      "hint": "Focus on enduring concerns, not surface modernity."
     },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le02-p-009",
+    "curriculum_code": "AC9E10LE02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "Which claim is too absolute?",
+    "audio_prompt": "Which claim is too absolute?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The text speaks to every audience in exactly the same way.",
+        "is_correct": true
+      },
+      {
+        "text": "The text may remain relevant because its conflict over trust can recur in different contexts.",
+        "is_correct": false
+      },
+      {
+        "text": "Some values in the text are shaped by its historical setting.",
+        "is_correct": false
+      },
+      {
+        "text": "Different audiences may find different aspects relevant.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Claiming identical responses from every audience ignores context and variation in interpretation.",
+      "hint": "Be suspicious of “every” and “exactly”."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le02-p-010",
+    "curriculum_code": "AC9E10LE02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "A director’s note argues that a scene should be staged in near-darkness to emphasise uncertainty. What would make the note analytical?",
+    "audio_prompt": "A director’s note argues that a scene should be staged in near-darkness to emphasise uncertainty. What would make the note analytical?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Linking the lighting choice to specific dialogue and the interpretation it supports",
+        "is_correct": true
+      },
+      {
+        "text": "Saying darkness looks cool",
+        "is_correct": false
+      },
+      {
+        "text": "Choosing darkness because it is cheaper",
+        "is_correct": false
+      },
+      {
+        "text": "Avoiding any reference to the text",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Analytical director’s notes justify production choices through close reading of textual evidence.",
+      "hint": "Staging choice + textual reason."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le02-p-011",
+    "curriculum_code": "AC9E10LE02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "Why might a centuries-old tragedy remain relevant to contemporary audiences?",
+    "audio_prompt": "Why might a centuries-old tragedy remain relevant to contemporary audiences?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Its exploration of grief, power or betrayal may still matter, even though its social context differs.",
+        "is_correct": true
+      },
+      {
+        "text": "Old texts are automatically universal.",
+        "is_correct": false
+      },
+      {
+        "text": "Modern audiences experience exactly the same society.",
+        "is_correct": false
+      },
+      {
+        "text": "Historical differences should be ignored.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Relevance can arise from recurring human or social concerns while contextual differences remain important.",
+      "hint": "Enduring concern does not mean identical context."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le02-p-012",
+    "curriculum_code": "AC9E10LE02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "A student quotes “I smiled as the door locked behind me” to argue the narrator welcomes confinement. What should the student do next?",
+    "audio_prompt": "A student quotes “I smiled as the door locked behind me” to argue the narrator welcomes confinement. What should the student do next?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Explain how the unexpected smile complicates the usual association between locking and fear.",
+        "is_correct": true
+      },
+      {
+        "text": "Add three more unrelated quotations.",
+        "is_correct": false
+      },
+      {
+        "text": "Repeat that the quote proves the point.",
+        "is_correct": false
+      },
+      {
+        "text": "Describe the font used in the edition.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Evidence becomes analysis when the writer explains how a textual detail supports the interpretation.",
+      "hint": "Move from quote to meaning."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le02-p-013",
+    "curriculum_code": "AC9E10LE02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "Why is “This text is universal” a weak thesis on its own?",
+    "audio_prompt": "Why is “This text is universal” a weak thesis on its own?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is too broad and does not identify what qualities are claimed to transcend context or what limitations might exist.",
+        "is_correct": true
+      },
+      {
+        "text": "It contains too few words.",
+        "is_correct": false
+      },
+      {
+        "text": "The word “text” is informal.",
+        "is_correct": false
+      },
+      {
+        "text": "Universal claims never belong in English.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong thesis specifies the concern, pattern or value being debated and recognises the complexity of audience and context.",
+      "hint": "Specify what is supposedly enduring."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le02-p-014",
+    "curriculum_code": "AC9E10LE02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "How can context challenge a claim of universality?",
+    "audio_prompt": "How can context challenge a claim of universality?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Ideas presented as normal in one period may depend on social assumptions that later audiences question.",
+        "is_correct": true
+      },
+      {
+        "text": "Context changes the spelling of every word.",
+        "is_correct": false
+      },
+      {
+        "text": "Context makes interpretation impossible.",
+        "is_correct": false
+      },
+      {
+        "text": "Only modern texts have context.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Historical and cultural assumptions can limit how widely a text’s values apply.",
+      "hint": "Ask what the text takes for granted."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le02-p-015",
+    "curriculum_code": "AC9E10LE02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "Why is a recurring image useful evidence in close analysis?",
+    "audio_prompt": "Why is a recurring image useful evidence in close analysis?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Its repetition can establish a pattern that supports an interpretation across the text.",
+        "is_correct": true
+      },
+      {
+        "text": "Repeated images always have one fixed meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Repetition proves authorial intention.",
+        "is_correct": false
+      },
+      {
+        "text": "Images matter only in visual texts.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Patterns can strengthen an interpretation when their changing context and effects are analysed.",
+      "hint": "Track repetition and development."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le02-p-016",
+    "curriculum_code": "AC9E10LE02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "A poem about migration uses “home” first warmly, then ironically. Why does this matter?",
+    "audio_prompt": "A poem about migration uses “home” first warmly, then ironically. Why does this matter?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The changing use complicates the poem’s idea of belonging rather than giving the word one stable meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "It means the poet forgot the first meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Irony removes the theme of home.",
+        "is_correct": false
+      },
+      {
+        "text": "The second use cancels the first completely.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Close analysis can show how repeated language shifts meaning across a text.",
+      "hint": "Compare the two contexts."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le02-p-017",
+    "curriculum_code": "AC9E10LE02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "Why should an essay consider a plausible alternative interpretation?",
+    "audio_prompt": "Why should an essay consider a plausible alternative interpretation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It can test and strengthen the main argument by showing why one reading is better supported.",
+        "is_correct": true
+      },
+      {
+        "text": "Alternative readings make a thesis invalid.",
+        "is_correct": false
+      },
+      {
+        "text": "Only one interpretation can ever be correct.",
+        "is_correct": false
+      },
+      {
+        "text": "Counterarguments are used only in debates, not literary analysis.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Engaging with alternatives demonstrates that the writer has weighed evidence rather than asserted a view.",
+      "hint": "Strong arguments survive comparison."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le02-p-018",
+    "curriculum_code": "AC9E10LE02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "A student claims a dystopian novel is relevant because “people still use technology”. What would improve the reasoning?",
+    "audio_prompt": "A student claims a dystopian novel is relevant because “people still use technology”. What would improve the reasoning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Explain how the novel’s specific representation of surveillance connects with contemporary concerns about data and privacy.",
+        "is_correct": true
+      },
+      {
+        "text": "Add that technology is everywhere.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove all textual evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Say everyone agrees the novel predicted the future.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Relevance needs a precise connection between the text’s treatment of an issue and a contemporary concern.",
+      "hint": "Specific issue + specific connection."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le02-p-019",
+    "curriculum_code": "AC9E10LE02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "Why can the same text remain relevant for different reasons to different audiences?",
+    "audio_prompt": "Why can the same text remain relevant for different reasons to different audiences?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Audiences bring different experiences, values and contexts that shape what they notice and value.",
+        "is_correct": true
+      },
+      {
+        "text": "The text changes its printed words for each reader.",
+        "is_correct": false
+      },
+      {
+        "text": "Relevance is entirely random.",
+        "is_correct": false
+      },
+      {
+        "text": "Only experts can decide relevance.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Reception varies because audiences interpret textual features through different contexts.",
+      "hint": "Different readers, different contexts."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le02-p-020",
+    "curriculum_code": "AC9E10LE02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "A close analysis of a speech focuses on repeated “we” and “our”. What larger interpretation might this evidence support?",
+    "audio_prompt": "A close analysis of a speech focuses on repeated “we” and “our”. What larger interpretation might this evidence support?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "That the speaker constructs a shared group identity to align the audience with the argument",
+        "is_correct": true
+      },
+      {
+        "text": "That the speech contains many pronouns",
+        "is_correct": false
+      },
+      {
+        "text": "That the speech must be true",
+        "is_correct": false
+      },
+      {
+        "text": "That every listener agrees",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Repeated inclusive pronouns can support an interpretation about audience alignment when linked to context and purpose.",
+      "hint": "Feature → pattern → interpretation."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le02-p-021",
+    "curriculum_code": "AC9E10LE02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "Which thesis best balances relevance and context?",
+    "audio_prompt": "Which thesis best balances relevance and context?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Although the play’s rigid gender roles reflect its period, its conflict between public duty and private loyalty remains open to contemporary interpretation.",
+        "is_correct": true
+      },
+      {
+        "text": "The play is universal because love exists.",
+        "is_correct": false
+      },
+      {
+        "text": "The play is irrelevant because gender roles have changed.",
+        "is_correct": false
+      },
+      {
+        "text": "The play means the same thing now as when first performed.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The first thesis recognises both contextual limitation and an enduring conflict.",
+      "hint": "Avoid all-or-nothing claims."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le02-p-022",
+    "curriculum_code": "AC9E10LE02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "Which paragraph uses evidence most effectively?",
+    "audio_prompt": "Which paragraph uses evidence most effectively?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“The repeated command ‘stay’ shifts from protective to controlling across the scene, supporting the view that care becomes a form of restriction.”",
+        "is_correct": true
+      },
+      {
+        "text": "“The word ‘stay’ appears three times. This is repetition.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The scene is controlling because I think it is.”",
+        "is_correct": false
+      },
+      {
+        "text": "“There are lots of techniques in the scene.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Effective analysis connects a precise pattern to a developed interpretation.",
+      "hint": "Evidence must do argumentative work."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le02-p-023",
+    "curriculum_code": "AC9E10LE02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "Which argument about relevance is weakest?",
+    "audio_prompt": "Which argument about relevance is weakest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The novel is relevant because it is famous.",
+        "is_correct": true
+      },
+      {
+        "text": "The novel’s treatment of misinformation remains relevant to debates about digital media.",
+        "is_correct": false
+      },
+      {
+        "text": "The family conflict can still resonate, though its social assumptions are historically specific.",
+        "is_correct": false
+      },
+      {
+        "text": "Later audiences may reinterpret the novel’s ideas about authority.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Fame alone does not explain why a text continues to matter.",
+      "hint": "Popularity is not the same as relevance."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le02-p-024",
+    "curriculum_code": "AC9E10LE02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "Which quotation best supports an interpretation of emotional distance?",
+    "audio_prompt": "Which quotation best supports an interpretation of emotional distance?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“Her reply arrived three days later: six words, no greeting.”",
+        "is_correct": true
+      },
+      {
+        "text": "“They lived in Brisbane.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The kettle boiled at six.”",
+        "is_correct": false
+      },
+      {
+        "text": "“He wore blue shoes.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The delayed, minimal reply directly suggests strained communication and distance.",
+      "hint": "Choose evidence most connected to the claim."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le02-p-025",
+    "curriculum_code": "AC9E10LE02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "Which response to a counterargument is strongest?",
+    "audio_prompt": "Which response to a counterargument is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“While the final reconciliation appears hopeful, the unresolved image of the locked gate prevents the ending from becoming fully reassuring.”",
+        "is_correct": true
+      },
+      {
+        "text": "“That interpretation is wrong.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Nobody could think that.”",
+        "is_correct": false
+      },
+      {
+        "text": "“My interpretation is better because it is mine.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response acknowledges competing evidence and explains why the main reading still has stronger textual support.",
+      "hint": "Use evidence, not dismissal."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le02-p-026",
+    "curriculum_code": "AC9E10LE02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "A text’s outdated social attitudes mean that:",
+    "audio_prompt": "A text’s outdated social attitudes mean that:",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "its relevance should be debated rather than assumed; some concerns may endure while other values may alienate or trouble later audiences",
+        "is_correct": true
+      },
+      {
+        "text": "the text can have no value for any modern reader",
+        "is_correct": false
+      },
+      {
+        "text": "the attitudes should be ignored",
+        "is_correct": false
+      },
+      {
+        "text": "the text is automatically universal because it is old",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Relevance is complex: historical distance can create both limitations and productive questions.",
+      "hint": "Avoid automatic rejection or automatic timelessness."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le02-p-027",
+    "curriculum_code": "AC9E10LE02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "Which close-reading claim overreaches its evidence?",
+    "audio_prompt": "Which close-reading claim overreaches its evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“The single use of rain proves the author believes all hope is impossible.”",
+        "is_correct": true
+      },
+      {
+        "text": "“The rain accompanies the character’s isolation, contributing to the scene’s bleak mood.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The repeated storms may reinforce instability across the novel.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The final clearing sky complicates the earlier weather imagery.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A single detail rarely proves a sweeping claim about an author’s entire worldview.",
+      "hint": "Match claim strength to evidence strength."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le02-p-028",
+    "curriculum_code": "AC9E10LE02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "Which is the strongest evidence that a theme develops rather than simply repeats?",
+    "audio_prompt": "Which is the strongest evidence that a theme develops rather than simply repeats?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The meaning of “home” changes from safety, to confinement, to chosen community across the novel.",
+        "is_correct": true
+      },
+      {
+        "text": "The word “home” appears ten times.",
+        "is_correct": false
+      },
+      {
+        "text": "The novel mentions several houses.",
+        "is_correct": false
+      },
+      {
+        "text": "The cover shows a house.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Development involves change in how an idea is represented, not just frequency.",
+      "hint": "Track transformation across the text."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le02-p-029",
+    "curriculum_code": "AC9E10LE02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "Which statement about “universal themes” is most careful?",
+    "audio_prompt": "Which statement about “universal themes” is most careful?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Some themes recur widely, but their meanings and representations remain shaped by culture, history and audience.",
+        "is_correct": true
+      },
+      {
+        "text": "All cultures understand every theme identically.",
+        "is_correct": false
+      },
+      {
+        "text": "A universal theme has no context.",
+        "is_correct": false
+      },
+      {
+        "text": "If a theme recurs, every text says the same thing about it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Recurring concerns do not erase differences in representation or interpretation.",
+      "hint": "Common concern ≠ identical meaning."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le02-p-030",
+    "curriculum_code": "AC9E10LE02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "Which director’s note best demonstrates close textual analysis?",
+    "audio_prompt": "Which director’s note best demonstrates close textual analysis?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“I would isolate Mara in a narrow spotlight during ‘There is nowhere left to go’, extending the line’s language of confinement into the staging.”",
+        "is_correct": true
+      },
+      {
+        "text": "“I would use a spotlight because theatres have spotlights.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Mara should stand still because I prefer still scenes.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The scene needs better lighting.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The first note grounds the production decision in precise textual evidence and interpretation.",
+      "hint": "Staging must be justified from the text."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le02-p-031",
+    "curriculum_code": "AC9E10LE02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "You are arguing that an old novel remains relevant because of its treatment of misinformation. Which evidence would be strongest?",
+    "audio_prompt": "You are arguing that an old novel remains relevant because of its treatment of misinformation. Which evidence would be strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A recurring pattern in which rumours spread faster than corrections and shape public decisions",
+        "is_correct": true
+      },
+      {
+        "text": "The novel’s page count",
+        "is_correct": false
+      },
+      {
+        "text": "The author’s birth date",
+        "is_correct": false
+      },
+      {
+        "text": "The colour of the first edition",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A repeated pattern about how false information circulates directly supports the relevance claim.",
+      "hint": "Choose evidence tied to the contemporary connection."
+    },
+    "stage": "apply",
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le02-p-032",
+    "curriculum_code": "AC9E10LE02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "A poem appears to celebrate national unity but repeatedly excludes certain speakers. Which thesis is strongest?",
+    "audio_prompt": "A poem appears to celebrate national unity but repeatedly excludes certain speakers. Which thesis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The poem’s inclusive language is complicated by whose voices remain absent, making its vision of unity less universal than it first appears.",
+        "is_correct": true
+      },
+      {
+        "text": "The poem is patriotic.",
+        "is_correct": false
+      },
+      {
+        "text": "The poem uses “we” a lot.",
+        "is_correct": false
+      },
+      {
+        "text": "Everyone in the nation is represented equally.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The thesis combines textual evidence, representation and a challenge to universality.",
+      "hint": "Look at inclusion and exclusion together."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le02-p-033",
+    "curriculum_code": "AC9E10LE02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "You need to support the interpretation that a character’s confidence is performative rather than genuine. Which evidence is most useful?",
+    "audio_prompt": "You need to support the interpretation that a character’s confidence is performative rather than genuine. Which evidence is most useful?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Publicly bold dialogue contrasted with private narration full of hesitation and self-correction",
+        "is_correct": true
+      },
+      {
+        "text": "A description of the weather",
+        "is_correct": false
+      },
+      {
+        "text": "The character’s surname",
+        "is_correct": false
+      },
+      {
+        "text": "The length of the chapter",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The contrast between public speech and private thought directly supports the idea that confidence is performed.",
+      "hint": "Choose a contradiction relevant to the claim."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le02-p-034",
+    "curriculum_code": "AC9E10LE02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "A student says, “The play is still relevant because families still argue.” Which revision is strongest?",
+    "audio_prompt": "A student says, “The play is still relevant because families still argue.” Which revision is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“The play remains relevant because its conflict between family loyalty and personal autonomy continues to shape decisions in many contemporary contexts.”",
+        "is_correct": true
+      },
+      {
+        "text": "“Families definitely always argue.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The play is old but good.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Arguments are universal.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The revision specifies the enduring conflict rather than relying on a vague similarity.",
+      "hint": "Name the deeper issue."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le02-p-035",
+    "curriculum_code": "AC9E10LE02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "You are writing about a text whose treatment of disability reflects outdated stereotypes. Which argument is most nuanced?",
+    "audio_prompt": "You are writing about a text whose treatment of disability reflects outdated stereotypes. Which argument is most nuanced?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The text may retain relevance by exposing historical attitudes, but those stereotypes also limit claims that its representation is universally applicable.",
+        "is_correct": true
+      },
+      {
+        "text": "The stereotypes should be ignored because the text is a classic.",
+        "is_correct": false
+      },
+      {
+        "text": "The text is therefore useless.",
+        "is_correct": false
+      },
+      {
+        "text": "Every modern reader will react in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A nuanced argument can identify both continuing value and serious contextual limitations.",
+      "hint": "Hold more than one truth at once."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le02-p-036",
+    "curriculum_code": "AC9E10LE02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "An essay paragraph begins with the claim that silence functions as resistance. Which next evidence is strongest?",
+    "audio_prompt": "An essay paragraph begins with the claim that silence functions as resistance. Which next evidence is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Three scenes where the protagonist refuses to answer authority figures and the narration marks those silences as deliberate",
+        "is_correct": true
+      },
+      {
+        "text": "A quotation about the weather",
+        "is_correct": false
+      },
+      {
+        "text": "The protagonist’s age",
+        "is_correct": false
+      },
+      {
+        "text": "The publication date",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Repeated deliberate refusals directly support the interpretation of silence as resistance.",
+      "hint": "Evidence should match the exact claim."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le02-p-037",
+    "curriculum_code": "AC9E10LE02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "A modern audience finds a comedy’s class stereotypes uncomfortable. How could this still contribute to relevance?",
+    "audio_prompt": "A modern audience finds a comedy’s class stereotypes uncomfortable. How could this still contribute to relevance?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The discomfort can prompt analysis of how humour reflects and reinforces social hierarchies.",
+        "is_correct": true
+      },
+      {
+        "text": "Discomfort proves the text has no meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Modern audiences must learn to laugh at the stereotypes.",
+        "is_correct": false
+      },
+      {
+        "text": "Class stereotypes are universally harmless.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Relevance can include critical engagement with attitudes that later audiences challenge.",
+      "hint": "A text can matter because it reveals assumptions."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le02-p-038",
+    "curriculum_code": "AC9E10LE02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "You want to argue that a novel’s ending is deliberately unresolved. Which evidence is most persuasive?",
+    "audio_prompt": "You want to argue that a novel’s ending is deliberately unresolved. Which evidence is most persuasive?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The final scene repeats the central question but withholds the character’s answer.",
+        "is_correct": true
+      },
+      {
+        "text": "The novel has an epilogue heading.",
+        "is_correct": false
+      },
+      {
+        "text": "The last page is short.",
+        "is_correct": false
+      },
+      {
+        "text": "The final sentence contains a comma.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Withholding an answer to the central question directly creates unresolved closure.",
+      "hint": "Choose evidence about narrative resolution."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le02-p-039",
+    "curriculum_code": "AC9E10LE02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "A classmate says, “Only the author’s intended meaning matters.” Which response is strongest?",
+    "audio_prompt": "A classmate says, “Only the author’s intended meaning matters.” Which response is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Authorial context can inform interpretation, but meanings are also shaped by textual evidence and the contexts in which audiences read.",
+        "is_correct": true
+      },
+      {
+        "text": "Authors never matter.",
+        "is_correct": false
+      },
+      {
+        "text": "Readers can make any claim without evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "There is always one correct interpretation hidden in the text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Literary interpretation can consider authorial context without reducing meaning to intention alone.",
+      "hint": "Text, context and audience all matter."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le02-p-040",
+    "curriculum_code": "AC9E10LE02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "Which concluding sentence best answers the question “Does the text remain relevant?”",
+    "audio_prompt": "Which concluding sentence best answers the question “Does the text remain relevant?”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Its treatment of ambition remains resonant, but its narrow assumptions about who may hold power complicate any claim of complete universality.",
+        "is_correct": true
+      },
+      {
+        "text": "Yes, because it is a classic.",
+        "is_correct": false
+      },
+      {
+        "text": "No, because it is old.",
+        "is_correct": false
+      },
+      {
+        "text": "Relevance is impossible to discuss.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The sentence reaches a qualified judgement supported by both enduring concerns and contextual limits.",
+      "hint": "Conclude with a reasoned, nuanced judgement."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le02-t-001",
@@ -323,36 +1685,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_text_choice_to_shape_creating_personal_reading_lists_in_a_variety_of_genres_and_explaining_why_texts_qualify_for_inclusion_on_a_particular_list_and_influence_how_an_audience_understands_the_text",
-    "question": "Which response correctly uses a writer or speaker can use text choice to shape creating personal reading lists in a variety of genres and explaining why texts qualify for inclusion on a particular list and influence how an audience understands the text?",
-    "audio_prompt": "Which response correctly uses a writer or speaker can use text choice to shape creating personal reading lists in a variety of genres and explaining why texts qualify for inclusion on a particular list and influence how an audience understands the text?",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "A 1950s novel depicts workplace loyalty as more important than personal wellbeing. Which claim is strongest?",
+    "audio_prompt": "A 1950s novel depicts workplace loyalty as more important than personal wellbeing. Which claim is strongest?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "creating personal reading lists in a variety of genres and explaining why texts qualify for inclusion on a particular list",
+        "text": "Its relevance can be debated by comparing that value with contemporary attitudes to work and wellbeing.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "Its age makes the value universal.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Modern readers must accept its priorities.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The text is irrelevant solely because workplaces have changed.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "creating personal reading lists in a variety of genres and explaining why texts qualify for inclusion on a particular list",
-      "hint": "A writer or speaker can use text choice to shape creating personal reading lists in a variety of genres and explaining why texts qualify for inclusion on a particular list and influence how an audience understands the text."
-    }
+      "summary": "Relevance is best evaluated through a reasoned comparison between the text’s values and later contexts.",
+      "hint": "Compare values across contexts."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le02-t-002",
@@ -360,36 +1726,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_debating_whether_a_text_possesses_universal_qualities_and_retains_relevance_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape debating whether a text possesses universal qualities and retains relevance and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape debating whether a text possesses universal qualities and retains relevance and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "A poem repeatedly shifts from “I” to “we” near its ending. Which interpretation is best supported?",
+    "audio_prompt": "A poem repeatedly shifts from “I” to “we” near its ending. Which interpretation is best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "debating whether a text possesses universal qualities and retains relevance",
+        "text": "The speaker may be moving from private experience toward a collective identity.",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "The poem becomes non-fiction.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The speaker disappears completely.",
+        "is_correct": false
+      },
+      {
+        "text": "Pronouns have no interpretive value.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "debating whether a text possesses universal qualities and retains relevance",
-      "hint": "A writer or speaker can use voice to shape debating whether a text possesses universal qualities and retains relevance and influence how an audience understands the text."
-    }
+      "summary": "The pronoun shift can support an interpretation about expanding identity or solidarity.",
+      "hint": "Track the movement in perspective."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le02-t-003",
@@ -397,36 +1767,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_representation_to_shape_presenting_arguments_based_on_close_textual_analysis_to_support_an_interpretation_of_a_text_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use representation to shape presenting arguments based on close textual analysis to support an interpretation of a text and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use representation to shape presenting arguments based on close textual analysis to support an interpretation of a text and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "Which statement best challenges a claim that a text is “timeless”?",
+    "audio_prompt": "Which statement best challenges a claim that a text is “timeless”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "presenting arguments based on close textual analysis to support an interpretation of a text; for example, writing an essay or creating a set of director’s notes",
+        "text": "Its central conflict may endure, but some of its assumptions depend heavily on the social hierarchy of its period.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "It has been reprinted many times.",
+        "is_correct": false
+      },
+      {
+        "text": "It contains short sentences.",
+        "is_correct": false
+      },
+      {
+        "text": "Its title is still familiar.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "presenting arguments based on close textual analysis to support an interpretation of a text; for example, writing an essay or creating a set of director’s notes",
-      "hint": "A writer or speaker can use representation to shape presenting arguments based on close textual analysis to support an interpretation of a text and influence how an audience understands the text."
-    }
+      "summary": "A strong challenge tests the limits of universality through contextual assumptions.",
+      "hint": "Look for what may not travel unchanged across time."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le02-t-004",
@@ -434,36 +1808,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_text_choice_to_shape_creating_personal_reading_lists_in_a_variety_of_genres_and_explaining_why_texts_qualify_for_inclusion_on_a_particular_list_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use text choice to shape creating personal reading lists in a variety of genres and explaining why texts qualify for inclusion on a particular list and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use text choice to shape creating personal reading lists in a variety of genres and explaining why texts qualify for inclusion on a particular list and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "A student claims a character is isolated. Which evidence is strongest?",
+    "audio_prompt": "A student claims a character is isolated. Which evidence is strongest?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "creating personal reading lists in a variety of genres and explaining why texts qualify for inclusion on a particular list",
+        "text": "Across three scenes, other characters speak around her while her attempts to join the conversation are ignored.",
         "is_correct": true
+      },
+      {
+        "text": "She wears a green coat.",
+        "is_correct": false
+      },
+      {
+        "text": "Her name has five letters.",
+        "is_correct": false
+      },
+      {
+        "text": "The chapter opens at noon.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "creating personal reading lists in a variety of genres and explaining why texts qualify for inclusion on a particular list",
-      "hint": "A writer or speaker can use text choice to shape creating personal reading lists in a variety of genres and explaining why texts qualify for inclusion on a particular list and influence how an audience understands the text."
-    }
+      "summary": "Repeated exclusion from interaction directly supports the interpretation of isolation.",
+      "hint": "Pattern + relevance to claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le02-t-005",
@@ -471,36 +1849,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_debating_whether_a_text_possesses_universal_qualities_and_retains_relevance_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use voice to shape debating whether a text possesses universal qualities and retains relevance and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use voice to shape debating whether a text possesses universal qualities and retains relevance and influence how an audience understands the text?",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "Which sentence best acknowledges an alternative interpretation?",
+    "audio_prompt": "Which sentence best acknowledges an alternative interpretation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "debating whether a text possesses universal qualities and retains relevance",
+        "text": "“The ending can be read as reconciliation, although the repeated image of the closed gate leaves that resolution uncertain.”",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "“Only one reading is possible.”",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "“The ending is definitely happy.”",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "“Other interpretations do not matter.”",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "debating whether a text possesses universal qualities and retains relevance",
-      "hint": "A writer or speaker can use voice to shape debating whether a text possesses universal qualities and retains relevance and influence how an audience understands the text."
-    }
+      "summary": "The sentence fairly acknowledges another reading before qualifying it with textual evidence.",
+      "hint": "Recognise, then evaluate."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le02-t-006",
@@ -508,36 +1890,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_representation_to_shape_presenting_arguments_based_on_close_textual_analysis_to_support_an_interpretation_of_a_text_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use representation to shape presenting arguments based on close textual analysis to support an interpretation of a text and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use representation to shape presenting arguments based on close textual analysis to support an interpretation of a text and influence how an audience understands the text?",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "A director stages a long pause after “You knew.” Why is this a defensible interpretive choice?",
+    "audio_prompt": "A director stages a long pause after “You knew.” Why is this a defensible interpretive choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "presenting arguments based on close textual analysis to support an interpretation of a text; for example, writing an essay or creating a set of director’s notes",
+        "text": "The pause can foreground accusation and force the audience to dwell on the line’s implication.",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Long pauses are always dramatic.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The text demands exactly five seconds.",
+        "is_correct": false
+      },
+      {
+        "text": "Pauses have one universal meaning.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "presenting arguments based on close textual analysis to support an interpretation of a text; for example, writing an essay or creating a set of director’s notes",
-      "hint": "A writer or speaker can use representation to shape presenting arguments based on close textual analysis to support an interpretation of a text and influence how an audience understands the text."
-    }
+      "summary": "A staging choice is defensible when it extends a plausible interpretation of the text.",
+      "hint": "Link performance choice to wording and effect."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le02-t-007",
@@ -545,36 +1931,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_text_choice_to_shape_creating_personal_reading_lists_in_a_variety_of_genres_and_explaining_why_texts_qualify_for_inclusion_on_a_particular_list_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use text choice to shape creating personal reading lists in a variety of genres and explaining why texts qualify for inclusion on a particular list and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use text choice to shape creating personal reading lists in a variety of genres and explaining why texts qualify for inclusion on a particular list and influence how an audience understands the text?",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "Which argument about a classic text is most nuanced?",
+    "audio_prompt": "Which argument about a classic text is most nuanced?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "creating personal reading lists in a variety of genres and explaining why texts qualify for inclusion on a particular list",
+        "text": "Its exploration of jealousy still resonates, while its treatment of gender reflects assumptions many contemporary readers may challenge.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "It is perfect because it is a classic.",
+        "is_correct": false
+      },
+      {
+        "text": "It is worthless because it is old.",
+        "is_correct": false
+      },
+      {
+        "text": "Every audience interprets jealousy identically.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "creating personal reading lists in a variety of genres and explaining why texts qualify for inclusion on a particular list",
-      "hint": "A writer or speaker can use text choice to shape creating personal reading lists in a variety of genres and explaining why texts qualify for inclusion on a particular list and influence how an audience understands the text."
-    }
+      "summary": "Nuance allows enduring relevance and contextual limitation to coexist.",
+      "hint": "Avoid either/or thinking."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le02-t-008",
@@ -582,35 +1972,367 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_debating_whether_a_text_possesses_universal_qualities_and_retains_relevance_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape debating whether a text possesses universal qualities and retains relevance and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape debating whether a text possesses universal qualities and retains relevance and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "A short story repeats images of mirrors whenever the protagonist lies. What interpretation is best supported?",
+    "audio_prompt": "A short story repeats images of mirrors whenever the protagonist lies. What interpretation is best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "debating whether a text possesses universal qualities and retains relevance",
+        "text": "The mirror motif may connect deception with unstable self-perception.",
         "is_correct": true
+      },
+      {
+        "text": "Mirrors always symbolise vanity.",
+        "is_correct": false
+      },
+      {
+        "text": "The story is about interior design.",
+        "is_correct": false
+      },
+      {
+        "text": "The repetition proves the protagonist is evil.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "debating whether a text possesses universal qualities and retains relevance",
-      "hint": "A writer or speaker can use voice to shape debating whether a text possesses universal qualities and retains relevance and influence how an audience understands the text."
-    }
+      "summary": "The repeated contextual link between mirrors and lying supports a specific, text-based interpretation.",
+      "hint": "Use the pattern in this text, not a universal symbol rule."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le02-t-009",
+    "curriculum_code": "AC9E10LE02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "A student says a novel is relevant because it has “modern themes”. What is the best revision?",
+    "audio_prompt": "A student says a novel is relevant because it has “modern themes”. What is the best revision?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Identify the specific concern and explain how the text’s treatment connects with a contemporary issue.",
+        "is_correct": true
+      },
+      {
+        "text": "Replace “themes” with a longer word.",
+        "is_correct": false
+      },
+      {
+        "text": "Add more plot summary.",
+        "is_correct": false
+      },
+      {
+        "text": "State that all readers agree.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A relevance claim needs specificity and reasoning.",
+      "hint": "Name the issue and the connection."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le02-t-010",
+    "curriculum_code": "AC9E10LE02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "Which evidence best supports the claim that power shifts during a scene?",
+    "audio_prompt": "Which evidence best supports the claim that power shifts during a scene?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The character who begins by asking permission ends by issuing commands while the other speaker’s replies shorten.",
+        "is_correct": true
+      },
+      {
+        "text": "The scene has four characters.",
+        "is_correct": false
+      },
+      {
+        "text": "The setting is indoors.",
+        "is_correct": false
+      },
+      {
+        "text": "The dialogue contains commas.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Changes in speech roles and response length directly support a shift in interpersonal power.",
+      "hint": "Track who controls the exchange."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le02-t-011",
+    "curriculum_code": "AC9E10LE02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "A novel’s final paragraph echoes its opening but changes “alone” to “together”. What does this most strongly support?",
+    "audio_prompt": "A novel’s final paragraph echoes its opening but changes “alone” to “together”. What does this most strongly support?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "An interpretation that the novel develops from isolation toward connection",
+        "is_correct": true
+      },
+      {
+        "text": "A claim that the ending is identical to the opening",
+        "is_correct": false
+      },
+      {
+        "text": "A claim about page layout",
+        "is_correct": false
+      },
+      {
+        "text": "Proof that every conflict is resolved",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The altered echo provides textual evidence of thematic development.",
+      "hint": "Compare repetition with change."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le02-t-012",
+    "curriculum_code": "AC9E10LE02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "Which claim about audience response is most accurate?",
+    "audio_prompt": "Which claim about audience response is most accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Different audiences may find different aspects relevant because they bring different contexts and values.",
+        "is_correct": true
+      },
+      {
+        "text": "All audiences respond identically to strong texts.",
+        "is_correct": false
+      },
+      {
+        "text": "Only the first audience matters.",
+        "is_correct": false
+      },
+      {
+        "text": "Relevance is fixed permanently at publication.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Reception changes as audiences and contexts change.",
+      "hint": "Meaning can shift across time and communities."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le02-t-013",
+    "curriculum_code": "AC9E10LE02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "A writer quotes one isolated adjective to prove an entire novel celebrates violence. What is the main problem?",
+    "audio_prompt": "A writer quotes one isolated adjective to prove an entire novel celebrates violence. What is the main problem?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The evidence is too limited for such a broad claim.",
+        "is_correct": true
+      },
+      {
+        "text": "Adjectives cannot be analysed.",
+        "is_correct": false
+      },
+      {
+        "text": "Single words are never evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Violence cannot be a theme.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The scale of the evidence does not match the scale of the conclusion.",
+      "hint": "Claim strength should match evidence strength."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le02-t-014",
+    "curriculum_code": "AC9E10LE02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "Which conclusion best evaluates universality?",
+    "audio_prompt": "Which conclusion best evaluates universality?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The text’s concern with belonging travels across contexts, but its narrow model of family prevents that concern from being represented universally.",
+        "is_correct": true
+      },
+      {
+        "text": "The text is universal because belonging exists.",
+        "is_correct": false
+      },
+      {
+        "text": "The text is not universal because it has a setting.",
+        "is_correct": false
+      },
+      {
+        "text": "Universal texts have no cultural assumptions.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong evaluation identifies both transferable concerns and contextual limits.",
+      "hint": "Enduring idea + limitation."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le02-t-015",
+    "curriculum_code": "AC9E10LE02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "A scene’s repeated phrase changes from affectionate to threatening. What should close analysis focus on?",
+    "audio_prompt": "A scene’s repeated phrase changes from affectionate to threatening. What should close analysis focus on?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "How context, speaker and delivery alter the phrase’s meaning across repetitions",
+        "is_correct": true
+      },
+      {
+        "text": "How many letters the phrase contains",
+        "is_correct": false
+      },
+      {
+        "text": "Whether the phrase is grammatically complete",
+        "is_correct": false
+      },
+      {
+        "text": "Whether repetition is always persuasive",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Close analysis tracks how a repeated detail changes meaning in context.",
+      "hint": "Repetition can develop, not just repeat."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le02-t-016",
+    "curriculum_code": "AC9E10LE02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "textual relevance, universality and evidence-based interpretation",
+    "question": "Which final judgement is strongest?",
+    "audio_prompt": "Which final judgement is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The text remains relevant not because its values are unchanged, but because its conflicts continue to invite debate from changing audiences.",
+        "is_correct": true
+      },
+      {
+        "text": "The text is relevant because teachers still study it.",
+        "is_correct": false
+      },
+      {
+        "text": "The text is universal because it is famous.",
+        "is_correct": false
+      },
+      {
+        "text": "The text cannot be relevant because society changed.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Relevance can arise from continued debate and reinterpretation, not only from unchanged values.",
+      "hint": "A text may remain useful because it provokes questions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v6"
   }
 ]
