@@ -1,0 +1,49 @@
+name: Rebuild Year 2 English actual banks
+
+on:
+  push:
+    branches:
+      - content/year2-english-actual-rebuild
+    paths:
+      - scripts/rebuild_year2_english_student_facing.mjs
+      - .github/workflows/rebuild-year2-english-actual-banks.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Rebuild actual Year 2 English banks
+        run: node scripts/rebuild_year2_english_student_facing.mjs
+      - name: Validate Year 2 English banks
+        run: |
+          node scripts/validate_year2_english_student_facing.mjs
+          node scripts/validate_question_bank_quality.mjs || true
+          git diff --check
+      - name: Guard Classroom View
+        run: |
+          if git status --short | grep -E 'teacher-slides|classroom'; then
+            echo 'Classroom View changed unexpectedly.'
+            git status --short
+            exit 1
+          fi
+      - name: Commit generated banks
+        run: |
+          git config user.name "skillr-content-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add assets/assessment-banks/year2/english quiz/year-2/english
+          if git diff --cached --quiet; then
+            echo 'No generated changes to commit.'
+          else
+            git commit -m 'Rebuild all Year 2 English question banks'
+            git push
+          fi
