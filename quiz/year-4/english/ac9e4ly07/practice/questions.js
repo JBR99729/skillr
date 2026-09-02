@@ -4,28 +4,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-001",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "worked text 1 apply",
+    "skill": "Presentations",
     "printable": true,
     "type": "single",
-    "question": "Read the classroom example. Which slide best supports an oral explanation?",
-    "audioPrompt": "Read the classroom example. Which slide best supports an oral explanation?",
-    "visual": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Worked text 1. Notice: Plan by purpose/audience. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Structured Oral and Multimodal Presentations organiser. Read: Worked text 1. Notice: Plan by purpose/audience. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-001",
-      "alt_text": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Worked text 1. Notice: Plan by purpose/audience. Choose the response supported by the example."
-    },
+    "question": "In opening a talk about local frog habitats, which option best demonstrates the skill?",
+    "audioPrompt": "In opening a talk about local frog habitats, which option best demonstrates the skill?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "a tiny full script",
-      "an unrelated animation",
-      "a labelled diagram with a short heading and spoken elaboration"
+      "Um, frogs. I guess I will say stuff.",
+      "I will begin with my final detail and never explain the topic.",
+      "Today I will explain where local frogs live, what threatens them and how we can help."
     ],
     "correct": 2,
-    "explanation": "The evidence and language purpose support “a labelled diagram with a short heading and spoken elaboration”.\nHint: Check the whole sentence or text feature, then test meaning and grammar.",
+    "explanation": "A clear opening previews the topic and structure for the audience.\nHint: Tell listeners what they are about to learn.",
     "structuredExplanation": {
-      "summary": "The evidence and language purpose support “a labelled diagram with a short heading and spoken elaboration”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "A clear opening previews the topic and structure for the audience.",
+      "hint": "Tell listeners what they are about to learn."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +28,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-002",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "worked text 1 reason",
+    "skill": "Presentations",
     "printable": true,
     "type": "single",
-    "question": "A student answers “a tiny full script”. Which feedback helps? Task: Read the classroom example. Which slide best supports an oral explanation?",
-    "audioPrompt": "A student answers “a tiny full script”. Which feedback helps? Task: Read the classroom example. Which slide best supports an oral explanation?",
-    "visual": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Worked text 1. Notice: Plan by purpose/audience. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Structured Oral and Multimodal Presentations organiser. Read: Worked text 1. Notice: Plan by purpose/audience. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-002\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-002",
-      "alt_text": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Worked text 1. Notice: Plan by purpose/audience. Correct the student's mix-up using the full task."
-    },
+    "question": "Which choice fits opening a talk about local frog habitats most accurately?",
+    "audioPrompt": "Which choice fits opening a talk about local frog habitats most accurately?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “a labelled diagram with a short heading and spoken elaboration”.",
-      "Keep “a tiny full script”; it uses a detail that sounds familiar.",
-      "Choose “an unrelated animation” instead; it sounds clearer."
+      "Today I will explain where local frogs live, what threatens them and how we can help.",
+      "Um, frogs. I guess I will say stuff.",
+      "I will begin with my final detail and never explain the topic."
     ],
     "correct": 0,
-    "explanation": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “a labelled diagram with a short heading and spoken elaboration”.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "A clear opening previews the topic and structure for the audience.\nHint: Tell listeners what they are about to learn.",
     "structuredExplanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “a labelled diagram with a short heading and spoken elaboration”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A clear opening previews the topic and structure for the audience.",
+      "hint": "Tell listeners what they are about to learn."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +52,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-003",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "worked text 2 apply",
+    "skill": "Presentations",
     "printable": true,
     "type": "single",
-    "question": "Read the classroom example. Which structure best suits an argument?",
-    "audioPrompt": "Read the classroom example. Which structure best suits an argument?",
-    "visual": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Worked text 2. Notice: Structure spoken ideas. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Structured Oral and Multimodal Presentations organiser. Read: Worked text 2. Notice: Structure spoken ideas. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-003",
-      "alt_text": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Worked text 2. Notice: Structure spoken ideas. Choose the response supported by the example."
-    },
+    "question": "Which choice fits supporting a claim in a presentation about litter most accurately?",
+    "audioPrompt": "Which choice fits supporting a claim in a presentation about litter most accurately?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "random facts",
-      "position, reasons, evidence, response and conclusion",
-      "events with no connection"
+      "Say everyone knows litter is terrible.",
+      "Use a council clean-up figure and explain how it supports the point about litter in local parks.",
+      "Use an unrelated fact about rainfall."
     ],
     "correct": 1,
-    "explanation": "The evidence and language purpose support “position, reasons, evidence, response and conclusion”.\nHint: Check the whole sentence or text feature, then test meaning and grammar.",
+    "explanation": "Reliable, relevant evidence strengthens a claim when the link is explained.\nHint: Evidence must connect directly to the point.",
     "structuredExplanation": {
-      "summary": "The evidence and language purpose support “position, reasons, evidence, response and conclusion”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "Reliable, relevant evidence strengthens a claim when the link is explained.",
+      "hint": "Evidence must connect directly to the point."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +76,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-004",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "worked text 2 reason",
+    "skill": "Presentations",
     "printable": true,
     "type": "single",
-    "question": "A student answers “events with no connection”. Which feedback helps? Task: Read the classroom example. Which structure best suits an argument?",
-    "audioPrompt": "A student answers “events with no connection”. Which feedback helps? Task: Read the classroom example. Which structure best suits an argument?",
-    "visual": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Worked text 2. Notice: Structure spoken ideas. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Structured Oral and Multimodal Presentations organiser. Read: Worked text 2. Notice: Structure spoken ideas. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-004\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-004",
-      "alt_text": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Worked text 2. Notice: Structure spoken ideas. Correct the student's mix-up using the full task."
-    },
+    "question": "Look closely at supporting a claim in a presentation about litter. Which response or wording works best?",
+    "audioPrompt": "Look closely at supporting a claim in a presentation about litter. Which response or wording works best?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “events with no connection”; it uses a detail that sounds familiar.",
-      "Choose “random facts” instead; it sounds clearer.",
-      "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “position, reasons, evidence, response and conclusion”."
+      "Say everyone knows litter is terrible.",
+      "Use an unrelated fact about rainfall.",
+      "Use a council clean-up figure and explain how it supports the point about litter in local parks."
     ],
     "correct": 2,
-    "explanation": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “position, reasons, evidence, response and conclusion”.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Reliable, relevant evidence strengthens a claim when the link is explained.\nHint: Evidence must connect directly to the point.",
     "structuredExplanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “position, reasons, evidence, response and conclusion”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Reliable, relevant evidence strengthens a claim when the link is explained.",
+      "hint": "Evidence must connect directly to the point."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +100,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-005",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "misconception 1 apply",
+    "skill": "Presentations",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Presentation means reading slides”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Presentation means reading slides”. Which response gives the most accurate correction?",
-    "visual": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Misconception 1. Notice: Integrate evidence and visuals. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Structured Oral and Multimodal Presentations organiser. Read: Misconception 1. Notice: Integrate evidence and visuals. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-005",
-      "alt_text": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Misconception 1. Notice: Integrate evidence and visuals. Choose the response supported by the example."
-    },
+    "question": "Look closely at choosing language for a factual science presentation. Which response or wording works best?",
+    "audioPrompt": "Look closely at choosing language for a factual science presentation. Which response or wording works best?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Slides cue and extend the spoken message.",
-      "Presentation means reading slides",
-      "Loud voice is always effective"
+      "The water temperature increased by 4°C during the test.",
+      "The water became super awesome hot.",
+      "I feel the temperature was probably the best."
     ],
     "correct": 0,
-    "explanation": "Slides cue and extend the spoken message.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "Objective language suits a factual report of measured results.\nHint: Match subjective or objective wording to the presentation purpose.",
     "structuredExplanation": {
-      "summary": "Slides cue and extend the spoken message.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Objective language suits a factual report of measured results.",
+      "hint": "Match subjective or objective wording to the presentation purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +124,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-006",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "misconception 1 reason",
+    "skill": "Presentations",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Presentation means reading slides”. Which feedback helps? Task: A student in a workshop claims, “Presentation means reading slides”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Presentation means reading slides”. Which feedback helps? Task: A student in a workshop claims, “Presentation means reading slides”. Which response gives the most accurate correction?",
-    "visual": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Misconception 1. Notice: Integrate evidence and visuals. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Structured Oral and Multimodal Presentations organiser. Read: Misconception 1. Notice: Integrate evidence and visuals. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-006",
-      "alt_text": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Misconception 1. Notice: Integrate evidence and visuals. Correct the student's mix-up using the full task."
-    },
+    "question": "For choosing language for a factual science presentation, which option is the strongest match?",
+    "audioPrompt": "For choosing language for a factual science presentation, which option is the strongest match?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Presentation means reading slides”; it uses a detail that sounds familiar.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Slides cue and extend the spoken message.",
-      "Choose “Loud voice is always effective” instead; it sounds clearer."
+      "The water became super awesome hot.",
+      "The water temperature increased by 4°C during the test.",
+      "I feel the temperature was probably the best."
     ],
     "correct": 1,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Slides cue and extend the spoken message.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Objective language suits a factual report of measured results.\nHint: Match subjective or objective wording to the presentation purpose.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Slides cue and extend the spoken message.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Objective language suits a factual report of measured results.",
+      "hint": "Match subjective or objective wording to the presentation purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +148,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-007",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "misconception 2 apply",
+    "skill": "Presentations",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Loud voice is always effective”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Loud voice is always effective”. Which response gives the most accurate correction?",
-    "visual": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Misconception 2. Notice: Control tone/pace/pitch/volume. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Structured Oral and Multimodal Presentations organiser. Read: Misconception 2. Notice: Control tone/pace/pitch/volume. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-007",
-      "alt_text": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Misconception 2. Notice: Control tone/pace/pitch/volume. Choose the response supported by the example."
-    },
+    "question": "For using a slide about the solar system, which option is the strongest match?",
+    "audioPrompt": "For using a slide about the solar system, which option is the strongest match?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Loud voice is always effective",
-      "More animation increases engagement",
-      "Volume should be audible and controlled, with variation for meaning."
+      "Fill the slide with tiny paragraphs and read every word.",
+      "Use a decorative image that has no connection to the explanation.",
+      "Show one clear labelled diagram while explaining the key relationships aloud."
     ],
     "correct": 2,
-    "explanation": "Volume should be audible and controlled, with variation for meaning.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "A visual should extend or clarify the spoken message rather than compete with it.\nHint: Ask what the audience needs to see while listening.",
     "structuredExplanation": {
-      "summary": "Volume should be audible and controlled, with variation for meaning.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "A visual should extend or clarify the spoken message rather than compete with it.",
+      "hint": "Ask what the audience needs to see while listening."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +172,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-008",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "misconception 2 reason",
+    "skill": "Presentations",
     "printable": true,
     "type": "single",
-    "question": "A student answers “More animation increases engagement”. Which feedback helps? Task: A student in a workshop claims, “Loud voice is always effective”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “More animation increases engagement”. Which feedback helps? Task: A student in a workshop claims, “Loud voice is always effective”. Which response gives the most accurate correction?",
-    "visual": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Misconception 2. Notice: Control tone/pace/pitch/volume. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Structured Oral and Multimodal Presentations organiser. Read: Misconception 2. Notice: Control tone/pace/pitch/volume. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-008\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-008",
-      "alt_text": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Misconception 2. Notice: Control tone/pace/pitch/volume. Correct the student's mix-up using the full task."
-    },
+    "question": "Which example should you choose for using a slide about the solar system?",
+    "audioPrompt": "Which example should you choose for using a slide about the solar system?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Volume should be audible and controlled, with variation for meaning.",
-      "Keep “More animation increases engagement”; it uses a detail that sounds familiar.",
-      "Choose “Loud voice is always effective” instead; it sounds clearer."
+      "Show one clear labelled diagram while explaining the key relationships aloud.",
+      "Fill the slide with tiny paragraphs and read every word.",
+      "Use a decorative image that has no connection to the explanation."
     ],
     "correct": 0,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Volume should be audible and controlled, with variation for meaning.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "A visual should extend or clarify the spoken message rather than compete with it.\nHint: Ask what the audience needs to see while listening.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Volume should be audible and controlled, with variation for meaning.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A visual should extend or clarify the spoken message rather than compete with it.",
+      "hint": "Ask what the audience needs to see while listening."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +196,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-009",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "misconception 3 apply",
+    "skill": "Presentations",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “More animation increases engagement”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “More animation increases engagement”. Which response gives the most accurate correction?",
-    "visual": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Misconception 3. Notice: Rehearse and revise. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Structured Oral and Multimodal Presentations organiser. Read: Misconception 3. Notice: Rehearse and revise. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-009",
-      "alt_text": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Misconception 3. Notice: Rehearse and revise. Choose the response supported by the example."
-    },
+    "question": "Which example should you choose for speaking to a large assembly?",
+    "audioPrompt": "Which example should you choose for speaking to a large assembly?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "More animation increases engagement",
-      "Movement should direct attention, not distract.",
-      "Rehearsal focuses only on memorising"
+      "Rush quietly through every sentence.",
+      "Use enough volume to be heard, a steady pace and pauses at key points.",
+      "Shout every word at the same pitch."
     ],
     "correct": 1,
-    "explanation": "Movement should direct attention, not distract.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "Controlled volume, pace and pauses make meaning easier to follow.\nHint: Voice choices should support understanding, not simply make speech louder.",
     "structuredExplanation": {
-      "summary": "Movement should direct attention, not distract.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Controlled volume, pace and pauses make meaning easier to follow.",
+      "hint": "Voice choices should support understanding, not simply make speech louder."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +220,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-010",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "misconception 3 reason",
+    "skill": "Presentations",
     "printable": true,
     "type": "single",
-    "question": "A student answers “More animation increases engagement”. Which feedback helps? Task: A student in a workshop claims, “More animation increases engagement”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “More animation increases engagement”. Which feedback helps? Task: A student in a workshop claims, “More animation increases engagement”. Which response gives the most accurate correction?",
-    "visual": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Misconception 3. Notice: Rehearse and revise. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Structured Oral and Multimodal Presentations organiser. Read: Misconception 3. Notice: Rehearse and revise. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-010",
-      "alt_text": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Misconception 3. Notice: Rehearse and revise. Correct the student's mix-up using the full task."
-    },
+    "question": "In speaking to a large assembly, which option best demonstrates the skill?",
+    "audioPrompt": "In speaking to a large assembly, which option best demonstrates the skill?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “More animation increases engagement”; it uses a detail that sounds familiar.",
-      "Choose “Rehearsal focuses only on memorising” instead; it sounds clearer.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Movement should direct attention, not distract."
+      "Rush quietly through every sentence.",
+      "Shout every word at the same pitch.",
+      "Use enough volume to be heard, a steady pace and pauses at key points."
     ],
     "correct": 2,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Movement should direct attention, not distract.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Controlled volume, pace and pauses make meaning easier to follow.\nHint: Voice choices should support understanding, not simply make speech louder.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Movement should direct attention, not distract.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Controlled volume, pace and pauses make meaning easier to follow.",
+      "hint": "Voice choices should support understanding, not simply make speech louder."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +244,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-011",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "misconception 4 apply",
+    "skill": "Presentations",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Rehearsal focuses only on memorising”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Rehearsal focuses only on memorising”. Which response gives the most accurate correction?",
-    "visual": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Misconception 4. Notice: Plan by purpose/audience. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Structured Oral and Multimodal Presentations organiser. Read: Misconception 4. Notice: Plan by purpose/audience. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-011",
-      "alt_text": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Misconception 4. Notice: Plan by purpose/audience. Choose the response supported by the example."
-    },
+    "question": "Why does “Today I will explain where local frogs live, what threatens them and how we can help.” work well for opening a talk about local frog habitats?",
+    "audioPrompt": "Why does “Today I will explain where local frogs live, what threatens them and how we can help.” work well for opening a talk about local frog habitats?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Test timing, clarity, evidence, visuals and audience understanding.",
-      "Rehearsal focuses only on memorising",
-      "Subjective language replaces evidence in an argument"
+      "A clear opening previews the topic and structure for the audience.",
+      "Because “Um, frogs. I guess I will say stuff.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 0,
-    "explanation": "Test timing, clarity, evidence, visuals and audience understanding.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "A clear opening previews the topic and structure for the audience.\nHint: Tell listeners what they are about to learn.",
     "structuredExplanation": {
-      "summary": "Test timing, clarity, evidence, visuals and audience understanding.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "A clear opening previews the topic and structure for the audience.",
+      "hint": "Tell listeners what they are about to learn."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +268,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-012",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "misconception 4 reason",
+    "skill": "Presentations",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Subjective language replaces evidence in an argument”. Which feedback helps? Task: A student in a workshop claims, “Rehearsal focuses only on memorising”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Subjective language replaces evidence in an argument”. Which feedback helps? Task: A student in a workshop claims, “Rehearsal focuses only on memorising”. Which response gives the most accurate correction?",
-    "visual": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Misconception 4. Notice: Plan by purpose/audience. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Structured Oral and Multimodal Presentations organiser. Read: Misconception 4. Notice: Plan by purpose/audience. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-012\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-012",
-      "alt_text": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Misconception 4. Notice: Plan by purpose/audience. Correct the student's mix-up using the full task."
-    },
+    "question": "What makes “Today I will explain where local frogs live, what threatens them and how we can help.” a better choice in opening a talk about local frog habitats?",
+    "audioPrompt": "What makes “Today I will explain where local frogs live, what threatens them and how we can help.” a better choice in opening a talk about local frog habitats?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Subjective language replaces evidence in an argument”; it uses a detail that sounds familiar.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Test timing, clarity, evidence, visuals and audience understanding.",
-      "Choose “Rehearsal focuses only on memorising” instead; it sounds clearer."
+      "Because “Um, frogs. I guess I will say stuff.” is always acceptable in this situation.",
+      "A clear opening previews the topic and structure for the audience.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 1,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Test timing, clarity, evidence, visuals and audience understanding.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "A clear opening previews the topic and structure for the audience.\nHint: Tell listeners what they are about to learn.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Test timing, clarity, evidence, visuals and audience understanding.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A clear opening previews the topic and structure for the audience.",
+      "hint": "Tell listeners what they are about to learn."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +292,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-013",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "misconception 5 apply",
+    "skill": "Presentations",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Subjective language replaces evidence in an argument”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Subjective language replaces evidence in an argument”. Which response gives the most accurate correction?",
-    "visual": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Misconception 5. Notice: Structure spoken ideas. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Structured Oral and Multimodal Presentations organiser. Read: Misconception 5. Notice: Structure spoken ideas. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-013",
-      "alt_text": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Misconception 5. Notice: Structure spoken ideas. Choose the response supported by the example."
-    },
+    "question": "What makes “Use a council clean-up figure and explain how it supports the point about litter in local parks.” a better choice in supporting a claim in a presentation about litter?",
+    "audioPrompt": "What makes “Use a council clean-up figure and explain how it supports the point about litter in local parks.” a better choice in supporting a claim in a presentation about litter?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Subjective language replaces evidence in an argument",
-      "Presentation means reading slides",
-      "Use evaluation alongside verifiable support."
+      "Because “Say everyone knows litter is terrible.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct.",
+      "Reliable, relevant evidence strengthens a claim when the link is explained."
     ],
     "correct": 2,
-    "explanation": "Use evaluation alongside verifiable support.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "Reliable, relevant evidence strengthens a claim when the link is explained.\nHint: Evidence must connect directly to the point.",
     "structuredExplanation": {
-      "summary": "Use evaluation alongside verifiable support.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Reliable, relevant evidence strengthens a claim when the link is explained.",
+      "hint": "Evidence must connect directly to the point."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +316,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-014",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "misconception 5 reason",
+    "skill": "Presentations",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Subjective language replaces evidence in an argument”. Which feedback helps? Task: A student in a workshop claims, “Subjective language replaces evidence in an argument”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Subjective language replaces evidence in an argument”. Which feedback helps? Task: A student in a workshop claims, “Subjective language replaces evidence in an argument”. Which response gives the most accurate correction?",
-    "visual": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Misconception 5. Notice: Structure spoken ideas. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Structured Oral and Multimodal Presentations organiser. Read: Misconception 5. Notice: Structure spoken ideas. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-014\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-014",
-      "alt_text": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Misconception 5. Notice: Structure spoken ideas. Correct the student's mix-up using the full task."
-    },
+    "question": "Which explanation best justifies “Use a council clean-up figure and explain how it supports the point about litter in local parks.” for supporting a claim in a presentation about litter?",
+    "audioPrompt": "Which explanation best justifies “Use a council clean-up figure and explain how it supports the point about litter in local parks.” for supporting a claim in a presentation about litter?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use evaluation alongside verifiable support.",
-      "Keep “Subjective language replaces evidence in an argument”; it uses a detail that sounds familiar.",
-      "Choose “Presentation means reading slides” instead; it sounds clearer."
+      "Reliable, relevant evidence strengthens a claim when the link is explained.",
+      "Because “Say everyone knows litter is terrible.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 0,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use evaluation alongside verifiable support.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Reliable, relevant evidence strengthens a claim when the link is explained.\nHint: Evidence must connect directly to the point.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use evaluation alongside verifiable support.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Reliable, relevant evidence strengthens a claim when the link is explained.",
+      "hint": "Evidence must connect directly to the point."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +340,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-015",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "purpose storyboard apply",
+    "skill": "Presentations",
     "printable": true,
     "type": "single",
-    "question": "The class prepares “Purpose storyboard”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "The class prepares “Purpose storyboard”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Purpose storyboard. Notice: Integrate evidence and visuals. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Structured Oral and Multimodal Presentations organiser. Read: Purpose storyboard. Notice: Integrate evidence and visuals. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-015",
-      "alt_text": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Purpose storyboard. Notice: Integrate evidence and visuals. Choose the response supported by the example."
-    },
+    "question": "Which explanation best justifies “The water temperature increased by 4°C during the test.” for choosing language for a factual science presentation?",
+    "audioPrompt": "Which explanation best justifies “The water temperature increased by 4°C during the test.” for choosing language for a factual science presentation?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Plan opening, sections, evidence, visuals, transitions and closing on one presentation map.",
-      "Change the purpose and audience halfway through, then report the first impression only."
+      "Because “The water became super awesome hot.” is always acceptable in this situation.",
+      "Objective language suits a factual report of measured results.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 1,
-    "explanation": "Plan opening, sections, evidence, visuals, transitions and closing on one presentation map.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "explanation": "Objective language suits a factual report of measured results.\nHint: Match subjective or objective wording to the presentation purpose.",
     "structuredExplanation": {
-      "summary": "Plan opening, sections, evidence, visuals, transitions and closing on one presentation map.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "Objective language suits a factual report of measured results.",
+      "hint": "Match subjective or objective wording to the presentation purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +364,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-016",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "purpose storyboard reason",
+    "skill": "Presentations",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Purpose storyboard”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Purpose storyboard”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Purpose storyboard. Notice: Integrate evidence and visuals. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Structured Oral and Multimodal Presentations organiser. Read: Purpose storyboard. Notice: Integrate evidence and visuals. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-016",
-      "alt_text": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Purpose storyboard. Notice: Integrate evidence and visuals. Correct the student's mix-up using the full task."
-    },
+    "question": "What should you notice about “The water temperature increased by 4°C during the test.” in choosing language for a factual science presentation?",
+    "audioPrompt": "What should you notice about “The water temperature increased by 4°C during the test.” in choosing language for a factual science presentation?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
-      "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
-      "Choose the plan that analyses language evidence and produces a reviewable response. Plan opening, sections, evidence, visuals, transitions and closing on one presentation map."
+      "Because “The water became super awesome hot.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct.",
+      "Objective language suits a factual report of measured results."
     ],
     "correct": 2,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. Plan opening, sections, evidence, visuals, transitions and closing on one presentation map.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Objective language suits a factual report of measured results.\nHint: Match subjective or objective wording to the presentation purpose.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Plan opening, sections, evidence, visuals, transitions and closing on one presentation map.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Objective language suits a factual report of measured results.",
+      "hint": "Match subjective or objective wording to the presentation purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -468,28 +388,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-017",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "delivery experiment apply",
+    "skill": "Presentations",
     "printable": true,
     "type": "single",
-    "question": "The class prepares “Delivery experiment”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "The class prepares “Delivery experiment”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Delivery experiment. Notice: Control tone/pace/pitch/volume. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Structured Oral and Multimodal Presentations organiser. Read: Delivery experiment. Notice: Control tone/pace/pitch/volume. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-017",
-      "alt_text": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Delivery experiment. Notice: Control tone/pace/pitch/volume. Choose the response supported by the example."
-    },
+    "question": "What should you notice about “Show one clear labelled diagram while explaining the key relationships aloud.” in using a slide about the solar system?",
+    "audioPrompt": "What should you notice about “Show one clear labelled diagram while explaining the key relationships aloud.” in using a slide about the solar system?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Record the same short passage at different pace, volume and tone; evaluate clarity and effect.",
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Change the purpose and audience halfway through, then report the first impression only."
+      "A visual should extend or clarify the spoken message rather than compete with it.",
+      "Because “Fill the slide with tiny paragraphs and read every word.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 0,
-    "explanation": "Record the same short passage at different pace, volume and tone; evaluate clarity and effect.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "explanation": "A visual should extend or clarify the spoken message rather than compete with it.\nHint: Ask what the audience needs to see while listening.",
     "structuredExplanation": {
-      "summary": "Record the same short passage at different pace, volume and tone; evaluate clarity and effect.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "A visual should extend or clarify the spoken message rather than compete with it.",
+      "hint": "Ask what the audience needs to see while listening."
     },
     "qualitySchema": "production-v1"
   },
@@ -497,28 +412,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-018",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "delivery experiment reason",
+    "skill": "Presentations",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Delivery experiment”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Delivery experiment”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Delivery experiment. Notice: Control tone/pace/pitch/volume. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Structured Oral and Multimodal Presentations organiser. Read: Delivery experiment. Notice: Control tone/pace/pitch/volume. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-018\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-018",
-      "alt_text": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Delivery experiment. Notice: Control tone/pace/pitch/volume. Correct the student's mix-up using the full task."
-    },
+    "question": "Which reason explains why “Show one clear labelled diagram while explaining the key relationships aloud.” suits using a slide about the solar system?",
+    "audioPrompt": "Which reason explains why “Show one clear labelled diagram while explaining the key relationships aloud.” suits using a slide about the solar system?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
-      "Choose the plan that analyses language evidence and produces a reviewable response. Record the same short passage at different pace, volume and tone; evaluate clarity and effect.",
-      "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer."
+      "Because “Fill the slide with tiny paragraphs and read every word.” is always acceptable in this situation.",
+      "A visual should extend or clarify the spoken message rather than compete with it.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 1,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. Record the same short passage at different pace, volume and tone; evaluate clarity and effect.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "A visual should extend or clarify the spoken message rather than compete with it.\nHint: Ask what the audience needs to see while listening.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Record the same short passage at different pace, volume and tone; evaluate clarity and effect.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A visual should extend or clarify the spoken message rather than compete with it.",
+      "hint": "Ask what the audience needs to see while listening."
     },
     "qualitySchema": "production-v1"
   },
@@ -526,28 +436,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-019",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "slide text reduction apply",
+    "skill": "Presentations",
     "printable": true,
     "type": "single",
-    "question": "The class prepares “Slide-text reduction”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "The class prepares “Slide-text reduction”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Slide-text reduction. Notice: Rehearse and revise. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Structured Oral and Multimodal Presentations organiser. Read: Slide-text reduction. Notice: Rehearse and revise. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-019",
-      "alt_text": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Slide-text reduction. Notice: Rehearse and revise. Choose the response supported by the example."
-    },
+    "question": "Which reason explains why “Use enough volume to be heard, a steady pace and pauses at key points.” suits speaking to a large assembly?",
+    "audioPrompt": "Which reason explains why “Use enough volume to be heard, a steady pace and pauses at key points.” suits speaking to a large assembly?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Change the purpose and audience halfway through, then report the first impression only.",
-      "Convert a paragraph-heavy slide into a visual, key phrase and spoken explanation."
+      "Because “Rush quietly through every sentence.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct.",
+      "Controlled volume, pace and pauses make meaning easier to follow."
     ],
     "correct": 2,
-    "explanation": "Convert a paragraph-heavy slide into a visual, key phrase and spoken explanation.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "explanation": "Controlled volume, pace and pauses make meaning easier to follow.\nHint: Voice choices should support understanding, not simply make speech louder.",
     "structuredExplanation": {
-      "summary": "Convert a paragraph-heavy slide into a visual, key phrase and spoken explanation.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "Controlled volume, pace and pauses make meaning easier to follow.",
+      "hint": "Voice choices should support understanding, not simply make speech louder."
     },
     "qualitySchema": "production-v1"
   },
@@ -555,28 +460,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-020",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "slide text reduction reason",
+    "skill": "Presentations",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Slide-text reduction”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Slide-text reduction”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Slide-text reduction. Notice: Rehearse and revise. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Structured Oral and Multimodal Presentations organiser. Read: Slide-text reduction. Notice: Rehearse and revise. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-020\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-020",
-      "alt_text": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Slide-text reduction. Notice: Rehearse and revise. Correct the student's mix-up using the full task."
-    },
+    "question": "Why does “Use enough volume to be heard, a steady pace and pauses at key points.” work well for speaking to a large assembly?",
+    "audioPrompt": "Why does “Use enough volume to be heard, a steady pace and pauses at key points.” work well for speaking to a large assembly?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Choose the plan that analyses language evidence and produces a reviewable response. Convert a paragraph-heavy slide into a visual, key phrase and spoken explanation.",
-      "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
-      "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer."
+      "Controlled volume, pace and pauses make meaning easier to follow.",
+      "Because “Rush quietly through every sentence.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 0,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. Convert a paragraph-heavy slide into a visual, key phrase and spoken explanation.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Controlled volume, pace and pauses make meaning easier to follow.\nHint: Voice choices should support understanding, not simply make speech louder.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Convert a paragraph-heavy slide into a visual, key phrase and spoken explanation.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Controlled volume, pace and pauses make meaning easier to follow.",
+      "hint": "Voice choices should support understanding, not simply make speech louder."
     },
     "qualitySchema": "production-v1"
   },
@@ -584,28 +484,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-021",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "vocabulary 1 apply",
+    "skill": "Presentations",
     "printable": true,
     "type": "single",
-    "question": "A class annotation about Structured Oral and Multimodal Presentations describes “planned spoken communication to an audience”. Which term is most precise?",
-    "audioPrompt": "A class annotation about Structured Oral and Multimodal Presentations describes “planned spoken communication to an audience”. Which term is most precise?",
-    "visual": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Vocabulary 1. Notice: Plan by purpose/audience. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Structured Oral and Multimodal Presentations organiser. Read: Vocabulary 1. Notice: Plan by purpose/audience. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-021\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-021",
-      "alt_text": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Vocabulary 1. Notice: Plan by purpose/audience. Choose the response supported by the example."
-    },
+    "question": "Which revision best fixes the problem in “Um, frogs. I guess I will say stuff.” for opening a talk about local frog habitats?",
+    "audioPrompt": "Which revision best fixes the problem in “Um, frogs. I guess I will say stuff.” for opening a talk about local frog habitats?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "multimodal presentation",
-      "oral presentation",
-      "signposting"
+      "Um, frogs. I guess I will say stuff.",
+      "Today I will explain where local frogs live, what threatens them and how we can help.",
+      "I will begin with my final detail and never explain the topic."
     ],
     "correct": 1,
-    "explanation": "oral presentation is the precise term for this feature.\nHint: Match the definition to the exact language or literacy concept.",
+    "explanation": "A clear opening previews the topic and structure for the audience. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Tell listeners what they are about to learn.",
     "structuredExplanation": {
-      "summary": "oral presentation is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
+      "summary": "A clear opening previews the topic and structure for the audience. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Tell listeners what they are about to learn."
     },
     "qualitySchema": "production-v1"
   },
@@ -613,28 +508,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-022",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "vocabulary 1 reason",
+    "skill": "Presentations",
     "printable": true,
     "type": "single",
-    "question": "A student answers “multimodal presentation”. Which feedback helps? Task: A class annotation about Structured Oral and Multimodal Presentations describes “planned spoken communication to an audience”. Which term is most precise?",
-    "audioPrompt": "A student answers “multimodal presentation”. Which feedback helps? Task: A class annotation about Structured Oral and Multimodal Presentations describes “planned spoken communication to an audience”. Which term is most precise?",
-    "visual": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Vocabulary 1. Notice: Plan by purpose/audience. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Structured Oral and Multimodal Presentations organiser. Read: Vocabulary 1. Notice: Plan by purpose/audience. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-022\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-022",
-      "alt_text": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Vocabulary 1. Notice: Plan by purpose/audience. Correct the student's mix-up using the full task."
-    },
+    "question": "Compare the choices for opening a talk about local frog habitats. Which one avoids the mistake in “Um, frogs. I guess I will say stuff.”?",
+    "audioPrompt": "Compare the choices for opening a talk about local frog habitats. Which one avoids the mistake in “Um, frogs. I guess I will say stuff.”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “multimodal presentation”; it uses a detail that sounds familiar.",
-      "Choose “signposting” instead; it sounds clearer.",
-      "Match the definition to the exact language or literacy concept. oral presentation is the precise term for this feature."
+      "Um, frogs. I guess I will say stuff.",
+      "I will begin with my final detail and never explain the topic.",
+      "Today I will explain where local frogs live, what threatens them and how we can help."
     ],
     "correct": 2,
-    "explanation": "Match the definition to the exact language or literacy concept. oral presentation is the precise term for this feature.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "A clear opening previews the topic and structure for the audience. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Tell listeners what they are about to learn.",
     "structuredExplanation": {
-      "summary": "Match the definition to the exact language or literacy concept. oral presentation is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A clear opening previews the topic and structure for the audience. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Tell listeners what they are about to learn."
     },
     "qualitySchema": "production-v1"
   },
@@ -642,28 +532,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-023",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "vocabulary 2 apply",
+    "skill": "Presentations",
     "printable": true,
     "type": "single",
-    "question": "A class annotation about Structured Oral and Multimodal Presentations describes “communication combining speech with visual, audio or movement modes”. Which term is most precise?",
-    "audioPrompt": "A class annotation about Structured Oral and Multimodal Presentations describes “communication combining speech with visual, audio or movement modes”. Which term is most precise?",
-    "visual": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Vocabulary 2. Notice: Structure spoken ideas. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Structured Oral and Multimodal Presentations organiser. Read: Vocabulary 2. Notice: Structure spoken ideas. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-023\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-023",
-      "alt_text": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Vocabulary 2. Notice: Structure spoken ideas. Choose the response supported by the example."
-    },
+    "question": "Compare the choices for supporting a claim in a presentation about litter. Which one avoids the mistake in “Say everyone knows litter is terrible.”?",
+    "audioPrompt": "Compare the choices for supporting a claim in a presentation about litter. Which one avoids the mistake in “Say everyone knows litter is terrible.”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "multimodal presentation",
-      "oral presentation",
-      "signposting"
+      "Use a council clean-up figure and explain how it supports the point about litter in local parks.",
+      "Say everyone knows litter is terrible.",
+      "Use an unrelated fact about rainfall."
     ],
     "correct": 0,
-    "explanation": "multimodal presentation is the precise term for this feature.\nHint: Match the definition to the exact language or literacy concept.",
+    "explanation": "Reliable, relevant evidence strengthens a claim when the link is explained. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Evidence must connect directly to the point.",
     "structuredExplanation": {
-      "summary": "multimodal presentation is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
+      "summary": "Reliable, relevant evidence strengthens a claim when the link is explained. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Evidence must connect directly to the point."
     },
     "qualitySchema": "production-v1"
   },
@@ -671,28 +556,407 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-024",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "vocabulary 2 reason",
+    "skill": "Presentations",
     "printable": true,
     "type": "single",
-    "question": "A student answers “signposting”. Which feedback helps? Task: A class annotation about Structured Oral and Multimodal Presentations describes “communication combining speech with visual, audio or movement modes”. Which term is most precise?",
-    "audioPrompt": "A student answers “signposting”. Which feedback helps? Task: A class annotation about Structured Oral and Multimodal Presentations describes “communication combining speech with visual, audio or movement modes”. Which term is most precise?",
-    "visual": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Vocabulary 2. Notice: Structure spoken ideas. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Structured Oral and Multimodal Presentations organiser. Read: Vocabulary 2. Notice: Structure spoken ideas. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-024\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly07.svg#ac9e4ly07-p-024",
-      "alt_text": "Three-step Structured Oral and Multimodal Presentations organiser. Read: Vocabulary 2. Notice: Structure spoken ideas. Correct the student's mix-up using the full task."
-    },
+    "question": "If “Say everyone knows litter is terrible.” does not work in supporting a claim in a presentation about litter, what should replace it?",
+    "audioPrompt": "If “Say everyone knows litter is terrible.” does not work in supporting a claim in a presentation about litter, what should replace it?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “signposting”; it uses a detail that sounds familiar.",
-      "Match the definition to the exact language or literacy concept. multimodal presentation is the precise term for this feature.",
-      "Choose “oral presentation” instead; it sounds clearer."
+      "Say everyone knows litter is terrible.",
+      "Use a council clean-up figure and explain how it supports the point about litter in local parks.",
+      "Use an unrelated fact about rainfall."
     ],
     "correct": 1,
-    "explanation": "Match the definition to the exact language or literacy concept. multimodal presentation is the precise term for this feature.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Reliable, relevant evidence strengthens a claim when the link is explained. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Evidence must connect directly to the point.",
     "structuredExplanation": {
-      "summary": "Match the definition to the exact language or literacy concept. multimodal presentation is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Reliable, relevant evidence strengthens a claim when the link is explained. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Evidence must connect directly to the point."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly07-p-025",
+    "curriculumCode": "AC9E4LY07",
+    "bank": "practice",
+    "skill": "Presentations",
+    "printable": true,
+    "type": "single",
+    "question": "If “The water became super awesome hot.” does not work in choosing language for a factual science presentation, what should replace it?",
+    "audioPrompt": "If “The water became super awesome hot.” does not work in choosing language for a factual science presentation, what should replace it?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The water became super awesome hot.",
+      "I feel the temperature was probably the best.",
+      "The water temperature increased by 4°C during the test."
+    ],
+    "correct": 2,
+    "explanation": "Objective language suits a factual report of measured results. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Match subjective or objective wording to the presentation purpose.",
+    "structuredExplanation": {
+      "summary": "Objective language suits a factual report of measured results. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Match subjective or objective wording to the presentation purpose."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly07-p-026",
+    "curriculumCode": "AC9E4LY07",
+    "bank": "practice",
+    "skill": "Presentations",
+    "printable": true,
+    "type": "single",
+    "question": "Which option corrects the meaning or form needed for choosing language for a factual science presentation?",
+    "audioPrompt": "Which option corrects the meaning or form needed for choosing language for a factual science presentation?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The water temperature increased by 4°C during the test.",
+      "The water became super awesome hot.",
+      "I feel the temperature was probably the best."
+    ],
+    "correct": 0,
+    "explanation": "Objective language suits a factual report of measured results. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Match subjective or objective wording to the presentation purpose.",
+    "structuredExplanation": {
+      "summary": "Objective language suits a factual report of measured results. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Match subjective or objective wording to the presentation purpose."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly07-p-027",
+    "curriculumCode": "AC9E4LY07",
+    "bank": "practice",
+    "skill": "Presentations",
+    "printable": true,
+    "type": "single",
+    "question": "Which option corrects the meaning or form needed for using a slide about the solar system?",
+    "audioPrompt": "Which option corrects the meaning or form needed for using a slide about the solar system?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Fill the slide with tiny paragraphs and read every word.",
+      "Show one clear labelled diagram while explaining the key relationships aloud.",
+      "Use a decorative image that has no connection to the explanation."
+    ],
+    "correct": 1,
+    "explanation": "A visual should extend or clarify the spoken message rather than compete with it. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Ask what the audience needs to see while listening.",
+    "structuredExplanation": {
+      "summary": "A visual should extend or clarify the spoken message rather than compete with it. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Ask what the audience needs to see while listening."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly07-p-028",
+    "curriculumCode": "AC9E4LY07",
+    "bank": "practice",
+    "skill": "Presentations",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is the clearest correction for using a slide about the solar system?",
+    "audioPrompt": "Which choice is the clearest correction for using a slide about the solar system?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Fill the slide with tiny paragraphs and read every word.",
+      "Use a decorative image that has no connection to the explanation.",
+      "Show one clear labelled diagram while explaining the key relationships aloud."
+    ],
+    "correct": 2,
+    "explanation": "A visual should extend or clarify the spoken message rather than compete with it. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Ask what the audience needs to see while listening.",
+    "structuredExplanation": {
+      "summary": "A visual should extend or clarify the spoken message rather than compete with it. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Ask what the audience needs to see while listening."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly07-p-029",
+    "curriculumCode": "AC9E4LY07",
+    "bank": "practice",
+    "skill": "Presentations",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is the clearest correction for speaking to a large assembly?",
+    "audioPrompt": "Which choice is the clearest correction for speaking to a large assembly?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use enough volume to be heard, a steady pace and pauses at key points.",
+      "Rush quietly through every sentence.",
+      "Shout every word at the same pitch."
+    ],
+    "correct": 0,
+    "explanation": "Controlled volume, pace and pauses make meaning easier to follow. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Voice choices should support understanding, not simply make speech louder.",
+    "structuredExplanation": {
+      "summary": "Controlled volume, pace and pauses make meaning easier to follow. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Voice choices should support understanding, not simply make speech louder."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly07-p-030",
+    "curriculumCode": "AC9E4LY07",
+    "bank": "practice",
+    "skill": "Presentations",
+    "printable": true,
+    "type": "single",
+    "question": "Which revision best fixes the problem in “Rush quietly through every sentence.” for speaking to a large assembly?",
+    "audioPrompt": "Which revision best fixes the problem in “Rush quietly through every sentence.” for speaking to a large assembly?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Rush quietly through every sentence.",
+      "Use enough volume to be heard, a steady pace and pauses at key points.",
+      "Shout every word at the same pitch."
+    ],
+    "correct": 1,
+    "explanation": "Controlled volume, pace and pauses make meaning easier to follow. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Voice choices should support understanding, not simply make speech louder.",
+    "structuredExplanation": {
+      "summary": "Controlled volume, pace and pauses make meaning easier to follow. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Voice choices should support understanding, not simply make speech louder."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly07-p-031",
+    "curriculumCode": "AC9E4LY07",
+    "bank": "practice",
+    "skill": "Presentations",
+    "printable": true,
+    "type": "single",
+    "question": "You now need to handle opening a talk about local frog habitats independently. Which choice should you use?",
+    "audioPrompt": "You now need to handle opening a talk about local frog habitats independently. Which choice should you use?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "I will begin with my final detail and never explain the topic.",
+      "Um, frogs. I guess I will say stuff.",
+      "Today I will explain where local frogs live, what threatens them and how we can help."
+    ],
+    "correct": 2,
+    "explanation": "A clear opening previews the topic and structure for the audience.\nHint: Tell listeners what they are about to learn.",
+    "structuredExplanation": {
+      "summary": "A clear opening previews the topic and structure for the audience.",
+      "hint": "Tell listeners what they are about to learn."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly07-p-032",
+    "curriculumCode": "AC9E4LY07",
+    "bank": "practice",
+    "skill": "Presentations",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the same idea to opening a talk about local frog habitats. Which option is best?",
+    "audioPrompt": "Apply the same idea to opening a talk about local frog habitats. Which option is best?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Today I will explain where local frogs live, what threatens them and how we can help.",
+      "I will begin with my final detail and never explain the topic.",
+      "Um, frogs. I guess I will say stuff."
+    ],
+    "correct": 0,
+    "explanation": "A clear opening previews the topic and structure for the audience.\nHint: Tell listeners what they are about to learn.",
+    "structuredExplanation": {
+      "summary": "A clear opening previews the topic and structure for the audience.",
+      "hint": "Tell listeners what they are about to learn."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly07-p-033",
+    "curriculumCode": "AC9E4LY07",
+    "bank": "practice",
+    "skill": "Presentations",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the same idea to supporting a claim in a presentation about litter. Which option is best?",
+    "audioPrompt": "Apply the same idea to supporting a claim in a presentation about litter. Which option is best?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use an unrelated fact about rainfall.",
+      "Use a council clean-up figure and explain how it supports the point about litter in local parks.",
+      "Say everyone knows litter is terrible."
+    ],
+    "correct": 1,
+    "explanation": "Reliable, relevant evidence strengthens a claim when the link is explained.\nHint: Evidence must connect directly to the point.",
+    "structuredExplanation": {
+      "summary": "Reliable, relevant evidence strengthens a claim when the link is explained.",
+      "hint": "Evidence must connect directly to the point."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly07-p-034",
+    "curriculumCode": "AC9E4LY07",
+    "bank": "practice",
+    "skill": "Presentations",
+    "printable": true,
+    "type": "single",
+    "question": "Which decision would produce the clearest result in supporting a claim in a presentation about litter?",
+    "audioPrompt": "Which decision would produce the clearest result in supporting a claim in a presentation about litter?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use an unrelated fact about rainfall.",
+      "Say everyone knows litter is terrible.",
+      "Use a council clean-up figure and explain how it supports the point about litter in local parks."
+    ],
+    "correct": 2,
+    "explanation": "Reliable, relevant evidence strengthens a claim when the link is explained.\nHint: Evidence must connect directly to the point.",
+    "structuredExplanation": {
+      "summary": "Reliable, relevant evidence strengthens a claim when the link is explained.",
+      "hint": "Evidence must connect directly to the point."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly07-p-035",
+    "curriculumCode": "AC9E4LY07",
+    "bank": "practice",
+    "skill": "Presentations",
+    "printable": true,
+    "type": "single",
+    "question": "Which decision would produce the clearest result in choosing language for a factual science presentation?",
+    "audioPrompt": "Which decision would produce the clearest result in choosing language for a factual science presentation?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The water temperature increased by 4°C during the test.",
+      "I feel the temperature was probably the best.",
+      "The water became super awesome hot."
+    ],
+    "correct": 0,
+    "explanation": "Objective language suits a factual report of measured results.\nHint: Match subjective or objective wording to the presentation purpose.",
+    "structuredExplanation": {
+      "summary": "Objective language suits a factual report of measured results.",
+      "hint": "Match subjective or objective wording to the presentation purpose."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly07-p-036",
+    "curriculumCode": "AC9E4LY07",
+    "bank": "practice",
+    "skill": "Presentations",
+    "printable": true,
+    "type": "single",
+    "question": "Choose the option that applies the skill correctly in choosing language for a factual science presentation.",
+    "audioPrompt": "Choose the option that applies the skill correctly in choosing language for a factual science presentation.",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "I feel the temperature was probably the best.",
+      "The water temperature increased by 4°C during the test.",
+      "The water became super awesome hot."
+    ],
+    "correct": 1,
+    "explanation": "Objective language suits a factual report of measured results.\nHint: Match subjective or objective wording to the presentation purpose.",
+    "structuredExplanation": {
+      "summary": "Objective language suits a factual report of measured results.",
+      "hint": "Match subjective or objective wording to the presentation purpose."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly07-p-037",
+    "curriculumCode": "AC9E4LY07",
+    "bank": "practice",
+    "skill": "Presentations",
+    "printable": true,
+    "type": "single",
+    "question": "Choose the option that applies the skill correctly in using a slide about the solar system.",
+    "audioPrompt": "Choose the option that applies the skill correctly in using a slide about the solar system.",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use a decorative image that has no connection to the explanation.",
+      "Fill the slide with tiny paragraphs and read every word.",
+      "Show one clear labelled diagram while explaining the key relationships aloud."
+    ],
+    "correct": 2,
+    "explanation": "A visual should extend or clarify the spoken message rather than compete with it.\nHint: Ask what the audience needs to see while listening.",
+    "structuredExplanation": {
+      "summary": "A visual should extend or clarify the spoken message rather than compete with it.",
+      "hint": "Ask what the audience needs to see while listening."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly07-p-038",
+    "curriculumCode": "AC9E4LY07",
+    "bank": "practice",
+    "skill": "Presentations",
+    "printable": true,
+    "type": "single",
+    "question": "What would be the most effective choice for using a slide about the solar system?",
+    "audioPrompt": "What would be the most effective choice for using a slide about the solar system?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Show one clear labelled diagram while explaining the key relationships aloud.",
+      "Use a decorative image that has no connection to the explanation.",
+      "Fill the slide with tiny paragraphs and read every word."
+    ],
+    "correct": 0,
+    "explanation": "A visual should extend or clarify the spoken message rather than compete with it.\nHint: Ask what the audience needs to see while listening.",
+    "structuredExplanation": {
+      "summary": "A visual should extend or clarify the spoken message rather than compete with it.",
+      "hint": "Ask what the audience needs to see while listening."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly07-p-039",
+    "curriculumCode": "AC9E4LY07",
+    "bank": "practice",
+    "skill": "Presentations",
+    "printable": true,
+    "type": "single",
+    "question": "What would be the most effective choice for speaking to a large assembly?",
+    "audioPrompt": "What would be the most effective choice for speaking to a large assembly?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Shout every word at the same pitch.",
+      "Use enough volume to be heard, a steady pace and pauses at key points.",
+      "Rush quietly through every sentence."
+    ],
+    "correct": 1,
+    "explanation": "Controlled volume, pace and pauses make meaning easier to follow.\nHint: Voice choices should support understanding, not simply make speech louder.",
+    "structuredExplanation": {
+      "summary": "Controlled volume, pace and pauses make meaning easier to follow.",
+      "hint": "Voice choices should support understanding, not simply make speech louder."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly07-p-040",
+    "curriculumCode": "AC9E4LY07",
+    "bank": "practice",
+    "skill": "Presentations",
+    "printable": true,
+    "type": "single",
+    "question": "You now need to handle speaking to a large assembly independently. Which choice should you use?",
+    "audioPrompt": "You now need to handle speaking to a large assembly independently. Which choice should you use?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Shout every word at the same pitch.",
+      "Rush quietly through every sentence.",
+      "Use enough volume to be heard, a steady pace and pauses at key points."
+    ],
+    "correct": 2,
+    "explanation": "Controlled volume, pace and pauses make meaning easier to follow.\nHint: Voice choices should support understanding, not simply make speech louder.",
+    "structuredExplanation": {
+      "summary": "Controlled volume, pace and pauses make meaning easier to follow.",
+      "hint": "Voice choices should support understanding, not simply make speech louder."
     },
     "qualitySchema": "production-v1"
   }

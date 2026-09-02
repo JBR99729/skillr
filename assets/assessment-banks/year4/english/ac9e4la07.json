@@ -5,41 +5,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA07",
     "bank": "practice",
-    "skill": "worked_text_1_apply",
-    "question": "Read the classroom example. Which sentence uses reported speech?",
-    "audio_prompt": "Read the classroom example. Which sentence uses reported speech?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la07.svg#ac9e4la07-p-001",
-      "alt_text": "Three-step Quoted and Reported Speech organiser. Read: Worked text 1. Notice: Recognise both forms. Choose the response supported by the example."
-    },
+    "stage": "recognise",
+    "skill": "Quoted and Reported Speech",
+    "question": "In quoting the coach after a netball game, which option best demonstrates the skill?",
+    "audio_prompt": "In quoting the coach after a netball game, which option best demonstrates the skill?",
     "answers": [
       {
-        "text": "Mia said that she was ready.",
+        "text": "The coach said, “We kept trying until the final whistle.”",
         "is_correct": true
       },
       {
-        "text": "Mia said, “I am ready.”",
+        "text": "The coach said that “we kept trying until the final whistle”.",
         "is_correct": false
       },
       {
-        "text": "“I am ready,” Mia said.",
+        "text": "The coach we kept trying until the final whistle.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Mia. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Mia said that she was ready.",
-      "Capital words: Mia, I. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: said. The text reads: Mia said, “I am ready.”",
-      "Capital words: I, Mia. An opening quotation mark comes before the first word. The comma comes before the closing quotation mark. Commas come after: ready. The text ends with a full stop. The text reads: “I am ready,” Mia said."
-    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The evidence and language purpose support “Mia said that she was ready.”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Quotation marks show the coach’s exact spoken words.",
+      "hint": "Use quotation marks only when the wording is presented as the speaker’s exact words."
+    }
   },
   {
     "id": "AC9E4LA07-P-002",
@@ -47,41 +35,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA07",
     "bank": "practice",
-    "skill": "worked_text_1_reason",
-    "question": "A student answers “Mia said, “I am ready.””. Which feedback helps? Task: Read the classroom example. Which sentence uses reported speech?",
-    "audio_prompt": "A student answers “Mia said, “I am ready.””. Which feedback helps? Task: Read the classroom example. Which sentence uses reported speech?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la07.svg#ac9e4la07-p-002",
-      "alt_text": "Three-step Quoted and Reported Speech organiser. Read: Worked text 1. Notice: Recognise both forms. Correct the student's mix-up using the full task."
-    },
+    "stage": "recognise",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which choice fits quoting the coach after a netball game most accurately?",
+    "audio_prompt": "Which choice fits quoting the coach after a netball game most accurately?",
     "answers": [
       {
-        "text": "Keep “Mia said, “I am ready.””; it uses a detail that sounds familiar.",
+        "text": "The coach said that “we kept trying until the final whistle”.",
         "is_correct": false
       },
       {
-        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Mia said that she was ready.”.",
+        "text": "The coach said, “We kept trying until the final whistle.”",
         "is_correct": true
       },
       {
-        "text": "Choose ““I am ready,” Mia said.” instead; it sounds clearer.",
+        "text": "The coach we kept trying until the final whistle.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Keep, Mia, I. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: said. The text ends with a full stop. The text reads: Keep “Mia said, “I am ready.””; it uses a detail that sounds familiar.",
-      "Capital words: Check, The, Mia. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: feature. The text ends with a full stop. The text reads: Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Mia said that she was ready.”.",
-      "Capital words: Choose, I, Mia. There is no opening quotation mark before the first word. The comma comes before the closing quotation mark. Commas come after: ready. The text ends with a full stop. The text reads: Choose ““I am ready,” Mia said.” instead; it sounds clearer."
-    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Mia said that she was ready.”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Quotation marks show the coach’s exact spoken words.",
+      "hint": "Use quotation marks only when the wording is presented as the speaker’s exact words."
+    }
   },
   {
     "id": "AC9E4LA07-P-003",
@@ -89,41 +65,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA07",
     "bank": "practice",
-    "skill": "worked_text_2_apply",
-    "question": "Read the classroom example. Which reporting verb most strongly suggests a commitment?",
-    "audio_prompt": "Read the classroom example. Which reporting verb most strongly suggests a commitment?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la07.svg#ac9e4la07-p-003",
-      "alt_text": "Three-step Quoted and Reported Speech organiser. Read: Worked text 2. Notice: Transform accurately. Choose the response supported by the example."
-    },
+    "stage": "recognise",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which choice fits reporting what the coach said without quoting most accurately?",
+    "audio_prompt": "Which choice fits reporting what the coach said without quoting most accurately?",
     "answers": [
       {
-        "text": "said",
+        "text": "The coach said, “that the team had kept trying”.",
         "is_correct": false
       },
       {
-        "text": "whispered",
+        "text": "“The coach said that the team kept trying.”",
         "is_correct": false
       },
       {
-        "text": "promised",
+        "text": "The coach said that the team had kept trying until the final whistle.",
         "is_correct": true
       }
     ],
-    "audio_answers": [
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: said",
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: whispered",
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: promised"
-    ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The evidence and language purpose support “promised”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Reported speech retells the message without quotation marks and may adjust pronouns or tense.",
+      "hint": "Check whether the sentence gives exact words or reports the idea."
+    }
   },
   {
     "id": "AC9E4LA07-P-004",
@@ -131,41 +95,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA07",
     "bank": "practice",
-    "skill": "worked_text_2_reason",
-    "question": "A student answers “whispered”. Which feedback helps? Task: Read the classroom example. Which reporting verb most strongly suggests a commitment?",
-    "audio_prompt": "A student answers “whispered”. Which feedback helps? Task: Read the classroom example. Which reporting verb most strongly suggests a commitment?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la07.svg#ac9e4la07-p-004",
-      "alt_text": "Three-step Quoted and Reported Speech organiser. Read: Worked text 2. Notice: Transform accurately. Correct the student's mix-up using the full task."
-    },
+    "stage": "recognise",
+    "skill": "Quoted and Reported Speech",
+    "question": "Look closely at reporting what the coach said without quoting. Which response or wording works best?",
+    "audio_prompt": "Look closely at reporting what the coach said without quoting. Which response or wording works best?",
     "answers": [
       {
-        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “promised”.",
+        "text": "The coach said that the team had kept trying until the final whistle.",
         "is_correct": true
       },
       {
-        "text": "Keep “whispered”; it uses a detail that sounds familiar.",
+        "text": "The coach said, “that the team had kept trying”.",
         "is_correct": false
       },
       {
-        "text": "Choose “said” instead; it sounds clearer.",
+        "text": "“The coach said that the team kept trying.”",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Check, The. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: feature. The text ends with a full stop. The text reads: Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “promised”.",
-      "Capital words: Keep. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “whispered”; it uses a detail that sounds familiar.",
-      "Capital words: Choose. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “said” instead; it sounds clearer."
-    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “promised”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Reported speech retells the message without quotation marks and may adjust pronouns or tense.",
+      "hint": "Check whether the sentence gives exact words or reports the idea."
+    }
   },
   {
     "id": "AC9E4LA07-P-005",
@@ -173,41 +125,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA07",
     "bank": "practice",
-    "skill": "misconception_1_apply",
-    "question": "A student in a workshop claims, “Reported speech copies the quotation unchanged”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student in a workshop claims, “Reported speech copies the quotation unchanged”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la07.svg#ac9e4la07-p-005",
-      "alt_text": "Three-step Quoted and Reported Speech organiser. Read: Misconception 1. Notice: Use quotation punctuation. Choose the response supported by the example."
-    },
+    "stage": "recognise",
+    "skill": "Quoted and Reported Speech",
+    "question": "Look closely at turning “I will bring my hat tomorrow,” Mia said, into reported speech. Which response or wording works best?",
+    "audio_prompt": "Look closely at turning “I will bring my hat tomorrow,” Mia said, into reported speech. Which response or wording works best?",
     "answers": [
       {
-        "text": "Reported speech copies the quotation unchanged",
+        "text": "Mia said that I will bring my hat tomorrow.",
         "is_correct": false
       },
       {
-        "text": "Pronouns, tense and time references may need adjustment.",
+        "text": "Mia said that she would bring her hat the next day.",
         "is_correct": true
       },
       {
-        "text": "Every spoken idea needs quotation marks",
+        "text": "Mia said, she would bring her hat tomorrow.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Reported. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Reported speech copies the quotation unchanged",
-      "Capital words: Pronouns. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: Pronouns. The text ends with a full stop. The text reads: Pronouns, tense and time references may need adjustment.",
-      "Capital words: Every. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Every spoken idea needs quotation marks"
-    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Pronouns, tense and time references may need adjustment.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Reported speech changes I to she and tomorrow to the next day because the viewpoint and time reference shift.",
+      "hint": "Track pronouns, tense and time words when the speaker’s words are retold."
+    }
   },
   {
     "id": "AC9E4LA07-P-006",
@@ -215,41 +155,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA07",
     "bank": "practice",
-    "skill": "misconception_1_reason",
-    "question": "A student answers “Reported speech copies the quotation unchanged”. Which feedback helps? Task: A student in a workshop claims, “Reported speech copies the quotation unchanged”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Reported speech copies the quotation unchanged”. Which feedback helps? Task: A student in a workshop claims, “Reported speech copies the quotation unchanged”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la07.svg#ac9e4la07-p-006",
-      "alt_text": "Three-step Quoted and Reported Speech organiser. Read: Misconception 1. Notice: Use quotation punctuation. Correct the student's mix-up using the full task."
-    },
+    "stage": "recognise",
+    "skill": "Quoted and Reported Speech",
+    "question": "For turning “I will bring my hat tomorrow,” Mia said, into reported speech, which option is the strongest match?",
+    "audio_prompt": "For turning “I will bring my hat tomorrow,” Mia said, into reported speech, which option is the strongest match?",
     "answers": [
       {
-        "text": "Keep “Reported speech copies the quotation unchanged”; it uses a detail that sounds familiar.",
+        "text": "Mia said that I will bring my hat tomorrow.",
         "is_correct": false
       },
       {
-        "text": "Choose “Every spoken idea needs quotation marks” instead; it sounds clearer.",
+        "text": "Mia said, she would bring her hat tomorrow.",
         "is_correct": false
       },
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Pronouns, tense and time references may need adjustment.",
+        "text": "Mia said that she would bring her hat the next day.",
         "is_correct": true
       }
     ],
-    "audio_answers": [
-      "Capital words: Keep, Reported. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “Reported speech copies the quotation unchanged”; it uses a detail that sounds familiar.",
-      "Capital words: Choose, Every. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “Every spoken idea needs quotation marks” instead; it sounds clearer.",
-      "Capital words: Identify, Pronouns. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: overlooks, Pronouns. The text ends with a full stop. The text reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. Pronouns, tense and time references may need adjustment."
-    ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Pronouns, tense and time references may need adjustment.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Reported speech changes I to she and tomorrow to the next day because the viewpoint and time reference shift.",
+      "hint": "Track pronouns, tense and time words when the speaker’s words are retold."
+    }
   },
   {
     "id": "AC9E4LA07-P-007",
@@ -257,41 +185,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA07",
     "bank": "practice",
-    "skill": "misconception_2_apply",
-    "question": "A student in a workshop claims, “Every spoken idea needs quotation marks”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student in a workshop claims, “Every spoken idea needs quotation marks”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la07.svg#ac9e4la07-p-007",
-      "alt_text": "Three-step Quoted and Reported Speech organiser. Read: Misconception 2. Notice: Track viewpoint/time shifts. Choose the response supported by the example."
-    },
+    "stage": "recognise",
+    "skill": "Quoted and Reported Speech",
+    "question": "For choosing a reporting verb for a strong promise, which option is the strongest match?",
+    "audio_prompt": "For choosing a reporting verb for a strong promise, which option is the strongest match?",
     "answers": [
       {
-        "text": "Reported speech normally uses no quotation marks around the message.",
+        "text": "Luca promised that he would return the library book.",
         "is_correct": true
       },
       {
-        "text": "Every spoken idea needs quotation marks",
+        "text": "Luca whispered that he would return it, even though the sentence is about a promise.",
         "is_correct": false
       },
       {
-        "text": "Reporting verb does not matter",
+        "text": "Luca happened the library book.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Reported. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Reported speech normally uses no quotation marks around the message.",
-      "Capital words: Every. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Every spoken idea needs quotation marks",
-      "Capital words: Reporting. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Reporting verb does not matter"
-    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Reported speech normally uses no quotation marks around the message.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Promised tells the reader what kind of speech act Luca made, not just that he spoke.",
+      "hint": "Choose a reporting verb that matches the meaning of the original speech."
+    }
   },
   {
     "id": "AC9E4LA07-P-008",
@@ -299,41 +215,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA07",
     "bank": "practice",
-    "skill": "misconception_2_reason",
-    "question": "A student answers “Reporting verb does not matter”. Which feedback helps? Task: A student in a workshop claims, “Every spoken idea needs quotation marks”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Reporting verb does not matter”. Which feedback helps? Task: A student in a workshop claims, “Every spoken idea needs quotation marks”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la07.svg#ac9e4la07-p-008",
-      "alt_text": "Three-step Quoted and Reported Speech organiser. Read: Misconception 2. Notice: Track viewpoint/time shifts. Correct the student's mix-up using the full task."
-    },
+    "stage": "recognise",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which example should you choose for choosing a reporting verb for a strong promise?",
+    "audio_prompt": "Which example should you choose for choosing a reporting verb for a strong promise?",
     "answers": [
       {
-        "text": "Keep “Reporting verb does not matter”; it uses a detail that sounds familiar.",
+        "text": "Luca whispered that he would return it, even though the sentence is about a promise.",
         "is_correct": false
       },
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Reported speech normally uses no quotation marks around the message.",
+        "text": "Luca promised that he would return the library book.",
         "is_correct": true
       },
       {
-        "text": "Choose “Every spoken idea needs quotation marks” instead; it sounds clearer.",
+        "text": "Luca happened the library book.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Keep, Reporting. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “Reporting verb does not matter”; it uses a detail that sounds familiar.",
-      "Capital words: Identify, Reported. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: overlooks. The text ends with a full stop. The text reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. Reported speech normally uses no quotation marks around the message.",
-      "Capital words: Choose, Every. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “Every spoken idea needs quotation marks” instead; it sounds clearer."
-    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Reported speech normally uses no quotation marks around the message.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Promised tells the reader what kind of speech act Luca made, not just that he spoke.",
+      "hint": "Choose a reporting verb that matches the meaning of the original speech."
+    }
   },
   {
     "id": "AC9E4LA07-P-009",
@@ -341,40 +245,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA07",
     "bank": "practice",
-    "skill": "misconception_3_apply",
-    "question": "A student in a workshop claims, “Reporting verb does not matter”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student in a workshop claims, “Reporting verb does not matter”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la07.svg#ac9e4la07-p-009",
-      "alt_text": "Three-step Quoted and Reported Speech organiser. Read: Misconception 3. Notice: Choose form for purpose. Choose the response supported by the example."
-    },
+    "stage": "recognise",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which example should you choose for using a quotation in a school news report?",
+    "audio_prompt": "Which example should you choose for using a quotation in a school news report?",
     "answers": [
       {
-        "text": "Reporting verb does not matter",
+        "text": "Asha said the new garden gives us “a cooler place” without showing whether those were her exact words.",
         "is_correct": false
       },
       {
-        "text": "Quotation wording may be improved silently",
+        "text": "The new garden Asha said cooler place.",
         "is_correct": false
       },
       {
-        "text": "Said, claimed, admitted and promised suggest different meanings.",
+        "text": "Asha said, “The new garden gives us a cooler place to read.”",
         "is_correct": true
       }
     ],
-    "audio_answers": [
-      "Capital words: Reporting. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Reporting verb does not matter",
-      "Capital words: Quotation. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Quotation wording may be improved silently",
-      "Capital words: Said. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: Said, claimed. The text ends with a full stop. The text reads: Said, claimed, admitted and promised suggest different meanings."
-    ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Said, claimed, admitted and promised suggest different meanings.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "A direct quotation should preserve the speaker’s wording and clearly identify who spoke.",
+      "hint": "Check that the quoted words are exact and the speaker is named."
+    }
   },
   {
     "id": "AC9E4LA07-P-010",
@@ -382,40 +275,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA07",
     "bank": "practice",
-    "skill": "misconception_3_reason",
-    "question": "A student answers “Reporting verb does not matter”. Which feedback helps? Task: A student in a workshop claims, “Reporting verb does not matter”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Reporting verb does not matter”. Which feedback helps? Task: A student in a workshop claims, “Reporting verb does not matter”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la07.svg#ac9e4la07-p-010",
-      "alt_text": "Three-step Quoted and Reported Speech organiser. Read: Misconception 3. Notice: Choose form for purpose. Correct the student's mix-up using the full task."
-    },
+    "stage": "recognise",
+    "skill": "Quoted and Reported Speech",
+    "question": "In using a quotation in a school news report, which option best demonstrates the skill?",
+    "audio_prompt": "In using a quotation in a school news report, which option best demonstrates the skill?",
     "answers": [
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Said, claimed, admitted and promised suggest different meanings.",
+        "text": "Asha said, “The new garden gives us a cooler place to read.”",
         "is_correct": true
       },
       {
-        "text": "Keep “Reporting verb does not matter”; it uses a detail that sounds familiar.",
+        "text": "Asha said the new garden gives us “a cooler place” without showing whether those were her exact words.",
         "is_correct": false
       },
       {
-        "text": "Choose “Quotation wording may be improved silently” instead; it sounds clearer.",
+        "text": "The new garden Asha said cooler place.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Identify, Said. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: overlooks, Said, claimed. The text ends with a full stop. The text reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. Said, claimed, admitted and promised suggest different meanings.",
-      "Capital words: Keep, Reporting. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “Reporting verb does not matter”; it uses a detail that sounds familiar.",
-      "Capital words: Choose, Quotation. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “Quotation wording may be improved silently” instead; it sounds clearer."
-    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Said, claimed, admitted and promised suggest different meanings.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "A direct quotation should preserve the speaker’s wording and clearly identify who spoke.",
+      "hint": "Check that the quoted words are exact and the speaker is named."
+    }
   },
   {
     "id": "AC9E4LA07-P-011",
@@ -423,40 +305,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA07",
     "bank": "practice",
-    "skill": "misconception_4_apply",
-    "question": "A student in a workshop claims, “Quotation wording may be improved silently”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student in a workshop claims, “Quotation wording may be improved silently”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la07.svg#ac9e4la07-p-011",
-      "alt_text": "Three-step Quoted and Reported Speech organiser. Read: Misconception 4. Notice: Recognise both forms. Choose the response supported by the example."
-    },
+    "stage": "explain",
+    "skill": "Quoted and Reported Speech",
+    "question": "Why does “The coach said, “We kept trying until the final whistle.”” work well for quoting the coach after a netball game?",
+    "audio_prompt": "Why does “The coach said, “We kept trying until the final whistle.”” work well for quoting the coach after a netball game?",
     "answers": [
       {
-        "text": "Quotation wording may be improved silently",
+        "text": "Because “The coach said that “we kept trying until the final whistle”.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Direct quotation should preserve the original wording or show omissions transparently.",
+        "text": "Quotation marks show the coach’s exact spoken words.",
         "is_correct": true
       },
       {
-        "text": "Reported speech copies the quotation unchanged",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Quotation. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Quotation wording may be improved silently",
-      "Capital words: Direct. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Direct quotation should preserve the original wording or show omissions transparently.",
-      "Capital words: Reported. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Reported speech copies the quotation unchanged"
-    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Direct quotation should preserve the original wording or show omissions transparently.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Quotation marks show the coach’s exact spoken words.",
+      "hint": "Use quotation marks only when the wording is presented as the speaker’s exact words."
+    }
   },
   {
     "id": "AC9E4LA07-P-012",
@@ -464,40 +335,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA07",
     "bank": "practice",
-    "skill": "misconception_4_reason",
-    "question": "A student answers “Reported speech copies the quotation unchanged”. Which feedback helps? Task: A student in a workshop claims, “Quotation wording may be improved silently”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Reported speech copies the quotation unchanged”. Which feedback helps? Task: A student in a workshop claims, “Quotation wording may be improved silently”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la07.svg#ac9e4la07-p-012",
-      "alt_text": "Three-step Quoted and Reported Speech organiser. Read: Misconception 4. Notice: Recognise both forms. Correct the student's mix-up using the full task."
-    },
+    "stage": "explain",
+    "skill": "Quoted and Reported Speech",
+    "question": "What makes “The coach said, “We kept trying until the final whistle.”” a better choice in quoting the coach after a netball game?",
+    "audio_prompt": "What makes “The coach said, “We kept trying until the final whistle.”” a better choice in quoting the coach after a netball game?",
     "answers": [
       {
-        "text": "Keep “Reported speech copies the quotation unchanged”; it uses a detail that sounds familiar.",
+        "text": "Because “The coach said that “we kept trying until the final whistle”.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Choose “Quotation wording may be improved silently” instead; it sounds clearer.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       },
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Direct quotation should preserve the original wording or show omissions transparently.",
+        "text": "Quotation marks show the coach’s exact spoken words.",
         "is_correct": true
       }
     ],
-    "audio_answers": [
-      "Capital words: Keep, Reported. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “Reported speech copies the quotation unchanged”; it uses a detail that sounds familiar.",
-      "Capital words: Choose, Quotation. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “Quotation wording may be improved silently” instead; it sounds clearer.",
-      "Capital words: Identify, Direct. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: overlooks. The text ends with a full stop. The text reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. Direct quotation should preserve the original wording or show omissions transparently."
-    ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Direct quotation should preserve the original wording or show omissions transparently.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Quotation marks show the coach’s exact spoken words.",
+      "hint": "Use quotation marks only when the wording is presented as the speaker’s exact words."
+    }
   },
   {
     "id": "AC9E4LA07-P-013",
@@ -505,40 +365,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA07",
     "bank": "practice",
-    "skill": "speech_transformation_apply",
-    "question": "The class prepares “Speech transformation”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "The class prepares “Speech transformation”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la07.svg#ac9e4la07-p-013",
-      "alt_text": "Three-step Quoted and Reported Speech organiser. Read: Speech transformation. Notice: Transform accurately. Choose the response supported by the example."
-    },
+    "stage": "explain",
+    "skill": "Quoted and Reported Speech",
+    "question": "What makes “The coach said that the team had kept trying until the final whistle.” a better choice in reporting what the coach said without quoting?",
+    "audio_prompt": "What makes “The coach said that the team had kept trying until the final whistle.” a better choice in reporting what the coach said without quoting?",
     "answers": [
       {
-        "text": "Convert short quotations to reported speech and underline every grammatical change.",
+        "text": "Reported speech retells the message without quotation marks and may adjust pronouns or tense.",
         "is_correct": true
       },
       {
-        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "text": "Because “The coach said, “that the team had kept trying”.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Convert. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Convert short quotations to reported speech and underline every grammatical change.",
-      "Capital words: Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Copy the title, then choose an answer without analysing the language or text.",
-      "Capital words: Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Change the purpose and audience halfway through, then report the first impression only."
-    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Convert short quotations to reported speech and underline every grammatical change.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Reported speech retells the message without quotation marks and may adjust pronouns or tense.",
+      "hint": "Check whether the sentence gives exact words or reports the idea."
+    }
   },
   {
     "id": "AC9E4LA07-P-014",
@@ -546,40 +395,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA07",
     "bank": "practice",
-    "skill": "speech_transformation_reason",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Speech transformation”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Speech transformation”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la07.svg#ac9e4la07-p-014",
-      "alt_text": "Three-step Quoted and Reported Speech organiser. Read: Speech transformation. Notice: Transform accurately. Correct the student's mix-up using the full task."
-    },
+    "stage": "explain",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which explanation best justifies “The coach said that the team had kept trying until the final whistle.” for reporting what the coach said without quoting?",
+    "audio_prompt": "Which explanation best justifies “The coach said that the team had kept trying until the final whistle.” for reporting what the coach said without quoting?",
     "answers": [
       {
-        "text": "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
+        "text": "Because “The coach said, “that the team had kept trying”.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Convert short quotations to reported speech and underline every grammatical change.",
+        "text": "Reported speech retells the message without quotation marks and may adjust pronouns or tense.",
         "is_correct": true
       },
       {
-        "text": "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Keep, Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
-      "Capital words: Choose, Convert. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose the plan that analyses language evidence and produces a reviewable response. Convert short quotations to reported speech and underline every grammatical change.",
-      "Capital words: Choose, Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer."
-    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Convert short quotations to reported speech and underline every grammatical change.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Reported speech retells the message without quotation marks and may adjust pronouns or tense.",
+      "hint": "Check whether the sentence gives exact words or reports the idea."
+    }
   },
   {
     "id": "AC9E4LA07-P-015",
@@ -587,40 +425,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA07",
     "bank": "practice",
-    "skill": "purpose_choice_apply",
-    "question": "The class prepares “Purpose choice”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "The class prepares “Purpose choice”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la07.svg#ac9e4la07-p-015",
-      "alt_text": "Three-step Quoted and Reported Speech organiser. Read: Purpose choice. Notice: Use quotation punctuation. Choose the response supported by the example."
-    },
+    "stage": "explain",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which explanation best justifies “Mia said that she would bring her hat the next day.” for turning “I will bring my hat tomorrow,” Mia said, into reported speech?",
+    "audio_prompt": "Which explanation best justifies “Mia said that she would bring her hat the next day.” for turning “I will bring my hat tomorrow,” Mia said, into reported speech?",
     "answers": [
       {
-        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "text": "Because “Mia said that I will bring my hat tomorrow.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       },
       {
-        "text": "Choose direct, reported or mixed speech for a news report, narrative scene and meeting summary.",
+        "text": "Reported speech changes I to she and tomorrow to the next day because the viewpoint and time reference shift.",
         "is_correct": true
       }
     ],
-    "audio_answers": [
-      "Capital words: Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Copy the title, then choose an answer without analysing the language or text.",
-      "Capital words: Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Change the purpose and audience halfway through, then report the first impression only.",
-      "Capital words: Choose. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: direct, report. The text ends with a full stop. The text reads: Choose direct, reported or mixed speech for a news report, narrative scene and meeting summary."
-    ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Choose direct, reported or mixed speech for a news report, narrative scene and meeting summary.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Reported speech changes I to she and tomorrow to the next day because the viewpoint and time reference shift.",
+      "hint": "Track pronouns, tense and time words when the speaker’s words are retold."
+    }
   },
   {
     "id": "AC9E4LA07-P-016",
@@ -628,40 +455,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA07",
     "bank": "practice",
-    "skill": "purpose_choice_reason",
-    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Purpose choice”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Purpose choice”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la07.svg#ac9e4la07-p-016",
-      "alt_text": "Three-step Quoted and Reported Speech organiser. Read: Purpose choice. Notice: Use quotation punctuation. Correct the student's mix-up using the full task."
-    },
+    "stage": "explain",
+    "skill": "Quoted and Reported Speech",
+    "question": "What should you notice about “Mia said that she would bring her hat the next day.” in turning “I will bring my hat tomorrow,” Mia said, into reported speech?",
+    "audio_prompt": "What should you notice about “Mia said that she would bring her hat the next day.” in turning “I will bring my hat tomorrow,” Mia said, into reported speech?",
     "answers": [
       {
-        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Choose direct, reported or mixed speech for a news report, narrative scene and meeting summary.",
+        "text": "Reported speech changes I to she and tomorrow to the next day because the viewpoint and time reference shift.",
         "is_correct": true
       },
       {
-        "text": "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
+        "text": "Because “Mia said that I will bring my hat tomorrow.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Choose, Choose. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: direct, report. The text ends with a full stop. The text reads: Choose the plan that analyses language evidence and produces a reviewable response. Choose direct, reported or mixed speech for a news report, narrative scene and meeting summary.",
-      "Capital words: Keep, Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
-      "Capital words: Choose, Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer."
-    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Choose direct, reported or mixed speech for a news report, narrative scene and meeting summary.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Reported speech changes I to she and tomorrow to the next day because the viewpoint and time reference shift.",
+      "hint": "Track pronouns, tense and time words when the speaker’s words are retold."
+    }
   },
   {
     "id": "AC9E4LA07-P-017",
@@ -669,40 +485,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA07",
     "bank": "practice",
-    "skill": "accuracy_audit_apply",
-    "question": "The class prepares “Accuracy audit”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "The class prepares “Accuracy audit”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la07.svg#ac9e4la07-p-017",
-      "alt_text": "Three-step Quoted and Reported Speech organiser. Read: Accuracy audit. Notice: Track viewpoint/time shifts. Choose the response supported by the example."
-    },
+    "stage": "explain",
+    "skill": "Quoted and Reported Speech",
+    "question": "What should you notice about “Luca promised that he would return the library book.” in choosing a reporting verb for a strong promise?",
+    "audio_prompt": "What should you notice about “Luca promised that he would return the library book.” in choosing a reporting verb for a strong promise?",
     "answers": [
       {
-        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "text": "Because “Luca whispered that he would return it, even though the sentence is about a promise.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Compare a quotation with a reported version and identify additions, omissions or viewpoint distortions.",
+        "text": "Promised tells the reader what kind of speech act Luca made, not just that he spoke.",
         "is_correct": true
       },
       {
-        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Copy the title, then choose an answer without analysing the language or text.",
-      "Capital words: Compare. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: additions. The text ends with a full stop. The text reads: Compare a quotation with a reported version and identify additions, omissions or viewpoint distortions.",
-      "Capital words: Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Change the purpose and audience halfway through, then report the first impression only."
-    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Compare a quotation with a reported version and identify additions, omissions or viewpoint distortions.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Promised tells the reader what kind of speech act Luca made, not just that he spoke.",
+      "hint": "Choose a reporting verb that matches the meaning of the original speech."
+    }
   },
   {
     "id": "AC9E4LA07-P-018",
@@ -710,40 +515,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA07",
     "bank": "practice",
-    "skill": "accuracy_audit_reason",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Accuracy audit”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Accuracy audit”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la07.svg#ac9e4la07-p-018",
-      "alt_text": "Three-step Quoted and Reported Speech organiser. Read: Accuracy audit. Notice: Track viewpoint/time shifts. Correct the student's mix-up using the full task."
-    },
+    "stage": "explain",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which reason explains why “Luca promised that he would return the library book.” suits choosing a reporting verb for a strong promise?",
+    "audio_prompt": "Which reason explains why “Luca promised that he would return the library book.” suits choosing a reporting verb for a strong promise?",
     "answers": [
       {
-        "text": "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
+        "text": "Because “Luca whispered that he would return it, even though the sentence is about a promise.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       },
       {
-        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Compare a quotation with a reported version and identify additions, omissions or viewpoint distortions.",
+        "text": "Promised tells the reader what kind of speech act Luca made, not just that he spoke.",
         "is_correct": true
       }
     ],
-    "audio_answers": [
-      "Capital words: Keep, Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
-      "Capital words: Choose, Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
-      "Capital words: Choose, Compare. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: additions. The text ends with a full stop. The text reads: Choose the plan that analyses language evidence and produces a reviewable response. Compare a quotation with a reported version and identify additions, omissions or viewpoint distortions."
-    ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Compare a quotation with a reported version and identify additions, omissions or viewpoint distortions.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Promised tells the reader what kind of speech act Luca made, not just that he spoke.",
+      "hint": "Choose a reporting verb that matches the meaning of the original speech."
+    }
   },
   {
     "id": "AC9E4LA07-P-019",
@@ -751,40 +545,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA07",
     "bank": "practice",
-    "skill": "vocabulary_1_apply",
-    "question": "A class annotation about Quoted and Reported Speech describes “speaker’s words presented directly within quotation marks”. Which term is most precise?",
-    "audio_prompt": "A class annotation about Quoted and Reported Speech describes “speaker’s words presented directly within quotation marks”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la07.svg#ac9e4la07-p-019",
-      "alt_text": "Three-step Quoted and Reported Speech organiser. Read: Vocabulary 1. Notice: Choose form for purpose. Choose the response supported by the example."
-    },
+    "stage": "explain",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which reason explains why “Asha said, “The new garden gives us a cooler place to read.”” suits using a quotation in a school news report?",
+    "audio_prompt": "Which reason explains why “Asha said, “The new garden gives us a cooler place to read.”” suits using a quotation in a school news report?",
     "answers": [
       {
-        "text": "quoted speech",
+        "text": "A direct quotation should preserve the speaker’s wording and clearly identify who spoke.",
         "is_correct": true
       },
       {
-        "text": "reported speech",
+        "text": "Because “Asha said the new garden gives us “a cooler place” without showing whether those were her exact words.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "reporting clause",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: quoted speech",
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: reported speech",
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: reporting clause"
-    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "quoted speech is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "A direct quotation should preserve the speaker’s wording and clearly identify who spoke.",
+      "hint": "Check that the quoted words are exact and the speaker is named."
+    }
   },
   {
     "id": "AC9E4LA07-P-020",
@@ -792,40 +575,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA07",
     "bank": "practice",
-    "skill": "vocabulary_1_reason",
-    "question": "A student answers “reporting clause”. Which feedback helps? Task: A class annotation about Quoted and Reported Speech describes “speaker’s words presented directly within quotation marks”. Which term is most precise?",
-    "audio_prompt": "A student answers “reporting clause”. Which feedback helps? Task: A class annotation about Quoted and Reported Speech describes “speaker’s words presented directly within quotation marks”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la07.svg#ac9e4la07-p-020",
-      "alt_text": "Three-step Quoted and Reported Speech organiser. Read: Vocabulary 1. Notice: Choose form for purpose. Correct the student's mix-up using the full task."
-    },
+    "stage": "explain",
+    "skill": "Quoted and Reported Speech",
+    "question": "Why does “Asha said, “The new garden gives us a cooler place to read.”” work well for using a quotation in a school news report?",
+    "audio_prompt": "Why does “Asha said, “The new garden gives us a cooler place to read.”” work well for using a quotation in a school news report?",
     "answers": [
       {
-        "text": "Keep “reporting clause”; it uses a detail that sounds familiar.",
+        "text": "Because “Asha said the new garden gives us “a cooler place” without showing whether those were her exact words.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Match the definition to the exact language or literacy concept. quoted speech is the precise term for this feature.",
+        "text": "A direct quotation should preserve the speaker’s wording and clearly identify who spoke.",
         "is_correct": true
       },
       {
-        "text": "Choose “reported speech” instead; it sounds clearer.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Keep. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “reporting clause”; it uses a detail that sounds familiar.",
-      "Capital words: Match. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Match the definition to the exact language or literacy concept. quoted speech is the precise term for this feature.",
-      "Capital words: Choose. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “reported speech” instead; it sounds clearer."
-    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Match the definition to the exact language or literacy concept. quoted speech is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "A direct quotation should preserve the speaker’s wording and clearly identify who spoke.",
+      "hint": "Check that the quoted words are exact and the speaker is named."
+    }
   },
   {
     "id": "AC9E4LA07-P-021",
@@ -833,40 +605,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA07",
     "bank": "practice",
-    "skill": "vocabulary_2_apply",
-    "question": "A class annotation about Quoted and Reported Speech describes “speaker’s message retold within the reporter’s sentence”. Which term is most precise?",
-    "audio_prompt": "A class annotation about Quoted and Reported Speech describes “speaker’s message retold within the reporter’s sentence”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la07.svg#ac9e4la07-p-021",
-      "alt_text": "Three-step Quoted and Reported Speech organiser. Read: Vocabulary 2. Notice: Recognise both forms. Choose the response supported by the example."
-    },
+    "stage": "discriminate",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which revision best fixes the problem in “The coach said that “we kept trying until the final whistle”.” for quoting the coach after a netball game?",
+    "audio_prompt": "Which revision best fixes the problem in “The coach said that “we kept trying until the final whistle”.” for quoting the coach after a netball game?",
     "answers": [
       {
-        "text": "quoted speech",
+        "text": "The coach said that “we kept trying until the final whistle”.",
         "is_correct": false
       },
       {
-        "text": "reporting clause",
+        "text": "The coach we kept trying until the final whistle.",
         "is_correct": false
       },
       {
-        "text": "reported speech",
+        "text": "The coach said, “We kept trying until the final whistle.”",
         "is_correct": true
       }
     ],
-    "audio_answers": [
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: quoted speech",
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: reporting clause",
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: reported speech"
-    ],
     "correct_index": 2,
     "explanation": {
-      "summary": "reported speech is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Quotation marks show the coach’s exact spoken words. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Use quotation marks only when the wording is presented as the speaker’s exact words."
+    }
   },
   {
     "id": "AC9E4LA07-P-022",
@@ -874,40 +635,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA07",
     "bank": "practice",
-    "skill": "vocabulary_2_reason",
-    "question": "A student answers “quoted speech”. Which feedback helps? Task: A class annotation about Quoted and Reported Speech describes “speaker’s message retold within the reporter’s sentence”. Which term is most precise?",
-    "audio_prompt": "A student answers “quoted speech”. Which feedback helps? Task: A class annotation about Quoted and Reported Speech describes “speaker’s message retold within the reporter’s sentence”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la07.svg#ac9e4la07-p-022",
-      "alt_text": "Three-step Quoted and Reported Speech organiser. Read: Vocabulary 2. Notice: Recognise both forms. Correct the student's mix-up using the full task."
-    },
+    "stage": "discriminate",
+    "skill": "Quoted and Reported Speech",
+    "question": "Compare the choices for quoting the coach after a netball game. Which one avoids the mistake in “The coach said that “we kept trying until the final whistle”.”?",
+    "audio_prompt": "Compare the choices for quoting the coach after a netball game. Which one avoids the mistake in “The coach said that “we kept trying until the final whistle”.”?",
     "answers": [
       {
-        "text": "Match the definition to the exact language or literacy concept. reported speech is the precise term for this feature.",
+        "text": "The coach said, “We kept trying until the final whistle.”",
         "is_correct": true
       },
       {
-        "text": "Keep “quoted speech”; it uses a detail that sounds familiar.",
+        "text": "The coach said that “we kept trying until the final whistle”.",
         "is_correct": false
       },
       {
-        "text": "Choose “reporting clause” instead; it sounds clearer.",
+        "text": "The coach we kept trying until the final whistle.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Match. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Match the definition to the exact language or literacy concept. reported speech is the precise term for this feature.",
-      "Capital words: Keep. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “quoted speech”; it uses a detail that sounds familiar.",
-      "Capital words: Choose. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “reporting clause” instead; it sounds clearer."
-    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Match the definition to the exact language or literacy concept. reported speech is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Quotation marks show the coach’s exact spoken words. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Use quotation marks only when the wording is presented as the speaker’s exact words."
+    }
   },
   {
     "id": "AC9E4LA07-P-023",
@@ -915,40 +665,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA07",
     "bank": "practice",
-    "skill": "vocabulary_3_apply",
-    "question": "A class annotation about Quoted and Reported Speech describes “clause identifying the speaker and speech process”. Which term is most precise?",
-    "audio_prompt": "A class annotation about Quoted and Reported Speech describes “clause identifying the speaker and speech process”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la07.svg#ac9e4la07-p-023",
-      "alt_text": "Three-step Quoted and Reported Speech organiser. Read: Vocabulary 3. Notice: Transform accurately. Choose the response supported by the example."
-    },
+    "stage": "discriminate",
+    "skill": "Quoted and Reported Speech",
+    "question": "Compare the choices for reporting what the coach said without quoting. Which one avoids the mistake in “The coach said, “that the team had kept trying”.”?",
+    "audio_prompt": "Compare the choices for reporting what the coach said without quoting. Which one avoids the mistake in “The coach said, “that the team had kept trying”.”?",
     "answers": [
       {
-        "text": "quoted speech",
+        "text": "The coach said, “that the team had kept trying”.",
         "is_correct": false
       },
       {
-        "text": "reporting clause",
+        "text": "The coach said that the team had kept trying until the final whistle.",
         "is_correct": true
       },
       {
-        "text": "reported speech",
+        "text": "“The coach said that the team kept trying.”",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: quoted speech",
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: reporting clause",
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: reported speech"
-    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "reporting clause is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Reported speech retells the message without quotation marks and may adjust pronouns or tense. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Check whether the sentence gives exact words or reports the idea."
+    }
   },
   {
     "id": "AC9E4LA07-P-024",
@@ -956,40 +695,509 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA07",
     "bank": "practice",
-    "skill": "vocabulary_3_reason",
-    "question": "A student answers “reported speech”. Which feedback helps? Task: A class annotation about Quoted and Reported Speech describes “clause identifying the speaker and speech process”. Which term is most precise?",
-    "audio_prompt": "A student answers “reported speech”. Which feedback helps? Task: A class annotation about Quoted and Reported Speech describes “clause identifying the speaker and speech process”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la07.svg#ac9e4la07-p-024",
-      "alt_text": "Three-step Quoted and Reported Speech organiser. Read: Vocabulary 3. Notice: Transform accurately. Correct the student's mix-up using the full task."
-    },
+    "stage": "discriminate",
+    "skill": "Quoted and Reported Speech",
+    "question": "If “The coach said, “that the team had kept trying”.” does not work in reporting what the coach said without quoting, what should replace it?",
+    "audio_prompt": "If “The coach said, “that the team had kept trying”.” does not work in reporting what the coach said without quoting, what should replace it?",
     "answers": [
       {
-        "text": "Keep “reported speech”; it uses a detail that sounds familiar.",
+        "text": "The coach said, “that the team had kept trying”.",
         "is_correct": false
       },
       {
-        "text": "Choose “quoted speech” instead; it sounds clearer.",
+        "text": "“The coach said that the team kept trying.”",
         "is_correct": false
       },
       {
-        "text": "Match the definition to the exact language or literacy concept. reporting clause is the precise term for this feature.",
+        "text": "The coach said that the team had kept trying until the final whistle.",
         "is_correct": true
       }
     ],
-    "audio_answers": [
-      "Capital words: Keep. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “reported speech”; it uses a detail that sounds familiar.",
-      "Capital words: Choose. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “quoted speech” instead; it sounds clearer.",
-      "Capital words: Match. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Match the definition to the exact language or literacy concept. reporting clause is the precise term for this feature."
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Reported speech retells the message without quotation marks and may adjust pronouns or tense. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Check whether the sentence gives exact words or reports the idea."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-025",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Quoted and Reported Speech",
+    "question": "If “Mia said that I will bring my hat tomorrow.” does not work in turning “I will bring my hat tomorrow,” Mia said, into reported speech, what should replace it?",
+    "audio_prompt": "If “Mia said that I will bring my hat tomorrow.” does not work in turning “I will bring my hat tomorrow,” Mia said, into reported speech, what should replace it?",
+    "answers": [
+      {
+        "text": "Mia said that she would bring her hat the next day.",
+        "is_correct": true
+      },
+      {
+        "text": "Mia said that I will bring my hat tomorrow.",
+        "is_correct": false
+      },
+      {
+        "text": "Mia said, she would bring her hat tomorrow.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Reported speech changes I to she and tomorrow to the next day because the viewpoint and time reference shift. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Track pronouns, tense and time words when the speaker’s words are retold."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-026",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which option corrects the meaning or form needed for turning “I will bring my hat tomorrow,” Mia said, into reported speech?",
+    "audio_prompt": "Which option corrects the meaning or form needed for turning “I will bring my hat tomorrow,” Mia said, into reported speech?",
+    "answers": [
+      {
+        "text": "Mia said that I will bring my hat tomorrow.",
+        "is_correct": false
+      },
+      {
+        "text": "Mia said that she would bring her hat the next day.",
+        "is_correct": true
+      },
+      {
+        "text": "Mia said, she would bring her hat tomorrow.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Reported speech changes I to she and tomorrow to the next day because the viewpoint and time reference shift. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Track pronouns, tense and time words when the speaker’s words are retold."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-027",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which option corrects the meaning or form needed for choosing a reporting verb for a strong promise?",
+    "audio_prompt": "Which option corrects the meaning or form needed for choosing a reporting verb for a strong promise?",
+    "answers": [
+      {
+        "text": "Luca whispered that he would return it, even though the sentence is about a promise.",
+        "is_correct": false
+      },
+      {
+        "text": "Luca happened the library book.",
+        "is_correct": false
+      },
+      {
+        "text": "Luca promised that he would return the library book.",
+        "is_correct": true
+      }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Match the definition to the exact language or literacy concept. reporting clause is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Promised tells the reader what kind of speech act Luca made, not just that he spoke. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Choose a reporting verb that matches the meaning of the original speech."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-028",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which choice is the clearest correction for choosing a reporting verb for a strong promise?",
+    "audio_prompt": "Which choice is the clearest correction for choosing a reporting verb for a strong promise?",
+    "answers": [
+      {
+        "text": "Luca promised that he would return the library book.",
+        "is_correct": true
+      },
+      {
+        "text": "Luca whispered that he would return it, even though the sentence is about a promise.",
+        "is_correct": false
+      },
+      {
+        "text": "Luca happened the library book.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Promised tells the reader what kind of speech act Luca made, not just that he spoke. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Choose a reporting verb that matches the meaning of the original speech."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-029",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which choice is the clearest correction for using a quotation in a school news report?",
+    "audio_prompt": "Which choice is the clearest correction for using a quotation in a school news report?",
+    "answers": [
+      {
+        "text": "Asha said the new garden gives us “a cooler place” without showing whether those were her exact words.",
+        "is_correct": false
+      },
+      {
+        "text": "Asha said, “The new garden gives us a cooler place to read.”",
+        "is_correct": true
+      },
+      {
+        "text": "The new garden Asha said cooler place.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A direct quotation should preserve the speaker’s wording and clearly identify who spoke. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Check that the quoted words are exact and the speaker is named."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-030",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which revision best fixes the problem in “Asha said the new garden gives us “a cooler place” without showing whether those were her exact words.” for using a quotation in a school news report?",
+    "audio_prompt": "Which revision best fixes the problem in “Asha said the new garden gives us “a cooler place” without showing whether those were her exact words.” for using a quotation in a school news report?",
+    "answers": [
+      {
+        "text": "Asha said the new garden gives us “a cooler place” without showing whether those were her exact words.",
+        "is_correct": false
+      },
+      {
+        "text": "The new garden Asha said cooler place.",
+        "is_correct": false
+      },
+      {
+        "text": "Asha said, “The new garden gives us a cooler place to read.”",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A direct quotation should preserve the speaker’s wording and clearly identify who spoke. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Check that the quoted words are exact and the speaker is named."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-031",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Quoted and Reported Speech",
+    "question": "You now need to handle quoting the coach after a netball game independently. Which choice should you use?",
+    "audio_prompt": "You now need to handle quoting the coach after a netball game independently. Which choice should you use?",
+    "answers": [
+      {
+        "text": "The coach said, “We kept trying until the final whistle.”",
+        "is_correct": true
+      },
+      {
+        "text": "The coach we kept trying until the final whistle.",
+        "is_correct": false
+      },
+      {
+        "text": "The coach said that “we kept trying until the final whistle”.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Quotation marks show the coach’s exact spoken words.",
+      "hint": "Use quotation marks only when the wording is presented as the speaker’s exact words."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-032",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Quoted and Reported Speech",
+    "question": "Apply the same idea to quoting the coach after a netball game. Which option is best?",
+    "audio_prompt": "Apply the same idea to quoting the coach after a netball game. Which option is best?",
+    "answers": [
+      {
+        "text": "The coach we kept trying until the final whistle.",
+        "is_correct": false
+      },
+      {
+        "text": "The coach said, “We kept trying until the final whistle.”",
+        "is_correct": true
+      },
+      {
+        "text": "The coach said that “we kept trying until the final whistle”.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Quotation marks show the coach’s exact spoken words.",
+      "hint": "Use quotation marks only when the wording is presented as the speaker’s exact words."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-033",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Quoted and Reported Speech",
+    "question": "Apply the same idea to reporting what the coach said without quoting. Which option is best?",
+    "audio_prompt": "Apply the same idea to reporting what the coach said without quoting. Which option is best?",
+    "answers": [
+      {
+        "text": "“The coach said that the team kept trying.”",
+        "is_correct": false
+      },
+      {
+        "text": "The coach said, “that the team had kept trying”.",
+        "is_correct": false
+      },
+      {
+        "text": "The coach said that the team had kept trying until the final whistle.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Reported speech retells the message without quotation marks and may adjust pronouns or tense.",
+      "hint": "Check whether the sentence gives exact words or reports the idea."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-034",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which decision would produce the clearest result in reporting what the coach said without quoting?",
+    "audio_prompt": "Which decision would produce the clearest result in reporting what the coach said without quoting?",
+    "answers": [
+      {
+        "text": "The coach said that the team had kept trying until the final whistle.",
+        "is_correct": true
+      },
+      {
+        "text": "“The coach said that the team kept trying.”",
+        "is_correct": false
+      },
+      {
+        "text": "The coach said, “that the team had kept trying”.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Reported speech retells the message without quotation marks and may adjust pronouns or tense.",
+      "hint": "Check whether the sentence gives exact words or reports the idea."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-035",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which decision would produce the clearest result in turning “I will bring my hat tomorrow,” Mia said, into reported speech?",
+    "audio_prompt": "Which decision would produce the clearest result in turning “I will bring my hat tomorrow,” Mia said, into reported speech?",
+    "answers": [
+      {
+        "text": "Mia said, she would bring her hat tomorrow.",
+        "is_correct": false
+      },
+      {
+        "text": "Mia said that she would bring her hat the next day.",
+        "is_correct": true
+      },
+      {
+        "text": "Mia said that I will bring my hat tomorrow.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Reported speech changes I to she and tomorrow to the next day because the viewpoint and time reference shift.",
+      "hint": "Track pronouns, tense and time words when the speaker’s words are retold."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-036",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Quoted and Reported Speech",
+    "question": "Choose the option that applies the skill correctly in turning “I will bring my hat tomorrow,” Mia said, into reported speech.",
+    "audio_prompt": "Choose the option that applies the skill correctly in turning “I will bring my hat tomorrow,” Mia said, into reported speech.",
+    "answers": [
+      {
+        "text": "Mia said, she would bring her hat tomorrow.",
+        "is_correct": false
+      },
+      {
+        "text": "Mia said that I will bring my hat tomorrow.",
+        "is_correct": false
+      },
+      {
+        "text": "Mia said that she would bring her hat the next day.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Reported speech changes I to she and tomorrow to the next day because the viewpoint and time reference shift.",
+      "hint": "Track pronouns, tense and time words when the speaker’s words are retold."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-037",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Quoted and Reported Speech",
+    "question": "Choose the option that applies the skill correctly in choosing a reporting verb for a strong promise.",
+    "audio_prompt": "Choose the option that applies the skill correctly in choosing a reporting verb for a strong promise.",
+    "answers": [
+      {
+        "text": "Luca promised that he would return the library book.",
+        "is_correct": true
+      },
+      {
+        "text": "Luca happened the library book.",
+        "is_correct": false
+      },
+      {
+        "text": "Luca whispered that he would return it, even though the sentence is about a promise.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Promised tells the reader what kind of speech act Luca made, not just that he spoke.",
+      "hint": "Choose a reporting verb that matches the meaning of the original speech."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-038",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Quoted and Reported Speech",
+    "question": "What would be the most effective choice for choosing a reporting verb for a strong promise?",
+    "audio_prompt": "What would be the most effective choice for choosing a reporting verb for a strong promise?",
+    "answers": [
+      {
+        "text": "Luca happened the library book.",
+        "is_correct": false
+      },
+      {
+        "text": "Luca promised that he would return the library book.",
+        "is_correct": true
+      },
+      {
+        "text": "Luca whispered that he would return it, even though the sentence is about a promise.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Promised tells the reader what kind of speech act Luca made, not just that he spoke.",
+      "hint": "Choose a reporting verb that matches the meaning of the original speech."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-039",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Quoted and Reported Speech",
+    "question": "What would be the most effective choice for using a quotation in a school news report?",
+    "audio_prompt": "What would be the most effective choice for using a quotation in a school news report?",
+    "answers": [
+      {
+        "text": "The new garden Asha said cooler place.",
+        "is_correct": false
+      },
+      {
+        "text": "Asha said the new garden gives us “a cooler place” without showing whether those were her exact words.",
+        "is_correct": false
+      },
+      {
+        "text": "Asha said, “The new garden gives us a cooler place to read.”",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A direct quotation should preserve the speaker’s wording and clearly identify who spoke.",
+      "hint": "Check that the quoted words are exact and the speaker is named."
+    }
+  },
+  {
+    "id": "AC9E4LA07-P-040",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Quoted and Reported Speech",
+    "question": "You now need to handle using a quotation in a school news report independently. Which choice should you use?",
+    "audio_prompt": "You now need to handle using a quotation in a school news report independently. Which choice should you use?",
+    "answers": [
+      {
+        "text": "Asha said, “The new garden gives us a cooler place to read.”",
+        "is_correct": true
+      },
+      {
+        "text": "The new garden Asha said cooler place.",
+        "is_correct": false
+      },
+      {
+        "text": "Asha said the new garden gives us “a cooler place” without showing whether those were her exact words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A direct quotation should preserve the speaker’s wording and clearly identify who spoke.",
+      "hint": "Check that the quoted words are exact and the speaker is named."
+    }
   },
   {
     "id": "AC9E4LA07-T-001",
@@ -997,37 +1205,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA07",
     "bank": "test",
-    "skill": "new_text_1_apply",
-    "question": "In a new assessment text, Which sentence uses reported speech?",
-    "audio_prompt": "In a new assessment text, Which sentence uses reported speech?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la07.svg#ac9e4la07-t-001",
-      "alt_text": "Three-step Quoted and Reported Speech organiser. Read: New text 1. Notice: Recognise both forms. Choose the response supported by the example."
-    },
+    "stage": "verify",
+    "skill": "Quoted and Reported Speech",
+    "question": "New context: summarising a scientist’s explanation. Which option is correct?",
+    "audio_prompt": "New context: summarising a scientist’s explanation. Which option is correct?",
     "answers": [
       {
-        "text": "Mia said that she was ready.",
+        "text": "Dr Chen, “the frog population had increased after the wet summer”.",
+        "is_correct": false
+      },
+      {
+        "text": "Dr Chen explained that the frog population had increased after the wet summer.",
         "is_correct": true
       },
       {
-        "text": "Mia said, “I am ready.”",
-        "is_correct": false
-      },
-      {
-        "text": "“I am ready,” Mia said.",
+        "text": "Dr Chen explained “that the frog population”.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Mia. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Mia said that she was ready.",
-      "Capital words: Mia, I. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: said. The text reads: Mia said, “I am ready.”",
-      "Capital words: I, Mia. An opening quotation mark comes before the first word. The comma comes before the closing quotation mark. Commas come after: ready. The text ends with a full stop. The text reads: “I am ready,” Mia said."
-    ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The evidence and language purpose support “Mia said that she was ready.”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "Reported speech is useful when the writer wants the information rather than every exact word.",
+      "hint": "Notice that reported speech normally has no quotation marks around the message."
     }
   },
   {
@@ -1036,37 +1235,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA07",
     "bank": "test",
-    "skill": "new_text_1_reason",
-    "question": "A student answers “Mia said, “I am ready.””. Which feedback helps? Task: In a new assessment text, Which sentence uses reported speech?",
-    "audio_prompt": "A student answers “Mia said, “I am ready.””. Which feedback helps? Task: In a new assessment text, Which sentence uses reported speech?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la07.svg#ac9e4la07-t-002",
-      "alt_text": "Three-step Quoted and Reported Speech organiser. Read: New text 1. Notice: Recognise both forms. Correct the student's mix-up using the full task."
-    },
+    "stage": "verify",
+    "skill": "Quoted and Reported Speech",
+    "question": "What is the best choice for summarising a scientist’s explanation?",
+    "audio_prompt": "What is the best choice for summarising a scientist’s explanation?",
     "answers": [
       {
-        "text": "Keep “Mia said, “I am ready.””; it uses a detail that sounds familiar.",
+        "text": "Dr Chen, “the frog population had increased after the wet summer”.",
         "is_correct": false
       },
       {
-        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Mia said that she was ready.”.",
+        "text": "Dr Chen explained “that the frog population”.",
+        "is_correct": false
+      },
+      {
+        "text": "Dr Chen explained that the frog population had increased after the wet summer.",
         "is_correct": true
-      },
-      {
-        "text": "Choose ““I am ready,” Mia said.” instead; it sounds clearer.",
-        "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Keep, Mia, I. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: said. The text ends with a full stop. The text reads: Keep “Mia said, “I am ready.””; it uses a detail that sounds familiar.",
-      "Capital words: Check, The, Mia. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: feature. The text ends with a full stop. The text reads: Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Mia said that she was ready.”.",
-      "Capital words: Choose, I, Mia. There is no opening quotation mark before the first word. The comma comes before the closing quotation mark. Commas come after: ready. The text ends with a full stop. The text reads: Choose ““I am ready,” Mia said.” instead; it sounds clearer."
-    ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Mia said that she was ready.”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Reported speech is useful when the writer wants the information rather than every exact word.",
+      "hint": "Notice that reported speech normally has no quotation marks around the message."
     }
   },
   {
@@ -1075,37 +1265,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA07",
     "bank": "test",
-    "skill": "new_text_2_apply",
-    "question": "In a new assessment text, Which reporting verb most strongly suggests a commitment?",
-    "audio_prompt": "In a new assessment text, Which reporting verb most strongly suggests a commitment?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la07.svg#ac9e4la07-t-003",
-      "alt_text": "Three-step Quoted and Reported Speech organiser. Read: New text 2. Notice: Transform accurately. Choose the response supported by the example."
-    },
+    "stage": "verify",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which explanation best supports “Dr Chen explained that the frog population had increased after the wet summer.” in summarising a scientist’s explanation?",
+    "audio_prompt": "Which explanation best supports “Dr Chen explained that the frog population had increased after the wet summer.” in summarising a scientist’s explanation?",
     "answers": [
       {
-        "text": "said",
-        "is_correct": false
-      },
-      {
-        "text": "whispered",
-        "is_correct": false
-      },
-      {
-        "text": "promised",
+        "text": "Reported speech is useful when the writer wants the information rather than every exact word.",
         "is_correct": true
+      },
+      {
+        "text": "Because “Dr Chen, “the frog population had increased after the wet summer”.” is always a safe choice.",
+        "is_correct": false
+      },
+      {
+        "text": "Because surface appearance matters more than meaning.",
+        "is_correct": false
       }
     ],
-    "audio_answers": [
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: said",
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: whispered",
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: promised"
-    ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The evidence and language purpose support “promised”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "Reported speech is useful when the writer wants the information rather than every exact word.",
+      "hint": "Notice that reported speech normally has no quotation marks around the message."
     }
   },
   {
@@ -1114,37 +1295,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA07",
     "bank": "test",
-    "skill": "new_text_2_reason",
-    "question": "A student answers “whispered”. Which feedback helps? Task: In a new assessment text, Which reporting verb most strongly suggests a commitment?",
-    "audio_prompt": "A student answers “whispered”. Which feedback helps? Task: In a new assessment text, Which reporting verb most strongly suggests a commitment?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la07.svg#ac9e4la07-t-004",
-      "alt_text": "Three-step Quoted and Reported Speech organiser. Read: New text 2. Notice: Transform accurately. Correct the student's mix-up using the full task."
-    },
+    "stage": "verify",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which clue should guide your decision in summarising a scientist’s explanation?",
+    "audio_prompt": "Which clue should guide your decision in summarising a scientist’s explanation?",
     "answers": [
       {
-        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “promised”.",
+        "text": "Choose the option with the most words.",
+        "is_correct": false
+      },
+      {
+        "text": "Notice that reported speech normally has no quotation marks around the message.",
         "is_correct": true
       },
       {
-        "text": "Keep “whispered”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “said” instead; it sounds clearer.",
+        "text": "Ignore the context and use the first familiar form.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Check, The. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: feature. The text ends with a full stop. The text reads: Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “promised”.",
-      "Capital words: Keep. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “whispered”; it uses a detail that sounds familiar.",
-      "Capital words: Choose. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “said” instead; it sounds clearer."
-    ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “promised”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Reported speech is useful when the writer wants the information rather than every exact word.",
+      "hint": "Notice that reported speech normally has no quotation marks around the message."
     }
   },
   {
@@ -1153,37 +1325,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA07",
     "bank": "test",
-    "skill": "misconception_1_apply",
-    "question": "An editor reviewing a new text claims, “Reported speech copies the quotation unchanged”. Which response gives the most accurate correction?",
-    "audio_prompt": "An editor reviewing a new text claims, “Reported speech copies the quotation unchanged”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la07.svg#ac9e4la07-t-005",
-      "alt_text": "Three-step Quoted and Reported Speech organiser. Read: Misconception 1. Notice: Use quotation punctuation. Choose the response supported by the example."
-    },
+    "stage": "apply",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which option would you reject first in summarising a scientist’s explanation?",
+    "audio_prompt": "Which option would you reject first in summarising a scientist’s explanation?",
     "answers": [
       {
-        "text": "Reported speech copies the quotation unchanged",
+        "text": "Dr Chen explained that the frog population had increased after the wet summer.",
         "is_correct": false
       },
       {
-        "text": "Pronouns, tense and time references may need adjustment.",
+        "text": "Dr Chen explained “that the frog population”.",
+        "is_correct": false
+      },
+      {
+        "text": "Dr Chen, “the frog population had increased after the wet summer”.",
         "is_correct": true
-      },
-      {
-        "text": "Every spoken idea needs quotation marks",
-        "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Reported. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Reported speech copies the quotation unchanged",
-      "Capital words: Pronouns. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: Pronouns. The text ends with a full stop. The text reads: Pronouns, tense and time references may need adjustment.",
-      "Capital words: Every. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Every spoken idea needs quotation marks"
-    ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Pronouns, tense and time references may need adjustment.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Reported speech is useful when the writer wants the information rather than every exact word.",
+      "hint": "Notice that reported speech normally has no quotation marks around the message."
     }
   },
   {
@@ -1192,37 +1355,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA07",
     "bank": "test",
-    "skill": "misconception_1_reason",
-    "question": "A student answers “Reported speech copies the quotation unchanged”. Which feedback helps? Task: An editor reviewing a new text claims, “Reported speech copies the quotation unchanged”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Reported speech copies the quotation unchanged”. Which feedback helps? Task: An editor reviewing a new text claims, “Reported speech copies the quotation unchanged”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la07.svg#ac9e4la07-t-006",
-      "alt_text": "Three-step Quoted and Reported Speech organiser. Read: Misconception 1. Notice: Use quotation punctuation. Correct the student's mix-up using the full task."
-    },
+    "stage": "apply",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which correction should replace “Dr Chen, “the frog population had increased after the wet summer”.” in summarising a scientist’s explanation?",
+    "audio_prompt": "Which correction should replace “Dr Chen, “the frog population had increased after the wet summer”.” in summarising a scientist’s explanation?",
     "answers": [
       {
-        "text": "Keep “Reported speech copies the quotation unchanged”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “Every spoken idea needs quotation marks” instead; it sounds clearer.",
-        "is_correct": false
-      },
-      {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Pronouns, tense and time references may need adjustment.",
+        "text": "Dr Chen explained that the frog population had increased after the wet summer.",
         "is_correct": true
+      },
+      {
+        "text": "Dr Chen, “the frog population had increased after the wet summer”.",
+        "is_correct": false
+      },
+      {
+        "text": "Dr Chen explained “that the frog population”.",
+        "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Keep, Reported. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “Reported speech copies the quotation unchanged”; it uses a detail that sounds familiar.",
-      "Capital words: Choose, Every. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “Every spoken idea needs quotation marks” instead; it sounds clearer.",
-      "Capital words: Identify, Pronouns. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: overlooks, Pronouns. The text ends with a full stop. The text reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. Pronouns, tense and time references may need adjustment."
-    ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Pronouns, tense and time references may need adjustment.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Reported speech is useful when the writer wants the information rather than every exact word.",
+      "hint": "Notice that reported speech normally has no quotation marks around the message."
     }
   },
   {
@@ -1231,37 +1385,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA07",
     "bank": "test",
-    "skill": "misconception_2_apply",
-    "question": "An editor reviewing a new text claims, “Every spoken idea needs quotation marks”. Which response gives the most accurate correction?",
-    "audio_prompt": "An editor reviewing a new text claims, “Every spoken idea needs quotation marks”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la07.svg#ac9e4la07-t-007",
-      "alt_text": "Three-step Quoted and Reported Speech organiser. Read: Misconception 2. Notice: Track viewpoint/time shifts. Choose the response supported by the example."
-    },
+    "stage": "apply",
+    "skill": "Quoted and Reported Speech",
+    "question": "Apply the skill to summarising a scientist’s explanation: what should you choose?",
+    "audio_prompt": "Apply the skill to summarising a scientist’s explanation: what should you choose?",
     "answers": [
       {
-        "text": "Reported speech normally uses no quotation marks around the message.",
+        "text": "Dr Chen, “the frog population had increased after the wet summer”.",
+        "is_correct": false
+      },
+      {
+        "text": "Dr Chen explained that the frog population had increased after the wet summer.",
         "is_correct": true
       },
       {
-        "text": "Every spoken idea needs quotation marks",
-        "is_correct": false
-      },
-      {
-        "text": "Reporting verb does not matter",
+        "text": "Dr Chen explained “that the frog population”.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Reported. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Reported speech normally uses no quotation marks around the message.",
-      "Capital words: Every. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Every spoken idea needs quotation marks",
-      "Capital words: Reporting. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Reporting verb does not matter"
-    ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Reported speech normally uses no quotation marks around the message.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Reported speech is useful when the writer wants the information rather than every exact word.",
+      "hint": "Notice that reported speech normally has no quotation marks around the message."
     }
   },
   {
@@ -1270,37 +1415,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA07",
     "bank": "test",
-    "skill": "misconception_2_reason",
-    "question": "A student answers “Reporting verb does not matter”. Which feedback helps? Task: An editor reviewing a new text claims, “Every spoken idea needs quotation marks”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Reporting verb does not matter”. Which feedback helps? Task: An editor reviewing a new text claims, “Every spoken idea needs quotation marks”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la07.svg#ac9e4la07-t-008",
-      "alt_text": "Three-step Quoted and Reported Speech organiser. Read: Misconception 2. Notice: Track viewpoint/time shifts. Correct the student's mix-up using the full task."
-    },
+    "stage": "apply",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which final choice gives the clearest and most accurate result for summarising a scientist’s explanation?",
+    "audio_prompt": "Which final choice gives the clearest and most accurate result for summarising a scientist’s explanation?",
     "answers": [
       {
-        "text": "Keep “Reporting verb does not matter”; it uses a detail that sounds familiar.",
+        "text": "Dr Chen, “the frog population had increased after the wet summer”.",
         "is_correct": false
       },
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Reported speech normally uses no quotation marks around the message.",
+        "text": "Dr Chen explained “that the frog population”.",
+        "is_correct": false
+      },
+      {
+        "text": "Dr Chen explained that the frog population had increased after the wet summer.",
         "is_correct": true
-      },
-      {
-        "text": "Choose “Every spoken idea needs quotation marks” instead; it sounds clearer.",
-        "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Keep, Reporting. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “Reporting verb does not matter”; it uses a detail that sounds familiar.",
-      "Capital words: Identify, Reported. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: overlooks. The text ends with a full stop. The text reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. Reported speech normally uses no quotation marks around the message.",
-      "Capital words: Choose, Every. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “Every spoken idea needs quotation marks” instead; it sounds clearer."
-    ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Reported speech normally uses no quotation marks around the message.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Reported speech is useful when the writer wants the information rather than every exact word.",
+      "hint": "Notice that reported speech normally has no quotation marks around the message."
     }
   },
   {
@@ -1309,37 +1445,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA07",
     "bank": "test",
-    "skill": "misconception_3_apply",
-    "question": "An editor reviewing a new text claims, “Reporting verb does not matter”. Which response gives the most accurate correction?",
-    "audio_prompt": "An editor reviewing a new text claims, “Reporting verb does not matter”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la07.svg#ac9e4la07-t-009",
-      "alt_text": "Three-step Quoted and Reported Speech organiser. Read: Misconception 3. Notice: Choose form for purpose. Choose the response supported by the example."
-    },
+    "stage": "verify",
+    "skill": "Quoted and Reported Speech",
+    "question": "New context: changing a direct question into reported speech. Which option is correct?",
+    "audio_prompt": "New context: changing a direct question into reported speech. Which option is correct?",
     "answers": [
       {
-        "text": "Reporting verb does not matter",
-        "is_correct": false
-      },
-      {
-        "text": "Quotation wording may be improved silently",
-        "is_correct": false
-      },
-      {
-        "text": "Said, claimed, admitted and promised suggest different meanings.",
+        "text": "Noah asked whether the bus would arrive soon.",
         "is_correct": true
+      },
+      {
+        "text": "Noah asked, “whether the bus would arrive soon”.",
+        "is_correct": false
+      },
+      {
+        "text": "Noah asked whether will the bus arrive soon?",
+        "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Reporting. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Reporting verb does not matter",
-      "Capital words: Quotation. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Quotation wording may be improved silently",
-      "Capital words: Said. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: Said, claimed. The text ends with a full stop. The text reads: Said, claimed, admitted and promised suggest different meanings."
-    ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Said, claimed, admitted and promised suggest different meanings.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "A reported question changes the word order and removes quotation marks around the reported message.",
+      "hint": "Do not keep direct-question word order when reporting the question."
     }
   },
   {
@@ -1348,37 +1475,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA07",
     "bank": "test",
-    "skill": "misconception_3_reason",
-    "question": "A student answers “Reporting verb does not matter”. Which feedback helps? Task: An editor reviewing a new text claims, “Reporting verb does not matter”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Reporting verb does not matter”. Which feedback helps? Task: An editor reviewing a new text claims, “Reporting verb does not matter”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la07.svg#ac9e4la07-t-010",
-      "alt_text": "Three-step Quoted and Reported Speech organiser. Read: Misconception 3. Notice: Choose form for purpose. Correct the student's mix-up using the full task."
-    },
+    "stage": "verify",
+    "skill": "Quoted and Reported Speech",
+    "question": "What is the best choice for changing a direct question into reported speech?",
+    "audio_prompt": "What is the best choice for changing a direct question into reported speech?",
     "answers": [
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Said, claimed, admitted and promised suggest different meanings.",
+        "text": "Noah asked, “whether the bus would arrive soon”.",
+        "is_correct": false
+      },
+      {
+        "text": "Noah asked whether the bus would arrive soon.",
         "is_correct": true
       },
       {
-        "text": "Keep “Reporting verb does not matter”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “Quotation wording may be improved silently” instead; it sounds clearer.",
+        "text": "Noah asked whether will the bus arrive soon?",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Identify, Said. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: overlooks, Said, claimed. The text ends with a full stop. The text reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. Said, claimed, admitted and promised suggest different meanings.",
-      "Capital words: Keep, Reporting. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “Reporting verb does not matter”; it uses a detail that sounds familiar.",
-      "Capital words: Choose, Quotation. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “Quotation wording may be improved silently” instead; it sounds clearer."
-    ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Said, claimed, admitted and promised suggest different meanings.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A reported question changes the word order and removes quotation marks around the reported message.",
+      "hint": "Do not keep direct-question word order when reporting the question."
     }
   },
   {
@@ -1387,37 +1505,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA07",
     "bank": "test",
-    "skill": "misconception_4_apply",
-    "question": "An editor reviewing a new text claims, “Quotation wording may be improved silently”. Which response gives the most accurate correction?",
-    "audio_prompt": "An editor reviewing a new text claims, “Quotation wording may be improved silently”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la07.svg#ac9e4la07-t-011",
-      "alt_text": "Three-step Quoted and Reported Speech organiser. Read: Misconception 4. Notice: Recognise both forms. Choose the response supported by the example."
-    },
+    "stage": "verify",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which explanation best supports “Noah asked whether the bus would arrive soon.” in changing a direct question into reported speech?",
+    "audio_prompt": "Which explanation best supports “Noah asked whether the bus would arrive soon.” in changing a direct question into reported speech?",
     "answers": [
       {
-        "text": "Quotation wording may be improved silently",
+        "text": "Because “Noah asked, “whether the bus would arrive soon”.” is always a safe choice.",
         "is_correct": false
       },
       {
-        "text": "Direct quotation should preserve the original wording or show omissions transparently.",
+        "text": "Because surface appearance matters more than meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "A reported question changes the word order and removes quotation marks around the reported message.",
         "is_correct": true
-      },
-      {
-        "text": "Reported speech copies the quotation unchanged",
-        "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Quotation. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Quotation wording may be improved silently",
-      "Capital words: Direct. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Direct quotation should preserve the original wording or show omissions transparently.",
-      "Capital words: Reported. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Reported speech copies the quotation unchanged"
-    ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Direct quotation should preserve the original wording or show omissions transparently.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "A reported question changes the word order and removes quotation marks around the reported message.",
+      "hint": "Do not keep direct-question word order when reporting the question."
     }
   },
   {
@@ -1426,37 +1535,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA07",
     "bank": "test",
-    "skill": "misconception_4_reason",
-    "question": "A student answers “Reported speech copies the quotation unchanged”. Which feedback helps? Task: An editor reviewing a new text claims, “Quotation wording may be improved silently”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Reported speech copies the quotation unchanged”. Which feedback helps? Task: An editor reviewing a new text claims, “Quotation wording may be improved silently”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la07.svg#ac9e4la07-t-012",
-      "alt_text": "Three-step Quoted and Reported Speech organiser. Read: Misconception 4. Notice: Recognise both forms. Correct the student's mix-up using the full task."
-    },
+    "stage": "verify",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which clue should guide your decision in changing a direct question into reported speech?",
+    "audio_prompt": "Which clue should guide your decision in changing a direct question into reported speech?",
     "answers": [
       {
-        "text": "Keep “Reported speech copies the quotation unchanged”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “Quotation wording may be improved silently” instead; it sounds clearer.",
-        "is_correct": false
-      },
-      {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Direct quotation should preserve the original wording or show omissions transparently.",
+        "text": "Do not keep direct-question word order when reporting the question.",
         "is_correct": true
+      },
+      {
+        "text": "Choose the option with the most words.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and use the first familiar form.",
+        "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Keep, Reported. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “Reported speech copies the quotation unchanged”; it uses a detail that sounds familiar.",
-      "Capital words: Choose, Quotation. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “Quotation wording may be improved silently” instead; it sounds clearer.",
-      "Capital words: Identify, Direct. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: overlooks. The text ends with a full stop. The text reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. Direct quotation should preserve the original wording or show omissions transparently."
-    ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Direct quotation should preserve the original wording or show omissions transparently.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A reported question changes the word order and removes quotation marks around the reported message.",
+      "hint": "Do not keep direct-question word order when reporting the question."
     }
   },
   {
@@ -1465,37 +1565,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA07",
     "bank": "test",
-    "skill": "speech_transformation_apply",
-    "question": "A different class adapts “Speech transformation”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A different class adapts “Speech transformation”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la07.svg#ac9e4la07-t-013",
-      "alt_text": "Three-step Quoted and Reported Speech organiser. Read: Speech transformation. Notice: Transform accurately. Choose the response supported by the example."
-    },
+    "stage": "apply",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which option would you reject first in changing a direct question into reported speech?",
+    "audio_prompt": "Which option would you reject first in changing a direct question into reported speech?",
     "answers": [
       {
-        "text": "Convert short quotations to reported speech and underline every grammatical change.",
+        "text": "Noah asked whether the bus would arrive soon.",
+        "is_correct": false
+      },
+      {
+        "text": "Noah asked, “whether the bus would arrive soon”.",
         "is_correct": true
       },
       {
-        "text": "Copy the title, then choose an answer without analysing the language or text.",
-        "is_correct": false
-      },
-      {
-        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "text": "Noah asked whether will the bus arrive soon?",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Convert. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Convert short quotations to reported speech and underline every grammatical change.",
-      "Capital words: Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Copy the title, then choose an answer without analysing the language or text.",
-      "Capital words: Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Change the purpose and audience halfway through, then report the first impression only."
-    ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Convert short quotations to reported speech and underline every grammatical change.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. A reported question changes the word order and removes quotation marks around the reported message.",
+      "hint": "Do not keep direct-question word order when reporting the question."
     }
   },
   {
@@ -1504,37 +1595,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA07",
     "bank": "test",
-    "skill": "speech_transformation_reason",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: A different class adapts “Speech transformation”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: A different class adapts “Speech transformation”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la07.svg#ac9e4la07-t-014",
-      "alt_text": "Three-step Quoted and Reported Speech organiser. Read: Speech transformation. Notice: Transform accurately. Correct the student's mix-up using the full task."
-    },
+    "stage": "apply",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which correction should replace “Noah asked, “whether the bus would arrive soon”.” in changing a direct question into reported speech?",
+    "audio_prompt": "Which correction should replace “Noah asked, “whether the bus would arrive soon”.” in changing a direct question into reported speech?",
     "answers": [
       {
-        "text": "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
+        "text": "Noah asked, “whether the bus would arrive soon”.",
         "is_correct": false
       },
       {
-        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Convert short quotations to reported speech and underline every grammatical change.",
+        "text": "Noah asked whether will the bus arrive soon?",
+        "is_correct": false
+      },
+      {
+        "text": "Noah asked whether the bus would arrive soon.",
         "is_correct": true
-      },
-      {
-        "text": "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
-        "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Keep, Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
-      "Capital words: Choose, Convert. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose the plan that analyses language evidence and produces a reviewable response. Convert short quotations to reported speech and underline every grammatical change.",
-      "Capital words: Choose, Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer."
-    ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Convert short quotations to reported speech and underline every grammatical change.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A reported question changes the word order and removes quotation marks around the reported message.",
+      "hint": "Do not keep direct-question word order when reporting the question."
     }
   },
   {
@@ -1543,37 +1625,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA07",
     "bank": "test",
-    "skill": "purpose_choice_apply",
-    "question": "A different class adapts “Purpose choice”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A different class adapts “Purpose choice”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la07.svg#ac9e4la07-t-015",
-      "alt_text": "Three-step Quoted and Reported Speech organiser. Read: Purpose choice. Notice: Use quotation punctuation. Choose the response supported by the example."
-    },
+    "stage": "apply",
+    "skill": "Quoted and Reported Speech",
+    "question": "Apply the skill to changing a direct question into reported speech: what should you choose?",
+    "audio_prompt": "Apply the skill to changing a direct question into reported speech: what should you choose?",
     "answers": [
       {
-        "text": "Copy the title, then choose an answer without analysing the language or text.",
-        "is_correct": false
-      },
-      {
-        "text": "Change the purpose and audience halfway through, then report the first impression only.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose direct, reported or mixed speech for a news report, narrative scene and meeting summary.",
+        "text": "Noah asked whether the bus would arrive soon.",
         "is_correct": true
+      },
+      {
+        "text": "Noah asked, “whether the bus would arrive soon”.",
+        "is_correct": false
+      },
+      {
+        "text": "Noah asked whether will the bus arrive soon?",
+        "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Copy the title, then choose an answer without analysing the language or text.",
-      "Capital words: Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Change the purpose and audience halfway through, then report the first impression only.",
-      "Capital words: Choose. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: direct, report. The text ends with a full stop. The text reads: Choose direct, reported or mixed speech for a news report, narrative scene and meeting summary."
-    ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Choose direct, reported or mixed speech for a news report, narrative scene and meeting summary.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "A reported question changes the word order and removes quotation marks around the reported message.",
+      "hint": "Do not keep direct-question word order when reporting the question."
     }
   },
   {
@@ -1582,37 +1655,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA07",
     "bank": "test",
-    "skill": "purpose_choice_reason",
-    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: A different class adapts “Purpose choice”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: A different class adapts “Purpose choice”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la07.svg#ac9e4la07-t-016",
-      "alt_text": "Three-step Quoted and Reported Speech organiser. Read: Purpose choice. Notice: Use quotation punctuation. Correct the student's mix-up using the full task."
-    },
+    "stage": "apply",
+    "skill": "Quoted and Reported Speech",
+    "question": "Which final choice gives the clearest and most accurate result for changing a direct question into reported speech?",
+    "audio_prompt": "Which final choice gives the clearest and most accurate result for changing a direct question into reported speech?",
     "answers": [
       {
-        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Choose direct, reported or mixed speech for a news report, narrative scene and meeting summary.",
+        "text": "Noah asked, “whether the bus would arrive soon”.",
+        "is_correct": false
+      },
+      {
+        "text": "Noah asked whether the bus would arrive soon.",
         "is_correct": true
       },
       {
-        "text": "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
+        "text": "Noah asked whether will the bus arrive soon?",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Choose, Choose. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: direct, report. The text ends with a full stop. The text reads: Choose the plan that analyses language evidence and produces a reviewable response. Choose direct, reported or mixed speech for a news report, narrative scene and meeting summary.",
-      "Capital words: Keep, Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
-      "Capital words: Choose, Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer."
-    ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Choose direct, reported or mixed speech for a news report, narrative scene and meeting summary.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A reported question changes the word order and removes quotation marks around the reported message.",
+      "hint": "Do not keep direct-question word order when reporting the question."
     }
   }
 ]

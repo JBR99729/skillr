@@ -4,28 +4,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly03-p-001",
     "curriculumCode": "AC9E4LY03",
     "bank": "practice",
-    "skill": "worked text 1 apply",
+    "skill": "Purpose and Features of Texts",
     "printable": true,
     "type": "single",
-    "question": "Read the classroom example. Which feature bundle most strongly suggests a persuasive text?",
-    "audioPrompt": "Read the classroom example. Which feature bundle most strongly suggests a persuasive text?",
-    "visual": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Worked text 1. Notice: Recognise feature patterns. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Worked text 1. Notice: Recognise feature patterns. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-001",
-      "alt_text": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Worked text 1. Notice: Recognise feature patterns. Choose the response supported by the example."
-    },
+    "question": "In a persuasive poster asking families to walk to school, which option best demonstrates the skill?",
+    "audioPrompt": "In a persuasive poster asking families to walk to school, which option best demonstrates the skill?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "characters, climax and resolution only",
-      "position, reasons, evidence and call to action",
-      "definitions and labelled diagram only"
+      "Use only a list of random street names.",
+      "Use a clear call to action, reasons, emotive wording and a striking image of a safe walking group.",
+      "Hide the request in tiny print."
     ],
     "correct": 1,
-    "explanation": "The evidence and language purpose support “position, reasons, evidence and call to action”.\nHint: Check the whole sentence or text feature, then test meaning and grammar.",
+    "explanation": "Persuasive features work together to influence the audience toward an action.\nHint: Ask what the creator wants the audience to think or do.",
     "structuredExplanation": {
-      "summary": "The evidence and language purpose support “position, reasons, evidence and call to action”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "Persuasive features work together to influence the audience toward an action.",
+      "hint": "Ask what the creator wants the audience to think or do."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +28,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly03-p-002",
     "curriculumCode": "AC9E4LY03",
     "bank": "practice",
-    "skill": "worked text 1 reason",
+    "skill": "Purpose and Features of Texts",
     "printable": true,
     "type": "single",
-    "question": "A student answers “characters, climax and resolution only”. Which feedback helps? Task: Read the classroom example. Which feature bundle most strongly suggests a persuasive text?",
-    "audioPrompt": "A student answers “characters, climax and resolution only”. Which feedback helps? Task: Read the classroom example. Which feature bundle most strongly suggests a persuasive text?",
-    "visual": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Worked text 1. Notice: Recognise feature patterns. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Worked text 1. Notice: Recognise feature patterns. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-002\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-002",
-      "alt_text": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Worked text 1. Notice: Recognise feature patterns. Correct the student's mix-up using the full task."
-    },
+    "question": "Which choice fits a persuasive poster asking families to walk to school most accurately?",
+    "audioPrompt": "Which choice fits a persuasive poster asking families to walk to school most accurately?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “characters, climax and resolution only”; it uses a detail that sounds familiar.",
-      "Choose “definitions and labelled diagram only” instead; it sounds clearer.",
-      "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “position, reasons, evidence and call to action”."
+      "Use only a list of random street names.",
+      "Hide the request in tiny print.",
+      "Use a clear call to action, reasons, emotive wording and a striking image of a safe walking group."
     ],
     "correct": 2,
-    "explanation": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “position, reasons, evidence and call to action”.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Persuasive features work together to influence the audience toward an action.\nHint: Ask what the creator wants the audience to think or do.",
     "structuredExplanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “position, reasons, evidence and call to action”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Persuasive features work together to influence the audience toward an action.",
+      "hint": "Ask what the creator wants the audience to think or do."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +52,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly03-p-003",
     "curriculumCode": "AC9E4LY03",
     "bank": "practice",
-    "skill": "worked text 2 apply",
+    "skill": "Purpose and Features of Texts",
     "printable": true,
     "type": "single",
-    "question": "Read the classroom example. What is the best way to classify a hybrid text?",
-    "audioPrompt": "Read the classroom example. What is the best way to classify a hybrid text?",
-    "visual": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Worked text 2. Notice: Connect features to purpose. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Worked text 2. Notice: Connect features to purpose. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-003",
-      "alt_text": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Worked text 2. Notice: Connect features to purpose. Choose the response supported by the example."
-    },
+    "question": "Which choice fits an information page about platypuses most accurately?",
+    "audioPrompt": "Which choice fits an information page about platypuses most accurately?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Identify the dominant purpose from the overall feature pattern",
-      "Choose whichever colour appears most",
-      "Assume only one purpose can exist"
+      "Use headings, factual paragraphs, labelled images and technical vocabulary explained for readers.",
+      "Use a cliffhanger ending with no facts.",
+      "Use only commands telling readers what to believe."
     ],
     "correct": 0,
-    "explanation": "The evidence and language purpose support “Identify the dominant purpose from the overall feature pattern”.\nHint: Check the whole sentence or text feature, then test meaning and grammar.",
+    "explanation": "Informative features organise and explain knowledge.\nHint: Look for evidence, clear organisation and subject vocabulary.",
     "structuredExplanation": {
-      "summary": "The evidence and language purpose support “Identify the dominant purpose from the overall feature pattern”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "Informative features organise and explain knowledge.",
+      "hint": "Look for evidence, clear organisation and subject vocabulary."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +76,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly03-p-004",
     "curriculumCode": "AC9E4LY03",
     "bank": "practice",
-    "skill": "worked text 2 reason",
+    "skill": "Purpose and Features of Texts",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Assume only one purpose can exist”. Which feedback helps? Task: Read the classroom example. What is the best way to classify a hybrid text?",
-    "audioPrompt": "A student answers “Assume only one purpose can exist”. Which feedback helps? Task: Read the classroom example. What is the best way to classify a hybrid text?",
-    "visual": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Worked text 2. Notice: Connect features to purpose. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Worked text 2. Notice: Connect features to purpose. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-004\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-004",
-      "alt_text": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Worked text 2. Notice: Connect features to purpose. Correct the student's mix-up using the full task."
-    },
+    "question": "Look closely at an information page about platypuses. Which response or wording works best?",
+    "audioPrompt": "Look closely at an information page about platypuses. Which response or wording works best?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Assume only one purpose can exist”; it uses a detail that sounds familiar.",
-      "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Identify the dominant purpose from the overall feature pattern”.",
-      "Choose “Choose whichever colour appears most” instead; it sounds clearer."
+      "Use a cliffhanger ending with no facts.",
+      "Use headings, factual paragraphs, labelled images and technical vocabulary explained for readers.",
+      "Use only commands telling readers what to believe."
     ],
     "correct": 1,
-    "explanation": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Identify the dominant purpose from the overall feature pattern”.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Informative features organise and explain knowledge.\nHint: Look for evidence, clear organisation and subject vocabulary.",
     "structuredExplanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Identify the dominant purpose from the overall feature pattern”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Informative features organise and explain knowledge.",
+      "hint": "Look for evidence, clear organisation and subject vocabulary."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +100,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly03-p-005",
     "curriculumCode": "AC9E4LY03",
     "bank": "practice",
-    "skill": "misconception 1 apply",
+    "skill": "Purpose and Features of Texts",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “One feature determines purpose”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “One feature determines purpose”. Which response gives the most accurate correction?",
-    "visual": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Misconception 1. Notice: Compare three broad types. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Misconception 1. Notice: Compare three broad types. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-005",
-      "alt_text": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Misconception 1. Notice: Compare three broad types. Choose the response supported by the example."
-    },
+    "question": "Look closely at an imaginative story about a robot on Mars. Which response or wording works best?",
+    "audioPrompt": "Look closely at an imaginative story about a robot on Mars. Which response or wording works best?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "One feature determines purpose",
-      "Persuasive texts contain no facts",
-      "Use a connected pattern."
+      "Use only a contents page and data table.",
+      "Give a list of instructions for repairing a toaster.",
+      "Use characters, setting, a developing problem and descriptive language."
     ],
     "correct": 2,
-    "explanation": "Use a connected pattern.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "Imaginative texts develop events and experiences rather than mainly explaining facts or arguing a case.\nHint: Identify the main purpose of the whole text.",
     "structuredExplanation": {
-      "summary": "Use a connected pattern.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Imaginative texts develop events and experiences rather than mainly explaining facts or arguing a case.",
+      "hint": "Identify the main purpose of the whole text."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +124,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly03-p-006",
     "curriculumCode": "AC9E4LY03",
     "bank": "practice",
-    "skill": "misconception 1 reason",
+    "skill": "Purpose and Features of Texts",
     "printable": true,
     "type": "single",
-    "question": "A student answers “One feature determines purpose”. Which feedback helps? Task: A student in a workshop claims, “One feature determines purpose”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “One feature determines purpose”. Which feedback helps? Task: A student in a workshop claims, “One feature determines purpose”. Which response gives the most accurate correction?",
-    "visual": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Misconception 1. Notice: Compare three broad types. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Misconception 1. Notice: Compare three broad types. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-006",
-      "alt_text": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Misconception 1. Notice: Compare three broad types. Correct the student's mix-up using the full task."
-    },
+    "question": "For an imaginative story about a robot on Mars, which option is the strongest match?",
+    "audioPrompt": "For an imaginative story about a robot on Mars, which option is the strongest match?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use a connected pattern.",
-      "Keep “One feature determines purpose”; it uses a detail that sounds familiar.",
-      "Choose “Persuasive texts contain no facts” instead; it sounds clearer."
+      "Use characters, setting, a developing problem and descriptive language.",
+      "Use only a contents page and data table.",
+      "Give a list of instructions for repairing a toaster."
     ],
     "correct": 0,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use a connected pattern.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Imaginative texts develop events and experiences rather than mainly explaining facts or arguing a case.\nHint: Identify the main purpose of the whole text.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use a connected pattern.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Imaginative texts develop events and experiences rather than mainly explaining facts or arguing a case.",
+      "hint": "Identify the main purpose of the whole text."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +148,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly03-p-007",
     "curriculumCode": "AC9E4LY03",
     "bank": "practice",
-    "skill": "misconception 2 apply",
+    "skill": "Purpose and Features of Texts",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Persuasive texts contain no facts”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Persuasive texts contain no facts”. Which response gives the most accurate correction?",
-    "visual": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Misconception 2. Notice: Analyse multimodal choices. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Misconception 2. Notice: Analyse multimodal choices. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-007",
-      "alt_text": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Misconception 2. Notice: Analyse multimodal choices. Choose the response supported by the example."
-    },
+    "question": "For a website encouraging donations to an animal shelter, which option is the strongest match?",
+    "audioPrompt": "For a website encouraging donations to an animal shelter, which option is the strongest match?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Persuasive texts contain no facts",
-      "Evidence can strengthen persuasion.",
-      "Informative means completely neutral"
+      "Use only neutral measurements with no request.",
+      "Use a headline, reasons for donating, selected facts and an easy-to-find Donate link.",
+      "Place the donation link where readers cannot find it."
     ],
     "correct": 1,
-    "explanation": "Evidence can strengthen persuasion.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "Persuasive digital texts combine language and navigation to support the desired action.\nHint: Consider both wording and layout.",
     "structuredExplanation": {
-      "summary": "Evidence can strengthen persuasion.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Persuasive digital texts combine language and navigation to support the desired action.",
+      "hint": "Consider both wording and layout."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +172,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly03-p-008",
     "curriculumCode": "AC9E4LY03",
     "bank": "practice",
-    "skill": "misconception 2 reason",
+    "skill": "Purpose and Features of Texts",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Informative means completely neutral”. Which feedback helps? Task: A student in a workshop claims, “Persuasive texts contain no facts”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Informative means completely neutral”. Which feedback helps? Task: A student in a workshop claims, “Persuasive texts contain no facts”. Which response gives the most accurate correction?",
-    "visual": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Misconception 2. Notice: Analyse multimodal choices. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Misconception 2. Notice: Analyse multimodal choices. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-008\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-008",
-      "alt_text": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Misconception 2. Notice: Analyse multimodal choices. Correct the student's mix-up using the full task."
-    },
+    "question": "Which example should you choose for a website encouraging donations to an animal shelter?",
+    "audioPrompt": "Which example should you choose for a website encouraging donations to an animal shelter?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Informative means completely neutral”; it uses a detail that sounds familiar.",
-      "Choose “Persuasive texts contain no facts” instead; it sounds clearer.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Evidence can strengthen persuasion."
+      "Use only neutral measurements with no request.",
+      "Place the donation link where readers cannot find it.",
+      "Use a headline, reasons for donating, selected facts and an easy-to-find Donate link."
     ],
     "correct": 2,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Evidence can strengthen persuasion.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Persuasive digital texts combine language and navigation to support the desired action.\nHint: Consider both wording and layout.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Evidence can strengthen persuasion.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Persuasive digital texts combine language and navigation to support the desired action.",
+      "hint": "Consider both wording and layout."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +196,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly03-p-009",
     "curriculumCode": "AC9E4LY03",
     "bank": "practice",
-    "skill": "misconception 3 apply",
+    "skill": "Purpose and Features of Texts",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Informative means completely neutral”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Informative means completely neutral”. Which response gives the most accurate correction?",
-    "visual": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Misconception 3. Notice: Explain hybrid purpose. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Misconception 3. Notice: Explain hybrid purpose. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-009",
-      "alt_text": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Misconception 3. Notice: Explain hybrid purpose. Choose the response supported by the example."
-    },
+    "question": "Which example should you choose for a science infographic about the water cycle?",
+    "audioPrompt": "Which example should you choose for a science infographic about the water cycle?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Selection and framing still shape information.",
-      "Informative means completely neutral",
-      "Hybrid means impossible to classify"
+      "Use labelled stages, arrows, brief explanations and key terms such as evaporation and condensation.",
+      "Use an unrelated character conflict.",
+      "Replace labels with decorative patterns that carry no information."
     ],
     "correct": 0,
-    "explanation": "Selection and framing still shape information.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "Visual organisation can show a process efficiently when labels and arrows carry meaning.\nHint: Check how words and graphics share the information.",
     "structuredExplanation": {
-      "summary": "Selection and framing still shape information.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Visual organisation can show a process efficiently when labels and arrows carry meaning.",
+      "hint": "Check how words and graphics share the information."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +220,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly03-p-010",
     "curriculumCode": "AC9E4LY03",
     "bank": "practice",
-    "skill": "misconception 3 reason",
+    "skill": "Purpose and Features of Texts",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Informative means completely neutral”. Which feedback helps? Task: A student in a workshop claims, “Informative means completely neutral”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Informative means completely neutral”. Which feedback helps? Task: A student in a workshop claims, “Informative means completely neutral”. Which response gives the most accurate correction?",
-    "visual": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Misconception 3. Notice: Explain hybrid purpose. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Misconception 3. Notice: Explain hybrid purpose. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-010",
-      "alt_text": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Misconception 3. Notice: Explain hybrid purpose. Correct the student's mix-up using the full task."
-    },
+    "question": "In a science infographic about the water cycle, which option best demonstrates the skill?",
+    "audioPrompt": "In a science infographic about the water cycle, which option best demonstrates the skill?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Informative means completely neutral”; it uses a detail that sounds familiar.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Selection and framing still shape information.",
-      "Choose “Hybrid means impossible to classify” instead; it sounds clearer."
+      "Use an unrelated character conflict.",
+      "Use labelled stages, arrows, brief explanations and key terms such as evaporation and condensation.",
+      "Replace labels with decorative patterns that carry no information."
     ],
     "correct": 1,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Selection and framing still shape information.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Visual organisation can show a process efficiently when labels and arrows carry meaning.\nHint: Check how words and graphics share the information.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Selection and framing still shape information.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Visual organisation can show a process efficiently when labels and arrows carry meaning.",
+      "hint": "Check how words and graphics share the information."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +244,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly03-p-011",
     "curriculumCode": "AC9E4LY03",
     "bank": "practice",
-    "skill": "misconception 4 apply",
+    "skill": "Purpose and Features of Texts",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Hybrid means impossible to classify”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Hybrid means impossible to classify”. Which response gives the most accurate correction?",
-    "visual": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Misconception 4. Notice: Recognise feature patterns. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Misconception 4. Notice: Recognise feature patterns. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-011",
-      "alt_text": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Misconception 4. Notice: Recognise feature patterns. Choose the response supported by the example."
-    },
+    "question": "Why does “Use a clear call to action, reasons, emotive wording and a striking image of a safe walking group.” work well for a persuasive poster asking families to walk to school?",
+    "audioPrompt": "Why does “Use a clear call to action, reasons, emotive wording and a striking image of a safe walking group.” work well for a persuasive poster asking families to walk to school?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Hybrid means impossible to classify",
-      "One feature determines purpose",
-      "Identify dominant purpose and secondary functions."
+      "Because “Use only a list of random street names.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct.",
+      "Persuasive features work together to influence the audience toward an action."
     ],
     "correct": 2,
-    "explanation": "Identify dominant purpose and secondary functions.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "Persuasive features work together to influence the audience toward an action.\nHint: Ask what the creator wants the audience to think or do.",
     "structuredExplanation": {
-      "summary": "Identify dominant purpose and secondary functions.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Persuasive features work together to influence the audience toward an action.",
+      "hint": "Ask what the creator wants the audience to think or do."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +268,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly03-p-012",
     "curriculumCode": "AC9E4LY03",
     "bank": "practice",
-    "skill": "misconception 4 reason",
+    "skill": "Purpose and Features of Texts",
     "printable": true,
     "type": "single",
-    "question": "A student answers “One feature determines purpose”. Which feedback helps? Task: A student in a workshop claims, “Hybrid means impossible to classify”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “One feature determines purpose”. Which feedback helps? Task: A student in a workshop claims, “Hybrid means impossible to classify”. Which response gives the most accurate correction?",
-    "visual": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Misconception 4. Notice: Recognise feature patterns. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Misconception 4. Notice: Recognise feature patterns. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-012\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-012",
-      "alt_text": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Misconception 4. Notice: Recognise feature patterns. Correct the student's mix-up using the full task."
-    },
+    "question": "What makes “Use a clear call to action, reasons, emotive wording and a striking image of a safe walking group.” a better choice in a persuasive poster asking families to walk to school?",
+    "audioPrompt": "What makes “Use a clear call to action, reasons, emotive wording and a striking image of a safe walking group.” a better choice in a persuasive poster asking families to walk to school?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Identify dominant purpose and secondary functions.",
-      "Keep “One feature determines purpose”; it uses a detail that sounds familiar.",
-      "Choose “Hybrid means impossible to classify” instead; it sounds clearer."
+      "Persuasive features work together to influence the audience toward an action.",
+      "Because “Use only a list of random street names.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 0,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Identify dominant purpose and secondary functions.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Persuasive features work together to influence the audience toward an action.\nHint: Ask what the creator wants the audience to think or do.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Identify dominant purpose and secondary functions.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Persuasive features work together to influence the audience toward an action.",
+      "hint": "Ask what the creator wants the audience to think or do."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +292,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly03-p-013",
     "curriculumCode": "AC9E4LY03",
     "bank": "practice",
-    "skill": "feature bundle sort apply",
+    "skill": "Purpose and Features of Texts",
     "printable": true,
     "type": "single",
-    "question": "The class prepares “Feature bundle sort”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "The class prepares “Feature bundle sort”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Feature bundle sort. Notice: Connect features to purpose. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Feature bundle sort. Notice: Connect features to purpose. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-013",
-      "alt_text": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Feature bundle sort. Notice: Connect features to purpose. Choose the response supported by the example."
-    },
+    "question": "What makes “Use headings, factual paragraphs, labelled images and technical vocabulary explained for readers.” a better choice in an information page about platypuses?",
+    "audioPrompt": "What makes “Use headings, factual paragraphs, labelled images and technical vocabulary explained for readers.” a better choice in an information page about platypuses?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Sort headings, sentence samples, images and structural stages into likely purpose bundles.",
-      "Change the purpose and audience halfway through, then report the first impression only."
+      "Because “Use a cliffhanger ending with no facts.” is always acceptable in this situation.",
+      "Informative features organise and explain knowledge.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 1,
-    "explanation": "Sort headings, sentence samples, images and structural stages into likely purpose bundles.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "explanation": "Informative features organise and explain knowledge.\nHint: Look for evidence, clear organisation and subject vocabulary.",
     "structuredExplanation": {
-      "summary": "Sort headings, sentence samples, images and structural stages into likely purpose bundles.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "Informative features organise and explain knowledge.",
+      "hint": "Look for evidence, clear organisation and subject vocabulary."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +316,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly03-p-014",
     "curriculumCode": "AC9E4LY03",
     "bank": "practice",
-    "skill": "feature bundle sort reason",
+    "skill": "Purpose and Features of Texts",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Feature bundle sort”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Feature bundle sort”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Feature bundle sort. Notice: Connect features to purpose. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Feature bundle sort. Notice: Connect features to purpose. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-014\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-014",
-      "alt_text": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Feature bundle sort. Notice: Connect features to purpose. Correct the student's mix-up using the full task."
-    },
+    "question": "Which explanation best justifies “Use headings, factual paragraphs, labelled images and technical vocabulary explained for readers.” for an information page about platypuses?",
+    "audioPrompt": "Which explanation best justifies “Use headings, factual paragraphs, labelled images and technical vocabulary explained for readers.” for an information page about platypuses?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
-      "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
-      "Choose the plan that analyses language evidence and produces a reviewable response. Sort headings, sentence samples, images and structural stages into likely purpose bundles."
+      "Because “Use a cliffhanger ending with no facts.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct.",
+      "Informative features organise and explain knowledge."
     ],
     "correct": 2,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. Sort headings, sentence samples, images and structural stages into likely purpose bundles.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Informative features organise and explain knowledge.\nHint: Look for evidence, clear organisation and subject vocabulary.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Sort headings, sentence samples, images and structural stages into likely purpose bundles.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Informative features organise and explain knowledge.",
+      "hint": "Look for evidence, clear organisation and subject vocabulary."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +340,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly03-p-015",
     "curriculumCode": "AC9E4LY03",
     "bank": "practice",
-    "skill": "purpose transformation apply",
+    "skill": "Purpose and Features of Texts",
     "printable": true,
     "type": "single",
-    "question": "The class prepares “Purpose transformation”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "The class prepares “Purpose transformation”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Purpose transformation. Notice: Compare three broad types. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Purpose transformation. Notice: Compare three broad types. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-015",
-      "alt_text": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Purpose transformation. Notice: Compare three broad types. Choose the response supported by the example."
-    },
+    "question": "Which explanation best justifies “Use characters, setting, a developing problem and descriptive language.” for an imaginative story about a robot on Mars?",
+    "audioPrompt": "Which explanation best justifies “Use characters, setting, a developing problem and descriptive language.” for an imaginative story about a robot on Mars?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Convert the same topic into a narrative opening, factual explanation and persuasive poster.",
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Change the purpose and audience halfway through, then report the first impression only."
+      "Imaginative texts develop events and experiences rather than mainly explaining facts or arguing a case.",
+      "Because “Use only a contents page and data table.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 0,
-    "explanation": "Convert the same topic into a narrative opening, factual explanation and persuasive poster.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "explanation": "Imaginative texts develop events and experiences rather than mainly explaining facts or arguing a case.\nHint: Identify the main purpose of the whole text.",
     "structuredExplanation": {
-      "summary": "Convert the same topic into a narrative opening, factual explanation and persuasive poster.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "Imaginative texts develop events and experiences rather than mainly explaining facts or arguing a case.",
+      "hint": "Identify the main purpose of the whole text."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +364,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly03-p-016",
     "curriculumCode": "AC9E4LY03",
     "bank": "practice",
-    "skill": "purpose transformation reason",
+    "skill": "Purpose and Features of Texts",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Purpose transformation”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Purpose transformation”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Purpose transformation. Notice: Compare three broad types. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Purpose transformation. Notice: Compare three broad types. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-016",
-      "alt_text": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Purpose transformation. Notice: Compare three broad types. Correct the student's mix-up using the full task."
-    },
+    "question": "What should you notice about “Use characters, setting, a developing problem and descriptive language.” in an imaginative story about a robot on Mars?",
+    "audioPrompt": "What should you notice about “Use characters, setting, a developing problem and descriptive language.” in an imaginative story about a robot on Mars?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
-      "Choose the plan that analyses language evidence and produces a reviewable response. Convert the same topic into a narrative opening, factual explanation and persuasive poster.",
-      "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer."
+      "Because “Use only a contents page and data table.” is always acceptable in this situation.",
+      "Imaginative texts develop events and experiences rather than mainly explaining facts or arguing a case.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 1,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. Convert the same topic into a narrative opening, factual explanation and persuasive poster.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Imaginative texts develop events and experiences rather than mainly explaining facts or arguing a case.\nHint: Identify the main purpose of the whole text.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Convert the same topic into a narrative opening, factual explanation and persuasive poster.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Imaginative texts develop events and experiences rather than mainly explaining facts or arguing a case.",
+      "hint": "Identify the main purpose of the whole text."
     },
     "qualitySchema": "production-v1"
   },
@@ -468,28 +388,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly03-p-017",
     "curriculumCode": "AC9E4LY03",
     "bank": "practice",
-    "skill": "hybrid text debate apply",
+    "skill": "Purpose and Features of Texts",
     "printable": true,
     "type": "single",
-    "question": "The class prepares “Hybrid text debate”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "The class prepares “Hybrid text debate”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Hybrid text debate. Notice: Analyse multimodal choices. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Hybrid text debate. Notice: Analyse multimodal choices. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-017",
-      "alt_text": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Hybrid text debate. Notice: Analyse multimodal choices. Choose the response supported by the example."
-    },
+    "question": "What should you notice about “Use a headline, reasons for donating, selected facts and an easy-to-find Donate link.” in a website encouraging donations to an animal shelter?",
+    "audioPrompt": "What should you notice about “Use a headline, reasons for donating, selected facts and an easy-to-find Donate link.” in a website encouraging donations to an animal shelter?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Change the purpose and audience halfway through, then report the first impression only.",
-      "Identify dominant and secondary purposes in a documentary clip, historical fiction extract or campaign infographic."
+      "Because “Use only neutral measurements with no request.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct.",
+      "Persuasive digital texts combine language and navigation to support the desired action."
     ],
     "correct": 2,
-    "explanation": "Identify dominant and secondary purposes in a documentary clip, historical fiction extract or campaign infographic.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "explanation": "Persuasive digital texts combine language and navigation to support the desired action.\nHint: Consider both wording and layout.",
     "structuredExplanation": {
-      "summary": "Identify dominant and secondary purposes in a documentary clip, historical fiction extract or campaign infographic.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "Persuasive digital texts combine language and navigation to support the desired action.",
+      "hint": "Consider both wording and layout."
     },
     "qualitySchema": "production-v1"
   },
@@ -497,28 +412,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly03-p-018",
     "curriculumCode": "AC9E4LY03",
     "bank": "practice",
-    "skill": "hybrid text debate reason",
+    "skill": "Purpose and Features of Texts",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Hybrid text debate”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Hybrid text debate”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Hybrid text debate. Notice: Analyse multimodal choices. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Hybrid text debate. Notice: Analyse multimodal choices. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-018\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-018",
-      "alt_text": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Hybrid text debate. Notice: Analyse multimodal choices. Correct the student's mix-up using the full task."
-    },
+    "question": "Which reason explains why “Use a headline, reasons for donating, selected facts and an easy-to-find Donate link.” suits a website encouraging donations to an animal shelter?",
+    "audioPrompt": "Which reason explains why “Use a headline, reasons for donating, selected facts and an easy-to-find Donate link.” suits a website encouraging donations to an animal shelter?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Choose the plan that analyses language evidence and produces a reviewable response. Identify dominant and secondary purposes in a documentary clip, historical fiction extract or campaign infographic.",
-      "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
-      "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer."
+      "Persuasive digital texts combine language and navigation to support the desired action.",
+      "Because “Use only neutral measurements with no request.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 0,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. Identify dominant and secondary purposes in a documentary clip, historical fiction extract or campaign infographic.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Persuasive digital texts combine language and navigation to support the desired action.\nHint: Consider both wording and layout.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Identify dominant and secondary purposes in a documentary clip, historical fiction extract or campaign infographic.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Persuasive digital texts combine language and navigation to support the desired action.",
+      "hint": "Consider both wording and layout."
     },
     "qualitySchema": "production-v1"
   },
@@ -526,28 +436,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly03-p-019",
     "curriculumCode": "AC9E4LY03",
     "bank": "practice",
-    "skill": "vocabulary 1 apply",
+    "skill": "Purpose and Features of Texts",
     "printable": true,
     "type": "single",
-    "question": "A class annotation about Features of Imaginative, Informative and Persuasive Texts describes “text crafted to create literary experience or imagined worlds”. Which term is most precise?",
-    "audioPrompt": "A class annotation about Features of Imaginative, Informative and Persuasive Texts describes “text crafted to create literary experience or imagined worlds”. Which term is most precise?",
-    "visual": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Vocabulary 1. Notice: Explain hybrid purpose. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Vocabulary 1. Notice: Explain hybrid purpose. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-019",
-      "alt_text": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Vocabulary 1. Notice: Explain hybrid purpose. Choose the response supported by the example."
-    },
+    "question": "Which reason explains why “Use labelled stages, arrows, brief explanations and key terms such as evaporation and condensation.” suits a science infographic about the water cycle?",
+    "audioPrompt": "Which reason explains why “Use labelled stages, arrows, brief explanations and key terms such as evaporation and condensation.” suits a science infographic about the water cycle?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "informative text",
-      "imaginative text",
-      "persuasive text"
+      "Because “Use an unrelated character conflict.” is always acceptable in this situation.",
+      "Visual organisation can show a process efficiently when labels and arrows carry meaning.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 1,
-    "explanation": "imaginative text is the precise term for this feature.\nHint: Match the definition to the exact language or literacy concept.",
+    "explanation": "Visual organisation can show a process efficiently when labels and arrows carry meaning.\nHint: Check how words and graphics share the information.",
     "structuredExplanation": {
-      "summary": "imaginative text is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
+      "summary": "Visual organisation can show a process efficiently when labels and arrows carry meaning.",
+      "hint": "Check how words and graphics share the information."
     },
     "qualitySchema": "production-v1"
   },
@@ -555,28 +460,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly03-p-020",
     "curriculumCode": "AC9E4LY03",
     "bank": "practice",
-    "skill": "vocabulary 1 reason",
+    "skill": "Purpose and Features of Texts",
     "printable": true,
     "type": "single",
-    "question": "A student answers “persuasive text”. Which feedback helps? Task: A class annotation about Features of Imaginative, Informative and Persuasive Texts describes “text crafted to create literary experience or imagined worlds”. Which term is most precise?",
-    "audioPrompt": "A student answers “persuasive text”. Which feedback helps? Task: A class annotation about Features of Imaginative, Informative and Persuasive Texts describes “text crafted to create literary experience or imagined worlds”. Which term is most precise?",
-    "visual": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Vocabulary 1. Notice: Explain hybrid purpose. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Vocabulary 1. Notice: Explain hybrid purpose. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-020\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-020",
-      "alt_text": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Vocabulary 1. Notice: Explain hybrid purpose. Correct the student's mix-up using the full task."
-    },
+    "question": "Why does “Use labelled stages, arrows, brief explanations and key terms such as evaporation and condensation.” work well for a science infographic about the water cycle?",
+    "audioPrompt": "Why does “Use labelled stages, arrows, brief explanations and key terms such as evaporation and condensation.” work well for a science infographic about the water cycle?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “persuasive text”; it uses a detail that sounds familiar.",
-      "Choose “informative text” instead; it sounds clearer.",
-      "Match the definition to the exact language or literacy concept. imaginative text is the precise term for this feature."
+      "Because “Use an unrelated character conflict.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct.",
+      "Visual organisation can show a process efficiently when labels and arrows carry meaning."
     ],
     "correct": 2,
-    "explanation": "Match the definition to the exact language or literacy concept. imaginative text is the precise term for this feature.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Visual organisation can show a process efficiently when labels and arrows carry meaning.\nHint: Check how words and graphics share the information.",
     "structuredExplanation": {
-      "summary": "Match the definition to the exact language or literacy concept. imaginative text is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Visual organisation can show a process efficiently when labels and arrows carry meaning.",
+      "hint": "Check how words and graphics share the information."
     },
     "qualitySchema": "production-v1"
   },
@@ -584,28 +484,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly03-p-021",
     "curriculumCode": "AC9E4LY03",
     "bank": "practice",
-    "skill": "vocabulary 2 apply",
+    "skill": "Purpose and Features of Texts",
     "printable": true,
     "type": "single",
-    "question": "A class annotation about Features of Imaginative, Informative and Persuasive Texts describes “text organised to explain, describe or report information”. Which term is most precise?",
-    "audioPrompt": "A class annotation about Features of Imaginative, Informative and Persuasive Texts describes “text organised to explain, describe or report information”. Which term is most precise?",
-    "visual": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Vocabulary 2. Notice: Recognise feature patterns. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Vocabulary 2. Notice: Recognise feature patterns. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-021\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-021",
-      "alt_text": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Vocabulary 2. Notice: Recognise feature patterns. Choose the response supported by the example."
-    },
+    "question": "Which revision best fixes the problem in “Use only a list of random street names.” for a persuasive poster asking families to walk to school?",
+    "audioPrompt": "Which revision best fixes the problem in “Use only a list of random street names.” for a persuasive poster asking families to walk to school?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "informative text",
-      "imaginative text",
-      "persuasive text"
+      "Use a clear call to action, reasons, emotive wording and a striking image of a safe walking group.",
+      "Use only a list of random street names.",
+      "Hide the request in tiny print."
     ],
     "correct": 0,
-    "explanation": "informative text is the precise term for this feature.\nHint: Match the definition to the exact language or literacy concept.",
+    "explanation": "Persuasive features work together to influence the audience toward an action. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Ask what the creator wants the audience to think or do.",
     "structuredExplanation": {
-      "summary": "informative text is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
+      "summary": "Persuasive features work together to influence the audience toward an action. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Ask what the creator wants the audience to think or do."
     },
     "qualitySchema": "production-v1"
   },
@@ -613,28 +508,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly03-p-022",
     "curriculumCode": "AC9E4LY03",
     "bank": "practice",
-    "skill": "vocabulary 2 reason",
+    "skill": "Purpose and Features of Texts",
     "printable": true,
     "type": "single",
-    "question": "A student answers “imaginative text”. Which feedback helps? Task: A class annotation about Features of Imaginative, Informative and Persuasive Texts describes “text organised to explain, describe or report information”. Which term is most precise?",
-    "audioPrompt": "A student answers “imaginative text”. Which feedback helps? Task: A class annotation about Features of Imaginative, Informative and Persuasive Texts describes “text organised to explain, describe or report information”. Which term is most precise?",
-    "visual": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Vocabulary 2. Notice: Recognise feature patterns. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Vocabulary 2. Notice: Recognise feature patterns. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-022\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-022",
-      "alt_text": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Vocabulary 2. Notice: Recognise feature patterns. Correct the student's mix-up using the full task."
-    },
+    "question": "Compare the choices for a persuasive poster asking families to walk to school. Which one avoids the mistake in “Use only a list of random street names.”?",
+    "audioPrompt": "Compare the choices for a persuasive poster asking families to walk to school. Which one avoids the mistake in “Use only a list of random street names.”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “imaginative text”; it uses a detail that sounds familiar.",
-      "Match the definition to the exact language or literacy concept. informative text is the precise term for this feature.",
-      "Choose “persuasive text” instead; it sounds clearer."
+      "Use only a list of random street names.",
+      "Use a clear call to action, reasons, emotive wording and a striking image of a safe walking group.",
+      "Hide the request in tiny print."
     ],
     "correct": 1,
-    "explanation": "Match the definition to the exact language or literacy concept. informative text is the precise term for this feature.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Persuasive features work together to influence the audience toward an action. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Ask what the creator wants the audience to think or do.",
     "structuredExplanation": {
-      "summary": "Match the definition to the exact language or literacy concept. informative text is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Persuasive features work together to influence the audience toward an action. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Ask what the creator wants the audience to think or do."
     },
     "qualitySchema": "production-v1"
   },
@@ -642,28 +532,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly03-p-023",
     "curriculumCode": "AC9E4LY03",
     "bank": "practice",
-    "skill": "vocabulary 3 apply",
+    "skill": "Purpose and Features of Texts",
     "printable": true,
     "type": "single",
-    "question": "A class annotation about Features of Imaginative, Informative and Persuasive Texts describes “text designed to influence viewpoint or action”. Which term is most precise?",
-    "audioPrompt": "A class annotation about Features of Imaginative, Informative and Persuasive Texts describes “text designed to influence viewpoint or action”. Which term is most precise?",
-    "visual": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Vocabulary 3. Notice: Connect features to purpose. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Vocabulary 3. Notice: Connect features to purpose. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-023\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-023",
-      "alt_text": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Vocabulary 3. Notice: Connect features to purpose. Choose the response supported by the example."
-    },
+    "question": "Compare the choices for an information page about platypuses. Which one avoids the mistake in “Use a cliffhanger ending with no facts.”?",
+    "audioPrompt": "Compare the choices for an information page about platypuses. Which one avoids the mistake in “Use a cliffhanger ending with no facts.”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "imaginative text",
-      "informative text",
-      "persuasive text"
+      "Use a cliffhanger ending with no facts.",
+      "Use only commands telling readers what to believe.",
+      "Use headings, factual paragraphs, labelled images and technical vocabulary explained for readers."
     ],
     "correct": 2,
-    "explanation": "persuasive text is the precise term for this feature.\nHint: Match the definition to the exact language or literacy concept.",
+    "explanation": "Informative features organise and explain knowledge. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Look for evidence, clear organisation and subject vocabulary.",
     "structuredExplanation": {
-      "summary": "persuasive text is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
+      "summary": "Informative features organise and explain knowledge. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Look for evidence, clear organisation and subject vocabulary."
     },
     "qualitySchema": "production-v1"
   },
@@ -671,28 +556,407 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly03-p-024",
     "curriculumCode": "AC9E4LY03",
     "bank": "practice",
-    "skill": "vocabulary 3 reason",
+    "skill": "Purpose and Features of Texts",
     "printable": true,
     "type": "single",
-    "question": "A student answers “informative text”. Which feedback helps? Task: A class annotation about Features of Imaginative, Informative and Persuasive Texts describes “text designed to influence viewpoint or action”. Which term is most precise?",
-    "audioPrompt": "A student answers “informative text”. Which feedback helps? Task: A class annotation about Features of Imaginative, Informative and Persuasive Texts describes “text designed to influence viewpoint or action”. Which term is most precise?",
-    "visual": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Vocabulary 3. Notice: Connect features to purpose. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Vocabulary 3. Notice: Connect features to purpose. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-024\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly03.svg#ac9e4ly03-p-024",
-      "alt_text": "Three-step Features of Imaginative, Informative and Persuasive Texts organiser. Read: Vocabulary 3. Notice: Connect features to purpose. Correct the student's mix-up using the full task."
-    },
+    "question": "If “Use a cliffhanger ending with no facts.” does not work in an information page about platypuses, what should replace it?",
+    "audioPrompt": "If “Use a cliffhanger ending with no facts.” does not work in an information page about platypuses, what should replace it?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Match the definition to the exact language or literacy concept. persuasive text is the precise term for this feature.",
-      "Keep “informative text”; it uses a detail that sounds familiar.",
-      "Choose “imaginative text” instead; it sounds clearer."
+      "Use headings, factual paragraphs, labelled images and technical vocabulary explained for readers.",
+      "Use a cliffhanger ending with no facts.",
+      "Use only commands telling readers what to believe."
     ],
     "correct": 0,
-    "explanation": "Match the definition to the exact language or literacy concept. persuasive text is the precise term for this feature.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Informative features organise and explain knowledge. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Look for evidence, clear organisation and subject vocabulary.",
     "structuredExplanation": {
-      "summary": "Match the definition to the exact language or literacy concept. persuasive text is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Informative features organise and explain knowledge. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Look for evidence, clear organisation and subject vocabulary."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly03-p-025",
+    "curriculumCode": "AC9E4LY03",
+    "bank": "practice",
+    "skill": "Purpose and Features of Texts",
+    "printable": true,
+    "type": "single",
+    "question": "If “Use only a contents page and data table.” does not work in an imaginative story about a robot on Mars, what should replace it?",
+    "audioPrompt": "If “Use only a contents page and data table.” does not work in an imaginative story about a robot on Mars, what should replace it?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use only a contents page and data table.",
+      "Use characters, setting, a developing problem and descriptive language.",
+      "Give a list of instructions for repairing a toaster."
+    ],
+    "correct": 1,
+    "explanation": "Imaginative texts develop events and experiences rather than mainly explaining facts or arguing a case. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Identify the main purpose of the whole text.",
+    "structuredExplanation": {
+      "summary": "Imaginative texts develop events and experiences rather than mainly explaining facts or arguing a case. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Identify the main purpose of the whole text."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly03-p-026",
+    "curriculumCode": "AC9E4LY03",
+    "bank": "practice",
+    "skill": "Purpose and Features of Texts",
+    "printable": true,
+    "type": "single",
+    "question": "Which option corrects the meaning or form needed for an imaginative story about a robot on Mars?",
+    "audioPrompt": "Which option corrects the meaning or form needed for an imaginative story about a robot on Mars?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use only a contents page and data table.",
+      "Give a list of instructions for repairing a toaster.",
+      "Use characters, setting, a developing problem and descriptive language."
+    ],
+    "correct": 2,
+    "explanation": "Imaginative texts develop events and experiences rather than mainly explaining facts or arguing a case. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Identify the main purpose of the whole text.",
+    "structuredExplanation": {
+      "summary": "Imaginative texts develop events and experiences rather than mainly explaining facts or arguing a case. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Identify the main purpose of the whole text."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly03-p-027",
+    "curriculumCode": "AC9E4LY03",
+    "bank": "practice",
+    "skill": "Purpose and Features of Texts",
+    "printable": true,
+    "type": "single",
+    "question": "Which option corrects the meaning or form needed for a website encouraging donations to an animal shelter?",
+    "audioPrompt": "Which option corrects the meaning or form needed for a website encouraging donations to an animal shelter?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use a headline, reasons for donating, selected facts and an easy-to-find Donate link.",
+      "Use only neutral measurements with no request.",
+      "Place the donation link where readers cannot find it."
+    ],
+    "correct": 0,
+    "explanation": "Persuasive digital texts combine language and navigation to support the desired action. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Consider both wording and layout.",
+    "structuredExplanation": {
+      "summary": "Persuasive digital texts combine language and navigation to support the desired action. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Consider both wording and layout."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly03-p-028",
+    "curriculumCode": "AC9E4LY03",
+    "bank": "practice",
+    "skill": "Purpose and Features of Texts",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is the clearest correction for a website encouraging donations to an animal shelter?",
+    "audioPrompt": "Which choice is the clearest correction for a website encouraging donations to an animal shelter?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use only neutral measurements with no request.",
+      "Use a headline, reasons for donating, selected facts and an easy-to-find Donate link.",
+      "Place the donation link where readers cannot find it."
+    ],
+    "correct": 1,
+    "explanation": "Persuasive digital texts combine language and navigation to support the desired action. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Consider both wording and layout.",
+    "structuredExplanation": {
+      "summary": "Persuasive digital texts combine language and navigation to support the desired action. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Consider both wording and layout."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly03-p-029",
+    "curriculumCode": "AC9E4LY03",
+    "bank": "practice",
+    "skill": "Purpose and Features of Texts",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is the clearest correction for a science infographic about the water cycle?",
+    "audioPrompt": "Which choice is the clearest correction for a science infographic about the water cycle?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use an unrelated character conflict.",
+      "Replace labels with decorative patterns that carry no information.",
+      "Use labelled stages, arrows, brief explanations and key terms such as evaporation and condensation."
+    ],
+    "correct": 2,
+    "explanation": "Visual organisation can show a process efficiently when labels and arrows carry meaning. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Check how words and graphics share the information.",
+    "structuredExplanation": {
+      "summary": "Visual organisation can show a process efficiently when labels and arrows carry meaning. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Check how words and graphics share the information."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly03-p-030",
+    "curriculumCode": "AC9E4LY03",
+    "bank": "practice",
+    "skill": "Purpose and Features of Texts",
+    "printable": true,
+    "type": "single",
+    "question": "Which revision best fixes the problem in “Use an unrelated character conflict.” for a science infographic about the water cycle?",
+    "audioPrompt": "Which revision best fixes the problem in “Use an unrelated character conflict.” for a science infographic about the water cycle?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use labelled stages, arrows, brief explanations and key terms such as evaporation and condensation.",
+      "Use an unrelated character conflict.",
+      "Replace labels with decorative patterns that carry no information."
+    ],
+    "correct": 0,
+    "explanation": "Visual organisation can show a process efficiently when labels and arrows carry meaning. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Check how words and graphics share the information.",
+    "structuredExplanation": {
+      "summary": "Visual organisation can show a process efficiently when labels and arrows carry meaning. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Check how words and graphics share the information."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly03-p-031",
+    "curriculumCode": "AC9E4LY03",
+    "bank": "practice",
+    "skill": "Purpose and Features of Texts",
+    "printable": true,
+    "type": "single",
+    "question": "You now need to handle a persuasive poster asking families to walk to school independently. Which choice should you use?",
+    "audioPrompt": "You now need to handle a persuasive poster asking families to walk to school independently. Which choice should you use?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Hide the request in tiny print.",
+      "Use a clear call to action, reasons, emotive wording and a striking image of a safe walking group.",
+      "Use only a list of random street names."
+    ],
+    "correct": 1,
+    "explanation": "Persuasive features work together to influence the audience toward an action.\nHint: Ask what the creator wants the audience to think or do.",
+    "structuredExplanation": {
+      "summary": "Persuasive features work together to influence the audience toward an action.",
+      "hint": "Ask what the creator wants the audience to think or do."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly03-p-032",
+    "curriculumCode": "AC9E4LY03",
+    "bank": "practice",
+    "skill": "Purpose and Features of Texts",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the same idea to a persuasive poster asking families to walk to school. Which option is best?",
+    "audioPrompt": "Apply the same idea to a persuasive poster asking families to walk to school. Which option is best?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Hide the request in tiny print.",
+      "Use only a list of random street names.",
+      "Use a clear call to action, reasons, emotive wording and a striking image of a safe walking group."
+    ],
+    "correct": 2,
+    "explanation": "Persuasive features work together to influence the audience toward an action.\nHint: Ask what the creator wants the audience to think or do.",
+    "structuredExplanation": {
+      "summary": "Persuasive features work together to influence the audience toward an action.",
+      "hint": "Ask what the creator wants the audience to think or do."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly03-p-033",
+    "curriculumCode": "AC9E4LY03",
+    "bank": "practice",
+    "skill": "Purpose and Features of Texts",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the same idea to an information page about platypuses. Which option is best?",
+    "audioPrompt": "Apply the same idea to an information page about platypuses. Which option is best?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use headings, factual paragraphs, labelled images and technical vocabulary explained for readers.",
+      "Use only commands telling readers what to believe.",
+      "Use a cliffhanger ending with no facts."
+    ],
+    "correct": 0,
+    "explanation": "Informative features organise and explain knowledge.\nHint: Look for evidence, clear organisation and subject vocabulary.",
+    "structuredExplanation": {
+      "summary": "Informative features organise and explain knowledge.",
+      "hint": "Look for evidence, clear organisation and subject vocabulary."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly03-p-034",
+    "curriculumCode": "AC9E4LY03",
+    "bank": "practice",
+    "skill": "Purpose and Features of Texts",
+    "printable": true,
+    "type": "single",
+    "question": "Which decision would produce the clearest result in an information page about platypuses?",
+    "audioPrompt": "Which decision would produce the clearest result in an information page about platypuses?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use only commands telling readers what to believe.",
+      "Use headings, factual paragraphs, labelled images and technical vocabulary explained for readers.",
+      "Use a cliffhanger ending with no facts."
+    ],
+    "correct": 1,
+    "explanation": "Informative features organise and explain knowledge.\nHint: Look for evidence, clear organisation and subject vocabulary.",
+    "structuredExplanation": {
+      "summary": "Informative features organise and explain knowledge.",
+      "hint": "Look for evidence, clear organisation and subject vocabulary."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly03-p-035",
+    "curriculumCode": "AC9E4LY03",
+    "bank": "practice",
+    "skill": "Purpose and Features of Texts",
+    "printable": true,
+    "type": "single",
+    "question": "Which decision would produce the clearest result in an imaginative story about a robot on Mars?",
+    "audioPrompt": "Which decision would produce the clearest result in an imaginative story about a robot on Mars?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Give a list of instructions for repairing a toaster.",
+      "Use only a contents page and data table.",
+      "Use characters, setting, a developing problem and descriptive language."
+    ],
+    "correct": 2,
+    "explanation": "Imaginative texts develop events and experiences rather than mainly explaining facts or arguing a case.\nHint: Identify the main purpose of the whole text.",
+    "structuredExplanation": {
+      "summary": "Imaginative texts develop events and experiences rather than mainly explaining facts or arguing a case.",
+      "hint": "Identify the main purpose of the whole text."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly03-p-036",
+    "curriculumCode": "AC9E4LY03",
+    "bank": "practice",
+    "skill": "Purpose and Features of Texts",
+    "printable": true,
+    "type": "single",
+    "question": "Choose the option that applies the skill correctly in an imaginative story about a robot on Mars.",
+    "audioPrompt": "Choose the option that applies the skill correctly in an imaginative story about a robot on Mars.",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use characters, setting, a developing problem and descriptive language.",
+      "Give a list of instructions for repairing a toaster.",
+      "Use only a contents page and data table."
+    ],
+    "correct": 0,
+    "explanation": "Imaginative texts develop events and experiences rather than mainly explaining facts or arguing a case.\nHint: Identify the main purpose of the whole text.",
+    "structuredExplanation": {
+      "summary": "Imaginative texts develop events and experiences rather than mainly explaining facts or arguing a case.",
+      "hint": "Identify the main purpose of the whole text."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly03-p-037",
+    "curriculumCode": "AC9E4LY03",
+    "bank": "practice",
+    "skill": "Purpose and Features of Texts",
+    "printable": true,
+    "type": "single",
+    "question": "Choose the option that applies the skill correctly in a website encouraging donations to an animal shelter.",
+    "audioPrompt": "Choose the option that applies the skill correctly in a website encouraging donations to an animal shelter.",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Place the donation link where readers cannot find it.",
+      "Use a headline, reasons for donating, selected facts and an easy-to-find Donate link.",
+      "Use only neutral measurements with no request."
+    ],
+    "correct": 1,
+    "explanation": "Persuasive digital texts combine language and navigation to support the desired action.\nHint: Consider both wording and layout.",
+    "structuredExplanation": {
+      "summary": "Persuasive digital texts combine language and navigation to support the desired action.",
+      "hint": "Consider both wording and layout."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly03-p-038",
+    "curriculumCode": "AC9E4LY03",
+    "bank": "practice",
+    "skill": "Purpose and Features of Texts",
+    "printable": true,
+    "type": "single",
+    "question": "What would be the most effective choice for a website encouraging donations to an animal shelter?",
+    "audioPrompt": "What would be the most effective choice for a website encouraging donations to an animal shelter?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Place the donation link where readers cannot find it.",
+      "Use only neutral measurements with no request.",
+      "Use a headline, reasons for donating, selected facts and an easy-to-find Donate link."
+    ],
+    "correct": 2,
+    "explanation": "Persuasive digital texts combine language and navigation to support the desired action.\nHint: Consider both wording and layout.",
+    "structuredExplanation": {
+      "summary": "Persuasive digital texts combine language and navigation to support the desired action.",
+      "hint": "Consider both wording and layout."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly03-p-039",
+    "curriculumCode": "AC9E4LY03",
+    "bank": "practice",
+    "skill": "Purpose and Features of Texts",
+    "printable": true,
+    "type": "single",
+    "question": "What would be the most effective choice for a science infographic about the water cycle?",
+    "audioPrompt": "What would be the most effective choice for a science infographic about the water cycle?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use labelled stages, arrows, brief explanations and key terms such as evaporation and condensation.",
+      "Replace labels with decorative patterns that carry no information.",
+      "Use an unrelated character conflict."
+    ],
+    "correct": 0,
+    "explanation": "Visual organisation can show a process efficiently when labels and arrows carry meaning.\nHint: Check how words and graphics share the information.",
+    "structuredExplanation": {
+      "summary": "Visual organisation can show a process efficiently when labels and arrows carry meaning.",
+      "hint": "Check how words and graphics share the information."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly03-p-040",
+    "curriculumCode": "AC9E4LY03",
+    "bank": "practice",
+    "skill": "Purpose and Features of Texts",
+    "printable": true,
+    "type": "single",
+    "question": "You now need to handle a science infographic about the water cycle independently. Which choice should you use?",
+    "audioPrompt": "You now need to handle a science infographic about the water cycle independently. Which choice should you use?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Replace labels with decorative patterns that carry no information.",
+      "Use labelled stages, arrows, brief explanations and key terms such as evaporation and condensation.",
+      "Use an unrelated character conflict."
+    ],
+    "correct": 1,
+    "explanation": "Visual organisation can show a process efficiently when labels and arrows carry meaning.\nHint: Check how words and graphics share the information.",
+    "structuredExplanation": {
+      "summary": "Visual organisation can show a process efficiently when labels and arrows carry meaning.",
+      "hint": "Check how words and graphics share the information."
     },
     "qualitySchema": "production-v1"
   }

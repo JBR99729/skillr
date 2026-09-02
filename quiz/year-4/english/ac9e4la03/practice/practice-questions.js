@@ -4,28 +4,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la03-p-001",
     "curriculumCode": "AC9E4LA03",
     "bank": "practice",
-    "skill": "worked text 1 apply",
+    "skill": "Text Structures and Language Across the Curriculum",
     "printable": true,
     "type": "single",
-    "question": "Read the classroom example. Which stages best suit a practical investigation report?",
-    "audioPrompt": "Read the classroom example. Which stages best suit a practical investigation report?",
-    "visual": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Worked text 1. Notice: Recognise common text structures. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Text Structures and Language Across the Curriculum organiser. Read: Worked text 1. Notice: Recognise common text structures. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-001",
-      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Worked text 1. Notice: Recognise common text structures. Choose the response supported by the example."
-    },
+    "question": "In writing a science report about evaporation, which option best demonstrates the skill?",
+    "audioPrompt": "In writing a science report about evaporation, which option best demonstrates the skill?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "characters, problem, climax, resolution",
-      "position, slogan, price only",
-      "question, method, results, conclusion"
+      "Tell the event as a fantasy quest.",
+      "List jokes in random order.",
+      "Use a question or aim, method, observations and conclusion with measured results."
     ],
     "correct": 2,
-    "explanation": "The evidence and language purpose support “question, method, results, conclusion”.\nHint: Check the whole sentence or text feature, then test meaning and grammar.",
+    "explanation": "A science report needs stages that show what was investigated, what happened and what the evidence means.\nHint: Match the organisation to what the reader needs to learn from the investigation.",
     "structuredExplanation": {
-      "summary": "The evidence and language purpose support “question, method, results, conclusion”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "A science report needs stages that show what was investigated, what happened and what the evidence means.",
+      "hint": "Match the organisation to what the reader needs to learn from the investigation."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +28,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la03-p-002",
     "curriculumCode": "AC9E4LA03",
     "bank": "practice",
-    "skill": "worked text 1 reason",
+    "skill": "Text Structures and Language Across the Curriculum",
     "printable": true,
     "type": "single",
-    "question": "A student answers “characters, problem, climax, resolution”. Which feedback helps? Task: Read the classroom example. Which stages best suit a practical investigation report?",
-    "audioPrompt": "A student answers “characters, problem, climax, resolution”. Which feedback helps? Task: Read the classroom example. Which stages best suit a practical investigation report?",
-    "visual": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Worked text 1. Notice: Recognise common text structures. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Text Structures and Language Across the Curriculum organiser. Read: Worked text 1. Notice: Recognise common text structures. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-002\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-002",
-      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Worked text 1. Notice: Recognise common text structures. Correct the student's mix-up using the full task."
-    },
+    "question": "Which choice fits writing a science report about evaporation most accurately?",
+    "audioPrompt": "Which choice fits writing a science report about evaporation most accurately?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “question, method, results, conclusion”.",
-      "Keep “characters, problem, climax, resolution”; it uses a detail that sounds familiar.",
-      "Choose “position, slogan, price only” instead; it sounds clearer."
+      "Use a question or aim, method, observations and conclusion with measured results.",
+      "Tell the event as a fantasy quest.",
+      "List jokes in random order."
     ],
     "correct": 0,
-    "explanation": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “question, method, results, conclusion”.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "A science report needs stages that show what was investigated, what happened and what the evidence means.\nHint: Match the organisation to what the reader needs to learn from the investigation.",
     "structuredExplanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “question, method, results, conclusion”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A science report needs stages that show what was investigated, what happened and what the evidence means.",
+      "hint": "Match the organisation to what the reader needs to learn from the investigation."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +52,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la03-p-003",
     "curriculumCode": "AC9E4LA03",
     "bank": "practice",
-    "skill": "worked text 2 apply",
+    "skill": "Text Structures and Language Across the Curriculum",
     "printable": true,
     "type": "single",
-    "question": "Read the classroom example. Which feature most strongly supports a historical recount?",
-    "audioPrompt": "Read the classroom example. Which feature most strongly supports a historical recount?",
-    "visual": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Worked text 2. Notice: Link stages to purpose. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Text Structures and Language Across the Curriculum organiser. Read: Worked text 2. Notice: Link stages to purpose. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-003",
-      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Worked text 2. Notice: Link stages to purpose. Choose the response supported by the example."
-    },
+    "question": "Which choice fits writing instructions for making damper most accurately?",
+    "audioPrompt": "Which choice fits writing instructions for making damper most accurately?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "commands in numbered steps",
-      "chronological past-tense events with time markers",
-      "present-tense definitions only"
+      "Use a complication and resolution.",
+      "Use a goal, ingredients and ordered steps with command verbs such as mix and bake.",
+      "Write one long paragraph with no sequence."
     ],
     "correct": 1,
-    "explanation": "The evidence and language purpose support “chronological past-tense events with time markers”.\nHint: Check the whole sentence or text feature, then test meaning and grammar.",
+    "explanation": "Procedures guide action, so ordered steps and command verbs make the process usable.\nHint: Ask what a reader must do first, next and last.",
     "structuredExplanation": {
-      "summary": "The evidence and language purpose support “chronological past-tense events with time markers”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "Procedures guide action, so ordered steps and command verbs make the process usable.",
+      "hint": "Ask what a reader must do first, next and last."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +76,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la03-p-004",
     "curriculumCode": "AC9E4LA03",
     "bank": "practice",
-    "skill": "worked text 2 reason",
+    "skill": "Text Structures and Language Across the Curriculum",
     "printable": true,
     "type": "single",
-    "question": "A student answers “present-tense definitions only”. Which feedback helps? Task: Read the classroom example. Which feature most strongly supports a historical recount?",
-    "audioPrompt": "A student answers “present-tense definitions only”. Which feedback helps? Task: Read the classroom example. Which feature most strongly supports a historical recount?",
-    "visual": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Worked text 2. Notice: Link stages to purpose. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Text Structures and Language Across the Curriculum organiser. Read: Worked text 2. Notice: Link stages to purpose. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-004\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-004",
-      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Worked text 2. Notice: Link stages to purpose. Correct the student's mix-up using the full task."
-    },
+    "question": "Look closely at writing instructions for making damper. Which response or wording works best?",
+    "audioPrompt": "Look closely at writing instructions for making damper. Which response or wording works best?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “present-tense definitions only”; it uses a detail that sounds familiar.",
-      "Choose “commands in numbered steps” instead; it sounds clearer.",
-      "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “chronological past-tense events with time markers”."
+      "Use a complication and resolution.",
+      "Write one long paragraph with no sequence.",
+      "Use a goal, ingredients and ordered steps with command verbs such as mix and bake."
     ],
     "correct": 2,
-    "explanation": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “chronological past-tense events with time markers”.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Procedures guide action, so ordered steps and command verbs make the process usable.\nHint: Ask what a reader must do first, next and last.",
     "structuredExplanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “chronological past-tense events with time markers”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Procedures guide action, so ordered steps and command verbs make the process usable.",
+      "hint": "Ask what a reader must do first, next and last."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +100,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la03-p-005",
     "curriculumCode": "AC9E4LA03",
     "bank": "practice",
-    "skill": "misconception 1 apply",
+    "skill": "Text Structures and Language Across the Curriculum",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Every subject uses one text type”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Every subject uses one text type”. Which response gives the most accurate correction?",
-    "visual": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Misconception 1. Notice: Identify language patterns. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Text Structures and Language Across the Curriculum organiser. Read: Misconception 1. Notice: Identify language patterns. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-005",
-      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Misconception 1. Notice: Identify language patterns. Choose the response supported by the example."
-    },
+    "question": "Look closely at writing a history recount of a community event. Which response or wording works best?",
+    "audioPrompt": "Look closely at writing a history recount of a community event. Which response or wording works best?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Subjects use several forms depending on the task.",
-      "Every subject uses one text type",
-      "Structure treated as fixed boxes"
+      "Present events in time order using dates and past-tense verbs.",
+      "Group facts by rhyme.",
+      "Begin with a recipe and finish with a weather chart."
     ],
     "correct": 0,
-    "explanation": "Subjects use several forms depending on the task.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "A recount makes the sequence of past events clear.\nHint: Look for time order and language that locates events in the past.",
     "structuredExplanation": {
-      "summary": "Subjects use several forms depending on the task.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "A recount makes the sequence of past events clear.",
+      "hint": "Look for time order and language that locates events in the past."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +124,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la03-p-006",
     "curriculumCode": "AC9E4LA03",
     "bank": "practice",
-    "skill": "misconception 1 reason",
+    "skill": "Text Structures and Language Across the Curriculum",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Every subject uses one text type”. Which feedback helps? Task: A student in a workshop claims, “Every subject uses one text type”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Every subject uses one text type”. Which feedback helps? Task: A student in a workshop claims, “Every subject uses one text type”. Which response gives the most accurate correction?",
-    "visual": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Misconception 1. Notice: Identify language patterns. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Text Structures and Language Across the Curriculum organiser. Read: Misconception 1. Notice: Identify language patterns. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-006",
-      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Misconception 1. Notice: Identify language patterns. Correct the student's mix-up using the full task."
-    },
+    "question": "For writing a history recount of a community event, which option is the strongest match?",
+    "audioPrompt": "For writing a history recount of a community event, which option is the strongest match?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Every subject uses one text type”; it uses a detail that sounds familiar.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Subjects use several forms depending on the task.",
-      "Choose “Structure treated as fixed boxes” instead; it sounds clearer."
+      "Group facts by rhyme.",
+      "Present events in time order using dates and past-tense verbs.",
+      "Begin with a recipe and finish with a weather chart."
     ],
     "correct": 1,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Subjects use several forms depending on the task.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "A recount makes the sequence of past events clear.\nHint: Look for time order and language that locates events in the past.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Subjects use several forms depending on the task.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A recount makes the sequence of past events clear.",
+      "hint": "Look for time order and language that locates events in the past."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +148,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la03-p-007",
     "curriculumCode": "AC9E4LA03",
     "bank": "practice",
-    "skill": "misconception 2 apply",
+    "skill": "Text Structures and Language Across the Curriculum",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Structure treated as fixed boxes”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Structure treated as fixed boxes”. Which response gives the most accurate correction?",
-    "visual": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Misconception 2. Notice: Compare curriculum texts. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Text Structures and Language Across the Curriculum organiser. Read: Misconception 2. Notice: Compare curriculum texts. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-007",
-      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Misconception 2. Notice: Compare curriculum texts. Choose the response supported by the example."
-    },
+    "question": "For writing a geography report about the Murray River, which option is the strongest match?",
+    "audioPrompt": "For writing a geography report about the Murray River, which option is the strongest match?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Structure treated as fixed boxes",
-      "One feature proves classification",
-      "Writers adapt stages while keeping purpose clear."
+      "Use only dialogue between imaginary characters.",
+      "Hide all facts inside a poem.",
+      "Group information under topic headings and use place names and geographical terms."
     ],
     "correct": 2,
-    "explanation": "Writers adapt stages while keeping purpose clear.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "Topic sections and subject vocabulary help readers find and understand geographical information.\nHint: Choose features that organise information rather than entertain for their own sake.",
     "structuredExplanation": {
-      "summary": "Writers adapt stages while keeping purpose clear.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Topic sections and subject vocabulary help readers find and understand geographical information.",
+      "hint": "Choose features that organise information rather than entertain for their own sake."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +172,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la03-p-008",
     "curriculumCode": "AC9E4LA03",
     "bank": "practice",
-    "skill": "misconception 2 reason",
+    "skill": "Text Structures and Language Across the Curriculum",
     "printable": true,
     "type": "single",
-    "question": "A student answers “One feature proves classification”. Which feedback helps? Task: A student in a workshop claims, “Structure treated as fixed boxes”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “One feature proves classification”. Which feedback helps? Task: A student in a workshop claims, “Structure treated as fixed boxes”. Which response gives the most accurate correction?",
-    "visual": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Misconception 2. Notice: Compare curriculum texts. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Text Structures and Language Across the Curriculum organiser. Read: Misconception 2. Notice: Compare curriculum texts. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-008\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-008",
-      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Misconception 2. Notice: Compare curriculum texts. Correct the student's mix-up using the full task."
-    },
+    "question": "Which example should you choose for writing a geography report about the Murray River?",
+    "audioPrompt": "Which example should you choose for writing a geography report about the Murray River?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Writers adapt stages while keeping purpose clear.",
-      "Keep “One feature proves classification”; it uses a detail that sounds familiar.",
-      "Choose “Structure treated as fixed boxes” instead; it sounds clearer."
+      "Group information under topic headings and use place names and geographical terms.",
+      "Use only dialogue between imaginary characters.",
+      "Hide all facts inside a poem."
     ],
     "correct": 0,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Writers adapt stages while keeping purpose clear.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Topic sections and subject vocabulary help readers find and understand geographical information.\nHint: Choose features that organise information rather than entertain for their own sake.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Writers adapt stages while keeping purpose clear.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Topic sections and subject vocabulary help readers find and understand geographical information.",
+      "hint": "Choose features that organise information rather than entertain for their own sake."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +196,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la03-p-009",
     "curriculumCode": "AC9E4LA03",
     "bank": "practice",
-    "skill": "misconception 3 apply",
+    "skill": "Text Structures and Language Across the Curriculum",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “One feature proves classification”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “One feature proves classification”. Which response gives the most accurate correction?",
-    "visual": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Misconception 3. Notice: Adapt form while preserving meaning. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Text Structures and Language Across the Curriculum organiser. Read: Misconception 3. Notice: Adapt form while preserving meaning. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-009",
-      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Misconception 3. Notice: Adapt form while preserving meaning. Choose the response supported by the example."
-    },
+    "question": "Which example should you choose for writing a health poster about sun safety?",
+    "audioPrompt": "Which example should you choose for writing a health poster about sun safety?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "One feature proves classification",
-      "Use a pattern of structure and language evidence.",
-      "Layout separated from meaning"
+      "Use a long narrative with no headings.",
+      "Use a strong heading, brief action points and direct advice such as wear a hat.",
+      "Put the main advice in tiny print at the bottom."
     ],
     "correct": 1,
-    "explanation": "Use a pattern of structure and language evidence.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "A poster must communicate actions quickly and clearly.\nHint: Think about how a reader scans a poster.",
     "structuredExplanation": {
-      "summary": "Use a pattern of structure and language evidence.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "A poster must communicate actions quickly and clearly.",
+      "hint": "Think about how a reader scans a poster."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +220,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la03-p-010",
     "curriculumCode": "AC9E4LA03",
     "bank": "practice",
-    "skill": "misconception 3 reason",
+    "skill": "Text Structures and Language Across the Curriculum",
     "printable": true,
     "type": "single",
-    "question": "A student answers “One feature proves classification”. Which feedback helps? Task: A student in a workshop claims, “One feature proves classification”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “One feature proves classification”. Which feedback helps? Task: A student in a workshop claims, “One feature proves classification”. Which response gives the most accurate correction?",
-    "visual": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Misconception 3. Notice: Adapt form while preserving meaning. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Text Structures and Language Across the Curriculum organiser. Read: Misconception 3. Notice: Adapt form while preserving meaning. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-010",
-      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Misconception 3. Notice: Adapt form while preserving meaning. Correct the student's mix-up using the full task."
-    },
+    "question": "In writing a health poster about sun safety, which option best demonstrates the skill?",
+    "audioPrompt": "In writing a health poster about sun safety, which option best demonstrates the skill?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “One feature proves classification”; it uses a detail that sounds familiar.",
-      "Choose “Layout separated from meaning” instead; it sounds clearer.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use a pattern of structure and language evidence."
+      "Use a long narrative with no headings.",
+      "Put the main advice in tiny print at the bottom.",
+      "Use a strong heading, brief action points and direct advice such as wear a hat."
     ],
     "correct": 2,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use a pattern of structure and language evidence.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "A poster must communicate actions quickly and clearly.\nHint: Think about how a reader scans a poster.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use a pattern of structure and language evidence.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A poster must communicate actions quickly and clearly.",
+      "hint": "Think about how a reader scans a poster."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +244,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la03-p-011",
     "curriculumCode": "AC9E4LA03",
     "bank": "practice",
-    "skill": "misconception 4 apply",
+    "skill": "Text Structures and Language Across the Curriculum",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Layout separated from meaning”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Layout separated from meaning”. Which response gives the most accurate correction?",
-    "visual": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Misconception 4. Notice: Recognise common text structures. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Text Structures and Language Across the Curriculum organiser. Read: Misconception 4. Notice: Recognise common text structures. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-011",
-      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Misconception 4. Notice: Recognise common text structures. Choose the response supported by the example."
-    },
+    "question": "Why does “Use a question or aim, method, observations and conclusion with measured results.” work well for writing a science report about evaporation?",
+    "audioPrompt": "Why does “Use a question or aim, method, observations and conclusion with measured results.” work well for writing a science report about evaporation?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Headings, diagrams and captions organise and extend information.",
-      "Layout separated from meaning",
-      "Every subject uses one text type"
+      "A science report needs stages that show what was investigated, what happened and what the evidence means.",
+      "Because “Tell the event as a fantasy quest.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 0,
-    "explanation": "Headings, diagrams and captions organise and extend information.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "A science report needs stages that show what was investigated, what happened and what the evidence means.\nHint: Match the organisation to what the reader needs to learn from the investigation.",
     "structuredExplanation": {
-      "summary": "Headings, diagrams and captions organise and extend information.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "A science report needs stages that show what was investigated, what happened and what the evidence means.",
+      "hint": "Match the organisation to what the reader needs to learn from the investigation."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +268,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la03-p-012",
     "curriculumCode": "AC9E4LA03",
     "bank": "practice",
-    "skill": "misconception 4 reason",
+    "skill": "Text Structures and Language Across the Curriculum",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Every subject uses one text type”. Which feedback helps? Task: A student in a workshop claims, “Layout separated from meaning”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Every subject uses one text type”. Which feedback helps? Task: A student in a workshop claims, “Layout separated from meaning”. Which response gives the most accurate correction?",
-    "visual": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Misconception 4. Notice: Recognise common text structures. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Text Structures and Language Across the Curriculum organiser. Read: Misconception 4. Notice: Recognise common text structures. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-012\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-012",
-      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Misconception 4. Notice: Recognise common text structures. Correct the student's mix-up using the full task."
-    },
+    "question": "What makes “Use a question or aim, method, observations and conclusion with measured results.” a better choice in writing a science report about evaporation?",
+    "audioPrompt": "What makes “Use a question or aim, method, observations and conclusion with measured results.” a better choice in writing a science report about evaporation?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Every subject uses one text type”; it uses a detail that sounds familiar.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Headings, diagrams and captions organise and extend information.",
-      "Choose “Layout separated from meaning” instead; it sounds clearer."
+      "Because “Tell the event as a fantasy quest.” is always acceptable in this situation.",
+      "A science report needs stages that show what was investigated, what happened and what the evidence means.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 1,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Headings, diagrams and captions organise and extend information.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "A science report needs stages that show what was investigated, what happened and what the evidence means.\nHint: Match the organisation to what the reader needs to learn from the investigation.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Headings, diagrams and captions organise and extend information.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A science report needs stages that show what was investigated, what happened and what the evidence means.",
+      "hint": "Match the organisation to what the reader needs to learn from the investigation."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +292,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la03-p-013",
     "curriculumCode": "AC9E4LA03",
     "bank": "practice",
-    "skill": "text skeleton sort apply",
+    "skill": "Text Structures and Language Across the Curriculum",
     "printable": true,
     "type": "single",
-    "question": "The class prepares “Text skeleton sort”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "The class prepares “Text skeleton sort”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Text skeleton sort. Notice: Link stages to purpose. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Text Structures and Language Across the Curriculum organiser. Read: Text skeleton sort. Notice: Link stages to purpose. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-013",
-      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Text skeleton sort. Notice: Link stages to purpose. Choose the response supported by the example."
-    },
+    "question": "What makes “Use a goal, ingredients and ordered steps with command verbs such as mix and bake.” a better choice in writing instructions for making damper?",
+    "audioPrompt": "What makes “Use a goal, ingredients and ordered steps with command verbs such as mix and bake.” a better choice in writing instructions for making damper?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Change the purpose and audience halfway through, then report the first impression only.",
-      "Match headings and sample paragraphs to procedure, report, recount, explanation and argument structures."
+      "Because “Use a complication and resolution.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct.",
+      "Procedures guide action, so ordered steps and command verbs make the process usable."
     ],
     "correct": 2,
-    "explanation": "Match headings and sample paragraphs to procedure, report, recount, explanation and argument structures.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "explanation": "Procedures guide action, so ordered steps and command verbs make the process usable.\nHint: Ask what a reader must do first, next and last.",
     "structuredExplanation": {
-      "summary": "Match headings and sample paragraphs to procedure, report, recount, explanation and argument structures.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "Procedures guide action, so ordered steps and command verbs make the process usable.",
+      "hint": "Ask what a reader must do first, next and last."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +316,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la03-p-014",
     "curriculumCode": "AC9E4LA03",
     "bank": "practice",
-    "skill": "text skeleton sort reason",
+    "skill": "Text Structures and Language Across the Curriculum",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Text skeleton sort”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Text skeleton sort”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Text skeleton sort. Notice: Link stages to purpose. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Text Structures and Language Across the Curriculum organiser. Read: Text skeleton sort. Notice: Link stages to purpose. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-014\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-014",
-      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Text skeleton sort. Notice: Link stages to purpose. Correct the student's mix-up using the full task."
-    },
+    "question": "Which explanation best justifies “Use a goal, ingredients and ordered steps with command verbs such as mix and bake.” for writing instructions for making damper?",
+    "audioPrompt": "Which explanation best justifies “Use a goal, ingredients and ordered steps with command verbs such as mix and bake.” for writing instructions for making damper?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Choose the plan that analyses language evidence and produces a reviewable response. Match headings and sample paragraphs to procedure, report, recount, explanation and argument structures.",
-      "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
-      "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer."
+      "Procedures guide action, so ordered steps and command verbs make the process usable.",
+      "Because “Use a complication and resolution.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 0,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. Match headings and sample paragraphs to procedure, report, recount, explanation and argument structures.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Procedures guide action, so ordered steps and command verbs make the process usable.\nHint: Ask what a reader must do first, next and last.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Match headings and sample paragraphs to procedure, report, recount, explanation and argument structures.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Procedures guide action, so ordered steps and command verbs make the process usable.",
+      "hint": "Ask what a reader must do first, next and last."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +340,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la03-p-015",
     "curriculumCode": "AC9E4LA03",
     "bank": "practice",
-    "skill": "cross curriculum feature hunt apply",
+    "skill": "Text Structures and Language Across the Curriculum",
     "printable": true,
     "type": "single",
-    "question": "The class prepares “Cross-curriculum feature hunt”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "The class prepares “Cross-curriculum feature hunt”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Cross-curriculum feature hunt. Notice: Identify language patterns. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Text Structures and Language Across the Curriculum organiser. Read: Cross-curriculum feature hunt. Notice: Identify language patterns. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-015",
-      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Cross-curriculum feature hunt. Notice: Identify language patterns. Choose the response supported by the example."
-    },
+    "question": "Which explanation best justifies “Present events in time order using dates and past-tense verbs.” for writing a history recount of a community event?",
+    "audioPrompt": "Which explanation best justifies “Present events in time order using dates and past-tense verbs.” for writing a history recount of a community event?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Compare texts from science, humanities and health for tense, vocabulary, diagrams and connectives.",
-      "Change the purpose and audience halfway through, then report the first impression only."
+      "Because “Group facts by rhyme.” is always acceptable in this situation.",
+      "A recount makes the sequence of past events clear.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 1,
-    "explanation": "Compare texts from science, humanities and health for tense, vocabulary, diagrams and connectives.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "explanation": "A recount makes the sequence of past events clear.\nHint: Look for time order and language that locates events in the past.",
     "structuredExplanation": {
-      "summary": "Compare texts from science, humanities and health for tense, vocabulary, diagrams and connectives.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "A recount makes the sequence of past events clear.",
+      "hint": "Look for time order and language that locates events in the past."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +364,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la03-p-016",
     "curriculumCode": "AC9E4LA03",
     "bank": "practice",
-    "skill": "cross curriculum feature hunt reason",
+    "skill": "Text Structures and Language Across the Curriculum",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Cross-curriculum feature hunt”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Cross-curriculum feature hunt”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Cross-curriculum feature hunt. Notice: Identify language patterns. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Text Structures and Language Across the Curriculum organiser. Read: Cross-curriculum feature hunt. Notice: Identify language patterns. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-016",
-      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Cross-curriculum feature hunt. Notice: Identify language patterns. Correct the student's mix-up using the full task."
-    },
+    "question": "What should you notice about “Present events in time order using dates and past-tense verbs.” in writing a history recount of a community event?",
+    "audioPrompt": "What should you notice about “Present events in time order using dates and past-tense verbs.” in writing a history recount of a community event?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
-      "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
-      "Choose the plan that analyses language evidence and produces a reviewable response. Compare texts from science, humanities and health for tense, vocabulary, diagrams and connectives."
+      "Because “Group facts by rhyme.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct.",
+      "A recount makes the sequence of past events clear."
     ],
     "correct": 2,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. Compare texts from science, humanities and health for tense, vocabulary, diagrams and connectives.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "A recount makes the sequence of past events clear.\nHint: Look for time order and language that locates events in the past.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Compare texts from science, humanities and health for tense, vocabulary, diagrams and connectives.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A recount makes the sequence of past events clear.",
+      "hint": "Look for time order and language that locates events in the past."
     },
     "qualitySchema": "production-v1"
   },
@@ -468,28 +388,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la03-p-017",
     "curriculumCode": "AC9E4LA03",
     "bank": "practice",
-    "skill": "purpose redesign apply",
+    "skill": "Text Structures and Language Across the Curriculum",
     "printable": true,
     "type": "single",
-    "question": "The class prepares “Purpose redesign”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "The class prepares “Purpose redesign”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Purpose redesign. Notice: Compare curriculum texts. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Text Structures and Language Across the Curriculum organiser. Read: Purpose redesign. Notice: Compare curriculum texts. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-017",
-      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Purpose redesign. Notice: Compare curriculum texts. Choose the response supported by the example."
-    },
+    "question": "What should you notice about “Group information under topic headings and use place names and geographical terms.” in writing a geography report about the Murray River?",
+    "audioPrompt": "What should you notice about “Group information under topic headings and use place names and geographical terms.” in writing a geography report about the Murray River?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Change an informative fact file into a persuasive poster or oral explanation and document structural changes.",
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Change the purpose and audience halfway through, then report the first impression only."
+      "Topic sections and subject vocabulary help readers find and understand geographical information.",
+      "Because “Use only dialogue between imaginary characters.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 0,
-    "explanation": "Change an informative fact file into a persuasive poster or oral explanation and document structural changes.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "explanation": "Topic sections and subject vocabulary help readers find and understand geographical information.\nHint: Choose features that organise information rather than entertain for their own sake.",
     "structuredExplanation": {
-      "summary": "Change an informative fact file into a persuasive poster or oral explanation and document structural changes.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "Topic sections and subject vocabulary help readers find and understand geographical information.",
+      "hint": "Choose features that organise information rather than entertain for their own sake."
     },
     "qualitySchema": "production-v1"
   },
@@ -497,28 +412,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la03-p-018",
     "curriculumCode": "AC9E4LA03",
     "bank": "practice",
-    "skill": "purpose redesign reason",
+    "skill": "Text Structures and Language Across the Curriculum",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Purpose redesign”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Purpose redesign”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Purpose redesign. Notice: Compare curriculum texts. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Text Structures and Language Across the Curriculum organiser. Read: Purpose redesign. Notice: Compare curriculum texts. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-018\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-018",
-      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Purpose redesign. Notice: Compare curriculum texts. Correct the student's mix-up using the full task."
-    },
+    "question": "Which reason explains why “Group information under topic headings and use place names and geographical terms.” suits writing a geography report about the Murray River?",
+    "audioPrompt": "Which reason explains why “Group information under topic headings and use place names and geographical terms.” suits writing a geography report about the Murray River?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
-      "Choose the plan that analyses language evidence and produces a reviewable response. Change an informative fact file into a persuasive poster or oral explanation and document structural changes.",
-      "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer."
+      "Because “Use only dialogue between imaginary characters.” is always acceptable in this situation.",
+      "Topic sections and subject vocabulary help readers find and understand geographical information.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 1,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. Change an informative fact file into a persuasive poster or oral explanation and document structural changes.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Topic sections and subject vocabulary help readers find and understand geographical information.\nHint: Choose features that organise information rather than entertain for their own sake.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Change an informative fact file into a persuasive poster or oral explanation and document structural changes.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Topic sections and subject vocabulary help readers find and understand geographical information.",
+      "hint": "Choose features that organise information rather than entertain for their own sake."
     },
     "qualitySchema": "production-v1"
   },
@@ -526,28 +436,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la03-p-019",
     "curriculumCode": "AC9E4LA03",
     "bank": "practice",
-    "skill": "vocabulary 1 apply",
+    "skill": "Text Structures and Language Across the Curriculum",
     "printable": true,
     "type": "single",
-    "question": "A class annotation about Text Structures and Language Across the Curriculum describes “overall organisation and stages of a text”. Which term is most precise?",
-    "audioPrompt": "A class annotation about Text Structures and Language Across the Curriculum describes “overall organisation and stages of a text”. Which term is most precise?",
-    "visual": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Vocabulary 1. Notice: Adapt form while preserving meaning. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Text Structures and Language Across the Curriculum organiser. Read: Vocabulary 1. Notice: Adapt form while preserving meaning. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-019",
-      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Vocabulary 1. Notice: Adapt form while preserving meaning. Choose the response supported by the example."
-    },
+    "question": "Which reason explains why “Use a strong heading, brief action points and direct advice such as wear a hat.” suits writing a health poster about sun safety?",
+    "audioPrompt": "Which reason explains why “Use a strong heading, brief action points and direct advice such as wear a hat.” suits writing a health poster about sun safety?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "language feature",
-      "purpose",
-      "text structure"
+      "Because “Use a long narrative with no headings.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct.",
+      "A poster must communicate actions quickly and clearly."
     ],
     "correct": 2,
-    "explanation": "text structure is the precise term for this feature.\nHint: Match the definition to the exact language or literacy concept.",
+    "explanation": "A poster must communicate actions quickly and clearly.\nHint: Think about how a reader scans a poster.",
     "structuredExplanation": {
-      "summary": "text structure is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
+      "summary": "A poster must communicate actions quickly and clearly.",
+      "hint": "Think about how a reader scans a poster."
     },
     "qualitySchema": "production-v1"
   },
@@ -555,28 +460,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la03-p-020",
     "curriculumCode": "AC9E4LA03",
     "bank": "practice",
-    "skill": "vocabulary 1 reason",
+    "skill": "Text Structures and Language Across the Curriculum",
     "printable": true,
     "type": "single",
-    "question": "A student answers “purpose”. Which feedback helps? Task: A class annotation about Text Structures and Language Across the Curriculum describes “overall organisation and stages of a text”. Which term is most precise?",
-    "audioPrompt": "A student answers “purpose”. Which feedback helps? Task: A class annotation about Text Structures and Language Across the Curriculum describes “overall organisation and stages of a text”. Which term is most precise?",
-    "visual": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Vocabulary 1. Notice: Adapt form while preserving meaning. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Text Structures and Language Across the Curriculum organiser. Read: Vocabulary 1. Notice: Adapt form while preserving meaning. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-020\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-020",
-      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Vocabulary 1. Notice: Adapt form while preserving meaning. Correct the student's mix-up using the full task."
-    },
+    "question": "Why does “Use a strong heading, brief action points and direct advice such as wear a hat.” work well for writing a health poster about sun safety?",
+    "audioPrompt": "Why does “Use a strong heading, brief action points and direct advice such as wear a hat.” work well for writing a health poster about sun safety?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Match the definition to the exact language or literacy concept. text structure is the precise term for this feature.",
-      "Keep “purpose”; it uses a detail that sounds familiar.",
-      "Choose “language feature” instead; it sounds clearer."
+      "A poster must communicate actions quickly and clearly.",
+      "Because “Use a long narrative with no headings.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 0,
-    "explanation": "Match the definition to the exact language or literacy concept. text structure is the precise term for this feature.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "A poster must communicate actions quickly and clearly.\nHint: Think about how a reader scans a poster.",
     "structuredExplanation": {
-      "summary": "Match the definition to the exact language or literacy concept. text structure is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A poster must communicate actions quickly and clearly.",
+      "hint": "Think about how a reader scans a poster."
     },
     "qualitySchema": "production-v1"
   },
@@ -584,28 +484,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la03-p-021",
     "curriculumCode": "AC9E4LA03",
     "bank": "practice",
-    "skill": "vocabulary 2 apply",
+    "skill": "Text Structures and Language Across the Curriculum",
     "printable": true,
     "type": "single",
-    "question": "A class annotation about Text Structures and Language Across the Curriculum describes “word, sentence or cohesion choice supporting meaning”. Which term is most precise?",
-    "audioPrompt": "A class annotation about Text Structures and Language Across the Curriculum describes “word, sentence or cohesion choice supporting meaning”. Which term is most precise?",
-    "visual": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Vocabulary 2. Notice: Recognise common text structures. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Text Structures and Language Across the Curriculum organiser. Read: Vocabulary 2. Notice: Recognise common text structures. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-021\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-021",
-      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Vocabulary 2. Notice: Recognise common text structures. Choose the response supported by the example."
-    },
+    "question": "Which revision best fixes the problem in “Tell the event as a fantasy quest.” for writing a science report about evaporation?",
+    "audioPrompt": "Which revision best fixes the problem in “Tell the event as a fantasy quest.” for writing a science report about evaporation?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "text structure",
-      "language feature",
-      "purpose"
+      "Tell the event as a fantasy quest.",
+      "Use a question or aim, method, observations and conclusion with measured results.",
+      "List jokes in random order."
     ],
     "correct": 1,
-    "explanation": "language feature is the precise term for this feature.\nHint: Match the definition to the exact language or literacy concept.",
+    "explanation": "A science report needs stages that show what was investigated, what happened and what the evidence means. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Match the organisation to what the reader needs to learn from the investigation.",
     "structuredExplanation": {
-      "summary": "language feature is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
+      "summary": "A science report needs stages that show what was investigated, what happened and what the evidence means. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Match the organisation to what the reader needs to learn from the investigation."
     },
     "qualitySchema": "production-v1"
   },
@@ -613,28 +508,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la03-p-022",
     "curriculumCode": "AC9E4LA03",
     "bank": "practice",
-    "skill": "vocabulary 2 reason",
+    "skill": "Text Structures and Language Across the Curriculum",
     "printable": true,
     "type": "single",
-    "question": "A student answers “text structure”. Which feedback helps? Task: A class annotation about Text Structures and Language Across the Curriculum describes “word, sentence or cohesion choice supporting meaning”. Which term is most precise?",
-    "audioPrompt": "A student answers “text structure”. Which feedback helps? Task: A class annotation about Text Structures and Language Across the Curriculum describes “word, sentence or cohesion choice supporting meaning”. Which term is most precise?",
-    "visual": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Vocabulary 2. Notice: Recognise common text structures. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Text Structures and Language Across the Curriculum organiser. Read: Vocabulary 2. Notice: Recognise common text structures. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-022\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-022",
-      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Vocabulary 2. Notice: Recognise common text structures. Correct the student's mix-up using the full task."
-    },
+    "question": "Compare the choices for writing a science report about evaporation. Which one avoids the mistake in “Tell the event as a fantasy quest.”?",
+    "audioPrompt": "Compare the choices for writing a science report about evaporation. Which one avoids the mistake in “Tell the event as a fantasy quest.”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “text structure”; it uses a detail that sounds familiar.",
-      "Choose “purpose” instead; it sounds clearer.",
-      "Match the definition to the exact language or literacy concept. language feature is the precise term for this feature."
+      "Tell the event as a fantasy quest.",
+      "List jokes in random order.",
+      "Use a question or aim, method, observations and conclusion with measured results."
     ],
     "correct": 2,
-    "explanation": "Match the definition to the exact language or literacy concept. language feature is the precise term for this feature.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "A science report needs stages that show what was investigated, what happened and what the evidence means. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Match the organisation to what the reader needs to learn from the investigation.",
     "structuredExplanation": {
-      "summary": "Match the definition to the exact language or literacy concept. language feature is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A science report needs stages that show what was investigated, what happened and what the evidence means. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Match the organisation to what the reader needs to learn from the investigation."
     },
     "qualitySchema": "production-v1"
   },
@@ -642,28 +532,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la03-p-023",
     "curriculumCode": "AC9E4LA03",
     "bank": "practice",
-    "skill": "vocabulary 3 apply",
+    "skill": "Text Structures and Language Across the Curriculum",
     "printable": true,
     "type": "single",
-    "question": "A class annotation about Text Structures and Language Across the Curriculum describes “what the text aims to achieve”. Which term is most precise?",
-    "audioPrompt": "A class annotation about Text Structures and Language Across the Curriculum describes “what the text aims to achieve”. Which term is most precise?",
-    "visual": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Vocabulary 3. Notice: Link stages to purpose. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Text Structures and Language Across the Curriculum organiser. Read: Vocabulary 3. Notice: Link stages to purpose. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-023\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-023",
-      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Vocabulary 3. Notice: Link stages to purpose. Choose the response supported by the example."
-    },
+    "question": "Compare the choices for writing instructions for making damper. Which one avoids the mistake in “Use a complication and resolution.”?",
+    "audioPrompt": "Compare the choices for writing instructions for making damper. Which one avoids the mistake in “Use a complication and resolution.”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "purpose",
-      "text structure",
-      "language feature"
+      "Use a goal, ingredients and ordered steps with command verbs such as mix and bake.",
+      "Use a complication and resolution.",
+      "Write one long paragraph with no sequence."
     ],
     "correct": 0,
-    "explanation": "purpose is the precise term for this feature.\nHint: Match the definition to the exact language or literacy concept.",
+    "explanation": "Procedures guide action, so ordered steps and command verbs make the process usable. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Ask what a reader must do first, next and last.",
     "structuredExplanation": {
-      "summary": "purpose is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
+      "summary": "Procedures guide action, so ordered steps and command verbs make the process usable. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Ask what a reader must do first, next and last."
     },
     "qualitySchema": "production-v1"
   },
@@ -671,28 +556,407 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la03-p-024",
     "curriculumCode": "AC9E4LA03",
     "bank": "practice",
-    "skill": "vocabulary 3 reason",
+    "skill": "Text Structures and Language Across the Curriculum",
     "printable": true,
     "type": "single",
-    "question": "A student answers “language feature”. Which feedback helps? Task: A class annotation about Text Structures and Language Across the Curriculum describes “what the text aims to achieve”. Which term is most precise?",
-    "audioPrompt": "A student answers “language feature”. Which feedback helps? Task: A class annotation about Text Structures and Language Across the Curriculum describes “what the text aims to achieve”. Which term is most precise?",
-    "visual": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Vocabulary 3. Notice: Link stages to purpose. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Text Structures and Language Across the Curriculum organiser. Read: Vocabulary 3. Notice: Link stages to purpose. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-024\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-024",
-      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Vocabulary 3. Notice: Link stages to purpose. Correct the student's mix-up using the full task."
-    },
+    "question": "If “Use a complication and resolution.” does not work in writing instructions for making damper, what should replace it?",
+    "audioPrompt": "If “Use a complication and resolution.” does not work in writing instructions for making damper, what should replace it?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “language feature”; it uses a detail that sounds familiar.",
-      "Match the definition to the exact language or literacy concept. purpose is the precise term for this feature.",
-      "Choose “text structure” instead; it sounds clearer."
+      "Use a complication and resolution.",
+      "Use a goal, ingredients and ordered steps with command verbs such as mix and bake.",
+      "Write one long paragraph with no sequence."
     ],
     "correct": 1,
-    "explanation": "Match the definition to the exact language or literacy concept. purpose is the precise term for this feature.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Procedures guide action, so ordered steps and command verbs make the process usable. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Ask what a reader must do first, next and last.",
     "structuredExplanation": {
-      "summary": "Match the definition to the exact language or literacy concept. purpose is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Procedures guide action, so ordered steps and command verbs make the process usable. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Ask what a reader must do first, next and last."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la03-p-025",
+    "curriculumCode": "AC9E4LA03",
+    "bank": "practice",
+    "skill": "Text Structures and Language Across the Curriculum",
+    "printable": true,
+    "type": "single",
+    "question": "If “Group facts by rhyme.” does not work in writing a history recount of a community event, what should replace it?",
+    "audioPrompt": "If “Group facts by rhyme.” does not work in writing a history recount of a community event, what should replace it?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Group facts by rhyme.",
+      "Begin with a recipe and finish with a weather chart.",
+      "Present events in time order using dates and past-tense verbs."
+    ],
+    "correct": 2,
+    "explanation": "A recount makes the sequence of past events clear. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Look for time order and language that locates events in the past.",
+    "structuredExplanation": {
+      "summary": "A recount makes the sequence of past events clear. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Look for time order and language that locates events in the past."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la03-p-026",
+    "curriculumCode": "AC9E4LA03",
+    "bank": "practice",
+    "skill": "Text Structures and Language Across the Curriculum",
+    "printable": true,
+    "type": "single",
+    "question": "Which option corrects the meaning or form needed for writing a history recount of a community event?",
+    "audioPrompt": "Which option corrects the meaning or form needed for writing a history recount of a community event?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Present events in time order using dates and past-tense verbs.",
+      "Group facts by rhyme.",
+      "Begin with a recipe and finish with a weather chart."
+    ],
+    "correct": 0,
+    "explanation": "A recount makes the sequence of past events clear. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Look for time order and language that locates events in the past.",
+    "structuredExplanation": {
+      "summary": "A recount makes the sequence of past events clear. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Look for time order and language that locates events in the past."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la03-p-027",
+    "curriculumCode": "AC9E4LA03",
+    "bank": "practice",
+    "skill": "Text Structures and Language Across the Curriculum",
+    "printable": true,
+    "type": "single",
+    "question": "Which option corrects the meaning or form needed for writing a geography report about the Murray River?",
+    "audioPrompt": "Which option corrects the meaning or form needed for writing a geography report about the Murray River?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use only dialogue between imaginary characters.",
+      "Group information under topic headings and use place names and geographical terms.",
+      "Hide all facts inside a poem."
+    ],
+    "correct": 1,
+    "explanation": "Topic sections and subject vocabulary help readers find and understand geographical information. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Choose features that organise information rather than entertain for their own sake.",
+    "structuredExplanation": {
+      "summary": "Topic sections and subject vocabulary help readers find and understand geographical information. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Choose features that organise information rather than entertain for their own sake."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la03-p-028",
+    "curriculumCode": "AC9E4LA03",
+    "bank": "practice",
+    "skill": "Text Structures and Language Across the Curriculum",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is the clearest correction for writing a geography report about the Murray River?",
+    "audioPrompt": "Which choice is the clearest correction for writing a geography report about the Murray River?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use only dialogue between imaginary characters.",
+      "Hide all facts inside a poem.",
+      "Group information under topic headings and use place names and geographical terms."
+    ],
+    "correct": 2,
+    "explanation": "Topic sections and subject vocabulary help readers find and understand geographical information. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Choose features that organise information rather than entertain for their own sake.",
+    "structuredExplanation": {
+      "summary": "Topic sections and subject vocabulary help readers find and understand geographical information. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Choose features that organise information rather than entertain for their own sake."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la03-p-029",
+    "curriculumCode": "AC9E4LA03",
+    "bank": "practice",
+    "skill": "Text Structures and Language Across the Curriculum",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is the clearest correction for writing a health poster about sun safety?",
+    "audioPrompt": "Which choice is the clearest correction for writing a health poster about sun safety?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use a strong heading, brief action points and direct advice such as wear a hat.",
+      "Use a long narrative with no headings.",
+      "Put the main advice in tiny print at the bottom."
+    ],
+    "correct": 0,
+    "explanation": "A poster must communicate actions quickly and clearly. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Think about how a reader scans a poster.",
+    "structuredExplanation": {
+      "summary": "A poster must communicate actions quickly and clearly. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Think about how a reader scans a poster."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la03-p-030",
+    "curriculumCode": "AC9E4LA03",
+    "bank": "practice",
+    "skill": "Text Structures and Language Across the Curriculum",
+    "printable": true,
+    "type": "single",
+    "question": "Which revision best fixes the problem in “Use a long narrative with no headings.” for writing a health poster about sun safety?",
+    "audioPrompt": "Which revision best fixes the problem in “Use a long narrative with no headings.” for writing a health poster about sun safety?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use a long narrative with no headings.",
+      "Use a strong heading, brief action points and direct advice such as wear a hat.",
+      "Put the main advice in tiny print at the bottom."
+    ],
+    "correct": 1,
+    "explanation": "A poster must communicate actions quickly and clearly. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Think about how a reader scans a poster.",
+    "structuredExplanation": {
+      "summary": "A poster must communicate actions quickly and clearly. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Think about how a reader scans a poster."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la03-p-031",
+    "curriculumCode": "AC9E4LA03",
+    "bank": "practice",
+    "skill": "Text Structures and Language Across the Curriculum",
+    "printable": true,
+    "type": "single",
+    "question": "You now need to handle writing a science report about evaporation independently. Which choice should you use?",
+    "audioPrompt": "You now need to handle writing a science report about evaporation independently. Which choice should you use?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "List jokes in random order.",
+      "Tell the event as a fantasy quest.",
+      "Use a question or aim, method, observations and conclusion with measured results."
+    ],
+    "correct": 2,
+    "explanation": "A science report needs stages that show what was investigated, what happened and what the evidence means.\nHint: Match the organisation to what the reader needs to learn from the investigation.",
+    "structuredExplanation": {
+      "summary": "A science report needs stages that show what was investigated, what happened and what the evidence means.",
+      "hint": "Match the organisation to what the reader needs to learn from the investigation."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la03-p-032",
+    "curriculumCode": "AC9E4LA03",
+    "bank": "practice",
+    "skill": "Text Structures and Language Across the Curriculum",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the same idea to writing a science report about evaporation. Which option is best?",
+    "audioPrompt": "Apply the same idea to writing a science report about evaporation. Which option is best?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use a question or aim, method, observations and conclusion with measured results.",
+      "List jokes in random order.",
+      "Tell the event as a fantasy quest."
+    ],
+    "correct": 0,
+    "explanation": "A science report needs stages that show what was investigated, what happened and what the evidence means.\nHint: Match the organisation to what the reader needs to learn from the investigation.",
+    "structuredExplanation": {
+      "summary": "A science report needs stages that show what was investigated, what happened and what the evidence means.",
+      "hint": "Match the organisation to what the reader needs to learn from the investigation."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la03-p-033",
+    "curriculumCode": "AC9E4LA03",
+    "bank": "practice",
+    "skill": "Text Structures and Language Across the Curriculum",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the same idea to writing instructions for making damper. Which option is best?",
+    "audioPrompt": "Apply the same idea to writing instructions for making damper. Which option is best?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Write one long paragraph with no sequence.",
+      "Use a goal, ingredients and ordered steps with command verbs such as mix and bake.",
+      "Use a complication and resolution."
+    ],
+    "correct": 1,
+    "explanation": "Procedures guide action, so ordered steps and command verbs make the process usable.\nHint: Ask what a reader must do first, next and last.",
+    "structuredExplanation": {
+      "summary": "Procedures guide action, so ordered steps and command verbs make the process usable.",
+      "hint": "Ask what a reader must do first, next and last."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la03-p-034",
+    "curriculumCode": "AC9E4LA03",
+    "bank": "practice",
+    "skill": "Text Structures and Language Across the Curriculum",
+    "printable": true,
+    "type": "single",
+    "question": "Which decision would produce the clearest result in writing instructions for making damper?",
+    "audioPrompt": "Which decision would produce the clearest result in writing instructions for making damper?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Write one long paragraph with no sequence.",
+      "Use a complication and resolution.",
+      "Use a goal, ingredients and ordered steps with command verbs such as mix and bake."
+    ],
+    "correct": 2,
+    "explanation": "Procedures guide action, so ordered steps and command verbs make the process usable.\nHint: Ask what a reader must do first, next and last.",
+    "structuredExplanation": {
+      "summary": "Procedures guide action, so ordered steps and command verbs make the process usable.",
+      "hint": "Ask what a reader must do first, next and last."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la03-p-035",
+    "curriculumCode": "AC9E4LA03",
+    "bank": "practice",
+    "skill": "Text Structures and Language Across the Curriculum",
+    "printable": true,
+    "type": "single",
+    "question": "Which decision would produce the clearest result in writing a history recount of a community event?",
+    "audioPrompt": "Which decision would produce the clearest result in writing a history recount of a community event?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Present events in time order using dates and past-tense verbs.",
+      "Begin with a recipe and finish with a weather chart.",
+      "Group facts by rhyme."
+    ],
+    "correct": 0,
+    "explanation": "A recount makes the sequence of past events clear.\nHint: Look for time order and language that locates events in the past.",
+    "structuredExplanation": {
+      "summary": "A recount makes the sequence of past events clear.",
+      "hint": "Look for time order and language that locates events in the past."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la03-p-036",
+    "curriculumCode": "AC9E4LA03",
+    "bank": "practice",
+    "skill": "Text Structures and Language Across the Curriculum",
+    "printable": true,
+    "type": "single",
+    "question": "Choose the option that applies the skill correctly in writing a history recount of a community event.",
+    "audioPrompt": "Choose the option that applies the skill correctly in writing a history recount of a community event.",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Begin with a recipe and finish with a weather chart.",
+      "Present events in time order using dates and past-tense verbs.",
+      "Group facts by rhyme."
+    ],
+    "correct": 1,
+    "explanation": "A recount makes the sequence of past events clear.\nHint: Look for time order and language that locates events in the past.",
+    "structuredExplanation": {
+      "summary": "A recount makes the sequence of past events clear.",
+      "hint": "Look for time order and language that locates events in the past."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la03-p-037",
+    "curriculumCode": "AC9E4LA03",
+    "bank": "practice",
+    "skill": "Text Structures and Language Across the Curriculum",
+    "printable": true,
+    "type": "single",
+    "question": "Choose the option that applies the skill correctly in writing a geography report about the Murray River.",
+    "audioPrompt": "Choose the option that applies the skill correctly in writing a geography report about the Murray River.",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Hide all facts inside a poem.",
+      "Use only dialogue between imaginary characters.",
+      "Group information under topic headings and use place names and geographical terms."
+    ],
+    "correct": 2,
+    "explanation": "Topic sections and subject vocabulary help readers find and understand geographical information.\nHint: Choose features that organise information rather than entertain for their own sake.",
+    "structuredExplanation": {
+      "summary": "Topic sections and subject vocabulary help readers find and understand geographical information.",
+      "hint": "Choose features that organise information rather than entertain for their own sake."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la03-p-038",
+    "curriculumCode": "AC9E4LA03",
+    "bank": "practice",
+    "skill": "Text Structures and Language Across the Curriculum",
+    "printable": true,
+    "type": "single",
+    "question": "What would be the most effective choice for writing a geography report about the Murray River?",
+    "audioPrompt": "What would be the most effective choice for writing a geography report about the Murray River?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Group information under topic headings and use place names and geographical terms.",
+      "Hide all facts inside a poem.",
+      "Use only dialogue between imaginary characters."
+    ],
+    "correct": 0,
+    "explanation": "Topic sections and subject vocabulary help readers find and understand geographical information.\nHint: Choose features that organise information rather than entertain for their own sake.",
+    "structuredExplanation": {
+      "summary": "Topic sections and subject vocabulary help readers find and understand geographical information.",
+      "hint": "Choose features that organise information rather than entertain for their own sake."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la03-p-039",
+    "curriculumCode": "AC9E4LA03",
+    "bank": "practice",
+    "skill": "Text Structures and Language Across the Curriculum",
+    "printable": true,
+    "type": "single",
+    "question": "What would be the most effective choice for writing a health poster about sun safety?",
+    "audioPrompt": "What would be the most effective choice for writing a health poster about sun safety?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Put the main advice in tiny print at the bottom.",
+      "Use a strong heading, brief action points and direct advice such as wear a hat.",
+      "Use a long narrative with no headings."
+    ],
+    "correct": 1,
+    "explanation": "A poster must communicate actions quickly and clearly.\nHint: Think about how a reader scans a poster.",
+    "structuredExplanation": {
+      "summary": "A poster must communicate actions quickly and clearly.",
+      "hint": "Think about how a reader scans a poster."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la03-p-040",
+    "curriculumCode": "AC9E4LA03",
+    "bank": "practice",
+    "skill": "Text Structures and Language Across the Curriculum",
+    "printable": true,
+    "type": "single",
+    "question": "You now need to handle writing a health poster about sun safety independently. Which choice should you use?",
+    "audioPrompt": "You now need to handle writing a health poster about sun safety independently. Which choice should you use?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Put the main advice in tiny print at the bottom.",
+      "Use a long narrative with no headings.",
+      "Use a strong heading, brief action points and direct advice such as wear a hat."
+    ],
+    "correct": 2,
+    "explanation": "A poster must communicate actions quickly and clearly.\nHint: Think about how a reader scans a poster.",
+    "structuredExplanation": {
+      "summary": "A poster must communicate actions quickly and clearly.",
+      "hint": "Think about how a reader scans a poster."
     },
     "qualitySchema": "production-v1"
   }

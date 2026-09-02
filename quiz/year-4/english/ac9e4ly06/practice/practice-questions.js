@@ -4,28 +4,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly06-p-001",
     "curriculumCode": "AC9E4LY06",
     "bank": "practice",
-    "skill": "worked text 1 apply",
+    "skill": "Creating Written Texts",
     "printable": true,
     "type": "single",
-    "question": "Read the classroom example. Which step focuses most on improving meaning and structure?",
-    "audioPrompt": "Read the classroom example. Which step focuses most on improving meaning and structure?",
-    "visual": "Three-step Creating Written and Multimodal Texts organiser. Read: Worked text 1. Notice: Plan by purpose/audience. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Creating Written and Multimodal Texts organiser. Read: Worked text 1. Notice: Plan by purpose/audience. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-001",
-      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Worked text 1. Notice: Plan by purpose/audience. Choose the response supported by the example."
-    },
+    "question": "In planning an information report about wombats, which option best demonstrates the skill?",
+    "audioPrompt": "In planning an information report about wombats, which option best demonstrates the skill?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "final spell-check only",
-      "revision",
-      "printing the first draft"
+      "Write every fact in the order it was found.",
+      "Group notes into sections such as habitat, diet and behaviour before drafting.",
+      "Start drafting unrelated sentences without deciding the purpose."
     ],
     "correct": 1,
-    "explanation": "The evidence and language purpose support “revision”.\nHint: Check the whole sentence or text feature, then test meaning and grammar.",
+    "explanation": "Planning related ideas into sections creates a clear basis for paragraphs.\nHint: Sort ideas by topic before writing full sentences.",
     "structuredExplanation": {
-      "summary": "The evidence and language purpose support “revision”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "Planning related ideas into sections creates a clear basis for paragraphs.",
+      "hint": "Sort ideas by topic before writing full sentences."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +28,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly06-p-002",
     "curriculumCode": "AC9E4LY06",
     "bank": "practice",
-    "skill": "worked text 1 reason",
+    "skill": "Creating Written Texts",
     "printable": true,
     "type": "single",
-    "question": "A student answers “final spell-check only”. Which feedback helps? Task: Read the classroom example. Which step focuses most on improving meaning and structure?",
-    "audioPrompt": "A student answers “final spell-check only”. Which feedback helps? Task: Read the classroom example. Which step focuses most on improving meaning and structure?",
-    "visual": "Three-step Creating Written and Multimodal Texts organiser. Read: Worked text 1. Notice: Plan by purpose/audience. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Creating Written and Multimodal Texts organiser. Read: Worked text 1. Notice: Plan by purpose/audience. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-002\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-002",
-      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Worked text 1. Notice: Plan by purpose/audience. Correct the student's mix-up using the full task."
-    },
+    "question": "Which choice fits planning an information report about wombats most accurately?",
+    "audioPrompt": "Which choice fits planning an information report about wombats most accurately?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “final spell-check only”; it uses a detail that sounds familiar.",
-      "Choose “printing the first draft” instead; it sounds clearer.",
-      "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “revision”."
+      "Write every fact in the order it was found.",
+      "Start drafting unrelated sentences without deciding the purpose.",
+      "Group notes into sections such as habitat, diet and behaviour before drafting."
     ],
     "correct": 2,
-    "explanation": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “revision”.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Planning related ideas into sections creates a clear basis for paragraphs.\nHint: Sort ideas by topic before writing full sentences.",
     "structuredExplanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “revision”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Planning related ideas into sections creates a clear basis for paragraphs.",
+      "hint": "Sort ideas by topic before writing full sentences."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +52,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly06-p-003",
     "curriculumCode": "AC9E4LY06",
     "bank": "practice",
-    "skill": "worked text 2 apply",
+    "skill": "Creating Written Texts",
     "printable": true,
     "type": "single",
-    "question": "Read the classroom example. Which visual is most integrated into an informative report?",
-    "audioPrompt": "Read the classroom example. Which visual is most integrated into an informative report?",
-    "visual": "Three-step Creating Written and Multimodal Texts organiser. Read: Worked text 2. Notice: Organise linked ideas. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Creating Written and Multimodal Texts organiser. Read: Worked text 2. Notice: Organise linked ideas. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-003",
-      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Worked text 2. Notice: Organise linked ideas. Choose the response supported by the example."
-    },
+    "question": "Which choice fits building a paragraph about water saving most accurately?",
+    "audioPrompt": "Which choice fits building a paragraph about water saving most accurately?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "a labelled diagram referred to and explained in the text",
-      "an unrelated decoration",
-      "a picture with no caption"
+      "Start with the main point, add linked examples and use connectives such as for example and therefore where they fit.",
+      "Put one sentence about water between two sentences about football.",
+      "Add however to every sentence whether or not there is a contrast."
     ],
     "correct": 0,
-    "explanation": "The evidence and language purpose support “a labelled diagram referred to and explained in the text”.\nHint: Check the whole sentence or text feature, then test meaning and grammar.",
+    "explanation": "A coherent paragraph keeps one main focus and uses connectives for real relationships.\nHint: Check both topic unity and logical links.",
     "structuredExplanation": {
-      "summary": "The evidence and language purpose support “a labelled diagram referred to and explained in the text”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "A coherent paragraph keeps one main focus and uses connectives for real relationships.",
+      "hint": "Check both topic unity and logical links."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +76,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly06-p-004",
     "curriculumCode": "AC9E4LY06",
     "bank": "practice",
-    "skill": "worked text 2 reason",
+    "skill": "Creating Written Texts",
     "printable": true,
     "type": "single",
-    "question": "A student answers “a picture with no caption”. Which feedback helps? Task: Read the classroom example. Which visual is most integrated into an informative report?",
-    "audioPrompt": "A student answers “a picture with no caption”. Which feedback helps? Task: Read the classroom example. Which visual is most integrated into an informative report?",
-    "visual": "Three-step Creating Written and Multimodal Texts organiser. Read: Worked text 2. Notice: Organise linked ideas. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Creating Written and Multimodal Texts organiser. Read: Worked text 2. Notice: Organise linked ideas. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-004\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-004",
-      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Worked text 2. Notice: Organise linked ideas. Correct the student's mix-up using the full task."
-    },
+    "question": "Look closely at building a paragraph about water saving. Which response or wording works best?",
+    "audioPrompt": "Look closely at building a paragraph about water saving. Which response or wording works best?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “a picture with no caption”; it uses a detail that sounds familiar.",
-      "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “a labelled diagram referred to and explained in the text”.",
-      "Choose “an unrelated decoration” instead; it sounds clearer."
+      "Put one sentence about water between two sentences about football.",
+      "Start with the main point, add linked examples and use connectives such as for example and therefore where they fit.",
+      "Add however to every sentence whether or not there is a contrast."
     ],
     "correct": 1,
-    "explanation": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “a labelled diagram referred to and explained in the text”.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "A coherent paragraph keeps one main focus and uses connectives for real relationships.\nHint: Check both topic unity and logical links.",
     "structuredExplanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “a labelled diagram referred to and explained in the text”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A coherent paragraph keeps one main focus and uses connectives for real relationships.",
+      "hint": "Check both topic unity and logical links."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +100,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly06-p-005",
     "curriculumCode": "AC9E4LY06",
     "bank": "practice",
-    "skill": "misconception 1 apply",
+    "skill": "Creating Written Texts",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “First draft treated as final”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “First draft treated as final”. Which response gives the most accurate correction?",
-    "visual": "Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 1. Notice: Integrate visual features. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 1. Notice: Integrate visual features. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-005",
-      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 1. Notice: Integrate visual features. Choose the response supported by the example."
-    },
+    "question": "Look closely at combining ideas into a complex sentence. Which response or wording works best?",
+    "audioPrompt": "Look closely at combining ideas into a complex sentence. Which response or wording works best?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "First draft treated as final",
-      "Editing begins before structure is solved",
-      "Use feedback and revision to strengthen meaning."
+      "Because the tank was nearly empty.",
+      "The family shortened because tank showers.",
+      "Because the tank was nearly empty, the family shortened their showers."
     ],
     "correct": 2,
-    "explanation": "Use feedback and revision to strengthen meaning.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "The dependent cause clause adds a reason to a complete main clause.\nHint: Check that one clause can stand alone and the other adds a relationship.",
     "structuredExplanation": {
-      "summary": "Use feedback and revision to strengthen meaning.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "The dependent cause clause adds a reason to a complete main clause.",
+      "hint": "Check that one clause can stand alone and the other adds a relationship."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +124,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly06-p-006",
     "curriculumCode": "AC9E4LY06",
     "bank": "practice",
-    "skill": "misconception 1 reason",
+    "skill": "Creating Written Texts",
     "printable": true,
     "type": "single",
-    "question": "A student answers “First draft treated as final”. Which feedback helps? Task: A student in a workshop claims, “First draft treated as final”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “First draft treated as final”. Which feedback helps? Task: A student in a workshop claims, “First draft treated as final”. Which response gives the most accurate correction?",
-    "visual": "Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 1. Notice: Integrate visual features. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 1. Notice: Integrate visual features. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-006",
-      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 1. Notice: Integrate visual features. Correct the student's mix-up using the full task."
-    },
+    "question": "For combining ideas into a complex sentence, which option is the strongest match?",
+    "audioPrompt": "For combining ideas into a complex sentence, which option is the strongest match?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use feedback and revision to strengthen meaning.",
-      "Keep “First draft treated as final”; it uses a detail that sounds familiar.",
-      "Choose “Editing begins before structure is solved” instead; it sounds clearer."
+      "Because the tank was nearly empty, the family shortened their showers.",
+      "Because the tank was nearly empty.",
+      "The family shortened because tank showers."
     ],
     "correct": 0,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use feedback and revision to strengthen meaning.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "The dependent cause clause adds a reason to a complete main clause.\nHint: Check that one clause can stand alone and the other adds a relationship.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use feedback and revision to strengthen meaning.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "The dependent cause clause adds a reason to a complete main clause.",
+      "hint": "Check that one clause can stand alone and the other adds a relationship."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +148,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly06-p-007",
     "curriculumCode": "AC9E4LY06",
     "bank": "practice",
-    "skill": "misconception 2 apply",
+    "skill": "Creating Written Texts",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Editing begins before structure is solved”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Editing begins before structure is solved”. Which response gives the most accurate correction?",
-    "visual": "Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 2. Notice: Revise and edit systematically. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 2. Notice: Revise and edit systematically. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-007",
-      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 2. Notice: Revise and edit systematically. Choose the response supported by the example."
-    },
+    "question": "For editing tense in a recount, which option is the strongest match?",
+    "audioPrompt": "For editing tense in a recount, which option is the strongest match?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Editing begins before structure is solved",
-      "Address large-scale ideas first to avoid polishing deleted text.",
-      "Visuals added after writing without purpose"
+      "We arrived at the campsite, unpack the car and will cook dinner yesterday.",
+      "We arrived at the campsite, unpacked the car and cooked dinner.",
+      "We arriving at the campsite and cooked tomorrow."
     ],
     "correct": 1,
-    "explanation": "Address large-scale ideas first to avoid polishing deleted text.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "Consistent past tense suits events that happened during the same past time frame.\nHint: Only shift tense when the time frame changes.",
     "structuredExplanation": {
-      "summary": "Address large-scale ideas first to avoid polishing deleted text.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Consistent past tense suits events that happened during the same past time frame.",
+      "hint": "Only shift tense when the time frame changes."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +172,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly06-p-008",
     "curriculumCode": "AC9E4LY06",
     "bank": "practice",
-    "skill": "misconception 2 reason",
+    "skill": "Creating Written Texts",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Visuals added after writing without purpose”. Which feedback helps? Task: A student in a workshop claims, “Editing begins before structure is solved”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Visuals added after writing without purpose”. Which feedback helps? Task: A student in a workshop claims, “Editing begins before structure is solved”. Which response gives the most accurate correction?",
-    "visual": "Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 2. Notice: Revise and edit systematically. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 2. Notice: Revise and edit systematically. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-008\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-008",
-      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 2. Notice: Revise and edit systematically. Correct the student's mix-up using the full task."
-    },
+    "question": "Which example should you choose for editing tense in a recount?",
+    "audioPrompt": "Which example should you choose for editing tense in a recount?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Visuals added after writing without purpose”; it uses a detail that sounds familiar.",
-      "Choose “Editing begins before structure is solved” instead; it sounds clearer.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Address large-scale ideas first to avoid polishing deleted text."
+      "We arrived at the campsite, unpack the car and will cook dinner yesterday.",
+      "We arriving at the campsite and cooked tomorrow.",
+      "We arrived at the campsite, unpacked the car and cooked dinner."
     ],
     "correct": 2,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Address large-scale ideas first to avoid polishing deleted text.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Consistent past tense suits events that happened during the same past time frame.\nHint: Only shift tense when the time frame changes.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Address large-scale ideas first to avoid polishing deleted text.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Consistent past tense suits events that happened during the same past time frame.",
+      "hint": "Only shift tense when the time frame changes."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +196,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly06-p-009",
     "curriculumCode": "AC9E4LY06",
     "bank": "practice",
-    "skill": "misconception 3 apply",
+    "skill": "Creating Written Texts",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Visuals added after writing without purpose”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Visuals added after writing without purpose”. Which response gives the most accurate correction?",
-    "visual": "Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 3. Notice: Publish accurate accessible texts. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 3. Notice: Publish accurate accessible texts. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-009",
-      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 3. Notice: Publish accurate accessible texts. Choose the response supported by the example."
-    },
+    "question": "Which example should you choose for replacing vague vocabulary in a science explanation?",
+    "audioPrompt": "Which example should you choose for replacing vague vocabulary in a science explanation?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Plan modes together and connect them.",
-      "Visuals added after writing without purpose",
-      "Complex sentence used only to sound advanced"
+      "The metal expanded when it was heated.",
+      "The metal did something when it got hot.",
+      "The metal became nice."
     ],
     "correct": 0,
-    "explanation": "Plan modes together and connect them.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "Expanded precisely names the change and suits the scientific purpose.\nHint: Choose the most exact word for the meaning.",
     "structuredExplanation": {
-      "summary": "Plan modes together and connect them.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Expanded precisely names the change and suits the scientific purpose.",
+      "hint": "Choose the most exact word for the meaning."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +220,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly06-p-010",
     "curriculumCode": "AC9E4LY06",
     "bank": "practice",
-    "skill": "misconception 3 reason",
+    "skill": "Creating Written Texts",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Visuals added after writing without purpose”. Which feedback helps? Task: A student in a workshop claims, “Visuals added after writing without purpose”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Visuals added after writing without purpose”. Which feedback helps? Task: A student in a workshop claims, “Visuals added after writing without purpose”. Which response gives the most accurate correction?",
-    "visual": "Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 3. Notice: Publish accurate accessible texts. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 3. Notice: Publish accurate accessible texts. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-010",
-      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 3. Notice: Publish accurate accessible texts. Correct the student's mix-up using the full task."
-    },
+    "question": "In replacing vague vocabulary in a science explanation, which option best demonstrates the skill?",
+    "audioPrompt": "In replacing vague vocabulary in a science explanation, which option best demonstrates the skill?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Visuals added after writing without purpose”; it uses a detail that sounds familiar.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Plan modes together and connect them.",
-      "Choose “Complex sentence used only to sound advanced” instead; it sounds clearer."
+      "The metal did something when it got hot.",
+      "The metal expanded when it was heated.",
+      "The metal became nice."
     ],
     "correct": 1,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Plan modes together and connect them.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Expanded precisely names the change and suits the scientific purpose.\nHint: Choose the most exact word for the meaning.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Plan modes together and connect them.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Expanded precisely names the change and suits the scientific purpose.",
+      "hint": "Choose the most exact word for the meaning."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +244,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly06-p-011",
     "curriculumCode": "AC9E4LY06",
     "bank": "practice",
-    "skill": "misconception 4 apply",
+    "skill": "Creating Written Texts",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Complex sentence used only to sound advanced”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Complex sentence used only to sound advanced”. Which response gives the most accurate correction?",
-    "visual": "Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 4. Notice: Plan by purpose/audience. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 4. Notice: Plan by purpose/audience. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-011",
-      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 4. Notice: Plan by purpose/audience. Choose the response supported by the example."
-    },
+    "question": "Why does “Group notes into sections such as habitat, diet and behaviour before drafting.” work well for planning an information report about wombats?",
+    "audioPrompt": "Why does “Group notes into sections such as habitat, diet and behaviour before drafting.” work well for planning an information report about wombats?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Complex sentence used only to sound advanced",
-      "Spell-check assumed complete",
-      "Use clause relationships to express precise meaning."
+      "Because “Write every fact in the order it was found.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct.",
+      "Planning related ideas into sections creates a clear basis for paragraphs."
     ],
     "correct": 2,
-    "explanation": "Use clause relationships to express precise meaning.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "Planning related ideas into sections creates a clear basis for paragraphs.\nHint: Sort ideas by topic before writing full sentences.",
     "structuredExplanation": {
-      "summary": "Use clause relationships to express precise meaning.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Planning related ideas into sections creates a clear basis for paragraphs.",
+      "hint": "Sort ideas by topic before writing full sentences."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +268,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly06-p-012",
     "curriculumCode": "AC9E4LY06",
     "bank": "practice",
-    "skill": "misconception 4 reason",
+    "skill": "Creating Written Texts",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Spell-check assumed complete”. Which feedback helps? Task: A student in a workshop claims, “Complex sentence used only to sound advanced”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Spell-check assumed complete”. Which feedback helps? Task: A student in a workshop claims, “Complex sentence used only to sound advanced”. Which response gives the most accurate correction?",
-    "visual": "Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 4. Notice: Plan by purpose/audience. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 4. Notice: Plan by purpose/audience. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-012\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-012",
-      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 4. Notice: Plan by purpose/audience. Correct the student's mix-up using the full task."
-    },
+    "question": "What makes “Group notes into sections such as habitat, diet and behaviour before drafting.” a better choice in planning an information report about wombats?",
+    "audioPrompt": "What makes “Group notes into sections such as habitat, diet and behaviour before drafting.” a better choice in planning an information report about wombats?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use clause relationships to express precise meaning.",
-      "Keep “Spell-check assumed complete”; it uses a detail that sounds familiar.",
-      "Choose “Complex sentence used only to sound advanced” instead; it sounds clearer."
+      "Planning related ideas into sections creates a clear basis for paragraphs.",
+      "Because “Write every fact in the order it was found.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 0,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use clause relationships to express precise meaning.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Planning related ideas into sections creates a clear basis for paragraphs.\nHint: Sort ideas by topic before writing full sentences.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use clause relationships to express precise meaning.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Planning related ideas into sections creates a clear basis for paragraphs.",
+      "hint": "Sort ideas by topic before writing full sentences."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +292,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly06-p-013",
     "curriculumCode": "AC9E4LY06",
     "bank": "practice",
-    "skill": "misconception 5 apply",
+    "skill": "Creating Written Texts",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Spell-check assumed complete”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Spell-check assumed complete”. Which response gives the most accurate correction?",
-    "visual": "Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 5. Notice: Organise linked ideas. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 5. Notice: Organise linked ideas. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-013",
-      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 5. Notice: Organise linked ideas. Choose the response supported by the example."
-    },
+    "question": "What makes “Start with the main point, add linked examples and use connectives such as for example and therefore where they fit.” a better choice in building a paragraph about water saving?",
+    "audioPrompt": "What makes “Start with the main point, add linked examples and use connectives such as for example and therefore where they fit.” a better choice in building a paragraph about water saving?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Spell-check assumed complete",
-      "Check homophones, names, context and intended words.",
-      "First draft treated as final"
+      "Because “Put one sentence about water between two sentences about football.” is always acceptable in this situation.",
+      "A coherent paragraph keeps one main focus and uses connectives for real relationships.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 1,
-    "explanation": "Check homophones, names, context and intended words.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "A coherent paragraph keeps one main focus and uses connectives for real relationships.\nHint: Check both topic unity and logical links.",
     "structuredExplanation": {
-      "summary": "Check homophones, names, context and intended words.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "A coherent paragraph keeps one main focus and uses connectives for real relationships.",
+      "hint": "Check both topic unity and logical links."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +316,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly06-p-014",
     "curriculumCode": "AC9E4LY06",
     "bank": "practice",
-    "skill": "misconception 5 reason",
+    "skill": "Creating Written Texts",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Spell-check assumed complete”. Which feedback helps? Task: A student in a workshop claims, “Spell-check assumed complete”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Spell-check assumed complete”. Which feedback helps? Task: A student in a workshop claims, “Spell-check assumed complete”. Which response gives the most accurate correction?",
-    "visual": "Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 5. Notice: Organise linked ideas. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 5. Notice: Organise linked ideas. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-014\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-014",
-      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 5. Notice: Organise linked ideas. Correct the student's mix-up using the full task."
-    },
+    "question": "Which explanation best justifies “Start with the main point, add linked examples and use connectives such as for example and therefore where they fit.” for building a paragraph about water saving?",
+    "audioPrompt": "Which explanation best justifies “Start with the main point, add linked examples and use connectives such as for example and therefore where they fit.” for building a paragraph about water saving?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Spell-check assumed complete”; it uses a detail that sounds familiar.",
-      "Choose “First draft treated as final” instead; it sounds clearer.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Check homophones, names, context and intended words."
+      "Because “Put one sentence about water between two sentences about football.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct.",
+      "A coherent paragraph keeps one main focus and uses connectives for real relationships."
     ],
     "correct": 2,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Check homophones, names, context and intended words.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "A coherent paragraph keeps one main focus and uses connectives for real relationships.\nHint: Check both topic unity and logical links.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Check homophones, names, context and intended words.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A coherent paragraph keeps one main focus and uses connectives for real relationships.",
+      "hint": "Check both topic unity and logical links."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +340,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly06-p-015",
     "curriculumCode": "AC9E4LY06",
     "bank": "practice",
-    "skill": "purpose planning board apply",
+    "skill": "Creating Written Texts",
     "printable": true,
     "type": "single",
-    "question": "The class prepares “Purpose planning board”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "The class prepares “Purpose planning board”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Creating Written and Multimodal Texts organiser. Read: Purpose planning board. Notice: Integrate visual features. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Creating Written and Multimodal Texts organiser. Read: Purpose planning board. Notice: Integrate visual features. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-015",
-      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Purpose planning board. Notice: Integrate visual features. Choose the response supported by the example."
-    },
+    "question": "Which explanation best justifies “Because the tank was nearly empty, the family shortened their showers.” for combining ideas into a complex sentence?",
+    "audioPrompt": "Which explanation best justifies “Because the tank was nearly empty, the family shortened their showers.” for combining ideas into a complex sentence?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Plan the same topic for three purposes, changing intended audience response, structure, evidence and visuals.",
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Change the purpose and audience halfway through, then report the first impression only."
+      "The dependent cause clause adds a reason to a complete main clause.",
+      "Because “Because the tank was nearly empty.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 0,
-    "explanation": "Plan the same topic for three purposes, changing intended audience response, structure, evidence and visuals.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "explanation": "The dependent cause clause adds a reason to a complete main clause.\nHint: Check that one clause can stand alone and the other adds a relationship.",
     "structuredExplanation": {
-      "summary": "Plan the same topic for three purposes, changing intended audience response, structure, evidence and visuals.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "The dependent cause clause adds a reason to a complete main clause.",
+      "hint": "Check that one clause can stand alone and the other adds a relationship."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +364,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly06-p-016",
     "curriculumCode": "AC9E4LY06",
     "bank": "practice",
-    "skill": "purpose planning board reason",
+    "skill": "Creating Written Texts",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Purpose planning board”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Purpose planning board”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Creating Written and Multimodal Texts organiser. Read: Purpose planning board. Notice: Integrate visual features. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Creating Written and Multimodal Texts organiser. Read: Purpose planning board. Notice: Integrate visual features. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-016",
-      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Purpose planning board. Notice: Integrate visual features. Correct the student's mix-up using the full task."
-    },
+    "question": "What should you notice about “Because the tank was nearly empty, the family shortened their showers.” in combining ideas into a complex sentence?",
+    "audioPrompt": "What should you notice about “Because the tank was nearly empty, the family shortened their showers.” in combining ideas into a complex sentence?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
-      "Choose the plan that analyses language evidence and produces a reviewable response. Plan the same topic for three purposes, changing intended audience response, structure, evidence and visuals.",
-      "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer."
+      "Because “Because the tank was nearly empty.” is always acceptable in this situation.",
+      "The dependent cause clause adds a reason to a complete main clause.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 1,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. Plan the same topic for three purposes, changing intended audience response, structure, evidence and visuals.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "The dependent cause clause adds a reason to a complete main clause.\nHint: Check that one clause can stand alone and the other adds a relationship.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Plan the same topic for three purposes, changing intended audience response, structure, evidence and visuals.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "The dependent cause clause adds a reason to a complete main clause.",
+      "hint": "Check that one clause can stand alone and the other adds a relationship."
     },
     "qualitySchema": "production-v1"
   },
@@ -468,28 +388,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly06-p-017",
     "curriculumCode": "AC9E4LY06",
     "bank": "practice",
-    "skill": "revision layers apply",
+    "skill": "Creating Written Texts",
     "printable": true,
     "type": "single",
-    "question": "The class prepares “Revision layers”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "The class prepares “Revision layers”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Creating Written and Multimodal Texts organiser. Read: Revision layers. Notice: Revise and edit systematically. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Creating Written and Multimodal Texts organiser. Read: Revision layers. Notice: Revise and edit systematically. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-017",
-      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Revision layers. Notice: Revise and edit systematically. Choose the response supported by the example."
-    },
+    "question": "What should you notice about “We arrived at the campsite, unpacked the car and cooked dinner.” in editing tense in a recount?",
+    "audioPrompt": "What should you notice about “We arrived at the campsite, unpacked the car and cooked dinner.” in editing tense in a recount?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Change the purpose and audience halfway through, then report the first impression only.",
-      "Review one draft first for ideas and structure, then cohesion and sentences, then conventions."
+      "Because “We arrived at the campsite, unpack the car and will cook dinner yesterday.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct.",
+      "Consistent past tense suits events that happened during the same past time frame."
     ],
     "correct": 2,
-    "explanation": "Review one draft first for ideas and structure, then cohesion and sentences, then conventions.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "explanation": "Consistent past tense suits events that happened during the same past time frame.\nHint: Only shift tense when the time frame changes.",
     "structuredExplanation": {
-      "summary": "Review one draft first for ideas and structure, then cohesion and sentences, then conventions.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "Consistent past tense suits events that happened during the same past time frame.",
+      "hint": "Only shift tense when the time frame changes."
     },
     "qualitySchema": "production-v1"
   },
@@ -497,28 +412,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly06-p-018",
     "curriculumCode": "AC9E4LY06",
     "bank": "practice",
-    "skill": "revision layers reason",
+    "skill": "Creating Written Texts",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Revision layers”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Revision layers”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Creating Written and Multimodal Texts organiser. Read: Revision layers. Notice: Revise and edit systematically. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Creating Written and Multimodal Texts organiser. Read: Revision layers. Notice: Revise and edit systematically. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-018\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-018",
-      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Revision layers. Notice: Revise and edit systematically. Correct the student's mix-up using the full task."
-    },
+    "question": "Which reason explains why “We arrived at the campsite, unpacked the car and cooked dinner.” suits editing tense in a recount?",
+    "audioPrompt": "Which reason explains why “We arrived at the campsite, unpacked the car and cooked dinner.” suits editing tense in a recount?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Choose the plan that analyses language evidence and produces a reviewable response. Review one draft first for ideas and structure, then cohesion and sentences, then conventions.",
-      "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
-      "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer."
+      "Consistent past tense suits events that happened during the same past time frame.",
+      "Because “We arrived at the campsite, unpack the car and will cook dinner yesterday.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 0,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. Review one draft first for ideas and structure, then cohesion and sentences, then conventions.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Consistent past tense suits events that happened during the same past time frame.\nHint: Only shift tense when the time frame changes.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Review one draft first for ideas and structure, then cohesion and sentences, then conventions.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Consistent past tense suits events that happened during the same past time frame.",
+      "hint": "Only shift tense when the time frame changes."
     },
     "qualitySchema": "production-v1"
   },
@@ -526,28 +436,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly06-p-019",
     "curriculumCode": "AC9E4LY06",
     "bank": "practice",
-    "skill": "multimodal integration apply",
+    "skill": "Creating Written Texts",
     "printable": true,
     "type": "single",
-    "question": "The class prepares “Multimodal integration”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "The class prepares “Multimodal integration”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Creating Written and Multimodal Texts organiser. Read: Multimodal integration. Notice: Publish accurate accessible texts. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Creating Written and Multimodal Texts organiser. Read: Multimodal integration. Notice: Publish accurate accessible texts. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-019",
-      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Multimodal integration. Notice: Publish accurate accessible texts. Choose the response supported by the example."
-    },
+    "question": "Which reason explains why “The metal expanded when it was heated.” suits replacing vague vocabulary in a science explanation?",
+    "audioPrompt": "Which reason explains why “The metal expanded when it was heated.” suits replacing vague vocabulary in a science explanation?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Check whether each visual adds, explains or organises meaning and whether the written text refers to it appropriately.",
-      "Change the purpose and audience halfway through, then report the first impression only."
+      "Because “The metal did something when it got hot.” is always acceptable in this situation.",
+      "Expanded precisely names the change and suits the scientific purpose.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 1,
-    "explanation": "Check whether each visual adds, explains or organises meaning and whether the written text refers to it appropriately.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "explanation": "Expanded precisely names the change and suits the scientific purpose.\nHint: Choose the most exact word for the meaning.",
     "structuredExplanation": {
-      "summary": "Check whether each visual adds, explains or organises meaning and whether the written text refers to it appropriately.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "Expanded precisely names the change and suits the scientific purpose.",
+      "hint": "Choose the most exact word for the meaning."
     },
     "qualitySchema": "production-v1"
   },
@@ -555,28 +460,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly06-p-020",
     "curriculumCode": "AC9E4LY06",
     "bank": "practice",
-    "skill": "multimodal integration reason",
+    "skill": "Creating Written Texts",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Multimodal integration”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Multimodal integration”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Creating Written and Multimodal Texts organiser. Read: Multimodal integration. Notice: Publish accurate accessible texts. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Creating Written and Multimodal Texts organiser. Read: Multimodal integration. Notice: Publish accurate accessible texts. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-020\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-020",
-      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Multimodal integration. Notice: Publish accurate accessible texts. Correct the student's mix-up using the full task."
-    },
+    "question": "Why does “The metal expanded when it was heated.” work well for replacing vague vocabulary in a science explanation?",
+    "audioPrompt": "Why does “The metal expanded when it was heated.” work well for replacing vague vocabulary in a science explanation?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
-      "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
-      "Choose the plan that analyses language evidence and produces a reviewable response. Check whether each visual adds, explains or organises meaning and whether the written text refers to it appropriately."
+      "Because “The metal did something when it got hot.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct.",
+      "Expanded precisely names the change and suits the scientific purpose."
     ],
     "correct": 2,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. Check whether each visual adds, explains or organises meaning and whether the written text refers to it appropriately.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Expanded precisely names the change and suits the scientific purpose.\nHint: Choose the most exact word for the meaning.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Check whether each visual adds, explains or organises meaning and whether the written text refers to it appropriately.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Expanded precisely names the change and suits the scientific purpose.",
+      "hint": "Choose the most exact word for the meaning."
     },
     "qualitySchema": "production-v1"
   },
@@ -584,28 +484,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly06-p-021",
     "curriculumCode": "AC9E4LY06",
     "bank": "practice",
-    "skill": "vocabulary 1 apply",
+    "skill": "Creating Written Texts",
     "printable": true,
     "type": "single",
-    "question": "A class annotation about Creating Written and Multimodal Texts describes “generating and organising content before or during drafting”. Which term is most precise?",
-    "audioPrompt": "A class annotation about Creating Written and Multimodal Texts describes “generating and organising content before or during drafting”. Which term is most precise?",
-    "visual": "Three-step Creating Written and Multimodal Texts organiser. Read: Vocabulary 1. Notice: Plan by purpose/audience. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Creating Written and Multimodal Texts organiser. Read: Vocabulary 1. Notice: Plan by purpose/audience. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-021\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-021",
-      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Vocabulary 1. Notice: Plan by purpose/audience. Choose the response supported by the example."
-    },
+    "question": "Which revision best fixes the problem in “Write every fact in the order it was found.” for planning an information report about wombats?",
+    "audioPrompt": "Which revision best fixes the problem in “Write every fact in the order it was found.” for planning an information report about wombats?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "planning",
-      "revision",
-      "editing"
+      "Group notes into sections such as habitat, diet and behaviour before drafting.",
+      "Write every fact in the order it was found.",
+      "Start drafting unrelated sentences without deciding the purpose."
     ],
     "correct": 0,
-    "explanation": "planning is the precise term for this feature.\nHint: Match the definition to the exact language or literacy concept.",
+    "explanation": "Planning related ideas into sections creates a clear basis for paragraphs. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Sort ideas by topic before writing full sentences.",
     "structuredExplanation": {
-      "summary": "planning is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
+      "summary": "Planning related ideas into sections creates a clear basis for paragraphs. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Sort ideas by topic before writing full sentences."
     },
     "qualitySchema": "production-v1"
   },
@@ -613,28 +508,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly06-p-022",
     "curriculumCode": "AC9E4LY06",
     "bank": "practice",
-    "skill": "vocabulary 1 reason",
+    "skill": "Creating Written Texts",
     "printable": true,
     "type": "single",
-    "question": "A student answers “revision”. Which feedback helps? Task: A class annotation about Creating Written and Multimodal Texts describes “generating and organising content before or during drafting”. Which term is most precise?",
-    "audioPrompt": "A student answers “revision”. Which feedback helps? Task: A class annotation about Creating Written and Multimodal Texts describes “generating and organising content before or during drafting”. Which term is most precise?",
-    "visual": "Three-step Creating Written and Multimodal Texts organiser. Read: Vocabulary 1. Notice: Plan by purpose/audience. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Creating Written and Multimodal Texts organiser. Read: Vocabulary 1. Notice: Plan by purpose/audience. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-022\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-022",
-      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Vocabulary 1. Notice: Plan by purpose/audience. Correct the student's mix-up using the full task."
-    },
+    "question": "Compare the choices for planning an information report about wombats. Which one avoids the mistake in “Write every fact in the order it was found.”?",
+    "audioPrompt": "Compare the choices for planning an information report about wombats. Which one avoids the mistake in “Write every fact in the order it was found.”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “revision”; it uses a detail that sounds familiar.",
-      "Match the definition to the exact language or literacy concept. planning is the precise term for this feature.",
-      "Choose “editing” instead; it sounds clearer."
+      "Write every fact in the order it was found.",
+      "Group notes into sections such as habitat, diet and behaviour before drafting.",
+      "Start drafting unrelated sentences without deciding the purpose."
     ],
     "correct": 1,
-    "explanation": "Match the definition to the exact language or literacy concept. planning is the precise term for this feature.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Planning related ideas into sections creates a clear basis for paragraphs. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Sort ideas by topic before writing full sentences.",
     "structuredExplanation": {
-      "summary": "Match the definition to the exact language or literacy concept. planning is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Planning related ideas into sections creates a clear basis for paragraphs. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Sort ideas by topic before writing full sentences."
     },
     "qualitySchema": "production-v1"
   },
@@ -642,28 +532,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly06-p-023",
     "curriculumCode": "AC9E4LY06",
     "bank": "practice",
-    "skill": "vocabulary 2 apply",
+    "skill": "Creating Written Texts",
     "printable": true,
     "type": "single",
-    "question": "A class annotation about Creating Written and Multimodal Texts describes “improving meaning, structure and cohesion”. Which term is most precise?",
-    "audioPrompt": "A class annotation about Creating Written and Multimodal Texts describes “improving meaning, structure and cohesion”. Which term is most precise?",
-    "visual": "Three-step Creating Written and Multimodal Texts organiser. Read: Vocabulary 2. Notice: Organise linked ideas. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Creating Written and Multimodal Texts organiser. Read: Vocabulary 2. Notice: Organise linked ideas. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-023\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-023",
-      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Vocabulary 2. Notice: Organise linked ideas. Choose the response supported by the example."
-    },
+    "question": "Compare the choices for building a paragraph about water saving. Which one avoids the mistake in “Put one sentence about water between two sentences about football.”?",
+    "audioPrompt": "Compare the choices for building a paragraph about water saving. Which one avoids the mistake in “Put one sentence about water between two sentences about football.”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "planning",
-      "editing",
-      "revision"
+      "Put one sentence about water between two sentences about football.",
+      "Add however to every sentence whether or not there is a contrast.",
+      "Start with the main point, add linked examples and use connectives such as for example and therefore where they fit."
     ],
     "correct": 2,
-    "explanation": "revision is the precise term for this feature.\nHint: Match the definition to the exact language or literacy concept.",
+    "explanation": "A coherent paragraph keeps one main focus and uses connectives for real relationships. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Check both topic unity and logical links.",
     "structuredExplanation": {
-      "summary": "revision is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
+      "summary": "A coherent paragraph keeps one main focus and uses connectives for real relationships. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Check both topic unity and logical links."
     },
     "qualitySchema": "production-v1"
   },
@@ -671,28 +556,407 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly06-p-024",
     "curriculumCode": "AC9E4LY06",
     "bank": "practice",
-    "skill": "vocabulary 2 reason",
+    "skill": "Creating Written Texts",
     "printable": true,
     "type": "single",
-    "question": "A student answers “editing”. Which feedback helps? Task: A class annotation about Creating Written and Multimodal Texts describes “improving meaning, structure and cohesion”. Which term is most precise?",
-    "audioPrompt": "A student answers “editing”. Which feedback helps? Task: A class annotation about Creating Written and Multimodal Texts describes “improving meaning, structure and cohesion”. Which term is most precise?",
-    "visual": "Three-step Creating Written and Multimodal Texts organiser. Read: Vocabulary 2. Notice: Organise linked ideas. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Creating Written and Multimodal Texts organiser. Read: Vocabulary 2. Notice: Organise linked ideas. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-024\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-024",
-      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Vocabulary 2. Notice: Organise linked ideas. Correct the student's mix-up using the full task."
-    },
+    "question": "If “Put one sentence about water between two sentences about football.” does not work in building a paragraph about water saving, what should replace it?",
+    "audioPrompt": "If “Put one sentence about water between two sentences about football.” does not work in building a paragraph about water saving, what should replace it?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Match the definition to the exact language or literacy concept. revision is the precise term for this feature.",
-      "Keep “editing”; it uses a detail that sounds familiar.",
-      "Choose “planning” instead; it sounds clearer."
+      "Start with the main point, add linked examples and use connectives such as for example and therefore where they fit.",
+      "Put one sentence about water between two sentences about football.",
+      "Add however to every sentence whether or not there is a contrast."
     ],
     "correct": 0,
-    "explanation": "Match the definition to the exact language or literacy concept. revision is the precise term for this feature.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "A coherent paragraph keeps one main focus and uses connectives for real relationships. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Check both topic unity and logical links.",
     "structuredExplanation": {
-      "summary": "Match the definition to the exact language or literacy concept. revision is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A coherent paragraph keeps one main focus and uses connectives for real relationships. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Check both topic unity and logical links."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly06-p-025",
+    "curriculumCode": "AC9E4LY06",
+    "bank": "practice",
+    "skill": "Creating Written Texts",
+    "printable": true,
+    "type": "single",
+    "question": "If “Because the tank was nearly empty.” does not work in combining ideas into a complex sentence, what should replace it?",
+    "audioPrompt": "If “Because the tank was nearly empty.” does not work in combining ideas into a complex sentence, what should replace it?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Because the tank was nearly empty.",
+      "Because the tank was nearly empty, the family shortened their showers.",
+      "The family shortened because tank showers."
+    ],
+    "correct": 1,
+    "explanation": "The dependent cause clause adds a reason to a complete main clause. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Check that one clause can stand alone and the other adds a relationship.",
+    "structuredExplanation": {
+      "summary": "The dependent cause clause adds a reason to a complete main clause. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Check that one clause can stand alone and the other adds a relationship."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly06-p-026",
+    "curriculumCode": "AC9E4LY06",
+    "bank": "practice",
+    "skill": "Creating Written Texts",
+    "printable": true,
+    "type": "single",
+    "question": "Which option corrects the meaning or form needed for combining ideas into a complex sentence?",
+    "audioPrompt": "Which option corrects the meaning or form needed for combining ideas into a complex sentence?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Because the tank was nearly empty.",
+      "The family shortened because tank showers.",
+      "Because the tank was nearly empty, the family shortened their showers."
+    ],
+    "correct": 2,
+    "explanation": "The dependent cause clause adds a reason to a complete main clause. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Check that one clause can stand alone and the other adds a relationship.",
+    "structuredExplanation": {
+      "summary": "The dependent cause clause adds a reason to a complete main clause. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Check that one clause can stand alone and the other adds a relationship."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly06-p-027",
+    "curriculumCode": "AC9E4LY06",
+    "bank": "practice",
+    "skill": "Creating Written Texts",
+    "printable": true,
+    "type": "single",
+    "question": "Which option corrects the meaning or form needed for editing tense in a recount?",
+    "audioPrompt": "Which option corrects the meaning or form needed for editing tense in a recount?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "We arrived at the campsite, unpacked the car and cooked dinner.",
+      "We arrived at the campsite, unpack the car and will cook dinner yesterday.",
+      "We arriving at the campsite and cooked tomorrow."
+    ],
+    "correct": 0,
+    "explanation": "Consistent past tense suits events that happened during the same past time frame. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Only shift tense when the time frame changes.",
+    "structuredExplanation": {
+      "summary": "Consistent past tense suits events that happened during the same past time frame. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Only shift tense when the time frame changes."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly06-p-028",
+    "curriculumCode": "AC9E4LY06",
+    "bank": "practice",
+    "skill": "Creating Written Texts",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is the clearest correction for editing tense in a recount?",
+    "audioPrompt": "Which choice is the clearest correction for editing tense in a recount?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "We arrived at the campsite, unpack the car and will cook dinner yesterday.",
+      "We arrived at the campsite, unpacked the car and cooked dinner.",
+      "We arriving at the campsite and cooked tomorrow."
+    ],
+    "correct": 1,
+    "explanation": "Consistent past tense suits events that happened during the same past time frame. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Only shift tense when the time frame changes.",
+    "structuredExplanation": {
+      "summary": "Consistent past tense suits events that happened during the same past time frame. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Only shift tense when the time frame changes."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly06-p-029",
+    "curriculumCode": "AC9E4LY06",
+    "bank": "practice",
+    "skill": "Creating Written Texts",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is the clearest correction for replacing vague vocabulary in a science explanation?",
+    "audioPrompt": "Which choice is the clearest correction for replacing vague vocabulary in a science explanation?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The metal did something when it got hot.",
+      "The metal became nice.",
+      "The metal expanded when it was heated."
+    ],
+    "correct": 2,
+    "explanation": "Expanded precisely names the change and suits the scientific purpose. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Choose the most exact word for the meaning.",
+    "structuredExplanation": {
+      "summary": "Expanded precisely names the change and suits the scientific purpose. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Choose the most exact word for the meaning."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly06-p-030",
+    "curriculumCode": "AC9E4LY06",
+    "bank": "practice",
+    "skill": "Creating Written Texts",
+    "printable": true,
+    "type": "single",
+    "question": "Which revision best fixes the problem in “The metal did something when it got hot.” for replacing vague vocabulary in a science explanation?",
+    "audioPrompt": "Which revision best fixes the problem in “The metal did something when it got hot.” for replacing vague vocabulary in a science explanation?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The metal expanded when it was heated.",
+      "The metal did something when it got hot.",
+      "The metal became nice."
+    ],
+    "correct": 0,
+    "explanation": "Expanded precisely names the change and suits the scientific purpose. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Choose the most exact word for the meaning.",
+    "structuredExplanation": {
+      "summary": "Expanded precisely names the change and suits the scientific purpose. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Choose the most exact word for the meaning."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly06-p-031",
+    "curriculumCode": "AC9E4LY06",
+    "bank": "practice",
+    "skill": "Creating Written Texts",
+    "printable": true,
+    "type": "single",
+    "question": "You now need to handle planning an information report about wombats independently. Which choice should you use?",
+    "audioPrompt": "You now need to handle planning an information report about wombats independently. Which choice should you use?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Start drafting unrelated sentences without deciding the purpose.",
+      "Group notes into sections such as habitat, diet and behaviour before drafting.",
+      "Write every fact in the order it was found."
+    ],
+    "correct": 1,
+    "explanation": "Planning related ideas into sections creates a clear basis for paragraphs.\nHint: Sort ideas by topic before writing full sentences.",
+    "structuredExplanation": {
+      "summary": "Planning related ideas into sections creates a clear basis for paragraphs.",
+      "hint": "Sort ideas by topic before writing full sentences."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly06-p-032",
+    "curriculumCode": "AC9E4LY06",
+    "bank": "practice",
+    "skill": "Creating Written Texts",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the same idea to planning an information report about wombats. Which option is best?",
+    "audioPrompt": "Apply the same idea to planning an information report about wombats. Which option is best?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Start drafting unrelated sentences without deciding the purpose.",
+      "Write every fact in the order it was found.",
+      "Group notes into sections such as habitat, diet and behaviour before drafting."
+    ],
+    "correct": 2,
+    "explanation": "Planning related ideas into sections creates a clear basis for paragraphs.\nHint: Sort ideas by topic before writing full sentences.",
+    "structuredExplanation": {
+      "summary": "Planning related ideas into sections creates a clear basis for paragraphs.",
+      "hint": "Sort ideas by topic before writing full sentences."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly06-p-033",
+    "curriculumCode": "AC9E4LY06",
+    "bank": "practice",
+    "skill": "Creating Written Texts",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the same idea to building a paragraph about water saving. Which option is best?",
+    "audioPrompt": "Apply the same idea to building a paragraph about water saving. Which option is best?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Start with the main point, add linked examples and use connectives such as for example and therefore where they fit.",
+      "Add however to every sentence whether or not there is a contrast.",
+      "Put one sentence about water between two sentences about football."
+    ],
+    "correct": 0,
+    "explanation": "A coherent paragraph keeps one main focus and uses connectives for real relationships.\nHint: Check both topic unity and logical links.",
+    "structuredExplanation": {
+      "summary": "A coherent paragraph keeps one main focus and uses connectives for real relationships.",
+      "hint": "Check both topic unity and logical links."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly06-p-034",
+    "curriculumCode": "AC9E4LY06",
+    "bank": "practice",
+    "skill": "Creating Written Texts",
+    "printable": true,
+    "type": "single",
+    "question": "Which decision would produce the clearest result in building a paragraph about water saving?",
+    "audioPrompt": "Which decision would produce the clearest result in building a paragraph about water saving?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Add however to every sentence whether or not there is a contrast.",
+      "Start with the main point, add linked examples and use connectives such as for example and therefore where they fit.",
+      "Put one sentence about water between two sentences about football."
+    ],
+    "correct": 1,
+    "explanation": "A coherent paragraph keeps one main focus and uses connectives for real relationships.\nHint: Check both topic unity and logical links.",
+    "structuredExplanation": {
+      "summary": "A coherent paragraph keeps one main focus and uses connectives for real relationships.",
+      "hint": "Check both topic unity and logical links."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly06-p-035",
+    "curriculumCode": "AC9E4LY06",
+    "bank": "practice",
+    "skill": "Creating Written Texts",
+    "printable": true,
+    "type": "single",
+    "question": "Which decision would produce the clearest result in combining ideas into a complex sentence?",
+    "audioPrompt": "Which decision would produce the clearest result in combining ideas into a complex sentence?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The family shortened because tank showers.",
+      "Because the tank was nearly empty.",
+      "Because the tank was nearly empty, the family shortened their showers."
+    ],
+    "correct": 2,
+    "explanation": "The dependent cause clause adds a reason to a complete main clause.\nHint: Check that one clause can stand alone and the other adds a relationship.",
+    "structuredExplanation": {
+      "summary": "The dependent cause clause adds a reason to a complete main clause.",
+      "hint": "Check that one clause can stand alone and the other adds a relationship."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly06-p-036",
+    "curriculumCode": "AC9E4LY06",
+    "bank": "practice",
+    "skill": "Creating Written Texts",
+    "printable": true,
+    "type": "single",
+    "question": "Choose the option that applies the skill correctly in combining ideas into a complex sentence.",
+    "audioPrompt": "Choose the option that applies the skill correctly in combining ideas into a complex sentence.",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Because the tank was nearly empty, the family shortened their showers.",
+      "The family shortened because tank showers.",
+      "Because the tank was nearly empty."
+    ],
+    "correct": 0,
+    "explanation": "The dependent cause clause adds a reason to a complete main clause.\nHint: Check that one clause can stand alone and the other adds a relationship.",
+    "structuredExplanation": {
+      "summary": "The dependent cause clause adds a reason to a complete main clause.",
+      "hint": "Check that one clause can stand alone and the other adds a relationship."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly06-p-037",
+    "curriculumCode": "AC9E4LY06",
+    "bank": "practice",
+    "skill": "Creating Written Texts",
+    "printable": true,
+    "type": "single",
+    "question": "Choose the option that applies the skill correctly in editing tense in a recount.",
+    "audioPrompt": "Choose the option that applies the skill correctly in editing tense in a recount.",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "We arriving at the campsite and cooked tomorrow.",
+      "We arrived at the campsite, unpacked the car and cooked dinner.",
+      "We arrived at the campsite, unpack the car and will cook dinner yesterday."
+    ],
+    "correct": 1,
+    "explanation": "Consistent past tense suits events that happened during the same past time frame.\nHint: Only shift tense when the time frame changes.",
+    "structuredExplanation": {
+      "summary": "Consistent past tense suits events that happened during the same past time frame.",
+      "hint": "Only shift tense when the time frame changes."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly06-p-038",
+    "curriculumCode": "AC9E4LY06",
+    "bank": "practice",
+    "skill": "Creating Written Texts",
+    "printable": true,
+    "type": "single",
+    "question": "What would be the most effective choice for editing tense in a recount?",
+    "audioPrompt": "What would be the most effective choice for editing tense in a recount?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "We arriving at the campsite and cooked tomorrow.",
+      "We arrived at the campsite, unpack the car and will cook dinner yesterday.",
+      "We arrived at the campsite, unpacked the car and cooked dinner."
+    ],
+    "correct": 2,
+    "explanation": "Consistent past tense suits events that happened during the same past time frame.\nHint: Only shift tense when the time frame changes.",
+    "structuredExplanation": {
+      "summary": "Consistent past tense suits events that happened during the same past time frame.",
+      "hint": "Only shift tense when the time frame changes."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly06-p-039",
+    "curriculumCode": "AC9E4LY06",
+    "bank": "practice",
+    "skill": "Creating Written Texts",
+    "printable": true,
+    "type": "single",
+    "question": "What would be the most effective choice for replacing vague vocabulary in a science explanation?",
+    "audioPrompt": "What would be the most effective choice for replacing vague vocabulary in a science explanation?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The metal expanded when it was heated.",
+      "The metal became nice.",
+      "The metal did something when it got hot."
+    ],
+    "correct": 0,
+    "explanation": "Expanded precisely names the change and suits the scientific purpose.\nHint: Choose the most exact word for the meaning.",
+    "structuredExplanation": {
+      "summary": "Expanded precisely names the change and suits the scientific purpose.",
+      "hint": "Choose the most exact word for the meaning."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly06-p-040",
+    "curriculumCode": "AC9E4LY06",
+    "bank": "practice",
+    "skill": "Creating Written Texts",
+    "printable": true,
+    "type": "single",
+    "question": "You now need to handle replacing vague vocabulary in a science explanation independently. Which choice should you use?",
+    "audioPrompt": "You now need to handle replacing vague vocabulary in a science explanation independently. Which choice should you use?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The metal became nice.",
+      "The metal expanded when it was heated.",
+      "The metal did something when it got hot."
+    ],
+    "correct": 1,
+    "explanation": "Expanded precisely names the change and suits the scientific purpose.\nHint: Choose the most exact word for the meaning.",
+    "structuredExplanation": {
+      "summary": "Expanded precisely names the change and suits the scientific purpose.",
+      "hint": "Choose the most exact word for the meaning."
     },
     "qualitySchema": "production-v1"
   }

@@ -5,36 +5,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "skill": "worked_text_1_apply",
-    "question": "Read the classroom example. Which sentence is most objective?",
-    "audio_prompt": "Read the classroom example. Which sentence is most objective?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-p-001",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Worked text 1. Notice: Distinguish subjective/objective wording. Choose the response supported by the example."
-    },
+    "stage": "recognise",
+    "skill": "Subjective and Objective Language",
+    "question": "In reporting the result of a class plant investigation, which option best demonstrates the skill?",
+    "audio_prompt": "In reporting the result of a class plant investigation, which option best demonstrates the skill?",
     "answers": [
       {
-        "text": "The magnificent exhibition is unmissable",
+        "text": "The bean plant grew amazingly fast.",
         "is_correct": false
       },
       {
-        "text": "The exhibition opens at 9:00 am and contains 24 displays",
+        "text": "The bean plant grew 6 centimetres in seven days.",
         "is_correct": true
       },
       {
-        "text": "The displays are incredibly boring",
+        "text": "I loved how tall the bean plant became.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The evidence and language purpose support “The exhibition opens at 9:00 am and contains 24 displays”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "The sentence gives a measurable observation rather than a judgement or feeling.",
+      "hint": "Look for information that could be checked or measured."
+    }
   },
   {
     "id": "AC9E4LA02-P-002",
@@ -42,36 +35,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "skill": "worked_text_1_reason",
-    "question": "A student answers “The magnificent exhibition is unmissable”. Which feedback helps? Task: Read the classroom example. Which sentence is most objective?",
-    "audio_prompt": "A student answers “The magnificent exhibition is unmissable”. Which feedback helps? Task: Read the classroom example. Which sentence is most objective?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-p-002",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Worked text 1. Notice: Distinguish subjective/objective wording. Correct the student's mix-up using the full task."
-    },
+    "stage": "recognise",
+    "skill": "Subjective and Objective Language",
+    "question": "Which choice fits reporting the result of a class plant investigation most accurately?",
+    "audio_prompt": "Which choice fits reporting the result of a class plant investigation most accurately?",
     "answers": [
       {
-        "text": "Keep “The magnificent exhibition is unmissable”; it uses a detail that sounds familiar.",
+        "text": "The bean plant grew amazingly fast.",
         "is_correct": false
       },
       {
-        "text": "Choose “The displays are incredibly boring” instead; it sounds clearer.",
+        "text": "I loved how tall the bean plant became.",
         "is_correct": false
       },
       {
-        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “The exhibition opens at 9:00 am and contains 24 displays”.",
+        "text": "The bean plant grew 6 centimetres in seven days.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “The exhibition opens at 9:00 am and contains 24 displays”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "The sentence gives a measurable observation rather than a judgement or feeling.",
+      "hint": "Look for information that could be checked or measured."
+    }
   },
   {
     "id": "AC9E4LA02-P-003",
@@ -79,36 +65,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "skill": "worked_text_2_apply",
-    "question": "Read the classroom example. Which phrase is an evaluation rather than a measurable fact?",
-    "audio_prompt": "Read the classroom example. Which phrase is an evaluation rather than a measurable fact?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-p-003",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Worked text 2. Notice: Identify evaluation and emotion. Choose the response supported by the example."
-    },
+    "stage": "recognise",
+    "skill": "Subjective and Objective Language",
+    "question": "Which choice fits reviewing a new playground most accurately?",
+    "audio_prompt": "Which choice fits reviewing a new playground most accurately?",
     "answers": [
       {
-        "text": "a remarkably effective design",
+        "text": "The new climbing frame is exciting and much better than the old one.",
         "is_correct": true
       },
       {
-        "text": "weighs 2.4 kg",
+        "text": "The climbing frame is 2.4 metres high.",
         "is_correct": false
       },
       {
-        "text": "is 30 cm long",
+        "text": "The playground opened on Monday.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The evidence and language purpose support “a remarkably effective design”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Words such as exciting and better express a personal judgement.",
+      "hint": "Opinion words reveal what someone thinks or feels."
+    }
   },
   {
     "id": "AC9E4LA02-P-004",
@@ -116,36 +95,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "skill": "worked_text_2_reason",
-    "question": "A student answers “is 30 cm long”. Which feedback helps? Task: Read the classroom example. Which phrase is an evaluation rather than a measurable fact?",
-    "audio_prompt": "A student answers “is 30 cm long”. Which feedback helps? Task: Read the classroom example. Which phrase is an evaluation rather than a measurable fact?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-p-004",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Worked text 2. Notice: Identify evaluation and emotion. Correct the student's mix-up using the full task."
-    },
+    "stage": "recognise",
+    "skill": "Subjective and Objective Language",
+    "question": "Look closely at reviewing a new playground. Which response or wording works best?",
+    "audio_prompt": "Look closely at reviewing a new playground. Which response or wording works best?",
     "answers": [
       {
-        "text": "Keep “is 30 cm long”; it uses a detail that sounds familiar.",
+        "text": "The climbing frame is 2.4 metres high.",
         "is_correct": false
       },
       {
-        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “a remarkably effective design”.",
+        "text": "The new climbing frame is exciting and much better than the old one.",
         "is_correct": true
       },
       {
-        "text": "Choose “weighs 2.4 kg” instead; it sounds clearer.",
+        "text": "The playground opened on Monday.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “a remarkably effective design”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Words such as exciting and better express a personal judgement.",
+      "hint": "Opinion words reveal what someone thinks or feels."
+    }
   },
   {
     "id": "AC9E4LA02-P-005",
@@ -153,36 +125,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "skill": "misconception_1_apply",
-    "question": "A student in a workshop claims, “Objective means completely unbiased”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student in a workshop claims, “Objective means completely unbiased”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-p-005",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Misconception 1. Notice: Check verifiability. Choose the response supported by the example."
-    },
+    "stage": "recognise",
+    "skill": "Subjective and Objective Language",
+    "question": "Look closely at describing a local weather reading. Which response or wording works best?",
+    "audio_prompt": "Look closely at describing a local weather reading. Which response or wording works best?",
     "answers": [
       {
-        "text": "Objective means completely unbiased",
+        "text": "The afternoon was horribly cold.",
         "is_correct": false
       },
       {
-        "text": "Any adjective is subjective",
+        "text": "It felt like the worst weather all week.",
         "is_correct": false
       },
       {
-        "text": "Selection and framing can still influence reporting; inspect evidence and sources.",
+        "text": "At 3 pm the temperature was 19°C.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Selection and framing can still influence reporting; inspect evidence and sources.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "A temperature reading is observable data, unlike an emotional judgement.",
+      "hint": "Ask whether another observer could verify the same fact."
+    }
   },
   {
     "id": "AC9E4LA02-P-006",
@@ -190,36 +155,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "skill": "misconception_1_reason",
-    "question": "A student answers “Objective means completely unbiased”. Which feedback helps? Task: A student in a workshop claims, “Objective means completely unbiased”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Objective means completely unbiased”. Which feedback helps? Task: A student in a workshop claims, “Objective means completely unbiased”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-p-006",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Misconception 1. Notice: Check verifiability. Correct the student's mix-up using the full task."
-    },
+    "stage": "recognise",
+    "skill": "Subjective and Objective Language",
+    "question": "For describing a local weather reading, which option is the strongest match?",
+    "audio_prompt": "For describing a local weather reading, which option is the strongest match?",
     "answers": [
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Selection and framing can still influence reporting; inspect evidence and sources.",
+        "text": "At 3 pm the temperature was 19°C.",
         "is_correct": true
       },
       {
-        "text": "Keep “Objective means completely unbiased”; it uses a detail that sounds familiar.",
+        "text": "The afternoon was horribly cold.",
         "is_correct": false
       },
       {
-        "text": "Choose “Any adjective is subjective” instead; it sounds clearer.",
+        "text": "It felt like the worst weather all week.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Selection and framing can still influence reporting; inspect evidence and sources.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "A temperature reading is observable data, unlike an emotional judgement.",
+      "hint": "Ask whether another observer could verify the same fact."
+    }
   },
   {
     "id": "AC9E4LA02-P-007",
@@ -227,36 +185,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "skill": "misconception_2_apply",
-    "question": "A student in a workshop claims, “Any adjective is subjective”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student in a workshop claims, “Any adjective is subjective”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-p-007",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Misconception 2. Notice: Use attribution. Choose the response supported by the example."
-    },
+    "stage": "recognise",
+    "skill": "Subjective and Objective Language",
+    "question": "For writing about a school concert, which option is the strongest match?",
+    "audio_prompt": "For writing about a school concert, which option is the strongest match?",
     "answers": [
       {
-        "text": "Any adjective is subjective",
+        "text": "The choir sang three songs.",
         "is_correct": false
       },
       {
-        "text": "Some adjectives report observable properties, such as wooden or rectangular.",
+        "text": "In my view, the choir gave the most moving performance.",
         "is_correct": true
       },
       {
-        "text": "Opinion needs no evidence",
+        "text": "The concert began at 6:30 pm.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Some adjectives report observable properties, such as wooden or rectangular.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "The phrase in my view signals that the statement is an opinion.",
+      "hint": "Notice phrases that openly show a viewpoint."
+    }
   },
   {
     "id": "AC9E4LA02-P-008",
@@ -264,36 +215,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "skill": "misconception_2_reason",
-    "question": "A student answers “Opinion needs no evidence”. Which feedback helps? Task: A student in a workshop claims, “Any adjective is subjective”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Opinion needs no evidence”. Which feedback helps? Task: A student in a workshop claims, “Any adjective is subjective”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-p-008",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Misconception 2. Notice: Use attribution. Correct the student's mix-up using the full task."
-    },
+    "stage": "recognise",
+    "skill": "Subjective and Objective Language",
+    "question": "Which example should you choose for writing about a school concert?",
+    "audio_prompt": "Which example should you choose for writing about a school concert?",
     "answers": [
       {
-        "text": "Keep “Opinion needs no evidence”; it uses a detail that sounds familiar.",
+        "text": "The choir sang three songs.",
         "is_correct": false
       },
       {
-        "text": "Choose “Any adjective is subjective” instead; it sounds clearer.",
+        "text": "The concert began at 6:30 pm.",
         "is_correct": false
       },
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Some adjectives report observable properties, such as wooden or rectangular.",
+        "text": "In my view, the choir gave the most moving performance.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Some adjectives report observable properties, such as wooden or rectangular.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "The phrase in my view signals that the statement is an opinion.",
+      "hint": "Notice phrases that openly show a viewpoint."
+    }
   },
   {
     "id": "AC9E4LA02-P-009",
@@ -301,35 +245,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "skill": "misconception_3_apply",
-    "question": "A student in a workshop claims, “Opinion needs no evidence”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student in a workshop claims, “Opinion needs no evidence”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-p-009",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Misconception 3. Notice: Adapt language for purpose. Choose the response supported by the example."
-    },
+    "stage": "recognise",
+    "skill": "Subjective and Objective Language",
+    "question": "Which example should you choose for summarising a council notice about water restrictions?",
+    "audio_prompt": "Which example should you choose for summarising a council notice about water restrictions?",
     "answers": [
       {
-        "text": "A convincing evaluation explains criteria and examples.",
+        "text": "The notice says garden sprinklers may be used before 10 am.",
         "is_correct": true
       },
       {
-        "text": "Opinion needs no evidence",
+        "text": "The council has made a ridiculous rule.",
         "is_correct": false
       },
       {
-        "text": "Quoted opinion becomes fact",
+        "text": "Everyone will hate these restrictions.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A convincing evaluation explains criteria and examples.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The sentence reports what the notice states without adding a judgement.",
+      "hint": "Separate what the source says from how someone feels about it."
+    }
   },
   {
     "id": "AC9E4LA02-P-010",
@@ -337,35 +275,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "skill": "misconception_3_reason",
-    "question": "A student answers “Opinion needs no evidence”. Which feedback helps? Task: A student in a workshop claims, “Opinion needs no evidence”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Opinion needs no evidence”. Which feedback helps? Task: A student in a workshop claims, “Opinion needs no evidence”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-p-010",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Misconception 3. Notice: Adapt language for purpose. Correct the student's mix-up using the full task."
-    },
+    "stage": "recognise",
+    "skill": "Subjective and Objective Language",
+    "question": "In summarising a council notice about water restrictions, which option best demonstrates the skill?",
+    "audio_prompt": "In summarising a council notice about water restrictions, which option best demonstrates the skill?",
     "answers": [
       {
-        "text": "Keep “Opinion needs no evidence”; it uses a detail that sounds familiar.",
+        "text": "The council has made a ridiculous rule.",
         "is_correct": false
       },
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. A convincing evaluation explains criteria and examples.",
+        "text": "The notice says garden sprinklers may be used before 10 am.",
         "is_correct": true
       },
       {
-        "text": "Choose “Quoted opinion becomes fact” instead; it sounds clearer.",
+        "text": "Everyone will hate these restrictions.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. A convincing evaluation explains criteria and examples.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The sentence reports what the notice states without adding a judgement.",
+      "hint": "Separate what the source says from how someone feels about it."
+    }
   },
   {
     "id": "AC9E4LA02-P-011",
@@ -373,35 +305,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "skill": "misconception_4_apply",
-    "question": "A student in a workshop claims, “Quoted opinion becomes fact”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student in a workshop claims, “Quoted opinion becomes fact”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-p-011",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Misconception 4. Notice: Distinguish subjective/objective wording. Choose the response supported by the example."
-    },
+    "stage": "explain",
+    "skill": "Subjective and Objective Language",
+    "question": "Why does “The bean plant grew 6 centimetres in seven days.” work well for reporting the result of a class plant investigation?",
+    "audio_prompt": "Why does “The bean plant grew 6 centimetres in seven days.” work well for reporting the result of a class plant investigation?",
     "answers": [
       {
-        "text": "Quoted opinion becomes fact",
+        "text": "Because “The bean plant grew amazingly fast.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Objective means completely unbiased",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       },
       {
-        "text": "Attribution identifies the speaker but does not verify the claim.",
+        "text": "The sentence gives a measurable observation rather than a judgement or feeling.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Attribution identifies the speaker but does not verify the claim.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The sentence gives a measurable observation rather than a judgement or feeling.",
+      "hint": "Look for information that could be checked or measured."
+    }
   },
   {
     "id": "AC9E4LA02-P-012",
@@ -409,35 +335,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "skill": "misconception_4_reason",
-    "question": "A student answers “Objective means completely unbiased”. Which feedback helps? Task: A student in a workshop claims, “Quoted opinion becomes fact”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Objective means completely unbiased”. Which feedback helps? Task: A student in a workshop claims, “Quoted opinion becomes fact”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-p-012",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Misconception 4. Notice: Distinguish subjective/objective wording. Correct the student's mix-up using the full task."
-    },
+    "stage": "explain",
+    "skill": "Subjective and Objective Language",
+    "question": "What makes “The bean plant grew 6 centimetres in seven days.” a better choice in reporting the result of a class plant investigation?",
+    "audio_prompt": "What makes “The bean plant grew 6 centimetres in seven days.” a better choice in reporting the result of a class plant investigation?",
     "answers": [
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Attribution identifies the speaker but does not verify the claim.",
+        "text": "The sentence gives a measurable observation rather than a judgement or feeling.",
         "is_correct": true
       },
       {
-        "text": "Keep “Objective means completely unbiased”; it uses a detail that sounds familiar.",
+        "text": "Because “The bean plant grew amazingly fast.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Choose “Quoted opinion becomes fact” instead; it sounds clearer.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Attribution identifies the speaker but does not verify the claim.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The sentence gives a measurable observation rather than a judgement or feeling.",
+      "hint": "Look for information that could be checked or measured."
+    }
   },
   {
     "id": "AC9E4LA02-P-013",
@@ -445,35 +365,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "skill": "language_highlighter_apply",
-    "question": "The class prepares “Language highlighter”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "The class prepares “Language highlighter”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-p-013",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Language highlighter. Notice: Identify evaluation and emotion. Choose the response supported by the example."
-    },
+    "stage": "explain",
+    "skill": "Subjective and Objective Language",
+    "question": "What makes “The new climbing frame is exciting and much better than the old one.” a better choice in reviewing a new playground?",
+    "audio_prompt": "What makes “The new climbing frame is exciting and much better than the old one.” a better choice in reviewing a new playground?",
     "answers": [
       {
-        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "text": "Because “The climbing frame is 2.4 metres high.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Mark factual, evaluative and emotional words in short reports, reviews and advertisements.",
+        "text": "Words such as exciting and better express a personal judgement.",
         "is_correct": true
       },
       {
-        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Mark factual, evaluative and emotional words in short reports, reviews and advertisements.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Words such as exciting and better express a personal judgement.",
+      "hint": "Opinion words reveal what someone thinks or feels."
+    }
   },
   {
     "id": "AC9E4LA02-P-014",
@@ -481,35 +395,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "skill": "language_highlighter_reason",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Language highlighter”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Language highlighter”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-p-014",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Language highlighter. Notice: Identify evaluation and emotion. Correct the student's mix-up using the full task."
-    },
+    "stage": "explain",
+    "skill": "Subjective and Objective Language",
+    "question": "Which explanation best justifies “The new climbing frame is exciting and much better than the old one.” for reviewing a new playground?",
+    "audio_prompt": "Which explanation best justifies “The new climbing frame is exciting and much better than the old one.” for reviewing a new playground?",
     "answers": [
       {
-        "text": "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
+        "text": "Because “The climbing frame is 2.4 metres high.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       },
       {
-        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Mark factual, evaluative and emotional words in short reports, reviews and advertisements.",
+        "text": "Words such as exciting and better express a personal judgement.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Mark factual, evaluative and emotional words in short reports, reviews and advertisements.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Words such as exciting and better express a personal judgement.",
+      "hint": "Opinion words reveal what someone thinks or feels."
+    }
   },
   {
     "id": "AC9E4LA02-P-015",
@@ -517,35 +425,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "skill": "neutralise_and_intensify_apply",
-    "question": "The class prepares “Neutralise and intensify”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "The class prepares “Neutralise and intensify”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-p-015",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Neutralise and intensify. Notice: Check verifiability. Choose the response supported by the example."
-    },
+    "stage": "explain",
+    "skill": "Subjective and Objective Language",
+    "question": "Which explanation best justifies “At 3 pm the temperature was 19°C.” for describing a local weather reading?",
+    "audio_prompt": "Which explanation best justifies “At 3 pm the temperature was 19°C.” for describing a local weather reading?",
     "answers": [
       {
-        "text": "Rewrite one subjective sentence objectively, then make one neutral sentence more evaluative for a review.",
+        "text": "A temperature reading is observable data, unlike an emotional judgement.",
         "is_correct": true
       },
       {
-        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "text": "Because “The afternoon was horribly cold.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Rewrite one subjective sentence objectively, then make one neutral sentence more evaluative for a review.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "A temperature reading is observable data, unlike an emotional judgement.",
+      "hint": "Ask whether another observer could verify the same fact."
+    }
   },
   {
     "id": "AC9E4LA02-P-016",
@@ -553,35 +455,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "skill": "neutralise_and_intensify_reason",
-    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Neutralise and intensify”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Neutralise and intensify”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-p-016",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Neutralise and intensify. Notice: Check verifiability. Correct the student's mix-up using the full task."
-    },
+    "stage": "explain",
+    "skill": "Subjective and Objective Language",
+    "question": "What should you notice about “At 3 pm the temperature was 19°C.” in describing a local weather reading?",
+    "audio_prompt": "What should you notice about “At 3 pm the temperature was 19°C.” in describing a local weather reading?",
     "answers": [
       {
-        "text": "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
+        "text": "Because “The afternoon was horribly cold.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Rewrite one subjective sentence objectively, then make one neutral sentence more evaluative for a review.",
+        "text": "A temperature reading is observable data, unlike an emotional judgement.",
         "is_correct": true
       },
       {
-        "text": "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Rewrite one subjective sentence objectively, then make one neutral sentence more evaluative for a review.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "A temperature reading is observable data, unlike an emotional judgement.",
+      "hint": "Ask whether another observer could verify the same fact."
+    }
   },
   {
     "id": "AC9E4LA02-P-017",
@@ -589,35 +485,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "skill": "claim_check_apply",
-    "question": "The class prepares “Claim check”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "The class prepares “Claim check”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-p-017",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Claim check. Notice: Use attribution. Choose the response supported by the example."
-    },
+    "stage": "explain",
+    "skill": "Subjective and Objective Language",
+    "question": "What should you notice about “In my view, the choir gave the most moving performance.” in writing about a school concert?",
+    "audio_prompt": "What should you notice about “In my view, the choir gave the most moving performance.” in writing about a school concert?",
     "answers": [
       {
-        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "text": "Because “The choir sang three songs.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       },
       {
-        "text": "Sort claims by whether they are verifiable, attributed opinion or unsupported assertion.",
+        "text": "The phrase in my view signals that the statement is an opinion.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Sort claims by whether they are verifiable, attributed opinion or unsupported assertion.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The phrase in my view signals that the statement is an opinion.",
+      "hint": "Notice phrases that openly show a viewpoint."
+    }
   },
   {
     "id": "AC9E4LA02-P-018",
@@ -625,35 +515,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "skill": "claim_check_reason",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Claim check”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Claim check”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-p-018",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Claim check. Notice: Use attribution. Correct the student's mix-up using the full task."
-    },
+    "stage": "explain",
+    "skill": "Subjective and Objective Language",
+    "question": "Which reason explains why “In my view, the choir gave the most moving performance.” suits writing about a school concert?",
+    "audio_prompt": "Which reason explains why “In my view, the choir gave the most moving performance.” suits writing about a school concert?",
     "answers": [
       {
-        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Sort claims by whether they are verifiable, attributed opinion or unsupported assertion.",
+        "text": "The phrase in my view signals that the statement is an opinion.",
         "is_correct": true
       },
       {
-        "text": "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
+        "text": "Because “The choir sang three songs.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Sort claims by whether they are verifiable, attributed opinion or unsupported assertion.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The phrase in my view signals that the statement is an opinion.",
+      "hint": "Notice phrases that openly show a viewpoint."
+    }
   },
   {
     "id": "AC9E4LA02-P-019",
@@ -661,35 +545,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "skill": "vocabulary_1_apply",
-    "question": "A class annotation about Subjective and Objective Language describes “wording shaped by personal opinion, feeling or evaluation”. Which term is most precise?",
-    "audio_prompt": "A class annotation about Subjective and Objective Language describes “wording shaped by personal opinion, feeling or evaluation”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-p-019",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Vocabulary 1. Notice: Adapt language for purpose. Choose the response supported by the example."
-    },
+    "stage": "explain",
+    "skill": "Subjective and Objective Language",
+    "question": "Which reason explains why “The notice says garden sprinklers may be used before 10 am.” suits summarising a council notice about water restrictions?",
+    "audio_prompt": "Which reason explains why “The notice says garden sprinklers may be used before 10 am.” suits summarising a council notice about water restrictions?",
     "answers": [
       {
-        "text": "objective language",
+        "text": "Because “The council has made a ridiculous rule.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "subjective language",
+        "text": "The sentence reports what the notice states without adding a judgement.",
         "is_correct": true
       },
       {
-        "text": "evaluation",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "subjective language is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The sentence reports what the notice states without adding a judgement.",
+      "hint": "Separate what the source says from how someone feels about it."
+    }
   },
   {
     "id": "AC9E4LA02-P-020",
@@ -697,35 +575,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "skill": "vocabulary_1_reason",
-    "question": "A student answers “evaluation”. Which feedback helps? Task: A class annotation about Subjective and Objective Language describes “wording shaped by personal opinion, feeling or evaluation”. Which term is most precise?",
-    "audio_prompt": "A student answers “evaluation”. Which feedback helps? Task: A class annotation about Subjective and Objective Language describes “wording shaped by personal opinion, feeling or evaluation”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-p-020",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Vocabulary 1. Notice: Adapt language for purpose. Correct the student's mix-up using the full task."
-    },
+    "stage": "explain",
+    "skill": "Subjective and Objective Language",
+    "question": "Why does “The notice says garden sprinklers may be used before 10 am.” work well for summarising a council notice about water restrictions?",
+    "audio_prompt": "Why does “The notice says garden sprinklers may be used before 10 am.” work well for summarising a council notice about water restrictions?",
     "answers": [
       {
-        "text": "Keep “evaluation”; it uses a detail that sounds familiar.",
+        "text": "Because “The council has made a ridiculous rule.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Choose “objective language” instead; it sounds clearer.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       },
       {
-        "text": "Match the definition to the exact language or literacy concept. subjective language is the precise term for this feature.",
+        "text": "The sentence reports what the notice states without adding a judgement.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Match the definition to the exact language or literacy concept. subjective language is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The sentence reports what the notice states without adding a judgement.",
+      "hint": "Separate what the source says from how someone feels about it."
+    }
   },
   {
     "id": "AC9E4LA02-P-021",
@@ -733,35 +605,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "skill": "vocabulary_2_apply",
-    "question": "A class annotation about Subjective and Objective Language describes “wording focused on verifiable facts and observations”. Which term is most precise?",
-    "audio_prompt": "A class annotation about Subjective and Objective Language describes “wording focused on verifiable facts and observations”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-p-021",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Vocabulary 2. Notice: Distinguish subjective/objective wording. Choose the response supported by the example."
-    },
+    "stage": "discriminate",
+    "skill": "Subjective and Objective Language",
+    "question": "Which revision best fixes the problem in “The bean plant grew amazingly fast.” for reporting the result of a class plant investigation?",
+    "audio_prompt": "Which revision best fixes the problem in “The bean plant grew amazingly fast.” for reporting the result of a class plant investigation?",
     "answers": [
       {
-        "text": "objective language",
+        "text": "The bean plant grew 6 centimetres in seven days.",
         "is_correct": true
       },
       {
-        "text": "subjective language",
+        "text": "The bean plant grew amazingly fast.",
         "is_correct": false
       },
       {
-        "text": "evaluation",
+        "text": "I loved how tall the bean plant became.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "objective language is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The sentence gives a measurable observation rather than a judgement or feeling. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Look for information that could be checked or measured."
+    }
   },
   {
     "id": "AC9E4LA02-P-022",
@@ -769,35 +635,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "skill": "vocabulary_2_reason",
-    "question": "A student answers “subjective language”. Which feedback helps? Task: A class annotation about Subjective and Objective Language describes “wording focused on verifiable facts and observations”. Which term is most precise?",
-    "audio_prompt": "A student answers “subjective language”. Which feedback helps? Task: A class annotation about Subjective and Objective Language describes “wording focused on verifiable facts and observations”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-p-022",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Vocabulary 2. Notice: Distinguish subjective/objective wording. Correct the student's mix-up using the full task."
-    },
+    "stage": "discriminate",
+    "skill": "Subjective and Objective Language",
+    "question": "Compare the choices for reporting the result of a class plant investigation. Which one avoids the mistake in “The bean plant grew amazingly fast.”?",
+    "audio_prompt": "Compare the choices for reporting the result of a class plant investigation. Which one avoids the mistake in “The bean plant grew amazingly fast.”?",
     "answers": [
       {
-        "text": "Keep “subjective language”; it uses a detail that sounds familiar.",
+        "text": "The bean plant grew amazingly fast.",
         "is_correct": false
       },
       {
-        "text": "Match the definition to the exact language or literacy concept. objective language is the precise term for this feature.",
+        "text": "The bean plant grew 6 centimetres in seven days.",
         "is_correct": true
       },
       {
-        "text": "Choose “evaluation” instead; it sounds clearer.",
+        "text": "I loved how tall the bean plant became.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Match the definition to the exact language or literacy concept. objective language is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The sentence gives a measurable observation rather than a judgement or feeling. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Look for information that could be checked or measured."
+    }
   },
   {
     "id": "AC9E4LA02-P-023",
@@ -805,35 +665,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "skill": "vocabulary_3_apply",
-    "question": "A class annotation about Subjective and Objective Language describes “judgement about quality, value or importance”. Which term is most precise?",
-    "audio_prompt": "A class annotation about Subjective and Objective Language describes “judgement about quality, value or importance”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-p-023",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Vocabulary 3. Notice: Identify evaluation and emotion. Choose the response supported by the example."
-    },
+    "stage": "discriminate",
+    "skill": "Subjective and Objective Language",
+    "question": "Compare the choices for reviewing a new playground. Which one avoids the mistake in “The climbing frame is 2.4 metres high.”?",
+    "audio_prompt": "Compare the choices for reviewing a new playground. Which one avoids the mistake in “The climbing frame is 2.4 metres high.”?",
     "answers": [
       {
-        "text": "subjective language",
+        "text": "The climbing frame is 2.4 metres high.",
         "is_correct": false
       },
       {
-        "text": "objective language",
+        "text": "The playground opened on Monday.",
         "is_correct": false
       },
       {
-        "text": "evaluation",
+        "text": "The new climbing frame is exciting and much better than the old one.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "evaluation is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Words such as exciting and better express a personal judgement. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Opinion words reveal what someone thinks or feels."
+    }
   },
   {
     "id": "AC9E4LA02-P-024",
@@ -841,35 +695,509 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "skill": "vocabulary_3_reason",
-    "question": "A student answers “objective language”. Which feedback helps? Task: A class annotation about Subjective and Objective Language describes “judgement about quality, value or importance”. Which term is most precise?",
-    "audio_prompt": "A student answers “objective language”. Which feedback helps? Task: A class annotation about Subjective and Objective Language describes “judgement about quality, value or importance”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-p-024",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Vocabulary 3. Notice: Identify evaluation and emotion. Correct the student's mix-up using the full task."
-    },
+    "stage": "discriminate",
+    "skill": "Subjective and Objective Language",
+    "question": "If “The climbing frame is 2.4 metres high.” does not work in reviewing a new playground, what should replace it?",
+    "audio_prompt": "If “The climbing frame is 2.4 metres high.” does not work in reviewing a new playground, what should replace it?",
     "answers": [
       {
-        "text": "Match the definition to the exact language or literacy concept. evaluation is the precise term for this feature.",
+        "text": "The new climbing frame is exciting and much better than the old one.",
         "is_correct": true
       },
       {
-        "text": "Keep “objective language”; it uses a detail that sounds familiar.",
+        "text": "The climbing frame is 2.4 metres high.",
         "is_correct": false
       },
       {
-        "text": "Choose “subjective language” instead; it sounds clearer.",
+        "text": "The playground opened on Monday.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Match the definition to the exact language or literacy concept. evaluation is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Words such as exciting and better express a personal judgement. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Opinion words reveal what someone thinks or feels."
+    }
+  },
+  {
+    "id": "AC9E4LA02-P-025",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA02",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Subjective and Objective Language",
+    "question": "If “The afternoon was horribly cold.” does not work in describing a local weather reading, what should replace it?",
+    "audio_prompt": "If “The afternoon was horribly cold.” does not work in describing a local weather reading, what should replace it?",
+    "answers": [
+      {
+        "text": "The afternoon was horribly cold.",
+        "is_correct": false
+      },
+      {
+        "text": "At 3 pm the temperature was 19°C.",
+        "is_correct": true
+      },
+      {
+        "text": "It felt like the worst weather all week.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A temperature reading is observable data, unlike an emotional judgement. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Ask whether another observer could verify the same fact."
+    }
+  },
+  {
+    "id": "AC9E4LA02-P-026",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA02",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Subjective and Objective Language",
+    "question": "Which option corrects the meaning or form needed for describing a local weather reading?",
+    "audio_prompt": "Which option corrects the meaning or form needed for describing a local weather reading?",
+    "answers": [
+      {
+        "text": "The afternoon was horribly cold.",
+        "is_correct": false
+      },
+      {
+        "text": "It felt like the worst weather all week.",
+        "is_correct": false
+      },
+      {
+        "text": "At 3 pm the temperature was 19°C.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A temperature reading is observable data, unlike an emotional judgement. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Ask whether another observer could verify the same fact."
+    }
+  },
+  {
+    "id": "AC9E4LA02-P-027",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA02",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Subjective and Objective Language",
+    "question": "Which option corrects the meaning or form needed for writing about a school concert?",
+    "audio_prompt": "Which option corrects the meaning or form needed for writing about a school concert?",
+    "answers": [
+      {
+        "text": "In my view, the choir gave the most moving performance.",
+        "is_correct": true
+      },
+      {
+        "text": "The choir sang three songs.",
+        "is_correct": false
+      },
+      {
+        "text": "The concert began at 6:30 pm.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The phrase in my view signals that the statement is an opinion. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Notice phrases that openly show a viewpoint."
+    }
+  },
+  {
+    "id": "AC9E4LA02-P-028",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA02",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Subjective and Objective Language",
+    "question": "Which choice is the clearest correction for writing about a school concert?",
+    "audio_prompt": "Which choice is the clearest correction for writing about a school concert?",
+    "answers": [
+      {
+        "text": "The choir sang three songs.",
+        "is_correct": false
+      },
+      {
+        "text": "In my view, the choir gave the most moving performance.",
+        "is_correct": true
+      },
+      {
+        "text": "The concert began at 6:30 pm.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The phrase in my view signals that the statement is an opinion. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Notice phrases that openly show a viewpoint."
+    }
+  },
+  {
+    "id": "AC9E4LA02-P-029",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA02",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Subjective and Objective Language",
+    "question": "Which choice is the clearest correction for summarising a council notice about water restrictions?",
+    "audio_prompt": "Which choice is the clearest correction for summarising a council notice about water restrictions?",
+    "answers": [
+      {
+        "text": "The council has made a ridiculous rule.",
+        "is_correct": false
+      },
+      {
+        "text": "Everyone will hate these restrictions.",
+        "is_correct": false
+      },
+      {
+        "text": "The notice says garden sprinklers may be used before 10 am.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The sentence reports what the notice states without adding a judgement. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Separate what the source says from how someone feels about it."
+    }
+  },
+  {
+    "id": "AC9E4LA02-P-030",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA02",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Subjective and Objective Language",
+    "question": "Which revision best fixes the problem in “The council has made a ridiculous rule.” for summarising a council notice about water restrictions?",
+    "audio_prompt": "Which revision best fixes the problem in “The council has made a ridiculous rule.” for summarising a council notice about water restrictions?",
+    "answers": [
+      {
+        "text": "The notice says garden sprinklers may be used before 10 am.",
+        "is_correct": true
+      },
+      {
+        "text": "The council has made a ridiculous rule.",
+        "is_correct": false
+      },
+      {
+        "text": "Everyone will hate these restrictions.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The sentence reports what the notice states without adding a judgement. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Separate what the source says from how someone feels about it."
+    }
+  },
+  {
+    "id": "AC9E4LA02-P-031",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA02",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Subjective and Objective Language",
+    "question": "You now need to handle reporting the result of a class plant investigation independently. Which choice should you use?",
+    "audio_prompt": "You now need to handle reporting the result of a class plant investigation independently. Which choice should you use?",
+    "answers": [
+      {
+        "text": "I loved how tall the bean plant became.",
+        "is_correct": false
+      },
+      {
+        "text": "The bean plant grew 6 centimetres in seven days.",
+        "is_correct": true
+      },
+      {
+        "text": "The bean plant grew amazingly fast.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The sentence gives a measurable observation rather than a judgement or feeling.",
+      "hint": "Look for information that could be checked or measured."
+    }
+  },
+  {
+    "id": "AC9E4LA02-P-032",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA02",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Subjective and Objective Language",
+    "question": "Apply the same idea to reporting the result of a class plant investigation. Which option is best?",
+    "audio_prompt": "Apply the same idea to reporting the result of a class plant investigation. Which option is best?",
+    "answers": [
+      {
+        "text": "I loved how tall the bean plant became.",
+        "is_correct": false
+      },
+      {
+        "text": "The bean plant grew amazingly fast.",
+        "is_correct": false
+      },
+      {
+        "text": "The bean plant grew 6 centimetres in seven days.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The sentence gives a measurable observation rather than a judgement or feeling.",
+      "hint": "Look for information that could be checked or measured."
+    }
+  },
+  {
+    "id": "AC9E4LA02-P-033",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA02",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Subjective and Objective Language",
+    "question": "Apply the same idea to reviewing a new playground. Which option is best?",
+    "audio_prompt": "Apply the same idea to reviewing a new playground. Which option is best?",
+    "answers": [
+      {
+        "text": "The new climbing frame is exciting and much better than the old one.",
+        "is_correct": true
+      },
+      {
+        "text": "The playground opened on Monday.",
+        "is_correct": false
+      },
+      {
+        "text": "The climbing frame is 2.4 metres high.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Words such as exciting and better express a personal judgement.",
+      "hint": "Opinion words reveal what someone thinks or feels."
+    }
+  },
+  {
+    "id": "AC9E4LA02-P-034",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA02",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Subjective and Objective Language",
+    "question": "Which decision would produce the clearest result in reviewing a new playground?",
+    "audio_prompt": "Which decision would produce the clearest result in reviewing a new playground?",
+    "answers": [
+      {
+        "text": "The playground opened on Monday.",
+        "is_correct": false
+      },
+      {
+        "text": "The new climbing frame is exciting and much better than the old one.",
+        "is_correct": true
+      },
+      {
+        "text": "The climbing frame is 2.4 metres high.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Words such as exciting and better express a personal judgement.",
+      "hint": "Opinion words reveal what someone thinks or feels."
+    }
+  },
+  {
+    "id": "AC9E4LA02-P-035",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA02",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Subjective and Objective Language",
+    "question": "Which decision would produce the clearest result in describing a local weather reading?",
+    "audio_prompt": "Which decision would produce the clearest result in describing a local weather reading?",
+    "answers": [
+      {
+        "text": "It felt like the worst weather all week.",
+        "is_correct": false
+      },
+      {
+        "text": "The afternoon was horribly cold.",
+        "is_correct": false
+      },
+      {
+        "text": "At 3 pm the temperature was 19°C.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A temperature reading is observable data, unlike an emotional judgement.",
+      "hint": "Ask whether another observer could verify the same fact."
+    }
+  },
+  {
+    "id": "AC9E4LA02-P-036",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA02",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Subjective and Objective Language",
+    "question": "Choose the option that applies the skill correctly in describing a local weather reading.",
+    "audio_prompt": "Choose the option that applies the skill correctly in describing a local weather reading.",
+    "answers": [
+      {
+        "text": "At 3 pm the temperature was 19°C.",
+        "is_correct": true
+      },
+      {
+        "text": "It felt like the worst weather all week.",
+        "is_correct": false
+      },
+      {
+        "text": "The afternoon was horribly cold.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A temperature reading is observable data, unlike an emotional judgement.",
+      "hint": "Ask whether another observer could verify the same fact."
+    }
+  },
+  {
+    "id": "AC9E4LA02-P-037",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA02",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Subjective and Objective Language",
+    "question": "Choose the option that applies the skill correctly in writing about a school concert.",
+    "audio_prompt": "Choose the option that applies the skill correctly in writing about a school concert.",
+    "answers": [
+      {
+        "text": "The concert began at 6:30 pm.",
+        "is_correct": false
+      },
+      {
+        "text": "In my view, the choir gave the most moving performance.",
+        "is_correct": true
+      },
+      {
+        "text": "The choir sang three songs.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The phrase in my view signals that the statement is an opinion.",
+      "hint": "Notice phrases that openly show a viewpoint."
+    }
+  },
+  {
+    "id": "AC9E4LA02-P-038",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA02",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Subjective and Objective Language",
+    "question": "What would be the most effective choice for writing about a school concert?",
+    "audio_prompt": "What would be the most effective choice for writing about a school concert?",
+    "answers": [
+      {
+        "text": "The concert began at 6:30 pm.",
+        "is_correct": false
+      },
+      {
+        "text": "The choir sang three songs.",
+        "is_correct": false
+      },
+      {
+        "text": "In my view, the choir gave the most moving performance.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The phrase in my view signals that the statement is an opinion.",
+      "hint": "Notice phrases that openly show a viewpoint."
+    }
+  },
+  {
+    "id": "AC9E4LA02-P-039",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA02",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Subjective and Objective Language",
+    "question": "What would be the most effective choice for summarising a council notice about water restrictions?",
+    "audio_prompt": "What would be the most effective choice for summarising a council notice about water restrictions?",
+    "answers": [
+      {
+        "text": "The notice says garden sprinklers may be used before 10 am.",
+        "is_correct": true
+      },
+      {
+        "text": "Everyone will hate these restrictions.",
+        "is_correct": false
+      },
+      {
+        "text": "The council has made a ridiculous rule.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The sentence reports what the notice states without adding a judgement.",
+      "hint": "Separate what the source says from how someone feels about it."
+    }
+  },
+  {
+    "id": "AC9E4LA02-P-040",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA02",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Subjective and Objective Language",
+    "question": "You now need to handle summarising a council notice about water restrictions independently. Which choice should you use?",
+    "audio_prompt": "You now need to handle summarising a council notice about water restrictions independently. Which choice should you use?",
+    "answers": [
+      {
+        "text": "Everyone will hate these restrictions.",
+        "is_correct": false
+      },
+      {
+        "text": "The notice says garden sprinklers may be used before 10 am.",
+        "is_correct": true
+      },
+      {
+        "text": "The council has made a ridiculous rule.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The sentence reports what the notice states without adding a judgement.",
+      "hint": "Separate what the source says from how someone feels about it."
+    }
   },
   {
     "id": "AC9E4LA02-T-001",
@@ -877,32 +1205,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "test",
-    "skill": "new_text_1_apply",
-    "question": "In a new assessment text, Which sentence is most objective?",
-    "audio_prompt": "In a new assessment text, Which sentence is most objective?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-001",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: New text 1. Notice: Distinguish subjective/objective wording. Choose the response supported by the example."
-    },
+    "stage": "verify",
+    "skill": "Subjective and Objective Language",
+    "question": "New context: writing a review of a wildlife documentary. Which option is correct?",
+    "audio_prompt": "New context: writing a review of a wildlife documentary. Which option is correct?",
     "answers": [
       {
-        "text": "The magnificent exhibition is unmissable",
+        "text": "The program runs for 48 minutes.",
         "is_correct": false
       },
       {
-        "text": "The exhibition opens at 9:00 am and contains 24 displays",
+        "text": "The film includes footage of coral reefs.",
+        "is_correct": false
+      },
+      {
+        "text": "The underwater footage is breathtaking.",
         "is_correct": true
-      },
-      {
-        "text": "The displays are incredibly boring",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The evidence and language purpose support “The exhibition opens at 9:00 am and contains 24 displays”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "Breathtaking evaluates the footage and shows the writer’s response.",
+      "hint": "Look for language that judges quality."
     }
   },
   {
@@ -911,32 +1235,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "test",
-    "skill": "new_text_1_reason",
-    "question": "A student answers “The magnificent exhibition is unmissable”. Which feedback helps? Task: In a new assessment text, Which sentence is most objective?",
-    "audio_prompt": "A student answers “The magnificent exhibition is unmissable”. Which feedback helps? Task: In a new assessment text, Which sentence is most objective?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-002",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: New text 1. Notice: Distinguish subjective/objective wording. Correct the student's mix-up using the full task."
-    },
+    "stage": "verify",
+    "skill": "Subjective and Objective Language",
+    "question": "What is the best choice for writing a review of a wildlife documentary?",
+    "audio_prompt": "What is the best choice for writing a review of a wildlife documentary?",
     "answers": [
       {
-        "text": "Keep “The magnificent exhibition is unmissable”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “The displays are incredibly boring” instead; it sounds clearer.",
-        "is_correct": false
-      },
-      {
-        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “The exhibition opens at 9:00 am and contains 24 displays”.",
+        "text": "The underwater footage is breathtaking.",
         "is_correct": true
+      },
+      {
+        "text": "The program runs for 48 minutes.",
+        "is_correct": false
+      },
+      {
+        "text": "The film includes footage of coral reefs.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “The exhibition opens at 9:00 am and contains 24 displays”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Breathtaking evaluates the footage and shows the writer’s response.",
+      "hint": "Look for language that judges quality."
     }
   },
   {
@@ -945,32 +1265,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "test",
-    "skill": "new_text_2_apply",
-    "question": "In a new assessment text, Which phrase is an evaluation rather than a measurable fact?",
-    "audio_prompt": "In a new assessment text, Which phrase is an evaluation rather than a measurable fact?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-003",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: New text 2. Notice: Identify evaluation and emotion. Choose the response supported by the example."
-    },
+    "stage": "verify",
+    "skill": "Subjective and Objective Language",
+    "question": "Which explanation best supports “The underwater footage is breathtaking.” in writing a review of a wildlife documentary?",
+    "audio_prompt": "Which explanation best supports “The underwater footage is breathtaking.” in writing a review of a wildlife documentary?",
     "answers": [
       {
-        "text": "a remarkably effective design",
+        "text": "Because “The program runs for 48 minutes.” is always a safe choice.",
+        "is_correct": false
+      },
+      {
+        "text": "Breathtaking evaluates the footage and shows the writer’s response.",
         "is_correct": true
       },
       {
-        "text": "weighs 2.4 kg",
-        "is_correct": false
-      },
-      {
-        "text": "is 30 cm long",
+        "text": "Because surface appearance matters more than meaning.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The evidence and language purpose support “a remarkably effective design”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "Breathtaking evaluates the footage and shows the writer’s response.",
+      "hint": "Look for language that judges quality."
     }
   },
   {
@@ -979,32 +1295,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "test",
-    "skill": "new_text_2_reason",
-    "question": "A student answers “is 30 cm long”. Which feedback helps? Task: In a new assessment text, Which phrase is an evaluation rather than a measurable fact?",
-    "audio_prompt": "A student answers “is 30 cm long”. Which feedback helps? Task: In a new assessment text, Which phrase is an evaluation rather than a measurable fact?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-004",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: New text 2. Notice: Identify evaluation and emotion. Correct the student's mix-up using the full task."
-    },
+    "stage": "verify",
+    "skill": "Subjective and Objective Language",
+    "question": "Which clue should guide your decision in writing a review of a wildlife documentary?",
+    "audio_prompt": "Which clue should guide your decision in writing a review of a wildlife documentary?",
     "answers": [
       {
-        "text": "Keep “is 30 cm long”; it uses a detail that sounds familiar.",
+        "text": "Choose the option with the most words.",
         "is_correct": false
       },
       {
-        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “a remarkably effective design”.",
+        "text": "Ignore the context and use the first familiar form.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for language that judges quality.",
         "is_correct": true
-      },
-      {
-        "text": "Choose “weighs 2.4 kg” instead; it sounds clearer.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “a remarkably effective design”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Breathtaking evaluates the footage and shows the writer’s response.",
+      "hint": "Look for language that judges quality."
     }
   },
   {
@@ -1013,32 +1325,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "test",
-    "skill": "misconception_1_apply",
-    "question": "An editor reviewing a new text claims, “Objective means completely unbiased”. Which response gives the most accurate correction?",
-    "audio_prompt": "An editor reviewing a new text claims, “Objective means completely unbiased”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-005",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Misconception 1. Notice: Check verifiability. Choose the response supported by the example."
-    },
+    "stage": "apply",
+    "skill": "Subjective and Objective Language",
+    "question": "Which option would you reject first in writing a review of a wildlife documentary?",
+    "audio_prompt": "Which option would you reject first in writing a review of a wildlife documentary?",
     "answers": [
       {
-        "text": "Objective means completely unbiased",
-        "is_correct": false
-      },
-      {
-        "text": "Any adjective is subjective",
-        "is_correct": false
-      },
-      {
-        "text": "Selection and framing can still influence reporting; inspect evidence and sources.",
+        "text": "The program runs for 48 minutes.",
         "is_correct": true
+      },
+      {
+        "text": "The underwater footage is breathtaking.",
+        "is_correct": false
+      },
+      {
+        "text": "The film includes footage of coral reefs.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Selection and framing can still influence reporting; inspect evidence and sources.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Breathtaking evaluates the footage and shows the writer’s response.",
+      "hint": "Look for language that judges quality."
     }
   },
   {
@@ -1047,32 +1355,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "test",
-    "skill": "misconception_1_reason",
-    "question": "A student answers “Objective means completely unbiased”. Which feedback helps? Task: An editor reviewing a new text claims, “Objective means completely unbiased”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Objective means completely unbiased”. Which feedback helps? Task: An editor reviewing a new text claims, “Objective means completely unbiased”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-006",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Misconception 1. Notice: Check verifiability. Correct the student's mix-up using the full task."
-    },
+    "stage": "apply",
+    "skill": "Subjective and Objective Language",
+    "question": "Which correction should replace “The program runs for 48 minutes.” in writing a review of a wildlife documentary?",
+    "audio_prompt": "Which correction should replace “The program runs for 48 minutes.” in writing a review of a wildlife documentary?",
     "answers": [
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Selection and framing can still influence reporting; inspect evidence and sources.",
+        "text": "The program runs for 48 minutes.",
+        "is_correct": false
+      },
+      {
+        "text": "The underwater footage is breathtaking.",
         "is_correct": true
       },
       {
-        "text": "Keep “Objective means completely unbiased”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “Any adjective is subjective” instead; it sounds clearer.",
+        "text": "The film includes footage of coral reefs.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Selection and framing can still influence reporting; inspect evidence and sources.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Breathtaking evaluates the footage and shows the writer’s response.",
+      "hint": "Look for language that judges quality."
     }
   },
   {
@@ -1081,32 +1385,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "test",
-    "skill": "misconception_2_apply",
-    "question": "An editor reviewing a new text claims, “Any adjective is subjective”. Which response gives the most accurate correction?",
-    "audio_prompt": "An editor reviewing a new text claims, “Any adjective is subjective”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-007",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Misconception 2. Notice: Use attribution. Choose the response supported by the example."
-    },
+    "stage": "apply",
+    "skill": "Subjective and Objective Language",
+    "question": "Apply the skill to writing a review of a wildlife documentary: what should you choose?",
+    "audio_prompt": "Apply the skill to writing a review of a wildlife documentary: what should you choose?",
     "answers": [
       {
-        "text": "Any adjective is subjective",
+        "text": "The program runs for 48 minutes.",
         "is_correct": false
       },
       {
-        "text": "Some adjectives report observable properties, such as wooden or rectangular.",
+        "text": "The film includes footage of coral reefs.",
+        "is_correct": false
+      },
+      {
+        "text": "The underwater footage is breathtaking.",
         "is_correct": true
-      },
-      {
-        "text": "Opinion needs no evidence",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Some adjectives report observable properties, such as wooden or rectangular.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Breathtaking evaluates the footage and shows the writer’s response.",
+      "hint": "Look for language that judges quality."
     }
   },
   {
@@ -1115,32 +1415,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "test",
-    "skill": "misconception_2_reason",
-    "question": "A student answers “Opinion needs no evidence”. Which feedback helps? Task: An editor reviewing a new text claims, “Any adjective is subjective”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Opinion needs no evidence”. Which feedback helps? Task: An editor reviewing a new text claims, “Any adjective is subjective”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-008",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Misconception 2. Notice: Use attribution. Correct the student's mix-up using the full task."
-    },
+    "stage": "apply",
+    "skill": "Subjective and Objective Language",
+    "question": "Which final choice gives the clearest and most accurate result for writing a review of a wildlife documentary?",
+    "audio_prompt": "Which final choice gives the clearest and most accurate result for writing a review of a wildlife documentary?",
     "answers": [
       {
-        "text": "Keep “Opinion needs no evidence”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “Any adjective is subjective” instead; it sounds clearer.",
-        "is_correct": false
-      },
-      {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Some adjectives report observable properties, such as wooden or rectangular.",
+        "text": "The underwater footage is breathtaking.",
         "is_correct": true
+      },
+      {
+        "text": "The program runs for 48 minutes.",
+        "is_correct": false
+      },
+      {
+        "text": "The film includes footage of coral reefs.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Some adjectives report observable properties, such as wooden or rectangular.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Breathtaking evaluates the footage and shows the writer’s response.",
+      "hint": "Look for language that judges quality."
     }
   },
   {
@@ -1149,32 +1445,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "test",
-    "skill": "misconception_3_apply",
-    "question": "An editor reviewing a new text claims, “Opinion needs no evidence”. Which response gives the most accurate correction?",
-    "audio_prompt": "An editor reviewing a new text claims, “Opinion needs no evidence”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-009",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Misconception 3. Notice: Adapt language for purpose. Choose the response supported by the example."
-    },
+    "stage": "verify",
+    "skill": "Subjective and Objective Language",
+    "question": "New context: recording a sports carnival result. Which option is correct?",
+    "audio_prompt": "New context: recording a sports carnival result. Which option is correct?",
     "answers": [
       {
-        "text": "A convincing evaluation explains criteria and examples.",
+        "text": "Mia ran brilliantly.",
+        "is_correct": false
+      },
+      {
+        "text": "Mia finished the 100-metre race in 16.2 seconds.",
         "is_correct": true
       },
       {
-        "text": "Opinion needs no evidence",
-        "is_correct": false
-      },
-      {
-        "text": "Quoted opinion becomes fact",
+        "text": "Mia was clearly the most impressive athlete.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A convincing evaluation explains criteria and examples.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "The time is a checkable result, while brilliantly and impressive are evaluations.",
+      "hint": "Choose the statement based on recorded evidence."
     }
   },
   {
@@ -1183,32 +1475,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "test",
-    "skill": "misconception_3_reason",
-    "question": "A student answers “Opinion needs no evidence”. Which feedback helps? Task: An editor reviewing a new text claims, “Opinion needs no evidence”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Opinion needs no evidence”. Which feedback helps? Task: An editor reviewing a new text claims, “Opinion needs no evidence”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-010",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Misconception 3. Notice: Adapt language for purpose. Correct the student's mix-up using the full task."
-    },
+    "stage": "verify",
+    "skill": "Subjective and Objective Language",
+    "question": "What is the best choice for recording a sports carnival result?",
+    "audio_prompt": "What is the best choice for recording a sports carnival result?",
     "answers": [
       {
-        "text": "Keep “Opinion needs no evidence”; it uses a detail that sounds familiar.",
+        "text": "Mia ran brilliantly.",
         "is_correct": false
       },
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. A convincing evaluation explains criteria and examples.",
+        "text": "Mia was clearly the most impressive athlete.",
+        "is_correct": false
+      },
+      {
+        "text": "Mia finished the 100-metre race in 16.2 seconds.",
         "is_correct": true
-      },
-      {
-        "text": "Choose “Quoted opinion becomes fact” instead; it sounds clearer.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. A convincing evaluation explains criteria and examples.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "The time is a checkable result, while brilliantly and impressive are evaluations.",
+      "hint": "Choose the statement based on recorded evidence."
     }
   },
   {
@@ -1217,32 +1505,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "test",
-    "skill": "misconception_4_apply",
-    "question": "An editor reviewing a new text claims, “Quoted opinion becomes fact”. Which response gives the most accurate correction?",
-    "audio_prompt": "An editor reviewing a new text claims, “Quoted opinion becomes fact”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-011",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Misconception 4. Notice: Distinguish subjective/objective wording. Choose the response supported by the example."
-    },
+    "stage": "verify",
+    "skill": "Subjective and Objective Language",
+    "question": "Which explanation best supports “Mia finished the 100-metre race in 16.2 seconds.” in recording a sports carnival result?",
+    "audio_prompt": "Which explanation best supports “Mia finished the 100-metre race in 16.2 seconds.” in recording a sports carnival result?",
     "answers": [
       {
-        "text": "Quoted opinion becomes fact",
-        "is_correct": false
-      },
-      {
-        "text": "Objective means completely unbiased",
-        "is_correct": false
-      },
-      {
-        "text": "Attribution identifies the speaker but does not verify the claim.",
+        "text": "The time is a checkable result, while brilliantly and impressive are evaluations.",
         "is_correct": true
+      },
+      {
+        "text": "Because “Mia ran brilliantly.” is always a safe choice.",
+        "is_correct": false
+      },
+      {
+        "text": "Because surface appearance matters more than meaning.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Attribution identifies the speaker but does not verify the claim.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "The time is a checkable result, while brilliantly and impressive are evaluations.",
+      "hint": "Choose the statement based on recorded evidence."
     }
   },
   {
@@ -1251,32 +1535,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "test",
-    "skill": "misconception_4_reason",
-    "question": "A student answers “Objective means completely unbiased”. Which feedback helps? Task: An editor reviewing a new text claims, “Quoted opinion becomes fact”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Objective means completely unbiased”. Which feedback helps? Task: An editor reviewing a new text claims, “Quoted opinion becomes fact”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-012",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Misconception 4. Notice: Distinguish subjective/objective wording. Correct the student's mix-up using the full task."
-    },
+    "stage": "verify",
+    "skill": "Subjective and Objective Language",
+    "question": "Which clue should guide your decision in recording a sports carnival result?",
+    "audio_prompt": "Which clue should guide your decision in recording a sports carnival result?",
     "answers": [
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Attribution identifies the speaker but does not verify the claim.",
+        "text": "Choose the option with the most words.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the statement based on recorded evidence.",
         "is_correct": true
       },
       {
-        "text": "Keep “Objective means completely unbiased”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “Quoted opinion becomes fact” instead; it sounds clearer.",
+        "text": "Ignore the context and use the first familiar form.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Attribution identifies the speaker but does not verify the claim.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "The time is a checkable result, while brilliantly and impressive are evaluations.",
+      "hint": "Choose the statement based on recorded evidence."
     }
   },
   {
@@ -1285,32 +1565,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "test",
-    "skill": "language_highlighter_apply",
-    "question": "A different class adapts “Language highlighter”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A different class adapts “Language highlighter”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-013",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Language highlighter. Notice: Identify evaluation and emotion. Choose the response supported by the example."
-    },
+    "stage": "apply",
+    "skill": "Subjective and Objective Language",
+    "question": "Which option would you reject first in recording a sports carnival result?",
+    "audio_prompt": "Which option would you reject first in recording a sports carnival result?",
     "answers": [
       {
-        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "text": "Mia finished the 100-metre race in 16.2 seconds.",
         "is_correct": false
       },
       {
-        "text": "Mark factual, evaluative and emotional words in short reports, reviews and advertisements.",
+        "text": "Mia was clearly the most impressive athlete.",
+        "is_correct": false
+      },
+      {
+        "text": "Mia ran brilliantly.",
         "is_correct": true
-      },
-      {
-        "text": "Change the purpose and audience halfway through, then report the first impression only.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Mark factual, evaluative and emotional words in short reports, reviews and advertisements.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. The time is a checkable result, while brilliantly and impressive are evaluations.",
+      "hint": "Choose the statement based on recorded evidence."
     }
   },
   {
@@ -1319,32 +1595,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "test",
-    "skill": "language_highlighter_reason",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: A different class adapts “Language highlighter”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: A different class adapts “Language highlighter”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-014",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Language highlighter. Notice: Identify evaluation and emotion. Correct the student's mix-up using the full task."
-    },
+    "stage": "apply",
+    "skill": "Subjective and Objective Language",
+    "question": "Which correction should replace “Mia ran brilliantly.” in recording a sports carnival result?",
+    "audio_prompt": "Which correction should replace “Mia ran brilliantly.” in recording a sports carnival result?",
     "answers": [
       {
-        "text": "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Mark factual, evaluative and emotional words in short reports, reviews and advertisements.",
+        "text": "Mia finished the 100-metre race in 16.2 seconds.",
         "is_correct": true
+      },
+      {
+        "text": "Mia ran brilliantly.",
+        "is_correct": false
+      },
+      {
+        "text": "Mia was clearly the most impressive athlete.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Mark factual, evaluative and emotional words in short reports, reviews and advertisements.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "The time is a checkable result, while brilliantly and impressive are evaluations.",
+      "hint": "Choose the statement based on recorded evidence."
     }
   },
   {
@@ -1353,32 +1625,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "test",
-    "skill": "neutralise_and_intensify_apply",
-    "question": "A different class adapts “Neutralise and intensify”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A different class adapts “Neutralise and intensify”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-015",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Neutralise and intensify. Notice: Check verifiability. Choose the response supported by the example."
-    },
+    "stage": "apply",
+    "skill": "Subjective and Objective Language",
+    "question": "Apply the skill to recording a sports carnival result: what should you choose?",
+    "audio_prompt": "Apply the skill to recording a sports carnival result: what should you choose?",
     "answers": [
       {
-        "text": "Rewrite one subjective sentence objectively, then make one neutral sentence more evaluative for a review.",
+        "text": "Mia ran brilliantly.",
+        "is_correct": false
+      },
+      {
+        "text": "Mia finished the 100-metre race in 16.2 seconds.",
         "is_correct": true
       },
       {
-        "text": "Copy the title, then choose an answer without analysing the language or text.",
-        "is_correct": false
-      },
-      {
-        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "text": "Mia was clearly the most impressive athlete.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Rewrite one subjective sentence objectively, then make one neutral sentence more evaluative for a review.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "The time is a checkable result, while brilliantly and impressive are evaluations.",
+      "hint": "Choose the statement based on recorded evidence."
     }
   },
   {
@@ -1387,32 +1655,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "test",
-    "skill": "neutralise_and_intensify_reason",
-    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: A different class adapts “Neutralise and intensify”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: A different class adapts “Neutralise and intensify”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-016",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Neutralise and intensify. Notice: Check verifiability. Correct the student's mix-up using the full task."
-    },
+    "stage": "apply",
+    "skill": "Subjective and Objective Language",
+    "question": "Which final choice gives the clearest and most accurate result for recording a sports carnival result?",
+    "audio_prompt": "Which final choice gives the clearest and most accurate result for recording a sports carnival result?",
     "answers": [
       {
-        "text": "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
+        "text": "Mia ran brilliantly.",
         "is_correct": false
       },
       {
-        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Rewrite one subjective sentence objectively, then make one neutral sentence more evaluative for a review.",
+        "text": "Mia was clearly the most impressive athlete.",
+        "is_correct": false
+      },
+      {
+        "text": "Mia finished the 100-metre race in 16.2 seconds.",
         "is_correct": true
-      },
-      {
-        "text": "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Rewrite one subjective sentence objectively, then make one neutral sentence more evaluative for a review.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "The time is a checkable result, while brilliantly and impressive are evaluations.",
+      "hint": "Choose the statement based on recorded evidence."
     }
   }
 ]

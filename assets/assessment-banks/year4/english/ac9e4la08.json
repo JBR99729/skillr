@@ -5,41 +5,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "skill": "worked_text_1_apply",
-    "question": "Read the classroom example. Which phrase provides a place circumstance?",
-    "audio_prompt": "Read the classroom example. Which phrase provides a place circumstance?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la08.svg#ac9e4la08-p-001",
-      "alt_text": "Three-step Adverb Groups and Prepositional Phrases organiser. Read: Worked text 1. Notice: Identify circumstance types. Choose the response supported by the example."
-    },
+    "stage": "recognise",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "In adding place detail to “The wallaby hopped”, which option best demonstrates the skill?",
+    "audio_prompt": "In adding place detail to “The wallaby hopped”, which option best demonstrates the skill?",
     "answers": [
       {
-        "text": "before sunrise",
+        "text": "The wallaby rocky hopped.",
         "is_correct": false
       },
       {
-        "text": "beside the fallen log",
+        "text": "The wallaby hopped across the rocky track.",
         "is_correct": true
       },
       {
-        "text": "with great care",
+        "text": "Across hopped the wallaby track without a clear relationship.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: before sunrise",
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: beside the fallen log",
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: with great care"
-    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The evidence and language purpose support “beside the fallen log”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Across the rocky track is a prepositional phrase telling where the hopping happened.",
+      "hint": "Look for a phrase that answers where, when or how."
+    }
   },
   {
     "id": "AC9E4LA08-P-002",
@@ -47,41 +35,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "skill": "worked_text_1_reason",
-    "question": "A student answers “before sunrise”. Which feedback helps? Task: Read the classroom example. Which phrase provides a place circumstance?",
-    "audio_prompt": "A student answers “before sunrise”. Which feedback helps? Task: Read the classroom example. Which phrase provides a place circumstance?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la08.svg#ac9e4la08-p-002",
-      "alt_text": "Three-step Adverb Groups and Prepositional Phrases organiser. Read: Worked text 1. Notice: Identify circumstance types. Correct the student's mix-up using the full task."
-    },
+    "stage": "recognise",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "Which choice fits adding place detail to “The wallaby hopped” most accurately?",
+    "audio_prompt": "Which choice fits adding place detail to “The wallaby hopped” most accurately?",
     "answers": [
       {
-        "text": "Keep “before sunrise”; it uses a detail that sounds familiar.",
+        "text": "The wallaby rocky hopped.",
         "is_correct": false
       },
       {
-        "text": "Choose “with great care” instead; it sounds clearer.",
+        "text": "Across hopped the wallaby track without a clear relationship.",
         "is_correct": false
       },
       {
-        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “beside the fallen log”.",
+        "text": "The wallaby hopped across the rocky track.",
         "is_correct": true
       }
     ],
-    "audio_answers": [
-      "Capital words: Keep. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “before sunrise”; it uses a detail that sounds familiar.",
-      "Capital words: Choose. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “with great care” instead; it sounds clearer.",
-      "Capital words: Check, The. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: feature. The text ends with a full stop. The text reads: Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “beside the fallen log”."
-    ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “beside the fallen log”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Across the rocky track is a prepositional phrase telling where the hopping happened.",
+      "hint": "Look for a phrase that answers where, when or how."
+    }
   },
   {
     "id": "AC9E4LA08-P-003",
@@ -89,41 +65,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "skill": "worked_text_2_apply",
-    "question": "Read the classroom example. Which sentence has the clearest phrase attachment?",
-    "audio_prompt": "Read the classroom example. Which sentence has the clearest phrase attachment?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la08.svg#ac9e4la08-p-003",
-      "alt_text": "Three-step Adverb Groups and Prepositional Phrases organiser. Read: Worked text 2. Notice: Recognise phrase forms. Choose the response supported by the example."
-    },
+    "stage": "recognise",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "Which choice fits adding manner detail to “The choir sang” most accurately?",
+    "audio_prompt": "Which choice fits adding manner detail to “The choir sang” most accurately?",
     "answers": [
       {
-        "text": "While Priya walked to school, the rain soaked her.",
+        "text": "The choir sang surprisingly softly.",
         "is_correct": true
       },
       {
-        "text": "Walking to school, the rain soaked Priya.",
+        "text": "The choir sang under the stage if the meaning is manner.",
         "is_correct": false
       },
       {
-        "text": "The rain, walking to school, soaked Priya.",
+        "text": "The choir softly surprising sang.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: While, Priya. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: school. The text ends with a full stop. The text reads: While Priya walked to school, the rain soaked her.",
-      "Capital words: Walking, Priya. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: school. The text ends with a full stop. The text reads: Walking to school, the rain soaked Priya.",
-      "Capital words: The, Priya. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: rain, school. The text ends with a full stop. The text reads: The rain, walking to school, soaked Priya."
-    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The evidence and language purpose support “While Priya walked to school, the rain soaked her.”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Surprisingly softly is an adverb group that tells how the choir sang.",
+      "hint": "Manner details explain how an activity happens."
+    }
   },
   {
     "id": "AC9E4LA08-P-004",
@@ -131,41 +95,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "skill": "worked_text_2_reason",
-    "question": "A student answers “The rain, walking to school, soaked Priya.”. Which feedback helps? Task: Read the classroom example. Which sentence has the clearest phrase attachment?",
-    "audio_prompt": "A student answers “The rain, walking to school, soaked Priya.”. Which feedback helps? Task: Read the classroom example. Which sentence has the clearest phrase attachment?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la08.svg#ac9e4la08-p-004",
-      "alt_text": "Three-step Adverb Groups and Prepositional Phrases organiser. Read: Worked text 2. Notice: Recognise phrase forms. Correct the student's mix-up using the full task."
-    },
+    "stage": "recognise",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "Look closely at adding manner detail to “The choir sang”. Which response or wording works best?",
+    "audio_prompt": "Look closely at adding manner detail to “The choir sang”. Which response or wording works best?",
     "answers": [
       {
-        "text": "Keep “The rain, walking to school, soaked Priya.”; it uses a detail that sounds familiar.",
+        "text": "The choir sang under the stage if the meaning is manner.",
         "is_correct": false
       },
       {
-        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “While Priya walked to school, the rain soaked her.”.",
+        "text": "The choir sang surprisingly softly.",
         "is_correct": true
       },
       {
-        "text": "Choose “Walking to school, the rain soaked Priya.” instead; it sounds clearer.",
+        "text": "The choir softly surprising sang.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Keep, The, Priya. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: rain, school. The text ends with a full stop. The text reads: Keep “The rain, walking to school, soaked Priya.”; it uses a detail that sounds familiar.",
-      "Capital words: Check, The, While, Priya. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: feature, school. The text ends with a full stop. The text reads: Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “While Priya walked to school, the rain soaked her.”.",
-      "Capital words: Choose, Walking, Priya. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: school. The text ends with a full stop. The text reads: Choose “Walking to school, the rain soaked Priya.” instead; it sounds clearer."
-    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “While Priya walked to school, the rain soaked her.”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Surprisingly softly is an adverb group that tells how the choir sang.",
+      "hint": "Manner details explain how an activity happens."
+    }
   },
   {
     "id": "AC9E4LA08-P-005",
@@ -173,41 +125,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "skill": "misconception_1_apply",
-    "question": "A student in a workshop claims, “Every phrase beginning with -ly is required”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student in a workshop claims, “Every phrase beginning with -ly is required”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la08.svg#ac9e4la08-p-005",
-      "alt_text": "Three-step Adverb Groups and Prepositional Phrases organiser. Read: Misconception 1. Notice: Expand clauses precisely. Choose the response supported by the example."
-    },
+    "stage": "recognise",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "Look closely at adding time detail to “We packed the tent”. Which response or wording works best?",
+    "audio_prompt": "Look closely at adding time detail to “We packed the tent”. Which response or wording works best?",
     "answers": [
       {
-        "text": "Every phrase beginning with -ly is required",
+        "text": "We packed before the tent sunrise.",
         "is_correct": false
       },
       {
-        "text": "Longer sentence is automatically better",
+        "text": "We sunrise packed the tent.",
         "is_correct": false
       },
       {
-        "text": "Many adverbs do not end in -ly, and prepositional phrases add circumstances too.",
+        "text": "We packed the tent before sunrise.",
         "is_correct": true
       }
     ],
-    "audio_answers": [
-      "Capital words: Every. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Every phrase beginning with -ly is required",
-      "Capital words: Longer. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Longer sentence is automatically better",
-      "Capital words: Many. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: ly. The text ends with a full stop. The text reads: Many adverbs do not end in -ly, and prepositional phrases add circumstances too."
-    ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Many adverbs do not end in -ly, and prepositional phrases add circumstances too.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Before sunrise is a prepositional phrase giving the time of the action.",
+      "hint": "Check what circumstance the phrase adds."
+    }
   },
   {
     "id": "AC9E4LA08-P-006",
@@ -215,41 +155,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "skill": "misconception_1_reason",
-    "question": "A student answers “Every phrase beginning with -ly is required”. Which feedback helps? Task: A student in a workshop claims, “Every phrase beginning with -ly is required”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Every phrase beginning with -ly is required”. Which feedback helps? Task: A student in a workshop claims, “Every phrase beginning with -ly is required”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la08.svg#ac9e4la08-p-006",
-      "alt_text": "Three-step Adverb Groups and Prepositional Phrases organiser. Read: Misconception 1. Notice: Expand clauses precisely. Correct the student's mix-up using the full task."
-    },
+    "stage": "recognise",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "For adding time detail to “We packed the tent”, which option is the strongest match?",
+    "audio_prompt": "For adding time detail to “We packed the tent”, which option is the strongest match?",
     "answers": [
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Many adverbs do not end in -ly, and prepositional phrases add circumstances too.",
+        "text": "We packed the tent before sunrise.",
         "is_correct": true
       },
       {
-        "text": "Keep “Every phrase beginning with -ly is required”; it uses a detail that sounds familiar.",
+        "text": "We packed before the tent sunrise.",
         "is_correct": false
       },
       {
-        "text": "Choose “Longer sentence is automatically better” instead; it sounds clearer.",
+        "text": "We sunrise packed the tent.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Identify, Many. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: overlooks, ly. The text ends with a full stop. The text reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. Many adverbs do not end in -ly, and prepositional phrases add circumstances too.",
-      "Capital words: Keep, Every. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “Every phrase beginning with -ly is required”; it uses a detail that sounds familiar.",
-      "Capital words: Choose, Longer. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “Longer sentence is automatically better” instead; it sounds clearer."
-    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Many adverbs do not end in -ly, and prepositional phrases add circumstances too.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Before sunrise is a prepositional phrase giving the time of the action.",
+      "hint": "Check what circumstance the phrase adds."
+    }
   },
   {
     "id": "AC9E4LA08-P-007",
@@ -257,41 +185,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "skill": "misconception_2_apply",
-    "question": "A student in a workshop claims, “Longer sentence is automatically better”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student in a workshop claims, “Longer sentence is automatically better”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la08.svg#ac9e4la08-p-007",
-      "alt_text": "Three-step Adverb Groups and Prepositional Phrases organiser. Read: Misconception 2. Notice: Control placement and emphasis. Choose the response supported by the example."
-    },
+    "stage": "recognise",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "For placing a phrase so its meaning is clear, which option is the strongest match?",
+    "audio_prompt": "For placing a phrase so its meaning is clear, which option is the strongest match?",
     "answers": [
       {
-        "text": "Longer sentence is automatically better",
+        "text": "The class, after, visited lunch the gallery.",
         "is_correct": false
       },
       {
-        "text": "Select details that serve meaning and avoid overload.",
+        "text": "After lunch, the class visited the gallery.",
         "is_correct": true
       },
       {
-        "text": "Phrase attachment ignored",
+        "text": "The class visited after the gallery lunch.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Longer. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Longer sentence is automatically better",
-      "Capital words: Select. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Select details that serve meaning and avoid overload.",
-      "Capital words: Phrase. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Phrase attachment ignored"
-    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Select details that serve meaning and avoid overload.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Placing After lunch together makes it clear that the phrase tells when the visit happened.",
+      "hint": "Keep the phrase close to the activity it describes."
+    }
   },
   {
     "id": "AC9E4LA08-P-008",
@@ -299,41 +215,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "skill": "misconception_2_reason",
-    "question": "A student answers “Phrase attachment ignored”. Which feedback helps? Task: A student in a workshop claims, “Longer sentence is automatically better”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Phrase attachment ignored”. Which feedback helps? Task: A student in a workshop claims, “Longer sentence is automatically better”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la08.svg#ac9e4la08-p-008",
-      "alt_text": "Three-step Adverb Groups and Prepositional Phrases organiser. Read: Misconception 2. Notice: Control placement and emphasis. Correct the student's mix-up using the full task."
-    },
+    "stage": "recognise",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "Which example should you choose for placing a phrase so its meaning is clear?",
+    "audio_prompt": "Which example should you choose for placing a phrase so its meaning is clear?",
     "answers": [
       {
-        "text": "Keep “Phrase attachment ignored”; it uses a detail that sounds familiar.",
+        "text": "The class, after, visited lunch the gallery.",
         "is_correct": false
       },
       {
-        "text": "Choose “Longer sentence is automatically better” instead; it sounds clearer.",
+        "text": "The class visited after the gallery lunch.",
         "is_correct": false
       },
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Select details that serve meaning and avoid overload.",
+        "text": "After lunch, the class visited the gallery.",
         "is_correct": true
       }
     ],
-    "audio_answers": [
-      "Capital words: Keep, Phrase. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “Phrase attachment ignored”; it uses a detail that sounds familiar.",
-      "Capital words: Choose, Longer. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “Longer sentence is automatically better” instead; it sounds clearer.",
-      "Capital words: Identify, Select. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: overlooks. The text ends with a full stop. The text reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. Select details that serve meaning and avoid overload."
-    ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Select details that serve meaning and avoid overload.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Placing After lunch together makes it clear that the phrase tells when the visit happened.",
+      "hint": "Keep the phrase close to the activity it describes."
+    }
   },
   {
     "id": "AC9E4LA08-P-009",
@@ -341,40 +245,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "skill": "misconception_3_apply",
-    "question": "A student in a workshop claims, “Phrase attachment ignored”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student in a workshop claims, “Phrase attachment ignored”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la08.svg#ac9e4la08-p-009",
-      "alt_text": "Three-step Adverb Groups and Prepositional Phrases organiser. Read: Misconception 3. Notice: Repair ambiguous attachment. Choose the response supported by the example."
-    },
+    "stage": "recognise",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "Which example should you choose for adding a precise place detail to a science observation?",
+    "audio_prompt": "Which example should you choose for adding a precise place detail to a science observation?",
     "answers": [
       {
-        "text": "Place the phrase where its relationship is clear.",
+        "text": "The lizard rested beneath the warm rock.",
         "is_correct": true
       },
       {
-        "text": "Phrase attachment ignored",
+        "text": "The lizard rested warm.",
         "is_correct": false
       },
       {
-        "text": "Form and function confused",
+        "text": "The lizard beneath rested rock the.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Place. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Place the phrase where its relationship is clear.",
-      "Capital words: Phrase. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Phrase attachment ignored",
-      "Capital words: Form. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Form and function confused"
-    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Place the phrase where its relationship is clear.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Beneath the warm rock specifies where the lizard rested.",
+      "hint": "Choose detail that adds useful information, not just extra words."
+    }
   },
   {
     "id": "AC9E4LA08-P-010",
@@ -382,40 +275,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "skill": "misconception_3_reason",
-    "question": "A student answers “Phrase attachment ignored”. Which feedback helps? Task: A student in a workshop claims, “Phrase attachment ignored”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Phrase attachment ignored”. Which feedback helps? Task: A student in a workshop claims, “Phrase attachment ignored”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la08.svg#ac9e4la08-p-010",
-      "alt_text": "Three-step Adverb Groups and Prepositional Phrases organiser. Read: Misconception 3. Notice: Repair ambiguous attachment. Correct the student's mix-up using the full task."
-    },
+    "stage": "recognise",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "In adding a precise place detail to a science observation, which option best demonstrates the skill?",
+    "audio_prompt": "In adding a precise place detail to a science observation, which option best demonstrates the skill?",
     "answers": [
       {
-        "text": "Keep “Phrase attachment ignored”; it uses a detail that sounds familiar.",
+        "text": "The lizard rested warm.",
         "is_correct": false
       },
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Place the phrase where its relationship is clear.",
+        "text": "The lizard rested beneath the warm rock.",
         "is_correct": true
       },
       {
-        "text": "Choose “Form and function confused” instead; it sounds clearer.",
+        "text": "The lizard beneath rested rock the.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Keep, Phrase. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “Phrase attachment ignored”; it uses a detail that sounds familiar.",
-      "Capital words: Identify, Place. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: overlooks. The text ends with a full stop. The text reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. Place the phrase where its relationship is clear.",
-      "Capital words: Choose, Form. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “Form and function confused” instead; it sounds clearer."
-    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Place the phrase where its relationship is clear.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Beneath the warm rock specifies where the lizard rested.",
+      "hint": "Choose detail that adds useful information, not just extra words."
+    }
   },
   {
     "id": "AC9E4LA08-P-011",
@@ -423,40 +305,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "skill": "misconception_4_apply",
-    "question": "A student in a workshop claims, “Form and function confused”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student in a workshop claims, “Form and function confused”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la08.svg#ac9e4la08-p-011",
-      "alt_text": "Three-step Adverb Groups and Prepositional Phrases organiser. Read: Misconception 4. Notice: Identify circumstance types. Choose the response supported by the example."
-    },
+    "stage": "explain",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "Why does “The wallaby hopped across the rocky track.” work well for adding place detail to “The wallaby hopped”?",
+    "audio_prompt": "Why does “The wallaby hopped across the rocky track.” work well for adding place detail to “The wallaby hopped”?",
     "answers": [
       {
-        "text": "Form and function confused",
+        "text": "Because “The wallaby rocky hopped.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Every phrase beginning with -ly is required",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       },
       {
-        "text": "A prepositional phrase can function adverbially, but it is still structurally a prepositional phrase.",
+        "text": "Across the rocky track is a prepositional phrase telling where the hopping happened.",
         "is_correct": true
       }
     ],
-    "audio_answers": [
-      "Capital words: Form. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Form and function confused",
-      "Capital words: Every. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Every phrase beginning with -ly is required",
-      "Capital words: A. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: adverbially. The text ends with a full stop. The text reads: A prepositional phrase can function adverbially, but it is still structurally a prepositional phrase."
-    ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A prepositional phrase can function adverbially, but it is still structurally a prepositional phrase.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Across the rocky track is a prepositional phrase telling where the hopping happened.",
+      "hint": "Look for a phrase that answers where, when or how."
+    }
   },
   {
     "id": "AC9E4LA08-P-012",
@@ -464,40 +335,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "skill": "misconception_4_reason",
-    "question": "A student answers “Every phrase beginning with -ly is required”. Which feedback helps? Task: A student in a workshop claims, “Form and function confused”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Every phrase beginning with -ly is required”. Which feedback helps? Task: A student in a workshop claims, “Form and function confused”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la08.svg#ac9e4la08-p-012",
-      "alt_text": "Three-step Adverb Groups and Prepositional Phrases organiser. Read: Misconception 4. Notice: Identify circumstance types. Correct the student's mix-up using the full task."
-    },
+    "stage": "explain",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "What makes “The wallaby hopped across the rocky track.” a better choice in adding place detail to “The wallaby hopped”?",
+    "audio_prompt": "What makes “The wallaby hopped across the rocky track.” a better choice in adding place detail to “The wallaby hopped”?",
     "answers": [
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. A prepositional phrase can function adverbially, but it is still structurally a prepositional phrase.",
+        "text": "Across the rocky track is a prepositional phrase telling where the hopping happened.",
         "is_correct": true
       },
       {
-        "text": "Keep “Every phrase beginning with -ly is required”; it uses a detail that sounds familiar.",
+        "text": "Because “The wallaby rocky hopped.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Choose “Form and function confused” instead; it sounds clearer.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Identify, A. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: overlooks, adverbially. The text ends with a full stop. The text reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. A prepositional phrase can function adverbially, but it is still structurally a prepositional phrase.",
-      "Capital words: Keep, Every. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “Every phrase beginning with -ly is required”; it uses a detail that sounds familiar.",
-      "Capital words: Choose, Form. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “Form and function confused” instead; it sounds clearer."
-    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. A prepositional phrase can function adverbially, but it is still structurally a prepositional phrase.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Across the rocky track is a prepositional phrase telling where the hopping happened.",
+      "hint": "Look for a phrase that answers where, when or how."
+    }
   },
   {
     "id": "AC9E4LA08-P-013",
@@ -505,40 +365,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "skill": "circumstance_sort_apply",
-    "question": "The class prepares “Circumstance sort”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "The class prepares “Circumstance sort”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la08.svg#ac9e4la08-p-013",
-      "alt_text": "Three-step Adverb Groups and Prepositional Phrases organiser. Read: Circumstance sort. Notice: Recognise phrase forms. Choose the response supported by the example."
-    },
+    "stage": "explain",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "What makes “The choir sang surprisingly softly.” a better choice in adding manner detail to “The choir sang”?",
+    "audio_prompt": "What makes “The choir sang surprisingly softly.” a better choice in adding manner detail to “The choir sang”?",
     "answers": [
       {
-        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "text": "Because “The choir sang under the stage if the meaning is manner.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Sort phrases by time, place, manner, cause and condition, then justify ambiguous examples.",
+        "text": "Surprisingly softly is an adverb group that tells how the choir sang.",
         "is_correct": true
       },
       {
-        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Copy the title, then choose an answer without analysing the language or text.",
-      "Capital words: Sort. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: time, place, manner, condition. The text ends with a full stop. The text reads: Sort phrases by time, place, manner, cause and condition, then justify ambiguous examples.",
-      "Capital words: Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Change the purpose and audience halfway through, then report the first impression only."
-    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Sort phrases by time, place, manner, cause and condition, then justify ambiguous examples.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Surprisingly softly is an adverb group that tells how the choir sang.",
+      "hint": "Manner details explain how an activity happens."
+    }
   },
   {
     "id": "AC9E4LA08-P-014",
@@ -546,40 +395,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "skill": "circumstance_sort_reason",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Circumstance sort”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Circumstance sort”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la08.svg#ac9e4la08-p-014",
-      "alt_text": "Three-step Adverb Groups and Prepositional Phrases organiser. Read: Circumstance sort. Notice: Recognise phrase forms. Correct the student's mix-up using the full task."
-    },
+    "stage": "explain",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "Which explanation best justifies “The choir sang surprisingly softly.” for adding manner detail to “The choir sang”?",
+    "audio_prompt": "Which explanation best justifies “The choir sang surprisingly softly.” for adding manner detail to “The choir sang”?",
     "answers": [
       {
-        "text": "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
+        "text": "Because “The choir sang under the stage if the meaning is manner.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       },
       {
-        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Sort phrases by time, place, manner, cause and condition, then justify ambiguous examples.",
+        "text": "Surprisingly softly is an adverb group that tells how the choir sang.",
         "is_correct": true
       }
     ],
-    "audio_answers": [
-      "Capital words: Keep, Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
-      "Capital words: Choose, Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
-      "Capital words: Choose, Sort. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: time, place, manner, condition. The text ends with a full stop. The text reads: Choose the plan that analyses language evidence and produces a reviewable response. Sort phrases by time, place, manner, cause and condition, then justify ambiguous examples."
-    ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Sort phrases by time, place, manner, cause and condition, then justify ambiguous examples.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Surprisingly softly is an adverb group that tells how the choir sang.",
+      "hint": "Manner details explain how an activity happens."
+    }
   },
   {
     "id": "AC9E4LA08-P-015",
@@ -587,40 +425,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "skill": "sentence_expansion_apply",
-    "question": "The class prepares “Sentence expansion”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "The class prepares “Sentence expansion”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la08.svg#ac9e4la08-p-015",
-      "alt_text": "Three-step Adverb Groups and Prepositional Phrases organiser. Read: Sentence expansion. Notice: Expand clauses precisely. Choose the response supported by the example."
-    },
+    "stage": "explain",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "Which explanation best justifies “We packed the tent before sunrise.” for adding time detail to “We packed the tent”?",
+    "audio_prompt": "Which explanation best justifies “We packed the tent before sunrise.” for adding time detail to “We packed the tent”?",
     "answers": [
       {
-        "text": "Expand a plain clause with two compatible circumstances without overloading it.",
+        "text": "Before sunrise is a prepositional phrase giving the time of the action.",
         "is_correct": true
       },
       {
-        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "text": "Because “We packed before the tent sunrise.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Expand. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Expand a plain clause with two compatible circumstances without overloading it.",
-      "Capital words: Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Copy the title, then choose an answer without analysing the language or text.",
-      "Capital words: Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Change the purpose and audience halfway through, then report the first impression only."
-    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Expand a plain clause with two compatible circumstances without overloading it.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Before sunrise is a prepositional phrase giving the time of the action.",
+      "hint": "Check what circumstance the phrase adds."
+    }
   },
   {
     "id": "AC9E4LA08-P-016",
@@ -628,40 +455,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "skill": "sentence_expansion_reason",
-    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Sentence expansion”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Sentence expansion”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la08.svg#ac9e4la08-p-016",
-      "alt_text": "Three-step Adverb Groups and Prepositional Phrases organiser. Read: Sentence expansion. Notice: Expand clauses precisely. Correct the student's mix-up using the full task."
-    },
+    "stage": "explain",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "What should you notice about “We packed the tent before sunrise.” in adding time detail to “We packed the tent”?",
+    "audio_prompt": "What should you notice about “We packed the tent before sunrise.” in adding time detail to “We packed the tent”?",
     "answers": [
       {
-        "text": "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
+        "text": "Because “We packed before the tent sunrise.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Expand a plain clause with two compatible circumstances without overloading it.",
+        "text": "Before sunrise is a prepositional phrase giving the time of the action.",
         "is_correct": true
       },
       {
-        "text": "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Keep, Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
-      "Capital words: Choose, Expand. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose the plan that analyses language evidence and produces a reviewable response. Expand a plain clause with two compatible circumstances without overloading it.",
-      "Capital words: Choose, Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer."
-    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Expand a plain clause with two compatible circumstances without overloading it.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Before sunrise is a prepositional phrase giving the time of the action.",
+      "hint": "Check what circumstance the phrase adds."
+    }
   },
   {
     "id": "AC9E4LA08-P-017",
@@ -669,40 +485,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "skill": "misattachment_repair_apply",
-    "question": "The class prepares “Misattachment repair”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "The class prepares “Misattachment repair”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la08.svg#ac9e4la08-p-017",
-      "alt_text": "Three-step Adverb Groups and Prepositional Phrases organiser. Read: Misattachment repair. Notice: Control placement and emphasis. Choose the response supported by the example."
-    },
+    "stage": "explain",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "What should you notice about “After lunch, the class visited the gallery.” in placing a phrase so its meaning is clear?",
+    "audio_prompt": "What should you notice about “After lunch, the class visited the gallery.” in placing a phrase so its meaning is clear?",
     "answers": [
       {
-        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "text": "Because “The class, after, visited lunch the gallery.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       },
       {
-        "text": "Move or rewrite a phrase that accidentally seems to describe the wrong participant.",
+        "text": "Placing After lunch together makes it clear that the phrase tells when the visit happened.",
         "is_correct": true
       }
     ],
-    "audio_answers": [
-      "Capital words: Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Copy the title, then choose an answer without analysing the language or text.",
-      "Capital words: Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Change the purpose and audience halfway through, then report the first impression only.",
-      "Capital words: Move. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Move or rewrite a phrase that accidentally seems to describe the wrong participant."
-    ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Move or rewrite a phrase that accidentally seems to describe the wrong participant.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Placing After lunch together makes it clear that the phrase tells when the visit happened.",
+      "hint": "Keep the phrase close to the activity it describes."
+    }
   },
   {
     "id": "AC9E4LA08-P-018",
@@ -710,40 +515,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "skill": "misattachment_repair_reason",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Misattachment repair”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Misattachment repair”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la08.svg#ac9e4la08-p-018",
-      "alt_text": "Three-step Adverb Groups and Prepositional Phrases organiser. Read: Misattachment repair. Notice: Control placement and emphasis. Correct the student's mix-up using the full task."
-    },
+    "stage": "explain",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "Which reason explains why “After lunch, the class visited the gallery.” suits placing a phrase so its meaning is clear?",
+    "audio_prompt": "Which reason explains why “After lunch, the class visited the gallery.” suits placing a phrase so its meaning is clear?",
     "answers": [
       {
-        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Move or rewrite a phrase that accidentally seems to describe the wrong participant.",
+        "text": "Placing After lunch together makes it clear that the phrase tells when the visit happened.",
         "is_correct": true
       },
       {
-        "text": "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
+        "text": "Because “The class, after, visited lunch the gallery.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Choose, Move. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose the plan that analyses language evidence and produces a reviewable response. Move or rewrite a phrase that accidentally seems to describe the wrong participant.",
-      "Capital words: Keep, Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
-      "Capital words: Choose, Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer."
-    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Move or rewrite a phrase that accidentally seems to describe the wrong participant.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Placing After lunch together makes it clear that the phrase tells when the visit happened.",
+      "hint": "Keep the phrase close to the activity it describes."
+    }
   },
   {
     "id": "AC9E4LA08-P-019",
@@ -751,40 +545,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "skill": "vocabulary_1_apply",
-    "question": "A class annotation about Adverb Groups and Prepositional Phrases describes “one or more words functioning adverbially”. Which term is most precise?",
-    "audio_prompt": "A class annotation about Adverb Groups and Prepositional Phrases describes “one or more words functioning adverbially”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la08.svg#ac9e4la08-p-019",
-      "alt_text": "Three-step Adverb Groups and Prepositional Phrases organiser. Read: Vocabulary 1. Notice: Repair ambiguous attachment. Choose the response supported by the example."
-    },
+    "stage": "explain",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "Which reason explains why “The lizard rested beneath the warm rock.” suits adding a precise place detail to a science observation?",
+    "audio_prompt": "Which reason explains why “The lizard rested beneath the warm rock.” suits adding a precise place detail to a science observation?",
     "answers": [
       {
-        "text": "prepositional phrase",
+        "text": "Because “The lizard rested warm.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "adverb group",
+        "text": "Beneath the warm rock specifies where the lizard rested.",
         "is_correct": true
       },
       {
-        "text": "circumstance",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: prepositional phrase",
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: adverb group",
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: circumstance"
-    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "adverb group is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Beneath the warm rock specifies where the lizard rested.",
+      "hint": "Choose detail that adds useful information, not just extra words."
+    }
   },
   {
     "id": "AC9E4LA08-P-020",
@@ -792,40 +575,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "skill": "vocabulary_1_reason",
-    "question": "A student answers “circumstance”. Which feedback helps? Task: A class annotation about Adverb Groups and Prepositional Phrases describes “one or more words functioning adverbially”. Which term is most precise?",
-    "audio_prompt": "A student answers “circumstance”. Which feedback helps? Task: A class annotation about Adverb Groups and Prepositional Phrases describes “one or more words functioning adverbially”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la08.svg#ac9e4la08-p-020",
-      "alt_text": "Three-step Adverb Groups and Prepositional Phrases organiser. Read: Vocabulary 1. Notice: Repair ambiguous attachment. Correct the student's mix-up using the full task."
-    },
+    "stage": "explain",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "Why does “The lizard rested beneath the warm rock.” work well for adding a precise place detail to a science observation?",
+    "audio_prompt": "Why does “The lizard rested beneath the warm rock.” work well for adding a precise place detail to a science observation?",
     "answers": [
       {
-        "text": "Keep “circumstance”; it uses a detail that sounds familiar.",
+        "text": "Because “The lizard rested warm.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Choose “prepositional phrase” instead; it sounds clearer.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       },
       {
-        "text": "Match the definition to the exact language or literacy concept. adverb group is the precise term for this feature.",
+        "text": "Beneath the warm rock specifies where the lizard rested.",
         "is_correct": true
       }
     ],
-    "audio_answers": [
-      "Capital words: Keep. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “circumstance”; it uses a detail that sounds familiar.",
-      "Capital words: Choose. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “prepositional phrase” instead; it sounds clearer.",
-      "Capital words: Match. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Match the definition to the exact language or literacy concept. adverb group is the precise term for this feature."
-    ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Match the definition to the exact language or literacy concept. adverb group is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Beneath the warm rock specifies where the lizard rested.",
+      "hint": "Choose detail that adds useful information, not just extra words."
+    }
   },
   {
     "id": "AC9E4LA08-P-021",
@@ -833,40 +605,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "skill": "vocabulary_2_apply",
-    "question": "A class annotation about Adverb Groups and Prepositional Phrases describes “phrase beginning with a preposition and typically a noun group”. Which term is most precise?",
-    "audio_prompt": "A class annotation about Adverb Groups and Prepositional Phrases describes “phrase beginning with a preposition and typically a noun group”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la08.svg#ac9e4la08-p-021",
-      "alt_text": "Three-step Adverb Groups and Prepositional Phrases organiser. Read: Vocabulary 2. Notice: Identify circumstance types. Choose the response supported by the example."
-    },
+    "stage": "discriminate",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "Which revision best fixes the problem in “The wallaby rocky hopped.” for adding place detail to “The wallaby hopped”?",
+    "audio_prompt": "Which revision best fixes the problem in “The wallaby rocky hopped.” for adding place detail to “The wallaby hopped”?",
     "answers": [
       {
-        "text": "prepositional phrase",
+        "text": "The wallaby hopped across the rocky track.",
         "is_correct": true
       },
       {
-        "text": "adverb group",
+        "text": "The wallaby rocky hopped.",
         "is_correct": false
       },
       {
-        "text": "circumstance",
+        "text": "Across hopped the wallaby track without a clear relationship.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: prepositional phrase",
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: adverb group",
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: circumstance"
-    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "prepositional phrase is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Across the rocky track is a prepositional phrase telling where the hopping happened. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Look for a phrase that answers where, when or how."
+    }
   },
   {
     "id": "AC9E4LA08-P-022",
@@ -874,40 +635,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "skill": "vocabulary_2_reason",
-    "question": "A student answers “adverb group”. Which feedback helps? Task: A class annotation about Adverb Groups and Prepositional Phrases describes “phrase beginning with a preposition and typically a noun group”. Which term is most precise?",
-    "audio_prompt": "A student answers “adverb group”. Which feedback helps? Task: A class annotation about Adverb Groups and Prepositional Phrases describes “phrase beginning with a preposition and typically a noun group”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la08.svg#ac9e4la08-p-022",
-      "alt_text": "Three-step Adverb Groups and Prepositional Phrases organiser. Read: Vocabulary 2. Notice: Identify circumstance types. Correct the student's mix-up using the full task."
-    },
+    "stage": "discriminate",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "Compare the choices for adding place detail to “The wallaby hopped”. Which one avoids the mistake in “The wallaby rocky hopped.”?",
+    "audio_prompt": "Compare the choices for adding place detail to “The wallaby hopped”. Which one avoids the mistake in “The wallaby rocky hopped.”?",
     "answers": [
       {
-        "text": "Keep “adverb group”; it uses a detail that sounds familiar.",
+        "text": "The wallaby rocky hopped.",
         "is_correct": false
       },
       {
-        "text": "Match the definition to the exact language or literacy concept. prepositional phrase is the precise term for this feature.",
+        "text": "The wallaby hopped across the rocky track.",
         "is_correct": true
       },
       {
-        "text": "Choose “circumstance” instead; it sounds clearer.",
+        "text": "Across hopped the wallaby track without a clear relationship.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Keep. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “adverb group”; it uses a detail that sounds familiar.",
-      "Capital words: Match. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Match the definition to the exact language or literacy concept. prepositional phrase is the precise term for this feature.",
-      "Capital words: Choose. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “circumstance” instead; it sounds clearer."
-    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Match the definition to the exact language or literacy concept. prepositional phrase is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Across the rocky track is a prepositional phrase telling where the hopping happened. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Look for a phrase that answers where, when or how."
+    }
   },
   {
     "id": "AC9E4LA08-P-023",
@@ -915,40 +665,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "skill": "vocabulary_3_apply",
-    "question": "A class annotation about Adverb Groups and Prepositional Phrases describes “detail about when, where, how, why or under what conditions”. Which term is most precise?",
-    "audio_prompt": "A class annotation about Adverb Groups and Prepositional Phrases describes “detail about when, where, how, why or under what conditions”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la08.svg#ac9e4la08-p-023",
-      "alt_text": "Three-step Adverb Groups and Prepositional Phrases organiser. Read: Vocabulary 3. Notice: Recognise phrase forms. Choose the response supported by the example."
-    },
+    "stage": "discriminate",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "Compare the choices for adding manner detail to “The choir sang”. Which one avoids the mistake in “The choir sang under the stage if the meaning is manner.”?",
+    "audio_prompt": "Compare the choices for adding manner detail to “The choir sang”. Which one avoids the mistake in “The choir sang under the stage if the meaning is manner.”?",
     "answers": [
       {
-        "text": "adverb group",
+        "text": "The choir sang under the stage if the meaning is manner.",
         "is_correct": false
       },
       {
-        "text": "prepositional phrase",
+        "text": "The choir softly surprising sang.",
         "is_correct": false
       },
       {
-        "text": "circumstance",
+        "text": "The choir sang surprisingly softly.",
         "is_correct": true
       }
     ],
-    "audio_answers": [
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: adverb group",
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: prepositional phrase",
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: circumstance"
-    ],
     "correct_index": 2,
     "explanation": {
-      "summary": "circumstance is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Surprisingly softly is an adverb group that tells how the choir sang. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Manner details explain how an activity happens."
+    }
   },
   {
     "id": "AC9E4LA08-P-024",
@@ -956,40 +695,509 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "skill": "vocabulary_3_reason",
-    "question": "A student answers “prepositional phrase”. Which feedback helps? Task: A class annotation about Adverb Groups and Prepositional Phrases describes “detail about when, where, how, why or under what conditions”. Which term is most precise?",
-    "audio_prompt": "A student answers “prepositional phrase”. Which feedback helps? Task: A class annotation about Adverb Groups and Prepositional Phrases describes “detail about when, where, how, why or under what conditions”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la08.svg#ac9e4la08-p-024",
-      "alt_text": "Three-step Adverb Groups and Prepositional Phrases organiser. Read: Vocabulary 3. Notice: Recognise phrase forms. Correct the student's mix-up using the full task."
-    },
+    "stage": "discriminate",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "If “The choir sang under the stage if the meaning is manner.” does not work in adding manner detail to “The choir sang”, what should replace it?",
+    "audio_prompt": "If “The choir sang under the stage if the meaning is manner.” does not work in adding manner detail to “The choir sang”, what should replace it?",
     "answers": [
       {
-        "text": "Match the definition to the exact language or literacy concept. circumstance is the precise term for this feature.",
+        "text": "The choir sang surprisingly softly.",
         "is_correct": true
       },
       {
-        "text": "Keep “prepositional phrase”; it uses a detail that sounds familiar.",
+        "text": "The choir sang under the stage if the meaning is manner.",
         "is_correct": false
       },
       {
-        "text": "Choose “adverb group” instead; it sounds clearer.",
+        "text": "The choir softly surprising sang.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Match. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Match the definition to the exact language or literacy concept. circumstance is the precise term for this feature.",
-      "Capital words: Keep. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “prepositional phrase”; it uses a detail that sounds familiar.",
-      "Capital words: Choose. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “adverb group” instead; it sounds clearer."
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Surprisingly softly is an adverb group that tells how the choir sang. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Manner details explain how an activity happens."
+    }
+  },
+  {
+    "id": "AC9E4LA08-P-025",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA08",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "If “We packed before the tent sunrise.” does not work in adding time detail to “We packed the tent”, what should replace it?",
+    "audio_prompt": "If “We packed before the tent sunrise.” does not work in adding time detail to “We packed the tent”, what should replace it?",
+    "answers": [
+      {
+        "text": "We packed before the tent sunrise.",
+        "is_correct": false
+      },
+      {
+        "text": "We packed the tent before sunrise.",
+        "is_correct": true
+      },
+      {
+        "text": "We sunrise packed the tent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Before sunrise is a prepositional phrase giving the time of the action. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Check what circumstance the phrase adds."
+    }
+  },
+  {
+    "id": "AC9E4LA08-P-026",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA08",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "Which option corrects the meaning or form needed for adding time detail to “We packed the tent”?",
+    "audio_prompt": "Which option corrects the meaning or form needed for adding time detail to “We packed the tent”?",
+    "answers": [
+      {
+        "text": "We packed before the tent sunrise.",
+        "is_correct": false
+      },
+      {
+        "text": "We sunrise packed the tent.",
+        "is_correct": false
+      },
+      {
+        "text": "We packed the tent before sunrise.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Before sunrise is a prepositional phrase giving the time of the action. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Check what circumstance the phrase adds."
+    }
+  },
+  {
+    "id": "AC9E4LA08-P-027",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA08",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "Which option corrects the meaning or form needed for placing a phrase so its meaning is clear?",
+    "audio_prompt": "Which option corrects the meaning or form needed for placing a phrase so its meaning is clear?",
+    "answers": [
+      {
+        "text": "After lunch, the class visited the gallery.",
+        "is_correct": true
+      },
+      {
+        "text": "The class, after, visited lunch the gallery.",
+        "is_correct": false
+      },
+      {
+        "text": "The class visited after the gallery lunch.",
+        "is_correct": false
+      }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Match the definition to the exact language or literacy concept. circumstance is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Placing After lunch together makes it clear that the phrase tells when the visit happened. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Keep the phrase close to the activity it describes."
+    }
+  },
+  {
+    "id": "AC9E4LA08-P-028",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA08",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "Which choice is the clearest correction for placing a phrase so its meaning is clear?",
+    "audio_prompt": "Which choice is the clearest correction for placing a phrase so its meaning is clear?",
+    "answers": [
+      {
+        "text": "The class, after, visited lunch the gallery.",
+        "is_correct": false
+      },
+      {
+        "text": "After lunch, the class visited the gallery.",
+        "is_correct": true
+      },
+      {
+        "text": "The class visited after the gallery lunch.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Placing After lunch together makes it clear that the phrase tells when the visit happened. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Keep the phrase close to the activity it describes."
+    }
+  },
+  {
+    "id": "AC9E4LA08-P-029",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA08",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "Which choice is the clearest correction for adding a precise place detail to a science observation?",
+    "audio_prompt": "Which choice is the clearest correction for adding a precise place detail to a science observation?",
+    "answers": [
+      {
+        "text": "The lizard rested warm.",
+        "is_correct": false
+      },
+      {
+        "text": "The lizard beneath rested rock the.",
+        "is_correct": false
+      },
+      {
+        "text": "The lizard rested beneath the warm rock.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Beneath the warm rock specifies where the lizard rested. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Choose detail that adds useful information, not just extra words."
+    }
+  },
+  {
+    "id": "AC9E4LA08-P-030",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA08",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "Which revision best fixes the problem in “The lizard rested warm.” for adding a precise place detail to a science observation?",
+    "audio_prompt": "Which revision best fixes the problem in “The lizard rested warm.” for adding a precise place detail to a science observation?",
+    "answers": [
+      {
+        "text": "The lizard rested beneath the warm rock.",
+        "is_correct": true
+      },
+      {
+        "text": "The lizard rested warm.",
+        "is_correct": false
+      },
+      {
+        "text": "The lizard beneath rested rock the.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Beneath the warm rock specifies where the lizard rested. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Choose detail that adds useful information, not just extra words."
+    }
+  },
+  {
+    "id": "AC9E4LA08-P-031",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA08",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "You now need to handle adding place detail to “The wallaby hopped” independently. Which choice should you use?",
+    "audio_prompt": "You now need to handle adding place detail to “The wallaby hopped” independently. Which choice should you use?",
+    "answers": [
+      {
+        "text": "Across hopped the wallaby track without a clear relationship.",
+        "is_correct": false
+      },
+      {
+        "text": "The wallaby hopped across the rocky track.",
+        "is_correct": true
+      },
+      {
+        "text": "The wallaby rocky hopped.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Across the rocky track is a prepositional phrase telling where the hopping happened.",
+      "hint": "Look for a phrase that answers where, when or how."
+    }
+  },
+  {
+    "id": "AC9E4LA08-P-032",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA08",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "Apply the same idea to adding place detail to “The wallaby hopped”. Which option is best?",
+    "audio_prompt": "Apply the same idea to adding place detail to “The wallaby hopped”. Which option is best?",
+    "answers": [
+      {
+        "text": "Across hopped the wallaby track without a clear relationship.",
+        "is_correct": false
+      },
+      {
+        "text": "The wallaby rocky hopped.",
+        "is_correct": false
+      },
+      {
+        "text": "The wallaby hopped across the rocky track.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Across the rocky track is a prepositional phrase telling where the hopping happened.",
+      "hint": "Look for a phrase that answers where, when or how."
+    }
+  },
+  {
+    "id": "AC9E4LA08-P-033",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA08",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "Apply the same idea to adding manner detail to “The choir sang”. Which option is best?",
+    "audio_prompt": "Apply the same idea to adding manner detail to “The choir sang”. Which option is best?",
+    "answers": [
+      {
+        "text": "The choir sang surprisingly softly.",
+        "is_correct": true
+      },
+      {
+        "text": "The choir softly surprising sang.",
+        "is_correct": false
+      },
+      {
+        "text": "The choir sang under the stage if the meaning is manner.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Surprisingly softly is an adverb group that tells how the choir sang.",
+      "hint": "Manner details explain how an activity happens."
+    }
+  },
+  {
+    "id": "AC9E4LA08-P-034",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA08",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "Which decision would produce the clearest result in adding manner detail to “The choir sang”?",
+    "audio_prompt": "Which decision would produce the clearest result in adding manner detail to “The choir sang”?",
+    "answers": [
+      {
+        "text": "The choir softly surprising sang.",
+        "is_correct": false
+      },
+      {
+        "text": "The choir sang surprisingly softly.",
+        "is_correct": true
+      },
+      {
+        "text": "The choir sang under the stage if the meaning is manner.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Surprisingly softly is an adverb group that tells how the choir sang.",
+      "hint": "Manner details explain how an activity happens."
+    }
+  },
+  {
+    "id": "AC9E4LA08-P-035",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA08",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "Which decision would produce the clearest result in adding time detail to “We packed the tent”?",
+    "audio_prompt": "Which decision would produce the clearest result in adding time detail to “We packed the tent”?",
+    "answers": [
+      {
+        "text": "We sunrise packed the tent.",
+        "is_correct": false
+      },
+      {
+        "text": "We packed before the tent sunrise.",
+        "is_correct": false
+      },
+      {
+        "text": "We packed the tent before sunrise.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Before sunrise is a prepositional phrase giving the time of the action.",
+      "hint": "Check what circumstance the phrase adds."
+    }
+  },
+  {
+    "id": "AC9E4LA08-P-036",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA08",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "Choose the option that applies the skill correctly in adding time detail to “We packed the tent”.",
+    "audio_prompt": "Choose the option that applies the skill correctly in adding time detail to “We packed the tent”.",
+    "answers": [
+      {
+        "text": "We packed the tent before sunrise.",
+        "is_correct": true
+      },
+      {
+        "text": "We sunrise packed the tent.",
+        "is_correct": false
+      },
+      {
+        "text": "We packed before the tent sunrise.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Before sunrise is a prepositional phrase giving the time of the action.",
+      "hint": "Check what circumstance the phrase adds."
+    }
+  },
+  {
+    "id": "AC9E4LA08-P-037",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA08",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "Choose the option that applies the skill correctly in placing a phrase so its meaning is clear.",
+    "audio_prompt": "Choose the option that applies the skill correctly in placing a phrase so its meaning is clear.",
+    "answers": [
+      {
+        "text": "The class visited after the gallery lunch.",
+        "is_correct": false
+      },
+      {
+        "text": "After lunch, the class visited the gallery.",
+        "is_correct": true
+      },
+      {
+        "text": "The class, after, visited lunch the gallery.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Placing After lunch together makes it clear that the phrase tells when the visit happened.",
+      "hint": "Keep the phrase close to the activity it describes."
+    }
+  },
+  {
+    "id": "AC9E4LA08-P-038",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA08",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "What would be the most effective choice for placing a phrase so its meaning is clear?",
+    "audio_prompt": "What would be the most effective choice for placing a phrase so its meaning is clear?",
+    "answers": [
+      {
+        "text": "The class visited after the gallery lunch.",
+        "is_correct": false
+      },
+      {
+        "text": "The class, after, visited lunch the gallery.",
+        "is_correct": false
+      },
+      {
+        "text": "After lunch, the class visited the gallery.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Placing After lunch together makes it clear that the phrase tells when the visit happened.",
+      "hint": "Keep the phrase close to the activity it describes."
+    }
+  },
+  {
+    "id": "AC9E4LA08-P-039",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA08",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "What would be the most effective choice for adding a precise place detail to a science observation?",
+    "audio_prompt": "What would be the most effective choice for adding a precise place detail to a science observation?",
+    "answers": [
+      {
+        "text": "The lizard rested beneath the warm rock.",
+        "is_correct": true
+      },
+      {
+        "text": "The lizard beneath rested rock the.",
+        "is_correct": false
+      },
+      {
+        "text": "The lizard rested warm.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Beneath the warm rock specifies where the lizard rested.",
+      "hint": "Choose detail that adds useful information, not just extra words."
+    }
+  },
+  {
+    "id": "AC9E4LA08-P-040",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA08",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "You now need to handle adding a precise place detail to a science observation independently. Which choice should you use?",
+    "audio_prompt": "You now need to handle adding a precise place detail to a science observation independently. Which choice should you use?",
+    "answers": [
+      {
+        "text": "The lizard beneath rested rock the.",
+        "is_correct": false
+      },
+      {
+        "text": "The lizard rested beneath the warm rock.",
+        "is_correct": true
+      },
+      {
+        "text": "The lizard rested warm.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Beneath the warm rock specifies where the lizard rested.",
+      "hint": "Choose detail that adds useful information, not just extra words."
+    }
   },
   {
     "id": "AC9E4LA08-T-001",
@@ -997,37 +1205,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "test",
-    "skill": "new_text_1_apply",
-    "question": "In a new assessment text, Which phrase provides a place circumstance?",
-    "audio_prompt": "In a new assessment text, Which phrase provides a place circumstance?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la08.svg#ac9e4la08-t-001",
-      "alt_text": "Three-step Adverb Groups and Prepositional Phrases organiser. Read: New text 1. Notice: Identify circumstance types. Choose the response supported by the example."
-    },
+    "stage": "verify",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "New context: adding frequency to a routine. Which option is correct?",
+    "audio_prompt": "New context: adding frequency to a routine. Which option is correct?",
     "answers": [
       {
-        "text": "before sunrise",
+        "text": "The library team every checks afternoon the returns.",
         "is_correct": false
       },
       {
-        "text": "beside the fallen log",
+        "text": "The library team checks the returns blue.",
+        "is_correct": false
+      },
+      {
+        "text": "The library team checks the returns every afternoon.",
         "is_correct": true
-      },
-      {
-        "text": "with great care",
-        "is_correct": false
       }
     ],
-    "audio_answers": [
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: before sunrise",
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: beside the fallen log",
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: with great care"
-    ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The evidence and language purpose support “beside the fallen log”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "Every afternoon gives a repeated time circumstance for the activity.",
+      "hint": "Ask what detail helps the reader understand when or how often."
     }
   },
   {
@@ -1036,37 +1235,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "test",
-    "skill": "new_text_1_reason",
-    "question": "A student answers “before sunrise”. Which feedback helps? Task: In a new assessment text, Which phrase provides a place circumstance?",
-    "audio_prompt": "A student answers “before sunrise”. Which feedback helps? Task: In a new assessment text, Which phrase provides a place circumstance?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la08.svg#ac9e4la08-t-002",
-      "alt_text": "Three-step Adverb Groups and Prepositional Phrases organiser. Read: New text 1. Notice: Identify circumstance types. Correct the student's mix-up using the full task."
-    },
+    "stage": "verify",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "What is the best choice for adding frequency to a routine?",
+    "audio_prompt": "What is the best choice for adding frequency to a routine?",
     "answers": [
       {
-        "text": "Keep “before sunrise”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “with great care” instead; it sounds clearer.",
-        "is_correct": false
-      },
-      {
-        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “beside the fallen log”.",
+        "text": "The library team checks the returns every afternoon.",
         "is_correct": true
+      },
+      {
+        "text": "The library team every checks afternoon the returns.",
+        "is_correct": false
+      },
+      {
+        "text": "The library team checks the returns blue.",
+        "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Keep. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “before sunrise”; it uses a detail that sounds familiar.",
-      "Capital words: Choose. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “with great care” instead; it sounds clearer.",
-      "Capital words: Check, The. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: feature. The text ends with a full stop. The text reads: Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “beside the fallen log”."
-    ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “beside the fallen log”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Every afternoon gives a repeated time circumstance for the activity.",
+      "hint": "Ask what detail helps the reader understand when or how often."
     }
   },
   {
@@ -1075,37 +1265,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "test",
-    "skill": "new_text_2_apply",
-    "question": "In a new assessment text, Which sentence has the clearest phrase attachment?",
-    "audio_prompt": "In a new assessment text, Which sentence has the clearest phrase attachment?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la08.svg#ac9e4la08-t-003",
-      "alt_text": "Three-step Adverb Groups and Prepositional Phrases organiser. Read: New text 2. Notice: Recognise phrase forms. Choose the response supported by the example."
-    },
+    "stage": "verify",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "Which explanation best supports “The library team checks the returns every afternoon.” in adding frequency to a routine?",
+    "audio_prompt": "Which explanation best supports “The library team checks the returns every afternoon.” in adding frequency to a routine?",
     "answers": [
       {
-        "text": "While Priya walked to school, the rain soaked her.",
+        "text": "Because “The library team every checks afternoon the returns.” is always a safe choice.",
+        "is_correct": false
+      },
+      {
+        "text": "Every afternoon gives a repeated time circumstance for the activity.",
         "is_correct": true
       },
       {
-        "text": "Walking to school, the rain soaked Priya.",
-        "is_correct": false
-      },
-      {
-        "text": "The rain, walking to school, soaked Priya.",
+        "text": "Because surface appearance matters more than meaning.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: While, Priya. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: school. The text ends with a full stop. The text reads: While Priya walked to school, the rain soaked her.",
-      "Capital words: Walking, Priya. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: school. The text ends with a full stop. The text reads: Walking to school, the rain soaked Priya.",
-      "Capital words: The, Priya. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: rain, school. The text ends with a full stop. The text reads: The rain, walking to school, soaked Priya."
-    ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The evidence and language purpose support “While Priya walked to school, the rain soaked her.”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "Every afternoon gives a repeated time circumstance for the activity.",
+      "hint": "Ask what detail helps the reader understand when or how often."
     }
   },
   {
@@ -1114,37 +1295,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "test",
-    "skill": "new_text_2_reason",
-    "question": "A student answers “The rain, walking to school, soaked Priya.”. Which feedback helps? Task: In a new assessment text, Which sentence has the clearest phrase attachment?",
-    "audio_prompt": "A student answers “The rain, walking to school, soaked Priya.”. Which feedback helps? Task: In a new assessment text, Which sentence has the clearest phrase attachment?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la08.svg#ac9e4la08-t-004",
-      "alt_text": "Three-step Adverb Groups and Prepositional Phrases organiser. Read: New text 2. Notice: Recognise phrase forms. Correct the student's mix-up using the full task."
-    },
+    "stage": "verify",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "Which clue should guide your decision in adding frequency to a routine?",
+    "audio_prompt": "Which clue should guide your decision in adding frequency to a routine?",
     "answers": [
       {
-        "text": "Keep “The rain, walking to school, soaked Priya.”; it uses a detail that sounds familiar.",
+        "text": "Choose the option with the most words.",
         "is_correct": false
       },
       {
-        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “While Priya walked to school, the rain soaked her.”.",
+        "text": "Ignore the context and use the first familiar form.",
+        "is_correct": false
+      },
+      {
+        "text": "Ask what detail helps the reader understand when or how often.",
         "is_correct": true
-      },
-      {
-        "text": "Choose “Walking to school, the rain soaked Priya.” instead; it sounds clearer.",
-        "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Keep, The, Priya. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: rain, school. The text ends with a full stop. The text reads: Keep “The rain, walking to school, soaked Priya.”; it uses a detail that sounds familiar.",
-      "Capital words: Check, The, While, Priya. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: feature, school. The text ends with a full stop. The text reads: Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “While Priya walked to school, the rain soaked her.”.",
-      "Capital words: Choose, Walking, Priya. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: school. The text ends with a full stop. The text reads: Choose “Walking to school, the rain soaked Priya.” instead; it sounds clearer."
-    ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “While Priya walked to school, the rain soaked her.”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Every afternoon gives a repeated time circumstance for the activity.",
+      "hint": "Ask what detail helps the reader understand when or how often."
     }
   },
   {
@@ -1153,37 +1325,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "test",
-    "skill": "misconception_1_apply",
-    "question": "An editor reviewing a new text claims, “Every phrase beginning with -ly is required”. Which response gives the most accurate correction?",
-    "audio_prompt": "An editor reviewing a new text claims, “Every phrase beginning with -ly is required”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la08.svg#ac9e4la08-t-005",
-      "alt_text": "Three-step Adverb Groups and Prepositional Phrases organiser. Read: Misconception 1. Notice: Expand clauses precisely. Choose the response supported by the example."
-    },
+    "stage": "apply",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "Which option would you reject first in adding frequency to a routine?",
+    "audio_prompt": "Which option would you reject first in adding frequency to a routine?",
     "answers": [
       {
-        "text": "Every phrase beginning with -ly is required",
-        "is_correct": false
-      },
-      {
-        "text": "Longer sentence is automatically better",
-        "is_correct": false
-      },
-      {
-        "text": "Many adverbs do not end in -ly, and prepositional phrases add circumstances too.",
+        "text": "The library team every checks afternoon the returns.",
         "is_correct": true
+      },
+      {
+        "text": "The library team checks the returns every afternoon.",
+        "is_correct": false
+      },
+      {
+        "text": "The library team checks the returns blue.",
+        "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Every. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Every phrase beginning with -ly is required",
-      "Capital words: Longer. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Longer sentence is automatically better",
-      "Capital words: Many. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: ly. The text ends with a full stop. The text reads: Many adverbs do not end in -ly, and prepositional phrases add circumstances too."
-    ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Many adverbs do not end in -ly, and prepositional phrases add circumstances too.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Every afternoon gives a repeated time circumstance for the activity.",
+      "hint": "Ask what detail helps the reader understand when or how often."
     }
   },
   {
@@ -1192,37 +1355,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "test",
-    "skill": "misconception_1_reason",
-    "question": "A student answers “Every phrase beginning with -ly is required”. Which feedback helps? Task: An editor reviewing a new text claims, “Every phrase beginning with -ly is required”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Every phrase beginning with -ly is required”. Which feedback helps? Task: An editor reviewing a new text claims, “Every phrase beginning with -ly is required”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la08.svg#ac9e4la08-t-006",
-      "alt_text": "Three-step Adverb Groups and Prepositional Phrases organiser. Read: Misconception 1. Notice: Expand clauses precisely. Correct the student's mix-up using the full task."
-    },
+    "stage": "apply",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "Which correction should replace “The library team every checks afternoon the returns.” in adding frequency to a routine?",
+    "audio_prompt": "Which correction should replace “The library team every checks afternoon the returns.” in adding frequency to a routine?",
     "answers": [
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Many adverbs do not end in -ly, and prepositional phrases add circumstances too.",
+        "text": "The library team every checks afternoon the returns.",
+        "is_correct": false
+      },
+      {
+        "text": "The library team checks the returns every afternoon.",
         "is_correct": true
       },
       {
-        "text": "Keep “Every phrase beginning with -ly is required”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “Longer sentence is automatically better” instead; it sounds clearer.",
+        "text": "The library team checks the returns blue.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Identify, Many. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: overlooks, ly. The text ends with a full stop. The text reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. Many adverbs do not end in -ly, and prepositional phrases add circumstances too.",
-      "Capital words: Keep, Every. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “Every phrase beginning with -ly is required”; it uses a detail that sounds familiar.",
-      "Capital words: Choose, Longer. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “Longer sentence is automatically better” instead; it sounds clearer."
-    ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Many adverbs do not end in -ly, and prepositional phrases add circumstances too.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Every afternoon gives a repeated time circumstance for the activity.",
+      "hint": "Ask what detail helps the reader understand when or how often."
     }
   },
   {
@@ -1231,37 +1385,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "test",
-    "skill": "misconception_2_apply",
-    "question": "An editor reviewing a new text claims, “Longer sentence is automatically better”. Which response gives the most accurate correction?",
-    "audio_prompt": "An editor reviewing a new text claims, “Longer sentence is automatically better”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la08.svg#ac9e4la08-t-007",
-      "alt_text": "Three-step Adverb Groups and Prepositional Phrases organiser. Read: Misconception 2. Notice: Control placement and emphasis. Choose the response supported by the example."
-    },
+    "stage": "apply",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "Apply the skill to adding frequency to a routine: what should you choose?",
+    "audio_prompt": "Apply the skill to adding frequency to a routine: what should you choose?",
     "answers": [
       {
-        "text": "Longer sentence is automatically better",
+        "text": "The library team every checks afternoon the returns.",
         "is_correct": false
       },
       {
-        "text": "Select details that serve meaning and avoid overload.",
+        "text": "The library team checks the returns blue.",
+        "is_correct": false
+      },
+      {
+        "text": "The library team checks the returns every afternoon.",
         "is_correct": true
-      },
-      {
-        "text": "Phrase attachment ignored",
-        "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Longer. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Longer sentence is automatically better",
-      "Capital words: Select. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Select details that serve meaning and avoid overload.",
-      "Capital words: Phrase. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Phrase attachment ignored"
-    ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Select details that serve meaning and avoid overload.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Every afternoon gives a repeated time circumstance for the activity.",
+      "hint": "Ask what detail helps the reader understand when or how often."
     }
   },
   {
@@ -1270,37 +1415,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "test",
-    "skill": "misconception_2_reason",
-    "question": "A student answers “Phrase attachment ignored”. Which feedback helps? Task: An editor reviewing a new text claims, “Longer sentence is automatically better”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Phrase attachment ignored”. Which feedback helps? Task: An editor reviewing a new text claims, “Longer sentence is automatically better”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la08.svg#ac9e4la08-t-008",
-      "alt_text": "Three-step Adverb Groups and Prepositional Phrases organiser. Read: Misconception 2. Notice: Control placement and emphasis. Correct the student's mix-up using the full task."
-    },
+    "stage": "apply",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "Which final choice gives the clearest and most accurate result for adding frequency to a routine?",
+    "audio_prompt": "Which final choice gives the clearest and most accurate result for adding frequency to a routine?",
     "answers": [
       {
-        "text": "Keep “Phrase attachment ignored”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “Longer sentence is automatically better” instead; it sounds clearer.",
-        "is_correct": false
-      },
-      {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Select details that serve meaning and avoid overload.",
+        "text": "The library team checks the returns every afternoon.",
         "is_correct": true
+      },
+      {
+        "text": "The library team every checks afternoon the returns.",
+        "is_correct": false
+      },
+      {
+        "text": "The library team checks the returns blue.",
+        "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Keep, Phrase. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “Phrase attachment ignored”; it uses a detail that sounds familiar.",
-      "Capital words: Choose, Longer. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “Longer sentence is automatically better” instead; it sounds clearer.",
-      "Capital words: Identify, Select. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: overlooks. The text ends with a full stop. The text reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. Select details that serve meaning and avoid overload."
-    ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Select details that serve meaning and avoid overload.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Every afternoon gives a repeated time circumstance for the activity.",
+      "hint": "Ask what detail helps the reader understand when or how often."
     }
   },
   {
@@ -1309,37 +1445,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "test",
-    "skill": "misconception_3_apply",
-    "question": "An editor reviewing a new text claims, “Phrase attachment ignored”. Which response gives the most accurate correction?",
-    "audio_prompt": "An editor reviewing a new text claims, “Phrase attachment ignored”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la08.svg#ac9e4la08-t-009",
-      "alt_text": "Three-step Adverb Groups and Prepositional Phrases organiser. Read: Misconception 3. Notice: Repair ambiguous attachment. Choose the response supported by the example."
-    },
+    "stage": "verify",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "New context: improving a sentence about a cyclist. Which option is correct?",
+    "audio_prompt": "New context: improving a sentence about a cyclist. Which option is correct?",
     "answers": [
       {
-        "text": "Place the phrase where its relationship is clear.",
+        "text": "The cyclist moved branch carefully fallen.",
+        "is_correct": false
+      },
+      {
+        "text": "The cyclist moved carefully around the fallen branch.",
         "is_correct": true
       },
       {
-        "text": "Phrase attachment ignored",
-        "is_correct": false
-      },
-      {
-        "text": "Form and function confused",
+        "text": "The cyclist moved with around.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Place. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Place the phrase where its relationship is clear.",
-      "Capital words: Phrase. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Phrase attachment ignored",
-      "Capital words: Form. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Form and function confused"
-    ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Place the phrase where its relationship is clear.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Carefully explains manner and around the fallen branch explains the route or place.",
+      "hint": "Useful circumstances should attach clearly to the action."
     }
   },
   {
@@ -1348,37 +1475,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "test",
-    "skill": "misconception_3_reason",
-    "question": "A student answers “Phrase attachment ignored”. Which feedback helps? Task: An editor reviewing a new text claims, “Phrase attachment ignored”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Phrase attachment ignored”. Which feedback helps? Task: An editor reviewing a new text claims, “Phrase attachment ignored”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la08.svg#ac9e4la08-t-010",
-      "alt_text": "Three-step Adverb Groups and Prepositional Phrases organiser. Read: Misconception 3. Notice: Repair ambiguous attachment. Correct the student's mix-up using the full task."
-    },
+    "stage": "verify",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "What is the best choice for improving a sentence about a cyclist?",
+    "audio_prompt": "What is the best choice for improving a sentence about a cyclist?",
     "answers": [
       {
-        "text": "Keep “Phrase attachment ignored”; it uses a detail that sounds familiar.",
+        "text": "The cyclist moved branch carefully fallen.",
         "is_correct": false
       },
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Place the phrase where its relationship is clear.",
+        "text": "The cyclist moved with around.",
+        "is_correct": false
+      },
+      {
+        "text": "The cyclist moved carefully around the fallen branch.",
         "is_correct": true
-      },
-      {
-        "text": "Choose “Form and function confused” instead; it sounds clearer.",
-        "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Keep, Phrase. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “Phrase attachment ignored”; it uses a detail that sounds familiar.",
-      "Capital words: Identify, Place. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: overlooks. The text ends with a full stop. The text reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. Place the phrase where its relationship is clear.",
-      "Capital words: Choose, Form. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “Form and function confused” instead; it sounds clearer."
-    ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Place the phrase where its relationship is clear.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Carefully explains manner and around the fallen branch explains the route or place.",
+      "hint": "Useful circumstances should attach clearly to the action."
     }
   },
   {
@@ -1387,37 +1505,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "test",
-    "skill": "misconception_4_apply",
-    "question": "An editor reviewing a new text claims, “Form and function confused”. Which response gives the most accurate correction?",
-    "audio_prompt": "An editor reviewing a new text claims, “Form and function confused”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la08.svg#ac9e4la08-t-011",
-      "alt_text": "Three-step Adverb Groups and Prepositional Phrases organiser. Read: Misconception 4. Notice: Identify circumstance types. Choose the response supported by the example."
-    },
+    "stage": "verify",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "Which explanation best supports “The cyclist moved carefully around the fallen branch.” in improving a sentence about a cyclist?",
+    "audio_prompt": "Which explanation best supports “The cyclist moved carefully around the fallen branch.” in improving a sentence about a cyclist?",
     "answers": [
       {
-        "text": "Form and function confused",
-        "is_correct": false
-      },
-      {
-        "text": "Every phrase beginning with -ly is required",
-        "is_correct": false
-      },
-      {
-        "text": "A prepositional phrase can function adverbially, but it is still structurally a prepositional phrase.",
+        "text": "Carefully explains manner and around the fallen branch explains the route or place.",
         "is_correct": true
+      },
+      {
+        "text": "Because “The cyclist moved branch carefully fallen.” is always a safe choice.",
+        "is_correct": false
+      },
+      {
+        "text": "Because surface appearance matters more than meaning.",
+        "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Form. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Form and function confused",
-      "Capital words: Every. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Every phrase beginning with -ly is required",
-      "Capital words: A. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: adverbially. The text ends with a full stop. The text reads: A prepositional phrase can function adverbially, but it is still structurally a prepositional phrase."
-    ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A prepositional phrase can function adverbially, but it is still structurally a prepositional phrase.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Carefully explains manner and around the fallen branch explains the route or place.",
+      "hint": "Useful circumstances should attach clearly to the action."
     }
   },
   {
@@ -1426,37 +1535,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "test",
-    "skill": "misconception_4_reason",
-    "question": "A student answers “Every phrase beginning with -ly is required”. Which feedback helps? Task: An editor reviewing a new text claims, “Form and function confused”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Every phrase beginning with -ly is required”. Which feedback helps? Task: An editor reviewing a new text claims, “Form and function confused”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la08.svg#ac9e4la08-t-012",
-      "alt_text": "Three-step Adverb Groups and Prepositional Phrases organiser. Read: Misconception 4. Notice: Identify circumstance types. Correct the student's mix-up using the full task."
-    },
+    "stage": "verify",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "Which clue should guide your decision in improving a sentence about a cyclist?",
+    "audio_prompt": "Which clue should guide your decision in improving a sentence about a cyclist?",
     "answers": [
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. A prepositional phrase can function adverbially, but it is still structurally a prepositional phrase.",
+        "text": "Choose the option with the most words.",
+        "is_correct": false
+      },
+      {
+        "text": "Useful circumstances should attach clearly to the action.",
         "is_correct": true
       },
       {
-        "text": "Keep “Every phrase beginning with -ly is required”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “Form and function confused” instead; it sounds clearer.",
+        "text": "Ignore the context and use the first familiar form.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Identify, A. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: overlooks, adverbially. The text ends with a full stop. The text reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. A prepositional phrase can function adverbially, but it is still structurally a prepositional phrase.",
-      "Capital words: Keep, Every. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “Every phrase beginning with -ly is required”; it uses a detail that sounds familiar.",
-      "Capital words: Choose, Form. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “Form and function confused” instead; it sounds clearer."
-    ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. A prepositional phrase can function adverbially, but it is still structurally a prepositional phrase.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Carefully explains manner and around the fallen branch explains the route or place.",
+      "hint": "Useful circumstances should attach clearly to the action."
     }
   },
   {
@@ -1465,37 +1565,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "test",
-    "skill": "circumstance_sort_apply",
-    "question": "A different class adapts “Circumstance sort”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A different class adapts “Circumstance sort”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la08.svg#ac9e4la08-t-013",
-      "alt_text": "Three-step Adverb Groups and Prepositional Phrases organiser. Read: Circumstance sort. Notice: Recognise phrase forms. Choose the response supported by the example."
-    },
+    "stage": "apply",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "Which option would you reject first in improving a sentence about a cyclist?",
+    "audio_prompt": "Which option would you reject first in improving a sentence about a cyclist?",
     "answers": [
       {
-        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "text": "The cyclist moved carefully around the fallen branch.",
         "is_correct": false
       },
       {
-        "text": "Sort phrases by time, place, manner, cause and condition, then justify ambiguous examples.",
+        "text": "The cyclist moved with around.",
+        "is_correct": false
+      },
+      {
+        "text": "The cyclist moved branch carefully fallen.",
         "is_correct": true
-      },
-      {
-        "text": "Change the purpose and audience halfway through, then report the first impression only.",
-        "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Copy the title, then choose an answer without analysing the language or text.",
-      "Capital words: Sort. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: time, place, manner, condition. The text ends with a full stop. The text reads: Sort phrases by time, place, manner, cause and condition, then justify ambiguous examples.",
-      "Capital words: Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Change the purpose and audience halfway through, then report the first impression only."
-    ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Sort phrases by time, place, manner, cause and condition, then justify ambiguous examples.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Carefully explains manner and around the fallen branch explains the route or place.",
+      "hint": "Useful circumstances should attach clearly to the action."
     }
   },
   {
@@ -1504,37 +1595,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "test",
-    "skill": "circumstance_sort_reason",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: A different class adapts “Circumstance sort”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: A different class adapts “Circumstance sort”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la08.svg#ac9e4la08-t-014",
-      "alt_text": "Three-step Adverb Groups and Prepositional Phrases organiser. Read: Circumstance sort. Notice: Recognise phrase forms. Correct the student's mix-up using the full task."
-    },
+    "stage": "apply",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "Which correction should replace “The cyclist moved branch carefully fallen.” in improving a sentence about a cyclist?",
+    "audio_prompt": "Which correction should replace “The cyclist moved branch carefully fallen.” in improving a sentence about a cyclist?",
     "answers": [
       {
-        "text": "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Sort phrases by time, place, manner, cause and condition, then justify ambiguous examples.",
+        "text": "The cyclist moved carefully around the fallen branch.",
         "is_correct": true
+      },
+      {
+        "text": "The cyclist moved branch carefully fallen.",
+        "is_correct": false
+      },
+      {
+        "text": "The cyclist moved with around.",
+        "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Keep, Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
-      "Capital words: Choose, Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
-      "Capital words: Choose, Sort. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: time, place, manner, condition. The text ends with a full stop. The text reads: Choose the plan that analyses language evidence and produces a reviewable response. Sort phrases by time, place, manner, cause and condition, then justify ambiguous examples."
-    ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Sort phrases by time, place, manner, cause and condition, then justify ambiguous examples.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Carefully explains manner and around the fallen branch explains the route or place.",
+      "hint": "Useful circumstances should attach clearly to the action."
     }
   },
   {
@@ -1543,37 +1625,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "test",
-    "skill": "sentence_expansion_apply",
-    "question": "A different class adapts “Sentence expansion”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A different class adapts “Sentence expansion”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la08.svg#ac9e4la08-t-015",
-      "alt_text": "Three-step Adverb Groups and Prepositional Phrases organiser. Read: Sentence expansion. Notice: Expand clauses precisely. Choose the response supported by the example."
-    },
+    "stage": "apply",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "Apply the skill to improving a sentence about a cyclist: what should you choose?",
+    "audio_prompt": "Apply the skill to improving a sentence about a cyclist: what should you choose?",
     "answers": [
       {
-        "text": "Expand a plain clause with two compatible circumstances without overloading it.",
+        "text": "The cyclist moved branch carefully fallen.",
+        "is_correct": false
+      },
+      {
+        "text": "The cyclist moved carefully around the fallen branch.",
         "is_correct": true
       },
       {
-        "text": "Copy the title, then choose an answer without analysing the language or text.",
-        "is_correct": false
-      },
-      {
-        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "text": "The cyclist moved with around.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Expand. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Expand a plain clause with two compatible circumstances without overloading it.",
-      "Capital words: Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Copy the title, then choose an answer without analysing the language or text.",
-      "Capital words: Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Change the purpose and audience halfway through, then report the first impression only."
-    ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Expand a plain clause with two compatible circumstances without overloading it.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "Carefully explains manner and around the fallen branch explains the route or place.",
+      "hint": "Useful circumstances should attach clearly to the action."
     }
   },
   {
@@ -1582,37 +1655,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "test",
-    "skill": "sentence_expansion_reason",
-    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: A different class adapts “Sentence expansion”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: A different class adapts “Sentence expansion”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la08.svg#ac9e4la08-t-016",
-      "alt_text": "Three-step Adverb Groups and Prepositional Phrases organiser. Read: Sentence expansion. Notice: Expand clauses precisely. Correct the student's mix-up using the full task."
-    },
+    "stage": "apply",
+    "skill": "Adverb Groups and Prepositional Phrases",
+    "question": "Which final choice gives the clearest and most accurate result for improving a sentence about a cyclist?",
+    "audio_prompt": "Which final choice gives the clearest and most accurate result for improving a sentence about a cyclist?",
     "answers": [
       {
-        "text": "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
+        "text": "The cyclist moved branch carefully fallen.",
         "is_correct": false
       },
       {
-        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Expand a plain clause with two compatible circumstances without overloading it.",
+        "text": "The cyclist moved with around.",
+        "is_correct": false
+      },
+      {
+        "text": "The cyclist moved carefully around the fallen branch.",
         "is_correct": true
-      },
-      {
-        "text": "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
-        "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Keep, Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
-      "Capital words: Choose, Expand. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose the plan that analyses language evidence and produces a reviewable response. Expand a plain clause with two compatible circumstances without overloading it.",
-      "Capital words: Choose, Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer."
-    ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Expand a plain clause with two compatible circumstances without overloading it.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Carefully explains manner and around the fallen branch explains the route or place.",
+      "hint": "Useful circumstances should attach clearly to the action."
     }
   }
 ]

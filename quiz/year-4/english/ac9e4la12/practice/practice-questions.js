@@ -4,33 +4,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la12-p-001",
     "curriculumCode": "AC9E4LA12",
     "bank": "practice",
-    "skill": "worked text 1 apply",
+    "skill": "Punctuating Dialogue",
     "printable": true,
     "type": "single",
-    "question": "Read the classroom example. Which sentence is punctuated correctly?",
-    "audioPrompt": "Read the classroom example. Which sentence is punctuated correctly?",
-    "visual": "Three-step Punctuating Dialogue organiser. Read: Worked text 1. Notice: Use quotation marks. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Punctuating Dialogue organiser. Read: Worked text 1. Notice: Use quotation marks. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-001",
-      "alt_text": "Three-step Punctuating Dialogue organiser. Read: Worked text 1. Notice: Use quotation marks. Choose the response supported by the example."
-    },
+    "question": "In punctuating a statement before a speech tag, which option best demonstrates the skill?",
+    "audioPrompt": "In punctuating a statement before a speech tag, which option best demonstrates the skill?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "“We should leave now”, Ava said.",
-      "We should leave now,” Ava said.",
-      "“We should leave now,” Ava said."
-    ],
-    "audioAnswers": [
-      "Capital words: We, Ava. An opening quotation mark comes before the first word. The closing quotation mark comes before the comma. There are no commas. The text ends with a full stop. The text reads: “We should leave now”, Ava said.",
-      "Capital words: We, Ava. There is no opening quotation mark before the first word. The comma comes before the closing quotation mark. Commas come after: now. The text ends with a full stop. The text reads: We should leave now,” Ava said.",
-      "Capital words: We, Ava. An opening quotation mark comes before the first word. The comma comes before the closing quotation mark. Commas come after: now. The text ends with a full stop. The text reads: “We should leave now,” Ava said."
+      "“I found the missing hat”, Zara said.",
+      "“i found the missing hat,” Zara said.",
+      "“I found the missing hat,” Zara said."
     ],
     "correct": 2,
-    "explanation": "The evidence and language purpose support ““We should leave now,” Ava said.”.\nHint: Check the whole sentence or text feature, then test meaning and grammar.",
+    "explanation": "The comma belongs before the closing quotation mark in this speech-tag pattern, and the spoken sentence begins with a capital.\nHint: Check the quotation marks, capital letter and punctuation before the speech tag.",
     "structuredExplanation": {
-      "summary": "The evidence and language purpose support ““We should leave now,” Ava said.”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "The comma belongs before the closing quotation mark in this speech-tag pattern, and the spoken sentence begins with a capital.",
+      "hint": "Check the quotation marks, capital letter and punctuation before the speech tag."
     },
     "qualitySchema": "production-v1"
   },
@@ -38,33 +28,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la12-p-002",
     "curriculumCode": "AC9E4LA12",
     "bank": "practice",
-    "skill": "worked text 1 reason",
+    "skill": "Punctuating Dialogue",
     "printable": true,
     "type": "single",
-    "question": "A student answers ““We should leave now”, Ava said.”. Which feedback helps? Task: Read the classroom example. Which sentence is punctuated correctly?",
-    "audioPrompt": "A student answers ““We should leave now”, Ava said.”. Which feedback helps? Task: Read the classroom example. Which sentence is punctuated correctly?",
-    "visual": "Three-step Punctuating Dialogue organiser. Read: Worked text 1. Notice: Use quotation marks. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Punctuating Dialogue organiser. Read: Worked text 1. Notice: Use quotation marks. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-002\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-002",
-      "alt_text": "Three-step Punctuating Dialogue organiser. Read: Worked text 1. Notice: Use quotation marks. Correct the student's mix-up using the full task."
-    },
+    "question": "Which choice fits punctuating a statement before a speech tag most accurately?",
+    "audioPrompt": "Which choice fits punctuating a statement before a speech tag most accurately?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support ““We should leave now,” Ava said.”.",
-      "Keep ““We should leave now”, Ava said.”; it uses a detail that sounds familiar.",
-      "Choose “We should leave now,” Ava said.” instead; it sounds clearer."
-    ],
-    "audioAnswers": [
-      "Capital words: Check, The, We, Ava. There is no opening quotation mark before the first word. The comma comes before the closing quotation mark. Commas come after: feature, now. The text ends with a full stop. The text reads: Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support ““We should leave now,” Ava said.”.",
-      "Capital words: Keep, We, Ava. There is no opening quotation mark before the first word. The closing quotation mark comes before the comma. There are no commas. The text ends with a full stop. The text reads: Keep ““We should leave now”, Ava said.”; it uses a detail that sounds familiar.",
-      "Capital words: Choose, We, Ava. There is no opening quotation mark before the first word. The comma comes before the closing quotation mark. Commas come after: now. The text ends with a full stop. The text reads: Choose “We should leave now,” Ava said.” instead; it sounds clearer."
+      "“I found the missing hat,” Zara said.",
+      "“I found the missing hat”, Zara said.",
+      "“i found the missing hat,” Zara said."
     ],
     "correct": 0,
-    "explanation": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support ““We should leave now,” Ava said.”.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "The comma belongs before the closing quotation mark in this speech-tag pattern, and the spoken sentence begins with a capital.\nHint: Check the quotation marks, capital letter and punctuation before the speech tag.",
     "structuredExplanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support ““We should leave now,” Ava said.”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "The comma belongs before the closing quotation mark in this speech-tag pattern, and the spoken sentence begins with a capital.",
+      "hint": "Check the quotation marks, capital letter and punctuation before the speech tag."
     },
     "qualitySchema": "production-v1"
   },
@@ -72,33 +52,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la12-p-003",
     "curriculumCode": "AC9E4LA12",
     "bank": "practice",
-    "skill": "worked text 2 apply",
+    "skill": "Punctuating Dialogue",
     "printable": true,
     "type": "single",
-    "question": "Read the classroom example. What usually signals a change of speaker in written dialogue?",
-    "audioPrompt": "Read the classroom example. What usually signals a change of speaker in written dialogue?",
-    "visual": "Three-step Punctuating Dialogue organiser. Read: Worked text 2. Notice: Capitalise and punctuate speech. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Punctuating Dialogue organiser. Read: Worked text 2. Notice: Capitalise and punctuate speech. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-003",
-      "alt_text": "Three-step Punctuating Dialogue organiser. Read: Worked text 2. Notice: Capitalise and punctuate speech. Choose the response supported by the example."
-    },
+    "question": "Which choice fits punctuating a question before a speech tag most accurately?",
+    "audioPrompt": "Which choice fits punctuating a question before a speech tag most accurately?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "a semicolon after every word",
-      "a new paragraph",
-      "italics only"
-    ],
-    "audioAnswers": [
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: a semicolon after every word",
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: a new paragraph",
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: italics only"
+      "“Are we leaving now,” Noah asked?",
+      "“Are we leaving now?” Noah asked.",
+      "“Are we leaving now?” Noah Asked."
     ],
     "correct": 1,
-    "explanation": "The evidence and language purpose support “a new paragraph”.\nHint: Check the whole sentence or text feature, then test meaning and grammar.",
+    "explanation": "The question mark belongs to the spoken question, and asked stays lowercase because the reporting clause continues the sentence.\nHint: A question mark can replace the comma before a following speech tag.",
     "structuredExplanation": {
-      "summary": "The evidence and language purpose support “a new paragraph”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "The question mark belongs to the spoken question, and asked stays lowercase because the reporting clause continues the sentence.",
+      "hint": "A question mark can replace the comma before a following speech tag."
     },
     "qualitySchema": "production-v1"
   },
@@ -106,33 +76,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la12-p-004",
     "curriculumCode": "AC9E4LA12",
     "bank": "practice",
-    "skill": "worked text 2 reason",
+    "skill": "Punctuating Dialogue",
     "printable": true,
     "type": "single",
-    "question": "A student answers “italics only”. Which feedback helps? Task: Read the classroom example. What usually signals a change of speaker in written dialogue?",
-    "audioPrompt": "A student answers “italics only”. Which feedback helps? Task: Read the classroom example. What usually signals a change of speaker in written dialogue?",
-    "visual": "Three-step Punctuating Dialogue organiser. Read: Worked text 2. Notice: Capitalise and punctuate speech. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Punctuating Dialogue organiser. Read: Worked text 2. Notice: Capitalise and punctuate speech. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-004\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-004",
-      "alt_text": "Three-step Punctuating Dialogue organiser. Read: Worked text 2. Notice: Capitalise and punctuate speech. Correct the student's mix-up using the full task."
-    },
+    "question": "Look closely at punctuating a question before a speech tag. Which response or wording works best?",
+    "audioPrompt": "Look closely at punctuating a question before a speech tag. Which response or wording works best?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “italics only”; it uses a detail that sounds familiar.",
-      "Choose “a semicolon after every word” instead; it sounds clearer.",
-      "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “a new paragraph”."
-    ],
-    "audioAnswers": [
-      "Capital words: Keep. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “italics only”; it uses a detail that sounds familiar.",
-      "Capital words: Choose. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “a semicolon after every word” instead; it sounds clearer.",
-      "Capital words: Check, The. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: feature. The text ends with a full stop. The text reads: Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “a new paragraph”."
+      "“Are we leaving now,” Noah asked?",
+      "“Are we leaving now?” Noah Asked.",
+      "“Are we leaving now?” Noah asked."
     ],
     "correct": 2,
-    "explanation": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “a new paragraph”.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "The question mark belongs to the spoken question, and asked stays lowercase because the reporting clause continues the sentence.\nHint: A question mark can replace the comma before a following speech tag.",
     "structuredExplanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “a new paragraph”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "The question mark belongs to the spoken question, and asked stays lowercase because the reporting clause continues the sentence.",
+      "hint": "A question mark can replace the comma before a following speech tag."
     },
     "qualitySchema": "production-v1"
   },
@@ -140,33 +100,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la12-p-005",
     "curriculumCode": "AC9E4LA12",
     "bank": "practice",
-    "skill": "misconception 1 apply",
+    "skill": "Punctuating Dialogue",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Comma placed outside closing quotation marks in this convention”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Comma placed outside closing quotation marks in this convention”. Which response gives the most accurate correction?",
-    "visual": "Three-step Punctuating Dialogue organiser. Read: Misconception 1. Notice: Attach reporting clauses. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Punctuating Dialogue organiser. Read: Misconception 1. Notice: Attach reporting clauses. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-005",
-      "alt_text": "Three-step Punctuating Dialogue organiser. Read: Misconception 1. Notice: Attach reporting clauses. Choose the response supported by the example."
-    },
+    "question": "Look closely at starting a new speaker on a new line. Which response or wording works best?",
+    "audioPrompt": "Look closely at starting a new speaker on a new line. Which response or wording works best?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Place the comma before the closing quotation mark when it belongs to the speech-tag pattern.",
-      "Comma placed outside closing quotation marks in this convention",
-      "Question mark followed by a capitalised tag"
-    ],
-    "audioAnswers": [
-      "Capital words: Place. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Place the comma before the closing quotation mark when it belongs to the speech-tag pattern.",
-      "Capital words: Comma. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Comma placed outside closing quotation marks in this convention",
-      "Capital words: Question. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Question mark followed by a capitalised tag"
+      "“I packed the water,” Ava said.\n“Great,” Ben replied.",
+      "“I packed the water,” Ava said. “Great,” Ben replied.",
+      "“I packed the water, Ava said.\nGreat,” Ben replied."
     ],
     "correct": 0,
-    "explanation": "Place the comma before the closing quotation mark when it belongs to the speech-tag pattern.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "A new paragraph helps readers see that a different person is speaking.\nHint: Track speaker changes as well as punctuation marks.",
     "structuredExplanation": {
-      "summary": "Place the comma before the closing quotation mark when it belongs to the speech-tag pattern.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "A new paragraph helps readers see that a different person is speaking.",
+      "hint": "Track speaker changes as well as punctuation marks."
     },
     "qualitySchema": "production-v1"
   },
@@ -174,33 +124,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la12-p-006",
     "curriculumCode": "AC9E4LA12",
     "bank": "practice",
-    "skill": "misconception 1 reason",
+    "skill": "Punctuating Dialogue",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Comma placed outside closing quotation marks in this convention”. Which feedback helps? Task: A student in a workshop claims, “Comma placed outside closing quotation marks in this convention”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Comma placed outside closing quotation marks in this convention”. Which feedback helps? Task: A student in a workshop claims, “Comma placed outside closing quotation marks in this convention”. Which response gives the most accurate correction?",
-    "visual": "Three-step Punctuating Dialogue organiser. Read: Misconception 1. Notice: Attach reporting clauses. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Punctuating Dialogue organiser. Read: Misconception 1. Notice: Attach reporting clauses. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-006",
-      "alt_text": "Three-step Punctuating Dialogue organiser. Read: Misconception 1. Notice: Attach reporting clauses. Correct the student's mix-up using the full task."
-    },
+    "question": "For starting a new speaker on a new line, which option is the strongest match?",
+    "audioPrompt": "For starting a new speaker on a new line, which option is the strongest match?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Comma placed outside closing quotation marks in this convention”; it uses a detail that sounds familiar.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Place the comma before the closing quotation mark when it belongs to the speech-tag pattern.",
-      "Choose “Question mark followed by a capitalised tag” instead; it sounds clearer."
-    ],
-    "audioAnswers": [
-      "Capital words: Keep, Comma. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “Comma placed outside closing quotation marks in this convention”; it uses a detail that sounds familiar.",
-      "Capital words: Identify, Place. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: overlooks. The text ends with a full stop. The text reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. Place the comma before the closing quotation mark when it belongs to the speech-tag pattern.",
-      "Capital words: Choose, Question. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “Question mark followed by a capitalised tag” instead; it sounds clearer."
+      "“I packed the water,” Ava said. “Great,” Ben replied.",
+      "“I packed the water,” Ava said.\n“Great,” Ben replied.",
+      "“I packed the water, Ava said.\nGreat,” Ben replied."
     ],
     "correct": 1,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Place the comma before the closing quotation mark when it belongs to the speech-tag pattern.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "A new paragraph helps readers see that a different person is speaking.\nHint: Track speaker changes as well as punctuation marks.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Place the comma before the closing quotation mark when it belongs to the speech-tag pattern.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A new paragraph helps readers see that a different person is speaking.",
+      "hint": "Track speaker changes as well as punctuation marks."
     },
     "qualitySchema": "production-v1"
   },
@@ -208,33 +148,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la12-p-007",
     "curriculumCode": "AC9E4LA12",
     "bank": "practice",
-    "skill": "misconception 2 apply",
+    "skill": "Punctuating Dialogue",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Question mark followed by a capitalised tag”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Question mark followed by a capitalised tag”. Which response gives the most accurate correction?",
-    "visual": "Three-step Punctuating Dialogue organiser. Read: Misconception 2. Notice: Paragraph speaker changes. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Punctuating Dialogue organiser. Read: Misconception 2. Notice: Paragraph speaker changes. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-007",
-      "alt_text": "Three-step Punctuating Dialogue organiser. Read: Misconception 2. Notice: Paragraph speaker changes. Choose the response supported by the example."
-    },
+    "question": "For punctuating a speech tag before the quotation, which option is the strongest match?",
+    "audioPrompt": "For punctuating a speech tag before the quotation, which option is the strongest match?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Question mark followed by a capitalised tag",
-      "New quotation mark for every line of wrapped text",
-      "The reporting clause continues the sentence: ‘?’ she asked."
-    ],
-    "audioAnswers": [
-      "Capital words: Question. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Question mark followed by a capitalised tag",
-      "Capital words: New. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: New quotation mark for every line of wrapped text",
-      "Capital words: The. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: The reporting clause continues the sentence: ‘?’ she asked."
+      "Dad called “Dinner is ready”!",
+      "Dad Called, “dinner is ready!”",
+      "Dad called, “Dinner is ready!”"
     ],
     "correct": 2,
-    "explanation": "The reporting clause continues the sentence: ‘?’ she asked.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "A comma separates the speech tag from the quotation, and the spoken sentence begins with a capital letter.\nHint: Check punctuation on both sides of the opening quotation mark.",
     "structuredExplanation": {
-      "summary": "The reporting clause continues the sentence: ‘?’ she asked.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "A comma separates the speech tag from the quotation, and the spoken sentence begins with a capital letter.",
+      "hint": "Check punctuation on both sides of the opening quotation mark."
     },
     "qualitySchema": "production-v1"
   },
@@ -242,33 +172,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la12-p-008",
     "curriculumCode": "AC9E4LA12",
     "bank": "practice",
-    "skill": "misconception 2 reason",
+    "skill": "Punctuating Dialogue",
     "printable": true,
     "type": "single",
-    "question": "A student answers “New quotation mark for every line of wrapped text”. Which feedback helps? Task: A student in a workshop claims, “Question mark followed by a capitalised tag”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “New quotation mark for every line of wrapped text”. Which feedback helps? Task: A student in a workshop claims, “Question mark followed by a capitalised tag”. Which response gives the most accurate correction?",
-    "visual": "Three-step Punctuating Dialogue organiser. Read: Misconception 2. Notice: Paragraph speaker changes. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Punctuating Dialogue organiser. Read: Misconception 2. Notice: Paragraph speaker changes. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-008\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-008",
-      "alt_text": "Three-step Punctuating Dialogue organiser. Read: Misconception 2. Notice: Paragraph speaker changes. Correct the student's mix-up using the full task."
-    },
+    "question": "Which example should you choose for punctuating a speech tag before the quotation?",
+    "audioPrompt": "Which example should you choose for punctuating a speech tag before the quotation?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. The reporting clause continues the sentence: ‘?’ she asked.",
-      "Keep “New quotation mark for every line of wrapped text”; it uses a detail that sounds familiar.",
-      "Choose “Question mark followed by a capitalised tag” instead; it sounds clearer."
-    ],
-    "audioAnswers": [
-      "Capital words: Identify, The. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: overlooks. The text ends with a full stop. The text reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. The reporting clause continues the sentence: ‘?’ she asked.",
-      "Capital words: Keep, New. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “New quotation mark for every line of wrapped text”; it uses a detail that sounds familiar.",
-      "Capital words: Choose, Question. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “Question mark followed by a capitalised tag” instead; it sounds clearer."
+      "Dad called, “Dinner is ready!”",
+      "Dad called “Dinner is ready”!",
+      "Dad Called, “dinner is ready!”"
     ],
     "correct": 0,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. The reporting clause continues the sentence: ‘?’ she asked.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "A comma separates the speech tag from the quotation, and the spoken sentence begins with a capital letter.\nHint: Check punctuation on both sides of the opening quotation mark.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. The reporting clause continues the sentence: ‘?’ she asked.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A comma separates the speech tag from the quotation, and the spoken sentence begins with a capital letter.",
+      "hint": "Check punctuation on both sides of the opening quotation mark."
     },
     "qualitySchema": "production-v1"
   },
@@ -276,33 +196,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la12-p-009",
     "curriculumCode": "AC9E4LA12",
     "bank": "practice",
-    "skill": "misconception 3 apply",
+    "skill": "Punctuating Dialogue",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “New quotation mark for every line of wrapped text”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “New quotation mark for every line of wrapped text”. Which response gives the most accurate correction?",
-    "visual": "Three-step Punctuating Dialogue organiser. Read: Misconception 3. Notice: Use dialogue purposefully. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Punctuating Dialogue organiser. Read: Misconception 3. Notice: Use dialogue purposefully. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-009",
-      "alt_text": "Three-step Punctuating Dialogue organiser. Read: Misconception 3. Notice: Use dialogue purposefully. Choose the response supported by the example."
-    },
+    "question": "Which example should you choose for punctuating dialogue followed by an action?",
+    "audioPrompt": "Which example should you choose for punctuating dialogue followed by an action?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "New quotation mark for every line of wrapped text",
-      "Wrapping on the page does not mean a new speaker.",
-      "Punctuation correct but speaker unclear"
-    ],
-    "audioAnswers": [
-      "Capital words: New. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: New quotation mark for every line of wrapped text",
-      "Capital words: Wrapping. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Wrapping on the page does not mean a new speaker.",
-      "Capital words: Punctuation. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Punctuation correct but speaker unclear"
+      "“Wait here”, Priya said pointing to the gate.",
+      "“Wait here,” Priya said, pointing to the gate.",
+      "“Wait here.” Priya said, pointing to the gate."
     ],
     "correct": 1,
-    "explanation": "Wrapping on the page does not mean a new speaker.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "The comma before the closing quotation mark links the speech to the following reporting clause.\nHint: Decide whether the words after the quote continue the same sentence.",
     "structuredExplanation": {
-      "summary": "Wrapping on the page does not mean a new speaker.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "The comma before the closing quotation mark links the speech to the following reporting clause.",
+      "hint": "Decide whether the words after the quote continue the same sentence."
     },
     "qualitySchema": "production-v1"
   },
@@ -310,33 +220,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la12-p-010",
     "curriculumCode": "AC9E4LA12",
     "bank": "practice",
-    "skill": "misconception 3 reason",
+    "skill": "Punctuating Dialogue",
     "printable": true,
     "type": "single",
-    "question": "A student answers “New quotation mark for every line of wrapped text”. Which feedback helps? Task: A student in a workshop claims, “New quotation mark for every line of wrapped text”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “New quotation mark for every line of wrapped text”. Which feedback helps? Task: A student in a workshop claims, “New quotation mark for every line of wrapped text”. Which response gives the most accurate correction?",
-    "visual": "Three-step Punctuating Dialogue organiser. Read: Misconception 3. Notice: Use dialogue purposefully. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Punctuating Dialogue organiser. Read: Misconception 3. Notice: Use dialogue purposefully. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-010",
-      "alt_text": "Three-step Punctuating Dialogue organiser. Read: Misconception 3. Notice: Use dialogue purposefully. Correct the student's mix-up using the full task."
-    },
+    "question": "In punctuating dialogue followed by an action, which option best demonstrates the skill?",
+    "audioPrompt": "In punctuating dialogue followed by an action, which option best demonstrates the skill?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “New quotation mark for every line of wrapped text”; it uses a detail that sounds familiar.",
-      "Choose “Punctuation correct but speaker unclear” instead; it sounds clearer.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Wrapping on the page does not mean a new speaker."
-    ],
-    "audioAnswers": [
-      "Capital words: Keep, New. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “New quotation mark for every line of wrapped text”; it uses a detail that sounds familiar.",
-      "Capital words: Choose, Punctuation. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “Punctuation correct but speaker unclear” instead; it sounds clearer.",
-      "Capital words: Identify, Wrapping. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: overlooks. The text ends with a full stop. The text reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. Wrapping on the page does not mean a new speaker."
+      "“Wait here”, Priya said pointing to the gate.",
+      "“Wait here.” Priya said, pointing to the gate.",
+      "“Wait here,” Priya said, pointing to the gate."
     ],
     "correct": 2,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Wrapping on the page does not mean a new speaker.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "The comma before the closing quotation mark links the speech to the following reporting clause.\nHint: Decide whether the words after the quote continue the same sentence.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Wrapping on the page does not mean a new speaker.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "The comma before the closing quotation mark links the speech to the following reporting clause.",
+      "hint": "Decide whether the words after the quote continue the same sentence."
     },
     "qualitySchema": "production-v1"
   },
@@ -344,33 +244,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la12-p-011",
     "curriculumCode": "AC9E4LA12",
     "bank": "practice",
-    "skill": "misconception 4 apply",
+    "skill": "Punctuating Dialogue",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Punctuation correct but speaker unclear”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Punctuation correct but speaker unclear”. Which response gives the most accurate correction?",
-    "visual": "Three-step Punctuating Dialogue organiser. Read: Misconception 4. Notice: Use quotation marks. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Punctuating Dialogue organiser. Read: Misconception 4. Notice: Use quotation marks. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-011",
-      "alt_text": "Three-step Punctuating Dialogue organiser. Read: Misconception 4. Notice: Use quotation marks. Choose the response supported by the example."
-    },
+    "question": "Why does ““I found the missing hat,” Zara said.” work well for punctuating a statement before a speech tag?",
+    "audioPrompt": "Why does ““I found the missing hat,” Zara said.” work well for punctuating a statement before a speech tag?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Use reporting clauses, actions or paragraphing to identify speakers.",
-      "Punctuation correct but speaker unclear",
-      "Comma placed outside closing quotation marks in this convention"
-    ],
-    "audioAnswers": [
-      "Capital words: Use. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: clauses. The text ends with a full stop. The text reads: Use reporting clauses, actions or paragraphing to identify speakers.",
-      "Capital words: Punctuation. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Punctuation correct but speaker unclear",
-      "Capital words: Comma. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Comma placed outside closing quotation marks in this convention"
+      "The comma belongs before the closing quotation mark in this speech-tag pattern, and the spoken sentence begins with a capital.",
+      "Because ““I found the missing hat”, Zara said.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 0,
-    "explanation": "Use reporting clauses, actions or paragraphing to identify speakers.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "The comma belongs before the closing quotation mark in this speech-tag pattern, and the spoken sentence begins with a capital.\nHint: Check the quotation marks, capital letter and punctuation before the speech tag.",
     "structuredExplanation": {
-      "summary": "Use reporting clauses, actions or paragraphing to identify speakers.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "The comma belongs before the closing quotation mark in this speech-tag pattern, and the spoken sentence begins with a capital.",
+      "hint": "Check the quotation marks, capital letter and punctuation before the speech tag."
     },
     "qualitySchema": "production-v1"
   },
@@ -378,33 +268,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la12-p-012",
     "curriculumCode": "AC9E4LA12",
     "bank": "practice",
-    "skill": "misconception 4 reason",
+    "skill": "Punctuating Dialogue",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Comma placed outside closing quotation marks in this convention”. Which feedback helps? Task: A student in a workshop claims, “Punctuation correct but speaker unclear”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Comma placed outside closing quotation marks in this convention”. Which feedback helps? Task: A student in a workshop claims, “Punctuation correct but speaker unclear”. Which response gives the most accurate correction?",
-    "visual": "Three-step Punctuating Dialogue organiser. Read: Misconception 4. Notice: Use quotation marks. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Punctuating Dialogue organiser. Read: Misconception 4. Notice: Use quotation marks. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-012\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-012",
-      "alt_text": "Three-step Punctuating Dialogue organiser. Read: Misconception 4. Notice: Use quotation marks. Correct the student's mix-up using the full task."
-    },
+    "question": "What makes ““I found the missing hat,” Zara said.” a better choice in punctuating a statement before a speech tag?",
+    "audioPrompt": "What makes ““I found the missing hat,” Zara said.” a better choice in punctuating a statement before a speech tag?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Comma placed outside closing quotation marks in this convention”; it uses a detail that sounds familiar.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use reporting clauses, actions or paragraphing to identify speakers.",
-      "Choose “Punctuation correct but speaker unclear” instead; it sounds clearer."
-    ],
-    "audioAnswers": [
-      "Capital words: Keep, Comma. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “Comma placed outside closing quotation marks in this convention”; it uses a detail that sounds familiar.",
-      "Capital words: Identify, Use. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: overlooks, clauses. The text ends with a full stop. The text reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use reporting clauses, actions or paragraphing to identify speakers.",
-      "Capital words: Choose, Punctuation. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “Punctuation correct but speaker unclear” instead; it sounds clearer."
+      "Because ““I found the missing hat”, Zara said.” is always acceptable in this situation.",
+      "The comma belongs before the closing quotation mark in this speech-tag pattern, and the spoken sentence begins with a capital.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 1,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use reporting clauses, actions or paragraphing to identify speakers.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "The comma belongs before the closing quotation mark in this speech-tag pattern, and the spoken sentence begins with a capital.\nHint: Check the quotation marks, capital letter and punctuation before the speech tag.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use reporting clauses, actions or paragraphing to identify speakers.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "The comma belongs before the closing quotation mark in this speech-tag pattern, and the spoken sentence begins with a capital.",
+      "hint": "Check the quotation marks, capital letter and punctuation before the speech tag."
     },
     "qualitySchema": "production-v1"
   },
@@ -412,33 +292,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la12-p-013",
     "curriculumCode": "AC9E4LA12",
     "bank": "practice",
-    "skill": "dialogue rebuild apply",
+    "skill": "Punctuating Dialogue",
     "printable": true,
     "type": "single",
-    "question": "The class prepares “Dialogue rebuild”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "The class prepares “Dialogue rebuild”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Punctuating Dialogue organiser. Read: Dialogue rebuild. Notice: Capitalise and punctuate speech. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Punctuating Dialogue organiser. Read: Dialogue rebuild. Notice: Capitalise and punctuate speech. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-013",
-      "alt_text": "Three-step Punctuating Dialogue organiser. Read: Dialogue rebuild. Notice: Capitalise and punctuate speech. Choose the response supported by the example."
-    },
+    "question": "What makes ““Are we leaving now?” Noah asked.” a better choice in punctuating a question before a speech tag?",
+    "audioPrompt": "What makes ““Are we leaving now?” Noah asked.” a better choice in punctuating a question before a speech tag?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Change the purpose and audience halfway through, then report the first impression only.",
-      "Arrange speech, reporting clause and punctuation cards into several valid patterns."
-    ],
-    "audioAnswers": [
-      "Capital words: Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Copy the title, then choose an answer without analysing the language or text.",
-      "Capital words: Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Change the purpose and audience halfway through, then report the first impression only.",
-      "Capital words: Arrange. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: speech. The text ends with a full stop. The text reads: Arrange speech, reporting clause and punctuation cards into several valid patterns."
+      "Because ““Are we leaving now,” Noah asked?” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct.",
+      "The question mark belongs to the spoken question, and asked stays lowercase because the reporting clause continues the sentence."
     ],
     "correct": 2,
-    "explanation": "Arrange speech, reporting clause and punctuation cards into several valid patterns.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "explanation": "The question mark belongs to the spoken question, and asked stays lowercase because the reporting clause continues the sentence.\nHint: A question mark can replace the comma before a following speech tag.",
     "structuredExplanation": {
-      "summary": "Arrange speech, reporting clause and punctuation cards into several valid patterns.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "The question mark belongs to the spoken question, and asked stays lowercase because the reporting clause continues the sentence.",
+      "hint": "A question mark can replace the comma before a following speech tag."
     },
     "qualitySchema": "production-v1"
   },
@@ -446,33 +316,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la12-p-014",
     "curriculumCode": "AC9E4LA12",
     "bank": "practice",
-    "skill": "dialogue rebuild reason",
+    "skill": "Punctuating Dialogue",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Dialogue rebuild”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Dialogue rebuild”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Punctuating Dialogue organiser. Read: Dialogue rebuild. Notice: Capitalise and punctuate speech. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Punctuating Dialogue organiser. Read: Dialogue rebuild. Notice: Capitalise and punctuate speech. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-014\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-014",
-      "alt_text": "Three-step Punctuating Dialogue organiser. Read: Dialogue rebuild. Notice: Capitalise and punctuate speech. Correct the student's mix-up using the full task."
-    },
+    "question": "Which explanation best justifies ““Are we leaving now?” Noah asked.” for punctuating a question before a speech tag?",
+    "audioPrompt": "Which explanation best justifies ““Are we leaving now?” Noah asked.” for punctuating a question before a speech tag?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Choose the plan that analyses language evidence and produces a reviewable response. Arrange speech, reporting clause and punctuation cards into several valid patterns.",
-      "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
-      "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer."
-    ],
-    "audioAnswers": [
-      "Capital words: Choose, Arrange. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: speech. The text ends with a full stop. The text reads: Choose the plan that analyses language evidence and produces a reviewable response. Arrange speech, reporting clause and punctuation cards into several valid patterns.",
-      "Capital words: Keep, Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
-      "Capital words: Choose, Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer."
+      "The question mark belongs to the spoken question, and asked stays lowercase because the reporting clause continues the sentence.",
+      "Because ““Are we leaving now,” Noah asked?” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 0,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. Arrange speech, reporting clause and punctuation cards into several valid patterns.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "The question mark belongs to the spoken question, and asked stays lowercase because the reporting clause continues the sentence.\nHint: A question mark can replace the comma before a following speech tag.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Arrange speech, reporting clause and punctuation cards into several valid patterns.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "The question mark belongs to the spoken question, and asked stays lowercase because the reporting clause continues the sentence.",
+      "hint": "A question mark can replace the comma before a following speech tag."
     },
     "qualitySchema": "production-v1"
   },
@@ -480,33 +340,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la12-p-015",
     "curriculumCode": "AC9E4LA12",
     "bank": "practice",
-    "skill": "speaker paragraphing apply",
+    "skill": "Punctuating Dialogue",
     "printable": true,
     "type": "single",
-    "question": "The class prepares “Speaker paragraphing”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "The class prepares “Speaker paragraphing”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Punctuating Dialogue organiser. Read: Speaker paragraphing. Notice: Attach reporting clauses. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Punctuating Dialogue organiser. Read: Speaker paragraphing. Notice: Attach reporting clauses. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-015",
-      "alt_text": "Three-step Punctuating Dialogue organiser. Read: Speaker paragraphing. Notice: Attach reporting clauses. Choose the response supported by the example."
-    },
+    "question": "Which explanation best justifies ““I packed the water,” Ava said.\n“Great,” Ben replied.” for starting a new speaker on a new line?",
+    "audioPrompt": "Which explanation best justifies ““I packed the water,” Ava said.\n“Great,” Ben replied.” for starting a new speaker on a new line?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Format an unbroken two-person conversation so each change of speaker is clear.",
-      "Change the purpose and audience halfway through, then report the first impression only."
-    ],
-    "audioAnswers": [
-      "Capital words: Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Copy the title, then choose an answer without analysing the language or text.",
-      "Capital words: Format. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Format an unbroken two-person conversation so each change of speaker is clear.",
-      "Capital words: Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Change the purpose and audience halfway through, then report the first impression only."
+      "Because ““I packed the water,” Ava said. “Great,” Ben replied.” is always acceptable in this situation.",
+      "A new paragraph helps readers see that a different person is speaking.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 1,
-    "explanation": "Format an unbroken two-person conversation so each change of speaker is clear.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "explanation": "A new paragraph helps readers see that a different person is speaking.\nHint: Track speaker changes as well as punctuation marks.",
     "structuredExplanation": {
-      "summary": "Format an unbroken two-person conversation so each change of speaker is clear.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "A new paragraph helps readers see that a different person is speaking.",
+      "hint": "Track speaker changes as well as punctuation marks."
     },
     "qualitySchema": "production-v1"
   },
@@ -514,33 +364,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la12-p-016",
     "curriculumCode": "AC9E4LA12",
     "bank": "practice",
-    "skill": "speaker paragraphing reason",
+    "skill": "Punctuating Dialogue",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Speaker paragraphing”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Speaker paragraphing”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Punctuating Dialogue organiser. Read: Speaker paragraphing. Notice: Attach reporting clauses. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Punctuating Dialogue organiser. Read: Speaker paragraphing. Notice: Attach reporting clauses. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-016",
-      "alt_text": "Three-step Punctuating Dialogue organiser. Read: Speaker paragraphing. Notice: Attach reporting clauses. Correct the student's mix-up using the full task."
-    },
+    "question": "What should you notice about ““I packed the water,” Ava said.\n“Great,” Ben replied.” in starting a new speaker on a new line?",
+    "audioPrompt": "What should you notice about ““I packed the water,” Ava said.\n“Great,” Ben replied.” in starting a new speaker on a new line?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
-      "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
-      "Choose the plan that analyses language evidence and produces a reviewable response. Format an unbroken two-person conversation so each change of speaker is clear."
-    ],
-    "audioAnswers": [
-      "Capital words: Keep, Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
-      "Capital words: Choose, Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
-      "Capital words: Choose, Format. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose the plan that analyses language evidence and produces a reviewable response. Format an unbroken two-person conversation so each change of speaker is clear."
+      "Because ““I packed the water,” Ava said. “Great,” Ben replied.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct.",
+      "A new paragraph helps readers see that a different person is speaking."
     ],
     "correct": 2,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. Format an unbroken two-person conversation so each change of speaker is clear.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "A new paragraph helps readers see that a different person is speaking.\nHint: Track speaker changes as well as punctuation marks.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Format an unbroken two-person conversation so each change of speaker is clear.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A new paragraph helps readers see that a different person is speaking.",
+      "hint": "Track speaker changes as well as punctuation marks."
     },
     "qualitySchema": "production-v1"
   },
@@ -548,33 +388,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la12-p-017",
     "curriculumCode": "AC9E4LA12",
     "bank": "practice",
-    "skill": "purposeful dialogue edit apply",
+    "skill": "Punctuating Dialogue",
     "printable": true,
     "type": "single",
-    "question": "The class prepares “Purposeful dialogue edit”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "The class prepares “Purposeful dialogue edit”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Punctuating Dialogue organiser. Read: Purposeful dialogue edit. Notice: Paragraph speaker changes. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Punctuating Dialogue organiser. Read: Purposeful dialogue edit. Notice: Paragraph speaker changes. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-017",
-      "alt_text": "Three-step Punctuating Dialogue organiser. Read: Purposeful dialogue edit. Notice: Paragraph speaker changes. Choose the response supported by the example."
-    },
+    "question": "What should you notice about “Dad called, “Dinner is ready!”” in punctuating a speech tag before the quotation?",
+    "audioPrompt": "What should you notice about “Dad called, “Dinner is ready!”” in punctuating a speech tag before the quotation?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Reduce repetitive said-adverb combinations and add action only where it develops setting, character or pace.",
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Change the purpose and audience halfway through, then report the first impression only."
-    ],
-    "audioAnswers": [
-      "Capital words: Reduce. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: setting. The text ends with a full stop. The text reads: Reduce repetitive said-adverb combinations and add action only where it develops setting, character or pace.",
-      "Capital words: Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Copy the title, then choose an answer without analysing the language or text.",
-      "Capital words: Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Change the purpose and audience halfway through, then report the first impression only."
+      "A comma separates the speech tag from the quotation, and the spoken sentence begins with a capital letter.",
+      "Because “Dad called “Dinner is ready”!” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 0,
-    "explanation": "Reduce repetitive said-adverb combinations and add action only where it develops setting, character or pace.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "explanation": "A comma separates the speech tag from the quotation, and the spoken sentence begins with a capital letter.\nHint: Check punctuation on both sides of the opening quotation mark.",
     "structuredExplanation": {
-      "summary": "Reduce repetitive said-adverb combinations and add action only where it develops setting, character or pace.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "A comma separates the speech tag from the quotation, and the spoken sentence begins with a capital letter.",
+      "hint": "Check punctuation on both sides of the opening quotation mark."
     },
     "qualitySchema": "production-v1"
   },
@@ -582,33 +412,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la12-p-018",
     "curriculumCode": "AC9E4LA12",
     "bank": "practice",
-    "skill": "purposeful dialogue edit reason",
+    "skill": "Punctuating Dialogue",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Purposeful dialogue edit”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Purposeful dialogue edit”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Punctuating Dialogue organiser. Read: Purposeful dialogue edit. Notice: Paragraph speaker changes. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Punctuating Dialogue organiser. Read: Purposeful dialogue edit. Notice: Paragraph speaker changes. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-018\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-018",
-      "alt_text": "Three-step Punctuating Dialogue organiser. Read: Purposeful dialogue edit. Notice: Paragraph speaker changes. Correct the student's mix-up using the full task."
-    },
+    "question": "Which reason explains why “Dad called, “Dinner is ready!”” suits punctuating a speech tag before the quotation?",
+    "audioPrompt": "Which reason explains why “Dad called, “Dinner is ready!”” suits punctuating a speech tag before the quotation?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
-      "Choose the plan that analyses language evidence and produces a reviewable response. Reduce repetitive said-adverb combinations and add action only where it develops setting, character or pace.",
-      "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer."
-    ],
-    "audioAnswers": [
-      "Capital words: Keep, Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
-      "Capital words: Choose, Reduce. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: setting. The text ends with a full stop. The text reads: Choose the plan that analyses language evidence and produces a reviewable response. Reduce repetitive said-adverb combinations and add action only where it develops setting, character or pace.",
-      "Capital words: Choose, Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer."
+      "Because “Dad called “Dinner is ready”!” is always acceptable in this situation.",
+      "A comma separates the speech tag from the quotation, and the spoken sentence begins with a capital letter.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 1,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. Reduce repetitive said-adverb combinations and add action only where it develops setting, character or pace.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "A comma separates the speech tag from the quotation, and the spoken sentence begins with a capital letter.\nHint: Check punctuation on both sides of the opening quotation mark.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Reduce repetitive said-adverb combinations and add action only where it develops setting, character or pace.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A comma separates the speech tag from the quotation, and the spoken sentence begins with a capital letter.",
+      "hint": "Check punctuation on both sides of the opening quotation mark."
     },
     "qualitySchema": "production-v1"
   },
@@ -616,33 +436,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la12-p-019",
     "curriculumCode": "AC9E4LA12",
     "bank": "practice",
-    "skill": "vocabulary 1 apply",
+    "skill": "Punctuating Dialogue",
     "printable": true,
     "type": "single",
-    "question": "A class annotation about Punctuating Dialogue describes “punctuation enclosing directly spoken words”. Which term is most precise?",
-    "audioPrompt": "A class annotation about Punctuating Dialogue describes “punctuation enclosing directly spoken words”. Which term is most precise?",
-    "visual": "Three-step Punctuating Dialogue organiser. Read: Vocabulary 1. Notice: Use dialogue purposefully. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Punctuating Dialogue organiser. Read: Vocabulary 1. Notice: Use dialogue purposefully. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-019",
-      "alt_text": "Three-step Punctuating Dialogue organiser. Read: Vocabulary 1. Notice: Use dialogue purposefully. Choose the response supported by the example."
-    },
+    "question": "Which reason explains why ““Wait here,” Priya said, pointing to the gate.” suits punctuating dialogue followed by an action?",
+    "audioPrompt": "Which reason explains why ““Wait here,” Priya said, pointing to the gate.” suits punctuating dialogue followed by an action?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "reporting clause",
-      "boundary punctuation",
-      "quotation marks"
-    ],
-    "audioAnswers": [
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: reporting clause",
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: boundary punctuation",
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: quotation marks"
+      "Because ““Wait here”, Priya said pointing to the gate.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct.",
+      "The comma before the closing quotation mark links the speech to the following reporting clause."
     ],
     "correct": 2,
-    "explanation": "quotation marks is the precise term for this feature.\nHint: Match the definition to the exact language or literacy concept.",
+    "explanation": "The comma before the closing quotation mark links the speech to the following reporting clause.\nHint: Decide whether the words after the quote continue the same sentence.",
     "structuredExplanation": {
-      "summary": "quotation marks is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
+      "summary": "The comma before the closing quotation mark links the speech to the following reporting clause.",
+      "hint": "Decide whether the words after the quote continue the same sentence."
     },
     "qualitySchema": "production-v1"
   },
@@ -650,33 +460,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la12-p-020",
     "curriculumCode": "AC9E4LA12",
     "bank": "practice",
-    "skill": "vocabulary 1 reason",
+    "skill": "Punctuating Dialogue",
     "printable": true,
     "type": "single",
-    "question": "A student answers “boundary punctuation”. Which feedback helps? Task: A class annotation about Punctuating Dialogue describes “punctuation enclosing directly spoken words”. Which term is most precise?",
-    "audioPrompt": "A student answers “boundary punctuation”. Which feedback helps? Task: A class annotation about Punctuating Dialogue describes “punctuation enclosing directly spoken words”. Which term is most precise?",
-    "visual": "Three-step Punctuating Dialogue organiser. Read: Vocabulary 1. Notice: Use dialogue purposefully. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Punctuating Dialogue organiser. Read: Vocabulary 1. Notice: Use dialogue purposefully. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-020\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-020",
-      "alt_text": "Three-step Punctuating Dialogue organiser. Read: Vocabulary 1. Notice: Use dialogue purposefully. Correct the student's mix-up using the full task."
-    },
+    "question": "Why does ““Wait here,” Priya said, pointing to the gate.” work well for punctuating dialogue followed by an action?",
+    "audioPrompt": "Why does ““Wait here,” Priya said, pointing to the gate.” work well for punctuating dialogue followed by an action?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Match the definition to the exact language or literacy concept. quotation marks is the precise term for this feature.",
-      "Keep “boundary punctuation”; it uses a detail that sounds familiar.",
-      "Choose “reporting clause” instead; it sounds clearer."
-    ],
-    "audioAnswers": [
-      "Capital words: Match. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Match the definition to the exact language or literacy concept. quotation marks is the precise term for this feature.",
-      "Capital words: Keep. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “boundary punctuation”; it uses a detail that sounds familiar.",
-      "Capital words: Choose. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “reporting clause” instead; it sounds clearer."
+      "The comma before the closing quotation mark links the speech to the following reporting clause.",
+      "Because ““Wait here”, Priya said pointing to the gate.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 0,
-    "explanation": "Match the definition to the exact language or literacy concept. quotation marks is the precise term for this feature.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "The comma before the closing quotation mark links the speech to the following reporting clause.\nHint: Decide whether the words after the quote continue the same sentence.",
     "structuredExplanation": {
-      "summary": "Match the definition to the exact language or literacy concept. quotation marks is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "The comma before the closing quotation mark links the speech to the following reporting clause.",
+      "hint": "Decide whether the words after the quote continue the same sentence."
     },
     "qualitySchema": "production-v1"
   },
@@ -684,33 +484,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la12-p-021",
     "curriculumCode": "AC9E4LA12",
     "bank": "practice",
-    "skill": "vocabulary 2 apply",
+    "skill": "Punctuating Dialogue",
     "printable": true,
     "type": "single",
-    "question": "A class annotation about Punctuating Dialogue describes “clause identifying speaker and speech process”. Which term is most precise?",
-    "audioPrompt": "A class annotation about Punctuating Dialogue describes “clause identifying speaker and speech process”. Which term is most precise?",
-    "visual": "Three-step Punctuating Dialogue organiser. Read: Vocabulary 2. Notice: Use quotation marks. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Punctuating Dialogue organiser. Read: Vocabulary 2. Notice: Use quotation marks. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-021\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-021",
-      "alt_text": "Three-step Punctuating Dialogue organiser. Read: Vocabulary 2. Notice: Use quotation marks. Choose the response supported by the example."
-    },
+    "question": "Which revision best fixes the problem in ““I found the missing hat”, Zara said.” for punctuating a statement before a speech tag?",
+    "audioPrompt": "Which revision best fixes the problem in ““I found the missing hat”, Zara said.” for punctuating a statement before a speech tag?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "quotation marks",
-      "reporting clause",
-      "boundary punctuation"
-    ],
-    "audioAnswers": [
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: quotation marks",
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: reporting clause",
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: boundary punctuation"
+      "“I found the missing hat”, Zara said.",
+      "“I found the missing hat,” Zara said.",
+      "“i found the missing hat,” Zara said."
     ],
     "correct": 1,
-    "explanation": "reporting clause is the precise term for this feature.\nHint: Match the definition to the exact language or literacy concept.",
+    "explanation": "The comma belongs before the closing quotation mark in this speech-tag pattern, and the spoken sentence begins with a capital. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Check the quotation marks, capital letter and punctuation before the speech tag.",
     "structuredExplanation": {
-      "summary": "reporting clause is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
+      "summary": "The comma belongs before the closing quotation mark in this speech-tag pattern, and the spoken sentence begins with a capital. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Check the quotation marks, capital letter and punctuation before the speech tag."
     },
     "qualitySchema": "production-v1"
   },
@@ -718,33 +508,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la12-p-022",
     "curriculumCode": "AC9E4LA12",
     "bank": "practice",
-    "skill": "vocabulary 2 reason",
+    "skill": "Punctuating Dialogue",
     "printable": true,
     "type": "single",
-    "question": "A student answers “quotation marks”. Which feedback helps? Task: A class annotation about Punctuating Dialogue describes “clause identifying speaker and speech process”. Which term is most precise?",
-    "audioPrompt": "A student answers “quotation marks”. Which feedback helps? Task: A class annotation about Punctuating Dialogue describes “clause identifying speaker and speech process”. Which term is most precise?",
-    "visual": "Three-step Punctuating Dialogue organiser. Read: Vocabulary 2. Notice: Use quotation marks. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Punctuating Dialogue organiser. Read: Vocabulary 2. Notice: Use quotation marks. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-022\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-022",
-      "alt_text": "Three-step Punctuating Dialogue organiser. Read: Vocabulary 2. Notice: Use quotation marks. Correct the student's mix-up using the full task."
-    },
+    "question": "Compare the choices for punctuating a statement before a speech tag. Which one avoids the mistake in ““I found the missing hat”, Zara said.”?",
+    "audioPrompt": "Compare the choices for punctuating a statement before a speech tag. Which one avoids the mistake in ““I found the missing hat”, Zara said.”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “quotation marks”; it uses a detail that sounds familiar.",
-      "Choose “boundary punctuation” instead; it sounds clearer.",
-      "Match the definition to the exact language or literacy concept. reporting clause is the precise term for this feature."
-    ],
-    "audioAnswers": [
-      "Capital words: Keep. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “quotation marks”; it uses a detail that sounds familiar.",
-      "Capital words: Choose. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “boundary punctuation” instead; it sounds clearer.",
-      "Capital words: Match. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Match the definition to the exact language or literacy concept. reporting clause is the precise term for this feature."
+      "“I found the missing hat”, Zara said.",
+      "“i found the missing hat,” Zara said.",
+      "“I found the missing hat,” Zara said."
     ],
     "correct": 2,
-    "explanation": "Match the definition to the exact language or literacy concept. reporting clause is the precise term for this feature.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "The comma belongs before the closing quotation mark in this speech-tag pattern, and the spoken sentence begins with a capital. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Check the quotation marks, capital letter and punctuation before the speech tag.",
     "structuredExplanation": {
-      "summary": "Match the definition to the exact language or literacy concept. reporting clause is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "The comma belongs before the closing quotation mark in this speech-tag pattern, and the spoken sentence begins with a capital. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Check the quotation marks, capital letter and punctuation before the speech tag."
     },
     "qualitySchema": "production-v1"
   },
@@ -752,33 +532,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la12-p-023",
     "curriculumCode": "AC9E4LA12",
     "bank": "practice",
-    "skill": "vocabulary 3 apply",
+    "skill": "Punctuating Dialogue",
     "printable": true,
     "type": "single",
-    "question": "A class annotation about Punctuating Dialogue describes “full stop, question mark or exclamation mark ending a sentence”. Which term is most precise?",
-    "audioPrompt": "A class annotation about Punctuating Dialogue describes “full stop, question mark or exclamation mark ending a sentence”. Which term is most precise?",
-    "visual": "Three-step Punctuating Dialogue organiser. Read: Vocabulary 3. Notice: Capitalise and punctuate speech. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Punctuating Dialogue organiser. Read: Vocabulary 3. Notice: Capitalise and punctuate speech. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-023\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-023",
-      "alt_text": "Three-step Punctuating Dialogue organiser. Read: Vocabulary 3. Notice: Capitalise and punctuate speech. Choose the response supported by the example."
-    },
+    "question": "Compare the choices for punctuating a question before a speech tag. Which one avoids the mistake in ““Are we leaving now,” Noah asked?”?",
+    "audioPrompt": "Compare the choices for punctuating a question before a speech tag. Which one avoids the mistake in ““Are we leaving now,” Noah asked?”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "boundary punctuation",
-      "quotation marks",
-      "reporting clause"
-    ],
-    "audioAnswers": [
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: boundary punctuation",
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: quotation marks",
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: reporting clause"
+      "“Are we leaving now?” Noah asked.",
+      "“Are we leaving now,” Noah asked?",
+      "“Are we leaving now?” Noah Asked."
     ],
     "correct": 0,
-    "explanation": "boundary punctuation is the precise term for this feature.\nHint: Match the definition to the exact language or literacy concept.",
+    "explanation": "The question mark belongs to the spoken question, and asked stays lowercase because the reporting clause continues the sentence. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: A question mark can replace the comma before a following speech tag.",
     "structuredExplanation": {
-      "summary": "boundary punctuation is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
+      "summary": "The question mark belongs to the spoken question, and asked stays lowercase because the reporting clause continues the sentence. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "A question mark can replace the comma before a following speech tag."
     },
     "qualitySchema": "production-v1"
   },
@@ -786,33 +556,407 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la12-p-024",
     "curriculumCode": "AC9E4LA12",
     "bank": "practice",
-    "skill": "vocabulary 3 reason",
+    "skill": "Punctuating Dialogue",
     "printable": true,
     "type": "single",
-    "question": "A student answers “reporting clause”. Which feedback helps? Task: A class annotation about Punctuating Dialogue describes “full stop, question mark or exclamation mark ending a sentence”. Which term is most precise?",
-    "audioPrompt": "A student answers “reporting clause”. Which feedback helps? Task: A class annotation about Punctuating Dialogue describes “full stop, question mark or exclamation mark ending a sentence”. Which term is most precise?",
-    "visual": "Three-step Punctuating Dialogue organiser. Read: Vocabulary 3. Notice: Capitalise and punctuate speech. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Punctuating Dialogue organiser. Read: Vocabulary 3. Notice: Capitalise and punctuate speech. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-024\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la12.svg#ac9e4la12-p-024",
-      "alt_text": "Three-step Punctuating Dialogue organiser. Read: Vocabulary 3. Notice: Capitalise and punctuate speech. Correct the student's mix-up using the full task."
-    },
+    "question": "If ““Are we leaving now,” Noah asked?” does not work in punctuating a question before a speech tag, what should replace it?",
+    "audioPrompt": "If ““Are we leaving now,” Noah asked?” does not work in punctuating a question before a speech tag, what should replace it?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “reporting clause”; it uses a detail that sounds familiar.",
-      "Match the definition to the exact language or literacy concept. boundary punctuation is the precise term for this feature.",
-      "Choose “quotation marks” instead; it sounds clearer."
-    ],
-    "audioAnswers": [
-      "Capital words: Keep. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “reporting clause”; it uses a detail that sounds familiar.",
-      "Capital words: Match. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Match the definition to the exact language or literacy concept. boundary punctuation is the precise term for this feature.",
-      "Capital words: Choose. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “quotation marks” instead; it sounds clearer."
+      "“Are we leaving now,” Noah asked?",
+      "“Are we leaving now?” Noah asked.",
+      "“Are we leaving now?” Noah Asked."
     ],
     "correct": 1,
-    "explanation": "Match the definition to the exact language or literacy concept. boundary punctuation is the precise term for this feature.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "The question mark belongs to the spoken question, and asked stays lowercase because the reporting clause continues the sentence. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: A question mark can replace the comma before a following speech tag.",
     "structuredExplanation": {
-      "summary": "Match the definition to the exact language or literacy concept. boundary punctuation is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "The question mark belongs to the spoken question, and asked stays lowercase because the reporting clause continues the sentence. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "A question mark can replace the comma before a following speech tag."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la12-p-025",
+    "curriculumCode": "AC9E4LA12",
+    "bank": "practice",
+    "skill": "Punctuating Dialogue",
+    "printable": true,
+    "type": "single",
+    "question": "If ““I packed the water,” Ava said. “Great,” Ben replied.” does not work in starting a new speaker on a new line, what should replace it?",
+    "audioPrompt": "If ““I packed the water,” Ava said. “Great,” Ben replied.” does not work in starting a new speaker on a new line, what should replace it?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "“I packed the water,” Ava said. “Great,” Ben replied.",
+      "“I packed the water, Ava said.\nGreat,” Ben replied.",
+      "“I packed the water,” Ava said.\n“Great,” Ben replied."
+    ],
+    "correct": 2,
+    "explanation": "A new paragraph helps readers see that a different person is speaking. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Track speaker changes as well as punctuation marks.",
+    "structuredExplanation": {
+      "summary": "A new paragraph helps readers see that a different person is speaking. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Track speaker changes as well as punctuation marks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la12-p-026",
+    "curriculumCode": "AC9E4LA12",
+    "bank": "practice",
+    "skill": "Punctuating Dialogue",
+    "printable": true,
+    "type": "single",
+    "question": "Which option corrects the meaning or form needed for starting a new speaker on a new line?",
+    "audioPrompt": "Which option corrects the meaning or form needed for starting a new speaker on a new line?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "“I packed the water,” Ava said.\n“Great,” Ben replied.",
+      "“I packed the water,” Ava said. “Great,” Ben replied.",
+      "“I packed the water, Ava said.\nGreat,” Ben replied."
+    ],
+    "correct": 0,
+    "explanation": "A new paragraph helps readers see that a different person is speaking. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Track speaker changes as well as punctuation marks.",
+    "structuredExplanation": {
+      "summary": "A new paragraph helps readers see that a different person is speaking. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Track speaker changes as well as punctuation marks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la12-p-027",
+    "curriculumCode": "AC9E4LA12",
+    "bank": "practice",
+    "skill": "Punctuating Dialogue",
+    "printable": true,
+    "type": "single",
+    "question": "Which option corrects the meaning or form needed for punctuating a speech tag before the quotation?",
+    "audioPrompt": "Which option corrects the meaning or form needed for punctuating a speech tag before the quotation?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Dad called “Dinner is ready”!",
+      "Dad called, “Dinner is ready!”",
+      "Dad Called, “dinner is ready!”"
+    ],
+    "correct": 1,
+    "explanation": "A comma separates the speech tag from the quotation, and the spoken sentence begins with a capital letter. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Check punctuation on both sides of the opening quotation mark.",
+    "structuredExplanation": {
+      "summary": "A comma separates the speech tag from the quotation, and the spoken sentence begins with a capital letter. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Check punctuation on both sides of the opening quotation mark."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la12-p-028",
+    "curriculumCode": "AC9E4LA12",
+    "bank": "practice",
+    "skill": "Punctuating Dialogue",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is the clearest correction for punctuating a speech tag before the quotation?",
+    "audioPrompt": "Which choice is the clearest correction for punctuating a speech tag before the quotation?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Dad called “Dinner is ready”!",
+      "Dad Called, “dinner is ready!”",
+      "Dad called, “Dinner is ready!”"
+    ],
+    "correct": 2,
+    "explanation": "A comma separates the speech tag from the quotation, and the spoken sentence begins with a capital letter. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Check punctuation on both sides of the opening quotation mark.",
+    "structuredExplanation": {
+      "summary": "A comma separates the speech tag from the quotation, and the spoken sentence begins with a capital letter. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Check punctuation on both sides of the opening quotation mark."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la12-p-029",
+    "curriculumCode": "AC9E4LA12",
+    "bank": "practice",
+    "skill": "Punctuating Dialogue",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is the clearest correction for punctuating dialogue followed by an action?",
+    "audioPrompt": "Which choice is the clearest correction for punctuating dialogue followed by an action?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "“Wait here,” Priya said, pointing to the gate.",
+      "“Wait here”, Priya said pointing to the gate.",
+      "“Wait here.” Priya said, pointing to the gate."
+    ],
+    "correct": 0,
+    "explanation": "The comma before the closing quotation mark links the speech to the following reporting clause. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Decide whether the words after the quote continue the same sentence.",
+    "structuredExplanation": {
+      "summary": "The comma before the closing quotation mark links the speech to the following reporting clause. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Decide whether the words after the quote continue the same sentence."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la12-p-030",
+    "curriculumCode": "AC9E4LA12",
+    "bank": "practice",
+    "skill": "Punctuating Dialogue",
+    "printable": true,
+    "type": "single",
+    "question": "Which revision best fixes the problem in ““Wait here”, Priya said pointing to the gate.” for punctuating dialogue followed by an action?",
+    "audioPrompt": "Which revision best fixes the problem in ““Wait here”, Priya said pointing to the gate.” for punctuating dialogue followed by an action?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "“Wait here”, Priya said pointing to the gate.",
+      "“Wait here,” Priya said, pointing to the gate.",
+      "“Wait here.” Priya said, pointing to the gate."
+    ],
+    "correct": 1,
+    "explanation": "The comma before the closing quotation mark links the speech to the following reporting clause. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Decide whether the words after the quote continue the same sentence.",
+    "structuredExplanation": {
+      "summary": "The comma before the closing quotation mark links the speech to the following reporting clause. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Decide whether the words after the quote continue the same sentence."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la12-p-031",
+    "curriculumCode": "AC9E4LA12",
+    "bank": "practice",
+    "skill": "Punctuating Dialogue",
+    "printable": true,
+    "type": "single",
+    "question": "You now need to handle punctuating a statement before a speech tag independently. Which choice should you use?",
+    "audioPrompt": "You now need to handle punctuating a statement before a speech tag independently. Which choice should you use?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "“i found the missing hat,” Zara said.",
+      "“I found the missing hat”, Zara said.",
+      "“I found the missing hat,” Zara said."
+    ],
+    "correct": 2,
+    "explanation": "The comma belongs before the closing quotation mark in this speech-tag pattern, and the spoken sentence begins with a capital.\nHint: Check the quotation marks, capital letter and punctuation before the speech tag.",
+    "structuredExplanation": {
+      "summary": "The comma belongs before the closing quotation mark in this speech-tag pattern, and the spoken sentence begins with a capital.",
+      "hint": "Check the quotation marks, capital letter and punctuation before the speech tag."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la12-p-032",
+    "curriculumCode": "AC9E4LA12",
+    "bank": "practice",
+    "skill": "Punctuating Dialogue",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the same idea to punctuating a statement before a speech tag. Which option is best?",
+    "audioPrompt": "Apply the same idea to punctuating a statement before a speech tag. Which option is best?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "“I found the missing hat,” Zara said.",
+      "“i found the missing hat,” Zara said.",
+      "“I found the missing hat”, Zara said."
+    ],
+    "correct": 0,
+    "explanation": "The comma belongs before the closing quotation mark in this speech-tag pattern, and the spoken sentence begins with a capital.\nHint: Check the quotation marks, capital letter and punctuation before the speech tag.",
+    "structuredExplanation": {
+      "summary": "The comma belongs before the closing quotation mark in this speech-tag pattern, and the spoken sentence begins with a capital.",
+      "hint": "Check the quotation marks, capital letter and punctuation before the speech tag."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la12-p-033",
+    "curriculumCode": "AC9E4LA12",
+    "bank": "practice",
+    "skill": "Punctuating Dialogue",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the same idea to punctuating a question before a speech tag. Which option is best?",
+    "audioPrompt": "Apply the same idea to punctuating a question before a speech tag. Which option is best?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "“Are we leaving now?” Noah Asked.",
+      "“Are we leaving now?” Noah asked.",
+      "“Are we leaving now,” Noah asked?"
+    ],
+    "correct": 1,
+    "explanation": "The question mark belongs to the spoken question, and asked stays lowercase because the reporting clause continues the sentence.\nHint: A question mark can replace the comma before a following speech tag.",
+    "structuredExplanation": {
+      "summary": "The question mark belongs to the spoken question, and asked stays lowercase because the reporting clause continues the sentence.",
+      "hint": "A question mark can replace the comma before a following speech tag."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la12-p-034",
+    "curriculumCode": "AC9E4LA12",
+    "bank": "practice",
+    "skill": "Punctuating Dialogue",
+    "printable": true,
+    "type": "single",
+    "question": "Which decision would produce the clearest result in punctuating a question before a speech tag?",
+    "audioPrompt": "Which decision would produce the clearest result in punctuating a question before a speech tag?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "“Are we leaving now?” Noah Asked.",
+      "“Are we leaving now,” Noah asked?",
+      "“Are we leaving now?” Noah asked."
+    ],
+    "correct": 2,
+    "explanation": "The question mark belongs to the spoken question, and asked stays lowercase because the reporting clause continues the sentence.\nHint: A question mark can replace the comma before a following speech tag.",
+    "structuredExplanation": {
+      "summary": "The question mark belongs to the spoken question, and asked stays lowercase because the reporting clause continues the sentence.",
+      "hint": "A question mark can replace the comma before a following speech tag."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la12-p-035",
+    "curriculumCode": "AC9E4LA12",
+    "bank": "practice",
+    "skill": "Punctuating Dialogue",
+    "printable": true,
+    "type": "single",
+    "question": "Which decision would produce the clearest result in starting a new speaker on a new line?",
+    "audioPrompt": "Which decision would produce the clearest result in starting a new speaker on a new line?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "“I packed the water,” Ava said.\n“Great,” Ben replied.",
+      "“I packed the water, Ava said.\nGreat,” Ben replied.",
+      "“I packed the water,” Ava said. “Great,” Ben replied."
+    ],
+    "correct": 0,
+    "explanation": "A new paragraph helps readers see that a different person is speaking.\nHint: Track speaker changes as well as punctuation marks.",
+    "structuredExplanation": {
+      "summary": "A new paragraph helps readers see that a different person is speaking.",
+      "hint": "Track speaker changes as well as punctuation marks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la12-p-036",
+    "curriculumCode": "AC9E4LA12",
+    "bank": "practice",
+    "skill": "Punctuating Dialogue",
+    "printable": true,
+    "type": "single",
+    "question": "Choose the option that applies the skill correctly in starting a new speaker on a new line.",
+    "audioPrompt": "Choose the option that applies the skill correctly in starting a new speaker on a new line.",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "“I packed the water, Ava said.\nGreat,” Ben replied.",
+      "“I packed the water,” Ava said.\n“Great,” Ben replied.",
+      "“I packed the water,” Ava said. “Great,” Ben replied."
+    ],
+    "correct": 1,
+    "explanation": "A new paragraph helps readers see that a different person is speaking.\nHint: Track speaker changes as well as punctuation marks.",
+    "structuredExplanation": {
+      "summary": "A new paragraph helps readers see that a different person is speaking.",
+      "hint": "Track speaker changes as well as punctuation marks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la12-p-037",
+    "curriculumCode": "AC9E4LA12",
+    "bank": "practice",
+    "skill": "Punctuating Dialogue",
+    "printable": true,
+    "type": "single",
+    "question": "Choose the option that applies the skill correctly in punctuating a speech tag before the quotation.",
+    "audioPrompt": "Choose the option that applies the skill correctly in punctuating a speech tag before the quotation.",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Dad Called, “dinner is ready!”",
+      "Dad called “Dinner is ready”!",
+      "Dad called, “Dinner is ready!”"
+    ],
+    "correct": 2,
+    "explanation": "A comma separates the speech tag from the quotation, and the spoken sentence begins with a capital letter.\nHint: Check punctuation on both sides of the opening quotation mark.",
+    "structuredExplanation": {
+      "summary": "A comma separates the speech tag from the quotation, and the spoken sentence begins with a capital letter.",
+      "hint": "Check punctuation on both sides of the opening quotation mark."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la12-p-038",
+    "curriculumCode": "AC9E4LA12",
+    "bank": "practice",
+    "skill": "Punctuating Dialogue",
+    "printable": true,
+    "type": "single",
+    "question": "What would be the most effective choice for punctuating a speech tag before the quotation?",
+    "audioPrompt": "What would be the most effective choice for punctuating a speech tag before the quotation?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Dad called, “Dinner is ready!”",
+      "Dad Called, “dinner is ready!”",
+      "Dad called “Dinner is ready”!"
+    ],
+    "correct": 0,
+    "explanation": "A comma separates the speech tag from the quotation, and the spoken sentence begins with a capital letter.\nHint: Check punctuation on both sides of the opening quotation mark.",
+    "structuredExplanation": {
+      "summary": "A comma separates the speech tag from the quotation, and the spoken sentence begins with a capital letter.",
+      "hint": "Check punctuation on both sides of the opening quotation mark."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la12-p-039",
+    "curriculumCode": "AC9E4LA12",
+    "bank": "practice",
+    "skill": "Punctuating Dialogue",
+    "printable": true,
+    "type": "single",
+    "question": "What would be the most effective choice for punctuating dialogue followed by an action?",
+    "audioPrompt": "What would be the most effective choice for punctuating dialogue followed by an action?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "“Wait here.” Priya said, pointing to the gate.",
+      "“Wait here,” Priya said, pointing to the gate.",
+      "“Wait here”, Priya said pointing to the gate."
+    ],
+    "correct": 1,
+    "explanation": "The comma before the closing quotation mark links the speech to the following reporting clause.\nHint: Decide whether the words after the quote continue the same sentence.",
+    "structuredExplanation": {
+      "summary": "The comma before the closing quotation mark links the speech to the following reporting clause.",
+      "hint": "Decide whether the words after the quote continue the same sentence."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la12-p-040",
+    "curriculumCode": "AC9E4LA12",
+    "bank": "practice",
+    "skill": "Punctuating Dialogue",
+    "printable": true,
+    "type": "single",
+    "question": "You now need to handle punctuating dialogue followed by an action independently. Which choice should you use?",
+    "audioPrompt": "You now need to handle punctuating dialogue followed by an action independently. Which choice should you use?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "“Wait here.” Priya said, pointing to the gate.",
+      "“Wait here”, Priya said pointing to the gate.",
+      "“Wait here,” Priya said, pointing to the gate."
+    ],
+    "correct": 2,
+    "explanation": "The comma before the closing quotation mark links the speech to the following reporting clause.\nHint: Decide whether the words after the quote continue the same sentence.",
+    "structuredExplanation": {
+      "summary": "The comma before the closing quotation mark links the speech to the following reporting clause.",
+      "hint": "Decide whether the words after the quote continue the same sentence."
     },
     "qualitySchema": "production-v1"
   }

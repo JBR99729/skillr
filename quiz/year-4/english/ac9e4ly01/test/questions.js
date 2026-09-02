@@ -4,28 +4,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly01-t-001",
     "curriculumCode": "AC9E4LY01",
     "bank": "test",
-    "skill": "new text 1 apply",
+    "skill": "Texts Across Time",
     "printable": true,
     "type": "single",
-    "question": "In a new assessment text, Which comparison is most valid?",
-    "audioPrompt": "In a new assessment text, Which comparison is most valid?",
-    "visual": "Three-step Comparing Texts from Different Times organiser. Read: New text 1. Notice: Confirm comparable texts. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Comparing Texts from Different Times organiser. Read: New text 1. Notice: Confirm comparable texts. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-001",
-      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: New text 1. Notice: Confirm comparable texts. Choose the response supported by the example."
-    },
+    "question": "New context: comparing a printed emergency leaflet with a current emergency alert. Which option is correct?",
+    "audioPrompt": "New context: comparing a printed emergency leaflet with a current emergency alert. Which option is correct?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "The newer text is automatically better",
-      "Every difference is caused only by age",
-      "Both texts inform families, but the newer text uses live links and shorter sections"
+      "Both give safety instructions, but the alert can be sent quickly to people in a specific area.",
+      "The leaflet cannot contain urgent information.",
+      "The alert needs no clear wording because it is digital."
     ],
-    "correct": 2,
-    "explanation": "The evidence and language purpose support “Both texts inform families, but the newer text uses live links and shorter sections”.\nHint: Check the whole sentence or text feature, then test meaning and grammar.",
+    "correct": 0,
+    "explanation": "Historical and technological context affects delivery, not the need for clear safety information.\nHint: Separate delivery method from purpose.",
     "structuredExplanation": {
-      "summary": "The evidence and language purpose support “Both texts inform families, but the newer text uses live links and shorter sections”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "Historical and technological context affects delivery, not the need for clear safety information.",
+      "hint": "Separate delivery method from purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +28,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly01-t-002",
     "curriculumCode": "AC9E4LY01",
     "bank": "test",
-    "skill": "new text 1 reason",
+    "skill": "Texts Across Time",
     "printable": true,
     "type": "single",
-    "question": "A student answers “The newer text is automatically better”. Which feedback helps? Task: In a new assessment text, Which comparison is most valid?",
-    "audioPrompt": "A student answers “The newer text is automatically better”. Which feedback helps? Task: In a new assessment text, Which comparison is most valid?",
-    "visual": "Three-step Comparing Texts from Different Times organiser. Read: New text 1. Notice: Confirm comparable texts. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Comparing Texts from Different Times organiser. Read: New text 1. Notice: Confirm comparable texts. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-002\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-002",
-      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: New text 1. Notice: Confirm comparable texts. Correct the student's mix-up using the full task."
-    },
+    "question": "What is the best choice for comparing a printed emergency leaflet with a current emergency alert?",
+    "audioPrompt": "What is the best choice for comparing a printed emergency leaflet with a current emergency alert?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Both texts inform families, but the newer text uses live links and shorter sections”.",
-      "Keep “The newer text is automatically better”; it uses a detail that sounds familiar.",
-      "Choose “Every difference is caused only by age” instead; it sounds clearer."
+      "The leaflet cannot contain urgent information.",
+      "Both give safety instructions, but the alert can be sent quickly to people in a specific area.",
+      "The alert needs no clear wording because it is digital."
     ],
-    "correct": 0,
-    "explanation": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Both texts inform families, but the newer text uses live links and shorter sections”.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "correct": 1,
+    "explanation": "Historical and technological context affects delivery, not the need for clear safety information.\nHint: Separate delivery method from purpose.",
     "structuredExplanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Both texts inform families, but the newer text uses live links and shorter sections”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Historical and technological context affects delivery, not the need for clear safety information.",
+      "hint": "Separate delivery method from purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +52,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly01-t-003",
     "curriculumCode": "AC9E4LY01",
     "bank": "test",
-    "skill": "new text 2 apply",
+    "skill": "Texts Across Time",
     "printable": true,
     "type": "single",
-    "question": "In a new assessment text, Which factor besides time may explain a difference?",
-    "audioPrompt": "In a new assessment text, Which factor besides time may explain a difference?",
-    "visual": "Three-step Comparing Texts from Different Times organiser. Read: New text 2. Notice: Identify continuity/change. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Comparing Texts from Different Times organiser. Read: New text 2. Notice: Identify continuity/change. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-003",
-      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: New text 2. Notice: Identify continuity/change. Choose the response supported by the example."
-    },
+    "question": "Which explanation best supports “Both give safety instructions, but the alert can be sent quickly to people in a specific area.” in comparing a printed emergency leaflet with a current emergency alert?",
+    "audioPrompt": "Which explanation best supports “Both give safety instructions, but the alert can be sent quickly to people in a specific area.” in comparing a printed emergency leaflet with a current emergency alert?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "the alphabet",
-      "genre or audience",
-      "page number only"
+      "Because “The leaflet cannot contain urgent information.” is always a safe choice.",
+      "Because surface appearance matters more than meaning.",
+      "Historical and technological context affects delivery, not the need for clear safety information."
     ],
-    "correct": 1,
-    "explanation": "The evidence and language purpose support “genre or audience”.\nHint: Check the whole sentence or text feature, then test meaning and grammar.",
+    "correct": 2,
+    "explanation": "Historical and technological context affects delivery, not the need for clear safety information.\nHint: Separate delivery method from purpose.",
     "structuredExplanation": {
-      "summary": "The evidence and language purpose support “genre or audience”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "Historical and technological context affects delivery, not the need for clear safety information.",
+      "hint": "Separate delivery method from purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +76,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly01-t-004",
     "curriculumCode": "AC9E4LY01",
     "bank": "test",
-    "skill": "new text 2 reason",
+    "skill": "Texts Across Time",
     "printable": true,
     "type": "single",
-    "question": "A student answers “page number only”. Which feedback helps? Task: In a new assessment text, Which factor besides time may explain a difference?",
-    "audioPrompt": "A student answers “page number only”. Which feedback helps? Task: In a new assessment text, Which factor besides time may explain a difference?",
-    "visual": "Three-step Comparing Texts from Different Times organiser. Read: New text 2. Notice: Identify continuity/change. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Comparing Texts from Different Times organiser. Read: New text 2. Notice: Identify continuity/change. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-004\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-004",
-      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: New text 2. Notice: Identify continuity/change. Correct the student's mix-up using the full task."
-    },
+    "question": "Which clue should guide your decision in comparing a printed emergency leaflet with a current emergency alert?",
+    "audioPrompt": "Which clue should guide your decision in comparing a printed emergency leaflet with a current emergency alert?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “page number only”; it uses a detail that sounds familiar.",
-      "Choose “the alphabet” instead; it sounds clearer.",
-      "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “genre or audience”."
+      "Separate delivery method from purpose.",
+      "Choose the option with the most words.",
+      "Ignore the context and use the first familiar form."
     ],
-    "correct": 2,
-    "explanation": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “genre or audience”.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "correct": 0,
+    "explanation": "Historical and technological context affects delivery, not the need for clear safety information.\nHint: Separate delivery method from purpose.",
     "structuredExplanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “genre or audience”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Historical and technological context affects delivery, not the need for clear safety information.",
+      "hint": "Separate delivery method from purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +100,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly01-t-005",
     "curriculumCode": "AC9E4LY01",
     "bank": "test",
-    "skill": "misconception 1 apply",
+    "skill": "Texts Across Time",
     "printable": true,
     "type": "single",
-    "question": "An editor reviewing a new text claims, “Older text assumed inaccurate or inferior”. Which response gives the most accurate correction?",
-    "audioPrompt": "An editor reviewing a new text claims, “Older text assumed inaccurate or inferior”. Which response gives the most accurate correction?",
-    "visual": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 1. Notice: Analyse language and layout. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Comparing Texts from Different Times organiser. Read: Misconception 1. Notice: Analyse language and layout. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-005",
-      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 1. Notice: Analyse language and layout. Choose the response supported by the example."
-    },
+    "question": "Which option would you reject first in comparing a printed emergency leaflet with a current emergency alert?",
+    "audioPrompt": "Which option would you reject first in comparing a printed emergency leaflet with a current emergency alert?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Evaluate evidence and context rather than age alone.",
-      "Older text assumed inaccurate or inferior",
-      "Every difference blamed on time"
+      "Both give safety instructions, but the alert can be sent quickly to people in a specific area.",
+      "The leaflet cannot contain urgent information.",
+      "The alert needs no clear wording because it is digital."
     ],
-    "correct": 0,
-    "explanation": "Evaluate evidence and context rather than age alone.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "correct": 1,
+    "explanation": "The rejected choice conflicts with the exact meaning, form or situation being tested. Historical and technological context affects delivery, not the need for clear safety information.\nHint: Separate delivery method from purpose.",
     "structuredExplanation": {
-      "summary": "Evaluate evidence and context rather than age alone.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Historical and technological context affects delivery, not the need for clear safety information.",
+      "hint": "Separate delivery method from purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +124,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly01-t-006",
     "curriculumCode": "AC9E4LY01",
     "bank": "test",
-    "skill": "misconception 1 reason",
+    "skill": "Texts Across Time",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Older text assumed inaccurate or inferior”. Which feedback helps? Task: An editor reviewing a new text claims, “Older text assumed inaccurate or inferior”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Older text assumed inaccurate or inferior”. Which feedback helps? Task: An editor reviewing a new text claims, “Older text assumed inaccurate or inferior”. Which response gives the most accurate correction?",
-    "visual": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 1. Notice: Analyse language and layout. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Comparing Texts from Different Times organiser. Read: Misconception 1. Notice: Analyse language and layout. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-006",
-      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 1. Notice: Analyse language and layout. Correct the student's mix-up using the full task."
-    },
+    "question": "Which correction should replace “The leaflet cannot contain urgent information.” in comparing a printed emergency leaflet with a current emergency alert?",
+    "audioPrompt": "Which correction should replace “The leaflet cannot contain urgent information.” in comparing a printed emergency leaflet with a current emergency alert?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Older text assumed inaccurate or inferior”; it uses a detail that sounds familiar.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Evaluate evidence and context rather than age alone.",
-      "Choose “Every difference blamed on time” instead; it sounds clearer."
+      "The leaflet cannot contain urgent information.",
+      "The alert needs no clear wording because it is digital.",
+      "Both give safety instructions, but the alert can be sent quickly to people in a specific area."
     ],
-    "correct": 1,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Evaluate evidence and context rather than age alone.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "correct": 2,
+    "explanation": "Historical and technological context affects delivery, not the need for clear safety information.\nHint: Separate delivery method from purpose.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Evaluate evidence and context rather than age alone.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Historical and technological context affects delivery, not the need for clear safety information.",
+      "hint": "Separate delivery method from purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +148,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly01-t-007",
     "curriculumCode": "AC9E4LY01",
     "bank": "test",
-    "skill": "misconception 2 apply",
+    "skill": "Texts Across Time",
     "printable": true,
     "type": "single",
-    "question": "An editor reviewing a new text claims, “Every difference blamed on time”. Which response gives the most accurate correction?",
-    "audioPrompt": "An editor reviewing a new text claims, “Every difference blamed on time”. Which response gives the most accurate correction?",
-    "visual": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 2. Notice: Explain contextual effects. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Comparing Texts from Different Times organiser. Read: Misconception 2. Notice: Explain contextual effects. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-007",
-      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 2. Notice: Explain contextual effects. Choose the response supported by the example."
-    },
+    "question": "Apply the skill to comparing a printed emergency leaflet with a current emergency alert: what should you choose?",
+    "audioPrompt": "Apply the skill to comparing a printed emergency leaflet with a current emergency alert: what should you choose?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Every difference blamed on time",
-      "Present-day values imposed without context",
-      "Genre, author, medium and audience may also explain it."
+      "Both give safety instructions, but the alert can be sent quickly to people in a specific area.",
+      "The leaflet cannot contain urgent information.",
+      "The alert needs no clear wording because it is digital."
     ],
-    "correct": 2,
-    "explanation": "Genre, author, medium and audience may also explain it.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "correct": 0,
+    "explanation": "Historical and technological context affects delivery, not the need for clear safety information.\nHint: Separate delivery method from purpose.",
     "structuredExplanation": {
-      "summary": "Genre, author, medium and audience may also explain it.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Historical and technological context affects delivery, not the need for clear safety information.",
+      "hint": "Separate delivery method from purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +172,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly01-t-008",
     "curriculumCode": "AC9E4LY01",
     "bank": "test",
-    "skill": "misconception 2 reason",
+    "skill": "Texts Across Time",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Present-day values imposed without context”. Which feedback helps? Task: An editor reviewing a new text claims, “Every difference blamed on time”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Present-day values imposed without context”. Which feedback helps? Task: An editor reviewing a new text claims, “Every difference blamed on time”. Which response gives the most accurate correction?",
-    "visual": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 2. Notice: Explain contextual effects. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Comparing Texts from Different Times organiser. Read: Misconception 2. Notice: Explain contextual effects. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-008\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-008",
-      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 2. Notice: Explain contextual effects. Correct the student's mix-up using the full task."
-    },
+    "question": "Which final choice gives the clearest and most accurate result for comparing a printed emergency leaflet with a current emergency alert?",
+    "audioPrompt": "Which final choice gives the clearest and most accurate result for comparing a printed emergency leaflet with a current emergency alert?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Genre, author, medium and audience may also explain it.",
-      "Keep “Present-day values imposed without context”; it uses a detail that sounds familiar.",
-      "Choose “Every difference blamed on time” instead; it sounds clearer."
+      "The leaflet cannot contain urgent information.",
+      "Both give safety instructions, but the alert can be sent quickly to people in a specific area.",
+      "The alert needs no clear wording because it is digital."
     ],
-    "correct": 0,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Genre, author, medium and audience may also explain it.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "correct": 1,
+    "explanation": "Historical and technological context affects delivery, not the need for clear safety information.\nHint: Separate delivery method from purpose.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Genre, author, medium and audience may also explain it.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Historical and technological context affects delivery, not the need for clear safety information.",
+      "hint": "Separate delivery method from purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +196,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly01-t-009",
     "curriculumCode": "AC9E4LY01",
     "bank": "test",
-    "skill": "misconception 3 apply",
+    "skill": "Texts Across Time",
     "printable": true,
     "type": "single",
-    "question": "An editor reviewing a new text claims, “Present-day values imposed without context”. Which response gives the most accurate correction?",
-    "audioPrompt": "An editor reviewing a new text claims, “Present-day values imposed without context”. Which response gives the most accurate correction?",
-    "visual": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 3. Notice: Use cautious evidence-based claims. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Comparing Texts from Different Times organiser. Read: Misconception 3. Notice: Use cautious evidence-based claims. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-009",
-      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 3. Notice: Use cautious evidence-based claims. Choose the response supported by the example."
-    },
+    "question": "New context: comparing an early wildlife field guide with a modern interactive species guide. Which option is correct?",
+    "audioPrompt": "New context: comparing an early wildlife field guide with a modern interactive species guide. Which option is correct?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Present-day values imposed without context",
-      "Describe historical assumptions carefully while still evaluating effects.",
-      "Purpose similarity ignored"
+      "The field guide and app have unrelated audiences.",
+      "Only the app can use scientific vocabulary.",
+      "Both help identify species, but the interactive guide can include calls, zoomable images and updated maps."
     ],
-    "correct": 1,
-    "explanation": "Describe historical assumptions carefully while still evaluating effects.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "correct": 2,
+    "explanation": "New technology can extend how similar information is represented and accessed.\nHint: Compare shared purpose and changed features.",
     "structuredExplanation": {
-      "summary": "Describe historical assumptions carefully while still evaluating effects.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "New technology can extend how similar information is represented and accessed.",
+      "hint": "Compare shared purpose and changed features."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +220,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly01-t-010",
     "curriculumCode": "AC9E4LY01",
     "bank": "test",
-    "skill": "misconception 3 reason",
+    "skill": "Texts Across Time",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Present-day values imposed without context”. Which feedback helps? Task: An editor reviewing a new text claims, “Present-day values imposed without context”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Present-day values imposed without context”. Which feedback helps? Task: An editor reviewing a new text claims, “Present-day values imposed without context”. Which response gives the most accurate correction?",
-    "visual": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 3. Notice: Use cautious evidence-based claims. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Comparing Texts from Different Times organiser. Read: Misconception 3. Notice: Use cautious evidence-based claims. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-010",
-      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 3. Notice: Use cautious evidence-based claims. Correct the student's mix-up using the full task."
-    },
+    "question": "What is the best choice for comparing an early wildlife field guide with a modern interactive species guide?",
+    "audioPrompt": "What is the best choice for comparing an early wildlife field guide with a modern interactive species guide?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Present-day values imposed without context”; it uses a detail that sounds familiar.",
-      "Choose “Purpose similarity ignored” instead; it sounds clearer.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Describe historical assumptions carefully while still evaluating effects."
+      "Both help identify species, but the interactive guide can include calls, zoomable images and updated maps.",
+      "The field guide and app have unrelated audiences.",
+      "Only the app can use scientific vocabulary."
     ],
-    "correct": 2,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Describe historical assumptions carefully while still evaluating effects.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "correct": 0,
+    "explanation": "New technology can extend how similar information is represented and accessed.\nHint: Compare shared purpose and changed features.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Describe historical assumptions carefully while still evaluating effects.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "New technology can extend how similar information is represented and accessed.",
+      "hint": "Compare shared purpose and changed features."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +244,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly01-t-011",
     "curriculumCode": "AC9E4LY01",
     "bank": "test",
-    "skill": "misconception 4 apply",
+    "skill": "Texts Across Time",
     "printable": true,
     "type": "single",
-    "question": "An editor reviewing a new text claims, “Purpose similarity ignored”. Which response gives the most accurate correction?",
-    "audioPrompt": "An editor reviewing a new text claims, “Purpose similarity ignored”. Which response gives the most accurate correction?",
-    "visual": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 4. Notice: Confirm comparable texts. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Comparing Texts from Different Times organiser. Read: Misconception 4. Notice: Confirm comparable texts. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-011",
-      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 4. Notice: Confirm comparable texts. Choose the response supported by the example."
-    },
+    "question": "Which explanation best supports “Both help identify species, but the interactive guide can include calls, zoomable images and updated maps.” in comparing an early wildlife field guide with a modern interactive species guide?",
+    "audioPrompt": "Which explanation best supports “Both help identify species, but the interactive guide can include calls, zoomable images and updated maps.” in comparing an early wildlife field guide with a modern interactive species guide?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Identify what both texts are trying to achieve before comparing form.",
-      "Purpose similarity ignored",
-      "Older text assumed inaccurate or inferior"
+      "Because “The field guide and app have unrelated audiences.” is always a safe choice.",
+      "New technology can extend how similar information is represented and accessed.",
+      "Because surface appearance matters more than meaning."
     ],
-    "correct": 0,
-    "explanation": "Identify what both texts are trying to achieve before comparing form.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "correct": 1,
+    "explanation": "New technology can extend how similar information is represented and accessed.\nHint: Compare shared purpose and changed features.",
     "structuredExplanation": {
-      "summary": "Identify what both texts are trying to achieve before comparing form.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "New technology can extend how similar information is represented and accessed.",
+      "hint": "Compare shared purpose and changed features."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +268,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly01-t-012",
     "curriculumCode": "AC9E4LY01",
     "bank": "test",
-    "skill": "misconception 4 reason",
+    "skill": "Texts Across Time",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Older text assumed inaccurate or inferior”. Which feedback helps? Task: An editor reviewing a new text claims, “Purpose similarity ignored”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Older text assumed inaccurate or inferior”. Which feedback helps? Task: An editor reviewing a new text claims, “Purpose similarity ignored”. Which response gives the most accurate correction?",
-    "visual": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 4. Notice: Confirm comparable texts. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Comparing Texts from Different Times organiser. Read: Misconception 4. Notice: Confirm comparable texts. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-012\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-012",
-      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 4. Notice: Confirm comparable texts. Correct the student's mix-up using the full task."
-    },
+    "question": "Which clue should guide your decision in comparing an early wildlife field guide with a modern interactive species guide?",
+    "audioPrompt": "Which clue should guide your decision in comparing an early wildlife field guide with a modern interactive species guide?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Older text assumed inaccurate or inferior”; it uses a detail that sounds familiar.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Identify what both texts are trying to achieve before comparing form.",
-      "Choose “Purpose similarity ignored” instead; it sounds clearer."
+      "Choose the option with the most words.",
+      "Ignore the context and use the first familiar form.",
+      "Compare shared purpose and changed features."
     ],
-    "correct": 1,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Identify what both texts are trying to achieve before comparing form.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "correct": 2,
+    "explanation": "New technology can extend how similar information is represented and accessed.\nHint: Compare shared purpose and changed features.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Identify what both texts are trying to achieve before comparing form.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "New technology can extend how similar information is represented and accessed.",
+      "hint": "Compare shared purpose and changed features."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +292,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly01-t-013",
     "curriculumCode": "AC9E4LY01",
     "bank": "test",
-    "skill": "paired text matrix apply",
+    "skill": "Texts Across Time",
     "printable": true,
     "type": "single",
-    "question": "A different class adapts “Paired-text matrix”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A different class adapts “Paired-text matrix”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Comparing Texts from Different Times organiser. Read: Paired-text matrix. Notice: Identify continuity/change. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Comparing Texts from Different Times organiser. Read: Paired-text matrix. Notice: Identify continuity/change. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-013",
-      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Paired-text matrix. Notice: Identify continuity/change. Choose the response supported by the example."
-    },
+    "question": "Which option would you reject first in comparing an early wildlife field guide with a modern interactive species guide?",
+    "audioPrompt": "Which option would you reject first in comparing an early wildlife field guide with a modern interactive species guide?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Change the purpose and audience halfway through, then report the first impression only.",
-      "Compare two notices, reports or advertisements using purpose, audience, language, visuals and event selection."
+      "The field guide and app have unrelated audiences.",
+      "Both help identify species, but the interactive guide can include calls, zoomable images and updated maps.",
+      "Only the app can use scientific vocabulary."
     ],
-    "correct": 2,
-    "explanation": "Compare two notices, reports or advertisements using purpose, audience, language, visuals and event selection.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "correct": 0,
+    "explanation": "The rejected choice conflicts with the exact meaning, form or situation being tested. New technology can extend how similar information is represented and accessed.\nHint: Compare shared purpose and changed features.",
     "structuredExplanation": {
-      "summary": "Compare two notices, reports or advertisements using purpose, audience, language, visuals and event selection.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. New technology can extend how similar information is represented and accessed.",
+      "hint": "Compare shared purpose and changed features."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +316,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly01-t-014",
     "curriculumCode": "AC9E4LY01",
     "bank": "test",
-    "skill": "paired text matrix reason",
+    "skill": "Texts Across Time",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: A different class adapts “Paired-text matrix”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: A different class adapts “Paired-text matrix”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Comparing Texts from Different Times organiser. Read: Paired-text matrix. Notice: Identify continuity/change. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Comparing Texts from Different Times organiser. Read: Paired-text matrix. Notice: Identify continuity/change. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-014\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-014",
-      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Paired-text matrix. Notice: Identify continuity/change. Correct the student's mix-up using the full task."
-    },
+    "question": "Which correction should replace “The field guide and app have unrelated audiences.” in comparing an early wildlife field guide with a modern interactive species guide?",
+    "audioPrompt": "Which correction should replace “The field guide and app have unrelated audiences.” in comparing an early wildlife field guide with a modern interactive species guide?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Choose the plan that analyses language evidence and produces a reviewable response. Compare two notices, reports or advertisements using purpose, audience, language, visuals and event selection.",
-      "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
-      "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer."
+      "The field guide and app have unrelated audiences.",
+      "Both help identify species, but the interactive guide can include calls, zoomable images and updated maps.",
+      "Only the app can use scientific vocabulary."
     ],
-    "correct": 0,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. Compare two notices, reports or advertisements using purpose, audience, language, visuals and event selection.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "correct": 1,
+    "explanation": "New technology can extend how similar information is represented and accessed.\nHint: Compare shared purpose and changed features.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Compare two notices, reports or advertisements using purpose, audience, language, visuals and event selection.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "New technology can extend how similar information is represented and accessed.",
+      "hint": "Compare shared purpose and changed features."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +340,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly01-t-015",
     "curriculumCode": "AC9E4LY01",
     "bank": "test",
-    "skill": "technology pathway apply",
+    "skill": "Texts Across Time",
     "printable": true,
     "type": "single",
-    "question": "A different class adapts “Technology pathway”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A different class adapts “Technology pathway”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Comparing Texts from Different Times organiser. Read: Technology pathway. Notice: Analyse language and layout. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Comparing Texts from Different Times organiser. Read: Technology pathway. Notice: Analyse language and layout. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-015",
-      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Technology pathway. Notice: Analyse language and layout. Choose the response supported by the example."
-    },
+    "question": "Apply the skill to comparing an early wildlife field guide with a modern interactive species guide: what should you choose?",
+    "audioPrompt": "Apply the skill to comparing an early wildlife field guide with a modern interactive species guide: what should you choose?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Trace how print, broadcast and online affordances change speed, updateability and audience participation.",
-      "Change the purpose and audience halfway through, then report the first impression only."
+      "The field guide and app have unrelated audiences.",
+      "Only the app can use scientific vocabulary.",
+      "Both help identify species, but the interactive guide can include calls, zoomable images and updated maps."
     ],
-    "correct": 1,
-    "explanation": "Trace how print, broadcast and online affordances change speed, updateability and audience participation.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "correct": 2,
+    "explanation": "New technology can extend how similar information is represented and accessed.\nHint: Compare shared purpose and changed features.",
     "structuredExplanation": {
-      "summary": "Trace how print, broadcast and online affordances change speed, updateability and audience participation.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "New technology can extend how similar information is represented and accessed.",
+      "hint": "Compare shared purpose and changed features."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +364,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly01-t-016",
     "curriculumCode": "AC9E4LY01",
     "bank": "test",
-    "skill": "technology pathway reason",
+    "skill": "Texts Across Time",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: A different class adapts “Technology pathway”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: A different class adapts “Technology pathway”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Comparing Texts from Different Times organiser. Read: Technology pathway. Notice: Analyse language and layout. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Comparing Texts from Different Times organiser. Read: Technology pathway. Notice: Analyse language and layout. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-016",
-      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Technology pathway. Notice: Analyse language and layout. Correct the student's mix-up using the full task."
-    },
+    "question": "Which final choice gives the clearest and most accurate result for comparing an early wildlife field guide with a modern interactive species guide?",
+    "audioPrompt": "Which final choice gives the clearest and most accurate result for comparing an early wildlife field guide with a modern interactive species guide?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
-      "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
-      "Choose the plan that analyses language evidence and produces a reviewable response. Trace how print, broadcast and online affordances change speed, updateability and audience participation."
+      "Both help identify species, but the interactive guide can include calls, zoomable images and updated maps.",
+      "The field guide and app have unrelated audiences.",
+      "Only the app can use scientific vocabulary."
     ],
-    "correct": 2,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. Trace how print, broadcast and online affordances change speed, updateability and audience participation.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "correct": 0,
+    "explanation": "New technology can extend how similar information is represented and accessed.\nHint: Compare shared purpose and changed features.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Trace how print, broadcast and online affordances change speed, updateability and audience participation.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "New technology can extend how similar information is represented and accessed.",
+      "hint": "Compare shared purpose and changed features."
     },
     "qualitySchema": "production-v1"
   }

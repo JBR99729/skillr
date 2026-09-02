@@ -4,28 +4,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly01-p-001",
     "curriculumCode": "AC9E4LY01",
     "bank": "practice",
-    "skill": "worked text 1 apply",
+    "skill": "Texts Across Time",
     "printable": true,
     "type": "single",
-    "question": "Read the classroom example. Which comparison is most valid?",
-    "audioPrompt": "Read the classroom example. Which comparison is most valid?",
-    "visual": "Three-step Comparing Texts from Different Times organiser. Read: Worked text 1. Notice: Confirm comparable texts. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Comparing Texts from Different Times organiser. Read: Worked text 1. Notice: Confirm comparable texts. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-001",
-      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Worked text 1. Notice: Confirm comparable texts. Choose the response supported by the example."
-    },
+    "question": "In comparing an old printed train timetable with a current transport app, which option best demonstrates the skill?",
+    "audioPrompt": "In comparing an old printed train timetable with a current transport app, which option best demonstrates the skill?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "The newer text is automatically better",
-      "Every difference is caused only by age",
-      "Both texts inform families, but the newer text uses live links and shorter sections"
+      "They have completely different purposes because one is digital.",
+      "The old timetable is automatically less accurate in every detail.",
+      "Both help travellers plan journeys, but the app can update delays instantly and offer route choices."
     ],
     "correct": 2,
-    "explanation": "The evidence and language purpose support “Both texts inform families, but the newer text uses live links and shorter sections”.\nHint: Check the whole sentence or text feature, then test meaning and grammar.",
+    "explanation": "The purpose is similar, while technology changes how current information can be presented and updated.\nHint: Compare purpose first, then how context or technology changes the text.",
     "structuredExplanation": {
-      "summary": "The evidence and language purpose support “Both texts inform families, but the newer text uses live links and shorter sections”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "The purpose is similar, while technology changes how current information can be presented and updated.",
+      "hint": "Compare purpose first, then how context or technology changes the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +28,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly01-p-002",
     "curriculumCode": "AC9E4LY01",
     "bank": "practice",
-    "skill": "worked text 1 reason",
+    "skill": "Texts Across Time",
     "printable": true,
     "type": "single",
-    "question": "A student answers “The newer text is automatically better”. Which feedback helps? Task: Read the classroom example. Which comparison is most valid?",
-    "audioPrompt": "A student answers “The newer text is automatically better”. Which feedback helps? Task: Read the classroom example. Which comparison is most valid?",
-    "visual": "Three-step Comparing Texts from Different Times organiser. Read: Worked text 1. Notice: Confirm comparable texts. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Comparing Texts from Different Times organiser. Read: Worked text 1. Notice: Confirm comparable texts. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-002\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-002",
-      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Worked text 1. Notice: Confirm comparable texts. Correct the student's mix-up using the full task."
-    },
+    "question": "Which choice fits comparing an old printed train timetable with a current transport app most accurately?",
+    "audioPrompt": "Which choice fits comparing an old printed train timetable with a current transport app most accurately?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Both texts inform families, but the newer text uses live links and shorter sections”.",
-      "Keep “The newer text is automatically better”; it uses a detail that sounds familiar.",
-      "Choose “Every difference is caused only by age” instead; it sounds clearer."
+      "Both help travellers plan journeys, but the app can update delays instantly and offer route choices.",
+      "They have completely different purposes because one is digital.",
+      "The old timetable is automatically less accurate in every detail."
     ],
     "correct": 0,
-    "explanation": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Both texts inform families, but the newer text uses live links and shorter sections”.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "The purpose is similar, while technology changes how current information can be presented and updated.\nHint: Compare purpose first, then how context or technology changes the text.",
     "structuredExplanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Both texts inform families, but the newer text uses live links and shorter sections”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "The purpose is similar, while technology changes how current information can be presented and updated.",
+      "hint": "Compare purpose first, then how context or technology changes the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +52,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly01-p-003",
     "curriculumCode": "AC9E4LY01",
     "bank": "practice",
-    "skill": "worked text 2 apply",
+    "skill": "Texts Across Time",
     "printable": true,
     "type": "single",
-    "question": "Read the classroom example. Which factor besides time may explain a difference?",
-    "audioPrompt": "Read the classroom example. Which factor besides time may explain a difference?",
-    "visual": "Three-step Comparing Texts from Different Times organiser. Read: Worked text 2. Notice: Identify continuity/change. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Comparing Texts from Different Times organiser. Read: Worked text 2. Notice: Identify continuity/change. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-003",
-      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Worked text 2. Notice: Identify continuity/change. Choose the response supported by the example."
-    },
+    "question": "Which choice fits comparing a wartime letter with a present-day video message between family members most accurately?",
+    "audioPrompt": "Which choice fits comparing a wartime letter with a present-day video message between family members most accurately?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "the alphabet",
-      "genre or audience",
-      "page number only"
+      "They cannot be compared because one has moving images.",
+      "Both maintain family connection, but the speed, privacy and amount of visual information differ.",
+      "The video message proves modern families care more."
     ],
     "correct": 1,
-    "explanation": "The evidence and language purpose support “genre or audience”.\nHint: Check the whole sentence or text feature, then test meaning and grammar.",
+    "explanation": "Communication technologies change how relationships can be represented without changing the basic purpose of staying connected.\nHint: Avoid judging people; compare what the medium allows.",
     "structuredExplanation": {
-      "summary": "The evidence and language purpose support “genre or audience”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "Communication technologies change how relationships can be represented without changing the basic purpose of staying connected.",
+      "hint": "Avoid judging people; compare what the medium allows."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +76,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly01-p-004",
     "curriculumCode": "AC9E4LY01",
     "bank": "practice",
-    "skill": "worked text 2 reason",
+    "skill": "Texts Across Time",
     "printable": true,
     "type": "single",
-    "question": "A student answers “page number only”. Which feedback helps? Task: Read the classroom example. Which factor besides time may explain a difference?",
-    "audioPrompt": "A student answers “page number only”. Which feedback helps? Task: Read the classroom example. Which factor besides time may explain a difference?",
-    "visual": "Three-step Comparing Texts from Different Times organiser. Read: Worked text 2. Notice: Identify continuity/change. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Comparing Texts from Different Times organiser. Read: Worked text 2. Notice: Identify continuity/change. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-004\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-004",
-      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Worked text 2. Notice: Identify continuity/change. Correct the student's mix-up using the full task."
-    },
+    "question": "Look closely at comparing a wartime letter with a present-day video message between family members. Which response or wording works best?",
+    "audioPrompt": "Look closely at comparing a wartime letter with a present-day video message between family members. Which response or wording works best?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “page number only”; it uses a detail that sounds familiar.",
-      "Choose “the alphabet” instead; it sounds clearer.",
-      "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “genre or audience”."
+      "They cannot be compared because one has moving images.",
+      "The video message proves modern families care more.",
+      "Both maintain family connection, but the speed, privacy and amount of visual information differ."
     ],
     "correct": 2,
-    "explanation": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “genre or audience”.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Communication technologies change how relationships can be represented without changing the basic purpose of staying connected.\nHint: Avoid judging people; compare what the medium allows.",
     "structuredExplanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “genre or audience”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Communication technologies change how relationships can be represented without changing the basic purpose of staying connected.",
+      "hint": "Avoid judging people; compare what the medium allows."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +100,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly01-p-005",
     "curriculumCode": "AC9E4LY01",
     "bank": "practice",
-    "skill": "misconception 1 apply",
+    "skill": "Texts Across Time",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Older text assumed inaccurate or inferior”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Older text assumed inaccurate or inferior”. Which response gives the most accurate correction?",
-    "visual": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 1. Notice: Analyse language and layout. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Comparing Texts from Different Times organiser. Read: Misconception 1. Notice: Analyse language and layout. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-005",
-      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 1. Notice: Analyse language and layout. Choose the response supported by the example."
-    },
+    "question": "Look closely at comparing an old newspaper sports report with a live online match blog. Which response or wording works best?",
+    "audioPrompt": "Look closely at comparing an old newspaper sports report with a live online match blog. Which response or wording works best?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Evaluate evidence and context rather than age alone.",
-      "Older text assumed inaccurate or inferior",
-      "Every difference blamed on time"
+      "Both inform audiences about the game, but the live blog updates events as they happen.",
+      "Only the online text has an audience.",
+      "The old report cannot contain facts."
     ],
     "correct": 0,
-    "explanation": "Evaluate evidence and context rather than age alone.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "Publication timing and technology affect immediacy and structure.\nHint: Notice when the audience receives the information.",
     "structuredExplanation": {
-      "summary": "Evaluate evidence and context rather than age alone.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Publication timing and technology affect immediacy and structure.",
+      "hint": "Notice when the audience receives the information."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +124,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly01-p-006",
     "curriculumCode": "AC9E4LY01",
     "bank": "practice",
-    "skill": "misconception 1 reason",
+    "skill": "Texts Across Time",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Older text assumed inaccurate or inferior”. Which feedback helps? Task: A student in a workshop claims, “Older text assumed inaccurate or inferior”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Older text assumed inaccurate or inferior”. Which feedback helps? Task: A student in a workshop claims, “Older text assumed inaccurate or inferior”. Which response gives the most accurate correction?",
-    "visual": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 1. Notice: Analyse language and layout. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Comparing Texts from Different Times organiser. Read: Misconception 1. Notice: Analyse language and layout. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-006",
-      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 1. Notice: Analyse language and layout. Correct the student's mix-up using the full task."
-    },
+    "question": "For comparing an old newspaper sports report with a live online match blog, which option is the strongest match?",
+    "audioPrompt": "For comparing an old newspaper sports report with a live online match blog, which option is the strongest match?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Older text assumed inaccurate or inferior”; it uses a detail that sounds familiar.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Evaluate evidence and context rather than age alone.",
-      "Choose “Every difference blamed on time” instead; it sounds clearer."
+      "Only the online text has an audience.",
+      "Both inform audiences about the game, but the live blog updates events as they happen.",
+      "The old report cannot contain facts."
     ],
     "correct": 1,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Evaluate evidence and context rather than age alone.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Publication timing and technology affect immediacy and structure.\nHint: Notice when the audience receives the information.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Evaluate evidence and context rather than age alone.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Publication timing and technology affect immediacy and structure.",
+      "hint": "Notice when the audience receives the information."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +148,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly01-p-007",
     "curriculumCode": "AC9E4LY01",
     "bank": "practice",
-    "skill": "misconception 2 apply",
+    "skill": "Texts Across Time",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Every difference blamed on time”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Every difference blamed on time”. Which response gives the most accurate correction?",
-    "visual": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 2. Notice: Explain contextual effects. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Comparing Texts from Different Times organiser. Read: Misconception 2. Notice: Explain contextual effects. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-007",
-      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 2. Notice: Explain contextual effects. Choose the response supported by the example."
-    },
+    "question": "For comparing a historical tourism poster with a current tourism webpage, which option is the strongest match?",
+    "audioPrompt": "For comparing a historical tourism poster with a current tourism webpage, which option is the strongest match?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Every difference blamed on time",
-      "Present-day values imposed without context",
-      "Genre, author, medium and audience may also explain it."
+      "The poster is not persuasive because it is old.",
+      "The webpage has no visual design.",
+      "Both persuade people to visit, but the webpage can use video, links and booking tools."
     ],
     "correct": 2,
-    "explanation": "Genre, author, medium and audience may also explain it.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "Similar persuasive purposes can be achieved with different available technologies.\nHint: Compare the purpose and the resources each medium uses.",
     "structuredExplanation": {
-      "summary": "Genre, author, medium and audience may also explain it.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Similar persuasive purposes can be achieved with different available technologies.",
+      "hint": "Compare the purpose and the resources each medium uses."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +172,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly01-p-008",
     "curriculumCode": "AC9E4LY01",
     "bank": "practice",
-    "skill": "misconception 2 reason",
+    "skill": "Texts Across Time",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Present-day values imposed without context”. Which feedback helps? Task: A student in a workshop claims, “Every difference blamed on time”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Present-day values imposed without context”. Which feedback helps? Task: A student in a workshop claims, “Every difference blamed on time”. Which response gives the most accurate correction?",
-    "visual": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 2. Notice: Explain contextual effects. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Comparing Texts from Different Times organiser. Read: Misconception 2. Notice: Explain contextual effects. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-008\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-008",
-      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 2. Notice: Explain contextual effects. Correct the student's mix-up using the full task."
-    },
+    "question": "Which example should you choose for comparing a historical tourism poster with a current tourism webpage?",
+    "audioPrompt": "Which example should you choose for comparing a historical tourism poster with a current tourism webpage?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Genre, author, medium and audience may also explain it.",
-      "Keep “Present-day values imposed without context”; it uses a detail that sounds familiar.",
-      "Choose “Every difference blamed on time” instead; it sounds clearer."
+      "Both persuade people to visit, but the webpage can use video, links and booking tools.",
+      "The poster is not persuasive because it is old.",
+      "The webpage has no visual design."
     ],
     "correct": 0,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Genre, author, medium and audience may also explain it.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Similar persuasive purposes can be achieved with different available technologies.\nHint: Compare the purpose and the resources each medium uses.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Genre, author, medium and audience may also explain it.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Similar persuasive purposes can be achieved with different available technologies.",
+      "hint": "Compare the purpose and the resources each medium uses."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +196,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly01-p-009",
     "curriculumCode": "AC9E4LY01",
     "bank": "practice",
-    "skill": "misconception 3 apply",
+    "skill": "Texts Across Time",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Present-day values imposed without context”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Present-day values imposed without context”. Which response gives the most accurate correction?",
-    "visual": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 3. Notice: Use cautious evidence-based claims. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Comparing Texts from Different Times organiser. Read: Misconception 3. Notice: Use cautious evidence-based claims. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-009",
-      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 3. Notice: Use cautious evidence-based claims. Choose the response supported by the example."
-    },
+    "question": "Which example should you choose for comparing an old school rule notice with a current parent portal message?",
+    "audioPrompt": "Which example should you choose for comparing an old school rule notice with a current parent portal message?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Present-day values imposed without context",
-      "Describe historical assumptions carefully while still evaluating effects.",
-      "Purpose similarity ignored"
+      "The old notice has no purpose.",
+      "Both communicate expectations, but the portal can link to more information and receive responses.",
+      "Digital messages always use informal language."
     ],
     "correct": 1,
-    "explanation": "Describe historical assumptions carefully while still evaluating effects.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "Technology can change interaction and navigation while the underlying informative purpose remains.\nHint: Look at what readers can do with each text.",
     "structuredExplanation": {
-      "summary": "Describe historical assumptions carefully while still evaluating effects.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Technology can change interaction and navigation while the underlying informative purpose remains.",
+      "hint": "Look at what readers can do with each text."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +220,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly01-p-010",
     "curriculumCode": "AC9E4LY01",
     "bank": "practice",
-    "skill": "misconception 3 reason",
+    "skill": "Texts Across Time",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Present-day values imposed without context”. Which feedback helps? Task: A student in a workshop claims, “Present-day values imposed without context”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Present-day values imposed without context”. Which feedback helps? Task: A student in a workshop claims, “Present-day values imposed without context”. Which response gives the most accurate correction?",
-    "visual": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 3. Notice: Use cautious evidence-based claims. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Comparing Texts from Different Times organiser. Read: Misconception 3. Notice: Use cautious evidence-based claims. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-010",
-      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 3. Notice: Use cautious evidence-based claims. Correct the student's mix-up using the full task."
-    },
+    "question": "In comparing an old school rule notice with a current parent portal message, which option best demonstrates the skill?",
+    "audioPrompt": "In comparing an old school rule notice with a current parent portal message, which option best demonstrates the skill?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Present-day values imposed without context”; it uses a detail that sounds familiar.",
-      "Choose “Purpose similarity ignored” instead; it sounds clearer.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Describe historical assumptions carefully while still evaluating effects."
+      "The old notice has no purpose.",
+      "Digital messages always use informal language.",
+      "Both communicate expectations, but the portal can link to more information and receive responses."
     ],
     "correct": 2,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Describe historical assumptions carefully while still evaluating effects.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Technology can change interaction and navigation while the underlying informative purpose remains.\nHint: Look at what readers can do with each text.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Describe historical assumptions carefully while still evaluating effects.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Technology can change interaction and navigation while the underlying informative purpose remains.",
+      "hint": "Look at what readers can do with each text."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +244,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly01-p-011",
     "curriculumCode": "AC9E4LY01",
     "bank": "practice",
-    "skill": "misconception 4 apply",
+    "skill": "Texts Across Time",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Purpose similarity ignored”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Purpose similarity ignored”. Which response gives the most accurate correction?",
-    "visual": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 4. Notice: Confirm comparable texts. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Comparing Texts from Different Times organiser. Read: Misconception 4. Notice: Confirm comparable texts. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-011",
-      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 4. Notice: Confirm comparable texts. Choose the response supported by the example."
-    },
+    "question": "Why does “Both help travellers plan journeys, but the app can update delays instantly and offer route choices.” work well for comparing an old printed train timetable with a current transport app?",
+    "audioPrompt": "Why does “Both help travellers plan journeys, but the app can update delays instantly and offer route choices.” work well for comparing an old printed train timetable with a current transport app?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Identify what both texts are trying to achieve before comparing form.",
-      "Purpose similarity ignored",
-      "Older text assumed inaccurate or inferior"
+      "The purpose is similar, while technology changes how current information can be presented and updated.",
+      "Because “They have completely different purposes because one is digital.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 0,
-    "explanation": "Identify what both texts are trying to achieve before comparing form.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "The purpose is similar, while technology changes how current information can be presented and updated.\nHint: Compare purpose first, then how context or technology changes the text.",
     "structuredExplanation": {
-      "summary": "Identify what both texts are trying to achieve before comparing form.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "The purpose is similar, while technology changes how current information can be presented and updated.",
+      "hint": "Compare purpose first, then how context or technology changes the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +268,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly01-p-012",
     "curriculumCode": "AC9E4LY01",
     "bank": "practice",
-    "skill": "misconception 4 reason",
+    "skill": "Texts Across Time",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Older text assumed inaccurate or inferior”. Which feedback helps? Task: A student in a workshop claims, “Purpose similarity ignored”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Older text assumed inaccurate or inferior”. Which feedback helps? Task: A student in a workshop claims, “Purpose similarity ignored”. Which response gives the most accurate correction?",
-    "visual": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 4. Notice: Confirm comparable texts. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Comparing Texts from Different Times organiser. Read: Misconception 4. Notice: Confirm comparable texts. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-012\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-012",
-      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 4. Notice: Confirm comparable texts. Correct the student's mix-up using the full task."
-    },
+    "question": "What makes “Both help travellers plan journeys, but the app can update delays instantly and offer route choices.” a better choice in comparing an old printed train timetable with a current transport app?",
+    "audioPrompt": "What makes “Both help travellers plan journeys, but the app can update delays instantly and offer route choices.” a better choice in comparing an old printed train timetable with a current transport app?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Older text assumed inaccurate or inferior”; it uses a detail that sounds familiar.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Identify what both texts are trying to achieve before comparing form.",
-      "Choose “Purpose similarity ignored” instead; it sounds clearer."
+      "Because “They have completely different purposes because one is digital.” is always acceptable in this situation.",
+      "The purpose is similar, while technology changes how current information can be presented and updated.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 1,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Identify what both texts are trying to achieve before comparing form.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "The purpose is similar, while technology changes how current information can be presented and updated.\nHint: Compare purpose first, then how context or technology changes the text.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Identify what both texts are trying to achieve before comparing form.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "The purpose is similar, while technology changes how current information can be presented and updated.",
+      "hint": "Compare purpose first, then how context or technology changes the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +292,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly01-p-013",
     "curriculumCode": "AC9E4LY01",
     "bank": "practice",
-    "skill": "paired text matrix apply",
+    "skill": "Texts Across Time",
     "printable": true,
     "type": "single",
-    "question": "The class prepares “Paired-text matrix”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "The class prepares “Paired-text matrix”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Comparing Texts from Different Times organiser. Read: Paired-text matrix. Notice: Identify continuity/change. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Comparing Texts from Different Times organiser. Read: Paired-text matrix. Notice: Identify continuity/change. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-013",
-      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Paired-text matrix. Notice: Identify continuity/change. Choose the response supported by the example."
-    },
+    "question": "What makes “Both maintain family connection, but the speed, privacy and amount of visual information differ.” a better choice in comparing a wartime letter with a present-day video message between family members?",
+    "audioPrompt": "What makes “Both maintain family connection, but the speed, privacy and amount of visual information differ.” a better choice in comparing a wartime letter with a present-day video message between family members?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Change the purpose and audience halfway through, then report the first impression only.",
-      "Compare two notices, reports or advertisements using purpose, audience, language, visuals and event selection."
+      "Because “They cannot be compared because one has moving images.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct.",
+      "Communication technologies change how relationships can be represented without changing the basic purpose of staying connected."
     ],
     "correct": 2,
-    "explanation": "Compare two notices, reports or advertisements using purpose, audience, language, visuals and event selection.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "explanation": "Communication technologies change how relationships can be represented without changing the basic purpose of staying connected.\nHint: Avoid judging people; compare what the medium allows.",
     "structuredExplanation": {
-      "summary": "Compare two notices, reports or advertisements using purpose, audience, language, visuals and event selection.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "Communication technologies change how relationships can be represented without changing the basic purpose of staying connected.",
+      "hint": "Avoid judging people; compare what the medium allows."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +316,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly01-p-014",
     "curriculumCode": "AC9E4LY01",
     "bank": "practice",
-    "skill": "paired text matrix reason",
+    "skill": "Texts Across Time",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Paired-text matrix”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Paired-text matrix”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Comparing Texts from Different Times organiser. Read: Paired-text matrix. Notice: Identify continuity/change. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Comparing Texts from Different Times organiser. Read: Paired-text matrix. Notice: Identify continuity/change. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-014\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-014",
-      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Paired-text matrix. Notice: Identify continuity/change. Correct the student's mix-up using the full task."
-    },
+    "question": "Which explanation best justifies “Both maintain family connection, but the speed, privacy and amount of visual information differ.” for comparing a wartime letter with a present-day video message between family members?",
+    "audioPrompt": "Which explanation best justifies “Both maintain family connection, but the speed, privacy and amount of visual information differ.” for comparing a wartime letter with a present-day video message between family members?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Choose the plan that analyses language evidence and produces a reviewable response. Compare two notices, reports or advertisements using purpose, audience, language, visuals and event selection.",
-      "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
-      "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer."
+      "Communication technologies change how relationships can be represented without changing the basic purpose of staying connected.",
+      "Because “They cannot be compared because one has moving images.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 0,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. Compare two notices, reports or advertisements using purpose, audience, language, visuals and event selection.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Communication technologies change how relationships can be represented without changing the basic purpose of staying connected.\nHint: Avoid judging people; compare what the medium allows.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Compare two notices, reports or advertisements using purpose, audience, language, visuals and event selection.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Communication technologies change how relationships can be represented without changing the basic purpose of staying connected.",
+      "hint": "Avoid judging people; compare what the medium allows."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +340,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly01-p-015",
     "curriculumCode": "AC9E4LY01",
     "bank": "practice",
-    "skill": "technology pathway apply",
+    "skill": "Texts Across Time",
     "printable": true,
     "type": "single",
-    "question": "The class prepares “Technology pathway”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "The class prepares “Technology pathway”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Comparing Texts from Different Times organiser. Read: Technology pathway. Notice: Analyse language and layout. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Comparing Texts from Different Times organiser. Read: Technology pathway. Notice: Analyse language and layout. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-015",
-      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Technology pathway. Notice: Analyse language and layout. Choose the response supported by the example."
-    },
+    "question": "Which explanation best justifies “Both inform audiences about the game, but the live blog updates events as they happen.” for comparing an old newspaper sports report with a live online match blog?",
+    "audioPrompt": "Which explanation best justifies “Both inform audiences about the game, but the live blog updates events as they happen.” for comparing an old newspaper sports report with a live online match blog?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Trace how print, broadcast and online affordances change speed, updateability and audience participation.",
-      "Change the purpose and audience halfway through, then report the first impression only."
+      "Because “Only the online text has an audience.” is always acceptable in this situation.",
+      "Publication timing and technology affect immediacy and structure.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 1,
-    "explanation": "Trace how print, broadcast and online affordances change speed, updateability and audience participation.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "explanation": "Publication timing and technology affect immediacy and structure.\nHint: Notice when the audience receives the information.",
     "structuredExplanation": {
-      "summary": "Trace how print, broadcast and online affordances change speed, updateability and audience participation.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "Publication timing and technology affect immediacy and structure.",
+      "hint": "Notice when the audience receives the information."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +364,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly01-p-016",
     "curriculumCode": "AC9E4LY01",
     "bank": "practice",
-    "skill": "technology pathway reason",
+    "skill": "Texts Across Time",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Technology pathway”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Technology pathway”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Comparing Texts from Different Times organiser. Read: Technology pathway. Notice: Analyse language and layout. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Comparing Texts from Different Times organiser. Read: Technology pathway. Notice: Analyse language and layout. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-016",
-      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Technology pathway. Notice: Analyse language and layout. Correct the student's mix-up using the full task."
-    },
+    "question": "What should you notice about “Both inform audiences about the game, but the live blog updates events as they happen.” in comparing an old newspaper sports report with a live online match blog?",
+    "audioPrompt": "What should you notice about “Both inform audiences about the game, but the live blog updates events as they happen.” in comparing an old newspaper sports report with a live online match blog?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
-      "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
-      "Choose the plan that analyses language evidence and produces a reviewable response. Trace how print, broadcast and online affordances change speed, updateability and audience participation."
+      "Because “Only the online text has an audience.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct.",
+      "Publication timing and technology affect immediacy and structure."
     ],
     "correct": 2,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. Trace how print, broadcast and online affordances change speed, updateability and audience participation.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Publication timing and technology affect immediacy and structure.\nHint: Notice when the audience receives the information.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Trace how print, broadcast and online affordances change speed, updateability and audience participation.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Publication timing and technology affect immediacy and structure.",
+      "hint": "Notice when the audience receives the information."
     },
     "qualitySchema": "production-v1"
   },
@@ -468,28 +388,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly01-p-017",
     "curriculumCode": "AC9E4LY01",
     "bank": "practice",
-    "skill": "alternative explanation check apply",
+    "skill": "Texts Across Time",
     "printable": true,
     "type": "single",
-    "question": "The class prepares “Alternative explanation check”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "The class prepares “Alternative explanation check”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Comparing Texts from Different Times organiser. Read: Alternative explanation check. Notice: Explain contextual effects. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Comparing Texts from Different Times organiser. Read: Alternative explanation check. Notice: Explain contextual effects. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-017",
-      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Alternative explanation check. Notice: Explain contextual effects. Choose the response supported by the example."
-    },
+    "question": "What should you notice about “Both persuade people to visit, but the webpage can use video, links and booking tools.” in comparing a historical tourism poster with a current tourism webpage?",
+    "audioPrompt": "What should you notice about “Both persuade people to visit, but the webpage can use video, links and booking tools.” in comparing a historical tourism poster with a current tourism webpage?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "For each difference, decide whether time, genre, author, audience or purpose could be responsible.",
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Change the purpose and audience halfway through, then report the first impression only."
+      "Similar persuasive purposes can be achieved with different available technologies.",
+      "Because “The poster is not persuasive because it is old.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 0,
-    "explanation": "For each difference, decide whether time, genre, author, audience or purpose could be responsible.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "explanation": "Similar persuasive purposes can be achieved with different available technologies.\nHint: Compare the purpose and the resources each medium uses.",
     "structuredExplanation": {
-      "summary": "For each difference, decide whether time, genre, author, audience or purpose could be responsible.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "Similar persuasive purposes can be achieved with different available technologies.",
+      "hint": "Compare the purpose and the resources each medium uses."
     },
     "qualitySchema": "production-v1"
   },
@@ -497,28 +412,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly01-p-018",
     "curriculumCode": "AC9E4LY01",
     "bank": "practice",
-    "skill": "alternative explanation check reason",
+    "skill": "Texts Across Time",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Alternative explanation check”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Alternative explanation check”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Comparing Texts from Different Times organiser. Read: Alternative explanation check. Notice: Explain contextual effects. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Comparing Texts from Different Times organiser. Read: Alternative explanation check. Notice: Explain contextual effects. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-018\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-018",
-      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Alternative explanation check. Notice: Explain contextual effects. Correct the student's mix-up using the full task."
-    },
+    "question": "Which reason explains why “Both persuade people to visit, but the webpage can use video, links and booking tools.” suits comparing a historical tourism poster with a current tourism webpage?",
+    "audioPrompt": "Which reason explains why “Both persuade people to visit, but the webpage can use video, links and booking tools.” suits comparing a historical tourism poster with a current tourism webpage?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
-      "Choose the plan that analyses language evidence and produces a reviewable response. For each difference, decide whether time, genre, author, audience or purpose could be responsible.",
-      "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer."
+      "Because “The poster is not persuasive because it is old.” is always acceptable in this situation.",
+      "Similar persuasive purposes can be achieved with different available technologies.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 1,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. For each difference, decide whether time, genre, author, audience or purpose could be responsible.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Similar persuasive purposes can be achieved with different available technologies.\nHint: Compare the purpose and the resources each medium uses.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. For each difference, decide whether time, genre, author, audience or purpose could be responsible.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Similar persuasive purposes can be achieved with different available technologies.",
+      "hint": "Compare the purpose and the resources each medium uses."
     },
     "qualitySchema": "production-v1"
   },
@@ -526,28 +436,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly01-p-019",
     "curriculumCode": "AC9E4LY01",
     "bank": "practice",
-    "skill": "vocabulary 1 apply",
+    "skill": "Texts Across Time",
     "printable": true,
     "type": "single",
-    "question": "A class annotation about Comparing Texts from Different Times describes “way an event or subject is represented”. Which term is most precise?",
-    "audioPrompt": "A class annotation about Comparing Texts from Different Times describes “way an event or subject is represented”. Which term is most precise?",
-    "visual": "Three-step Comparing Texts from Different Times organiser. Read: Vocabulary 1. Notice: Use cautious evidence-based claims. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Comparing Texts from Different Times organiser. Read: Vocabulary 1. Notice: Use cautious evidence-based claims. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-019",
-      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Vocabulary 1. Notice: Use cautious evidence-based claims. Choose the response supported by the example."
-    },
+    "question": "Which reason explains why “Both communicate expectations, but the portal can link to more information and receive responses.” suits comparing an old school rule notice with a current parent portal message?",
+    "audioPrompt": "Which reason explains why “Both communicate expectations, but the portal can link to more information and receive responses.” suits comparing an old school rule notice with a current parent portal message?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "historical context",
-      "continuity",
-      "depiction"
+      "Because “The old notice has no purpose.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct.",
+      "Technology can change interaction and navigation while the underlying informative purpose remains."
     ],
     "correct": 2,
-    "explanation": "depiction is the precise term for this feature.\nHint: Match the definition to the exact language or literacy concept.",
+    "explanation": "Technology can change interaction and navigation while the underlying informative purpose remains.\nHint: Look at what readers can do with each text.",
     "structuredExplanation": {
-      "summary": "depiction is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
+      "summary": "Technology can change interaction and navigation while the underlying informative purpose remains.",
+      "hint": "Look at what readers can do with each text."
     },
     "qualitySchema": "production-v1"
   },
@@ -555,28 +460,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly01-p-020",
     "curriculumCode": "AC9E4LY01",
     "bank": "practice",
-    "skill": "vocabulary 1 reason",
+    "skill": "Texts Across Time",
     "printable": true,
     "type": "single",
-    "question": "A student answers “continuity”. Which feedback helps? Task: A class annotation about Comparing Texts from Different Times describes “way an event or subject is represented”. Which term is most precise?",
-    "audioPrompt": "A student answers “continuity”. Which feedback helps? Task: A class annotation about Comparing Texts from Different Times describes “way an event or subject is represented”. Which term is most precise?",
-    "visual": "Three-step Comparing Texts from Different Times organiser. Read: Vocabulary 1. Notice: Use cautious evidence-based claims. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Comparing Texts from Different Times organiser. Read: Vocabulary 1. Notice: Use cautious evidence-based claims. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-020\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-020",
-      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Vocabulary 1. Notice: Use cautious evidence-based claims. Correct the student's mix-up using the full task."
-    },
+    "question": "Why does “Both communicate expectations, but the portal can link to more information and receive responses.” work well for comparing an old school rule notice with a current parent portal message?",
+    "audioPrompt": "Why does “Both communicate expectations, but the portal can link to more information and receive responses.” work well for comparing an old school rule notice with a current parent portal message?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Match the definition to the exact language or literacy concept. depiction is the precise term for this feature.",
-      "Keep “continuity”; it uses a detail that sounds familiar.",
-      "Choose “historical context” instead; it sounds clearer."
+      "Technology can change interaction and navigation while the underlying informative purpose remains.",
+      "Because “The old notice has no purpose.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 0,
-    "explanation": "Match the definition to the exact language or literacy concept. depiction is the precise term for this feature.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Technology can change interaction and navigation while the underlying informative purpose remains.\nHint: Look at what readers can do with each text.",
     "structuredExplanation": {
-      "summary": "Match the definition to the exact language or literacy concept. depiction is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Technology can change interaction and navigation while the underlying informative purpose remains.",
+      "hint": "Look at what readers can do with each text."
     },
     "qualitySchema": "production-v1"
   },
@@ -584,28 +484,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly01-p-021",
     "curriculumCode": "AC9E4LY01",
     "bank": "practice",
-    "skill": "vocabulary 2 apply",
+    "skill": "Texts Across Time",
     "printable": true,
     "type": "single",
-    "question": "A class annotation about Comparing Texts from Different Times describes “conditions and conventions of the time a text was created”. Which term is most precise?",
-    "audioPrompt": "A class annotation about Comparing Texts from Different Times describes “conditions and conventions of the time a text was created”. Which term is most precise?",
-    "visual": "Three-step Comparing Texts from Different Times organiser. Read: Vocabulary 2. Notice: Confirm comparable texts. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Comparing Texts from Different Times organiser. Read: Vocabulary 2. Notice: Confirm comparable texts. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-021\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-021",
-      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Vocabulary 2. Notice: Confirm comparable texts. Choose the response supported by the example."
-    },
+    "question": "Which revision best fixes the problem in “They have completely different purposes because one is digital.” for comparing an old printed train timetable with a current transport app?",
+    "audioPrompt": "Which revision best fixes the problem in “They have completely different purposes because one is digital.” for comparing an old printed train timetable with a current transport app?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "depiction",
-      "historical context",
-      "continuity"
+      "They have completely different purposes because one is digital.",
+      "Both help travellers plan journeys, but the app can update delays instantly and offer route choices.",
+      "The old timetable is automatically less accurate in every detail."
     ],
     "correct": 1,
-    "explanation": "historical context is the precise term for this feature.\nHint: Match the definition to the exact language or literacy concept.",
+    "explanation": "The purpose is similar, while technology changes how current information can be presented and updated. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Compare purpose first, then how context or technology changes the text.",
     "structuredExplanation": {
-      "summary": "historical context is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
+      "summary": "The purpose is similar, while technology changes how current information can be presented and updated. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Compare purpose first, then how context or technology changes the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -613,28 +508,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly01-p-022",
     "curriculumCode": "AC9E4LY01",
     "bank": "practice",
-    "skill": "vocabulary 2 reason",
+    "skill": "Texts Across Time",
     "printable": true,
     "type": "single",
-    "question": "A student answers “depiction”. Which feedback helps? Task: A class annotation about Comparing Texts from Different Times describes “conditions and conventions of the time a text was created”. Which term is most precise?",
-    "audioPrompt": "A student answers “depiction”. Which feedback helps? Task: A class annotation about Comparing Texts from Different Times describes “conditions and conventions of the time a text was created”. Which term is most precise?",
-    "visual": "Three-step Comparing Texts from Different Times organiser. Read: Vocabulary 2. Notice: Confirm comparable texts. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Comparing Texts from Different Times organiser. Read: Vocabulary 2. Notice: Confirm comparable texts. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-022\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-022",
-      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Vocabulary 2. Notice: Confirm comparable texts. Correct the student's mix-up using the full task."
-    },
+    "question": "Compare the choices for comparing an old printed train timetable with a current transport app. Which one avoids the mistake in “They have completely different purposes because one is digital.”?",
+    "audioPrompt": "Compare the choices for comparing an old printed train timetable with a current transport app. Which one avoids the mistake in “They have completely different purposes because one is digital.”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “depiction”; it uses a detail that sounds familiar.",
-      "Choose “continuity” instead; it sounds clearer.",
-      "Match the definition to the exact language or literacy concept. historical context is the precise term for this feature."
+      "They have completely different purposes because one is digital.",
+      "The old timetable is automatically less accurate in every detail.",
+      "Both help travellers plan journeys, but the app can update delays instantly and offer route choices."
     ],
     "correct": 2,
-    "explanation": "Match the definition to the exact language or literacy concept. historical context is the precise term for this feature.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "The purpose is similar, while technology changes how current information can be presented and updated. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Compare purpose first, then how context or technology changes the text.",
     "structuredExplanation": {
-      "summary": "Match the definition to the exact language or literacy concept. historical context is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "The purpose is similar, while technology changes how current information can be presented and updated. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Compare purpose first, then how context or technology changes the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -642,28 +532,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly01-p-023",
     "curriculumCode": "AC9E4LY01",
     "bank": "practice",
-    "skill": "vocabulary 3 apply",
+    "skill": "Texts Across Time",
     "printable": true,
     "type": "single",
-    "question": "A class annotation about Comparing Texts from Different Times describes “feature that remains similar across time”. Which term is most precise?",
-    "audioPrompt": "A class annotation about Comparing Texts from Different Times describes “feature that remains similar across time”. Which term is most precise?",
-    "visual": "Three-step Comparing Texts from Different Times organiser. Read: Vocabulary 3. Notice: Identify continuity/change. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Comparing Texts from Different Times organiser. Read: Vocabulary 3. Notice: Identify continuity/change. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-023\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-023",
-      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Vocabulary 3. Notice: Identify continuity/change. Choose the response supported by the example."
-    },
+    "question": "Compare the choices for comparing a wartime letter with a present-day video message between family members. Which one avoids the mistake in “They cannot be compared because one has moving images.”?",
+    "audioPrompt": "Compare the choices for comparing a wartime letter with a present-day video message between family members. Which one avoids the mistake in “They cannot be compared because one has moving images.”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "continuity",
-      "depiction",
-      "historical context"
+      "Both maintain family connection, but the speed, privacy and amount of visual information differ.",
+      "They cannot be compared because one has moving images.",
+      "The video message proves modern families care more."
     ],
     "correct": 0,
-    "explanation": "continuity is the precise term for this feature.\nHint: Match the definition to the exact language or literacy concept.",
+    "explanation": "Communication technologies change how relationships can be represented without changing the basic purpose of staying connected. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Avoid judging people; compare what the medium allows.",
     "structuredExplanation": {
-      "summary": "continuity is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
+      "summary": "Communication technologies change how relationships can be represented without changing the basic purpose of staying connected. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Avoid judging people; compare what the medium allows."
     },
     "qualitySchema": "production-v1"
   },
@@ -671,28 +556,407 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly01-p-024",
     "curriculumCode": "AC9E4LY01",
     "bank": "practice",
-    "skill": "vocabulary 3 reason",
+    "skill": "Texts Across Time",
     "printable": true,
     "type": "single",
-    "question": "A student answers “historical context”. Which feedback helps? Task: A class annotation about Comparing Texts from Different Times describes “feature that remains similar across time”. Which term is most precise?",
-    "audioPrompt": "A student answers “historical context”. Which feedback helps? Task: A class annotation about Comparing Texts from Different Times describes “feature that remains similar across time”. Which term is most precise?",
-    "visual": "Three-step Comparing Texts from Different Times organiser. Read: Vocabulary 3. Notice: Identify continuity/change. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Comparing Texts from Different Times organiser. Read: Vocabulary 3. Notice: Identify continuity/change. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-024\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-024",
-      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Vocabulary 3. Notice: Identify continuity/change. Correct the student's mix-up using the full task."
-    },
+    "question": "If “They cannot be compared because one has moving images.” does not work in comparing a wartime letter with a present-day video message between family members, what should replace it?",
+    "audioPrompt": "If “They cannot be compared because one has moving images.” does not work in comparing a wartime letter with a present-day video message between family members, what should replace it?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “historical context”; it uses a detail that sounds familiar.",
-      "Match the definition to the exact language or literacy concept. continuity is the precise term for this feature.",
-      "Choose “depiction” instead; it sounds clearer."
+      "They cannot be compared because one has moving images.",
+      "Both maintain family connection, but the speed, privacy and amount of visual information differ.",
+      "The video message proves modern families care more."
     ],
     "correct": 1,
-    "explanation": "Match the definition to the exact language or literacy concept. continuity is the precise term for this feature.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Communication technologies change how relationships can be represented without changing the basic purpose of staying connected. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Avoid judging people; compare what the medium allows.",
     "structuredExplanation": {
-      "summary": "Match the definition to the exact language or literacy concept. continuity is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Communication technologies change how relationships can be represented without changing the basic purpose of staying connected. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Avoid judging people; compare what the medium allows."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly01-p-025",
+    "curriculumCode": "AC9E4LY01",
+    "bank": "practice",
+    "skill": "Texts Across Time",
+    "printable": true,
+    "type": "single",
+    "question": "If “Only the online text has an audience.” does not work in comparing an old newspaper sports report with a live online match blog, what should replace it?",
+    "audioPrompt": "If “Only the online text has an audience.” does not work in comparing an old newspaper sports report with a live online match blog, what should replace it?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Only the online text has an audience.",
+      "The old report cannot contain facts.",
+      "Both inform audiences about the game, but the live blog updates events as they happen."
+    ],
+    "correct": 2,
+    "explanation": "Publication timing and technology affect immediacy and structure. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Notice when the audience receives the information.",
+    "structuredExplanation": {
+      "summary": "Publication timing and technology affect immediacy and structure. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Notice when the audience receives the information."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly01-p-026",
+    "curriculumCode": "AC9E4LY01",
+    "bank": "practice",
+    "skill": "Texts Across Time",
+    "printable": true,
+    "type": "single",
+    "question": "Which option corrects the meaning or form needed for comparing an old newspaper sports report with a live online match blog?",
+    "audioPrompt": "Which option corrects the meaning or form needed for comparing an old newspaper sports report with a live online match blog?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Both inform audiences about the game, but the live blog updates events as they happen.",
+      "Only the online text has an audience.",
+      "The old report cannot contain facts."
+    ],
+    "correct": 0,
+    "explanation": "Publication timing and technology affect immediacy and structure. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Notice when the audience receives the information.",
+    "structuredExplanation": {
+      "summary": "Publication timing and technology affect immediacy and structure. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Notice when the audience receives the information."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly01-p-027",
+    "curriculumCode": "AC9E4LY01",
+    "bank": "practice",
+    "skill": "Texts Across Time",
+    "printable": true,
+    "type": "single",
+    "question": "Which option corrects the meaning or form needed for comparing a historical tourism poster with a current tourism webpage?",
+    "audioPrompt": "Which option corrects the meaning or form needed for comparing a historical tourism poster with a current tourism webpage?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The poster is not persuasive because it is old.",
+      "Both persuade people to visit, but the webpage can use video, links and booking tools.",
+      "The webpage has no visual design."
+    ],
+    "correct": 1,
+    "explanation": "Similar persuasive purposes can be achieved with different available technologies. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Compare the purpose and the resources each medium uses.",
+    "structuredExplanation": {
+      "summary": "Similar persuasive purposes can be achieved with different available technologies. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Compare the purpose and the resources each medium uses."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly01-p-028",
+    "curriculumCode": "AC9E4LY01",
+    "bank": "practice",
+    "skill": "Texts Across Time",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is the clearest correction for comparing a historical tourism poster with a current tourism webpage?",
+    "audioPrompt": "Which choice is the clearest correction for comparing a historical tourism poster with a current tourism webpage?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The poster is not persuasive because it is old.",
+      "The webpage has no visual design.",
+      "Both persuade people to visit, but the webpage can use video, links and booking tools."
+    ],
+    "correct": 2,
+    "explanation": "Similar persuasive purposes can be achieved with different available technologies. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Compare the purpose and the resources each medium uses.",
+    "structuredExplanation": {
+      "summary": "Similar persuasive purposes can be achieved with different available technologies. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Compare the purpose and the resources each medium uses."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly01-p-029",
+    "curriculumCode": "AC9E4LY01",
+    "bank": "practice",
+    "skill": "Texts Across Time",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is the clearest correction for comparing an old school rule notice with a current parent portal message?",
+    "audioPrompt": "Which choice is the clearest correction for comparing an old school rule notice with a current parent portal message?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Both communicate expectations, but the portal can link to more information and receive responses.",
+      "The old notice has no purpose.",
+      "Digital messages always use informal language."
+    ],
+    "correct": 0,
+    "explanation": "Technology can change interaction and navigation while the underlying informative purpose remains. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Look at what readers can do with each text.",
+    "structuredExplanation": {
+      "summary": "Technology can change interaction and navigation while the underlying informative purpose remains. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Look at what readers can do with each text."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly01-p-030",
+    "curriculumCode": "AC9E4LY01",
+    "bank": "practice",
+    "skill": "Texts Across Time",
+    "printable": true,
+    "type": "single",
+    "question": "Which revision best fixes the problem in “The old notice has no purpose.” for comparing an old school rule notice with a current parent portal message?",
+    "audioPrompt": "Which revision best fixes the problem in “The old notice has no purpose.” for comparing an old school rule notice with a current parent portal message?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The old notice has no purpose.",
+      "Both communicate expectations, but the portal can link to more information and receive responses.",
+      "Digital messages always use informal language."
+    ],
+    "correct": 1,
+    "explanation": "Technology can change interaction and navigation while the underlying informative purpose remains. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Look at what readers can do with each text.",
+    "structuredExplanation": {
+      "summary": "Technology can change interaction and navigation while the underlying informative purpose remains. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Look at what readers can do with each text."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly01-p-031",
+    "curriculumCode": "AC9E4LY01",
+    "bank": "practice",
+    "skill": "Texts Across Time",
+    "printable": true,
+    "type": "single",
+    "question": "You now need to handle comparing an old printed train timetable with a current transport app independently. Which choice should you use?",
+    "audioPrompt": "You now need to handle comparing an old printed train timetable with a current transport app independently. Which choice should you use?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The old timetable is automatically less accurate in every detail.",
+      "They have completely different purposes because one is digital.",
+      "Both help travellers plan journeys, but the app can update delays instantly and offer route choices."
+    ],
+    "correct": 2,
+    "explanation": "The purpose is similar, while technology changes how current information can be presented and updated.\nHint: Compare purpose first, then how context or technology changes the text.",
+    "structuredExplanation": {
+      "summary": "The purpose is similar, while technology changes how current information can be presented and updated.",
+      "hint": "Compare purpose first, then how context or technology changes the text."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly01-p-032",
+    "curriculumCode": "AC9E4LY01",
+    "bank": "practice",
+    "skill": "Texts Across Time",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the same idea to comparing an old printed train timetable with a current transport app. Which option is best?",
+    "audioPrompt": "Apply the same idea to comparing an old printed train timetable with a current transport app. Which option is best?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Both help travellers plan journeys, but the app can update delays instantly and offer route choices.",
+      "The old timetable is automatically less accurate in every detail.",
+      "They have completely different purposes because one is digital."
+    ],
+    "correct": 0,
+    "explanation": "The purpose is similar, while technology changes how current information can be presented and updated.\nHint: Compare purpose first, then how context or technology changes the text.",
+    "structuredExplanation": {
+      "summary": "The purpose is similar, while technology changes how current information can be presented and updated.",
+      "hint": "Compare purpose first, then how context or technology changes the text."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly01-p-033",
+    "curriculumCode": "AC9E4LY01",
+    "bank": "practice",
+    "skill": "Texts Across Time",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the same idea to comparing a wartime letter with a present-day video message between family members. Which option is best?",
+    "audioPrompt": "Apply the same idea to comparing a wartime letter with a present-day video message between family members. Which option is best?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The video message proves modern families care more.",
+      "Both maintain family connection, but the speed, privacy and amount of visual information differ.",
+      "They cannot be compared because one has moving images."
+    ],
+    "correct": 1,
+    "explanation": "Communication technologies change how relationships can be represented without changing the basic purpose of staying connected.\nHint: Avoid judging people; compare what the medium allows.",
+    "structuredExplanation": {
+      "summary": "Communication technologies change how relationships can be represented without changing the basic purpose of staying connected.",
+      "hint": "Avoid judging people; compare what the medium allows."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly01-p-034",
+    "curriculumCode": "AC9E4LY01",
+    "bank": "practice",
+    "skill": "Texts Across Time",
+    "printable": true,
+    "type": "single",
+    "question": "Which decision would produce the clearest result in comparing a wartime letter with a present-day video message between family members?",
+    "audioPrompt": "Which decision would produce the clearest result in comparing a wartime letter with a present-day video message between family members?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The video message proves modern families care more.",
+      "They cannot be compared because one has moving images.",
+      "Both maintain family connection, but the speed, privacy and amount of visual information differ."
+    ],
+    "correct": 2,
+    "explanation": "Communication technologies change how relationships can be represented without changing the basic purpose of staying connected.\nHint: Avoid judging people; compare what the medium allows.",
+    "structuredExplanation": {
+      "summary": "Communication technologies change how relationships can be represented without changing the basic purpose of staying connected.",
+      "hint": "Avoid judging people; compare what the medium allows."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly01-p-035",
+    "curriculumCode": "AC9E4LY01",
+    "bank": "practice",
+    "skill": "Texts Across Time",
+    "printable": true,
+    "type": "single",
+    "question": "Which decision would produce the clearest result in comparing an old newspaper sports report with a live online match blog?",
+    "audioPrompt": "Which decision would produce the clearest result in comparing an old newspaper sports report with a live online match blog?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Both inform audiences about the game, but the live blog updates events as they happen.",
+      "The old report cannot contain facts.",
+      "Only the online text has an audience."
+    ],
+    "correct": 0,
+    "explanation": "Publication timing and technology affect immediacy and structure.\nHint: Notice when the audience receives the information.",
+    "structuredExplanation": {
+      "summary": "Publication timing and technology affect immediacy and structure.",
+      "hint": "Notice when the audience receives the information."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly01-p-036",
+    "curriculumCode": "AC9E4LY01",
+    "bank": "practice",
+    "skill": "Texts Across Time",
+    "printable": true,
+    "type": "single",
+    "question": "Choose the option that applies the skill correctly in comparing an old newspaper sports report with a live online match blog.",
+    "audioPrompt": "Choose the option that applies the skill correctly in comparing an old newspaper sports report with a live online match blog.",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The old report cannot contain facts.",
+      "Both inform audiences about the game, but the live blog updates events as they happen.",
+      "Only the online text has an audience."
+    ],
+    "correct": 1,
+    "explanation": "Publication timing and technology affect immediacy and structure.\nHint: Notice when the audience receives the information.",
+    "structuredExplanation": {
+      "summary": "Publication timing and technology affect immediacy and structure.",
+      "hint": "Notice when the audience receives the information."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly01-p-037",
+    "curriculumCode": "AC9E4LY01",
+    "bank": "practice",
+    "skill": "Texts Across Time",
+    "printable": true,
+    "type": "single",
+    "question": "Choose the option that applies the skill correctly in comparing a historical tourism poster with a current tourism webpage.",
+    "audioPrompt": "Choose the option that applies the skill correctly in comparing a historical tourism poster with a current tourism webpage.",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The webpage has no visual design.",
+      "The poster is not persuasive because it is old.",
+      "Both persuade people to visit, but the webpage can use video, links and booking tools."
+    ],
+    "correct": 2,
+    "explanation": "Similar persuasive purposes can be achieved with different available technologies.\nHint: Compare the purpose and the resources each medium uses.",
+    "structuredExplanation": {
+      "summary": "Similar persuasive purposes can be achieved with different available technologies.",
+      "hint": "Compare the purpose and the resources each medium uses."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly01-p-038",
+    "curriculumCode": "AC9E4LY01",
+    "bank": "practice",
+    "skill": "Texts Across Time",
+    "printable": true,
+    "type": "single",
+    "question": "What would be the most effective choice for comparing a historical tourism poster with a current tourism webpage?",
+    "audioPrompt": "What would be the most effective choice for comparing a historical tourism poster with a current tourism webpage?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Both persuade people to visit, but the webpage can use video, links and booking tools.",
+      "The webpage has no visual design.",
+      "The poster is not persuasive because it is old."
+    ],
+    "correct": 0,
+    "explanation": "Similar persuasive purposes can be achieved with different available technologies.\nHint: Compare the purpose and the resources each medium uses.",
+    "structuredExplanation": {
+      "summary": "Similar persuasive purposes can be achieved with different available technologies.",
+      "hint": "Compare the purpose and the resources each medium uses."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly01-p-039",
+    "curriculumCode": "AC9E4LY01",
+    "bank": "practice",
+    "skill": "Texts Across Time",
+    "printable": true,
+    "type": "single",
+    "question": "What would be the most effective choice for comparing an old school rule notice with a current parent portal message?",
+    "audioPrompt": "What would be the most effective choice for comparing an old school rule notice with a current parent portal message?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Digital messages always use informal language.",
+      "Both communicate expectations, but the portal can link to more information and receive responses.",
+      "The old notice has no purpose."
+    ],
+    "correct": 1,
+    "explanation": "Technology can change interaction and navigation while the underlying informative purpose remains.\nHint: Look at what readers can do with each text.",
+    "structuredExplanation": {
+      "summary": "Technology can change interaction and navigation while the underlying informative purpose remains.",
+      "hint": "Look at what readers can do with each text."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly01-p-040",
+    "curriculumCode": "AC9E4LY01",
+    "bank": "practice",
+    "skill": "Texts Across Time",
+    "printable": true,
+    "type": "single",
+    "question": "You now need to handle comparing an old school rule notice with a current parent portal message independently. Which choice should you use?",
+    "audioPrompt": "You now need to handle comparing an old school rule notice with a current parent portal message independently. Which choice should you use?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Digital messages always use informal language.",
+      "The old notice has no purpose.",
+      "Both communicate expectations, but the portal can link to more information and receive responses."
+    ],
+    "correct": 2,
+    "explanation": "Technology can change interaction and navigation while the underlying informative purpose remains.\nHint: Look at what readers can do with each text.",
+    "structuredExplanation": {
+      "summary": "Technology can change interaction and navigation while the underlying informative purpose remains.",
+      "hint": "Look at what readers can do with each text."
     },
     "qualitySchema": "production-v1"
   }

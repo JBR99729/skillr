@@ -4,28 +4,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la04-p-001",
     "curriculumCode": "AC9E4LA04",
     "bank": "practice",
-    "skill": "worked text 1 apply",
+    "skill": "Connectives and Topic Cohesion",
     "printable": true,
     "type": "single",
-    "question": "Read the classroom example. Which connective best signals a result?",
-    "audioPrompt": "Read the classroom example. Which connective best signals a result?",
-    "visual": "Three-step Connectives and Topic Cohesion organiser. Read: Worked text 1. Notice: Identify connective types. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Connectives and Topic Cohesion organiser. Read: Worked text 1. Notice: Identify connective types. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-001",
-      "alt_text": "Three-step Connectives and Topic Cohesion organiser. Read: Worked text 1. Notice: Identify connective types. Choose the response supported by the example."
-    },
+    "question": "In explaining how a seed germinates, which option best demonstrates the skill?",
+    "audioPrompt": "In explaining how a seed germinates, which option best demonstrates the skill?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "therefore",
-      "meanwhile",
-      "although"
+      "First, the seed absorbs water. Then, the root begins to grow.",
+      "First, the seed absorbs water. However, the root begins to grow.",
+      "The seed absorbs water. Football is popular."
     ],
     "correct": 0,
-    "explanation": "The evidence and language purpose support “therefore”.\nHint: Check the whole sentence or text feature, then test meaning and grammar.",
+    "explanation": "First and then show a clear time sequence between related ideas.\nHint: Choose a connective that matches the relationship between the ideas.",
     "structuredExplanation": {
-      "summary": "The evidence and language purpose support “therefore”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "First and then show a clear time sequence between related ideas.",
+      "hint": "Choose a connective that matches the relationship between the ideas."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +28,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la04-p-002",
     "curriculumCode": "AC9E4LA04",
     "bank": "practice",
-    "skill": "worked text 1 reason",
+    "skill": "Connectives and Topic Cohesion",
     "printable": true,
     "type": "single",
-    "question": "A student answers “meanwhile”. Which feedback helps? Task: Read the classroom example. Which connective best signals a result?",
-    "audioPrompt": "A student answers “meanwhile”. Which feedback helps? Task: Read the classroom example. Which connective best signals a result?",
-    "visual": "Three-step Connectives and Topic Cohesion organiser. Read: Worked text 1. Notice: Identify connective types. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Connectives and Topic Cohesion organiser. Read: Worked text 1. Notice: Identify connective types. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-002\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-002",
-      "alt_text": "Three-step Connectives and Topic Cohesion organiser. Read: Worked text 1. Notice: Identify connective types. Correct the student's mix-up using the full task."
-    },
+    "question": "Which choice fits explaining how a seed germinates most accurately?",
+    "audioPrompt": "Which choice fits explaining how a seed germinates most accurately?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “meanwhile”; it uses a detail that sounds familiar.",
-      "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “therefore”.",
-      "Choose “although” instead; it sounds clearer."
+      "First, the seed absorbs water. However, the root begins to grow.",
+      "First, the seed absorbs water. Then, the root begins to grow.",
+      "The seed absorbs water. Football is popular."
     ],
     "correct": 1,
-    "explanation": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “therefore”.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "First and then show a clear time sequence between related ideas.\nHint: Choose a connective that matches the relationship between the ideas.",
     "structuredExplanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “therefore”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "First and then show a clear time sequence between related ideas.",
+      "hint": "Choose a connective that matches the relationship between the ideas."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +52,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la04-p-003",
     "curriculumCode": "AC9E4LA04",
     "bank": "practice",
-    "skill": "worked text 2 apply",
+    "skill": "Connectives and Topic Cohesion",
     "printable": true,
     "type": "single",
-    "question": "Read the classroom example. Which connective correctly completes: ‘The glass is rigid; the missing word, it can break under impact’?",
-    "audioPrompt": "Read the classroom example. Which connective correctly completes: ‘The glass is rigid; the missing word, it can break under impact’?",
-    "visual": "Three-step Connectives and Topic Cohesion organiser. Read: Worked text 2. Notice: Sequence ideas. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Connectives and Topic Cohesion organiser. Read: Worked text 2. Notice: Sequence ideas. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-003",
-      "alt_text": "Three-step Connectives and Topic Cohesion organiser. Read: Worked text 2. Notice: Sequence ideas. Choose the response supported by the example."
-    },
+    "question": "Which choice fits explaining why the oval was closed after heavy rain most accurately?",
+    "audioPrompt": "Which choice fits explaining why the oval was closed after heavy rain most accurately?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "therefore only",
-      "first",
-      "however"
+      "The ground was waterlogged; meanwhile, the oval was closed.",
+      "The ground was waterlogged; for example, the oval was closed.",
+      "The ground was waterlogged; therefore, the oval was closed."
     ],
     "correct": 2,
-    "explanation": "The evidence and language purpose support “however”.\nHint: Check the whole sentence or text feature, then test meaning and grammar.",
+    "explanation": "Therefore shows that the closure is a result of the waterlogged ground.\nHint: Ask whether the second idea is a result, contrast, example or time event.",
     "structuredExplanation": {
-      "summary": "The evidence and language purpose support “however”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "Therefore shows that the closure is a result of the waterlogged ground.",
+      "hint": "Ask whether the second idea is a result, contrast, example or time event."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +76,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la04-p-004",
     "curriculumCode": "AC9E4LA04",
     "bank": "practice",
-    "skill": "worked text 2 reason",
+    "skill": "Connectives and Topic Cohesion",
     "printable": true,
     "type": "single",
-    "question": "A student answers “first”. Which feedback helps? Task: Read the classroom example. Which connective correctly completes: ‘The glass is rigid; the missing word, it can break under impact’?",
-    "audioPrompt": "A student answers “first”. Which feedback helps? Task: Read the classroom example. Which connective correctly completes: ‘The glass is rigid; the missing word, it can break under impact’?",
-    "visual": "Three-step Connectives and Topic Cohesion organiser. Read: Worked text 2. Notice: Sequence ideas. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Connectives and Topic Cohesion organiser. Read: Worked text 2. Notice: Sequence ideas. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-004\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-004",
-      "alt_text": "Three-step Connectives and Topic Cohesion organiser. Read: Worked text 2. Notice: Sequence ideas. Correct the student's mix-up using the full task."
-    },
+    "question": "Look closely at explaining why the oval was closed after heavy rain. Which response or wording works best?",
+    "audioPrompt": "Look closely at explaining why the oval was closed after heavy rain. Which response or wording works best?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “however”.",
-      "Keep “first”; it uses a detail that sounds familiar.",
-      "Choose “therefore only” instead; it sounds clearer."
+      "The ground was waterlogged; therefore, the oval was closed.",
+      "The ground was waterlogged; meanwhile, the oval was closed.",
+      "The ground was waterlogged; for example, the oval was closed."
     ],
     "correct": 0,
-    "explanation": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “however”.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Therefore shows that the closure is a result of the waterlogged ground.\nHint: Ask whether the second idea is a result, contrast, example or time event.",
     "structuredExplanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “however”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Therefore shows that the closure is a result of the waterlogged ground.",
+      "hint": "Ask whether the second idea is a result, contrast, example or time event."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +100,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la04-p-005",
     "curriculumCode": "AC9E4LA04",
     "bank": "practice",
-    "skill": "misconception 1 apply",
+    "skill": "Connectives and Topic Cohesion",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Any connective can join any ideas”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Any connective can join any ideas”. Which response gives the most accurate correction?",
-    "visual": "Three-step Connectives and Topic Cohesion organiser. Read: Misconception 1. Notice: Express conditions and causes. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Connectives and Topic Cohesion organiser. Read: Misconception 1. Notice: Express conditions and causes. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-005",
-      "alt_text": "Three-step Connectives and Topic Cohesion organiser. Read: Misconception 1. Notice: Express conditions and causes. Choose the response supported by the example."
-    },
+    "question": "Look closely at adding another reason to a persuasive paragraph about shade. Which response or wording works best?",
+    "audioPrompt": "Look closely at adding another reason to a persuasive paragraph about shade. Which response or wording works best?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Any connective can join any ideas",
-      "The connective must match the logical relationship.",
-      "More connectives always improve writing"
+      "However, more shade would make lunchtime areas cooler.",
+      "In addition, more shade would make lunchtime areas cooler.",
+      "Finally, because more shade would."
     ],
     "correct": 1,
-    "explanation": "The connective must match the logical relationship.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "In addition signals another supporting point on the same topic.\nHint: Notice whether the writer is adding, contrasting or concluding.",
     "structuredExplanation": {
-      "summary": "The connective must match the logical relationship.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "In addition signals another supporting point on the same topic.",
+      "hint": "Notice whether the writer is adding, contrasting or concluding."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +124,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la04-p-006",
     "curriculumCode": "AC9E4LA04",
     "bank": "practice",
-    "skill": "misconception 1 reason",
+    "skill": "Connectives and Topic Cohesion",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Any connective can join any ideas”. Which feedback helps? Task: A student in a workshop claims, “Any connective can join any ideas”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Any connective can join any ideas”. Which feedback helps? Task: A student in a workshop claims, “Any connective can join any ideas”. Which response gives the most accurate correction?",
-    "visual": "Three-step Connectives and Topic Cohesion organiser. Read: Misconception 1. Notice: Express conditions and causes. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Connectives and Topic Cohesion organiser. Read: Misconception 1. Notice: Express conditions and causes. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-006",
-      "alt_text": "Three-step Connectives and Topic Cohesion organiser. Read: Misconception 1. Notice: Express conditions and causes. Correct the student's mix-up using the full task."
-    },
+    "question": "For adding another reason to a persuasive paragraph about shade, which option is the strongest match?",
+    "audioPrompt": "For adding another reason to a persuasive paragraph about shade, which option is the strongest match?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Any connective can join any ideas”; it uses a detail that sounds familiar.",
-      "Choose “More connectives always improve writing” instead; it sounds clearer.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. The connective must match the logical relationship."
+      "However, more shade would make lunchtime areas cooler.",
+      "Finally, because more shade would.",
+      "In addition, more shade would make lunchtime areas cooler."
     ],
     "correct": 2,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. The connective must match the logical relationship.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "In addition signals another supporting point on the same topic.\nHint: Notice whether the writer is adding, contrasting or concluding.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. The connective must match the logical relationship.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "In addition signals another supporting point on the same topic.",
+      "hint": "Notice whether the writer is adding, contrasting or concluding."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +148,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la04-p-007",
     "curriculumCode": "AC9E4LA04",
     "bank": "practice",
-    "skill": "misconception 2 apply",
+    "skill": "Connectives and Topic Cohesion",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “More connectives always improve writing”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “More connectives always improve writing”. Which response gives the most accurate correction?",
-    "visual": "Three-step Connectives and Topic Cohesion organiser. Read: Misconception 2. Notice: Build topic cohesion. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Connectives and Topic Cohesion organiser. Read: Misconception 2. Notice: Build topic cohesion. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-007",
-      "alt_text": "Three-step Connectives and Topic Cohesion organiser. Read: Misconception 2. Notice: Build topic cohesion. Choose the response supported by the example."
-    },
+    "question": "For linking a condition to an action in a bushwalk safety guide, which option is the strongest match?",
+    "audioPrompt": "For linking a condition to an action in a bushwalk safety guide, which option is the strongest match?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Overuse can make writing mechanical or confusing.",
-      "More connectives always improve writing",
-      "Every repetition should be replaced"
+      "If the track is closed, choose another route.",
+      "Although the track is closed, choose another route because maybe.",
+      "Before the track is closed, choose another route."
     ],
     "correct": 0,
-    "explanation": "Overuse can make writing mechanical or confusing.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "If introduces the condition that determines what action should follow.\nHint: Find the word that means this action depends on that situation.",
     "structuredExplanation": {
-      "summary": "Overuse can make writing mechanical or confusing.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "If introduces the condition that determines what action should follow.",
+      "hint": "Find the word that means this action depends on that situation."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +172,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la04-p-008",
     "curriculumCode": "AC9E4LA04",
     "bank": "practice",
-    "skill": "misconception 2 reason",
+    "skill": "Connectives and Topic Cohesion",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Every repetition should be replaced”. Which feedback helps? Task: A student in a workshop claims, “More connectives always improve writing”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Every repetition should be replaced”. Which feedback helps? Task: A student in a workshop claims, “More connectives always improve writing”. Which response gives the most accurate correction?",
-    "visual": "Three-step Connectives and Topic Cohesion organiser. Read: Misconception 2. Notice: Build topic cohesion. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Connectives and Topic Cohesion organiser. Read: Misconception 2. Notice: Build topic cohesion. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-008\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-008",
-      "alt_text": "Three-step Connectives and Topic Cohesion organiser. Read: Misconception 2. Notice: Build topic cohesion. Correct the student's mix-up using the full task."
-    },
+    "question": "Which example should you choose for linking a condition to an action in a bushwalk safety guide?",
+    "audioPrompt": "Which example should you choose for linking a condition to an action in a bushwalk safety guide?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Every repetition should be replaced”; it uses a detail that sounds familiar.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Overuse can make writing mechanical or confusing.",
-      "Choose “More connectives always improve writing” instead; it sounds clearer."
+      "Although the track is closed, choose another route because maybe.",
+      "If the track is closed, choose another route.",
+      "Before the track is closed, choose another route."
     ],
     "correct": 1,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Overuse can make writing mechanical or confusing.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "If introduces the condition that determines what action should follow.\nHint: Find the word that means this action depends on that situation.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Overuse can make writing mechanical or confusing.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "If introduces the condition that determines what action should follow.",
+      "hint": "Find the word that means this action depends on that situation."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +196,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la04-p-009",
     "curriculumCode": "AC9E4LA04",
     "bank": "practice",
-    "skill": "misconception 3 apply",
+    "skill": "Connectives and Topic Cohesion",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Every repetition should be replaced”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Every repetition should be replaced”. Which response gives the most accurate correction?",
-    "visual": "Three-step Connectives and Topic Cohesion organiser. Read: Misconception 3. Notice: Explain connective effects. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Connectives and Topic Cohesion organiser. Read: Misconception 3. Notice: Explain connective effects. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-009",
-      "alt_text": "Three-step Connectives and Topic Cohesion organiser. Read: Misconception 3. Notice: Explain connective effects. Choose the response supported by the example."
-    },
+    "question": "Which example should you choose for keeping a paragraph about koalas focused?",
+    "audioPrompt": "Which example should you choose for keeping a paragraph about koalas focused?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Every repetition should be replaced",
-      "Pronoun reference assumed clear",
-      "Key terms sometimes need repeating for precision."
+      "Koalas rest in eucalyptus trees. They means the school bell.",
+      "Koalas rest in eucalyptus trees. My bike has new tyres.",
+      "Koalas rest in eucalyptus trees. These animals also feed on eucalyptus leaves."
     ],
     "correct": 2,
-    "explanation": "Key terms sometimes need repeating for precision.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "These animals clearly refers back to koalas and keeps the topic chain connected.\nHint: Check that pronouns and related words point clearly to the same topic.",
     "structuredExplanation": {
-      "summary": "Key terms sometimes need repeating for precision.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "These animals clearly refers back to koalas and keeps the topic chain connected.",
+      "hint": "Check that pronouns and related words point clearly to the same topic."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +220,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la04-p-010",
     "curriculumCode": "AC9E4LA04",
     "bank": "practice",
-    "skill": "misconception 3 reason",
+    "skill": "Connectives and Topic Cohesion",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Every repetition should be replaced”. Which feedback helps? Task: A student in a workshop claims, “Every repetition should be replaced”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Every repetition should be replaced”. Which feedback helps? Task: A student in a workshop claims, “Every repetition should be replaced”. Which response gives the most accurate correction?",
-    "visual": "Three-step Connectives and Topic Cohesion organiser. Read: Misconception 3. Notice: Explain connective effects. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Connectives and Topic Cohesion organiser. Read: Misconception 3. Notice: Explain connective effects. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-010",
-      "alt_text": "Three-step Connectives and Topic Cohesion organiser. Read: Misconception 3. Notice: Explain connective effects. Correct the student's mix-up using the full task."
-    },
+    "question": "In keeping a paragraph about koalas focused, which option best demonstrates the skill?",
+    "audioPrompt": "In keeping a paragraph about koalas focused, which option best demonstrates the skill?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Key terms sometimes need repeating for precision.",
-      "Keep “Every repetition should be replaced”; it uses a detail that sounds familiar.",
-      "Choose “Pronoun reference assumed clear” instead; it sounds clearer."
+      "Koalas rest in eucalyptus trees. These animals also feed on eucalyptus leaves.",
+      "Koalas rest in eucalyptus trees. They means the school bell.",
+      "Koalas rest in eucalyptus trees. My bike has new tyres."
     ],
     "correct": 0,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Key terms sometimes need repeating for precision.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "These animals clearly refers back to koalas and keeps the topic chain connected.\nHint: Check that pronouns and related words point clearly to the same topic.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Key terms sometimes need repeating for precision.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "These animals clearly refers back to koalas and keeps the topic chain connected.",
+      "hint": "Check that pronouns and related words point clearly to the same topic."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +244,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la04-p-011",
     "curriculumCode": "AC9E4LA04",
     "bank": "practice",
-    "skill": "misconception 4 apply",
+    "skill": "Connectives and Topic Cohesion",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Pronoun reference assumed clear”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Pronoun reference assumed clear”. Which response gives the most accurate correction?",
-    "visual": "Three-step Connectives and Topic Cohesion organiser. Read: Misconception 4. Notice: Identify connective types. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Connectives and Topic Cohesion organiser. Read: Misconception 4. Notice: Identify connective types. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-011",
-      "alt_text": "Three-step Connectives and Topic Cohesion organiser. Read: Misconception 4. Notice: Identify connective types. Choose the response supported by the example."
-    },
+    "question": "Why does “First, the seed absorbs water. Then, the root begins to grow.” work well for explaining how a seed germinates?",
+    "audioPrompt": "Why does “First, the seed absorbs water. Then, the root begins to grow.” work well for explaining how a seed germinates?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Pronoun reference assumed clear",
-      "Check that readers can identify the noun referred to.",
-      "Any connective can join any ideas"
+      "Because “First, the seed absorbs water. However, the root begins to grow.” is always acceptable in this situation.",
+      "First and then show a clear time sequence between related ideas.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 1,
-    "explanation": "Check that readers can identify the noun referred to.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "First and then show a clear time sequence between related ideas.\nHint: Choose a connective that matches the relationship between the ideas.",
     "structuredExplanation": {
-      "summary": "Check that readers can identify the noun referred to.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "First and then show a clear time sequence between related ideas.",
+      "hint": "Choose a connective that matches the relationship between the ideas."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +268,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la04-p-012",
     "curriculumCode": "AC9E4LA04",
     "bank": "practice",
-    "skill": "misconception 4 reason",
+    "skill": "Connectives and Topic Cohesion",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Any connective can join any ideas”. Which feedback helps? Task: A student in a workshop claims, “Pronoun reference assumed clear”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Any connective can join any ideas”. Which feedback helps? Task: A student in a workshop claims, “Pronoun reference assumed clear”. Which response gives the most accurate correction?",
-    "visual": "Three-step Connectives and Topic Cohesion organiser. Read: Misconception 4. Notice: Identify connective types. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Connectives and Topic Cohesion organiser. Read: Misconception 4. Notice: Identify connective types. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-012\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-012",
-      "alt_text": "Three-step Connectives and Topic Cohesion organiser. Read: Misconception 4. Notice: Identify connective types. Correct the student's mix-up using the full task."
-    },
+    "question": "What makes “First, the seed absorbs water. Then, the root begins to grow.” a better choice in explaining how a seed germinates?",
+    "audioPrompt": "What makes “First, the seed absorbs water. Then, the root begins to grow.” a better choice in explaining how a seed germinates?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Any connective can join any ideas”; it uses a detail that sounds familiar.",
-      "Choose “Pronoun reference assumed clear” instead; it sounds clearer.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Check that readers can identify the noun referred to."
+      "Because “First, the seed absorbs water. However, the root begins to grow.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct.",
+      "First and then show a clear time sequence between related ideas."
     ],
     "correct": 2,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Check that readers can identify the noun referred to.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "First and then show a clear time sequence between related ideas.\nHint: Choose a connective that matches the relationship between the ideas.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Check that readers can identify the noun referred to.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "First and then show a clear time sequence between related ideas.",
+      "hint": "Choose a connective that matches the relationship between the ideas."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +292,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la04-p-013",
     "curriculumCode": "AC9E4LA04",
     "bank": "practice",
-    "skill": "connective pathway apply",
+    "skill": "Connectives and Topic Cohesion",
     "printable": true,
     "type": "single",
-    "question": "The class prepares “Connective pathway”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "The class prepares “Connective pathway”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Connectives and Topic Cohesion organiser. Read: Connective pathway. Notice: Sequence ideas. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Connectives and Topic Cohesion organiser. Read: Connective pathway. Notice: Sequence ideas. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-013",
-      "alt_text": "Three-step Connectives and Topic Cohesion organiser. Read: Connective pathway. Notice: Sequence ideas. Choose the response supported by the example."
-    },
+    "question": "What makes “The ground was waterlogged; therefore, the oval was closed.” a better choice in explaining why the oval was closed after heavy rain?",
+    "audioPrompt": "What makes “The ground was waterlogged; therefore, the oval was closed.” a better choice in explaining why the oval was closed after heavy rain?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Arrange mixed sentences into a logical sequence and choose connectives that accurately signal each link.",
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Change the purpose and audience halfway through, then report the first impression only."
+      "Therefore shows that the closure is a result of the waterlogged ground.",
+      "Because “The ground was waterlogged; meanwhile, the oval was closed.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 0,
-    "explanation": "Arrange mixed sentences into a logical sequence and choose connectives that accurately signal each link.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "explanation": "Therefore shows that the closure is a result of the waterlogged ground.\nHint: Ask whether the second idea is a result, contrast, example or time event.",
     "structuredExplanation": {
-      "summary": "Arrange mixed sentences into a logical sequence and choose connectives that accurately signal each link.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "Therefore shows that the closure is a result of the waterlogged ground.",
+      "hint": "Ask whether the second idea is a result, contrast, example or time event."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +316,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la04-p-014",
     "curriculumCode": "AC9E4LA04",
     "bank": "practice",
-    "skill": "connective pathway reason",
+    "skill": "Connectives and Topic Cohesion",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Connective pathway”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Connective pathway”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Connectives and Topic Cohesion organiser. Read: Connective pathway. Notice: Sequence ideas. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Connectives and Topic Cohesion organiser. Read: Connective pathway. Notice: Sequence ideas. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-014\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-014",
-      "alt_text": "Three-step Connectives and Topic Cohesion organiser. Read: Connective pathway. Notice: Sequence ideas. Correct the student's mix-up using the full task."
-    },
+    "question": "Which explanation best justifies “The ground was waterlogged; therefore, the oval was closed.” for explaining why the oval was closed after heavy rain?",
+    "audioPrompt": "Which explanation best justifies “The ground was waterlogged; therefore, the oval was closed.” for explaining why the oval was closed after heavy rain?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
-      "Choose the plan that analyses language evidence and produces a reviewable response. Arrange mixed sentences into a logical sequence and choose connectives that accurately signal each link.",
-      "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer."
+      "Because “The ground was waterlogged; meanwhile, the oval was closed.” is always acceptable in this situation.",
+      "Therefore shows that the closure is a result of the waterlogged ground.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 1,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. Arrange mixed sentences into a logical sequence and choose connectives that accurately signal each link.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Therefore shows that the closure is a result of the waterlogged ground.\nHint: Ask whether the second idea is a result, contrast, example or time event.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Arrange mixed sentences into a logical sequence and choose connectives that accurately signal each link.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Therefore shows that the closure is a result of the waterlogged ground.",
+      "hint": "Ask whether the second idea is a result, contrast, example or time event."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +340,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la04-p-015",
     "curriculumCode": "AC9E4LA04",
     "bank": "practice",
-    "skill": "topic chain map apply",
+    "skill": "Connectives and Topic Cohesion",
     "printable": true,
     "type": "single",
-    "question": "The class prepares “Topic-chain map”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "The class prepares “Topic-chain map”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Connectives and Topic Cohesion organiser. Read: Topic-chain map. Notice: Express conditions and causes. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Connectives and Topic Cohesion organiser. Read: Topic-chain map. Notice: Express conditions and causes. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-015",
-      "alt_text": "Three-step Connectives and Topic Cohesion organiser. Read: Topic-chain map. Notice: Express conditions and causes. Choose the response supported by the example."
-    },
+    "question": "Which explanation best justifies “In addition, more shade would make lunchtime areas cooler.” for adding another reason to a persuasive paragraph about shade?",
+    "audioPrompt": "Which explanation best justifies “In addition, more shade would make lunchtime areas cooler.” for adding another reason to a persuasive paragraph about shade?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Change the purpose and audience halfway through, then report the first impression only.",
-      "Highlight repeated nouns, synonyms, pronouns and associated technical words across a paragraph."
+      "Because “However, more shade would make lunchtime areas cooler.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct.",
+      "In addition signals another supporting point on the same topic."
     ],
     "correct": 2,
-    "explanation": "Highlight repeated nouns, synonyms, pronouns and associated technical words across a paragraph.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "explanation": "In addition signals another supporting point on the same topic.\nHint: Notice whether the writer is adding, contrasting or concluding.",
     "structuredExplanation": {
-      "summary": "Highlight repeated nouns, synonyms, pronouns and associated technical words across a paragraph.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "In addition signals another supporting point on the same topic.",
+      "hint": "Notice whether the writer is adding, contrasting or concluding."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +364,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la04-p-016",
     "curriculumCode": "AC9E4LA04",
     "bank": "practice",
-    "skill": "topic chain map reason",
+    "skill": "Connectives and Topic Cohesion",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Topic-chain map”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Topic-chain map”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Connectives and Topic Cohesion organiser. Read: Topic-chain map. Notice: Express conditions and causes. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Connectives and Topic Cohesion organiser. Read: Topic-chain map. Notice: Express conditions and causes. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-016",
-      "alt_text": "Three-step Connectives and Topic Cohesion organiser. Read: Topic-chain map. Notice: Express conditions and causes. Correct the student's mix-up using the full task."
-    },
+    "question": "What should you notice about “In addition, more shade would make lunchtime areas cooler.” in adding another reason to a persuasive paragraph about shade?",
+    "audioPrompt": "What should you notice about “In addition, more shade would make lunchtime areas cooler.” in adding another reason to a persuasive paragraph about shade?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Choose the plan that analyses language evidence and produces a reviewable response. Highlight repeated nouns, synonyms, pronouns and associated technical words across a paragraph.",
-      "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
-      "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer."
+      "In addition signals another supporting point on the same topic.",
+      "Because “However, more shade would make lunchtime areas cooler.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 0,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. Highlight repeated nouns, synonyms, pronouns and associated technical words across a paragraph.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "In addition signals another supporting point on the same topic.\nHint: Notice whether the writer is adding, contrasting or concluding.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Highlight repeated nouns, synonyms, pronouns and associated technical words across a paragraph.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "In addition signals another supporting point on the same topic.",
+      "hint": "Notice whether the writer is adding, contrasting or concluding."
     },
     "qualitySchema": "production-v1"
   },
@@ -468,28 +388,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la04-p-017",
     "curriculumCode": "AC9E4LA04",
     "bank": "practice",
-    "skill": "logic repair apply",
+    "skill": "Connectives and Topic Cohesion",
     "printable": true,
     "type": "single",
-    "question": "The class prepares “Logic repair”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "The class prepares “Logic repair”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Connectives and Topic Cohesion organiser. Read: Logic repair. Notice: Build topic cohesion. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Connectives and Topic Cohesion organiser. Read: Logic repair. Notice: Build topic cohesion. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-017",
-      "alt_text": "Three-step Connectives and Topic Cohesion organiser. Read: Logic repair. Notice: Build topic cohesion. Choose the response supported by the example."
-    },
+    "question": "What should you notice about “If the track is closed, choose another route.” in linking a condition to an action in a bushwalk safety guide?",
+    "audioPrompt": "What should you notice about “If the track is closed, choose another route.” in linking a condition to an action in a bushwalk safety guide?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Replace a connective that signals the wrong relationship and explain the meaning change.",
-      "Change the purpose and audience halfway through, then report the first impression only."
+      "Because “Although the track is closed, choose another route because maybe.” is always acceptable in this situation.",
+      "If introduces the condition that determines what action should follow.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 1,
-    "explanation": "Replace a connective that signals the wrong relationship and explain the meaning change.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "explanation": "If introduces the condition that determines what action should follow.\nHint: Find the word that means this action depends on that situation.",
     "structuredExplanation": {
-      "summary": "Replace a connective that signals the wrong relationship and explain the meaning change.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "If introduces the condition that determines what action should follow.",
+      "hint": "Find the word that means this action depends on that situation."
     },
     "qualitySchema": "production-v1"
   },
@@ -497,28 +412,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la04-p-018",
     "curriculumCode": "AC9E4LA04",
     "bank": "practice",
-    "skill": "logic repair reason",
+    "skill": "Connectives and Topic Cohesion",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Logic repair”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Logic repair”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Connectives and Topic Cohesion organiser. Read: Logic repair. Notice: Build topic cohesion. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Connectives and Topic Cohesion organiser. Read: Logic repair. Notice: Build topic cohesion. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-018\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-018",
-      "alt_text": "Three-step Connectives and Topic Cohesion organiser. Read: Logic repair. Notice: Build topic cohesion. Correct the student's mix-up using the full task."
-    },
+    "question": "Which reason explains why “If the track is closed, choose another route.” suits linking a condition to an action in a bushwalk safety guide?",
+    "audioPrompt": "Which reason explains why “If the track is closed, choose another route.” suits linking a condition to an action in a bushwalk safety guide?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
-      "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
-      "Choose the plan that analyses language evidence and produces a reviewable response. Replace a connective that signals the wrong relationship and explain the meaning change."
+      "Because “Although the track is closed, choose another route because maybe.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct.",
+      "If introduces the condition that determines what action should follow."
     ],
     "correct": 2,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. Replace a connective that signals the wrong relationship and explain the meaning change.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "If introduces the condition that determines what action should follow.\nHint: Find the word that means this action depends on that situation.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Replace a connective that signals the wrong relationship and explain the meaning change.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "If introduces the condition that determines what action should follow.",
+      "hint": "Find the word that means this action depends on that situation."
     },
     "qualitySchema": "production-v1"
   },
@@ -526,28 +436,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la04-p-019",
     "curriculumCode": "AC9E4LA04",
     "bank": "practice",
-    "skill": "vocabulary 1 apply",
+    "skill": "Connectives and Topic Cohesion",
     "printable": true,
     "type": "single",
-    "question": "A class annotation about Connectives and Topic Cohesion describes “word or phrase signalling a relationship between ideas”. Which term is most precise?",
-    "audioPrompt": "A class annotation about Connectives and Topic Cohesion describes “word or phrase signalling a relationship between ideas”. Which term is most precise?",
-    "visual": "Three-step Connectives and Topic Cohesion organiser. Read: Vocabulary 1. Notice: Explain connective effects. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Connectives and Topic Cohesion organiser. Read: Vocabulary 1. Notice: Explain connective effects. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-019",
-      "alt_text": "Three-step Connectives and Topic Cohesion organiser. Read: Vocabulary 1. Notice: Explain connective effects. Choose the response supported by the example."
-    },
+    "question": "Which reason explains why “Koalas rest in eucalyptus trees. These animals also feed on eucalyptus leaves.” suits keeping a paragraph about koalas focused?",
+    "audioPrompt": "Which reason explains why “Koalas rest in eucalyptus trees. These animals also feed on eucalyptus leaves.” suits keeping a paragraph about koalas focused?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "connective",
-      "temporal connective",
-      "conditional connective"
+      "These animals clearly refers back to koalas and keeps the topic chain connected.",
+      "Because “Koalas rest in eucalyptus trees. They means the school bell.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 0,
-    "explanation": "connective is the precise term for this feature.\nHint: Match the definition to the exact language or literacy concept.",
+    "explanation": "These animals clearly refers back to koalas and keeps the topic chain connected.\nHint: Check that pronouns and related words point clearly to the same topic.",
     "structuredExplanation": {
-      "summary": "connective is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
+      "summary": "These animals clearly refers back to koalas and keeps the topic chain connected.",
+      "hint": "Check that pronouns and related words point clearly to the same topic."
     },
     "qualitySchema": "production-v1"
   },
@@ -555,28 +460,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la04-p-020",
     "curriculumCode": "AC9E4LA04",
     "bank": "practice",
-    "skill": "vocabulary 1 reason",
+    "skill": "Connectives and Topic Cohesion",
     "printable": true,
     "type": "single",
-    "question": "A student answers “conditional connective”. Which feedback helps? Task: A class annotation about Connectives and Topic Cohesion describes “word or phrase signalling a relationship between ideas”. Which term is most precise?",
-    "audioPrompt": "A student answers “conditional connective”. Which feedback helps? Task: A class annotation about Connectives and Topic Cohesion describes “word or phrase signalling a relationship between ideas”. Which term is most precise?",
-    "visual": "Three-step Connectives and Topic Cohesion organiser. Read: Vocabulary 1. Notice: Explain connective effects. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Connectives and Topic Cohesion organiser. Read: Vocabulary 1. Notice: Explain connective effects. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-020\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-020",
-      "alt_text": "Three-step Connectives and Topic Cohesion organiser. Read: Vocabulary 1. Notice: Explain connective effects. Correct the student's mix-up using the full task."
-    },
+    "question": "Why does “Koalas rest in eucalyptus trees. These animals also feed on eucalyptus leaves.” work well for keeping a paragraph about koalas focused?",
+    "audioPrompt": "Why does “Koalas rest in eucalyptus trees. These animals also feed on eucalyptus leaves.” work well for keeping a paragraph about koalas focused?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “conditional connective”; it uses a detail that sounds familiar.",
-      "Match the definition to the exact language or literacy concept. connective is the precise term for this feature.",
-      "Choose “temporal connective” instead; it sounds clearer."
+      "Because “Koalas rest in eucalyptus trees. They means the school bell.” is always acceptable in this situation.",
+      "These animals clearly refers back to koalas and keeps the topic chain connected.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 1,
-    "explanation": "Match the definition to the exact language or literacy concept. connective is the precise term for this feature.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "These animals clearly refers back to koalas and keeps the topic chain connected.\nHint: Check that pronouns and related words point clearly to the same topic.",
     "structuredExplanation": {
-      "summary": "Match the definition to the exact language or literacy concept. connective is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "These animals clearly refers back to koalas and keeps the topic chain connected.",
+      "hint": "Check that pronouns and related words point clearly to the same topic."
     },
     "qualitySchema": "production-v1"
   },
@@ -584,28 +484,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la04-p-021",
     "curriculumCode": "AC9E4LA04",
     "bank": "practice",
-    "skill": "vocabulary 2 apply",
+    "skill": "Connectives and Topic Cohesion",
     "printable": true,
     "type": "single",
-    "question": "A class annotation about Connectives and Topic Cohesion describes “connective showing time or sequence”. Which term is most precise?",
-    "audioPrompt": "A class annotation about Connectives and Topic Cohesion describes “connective showing time or sequence”. Which term is most precise?",
-    "visual": "Three-step Connectives and Topic Cohesion organiser. Read: Vocabulary 2. Notice: Identify connective types. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Connectives and Topic Cohesion organiser. Read: Vocabulary 2. Notice: Identify connective types. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-021\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-021",
-      "alt_text": "Three-step Connectives and Topic Cohesion organiser. Read: Vocabulary 2. Notice: Identify connective types. Choose the response supported by the example."
-    },
+    "question": "Which revision best fixes the problem in “First, the seed absorbs water. However, the root begins to grow.” for explaining how a seed germinates?",
+    "audioPrompt": "Which revision best fixes the problem in “First, the seed absorbs water. However, the root begins to grow.” for explaining how a seed germinates?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "connective",
-      "conditional connective",
-      "temporal connective"
+      "First, the seed absorbs water. However, the root begins to grow.",
+      "The seed absorbs water. Football is popular.",
+      "First, the seed absorbs water. Then, the root begins to grow."
     ],
     "correct": 2,
-    "explanation": "temporal connective is the precise term for this feature.\nHint: Match the definition to the exact language or literacy concept.",
+    "explanation": "First and then show a clear time sequence between related ideas. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Choose a connective that matches the relationship between the ideas.",
     "structuredExplanation": {
-      "summary": "temporal connective is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
+      "summary": "First and then show a clear time sequence between related ideas. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Choose a connective that matches the relationship between the ideas."
     },
     "qualitySchema": "production-v1"
   },
@@ -613,28 +508,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la04-p-022",
     "curriculumCode": "AC9E4LA04",
     "bank": "practice",
-    "skill": "vocabulary 2 reason",
+    "skill": "Connectives and Topic Cohesion",
     "printable": true,
     "type": "single",
-    "question": "A student answers “connective”. Which feedback helps? Task: A class annotation about Connectives and Topic Cohesion describes “connective showing time or sequence”. Which term is most precise?",
-    "audioPrompt": "A student answers “connective”. Which feedback helps? Task: A class annotation about Connectives and Topic Cohesion describes “connective showing time or sequence”. Which term is most precise?",
-    "visual": "Three-step Connectives and Topic Cohesion organiser. Read: Vocabulary 2. Notice: Identify connective types. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Connectives and Topic Cohesion organiser. Read: Vocabulary 2. Notice: Identify connective types. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-022\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-022",
-      "alt_text": "Three-step Connectives and Topic Cohesion organiser. Read: Vocabulary 2. Notice: Identify connective types. Correct the student's mix-up using the full task."
-    },
+    "question": "Compare the choices for explaining how a seed germinates. Which one avoids the mistake in “First, the seed absorbs water. However, the root begins to grow.”?",
+    "audioPrompt": "Compare the choices for explaining how a seed germinates. Which one avoids the mistake in “First, the seed absorbs water. However, the root begins to grow.”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Match the definition to the exact language or literacy concept. temporal connective is the precise term for this feature.",
-      "Keep “connective”; it uses a detail that sounds familiar.",
-      "Choose “conditional connective” instead; it sounds clearer."
+      "First, the seed absorbs water. Then, the root begins to grow.",
+      "First, the seed absorbs water. However, the root begins to grow.",
+      "The seed absorbs water. Football is popular."
     ],
     "correct": 0,
-    "explanation": "Match the definition to the exact language or literacy concept. temporal connective is the precise term for this feature.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "First and then show a clear time sequence between related ideas. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Choose a connective that matches the relationship between the ideas.",
     "structuredExplanation": {
-      "summary": "Match the definition to the exact language or literacy concept. temporal connective is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "First and then show a clear time sequence between related ideas. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Choose a connective that matches the relationship between the ideas."
     },
     "qualitySchema": "production-v1"
   },
@@ -642,28 +532,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la04-p-023",
     "curriculumCode": "AC9E4LA04",
     "bank": "practice",
-    "skill": "vocabulary 3 apply",
+    "skill": "Connectives and Topic Cohesion",
     "printable": true,
     "type": "single",
-    "question": "A class annotation about Connectives and Topic Cohesion describes “connective showing a condition”. Which term is most precise?",
-    "audioPrompt": "A class annotation about Connectives and Topic Cohesion describes “connective showing a condition”. Which term is most precise?",
-    "visual": "Three-step Connectives and Topic Cohesion organiser. Read: Vocabulary 3. Notice: Sequence ideas. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Connectives and Topic Cohesion organiser. Read: Vocabulary 3. Notice: Sequence ideas. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-023\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-023",
-      "alt_text": "Three-step Connectives and Topic Cohesion organiser. Read: Vocabulary 3. Notice: Sequence ideas. Choose the response supported by the example."
-    },
+    "question": "Compare the choices for explaining why the oval was closed after heavy rain. Which one avoids the mistake in “The ground was waterlogged; meanwhile, the oval was closed.”?",
+    "audioPrompt": "Compare the choices for explaining why the oval was closed after heavy rain. Which one avoids the mistake in “The ground was waterlogged; meanwhile, the oval was closed.”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "connective",
-      "conditional connective",
-      "temporal connective"
+      "The ground was waterlogged; meanwhile, the oval was closed.",
+      "The ground was waterlogged; therefore, the oval was closed.",
+      "The ground was waterlogged; for example, the oval was closed."
     ],
     "correct": 1,
-    "explanation": "conditional connective is the precise term for this feature.\nHint: Match the definition to the exact language or literacy concept.",
+    "explanation": "Therefore shows that the closure is a result of the waterlogged ground. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Ask whether the second idea is a result, contrast, example or time event.",
     "structuredExplanation": {
-      "summary": "conditional connective is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
+      "summary": "Therefore shows that the closure is a result of the waterlogged ground. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Ask whether the second idea is a result, contrast, example or time event."
     },
     "qualitySchema": "production-v1"
   },
@@ -671,28 +556,407 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la04-p-024",
     "curriculumCode": "AC9E4LA04",
     "bank": "practice",
-    "skill": "vocabulary 3 reason",
+    "skill": "Connectives and Topic Cohesion",
     "printable": true,
     "type": "single",
-    "question": "A student answers “temporal connective”. Which feedback helps? Task: A class annotation about Connectives and Topic Cohesion describes “connective showing a condition”. Which term is most precise?",
-    "audioPrompt": "A student answers “temporal connective”. Which feedback helps? Task: A class annotation about Connectives and Topic Cohesion describes “connective showing a condition”. Which term is most precise?",
-    "visual": "Three-step Connectives and Topic Cohesion organiser. Read: Vocabulary 3. Notice: Sequence ideas. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Connectives and Topic Cohesion organiser. Read: Vocabulary 3. Notice: Sequence ideas. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-024\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la04.svg#ac9e4la04-p-024",
-      "alt_text": "Three-step Connectives and Topic Cohesion organiser. Read: Vocabulary 3. Notice: Sequence ideas. Correct the student's mix-up using the full task."
-    },
+    "question": "If “The ground was waterlogged; meanwhile, the oval was closed.” does not work in explaining why the oval was closed after heavy rain, what should replace it?",
+    "audioPrompt": "If “The ground was waterlogged; meanwhile, the oval was closed.” does not work in explaining why the oval was closed after heavy rain, what should replace it?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “temporal connective”; it uses a detail that sounds familiar.",
-      "Choose “connective” instead; it sounds clearer.",
-      "Match the definition to the exact language or literacy concept. conditional connective is the precise term for this feature."
+      "The ground was waterlogged; meanwhile, the oval was closed.",
+      "The ground was waterlogged; for example, the oval was closed.",
+      "The ground was waterlogged; therefore, the oval was closed."
     ],
     "correct": 2,
-    "explanation": "Match the definition to the exact language or literacy concept. conditional connective is the precise term for this feature.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Therefore shows that the closure is a result of the waterlogged ground. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Ask whether the second idea is a result, contrast, example or time event.",
     "structuredExplanation": {
-      "summary": "Match the definition to the exact language or literacy concept. conditional connective is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Therefore shows that the closure is a result of the waterlogged ground. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Ask whether the second idea is a result, contrast, example or time event."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la04-p-025",
+    "curriculumCode": "AC9E4LA04",
+    "bank": "practice",
+    "skill": "Connectives and Topic Cohesion",
+    "printable": true,
+    "type": "single",
+    "question": "If “However, more shade would make lunchtime areas cooler.” does not work in adding another reason to a persuasive paragraph about shade, what should replace it?",
+    "audioPrompt": "If “However, more shade would make lunchtime areas cooler.” does not work in adding another reason to a persuasive paragraph about shade, what should replace it?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "In addition, more shade would make lunchtime areas cooler.",
+      "However, more shade would make lunchtime areas cooler.",
+      "Finally, because more shade would."
+    ],
+    "correct": 0,
+    "explanation": "In addition signals another supporting point on the same topic. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Notice whether the writer is adding, contrasting or concluding.",
+    "structuredExplanation": {
+      "summary": "In addition signals another supporting point on the same topic. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Notice whether the writer is adding, contrasting or concluding."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la04-p-026",
+    "curriculumCode": "AC9E4LA04",
+    "bank": "practice",
+    "skill": "Connectives and Topic Cohesion",
+    "printable": true,
+    "type": "single",
+    "question": "Which option corrects the meaning or form needed for adding another reason to a persuasive paragraph about shade?",
+    "audioPrompt": "Which option corrects the meaning or form needed for adding another reason to a persuasive paragraph about shade?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "However, more shade would make lunchtime areas cooler.",
+      "In addition, more shade would make lunchtime areas cooler.",
+      "Finally, because more shade would."
+    ],
+    "correct": 1,
+    "explanation": "In addition signals another supporting point on the same topic. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Notice whether the writer is adding, contrasting or concluding.",
+    "structuredExplanation": {
+      "summary": "In addition signals another supporting point on the same topic. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Notice whether the writer is adding, contrasting or concluding."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la04-p-027",
+    "curriculumCode": "AC9E4LA04",
+    "bank": "practice",
+    "skill": "Connectives and Topic Cohesion",
+    "printable": true,
+    "type": "single",
+    "question": "Which option corrects the meaning or form needed for linking a condition to an action in a bushwalk safety guide?",
+    "audioPrompt": "Which option corrects the meaning or form needed for linking a condition to an action in a bushwalk safety guide?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Although the track is closed, choose another route because maybe.",
+      "Before the track is closed, choose another route.",
+      "If the track is closed, choose another route."
+    ],
+    "correct": 2,
+    "explanation": "If introduces the condition that determines what action should follow. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Find the word that means this action depends on that situation.",
+    "structuredExplanation": {
+      "summary": "If introduces the condition that determines what action should follow. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Find the word that means this action depends on that situation."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la04-p-028",
+    "curriculumCode": "AC9E4LA04",
+    "bank": "practice",
+    "skill": "Connectives and Topic Cohesion",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is the clearest correction for linking a condition to an action in a bushwalk safety guide?",
+    "audioPrompt": "Which choice is the clearest correction for linking a condition to an action in a bushwalk safety guide?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "If the track is closed, choose another route.",
+      "Although the track is closed, choose another route because maybe.",
+      "Before the track is closed, choose another route."
+    ],
+    "correct": 0,
+    "explanation": "If introduces the condition that determines what action should follow. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Find the word that means this action depends on that situation.",
+    "structuredExplanation": {
+      "summary": "If introduces the condition that determines what action should follow. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Find the word that means this action depends on that situation."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la04-p-029",
+    "curriculumCode": "AC9E4LA04",
+    "bank": "practice",
+    "skill": "Connectives and Topic Cohesion",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is the clearest correction for keeping a paragraph about koalas focused?",
+    "audioPrompt": "Which choice is the clearest correction for keeping a paragraph about koalas focused?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Koalas rest in eucalyptus trees. They means the school bell.",
+      "Koalas rest in eucalyptus trees. These animals also feed on eucalyptus leaves.",
+      "Koalas rest in eucalyptus trees. My bike has new tyres."
+    ],
+    "correct": 1,
+    "explanation": "These animals clearly refers back to koalas and keeps the topic chain connected. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Check that pronouns and related words point clearly to the same topic.",
+    "structuredExplanation": {
+      "summary": "These animals clearly refers back to koalas and keeps the topic chain connected. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Check that pronouns and related words point clearly to the same topic."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la04-p-030",
+    "curriculumCode": "AC9E4LA04",
+    "bank": "practice",
+    "skill": "Connectives and Topic Cohesion",
+    "printable": true,
+    "type": "single",
+    "question": "Which revision best fixes the problem in “Koalas rest in eucalyptus trees. They means the school bell.” for keeping a paragraph about koalas focused?",
+    "audioPrompt": "Which revision best fixes the problem in “Koalas rest in eucalyptus trees. They means the school bell.” for keeping a paragraph about koalas focused?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Koalas rest in eucalyptus trees. They means the school bell.",
+      "Koalas rest in eucalyptus trees. My bike has new tyres.",
+      "Koalas rest in eucalyptus trees. These animals also feed on eucalyptus leaves."
+    ],
+    "correct": 2,
+    "explanation": "These animals clearly refers back to koalas and keeps the topic chain connected. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Check that pronouns and related words point clearly to the same topic.",
+    "structuredExplanation": {
+      "summary": "These animals clearly refers back to koalas and keeps the topic chain connected. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Check that pronouns and related words point clearly to the same topic."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la04-p-031",
+    "curriculumCode": "AC9E4LA04",
+    "bank": "practice",
+    "skill": "Connectives and Topic Cohesion",
+    "printable": true,
+    "type": "single",
+    "question": "You now need to handle explaining how a seed germinates independently. Which choice should you use?",
+    "audioPrompt": "You now need to handle explaining how a seed germinates independently. Which choice should you use?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "First, the seed absorbs water. Then, the root begins to grow.",
+      "The seed absorbs water. Football is popular.",
+      "First, the seed absorbs water. However, the root begins to grow."
+    ],
+    "correct": 0,
+    "explanation": "First and then show a clear time sequence between related ideas.\nHint: Choose a connective that matches the relationship between the ideas.",
+    "structuredExplanation": {
+      "summary": "First and then show a clear time sequence between related ideas.",
+      "hint": "Choose a connective that matches the relationship between the ideas."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la04-p-032",
+    "curriculumCode": "AC9E4LA04",
+    "bank": "practice",
+    "skill": "Connectives and Topic Cohesion",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the same idea to explaining how a seed germinates. Which option is best?",
+    "audioPrompt": "Apply the same idea to explaining how a seed germinates. Which option is best?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The seed absorbs water. Football is popular.",
+      "First, the seed absorbs water. Then, the root begins to grow.",
+      "First, the seed absorbs water. However, the root begins to grow."
+    ],
+    "correct": 1,
+    "explanation": "First and then show a clear time sequence between related ideas.\nHint: Choose a connective that matches the relationship between the ideas.",
+    "structuredExplanation": {
+      "summary": "First and then show a clear time sequence between related ideas.",
+      "hint": "Choose a connective that matches the relationship between the ideas."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la04-p-033",
+    "curriculumCode": "AC9E4LA04",
+    "bank": "practice",
+    "skill": "Connectives and Topic Cohesion",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the same idea to explaining why the oval was closed after heavy rain. Which option is best?",
+    "audioPrompt": "Apply the same idea to explaining why the oval was closed after heavy rain. Which option is best?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The ground was waterlogged; for example, the oval was closed.",
+      "The ground was waterlogged; meanwhile, the oval was closed.",
+      "The ground was waterlogged; therefore, the oval was closed."
+    ],
+    "correct": 2,
+    "explanation": "Therefore shows that the closure is a result of the waterlogged ground.\nHint: Ask whether the second idea is a result, contrast, example or time event.",
+    "structuredExplanation": {
+      "summary": "Therefore shows that the closure is a result of the waterlogged ground.",
+      "hint": "Ask whether the second idea is a result, contrast, example or time event."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la04-p-034",
+    "curriculumCode": "AC9E4LA04",
+    "bank": "practice",
+    "skill": "Connectives and Topic Cohesion",
+    "printable": true,
+    "type": "single",
+    "question": "Which decision would produce the clearest result in explaining why the oval was closed after heavy rain?",
+    "audioPrompt": "Which decision would produce the clearest result in explaining why the oval was closed after heavy rain?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The ground was waterlogged; therefore, the oval was closed.",
+      "The ground was waterlogged; for example, the oval was closed.",
+      "The ground was waterlogged; meanwhile, the oval was closed."
+    ],
+    "correct": 0,
+    "explanation": "Therefore shows that the closure is a result of the waterlogged ground.\nHint: Ask whether the second idea is a result, contrast, example or time event.",
+    "structuredExplanation": {
+      "summary": "Therefore shows that the closure is a result of the waterlogged ground.",
+      "hint": "Ask whether the second idea is a result, contrast, example or time event."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la04-p-035",
+    "curriculumCode": "AC9E4LA04",
+    "bank": "practice",
+    "skill": "Connectives and Topic Cohesion",
+    "printable": true,
+    "type": "single",
+    "question": "Which decision would produce the clearest result in adding another reason to a persuasive paragraph about shade?",
+    "audioPrompt": "Which decision would produce the clearest result in adding another reason to a persuasive paragraph about shade?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Finally, because more shade would.",
+      "In addition, more shade would make lunchtime areas cooler.",
+      "However, more shade would make lunchtime areas cooler."
+    ],
+    "correct": 1,
+    "explanation": "In addition signals another supporting point on the same topic.\nHint: Notice whether the writer is adding, contrasting or concluding.",
+    "structuredExplanation": {
+      "summary": "In addition signals another supporting point on the same topic.",
+      "hint": "Notice whether the writer is adding, contrasting or concluding."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la04-p-036",
+    "curriculumCode": "AC9E4LA04",
+    "bank": "practice",
+    "skill": "Connectives and Topic Cohesion",
+    "printable": true,
+    "type": "single",
+    "question": "Choose the option that applies the skill correctly in adding another reason to a persuasive paragraph about shade.",
+    "audioPrompt": "Choose the option that applies the skill correctly in adding another reason to a persuasive paragraph about shade.",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Finally, because more shade would.",
+      "However, more shade would make lunchtime areas cooler.",
+      "In addition, more shade would make lunchtime areas cooler."
+    ],
+    "correct": 2,
+    "explanation": "In addition signals another supporting point on the same topic.\nHint: Notice whether the writer is adding, contrasting or concluding.",
+    "structuredExplanation": {
+      "summary": "In addition signals another supporting point on the same topic.",
+      "hint": "Notice whether the writer is adding, contrasting or concluding."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la04-p-037",
+    "curriculumCode": "AC9E4LA04",
+    "bank": "practice",
+    "skill": "Connectives and Topic Cohesion",
+    "printable": true,
+    "type": "single",
+    "question": "Choose the option that applies the skill correctly in linking a condition to an action in a bushwalk safety guide.",
+    "audioPrompt": "Choose the option that applies the skill correctly in linking a condition to an action in a bushwalk safety guide.",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "If the track is closed, choose another route.",
+      "Before the track is closed, choose another route.",
+      "Although the track is closed, choose another route because maybe."
+    ],
+    "correct": 0,
+    "explanation": "If introduces the condition that determines what action should follow.\nHint: Find the word that means this action depends on that situation.",
+    "structuredExplanation": {
+      "summary": "If introduces the condition that determines what action should follow.",
+      "hint": "Find the word that means this action depends on that situation."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la04-p-038",
+    "curriculumCode": "AC9E4LA04",
+    "bank": "practice",
+    "skill": "Connectives and Topic Cohesion",
+    "printable": true,
+    "type": "single",
+    "question": "What would be the most effective choice for linking a condition to an action in a bushwalk safety guide?",
+    "audioPrompt": "What would be the most effective choice for linking a condition to an action in a bushwalk safety guide?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Before the track is closed, choose another route.",
+      "If the track is closed, choose another route.",
+      "Although the track is closed, choose another route because maybe."
+    ],
+    "correct": 1,
+    "explanation": "If introduces the condition that determines what action should follow.\nHint: Find the word that means this action depends on that situation.",
+    "structuredExplanation": {
+      "summary": "If introduces the condition that determines what action should follow.",
+      "hint": "Find the word that means this action depends on that situation."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la04-p-039",
+    "curriculumCode": "AC9E4LA04",
+    "bank": "practice",
+    "skill": "Connectives and Topic Cohesion",
+    "printable": true,
+    "type": "single",
+    "question": "What would be the most effective choice for keeping a paragraph about koalas focused?",
+    "audioPrompt": "What would be the most effective choice for keeping a paragraph about koalas focused?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Koalas rest in eucalyptus trees. My bike has new tyres.",
+      "Koalas rest in eucalyptus trees. They means the school bell.",
+      "Koalas rest in eucalyptus trees. These animals also feed on eucalyptus leaves."
+    ],
+    "correct": 2,
+    "explanation": "These animals clearly refers back to koalas and keeps the topic chain connected.\nHint: Check that pronouns and related words point clearly to the same topic.",
+    "structuredExplanation": {
+      "summary": "These animals clearly refers back to koalas and keeps the topic chain connected.",
+      "hint": "Check that pronouns and related words point clearly to the same topic."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la04-p-040",
+    "curriculumCode": "AC9E4LA04",
+    "bank": "practice",
+    "skill": "Connectives and Topic Cohesion",
+    "printable": true,
+    "type": "single",
+    "question": "You now need to handle keeping a paragraph about koalas focused independently. Which choice should you use?",
+    "audioPrompt": "You now need to handle keeping a paragraph about koalas focused independently. Which choice should you use?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Koalas rest in eucalyptus trees. These animals also feed on eucalyptus leaves.",
+      "Koalas rest in eucalyptus trees. My bike has new tyres.",
+      "Koalas rest in eucalyptus trees. They means the school bell."
+    ],
+    "correct": 0,
+    "explanation": "These animals clearly refers back to koalas and keeps the topic chain connected.\nHint: Check that pronouns and related words point clearly to the same topic.",
+    "structuredExplanation": {
+      "summary": "These animals clearly refers back to koalas and keeps the topic chain connected.",
+      "hint": "Check that pronouns and related words point clearly to the same topic."
     },
     "qualitySchema": "production-v1"
   }

@@ -4,28 +4,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly08-p-001",
     "curriculumCode": "AC9E4LY08",
     "bank": "practice",
-    "skill": "worked text 1 apply",
+    "skill": "Handwriting Fluency",
     "printable": true,
     "type": "single",
-    "question": "Read the classroom example. Which feature most directly supports legibility?",
-    "audioPrompt": "Read the classroom example. Which feature most directly supports legibility?",
-    "visual": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Worked text 1. Notice: Form letters consistently. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Fluent and Legible Joined Handwriting organiser. Read: Worked text 1. Notice: Form letters consistently. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-001",
-      "alt_text": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Worked text 1. Notice: Form letters consistently. Choose the response supported by the example."
-    },
+    "question": "In writing the word “making” in joined handwriting, which option best demonstrates the skill?",
+    "audioPrompt": "In writing the word “making” in joined handwriting, which option best demonstrates the skill?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "clear formation, spacing and alignment",
-      "joining every letter regardless of style",
-      "maximum speed"
+      "Use smooth joins where appropriate while keeping each letter recognisable.",
+      "Join every stroke into one tangled shape.",
+      "Lift the pencil after every tiny stroke even when a natural join is possible."
     ],
     "correct": 0,
-    "explanation": "The evidence and language purpose support “clear formation, spacing and alignment”.\nHint: Check the whole sentence or text feature, then test meaning and grammar.",
+    "explanation": "Fluent handwriting balances efficient movement with clear letter shapes.\nHint: Speed only helps if the writing remains easy to read.",
     "structuredExplanation": {
-      "summary": "The evidence and language purpose support “clear formation, spacing and alignment”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "Fluent handwriting balances efficient movement with clear letter shapes.",
+      "hint": "Speed only helps if the writing remains easy to read."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +28,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly08-p-002",
     "curriculumCode": "AC9E4LY08",
     "bank": "practice",
-    "skill": "worked text 1 reason",
+    "skill": "Handwriting Fluency",
     "printable": true,
     "type": "single",
-    "question": "A student answers “joining every letter regardless of style”. Which feedback helps? Task: Read the classroom example. Which feature most directly supports legibility?",
-    "audioPrompt": "A student answers “joining every letter regardless of style”. Which feedback helps? Task: Read the classroom example. Which feature most directly supports legibility?",
-    "visual": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Worked text 1. Notice: Form letters consistently. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Fluent and Legible Joined Handwriting organiser. Read: Worked text 1. Notice: Form letters consistently. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-002\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-002",
-      "alt_text": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Worked text 1. Notice: Form letters consistently. Correct the student's mix-up using the full task."
-    },
+    "question": "Which choice fits writing the word “making” in joined handwriting most accurately?",
+    "audioPrompt": "Which choice fits writing the word “making” in joined handwriting most accurately?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “joining every letter regardless of style”; it uses a detail that sounds familiar.",
-      "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “clear formation, spacing and alignment”.",
-      "Choose “maximum speed” instead; it sounds clearer."
+      "Join every stroke into one tangled shape.",
+      "Use smooth joins where appropriate while keeping each letter recognisable.",
+      "Lift the pencil after every tiny stroke even when a natural join is possible."
     ],
     "correct": 1,
-    "explanation": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “clear formation, spacing and alignment”.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Fluent handwriting balances efficient movement with clear letter shapes.\nHint: Speed only helps if the writing remains easy to read.",
     "structuredExplanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “clear formation, spacing and alignment”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Fluent handwriting balances efficient movement with clear letter shapes.",
+      "hint": "Speed only helps if the writing remains easy to read."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +52,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly08-p-003",
     "curriculumCode": "AC9E4LY08",
     "bank": "practice",
-    "skill": "worked text 2 apply",
+    "skill": "Handwriting Fluency",
     "printable": true,
     "type": "single",
-    "question": "Read the classroom example. What does handwriting automaticity mean?",
-    "audioPrompt": "Read the classroom example. What does handwriting automaticity mean?",
-    "visual": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Worked text 2. Notice: Use suitable joins. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Fluent and Legible Joined Handwriting organiser. Read: Worked text 2. Notice: Use suitable joins. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-003",
-      "alt_text": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Worked text 2. Notice: Use suitable joins. Choose the response supported by the example."
-    },
+    "question": "Which choice fits keeping letter size consistent in a sentence most accurately?",
+    "audioPrompt": "Which choice fits keeping letter size consistent in a sentence most accurately?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "writing as fast as possible",
-      "never checking legibility",
-      "accurate writing with less conscious effort"
+      "Make each letter a random size.",
+      "Write all letters at the same height including capitals and ascenders.",
+      "Keep lower-case letters a similar body height and make tall letters clearly taller."
     ],
     "correct": 2,
-    "explanation": "The evidence and language purpose support “accurate writing with less conscious effort”.\nHint: Check the whole sentence or text feature, then test meaning and grammar.",
+    "explanation": "Consistent proportions improve readability and support automatic writing.\nHint: Compare body letters, tall letters and capitals.",
     "structuredExplanation": {
-      "summary": "The evidence and language purpose support “accurate writing with less conscious effort”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "Consistent proportions improve readability and support automatic writing.",
+      "hint": "Compare body letters, tall letters and capitals."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +76,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly08-p-004",
     "curriculumCode": "AC9E4LY08",
     "bank": "practice",
-    "skill": "worked text 2 reason",
+    "skill": "Handwriting Fluency",
     "printable": true,
     "type": "single",
-    "question": "A student answers “never checking legibility”. Which feedback helps? Task: Read the classroom example. What does handwriting automaticity mean?",
-    "audioPrompt": "A student answers “never checking legibility”. Which feedback helps? Task: Read the classroom example. What does handwriting automaticity mean?",
-    "visual": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Worked text 2. Notice: Use suitable joins. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Fluent and Legible Joined Handwriting organiser. Read: Worked text 2. Notice: Use suitable joins. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-004\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-004",
-      "alt_text": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Worked text 2. Notice: Use suitable joins. Correct the student's mix-up using the full task."
-    },
+    "question": "Look closely at keeping letter size consistent in a sentence. Which response or wording works best?",
+    "audioPrompt": "Look closely at keeping letter size consistent in a sentence. Which response or wording works best?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “accurate writing with less conscious effort”.",
-      "Keep “never checking legibility”; it uses a detail that sounds familiar.",
-      "Choose “writing as fast as possible” instead; it sounds clearer."
+      "Keep lower-case letters a similar body height and make tall letters clearly taller.",
+      "Make each letter a random size.",
+      "Write all letters at the same height including capitals and ascenders."
     ],
     "correct": 0,
-    "explanation": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “accurate writing with less conscious effort”.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Consistent proportions improve readability and support automatic writing.\nHint: Compare body letters, tall letters and capitals.",
     "structuredExplanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “accurate writing with less conscious effort”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Consistent proportions improve readability and support automatic writing.",
+      "hint": "Compare body letters, tall letters and capitals."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +100,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly08-p-005",
     "curriculumCode": "AC9E4LY08",
     "bank": "practice",
-    "skill": "misconception 1 apply",
+    "skill": "Handwriting Fluency",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Every letter must be joined”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Every letter must be joined”. Which response gives the most accurate correction?",
-    "visual": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Misconception 1. Notice: Control size/spacing/alignment. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Fluent and Legible Joined Handwriting organiser. Read: Misconception 1. Notice: Control size/spacing/alignment. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-005",
-      "alt_text": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Misconception 1. Notice: Control size/spacing/alignment. Choose the response supported by the example."
-    },
+    "question": "Look closely at spacing words in joined handwriting. Which response or wording works best?",
+    "audioPrompt": "Look closely at spacing words in joined handwriting. Which response or wording works best?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Every letter must be joined",
-      "Follow the approved style; forced joins can reduce clarity.",
-      "Fastest writer is most fluent"
+      "Join the last letter of one word to the first letter of the next.",
+      "Leave a clear, consistent gap between words while keeping joined letters within a word close together.",
+      "Put huge gaps between letters inside each word."
     ],
     "correct": 1,
-    "explanation": "Follow the approved style; forced joins can reduce clarity.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "Word spacing helps readers see where one word ends and the next begins.\nHint: Spacing should show word boundaries.",
     "structuredExplanation": {
-      "summary": "Follow the approved style; forced joins can reduce clarity.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Word spacing helps readers see where one word ends and the next begins.",
+      "hint": "Spacing should show word boundaries."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +124,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly08-p-006",
     "curriculumCode": "AC9E4LY08",
     "bank": "practice",
-    "skill": "misconception 1 reason",
+    "skill": "Handwriting Fluency",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Every letter must be joined”. Which feedback helps? Task: A student in a workshop claims, “Every letter must be joined”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Every letter must be joined”. Which feedback helps? Task: A student in a workshop claims, “Every letter must be joined”. Which response gives the most accurate correction?",
-    "visual": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Misconception 1. Notice: Control size/spacing/alignment. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Fluent and Legible Joined Handwriting organiser. Read: Misconception 1. Notice: Control size/spacing/alignment. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-006",
-      "alt_text": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Misconception 1. Notice: Control size/spacing/alignment. Correct the student's mix-up using the full task."
-    },
+    "question": "For spacing words in joined handwriting, which option is the strongest match?",
+    "audioPrompt": "For spacing words in joined handwriting, which option is the strongest match?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Every letter must be joined”; it uses a detail that sounds familiar.",
-      "Choose “Fastest writer is most fluent” instead; it sounds clearer.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Follow the approved style; forced joins can reduce clarity."
+      "Join the last letter of one word to the first letter of the next.",
+      "Put huge gaps between letters inside each word.",
+      "Leave a clear, consistent gap between words while keeping joined letters within a word close together."
     ],
     "correct": 2,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Follow the approved style; forced joins can reduce clarity.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Word spacing helps readers see where one word ends and the next begins.\nHint: Spacing should show word boundaries.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Follow the approved style; forced joins can reduce clarity.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Word spacing helps readers see where one word ends and the next begins.",
+      "hint": "Spacing should show word boundaries."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +148,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly08-p-007",
     "curriculumCode": "AC9E4LY08",
     "bank": "practice",
-    "skill": "misconception 2 apply",
+    "skill": "Handwriting Fluency",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Fastest writer is most fluent”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Fastest writer is most fluent”. Which response gives the most accurate correction?",
-    "visual": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Misconception 2. Notice: Write at sustainable pace. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Fluent and Legible Joined Handwriting organiser. Read: Misconception 2. Notice: Write at sustainable pace. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-007",
-      "alt_text": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Misconception 2. Notice: Write at sustainable pace. Choose the response supported by the example."
-    },
+    "question": "For writing quickly during a short note-taking task, which option is the strongest match?",
+    "audioPrompt": "For writing quickly during a short note-taking task, which option is the strongest match?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Fluency balances pace, accuracy, comfort and legibility.",
-      "Fastest writer is most fluent",
-      "Practice uses meaningless lines only"
+      "Use a comfortable grip and efficient joins without sacrificing recognisable letters.",
+      "Press as hard as possible and scribble faster.",
+      "Ignore line direction so the words overlap."
     ],
     "correct": 0,
-    "explanation": "Fluency balances pace, accuracy, comfort and legibility.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "Fluency comes from controlled, automatic movement rather than force or careless speed.\nHint: Aim for smoothness and legibility together.",
     "structuredExplanation": {
-      "summary": "Fluency balances pace, accuracy, comfort and legibility.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Fluency comes from controlled, automatic movement rather than force or careless speed.",
+      "hint": "Aim for smoothness and legibility together."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +172,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly08-p-008",
     "curriculumCode": "AC9E4LY08",
     "bank": "practice",
-    "skill": "misconception 2 reason",
+    "skill": "Handwriting Fluency",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Practice uses meaningless lines only”. Which feedback helps? Task: A student in a workshop claims, “Fastest writer is most fluent”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Practice uses meaningless lines only”. Which feedback helps? Task: A student in a workshop claims, “Fastest writer is most fluent”. Which response gives the most accurate correction?",
-    "visual": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Misconception 2. Notice: Write at sustainable pace. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Fluent and Legible Joined Handwriting organiser. Read: Misconception 2. Notice: Write at sustainable pace. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-008\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-008",
-      "alt_text": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Misconception 2. Notice: Write at sustainable pace. Correct the student's mix-up using the full task."
-    },
+    "question": "Which example should you choose for writing quickly during a short note-taking task?",
+    "audioPrompt": "Which example should you choose for writing quickly during a short note-taking task?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Practice uses meaningless lines only”; it uses a detail that sounds familiar.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Fluency balances pace, accuracy, comfort and legibility.",
-      "Choose “Fastest writer is most fluent” instead; it sounds clearer."
+      "Press as hard as possible and scribble faster.",
+      "Use a comfortable grip and efficient joins without sacrificing recognisable letters.",
+      "Ignore line direction so the words overlap."
     ],
     "correct": 1,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Fluency balances pace, accuracy, comfort and legibility.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Fluency comes from controlled, automatic movement rather than force or careless speed.\nHint: Aim for smoothness and legibility together.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Fluency balances pace, accuracy, comfort and legibility.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Fluency comes from controlled, automatic movement rather than force or careless speed.",
+      "hint": "Aim for smoothness and legibility together."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +196,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly08-p-009",
     "curriculumCode": "AC9E4LY08",
     "bank": "practice",
-    "skill": "misconception 3 apply",
+    "skill": "Handwriting Fluency",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Practice uses meaningless lines only”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Practice uses meaningless lines only”. Which response gives the most accurate correction?",
-    "visual": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Misconception 3. Notice: Self-assess and improve. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Fluent and Legible Joined Handwriting organiser. Read: Misconception 3. Notice: Self-assess and improve. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-009",
-      "alt_text": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Misconception 3. Notice: Self-assess and improve. Choose the response supported by the example."
-    },
+    "question": "Which example should you choose for checking a handwritten paragraph?",
+    "audioPrompt": "Which example should you choose for checking a handwritten paragraph?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Practice uses meaningless lines only",
-      "Pressure improves control",
-      "Transfer movements into words and authentic writing."
+      "Keep unclear words because handwriting never needs editing.",
+      "Add more loops to every letter whether needed or not.",
+      "Rewrite any word whose joins or letter shapes make it hard to read."
     ],
     "correct": 2,
-    "explanation": "Transfer movements into words and authentic writing.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "Legibility is the test of whether a handwriting choice is working.\nHint: Read your own writing as if you were another reader.",
     "structuredExplanation": {
-      "summary": "Transfer movements into words and authentic writing.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Legibility is the test of whether a handwriting choice is working.",
+      "hint": "Read your own writing as if you were another reader."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +220,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly08-p-010",
     "curriculumCode": "AC9E4LY08",
     "bank": "practice",
-    "skill": "misconception 3 reason",
+    "skill": "Handwriting Fluency",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Practice uses meaningless lines only”. Which feedback helps? Task: A student in a workshop claims, “Practice uses meaningless lines only”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Practice uses meaningless lines only”. Which feedback helps? Task: A student in a workshop claims, “Practice uses meaningless lines only”. Which response gives the most accurate correction?",
-    "visual": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Misconception 3. Notice: Self-assess and improve. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Fluent and Legible Joined Handwriting organiser. Read: Misconception 3. Notice: Self-assess and improve. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-010",
-      "alt_text": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Misconception 3. Notice: Self-assess and improve. Correct the student's mix-up using the full task."
-    },
+    "question": "In checking a handwritten paragraph, which option best demonstrates the skill?",
+    "audioPrompt": "In checking a handwritten paragraph, which option best demonstrates the skill?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Transfer movements into words and authentic writing.",
-      "Keep “Practice uses meaningless lines only”; it uses a detail that sounds familiar.",
-      "Choose “Pressure improves control” instead; it sounds clearer."
+      "Rewrite any word whose joins or letter shapes make it hard to read.",
+      "Keep unclear words because handwriting never needs editing.",
+      "Add more loops to every letter whether needed or not."
     ],
     "correct": 0,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Transfer movements into words and authentic writing.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Legibility is the test of whether a handwriting choice is working.\nHint: Read your own writing as if you were another reader.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Transfer movements into words and authentic writing.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Legibility is the test of whether a handwriting choice is working.",
+      "hint": "Read your own writing as if you were another reader."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +244,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly08-p-011",
     "curriculumCode": "AC9E4LY08",
     "bank": "practice",
-    "skill": "misconception 4 apply",
+    "skill": "Handwriting Fluency",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Pressure improves control”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Pressure improves control”. Which response gives the most accurate correction?",
-    "visual": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Misconception 4. Notice: Form letters consistently. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Fluent and Legible Joined Handwriting organiser. Read: Misconception 4. Notice: Form letters consistently. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-011",
-      "alt_text": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Misconception 4. Notice: Form letters consistently. Choose the response supported by the example."
-    },
+    "question": "Why does “Use smooth joins where appropriate while keeping each letter recognisable.” work well for writing the word “making” in joined handwriting?",
+    "audioPrompt": "Why does “Use smooth joins where appropriate while keeping each letter recognisable.” work well for writing the word “making” in joined handwriting?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Pressure improves control",
-      "Excess tension reduces endurance and movement quality.",
-      "One handwriting form fits every access need"
+      "Because “Join every stroke into one tangled shape.” is always acceptable in this situation.",
+      "Fluent handwriting balances efficient movement with clear letter shapes.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 1,
-    "explanation": "Excess tension reduces endurance and movement quality.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "Fluent handwriting balances efficient movement with clear letter shapes.\nHint: Speed only helps if the writing remains easy to read.",
     "structuredExplanation": {
-      "summary": "Excess tension reduces endurance and movement quality.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Fluent handwriting balances efficient movement with clear letter shapes.",
+      "hint": "Speed only helps if the writing remains easy to read."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +268,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly08-p-012",
     "curriculumCode": "AC9E4LY08",
     "bank": "practice",
-    "skill": "misconception 4 reason",
+    "skill": "Handwriting Fluency",
     "printable": true,
     "type": "single",
-    "question": "A student answers “One handwriting form fits every access need”. Which feedback helps? Task: A student in a workshop claims, “Pressure improves control”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “One handwriting form fits every access need”. Which feedback helps? Task: A student in a workshop claims, “Pressure improves control”. Which response gives the most accurate correction?",
-    "visual": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Misconception 4. Notice: Form letters consistently. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Fluent and Legible Joined Handwriting organiser. Read: Misconception 4. Notice: Form letters consistently. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-012\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-012",
-      "alt_text": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Misconception 4. Notice: Form letters consistently. Correct the student's mix-up using the full task."
-    },
+    "question": "What makes “Use smooth joins where appropriate while keeping each letter recognisable.” a better choice in writing the word “making” in joined handwriting?",
+    "audioPrompt": "What makes “Use smooth joins where appropriate while keeping each letter recognisable.” a better choice in writing the word “making” in joined handwriting?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “One handwriting form fits every access need”; it uses a detail that sounds familiar.",
-      "Choose “Pressure improves control” instead; it sounds clearer.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Excess tension reduces endurance and movement quality."
+      "Because “Join every stroke into one tangled shape.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct.",
+      "Fluent handwriting balances efficient movement with clear letter shapes."
     ],
     "correct": 2,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Excess tension reduces endurance and movement quality.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Fluent handwriting balances efficient movement with clear letter shapes.\nHint: Speed only helps if the writing remains easy to read.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Excess tension reduces endurance and movement quality.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Fluent handwriting balances efficient movement with clear letter shapes.",
+      "hint": "Speed only helps if the writing remains easy to read."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +292,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly08-p-013",
     "curriculumCode": "AC9E4LY08",
     "bank": "practice",
-    "skill": "misconception 5 apply",
+    "skill": "Handwriting Fluency",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “One handwriting form fits every access need”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “One handwriting form fits every access need”. Which response gives the most accurate correction?",
-    "visual": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Misconception 5. Notice: Use suitable joins. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Fluent and Legible Joined Handwriting organiser. Read: Misconception 5. Notice: Use suitable joins. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-013",
-      "alt_text": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Misconception 5. Notice: Use suitable joins. Choose the response supported by the example."
-    },
+    "question": "What makes “Keep lower-case letters a similar body height and make tall letters clearly taller.” a better choice in keeping letter size consistent in a sentence?",
+    "audioPrompt": "What makes “Keep lower-case letters a similar body height and make tall letters clearly taller.” a better choice in keeping letter size consistent in a sentence?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Use suitable adjustments or digital alternatives when required.",
-      "One handwriting form fits every access need",
-      "Every letter must be joined"
+      "Consistent proportions improve readability and support automatic writing.",
+      "Because “Make each letter a random size.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 0,
-    "explanation": "Use suitable adjustments or digital alternatives when required.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "Consistent proportions improve readability and support automatic writing.\nHint: Compare body letters, tall letters and capitals.",
     "structuredExplanation": {
-      "summary": "Use suitable adjustments or digital alternatives when required.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Consistent proportions improve readability and support automatic writing.",
+      "hint": "Compare body letters, tall letters and capitals."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +316,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly08-p-014",
     "curriculumCode": "AC9E4LY08",
     "bank": "practice",
-    "skill": "misconception 5 reason",
+    "skill": "Handwriting Fluency",
     "printable": true,
     "type": "single",
-    "question": "A student answers “One handwriting form fits every access need”. Which feedback helps? Task: A student in a workshop claims, “One handwriting form fits every access need”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “One handwriting form fits every access need”. Which feedback helps? Task: A student in a workshop claims, “One handwriting form fits every access need”. Which response gives the most accurate correction?",
-    "visual": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Misconception 5. Notice: Use suitable joins. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Fluent and Legible Joined Handwriting organiser. Read: Misconception 5. Notice: Use suitable joins. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-014\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-014",
-      "alt_text": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Misconception 5. Notice: Use suitable joins. Correct the student's mix-up using the full task."
-    },
+    "question": "Which explanation best justifies “Keep lower-case letters a similar body height and make tall letters clearly taller.” for keeping letter size consistent in a sentence?",
+    "audioPrompt": "Which explanation best justifies “Keep lower-case letters a similar body height and make tall letters clearly taller.” for keeping letter size consistent in a sentence?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “One handwriting form fits every access need”; it uses a detail that sounds familiar.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use suitable adjustments or digital alternatives when required.",
-      "Choose “Every letter must be joined” instead; it sounds clearer."
+      "Because “Make each letter a random size.” is always acceptable in this situation.",
+      "Consistent proportions improve readability and support automatic writing.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 1,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use suitable adjustments or digital alternatives when required.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Consistent proportions improve readability and support automatic writing.\nHint: Compare body letters, tall letters and capitals.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use suitable adjustments or digital alternatives when required.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Consistent proportions improve readability and support automatic writing.",
+      "hint": "Compare body letters, tall letters and capitals."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +340,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly08-p-015",
     "curriculumCode": "AC9E4LY08",
     "bank": "practice",
-    "skill": "pattern warm up apply",
+    "skill": "Handwriting Fluency",
     "printable": true,
     "type": "single",
-    "question": "The class prepares “Pattern warm-up”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "The class prepares “Pattern warm-up”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Pattern warm-up. Notice: Control size/spacing/alignment. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Fluent and Legible Joined Handwriting organiser. Read: Pattern warm-up. Notice: Control size/spacing/alignment. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-015",
-      "alt_text": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Pattern warm-up. Notice: Control size/spacing/alignment. Choose the response supported by the example."
-    },
+    "question": "Which explanation best justifies “Leave a clear, consistent gap between words while keeping joined letters within a word close together.” for spacing words in joined handwriting?",
+    "audioPrompt": "Which explanation best justifies “Leave a clear, consistent gap between words while keeping joined letters within a word close together.” for spacing words in joined handwriting?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Change the purpose and audience halfway through, then report the first impression only.",
-      "Practise a small family of related joins, then use the movement in real words and one sentence."
+      "Because “Join the last letter of one word to the first letter of the next.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct.",
+      "Word spacing helps readers see where one word ends and the next begins."
     ],
     "correct": 2,
-    "explanation": "Practise a small family of related joins, then use the movement in real words and one sentence.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "explanation": "Word spacing helps readers see where one word ends and the next begins.\nHint: Spacing should show word boundaries.",
     "structuredExplanation": {
-      "summary": "Practise a small family of related joins, then use the movement in real words and one sentence.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "Word spacing helps readers see where one word ends and the next begins.",
+      "hint": "Spacing should show word boundaries."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +364,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly08-p-016",
     "curriculumCode": "AC9E4LY08",
     "bank": "practice",
-    "skill": "pattern warm up reason",
+    "skill": "Handwriting Fluency",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Pattern warm-up”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Pattern warm-up”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Pattern warm-up. Notice: Control size/spacing/alignment. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Fluent and Legible Joined Handwriting organiser. Read: Pattern warm-up. Notice: Control size/spacing/alignment. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-016",
-      "alt_text": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Pattern warm-up. Notice: Control size/spacing/alignment. Correct the student's mix-up using the full task."
-    },
+    "question": "What should you notice about “Leave a clear, consistent gap between words while keeping joined letters within a word close together.” in spacing words in joined handwriting?",
+    "audioPrompt": "What should you notice about “Leave a clear, consistent gap between words while keeping joined letters within a word close together.” in spacing words in joined handwriting?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Choose the plan that analyses language evidence and produces a reviewable response. Practise a small family of related joins, then use the movement in real words and one sentence.",
-      "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
-      "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer."
+      "Word spacing helps readers see where one word ends and the next begins.",
+      "Because “Join the last letter of one word to the first letter of the next.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 0,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. Practise a small family of related joins, then use the movement in real words and one sentence.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Word spacing helps readers see where one word ends and the next begins.\nHint: Spacing should show word boundaries.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Practise a small family of related joins, then use the movement in real words and one sentence.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Word spacing helps readers see where one word ends and the next begins.",
+      "hint": "Spacing should show word boundaries."
     },
     "qualitySchema": "production-v1"
   },
@@ -468,28 +388,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly08-p-017",
     "curriculumCode": "AC9E4LY08",
     "bank": "practice",
-    "skill": "legibility conference apply",
+    "skill": "Handwriting Fluency",
     "printable": true,
     "type": "single",
-    "question": "The class prepares “Legibility conference”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "The class prepares “Legibility conference”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Legibility conference. Notice: Write at sustainable pace. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Fluent and Legible Joined Handwriting organiser. Read: Legibility conference. Notice: Write at sustainable pace. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-017",
-      "alt_text": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Legibility conference. Notice: Write at sustainable pace. Choose the response supported by the example."
-    },
+    "question": "What should you notice about “Use a comfortable grip and efficient joins without sacrificing recognisable letters.” in writing quickly during a short note-taking task?",
+    "audioPrompt": "What should you notice about “Use a comfortable grip and efficient joins without sacrificing recognisable letters.” in writing quickly during a short note-taking task?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Use the five-part check to identify one strength and one high-impact improvement.",
-      "Change the purpose and audience halfway through, then report the first impression only."
+      "Because “Press as hard as possible and scribble faster.” is always acceptable in this situation.",
+      "Fluency comes from controlled, automatic movement rather than force or careless speed.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 1,
-    "explanation": "Use the five-part check to identify one strength and one high-impact improvement.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "explanation": "Fluency comes from controlled, automatic movement rather than force or careless speed.\nHint: Aim for smoothness and legibility together.",
     "structuredExplanation": {
-      "summary": "Use the five-part check to identify one strength and one high-impact improvement.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "Fluency comes from controlled, automatic movement rather than force or careless speed.",
+      "hint": "Aim for smoothness and legibility together."
     },
     "qualitySchema": "production-v1"
   },
@@ -497,28 +412,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly08-p-018",
     "curriculumCode": "AC9E4LY08",
     "bank": "practice",
-    "skill": "legibility conference reason",
+    "skill": "Handwriting Fluency",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Legibility conference”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Legibility conference”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Legibility conference. Notice: Write at sustainable pace. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Fluent and Legible Joined Handwriting organiser. Read: Legibility conference. Notice: Write at sustainable pace. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-018\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-018",
-      "alt_text": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Legibility conference. Notice: Write at sustainable pace. Correct the student's mix-up using the full task."
-    },
+    "question": "Which reason explains why “Use a comfortable grip and efficient joins without sacrificing recognisable letters.” suits writing quickly during a short note-taking task?",
+    "audioPrompt": "Which reason explains why “Use a comfortable grip and efficient joins without sacrificing recognisable letters.” suits writing quickly during a short note-taking task?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
-      "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
-      "Choose the plan that analyses language evidence and produces a reviewable response. Use the five-part check to identify one strength and one high-impact improvement."
+      "Because “Press as hard as possible and scribble faster.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct.",
+      "Fluency comes from controlled, automatic movement rather than force or careless speed."
     ],
     "correct": 2,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. Use the five-part check to identify one strength and one high-impact improvement.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Fluency comes from controlled, automatic movement rather than force or careless speed.\nHint: Aim for smoothness and legibility together.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Use the five-part check to identify one strength and one high-impact improvement.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Fluency comes from controlled, automatic movement rather than force or careless speed.",
+      "hint": "Aim for smoothness and legibility together."
     },
     "qualitySchema": "production-v1"
   },
@@ -526,28 +436,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly08-p-019",
     "curriculumCode": "AC9E4LY08",
     "bank": "practice",
-    "skill": "fluency comparison apply",
+    "skill": "Handwriting Fluency",
     "printable": true,
     "type": "single",
-    "question": "The class prepares “Fluency comparison”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "The class prepares “Fluency comparison”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Fluency comparison. Notice: Self-assess and improve. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Fluent and Legible Joined Handwriting organiser. Read: Fluency comparison. Notice: Self-assess and improve. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-019",
-      "alt_text": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Fluency comparison. Notice: Self-assess and improve. Choose the response supported by the example."
-    },
+    "question": "Which reason explains why “Rewrite any word whose joins or letter shapes make it hard to read.” suits checking a handwritten paragraph?",
+    "audioPrompt": "Which reason explains why “Rewrite any word whose joins or letter shapes make it hard to read.” suits checking a handwritten paragraph?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Write the same short passage twice—first controlled, then at sustainable classroom pace—and compare accuracy and effort.",
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Change the purpose and audience halfway through, then report the first impression only."
+      "Legibility is the test of whether a handwriting choice is working.",
+      "Because “Keep unclear words because handwriting never needs editing.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 0,
-    "explanation": "Write the same short passage twice—first controlled, then at sustainable classroom pace—and compare accuracy and effort.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "explanation": "Legibility is the test of whether a handwriting choice is working.\nHint: Read your own writing as if you were another reader.",
     "structuredExplanation": {
-      "summary": "Write the same short passage twice—first controlled, then at sustainable classroom pace—and compare accuracy and effort.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "Legibility is the test of whether a handwriting choice is working.",
+      "hint": "Read your own writing as if you were another reader."
     },
     "qualitySchema": "production-v1"
   },
@@ -555,28 +460,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly08-p-020",
     "curriculumCode": "AC9E4LY08",
     "bank": "practice",
-    "skill": "fluency comparison reason",
+    "skill": "Handwriting Fluency",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Fluency comparison”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Fluency comparison”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Fluency comparison. Notice: Self-assess and improve. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Fluent and Legible Joined Handwriting organiser. Read: Fluency comparison. Notice: Self-assess and improve. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-020\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-020",
-      "alt_text": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Fluency comparison. Notice: Self-assess and improve. Correct the student's mix-up using the full task."
-    },
+    "question": "Why does “Rewrite any word whose joins or letter shapes make it hard to read.” work well for checking a handwritten paragraph?",
+    "audioPrompt": "Why does “Rewrite any word whose joins or letter shapes make it hard to read.” work well for checking a handwritten paragraph?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
-      "Choose the plan that analyses language evidence and produces a reviewable response. Write the same short passage twice—first controlled, then at sustainable classroom pace—and compare accuracy and effort.",
-      "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer."
+      "Because “Keep unclear words because handwriting never needs editing.” is always acceptable in this situation.",
+      "Legibility is the test of whether a handwriting choice is working.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 1,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. Write the same short passage twice—first controlled, then at sustainable classroom pace—and compare accuracy and effort.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Legibility is the test of whether a handwriting choice is working.\nHint: Read your own writing as if you were another reader.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Write the same short passage twice—first controlled, then at sustainable classroom pace—and compare accuracy and effort.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Legibility is the test of whether a handwriting choice is working.",
+      "hint": "Read your own writing as if you were another reader."
     },
     "qualitySchema": "production-v1"
   },
@@ -584,28 +484,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly08-p-021",
     "curriculumCode": "AC9E4LY08",
     "bank": "practice",
-    "skill": "vocabulary 1 apply",
+    "skill": "Handwriting Fluency",
     "printable": true,
     "type": "single",
-    "question": "A class annotation about Fluent and Legible Joined Handwriting describes “connection between letters in a handwriting style”. Which term is most precise?",
-    "audioPrompt": "A class annotation about Fluent and Legible Joined Handwriting describes “connection between letters in a handwriting style”. Which term is most precise?",
-    "visual": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Vocabulary 1. Notice: Form letters consistently. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Fluent and Legible Joined Handwriting organiser. Read: Vocabulary 1. Notice: Form letters consistently. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-021\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-021",
-      "alt_text": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Vocabulary 1. Notice: Form letters consistently. Choose the response supported by the example."
-    },
+    "question": "Which revision best fixes the problem in “Join every stroke into one tangled shape.” for writing the word “making” in joined handwriting?",
+    "audioPrompt": "Which revision best fixes the problem in “Join every stroke into one tangled shape.” for writing the word “making” in joined handwriting?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "baseline",
-      "ascender",
-      "join"
+      "Join every stroke into one tangled shape.",
+      "Lift the pencil after every tiny stroke even when a natural join is possible.",
+      "Use smooth joins where appropriate while keeping each letter recognisable."
     ],
     "correct": 2,
-    "explanation": "join is the precise term for this feature.\nHint: Match the definition to the exact language or literacy concept.",
+    "explanation": "Fluent handwriting balances efficient movement with clear letter shapes. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Speed only helps if the writing remains easy to read.",
     "structuredExplanation": {
-      "summary": "join is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
+      "summary": "Fluent handwriting balances efficient movement with clear letter shapes. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Speed only helps if the writing remains easy to read."
     },
     "qualitySchema": "production-v1"
   },
@@ -613,28 +508,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly08-p-022",
     "curriculumCode": "AC9E4LY08",
     "bank": "practice",
-    "skill": "vocabulary 1 reason",
+    "skill": "Handwriting Fluency",
     "printable": true,
     "type": "single",
-    "question": "A student answers “baseline”. Which feedback helps? Task: A class annotation about Fluent and Legible Joined Handwriting describes “connection between letters in a handwriting style”. Which term is most precise?",
-    "audioPrompt": "A student answers “baseline”. Which feedback helps? Task: A class annotation about Fluent and Legible Joined Handwriting describes “connection between letters in a handwriting style”. Which term is most precise?",
-    "visual": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Vocabulary 1. Notice: Form letters consistently. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Fluent and Legible Joined Handwriting organiser. Read: Vocabulary 1. Notice: Form letters consistently. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-022\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-022",
-      "alt_text": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Vocabulary 1. Notice: Form letters consistently. Correct the student's mix-up using the full task."
-    },
+    "question": "Compare the choices for writing the word “making” in joined handwriting. Which one avoids the mistake in “Join every stroke into one tangled shape.”?",
+    "audioPrompt": "Compare the choices for writing the word “making” in joined handwriting. Which one avoids the mistake in “Join every stroke into one tangled shape.”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Match the definition to the exact language or literacy concept. join is the precise term for this feature.",
-      "Keep “baseline”; it uses a detail that sounds familiar.",
-      "Choose “ascender” instead; it sounds clearer."
+      "Use smooth joins where appropriate while keeping each letter recognisable.",
+      "Join every stroke into one tangled shape.",
+      "Lift the pencil after every tiny stroke even when a natural join is possible."
     ],
     "correct": 0,
-    "explanation": "Match the definition to the exact language or literacy concept. join is the precise term for this feature.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Fluent handwriting balances efficient movement with clear letter shapes. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Speed only helps if the writing remains easy to read.",
     "structuredExplanation": {
-      "summary": "Match the definition to the exact language or literacy concept. join is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Fluent handwriting balances efficient movement with clear letter shapes. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Speed only helps if the writing remains easy to read."
     },
     "qualitySchema": "production-v1"
   },
@@ -642,28 +532,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly08-p-023",
     "curriculumCode": "AC9E4LY08",
     "bank": "practice",
-    "skill": "vocabulary 2 apply",
+    "skill": "Handwriting Fluency",
     "printable": true,
     "type": "single",
-    "question": "A class annotation about Fluent and Legible Joined Handwriting describes “line on which most letters sit”. Which term is most precise?",
-    "audioPrompt": "A class annotation about Fluent and Legible Joined Handwriting describes “line on which most letters sit”. Which term is most precise?",
-    "visual": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Vocabulary 2. Notice: Use suitable joins. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Fluent and Legible Joined Handwriting organiser. Read: Vocabulary 2. Notice: Use suitable joins. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-023\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-023",
-      "alt_text": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Vocabulary 2. Notice: Use suitable joins. Choose the response supported by the example."
-    },
+    "question": "Compare the choices for keeping letter size consistent in a sentence. Which one avoids the mistake in “Make each letter a random size.”?",
+    "audioPrompt": "Compare the choices for keeping letter size consistent in a sentence. Which one avoids the mistake in “Make each letter a random size.”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "join",
-      "baseline",
-      "ascender"
+      "Make each letter a random size.",
+      "Keep lower-case letters a similar body height and make tall letters clearly taller.",
+      "Write all letters at the same height including capitals and ascenders."
     ],
     "correct": 1,
-    "explanation": "baseline is the precise term for this feature.\nHint: Match the definition to the exact language or literacy concept.",
+    "explanation": "Consistent proportions improve readability and support automatic writing. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Compare body letters, tall letters and capitals.",
     "structuredExplanation": {
-      "summary": "baseline is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
+      "summary": "Consistent proportions improve readability and support automatic writing. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Compare body letters, tall letters and capitals."
     },
     "qualitySchema": "production-v1"
   },
@@ -671,28 +556,407 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly08-p-024",
     "curriculumCode": "AC9E4LY08",
     "bank": "practice",
-    "skill": "vocabulary 2 reason",
+    "skill": "Handwriting Fluency",
     "printable": true,
     "type": "single",
-    "question": "A student answers “ascender”. Which feedback helps? Task: A class annotation about Fluent and Legible Joined Handwriting describes “line on which most letters sit”. Which term is most precise?",
-    "audioPrompt": "A student answers “ascender”. Which feedback helps? Task: A class annotation about Fluent and Legible Joined Handwriting describes “line on which most letters sit”. Which term is most precise?",
-    "visual": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Vocabulary 2. Notice: Use suitable joins. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Fluent and Legible Joined Handwriting organiser. Read: Vocabulary 2. Notice: Use suitable joins. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-024\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly08.svg#ac9e4ly08-p-024",
-      "alt_text": "Three-step Fluent and Legible Joined Handwriting organiser. Read: Vocabulary 2. Notice: Use suitable joins. Correct the student's mix-up using the full task."
-    },
+    "question": "If “Make each letter a random size.” does not work in keeping letter size consistent in a sentence, what should replace it?",
+    "audioPrompt": "If “Make each letter a random size.” does not work in keeping letter size consistent in a sentence, what should replace it?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “ascender”; it uses a detail that sounds familiar.",
-      "Choose “join” instead; it sounds clearer.",
-      "Match the definition to the exact language or literacy concept. baseline is the precise term for this feature."
+      "Make each letter a random size.",
+      "Write all letters at the same height including capitals and ascenders.",
+      "Keep lower-case letters a similar body height and make tall letters clearly taller."
     ],
     "correct": 2,
-    "explanation": "Match the definition to the exact language or literacy concept. baseline is the precise term for this feature.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Consistent proportions improve readability and support automatic writing. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Compare body letters, tall letters and capitals.",
     "structuredExplanation": {
-      "summary": "Match the definition to the exact language or literacy concept. baseline is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Consistent proportions improve readability and support automatic writing. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Compare body letters, tall letters and capitals."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly08-p-025",
+    "curriculumCode": "AC9E4LY08",
+    "bank": "practice",
+    "skill": "Handwriting Fluency",
+    "printable": true,
+    "type": "single",
+    "question": "If “Join the last letter of one word to the first letter of the next.” does not work in spacing words in joined handwriting, what should replace it?",
+    "audioPrompt": "If “Join the last letter of one word to the first letter of the next.” does not work in spacing words in joined handwriting, what should replace it?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Leave a clear, consistent gap between words while keeping joined letters within a word close together.",
+      "Join the last letter of one word to the first letter of the next.",
+      "Put huge gaps between letters inside each word."
+    ],
+    "correct": 0,
+    "explanation": "Word spacing helps readers see where one word ends and the next begins. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Spacing should show word boundaries.",
+    "structuredExplanation": {
+      "summary": "Word spacing helps readers see where one word ends and the next begins. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Spacing should show word boundaries."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly08-p-026",
+    "curriculumCode": "AC9E4LY08",
+    "bank": "practice",
+    "skill": "Handwriting Fluency",
+    "printable": true,
+    "type": "single",
+    "question": "Which option corrects the meaning or form needed for spacing words in joined handwriting?",
+    "audioPrompt": "Which option corrects the meaning or form needed for spacing words in joined handwriting?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Join the last letter of one word to the first letter of the next.",
+      "Leave a clear, consistent gap between words while keeping joined letters within a word close together.",
+      "Put huge gaps between letters inside each word."
+    ],
+    "correct": 1,
+    "explanation": "Word spacing helps readers see where one word ends and the next begins. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Spacing should show word boundaries.",
+    "structuredExplanation": {
+      "summary": "Word spacing helps readers see where one word ends and the next begins. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Spacing should show word boundaries."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly08-p-027",
+    "curriculumCode": "AC9E4LY08",
+    "bank": "practice",
+    "skill": "Handwriting Fluency",
+    "printable": true,
+    "type": "single",
+    "question": "Which option corrects the meaning or form needed for writing quickly during a short note-taking task?",
+    "audioPrompt": "Which option corrects the meaning or form needed for writing quickly during a short note-taking task?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Press as hard as possible and scribble faster.",
+      "Ignore line direction so the words overlap.",
+      "Use a comfortable grip and efficient joins without sacrificing recognisable letters."
+    ],
+    "correct": 2,
+    "explanation": "Fluency comes from controlled, automatic movement rather than force or careless speed. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Aim for smoothness and legibility together.",
+    "structuredExplanation": {
+      "summary": "Fluency comes from controlled, automatic movement rather than force or careless speed. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Aim for smoothness and legibility together."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly08-p-028",
+    "curriculumCode": "AC9E4LY08",
+    "bank": "practice",
+    "skill": "Handwriting Fluency",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is the clearest correction for writing quickly during a short note-taking task?",
+    "audioPrompt": "Which choice is the clearest correction for writing quickly during a short note-taking task?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use a comfortable grip and efficient joins without sacrificing recognisable letters.",
+      "Press as hard as possible and scribble faster.",
+      "Ignore line direction so the words overlap."
+    ],
+    "correct": 0,
+    "explanation": "Fluency comes from controlled, automatic movement rather than force or careless speed. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Aim for smoothness and legibility together.",
+    "structuredExplanation": {
+      "summary": "Fluency comes from controlled, automatic movement rather than force or careless speed. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Aim for smoothness and legibility together."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly08-p-029",
+    "curriculumCode": "AC9E4LY08",
+    "bank": "practice",
+    "skill": "Handwriting Fluency",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is the clearest correction for checking a handwritten paragraph?",
+    "audioPrompt": "Which choice is the clearest correction for checking a handwritten paragraph?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Keep unclear words because handwriting never needs editing.",
+      "Rewrite any word whose joins or letter shapes make it hard to read.",
+      "Add more loops to every letter whether needed or not."
+    ],
+    "correct": 1,
+    "explanation": "Legibility is the test of whether a handwriting choice is working. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Read your own writing as if you were another reader.",
+    "structuredExplanation": {
+      "summary": "Legibility is the test of whether a handwriting choice is working. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Read your own writing as if you were another reader."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly08-p-030",
+    "curriculumCode": "AC9E4LY08",
+    "bank": "practice",
+    "skill": "Handwriting Fluency",
+    "printable": true,
+    "type": "single",
+    "question": "Which revision best fixes the problem in “Keep unclear words because handwriting never needs editing.” for checking a handwritten paragraph?",
+    "audioPrompt": "Which revision best fixes the problem in “Keep unclear words because handwriting never needs editing.” for checking a handwritten paragraph?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Keep unclear words because handwriting never needs editing.",
+      "Add more loops to every letter whether needed or not.",
+      "Rewrite any word whose joins or letter shapes make it hard to read."
+    ],
+    "correct": 2,
+    "explanation": "Legibility is the test of whether a handwriting choice is working. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Read your own writing as if you were another reader.",
+    "structuredExplanation": {
+      "summary": "Legibility is the test of whether a handwriting choice is working. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Read your own writing as if you were another reader."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly08-p-031",
+    "curriculumCode": "AC9E4LY08",
+    "bank": "practice",
+    "skill": "Handwriting Fluency",
+    "printable": true,
+    "type": "single",
+    "question": "You now need to handle writing the word “making” in joined handwriting independently. Which choice should you use?",
+    "audioPrompt": "You now need to handle writing the word “making” in joined handwriting independently. Which choice should you use?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use smooth joins where appropriate while keeping each letter recognisable.",
+      "Lift the pencil after every tiny stroke even when a natural join is possible.",
+      "Join every stroke into one tangled shape."
+    ],
+    "correct": 0,
+    "explanation": "Fluent handwriting balances efficient movement with clear letter shapes.\nHint: Speed only helps if the writing remains easy to read.",
+    "structuredExplanation": {
+      "summary": "Fluent handwriting balances efficient movement with clear letter shapes.",
+      "hint": "Speed only helps if the writing remains easy to read."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly08-p-032",
+    "curriculumCode": "AC9E4LY08",
+    "bank": "practice",
+    "skill": "Handwriting Fluency",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the same idea to writing the word “making” in joined handwriting. Which option is best?",
+    "audioPrompt": "Apply the same idea to writing the word “making” in joined handwriting. Which option is best?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Lift the pencil after every tiny stroke even when a natural join is possible.",
+      "Use smooth joins where appropriate while keeping each letter recognisable.",
+      "Join every stroke into one tangled shape."
+    ],
+    "correct": 1,
+    "explanation": "Fluent handwriting balances efficient movement with clear letter shapes.\nHint: Speed only helps if the writing remains easy to read.",
+    "structuredExplanation": {
+      "summary": "Fluent handwriting balances efficient movement with clear letter shapes.",
+      "hint": "Speed only helps if the writing remains easy to read."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly08-p-033",
+    "curriculumCode": "AC9E4LY08",
+    "bank": "practice",
+    "skill": "Handwriting Fluency",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the same idea to keeping letter size consistent in a sentence. Which option is best?",
+    "audioPrompt": "Apply the same idea to keeping letter size consistent in a sentence. Which option is best?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Write all letters at the same height including capitals and ascenders.",
+      "Make each letter a random size.",
+      "Keep lower-case letters a similar body height and make tall letters clearly taller."
+    ],
+    "correct": 2,
+    "explanation": "Consistent proportions improve readability and support automatic writing.\nHint: Compare body letters, tall letters and capitals.",
+    "structuredExplanation": {
+      "summary": "Consistent proportions improve readability and support automatic writing.",
+      "hint": "Compare body letters, tall letters and capitals."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly08-p-034",
+    "curriculumCode": "AC9E4LY08",
+    "bank": "practice",
+    "skill": "Handwriting Fluency",
+    "printable": true,
+    "type": "single",
+    "question": "Which decision would produce the clearest result in keeping letter size consistent in a sentence?",
+    "audioPrompt": "Which decision would produce the clearest result in keeping letter size consistent in a sentence?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Keep lower-case letters a similar body height and make tall letters clearly taller.",
+      "Write all letters at the same height including capitals and ascenders.",
+      "Make each letter a random size."
+    ],
+    "correct": 0,
+    "explanation": "Consistent proportions improve readability and support automatic writing.\nHint: Compare body letters, tall letters and capitals.",
+    "structuredExplanation": {
+      "summary": "Consistent proportions improve readability and support automatic writing.",
+      "hint": "Compare body letters, tall letters and capitals."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly08-p-035",
+    "curriculumCode": "AC9E4LY08",
+    "bank": "practice",
+    "skill": "Handwriting Fluency",
+    "printable": true,
+    "type": "single",
+    "question": "Which decision would produce the clearest result in spacing words in joined handwriting?",
+    "audioPrompt": "Which decision would produce the clearest result in spacing words in joined handwriting?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Put huge gaps between letters inside each word.",
+      "Leave a clear, consistent gap between words while keeping joined letters within a word close together.",
+      "Join the last letter of one word to the first letter of the next."
+    ],
+    "correct": 1,
+    "explanation": "Word spacing helps readers see where one word ends and the next begins.\nHint: Spacing should show word boundaries.",
+    "structuredExplanation": {
+      "summary": "Word spacing helps readers see where one word ends and the next begins.",
+      "hint": "Spacing should show word boundaries."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly08-p-036",
+    "curriculumCode": "AC9E4LY08",
+    "bank": "practice",
+    "skill": "Handwriting Fluency",
+    "printable": true,
+    "type": "single",
+    "question": "Choose the option that applies the skill correctly in spacing words in joined handwriting.",
+    "audioPrompt": "Choose the option that applies the skill correctly in spacing words in joined handwriting.",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Put huge gaps between letters inside each word.",
+      "Join the last letter of one word to the first letter of the next.",
+      "Leave a clear, consistent gap between words while keeping joined letters within a word close together."
+    ],
+    "correct": 2,
+    "explanation": "Word spacing helps readers see where one word ends and the next begins.\nHint: Spacing should show word boundaries.",
+    "structuredExplanation": {
+      "summary": "Word spacing helps readers see where one word ends and the next begins.",
+      "hint": "Spacing should show word boundaries."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly08-p-037",
+    "curriculumCode": "AC9E4LY08",
+    "bank": "practice",
+    "skill": "Handwriting Fluency",
+    "printable": true,
+    "type": "single",
+    "question": "Choose the option that applies the skill correctly in writing quickly during a short note-taking task.",
+    "audioPrompt": "Choose the option that applies the skill correctly in writing quickly during a short note-taking task.",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use a comfortable grip and efficient joins without sacrificing recognisable letters.",
+      "Ignore line direction so the words overlap.",
+      "Press as hard as possible and scribble faster."
+    ],
+    "correct": 0,
+    "explanation": "Fluency comes from controlled, automatic movement rather than force or careless speed.\nHint: Aim for smoothness and legibility together.",
+    "structuredExplanation": {
+      "summary": "Fluency comes from controlled, automatic movement rather than force or careless speed.",
+      "hint": "Aim for smoothness and legibility together."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly08-p-038",
+    "curriculumCode": "AC9E4LY08",
+    "bank": "practice",
+    "skill": "Handwriting Fluency",
+    "printable": true,
+    "type": "single",
+    "question": "What would be the most effective choice for writing quickly during a short note-taking task?",
+    "audioPrompt": "What would be the most effective choice for writing quickly during a short note-taking task?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Ignore line direction so the words overlap.",
+      "Use a comfortable grip and efficient joins without sacrificing recognisable letters.",
+      "Press as hard as possible and scribble faster."
+    ],
+    "correct": 1,
+    "explanation": "Fluency comes from controlled, automatic movement rather than force or careless speed.\nHint: Aim for smoothness and legibility together.",
+    "structuredExplanation": {
+      "summary": "Fluency comes from controlled, automatic movement rather than force or careless speed.",
+      "hint": "Aim for smoothness and legibility together."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly08-p-039",
+    "curriculumCode": "AC9E4LY08",
+    "bank": "practice",
+    "skill": "Handwriting Fluency",
+    "printable": true,
+    "type": "single",
+    "question": "What would be the most effective choice for checking a handwritten paragraph?",
+    "audioPrompt": "What would be the most effective choice for checking a handwritten paragraph?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Add more loops to every letter whether needed or not.",
+      "Keep unclear words because handwriting never needs editing.",
+      "Rewrite any word whose joins or letter shapes make it hard to read."
+    ],
+    "correct": 2,
+    "explanation": "Legibility is the test of whether a handwriting choice is working.\nHint: Read your own writing as if you were another reader.",
+    "structuredExplanation": {
+      "summary": "Legibility is the test of whether a handwriting choice is working.",
+      "hint": "Read your own writing as if you were another reader."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly08-p-040",
+    "curriculumCode": "AC9E4LY08",
+    "bank": "practice",
+    "skill": "Handwriting Fluency",
+    "printable": true,
+    "type": "single",
+    "question": "You now need to handle checking a handwritten paragraph independently. Which choice should you use?",
+    "audioPrompt": "You now need to handle checking a handwritten paragraph independently. Which choice should you use?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Rewrite any word whose joins or letter shapes make it hard to read.",
+      "Add more loops to every letter whether needed or not.",
+      "Keep unclear words because handwriting never needs editing."
+    ],
+    "correct": 0,
+    "explanation": "Legibility is the test of whether a handwriting choice is working.\nHint: Read your own writing as if you were another reader.",
+    "structuredExplanation": {
+      "summary": "Legibility is the test of whether a handwriting choice is working.",
+      "hint": "Read your own writing as if you were another reader."
     },
     "qualitySchema": "production-v1"
   }

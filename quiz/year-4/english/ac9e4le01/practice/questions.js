@@ -4,28 +4,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le01-p-001",
     "curriculumCode": "AC9E4LE01",
     "bank": "practice",
-    "skill": "worked text 1 apply",
+    "skill": "Literature Across Times and Cultures",
     "printable": true,
     "type": "single",
-    "question": "Read the classroom example. Which response makes a valid literary comparison?",
-    "audioPrompt": "Read the classroom example. Which response makes a valid literary comparison?",
-    "visual": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Worked text 1. Notice: Recognise recurring patterns. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Worked text 1. Notice: Recognise recurring patterns. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-001",
-      "alt_text": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Worked text 1. Notice: Recognise recurring patterns. Choose the response supported by the example."
-    },
+    "question": "In comparing two stories in which a child must leave home, which option best demonstrates the skill?",
+    "audioPrompt": "In comparing two stories in which a child must leave home, which option best demonstrates the skill?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Both texts explore belonging, but character relationships and settings shape it differently",
-      "Every story from these places is the same",
-      "One text proves how all communities think"
+      "Both stories explore separation, but the reasons for leaving and the family expectations are different.",
+      "The stories are identical because both characters travel.",
+      "Only the publication date matters."
     ],
     "correct": 0,
-    "explanation": "The evidence and language purpose support “Both texts explore belonging, but character relationships and settings shape it differently”.\nHint: Check the whole sentence or text feature, then test meaning and grammar.",
+    "explanation": "A useful comparison identifies a genuine similarity and a meaningful difference shaped by context.\nHint: Compare what happens and why it matters in each story.",
     "structuredExplanation": {
-      "summary": "The evidence and language purpose support “Both texts explore belonging, but character relationships and settings shape it differently”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "A useful comparison identifies a genuine similarity and a meaningful difference shaped by context.",
+      "hint": "Compare what happens and why it matters in each story."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +28,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le01-p-002",
     "curriculumCode": "AC9E4LE01",
     "bank": "practice",
-    "skill": "worked text 1 reason",
+    "skill": "Literature Across Times and Cultures",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Every story from these places is the same”. Which feedback helps? Task: Read the classroom example. Which response makes a valid literary comparison?",
-    "audioPrompt": "A student answers “Every story from these places is the same”. Which feedback helps? Task: Read the classroom example. Which response makes a valid literary comparison?",
-    "visual": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Worked text 1. Notice: Recognise recurring patterns. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Worked text 1. Notice: Recognise recurring patterns. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-002\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-002",
-      "alt_text": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Worked text 1. Notice: Recognise recurring patterns. Correct the student's mix-up using the full task."
-    },
+    "question": "Which choice fits comparing two stories in which a child must leave home most accurately?",
+    "audioPrompt": "Which choice fits comparing two stories in which a child must leave home most accurately?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Every story from these places is the same”; it uses a detail that sounds familiar.",
-      "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Both texts explore belonging, but character relationships and settings shape it differently”.",
-      "Choose “One text proves how all communities think” instead; it sounds clearer."
+      "The stories are identical because both characters travel.",
+      "Both stories explore separation, but the reasons for leaving and the family expectations are different.",
+      "Only the publication date matters."
     ],
     "correct": 1,
-    "explanation": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Both texts explore belonging, but character relationships and settings shape it differently”.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "A useful comparison identifies a genuine similarity and a meaningful difference shaped by context.\nHint: Compare what happens and why it matters in each story.",
     "structuredExplanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Both texts explore belonging, but character relationships and settings shape it differently”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A useful comparison identifies a genuine similarity and a meaningful difference shaped by context.",
+      "hint": "Compare what happens and why it matters in each story."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +52,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le01-p-003",
     "curriculumCode": "AC9E4LE01",
     "bank": "practice",
-    "skill": "worked text 2 apply",
+    "skill": "Literature Across Times and Cultures",
     "printable": true,
     "type": "single",
-    "question": "Read the classroom example. Which statement avoids overgeneralisation?",
-    "audioPrompt": "Read the classroom example. Which statement avoids overgeneralisation?",
-    "visual": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Worked text 2. Notice: Compare themes and relationships. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Worked text 2. Notice: Compare themes and relationships. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-003",
-      "alt_text": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Worked text 2. Notice: Compare themes and relationships. Choose the response supported by the example."
-    },
+    "question": "Which choice fits comparing a traditional tale with a modern retelling most accurately?",
+    "audioPrompt": "Which choice fits comparing a traditional tale with a modern retelling most accurately?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "This story represents every person in the culture",
-      "All authors from the country use the same storyline",
-      "This particular text represents one perspective and context"
+      "The retelling has no connection because the character names differ.",
+      "Every retelling must copy every event exactly.",
+      "The retelling keeps the journey pattern but changes the setting and the character’s choices."
     ],
     "correct": 2,
-    "explanation": "The evidence and language purpose support “This particular text represents one perspective and context”.\nHint: Check the whole sentence or text feature, then test meaning and grammar.",
+    "explanation": "Retellings can preserve a storyline pattern while adapting details for another audience or time.\nHint: Look for underlying patterns as well as changed details.",
     "structuredExplanation": {
-      "summary": "The evidence and language purpose support “This particular text represents one perspective and context”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "Retellings can preserve a storyline pattern while adapting details for another audience or time.",
+      "hint": "Look for underlying patterns as well as changed details."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +76,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le01-p-004",
     "curriculumCode": "AC9E4LE01",
     "bank": "practice",
-    "skill": "worked text 2 reason",
+    "skill": "Literature Across Times and Cultures",
     "printable": true,
     "type": "single",
-    "question": "A student answers “All authors from the country use the same storyline”. Which feedback helps? Task: Read the classroom example. Which statement avoids overgeneralisation?",
-    "audioPrompt": "A student answers “All authors from the country use the same storyline”. Which feedback helps? Task: Read the classroom example. Which statement avoids overgeneralisation?",
-    "visual": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Worked text 2. Notice: Compare themes and relationships. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Worked text 2. Notice: Compare themes and relationships. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-004\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-004",
-      "alt_text": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Worked text 2. Notice: Compare themes and relationships. Correct the student's mix-up using the full task."
-    },
+    "question": "Look closely at comparing a traditional tale with a modern retelling. Which response or wording works best?",
+    "audioPrompt": "Look closely at comparing a traditional tale with a modern retelling. Which response or wording works best?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “This particular text represents one perspective and context”.",
-      "Keep “All authors from the country use the same storyline”; it uses a detail that sounds familiar.",
-      "Choose “This story represents every person in the culture” instead; it sounds clearer."
+      "The retelling keeps the journey pattern but changes the setting and the character’s choices.",
+      "The retelling has no connection because the character names differ.",
+      "Every retelling must copy every event exactly."
     ],
     "correct": 0,
-    "explanation": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “This particular text represents one perspective and context”.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Retellings can preserve a storyline pattern while adapting details for another audience or time.\nHint: Look for underlying patterns as well as changed details.",
     "structuredExplanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “This particular text represents one perspective and context”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Retellings can preserve a storyline pattern while adapting details for another audience or time.",
+      "hint": "Look for underlying patterns as well as changed details."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +100,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le01-p-005",
     "curriculumCode": "AC9E4LE01",
     "bank": "practice",
-    "skill": "misconception 1 apply",
+    "skill": "Literature Across Times and Cultures",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Similar storyline means copied text”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Similar storyline means copied text”. Which response gives the most accurate correction?",
-    "visual": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Misconception 1. Notice: Use evidence from both texts. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Misconception 1. Notice: Use evidence from both texts. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-005",
-      "alt_text": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Misconception 1. Notice: Use evidence from both texts. Choose the response supported by the example."
-    },
+    "question": "Look closely at comparing family relationships in two Australian novels. Which response or wording works best?",
+    "audioPrompt": "Look closely at comparing family relationships in two Australian novels. Which response or wording works best?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Similar storyline means copied text",
-      "Recurring patterns can be transformed through context, viewpoint and craft.",
-      "One difference erases all similarity"
+      "Both are the same because each book has a grandparent.",
+      "Both show care between generations, but one family expresses it through quiet actions and the other through direct conversation.",
+      "Neither can be compared because the families live in different places."
     ],
     "correct": 1,
-    "explanation": "Recurring patterns can be transformed through context, viewpoint and craft.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "Relationships can be similar in purpose while being represented differently.\nHint: Use evidence about how characters act and speak.",
     "structuredExplanation": {
-      "summary": "Recurring patterns can be transformed through context, viewpoint and craft.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Relationships can be similar in purpose while being represented differently.",
+      "hint": "Use evidence about how characters act and speak."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +124,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le01-p-006",
     "curriculumCode": "AC9E4LE01",
     "bank": "practice",
-    "skill": "misconception 1 reason",
+    "skill": "Literature Across Times and Cultures",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Similar storyline means copied text”. Which feedback helps? Task: A student in a workshop claims, “Similar storyline means copied text”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Similar storyline means copied text”. Which feedback helps? Task: A student in a workshop claims, “Similar storyline means copied text”. Which response gives the most accurate correction?",
-    "visual": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Misconception 1. Notice: Use evidence from both texts. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Misconception 1. Notice: Use evidence from both texts. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-006",
-      "alt_text": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Misconception 1. Notice: Use evidence from both texts. Correct the student's mix-up using the full task."
-    },
+    "question": "For comparing family relationships in two Australian novels, which option is the strongest match?",
+    "audioPrompt": "For comparing family relationships in two Australian novels, which option is the strongest match?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Similar storyline means copied text”; it uses a detail that sounds familiar.",
-      "Choose “One difference erases all similarity” instead; it sounds clearer.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Recurring patterns can be transformed through context, viewpoint and craft."
+      "Both are the same because each book has a grandparent.",
+      "Neither can be compared because the families live in different places.",
+      "Both show care between generations, but one family expresses it through quiet actions and the other through direct conversation."
     ],
     "correct": 2,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Recurring patterns can be transformed through context, viewpoint and craft.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Relationships can be similar in purpose while being represented differently.\nHint: Use evidence about how characters act and speak.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Recurring patterns can be transformed through context, viewpoint and craft.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Relationships can be similar in purpose while being represented differently.",
+      "hint": "Use evidence about how characters act and speak."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +148,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le01-p-007",
     "curriculumCode": "AC9E4LE01",
     "bank": "practice",
-    "skill": "misconception 2 apply",
+    "skill": "Literature Across Times and Cultures",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “One difference erases all similarity”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “One difference erases all similarity”. Which response gives the most accurate correction?",
-    "visual": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Misconception 2. Notice: Explain contextual effects. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Misconception 2. Notice: Explain contextual effects. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-007",
-      "alt_text": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Misconception 2. Notice: Explain contextual effects. Choose the response supported by the example."
-    },
+    "question": "For comparing a First Nations Australian story and another story about Country or place, which option is the strongest match?",
+    "audioPrompt": "For comparing a First Nations Australian story and another story about Country or place, which option is the strongest match?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Compare at several levels: structure, idea, relationship and language.",
-      "One difference erases all similarity",
-      "One text represents a whole culture"
+      "Both texts show that place carries meaning, but each text must be understood in its own cultural context.",
+      "All stories about land mean exactly the same thing.",
+      "Cultural context should be ignored during comparison."
     ],
     "correct": 0,
-    "explanation": "Compare at several levels: structure, idea, relationship and language.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "Respectful comparison recognises connections without flattening distinct cultural meanings.\nHint: Notice similarities, then keep important cultural differences visible.",
     "structuredExplanation": {
-      "summary": "Compare at several levels: structure, idea, relationship and language.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Respectful comparison recognises connections without flattening distinct cultural meanings.",
+      "hint": "Notice similarities, then keep important cultural differences visible."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +172,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le01-p-008",
     "curriculumCode": "AC9E4LE01",
     "bank": "practice",
-    "skill": "misconception 2 reason",
+    "skill": "Literature Across Times and Cultures",
     "printable": true,
     "type": "single",
-    "question": "A student answers “One text represents a whole culture”. Which feedback helps? Task: A student in a workshop claims, “One difference erases all similarity”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “One text represents a whole culture”. Which feedback helps? Task: A student in a workshop claims, “One difference erases all similarity”. Which response gives the most accurate correction?",
-    "visual": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Misconception 2. Notice: Explain contextual effects. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Misconception 2. Notice: Explain contextual effects. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-008\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-008",
-      "alt_text": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Misconception 2. Notice: Explain contextual effects. Correct the student's mix-up using the full task."
-    },
+    "question": "Which example should you choose for comparing a First Nations Australian story and another story about Country or place?",
+    "audioPrompt": "Which example should you choose for comparing a First Nations Australian story and another story about Country or place?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “One text represents a whole culture”; it uses a detail that sounds familiar.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Compare at several levels: structure, idea, relationship and language.",
-      "Choose “One difference erases all similarity” instead; it sounds clearer."
+      "All stories about land mean exactly the same thing.",
+      "Both texts show that place carries meaning, but each text must be understood in its own cultural context.",
+      "Cultural context should be ignored during comparison."
     ],
     "correct": 1,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Compare at several levels: structure, idea, relationship and language.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Respectful comparison recognises connections without flattening distinct cultural meanings.\nHint: Notice similarities, then keep important cultural differences visible.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Compare at several levels: structure, idea, relationship and language.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Respectful comparison recognises connections without flattening distinct cultural meanings.",
+      "hint": "Notice similarities, then keep important cultural differences visible."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +196,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le01-p-009",
     "curriculumCode": "AC9E4LE01",
     "bank": "practice",
-    "skill": "misconception 3 apply",
+    "skill": "Literature Across Times and Cultures",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “One text represents a whole culture”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “One text represents a whole culture”. Which response gives the most accurate correction?",
-    "visual": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Misconception 3. Notice: Write respectful limited claims. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Misconception 3. Notice: Write respectful limited claims. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-009",
-      "alt_text": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Misconception 3. Notice: Write respectful limited claims. Choose the response supported by the example."
-    },
+    "question": "Which example should you choose for comparing two quest stories from different countries?",
+    "audioPrompt": "Which example should you choose for comparing two quest stories from different countries?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "One text represents a whole culture",
-      "Context listed but not analysed",
-      "Discuss the particular representation and avoid generalisation."
+      "The stories are identical because they both have a journey.",
+      "Only the length of the books can be compared.",
+      "Both protagonists face tests on a journey, but the helpers and values celebrated in each story differ."
     ],
     "correct": 2,
-    "explanation": "Discuss the particular representation and avoid generalisation.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "A strong comparison links plot patterns to the different ideas or values they express.\nHint: Move beyond surface features to what the events suggest.",
     "structuredExplanation": {
-      "summary": "Discuss the particular representation and avoid generalisation.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "A strong comparison links plot patterns to the different ideas or values they express.",
+      "hint": "Move beyond surface features to what the events suggest."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +220,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le01-p-010",
     "curriculumCode": "AC9E4LE01",
     "bank": "practice",
-    "skill": "misconception 3 reason",
+    "skill": "Literature Across Times and Cultures",
     "printable": true,
     "type": "single",
-    "question": "A student answers “One text represents a whole culture”. Which feedback helps? Task: A student in a workshop claims, “One text represents a whole culture”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “One text represents a whole culture”. Which feedback helps? Task: A student in a workshop claims, “One text represents a whole culture”. Which response gives the most accurate correction?",
-    "visual": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Misconception 3. Notice: Write respectful limited claims. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Misconception 3. Notice: Write respectful limited claims. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-010",
-      "alt_text": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Misconception 3. Notice: Write respectful limited claims. Correct the student's mix-up using the full task."
-    },
+    "question": "In comparing two quest stories from different countries, which option best demonstrates the skill?",
+    "audioPrompt": "In comparing two quest stories from different countries, which option best demonstrates the skill?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Discuss the particular representation and avoid generalisation.",
-      "Keep “One text represents a whole culture”; it uses a detail that sounds familiar.",
-      "Choose “Context listed but not analysed” instead; it sounds clearer."
+      "Both protagonists face tests on a journey, but the helpers and values celebrated in each story differ.",
+      "The stories are identical because they both have a journey.",
+      "Only the length of the books can be compared."
     ],
     "correct": 0,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Discuss the particular representation and avoid generalisation.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "A strong comparison links plot patterns to the different ideas or values they express.\nHint: Move beyond surface features to what the events suggest.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Discuss the particular representation and avoid generalisation.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A strong comparison links plot patterns to the different ideas or values they express.",
+      "hint": "Move beyond surface features to what the events suggest."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +244,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le01-p-011",
     "curriculumCode": "AC9E4LE01",
     "bank": "practice",
-    "skill": "misconception 4 apply",
+    "skill": "Literature Across Times and Cultures",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Context listed but not analysed”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Context listed but not analysed”. Which response gives the most accurate correction?",
-    "visual": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Misconception 4. Notice: Recognise recurring patterns. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Misconception 4. Notice: Recognise recurring patterns. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-011",
-      "alt_text": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Misconception 4. Notice: Recognise recurring patterns. Choose the response supported by the example."
-    },
+    "question": "Why does “Both stories explore separation, but the reasons for leaving and the family expectations are different.” work well for comparing two stories in which a child must leave home?",
+    "audioPrompt": "Why does “Both stories explore separation, but the reasons for leaving and the family expectations are different.” work well for comparing two stories in which a child must leave home?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Context listed but not analysed",
-      "Explain how it affects events, relationships or meaning.",
-      "Similar storyline means copied text"
+      "Because “The stories are identical because both characters travel.” is always acceptable in this situation.",
+      "A useful comparison identifies a genuine similarity and a meaningful difference shaped by context.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 1,
-    "explanation": "Explain how it affects events, relationships or meaning.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "A useful comparison identifies a genuine similarity and a meaningful difference shaped by context.\nHint: Compare what happens and why it matters in each story.",
     "structuredExplanation": {
-      "summary": "Explain how it affects events, relationships or meaning.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "A useful comparison identifies a genuine similarity and a meaningful difference shaped by context.",
+      "hint": "Compare what happens and why it matters in each story."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +268,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le01-p-012",
     "curriculumCode": "AC9E4LE01",
     "bank": "practice",
-    "skill": "misconception 4 reason",
+    "skill": "Literature Across Times and Cultures",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Similar storyline means copied text”. Which feedback helps? Task: A student in a workshop claims, “Context listed but not analysed”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Similar storyline means copied text”. Which feedback helps? Task: A student in a workshop claims, “Context listed but not analysed”. Which response gives the most accurate correction?",
-    "visual": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Misconception 4. Notice: Recognise recurring patterns. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Misconception 4. Notice: Recognise recurring patterns. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-012\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-012",
-      "alt_text": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Misconception 4. Notice: Recognise recurring patterns. Correct the student's mix-up using the full task."
-    },
+    "question": "What makes “Both stories explore separation, but the reasons for leaving and the family expectations are different.” a better choice in comparing two stories in which a child must leave home?",
+    "audioPrompt": "What makes “Both stories explore separation, but the reasons for leaving and the family expectations are different.” a better choice in comparing two stories in which a child must leave home?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Similar storyline means copied text”; it uses a detail that sounds familiar.",
-      "Choose “Context listed but not analysed” instead; it sounds clearer.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Explain how it affects events, relationships or meaning."
+      "Because “The stories are identical because both characters travel.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct.",
+      "A useful comparison identifies a genuine similarity and a meaningful difference shaped by context."
     ],
     "correct": 2,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Explain how it affects events, relationships or meaning.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "A useful comparison identifies a genuine similarity and a meaningful difference shaped by context.\nHint: Compare what happens and why it matters in each story.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Explain how it affects events, relationships or meaning.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A useful comparison identifies a genuine similarity and a meaningful difference shaped by context.",
+      "hint": "Compare what happens and why it matters in each story."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +292,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le01-p-013",
     "curriculumCode": "AC9E4LE01",
     "bank": "practice",
-    "skill": "pattern map apply",
+    "skill": "Literature Across Times and Cultures",
     "printable": true,
     "type": "single",
-    "question": "The class prepares “Pattern map”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "The class prepares “Pattern map”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Pattern map. Notice: Compare themes and relationships. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Pattern map. Notice: Compare themes and relationships. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-013",
-      "alt_text": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Pattern map. Notice: Compare themes and relationships. Choose the response supported by the example."
-    },
+    "question": "What makes “The retelling keeps the journey pattern but changes the setting and the character’s choices.” a better choice in comparing a traditional tale with a modern retelling?",
+    "audioPrompt": "What makes “The retelling keeps the journey pattern but changes the setting and the character’s choices.” a better choice in comparing a traditional tale with a modern retelling?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Plot the orientation, challenge, response and resolution of two texts and mark where structures align or diverge.",
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Change the purpose and audience halfway through, then report the first impression only."
+      "Retellings can preserve a storyline pattern while adapting details for another audience or time.",
+      "Because “The retelling has no connection because the character names differ.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 0,
-    "explanation": "Plot the orientation, challenge, response and resolution of two texts and mark where structures align or diverge.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "explanation": "Retellings can preserve a storyline pattern while adapting details for another audience or time.\nHint: Look for underlying patterns as well as changed details.",
     "structuredExplanation": {
-      "summary": "Plot the orientation, challenge, response and resolution of two texts and mark where structures align or diverge.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "Retellings can preserve a storyline pattern while adapting details for another audience or time.",
+      "hint": "Look for underlying patterns as well as changed details."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +316,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le01-p-014",
     "curriculumCode": "AC9E4LE01",
     "bank": "practice",
-    "skill": "pattern map reason",
+    "skill": "Literature Across Times and Cultures",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Pattern map”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Pattern map”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Pattern map. Notice: Compare themes and relationships. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Pattern map. Notice: Compare themes and relationships. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-014\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-014",
-      "alt_text": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Pattern map. Notice: Compare themes and relationships. Correct the student's mix-up using the full task."
-    },
+    "question": "Which explanation best justifies “The retelling keeps the journey pattern but changes the setting and the character’s choices.” for comparing a traditional tale with a modern retelling?",
+    "audioPrompt": "Which explanation best justifies “The retelling keeps the journey pattern but changes the setting and the character’s choices.” for comparing a traditional tale with a modern retelling?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
-      "Choose the plan that analyses language evidence and produces a reviewable response. Plot the orientation, challenge, response and resolution of two texts and mark where structures align or diverge.",
-      "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer."
+      "Because “The retelling has no connection because the character names differ.” is always acceptable in this situation.",
+      "Retellings can preserve a storyline pattern while adapting details for another audience or time.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 1,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. Plot the orientation, challenge, response and resolution of two texts and mark where structures align or diverge.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Retellings can preserve a storyline pattern while adapting details for another audience or time.\nHint: Look for underlying patterns as well as changed details.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Plot the orientation, challenge, response and resolution of two texts and mark where structures align or diverge.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Retellings can preserve a storyline pattern while adapting details for another audience or time.",
+      "hint": "Look for underlying patterns as well as changed details."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +340,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le01-p-015",
     "curriculumCode": "AC9E4LE01",
     "bank": "practice",
-    "skill": "theme evidence pairs apply",
+    "skill": "Literature Across Times and Cultures",
     "printable": true,
     "type": "single",
-    "question": "The class prepares “Theme evidence pairs”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "The class prepares “Theme evidence pairs”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Theme evidence pairs. Notice: Use evidence from both texts. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Theme evidence pairs. Notice: Use evidence from both texts. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-015",
-      "alt_text": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Theme evidence pairs. Notice: Use evidence from both texts. Choose the response supported by the example."
-    },
+    "question": "Which explanation best justifies “Both show care between generations, but one family expresses it through quiet actions and the other through direct conversation.” for comparing family relationships in two Australian novels?",
+    "audioPrompt": "Which explanation best justifies “Both show care between generations, but one family expresses it through quiet actions and the other through direct conversation.” for comparing family relationships in two Australian novels?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Change the purpose and audience halfway through, then report the first impression only.",
-      "Select one shared idea and find distinct evidence from character choices, imagery or resolution in each text."
+      "Because “Both are the same because each book has a grandparent.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct.",
+      "Relationships can be similar in purpose while being represented differently."
     ],
     "correct": 2,
-    "explanation": "Select one shared idea and find distinct evidence from character choices, imagery or resolution in each text.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "explanation": "Relationships can be similar in purpose while being represented differently.\nHint: Use evidence about how characters act and speak.",
     "structuredExplanation": {
-      "summary": "Select one shared idea and find distinct evidence from character choices, imagery or resolution in each text.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "Relationships can be similar in purpose while being represented differently.",
+      "hint": "Use evidence about how characters act and speak."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +364,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le01-p-016",
     "curriculumCode": "AC9E4LE01",
     "bank": "practice",
-    "skill": "theme evidence pairs reason",
+    "skill": "Literature Across Times and Cultures",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Theme evidence pairs”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Theme evidence pairs”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Theme evidence pairs. Notice: Use evidence from both texts. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Theme evidence pairs. Notice: Use evidence from both texts. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-016",
-      "alt_text": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Theme evidence pairs. Notice: Use evidence from both texts. Correct the student's mix-up using the full task."
-    },
+    "question": "What should you notice about “Both show care between generations, but one family expresses it through quiet actions and the other through direct conversation.” in comparing family relationships in two Australian novels?",
+    "audioPrompt": "What should you notice about “Both show care between generations, but one family expresses it through quiet actions and the other through direct conversation.” in comparing family relationships in two Australian novels?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Choose the plan that analyses language evidence and produces a reviewable response. Select one shared idea and find distinct evidence from character choices, imagery or resolution in each text.",
-      "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
-      "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer."
+      "Relationships can be similar in purpose while being represented differently.",
+      "Because “Both are the same because each book has a grandparent.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 0,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. Select one shared idea and find distinct evidence from character choices, imagery or resolution in each text.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Relationships can be similar in purpose while being represented differently.\nHint: Use evidence about how characters act and speak.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Select one shared idea and find distinct evidence from character choices, imagery or resolution in each text.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Relationships can be similar in purpose while being represented differently.",
+      "hint": "Use evidence about how characters act and speak."
     },
     "qualitySchema": "production-v1"
   },
@@ -468,28 +388,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le01-p-017",
     "curriculumCode": "AC9E4LE01",
     "bank": "practice",
-    "skill": "context effect discussion apply",
+    "skill": "Literature Across Times and Cultures",
     "printable": true,
     "type": "single",
-    "question": "The class prepares “Context effect discussion”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "The class prepares “Context effect discussion”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Context effect discussion. Notice: Explain contextual effects. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Context effect discussion. Notice: Explain contextual effects. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-017",
-      "alt_text": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Context effect discussion. Notice: Explain contextual effects. Choose the response supported by the example."
-    },
+    "question": "What should you notice about “Both texts show that place carries meaning, but each text must be understood in its own cultural context.” in comparing a First Nations Australian story and another story about Country or place?",
+    "audioPrompt": "What should you notice about “Both texts show that place carries meaning, but each text must be understood in its own cultural context.” in comparing a First Nations Australian story and another story about Country or place?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Change one setting or relationship and predict how the storyline’s meaning would change.",
-      "Change the purpose and audience halfway through, then report the first impression only."
+      "Because “All stories about land mean exactly the same thing.” is always acceptable in this situation.",
+      "Respectful comparison recognises connections without flattening distinct cultural meanings.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 1,
-    "explanation": "Change one setting or relationship and predict how the storyline’s meaning would change.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "explanation": "Respectful comparison recognises connections without flattening distinct cultural meanings.\nHint: Notice similarities, then keep important cultural differences visible.",
     "structuredExplanation": {
-      "summary": "Change one setting or relationship and predict how the storyline’s meaning would change.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "Respectful comparison recognises connections without flattening distinct cultural meanings.",
+      "hint": "Notice similarities, then keep important cultural differences visible."
     },
     "qualitySchema": "production-v1"
   },
@@ -497,28 +412,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le01-p-018",
     "curriculumCode": "AC9E4LE01",
     "bank": "practice",
-    "skill": "context effect discussion reason",
+    "skill": "Literature Across Times and Cultures",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Context effect discussion”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Context effect discussion”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Context effect discussion. Notice: Explain contextual effects. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Context effect discussion. Notice: Explain contextual effects. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-018\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-018",
-      "alt_text": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Context effect discussion. Notice: Explain contextual effects. Correct the student's mix-up using the full task."
-    },
+    "question": "Which reason explains why “Both texts show that place carries meaning, but each text must be understood in its own cultural context.” suits comparing a First Nations Australian story and another story about Country or place?",
+    "audioPrompt": "Which reason explains why “Both texts show that place carries meaning, but each text must be understood in its own cultural context.” suits comparing a First Nations Australian story and another story about Country or place?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
-      "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
-      "Choose the plan that analyses language evidence and produces a reviewable response. Change one setting or relationship and predict how the storyline’s meaning would change."
+      "Because “All stories about land mean exactly the same thing.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct.",
+      "Respectful comparison recognises connections without flattening distinct cultural meanings."
     ],
     "correct": 2,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. Change one setting or relationship and predict how the storyline’s meaning would change.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Respectful comparison recognises connections without flattening distinct cultural meanings.\nHint: Notice similarities, then keep important cultural differences visible.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Change one setting or relationship and predict how the storyline’s meaning would change.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Respectful comparison recognises connections without flattening distinct cultural meanings.",
+      "hint": "Notice similarities, then keep important cultural differences visible."
     },
     "qualitySchema": "production-v1"
   },
@@ -526,28 +436,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le01-p-019",
     "curriculumCode": "AC9E4LE01",
     "bank": "practice",
-    "skill": "vocabulary 1 apply",
+    "skill": "Literature Across Times and Cultures",
     "printable": true,
     "type": "single",
-    "question": "A class annotation about Similar Storylines and Ideas Across Contexts describes “connected sequence of narrative events”. Which term is most precise?",
-    "audioPrompt": "A class annotation about Similar Storylines and Ideas Across Contexts describes “connected sequence of narrative events”. Which term is most precise?",
-    "visual": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Vocabulary 1. Notice: Write respectful limited claims. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Vocabulary 1. Notice: Write respectful limited claims. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-019",
-      "alt_text": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Vocabulary 1. Notice: Write respectful limited claims. Choose the response supported by the example."
-    },
+    "question": "Which reason explains why “Both protagonists face tests on a journey, but the helpers and values celebrated in each story differ.” suits comparing two quest stories from different countries?",
+    "audioPrompt": "Which reason explains why “Both protagonists face tests on a journey, but the helpers and values celebrated in each story differ.” suits comparing two quest stories from different countries?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "storyline",
-      "theme or idea",
-      "context"
+      "A strong comparison links plot patterns to the different ideas or values they express.",
+      "Because “The stories are identical because they both have a journey.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 0,
-    "explanation": "storyline is the precise term for this feature.\nHint: Match the definition to the exact language or literacy concept.",
+    "explanation": "A strong comparison links plot patterns to the different ideas or values they express.\nHint: Move beyond surface features to what the events suggest.",
     "structuredExplanation": {
-      "summary": "storyline is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
+      "summary": "A strong comparison links plot patterns to the different ideas or values they express.",
+      "hint": "Move beyond surface features to what the events suggest."
     },
     "qualitySchema": "production-v1"
   },
@@ -555,28 +460,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le01-p-020",
     "curriculumCode": "AC9E4LE01",
     "bank": "practice",
-    "skill": "vocabulary 1 reason",
+    "skill": "Literature Across Times and Cultures",
     "printable": true,
     "type": "single",
-    "question": "A student answers “context”. Which feedback helps? Task: A class annotation about Similar Storylines and Ideas Across Contexts describes “connected sequence of narrative events”. Which term is most precise?",
-    "audioPrompt": "A student answers “context”. Which feedback helps? Task: A class annotation about Similar Storylines and Ideas Across Contexts describes “connected sequence of narrative events”. Which term is most precise?",
-    "visual": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Vocabulary 1. Notice: Write respectful limited claims. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Vocabulary 1. Notice: Write respectful limited claims. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-020\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-020",
-      "alt_text": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Vocabulary 1. Notice: Write respectful limited claims. Correct the student's mix-up using the full task."
-    },
+    "question": "Why does “Both protagonists face tests on a journey, but the helpers and values celebrated in each story differ.” work well for comparing two quest stories from different countries?",
+    "audioPrompt": "Why does “Both protagonists face tests on a journey, but the helpers and values celebrated in each story differ.” work well for comparing two quest stories from different countries?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “context”; it uses a detail that sounds familiar.",
-      "Match the definition to the exact language or literacy concept. storyline is the precise term for this feature.",
-      "Choose “theme or idea” instead; it sounds clearer."
+      "Because “The stories are identical because they both have a journey.” is always acceptable in this situation.",
+      "A strong comparison links plot patterns to the different ideas or values they express.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 1,
-    "explanation": "Match the definition to the exact language or literacy concept. storyline is the precise term for this feature.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "A strong comparison links plot patterns to the different ideas or values they express.\nHint: Move beyond surface features to what the events suggest.",
     "structuredExplanation": {
-      "summary": "Match the definition to the exact language or literacy concept. storyline is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A strong comparison links plot patterns to the different ideas or values they express.",
+      "hint": "Move beyond surface features to what the events suggest."
     },
     "qualitySchema": "production-v1"
   },
@@ -584,28 +484,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le01-p-021",
     "curriculumCode": "AC9E4LE01",
     "bank": "practice",
-    "skill": "vocabulary 2 apply",
+    "skill": "Literature Across Times and Cultures",
     "printable": true,
     "type": "single",
-    "question": "A class annotation about Similar Storylines and Ideas Across Contexts describes “meaning explored across the text”. Which term is most precise?",
-    "audioPrompt": "A class annotation about Similar Storylines and Ideas Across Contexts describes “meaning explored across the text”. Which term is most precise?",
-    "visual": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Vocabulary 2. Notice: Recognise recurring patterns. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Vocabulary 2. Notice: Recognise recurring patterns. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-021\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-021",
-      "alt_text": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Vocabulary 2. Notice: Recognise recurring patterns. Choose the response supported by the example."
-    },
+    "question": "Which revision best fixes the problem in “The stories are identical because both characters travel.” for comparing two stories in which a child must leave home?",
+    "audioPrompt": "Which revision best fixes the problem in “The stories are identical because both characters travel.” for comparing two stories in which a child must leave home?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "storyline",
-      "context",
-      "theme or idea"
+      "The stories are identical because both characters travel.",
+      "Only the publication date matters.",
+      "Both stories explore separation, but the reasons for leaving and the family expectations are different."
     ],
     "correct": 2,
-    "explanation": "theme or idea is the precise term for this feature.\nHint: Match the definition to the exact language or literacy concept.",
+    "explanation": "A useful comparison identifies a genuine similarity and a meaningful difference shaped by context. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Compare what happens and why it matters in each story.",
     "structuredExplanation": {
-      "summary": "theme or idea is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
+      "summary": "A useful comparison identifies a genuine similarity and a meaningful difference shaped by context. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Compare what happens and why it matters in each story."
     },
     "qualitySchema": "production-v1"
   },
@@ -613,28 +508,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le01-p-022",
     "curriculumCode": "AC9E4LE01",
     "bank": "practice",
-    "skill": "vocabulary 2 reason",
+    "skill": "Literature Across Times and Cultures",
     "printable": true,
     "type": "single",
-    "question": "A student answers “storyline”. Which feedback helps? Task: A class annotation about Similar Storylines and Ideas Across Contexts describes “meaning explored across the text”. Which term is most precise?",
-    "audioPrompt": "A student answers “storyline”. Which feedback helps? Task: A class annotation about Similar Storylines and Ideas Across Contexts describes “meaning explored across the text”. Which term is most precise?",
-    "visual": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Vocabulary 2. Notice: Recognise recurring patterns. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Vocabulary 2. Notice: Recognise recurring patterns. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-022\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-022",
-      "alt_text": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Vocabulary 2. Notice: Recognise recurring patterns. Correct the student's mix-up using the full task."
-    },
+    "question": "Compare the choices for comparing two stories in which a child must leave home. Which one avoids the mistake in “The stories are identical because both characters travel.”?",
+    "audioPrompt": "Compare the choices for comparing two stories in which a child must leave home. Which one avoids the mistake in “The stories are identical because both characters travel.”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Match the definition to the exact language or literacy concept. theme or idea is the precise term for this feature.",
-      "Keep “storyline”; it uses a detail that sounds familiar.",
-      "Choose “context” instead; it sounds clearer."
+      "Both stories explore separation, but the reasons for leaving and the family expectations are different.",
+      "The stories are identical because both characters travel.",
+      "Only the publication date matters."
     ],
     "correct": 0,
-    "explanation": "Match the definition to the exact language or literacy concept. theme or idea is the precise term for this feature.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "A useful comparison identifies a genuine similarity and a meaningful difference shaped by context. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Compare what happens and why it matters in each story.",
     "structuredExplanation": {
-      "summary": "Match the definition to the exact language or literacy concept. theme or idea is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A useful comparison identifies a genuine similarity and a meaningful difference shaped by context. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Compare what happens and why it matters in each story."
     },
     "qualitySchema": "production-v1"
   },
@@ -642,28 +532,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le01-p-023",
     "curriculumCode": "AC9E4LE01",
     "bank": "practice",
-    "skill": "vocabulary 3 apply",
+    "skill": "Literature Across Times and Cultures",
     "printable": true,
     "type": "single",
-    "question": "A class annotation about Similar Storylines and Ideas Across Contexts describes “cultural, historical, social or geographical situation”. Which term is most precise?",
-    "audioPrompt": "A class annotation about Similar Storylines and Ideas Across Contexts describes “cultural, historical, social or geographical situation”. Which term is most precise?",
-    "visual": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Vocabulary 3. Notice: Compare themes and relationships. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Vocabulary 3. Notice: Compare themes and relationships. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-023\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-023",
-      "alt_text": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Vocabulary 3. Notice: Compare themes and relationships. Choose the response supported by the example."
-    },
+    "question": "Compare the choices for comparing a traditional tale with a modern retelling. Which one avoids the mistake in “The retelling has no connection because the character names differ.”?",
+    "audioPrompt": "Compare the choices for comparing a traditional tale with a modern retelling. Which one avoids the mistake in “The retelling has no connection because the character names differ.”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "storyline",
-      "context",
-      "theme or idea"
+      "The retelling has no connection because the character names differ.",
+      "The retelling keeps the journey pattern but changes the setting and the character’s choices.",
+      "Every retelling must copy every event exactly."
     ],
     "correct": 1,
-    "explanation": "context is the precise term for this feature.\nHint: Match the definition to the exact language or literacy concept.",
+    "explanation": "Retellings can preserve a storyline pattern while adapting details for another audience or time. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Look for underlying patterns as well as changed details.",
     "structuredExplanation": {
-      "summary": "context is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
+      "summary": "Retellings can preserve a storyline pattern while adapting details for another audience or time. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Look for underlying patterns as well as changed details."
     },
     "qualitySchema": "production-v1"
   },
@@ -671,28 +556,407 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le01-p-024",
     "curriculumCode": "AC9E4LE01",
     "bank": "practice",
-    "skill": "vocabulary 3 reason",
+    "skill": "Literature Across Times and Cultures",
     "printable": true,
     "type": "single",
-    "question": "A student answers “theme or idea”. Which feedback helps? Task: A class annotation about Similar Storylines and Ideas Across Contexts describes “cultural, historical, social or geographical situation”. Which term is most precise?",
-    "audioPrompt": "A student answers “theme or idea”. Which feedback helps? Task: A class annotation about Similar Storylines and Ideas Across Contexts describes “cultural, historical, social or geographical situation”. Which term is most precise?",
-    "visual": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Vocabulary 3. Notice: Compare themes and relationships. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Vocabulary 3. Notice: Compare themes and relationships. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-024\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le01.svg#ac9e4le01-p-024",
-      "alt_text": "Three-step Similar Storylines and Ideas Across Contexts organiser. Read: Vocabulary 3. Notice: Compare themes and relationships. Correct the student's mix-up using the full task."
-    },
+    "question": "If “The retelling has no connection because the character names differ.” does not work in comparing a traditional tale with a modern retelling, what should replace it?",
+    "audioPrompt": "If “The retelling has no connection because the character names differ.” does not work in comparing a traditional tale with a modern retelling, what should replace it?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “theme or idea”; it uses a detail that sounds familiar.",
-      "Choose “storyline” instead; it sounds clearer.",
-      "Match the definition to the exact language or literacy concept. context is the precise term for this feature."
+      "The retelling has no connection because the character names differ.",
+      "Every retelling must copy every event exactly.",
+      "The retelling keeps the journey pattern but changes the setting and the character’s choices."
     ],
     "correct": 2,
-    "explanation": "Match the definition to the exact language or literacy concept. context is the precise term for this feature.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Retellings can preserve a storyline pattern while adapting details for another audience or time. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Look for underlying patterns as well as changed details.",
     "structuredExplanation": {
-      "summary": "Match the definition to the exact language or literacy concept. context is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Retellings can preserve a storyline pattern while adapting details for another audience or time. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Look for underlying patterns as well as changed details."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le01-p-025",
+    "curriculumCode": "AC9E4LE01",
+    "bank": "practice",
+    "skill": "Literature Across Times and Cultures",
+    "printable": true,
+    "type": "single",
+    "question": "If “Both are the same because each book has a grandparent.” does not work in comparing family relationships in two Australian novels, what should replace it?",
+    "audioPrompt": "If “Both are the same because each book has a grandparent.” does not work in comparing family relationships in two Australian novels, what should replace it?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Both show care between generations, but one family expresses it through quiet actions and the other through direct conversation.",
+      "Both are the same because each book has a grandparent.",
+      "Neither can be compared because the families live in different places."
+    ],
+    "correct": 0,
+    "explanation": "Relationships can be similar in purpose while being represented differently. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Use evidence about how characters act and speak.",
+    "structuredExplanation": {
+      "summary": "Relationships can be similar in purpose while being represented differently. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Use evidence about how characters act and speak."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le01-p-026",
+    "curriculumCode": "AC9E4LE01",
+    "bank": "practice",
+    "skill": "Literature Across Times and Cultures",
+    "printable": true,
+    "type": "single",
+    "question": "Which option corrects the meaning or form needed for comparing family relationships in two Australian novels?",
+    "audioPrompt": "Which option corrects the meaning or form needed for comparing family relationships in two Australian novels?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Both are the same because each book has a grandparent.",
+      "Both show care between generations, but one family expresses it through quiet actions and the other through direct conversation.",
+      "Neither can be compared because the families live in different places."
+    ],
+    "correct": 1,
+    "explanation": "Relationships can be similar in purpose while being represented differently. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Use evidence about how characters act and speak.",
+    "structuredExplanation": {
+      "summary": "Relationships can be similar in purpose while being represented differently. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Use evidence about how characters act and speak."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le01-p-027",
+    "curriculumCode": "AC9E4LE01",
+    "bank": "practice",
+    "skill": "Literature Across Times and Cultures",
+    "printable": true,
+    "type": "single",
+    "question": "Which option corrects the meaning or form needed for comparing a First Nations Australian story and another story about Country or place?",
+    "audioPrompt": "Which option corrects the meaning or form needed for comparing a First Nations Australian story and another story about Country or place?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "All stories about land mean exactly the same thing.",
+      "Cultural context should be ignored during comparison.",
+      "Both texts show that place carries meaning, but each text must be understood in its own cultural context."
+    ],
+    "correct": 2,
+    "explanation": "Respectful comparison recognises connections without flattening distinct cultural meanings. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Notice similarities, then keep important cultural differences visible.",
+    "structuredExplanation": {
+      "summary": "Respectful comparison recognises connections without flattening distinct cultural meanings. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Notice similarities, then keep important cultural differences visible."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le01-p-028",
+    "curriculumCode": "AC9E4LE01",
+    "bank": "practice",
+    "skill": "Literature Across Times and Cultures",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is the clearest correction for comparing a First Nations Australian story and another story about Country or place?",
+    "audioPrompt": "Which choice is the clearest correction for comparing a First Nations Australian story and another story about Country or place?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Both texts show that place carries meaning, but each text must be understood in its own cultural context.",
+      "All stories about land mean exactly the same thing.",
+      "Cultural context should be ignored during comparison."
+    ],
+    "correct": 0,
+    "explanation": "Respectful comparison recognises connections without flattening distinct cultural meanings. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Notice similarities, then keep important cultural differences visible.",
+    "structuredExplanation": {
+      "summary": "Respectful comparison recognises connections without flattening distinct cultural meanings. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Notice similarities, then keep important cultural differences visible."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le01-p-029",
+    "curriculumCode": "AC9E4LE01",
+    "bank": "practice",
+    "skill": "Literature Across Times and Cultures",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is the clearest correction for comparing two quest stories from different countries?",
+    "audioPrompt": "Which choice is the clearest correction for comparing two quest stories from different countries?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The stories are identical because they both have a journey.",
+      "Both protagonists face tests on a journey, but the helpers and values celebrated in each story differ.",
+      "Only the length of the books can be compared."
+    ],
+    "correct": 1,
+    "explanation": "A strong comparison links plot patterns to the different ideas or values they express. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Move beyond surface features to what the events suggest.",
+    "structuredExplanation": {
+      "summary": "A strong comparison links plot patterns to the different ideas or values they express. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Move beyond surface features to what the events suggest."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le01-p-030",
+    "curriculumCode": "AC9E4LE01",
+    "bank": "practice",
+    "skill": "Literature Across Times and Cultures",
+    "printable": true,
+    "type": "single",
+    "question": "Which revision best fixes the problem in “The stories are identical because they both have a journey.” for comparing two quest stories from different countries?",
+    "audioPrompt": "Which revision best fixes the problem in “The stories are identical because they both have a journey.” for comparing two quest stories from different countries?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The stories are identical because they both have a journey.",
+      "Only the length of the books can be compared.",
+      "Both protagonists face tests on a journey, but the helpers and values celebrated in each story differ."
+    ],
+    "correct": 2,
+    "explanation": "A strong comparison links plot patterns to the different ideas or values they express. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Move beyond surface features to what the events suggest.",
+    "structuredExplanation": {
+      "summary": "A strong comparison links plot patterns to the different ideas or values they express. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Move beyond surface features to what the events suggest."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le01-p-031",
+    "curriculumCode": "AC9E4LE01",
+    "bank": "practice",
+    "skill": "Literature Across Times and Cultures",
+    "printable": true,
+    "type": "single",
+    "question": "You now need to handle comparing two stories in which a child must leave home independently. Which choice should you use?",
+    "audioPrompt": "You now need to handle comparing two stories in which a child must leave home independently. Which choice should you use?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Both stories explore separation, but the reasons for leaving and the family expectations are different.",
+      "Only the publication date matters.",
+      "The stories are identical because both characters travel."
+    ],
+    "correct": 0,
+    "explanation": "A useful comparison identifies a genuine similarity and a meaningful difference shaped by context.\nHint: Compare what happens and why it matters in each story.",
+    "structuredExplanation": {
+      "summary": "A useful comparison identifies a genuine similarity and a meaningful difference shaped by context.",
+      "hint": "Compare what happens and why it matters in each story."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le01-p-032",
+    "curriculumCode": "AC9E4LE01",
+    "bank": "practice",
+    "skill": "Literature Across Times and Cultures",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the same idea to comparing two stories in which a child must leave home. Which option is best?",
+    "audioPrompt": "Apply the same idea to comparing two stories in which a child must leave home. Which option is best?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Only the publication date matters.",
+      "Both stories explore separation, but the reasons for leaving and the family expectations are different.",
+      "The stories are identical because both characters travel."
+    ],
+    "correct": 1,
+    "explanation": "A useful comparison identifies a genuine similarity and a meaningful difference shaped by context.\nHint: Compare what happens and why it matters in each story.",
+    "structuredExplanation": {
+      "summary": "A useful comparison identifies a genuine similarity and a meaningful difference shaped by context.",
+      "hint": "Compare what happens and why it matters in each story."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le01-p-033",
+    "curriculumCode": "AC9E4LE01",
+    "bank": "practice",
+    "skill": "Literature Across Times and Cultures",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the same idea to comparing a traditional tale with a modern retelling. Which option is best?",
+    "audioPrompt": "Apply the same idea to comparing a traditional tale with a modern retelling. Which option is best?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Every retelling must copy every event exactly.",
+      "The retelling has no connection because the character names differ.",
+      "The retelling keeps the journey pattern but changes the setting and the character’s choices."
+    ],
+    "correct": 2,
+    "explanation": "Retellings can preserve a storyline pattern while adapting details for another audience or time.\nHint: Look for underlying patterns as well as changed details.",
+    "structuredExplanation": {
+      "summary": "Retellings can preserve a storyline pattern while adapting details for another audience or time.",
+      "hint": "Look for underlying patterns as well as changed details."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le01-p-034",
+    "curriculumCode": "AC9E4LE01",
+    "bank": "practice",
+    "skill": "Literature Across Times and Cultures",
+    "printable": true,
+    "type": "single",
+    "question": "Which decision would produce the clearest result in comparing a traditional tale with a modern retelling?",
+    "audioPrompt": "Which decision would produce the clearest result in comparing a traditional tale with a modern retelling?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The retelling keeps the journey pattern but changes the setting and the character’s choices.",
+      "Every retelling must copy every event exactly.",
+      "The retelling has no connection because the character names differ."
+    ],
+    "correct": 0,
+    "explanation": "Retellings can preserve a storyline pattern while adapting details for another audience or time.\nHint: Look for underlying patterns as well as changed details.",
+    "structuredExplanation": {
+      "summary": "Retellings can preserve a storyline pattern while adapting details for another audience or time.",
+      "hint": "Look for underlying patterns as well as changed details."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le01-p-035",
+    "curriculumCode": "AC9E4LE01",
+    "bank": "practice",
+    "skill": "Literature Across Times and Cultures",
+    "printable": true,
+    "type": "single",
+    "question": "Which decision would produce the clearest result in comparing family relationships in two Australian novels?",
+    "audioPrompt": "Which decision would produce the clearest result in comparing family relationships in two Australian novels?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Neither can be compared because the families live in different places.",
+      "Both show care between generations, but one family expresses it through quiet actions and the other through direct conversation.",
+      "Both are the same because each book has a grandparent."
+    ],
+    "correct": 1,
+    "explanation": "Relationships can be similar in purpose while being represented differently.\nHint: Use evidence about how characters act and speak.",
+    "structuredExplanation": {
+      "summary": "Relationships can be similar in purpose while being represented differently.",
+      "hint": "Use evidence about how characters act and speak."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le01-p-036",
+    "curriculumCode": "AC9E4LE01",
+    "bank": "practice",
+    "skill": "Literature Across Times and Cultures",
+    "printable": true,
+    "type": "single",
+    "question": "Choose the option that applies the skill correctly in comparing family relationships in two Australian novels.",
+    "audioPrompt": "Choose the option that applies the skill correctly in comparing family relationships in two Australian novels.",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Neither can be compared because the families live in different places.",
+      "Both are the same because each book has a grandparent.",
+      "Both show care between generations, but one family expresses it through quiet actions and the other through direct conversation."
+    ],
+    "correct": 2,
+    "explanation": "Relationships can be similar in purpose while being represented differently.\nHint: Use evidence about how characters act and speak.",
+    "structuredExplanation": {
+      "summary": "Relationships can be similar in purpose while being represented differently.",
+      "hint": "Use evidence about how characters act and speak."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le01-p-037",
+    "curriculumCode": "AC9E4LE01",
+    "bank": "practice",
+    "skill": "Literature Across Times and Cultures",
+    "printable": true,
+    "type": "single",
+    "question": "Choose the option that applies the skill correctly in comparing a First Nations Australian story and another story about Country or place.",
+    "audioPrompt": "Choose the option that applies the skill correctly in comparing a First Nations Australian story and another story about Country or place.",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Both texts show that place carries meaning, but each text must be understood in its own cultural context.",
+      "Cultural context should be ignored during comparison.",
+      "All stories about land mean exactly the same thing."
+    ],
+    "correct": 0,
+    "explanation": "Respectful comparison recognises connections without flattening distinct cultural meanings.\nHint: Notice similarities, then keep important cultural differences visible.",
+    "structuredExplanation": {
+      "summary": "Respectful comparison recognises connections without flattening distinct cultural meanings.",
+      "hint": "Notice similarities, then keep important cultural differences visible."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le01-p-038",
+    "curriculumCode": "AC9E4LE01",
+    "bank": "practice",
+    "skill": "Literature Across Times and Cultures",
+    "printable": true,
+    "type": "single",
+    "question": "What would be the most effective choice for comparing a First Nations Australian story and another story about Country or place?",
+    "audioPrompt": "What would be the most effective choice for comparing a First Nations Australian story and another story about Country or place?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Cultural context should be ignored during comparison.",
+      "Both texts show that place carries meaning, but each text must be understood in its own cultural context.",
+      "All stories about land mean exactly the same thing."
+    ],
+    "correct": 1,
+    "explanation": "Respectful comparison recognises connections without flattening distinct cultural meanings.\nHint: Notice similarities, then keep important cultural differences visible.",
+    "structuredExplanation": {
+      "summary": "Respectful comparison recognises connections without flattening distinct cultural meanings.",
+      "hint": "Notice similarities, then keep important cultural differences visible."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le01-p-039",
+    "curriculumCode": "AC9E4LE01",
+    "bank": "practice",
+    "skill": "Literature Across Times and Cultures",
+    "printable": true,
+    "type": "single",
+    "question": "What would be the most effective choice for comparing two quest stories from different countries?",
+    "audioPrompt": "What would be the most effective choice for comparing two quest stories from different countries?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Only the length of the books can be compared.",
+      "The stories are identical because they both have a journey.",
+      "Both protagonists face tests on a journey, but the helpers and values celebrated in each story differ."
+    ],
+    "correct": 2,
+    "explanation": "A strong comparison links plot patterns to the different ideas or values they express.\nHint: Move beyond surface features to what the events suggest.",
+    "structuredExplanation": {
+      "summary": "A strong comparison links plot patterns to the different ideas or values they express.",
+      "hint": "Move beyond surface features to what the events suggest."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le01-p-040",
+    "curriculumCode": "AC9E4LE01",
+    "bank": "practice",
+    "skill": "Literature Across Times and Cultures",
+    "printable": true,
+    "type": "single",
+    "question": "You now need to handle comparing two quest stories from different countries independently. Which choice should you use?",
+    "audioPrompt": "You now need to handle comparing two quest stories from different countries independently. Which choice should you use?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Both protagonists face tests on a journey, but the helpers and values celebrated in each story differ.",
+      "Only the length of the books can be compared.",
+      "The stories are identical because they both have a journey."
+    ],
+    "correct": 0,
+    "explanation": "A strong comparison links plot patterns to the different ideas or values they express.\nHint: Move beyond surface features to what the events suggest.",
+    "structuredExplanation": {
+      "summary": "A strong comparison links plot patterns to the different ideas or values they express.",
+      "hint": "Move beyond surface features to what the events suggest."
     },
     "qualitySchema": "production-v1"
   }

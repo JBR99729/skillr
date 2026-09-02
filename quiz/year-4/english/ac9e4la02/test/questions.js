@@ -4,28 +4,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la02-t-001",
     "curriculumCode": "AC9E4LA02",
     "bank": "test",
-    "skill": "new text 1 apply",
+    "skill": "Subjective and Objective Language",
     "printable": true,
     "type": "single",
-    "question": "In a new assessment text, Which sentence is most objective?",
-    "audioPrompt": "In a new assessment text, Which sentence is most objective?",
-    "visual": "Three-step Subjective and Objective Language organiser. Read: New text 1. Notice: Distinguish subjective/objective wording. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Subjective and Objective Language organiser. Read: New text 1. Notice: Distinguish subjective/objective wording. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-001",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: New text 1. Notice: Distinguish subjective/objective wording. Choose the response supported by the example."
-    },
+    "question": "New context: writing a review of a wildlife documentary. Which option is correct?",
+    "audioPrompt": "New context: writing a review of a wildlife documentary. Which option is correct?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "The magnificent exhibition is unmissable",
-      "The exhibition opens at 9:00 am and contains 24 displays",
-      "The displays are incredibly boring"
+      "The program runs for 48 minutes.",
+      "The film includes footage of coral reefs.",
+      "The underwater footage is breathtaking."
     ],
-    "correct": 1,
-    "explanation": "The evidence and language purpose support “The exhibition opens at 9:00 am and contains 24 displays”.\nHint: Check the whole sentence or text feature, then test meaning and grammar.",
+    "correct": 2,
+    "explanation": "Breathtaking evaluates the footage and shows the writer’s response.\nHint: Look for language that judges quality.",
     "structuredExplanation": {
-      "summary": "The evidence and language purpose support “The exhibition opens at 9:00 am and contains 24 displays”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "Breathtaking evaluates the footage and shows the writer’s response.",
+      "hint": "Look for language that judges quality."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +28,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la02-t-002",
     "curriculumCode": "AC9E4LA02",
     "bank": "test",
-    "skill": "new text 1 reason",
+    "skill": "Subjective and Objective Language",
     "printable": true,
     "type": "single",
-    "question": "A student answers “The magnificent exhibition is unmissable”. Which feedback helps? Task: In a new assessment text, Which sentence is most objective?",
-    "audioPrompt": "A student answers “The magnificent exhibition is unmissable”. Which feedback helps? Task: In a new assessment text, Which sentence is most objective?",
-    "visual": "Three-step Subjective and Objective Language organiser. Read: New text 1. Notice: Distinguish subjective/objective wording. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Subjective and Objective Language organiser. Read: New text 1. Notice: Distinguish subjective/objective wording. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-002\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-002",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: New text 1. Notice: Distinguish subjective/objective wording. Correct the student's mix-up using the full task."
-    },
+    "question": "What is the best choice for writing a review of a wildlife documentary?",
+    "audioPrompt": "What is the best choice for writing a review of a wildlife documentary?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “The magnificent exhibition is unmissable”; it uses a detail that sounds familiar.",
-      "Choose “The displays are incredibly boring” instead; it sounds clearer.",
-      "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “The exhibition opens at 9:00 am and contains 24 displays”."
+      "The underwater footage is breathtaking.",
+      "The program runs for 48 minutes.",
+      "The film includes footage of coral reefs."
     ],
-    "correct": 2,
-    "explanation": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “The exhibition opens at 9:00 am and contains 24 displays”.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "correct": 0,
+    "explanation": "Breathtaking evaluates the footage and shows the writer’s response.\nHint: Look for language that judges quality.",
     "structuredExplanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “The exhibition opens at 9:00 am and contains 24 displays”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Breathtaking evaluates the footage and shows the writer’s response.",
+      "hint": "Look for language that judges quality."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +52,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la02-t-003",
     "curriculumCode": "AC9E4LA02",
     "bank": "test",
-    "skill": "new text 2 apply",
+    "skill": "Subjective and Objective Language",
     "printable": true,
     "type": "single",
-    "question": "In a new assessment text, Which phrase is an evaluation rather than a measurable fact?",
-    "audioPrompt": "In a new assessment text, Which phrase is an evaluation rather than a measurable fact?",
-    "visual": "Three-step Subjective and Objective Language organiser. Read: New text 2. Notice: Identify evaluation and emotion. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Subjective and Objective Language organiser. Read: New text 2. Notice: Identify evaluation and emotion. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-003",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: New text 2. Notice: Identify evaluation and emotion. Choose the response supported by the example."
-    },
+    "question": "Which explanation best supports “The underwater footage is breathtaking.” in writing a review of a wildlife documentary?",
+    "audioPrompt": "Which explanation best supports “The underwater footage is breathtaking.” in writing a review of a wildlife documentary?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "a remarkably effective design",
-      "weighs 2.4 kg",
-      "is 30 cm long"
+      "Because “The program runs for 48 minutes.” is always a safe choice.",
+      "Breathtaking evaluates the footage and shows the writer’s response.",
+      "Because surface appearance matters more than meaning."
     ],
-    "correct": 0,
-    "explanation": "The evidence and language purpose support “a remarkably effective design”.\nHint: Check the whole sentence or text feature, then test meaning and grammar.",
+    "correct": 1,
+    "explanation": "Breathtaking evaluates the footage and shows the writer’s response.\nHint: Look for language that judges quality.",
     "structuredExplanation": {
-      "summary": "The evidence and language purpose support “a remarkably effective design”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "Breathtaking evaluates the footage and shows the writer’s response.",
+      "hint": "Look for language that judges quality."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +76,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la02-t-004",
     "curriculumCode": "AC9E4LA02",
     "bank": "test",
-    "skill": "new text 2 reason",
+    "skill": "Subjective and Objective Language",
     "printable": true,
     "type": "single",
-    "question": "A student answers “is 30 cm long”. Which feedback helps? Task: In a new assessment text, Which phrase is an evaluation rather than a measurable fact?",
-    "audioPrompt": "A student answers “is 30 cm long”. Which feedback helps? Task: In a new assessment text, Which phrase is an evaluation rather than a measurable fact?",
-    "visual": "Three-step Subjective and Objective Language organiser. Read: New text 2. Notice: Identify evaluation and emotion. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Subjective and Objective Language organiser. Read: New text 2. Notice: Identify evaluation and emotion. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-004\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-004",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: New text 2. Notice: Identify evaluation and emotion. Correct the student's mix-up using the full task."
-    },
+    "question": "Which clue should guide your decision in writing a review of a wildlife documentary?",
+    "audioPrompt": "Which clue should guide your decision in writing a review of a wildlife documentary?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “is 30 cm long”; it uses a detail that sounds familiar.",
-      "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “a remarkably effective design”.",
-      "Choose “weighs 2.4 kg” instead; it sounds clearer."
+      "Choose the option with the most words.",
+      "Ignore the context and use the first familiar form.",
+      "Look for language that judges quality."
     ],
-    "correct": 1,
-    "explanation": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “a remarkably effective design”.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "correct": 2,
+    "explanation": "Breathtaking evaluates the footage and shows the writer’s response.\nHint: Look for language that judges quality.",
     "structuredExplanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “a remarkably effective design”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Breathtaking evaluates the footage and shows the writer’s response.",
+      "hint": "Look for language that judges quality."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +100,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la02-t-005",
     "curriculumCode": "AC9E4LA02",
     "bank": "test",
-    "skill": "misconception 1 apply",
+    "skill": "Subjective and Objective Language",
     "printable": true,
     "type": "single",
-    "question": "An editor reviewing a new text claims, “Objective means completely unbiased”. Which response gives the most accurate correction?",
-    "audioPrompt": "An editor reviewing a new text claims, “Objective means completely unbiased”. Which response gives the most accurate correction?",
-    "visual": "Three-step Subjective and Objective Language organiser. Read: Misconception 1. Notice: Check verifiability. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Subjective and Objective Language organiser. Read: Misconception 1. Notice: Check verifiability. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-005",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Misconception 1. Notice: Check verifiability. Choose the response supported by the example."
-    },
+    "question": "Which option would you reject first in writing a review of a wildlife documentary?",
+    "audioPrompt": "Which option would you reject first in writing a review of a wildlife documentary?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Objective means completely unbiased",
-      "Any adjective is subjective",
-      "Selection and framing can still influence reporting; inspect evidence and sources."
+      "The program runs for 48 minutes.",
+      "The underwater footage is breathtaking.",
+      "The film includes footage of coral reefs."
     ],
-    "correct": 2,
-    "explanation": "Selection and framing can still influence reporting; inspect evidence and sources.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "correct": 0,
+    "explanation": "The rejected choice conflicts with the exact meaning, form or situation being tested. Breathtaking evaluates the footage and shows the writer’s response.\nHint: Look for language that judges quality.",
     "structuredExplanation": {
-      "summary": "Selection and framing can still influence reporting; inspect evidence and sources.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Breathtaking evaluates the footage and shows the writer’s response.",
+      "hint": "Look for language that judges quality."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +124,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la02-t-006",
     "curriculumCode": "AC9E4LA02",
     "bank": "test",
-    "skill": "misconception 1 reason",
+    "skill": "Subjective and Objective Language",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Objective means completely unbiased”. Which feedback helps? Task: An editor reviewing a new text claims, “Objective means completely unbiased”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Objective means completely unbiased”. Which feedback helps? Task: An editor reviewing a new text claims, “Objective means completely unbiased”. Which response gives the most accurate correction?",
-    "visual": "Three-step Subjective and Objective Language organiser. Read: Misconception 1. Notice: Check verifiability. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Subjective and Objective Language organiser. Read: Misconception 1. Notice: Check verifiability. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-006",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Misconception 1. Notice: Check verifiability. Correct the student's mix-up using the full task."
-    },
+    "question": "Which correction should replace “The program runs for 48 minutes.” in writing a review of a wildlife documentary?",
+    "audioPrompt": "Which correction should replace “The program runs for 48 minutes.” in writing a review of a wildlife documentary?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Selection and framing can still influence reporting; inspect evidence and sources.",
-      "Keep “Objective means completely unbiased”; it uses a detail that sounds familiar.",
-      "Choose “Any adjective is subjective” instead; it sounds clearer."
+      "The program runs for 48 minutes.",
+      "The underwater footage is breathtaking.",
+      "The film includes footage of coral reefs."
     ],
-    "correct": 0,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Selection and framing can still influence reporting; inspect evidence and sources.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "correct": 1,
+    "explanation": "Breathtaking evaluates the footage and shows the writer’s response.\nHint: Look for language that judges quality.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Selection and framing can still influence reporting; inspect evidence and sources.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Breathtaking evaluates the footage and shows the writer’s response.",
+      "hint": "Look for language that judges quality."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +148,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la02-t-007",
     "curriculumCode": "AC9E4LA02",
     "bank": "test",
-    "skill": "misconception 2 apply",
+    "skill": "Subjective and Objective Language",
     "printable": true,
     "type": "single",
-    "question": "An editor reviewing a new text claims, “Any adjective is subjective”. Which response gives the most accurate correction?",
-    "audioPrompt": "An editor reviewing a new text claims, “Any adjective is subjective”. Which response gives the most accurate correction?",
-    "visual": "Three-step Subjective and Objective Language organiser. Read: Misconception 2. Notice: Use attribution. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Subjective and Objective Language organiser. Read: Misconception 2. Notice: Use attribution. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-007",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Misconception 2. Notice: Use attribution. Choose the response supported by the example."
-    },
+    "question": "Apply the skill to writing a review of a wildlife documentary: what should you choose?",
+    "audioPrompt": "Apply the skill to writing a review of a wildlife documentary: what should you choose?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Any adjective is subjective",
-      "Some adjectives report observable properties, such as wooden or rectangular.",
-      "Opinion needs no evidence"
+      "The program runs for 48 minutes.",
+      "The film includes footage of coral reefs.",
+      "The underwater footage is breathtaking."
     ],
-    "correct": 1,
-    "explanation": "Some adjectives report observable properties, such as wooden or rectangular.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "correct": 2,
+    "explanation": "Breathtaking evaluates the footage and shows the writer’s response.\nHint: Look for language that judges quality.",
     "structuredExplanation": {
-      "summary": "Some adjectives report observable properties, such as wooden or rectangular.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Breathtaking evaluates the footage and shows the writer’s response.",
+      "hint": "Look for language that judges quality."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +172,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la02-t-008",
     "curriculumCode": "AC9E4LA02",
     "bank": "test",
-    "skill": "misconception 2 reason",
+    "skill": "Subjective and Objective Language",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Opinion needs no evidence”. Which feedback helps? Task: An editor reviewing a new text claims, “Any adjective is subjective”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Opinion needs no evidence”. Which feedback helps? Task: An editor reviewing a new text claims, “Any adjective is subjective”. Which response gives the most accurate correction?",
-    "visual": "Three-step Subjective and Objective Language organiser. Read: Misconception 2. Notice: Use attribution. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Subjective and Objective Language organiser. Read: Misconception 2. Notice: Use attribution. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-008\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-008",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Misconception 2. Notice: Use attribution. Correct the student's mix-up using the full task."
-    },
+    "question": "Which final choice gives the clearest and most accurate result for writing a review of a wildlife documentary?",
+    "audioPrompt": "Which final choice gives the clearest and most accurate result for writing a review of a wildlife documentary?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Opinion needs no evidence”; it uses a detail that sounds familiar.",
-      "Choose “Any adjective is subjective” instead; it sounds clearer.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Some adjectives report observable properties, such as wooden or rectangular."
+      "The underwater footage is breathtaking.",
+      "The program runs for 48 minutes.",
+      "The film includes footage of coral reefs."
     ],
-    "correct": 2,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Some adjectives report observable properties, such as wooden or rectangular.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "correct": 0,
+    "explanation": "Breathtaking evaluates the footage and shows the writer’s response.\nHint: Look for language that judges quality.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Some adjectives report observable properties, such as wooden or rectangular.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Breathtaking evaluates the footage and shows the writer’s response.",
+      "hint": "Look for language that judges quality."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +196,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la02-t-009",
     "curriculumCode": "AC9E4LA02",
     "bank": "test",
-    "skill": "misconception 3 apply",
+    "skill": "Subjective and Objective Language",
     "printable": true,
     "type": "single",
-    "question": "An editor reviewing a new text claims, “Opinion needs no evidence”. Which response gives the most accurate correction?",
-    "audioPrompt": "An editor reviewing a new text claims, “Opinion needs no evidence”. Which response gives the most accurate correction?",
-    "visual": "Three-step Subjective and Objective Language organiser. Read: Misconception 3. Notice: Adapt language for purpose. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Subjective and Objective Language organiser. Read: Misconception 3. Notice: Adapt language for purpose. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-009",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Misconception 3. Notice: Adapt language for purpose. Choose the response supported by the example."
-    },
+    "question": "New context: recording a sports carnival result. Which option is correct?",
+    "audioPrompt": "New context: recording a sports carnival result. Which option is correct?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "A convincing evaluation explains criteria and examples.",
-      "Opinion needs no evidence",
-      "Quoted opinion becomes fact"
+      "Mia ran brilliantly.",
+      "Mia finished the 100-metre race in 16.2 seconds.",
+      "Mia was clearly the most impressive athlete."
     ],
-    "correct": 0,
-    "explanation": "A convincing evaluation explains criteria and examples.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "correct": 1,
+    "explanation": "The time is a checkable result, while brilliantly and impressive are evaluations.\nHint: Choose the statement based on recorded evidence.",
     "structuredExplanation": {
-      "summary": "A convincing evaluation explains criteria and examples.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "The time is a checkable result, while brilliantly and impressive are evaluations.",
+      "hint": "Choose the statement based on recorded evidence."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +220,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la02-t-010",
     "curriculumCode": "AC9E4LA02",
     "bank": "test",
-    "skill": "misconception 3 reason",
+    "skill": "Subjective and Objective Language",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Opinion needs no evidence”. Which feedback helps? Task: An editor reviewing a new text claims, “Opinion needs no evidence”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Opinion needs no evidence”. Which feedback helps? Task: An editor reviewing a new text claims, “Opinion needs no evidence”. Which response gives the most accurate correction?",
-    "visual": "Three-step Subjective and Objective Language organiser. Read: Misconception 3. Notice: Adapt language for purpose. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Subjective and Objective Language organiser. Read: Misconception 3. Notice: Adapt language for purpose. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-010",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Misconception 3. Notice: Adapt language for purpose. Correct the student's mix-up using the full task."
-    },
+    "question": "What is the best choice for recording a sports carnival result?",
+    "audioPrompt": "What is the best choice for recording a sports carnival result?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Opinion needs no evidence”; it uses a detail that sounds familiar.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. A convincing evaluation explains criteria and examples.",
-      "Choose “Quoted opinion becomes fact” instead; it sounds clearer."
+      "Mia ran brilliantly.",
+      "Mia was clearly the most impressive athlete.",
+      "Mia finished the 100-metre race in 16.2 seconds."
     ],
-    "correct": 1,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. A convincing evaluation explains criteria and examples.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "correct": 2,
+    "explanation": "The time is a checkable result, while brilliantly and impressive are evaluations.\nHint: Choose the statement based on recorded evidence.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. A convincing evaluation explains criteria and examples.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "The time is a checkable result, while brilliantly and impressive are evaluations.",
+      "hint": "Choose the statement based on recorded evidence."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +244,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la02-t-011",
     "curriculumCode": "AC9E4LA02",
     "bank": "test",
-    "skill": "misconception 4 apply",
+    "skill": "Subjective and Objective Language",
     "printable": true,
     "type": "single",
-    "question": "An editor reviewing a new text claims, “Quoted opinion becomes fact”. Which response gives the most accurate correction?",
-    "audioPrompt": "An editor reviewing a new text claims, “Quoted opinion becomes fact”. Which response gives the most accurate correction?",
-    "visual": "Three-step Subjective and Objective Language organiser. Read: Misconception 4. Notice: Distinguish subjective/objective wording. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Subjective and Objective Language organiser. Read: Misconception 4. Notice: Distinguish subjective/objective wording. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-011",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Misconception 4. Notice: Distinguish subjective/objective wording. Choose the response supported by the example."
-    },
+    "question": "Which explanation best supports “Mia finished the 100-metre race in 16.2 seconds.” in recording a sports carnival result?",
+    "audioPrompt": "Which explanation best supports “Mia finished the 100-metre race in 16.2 seconds.” in recording a sports carnival result?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Quoted opinion becomes fact",
-      "Objective means completely unbiased",
-      "Attribution identifies the speaker but does not verify the claim."
+      "The time is a checkable result, while brilliantly and impressive are evaluations.",
+      "Because “Mia ran brilliantly.” is always a safe choice.",
+      "Because surface appearance matters more than meaning."
     ],
-    "correct": 2,
-    "explanation": "Attribution identifies the speaker but does not verify the claim.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "correct": 0,
+    "explanation": "The time is a checkable result, while brilliantly and impressive are evaluations.\nHint: Choose the statement based on recorded evidence.",
     "structuredExplanation": {
-      "summary": "Attribution identifies the speaker but does not verify the claim.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "The time is a checkable result, while brilliantly and impressive are evaluations.",
+      "hint": "Choose the statement based on recorded evidence."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +268,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la02-t-012",
     "curriculumCode": "AC9E4LA02",
     "bank": "test",
-    "skill": "misconception 4 reason",
+    "skill": "Subjective and Objective Language",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Objective means completely unbiased”. Which feedback helps? Task: An editor reviewing a new text claims, “Quoted opinion becomes fact”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Objective means completely unbiased”. Which feedback helps? Task: An editor reviewing a new text claims, “Quoted opinion becomes fact”. Which response gives the most accurate correction?",
-    "visual": "Three-step Subjective and Objective Language organiser. Read: Misconception 4. Notice: Distinguish subjective/objective wording. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Subjective and Objective Language organiser. Read: Misconception 4. Notice: Distinguish subjective/objective wording. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-012\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-012",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Misconception 4. Notice: Distinguish subjective/objective wording. Correct the student's mix-up using the full task."
-    },
+    "question": "Which clue should guide your decision in recording a sports carnival result?",
+    "audioPrompt": "Which clue should guide your decision in recording a sports carnival result?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Attribution identifies the speaker but does not verify the claim.",
-      "Keep “Objective means completely unbiased”; it uses a detail that sounds familiar.",
-      "Choose “Quoted opinion becomes fact” instead; it sounds clearer."
+      "Choose the option with the most words.",
+      "Choose the statement based on recorded evidence.",
+      "Ignore the context and use the first familiar form."
     ],
-    "correct": 0,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Attribution identifies the speaker but does not verify the claim.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "correct": 1,
+    "explanation": "The time is a checkable result, while brilliantly and impressive are evaluations.\nHint: Choose the statement based on recorded evidence.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Attribution identifies the speaker but does not verify the claim.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "The time is a checkable result, while brilliantly and impressive are evaluations.",
+      "hint": "Choose the statement based on recorded evidence."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +292,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la02-t-013",
     "curriculumCode": "AC9E4LA02",
     "bank": "test",
-    "skill": "language highlighter apply",
+    "skill": "Subjective and Objective Language",
     "printable": true,
     "type": "single",
-    "question": "A different class adapts “Language highlighter”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A different class adapts “Language highlighter”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Subjective and Objective Language organiser. Read: Language highlighter. Notice: Identify evaluation and emotion. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Subjective and Objective Language organiser. Read: Language highlighter. Notice: Identify evaluation and emotion. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-013",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Language highlighter. Notice: Identify evaluation and emotion. Choose the response supported by the example."
-    },
+    "question": "Which option would you reject first in recording a sports carnival result?",
+    "audioPrompt": "Which option would you reject first in recording a sports carnival result?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Mark factual, evaluative and emotional words in short reports, reviews and advertisements.",
-      "Change the purpose and audience halfway through, then report the first impression only."
+      "Mia finished the 100-metre race in 16.2 seconds.",
+      "Mia was clearly the most impressive athlete.",
+      "Mia ran brilliantly."
     ],
-    "correct": 1,
-    "explanation": "Mark factual, evaluative and emotional words in short reports, reviews and advertisements.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "correct": 2,
+    "explanation": "The rejected choice conflicts with the exact meaning, form or situation being tested. The time is a checkable result, while brilliantly and impressive are evaluations.\nHint: Choose the statement based on recorded evidence.",
     "structuredExplanation": {
-      "summary": "Mark factual, evaluative and emotional words in short reports, reviews and advertisements.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. The time is a checkable result, while brilliantly and impressive are evaluations.",
+      "hint": "Choose the statement based on recorded evidence."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +316,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la02-t-014",
     "curriculumCode": "AC9E4LA02",
     "bank": "test",
-    "skill": "language highlighter reason",
+    "skill": "Subjective and Objective Language",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: A different class adapts “Language highlighter”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: A different class adapts “Language highlighter”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Subjective and Objective Language organiser. Read: Language highlighter. Notice: Identify evaluation and emotion. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Subjective and Objective Language organiser. Read: Language highlighter. Notice: Identify evaluation and emotion. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-014\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-014",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Language highlighter. Notice: Identify evaluation and emotion. Correct the student's mix-up using the full task."
-    },
+    "question": "Which correction should replace “Mia ran brilliantly.” in recording a sports carnival result?",
+    "audioPrompt": "Which correction should replace “Mia ran brilliantly.” in recording a sports carnival result?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
-      "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
-      "Choose the plan that analyses language evidence and produces a reviewable response. Mark factual, evaluative and emotional words in short reports, reviews and advertisements."
+      "Mia finished the 100-metre race in 16.2 seconds.",
+      "Mia ran brilliantly.",
+      "Mia was clearly the most impressive athlete."
     ],
-    "correct": 2,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. Mark factual, evaluative and emotional words in short reports, reviews and advertisements.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "correct": 0,
+    "explanation": "The time is a checkable result, while brilliantly and impressive are evaluations.\nHint: Choose the statement based on recorded evidence.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Mark factual, evaluative and emotional words in short reports, reviews and advertisements.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "The time is a checkable result, while brilliantly and impressive are evaluations.",
+      "hint": "Choose the statement based on recorded evidence."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +340,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la02-t-015",
     "curriculumCode": "AC9E4LA02",
     "bank": "test",
-    "skill": "neutralise and intensify apply",
+    "skill": "Subjective and Objective Language",
     "printable": true,
     "type": "single",
-    "question": "A different class adapts “Neutralise and intensify”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A different class adapts “Neutralise and intensify”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Subjective and Objective Language organiser. Read: Neutralise and intensify. Notice: Check verifiability. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Subjective and Objective Language organiser. Read: Neutralise and intensify. Notice: Check verifiability. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-015",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Neutralise and intensify. Notice: Check verifiability. Choose the response supported by the example."
-    },
+    "question": "Apply the skill to recording a sports carnival result: what should you choose?",
+    "audioPrompt": "Apply the skill to recording a sports carnival result: what should you choose?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Rewrite one subjective sentence objectively, then make one neutral sentence more evaluative for a review.",
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Change the purpose and audience halfway through, then report the first impression only."
+      "Mia ran brilliantly.",
+      "Mia finished the 100-metre race in 16.2 seconds.",
+      "Mia was clearly the most impressive athlete."
     ],
-    "correct": 0,
-    "explanation": "Rewrite one subjective sentence objectively, then make one neutral sentence more evaluative for a review.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "correct": 1,
+    "explanation": "The time is a checkable result, while brilliantly and impressive are evaluations.\nHint: Choose the statement based on recorded evidence.",
     "structuredExplanation": {
-      "summary": "Rewrite one subjective sentence objectively, then make one neutral sentence more evaluative for a review.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "The time is a checkable result, while brilliantly and impressive are evaluations.",
+      "hint": "Choose the statement based on recorded evidence."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +364,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la02-t-016",
     "curriculumCode": "AC9E4LA02",
     "bank": "test",
-    "skill": "neutralise and intensify reason",
+    "skill": "Subjective and Objective Language",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: A different class adapts “Neutralise and intensify”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: A different class adapts “Neutralise and intensify”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Subjective and Objective Language organiser. Read: Neutralise and intensify. Notice: Check verifiability. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Subjective and Objective Language organiser. Read: Neutralise and intensify. Notice: Check verifiability. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la02.svg#ac9e4la02-t-016",
-      "alt_text": "Three-step Subjective and Objective Language organiser. Read: Neutralise and intensify. Notice: Check verifiability. Correct the student's mix-up using the full task."
-    },
+    "question": "Which final choice gives the clearest and most accurate result for recording a sports carnival result?",
+    "audioPrompt": "Which final choice gives the clearest and most accurate result for recording a sports carnival result?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
-      "Choose the plan that analyses language evidence and produces a reviewable response. Rewrite one subjective sentence objectively, then make one neutral sentence more evaluative for a review.",
-      "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer."
+      "Mia ran brilliantly.",
+      "Mia was clearly the most impressive athlete.",
+      "Mia finished the 100-metre race in 16.2 seconds."
     ],
-    "correct": 1,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. Rewrite one subjective sentence objectively, then make one neutral sentence more evaluative for a review.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "correct": 2,
+    "explanation": "The time is a checkable result, while brilliantly and impressive are evaluations.\nHint: Choose the statement based on recorded evidence.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Rewrite one subjective sentence objectively, then make one neutral sentence more evaluative for a review.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "The time is a checkable result, while brilliantly and impressive are evaluations.",
+      "hint": "Choose the statement based on recorded evidence."
     },
     "qualitySchema": "production-v1"
   }
