@@ -5,9 +5,9 @@ on:
     paths:
       - 'assets/year1-english-student-facing.js'
       - 'assets/foundation-topic-language.js'
-      - 'worksheets/year1/english/teacher-slides/live.html'
       - 'scripts/build_year1_english_quality_banks.mjs'
       - 'scripts/rebuild_year1_english_student_facing.mjs'
+      - 'scripts/polish_year1_english_student_facing.mjs'
       - 'scripts/rebuild_year1_english_static_student_facing.mjs'
       - 'scripts/validate_year1_english_student_facing.mjs'
       - '.github/workflows/generate-year1-english-student-facing.yml'
@@ -35,10 +35,11 @@ jobs:
           test -f scripts/build_year1_english_quality_banks.mjs
           test -f scripts/publish_year1_english_quality_banks.mjs
           test -f scripts/rebuild_year1_english_student_facing.mjs
+          test -f scripts/polish_year1_english_student_facing.mjs
           test -f scripts/rebuild_year1_english_static_student_facing.mjs
           test -f scripts/validate_year1_english_student_facing.mjs
-      - name: Rebuild 40-question practice banks and publish pages
-        run: node scripts/rebuild_year1_english_student_facing.mjs
+      - name: Rebuild and polish 40-question practice banks
+        run: node scripts/polish_year1_english_student_facing.mjs
       - name: Rebuild static Topic Guides and Classroom Views
         run: node scripts/rebuild_year1_english_static_student_facing.mjs
       - name: Validate Year 1 English student-facing content
