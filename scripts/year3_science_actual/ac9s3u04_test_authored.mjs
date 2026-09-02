@@ -4,7 +4,7 @@ export const test=[
 ['When solid chocolate becomes liquid chocolate, what change is occurring?',['Melting','Freezing','Condensing','Breaking into pieces'],0,'Melting changes state from solid to liquid.','Solid → liquid.'],
 ['When liquid water becomes ice, what change is occurring?',['Freezing','Melting','Evaporating','Breaking'],0,'Freezing changes state from liquid to solid.','Liquid → solid.'],
 ['Why does ice melt on a warm surface?',['It gains heat energy','It loses heat','Cold is added','Its volume becomes zero'],0,'Heat entering the ice can cause melting.','Heat in.'],
-['Why does water freeze in a freezer?',['It loses heat energy','It gains heat','The freezer adds liquid','Water stops being matter'],0,'Removing heat can cause freezing.','Heat out.'],
+['A container of juice is left in the freezer overnight. Why did it become solid?',['It lost heat energy until it froze.','It gained heat energy.','The freezer added solid matter.','The juice stopped being matter.'],0,'Freezing happens when a substance loses enough heat energy for a liquid to change into a solid.','Heat out.'],
 ['Which is NOT a state change?',['Cutting a solid block','Melting butter','Freezing water','Melting ice'],0,'Cutting changes size and shape but not state.','State remains solid.'],
 ['A liquid is poured into a new container. What usually changes?',['Its shape','Its amount automatically','Its state immediately','Its mass to zero'],0,'Liquids take the shape of their container.','Container shape.'],
 ['Which statement is false?',['Liquids have no volume','Liquids can be measured in mL','Solids keep shape','Heating can melt some solids'],0,'Liquids have measurable volume.','Shape is not volume.'],
