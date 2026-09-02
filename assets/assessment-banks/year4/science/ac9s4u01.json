@@ -251,9 +251,9 @@
     "curriculumCode": "AC9S4U01",
     "bank": "practice",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "Which statement correctly describes a habitat?",
-    "audio_prompt": "Which statement correctly describes a habitat?",
-    "audioPrompt": "Which statement correctly describes a habitat?",
+    "question": "A frog lives among reeds, insects and shallow water at a billabong. What is the billabong for the frog?",
+    "audio_prompt": "A frog lives among reeds, insects and shallow water at a billabong. What is the billabong for the frog?",
+    "audioPrompt": "A frog lives among reeds, insects and shallow water at a billabong. What is the billabong for the frog?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -261,37 +261,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "It is the place where organisms live and interact",
+        "text": "A habitat where it lives and interacts",
         "is_correct": true
       },
       {
-        "text": "It is only a food chain diagram",
+        "text": "Only a food-chain arrow",
         "is_correct": false
       },
       {
-        "text": "It is always a classroom garden bed",
+        "text": "A non-living organism",
         "is_correct": false
       },
       {
-        "text": "It is any non-living object",
+        "text": "A producer making food",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "It is the place where organisms live and interact",
-      "It is only a food chain diagram",
-      "It is always a classroom garden bed",
-      "It is any non-living object"
+      "A habitat where it lives and interacts",
+      "Only a food-chain arrow",
+      "A non-living organism",
+      "A producer making food"
     ],
     "correct_index": 0,
     "correct": 0,
     "explanation": {
-      "summary": "A habitat is where living things live, obtain resources and interact.",
-      "hint": "Think place for organisms."
+      "summary": "The billabong is the frog’s habitat because it is where the frog lives and interacts with other parts of the environment.",
+      "hint": "Place where it lives."
     },
     "structuredExplanation": {
-      "summary": "A habitat is where living things live, obtain resources and interact.",
-      "hint": "Think place for organisms."
+      "summary": "The billabong is the frog’s habitat because it is where the frog lives and interacts with other parts of the environment.",
+      "hint": "Place where it lives."
     },
     "stage": "recognise",
     "difficulty": 1,
