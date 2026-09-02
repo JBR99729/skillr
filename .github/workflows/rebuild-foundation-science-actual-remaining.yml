@@ -10,6 +10,7 @@ on:
       - 'scripts/foundation_science_actual/ac9sfu01_authored.mjs'
       - 'scripts/foundation_science_actual/ac9sfu02_authored.mjs'
       - 'scripts/foundation_science_actual/ac9sfu03_authored.mjs'
+      - 'scripts/foundation_science_actual/ac9sfu03_test_authored.mjs'
       - 'scripts/materialise_foundation_science_remaining.mjs'
       - 'scripts/validate_foundation_science_actual.mjs'
       - '.github/workflows/rebuild-foundation-science-actual-remaining.yml'
