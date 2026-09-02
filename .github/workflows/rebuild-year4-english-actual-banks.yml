@@ -1,0 +1,72 @@
+name: Rebuild Year 4 English actual banks
+on:
+  push:
+    branches: [content/year4-english-actual-rebuild]
+    paths:
+      - '.github/workflows/rebuild-year4-english-actual-banks.yml'
+      - 'scripts/rebuild_year4_english_actual_banks.mjs'
+permissions:
+  contents: write
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: content/year4-english-actual-rebuild
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Rebuild actual Year 4 English banks
+        run: |
+          node scripts/rebuild_year4_english_actual_banks.mjs
+          for f in assets/assessment-banks/year4/english/ac9e4*.json; do node scripts/publish_production_question_bank.mjs "$f"; done
+      - name: Validate actual banks
+        run: |
+          node - <<'NODE'
+          const fs=require('fs'),path=require('path');
+          const root='assets/assessment-banks/year4/english';
+          const files=fs.readdirSync(root).filter(f=>/^ac9e4(?:la|le|ly)\d+\.json$/.test(f)).sort();
+          const bad=/\b(?:A Year 4 student|rubric|teacher should|marking key|award \d+ marks?|criterion)\b/i;
+          if(files.length!==28) throw Error(`expected 28 code banks, found ${files.length}`);
+          let P=0,T=0;
+          for(const f of files){
+            const a=JSON.parse(fs.readFileSync(path.join(root,f),'utf8'));
+            const p=a.filter(x=>x.bank==='practice'),t=a.filter(x=>x.bank==='test');
+            if(p.length!==40||t.length!==16) throw Error(`${f}: ${p.length} practice ${t.length} test`);
+            const stages=['recognise','explain','discriminate','apply'];
+            for(let i=0;i<4;i++) if(p.slice(i*10,i*10+10).some(x=>x.stage!==stages[i])) throw Error(`${f}: stage ${stages[i]}`);
+            const norm=s=>String(s).replace(/\s+/g,' ').trim().toLowerCase();
+            const ps=new Set(p.map(x=>norm(x.question))),ts=new Set(t.map(x=>norm(x.question)));
+            if(ps.size!==40||ts.size!==16) throw Error(`${f}: duplicate stems`);
+            if(t.some(x=>ps.has(norm(x.question)))) throw Error(`${f}: practice/test overlap`);
+            for(const q of a){
+              if(!Array.isArray(q.answers)||q.answers.length!==3||q.answers.filter(x=>x.is_correct).length!==1) throw Error(`${q.id}: answer integrity`);
+              if(q.answers[q.correct_index]?.is_correct!==true) throw Error(`${q.id}: correct_index`);
+              if(!q.explanation?.summary||!q.explanation?.hint) throw Error(`${q.id}: explanation`);
+              if(bad.test(`${q.question} ${q.explanation.summary} ${q.explanation.hint}`)) throw Error(`${q.id}: banned language`);
+            }
+            P+=p.length;T+=t.length;
+          }
+          if(P!==1120||T!==448) throw Error(`totals ${P}/${T}`);
+          console.log(`PASS: 28 codes, ${P} practice, ${T} test, ${P+T} total`);
+          NODE
+      - name: Guard Classroom View
+        run: |
+          if ! git diff --quiet origin/main...HEAD -- 'year4/english/**/teacher-slides/**' 'year4/english/**/classroom-view/**' 'year-4/english/**/teacher-slides/**' 'year-4/english/**/classroom-view/**'; then
+            echo 'Classroom View changed unexpectedly'
+            git diff origin/main...HEAD -- 'year4/english/**/teacher-slides/**' 'year4/english/**/classroom-view/**' 'year-4/english/**/teacher-slides/**' 'year-4/english/**/classroom-view/**'
+            exit 1
+          fi
+      - name: Commit rebuilt production banks
+        run: |
+          git config user.name 'skillr-content-bot'
+          git config user.email 'actions@users.noreply.github.com'
+          git add assets/assessment-banks/year4/english quiz/year-4/english
+          if git diff --cached --quiet; then
+            echo 'No generated changes'
+          else
+            git commit -m 'Rebuild all Year 4 English question banks'
+            git push origin HEAD:content/year4-english-actual-rebuild
+          fi
