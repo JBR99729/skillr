@@ -1,0 +1,32 @@
+name: Rebuild Year 2 Science actual banks
+on:
+  push:
+    branches: [content/year2-science-actual-rebuild]
+permissions:
+  contents: write
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: content/year2-science-actual-rebuild
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Materialise and validate all 10 codes
+        run: node scripts/materialise_year2_science_actual_all.mjs
+      - name: Guard non-assessment Year 2 Science content
+        run: |
+          if git status --porcelain | grep -E 'teacher-slides|worksheet|/index.html|assessment-visuals'; then
+            echo 'Protected non-assessment content changed'; git status --short; exit 1;
+          fi
+      - name: Commit production banks
+        run: |
+          git config user.name JBR99729
+          git config user.email jbhasker9@gmail.com
+          git add quiz/year-2/science/*/practice/questions.js quiz/year-2/science/*/practice/practice-questions.js quiz/year-2/science/*/test/questions.js assets/assessment-banks/year2/science/*.json
+          if git diff --cached --quiet; then echo 'No production changes'; exit 0; fi
+          git commit -m 'Rebuild all Year 2 Science actual question banks'
+          git push origin HEAD:content/year2-science-actual-rebuild
