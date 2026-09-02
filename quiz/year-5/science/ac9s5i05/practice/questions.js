@@ -2,699 +2,762 @@
 window.skillrPracticeQuestions = [
   {
     "id": "ac9s5i05-p-001",
-    "curriculumCode": "AC9S5I05",
-    "bank": "practice",
-    "skill": "evaluate methods and findings",
-    "printable": true,
-    "type": "single",
-    "question": "During a habitat survey, two groups used the same method and got close means. How should this be evaluated?",
-    "audioPrompt": "During a habitat survey, two groups used the same method and got close means. How should this be evaluated?",
-    "visual": "During a habitat survey: evaluate methods and findings, shown as a three-step evidence reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a habitat survey: evaluate methods and findings, shown as a three-step evidence reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-001",
-      "alt_text": "During a habitat survey: evaluate methods and findings, shown as a three-step evidence reasoning pathway."
-    },
+    "skill": "evaluating methods findings and evidence",
+    "question": "Students compare two groups magnet results. What is the best evaluation choice?",
     "answers": [
-      "findings that provide useful agreement within measurement variation",
-      "all evidence should be deleted",
-      "the difference proves dishonesty"
+      "Identify errors, compare results and support conclusions",
+      "Use evidence that matches the claim",
+      "The neatness of the poster",
+      "A guess with no evidence"
     ],
     "correct": 0,
-    "explanation": "The evaluation identifies the likely error or variation without overstating it.\nHint: Compare methods, instruments and repeated data before judging findings.",
-    "structuredExplanation": {
-      "summary": "The evaluation identifies the likely error or variation without overstating it.",
-      "hint": "Compare methods, instruments and repeated data before judging findings."
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Evaluating Methods, Findings and Evidence: Identify errors, compare results and support conclusions."
   },
   {
     "id": "ac9s5i05-p-002",
-    "curriculumCode": "AC9S5I05",
-    "bank": "practice",
-    "skill": "review an outlier",
-    "printable": true,
-    "type": "single",
-    "question": "At the school science table, what should happen before removing an outlier from a results table?",
-    "audioPrompt": "At the school science table, what should happen before removing an outlier from a results table?",
-    "visual": "At the school science table: review an outlier, shown as a three-step evidence reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the school science table: review an outlier, shown as a three-step evidence reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-002\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-002",
-      "alt_text": "At the school science table: review an outlier, shown as a three-step evidence reasoning pathway."
-    },
+    "skill": "evaluating methods findings and evidence",
+    "question": "A class checks whether a conclusion matches data. What is the best evaluation choice?",
     "answers": [
-      "delete it because it is different",
-      "check the method, instrument and original record, then document any decision",
-      "replace it with the group mean"
+      "Use evidence that matches the claim",
+      "The neatness of the poster",
+      "A guess with no evidence",
+      "Identify errors, compare results and support conclusions"
     ],
-    "correct": 1,
-    "explanation": "Outliers require investigation and a transparent decision.\nHint: Unexpected does not automatically mean invalid.",
-    "structuredExplanation": {
-      "summary": "Outliers require investigation and a transparent decision.",
-      "hint": "Unexpected does not automatically mean invalid."
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Evaluating Methods, Findings and Evidence: Identify errors, compare results and support conclusions."
   },
   {
     "id": "ac9s5i05-p-003",
-    "curriculumCode": "AC9S5I05",
-    "bank": "practice",
-    "skill": "evaluate methods and findings",
-    "printable": true,
-    "type": "single",
-    "question": "While examining a creek, a thermometer reads 2 °C high every time. How should this be evaluated?",
-    "audioPrompt": "While examining a creek, a thermometer reads 2 °C high every time. How should this be evaluated?",
-    "visual": "While examining a creek: evaluate methods and findings, shown as a three-step evidence reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While examining a creek: evaluate methods and findings, shown as a three-step evidence reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-003",
-      "alt_text": "While examining a creek: evaluate methods and findings, shown as a three-step evidence reasoning pathway."
-    },
+    "skill": "evaluating methods findings and evidence",
+    "question": "Students find a likely source of measuring error. What is the best evaluation choice?",
     "answers": [
-      "all evidence should be deleted",
-      "the difference proves dishonesty",
-      "a systematic measurement bias not fixed by averaging"
+      "The neatness of the poster",
+      "A guess with no evidence",
+      "Identify errors, compare results and support conclusions",
+      "Use evidence that matches the claim"
     ],
     "correct": 2,
-    "explanation": "The evaluation identifies the likely error or variation without overstating it.\nHint: Compare methods, instruments and repeated data before judging findings.",
-    "structuredExplanation": {
-      "summary": "The evaluation identifies the likely error or variation without overstating it.",
-      "hint": "Compare methods, instruments and repeated data before judging findings."
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Evaluating Methods, Findings and Evidence: Identify errors, compare results and support conclusions."
   },
   {
     "id": "ac9s5i05-p-004",
-    "curriculumCode": "AC9S5I05",
-    "bank": "practice",
-    "skill": "review an outlier",
-    "printable": true,
-    "type": "single",
-    "question": "In a classroom investigation, what should happen before removing an outlier from a results table?",
-    "audioPrompt": "In a classroom investigation, what should happen before removing an outlier from a results table?",
-    "visual": "In a classroom investigation: review an outlier, shown as a three-step evidence reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a classroom investigation: review an outlier, shown as a three-step evidence reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-004\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-004",
-      "alt_text": "In a classroom investigation: review an outlier, shown as a three-step evidence reasoning pathway."
-    },
+    "skill": "evaluating methods findings and evidence",
+    "question": "A group repeats a trial after a spill. What is the best evaluation choice?",
     "answers": [
-      "check the method, instrument and original record, then document any decision",
-      "delete it because it is different",
-      "replace it with the group mean"
+      "A guess with no evidence",
+      "Identify errors, compare results and support conclusions",
+      "Use evidence that matches the claim",
+      "The neatness of the poster"
     ],
-    "correct": 0,
-    "explanation": "Outliers require investigation and a transparent decision.\nHint: Unexpected does not automatically mean invalid.",
-    "structuredExplanation": {
-      "summary": "Outliers require investigation and a transparent decision.",
-      "hint": "Unexpected does not automatically mean invalid."
+    "correct": 1,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Evaluating Methods, Findings and Evidence: Identify errors, compare results and support conclusions."
   },
   {
     "id": "ac9s5i05-p-005",
-    "curriculumCode": "AC9S5I05",
-    "bank": "practice",
-    "skill": "evaluate methods and findings",
-    "printable": true,
-    "type": "single",
-    "question": "During a garden observation, three repeated readings vary slightly. How should this be evaluated?",
-    "audioPrompt": "During a garden observation, three repeated readings vary slightly. How should this be evaluated?",
-    "visual": "During a garden observation: evaluate methods and findings, shown as a three-step evidence reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a garden observation: evaluate methods and findings, shown as a three-step evidence reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-005",
-      "alt_text": "During a garden observation: evaluate methods and findings, shown as a three-step evidence reasoning pathway."
-    },
+    "skill": "evaluating methods findings and evidence",
+    "question": "Students compare claims about a new lunch container. What is the best evaluation choice?",
     "answers": [
-      "all evidence should be deleted",
-      "random variation that should be summarised rather than hidden",
-      "the difference proves dishonesty"
+      "Identify errors, compare results and support conclusions",
+      "Use evidence that matches the claim",
+      "The neatness of the poster",
+      "A guess with no evidence"
     ],
-    "correct": 1,
-    "explanation": "The evaluation identifies the likely error or variation without overstating it.\nHint: Compare methods, instruments and repeated data before judging findings.",
-    "structuredExplanation": {
-      "summary": "The evaluation identifies the likely error or variation without overstating it.",
-      "hint": "Compare methods, instruments and repeated data before judging findings."
+    "correct": 0,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Evaluating Methods, Findings and Evidence: Identify errors, compare results and support conclusions."
   },
   {
     "id": "ac9s5i05-p-006",
-    "curriculumCode": "AC9S5I05",
-    "bank": "practice",
-    "skill": "review an outlier",
-    "printable": true,
-    "type": "single",
-    "question": "At the coastal field station, what should happen before removing an outlier from a results table?",
-    "audioPrompt": "At the coastal field station, what should happen before removing an outlier from a results table?",
-    "visual": "At the coastal field station: review an outlier, shown as a three-step evidence reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the coastal field station: review an outlier, shown as a three-step evidence reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-006",
-      "alt_text": "At the coastal field station: review an outlier, shown as a three-step evidence reasoning pathway."
-    },
+    "skill": "evaluating methods findings and evidence",
+    "question": "A class decides whether results are close enough. What is the best evaluation choice?",
     "answers": [
-      "delete it because it is different",
-      "replace it with the group mean",
-      "check the method, instrument and original record, then document any decision"
+      "Use evidence that matches the claim",
+      "The neatness of the poster",
+      "A guess with no evidence",
+      "Identify errors, compare results and support conclusions"
     ],
-    "correct": 2,
-    "explanation": "Outliers require investigation and a transparent decision.\nHint: Unexpected does not automatically mean invalid.",
-    "structuredExplanation": {
-      "summary": "Outliers require investigation and a transparent decision.",
-      "hint": "Unexpected does not automatically mean invalid."
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Evaluating Methods, Findings and Evidence: Identify errors, compare results and support conclusions."
   },
   {
     "id": "ac9s5i05-p-007",
-    "curriculumCode": "AC9S5I05",
-    "bank": "practice",
-    "skill": "evaluate methods and findings",
-    "printable": true,
-    "type": "single",
-    "question": "While comparing samples, one group placed the lamp 10 cm closer. How should this be evaluated?",
-    "audioPrompt": "While comparing samples, one group placed the lamp 10 cm closer. How should this be evaluated?",
-    "visual": "While comparing samples: evaluate methods and findings, shown as a three-step evidence reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While comparing samples: evaluate methods and findings, shown as a three-step evidence reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-007",
-      "alt_text": "While comparing samples: evaluate methods and findings, shown as a three-step evidence reasoning pathway."
-    },
+    "skill": "evaluating methods findings and evidence",
+    "question": "Students inspect a graph with one unusual point. What is the best evaluation choice?",
     "answers": [
-      "a systematic method difference that can change all its readings",
-      "all evidence should be deleted",
-      "the difference proves dishonesty"
+      "The neatness of the poster",
+      "A guess with no evidence",
+      "Identify errors, compare results and support conclusions",
+      "Use evidence that matches the claim"
     ],
-    "correct": 0,
-    "explanation": "The evaluation identifies the likely error or variation without overstating it.\nHint: Compare methods, instruments and repeated data before judging findings.",
-    "structuredExplanation": {
-      "summary": "The evaluation identifies the likely error or variation without overstating it.",
-      "hint": "Compare methods, instruments and repeated data before judging findings."
+    "correct": 2,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Evaluating Methods, Findings and Evidence: Identify errors, compare results and support conclusions."
   },
   {
     "id": "ac9s5i05-p-008",
-    "curriculumCode": "AC9S5I05",
-    "bank": "practice",
-    "skill": "review an outlier",
-    "printable": true,
-    "type": "single",
-    "question": "In the school laboratory, what should happen before removing an outlier from a results table?",
-    "audioPrompt": "In the school laboratory, what should happen before removing an outlier from a results table?",
-    "visual": "In the school laboratory: review an outlier, shown as a three-step evidence reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the school laboratory: review an outlier, shown as a three-step evidence reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-008\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-008",
-      "alt_text": "In the school laboratory: review an outlier, shown as a three-step evidence reasoning pathway."
-    },
+    "skill": "evaluating methods findings and evidence",
+    "question": "A group compares their method with another group. What is the best evaluation choice?",
     "answers": [
-      "delete it because it is different",
-      "check the method, instrument and original record, then document any decision",
-      "replace it with the group mean"
+      "A guess with no evidence",
+      "Identify errors, compare results and support conclusions",
+      "Use evidence that matches the claim",
+      "The neatness of the poster"
     ],
     "correct": 1,
-    "explanation": "Outliers require investigation and a transparent decision.\nHint: Unexpected does not automatically mean invalid.",
-    "structuredExplanation": {
-      "summary": "Outliers require investigation and a transparent decision.",
-      "hint": "Unexpected does not automatically mean invalid."
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Evaluating Methods, Findings and Evidence: Identify errors, compare results and support conclusions."
   },
   {
     "id": "ac9s5i05-p-009",
-    "curriculumCode": "AC9S5I05",
-    "bank": "practice",
-    "skill": "evaluate methods and findings",
-    "printable": true,
-    "type": "single",
-    "question": "During a weather study, one group used only a single trial. How should this be evaluated?",
-    "audioPrompt": "During a weather study, one group used only a single trial. How should this be evaluated?",
-    "visual": "During a weather study: evaluate methods and findings, shown as a three-step evidence reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a weather study: evaluate methods and findings, shown as a three-step evidence reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-009",
-      "alt_text": "During a weather study: evaluate methods and findings, shown as a three-step evidence reasoning pathway."
-    },
+    "skill": "evaluating methods findings and evidence",
+    "question": "Students decide what evidence is missing. What is the best evaluation choice?",
     "answers": [
-      "all evidence should be deleted",
-      "the difference proves dishonesty",
-      "weak reliability because natural variation was not sampled"
+      "Identify errors, compare results and support conclusions",
+      "Use evidence that matches the claim",
+      "The neatness of the poster",
+      "A guess with no evidence"
     ],
-    "correct": 2,
-    "explanation": "The evaluation identifies the likely error or variation without overstating it.\nHint: Compare methods, instruments and repeated data before judging findings.",
-    "structuredExplanation": {
-      "summary": "The evaluation identifies the likely error or variation without overstating it.",
-      "hint": "Compare methods, instruments and repeated data before judging findings."
+    "correct": 0,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Evaluating Methods, Findings and Evidence: Identify errors, compare results and support conclusions."
   },
   {
     "id": "ac9s5i05-p-010",
-    "curriculumCode": "AC9S5I05",
-    "bank": "practice",
-    "skill": "review an outlier",
-    "printable": true,
-    "type": "single",
-    "question": "At the wildlife centre, what should happen before removing an outlier from a results table?",
-    "audioPrompt": "At the wildlife centre, what should happen before removing an outlier from a results table?",
-    "visual": "At the wildlife centre: review an outlier, shown as a three-step evidence reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the wildlife centre: review an outlier, shown as a three-step evidence reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-010",
-      "alt_text": "At the wildlife centre: review an outlier, shown as a three-step evidence reasoning pathway."
-    },
+    "skill": "evaluating methods findings and evidence",
+    "question": "A class writes a conclusion from three trials. What is the best evaluation choice?",
     "answers": [
-      "check the method, instrument and original record, then document any decision",
-      "delete it because it is different",
-      "replace it with the group mean"
+      "Use evidence that matches the claim",
+      "The neatness of the poster",
+      "A guess with no evidence",
+      "Identify errors, compare results and support conclusions"
     ],
-    "correct": 0,
-    "explanation": "Outliers require investigation and a transparent decision.\nHint: Unexpected does not automatically mean invalid.",
-    "structuredExplanation": {
-      "summary": "Outliers require investigation and a transparent decision.",
-      "hint": "Unexpected does not automatically mean invalid."
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Evaluating Methods, Findings and Evidence: Identify errors, compare results and support conclusions."
   },
   {
     "id": "ac9s5i05-p-011",
-    "curriculumCode": "AC9S5I05",
-    "bank": "practice",
-    "skill": "evaluate methods and findings",
-    "printable": true,
-    "type": "single",
-    "question": "While reviewing a data table, one value was copied into the wrong column. How should this be evaluated?",
-    "audioPrompt": "While reviewing a data table, one value was copied into the wrong column. How should this be evaluated?",
-    "visual": "While reviewing a data table: evaluate methods and findings, shown as a three-step evidence reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While reviewing a data table: evaluate methods and findings, shown as a three-step evidence reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-011",
-      "alt_text": "While reviewing a data table: evaluate methods and findings, shown as a three-step evidence reasoning pathway."
-    },
+    "skill": "evaluating methods findings and evidence",
+    "question": "Students prepare a poster for younger students. Why does this step matter?",
     "answers": [
-      "all evidence should be deleted",
-      "a recording error to verify against the source",
-      "the difference proves dishonesty"
+      "It removes the need to measure",
+      "It proves the first idea must be right",
+      "It helps the group collect evidence that answers the question",
+      "It lets the group choose the result later"
     ],
-    "correct": 1,
-    "explanation": "The evaluation identifies the likely error or variation without overstating it.\nHint: Compare methods, instruments and repeated data before judging findings.",
-    "structuredExplanation": {
-      "summary": "The evaluation identifies the likely error or variation without overstating it.",
-      "hint": "Compare methods, instruments and repeated data before judging findings."
+    "correct": 2,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Evaluating Methods, Findings and Evidence: It helps the group collect evidence that answers the question."
   },
   {
     "id": "ac9s5i05-p-012",
-    "curriculumCode": "AC9S5I05",
-    "bank": "practice",
-    "skill": "review an outlier",
-    "printable": true,
-    "type": "single",
-    "question": "In a materials investigation, what should happen before removing an outlier from a results table?",
-    "audioPrompt": "In a materials investigation, what should happen before removing an outlier from a results table?",
-    "visual": "In a materials investigation: review an outlier, shown as a three-step evidence reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a materials investigation: review an outlier, shown as a three-step evidence reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-012\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-012",
-      "alt_text": "In a materials investigation: review an outlier, shown as a three-step evidence reasoning pathway."
-    },
+    "skill": "evaluating methods findings and evidence",
+    "question": "A group writes a report about erosion. Why does this step matter?",
     "answers": [
-      "delete it because it is different",
-      "replace it with the group mean",
-      "check the method, instrument and original record, then document any decision"
+      "It proves the first idea must be right",
+      "It helps the group collect evidence that answers the question",
+      "It lets the group choose the result later",
+      "It removes the need to measure"
     ],
-    "correct": 2,
-    "explanation": "Outliers require investigation and a transparent decision.\nHint: Unexpected does not automatically mean invalid.",
-    "structuredExplanation": {
-      "summary": "Outliers require investigation and a transparent decision.",
-      "hint": "Unexpected does not automatically mean invalid."
+    "correct": 1,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Evaluating Methods, Findings and Evidence: It helps the group collect evidence that answers the question."
   },
   {
     "id": "ac9s5i05-p-013",
-    "curriculumCode": "AC9S5I05",
-    "bank": "practice",
-    "skill": "evaluate methods and findings",
-    "printable": true,
-    "type": "single",
-    "question": "During an outdoor observation, three repeated readings vary slightly. How should this be evaluated?",
-    "audioPrompt": "During an outdoor observation, three repeated readings vary slightly. How should this be evaluated?",
-    "visual": "During an outdoor observation: evaluate methods and findings, shown as a three-step evidence reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During an outdoor observation: evaluate methods and findings, shown as a three-step evidence reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-013",
-      "alt_text": "During an outdoor observation: evaluate methods and findings, shown as a three-step evidence reasoning pathway."
-    },
+    "skill": "evaluating methods findings and evidence",
+    "question": "Students make a short video about light reflection. Why does this step matter?",
     "answers": [
-      "random variation that should be summarised rather than hidden",
-      "all evidence should be deleted",
-      "the difference proves dishonesty"
+      "It helps the group collect evidence that answers the question",
+      "It lets the group choose the result later",
+      "It removes the need to measure",
+      "It proves the first idea must be right"
     ],
     "correct": 0,
-    "explanation": "The evaluation identifies the likely error or variation without overstating it.\nHint: Compare methods, instruments and repeated data before judging findings.",
-    "structuredExplanation": {
-      "summary": "The evaluation identifies the likely error or variation without overstating it.",
-      "hint": "Compare methods, instruments and repeated data before judging findings."
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Evaluating Methods, Findings and Evidence: It helps the group collect evidence that answers the question."
   },
   {
     "id": "ac9s5i05-p-014",
-    "curriculumCode": "AC9S5I05",
-    "bank": "practice",
-    "skill": "review an outlier",
-    "printable": true,
-    "type": "single",
-    "question": "At the community science fair, what should happen before removing an outlier from a results table?",
-    "audioPrompt": "At the community science fair, what should happen before removing an outlier from a results table?",
-    "visual": "At the community science fair: review an outlier, shown as a three-step evidence reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the community science fair: review an outlier, shown as a three-step evidence reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-014\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-014",
-      "alt_text": "At the community science fair: review an outlier, shown as a three-step evidence reasoning pathway."
-    },
+    "skill": "evaluating methods findings and evidence",
+    "question": "A class labels a graph for families visiting school. Why does this step matter?",
     "answers": [
-      "delete it because it is different",
-      "check the method, instrument and original record, then document any decision",
-      "replace it with the group mean"
+      "It lets the group choose the result later",
+      "It removes the need to measure",
+      "It proves the first idea must be right",
+      "It helps the group collect evidence that answers the question"
     ],
-    "correct": 1,
-    "explanation": "Outliers require investigation and a transparent decision.\nHint: Unexpected does not automatically mean invalid.",
-    "structuredExplanation": {
-      "summary": "Outliers require investigation and a transparent decision.",
-      "hint": "Unexpected does not automatically mean invalid."
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Evaluating Methods, Findings and Evidence: It helps the group collect evidence that answers the question."
   },
   {
     "id": "ac9s5i05-p-015",
-    "curriculumCode": "AC9S5I05",
-    "bank": "practice",
-    "skill": "evaluate methods and findings",
-    "printable": true,
-    "type": "single",
-    "question": "While planning a fair test, two groups used the same method and got close means. How should this be evaluated?",
-    "audioPrompt": "While planning a fair test, two groups used the same method and got close means. How should this be evaluated?",
-    "visual": "While planning a fair test: evaluate methods and findings, shown as a three-step evidence reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While planning a fair test: evaluate methods and findings, shown as a three-step evidence reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-015",
-      "alt_text": "While planning a fair test: evaluate methods and findings, shown as a three-step evidence reasoning pathway."
-    },
+    "skill": "evaluating methods findings and evidence",
+    "question": "Students choose vocabulary for a compost investigation. Why does this step matter?",
     "answers": [
-      "all evidence should be deleted",
-      "the difference proves dishonesty",
-      "findings that provide useful agreement within measurement variation"
+      "It removes the need to measure",
+      "It proves the first idea must be right",
+      "It helps the group collect evidence that answers the question",
+      "It lets the group choose the result later"
     ],
     "correct": 2,
-    "explanation": "The evaluation identifies the likely error or variation without overstating it.\nHint: Compare methods, instruments and repeated data before judging findings.",
-    "structuredExplanation": {
-      "summary": "The evaluation identifies the likely error or variation without overstating it.",
-      "hint": "Compare methods, instruments and repeated data before judging findings."
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Evaluating Methods, Findings and Evidence: It helps the group collect evidence that answers the question."
   },
   {
     "id": "ac9s5i05-p-016",
-    "curriculumCode": "AC9S5I05",
-    "bank": "practice",
-    "skill": "review an outlier",
-    "printable": true,
-    "type": "single",
-    "question": "In a digital science journal, what should happen before removing an outlier from a results table?",
-    "audioPrompt": "In a digital science journal, what should happen before removing an outlier from a results table?",
-    "visual": "In a digital science journal: review an outlier, shown as a three-step evidence reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a digital science journal: review an outlier, shown as a three-step evidence reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-016",
-      "alt_text": "In a digital science journal: review an outlier, shown as a three-step evidence reasoning pathway."
-    },
+    "skill": "evaluating methods findings and evidence",
+    "question": "A group explains safety steps in a method. Why does this step matter?",
     "answers": [
-      "check the method, instrument and original record, then document any decision",
-      "delete it because it is different",
-      "replace it with the group mean"
+      "It proves the first idea must be right",
+      "It helps the group collect evidence that answers the question",
+      "It lets the group choose the result later",
+      "It removes the need to measure"
     ],
-    "correct": 0,
-    "explanation": "Outliers require investigation and a transparent decision.\nHint: Unexpected does not automatically mean invalid.",
-    "structuredExplanation": {
-      "summary": "Outliers require investigation and a transparent decision.",
-      "hint": "Unexpected does not automatically mean invalid."
+    "correct": 1,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Evaluating Methods, Findings and Evidence: It helps the group collect evidence that answers the question."
   },
   {
     "id": "ac9s5i05-p-017",
-    "curriculumCode": "AC9S5I05",
-    "bank": "practice",
-    "skill": "evaluate methods and findings",
-    "printable": true,
-    "type": "single",
-    "question": "During a light investigation, a thermometer reads 2 °C high every time. How should this be evaluated?",
-    "audioPrompt": "During a light investigation, a thermometer reads 2 °C high every time. How should this be evaluated?",
-    "visual": "During a light investigation: evaluate methods and findings, shown as a three-step evidence reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a light investigation: evaluate methods and findings, shown as a three-step evidence reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-017",
-      "alt_text": "During a light investigation: evaluate methods and findings, shown as a three-step evidence reasoning pathway."
-    },
+    "skill": "evaluating methods findings and evidence",
+    "question": "Students share findings from a shade test. Why does this step matter?",
     "answers": [
-      "all evidence should be deleted",
-      "a systematic measurement bias not fixed by averaging",
-      "the difference proves dishonesty"
+      "It helps the group collect evidence that answers the question",
+      "It lets the group choose the result later",
+      "It removes the need to measure",
+      "It proves the first idea must be right"
     ],
-    "correct": 1,
-    "explanation": "The evaluation identifies the likely error or variation without overstating it.\nHint: Compare methods, instruments and repeated data before judging findings.",
-    "structuredExplanation": {
-      "summary": "The evaluation identifies the likely error or variation without overstating it.",
-      "hint": "Compare methods, instruments and repeated data before judging findings."
+    "correct": 0,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Evaluating Methods, Findings and Evidence: It helps the group collect evidence that answers the question."
   },
   {
     "id": "ac9s5i05-p-018",
-    "curriculumCode": "AC9S5I05",
-    "bank": "practice",
-    "skill": "review an outlier",
-    "printable": true,
-    "type": "single",
-    "question": "At the local wetland, what should happen before removing an outlier from a results table?",
-    "audioPrompt": "At the local wetland, what should happen before removing an outlier from a results table?",
-    "visual": "At the local wetland: review an outlier, shown as a three-step evidence reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the local wetland: review an outlier, shown as a three-step evidence reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-018\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-018",
-      "alt_text": "At the local wetland: review an outlier, shown as a three-step evidence reasoning pathway."
-    },
+    "skill": "evaluating methods findings and evidence",
+    "question": "A class prepares a slide about animal adaptations. Why does this step matter?",
     "answers": [
-      "delete it because it is different",
-      "replace it with the group mean",
-      "check the method, instrument and original record, then document any decision"
+      "It lets the group choose the result later",
+      "It removes the need to measure",
+      "It proves the first idea must be right",
+      "It helps the group collect evidence that answers the question"
     ],
-    "correct": 2,
-    "explanation": "Outliers require investigation and a transparent decision.\nHint: Unexpected does not automatically mean invalid.",
-    "structuredExplanation": {
-      "summary": "Outliers require investigation and a transparent decision.",
-      "hint": "Unexpected does not automatically mean invalid."
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Evaluating Methods, Findings and Evidence: It helps the group collect evidence that answers the question."
   },
   {
     "id": "ac9s5i05-p-019",
-    "curriculumCode": "AC9S5I05",
-    "bank": "practice",
-    "skill": "evaluate methods and findings",
-    "printable": true,
-    "type": "single",
-    "question": "While checking another group's method, one value was copied into the wrong column. How should this be evaluated?",
-    "audioPrompt": "While checking another group's method, one value was copied into the wrong column. How should this be evaluated?",
-    "visual": "While checking another group's method: evaluate methods and findings, shown as a three-step evidence reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While checking another group's method: evaluate methods and findings, shown as a three-step evidence reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-019",
-      "alt_text": "While checking another group's method: evaluate methods and findings, shown as a three-step evidence reasoning pathway."
-    },
+    "skill": "evaluating methods findings and evidence",
+    "question": "Students write captions for photos of weathering. Why does this step matter?",
     "answers": [
-      "a recording error to verify against the source",
-      "all evidence should be deleted",
-      "the difference proves dishonesty"
+      "It removes the need to measure",
+      "It proves the first idea must be right",
+      "It helps the group collect evidence that answers the question",
+      "It lets the group choose the result later"
     ],
-    "correct": 0,
-    "explanation": "The evaluation identifies the likely error or variation without overstating it.\nHint: Compare methods, instruments and repeated data before judging findings.",
-    "structuredExplanation": {
-      "summary": "The evaluation identifies the likely error or variation without overstating it.",
-      "hint": "Compare methods, instruments and repeated data before judging findings."
+    "correct": 2,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Evaluating Methods, Findings and Evidence: It helps the group collect evidence that answers the question."
   },
   {
     "id": "ac9s5i05-p-020",
-    "curriculumCode": "AC9S5I05",
-    "bank": "practice",
-    "skill": "review an outlier",
-    "printable": true,
-    "type": "single",
-    "question": "In a model-building lesson, what should happen before removing an outlier from a results table?",
-    "audioPrompt": "In a model-building lesson, what should happen before removing an outlier from a results table?",
-    "visual": "In a model-building lesson: review an outlier, shown as a three-step evidence reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a model-building lesson: review an outlier, shown as a three-step evidence reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-020\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-020",
-      "alt_text": "In a model-building lesson: review an outlier, shown as a three-step evidence reasoning pathway."
-    },
+    "skill": "evaluating methods findings and evidence",
+    "question": "A group records a voice explanation for results. Why does this step matter?",
     "answers": [
-      "delete it because it is different",
-      "check the method, instrument and original record, then document any decision",
-      "replace it with the group mean"
+      "It proves the first idea must be right",
+      "It helps the group collect evidence that answers the question",
+      "It lets the group choose the result later",
+      "It removes the need to measure"
     ],
     "correct": 1,
-    "explanation": "Outliers require investigation and a transparent decision.\nHint: Unexpected does not automatically mean invalid.",
-    "structuredExplanation": {
-      "summary": "Outliers require investigation and a transparent decision.",
-      "hint": "Unexpected does not automatically mean invalid."
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Evaluating Methods, Findings and Evidence: It helps the group collect evidence that answers the question."
   },
   {
     "id": "ac9s5i05-p-021",
-    "curriculumCode": "AC9S5I05",
-    "bank": "practice",
-    "skill": "evaluate methods and findings",
-    "printable": true,
-    "type": "single",
-    "question": "During a temperature investigation, one group placed the lamp 10 cm closer. How should this be evaluated?",
-    "audioPrompt": "During a temperature investigation, one group placed the lamp 10 cm closer. How should this be evaluated?",
-    "visual": "During a temperature investigation: evaluate methods and findings, shown as a three-step evidence reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a temperature investigation: evaluate methods and findings, shown as a three-step evidence reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-021\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-021",
-      "alt_text": "During a temperature investigation: evaluate methods and findings, shown as a three-step evidence reasoning pathway."
-    },
+    "skill": "evaluating methods findings and evidence",
+    "question": "Students create a table for a newsletter. Which option would weaken the evidence?",
     "answers": [
-      "all evidence should be deleted",
-      "the difference proves dishonesty",
-      "a systematic method difference that can change all its readings"
+      "Changing another factor at the same time",
+      "Repeating the measurement",
+      "Recording units clearly",
+      "Using the same equipment carefully"
     ],
-    "correct": 2,
-    "explanation": "The evaluation identifies the likely error or variation without overstating it.\nHint: Compare methods, instruments and repeated data before judging findings.",
-    "structuredExplanation": {
-      "summary": "The evaluation identifies the likely error or variation without overstating it.",
-      "hint": "Compare methods, instruments and repeated data before judging findings."
+    "correct": 0,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Evaluating Methods, Findings and Evidence: Changing another factor at the same time."
   },
   {
     "id": "ac9s5i05-p-022",
-    "curriculumCode": "AC9S5I05",
-    "bank": "practice",
-    "skill": "review an outlier",
-    "printable": true,
-    "type": "single",
-    "question": "At the environmental centre, what should happen before removing an outlier from a results table?",
-    "audioPrompt": "At the environmental centre, what should happen before removing an outlier from a results table?",
-    "visual": "At the environmental centre: review an outlier, shown as a three-step evidence reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the environmental centre: review an outlier, shown as a three-step evidence reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-022\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-022",
-      "alt_text": "At the environmental centre: review an outlier, shown as a three-step evidence reasoning pathway."
-    },
+    "skill": "evaluating methods findings and evidence",
+    "question": "A class presents evidence about insulation. Which option would weaken the evidence?",
     "answers": [
-      "check the method, instrument and original record, then document any decision",
-      "delete it because it is different",
-      "replace it with the group mean"
+      "Repeating the measurement",
+      "Recording units clearly",
+      "Using the same equipment carefully",
+      "Changing another factor at the same time"
     ],
-    "correct": 0,
-    "explanation": "Outliers require investigation and a transparent decision.\nHint: Unexpected does not automatically mean invalid.",
-    "structuredExplanation": {
-      "summary": "Outliers require investigation and a transparent decision.",
-      "hint": "Unexpected does not automatically mean invalid."
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Evaluating Methods, Findings and Evidence: Changing another factor at the same time."
   },
   {
     "id": "ac9s5i05-p-023",
-    "curriculumCode": "AC9S5I05",
-    "bank": "practice",
-    "skill": "evaluate methods and findings",
-    "printable": true,
-    "type": "single",
-    "question": "While preparing a science report, one group used only a single trial. How should this be evaluated?",
-    "audioPrompt": "While preparing a science report, one group used only a single trial. How should this be evaluated?",
-    "visual": "While preparing a science report: evaluate methods and findings, shown as a three-step evidence reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While preparing a science report: evaluate methods and findings, shown as a three-step evidence reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-023\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-023",
-      "alt_text": "While preparing a science report: evaluate methods and findings, shown as a three-step evidence reasoning pathway."
-    },
+    "skill": "evaluating methods findings and evidence",
+    "question": "Students explain uncertainty in a graph. Which option would weaken the evidence?",
     "answers": [
-      "all evidence should be deleted",
-      "weak reliability because natural variation was not sampled",
-      "the difference proves dishonesty"
+      "Recording units clearly",
+      "Using the same equipment carefully",
+      "Changing another factor at the same time",
+      "Repeating the measurement"
     ],
-    "correct": 1,
-    "explanation": "The evaluation identifies the likely error or variation without overstating it.\nHint: Compare methods, instruments and repeated data before judging findings.",
-    "structuredExplanation": {
-      "summary": "The evaluation identifies the likely error or variation without overstating it.",
-      "hint": "Compare methods, instruments and repeated data before judging findings."
+    "correct": 2,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Evaluating Methods, Findings and Evidence: Changing another factor at the same time."
   },
   {
     "id": "ac9s5i05-p-024",
-    "curriculumCode": "AC9S5I05",
-    "bank": "practice",
-    "skill": "review an outlier",
-    "printable": true,
-    "type": "single",
-    "question": "In a research discussion, what should happen before removing an outlier from a results table?",
-    "audioPrompt": "In a research discussion, what should happen before removing an outlier from a results table?",
-    "visual": "In a research discussion: review an outlier, shown as a three-step evidence reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a research discussion: review an outlier, shown as a three-step evidence reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-024\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i05.svg#ac9s5i05-p-024",
-      "alt_text": "In a research discussion: review an outlier, shown as a three-step evidence reasoning pathway."
-    },
+    "skill": "evaluating methods findings and evidence",
+    "question": "A group writes a claim about soil filters. Which option would weaken the evidence?",
     "answers": [
-      "delete it because it is different",
-      "replace it with the group mean",
-      "check the method, instrument and original record, then document any decision"
+      "Using the same equipment carefully",
+      "Changing another factor at the same time",
+      "Repeating the measurement",
+      "Recording units clearly"
+    ],
+    "correct": 1,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Evaluating Methods, Findings and Evidence: Changing another factor at the same time."
+  },
+  {
+    "id": "ac9s5i05-p-025",
+    "skill": "evaluating methods findings and evidence",
+    "question": "Students compare text for experts and Year 1 students. Which option would weaken the evidence?",
+    "answers": [
+      "Changing another factor at the same time",
+      "Repeating the measurement",
+      "Recording units clearly",
+      "Using the same equipment carefully"
+    ],
+    "correct": 0,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Evaluating Methods, Findings and Evidence: Changing another factor at the same time."
+  },
+  {
+    "id": "ac9s5i05-p-026",
+    "skill": "evaluating methods findings and evidence",
+    "question": "A class creates a digital display about evaporation. Which option would weaken the evidence?",
+    "answers": [
+      "Repeating the measurement",
+      "Recording units clearly",
+      "Using the same equipment carefully",
+      "Changing another factor at the same time"
+    ],
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Evaluating Methods, Findings and Evidence: Changing another factor at the same time."
+  },
+  {
+    "id": "ac9s5i05-p-027",
+    "skill": "evaluating methods findings and evidence",
+    "question": "A group plans to test paper towel absorbency. Which option would weaken the evidence?",
+    "answers": [
+      "Recording units clearly",
+      "Using the same equipment carefully",
+      "Changing another factor at the same time",
+      "Repeating the measurement"
     ],
     "correct": 2,
-    "explanation": "Outliers require investigation and a transparent decision.\nHint: Unexpected does not automatically mean invalid.",
-    "structuredExplanation": {
-      "summary": "Outliers require investigation and a transparent decision.",
-      "hint": "Unexpected does not automatically mean invalid."
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Evaluating Methods, Findings and Evidence: Changing another factor at the same time."
+  },
+  {
+    "id": "ac9s5i05-p-028",
+    "skill": "evaluating methods findings and evidence",
+    "question": "Students compare cooling cups in the classroom. Which option would weaken the evidence?",
+    "answers": [
+      "Using the same equipment carefully",
+      "Changing another factor at the same time",
+      "Repeating the measurement",
+      "Recording units clearly"
+    ],
+    "correct": 1,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Evaluating Methods, Findings and Evidence: Changing another factor at the same time."
+  },
+  {
+    "id": "ac9s5i05-p-029",
+    "skill": "evaluating methods findings and evidence",
+    "question": "A class investigates seedling growth in pots. Which option would weaken the evidence?",
+    "answers": [
+      "Changing another factor at the same time",
+      "Repeating the measurement",
+      "Recording units clearly",
+      "Using the same equipment carefully"
+    ],
+    "correct": 0,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Evaluating Methods, Findings and Evidence: Changing another factor at the same time."
+  },
+  {
+    "id": "ac9s5i05-p-030",
+    "skill": "evaluating methods findings and evidence",
+    "question": "Two groups test toy car ramps. Which option would weaken the evidence?",
+    "answers": [
+      "Repeating the measurement",
+      "Recording units clearly",
+      "Using the same equipment carefully",
+      "Changing another factor at the same time"
+    ],
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Evaluating Methods, Findings and Evidence: Changing another factor at the same time."
+  },
+  {
+    "id": "ac9s5i05-p-031",
+    "skill": "evaluating methods findings and evidence",
+    "question": "Students use magnets with paper clips. What should the group do next?",
+    "answers": [
+      "Ignore results that are inconvenient",
+      "Change several parts without recording them",
+      "Use a clear method, record evidence and compare the pattern with the question",
+      "Pick the answer they wanted first"
+    ],
+    "correct": 2,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Evaluating Methods, Findings and Evidence: Use a clear method, record evidence and compare the pattern with the question."
+  },
+  {
+    "id": "ac9s5i05-p-032",
+    "skill": "evaluating methods findings and evidence",
+    "question": "A science team compares soil moisture. What should the group do next?",
+    "answers": [
+      "Change several parts without recording them",
+      "Use a clear method, record evidence and compare the pattern with the question",
+      "Pick the answer they wanted first",
+      "Ignore results that are inconvenient"
+    ],
+    "correct": 1,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Evaluating Methods, Findings and Evidence: Use a clear method, record evidence and compare the pattern with the question."
+  },
+  {
+    "id": "ac9s5i05-p-033",
+    "skill": "evaluating methods findings and evidence",
+    "question": "A group investigates how fast ice melts. What should the group do next?",
+    "answers": [
+      "Use a clear method, record evidence and compare the pattern with the question",
+      "Pick the answer they wanted first",
+      "Ignore results that are inconvenient",
+      "Change several parts without recording them"
+    ],
+    "correct": 0,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Evaluating Methods, Findings and Evidence: Use a clear method, record evidence and compare the pattern with the question."
+  },
+  {
+    "id": "ac9s5i05-p-034",
+    "skill": "evaluating methods findings and evidence",
+    "question": "Students test which fabric dries fastest. What should the group do next?",
+    "answers": [
+      "Pick the answer they wanted first",
+      "Ignore results that are inconvenient",
+      "Change several parts without recording them",
+      "Use a clear method, record evidence and compare the pattern with the question"
+    ],
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Evaluating Methods, Findings and Evidence: Use a clear method, record evidence and compare the pattern with the question."
+  },
+  {
+    "id": "ac9s5i05-p-035",
+    "skill": "evaluating methods findings and evidence",
+    "question": "A class compares shade cloths over thermometers. What should the group do next?",
+    "answers": [
+      "Ignore results that are inconvenient",
+      "Change several parts without recording them",
+      "Use a clear method, record evidence and compare the pattern with the question",
+      "Pick the answer they wanted first"
+    ],
+    "correct": 2,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Evaluating Methods, Findings and Evidence: Use a clear method, record evidence and compare the pattern with the question."
+  },
+  {
+    "id": "ac9s5i05-p-036",
+    "skill": "evaluating methods findings and evidence",
+    "question": "A group checks sound through different materials. What should the group do next?",
+    "answers": [
+      "Change several parts without recording them",
+      "Use a clear method, record evidence and compare the pattern with the question",
+      "Pick the answer they wanted first",
+      "Ignore results that are inconvenient"
+    ],
+    "correct": 1,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Evaluating Methods, Findings and Evidence: Use a clear method, record evidence and compare the pattern with the question."
+  },
+  {
+    "id": "ac9s5i05-p-037",
+    "skill": "evaluating methods findings and evidence",
+    "question": "Students repeat a dissolving test. What should the group do next?",
+    "answers": [
+      "Use a clear method, record evidence and compare the pattern with the question",
+      "Pick the answer they wanted first",
+      "Ignore results that are inconvenient",
+      "Change several parts without recording them"
+    ],
+    "correct": 0,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Evaluating Methods, Findings and Evidence: Use a clear method, record evidence and compare the pattern with the question."
+  },
+  {
+    "id": "ac9s5i05-p-038",
+    "skill": "evaluating methods findings and evidence",
+    "question": "A class chooses equipment for measuring mass. What should the group do next?",
+    "answers": [
+      "Pick the answer they wanted first",
+      "Ignore results that are inconvenient",
+      "Change several parts without recording them",
+      "Use a clear method, record evidence and compare the pattern with the question"
+    ],
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Evaluating Methods, Findings and Evidence: Use a clear method, record evidence and compare the pattern with the question."
+  },
+  {
+    "id": "ac9s5i05-p-039",
+    "skill": "evaluating methods findings and evidence",
+    "question": "Students record the length of earthworm movement. What should the group do next?",
+    "answers": [
+      "Ignore results that are inconvenient",
+      "Change several parts without recording them",
+      "Use a clear method, record evidence and compare the pattern with the question",
+      "Pick the answer they wanted first"
+    ],
+    "correct": 2,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Evaluating Methods, Findings and Evidence: Use a clear method, record evidence and compare the pattern with the question."
+  },
+  {
+    "id": "ac9s5i05-p-040",
+    "skill": "evaluating methods findings and evidence",
+    "question": "A group measures rainfall in a school gauge. What should the group do next?",
+    "answers": [
+      "Change several parts without recording them",
+      "Use a clear method, record evidence and compare the pattern with the question",
+      "Pick the answer they wanted first",
+      "Ignore results that are inconvenient"
+    ],
+    "correct": 1,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Evaluating Methods, Findings and Evidence: Use a clear method, record evidence and compare the pattern with the question."
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
