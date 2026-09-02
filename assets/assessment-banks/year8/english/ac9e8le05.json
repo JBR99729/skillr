@@ -7,34 +7,34 @@
     "bank": "practice",
     "stage": "recognise",
     "skill": "how language features such as sentence patterns create tone, and literary devices such as imagery…",
-    "question": "In a school podcast script, which option most clearly shows how language features such as sentence patterns create tone, and literary devices such as imagery…?",
-    "audio_prompt": "In a school podcast script, which option most clearly shows how language features such as sentence patterns create tone, and literary devices such as imagery…?",
+    "question": "In a school podcast script, which option is the clearest example of how language features such as sentence patterns create tone, and literary devices such as imagery…?",
+    "audio_prompt": "In a school podcast script, which option is the clearest example of how language features such as sentence patterns create tone, and literary devices such as imagery…?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation.",
+        "text": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
         "is_correct": false
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
         "is_correct": false
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Tone is influenced when an author uses active or passive voice. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text."
+      "summary": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence."
     },
     "difficulty": 1,
     "difficulty_tier": "recognise",
@@ -49,34 +49,34 @@
     "bank": "practice",
     "stage": "recognise",
     "skill": "how language features such as sentence patterns create tone, and literary devices such as imagery…",
-    "question": "While reading a community-news article, which choice is the clearest example of how language features such as sentence patterns create tone, and literary devices such as imagery…?",
-    "audio_prompt": "While reading a community-news article, which choice is the clearest example of how language features such as sentence patterns create tone, and literary devices such as imagery…?",
+    "question": "Which choice in a community-news article most clearly demonstrates how language features such as sentence patterns create tone, and literary devices such as imagery…?",
+    "audio_prompt": "Which choice in a community-news article most clearly demonstrates how language features such as sentence patterns create tone, and literary devices such as imagery…?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": false
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
         "is_correct": true
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "Naming the feature is enough; evidence from the text is unnecessary.",
         "is_correct": false
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "The most formal or complicated wording is automatically the best choice.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning and influence."
+      "summary": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language."
     },
     "difficulty": 1,
     "difficulty_tier": "recognise",
@@ -91,34 +91,34 @@
     "bank": "practice",
     "stage": "recognise",
     "skill": "how language features such as sentence patterns create tone, and literary devices such as imagery…",
-    "question": "Which option would you identify as an example of how language features such as sentence patterns create tone, and literary devices such as imagery… in a library book-club discussion?",
-    "audio_prompt": "Which option would you identify as an example of how language features such as sentence patterns create tone, and literary devices such as imagery… in a library book-club discussion?",
+    "question": "While reading a library book-club discussion, which option would you identify as how language features such as sentence patterns create tone, and literary devices such as imagery…?",
+    "audio_prompt": "While reading a library book-club discussion, which option would you identify as how language features such as sentence patterns create tone, and literary devices such as imagery…?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": false
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "The most formal or complicated wording is automatically the best choice.",
         "is_correct": false
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
         "is_correct": true
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "One isolated word proves the whole interpretation without needing context.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an."
+      "summary": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to."
     },
     "difficulty": 1,
     "difficulty_tier": "recognise",
@@ -133,34 +133,34 @@
     "bank": "practice",
     "stage": "recognise",
     "skill": "how language features such as sentence patterns create tone, and literary devices such as imagery…",
-    "question": "A student council speech is being edited. Which choice best matches how language features such as sentence patterns create tone, and literary devices such as imagery…?",
-    "audio_prompt": "A student council speech is being edited. Which choice best matches how language features such as sentence patterns create tone, and literary devices such as imagery…?",
+    "question": "Which feature choice best matches how language features such as sentence patterns create tone, and literary devices such as imagery… in a student council speech?",
+    "audio_prompt": "Which feature choice best matches how language features such as sentence patterns create tone, and literary devices such as imagery… in a student council speech?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation.",
+        "text": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
         "is_correct": false
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
         "is_correct": false
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "One isolated word proves the whole interpretation without needing context.",
         "is_correct": false
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Tone is influenced when an author uses active or passive voice. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text."
+      "summary": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence."
     },
     "difficulty": 1,
     "difficulty_tier": "recognise",
@@ -175,34 +175,34 @@
     "bank": "practice",
     "stage": "recognise",
     "skill": "how language features such as sentence patterns create tone, and literary devices such as imagery…",
-    "question": "Which feature in a science-expo explanation best fits the idea of how language features such as sentence patterns create tone, and literary devices such as imagery…?",
-    "audio_prompt": "Which feature in a science-expo explanation best fits the idea of how language features such as sentence patterns create tone, and literary devices such as imagery…?",
+    "question": "For a science-expo explanation, which option gives the strongest evidence of how language features such as sentence patterns create tone, and literary devices such as imagery…?",
+    "audio_prompt": "For a science-expo explanation, which option gives the strongest evidence of how language features such as sentence patterns create tone, and literary devices such as imagery…?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
         "is_correct": true
       },
       {
-        "text": "Effect means whether the student personally likes the text.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": false
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "The feature changes only surface style and cannot shape meaning.",
         "is_correct": false
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "Any interpretation is equally strong even when it lacks supporting evidence.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning and influence."
+      "summary": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language."
     },
     "difficulty": 1,
     "difficulty_tier": "recognise",
@@ -217,34 +217,34 @@
     "bank": "practice",
     "stage": "recognise",
     "skill": "how language features such as sentence patterns create tone, and literary devices such as imagery…",
-    "question": "Look at the four choices for a museum caption. Which one demonstrates how language features such as sentence patterns create tone, and literary devices such as imagery… most accurately?",
-    "audio_prompt": "Look at the four choices for a museum caption. Which one demonstrates how language features such as sentence patterns create tone, and literary devices such as imagery… most accurately?",
+    "question": "Which choice best represents how language features such as sentence patterns create tone, and literary devices such as imagery… in a museum caption?",
+    "audio_prompt": "Which choice best represents how language features such as sentence patterns create tone, and literary devices such as imagery… in a museum caption?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": false
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
         "is_correct": true
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "Any interpretation is equally strong even when it lacks supporting evidence.",
         "is_correct": false
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "Using more of the feature will always improve a text.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an."
+      "summary": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to."
     },
     "difficulty": 1,
     "difficulty_tier": "recognise",
@@ -259,34 +259,34 @@
     "bank": "practice",
     "stage": "recognise",
     "skill": "how language features such as sentence patterns create tone, and literary devices such as imagery…",
-    "question": "Which choice belongs in a local-sport profile if the writer wants to show how language features such as sentence patterns create tone, and literary devices such as imagery…?",
-    "audio_prompt": "Which choice belongs in a local-sport profile if the writer wants to show how language features such as sentence patterns create tone, and literary devices such as imagery…?",
+    "question": "A reader is looking for how language features such as sentence patterns create tone, and literary devices such as imagery… in a local-sport profile. Which option should they choose?",
+    "audio_prompt": "A reader is looking for how language features such as sentence patterns create tone, and literary devices such as imagery… in a local-sport profile. Which option should they choose?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation.",
+        "text": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
         "is_correct": false
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
         "is_correct": false
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": true
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "Using more of the feature will always improve a text.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Tone is influenced when an author uses active or passive voice. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text."
+      "summary": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence."
     },
     "difficulty": 1,
     "difficulty_tier": "recognise",
@@ -301,34 +301,34 @@
     "bank": "practice",
     "stage": "recognise",
     "skill": "how language features such as sentence patterns create tone, and literary devices such as imagery…",
-    "question": "A reader notices a deliberate language choice in a school newsletter. Which option best identifies how language features such as sentence patterns create tone, and literary devices such as imagery…?",
-    "audio_prompt": "A reader notices a deliberate language choice in a school newsletter. Which option best identifies how language features such as sentence patterns create tone, and literary devices such as imagery…?",
+    "question": "Which example from a school newsletter most accurately shows how language features such as sentence patterns create tone, and literary devices such as imagery…?",
+    "audio_prompt": "Which example from a school newsletter most accurately shows how language features such as sentence patterns create tone, and literary devices such as imagery…?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": false
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "Audience and purpose do not matter once the feature has been identified.",
         "is_correct": false
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
         "is_correct": false
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning and influence."
+      "summary": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language."
     },
     "difficulty": 1,
     "difficulty_tier": "recognise",
@@ -343,34 +343,34 @@
     "bank": "practice",
     "stage": "recognise",
     "skill": "how language features such as sentence patterns create tone, and literary devices such as imagery…",
-    "question": "Which option is the strongest match for how language features such as sentence patterns create tone, and literary devices such as imagery… in a youth radio segment?",
-    "audio_prompt": "Which option is the strongest match for how language features such as sentence patterns create tone, and literary devices such as imagery… in a youth radio segment?",
+    "question": "Which option belongs under the heading “how language features such as sentence patterns create tone, and literary devices such as imagery…” for a youth radio segment?",
+    "audio_prompt": "Which option belongs under the heading “how language features such as sentence patterns create tone, and literary devices such as imagery…” for a youth radio segment?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": false
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
         "is_correct": false
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "Naming the feature is enough; evidence from the text is unnecessary.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an."
+      "summary": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to."
     },
     "difficulty": 1,
     "difficulty_tier": "recognise",
@@ -385,34 +385,34 @@
     "bank": "practice",
     "stage": "recognise",
     "skill": "how language features such as sentence patterns create tone, and literary devices such as imagery…",
-    "question": "For a bushwalking safety page, which choice gives the clearest evidence of how language features such as sentence patterns create tone, and literary devices such as imagery…?",
-    "audio_prompt": "For a bushwalking safety page, which choice gives the clearest evidence of how language features such as sentence patterns create tone, and literary devices such as imagery…?",
+    "question": "Which choice is the best match for how language features such as sentence patterns create tone, and literary devices such as imagery… in a bushwalking safety page?",
+    "audio_prompt": "Which choice is the best match for how language features such as sentence patterns create tone, and literary devices such as imagery… in a bushwalking safety page?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation.",
+        "text": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
         "is_correct": false
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": true
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
         "is_correct": false
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "Naming the feature is enough; evidence from the text is unnecessary.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Tone is influenced when an author uses active or passive voice. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text."
+      "summary": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence."
     },
     "difficulty": 1,
     "difficulty_tier": "recognise",
@@ -427,34 +427,34 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "how language features such as sentence patterns create tone, and literary devices such as imagery…",
-    "question": "In a review of an Australian novel, which explanation best shows why how language features such as sentence patterns create tone, and literary devices such as imagery… matters?",
-    "audio_prompt": "In a review of an Australian novel, which explanation best shows why how language features such as sentence patterns create tone, and literary devices such as imagery… matters?",
+    "question": "In a review of an Australian novel, which explanation best shows how how language features such as sentence patterns create tone, and literary devices such as imagery… shapes meaning?",
+    "audio_prompt": "In a review of an Australian novel, which explanation best shows how how language features such as sentence patterns create tone, and literary devices such as imagery… shapes meaning?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": false
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "The most formal or complicated wording is automatically the best choice.",
         "is_correct": false
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
         "is_correct": true
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "One isolated word proves the whole interpretation without needing context.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning and influence."
+      "summary": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language."
     },
     "difficulty": 2,
     "difficulty_tier": "explain",
@@ -477,26 +477,26 @@
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": false
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "One isolated word proves the whole interpretation without needing context.",
         "is_correct": false
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "The feature changes only surface style and cannot shape meaning.",
         "is_correct": false
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an."
+      "summary": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to."
     },
     "difficulty": 2,
     "difficulty_tier": "explain",
@@ -511,34 +511,34 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "how language features such as sentence patterns create tone, and literary devices such as imagery…",
-    "question": "A reader is explaining how language features such as sentence patterns create tone, and literary devices such as imagery… in a class debate. Which response connects the feature to meaning most clearly?",
-    "audio_prompt": "A reader is explaining how language features such as sentence patterns create tone, and literary devices such as imagery… in a class debate. Which response connects the feature to meaning most clearly?",
+    "question": "Which response connects how language features such as sentence patterns create tone, and literary devices such as imagery… to audience or purpose in a class debate?",
+    "audio_prompt": "Which response connects how language features such as sentence patterns create tone, and literary devices such as imagery… to audience or purpose in a class debate?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation.",
+        "text": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
         "is_correct": false
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
         "is_correct": false
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "The feature changes only surface style and cannot shape meaning.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Tone is influenced when an author uses active or passive voice. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text."
+      "summary": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence."
     },
     "difficulty": 2,
     "difficulty_tier": "explain",
@@ -553,34 +553,34 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "how language features such as sentence patterns create tone, and literary devices such as imagery…",
-    "question": "Which explanation of how language features such as sentence patterns create tone, and literary devices such as imagery… would make the strongest sense in a community-festival webpage?",
-    "audio_prompt": "Which explanation of how language features such as sentence patterns create tone, and literary devices such as imagery… would make the strongest sense in a community-festival webpage?",
+    "question": "A reader is explaining how language features such as sentence patterns create tone, and literary devices such as imagery… in a community-festival webpage. Which comment is most precise?",
+    "audio_prompt": "A reader is explaining how language features such as sentence patterns create tone, and literary devices such as imagery… in a community-festival webpage. Which comment is most precise?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": false
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
         "is_correct": true
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "Any interpretation is equally strong even when it lacks supporting evidence.",
         "is_correct": false
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "Using more of the feature will always improve a text.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning and influence."
+      "summary": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language."
     },
     "difficulty": 2,
     "difficulty_tier": "explain",
@@ -595,34 +595,34 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "how language features such as sentence patterns create tone, and literary devices such as imagery…",
-    "question": "How can how language features such as sentence patterns create tone, and literary devices such as imagery… shape the way an audience understands a wildlife-centre brochure? Choose the best explanation.",
-    "audio_prompt": "How can how language features such as sentence patterns create tone, and literary devices such as imagery… shape the way an audience understands a wildlife-centre brochure? Choose the best explanation.",
+    "question": "Which explanation goes beyond naming how language features such as sentence patterns create tone, and literary devices such as imagery… and shows what it does in a wildlife-centre brochure?",
+    "audio_prompt": "Which explanation goes beyond naming how language features such as sentence patterns create tone, and literary devices such as imagery… and shows what it does in a wildlife-centre brochure?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": false
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "Using more of the feature will always improve a text.",
         "is_correct": false
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
         "is_correct": true
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "Audience and purpose do not matter once the feature has been identified.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an."
+      "summary": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to."
     },
     "difficulty": 2,
     "difficulty_tier": "explain",
@@ -637,34 +637,34 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "how language features such as sentence patterns create tone, and literary devices such as imagery…",
-    "question": "Which response goes beyond naming how language features such as sentence patterns create tone, and literary devices such as imagery… and explains what it does in a historical display?",
-    "audio_prompt": "Which response goes beyond naming how language features such as sentence patterns create tone, and literary devices such as imagery… and explains what it does in a historical display?",
+    "question": "How does how language features such as sentence patterns create tone, and literary devices such as imagery… matter in a historical display? Choose the strongest explanation.",
+    "audio_prompt": "How does how language features such as sentence patterns create tone, and literary devices such as imagery… matter in a historical display? Choose the strongest explanation.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation.",
+        "text": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
         "is_correct": false
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
         "is_correct": false
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "Audience and purpose do not matter once the feature has been identified.",
         "is_correct": false
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Tone is influenced when an author uses active or passive voice. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text."
+      "summary": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence."
     },
     "difficulty": 2,
     "difficulty_tier": "explain",
@@ -679,34 +679,34 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "how language features such as sentence patterns create tone, and literary devices such as imagery…",
-    "question": "For a persuasive letter to council, which statement gives the most precise explanation of how language features such as sentence patterns create tone, and literary devices such as imagery…?",
-    "audio_prompt": "For a persuasive letter to council, which statement gives the most precise explanation of how language features such as sentence patterns create tone, and literary devices such as imagery…?",
+    "question": "Which statement best accounts for the effect of how language features such as sentence patterns create tone, and literary devices such as imagery… in a persuasive letter to council?",
+    "audio_prompt": "Which statement best accounts for the effect of how language features such as sentence patterns create tone, and literary devices such as imagery… in a persuasive letter to council?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
         "is_correct": true
       },
       {
-        "text": "Effect means whether the student personally likes the text.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": false
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
         "is_correct": false
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "Naming the feature is enough; evidence from the text is unnecessary.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning and influence."
+      "summary": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language."
     },
     "difficulty": 2,
     "difficulty_tier": "explain",
@@ -721,34 +721,34 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "how language features such as sentence patterns create tone, and literary devices such as imagery…",
-    "question": "Which explanation links how language features such as sentence patterns create tone, and literary devices such as imagery… to purpose or audience in a school assembly address?",
-    "audio_prompt": "Which explanation links how language features such as sentence patterns create tone, and literary devices such as imagery… to purpose or audience in a school assembly address?",
+    "question": "Which explanation of how language features such as sentence patterns create tone, and literary devices such as imagery… is best supported by a school assembly address?",
+    "audio_prompt": "Which explanation of how language features such as sentence patterns create tone, and literary devices such as imagery… is best supported by a school assembly address?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": false
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
         "is_correct": true
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "Naming the feature is enough; evidence from the text is unnecessary.",
         "is_correct": false
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "The most formal or complicated wording is automatically the best choice.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an."
+      "summary": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to."
     },
     "difficulty": 2,
     "difficulty_tier": "explain",
@@ -763,34 +763,34 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "how language features such as sentence patterns create tone, and literary devices such as imagery…",
-    "question": "A class is discussing a digital magazine feature. Which comment best explains how language features such as sentence patterns create tone, and literary devices such as imagery…?",
-    "audio_prompt": "A class is discussing a digital magazine feature. Which comment best explains how language features such as sentence patterns create tone, and literary devices such as imagery…?",
+    "question": "Which response most clearly links how language features such as sentence patterns create tone, and literary devices such as imagery… with meaning in a digital magazine feature?",
+    "audio_prompt": "Which response most clearly links how language features such as sentence patterns create tone, and literary devices such as imagery… with meaning in a digital magazine feature?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation.",
+        "text": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
         "is_correct": false
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
         "is_correct": false
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": true
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "The most formal or complicated wording is automatically the best choice.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Tone is influenced when an author uses active or passive voice. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text."
+      "summary": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence."
     },
     "difficulty": 2,
     "difficulty_tier": "explain",
@@ -805,34 +805,34 @@
     "bank": "practice",
     "stage": "explain",
     "skill": "how language features such as sentence patterns create tone, and literary devices such as imagery…",
-    "question": "Which statement best accounts for the effect of how language features such as sentence patterns create tone, and literary devices such as imagery… in a public-transport campaign?",
-    "audio_prompt": "Which statement best accounts for the effect of how language features such as sentence patterns create tone, and literary devices such as imagery… in a public-transport campaign?",
+    "question": "For a public-transport campaign, which statement gives the most useful explanation of how language features such as sentence patterns create tone, and literary devices such as imagery…?",
+    "audio_prompt": "For a public-transport campaign, which statement gives the most useful explanation of how language features such as sentence patterns create tone, and literary devices such as imagery…?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": false
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "One isolated word proves the whole interpretation without needing context.",
         "is_correct": false
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "The feature changes only surface style and cannot shape meaning.",
         "is_correct": false
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning and influence."
+      "summary": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language."
     },
     "difficulty": 2,
     "difficulty_tier": "explain",
@@ -847,34 +847,34 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "how language features such as sentence patterns create tone, and literary devices such as imagery…",
-    "question": "Several comments are made about how language features such as sentence patterns create tone, and literary devices such as imagery… in a theatre-program note. Which one avoids the common misconception?",
-    "audio_prompt": "Several comments are made about how language features such as sentence patterns create tone, and literary devices such as imagery… in a theatre-program note. Which one avoids the common misconception?",
+    "question": "Which interpretation of how language features such as sentence patterns create tone, and literary devices such as imagery… in a theatre-program note is the most careful and accurate?",
+    "audio_prompt": "Which interpretation of how language features such as sentence patterns create tone, and literary devices such as imagery… in a theatre-program note is the most careful and accurate?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": false
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "The feature changes only surface style and cannot shape meaning.",
         "is_correct": false
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "Any interpretation is equally strong even when it lacks supporting evidence.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an."
+      "summary": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to."
     },
     "difficulty": 2,
     "difficulty_tier": "discriminate",
@@ -889,34 +889,34 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "how language features such as sentence patterns create tone, and literary devices such as imagery…",
-    "question": "Which interpretation of how language features such as sentence patterns create tone, and literary devices such as imagery… in a coastal-care poster is the most accurate?",
-    "audio_prompt": "Which interpretation of how language features such as sentence patterns create tone, and literary devices such as imagery… in a coastal-care poster is the most accurate?",
+    "question": "Several claims are made about how language features such as sentence patterns create tone, and literary devices such as imagery… in a coastal-care poster. Which one avoids an overgeneralisation?",
+    "audio_prompt": "Several claims are made about how language features such as sentence patterns create tone, and literary devices such as imagery… in a coastal-care poster. Which one avoids an overgeneralisation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation.",
+        "text": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
         "is_correct": false
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": true
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
         "is_correct": false
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "Any interpretation is equally strong even when it lacks supporting evidence.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Tone is influenced when an author uses active or passive voice. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text."
+      "summary": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence."
     },
     "difficulty": 2,
     "difficulty_tier": "discriminate",
@@ -931,34 +931,34 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "how language features such as sentence patterns create tone, and literary devices such as imagery…",
-    "question": "Which option distinguishes a sound analysis of how language features such as sentence patterns create tone, and literary devices such as imagery… from a superficial one in a short-story workshop?",
-    "audio_prompt": "Which option distinguishes a sound analysis of how language features such as sentence patterns create tone, and literary devices such as imagery… from a superficial one in a short-story workshop?",
+    "question": "Which response distinguishes a sound analysis of how language features such as sentence patterns create tone, and literary devices such as imagery… from a superficial one in a short-story workshop?",
+    "audio_prompt": "Which response distinguishes a sound analysis of how language features such as sentence patterns create tone, and literary devices such as imagery… from a superficial one in a short-story workshop?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": false
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "Using more of the feature will always improve a text.",
         "is_correct": false
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
         "is_correct": true
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "Audience and purpose do not matter once the feature has been identified.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning and influence."
+      "summary": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language."
     },
     "difficulty": 2,
     "difficulty_tier": "discriminate",
@@ -973,34 +973,34 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "how language features such as sentence patterns create tone, and literary devices such as imagery…",
-    "question": "A reader has made an overgeneralisation about a media-literacy lesson. Which choice gives the more careful view of how language features such as sentence patterns create tone, and literary devices such as imagery…?",
-    "audio_prompt": "A reader has made an overgeneralisation about a media-literacy lesson. Which choice gives the more careful view of how language features such as sentence patterns create tone, and literary devices such as imagery…?",
+    "question": "Which statement about how language features such as sentence patterns create tone, and literary devices such as imagery… in a media-literacy lesson can actually be supported?",
+    "audio_prompt": "Which statement about how language features such as sentence patterns create tone, and literary devices such as imagery… in a media-literacy lesson can actually be supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": false
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "Audience and purpose do not matter once the feature has been identified.",
         "is_correct": false
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
         "is_correct": false
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an."
+      "summary": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to."
     },
     "difficulty": 2,
     "difficulty_tier": "discriminate",
@@ -1015,34 +1015,34 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "how language features such as sentence patterns create tone, and literary devices such as imagery…",
-    "question": "Which statement about how language features such as sentence patterns create tone, and literary devices such as imagery… in a local-history podcast is supported rather than assumed?",
-    "audio_prompt": "Which statement about how language features such as sentence patterns create tone, and literary devices such as imagery… in a local-history podcast is supported rather than assumed?",
+    "question": "Which option avoids confusing the feature with its effect when discussing how language features such as sentence patterns create tone, and literary devices such as imagery… in a local-history podcast?",
+    "audio_prompt": "Which option avoids confusing the feature with its effect when discussing how language features such as sentence patterns create tone, and literary devices such as imagery… in a local-history podcast?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation.",
+        "text": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
         "is_correct": false
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
         "is_correct": false
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Tone is influenced when an author uses active or passive voice. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text."
+      "summary": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence."
     },
     "difficulty": 2,
     "difficulty_tier": "discriminate",
@@ -1057,34 +1057,34 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "how language features such as sentence patterns create tone, and literary devices such as imagery…",
-    "question": "Which option uses evidence and context to interpret how language features such as sentence patterns create tone, and literary devices such as imagery… in a school website update?",
-    "audio_prompt": "Which option uses evidence and context to interpret how language features such as sentence patterns create tone, and literary devices such as imagery… in a school website update?",
+    "question": "Which reading of how language features such as sentence patterns create tone, and literary devices such as imagery… in a school website update uses context rather than assumption?",
+    "audio_prompt": "Which reading of how language features such as sentence patterns create tone, and literary devices such as imagery… in a school website update uses context rather than assumption?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": false
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
         "is_correct": true
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "Naming the feature is enough; evidence from the text is unnecessary.",
         "is_correct": false
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "The most formal or complicated wording is automatically the best choice.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning and influence."
+      "summary": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language."
     },
     "difficulty": 2,
     "difficulty_tier": "discriminate",
@@ -1099,34 +1099,34 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "how language features such as sentence patterns create tone, and literary devices such as imagery…",
-    "question": "Which response to a graphic-novel discussion shows the best judgement about how language features such as sentence patterns create tone, and literary devices such as imagery…?",
-    "audio_prompt": "Which response to a graphic-novel discussion shows the best judgement about how language features such as sentence patterns create tone, and literary devices such as imagery…?",
+    "question": "Which response gives the strongest judgement about how language features such as sentence patterns create tone, and literary devices such as imagery… in a graphic-novel discussion?",
+    "audio_prompt": "Which response gives the strongest judgement about how language features such as sentence patterns create tone, and literary devices such as imagery… in a graphic-novel discussion?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": false
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "The most formal or complicated wording is automatically the best choice.",
         "is_correct": false
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
         "is_correct": true
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "One isolated word proves the whole interpretation without needing context.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an."
+      "summary": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to."
     },
     "difficulty": 2,
     "difficulty_tier": "discriminate",
@@ -1149,26 +1149,26 @@
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation.",
+        "text": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
         "is_correct": false
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
         "is_correct": false
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "One isolated word proves the whole interpretation without needing context.",
         "is_correct": false
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Tone is influenced when an author uses active or passive voice. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text."
+      "summary": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence."
     },
     "difficulty": 2,
     "difficulty_tier": "discriminate",
@@ -1183,34 +1183,34 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "how language features such as sentence patterns create tone, and literary devices such as imagery…",
-    "question": "Which option avoids treating how language features such as sentence patterns create tone, and literary devices such as imagery… as a rule that always works the same way?",
-    "audio_prompt": "Which option avoids treating how language features such as sentence patterns create tone, and literary devices such as imagery… as a rule that always works the same way?",
+    "question": "Which option avoids treating how language features such as sentence patterns create tone, and literary devices such as imagery… as a rule that works identically everywhere?",
+    "audio_prompt": "Which option avoids treating how language features such as sentence patterns create tone, and literary devices such as imagery… as a rule that works identically everywhere?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
         "is_correct": true
       },
       {
-        "text": "Effect means whether the student personally likes the text.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": false
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "The feature changes only surface style and cannot shape meaning.",
         "is_correct": false
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "Any interpretation is equally strong even when it lacks supporting evidence.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning and influence."
+      "summary": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language."
     },
     "difficulty": 2,
     "difficulty_tier": "discriminate",
@@ -1225,34 +1225,34 @@
     "bank": "practice",
     "stage": "discriminate",
     "skill": "how language features such as sentence patterns create tone, and literary devices such as imagery…",
-    "question": "Which reading of how language features such as sentence patterns create tone, and literary devices such as imagery… in a sustainability report is least likely to confuse feature, purpose and effect?",
-    "audio_prompt": "Which reading of how language features such as sentence patterns create tone, and literary devices such as imagery… in a sustainability report is least likely to confuse feature, purpose and effect?",
+    "question": "Which interpretation of how language features such as sentence patterns create tone, and literary devices such as imagery… best fits the evidence in a sustainability report?",
+    "audio_prompt": "Which interpretation of how language features such as sentence patterns create tone, and literary devices such as imagery… best fits the evidence in a sustainability report?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": false
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
         "is_correct": true
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "Any interpretation is equally strong even when it lacks supporting evidence.",
         "is_correct": false
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "Using more of the feature will always improve a text.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an."
+      "summary": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to."
     },
     "difficulty": 2,
     "difficulty_tier": "discriminate",
@@ -1275,26 +1275,26 @@
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation.",
+        "text": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
         "is_correct": false
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
         "is_correct": false
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": true
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "Using more of the feature will always improve a text.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Tone is influenced when an author uses active or passive voice. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text."
+      "summary": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence."
     },
     "difficulty": 3,
     "difficulty_tier": "apply",
@@ -1317,26 +1317,26 @@
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": false
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "Audience and purpose do not matter once the feature has been identified.",
         "is_correct": false
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
         "is_correct": false
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning and influence."
+      "summary": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language."
     },
     "difficulty": 3,
     "difficulty_tier": "apply",
@@ -1351,34 +1351,34 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "how language features such as sentence patterns create tone, and literary devices such as imagery…",
-    "question": "To improve a youth forum post, which option would best apply how language features such as sentence patterns create tone, and literary devices such as imagery…?",
-    "audio_prompt": "To improve a youth forum post, which option would best apply how language features such as sentence patterns create tone, and literary devices such as imagery…?",
+    "question": "To improve a youth forum post, which option best applies how language features such as sentence patterns create tone, and literary devices such as imagery…?",
+    "audio_prompt": "To improve a youth forum post, which option best applies how language features such as sentence patterns create tone, and literary devices such as imagery…?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": false
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
         "is_correct": false
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "Naming the feature is enough; evidence from the text is unnecessary.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an."
+      "summary": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to."
     },
     "difficulty": 3,
     "difficulty_tier": "apply",
@@ -1393,34 +1393,34 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "how language features such as sentence patterns create tone, and literary devices such as imagery…",
-    "question": "Which choice would you use in a tourism information page to control how language features such as sentence patterns create tone, and literary devices such as imagery… deliberately?",
-    "audio_prompt": "Which choice would you use in a tourism information page to control how language features such as sentence patterns create tone, and literary devices such as imagery… deliberately?",
+    "question": "Which choice uses how language features such as sentence patterns create tone, and literary devices such as imagery… deliberately in a tourism information page?",
+    "audio_prompt": "Which choice uses how language features such as sentence patterns create tone, and literary devices such as imagery… deliberately in a tourism information page?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation.",
+        "text": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
         "is_correct": false
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": true
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
         "is_correct": false
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "Naming the feature is enough; evidence from the text is unnecessary.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Tone is influenced when an author uses active or passive voice. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text."
+      "summary": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence."
     },
     "difficulty": 3,
     "difficulty_tier": "apply",
@@ -1435,34 +1435,34 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "how language features such as sentence patterns create tone, and literary devices such as imagery…",
-    "question": "A writer wants a spoken presentation to communicate more precisely. Which option best applies how language features such as sentence patterns create tone, and literary devices such as imagery…?",
-    "audio_prompt": "A writer wants a spoken presentation to communicate more precisely. Which option best applies how language features such as sentence patterns create tone, and literary devices such as imagery…?",
+    "question": "Which revision to a spoken presentation shows the most purposeful use of how language features such as sentence patterns create tone, and literary devices such as imagery…?",
+    "audio_prompt": "Which revision to a spoken presentation shows the most purposeful use of how language features such as sentence patterns create tone, and literary devices such as imagery…?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": false
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "The most formal or complicated wording is automatically the best choice.",
         "is_correct": false
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
         "is_correct": true
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "One isolated word proves the whole interpretation without needing context.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning and influence."
+      "summary": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language."
     },
     "difficulty": 3,
     "difficulty_tier": "apply",
@@ -1477,34 +1477,34 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "how language features such as sentence patterns create tone, and literary devices such as imagery…",
-    "question": "Which revision to a feature article shows the most purposeful use of how language features such as sentence patterns create tone, and literary devices such as imagery…?",
-    "audio_prompt": "Which revision to a feature article shows the most purposeful use of how language features such as sentence patterns create tone, and literary devices such as imagery…?",
+    "question": "Which option transfers an understanding of how language features such as sentence patterns create tone, and literary devices such as imagery… to a feature article successfully?",
+    "audio_prompt": "Which option transfers an understanding of how language features such as sentence patterns create tone, and literary devices such as imagery… to a feature article successfully?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": false
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "One isolated word proves the whole interpretation without needing context.",
         "is_correct": false
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "The feature changes only surface style and cannot shape meaning.",
         "is_correct": false
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an."
+      "summary": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to."
     },
     "difficulty": 3,
     "difficulty_tier": "apply",
@@ -1519,34 +1519,34 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "how language features such as sentence patterns create tone, and literary devices such as imagery…",
-    "question": "Which option transfers an understanding of how language features such as sentence patterns create tone, and literary devices such as imagery… to a film-review discussion most successfully?",
-    "audio_prompt": "Which option transfers an understanding of how language features such as sentence patterns create tone, and literary devices such as imagery… to a film-review discussion most successfully?",
+    "question": "For a film-review discussion, which choice uses how language features such as sentence patterns create tone, and literary devices such as imagery… in a way that suits audience and purpose?",
+    "audio_prompt": "For a film-review discussion, which choice uses how language features such as sentence patterns create tone, and literary devices such as imagery… in a way that suits audience and purpose?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation.",
+        "text": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
         "is_correct": false
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
         "is_correct": false
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "The feature changes only surface style and cannot shape meaning.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Tone is influenced when an author uses active or passive voice. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text."
+      "summary": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence."
     },
     "difficulty": 3,
     "difficulty_tier": "apply",
@@ -1561,34 +1561,34 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "how language features such as sentence patterns create tone, and literary devices such as imagery…",
-    "question": "For a community survey summary, which choice uses how language features such as sentence patterns create tone, and literary devices such as imagery… in a way that suits audience and purpose?",
-    "audio_prompt": "For a community survey summary, which choice uses how language features such as sentence patterns create tone, and literary devices such as imagery… in a way that suits audience and purpose?",
+    "question": "Which decision would strengthen a community survey summary by applying how language features such as sentence patterns create tone, and literary devices such as imagery… rather than just naming it?",
+    "audio_prompt": "Which decision would strengthen a community survey summary by applying how language features such as sentence patterns create tone, and literary devices such as imagery… rather than just naming it?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": false
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
         "is_correct": true
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "Any interpretation is equally strong even when it lacks supporting evidence.",
         "is_correct": false
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "Using more of the feature will always improve a text.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning and influence."
+      "summary": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language."
     },
     "difficulty": 3,
     "difficulty_tier": "apply",
@@ -1603,34 +1603,34 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "how language features such as sentence patterns create tone, and literary devices such as imagery…",
-    "question": "Which decision would strengthen a reading-journal entry by applying how language features such as sentence patterns create tone, and literary devices such as imagery… rather than merely naming it?",
-    "audio_prompt": "Which decision would strengthen a reading-journal entry by applying how language features such as sentence patterns create tone, and literary devices such as imagery… rather than merely naming it?",
+    "question": "Which option is the best practical use of how language features such as sentence patterns create tone, and literary devices such as imagery… in a reading-journal entry?",
+    "audio_prompt": "Which option is the best practical use of how language features such as sentence patterns create tone, and literary devices such as imagery… in a reading-journal entry?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": false
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "Using more of the feature will always improve a text.",
         "is_correct": false
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
         "is_correct": true
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "Audience and purpose do not matter once the feature has been identified.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an."
+      "summary": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to."
     },
     "difficulty": 3,
     "difficulty_tier": "apply",
@@ -1645,34 +1645,34 @@
     "bank": "practice",
     "stage": "apply",
     "skill": "how language features such as sentence patterns create tone, and literary devices such as imagery…",
-    "question": "Which option is the best practical use of how language features such as sentence patterns create tone, and literary devices such as imagery… in a school production program?",
-    "audio_prompt": "Which option is the best practical use of how language features such as sentence patterns create tone, and literary devices such as imagery… in a school production program?",
+    "question": "A writer is improving a school production program. Which choice shows confident control of how language features such as sentence patterns create tone, and literary devices such as imagery…?",
+    "audio_prompt": "A writer is improving a school production program. Which choice shows confident control of how language features such as sentence patterns create tone, and literary devices such as imagery…?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation.",
+        "text": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
         "is_correct": false
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
         "is_correct": false
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "Audience and purpose do not matter once the feature has been identified.",
         "is_correct": false
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Tone is influenced when an author uses active or passive voice. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text."
+      "summary": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence."
     },
     "difficulty": 3,
     "difficulty_tier": "apply",
@@ -1694,26 +1694,26 @@
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": false
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
         "is_correct": true
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
         "is_correct": false
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an."
+      "summary": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to."
     },
     "difficulty": 3,
     "difficulty_tier": "independent",
@@ -1735,26 +1735,26 @@
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation.",
+        "text": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
         "is_correct": false
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "Naming the feature is enough; evidence from the text is unnecessary.",
         "is_correct": false
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
         "is_correct": true
       },
       {
-        "text": "The most formal or complicated wording is automatically the most effective choice.",
+        "text": "The most formal or complicated wording is automatically the best choice.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an."
+      "summary": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to."
     },
     "difficulty": 3,
     "difficulty_tier": "independent",
@@ -1776,26 +1776,26 @@
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": false
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "The most formal or complicated wording is automatically the best choice.",
         "is_correct": false
       },
       {
-        "text": "A single word proves the whole interpretation, even when the surrounding context suggests otherwise.",
+        "text": "One isolated word proves the whole interpretation without needing context.",
         "is_correct": false
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an."
+      "summary": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to."
     },
     "difficulty": 3,
     "difficulty_tier": "independent",
@@ -1817,26 +1817,26 @@
     },
     "answers": [
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": false
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
         "is_correct": false
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "One isolated word proves the whole interpretation without needing context.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an."
+      "summary": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to."
     },
     "difficulty": 3,
     "difficulty_tier": "independent",
@@ -1850,34 +1850,34 @@
     "subject": "english",
     "bank": "test",
     "skill": "how language features such as sentence patterns create tone, and literary devices such as imagery…",
-    "question": "Which choice would be most effective in an environmental campaign video if the aim is to use how language features such as sentence patterns create tone, and literary devices such as imagery… deliberately?",
-    "audio_prompt": "Which choice would be most effective in an environmental campaign video if the aim is to use how language features such as sentence patterns create tone, and literary devices such as imagery… deliberately?",
+    "question": "Which choice would use how language features such as sentence patterns create tone, and literary devices such as imagery… most effectively in an environmental campaign video?",
+    "audio_prompt": "Which choice would use how language features such as sentence patterns create tone, and literary devices such as imagery… most effectively in an environmental campaign video?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation.",
+        "text": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
         "is_correct": false
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
         "is_correct": true
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "The feature changes only surface style and cannot shape meaning.",
         "is_correct": false
       },
       {
-        "text": "Any interpretation is equally strong, even if it cannot be supported with details from the text.",
+        "text": "Any interpretation is equally strong even when it lacks supporting evidence.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an."
+      "summary": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to."
     },
     "difficulty": 3,
     "difficulty_tier": "independent",
@@ -1891,34 +1891,34 @@
     "subject": "english",
     "bank": "test",
     "skill": "how language features such as sentence patterns create tone, and literary devices such as imagery…",
-    "question": "Which statement about how language features such as sentence patterns create tone, and literary devices such as imagery… can be defended from the evidence in a cultural-festival program?",
-    "audio_prompt": "Which statement about how language features such as sentence patterns create tone, and literary devices such as imagery… can be defended from the evidence in a cultural-festival program?",
+    "question": "Which statement about how language features such as sentence patterns create tone, and literary devices such as imagery… can be defended in a cultural-festival program?",
+    "audio_prompt": "Which statement about how language features such as sentence patterns create tone, and literary devices such as imagery… can be defended in a cultural-festival program?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": false
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "Any interpretation is equally strong even when it lacks supporting evidence.",
         "is_correct": false
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
         "is_correct": true
       },
       {
-        "text": "The writer should use the feature as often as possible because more of it always improves a text.",
+        "text": "Using more of the feature will always improve a text.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an."
+      "summary": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to."
     },
     "difficulty": 3,
     "difficulty_tier": "independent",
@@ -1940,26 +1940,26 @@
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": false
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
         "is_correct": false
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "Using more of the feature will always improve a text.",
         "is_correct": false
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an."
+      "summary": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to."
     },
     "difficulty": 3,
     "difficulty_tier": "independent",
@@ -1981,15 +1981,15 @@
     },
     "answers": [
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation.",
+        "text": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
         "is_correct": false
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "Audience and purpose do not matter once the feature has been identified.",
         "is_correct": false
       },
       {
@@ -1999,8 +1999,8 @@
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an."
+      "summary": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to."
     },
     "difficulty": 3,
     "difficulty_tier": "independent",
@@ -2022,26 +2022,26 @@
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": false
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
         "is_correct": true
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
         "is_correct": false
       },
       {
-        "text": "It is enough to name the feature; no evidence or explanation of its effect is needed.",
+        "text": "Naming the feature is enough; evidence from the text is unnecessary.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an."
+      "summary": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to."
     },
     "difficulty": 3,
     "difficulty_tier": "independent",
@@ -2063,26 +2063,26 @@
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": false
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
         "is_correct": false
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
         "is_correct": true
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "Naming the feature is enough; evidence from the text is unnecessary.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an."
+      "summary": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to."
     },
     "difficulty": 3,
     "difficulty_tier": "independent",
@@ -2104,26 +2104,26 @@
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation.",
+        "text": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
         "is_correct": false
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "The most formal or complicated wording is automatically the best choice.",
         "is_correct": false
       },
       {
-        "text": "A single word proves the whole interpretation, even when the surrounding context suggests otherwise.",
+        "text": "One isolated word proves the whole interpretation without needing context.",
         "is_correct": false
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an."
+      "summary": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to."
     },
     "difficulty": 3,
     "difficulty_tier": "independent",
@@ -2145,26 +2145,26 @@
     },
     "answers": [
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": false
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "One isolated word proves the whole interpretation without needing context.",
         "is_correct": false
       },
       {
-        "text": "The feature only changes how the text looks or sounds; it does not shape meaning.",
+        "text": "The feature changes only surface style and cannot shape meaning.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an."
+      "summary": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to."
     },
     "difficulty": 3,
     "difficulty_tier": "independent",
@@ -2178,34 +2178,34 @@
     "subject": "english",
     "bank": "test",
     "skill": "how language features such as sentence patterns create tone, and literary devices such as imagery…",
-    "question": "Which choice would be most effective in a literary magazine extract if the aim is to use how language features such as sentence patterns create tone, and literary devices such as imagery… deliberately?",
-    "audio_prompt": "Which choice would be most effective in a literary magazine extract if the aim is to use how language features such as sentence patterns create tone, and literary devices such as imagery… deliberately?",
+    "question": "Which choice would use how language features such as sentence patterns create tone, and literary devices such as imagery… most effectively in a literary magazine extract?",
+    "audio_prompt": "Which choice would use how language features such as sentence patterns create tone, and literary devices such as imagery… most effectively in a literary magazine extract?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": false
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
         "is_correct": true
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
         "is_correct": false
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "The feature changes only surface style and cannot shape meaning.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an."
+      "summary": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to."
     },
     "difficulty": 3,
     "difficulty_tier": "independent",
@@ -2219,34 +2219,34 @@
     "subject": "english",
     "bank": "test",
     "skill": "how language features such as sentence patterns create tone, and literary devices such as imagery…",
-    "question": "Which statement about how language features such as sentence patterns create tone, and literary devices such as imagery… can be defended from the evidence in a public-service announcement?",
-    "audio_prompt": "Which statement about how language features such as sentence patterns create tone, and literary devices such as imagery… can be defended from the evidence in a public-service announcement?",
+    "question": "Which statement about how language features such as sentence patterns create tone, and literary devices such as imagery… can be defended in a public-service announcement?",
+    "audio_prompt": "Which statement about how language features such as sentence patterns create tone, and literary devices such as imagery… can be defended in a public-service announcement?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation.",
+        "text": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
         "is_correct": false
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "Any interpretation is equally strong even when it lacks supporting evidence.",
         "is_correct": false
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
         "is_correct": true
       },
       {
-        "text": "The writer should use the feature as often as possible because more of it always improves a text.",
+        "text": "Using more of the feature will always improve a text.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an."
+      "summary": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to."
     },
     "difficulty": 3,
     "difficulty_tier": "independent",
@@ -2268,26 +2268,26 @@
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": false
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "Using more of the feature will always improve a text.",
         "is_correct": false
       },
       {
-        "text": "Purpose and audience can be ignored once the feature has been identified.",
+        "text": "Audience and purpose do not matter once the feature has been identified.",
         "is_correct": false
       },
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an."
+      "summary": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to."
     },
     "difficulty": 3,
     "difficulty_tier": "independent",
@@ -2309,26 +2309,26 @@
     },
     "answers": [
       {
-        "text": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes.",
+        "text": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation.",
+        "text": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence.",
         "is_correct": false
       },
       {
-        "text": "Tone is influenced when an author uses active or passive voice.",
+        "text": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape examining how writers use terse and relatively simple language.",
         "is_correct": false
       },
       {
-        "text": "How writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning.",
+        "text": "Audience and purpose do not matter once the feature has been identified.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "First Nations Australian authors use words and language to set tone when writing or speaking about specific themes. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an."
+      "summary": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to."
     },
     "difficulty": 3,
     "difficulty_tier": "independent",

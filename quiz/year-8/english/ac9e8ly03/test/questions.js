@@ -16,14 +16,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text.",
-      "Evaluating the use of sources and quotations and presenting an opinion about how an author has supported an idea.",
-      "Evaluating an author&#x27;s use of language features to present an opinion about those features.",
-      "It is enough to name the feature; no evidence or explanation of its effect is needed."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape evaluating the use of sources and quotations and presenting an opinion.",
+      "The feature has one fixed effect in every text, regardless of audience or purpose.",
+      "Naming the feature is enough; evidence from the text is unnecessary."
     ],
     "correct": 1,
-    "explanation": "Evaluating the use of sources and quotations and presenting an opinion about how an author has supported an idea. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use structure to shape evaluating the use of sources and quotations and presenting an opinion about how an author has supported an idea and influence how an audience understands the text.",
+    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape evaluating the use of sources and quotations and presenting an opinion. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape evaluating the use of sources and quotations and presenting an opinion.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 1
@@ -35,8 +35,8 @@ window.skillrTestQuestions = [
     "skill": "and evaluate the ways that language features vary according to the purpose and audience of the text,…",
     "printable": true,
     "type": "single",
-    "question": "Which choice applies an accurate understanding of a writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text to an independent book review?",
-    "audioPrompt": "Which choice applies an accurate understanding of a writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text to an independent book review?",
+    "question": "Which choice applies an accurate understanding of and evaluate the ways that language features vary according to the purpose and audience of the text,… to an independent book review?",
+    "audioPrompt": "Which choice applies an accurate understanding of and evaluate the ways that language features vary according to the purpose and audience of the text,… to an independent book review?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -44,14 +44,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Evaluating the use of sources and quotations and presenting an opinion about how an author has supported an idea.",
-      "Evaluating an author&#x27;s use of language features to present an opinion about those features.",
-      "The most formal or complicated wording is automatically the most effective choice."
+      "Naming the feature is enough; evidence from the text is unnecessary.",
+      "The most formal or complicated wording is automatically the best choice.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text.",
+      "One isolated word proves the whole interpretation without needing context."
     ],
     "correct": 2,
-    "explanation": "Evaluating an author&#x27;s use of language features to present an opinion about those features. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 2
@@ -72,14 +72,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text.",
-      "Evaluating an author&#x27;s use of language features to present an opinion about those features.",
-      "A single word proves the whole interpretation, even when the surrounding context suggests otherwise.",
-      "Evaluating the use of sources and quotations and presenting an opinion about how an author has supported an idea."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text.",
+      "The most formal or complicated wording is automatically the best choice.",
+      "One isolated word proves the whole interpretation without needing context.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape evaluating the use of sources and quotations and presenting an opinion."
     ],
     "correct": 3,
-    "explanation": "Evaluating the use of sources and quotations and presenting an opinion about how an author has supported an idea. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use structure to shape evaluating the use of sources and quotations and presenting an opinion about how an author has supported an idea and influence how an audience understands the text.",
+    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape evaluating the use of sources and quotations and presenting an opinion. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape evaluating the use of sources and quotations and presenting an opinion.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 3
@@ -91,8 +91,8 @@ window.skillrTestQuestions = [
     "skill": "and evaluate the ways that language features vary according to the purpose and audience of the text,…",
     "printable": true,
     "type": "single",
-    "question": "Which option gives the strongest analysis of a writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text in a council youth consultation?",
-    "audioPrompt": "Which option gives the strongest analysis of a writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text in a council youth consultation?",
+    "question": "Which option gives the strongest analysis of and evaluate the ways that language features vary according to the purpose and audience of the text,… in a council youth consultation?",
+    "audioPrompt": "Which option gives the strongest analysis of and evaluate the ways that language features vary according to the purpose and audience of the text,… in a council youth consultation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -100,14 +100,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Evaluating an author&#x27;s use of language features to present an opinion about those features.",
-      "A feature name is enough to prove an interpretation.",
-      "Evaluating the use of sources and quotations and presenting an opinion about how an author has supported an idea.",
-      "The feature only changes how the text looks or sounds; it does not shape meaning."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text.",
+      "One isolated word proves the whole interpretation without needing context.",
+      "The feature changes only surface style and cannot shape meaning.",
+      "Any interpretation is equally strong even when it lacks supporting evidence."
     ],
     "correct": 0,
-    "explanation": "Evaluating an author&#x27;s use of language features to present an opinion about those features. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 4
@@ -119,8 +119,8 @@ window.skillrTestQuestions = [
     "skill": "and evaluate the ways that language features vary according to the purpose and audience of the text,…",
     "printable": true,
     "type": "single",
-    "question": "Which choice would be most effective in an environmental campaign video if the aim is to use and evaluate the ways that language features vary according to the purpose and audience of the text,… deliberately?",
-    "audioPrompt": "Which choice would be most effective in an environmental campaign video if the aim is to use and evaluate the ways that language features vary according to the purpose and audience of the text,… deliberately?",
+    "question": "Which choice would use and evaluate the ways that language features vary according to the purpose and audience of the text,… most effectively in an environmental campaign video?",
+    "audioPrompt": "Which choice would use and evaluate the ways that language features vary according to the purpose and audience of the text,… most effectively in an environmental campaign video?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -128,14 +128,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text.",
-      "Evaluating the use of sources and quotations and presenting an opinion about how an author has supported an idea.",
-      "Evaluating an author&#x27;s use of language features to present an opinion about those features.",
-      "Any interpretation is equally strong, even if it cannot be supported with details from the text."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape evaluating the use of sources and quotations and presenting an opinion.",
+      "The feature changes only surface style and cannot shape meaning.",
+      "Any interpretation is equally strong even when it lacks supporting evidence."
     ],
     "correct": 1,
-    "explanation": "Evaluating the use of sources and quotations and presenting an opinion about how an author has supported an idea. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use structure to shape evaluating the use of sources and quotations and presenting an opinion about how an author has supported an idea and influence how an audience understands the text.",
+    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape evaluating the use of sources and quotations and presenting an opinion. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape evaluating the use of sources and quotations and presenting an opinion.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 5
@@ -147,8 +147,8 @@ window.skillrTestQuestions = [
     "skill": "and evaluate the ways that language features vary according to the purpose and audience of the text,…",
     "printable": true,
     "type": "single",
-    "question": "Which statement about a writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text can be defended from the evidence in a cultural-festival program?",
-    "audioPrompt": "Which statement about a writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text can be defended from the evidence in a cultural-festival program?",
+    "question": "Which statement about and evaluate the ways that language features vary according to the purpose and audience of the text,… can be defended in a cultural-festival program?",
+    "audioPrompt": "Which statement about and evaluate the ways that language features vary according to the purpose and audience of the text,… can be defended in a cultural-festival program?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -156,14 +156,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Evaluating the use of sources and quotations and presenting an opinion about how an author has supported an idea.",
-      "Evaluating an author&#x27;s use of language features to present an opinion about those features.",
-      "The writer should use the feature as often as possible because more of it always improves a text."
+      "Any interpretation is equally strong even when it lacks supporting evidence.",
+      "Using more of the feature will always improve a text.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text.",
+      "Audience and purpose do not matter once the feature has been identified."
     ],
     "correct": 2,
-    "explanation": "Evaluating an author&#x27;s use of language features to present an opinion about those features. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 6
@@ -184,14 +184,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text.",
-      "Evaluating an author&#x27;s use of language features to present an opinion about those features.",
-      "Purpose and audience can be ignored once the feature has been identified.",
-      "Evaluating the use of sources and quotations and presenting an opinion about how an author has supported an idea."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text.",
+      "Using more of the feature will always improve a text.",
+      "Audience and purpose do not matter once the feature has been identified.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape evaluating the use of sources and quotations and presenting an opinion."
     ],
     "correct": 3,
-    "explanation": "Evaluating the use of sources and quotations and presenting an opinion about how an author has supported an idea. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use structure to shape evaluating the use of sources and quotations and presenting an opinion about how an author has supported an idea and influence how an audience understands the text.",
+    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape evaluating the use of sources and quotations and presenting an opinion. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape evaluating the use of sources and quotations and presenting an opinion.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 7
@@ -203,8 +203,8 @@ window.skillrTestQuestions = [
     "skill": "and evaluate the ways that language features vary according to the purpose and audience of the text,…",
     "printable": true,
     "type": "single",
-    "question": "Which revision would best control a writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text in a radio interview transcript?",
-    "audioPrompt": "Which revision would best control a writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text in a radio interview transcript?",
+    "question": "Which revision would best control and evaluate the ways that language features vary according to the purpose and audience of the text,… in a radio interview transcript?",
+    "audioPrompt": "Which revision would best control and evaluate the ways that language features vary according to the purpose and audience of the text,… in a radio interview transcript?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -212,14 +212,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Evaluating an author&#x27;s use of language features to present an opinion about those features.",
-      "A feature name is enough to prove an interpretation.",
-      "Evaluating the use of sources and quotations and presenting an opinion about how an author has supported an idea.",
-      "The feature has one fixed effect in every text, regardless of audience or purpose."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text.",
+      "Audience and purpose do not matter once the feature has been identified.",
+      "The feature has one fixed effect in every text, regardless of audience or purpose.",
+      "Naming the feature is enough; evidence from the text is unnecessary."
     ],
     "correct": 0,
-    "explanation": "Evaluating an author&#x27;s use of language features to present an opinion about those features. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 8
@@ -240,14 +240,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text.",
-      "Evaluating the use of sources and quotations and presenting an opinion about how an author has supported an idea.",
-      "Evaluating an author&#x27;s use of language features to present an opinion about those features.",
-      "It is enough to name the feature; no evidence or explanation of its effect is needed."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape evaluating the use of sources and quotations and presenting an opinion.",
+      "The feature has one fixed effect in every text, regardless of audience or purpose.",
+      "Naming the feature is enough; evidence from the text is unnecessary."
     ],
     "correct": 1,
-    "explanation": "Evaluating the use of sources and quotations and presenting an opinion about how an author has supported an idea. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use structure to shape evaluating the use of sources and quotations and presenting an opinion about how an author has supported an idea and influence how an audience understands the text.",
+    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape evaluating the use of sources and quotations and presenting an opinion. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape evaluating the use of sources and quotations and presenting an opinion.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 9
@@ -259,8 +259,8 @@ window.skillrTestQuestions = [
     "skill": "and evaluate the ways that language features vary according to the purpose and audience of the text,…",
     "printable": true,
     "type": "single",
-    "question": "Which choice applies an accurate understanding of a writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text to a theatre review?",
-    "audioPrompt": "Which choice applies an accurate understanding of a writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text to a theatre review?",
+    "question": "Which choice applies an accurate understanding of and evaluate the ways that language features vary according to the purpose and audience of the text,… to a theatre review?",
+    "audioPrompt": "Which choice applies an accurate understanding of and evaluate the ways that language features vary according to the purpose and audience of the text,… to a theatre review?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -268,14 +268,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Evaluating the use of sources and quotations and presenting an opinion about how an author has supported an idea.",
-      "Evaluating an author&#x27;s use of language features to present an opinion about those features.",
-      "The most formal or complicated wording is automatically the most effective choice."
+      "Naming the feature is enough; evidence from the text is unnecessary.",
+      "The most formal or complicated wording is automatically the best choice.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text.",
+      "One isolated word proves the whole interpretation without needing context."
     ],
     "correct": 2,
-    "explanation": "Evaluating an author&#x27;s use of language features to present an opinion about those features. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 10
@@ -296,14 +296,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text.",
-      "Evaluating an author&#x27;s use of language features to present an opinion about those features.",
-      "A single word proves the whole interpretation, even when the surrounding context suggests otherwise.",
-      "Evaluating the use of sources and quotations and presenting an opinion about how an author has supported an idea."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text.",
+      "The most formal or complicated wording is automatically the best choice.",
+      "One isolated word proves the whole interpretation without needing context.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape evaluating the use of sources and quotations and presenting an opinion."
     ],
     "correct": 3,
-    "explanation": "Evaluating the use of sources and quotations and presenting an opinion about how an author has supported an idea. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use structure to shape evaluating the use of sources and quotations and presenting an opinion about how an author has supported an idea and influence how an audience understands the text.",
+    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape evaluating the use of sources and quotations and presenting an opinion. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape evaluating the use of sources and quotations and presenting an opinion.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 11
@@ -315,8 +315,8 @@ window.skillrTestQuestions = [
     "skill": "and evaluate the ways that language features vary according to the purpose and audience of the text,…",
     "printable": true,
     "type": "single",
-    "question": "Which option gives the strongest analysis of a writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text in a sports documentary?",
-    "audioPrompt": "Which option gives the strongest analysis of a writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text in a sports documentary?",
+    "question": "Which option gives the strongest analysis of and evaluate the ways that language features vary according to the purpose and audience of the text,… in a sports documentary?",
+    "audioPrompt": "Which option gives the strongest analysis of and evaluate the ways that language features vary according to the purpose and audience of the text,… in a sports documentary?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -324,14 +324,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Evaluating an author&#x27;s use of language features to present an opinion about those features.",
-      "A feature name is enough to prove an interpretation.",
-      "Evaluating the use of sources and quotations and presenting an opinion about how an author has supported an idea.",
-      "The feature only changes how the text looks or sounds; it does not shape meaning."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text.",
+      "One isolated word proves the whole interpretation without needing context.",
+      "The feature changes only surface style and cannot shape meaning.",
+      "Any interpretation is equally strong even when it lacks supporting evidence."
     ],
     "correct": 0,
-    "explanation": "Evaluating an author&#x27;s use of language features to present an opinion about those features. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 12
@@ -343,8 +343,8 @@ window.skillrTestQuestions = [
     "skill": "and evaluate the ways that language features vary according to the purpose and audience of the text,…",
     "printable": true,
     "type": "single",
-    "question": "Which choice would be most effective in a literary magazine extract if the aim is to use and evaluate the ways that language features vary according to the purpose and audience of the text,… deliberately?",
-    "audioPrompt": "Which choice would be most effective in a literary magazine extract if the aim is to use and evaluate the ways that language features vary according to the purpose and audience of the text,… deliberately?",
+    "question": "Which choice would use and evaluate the ways that language features vary according to the purpose and audience of the text,… most effectively in a literary magazine extract?",
+    "audioPrompt": "Which choice would use and evaluate the ways that language features vary according to the purpose and audience of the text,… most effectively in a literary magazine extract?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -352,14 +352,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text.",
-      "Evaluating the use of sources and quotations and presenting an opinion about how an author has supported an idea.",
-      "Evaluating an author&#x27;s use of language features to present an opinion about those features.",
-      "Any interpretation is equally strong, even if it cannot be supported with details from the text."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape evaluating the use of sources and quotations and presenting an opinion.",
+      "The feature changes only surface style and cannot shape meaning.",
+      "Any interpretation is equally strong even when it lacks supporting evidence."
     ],
     "correct": 1,
-    "explanation": "Evaluating the use of sources and quotations and presenting an opinion about how an author has supported an idea. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use structure to shape evaluating the use of sources and quotations and presenting an opinion about how an author has supported an idea and influence how an audience understands the text.",
+    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape evaluating the use of sources and quotations and presenting an opinion. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape evaluating the use of sources and quotations and presenting an opinion.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 13
@@ -371,8 +371,8 @@ window.skillrTestQuestions = [
     "skill": "and evaluate the ways that language features vary according to the purpose and audience of the text,…",
     "printable": true,
     "type": "single",
-    "question": "Which statement about a writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text can be defended from the evidence in a public-service announcement?",
-    "audioPrompt": "Which statement about a writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text can be defended from the evidence in a public-service announcement?",
+    "question": "Which statement about and evaluate the ways that language features vary according to the purpose and audience of the text,… can be defended in a public-service announcement?",
+    "audioPrompt": "Which statement about and evaluate the ways that language features vary according to the purpose and audience of the text,… can be defended in a public-service announcement?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -380,14 +380,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Evaluating the use of sources and quotations and presenting an opinion about how an author has supported an idea.",
-      "Evaluating an author&#x27;s use of language features to present an opinion about those features.",
-      "The writer should use the feature as often as possible because more of it always improves a text."
+      "Any interpretation is equally strong even when it lacks supporting evidence.",
+      "Using more of the feature will always improve a text.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text.",
+      "Audience and purpose do not matter once the feature has been identified."
     ],
     "correct": 2,
-    "explanation": "Evaluating an author&#x27;s use of language features to present an opinion about those features. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 14
@@ -408,14 +408,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text.",
-      "Evaluating an author&#x27;s use of language features to present an opinion about those features.",
-      "Purpose and audience can be ignored once the feature has been identified.",
-      "Evaluating the use of sources and quotations and presenting an opinion about how an author has supported an idea."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text.",
+      "Using more of the feature will always improve a text.",
+      "Audience and purpose do not matter once the feature has been identified.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape evaluating the use of sources and quotations and presenting an opinion."
     ],
     "correct": 3,
-    "explanation": "Evaluating the use of sources and quotations and presenting an opinion about how an author has supported an idea. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use structure to shape evaluating the use of sources and quotations and presenting an opinion about how an author has supported an idea and influence how an audience understands the text.",
+    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape evaluating the use of sources and quotations and presenting an opinion. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape evaluating the use of sources and quotations and presenting an opinion.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 15
@@ -427,8 +427,8 @@ window.skillrTestQuestions = [
     "skill": "and evaluate the ways that language features vary according to the purpose and audience of the text,…",
     "printable": true,
     "type": "single",
-    "question": "Which revision would best control a writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text in a youth conference presentation?",
-    "audioPrompt": "Which revision would best control a writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text in a youth conference presentation?",
+    "question": "Which revision would best control and evaluate the ways that language features vary according to the purpose and audience of the text,… in a youth conference presentation?",
+    "audioPrompt": "Which revision would best control and evaluate the ways that language features vary according to the purpose and audience of the text,… in a youth conference presentation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -436,14 +436,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Evaluating an author&#x27;s use of language features to present an opinion about those features.",
-      "A feature name is enough to prove an interpretation.",
-      "Evaluating the use of sources and quotations and presenting an opinion about how an author has supported an idea.",
-      "The feature has one fixed effect in every text, regardless of audience or purpose."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text.",
+      "Audience and purpose do not matter once the feature has been identified.",
+      "The feature has one fixed effect in every text, regardless of audience or purpose.",
+      "Naming the feature is enough; evidence from the text is unnecessary."
     ],
     "correct": 0,
-    "explanation": "Evaluating an author&#x27;s use of language features to present an opinion about those features. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape evaluating an author&#x27 and influence how an audience understands the text.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 16

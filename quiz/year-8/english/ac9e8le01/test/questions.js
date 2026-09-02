@@ -16,14 +16,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Explaining the ways texts by First Nations Australian authors represent unique ways of being, knowing, thinking and doing.",
-      "Discussing representations of characters from historical contexts in literary texts.",
-      "Explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
+      "The feature has one fixed effect in every text, regardless of audience or purpose."
     ],
     "correct": 1,
-    "explanation": "Explaining the ways texts by First Nations Australian authors represent unique ways of being, knowing, thinking and doing. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 1
@@ -44,14 +44,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own.",
-      "Explaining the ways texts by First Nations Australian authors represent unique ways of being, knowing, thinking and doing.",
-      "The most formal or complicated wording is automatically the most effective choice."
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
+      "Naming the feature is enough; evidence from the text is unnecessary.",
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
+      "The most formal or complicated wording is automatically the best choice."
     ],
     "correct": 2,
-    "explanation": "Explaining the ways texts by First Nations Australian authors represent unique ways of being, knowing, thinking and doing. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 2
@@ -72,14 +72,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Discussing representations of characters from historical contexts in literary texts.",
-      "A single word proves the whole interpretation, even when the surrounding context suggests otherwise.",
-      "Explaining the ways texts by First Nations Australian authors represent unique ways of being, knowing, thinking and doing."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+      "The most formal or complicated wording is automatically the best choice.",
+      "One isolated word proves the whole interpretation without needing context.",
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent."
     ],
     "correct": 3,
-    "explanation": "Explaining the ways texts by First Nations Australian authors represent unique ways of being, knowing, thinking and doing. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 3
@@ -100,14 +100,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Explaining the ways texts by First Nations Australian authors represent unique ways of being, knowing, thinking and doing.",
-      "A feature name is enough to prove an interpretation.",
-      "Discussing representations of characters from historical contexts in literary texts.",
-      "Explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
+      "One isolated word proves the whole interpretation without needing context."
     ],
     "correct": 0,
-    "explanation": "Explaining the ways texts by First Nations Australian authors represent unique ways of being, knowing, thinking and doing. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 4
@@ -119,8 +119,8 @@ window.skillrTestQuestions = [
     "skill": "the ways that ideas and points of view may represent the values of individuals and groups in literary…",
     "printable": true,
     "type": "single",
-    "question": "Which choice would be most effective in an environmental campaign video if the aim is to use the ways that ideas and points of view may represent the values of individuals and groups in literary… deliberately?",
-    "audioPrompt": "Which choice would be most effective in an environmental campaign video if the aim is to use the ways that ideas and points of view may represent the values of individuals and groups in literary… deliberately?",
+    "question": "Which choice would use the ways that ideas and points of view may represent the values of individuals and groups in literary… most effectively in an environmental campaign video?",
+    "audioPrompt": "Which choice would use the ways that ideas and points of view may represent the values of individuals and groups in literary… most effectively in an environmental campaign video?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -128,14 +128,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Explaining the ways texts by First Nations Australian authors represent unique ways of being, knowing, thinking and doing.",
-      "Explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own.",
-      "Any interpretation is equally strong, even if it cannot be supported with details from the text."
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
+      "The feature changes only surface style and cannot shape meaning.",
+      "Any interpretation is equally strong even when it lacks supporting evidence."
     ],
     "correct": 1,
-    "explanation": "Explaining the ways texts by First Nations Australian authors represent unique ways of being, knowing, thinking and doing. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 5
@@ -147,8 +147,8 @@ window.skillrTestQuestions = [
     "skill": "the ways that ideas and points of view may represent the values of individuals and groups in literary…",
     "printable": true,
     "type": "single",
-    "question": "Which statement about the ways that ideas and points of view may represent the values of individuals and groups in literary… can be defended from the evidence in a cultural-festival program?",
-    "audioPrompt": "Which statement about the ways that ideas and points of view may represent the values of individuals and groups in literary… can be defended from the evidence in a cultural-festival program?",
+    "question": "Which statement about the ways that ideas and points of view may represent the values of individuals and groups in literary… can be defended in a cultural-festival program?",
+    "audioPrompt": "Which statement about the ways that ideas and points of view may represent the values of individuals and groups in literary… can be defended in a cultural-festival program?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -156,14 +156,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Discussing representations of characters from historical contexts in literary texts.",
-      "Explaining the ways texts by First Nations Australian authors represent unique ways of being, knowing, thinking and doing.",
-      "The writer should use the feature as often as possible because more of it always improves a text."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+      "Any interpretation is equally strong even when it lacks supporting evidence.",
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
+      "Using more of the feature will always improve a text."
     ],
     "correct": 2,
-    "explanation": "Explaining the ways texts by First Nations Australian authors represent unique ways of being, knowing, thinking and doing. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 6
@@ -184,14 +184,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Discussing representations of characters from historical contexts in literary texts.",
-      "Explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own.",
-      "Explaining the ways texts by First Nations Australian authors represent unique ways of being, knowing, thinking and doing."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
+      "Using more of the feature will always improve a text.",
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent."
     ],
     "correct": 3,
-    "explanation": "Explaining the ways texts by First Nations Australian authors represent unique ways of being, knowing, thinking and doing. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 7
@@ -212,14 +212,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Explaining the ways texts by First Nations Australian authors represent unique ways of being, knowing, thinking and doing.",
-      "A feature name is enough to prove an interpretation.",
-      "Explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own.",
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
+      "Audience and purpose do not matter once the feature has been identified.",
       "The feature has one fixed effect in every text, regardless of audience or purpose."
     ],
     "correct": 0,
-    "explanation": "Explaining the ways texts by First Nations Australian authors represent unique ways of being, knowing, thinking and doing. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 8
@@ -240,14 +240,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Explaining the ways texts by First Nations Australian authors represent unique ways of being, knowing, thinking and doing.",
-      "Discussing representations of characters from historical contexts in literary texts.",
-      "It is enough to name the feature; no evidence or explanation of its effect is needed."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
+      "The feature has one fixed effect in every text, regardless of audience or purpose.",
+      "Naming the feature is enough; evidence from the text is unnecessary."
     ],
     "correct": 1,
-    "explanation": "Explaining the ways texts by First Nations Australian authors represent unique ways of being, knowing, thinking and doing. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 9
@@ -268,14 +268,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Discussing representations of characters from historical contexts in literary texts.",
-      "Explaining the ways texts by First Nations Australian authors represent unique ways of being, knowing, thinking and doing.",
-      "Explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
+      "Naming the feature is enough; evidence from the text is unnecessary."
     ],
     "correct": 2,
-    "explanation": "Explaining the ways texts by First Nations Australian authors represent unique ways of being, knowing, thinking and doing. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 10
@@ -296,14 +296,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own.",
-      "A single word proves the whole interpretation, even when the surrounding context suggests otherwise.",
-      "Explaining the ways texts by First Nations Australian authors represent unique ways of being, knowing, thinking and doing."
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
+      "The most formal or complicated wording is automatically the best choice.",
+      "One isolated word proves the whole interpretation without needing context.",
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent."
     ],
     "correct": 3,
-    "explanation": "Explaining the ways texts by First Nations Australian authors represent unique ways of being, knowing, thinking and doing. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 11
@@ -324,14 +324,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Explaining the ways texts by First Nations Australian authors represent unique ways of being, knowing, thinking and doing.",
-      "A feature name is enough to prove an interpretation.",
-      "Discussing representations of characters from historical contexts in literary texts.",
-      "The feature only changes how the text looks or sounds; it does not shape meaning."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+      "One isolated word proves the whole interpretation without needing context.",
+      "The feature changes only surface style and cannot shape meaning."
     ],
     "correct": 0,
-    "explanation": "Explaining the ways texts by First Nations Australian authors represent unique ways of being, knowing, thinking and doing. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 12
@@ -343,8 +343,8 @@ window.skillrTestQuestions = [
     "skill": "the ways that ideas and points of view may represent the values of individuals and groups in literary…",
     "printable": true,
     "type": "single",
-    "question": "Which choice would be most effective in a literary magazine extract if the aim is to use the ways that ideas and points of view may represent the values of individuals and groups in literary… deliberately?",
-    "audioPrompt": "Which choice would be most effective in a literary magazine extract if the aim is to use the ways that ideas and points of view may represent the values of individuals and groups in literary… deliberately?",
+    "question": "Which choice would use the ways that ideas and points of view may represent the values of individuals and groups in literary… most effectively in a literary magazine extract?",
+    "audioPrompt": "Which choice would use the ways that ideas and points of view may represent the values of individuals and groups in literary… most effectively in a literary magazine extract?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -352,14 +352,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Explaining the ways texts by First Nations Australian authors represent unique ways of being, knowing, thinking and doing.",
-      "Discussing representations of characters from historical contexts in literary texts.",
-      "Explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
+      "The feature changes only surface style and cannot shape meaning."
     ],
     "correct": 1,
-    "explanation": "Explaining the ways texts by First Nations Australian authors represent unique ways of being, knowing, thinking and doing. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 13
@@ -371,8 +371,8 @@ window.skillrTestQuestions = [
     "skill": "the ways that ideas and points of view may represent the values of individuals and groups in literary…",
     "printable": true,
     "type": "single",
-    "question": "Which statement about the ways that ideas and points of view may represent the values of individuals and groups in literary… can be defended from the evidence in a public-service announcement?",
-    "audioPrompt": "Which statement about the ways that ideas and points of view may represent the values of individuals and groups in literary… can be defended from the evidence in a public-service announcement?",
+    "question": "Which statement about the ways that ideas and points of view may represent the values of individuals and groups in literary… can be defended in a public-service announcement?",
+    "audioPrompt": "Which statement about the ways that ideas and points of view may represent the values of individuals and groups in literary… can be defended in a public-service announcement?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -380,14 +380,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own.",
-      "Explaining the ways texts by First Nations Australian authors represent unique ways of being, knowing, thinking and doing.",
-      "The writer should use the feature as often as possible because more of it always improves a text."
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
+      "Any interpretation is equally strong even when it lacks supporting evidence.",
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
+      "Using more of the feature will always improve a text."
     ],
     "correct": 2,
-    "explanation": "Explaining the ways texts by First Nations Australian authors represent unique ways of being, knowing, thinking and doing. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 14
@@ -408,14 +408,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Discussing representations of characters from historical contexts in literary texts.",
-      "Purpose and audience can be ignored once the feature has been identified.",
-      "Explaining the ways texts by First Nations Australian authors represent unique ways of being, knowing, thinking and doing."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+      "Using more of the feature will always improve a text.",
+      "Audience and purpose do not matter once the feature has been identified.",
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent."
     ],
     "correct": 3,
-    "explanation": "Explaining the ways texts by First Nations Australian authors represent unique ways of being, knowing, thinking and doing. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 15
@@ -436,14 +436,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Explaining the ways texts by First Nations Australian authors represent unique ways of being, knowing, thinking and doing.",
-      "A feature name is enough to prove an interpretation.",
-      "Discussing representations of characters from historical contexts in literary texts.",
-      "Explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary.",
+      "Audience and purpose do not matter once the feature has been identified."
     ],
     "correct": 0,
-    "explanation": "Explaining the ways texts by First Nations Australian authors represent unique ways of being, knowing, thinking and doing. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 16

@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify intertextual references in literary texts and explain how the references enable new…",
     "printable": true,
     "type": "single",
-    "question": "In a school podcast script, which option most clearly shows identify intertextual references in literary texts and explain how the references enable new…?",
-    "audioPrompt": "In a school podcast script, which option most clearly shows identify intertextual references in literary texts and explain how the references enable new…?",
+    "question": "In a school podcast script, which option is the clearest example of identify intertextual references in literary texts and explain how the references enable new…?",
+    "audioPrompt": "In a school podcast script, which option is the clearest example of identify intertextual references in literary texts and explain how the references enable new…?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,14 +16,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation.",
-      "A feature name is enough to prove an interpretation.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
       "The feature has one fixed effect in every text, regardless of audience or purpose.",
-      "It is enough to name the feature; no evidence or explanation of its effect is needed."
+      "Naming the feature is enough; evidence from the text is unnecessary.",
+      "The most formal or complicated wording is automatically the best choice."
     ],
     "correct": 0,
-    "explanation": "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify intertextual references in literary texts and explain how the references enable new…",
     "printable": true,
     "type": "single",
-    "question": "While reading a community-news article, which choice is the clearest example of identify intertextual references in literary texts and explain how the references enable new…?",
-    "audioPrompt": "While reading a community-news article, which choice is the clearest example of identify intertextual references in literary texts and explain how the references enable new…?",
+    "question": "Which choice in a community-news article most clearly demonstrates identify intertextual references in literary texts and explain how the references enable new…?",
+    "audioPrompt": "Which choice in a community-news article most clearly demonstrates identify intertextual references in literary texts and explain how the references enable new…?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,14 +45,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation.",
-      "It is enough to name the feature; no evidence or explanation of its effect is needed.",
-      "The most formal or complicated wording is automatically the most effective choice."
+      "Naming the feature is enough; evidence from the text is unnecessary.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
+      "The most formal or complicated wording is automatically the best choice.",
+      "One isolated word proves the whole interpretation without needing context."
     ],
     "correct": 1,
-    "explanation": "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify intertextual references in literary texts and explain how the references enable new…",
     "printable": true,
     "type": "single",
-    "question": "Which option would you identify as an example of identify intertextual references in literary texts and explain how the references enable new… in a library book-club discussion?",
-    "audioPrompt": "Which option would you identify as an example of identify intertextual references in literary texts and explain how the references enable new… in a library book-club discussion?",
+    "question": "While reading a library book-club discussion, which option would you identify as identify intertextual references in literary texts and explain how the references enable new…?",
+    "audioPrompt": "While reading a library book-club discussion, which option would you identify as identify intertextual references in literary texts and explain how the references enable new…?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,14 +74,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "The most formal or complicated wording is automatically the most effective choice.",
-      "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation.",
-      "A single word proves the whole interpretation, even when the surrounding context suggests otherwise."
+      "The most formal or complicated wording is automatically the best choice.",
+      "One isolated word proves the whole interpretation without needing context.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
+      "The feature changes only surface style and cannot shape meaning."
     ],
     "correct": 2,
-    "explanation": "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify intertextual references in literary texts and explain how the references enable new…",
     "printable": true,
     "type": "single",
-    "question": "A student council speech is being edited. Which choice best matches identify intertextual references in literary texts and explain how the references enable new…?",
-    "audioPrompt": "A student council speech is being edited. Which choice best matches identify intertextual references in literary texts and explain how the references enable new…?",
+    "question": "Which feature choice best matches identify intertextual references in literary texts and explain how the references enable new… in a student council speech?",
+    "audioPrompt": "Which feature choice best matches identify intertextual references in literary texts and explain how the references enable new… in a student council speech?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,14 +103,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "A single word proves the whole interpretation, even when the surrounding context suggests otherwise.",
-      "The feature only changes how the text looks or sounds; it does not shape meaning.",
-      "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation."
+      "One isolated word proves the whole interpretation without needing context.",
+      "The feature changes only surface style and cannot shape meaning.",
+      "Any interpretation is equally strong even when it lacks supporting evidence.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and."
     ],
     "correct": 3,
-    "explanation": "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify intertextual references in literary texts and explain how the references enable new…",
     "printable": true,
     "type": "single",
-    "question": "Which feature in a science-expo explanation best fits the idea of identify intertextual references in literary texts and explain how the references enable new…?",
-    "audioPrompt": "Which feature in a science-expo explanation best fits the idea of identify intertextual references in literary texts and explain how the references enable new…?",
+    "question": "For a science-expo explanation, which option gives the strongest evidence of identify intertextual references in literary texts and explain how the references enable new…?",
+    "audioPrompt": "For a science-expo explanation, which option gives the strongest evidence of identify intertextual references in literary texts and explain how the references enable new…?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,14 +132,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation.",
-      "A feature name is enough to prove an interpretation.",
-      "The feature only changes how the text looks or sounds; it does not shape meaning.",
-      "Any interpretation is equally strong, even if it cannot be supported with details from the text."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
+      "The feature changes only surface style and cannot shape meaning.",
+      "Any interpretation is equally strong even when it lacks supporting evidence.",
+      "Using more of the feature will always improve a text."
     ],
     "correct": 0,
-    "explanation": "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify intertextual references in literary texts and explain how the references enable new…",
     "printable": true,
     "type": "single",
-    "question": "Look at the four choices for a museum caption. Which one demonstrates identify intertextual references in literary texts and explain how the references enable new… most accurately?",
-    "audioPrompt": "Look at the four choices for a museum caption. Which one demonstrates identify intertextual references in literary texts and explain how the references enable new… most accurately?",
+    "question": "Which choice best represents identify intertextual references in literary texts and explain how the references enable new… in a museum caption?",
+    "audioPrompt": "Which choice best represents identify intertextual references in literary texts and explain how the references enable new… in a museum caption?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,14 +161,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation.",
-      "Any interpretation is equally strong, even if it cannot be supported with details from the text.",
-      "The writer should use the feature as often as possible because more of it always improves a text."
+      "Any interpretation is equally strong even when it lacks supporting evidence.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
+      "Using more of the feature will always improve a text.",
+      "Audience and purpose do not matter once the feature has been identified."
     ],
     "correct": 1,
-    "explanation": "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify intertextual references in literary texts and explain how the references enable new…",
     "printable": true,
     "type": "single",
-    "question": "Which choice belongs in a local-sport profile if the writer wants to show identify intertextual references in literary texts and explain how the references enable new…?",
-    "audioPrompt": "Which choice belongs in a local-sport profile if the writer wants to show identify intertextual references in literary texts and explain how the references enable new…?",
+    "question": "A reader is looking for identify intertextual references in literary texts and explain how the references enable new… in a local-sport profile. Which option should they choose?",
+    "audioPrompt": "A reader is looking for identify intertextual references in literary texts and explain how the references enable new… in a local-sport profile. Which option should they choose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,14 +190,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "The writer should use the feature as often as possible because more of it always improves a text.",
-      "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation.",
-      "Purpose and audience can be ignored once the feature has been identified."
+      "Using more of the feature will always improve a text.",
+      "Audience and purpose do not matter once the feature has been identified.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
+      "The feature has one fixed effect in every text, regardless of audience or purpose."
     ],
     "correct": 2,
-    "explanation": "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify intertextual references in literary texts and explain how the references enable new…",
     "printable": true,
     "type": "single",
-    "question": "A reader notices a deliberate language choice in a school newsletter. Which option best identifies identify intertextual references in literary texts and explain how the references enable new…?",
-    "audioPrompt": "A reader notices a deliberate language choice in a school newsletter. Which option best identifies identify intertextual references in literary texts and explain how the references enable new…?",
+    "question": "Which example from a school newsletter most accurately shows identify intertextual references in literary texts and explain how the references enable new…?",
+    "audioPrompt": "Which example from a school newsletter most accurately shows identify intertextual references in literary texts and explain how the references enable new…?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,14 +219,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Purpose and audience can be ignored once the feature has been identified.",
+      "Audience and purpose do not matter once the feature has been identified.",
       "The feature has one fixed effect in every text, regardless of audience or purpose.",
-      "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation."
+      "Naming the feature is enough; evidence from the text is unnecessary.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and."
     ],
     "correct": 3,
-    "explanation": "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
@@ -239,8 +239,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify intertextual references in literary texts and explain how the references enable new…",
     "printable": true,
     "type": "single",
-    "question": "Which option is the strongest match for identify intertextual references in literary texts and explain how the references enable new… in a youth radio segment?",
-    "audioPrompt": "Which option is the strongest match for identify intertextual references in literary texts and explain how the references enable new… in a youth radio segment?",
+    "question": "Which option belongs under the heading “identify intertextual references in literary texts and explain how the references enable new…” for a youth radio segment?",
+    "audioPrompt": "Which option belongs under the heading “identify intertextual references in literary texts and explain how the references enable new…” for a youth radio segment?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -248,14 +248,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation.",
-      "A feature name is enough to prove an interpretation.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
       "The feature has one fixed effect in every text, regardless of audience or purpose.",
-      "It is enough to name the feature; no evidence or explanation of its effect is needed."
+      "Naming the feature is enough; evidence from the text is unnecessary.",
+      "The most formal or complicated wording is automatically the best choice."
     ],
     "correct": 0,
-    "explanation": "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
@@ -268,8 +268,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify intertextual references in literary texts and explain how the references enable new…",
     "printable": true,
     "type": "single",
-    "question": "For a bushwalking safety page, which choice gives the clearest evidence of identify intertextual references in literary texts and explain how the references enable new…?",
-    "audioPrompt": "For a bushwalking safety page, which choice gives the clearest evidence of identify intertextual references in literary texts and explain how the references enable new…?",
+    "question": "Which choice is the best match for identify intertextual references in literary texts and explain how the references enable new… in a bushwalking safety page?",
+    "audioPrompt": "Which choice is the best match for identify intertextual references in literary texts and explain how the references enable new… in a bushwalking safety page?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -277,14 +277,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation.",
-      "It is enough to name the feature; no evidence or explanation of its effect is needed.",
-      "The most formal or complicated wording is automatically the most effective choice."
+      "Naming the feature is enough; evidence from the text is unnecessary.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
+      "The most formal or complicated wording is automatically the best choice.",
+      "One isolated word proves the whole interpretation without needing context."
     ],
     "correct": 1,
-    "explanation": "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
     "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
@@ -297,8 +297,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify intertextual references in literary texts and explain how the references enable new…",
     "printable": true,
     "type": "single",
-    "question": "In a review of an Australian novel, which explanation best shows why identify intertextual references in literary texts and explain how the references enable new… matters?",
-    "audioPrompt": "In a review of an Australian novel, which explanation best shows why identify intertextual references in literary texts and explain how the references enable new… matters?",
+    "question": "In a review of an Australian novel, which explanation best shows how identify intertextual references in literary texts and explain how the references enable new… shapes meaning?",
+    "audioPrompt": "In a review of an Australian novel, which explanation best shows how identify intertextual references in literary texts and explain how the references enable new… shapes meaning?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -306,14 +306,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "The most formal or complicated wording is automatically the most effective choice.",
-      "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation.",
-      "A single word proves the whole interpretation, even when the surrounding context suggests otherwise."
+      "The most formal or complicated wording is automatically the best choice.",
+      "One isolated word proves the whole interpretation without needing context.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
+      "The feature changes only surface style and cannot shape meaning."
     ],
     "correct": 2,
-    "explanation": "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
     "stage": "explain",
     "difficulty": 2,
     "difficultyTier": "explain",
@@ -335,14 +335,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "A single word proves the whole interpretation, even when the surrounding context suggests otherwise.",
-      "The feature only changes how the text looks or sounds; it does not shape meaning.",
-      "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation."
+      "One isolated word proves the whole interpretation without needing context.",
+      "The feature changes only surface style and cannot shape meaning.",
+      "Any interpretation is equally strong even when it lacks supporting evidence.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and."
     ],
     "correct": 3,
-    "explanation": "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
     "stage": "explain",
     "difficulty": 2,
     "difficultyTier": "explain",
@@ -355,8 +355,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify intertextual references in literary texts and explain how the references enable new…",
     "printable": true,
     "type": "single",
-    "question": "A reader is explaining identify intertextual references in literary texts and explain how the references enable new… in a class debate. Which response connects the feature to meaning most clearly?",
-    "audioPrompt": "A reader is explaining identify intertextual references in literary texts and explain how the references enable new… in a class debate. Which response connects the feature to meaning most clearly?",
+    "question": "Which response connects identify intertextual references in literary texts and explain how the references enable new… to audience or purpose in a class debate?",
+    "audioPrompt": "Which response connects identify intertextual references in literary texts and explain how the references enable new… to audience or purpose in a class debate?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -364,14 +364,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation.",
-      "A feature name is enough to prove an interpretation.",
-      "The feature only changes how the text looks or sounds; it does not shape meaning.",
-      "Any interpretation is equally strong, even if it cannot be supported with details from the text."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
+      "The feature changes only surface style and cannot shape meaning.",
+      "Any interpretation is equally strong even when it lacks supporting evidence.",
+      "Using more of the feature will always improve a text."
     ],
     "correct": 0,
-    "explanation": "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
     "stage": "explain",
     "difficulty": 2,
     "difficultyTier": "explain",
@@ -384,8 +384,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify intertextual references in literary texts and explain how the references enable new…",
     "printable": true,
     "type": "single",
-    "question": "Which explanation of identify intertextual references in literary texts and explain how the references enable new… would make the strongest sense in a community-festival webpage?",
-    "audioPrompt": "Which explanation of identify intertextual references in literary texts and explain how the references enable new… would make the strongest sense in a community-festival webpage?",
+    "question": "A reader is explaining identify intertextual references in literary texts and explain how the references enable new… in a community-festival webpage. Which comment is most precise?",
+    "audioPrompt": "A reader is explaining identify intertextual references in literary texts and explain how the references enable new… in a community-festival webpage. Which comment is most precise?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -393,14 +393,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation.",
-      "Any interpretation is equally strong, even if it cannot be supported with details from the text.",
-      "The writer should use the feature as often as possible because more of it always improves a text."
+      "Any interpretation is equally strong even when it lacks supporting evidence.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
+      "Using more of the feature will always improve a text.",
+      "Audience and purpose do not matter once the feature has been identified."
     ],
     "correct": 1,
-    "explanation": "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
     "stage": "explain",
     "difficulty": 2,
     "difficultyTier": "explain",
@@ -413,8 +413,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify intertextual references in literary texts and explain how the references enable new…",
     "printable": true,
     "type": "single",
-    "question": "How can identify intertextual references in literary texts and explain how the references enable new… shape the way an audience understands a wildlife-centre brochure? Choose the best explanation.",
-    "audioPrompt": "How can identify intertextual references in literary texts and explain how the references enable new… shape the way an audience understands a wildlife-centre brochure? Choose the best explanation.",
+    "question": "Which explanation goes beyond naming identify intertextual references in literary texts and explain how the references enable new… and shows what it does in a wildlife-centre brochure?",
+    "audioPrompt": "Which explanation goes beyond naming identify intertextual references in literary texts and explain how the references enable new… and shows what it does in a wildlife-centre brochure?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -422,14 +422,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "The writer should use the feature as often as possible because more of it always improves a text.",
-      "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation.",
-      "Purpose and audience can be ignored once the feature has been identified."
+      "Using more of the feature will always improve a text.",
+      "Audience and purpose do not matter once the feature has been identified.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
+      "The feature has one fixed effect in every text, regardless of audience or purpose."
     ],
     "correct": 2,
-    "explanation": "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
     "stage": "explain",
     "difficulty": 2,
     "difficultyTier": "explain",
@@ -442,8 +442,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify intertextual references in literary texts and explain how the references enable new…",
     "printable": true,
     "type": "single",
-    "question": "Which response goes beyond naming identify intertextual references in literary texts and explain how the references enable new… and explains what it does in a historical display?",
-    "audioPrompt": "Which response goes beyond naming identify intertextual references in literary texts and explain how the references enable new… and explains what it does in a historical display?",
+    "question": "How does identify intertextual references in literary texts and explain how the references enable new… matter in a historical display? Choose the strongest explanation.",
+    "audioPrompt": "How does identify intertextual references in literary texts and explain how the references enable new… matter in a historical display? Choose the strongest explanation.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -451,14 +451,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Purpose and audience can be ignored once the feature has been identified.",
+      "Audience and purpose do not matter once the feature has been identified.",
       "The feature has one fixed effect in every text, regardless of audience or purpose.",
-      "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation."
+      "Naming the feature is enough; evidence from the text is unnecessary.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and."
     ],
     "correct": 3,
-    "explanation": "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
     "stage": "explain",
     "difficulty": 2,
     "difficultyTier": "explain",
@@ -471,8 +471,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify intertextual references in literary texts and explain how the references enable new…",
     "printable": true,
     "type": "single",
-    "question": "For a persuasive letter to council, which statement gives the most precise explanation of identify intertextual references in literary texts and explain how the references enable new…?",
-    "audioPrompt": "For a persuasive letter to council, which statement gives the most precise explanation of identify intertextual references in literary texts and explain how the references enable new…?",
+    "question": "Which statement best accounts for the effect of identify intertextual references in literary texts and explain how the references enable new… in a persuasive letter to council?",
+    "audioPrompt": "Which statement best accounts for the effect of identify intertextual references in literary texts and explain how the references enable new… in a persuasive letter to council?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -480,14 +480,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation.",
-      "A feature name is enough to prove an interpretation.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
       "The feature has one fixed effect in every text, regardless of audience or purpose.",
-      "It is enough to name the feature; no evidence or explanation of its effect is needed."
+      "Naming the feature is enough; evidence from the text is unnecessary.",
+      "The most formal or complicated wording is automatically the best choice."
     ],
     "correct": 0,
-    "explanation": "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
     "stage": "explain",
     "difficulty": 2,
     "difficultyTier": "explain",
@@ -500,8 +500,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify intertextual references in literary texts and explain how the references enable new…",
     "printable": true,
     "type": "single",
-    "question": "Which explanation links identify intertextual references in literary texts and explain how the references enable new… to purpose or audience in a school assembly address?",
-    "audioPrompt": "Which explanation links identify intertextual references in literary texts and explain how the references enable new… to purpose or audience in a school assembly address?",
+    "question": "Which explanation of identify intertextual references in literary texts and explain how the references enable new… is best supported by a school assembly address?",
+    "audioPrompt": "Which explanation of identify intertextual references in literary texts and explain how the references enable new… is best supported by a school assembly address?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -509,14 +509,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation.",
-      "It is enough to name the feature; no evidence or explanation of its effect is needed.",
-      "The most formal or complicated wording is automatically the most effective choice."
+      "Naming the feature is enough; evidence from the text is unnecessary.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
+      "The most formal or complicated wording is automatically the best choice.",
+      "One isolated word proves the whole interpretation without needing context."
     ],
     "correct": 1,
-    "explanation": "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
     "stage": "explain",
     "difficulty": 2,
     "difficultyTier": "explain",
@@ -529,8 +529,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify intertextual references in literary texts and explain how the references enable new…",
     "printable": true,
     "type": "single",
-    "question": "A class is discussing a digital magazine feature. Which comment best explains identify intertextual references in literary texts and explain how the references enable new…?",
-    "audioPrompt": "A class is discussing a digital magazine feature. Which comment best explains identify intertextual references in literary texts and explain how the references enable new…?",
+    "question": "Which response most clearly links identify intertextual references in literary texts and explain how the references enable new… with meaning in a digital magazine feature?",
+    "audioPrompt": "Which response most clearly links identify intertextual references in literary texts and explain how the references enable new… with meaning in a digital magazine feature?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -538,14 +538,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "The most formal or complicated wording is automatically the most effective choice.",
-      "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation.",
-      "A single word proves the whole interpretation, even when the surrounding context suggests otherwise."
+      "The most formal or complicated wording is automatically the best choice.",
+      "One isolated word proves the whole interpretation without needing context.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
+      "The feature changes only surface style and cannot shape meaning."
     ],
     "correct": 2,
-    "explanation": "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
     "stage": "explain",
     "difficulty": 2,
     "difficultyTier": "explain",
@@ -558,8 +558,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify intertextual references in literary texts and explain how the references enable new…",
     "printable": true,
     "type": "single",
-    "question": "Which statement best accounts for the effect of identify intertextual references in literary texts and explain how the references enable new… in a public-transport campaign?",
-    "audioPrompt": "Which statement best accounts for the effect of identify intertextual references in literary texts and explain how the references enable new… in a public-transport campaign?",
+    "question": "For a public-transport campaign, which statement gives the most useful explanation of identify intertextual references in literary texts and explain how the references enable new…?",
+    "audioPrompt": "For a public-transport campaign, which statement gives the most useful explanation of identify intertextual references in literary texts and explain how the references enable new…?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -567,14 +567,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "A single word proves the whole interpretation, even when the surrounding context suggests otherwise.",
-      "The feature only changes how the text looks or sounds; it does not shape meaning.",
-      "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation."
+      "One isolated word proves the whole interpretation without needing context.",
+      "The feature changes only surface style and cannot shape meaning.",
+      "Any interpretation is equally strong even when it lacks supporting evidence.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and."
     ],
     "correct": 3,
-    "explanation": "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
     "stage": "explain",
     "difficulty": 2,
     "difficultyTier": "explain",
@@ -587,8 +587,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify intertextual references in literary texts and explain how the references enable new…",
     "printable": true,
     "type": "single",
-    "question": "Several comments are made about identify intertextual references in literary texts and explain how the references enable new… in a theatre-program note. Which one avoids the common misconception?",
-    "audioPrompt": "Several comments are made about identify intertextual references in literary texts and explain how the references enable new… in a theatre-program note. Which one avoids the common misconception?",
+    "question": "Which interpretation of identify intertextual references in literary texts and explain how the references enable new… in a theatre-program note is the most careful and accurate?",
+    "audioPrompt": "Which interpretation of identify intertextual references in literary texts and explain how the references enable new… in a theatre-program note is the most careful and accurate?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -596,14 +596,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation.",
-      "A feature name is enough to prove an interpretation.",
-      "The feature only changes how the text looks or sounds; it does not shape meaning.",
-      "Any interpretation is equally strong, even if it cannot be supported with details from the text."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
+      "The feature changes only surface style and cannot shape meaning.",
+      "Any interpretation is equally strong even when it lacks supporting evidence.",
+      "Using more of the feature will always improve a text."
     ],
     "correct": 0,
-    "explanation": "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
     "stage": "discriminate",
     "difficulty": 2,
     "difficultyTier": "discriminate",
@@ -616,8 +616,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify intertextual references in literary texts and explain how the references enable new…",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation of identify intertextual references in literary texts and explain how the references enable new… in a coastal-care poster is the most accurate?",
-    "audioPrompt": "Which interpretation of identify intertextual references in literary texts and explain how the references enable new… in a coastal-care poster is the most accurate?",
+    "question": "Several claims are made about identify intertextual references in literary texts and explain how the references enable new… in a coastal-care poster. Which one avoids an overgeneralisation?",
+    "audioPrompt": "Several claims are made about identify intertextual references in literary texts and explain how the references enable new… in a coastal-care poster. Which one avoids an overgeneralisation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -625,14 +625,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation.",
-      "Any interpretation is equally strong, even if it cannot be supported with details from the text.",
-      "The writer should use the feature as often as possible because more of it always improves a text."
+      "Any interpretation is equally strong even when it lacks supporting evidence.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
+      "Using more of the feature will always improve a text.",
+      "Audience and purpose do not matter once the feature has been identified."
     ],
     "correct": 1,
-    "explanation": "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
     "stage": "discriminate",
     "difficulty": 2,
     "difficultyTier": "discriminate",
@@ -645,8 +645,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify intertextual references in literary texts and explain how the references enable new…",
     "printable": true,
     "type": "single",
-    "question": "Which option distinguishes a sound analysis of identify intertextual references in literary texts and explain how the references enable new… from a superficial one in a short-story workshop?",
-    "audioPrompt": "Which option distinguishes a sound analysis of identify intertextual references in literary texts and explain how the references enable new… from a superficial one in a short-story workshop?",
+    "question": "Which response distinguishes a sound analysis of identify intertextual references in literary texts and explain how the references enable new… from a superficial one in a short-story workshop?",
+    "audioPrompt": "Which response distinguishes a sound analysis of identify intertextual references in literary texts and explain how the references enable new… from a superficial one in a short-story workshop?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -654,14 +654,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "The writer should use the feature as often as possible because more of it always improves a text.",
-      "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation.",
-      "Purpose and audience can be ignored once the feature has been identified."
+      "Using more of the feature will always improve a text.",
+      "Audience and purpose do not matter once the feature has been identified.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
+      "The feature has one fixed effect in every text, regardless of audience or purpose."
     ],
     "correct": 2,
-    "explanation": "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
     "stage": "discriminate",
     "difficulty": 2,
     "difficultyTier": "discriminate",
@@ -674,8 +674,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify intertextual references in literary texts and explain how the references enable new…",
     "printable": true,
     "type": "single",
-    "question": "A reader has made an overgeneralisation about a media-literacy lesson. Which choice gives the more careful view of identify intertextual references in literary texts and explain how the references enable new…?",
-    "audioPrompt": "A reader has made an overgeneralisation about a media-literacy lesson. Which choice gives the more careful view of identify intertextual references in literary texts and explain how the references enable new…?",
+    "question": "Which statement about identify intertextual references in literary texts and explain how the references enable new… in a media-literacy lesson can actually be supported?",
+    "audioPrompt": "Which statement about identify intertextual references in literary texts and explain how the references enable new… in a media-literacy lesson can actually be supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -683,14 +683,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Purpose and audience can be ignored once the feature has been identified.",
+      "Audience and purpose do not matter once the feature has been identified.",
       "The feature has one fixed effect in every text, regardless of audience or purpose.",
-      "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation."
+      "Naming the feature is enough; evidence from the text is unnecessary.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and."
     ],
     "correct": 3,
-    "explanation": "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
     "stage": "discriminate",
     "difficulty": 2,
     "difficultyTier": "discriminate",
@@ -703,8 +703,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify intertextual references in literary texts and explain how the references enable new…",
     "printable": true,
     "type": "single",
-    "question": "Which statement about identify intertextual references in literary texts and explain how the references enable new… in a local-history podcast is supported rather than assumed?",
-    "audioPrompt": "Which statement about identify intertextual references in literary texts and explain how the references enable new… in a local-history podcast is supported rather than assumed?",
+    "question": "Which option avoids confusing the feature with its effect when discussing identify intertextual references in literary texts and explain how the references enable new… in a local-history podcast?",
+    "audioPrompt": "Which option avoids confusing the feature with its effect when discussing identify intertextual references in literary texts and explain how the references enable new… in a local-history podcast?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -712,14 +712,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation.",
-      "A feature name is enough to prove an interpretation.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
       "The feature has one fixed effect in every text, regardless of audience or purpose.",
-      "It is enough to name the feature; no evidence or explanation of its effect is needed."
+      "Naming the feature is enough; evidence from the text is unnecessary.",
+      "The most formal or complicated wording is automatically the best choice."
     ],
     "correct": 0,
-    "explanation": "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
     "stage": "discriminate",
     "difficulty": 2,
     "difficultyTier": "discriminate",
@@ -732,8 +732,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify intertextual references in literary texts and explain how the references enable new…",
     "printable": true,
     "type": "single",
-    "question": "Which option uses evidence and context to interpret identify intertextual references in literary texts and explain how the references enable new… in a school website update?",
-    "audioPrompt": "Which option uses evidence and context to interpret identify intertextual references in literary texts and explain how the references enable new… in a school website update?",
+    "question": "Which reading of identify intertextual references in literary texts and explain how the references enable new… in a school website update uses context rather than assumption?",
+    "audioPrompt": "Which reading of identify intertextual references in literary texts and explain how the references enable new… in a school website update uses context rather than assumption?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -741,14 +741,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation.",
-      "It is enough to name the feature; no evidence or explanation of its effect is needed.",
-      "The most formal or complicated wording is automatically the most effective choice."
+      "Naming the feature is enough; evidence from the text is unnecessary.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
+      "The most formal or complicated wording is automatically the best choice.",
+      "One isolated word proves the whole interpretation without needing context."
     ],
     "correct": 1,
-    "explanation": "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
     "stage": "discriminate",
     "difficulty": 2,
     "difficultyTier": "discriminate",
@@ -761,8 +761,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify intertextual references in literary texts and explain how the references enable new…",
     "printable": true,
     "type": "single",
-    "question": "Which response to a graphic-novel discussion shows the best judgement about identify intertextual references in literary texts and explain how the references enable new…?",
-    "audioPrompt": "Which response to a graphic-novel discussion shows the best judgement about identify intertextual references in literary texts and explain how the references enable new…?",
+    "question": "Which response gives the strongest judgement about identify intertextual references in literary texts and explain how the references enable new… in a graphic-novel discussion?",
+    "audioPrompt": "Which response gives the strongest judgement about identify intertextual references in literary texts and explain how the references enable new… in a graphic-novel discussion?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -770,14 +770,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "The most formal or complicated wording is automatically the most effective choice.",
-      "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation.",
-      "A single word proves the whole interpretation, even when the surrounding context suggests otherwise."
+      "The most formal or complicated wording is automatically the best choice.",
+      "One isolated word proves the whole interpretation without needing context.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
+      "The feature changes only surface style and cannot shape meaning."
     ],
     "correct": 2,
-    "explanation": "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
     "stage": "discriminate",
     "difficulty": 2,
     "difficultyTier": "discriminate",
@@ -799,14 +799,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "A single word proves the whole interpretation, even when the surrounding context suggests otherwise.",
-      "The feature only changes how the text looks or sounds; it does not shape meaning.",
-      "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation."
+      "One isolated word proves the whole interpretation without needing context.",
+      "The feature changes only surface style and cannot shape meaning.",
+      "Any interpretation is equally strong even when it lacks supporting evidence.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and."
     ],
     "correct": 3,
-    "explanation": "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
     "stage": "discriminate",
     "difficulty": 2,
     "difficultyTier": "discriminate",
@@ -819,8 +819,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify intertextual references in literary texts and explain how the references enable new…",
     "printable": true,
     "type": "single",
-    "question": "Which option avoids treating identify intertextual references in literary texts and explain how the references enable new… as a rule that always works the same way?",
-    "audioPrompt": "Which option avoids treating identify intertextual references in literary texts and explain how the references enable new… as a rule that always works the same way?",
+    "question": "Which option avoids treating identify intertextual references in literary texts and explain how the references enable new… as a rule that works identically everywhere?",
+    "audioPrompt": "Which option avoids treating identify intertextual references in literary texts and explain how the references enable new… as a rule that works identically everywhere?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -828,14 +828,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation.",
-      "A feature name is enough to prove an interpretation.",
-      "The feature only changes how the text looks or sounds; it does not shape meaning.",
-      "Any interpretation is equally strong, even if it cannot be supported with details from the text."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
+      "The feature changes only surface style and cannot shape meaning.",
+      "Any interpretation is equally strong even when it lacks supporting evidence.",
+      "Using more of the feature will always improve a text."
     ],
     "correct": 0,
-    "explanation": "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
     "stage": "discriminate",
     "difficulty": 2,
     "difficultyTier": "discriminate",
@@ -848,8 +848,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify intertextual references in literary texts and explain how the references enable new…",
     "printable": true,
     "type": "single",
-    "question": "Which reading of identify intertextual references in literary texts and explain how the references enable new… in a sustainability report is least likely to confuse feature, purpose and effect?",
-    "audioPrompt": "Which reading of identify intertextual references in literary texts and explain how the references enable new… in a sustainability report is least likely to confuse feature, purpose and effect?",
+    "question": "Which interpretation of identify intertextual references in literary texts and explain how the references enable new… best fits the evidence in a sustainability report?",
+    "audioPrompt": "Which interpretation of identify intertextual references in literary texts and explain how the references enable new… best fits the evidence in a sustainability report?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -857,14 +857,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation.",
-      "Any interpretation is equally strong, even if it cannot be supported with details from the text.",
-      "The writer should use the feature as often as possible because more of it always improves a text."
+      "Any interpretation is equally strong even when it lacks supporting evidence.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
+      "Using more of the feature will always improve a text.",
+      "Audience and purpose do not matter once the feature has been identified."
     ],
     "correct": 1,
-    "explanation": "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
     "stage": "discriminate",
     "difficulty": 2,
     "difficultyTier": "discriminate",
@@ -886,14 +886,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "The writer should use the feature as often as possible because more of it always improves a text.",
-      "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation.",
-      "Purpose and audience can be ignored once the feature has been identified."
+      "Using more of the feature will always improve a text.",
+      "Audience and purpose do not matter once the feature has been identified.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
+      "The feature has one fixed effect in every text, regardless of audience or purpose."
     ],
     "correct": 2,
-    "explanation": "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
     "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",
@@ -915,14 +915,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Purpose and audience can be ignored once the feature has been identified.",
+      "Audience and purpose do not matter once the feature has been identified.",
       "The feature has one fixed effect in every text, regardless of audience or purpose.",
-      "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation."
+      "Naming the feature is enough; evidence from the text is unnecessary.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and."
     ],
     "correct": 3,
-    "explanation": "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
     "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",
@@ -935,8 +935,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify intertextual references in literary texts and explain how the references enable new…",
     "printable": true,
     "type": "single",
-    "question": "To improve a youth forum post, which option would best apply identify intertextual references in literary texts and explain how the references enable new…?",
-    "audioPrompt": "To improve a youth forum post, which option would best apply identify intertextual references in literary texts and explain how the references enable new…?",
+    "question": "To improve a youth forum post, which option best applies identify intertextual references in literary texts and explain how the references enable new…?",
+    "audioPrompt": "To improve a youth forum post, which option best applies identify intertextual references in literary texts and explain how the references enable new…?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -944,14 +944,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation.",
-      "A feature name is enough to prove an interpretation.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
       "The feature has one fixed effect in every text, regardless of audience or purpose.",
-      "It is enough to name the feature; no evidence or explanation of its effect is needed."
+      "Naming the feature is enough; evidence from the text is unnecessary.",
+      "The most formal or complicated wording is automatically the best choice."
     ],
     "correct": 0,
-    "explanation": "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
     "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",
@@ -964,8 +964,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify intertextual references in literary texts and explain how the references enable new…",
     "printable": true,
     "type": "single",
-    "question": "Which choice would you use in a tourism information page to control identify intertextual references in literary texts and explain how the references enable new… deliberately?",
-    "audioPrompt": "Which choice would you use in a tourism information page to control identify intertextual references in literary texts and explain how the references enable new… deliberately?",
+    "question": "Which choice uses identify intertextual references in literary texts and explain how the references enable new… deliberately in a tourism information page?",
+    "audioPrompt": "Which choice uses identify intertextual references in literary texts and explain how the references enable new… deliberately in a tourism information page?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -973,14 +973,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation.",
-      "It is enough to name the feature; no evidence or explanation of its effect is needed.",
-      "The most formal or complicated wording is automatically the most effective choice."
+      "Naming the feature is enough; evidence from the text is unnecessary.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
+      "The most formal or complicated wording is automatically the best choice.",
+      "One isolated word proves the whole interpretation without needing context."
     ],
     "correct": 1,
-    "explanation": "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
     "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",
@@ -993,8 +993,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify intertextual references in literary texts and explain how the references enable new…",
     "printable": true,
     "type": "single",
-    "question": "A writer wants a spoken presentation to communicate more precisely. Which option best applies identify intertextual references in literary texts and explain how the references enable new…?",
-    "audioPrompt": "A writer wants a spoken presentation to communicate more precisely. Which option best applies identify intertextual references in literary texts and explain how the references enable new…?",
+    "question": "Which revision to a spoken presentation shows the most purposeful use of identify intertextual references in literary texts and explain how the references enable new…?",
+    "audioPrompt": "Which revision to a spoken presentation shows the most purposeful use of identify intertextual references in literary texts and explain how the references enable new…?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1002,14 +1002,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "The most formal or complicated wording is automatically the most effective choice.",
-      "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation.",
-      "A single word proves the whole interpretation, even when the surrounding context suggests otherwise."
+      "The most formal or complicated wording is automatically the best choice.",
+      "One isolated word proves the whole interpretation without needing context.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
+      "The feature changes only surface style and cannot shape meaning."
     ],
     "correct": 2,
-    "explanation": "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
     "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",
@@ -1022,8 +1022,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify intertextual references in literary texts and explain how the references enable new…",
     "printable": true,
     "type": "single",
-    "question": "Which revision to a feature article shows the most purposeful use of identify intertextual references in literary texts and explain how the references enable new…?",
-    "audioPrompt": "Which revision to a feature article shows the most purposeful use of identify intertextual references in literary texts and explain how the references enable new…?",
+    "question": "Which option transfers an understanding of identify intertextual references in literary texts and explain how the references enable new… to a feature article successfully?",
+    "audioPrompt": "Which option transfers an understanding of identify intertextual references in literary texts and explain how the references enable new… to a feature article successfully?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1031,14 +1031,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "A single word proves the whole interpretation, even when the surrounding context suggests otherwise.",
-      "The feature only changes how the text looks or sounds; it does not shape meaning.",
-      "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation."
+      "One isolated word proves the whole interpretation without needing context.",
+      "The feature changes only surface style and cannot shape meaning.",
+      "Any interpretation is equally strong even when it lacks supporting evidence.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and."
     ],
     "correct": 3,
-    "explanation": "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
     "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",
@@ -1051,8 +1051,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify intertextual references in literary texts and explain how the references enable new…",
     "printable": true,
     "type": "single",
-    "question": "Which option transfers an understanding of identify intertextual references in literary texts and explain how the references enable new… to a film-review discussion most successfully?",
-    "audioPrompt": "Which option transfers an understanding of identify intertextual references in literary texts and explain how the references enable new… to a film-review discussion most successfully?",
+    "question": "For a film-review discussion, which choice uses identify intertextual references in literary texts and explain how the references enable new… in a way that suits audience and purpose?",
+    "audioPrompt": "For a film-review discussion, which choice uses identify intertextual references in literary texts and explain how the references enable new… in a way that suits audience and purpose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1060,14 +1060,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation.",
-      "A feature name is enough to prove an interpretation.",
-      "The feature only changes how the text looks or sounds; it does not shape meaning.",
-      "Any interpretation is equally strong, even if it cannot be supported with details from the text."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
+      "The feature changes only surface style and cannot shape meaning.",
+      "Any interpretation is equally strong even when it lacks supporting evidence.",
+      "Using more of the feature will always improve a text."
     ],
     "correct": 0,
-    "explanation": "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
     "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",
@@ -1080,8 +1080,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify intertextual references in literary texts and explain how the references enable new…",
     "printable": true,
     "type": "single",
-    "question": "For a community survey summary, which choice uses identify intertextual references in literary texts and explain how the references enable new… in a way that suits audience and purpose?",
-    "audioPrompt": "For a community survey summary, which choice uses identify intertextual references in literary texts and explain how the references enable new… in a way that suits audience and purpose?",
+    "question": "Which decision would strengthen a community survey summary by applying identify intertextual references in literary texts and explain how the references enable new… rather than just naming it?",
+    "audioPrompt": "Which decision would strengthen a community survey summary by applying identify intertextual references in literary texts and explain how the references enable new… rather than just naming it?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1089,14 +1089,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation.",
-      "Any interpretation is equally strong, even if it cannot be supported with details from the text.",
-      "The writer should use the feature as often as possible because more of it always improves a text."
+      "Any interpretation is equally strong even when it lacks supporting evidence.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
+      "Using more of the feature will always improve a text.",
+      "Audience and purpose do not matter once the feature has been identified."
     ],
     "correct": 1,
-    "explanation": "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
     "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",
@@ -1109,8 +1109,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify intertextual references in literary texts and explain how the references enable new…",
     "printable": true,
     "type": "single",
-    "question": "Which decision would strengthen a reading-journal entry by applying identify intertextual references in literary texts and explain how the references enable new… rather than merely naming it?",
-    "audioPrompt": "Which decision would strengthen a reading-journal entry by applying identify intertextual references in literary texts and explain how the references enable new… rather than merely naming it?",
+    "question": "Which option is the best practical use of identify intertextual references in literary texts and explain how the references enable new… in a reading-journal entry?",
+    "audioPrompt": "Which option is the best practical use of identify intertextual references in literary texts and explain how the references enable new… in a reading-journal entry?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1118,14 +1118,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "The writer should use the feature as often as possible because more of it always improves a text.",
-      "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation.",
-      "Purpose and audience can be ignored once the feature has been identified."
+      "Using more of the feature will always improve a text.",
+      "Audience and purpose do not matter once the feature has been identified.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
+      "The feature has one fixed effect in every text, regardless of audience or purpose."
     ],
     "correct": 2,
-    "explanation": "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
     "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",
@@ -1138,8 +1138,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify intertextual references in literary texts and explain how the references enable new…",
     "printable": true,
     "type": "single",
-    "question": "Which option is the best practical use of identify intertextual references in literary texts and explain how the references enable new… in a school production program?",
-    "audioPrompt": "Which option is the best practical use of identify intertextual references in literary texts and explain how the references enable new… in a school production program?",
+    "question": "A writer is improving a school production program. Which choice shows confident control of identify intertextual references in literary texts and explain how the references enable new…?",
+    "audioPrompt": "A writer is improving a school production program. Which choice shows confident control of identify intertextual references in literary texts and explain how the references enable new…?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1147,14 +1147,14 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Purpose and audience can be ignored once the feature has been identified.",
+      "Audience and purpose do not matter once the feature has been identified.",
       "The feature has one fixed effect in every text, regardless of audience or purpose.",
-      "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation."
+      "Naming the feature is enough; evidence from the text is unnecessary.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and."
     ],
     "correct": 3,
-    "explanation": "Intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s understanding and appreciation. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and discussing how knowledge of other texts influences the reader’s.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape identifying intertextual references through allusion or quotation in written texts and.",
     "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",

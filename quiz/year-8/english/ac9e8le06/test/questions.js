@@ -16,14 +16,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text.",
-      "Combining literary devices to evoke a reader response.",
-      "Collaborating with a peer, which may include using online spaces, to write a short script with 2 characters, focusing on dialogue choices for each character.",
-      "Editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape collaborating with a peer, which may include using online spaces, to write a.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape combining literary devices to evoke a reader response and influence.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use reader response to shape editing the imagery and word choices when creating a literary.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape creating short stories focusing on characters and dialogue and influence how an audience."
     ],
     "correct": 1,
-    "explanation": "Combining literary devices to evoke a reader response. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use representation to shape combining literary devices to evoke a reader response and influence how an audience understands the text.",
+    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape combining literary devices to evoke a reader response and influence. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape combining literary devices to evoke a reader response and influence.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 1
@@ -44,14 +44,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes.",
-      "Creating short stories focusing on characters and dialogue.",
-      "Combining literary devices to evoke a reader response."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape collaborating with a peer, which may include using online spaces, to write a.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use reader response to shape editing the imagery and word choices when creating a literary.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape creating short stories focusing on characters and dialogue and influence how an audience.",
+      "Naming the feature is enough; evidence from the text is unnecessary."
     ],
     "correct": 2,
-    "explanation": "Creating short stories focusing on characters and dialogue. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use voice to shape creating short stories focusing on characters and dialogue and influence how an audience understands the text.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape creating short stories focusing on characters and dialogue and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape creating short stories focusing on characters and dialogue and influence how an audience.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 2
@@ -72,14 +72,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text.",
-      "Creating short stories focusing on characters and dialogue.",
-      "Combining literary devices to evoke a reader response.",
-      "Editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape collaborating with a peer, which may include using online spaces, to write a.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape creating short stories focusing on characters and dialogue and influence how an audience.",
+      "The most formal or complicated wording is automatically the best choice.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use reader response to shape editing the imagery and word choices when creating a literary."
     ],
     "correct": 3,
-    "explanation": "Editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use reader response to shape editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes and influence how an audience.",
+    "explanation": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use reader response to shape editing the imagery and word choices when creating a literary. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use reader response to shape editing the imagery and word choices when creating a literary.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 3
@@ -100,14 +100,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Collaborating with a peer, which may include using online spaces, to write a short script with 2 characters, focusing on dialogue choices for each character.",
-      "A feature name is enough to prove an interpretation.",
-      "Combining literary devices to evoke a reader response.",
-      "Editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape collaborating with a peer, which may include using online spaces, to write a.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use reader response to shape editing the imagery and word choices when creating a literary.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape creating short stories focusing on characters and dialogue and influence how an audience.",
+      "One isolated word proves the whole interpretation without needing context."
     ],
     "correct": 0,
-    "explanation": "Collaborating with a peer, which may include using online spaces, to write a short script with 2 characters, focusing on dialogue choices for each character. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use text choice to shape collaborating with a peer, which may include using online spaces, to write a short script with 2 characters, focusing on dialogue choices for each character.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape collaborating with a peer, which may include using online spaces, to write a. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape collaborating with a peer, which may include using online spaces, to write a.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 4
@@ -119,8 +119,8 @@ window.skillrTestQuestions = [
     "skill": "create and edit literary texts that experiment with language features and literary devices for…",
     "printable": true,
     "type": "single",
-    "question": "Which choice would be most effective in an environmental campaign video if the aim is to use create and edit literary texts that experiment with language features and literary devices for… deliberately?",
-    "audioPrompt": "Which choice would be most effective in an environmental campaign video if the aim is to use create and edit literary texts that experiment with language features and literary devices for… deliberately?",
+    "question": "Which choice would use create and edit literary texts that experiment with language features and literary devices for… most effectively in an environmental campaign video?",
+    "audioPrompt": "Which choice would use create and edit literary texts that experiment with language features and literary devices for… most effectively in an environmental campaign video?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -128,14 +128,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text.",
-      "Combining literary devices to evoke a reader response.",
-      "Collaborating with a peer, which may include using online spaces, to write a short script with 2 characters, focusing on dialogue choices for each character.",
-      "Editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape collaborating with a peer, which may include using online spaces, to write a.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape combining literary devices to evoke a reader response and influence.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use reader response to shape editing the imagery and word choices when creating a literary.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape creating short stories focusing on characters and dialogue and influence how an audience."
     ],
     "correct": 1,
-    "explanation": "Combining literary devices to evoke a reader response. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use representation to shape combining literary devices to evoke a reader response and influence how an audience understands the text.",
+    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape combining literary devices to evoke a reader response and influence. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape combining literary devices to evoke a reader response and influence.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 5
@@ -147,8 +147,8 @@ window.skillrTestQuestions = [
     "skill": "create and edit literary texts that experiment with language features and literary devices for…",
     "printable": true,
     "type": "single",
-    "question": "Which statement about create and edit literary texts that experiment with language features and literary devices for… can be defended from the evidence in a cultural-festival program?",
-    "audioPrompt": "Which statement about create and edit literary texts that experiment with language features and literary devices for… can be defended from the evidence in a cultural-festival program?",
+    "question": "Which statement about create and edit literary texts that experiment with language features and literary devices for… can be defended in a cultural-festival program?",
+    "audioPrompt": "Which statement about create and edit literary texts that experiment with language features and literary devices for… can be defended in a cultural-festival program?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -156,14 +156,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes.",
-      "Creating short stories focusing on characters and dialogue.",
-      "Combining literary devices to evoke a reader response."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape collaborating with a peer, which may include using online spaces, to write a.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use reader response to shape editing the imagery and word choices when creating a literary.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape creating short stories focusing on characters and dialogue and influence how an audience.",
+      "Any interpretation is equally strong even when it lacks supporting evidence."
     ],
     "correct": 2,
-    "explanation": "Creating short stories focusing on characters and dialogue. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use voice to shape creating short stories focusing on characters and dialogue and influence how an audience understands the text.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape creating short stories focusing on characters and dialogue and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape creating short stories focusing on characters and dialogue and influence how an audience.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 6
@@ -184,14 +184,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text.",
-      "Creating short stories focusing on characters and dialogue.",
-      "Combining literary devices to evoke a reader response.",
-      "Editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape collaborating with a peer, which may include using online spaces, to write a.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape creating short stories focusing on characters and dialogue and influence how an audience.",
+      "Using more of the feature will always improve a text.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use reader response to shape editing the imagery and word choices when creating a literary."
     ],
     "correct": 3,
-    "explanation": "Editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use reader response to shape editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes and influence how an audience.",
+    "explanation": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use reader response to shape editing the imagery and word choices when creating a literary. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use reader response to shape editing the imagery and word choices when creating a literary.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 7
@@ -212,14 +212,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Collaborating with a peer, which may include using online spaces, to write a short script with 2 characters, focusing on dialogue choices for each character.",
-      "A feature name is enough to prove an interpretation.",
-      "Combining literary devices to evoke a reader response.",
-      "Editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape collaborating with a peer, which may include using online spaces, to write a.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use reader response to shape editing the imagery and word choices when creating a literary.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape creating short stories focusing on characters and dialogue and influence how an audience.",
+      "Audience and purpose do not matter once the feature has been identified."
     ],
     "correct": 0,
-    "explanation": "Collaborating with a peer, which may include using online spaces, to write a short script with 2 characters, focusing on dialogue choices for each character. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use text choice to shape collaborating with a peer, which may include using online spaces, to write a short script with 2 characters, focusing on dialogue choices for each character.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape collaborating with a peer, which may include using online spaces, to write a. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape collaborating with a peer, which may include using online spaces, to write a.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 8
@@ -240,14 +240,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text.",
-      "Combining literary devices to evoke a reader response.",
-      "Collaborating with a peer, which may include using online spaces, to write a short script with 2 characters, focusing on dialogue choices for each character.",
-      "Editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape collaborating with a peer, which may include using online spaces, to write a.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape combining literary devices to evoke a reader response and influence.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use reader response to shape editing the imagery and word choices when creating a literary.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape creating short stories focusing on characters and dialogue and influence how an audience."
     ],
     "correct": 1,
-    "explanation": "Combining literary devices to evoke a reader response. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use representation to shape combining literary devices to evoke a reader response and influence how an audience understands the text.",
+    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape combining literary devices to evoke a reader response and influence. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape combining literary devices to evoke a reader response and influence.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 9
@@ -268,14 +268,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes.",
-      "Creating short stories focusing on characters and dialogue.",
-      "Combining literary devices to evoke a reader response."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape collaborating with a peer, which may include using online spaces, to write a.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use reader response to shape editing the imagery and word choices when creating a literary.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape creating short stories focusing on characters and dialogue and influence how an audience.",
+      "Naming the feature is enough; evidence from the text is unnecessary."
     ],
     "correct": 2,
-    "explanation": "Creating short stories focusing on characters and dialogue. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use voice to shape creating short stories focusing on characters and dialogue and influence how an audience understands the text.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape creating short stories focusing on characters and dialogue and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape creating short stories focusing on characters and dialogue and influence how an audience.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 10
@@ -296,14 +296,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text.",
-      "Creating short stories focusing on characters and dialogue.",
-      "Combining literary devices to evoke a reader response.",
-      "Editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape collaborating with a peer, which may include using online spaces, to write a.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape creating short stories focusing on characters and dialogue and influence how an audience.",
+      "The most formal or complicated wording is automatically the best choice.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use reader response to shape editing the imagery and word choices when creating a literary."
     ],
     "correct": 3,
-    "explanation": "Editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use reader response to shape editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes and influence how an audience.",
+    "explanation": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use reader response to shape editing the imagery and word choices when creating a literary. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use reader response to shape editing the imagery and word choices when creating a literary.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 11
@@ -324,14 +324,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Collaborating with a peer, which may include using online spaces, to write a short script with 2 characters, focusing on dialogue choices for each character.",
-      "A feature name is enough to prove an interpretation.",
-      "Combining literary devices to evoke a reader response.",
-      "Editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape collaborating with a peer, which may include using online spaces, to write a.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use reader response to shape editing the imagery and word choices when creating a literary.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape creating short stories focusing on characters and dialogue and influence how an audience.",
+      "One isolated word proves the whole interpretation without needing context."
     ],
     "correct": 0,
-    "explanation": "Collaborating with a peer, which may include using online spaces, to write a short script with 2 characters, focusing on dialogue choices for each character. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use text choice to shape collaborating with a peer, which may include using online spaces, to write a short script with 2 characters, focusing on dialogue choices for each character.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape collaborating with a peer, which may include using online spaces, to write a. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape collaborating with a peer, which may include using online spaces, to write a.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 12
@@ -343,8 +343,8 @@ window.skillrTestQuestions = [
     "skill": "create and edit literary texts that experiment with language features and literary devices for…",
     "printable": true,
     "type": "single",
-    "question": "Which choice would be most effective in a literary magazine extract if the aim is to use create and edit literary texts that experiment with language features and literary devices for… deliberately?",
-    "audioPrompt": "Which choice would be most effective in a literary magazine extract if the aim is to use create and edit literary texts that experiment with language features and literary devices for… deliberately?",
+    "question": "Which choice would use create and edit literary texts that experiment with language features and literary devices for… most effectively in a literary magazine extract?",
+    "audioPrompt": "Which choice would use create and edit literary texts that experiment with language features and literary devices for… most effectively in a literary magazine extract?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -352,14 +352,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text.",
-      "Combining literary devices to evoke a reader response.",
-      "Collaborating with a peer, which may include using online spaces, to write a short script with 2 characters, focusing on dialogue choices for each character.",
-      "Editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape collaborating with a peer, which may include using online spaces, to write a.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape combining literary devices to evoke a reader response and influence.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use reader response to shape editing the imagery and word choices when creating a literary.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape creating short stories focusing on characters and dialogue and influence how an audience."
     ],
     "correct": 1,
-    "explanation": "Combining literary devices to evoke a reader response. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use representation to shape combining literary devices to evoke a reader response and influence how an audience understands the text.",
+    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape combining literary devices to evoke a reader response and influence. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape combining literary devices to evoke a reader response and influence.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 13
@@ -371,8 +371,8 @@ window.skillrTestQuestions = [
     "skill": "create and edit literary texts that experiment with language features and literary devices for…",
     "printable": true,
     "type": "single",
-    "question": "Which statement about create and edit literary texts that experiment with language features and literary devices for… can be defended from the evidence in a public-service announcement?",
-    "audioPrompt": "Which statement about create and edit literary texts that experiment with language features and literary devices for… can be defended from the evidence in a public-service announcement?",
+    "question": "Which statement about create and edit literary texts that experiment with language features and literary devices for… can be defended in a public-service announcement?",
+    "audioPrompt": "Which statement about create and edit literary texts that experiment with language features and literary devices for… can be defended in a public-service announcement?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -380,14 +380,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes.",
-      "Creating short stories focusing on characters and dialogue.",
-      "Combining literary devices to evoke a reader response."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape collaborating with a peer, which may include using online spaces, to write a.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use reader response to shape editing the imagery and word choices when creating a literary.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape creating short stories focusing on characters and dialogue and influence how an audience.",
+      "Any interpretation is equally strong even when it lacks supporting evidence."
     ],
     "correct": 2,
-    "explanation": "Creating short stories focusing on characters and dialogue. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use voice to shape creating short stories focusing on characters and dialogue and influence how an audience understands the text.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape creating short stories focusing on characters and dialogue and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape creating short stories focusing on characters and dialogue and influence how an audience.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 14
@@ -408,14 +408,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text.",
-      "Creating short stories focusing on characters and dialogue.",
-      "Combining literary devices to evoke a reader response.",
-      "Editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape collaborating with a peer, which may include using online spaces, to write a.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape creating short stories focusing on characters and dialogue and influence how an audience.",
+      "Using more of the feature will always improve a text.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use reader response to shape editing the imagery and word choices when creating a literary."
     ],
     "correct": 3,
-    "explanation": "Editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use reader response to shape editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes and influence how an audience.",
+    "explanation": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use reader response to shape editing the imagery and word choices when creating a literary. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use reader response to shape editing the imagery and word choices when creating a literary.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 15
@@ -436,14 +436,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Collaborating with a peer, which may include using online spaces, to write a short script with 2 characters, focusing on dialogue choices for each character.",
-      "A feature name is enough to prove an interpretation.",
-      "Combining literary devices to evoke a reader response.",
-      "Editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape collaborating with a peer, which may include using online spaces, to write a.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use reader response to shape editing the imagery and word choices when creating a literary.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape creating short stories focusing on characters and dialogue and influence how an audience.",
+      "Audience and purpose do not matter once the feature has been identified."
     ],
     "correct": 0,
-    "explanation": "Collaborating with a peer, which may include using online spaces, to write a short script with 2 characters, focusing on dialogue choices for each character. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use text choice to shape collaborating with a peer, which may include using online spaces, to write a short script with 2 characters, focusing on dialogue choices for each character.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape collaborating with a peer, which may include using online spaces, to write a. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape collaborating with a peer, which may include using online spaces, to write a.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 16

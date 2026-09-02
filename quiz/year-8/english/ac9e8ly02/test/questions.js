@@ -16,14 +16,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text.",
-      "Participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations.",
-      "Listening to a conversation or speech, identifying the point being made, and explaining the tone and manner of presentation."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape participating in pair, group, class, school and community speaking and listening situations,.",
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape listening to a conversation or speech, identifying the point being made,.",
+      "The feature has one fixed effect in every text, regardless of audience or purpose."
     ],
     "correct": 1,
-    "explanation": "A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 1
@@ -44,14 +44,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Listening to a conversation or speech, identifying the point being made, and explaining the tone and manner of presentation.",
-      "A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text.",
-      "The most formal or complicated wording is automatically the most effective choice."
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape listening to a conversation or speech, identifying the point being made,.",
+      "Naming the feature is enough; evidence from the text is unnecessary.",
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and.",
+      "The most formal or complicated wording is automatically the best choice."
     ],
     "correct": 2,
-    "explanation": "A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 2
@@ -72,14 +72,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations.",
-      "A single word proves the whole interpretation, even when the surrounding context suggests otherwise.",
-      "A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape participating in pair, group, class, school and community speaking and listening situations,.",
+      "The most formal or complicated wording is automatically the best choice.",
+      "One isolated word proves the whole interpretation without needing context.",
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and."
     ],
     "correct": 3,
-    "explanation": "A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 3
@@ -100,14 +100,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text.",
-      "A feature name is enough to prove an interpretation.",
-      "Participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations.",
-      "Listening to a conversation or speech, identifying the point being made, and explaining the tone and manner of presentation."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape participating in pair, group, class, school and community speaking and listening situations,.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape listening to a conversation or speech, identifying the point being made,.",
+      "One isolated word proves the whole interpretation without needing context."
     ],
     "correct": 0,
-    "explanation": "A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 4
@@ -119,8 +119,8 @@ window.skillrTestQuestions = [
     "skill": "use interaction skills for identified purposes and situations, including when supporting or…",
     "printable": true,
     "type": "single",
-    "question": "Which choice would be most effective in an environmental campaign video if the aim is to use use interaction skills for identified purposes and situations, including when supporting or… deliberately?",
-    "audioPrompt": "Which choice would be most effective in an environmental campaign video if the aim is to use use interaction skills for identified purposes and situations, including when supporting or… deliberately?",
+    "question": "Which choice would use use interaction skills for identified purposes and situations, including when supporting or… most effectively in an environmental campaign video?",
+    "audioPrompt": "Which choice would use use interaction skills for identified purposes and situations, including when supporting or… most effectively in an environmental campaign video?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -128,14 +128,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text.",
-      "Listening to a conversation or speech, identifying the point being made, and explaining the tone and manner of presentation.",
-      "Any interpretation is equally strong, even if it cannot be supported with details from the text."
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape listening to a conversation or speech, identifying the point being made,.",
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and.",
+      "The feature changes only surface style and cannot shape meaning.",
+      "Any interpretation is equally strong even when it lacks supporting evidence."
     ],
     "correct": 1,
-    "explanation": "A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 5
@@ -147,8 +147,8 @@ window.skillrTestQuestions = [
     "skill": "use interaction skills for identified purposes and situations, including when supporting or…",
     "printable": true,
     "type": "single",
-    "question": "Which statement about use interaction skills for identified purposes and situations, including when supporting or… can be defended from the evidence in a cultural-festival program?",
-    "audioPrompt": "Which statement about use interaction skills for identified purposes and situations, including when supporting or… can be defended from the evidence in a cultural-festival program?",
+    "question": "Which statement about use interaction skills for identified purposes and situations, including when supporting or… can be defended in a cultural-festival program?",
+    "audioPrompt": "Which statement about use interaction skills for identified purposes and situations, including when supporting or… can be defended in a cultural-festival program?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -156,14 +156,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations.",
-      "A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text.",
-      "The writer should use the feature as often as possible because more of it always improves a text."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape participating in pair, group, class, school and community speaking and listening situations,.",
+      "Any interpretation is equally strong even when it lacks supporting evidence.",
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and.",
+      "Using more of the feature will always improve a text."
     ],
     "correct": 2,
-    "explanation": "A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 6
@@ -184,14 +184,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations.",
-      "Listening to a conversation or speech, identifying the point being made, and explaining the tone and manner of presentation.",
-      "A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape participating in pair, group, class, school and community speaking and listening situations,.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape listening to a conversation or speech, identifying the point being made,.",
+      "Using more of the feature will always improve a text.",
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and."
     ],
     "correct": 3,
-    "explanation": "A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 7
@@ -212,14 +212,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text.",
-      "A feature name is enough to prove an interpretation.",
-      "Listening to a conversation or speech, identifying the point being made, and explaining the tone and manner of presentation.",
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape listening to a conversation or speech, identifying the point being made,.",
+      "Audience and purpose do not matter once the feature has been identified.",
       "The feature has one fixed effect in every text, regardless of audience or purpose."
     ],
     "correct": 0,
-    "explanation": "A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 8
@@ -240,14 +240,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text.",
-      "Participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations.",
-      "It is enough to name the feature; no evidence or explanation of its effect is needed."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape participating in pair, group, class, school and community speaking and listening situations,.",
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and.",
+      "The feature has one fixed effect in every text, regardless of audience or purpose.",
+      "Naming the feature is enough; evidence from the text is unnecessary."
     ],
     "correct": 1,
-    "explanation": "A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 9
@@ -268,14 +268,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations.",
-      "A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text.",
-      "Listening to a conversation or speech, identifying the point being made, and explaining the tone and manner of presentation."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape participating in pair, group, class, school and community speaking and listening situations,.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape listening to a conversation or speech, identifying the point being made,.",
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and.",
+      "Naming the feature is enough; evidence from the text is unnecessary."
     ],
     "correct": 2,
-    "explanation": "A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 10
@@ -296,14 +296,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Listening to a conversation or speech, identifying the point being made, and explaining the tone and manner of presentation.",
-      "A single word proves the whole interpretation, even when the surrounding context suggests otherwise.",
-      "A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text."
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape listening to a conversation or speech, identifying the point being made,.",
+      "The most formal or complicated wording is automatically the best choice.",
+      "One isolated word proves the whole interpretation without needing context.",
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and."
     ],
     "correct": 3,
-    "explanation": "A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 11
@@ -324,14 +324,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text.",
-      "A feature name is enough to prove an interpretation.",
-      "Participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations.",
-      "The feature only changes how the text looks or sounds; it does not shape meaning."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape participating in pair, group, class, school and community speaking and listening situations,.",
+      "One isolated word proves the whole interpretation without needing context.",
+      "The feature changes only surface style and cannot shape meaning."
     ],
     "correct": 0,
-    "explanation": "A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 12
@@ -343,8 +343,8 @@ window.skillrTestQuestions = [
     "skill": "use interaction skills for identified purposes and situations, including when supporting or…",
     "printable": true,
     "type": "single",
-    "question": "Which choice would be most effective in a literary magazine extract if the aim is to use use interaction skills for identified purposes and situations, including when supporting or… deliberately?",
-    "audioPrompt": "Which choice would be most effective in a literary magazine extract if the aim is to use use interaction skills for identified purposes and situations, including when supporting or… deliberately?",
+    "question": "Which choice would use use interaction skills for identified purposes and situations, including when supporting or… most effectively in a literary magazine extract?",
+    "audioPrompt": "Which choice would use use interaction skills for identified purposes and situations, including when supporting or… most effectively in a literary magazine extract?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -352,14 +352,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text.",
-      "Participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations.",
-      "Listening to a conversation or speech, identifying the point being made, and explaining the tone and manner of presentation."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape participating in pair, group, class, school and community speaking and listening situations,.",
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape listening to a conversation or speech, identifying the point being made,.",
+      "The feature changes only surface style and cannot shape meaning."
     ],
     "correct": 1,
-    "explanation": "A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 13
@@ -371,8 +371,8 @@ window.skillrTestQuestions = [
     "skill": "use interaction skills for identified purposes and situations, including when supporting or…",
     "printable": true,
     "type": "single",
-    "question": "Which statement about use interaction skills for identified purposes and situations, including when supporting or… can be defended from the evidence in a public-service announcement?",
-    "audioPrompt": "Which statement about use interaction skills for identified purposes and situations, including when supporting or… can be defended from the evidence in a public-service announcement?",
+    "question": "Which statement about use interaction skills for identified purposes and situations, including when supporting or… can be defended in a public-service announcement?",
+    "audioPrompt": "Which statement about use interaction skills for identified purposes and situations, including when supporting or… can be defended in a public-service announcement?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -380,14 +380,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Listening to a conversation or speech, identifying the point being made, and explaining the tone and manner of presentation.",
-      "A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text.",
-      "The writer should use the feature as often as possible because more of it always improves a text."
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape listening to a conversation or speech, identifying the point being made,.",
+      "Any interpretation is equally strong even when it lacks supporting evidence.",
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and.",
+      "Using more of the feature will always improve a text."
     ],
     "correct": 2,
-    "explanation": "A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 14
@@ -408,14 +408,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations.",
-      "Purpose and audience can be ignored once the feature has been identified.",
-      "A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape participating in pair, group, class, school and community speaking and listening situations,.",
+      "Using more of the feature will always improve a text.",
+      "Audience and purpose do not matter once the feature has been identified.",
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and."
     ],
     "correct": 3,
-    "explanation": "A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 15
@@ -436,14 +436,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text.",
-      "A feature name is enough to prove an interpretation.",
-      "Participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations.",
-      "Listening to a conversation or speech, identifying the point being made, and explaining the tone and manner of presentation."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape participating in pair, group, class, school and community speaking and listening situations,.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape listening to a conversation or speech, identifying the point being made,.",
+      "Audience and purpose do not matter once the feature has been identified."
     ],
     "correct": 0,
-    "explanation": "A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 16

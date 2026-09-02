@@ -16,14 +16,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text.",
-      "A writer or speaker can use structure to shape choosing vocabulary and sentence structures, and using literary devices such as similes, metaphors and personification to meet perceived audience needs and.",
-      "Selecting features of voice, such as tone, volume, pitch and pace, with particular attention to the effects these may have on audience reaction and acceptance of the ideas presented.",
-      "Collaborating with peers to develop a persuasive advertising campaign about a contemporary issue."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape selecting features of voice and influence how an audience understands the text.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape choosing vocabulary and sentence structures, and using literary devices.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape collaborating with peers to develop a persuasive advertising campaign.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape integrating multimodal features in a spoken presentation to support the audience’s."
     ],
     "correct": 1,
-    "explanation": "A writer or speaker can use structure to shape choosing vocabulary and sentence structures, and using literary devices such as similes, metaphors and personification to meet perceived audience needs and. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use structure to shape choosing vocabulary and sentence structures, and using literary devices such as similes, metaphors and personification to meet perceived audience needs and.",
+    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape choosing vocabulary and sentence structures, and using literary devices. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape choosing vocabulary and sentence structures, and using literary devices.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 1
@@ -44,14 +44,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Collaborating with peers to develop a persuasive advertising campaign about a contemporary issue.",
-      "Integrating multimodal features in a spoken presentation to support the audience’s understanding.",
-      "A writer or speaker can use structure to shape choosing vocabulary and sentence structures, and using literary devices such as similes, metaphors and personification to meet perceived audience needs and."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape selecting features of voice and influence how an audience understands the text.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape collaborating with peers to develop a persuasive advertising campaign.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape integrating multimodal features in a spoken presentation to support the audience’s.",
+      "Naming the feature is enough; evidence from the text is unnecessary."
     ],
     "correct": 2,
-    "explanation": "Integrating multimodal features in a spoken presentation to support the audience’s understanding. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use purpose to shape integrating multimodal features in a spoken presentation to support the audience’s understanding and influence how an audience understands the text.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape integrating multimodal features in a spoken presentation to support the audience’s. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape integrating multimodal features in a spoken presentation to support the audience’s.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 2
@@ -72,14 +72,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text.",
-      "Integrating multimodal features in a spoken presentation to support the audience’s understanding.",
-      "A writer or speaker can use structure to shape choosing vocabulary and sentence structures, and using literary devices such as similes, metaphors and personification to meet perceived audience needs and.",
-      "Collaborating with peers to develop a persuasive advertising campaign about a contemporary issue."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape selecting features of voice and influence how an audience understands the text.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape integrating multimodal features in a spoken presentation to support the audience’s.",
+      "The most formal or complicated wording is automatically the best choice.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape collaborating with peers to develop a persuasive advertising campaign."
     ],
     "correct": 3,
-    "explanation": "Collaborating with peers to develop a persuasive advertising campaign about a contemporary issue. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use audience to shape collaborating with peers to develop a persuasive advertising campaign about a contemporary issue and influence how an audience understands the text.",
+    "explanation": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape collaborating with peers to develop a persuasive advertising campaign. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape collaborating with peers to develop a persuasive advertising campaign.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 3
@@ -91,8 +91,8 @@ window.skillrTestQuestions = [
     "skill": "plan, create, rehearse and deliver spoken and multimodal presentations for audiences and purposes",
     "printable": true,
     "type": "single",
-    "question": "Which option gives the strongest analysis of a writer or speaker can use evidence to shape selecting features of voice and influence how an audience understands the text in a council youth consultation?",
-    "audioPrompt": "Which option gives the strongest analysis of a writer or speaker can use evidence to shape selecting features of voice and influence how an audience understands the text in a council youth consultation?",
+    "question": "Which option gives the strongest analysis of plan, create, rehearse and deliver spoken and multimodal presentations for audiences and purposes in a council youth consultation?",
+    "audioPrompt": "Which option gives the strongest analysis of plan, create, rehearse and deliver spoken and multimodal presentations for audiences and purposes in a council youth consultation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -100,14 +100,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Selecting features of voice, such as tone, volume, pitch and pace, with particular attention to the effects these may have on audience reaction and acceptance of the ideas presented.",
-      "A feature name is enough to prove an interpretation.",
-      "A writer or speaker can use structure to shape choosing vocabulary and sentence structures, and using literary devices such as similes, metaphors and personification to meet perceived audience needs and.",
-      "Collaborating with peers to develop a persuasive advertising campaign about a contemporary issue."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape selecting features of voice and influence how an audience understands the text.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape collaborating with peers to develop a persuasive advertising campaign.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape integrating multimodal features in a spoken presentation to support the audience’s.",
+      "One isolated word proves the whole interpretation without needing context."
     ],
     "correct": 0,
-    "explanation": "Selecting features of voice, such as tone, volume, pitch and pace, with particular attention to the effects these may have on audience reaction and acceptance of the ideas presented. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use evidence to shape selecting features of voice and influence how an audience understands the text.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape selecting features of voice and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape selecting features of voice and influence how an audience understands the text.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 4
@@ -119,8 +119,8 @@ window.skillrTestQuestions = [
     "skill": "plan, create, rehearse and deliver spoken and multimodal presentations for audiences and purposes",
     "printable": true,
     "type": "single",
-    "question": "Which choice would be most effective in an environmental campaign video if the aim is to use plan, create, rehearse and deliver spoken and multimodal presentations for audiences and purposes deliberately?",
-    "audioPrompt": "Which choice would be most effective in an environmental campaign video if the aim is to use plan, create, rehearse and deliver spoken and multimodal presentations for audiences and purposes deliberately?",
+    "question": "Which choice would use plan, create, rehearse and deliver spoken and multimodal presentations for audiences and purposes most effectively in an environmental campaign video?",
+    "audioPrompt": "Which choice would use plan, create, rehearse and deliver spoken and multimodal presentations for audiences and purposes most effectively in an environmental campaign video?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -128,14 +128,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text.",
-      "A writer or speaker can use structure to shape choosing vocabulary and sentence structures, and using literary devices such as similes, metaphors and personification to meet perceived audience needs and.",
-      "Selecting features of voice, such as tone, volume, pitch and pace, with particular attention to the effects these may have on audience reaction and acceptance of the ideas presented.",
-      "Collaborating with peers to develop a persuasive advertising campaign about a contemporary issue."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape selecting features of voice and influence how an audience understands the text.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape choosing vocabulary and sentence structures, and using literary devices.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape collaborating with peers to develop a persuasive advertising campaign.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape integrating multimodal features in a spoken presentation to support the audience’s."
     ],
     "correct": 1,
-    "explanation": "A writer or speaker can use structure to shape choosing vocabulary and sentence structures, and using literary devices such as similes, metaphors and personification to meet perceived audience needs and. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use structure to shape choosing vocabulary and sentence structures, and using literary devices such as similes, metaphors and personification to meet perceived audience needs and.",
+    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape choosing vocabulary and sentence structures, and using literary devices. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape choosing vocabulary and sentence structures, and using literary devices.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 5
@@ -147,8 +147,8 @@ window.skillrTestQuestions = [
     "skill": "plan, create, rehearse and deliver spoken and multimodal presentations for audiences and purposes",
     "printable": true,
     "type": "single",
-    "question": "Which statement about plan, create, rehearse and deliver spoken and multimodal presentations for audiences and purposes can be defended from the evidence in a cultural-festival program?",
-    "audioPrompt": "Which statement about plan, create, rehearse and deliver spoken and multimodal presentations for audiences and purposes can be defended from the evidence in a cultural-festival program?",
+    "question": "Which statement about plan, create, rehearse and deliver spoken and multimodal presentations for audiences and purposes can be defended in a cultural-festival program?",
+    "audioPrompt": "Which statement about plan, create, rehearse and deliver spoken and multimodal presentations for audiences and purposes can be defended in a cultural-festival program?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -156,14 +156,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Collaborating with peers to develop a persuasive advertising campaign about a contemporary issue.",
-      "Integrating multimodal features in a spoken presentation to support the audience’s understanding.",
-      "A writer or speaker can use structure to shape choosing vocabulary and sentence structures, and using literary devices such as similes, metaphors and personification to meet perceived audience needs and."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape selecting features of voice and influence how an audience understands the text.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape collaborating with peers to develop a persuasive advertising campaign.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape integrating multimodal features in a spoken presentation to support the audience’s.",
+      "Any interpretation is equally strong even when it lacks supporting evidence."
     ],
     "correct": 2,
-    "explanation": "Integrating multimodal features in a spoken presentation to support the audience’s understanding. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use purpose to shape integrating multimodal features in a spoken presentation to support the audience’s understanding and influence how an audience understands the text.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape integrating multimodal features in a spoken presentation to support the audience’s. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape integrating multimodal features in a spoken presentation to support the audience’s.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 6
@@ -184,14 +184,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text.",
-      "Integrating multimodal features in a spoken presentation to support the audience’s understanding.",
-      "A writer or speaker can use structure to shape choosing vocabulary and sentence structures, and using literary devices such as similes, metaphors and personification to meet perceived audience needs and.",
-      "Collaborating with peers to develop a persuasive advertising campaign about a contemporary issue."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape selecting features of voice and influence how an audience understands the text.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape integrating multimodal features in a spoken presentation to support the audience’s.",
+      "Using more of the feature will always improve a text.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape collaborating with peers to develop a persuasive advertising campaign."
     ],
     "correct": 3,
-    "explanation": "Collaborating with peers to develop a persuasive advertising campaign about a contemporary issue. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use audience to shape collaborating with peers to develop a persuasive advertising campaign about a contemporary issue and influence how an audience understands the text.",
+    "explanation": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape collaborating with peers to develop a persuasive advertising campaign. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape collaborating with peers to develop a persuasive advertising campaign.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 7
@@ -203,8 +203,8 @@ window.skillrTestQuestions = [
     "skill": "plan, create, rehearse and deliver spoken and multimodal presentations for audiences and purposes",
     "printable": true,
     "type": "single",
-    "question": "Which revision would best control a writer or speaker can use evidence to shape selecting features of voice and influence how an audience understands the text in a radio interview transcript?",
-    "audioPrompt": "Which revision would best control a writer or speaker can use evidence to shape selecting features of voice and influence how an audience understands the text in a radio interview transcript?",
+    "question": "Which revision would best control plan, create, rehearse and deliver spoken and multimodal presentations for audiences and purposes in a radio interview transcript?",
+    "audioPrompt": "Which revision would best control plan, create, rehearse and deliver spoken and multimodal presentations for audiences and purposes in a radio interview transcript?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -212,14 +212,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Selecting features of voice, such as tone, volume, pitch and pace, with particular attention to the effects these may have on audience reaction and acceptance of the ideas presented.",
-      "A feature name is enough to prove an interpretation.",
-      "A writer or speaker can use structure to shape choosing vocabulary and sentence structures, and using literary devices such as similes, metaphors and personification to meet perceived audience needs and.",
-      "Collaborating with peers to develop a persuasive advertising campaign about a contemporary issue."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape selecting features of voice and influence how an audience understands the text.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape collaborating with peers to develop a persuasive advertising campaign.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape integrating multimodal features in a spoken presentation to support the audience’s.",
+      "Audience and purpose do not matter once the feature has been identified."
     ],
     "correct": 0,
-    "explanation": "Selecting features of voice, such as tone, volume, pitch and pace, with particular attention to the effects these may have on audience reaction and acceptance of the ideas presented. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use evidence to shape selecting features of voice and influence how an audience understands the text.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape selecting features of voice and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape selecting features of voice and influence how an audience understands the text.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 8
@@ -240,14 +240,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text.",
-      "A writer or speaker can use structure to shape choosing vocabulary and sentence structures, and using literary devices such as similes, metaphors and personification to meet perceived audience needs and.",
-      "Selecting features of voice, such as tone, volume, pitch and pace, with particular attention to the effects these may have on audience reaction and acceptance of the ideas presented.",
-      "Collaborating with peers to develop a persuasive advertising campaign about a contemporary issue."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape selecting features of voice and influence how an audience understands the text.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape choosing vocabulary and sentence structures, and using literary devices.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape collaborating with peers to develop a persuasive advertising campaign.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape integrating multimodal features in a spoken presentation to support the audience’s."
     ],
     "correct": 1,
-    "explanation": "A writer or speaker can use structure to shape choosing vocabulary and sentence structures, and using literary devices such as similes, metaphors and personification to meet perceived audience needs and. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use structure to shape choosing vocabulary and sentence structures, and using literary devices such as similes, metaphors and personification to meet perceived audience needs and.",
+    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape choosing vocabulary and sentence structures, and using literary devices. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape choosing vocabulary and sentence structures, and using literary devices.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 9
@@ -268,14 +268,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Collaborating with peers to develop a persuasive advertising campaign about a contemporary issue.",
-      "Integrating multimodal features in a spoken presentation to support the audience’s understanding.",
-      "A writer or speaker can use structure to shape choosing vocabulary and sentence structures, and using literary devices such as similes, metaphors and personification to meet perceived audience needs and."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape selecting features of voice and influence how an audience understands the text.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape collaborating with peers to develop a persuasive advertising campaign.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape integrating multimodal features in a spoken presentation to support the audience’s.",
+      "Naming the feature is enough; evidence from the text is unnecessary."
     ],
     "correct": 2,
-    "explanation": "Integrating multimodal features in a spoken presentation to support the audience’s understanding. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use purpose to shape integrating multimodal features in a spoken presentation to support the audience’s understanding and influence how an audience understands the text.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape integrating multimodal features in a spoken presentation to support the audience’s. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape integrating multimodal features in a spoken presentation to support the audience’s.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 10
@@ -296,14 +296,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text.",
-      "Integrating multimodal features in a spoken presentation to support the audience’s understanding.",
-      "A writer or speaker can use structure to shape choosing vocabulary and sentence structures, and using literary devices such as similes, metaphors and personification to meet perceived audience needs and.",
-      "Collaborating with peers to develop a persuasive advertising campaign about a contemporary issue."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape selecting features of voice and influence how an audience understands the text.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape integrating multimodal features in a spoken presentation to support the audience’s.",
+      "The most formal or complicated wording is automatically the best choice.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape collaborating with peers to develop a persuasive advertising campaign."
     ],
     "correct": 3,
-    "explanation": "Collaborating with peers to develop a persuasive advertising campaign about a contemporary issue. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use audience to shape collaborating with peers to develop a persuasive advertising campaign about a contemporary issue and influence how an audience understands the text.",
+    "explanation": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape collaborating with peers to develop a persuasive advertising campaign. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape collaborating with peers to develop a persuasive advertising campaign.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 11
@@ -315,8 +315,8 @@ window.skillrTestQuestions = [
     "skill": "plan, create, rehearse and deliver spoken and multimodal presentations for audiences and purposes",
     "printable": true,
     "type": "single",
-    "question": "Which option gives the strongest analysis of a writer or speaker can use evidence to shape selecting features of voice and influence how an audience understands the text in a sports documentary?",
-    "audioPrompt": "Which option gives the strongest analysis of a writer or speaker can use evidence to shape selecting features of voice and influence how an audience understands the text in a sports documentary?",
+    "question": "Which option gives the strongest analysis of plan, create, rehearse and deliver spoken and multimodal presentations for audiences and purposes in a sports documentary?",
+    "audioPrompt": "Which option gives the strongest analysis of plan, create, rehearse and deliver spoken and multimodal presentations for audiences and purposes in a sports documentary?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -324,14 +324,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Selecting features of voice, such as tone, volume, pitch and pace, with particular attention to the effects these may have on audience reaction and acceptance of the ideas presented.",
-      "A feature name is enough to prove an interpretation.",
-      "A writer or speaker can use structure to shape choosing vocabulary and sentence structures, and using literary devices such as similes, metaphors and personification to meet perceived audience needs and.",
-      "Collaborating with peers to develop a persuasive advertising campaign about a contemporary issue."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape selecting features of voice and influence how an audience understands the text.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape collaborating with peers to develop a persuasive advertising campaign.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape integrating multimodal features in a spoken presentation to support the audience’s.",
+      "One isolated word proves the whole interpretation without needing context."
     ],
     "correct": 0,
-    "explanation": "Selecting features of voice, such as tone, volume, pitch and pace, with particular attention to the effects these may have on audience reaction and acceptance of the ideas presented. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use evidence to shape selecting features of voice and influence how an audience understands the text.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape selecting features of voice and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape selecting features of voice and influence how an audience understands the text.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 12
@@ -343,8 +343,8 @@ window.skillrTestQuestions = [
     "skill": "plan, create, rehearse and deliver spoken and multimodal presentations for audiences and purposes",
     "printable": true,
     "type": "single",
-    "question": "Which choice would be most effective in a literary magazine extract if the aim is to use plan, create, rehearse and deliver spoken and multimodal presentations for audiences and purposes deliberately?",
-    "audioPrompt": "Which choice would be most effective in a literary magazine extract if the aim is to use plan, create, rehearse and deliver spoken and multimodal presentations for audiences and purposes deliberately?",
+    "question": "Which choice would use plan, create, rehearse and deliver spoken and multimodal presentations for audiences and purposes most effectively in a literary magazine extract?",
+    "audioPrompt": "Which choice would use plan, create, rehearse and deliver spoken and multimodal presentations for audiences and purposes most effectively in a literary magazine extract?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -352,14 +352,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text.",
-      "A writer or speaker can use structure to shape choosing vocabulary and sentence structures, and using literary devices such as similes, metaphors and personification to meet perceived audience needs and.",
-      "Selecting features of voice, such as tone, volume, pitch and pace, with particular attention to the effects these may have on audience reaction and acceptance of the ideas presented.",
-      "Collaborating with peers to develop a persuasive advertising campaign about a contemporary issue."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape selecting features of voice and influence how an audience understands the text.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape choosing vocabulary and sentence structures, and using literary devices.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape collaborating with peers to develop a persuasive advertising campaign.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape integrating multimodal features in a spoken presentation to support the audience’s."
     ],
     "correct": 1,
-    "explanation": "A writer or speaker can use structure to shape choosing vocabulary and sentence structures, and using literary devices such as similes, metaphors and personification to meet perceived audience needs and. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use structure to shape choosing vocabulary and sentence structures, and using literary devices such as similes, metaphors and personification to meet perceived audience needs and.",
+    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape choosing vocabulary and sentence structures, and using literary devices. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape choosing vocabulary and sentence structures, and using literary devices.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 13
@@ -371,8 +371,8 @@ window.skillrTestQuestions = [
     "skill": "plan, create, rehearse and deliver spoken and multimodal presentations for audiences and purposes",
     "printable": true,
     "type": "single",
-    "question": "Which statement about plan, create, rehearse and deliver spoken and multimodal presentations for audiences and purposes can be defended from the evidence in a public-service announcement?",
-    "audioPrompt": "Which statement about plan, create, rehearse and deliver spoken and multimodal presentations for audiences and purposes can be defended from the evidence in a public-service announcement?",
+    "question": "Which statement about plan, create, rehearse and deliver spoken and multimodal presentations for audiences and purposes can be defended in a public-service announcement?",
+    "audioPrompt": "Which statement about plan, create, rehearse and deliver spoken and multimodal presentations for audiences and purposes can be defended in a public-service announcement?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -380,14 +380,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Collaborating with peers to develop a persuasive advertising campaign about a contemporary issue.",
-      "Integrating multimodal features in a spoken presentation to support the audience’s understanding.",
-      "A writer or speaker can use structure to shape choosing vocabulary and sentence structures, and using literary devices such as similes, metaphors and personification to meet perceived audience needs and."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape selecting features of voice and influence how an audience understands the text.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape collaborating with peers to develop a persuasive advertising campaign.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape integrating multimodal features in a spoken presentation to support the audience’s.",
+      "Any interpretation is equally strong even when it lacks supporting evidence."
     ],
     "correct": 2,
-    "explanation": "Integrating multimodal features in a spoken presentation to support the audience’s understanding. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use purpose to shape integrating multimodal features in a spoken presentation to support the audience’s understanding and influence how an audience understands the text.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape integrating multimodal features in a spoken presentation to support the audience’s. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape integrating multimodal features in a spoken presentation to support the audience’s.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 14
@@ -408,14 +408,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text.",
-      "Integrating multimodal features in a spoken presentation to support the audience’s understanding.",
-      "A writer or speaker can use structure to shape choosing vocabulary and sentence structures, and using literary devices such as similes, metaphors and personification to meet perceived audience needs and.",
-      "Collaborating with peers to develop a persuasive advertising campaign about a contemporary issue."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape selecting features of voice and influence how an audience understands the text.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape integrating multimodal features in a spoken presentation to support the audience’s.",
+      "Using more of the feature will always improve a text.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape collaborating with peers to develop a persuasive advertising campaign."
     ],
     "correct": 3,
-    "explanation": "Collaborating with peers to develop a persuasive advertising campaign about a contemporary issue. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use audience to shape collaborating with peers to develop a persuasive advertising campaign about a contemporary issue and influence how an audience understands the text.",
+    "explanation": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape collaborating with peers to develop a persuasive advertising campaign. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape collaborating with peers to develop a persuasive advertising campaign.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 15
@@ -427,8 +427,8 @@ window.skillrTestQuestions = [
     "skill": "plan, create, rehearse and deliver spoken and multimodal presentations for audiences and purposes",
     "printable": true,
     "type": "single",
-    "question": "Which revision would best control a writer or speaker can use evidence to shape selecting features of voice and influence how an audience understands the text in a youth conference presentation?",
-    "audioPrompt": "Which revision would best control a writer or speaker can use evidence to shape selecting features of voice and influence how an audience understands the text in a youth conference presentation?",
+    "question": "Which revision would best control plan, create, rehearse and deliver spoken and multimodal presentations for audiences and purposes in a youth conference presentation?",
+    "audioPrompt": "Which revision would best control plan, create, rehearse and deliver spoken and multimodal presentations for audiences and purposes in a youth conference presentation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -436,14 +436,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Selecting features of voice, such as tone, volume, pitch and pace, with particular attention to the effects these may have on audience reaction and acceptance of the ideas presented.",
-      "A feature name is enough to prove an interpretation.",
-      "A writer or speaker can use structure to shape choosing vocabulary and sentence structures, and using literary devices such as similes, metaphors and personification to meet perceived audience needs and.",
-      "Collaborating with peers to develop a persuasive advertising campaign about a contemporary issue."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape selecting features of voice and influence how an audience understands the text.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape collaborating with peers to develop a persuasive advertising campaign.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape integrating multimodal features in a spoken presentation to support the audience’s.",
+      "Audience and purpose do not matter once the feature has been identified."
     ],
     "correct": 0,
-    "explanation": "Selecting features of voice, such as tone, volume, pitch and pace, with particular attention to the effects these may have on audience reaction and acceptance of the ideas presented. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use evidence to shape selecting features of voice and influence how an audience understands the text.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape selecting features of voice and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape selecting features of voice and influence how an audience understands the text.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 16

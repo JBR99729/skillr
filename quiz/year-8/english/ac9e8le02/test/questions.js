@@ -16,14 +16,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text.",
-      "Reflecting on and evaluating opinions and arguments about aspects of literary texts including characterisation, setting and plot.",
-      "Comparing reviews of a literary text and evaluating opinions that challenge or support personal opinions.",
-      "It is enough to name the feature; no evidence or explanation of its effect is needed."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape comparing reviews of a literary text and evaluating opinions that challenge or support.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape reflecting on and evaluating opinions and arguments about aspects of.",
+      "The feature has one fixed effect in every text, regardless of audience or purpose.",
+      "Naming the feature is enough; evidence from the text is unnecessary."
     ],
     "correct": 1,
-    "explanation": "Reflecting on and evaluating opinions and arguments about aspects of literary texts including characterisation, setting and plot. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use representation to shape reflecting on and evaluating opinions and arguments about aspects of literary texts and influence how an audience understands the text.",
+    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape reflecting on and evaluating opinions and arguments about aspects of. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape reflecting on and evaluating opinions and arguments about aspects of.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 1
@@ -44,14 +44,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Reflecting on and evaluating opinions and arguments about aspects of literary texts including characterisation, setting and plot.",
-      "Comparing reviews of a literary text and evaluating opinions that challenge or support personal opinions.",
-      "The most formal or complicated wording is automatically the most effective choice."
+      "Naming the feature is enough; evidence from the text is unnecessary.",
+      "The most formal or complicated wording is automatically the best choice.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape comparing reviews of a literary text and evaluating opinions that challenge or support.",
+      "One isolated word proves the whole interpretation without needing context."
     ],
     "correct": 2,
-    "explanation": "Comparing reviews of a literary text and evaluating opinions that challenge or support personal opinions. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use voice to shape comparing reviews of a literary text and evaluating opinions that challenge or support personal opinions and influence how an audience understands the text.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape comparing reviews of a literary text and evaluating opinions that challenge or support. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape comparing reviews of a literary text and evaluating opinions that challenge or support.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 2
@@ -72,14 +72,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text.",
-      "Comparing reviews of a literary text and evaluating opinions that challenge or support personal opinions.",
-      "A single word proves the whole interpretation, even when the surrounding context suggests otherwise.",
-      "Reflecting on and evaluating opinions and arguments about aspects of literary texts including characterisation, setting and plot."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape comparing reviews of a literary text and evaluating opinions that challenge or support.",
+      "The most formal or complicated wording is automatically the best choice.",
+      "One isolated word proves the whole interpretation without needing context.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape reflecting on and evaluating opinions and arguments about aspects of."
     ],
     "correct": 3,
-    "explanation": "Reflecting on and evaluating opinions and arguments about aspects of literary texts including characterisation, setting and plot. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use representation to shape reflecting on and evaluating opinions and arguments about aspects of literary texts and influence how an audience understands the text.",
+    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape reflecting on and evaluating opinions and arguments about aspects of. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape reflecting on and evaluating opinions and arguments about aspects of.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 3
@@ -100,14 +100,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Comparing reviews of a literary text and evaluating opinions that challenge or support personal opinions.",
-      "A feature name is enough to prove an interpretation.",
-      "Reflecting on and evaluating opinions and arguments about aspects of literary texts including characterisation, setting and plot.",
-      "The feature only changes how the text looks or sounds; it does not shape meaning."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape comparing reviews of a literary text and evaluating opinions that challenge or support.",
+      "One isolated word proves the whole interpretation without needing context.",
+      "The feature changes only surface style and cannot shape meaning.",
+      "Any interpretation is equally strong even when it lacks supporting evidence."
     ],
     "correct": 0,
-    "explanation": "Comparing reviews of a literary text and evaluating opinions that challenge or support personal opinions. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use voice to shape comparing reviews of a literary text and evaluating opinions that challenge or support personal opinions and influence how an audience understands the text.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape comparing reviews of a literary text and evaluating opinions that challenge or support. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape comparing reviews of a literary text and evaluating opinions that challenge or support.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 4
@@ -119,8 +119,8 @@ window.skillrTestQuestions = [
     "skill": "share opinions about the language features, literary devices and text structures that contribute to…",
     "printable": true,
     "type": "single",
-    "question": "Which choice would be most effective in an environmental campaign video if the aim is to use share opinions about the language features, literary devices and text structures that contribute to… deliberately?",
-    "audioPrompt": "Which choice would be most effective in an environmental campaign video if the aim is to use share opinions about the language features, literary devices and text structures that contribute to… deliberately?",
+    "question": "Which choice would use share opinions about the language features, literary devices and text structures that contribute to… most effectively in an environmental campaign video?",
+    "audioPrompt": "Which choice would use share opinions about the language features, literary devices and text structures that contribute to… most effectively in an environmental campaign video?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -128,14 +128,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text.",
-      "Reflecting on and evaluating opinions and arguments about aspects of literary texts including characterisation, setting and plot.",
-      "Comparing reviews of a literary text and evaluating opinions that challenge or support personal opinions.",
-      "Any interpretation is equally strong, even if it cannot be supported with details from the text."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape comparing reviews of a literary text and evaluating opinions that challenge or support.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape reflecting on and evaluating opinions and arguments about aspects of.",
+      "The feature changes only surface style and cannot shape meaning.",
+      "Any interpretation is equally strong even when it lacks supporting evidence."
     ],
     "correct": 1,
-    "explanation": "Reflecting on and evaluating opinions and arguments about aspects of literary texts including characterisation, setting and plot. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use representation to shape reflecting on and evaluating opinions and arguments about aspects of literary texts and influence how an audience understands the text.",
+    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape reflecting on and evaluating opinions and arguments about aspects of. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape reflecting on and evaluating opinions and arguments about aspects of.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 5
@@ -147,8 +147,8 @@ window.skillrTestQuestions = [
     "skill": "share opinions about the language features, literary devices and text structures that contribute to…",
     "printable": true,
     "type": "single",
-    "question": "Which statement about share opinions about the language features, literary devices and text structures that contribute to… can be defended from the evidence in a cultural-festival program?",
-    "audioPrompt": "Which statement about share opinions about the language features, literary devices and text structures that contribute to… can be defended from the evidence in a cultural-festival program?",
+    "question": "Which statement about share opinions about the language features, literary devices and text structures that contribute to… can be defended in a cultural-festival program?",
+    "audioPrompt": "Which statement about share opinions about the language features, literary devices and text structures that contribute to… can be defended in a cultural-festival program?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -156,14 +156,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Reflecting on and evaluating opinions and arguments about aspects of literary texts including characterisation, setting and plot.",
-      "Comparing reviews of a literary text and evaluating opinions that challenge or support personal opinions.",
-      "The writer should use the feature as often as possible because more of it always improves a text."
+      "Any interpretation is equally strong even when it lacks supporting evidence.",
+      "Using more of the feature will always improve a text.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape comparing reviews of a literary text and evaluating opinions that challenge or support.",
+      "Audience and purpose do not matter once the feature has been identified."
     ],
     "correct": 2,
-    "explanation": "Comparing reviews of a literary text and evaluating opinions that challenge or support personal opinions. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use voice to shape comparing reviews of a literary text and evaluating opinions that challenge or support personal opinions and influence how an audience understands the text.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape comparing reviews of a literary text and evaluating opinions that challenge or support. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape comparing reviews of a literary text and evaluating opinions that challenge or support.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 6
@@ -184,14 +184,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text.",
-      "Comparing reviews of a literary text and evaluating opinions that challenge or support personal opinions.",
-      "Purpose and audience can be ignored once the feature has been identified.",
-      "Reflecting on and evaluating opinions and arguments about aspects of literary texts including characterisation, setting and plot."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape comparing reviews of a literary text and evaluating opinions that challenge or support.",
+      "Using more of the feature will always improve a text.",
+      "Audience and purpose do not matter once the feature has been identified.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape reflecting on and evaluating opinions and arguments about aspects of."
     ],
     "correct": 3,
-    "explanation": "Reflecting on and evaluating opinions and arguments about aspects of literary texts including characterisation, setting and plot. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use representation to shape reflecting on and evaluating opinions and arguments about aspects of literary texts and influence how an audience understands the text.",
+    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape reflecting on and evaluating opinions and arguments about aspects of. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape reflecting on and evaluating opinions and arguments about aspects of.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 7
@@ -212,14 +212,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Comparing reviews of a literary text and evaluating opinions that challenge or support personal opinions.",
-      "A feature name is enough to prove an interpretation.",
-      "Reflecting on and evaluating opinions and arguments about aspects of literary texts including characterisation, setting and plot.",
-      "The feature has one fixed effect in every text, regardless of audience or purpose."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape comparing reviews of a literary text and evaluating opinions that challenge or support.",
+      "Audience and purpose do not matter once the feature has been identified.",
+      "The feature has one fixed effect in every text, regardless of audience or purpose.",
+      "Naming the feature is enough; evidence from the text is unnecessary."
     ],
     "correct": 0,
-    "explanation": "Comparing reviews of a literary text and evaluating opinions that challenge or support personal opinions. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use voice to shape comparing reviews of a literary text and evaluating opinions that challenge or support personal opinions and influence how an audience understands the text.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape comparing reviews of a literary text and evaluating opinions that challenge or support. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape comparing reviews of a literary text and evaluating opinions that challenge or support.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 8
@@ -240,14 +240,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text.",
-      "Reflecting on and evaluating opinions and arguments about aspects of literary texts including characterisation, setting and plot.",
-      "Comparing reviews of a literary text and evaluating opinions that challenge or support personal opinions.",
-      "It is enough to name the feature; no evidence or explanation of its effect is needed."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape comparing reviews of a literary text and evaluating opinions that challenge or support.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape reflecting on and evaluating opinions and arguments about aspects of.",
+      "The feature has one fixed effect in every text, regardless of audience or purpose.",
+      "Naming the feature is enough; evidence from the text is unnecessary."
     ],
     "correct": 1,
-    "explanation": "Reflecting on and evaluating opinions and arguments about aspects of literary texts including characterisation, setting and plot. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use representation to shape reflecting on and evaluating opinions and arguments about aspects of literary texts and influence how an audience understands the text.",
+    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape reflecting on and evaluating opinions and arguments about aspects of. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape reflecting on and evaluating opinions and arguments about aspects of.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 9
@@ -268,14 +268,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Reflecting on and evaluating opinions and arguments about aspects of literary texts including characterisation, setting and plot.",
-      "Comparing reviews of a literary text and evaluating opinions that challenge or support personal opinions.",
-      "The most formal or complicated wording is automatically the most effective choice."
+      "Naming the feature is enough; evidence from the text is unnecessary.",
+      "The most formal or complicated wording is automatically the best choice.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape comparing reviews of a literary text and evaluating opinions that challenge or support.",
+      "One isolated word proves the whole interpretation without needing context."
     ],
     "correct": 2,
-    "explanation": "Comparing reviews of a literary text and evaluating opinions that challenge or support personal opinions. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use voice to shape comparing reviews of a literary text and evaluating opinions that challenge or support personal opinions and influence how an audience understands the text.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape comparing reviews of a literary text and evaluating opinions that challenge or support. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape comparing reviews of a literary text and evaluating opinions that challenge or support.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 10
@@ -296,14 +296,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text.",
-      "Comparing reviews of a literary text and evaluating opinions that challenge or support personal opinions.",
-      "A single word proves the whole interpretation, even when the surrounding context suggests otherwise.",
-      "Reflecting on and evaluating opinions and arguments about aspects of literary texts including characterisation, setting and plot."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape comparing reviews of a literary text and evaluating opinions that challenge or support.",
+      "The most formal or complicated wording is automatically the best choice.",
+      "One isolated word proves the whole interpretation without needing context.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape reflecting on and evaluating opinions and arguments about aspects of."
     ],
     "correct": 3,
-    "explanation": "Reflecting on and evaluating opinions and arguments about aspects of literary texts including characterisation, setting and plot. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use representation to shape reflecting on and evaluating opinions and arguments about aspects of literary texts and influence how an audience understands the text.",
+    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape reflecting on and evaluating opinions and arguments about aspects of. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape reflecting on and evaluating opinions and arguments about aspects of.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 11
@@ -324,14 +324,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Comparing reviews of a literary text and evaluating opinions that challenge or support personal opinions.",
-      "A feature name is enough to prove an interpretation.",
-      "Reflecting on and evaluating opinions and arguments about aspects of literary texts including characterisation, setting and plot.",
-      "The feature only changes how the text looks or sounds; it does not shape meaning."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape comparing reviews of a literary text and evaluating opinions that challenge or support.",
+      "One isolated word proves the whole interpretation without needing context.",
+      "The feature changes only surface style and cannot shape meaning.",
+      "Any interpretation is equally strong even when it lacks supporting evidence."
     ],
     "correct": 0,
-    "explanation": "Comparing reviews of a literary text and evaluating opinions that challenge or support personal opinions. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use voice to shape comparing reviews of a literary text and evaluating opinions that challenge or support personal opinions and influence how an audience understands the text.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape comparing reviews of a literary text and evaluating opinions that challenge or support. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape comparing reviews of a literary text and evaluating opinions that challenge or support.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 12
@@ -343,8 +343,8 @@ window.skillrTestQuestions = [
     "skill": "share opinions about the language features, literary devices and text structures that contribute to…",
     "printable": true,
     "type": "single",
-    "question": "Which choice would be most effective in a literary magazine extract if the aim is to use share opinions about the language features, literary devices and text structures that contribute to… deliberately?",
-    "audioPrompt": "Which choice would be most effective in a literary magazine extract if the aim is to use share opinions about the language features, literary devices and text structures that contribute to… deliberately?",
+    "question": "Which choice would use share opinions about the language features, literary devices and text structures that contribute to… most effectively in a literary magazine extract?",
+    "audioPrompt": "Which choice would use share opinions about the language features, literary devices and text structures that contribute to… most effectively in a literary magazine extract?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -352,14 +352,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text.",
-      "Reflecting on and evaluating opinions and arguments about aspects of literary texts including characterisation, setting and plot.",
-      "Comparing reviews of a literary text and evaluating opinions that challenge or support personal opinions.",
-      "Any interpretation is equally strong, even if it cannot be supported with details from the text."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape comparing reviews of a literary text and evaluating opinions that challenge or support.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape reflecting on and evaluating opinions and arguments about aspects of.",
+      "The feature changes only surface style and cannot shape meaning.",
+      "Any interpretation is equally strong even when it lacks supporting evidence."
     ],
     "correct": 1,
-    "explanation": "Reflecting on and evaluating opinions and arguments about aspects of literary texts including characterisation, setting and plot. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use representation to shape reflecting on and evaluating opinions and arguments about aspects of literary texts and influence how an audience understands the text.",
+    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape reflecting on and evaluating opinions and arguments about aspects of. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape reflecting on and evaluating opinions and arguments about aspects of.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 13
@@ -371,8 +371,8 @@ window.skillrTestQuestions = [
     "skill": "share opinions about the language features, literary devices and text structures that contribute to…",
     "printable": true,
     "type": "single",
-    "question": "Which statement about share opinions about the language features, literary devices and text structures that contribute to… can be defended from the evidence in a public-service announcement?",
-    "audioPrompt": "Which statement about share opinions about the language features, literary devices and text structures that contribute to… can be defended from the evidence in a public-service announcement?",
+    "question": "Which statement about share opinions about the language features, literary devices and text structures that contribute to… can be defended in a public-service announcement?",
+    "audioPrompt": "Which statement about share opinions about the language features, literary devices and text structures that contribute to… can be defended in a public-service announcement?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -380,14 +380,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Reflecting on and evaluating opinions and arguments about aspects of literary texts including characterisation, setting and plot.",
-      "Comparing reviews of a literary text and evaluating opinions that challenge or support personal opinions.",
-      "The writer should use the feature as often as possible because more of it always improves a text."
+      "Any interpretation is equally strong even when it lacks supporting evidence.",
+      "Using more of the feature will always improve a text.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape comparing reviews of a literary text and evaluating opinions that challenge or support.",
+      "Audience and purpose do not matter once the feature has been identified."
     ],
     "correct": 2,
-    "explanation": "Comparing reviews of a literary text and evaluating opinions that challenge or support personal opinions. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use voice to shape comparing reviews of a literary text and evaluating opinions that challenge or support personal opinions and influence how an audience understands the text.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape comparing reviews of a literary text and evaluating opinions that challenge or support. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape comparing reviews of a literary text and evaluating opinions that challenge or support.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 14
@@ -408,14 +408,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text.",
-      "Comparing reviews of a literary text and evaluating opinions that challenge or support personal opinions.",
-      "Purpose and audience can be ignored once the feature has been identified.",
-      "Reflecting on and evaluating opinions and arguments about aspects of literary texts including characterisation, setting and plot."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape comparing reviews of a literary text and evaluating opinions that challenge or support.",
+      "Using more of the feature will always improve a text.",
+      "Audience and purpose do not matter once the feature has been identified.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape reflecting on and evaluating opinions and arguments about aspects of."
     ],
     "correct": 3,
-    "explanation": "Reflecting on and evaluating opinions and arguments about aspects of literary texts including characterisation, setting and plot. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use representation to shape reflecting on and evaluating opinions and arguments about aspects of literary texts and influence how an audience understands the text.",
+    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape reflecting on and evaluating opinions and arguments about aspects of. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape reflecting on and evaluating opinions and arguments about aspects of.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 15
@@ -436,14 +436,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Comparing reviews of a literary text and evaluating opinions that challenge or support personal opinions.",
-      "A feature name is enough to prove an interpretation.",
-      "Reflecting on and evaluating opinions and arguments about aspects of literary texts including characterisation, setting and plot.",
-      "The feature has one fixed effect in every text, regardless of audience or purpose."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape comparing reviews of a literary text and evaluating opinions that challenge or support.",
+      "Audience and purpose do not matter once the feature has been identified.",
+      "The feature has one fixed effect in every text, regardless of audience or purpose.",
+      "Naming the feature is enough; evidence from the text is unnecessary."
     ],
     "correct": 0,
-    "explanation": "Comparing reviews of a literary text and evaluating opinions that challenge or support personal opinions. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use voice to shape comparing reviews of a literary text and evaluating opinions that challenge or support personal opinions and influence how an audience understands the text.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape comparing reviews of a literary text and evaluating opinions that challenge or support. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape comparing reviews of a literary text and evaluating opinions that challenge or support.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 16

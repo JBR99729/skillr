@@ -16,14 +16,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
-      "How texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their purpose.",
-      "Discussing how the placement of images and written text in a linear or non-linear way, such as online texts, is used differently in a variety of texts for a purpose."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text.",
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or.",
+      "The feature has one fixed effect in every text, regardless of audience or purpose."
     ],
     "correct": 1,
-    "explanation": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 1
@@ -44,14 +44,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Discussing how the placement of images and written text in a linear or non-linear way, such as online texts, is used differently in a variety of texts for a purpose.",
-      "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
-      "The most formal or complicated wording is automatically the most effective choice."
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or.",
+      "Naming the feature is enough; evidence from the text is unnecessary.",
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,.",
+      "The most formal or complicated wording is automatically the best choice."
     ],
     "correct": 2,
-    "explanation": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 2
@@ -72,14 +72,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "How texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their purpose.",
-      "A single word proves the whole interpretation, even when the surrounding context suggests otherwise.",
-      "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text.",
+      "The most formal or complicated wording is automatically the best choice.",
+      "One isolated word proves the whole interpretation without needing context.",
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,."
     ],
     "correct": 3,
-    "explanation": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 3
@@ -100,14 +100,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
-      "A feature name is enough to prove an interpretation.",
-      "How texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their purpose.",
-      "Discussing how the placement of images and written text in a linear or non-linear way, such as online texts, is used differently in a variety of texts for a purpose."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or.",
+      "One isolated word proves the whole interpretation without needing context."
     ],
     "correct": 0,
-    "explanation": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 4
@@ -119,8 +119,8 @@ window.skillrTestQuestions = [
     "skill": "how purpose shapes text structure, language features and hybrid genres",
     "printable": true,
     "type": "single",
-    "question": "Which choice would be most effective in an environmental campaign video if the aim is to use how purpose shapes text structure, language features and hybrid genres deliberately?",
-    "audioPrompt": "Which choice would be most effective in an environmental campaign video if the aim is to use how purpose shapes text structure, language features and hybrid genres deliberately?",
+    "question": "Which choice would use how purpose shapes text structure, language features and hybrid genres most effectively in an environmental campaign video?",
+    "audioPrompt": "Which choice would use how purpose shapes text structure, language features and hybrid genres most effectively in an environmental campaign video?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -128,14 +128,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
-      "Discussing how the placement of images and written text in a linear or non-linear way, such as online texts, is used differently in a variety of texts for a purpose.",
-      "Any interpretation is equally strong, even if it cannot be supported with details from the text."
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or.",
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,.",
+      "The feature changes only surface style and cannot shape meaning.",
+      "Any interpretation is equally strong even when it lacks supporting evidence."
     ],
     "correct": 1,
-    "explanation": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 5
@@ -147,8 +147,8 @@ window.skillrTestQuestions = [
     "skill": "how purpose shapes text structure, language features and hybrid genres",
     "printable": true,
     "type": "single",
-    "question": "Which statement about how purpose shapes text structure, language features and hybrid genres can be defended from the evidence in a cultural-festival program?",
-    "audioPrompt": "Which statement about how purpose shapes text structure, language features and hybrid genres can be defended from the evidence in a cultural-festival program?",
+    "question": "Which statement about how purpose shapes text structure, language features and hybrid genres can be defended in a cultural-festival program?",
+    "audioPrompt": "Which statement about how purpose shapes text structure, language features and hybrid genres can be defended in a cultural-festival program?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -156,14 +156,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "How texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their purpose.",
-      "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
-      "The writer should use the feature as often as possible because more of it always improves a text."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text.",
+      "Any interpretation is equally strong even when it lacks supporting evidence.",
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,.",
+      "Using more of the feature will always improve a text."
     ],
     "correct": 2,
-    "explanation": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 6
@@ -184,14 +184,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "How texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their purpose.",
-      "Discussing how the placement of images and written text in a linear or non-linear way, such as online texts, is used differently in a variety of texts for a purpose.",
-      "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or.",
+      "Using more of the feature will always improve a text.",
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,."
     ],
     "correct": 3,
-    "explanation": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 7
@@ -212,14 +212,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
-      "A feature name is enough to prove an interpretation.",
-      "Discussing how the placement of images and written text in a linear or non-linear way, such as online texts, is used differently in a variety of texts for a purpose.",
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or.",
+      "Audience and purpose do not matter once the feature has been identified.",
       "The feature has one fixed effect in every text, regardless of audience or purpose."
     ],
     "correct": 0,
-    "explanation": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 8
@@ -240,14 +240,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
-      "How texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their purpose.",
-      "It is enough to name the feature; no evidence or explanation of its effect is needed."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text.",
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,.",
+      "The feature has one fixed effect in every text, regardless of audience or purpose.",
+      "Naming the feature is enough; evidence from the text is unnecessary."
     ],
     "correct": 1,
-    "explanation": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 9
@@ -268,14 +268,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "How texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their purpose.",
-      "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
-      "Discussing how the placement of images and written text in a linear or non-linear way, such as online texts, is used differently in a variety of texts for a purpose."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or.",
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,.",
+      "Naming the feature is enough; evidence from the text is unnecessary."
     ],
     "correct": 2,
-    "explanation": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 10
@@ -296,14 +296,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Discussing how the placement of images and written text in a linear or non-linear way, such as online texts, is used differently in a variety of texts for a purpose.",
-      "A single word proves the whole interpretation, even when the surrounding context suggests otherwise.",
-      "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,."
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or.",
+      "The most formal or complicated wording is automatically the best choice.",
+      "One isolated word proves the whole interpretation without needing context.",
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,."
     ],
     "correct": 3,
-    "explanation": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 11
@@ -324,14 +324,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
-      "A feature name is enough to prove an interpretation.",
-      "How texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their purpose.",
-      "The feature only changes how the text looks or sounds; it does not shape meaning."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text.",
+      "One isolated word proves the whole interpretation without needing context.",
+      "The feature changes only surface style and cannot shape meaning."
     ],
     "correct": 0,
-    "explanation": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 12
@@ -343,8 +343,8 @@ window.skillrTestQuestions = [
     "skill": "how purpose shapes text structure, language features and hybrid genres",
     "printable": true,
     "type": "single",
-    "question": "Which choice would be most effective in a literary magazine extract if the aim is to use how purpose shapes text structure, language features and hybrid genres deliberately?",
-    "audioPrompt": "Which choice would be most effective in a literary magazine extract if the aim is to use how purpose shapes text structure, language features and hybrid genres deliberately?",
+    "question": "Which choice would use how purpose shapes text structure, language features and hybrid genres most effectively in a literary magazine extract?",
+    "audioPrompt": "Which choice would use how purpose shapes text structure, language features and hybrid genres most effectively in a literary magazine extract?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -352,14 +352,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
-      "How texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their purpose.",
-      "Discussing how the placement of images and written text in a linear or non-linear way, such as online texts, is used differently in a variety of texts for a purpose."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text.",
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or.",
+      "The feature changes only surface style and cannot shape meaning."
     ],
     "correct": 1,
-    "explanation": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 13
@@ -371,8 +371,8 @@ window.skillrTestQuestions = [
     "skill": "how purpose shapes text structure, language features and hybrid genres",
     "printable": true,
     "type": "single",
-    "question": "Which statement about how purpose shapes text structure, language features and hybrid genres can be defended from the evidence in a public-service announcement?",
-    "audioPrompt": "Which statement about how purpose shapes text structure, language features and hybrid genres can be defended from the evidence in a public-service announcement?",
+    "question": "Which statement about how purpose shapes text structure, language features and hybrid genres can be defended in a public-service announcement?",
+    "audioPrompt": "Which statement about how purpose shapes text structure, language features and hybrid genres can be defended in a public-service announcement?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -380,14 +380,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Discussing how the placement of images and written text in a linear or non-linear way, such as online texts, is used differently in a variety of texts for a purpose.",
-      "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
-      "The writer should use the feature as often as possible because more of it always improves a text."
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or.",
+      "Any interpretation is equally strong even when it lacks supporting evidence.",
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,.",
+      "Using more of the feature will always improve a text."
     ],
     "correct": 2,
-    "explanation": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 14
@@ -408,14 +408,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "How texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their purpose.",
-      "Purpose and audience can be ignored once the feature has been identified.",
-      "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,."
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text.",
+      "Using more of the feature will always improve a text.",
+      "Audience and purpose do not matter once the feature has been identified.",
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,."
     ],
     "correct": 3,
-    "explanation": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 15
@@ -436,14 +436,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
-      "A feature name is enough to prove an interpretation.",
-      "How texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their purpose.",
-      "Discussing how the placement of images and written text in a linear or non-linear way, such as online texts, is used differently in a variety of texts for a purpose."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or.",
+      "Audience and purpose do not matter once the feature has been identified."
     ],
     "correct": 0,
-    "explanation": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives,.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 16

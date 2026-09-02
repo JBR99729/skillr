@@ -16,14 +16,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text.",
-      "Selecting vocabulary to position and persuade the reader.",
-      "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
-      "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an."
     ],
     "correct": 1,
-    "explanation": "Selecting vocabulary to position and persuade the reader. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence how an audience understands the text.",
+    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 1
@@ -44,14 +44,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
-      "Experimenting with and editing text structures and language features.",
-      "Selecting vocabulary to position and persuade the reader."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an.",
+      "Naming the feature is enough; evidence from the text is unnecessary."
     ],
     "correct": 2,
-    "explanation": "Experimenting with and editing text structures and language features. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an audience understands the text.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 2
@@ -72,14 +72,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text.",
-      "Experimenting with and editing text structures and language features.",
-      "Selecting vocabulary to position and persuade the reader.",
-      "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an.",
+      "The most formal or complicated wording is automatically the best choice.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage."
     ],
     "correct": 3,
-    "explanation": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text and influence how an audience understands the text.",
+    "explanation": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 3
@@ -100,14 +100,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
-      "A feature name is enough to prove an interpretation.",
-      "Selecting vocabulary to position and persuade the reader.",
-      "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an.",
+      "One isolated word proves the whole interpretation without needing context."
     ],
     "correct": 0,
-    "explanation": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 4
@@ -119,8 +119,8 @@ window.skillrTestQuestions = [
     "skill": "plan, create, edit and publish written and multimodal texts",
     "printable": true,
     "type": "single",
-    "question": "Which choice would be most effective in an environmental campaign video if the aim is to use plan, create, edit and publish written and multimodal texts deliberately?",
-    "audioPrompt": "Which choice would be most effective in an environmental campaign video if the aim is to use plan, create, edit and publish written and multimodal texts deliberately?",
+    "question": "Which choice would use plan, create, edit and publish written and multimodal texts most effectively in an environmental campaign video?",
+    "audioPrompt": "Which choice would use plan, create, edit and publish written and multimodal texts most effectively in an environmental campaign video?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -128,14 +128,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text.",
-      "Selecting vocabulary to position and persuade the reader.",
-      "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
-      "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an."
     ],
     "correct": 1,
-    "explanation": "Selecting vocabulary to position and persuade the reader. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence how an audience understands the text.",
+    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 5
@@ -147,8 +147,8 @@ window.skillrTestQuestions = [
     "skill": "plan, create, edit and publish written and multimodal texts",
     "printable": true,
     "type": "single",
-    "question": "Which statement about plan, create, edit and publish written and multimodal texts can be defended from the evidence in a cultural-festival program?",
-    "audioPrompt": "Which statement about plan, create, edit and publish written and multimodal texts can be defended from the evidence in a cultural-festival program?",
+    "question": "Which statement about plan, create, edit and publish written and multimodal texts can be defended in a cultural-festival program?",
+    "audioPrompt": "Which statement about plan, create, edit and publish written and multimodal texts can be defended in a cultural-festival program?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -156,14 +156,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
-      "Experimenting with and editing text structures and language features.",
-      "Selecting vocabulary to position and persuade the reader."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an.",
+      "Any interpretation is equally strong even when it lacks supporting evidence."
     ],
     "correct": 2,
-    "explanation": "Experimenting with and editing text structures and language features. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an audience understands the text.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 6
@@ -184,14 +184,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text.",
-      "Experimenting with and editing text structures and language features.",
-      "Selecting vocabulary to position and persuade the reader.",
-      "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an.",
+      "Using more of the feature will always improve a text.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage."
     ],
     "correct": 3,
-    "explanation": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text and influence how an audience understands the text.",
+    "explanation": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 7
@@ -212,14 +212,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
-      "A feature name is enough to prove an interpretation.",
-      "Selecting vocabulary to position and persuade the reader.",
-      "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an.",
+      "Audience and purpose do not matter once the feature has been identified."
     ],
     "correct": 0,
-    "explanation": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 8
@@ -240,14 +240,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text.",
-      "Selecting vocabulary to position and persuade the reader.",
-      "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
-      "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an."
     ],
     "correct": 1,
-    "explanation": "Selecting vocabulary to position and persuade the reader. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence how an audience understands the text.",
+    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 9
@@ -268,14 +268,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
-      "Experimenting with and editing text structures and language features.",
-      "Selecting vocabulary to position and persuade the reader."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an.",
+      "Naming the feature is enough; evidence from the text is unnecessary."
     ],
     "correct": 2,
-    "explanation": "Experimenting with and editing text structures and language features. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an audience understands the text.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 10
@@ -296,14 +296,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text.",
-      "Experimenting with and editing text structures and language features.",
-      "Selecting vocabulary to position and persuade the reader.",
-      "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an.",
+      "The most formal or complicated wording is automatically the best choice.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage."
     ],
     "correct": 3,
-    "explanation": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text and influence how an audience understands the text.",
+    "explanation": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 11
@@ -324,14 +324,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
-      "A feature name is enough to prove an interpretation.",
-      "Selecting vocabulary to position and persuade the reader.",
-      "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an.",
+      "One isolated word proves the whole interpretation without needing context."
     ],
     "correct": 0,
-    "explanation": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 12
@@ -343,8 +343,8 @@ window.skillrTestQuestions = [
     "skill": "plan, create, edit and publish written and multimodal texts",
     "printable": true,
     "type": "single",
-    "question": "Which choice would be most effective in a literary magazine extract if the aim is to use plan, create, edit and publish written and multimodal texts deliberately?",
-    "audioPrompt": "Which choice would be most effective in a literary magazine extract if the aim is to use plan, create, edit and publish written and multimodal texts deliberately?",
+    "question": "Which choice would use plan, create, edit and publish written and multimodal texts most effectively in a literary magazine extract?",
+    "audioPrompt": "Which choice would use plan, create, edit and publish written and multimodal texts most effectively in a literary magazine extract?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -352,14 +352,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text.",
-      "Selecting vocabulary to position and persuade the reader.",
-      "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
-      "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by.",
+      "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an."
     ],
     "correct": 1,
-    "explanation": "Selecting vocabulary to position and persuade the reader. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence how an audience understands the text.",
+    "explanation": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 13
@@ -371,8 +371,8 @@ window.skillrTestQuestions = [
     "skill": "plan, create, edit and publish written and multimodal texts",
     "printable": true,
     "type": "single",
-    "question": "Which statement about plan, create, edit and publish written and multimodal texts can be defended from the evidence in a public-service announcement?",
-    "audioPrompt": "Which statement about plan, create, edit and publish written and multimodal texts can be defended from the evidence in a public-service announcement?",
+    "question": "Which statement about plan, create, edit and publish written and multimodal texts can be defended in a public-service announcement?",
+    "audioPrompt": "Which statement about plan, create, edit and publish written and multimodal texts can be defended in a public-service announcement?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -380,14 +380,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation.",
-      "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
-      "Experimenting with and editing text structures and language features.",
-      "Selecting vocabulary to position and persuade the reader."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an.",
+      "Any interpretation is equally strong even when it lacks supporting evidence."
     ],
     "correct": 2,
-    "explanation": "Experimenting with and editing text structures and language features. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an audience understands the text.",
+    "explanation": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 14
@@ -408,14 +408,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text.",
-      "Experimenting with and editing text structures and language features.",
-      "Selecting vocabulary to position and persuade the reader.",
-      "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an.",
+      "Using more of the feature will always improve a text.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage."
     ],
     "correct": 3,
-    "explanation": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text and influence how an audience understands the text.",
+    "explanation": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 15
@@ -436,14 +436,14 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
-      "A feature name is enough to prove an interpretation.",
-      "Selecting vocabulary to position and persuade the reader.",
-      "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text."
+      "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by.",
+      "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage.",
+      "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an.",
+      "Audience and purpose do not matter once the feature has been identified."
     ],
     "correct": 0,
-    "explanation": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
-    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
+    "explanation": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by.",
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 16
