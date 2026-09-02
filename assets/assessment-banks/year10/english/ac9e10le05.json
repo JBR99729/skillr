@@ -5,39 +5,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_examining_a_range_of_short_poems_a_short_story_or_extracts_from_a_novel_or_film_to_find_and_discuss_examples_of_how_language_devices_layer_meaning_and_influence_the_responses_of_listeners_viewers_or_readers_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape examining a range of short poems a short story or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners viewers or readers and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape examining a range of short poems a short story or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners viewers or readers and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "layered meaning and satire",
+    "question": "A poem describes drought as “the sky withholding its hand”. Which device is most central?",
+    "audio_prompt": "A poem describes drought as “the sky withholding its hand”. Which device is most central?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "examining a range of short poems, a short story, or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners, viewers or readers",
+        "text": "metaphor",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "alliteration",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "literal description",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "rhyme",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "examining a range of short poems, a short story, or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners, viewers or readers",
-      "hint": "A writer or speaker can use voice to shape examining a range of short poems, a short story, or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners, viewers or readers and influence how an audience understands the text."
+      "summary": "The sky is given a human-like action and drought is represented through a figurative comparison rather than literally.",
+      "hint": "Ask whether the sky can literally “withhold its hand”."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le05-p-002",
@@ -45,39 +47,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_representation_to_shape_examining_satirical_representations_of_events_or_ideas_and_determining_how_satire_shapes_interpretations_and_responses_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use representation to shape examining satirical representations of events or ideas and determining how satire shapes interpretations and responses and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use representation to shape examining satirical representations of events or ideas and determining how satire shapes interpretations and responses and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "layered meaning and satire",
+    "question": "A story repeatedly returns to the image of a cracked watch whenever a character thinks about regret. What is the watch functioning as?",
+    "audio_prompt": "A story repeatedly returns to the image of a cracked watch whenever a character thinks about regret. What is the watch functioning as?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "examining satirical representations of events or ideas and determining how satire shapes interpretations and responses",
+        "text": "a recurring motif",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "a factual footnote",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "a rhyme scheme",
+        "is_correct": false
+      },
+      {
+        "text": "a camera angle",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "examining satirical representations of events or ideas and determining how satire shapes interpretations and responses",
-      "hint": "A writer or speaker can use representation to shape examining satirical representations of events or ideas and determining how satire shapes interpretations and responses and influence how an audience understands the text."
+      "summary": "A recurring image that gathers meaning across a text functions as a motif.",
+      "hint": "Look for repetition plus developing significance."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le05-p-003",
@@ -85,39 +89,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_examining_a_range_of_short_poems_a_short_story_or_extracts_from_a_novel_or_film_to_find_and_discuss_examples_of_how_language_devices_layer_meaning_and_influence_the_responses_of_listeners_viewers_or_readers_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape examining a range of short poems a short story or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners viewers or readers and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape examining a range of short poems a short story or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners viewers or readers and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "layered meaning and satire",
+    "question": "A cartoon shows a politician holding an umbrella labelled “accountability” while standing indoors. What technique is most likely operating?",
+    "audio_prompt": "A cartoon shows a politician holding an umbrella labelled “accountability” while standing indoors. What technique is most likely operating?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "examining a range of short poems, a short story, or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners, viewers or readers",
+        "text": "satirical irony",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "neutral reporting",
+        "is_correct": false
+      },
+      {
+        "text": "literal realism",
+        "is_correct": false
+      },
+      {
+        "text": "chronological sequencing",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "examining a range of short poems, a short story, or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners, viewers or readers",
-      "hint": "A writer or speaker can use voice to shape examining a range of short poems, a short story, or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners, viewers or readers and influence how an audience understands the text."
+      "summary": "The image creates a mismatch between the symbol of protection and the context, inviting criticism through irony.",
+      "hint": "Satire often says one thing visually while implying another judgement."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le05-p-004",
@@ -125,39 +131,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_representation_to_shape_examining_satirical_representations_of_events_or_ideas_and_determining_how_satire_shapes_interpretations_and_responses_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use representation to shape examining satirical representations of events or ideas and determining how satire shapes interpretations and responses and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use representation to shape examining satirical representations of events or ideas and determining how satire shapes interpretations and responses and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "layered meaning and satire",
+    "question": "In “the street hissed under summer rain”, which device is most obvious?",
+    "audio_prompt": "In “the street hissed under summer rain”, which device is most obvious?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "examining satirical representations of events or ideas and determining how satire shapes interpretations and responses",
+        "text": "personification",
         "is_correct": true
+      },
+      {
+        "text": "ellipsis",
+        "is_correct": false
+      },
+      {
+        "text": "modal verb",
+        "is_correct": false
+      },
+      {
+        "text": "flashback",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "examining satirical representations of events or ideas and determining how satire shapes interpretations and responses",
-      "hint": "A writer or speaker can use representation to shape examining satirical representations of events or ideas and determining how satire shapes interpretations and responses and influence how an audience understands the text."
+      "summary": "The street is given the animate action “hissed”, layering sound and atmosphere onto the setting.",
+      "hint": "Can a street literally hiss?"
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le05-p-005",
@@ -165,38 +173,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_examining_a_range_of_short_poems_a_short_story_or_extracts_from_a_novel_or_film_to_find_and_discuss_examples_of_how_language_devices_layer_meaning_and_influence_the_responses_of_listeners_viewers_or_readers_and_influence_how_an_audience_understands_the_text",
-    "question": "What should you check when using a writer or speaker can use voice to shape examining a range of short poems, a short story, or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners, viewers or readers and influence how an audience understands the text?",
-    "audio_prompt": "What should you check when using a writer or speaker can use voice to shape examining a range of short poems, a short story, or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners, viewers or readers and influence how an audience understands the text?",
+    "skill": "layered meaning and satire",
+    "question": "A film cuts from a luxury banquet to a food-bank queue. Which device creates meaning through the contrast?",
+    "audio_prompt": "A film cuts from a luxury banquet to a food-bank queue. Which device creates meaning through the contrast?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "examining a range of short poems, a short story, or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners, viewers or readers",
+        "text": "juxtaposition",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "alliteration",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "enjambment",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "first-person narration",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "examining a range of short poems, a short story, or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners, viewers or readers",
-      "hint": "A writer or speaker can use voice to shape examining a range of short poems, a short story, or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners, viewers or readers and influence how an audience understands the text."
+      "summary": "Placing contrasting images side by side encourages viewers to compare them and infer inequality.",
+      "hint": "Meaning comes from what is placed next to what."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le05-p-006",
@@ -204,38 +215,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_representation_to_shape_examining_satirical_representations_of_events_or_ideas_and_determining_how_satire_shapes_interpretations_and_responses_and_influence_how_an_audience_understands_the_text",
-    "question": "What should you check when using a writer or speaker can use representation to shape examining satirical representations of events or ideas and determining how satire shapes interpretations and responses and influence how an audience understands the text?",
-    "audio_prompt": "What should you check when using a writer or speaker can use representation to shape examining satirical representations of events or ideas and determining how satire shapes interpretations and responses and influence how an audience understands the text?",
+    "skill": "layered meaning and satire",
+    "question": "A poem repeats the phrase “still we wait” at the end of each stanza. What does this repetition most directly create?",
+    "audio_prompt": "A poem repeats the phrase “still we wait” at the end of each stanza. What does this repetition most directly create?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "examining satirical representations of events or ideas and determining how satire shapes interpretations and responses",
+        "text": "emphasis and accumulation",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "a change of narrator",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "a literal definition",
+        "is_correct": false
+      },
+      {
+        "text": "a new setting",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "examining satirical representations of events or ideas and determining how satire shapes interpretations and responses",
-      "hint": "A writer or speaker can use representation to shape examining satirical representations of events or ideas and determining how satire shapes interpretations and responses and influence how an audience understands the text."
+      "summary": "Repeated phrasing can reinforce an idea while building emotional or thematic pressure.",
+      "hint": "Think about what repetition makes harder to ignore."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le05-p-007",
@@ -243,39 +257,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_examining_a_range_of_short_poems_a_short_story_or_extracts_from_a_novel_or_film_to_find_and_discuss_examples_of_how_language_devices_layer_meaning_and_influence_the_responses_of_listeners_viewers_or_readers_and_influence_how_an_audience_understands_the_text",
-    "question": "Which statement best explains a writer or speaker can use voice to shape examining a range of short poems, a short story, or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners, viewers or readers and influence how an audience understands the text?",
-    "audio_prompt": "Which statement best explains a writer or speaker can use voice to shape examining a range of short poems, a short story, or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners, viewers or readers and influence how an audience understands the text?",
+    "skill": "layered meaning and satire",
+    "question": "A comedy sketch exaggerates a minor bureaucratic rule until characters need 47 forms to borrow a pencil. What feature signals satire?",
+    "audio_prompt": "A comedy sketch exaggerates a minor bureaucratic rule until characters need 47 forms to borrow a pencil. What feature signals satire?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "examining a range of short poems, a short story, or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners, viewers or readers",
+        "text": "exaggeration used to expose absurdity",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "accurate documentary detail",
+        "is_correct": false
+      },
+      {
+        "text": "unrelated fantasy",
+        "is_correct": false
+      },
+      {
+        "text": "neutral description",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "examining a range of short poems, a short story, or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners, viewers or readers",
-      "hint": "A writer or speaker can use voice to shape examining a range of short poems, a short story, or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners, viewers or readers and influence how an audience understands the text."
+      "summary": "Satire often exaggerates real tendencies so their absurdity or flaws become visible.",
+      "hint": "The exaggeration is purposeful criticism."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le05-p-008",
@@ -283,39 +299,1385 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_representation_to_shape_examining_satirical_representations_of_events_or_ideas_and_determining_how_satire_shapes_interpretations_and_responses_and_influence_how_an_audience_understands_the_text",
-    "question": "Which statement best explains a writer or speaker can use representation to shape examining satirical representations of events or ideas and determining how satire shapes interpretations and responses and influence how an audience understands the text?",
-    "audio_prompt": "Which statement best explains a writer or speaker can use representation to shape examining satirical representations of events or ideas and determining how satire shapes interpretations and responses and influence how an audience understands the text?",
+    "skill": "layered meaning and satire",
+    "question": "A narrator says, “What a brilliant idea,” immediately after a disastrous plan fails. Which device is most likely?",
+    "audio_prompt": "A narrator says, “What a brilliant idea,” immediately after a disastrous plan fails. Which device is most likely?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "examining satirical representations of events or ideas and determining how satire shapes interpretations and responses",
+        "text": "verbal irony",
         "is_correct": true
+      },
+      {
+        "text": "foreshadowing",
+        "is_correct": false
+      },
+      {
+        "text": "alliteration",
+        "is_correct": false
+      },
+      {
+        "text": "symbolism",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "examining satirical representations of events or ideas and determining how satire shapes interpretations and responses",
-      "hint": "A writer or speaker can use representation to shape examining satirical representations of events or ideas and determining how satire shapes interpretations and responses and influence how an audience understands the text."
+      "summary": "The literal praise conflicts with the obvious situation, creating verbal irony.",
+      "hint": "Literal words and intended meaning do not match."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le05-p-009",
+    "curriculum_code": "AC9E10LE05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "layered meaning and satire",
+    "question": "A film keeps returning to the same empty chair after a character dies. What is the chair most likely doing?",
+    "audio_prompt": "A film keeps returning to the same empty chair after a character dies. What is the chair most likely doing?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "symbolising absence or loss through repetition",
+        "is_correct": true
+      },
+      {
+        "text": "providing only background decoration",
+        "is_correct": false
+      },
+      {
+        "text": "changing the film’s genre",
+        "is_correct": false
+      },
+      {
+        "text": "showing a different camera lens",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The repeated chair can accumulate symbolic meaning because of its association with the absent character.",
+      "hint": "Objects can carry meanings beyond their literal function."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le05-p-010",
+    "curriculum_code": "AC9E10LE05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "layered meaning and satire",
+    "question": "A poem uses “click, clack, crack” in a line about a train. Which device most clearly adds sound to the meaning?",
+    "audio_prompt": "A poem uses “click, clack, crack” in a line about a train. Which device most clearly adds sound to the meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "onomatopoeia",
+        "is_correct": true
+      },
+      {
+        "text": "metaphor",
+        "is_correct": false
+      },
+      {
+        "text": "flashback",
+        "is_correct": false
+      },
+      {
+        "text": "register",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The words imitate or evoke sounds, helping readers hear the scene.",
+      "hint": "The sound of the words matters."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le05-p-011",
+    "curriculum_code": "AC9E10LE05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "layered meaning and satire",
+    "question": "Why is “The city swallowed him” more layered than “He got lost in the city”?",
+    "audio_prompt": "Why is “The city swallowed him” more layered than “He got lost in the city”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The metaphor can suggest both physical disorientation and a sense of being overwhelmed or erased.",
+        "is_correct": true
+      },
+      {
+        "text": "The metaphor gives exact map coordinates.",
+        "is_correct": false
+      },
+      {
+        "text": "The literal version has no meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "“Swallowed” proves the city is alive.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A metaphor can compress several associations into one image, producing literal and emotional implications at once.",
+      "hint": "Ask what “swallowed” suggests beyond being lost."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le05-p-012",
+    "curriculum_code": "AC9E10LE05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "layered meaning and satire",
+    "question": "A poem pairs soft lullaby-like rhythm with images of bushfire destruction. What does the contrast achieve?",
+    "audio_prompt": "A poem pairs soft lullaby-like rhythm with images of bushfire destruction. What does the contrast achieve?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It can create unease by making the sound pattern clash with the disturbing subject.",
+        "is_correct": true
+      },
+      {
+        "text": "It makes the fire less serious automatically.",
+        "is_correct": false
+      },
+      {
+        "text": "It proves the poem is a children’s song.",
+        "is_correct": false
+      },
+      {
+        "text": "It removes emotional complexity.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Layered meaning can emerge when sound and subject point in different directions.",
+      "hint": "Notice the mismatch between form and content."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le05-p-013",
+    "curriculum_code": "AC9E10LE05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "layered meaning and satire",
+    "question": "A satirical article praises a council for “bravely protecting citizens from the dangerous menace of park benches”. Why is the praise satirical?",
+    "audio_prompt": "A satirical article praises a council for “bravely protecting citizens from the dangerous menace of park benches”. Why is the praise satirical?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The exaggerated approval signals that the writer is actually criticising the policy as absurd.",
+        "is_correct": true
+      },
+      {
+        "text": "The article genuinely fears benches.",
+        "is_correct": false
+      },
+      {
+        "text": "All praise is satire.",
+        "is_correct": false
+      },
+      {
+        "text": "The sentence contains no evaluative language.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Satire often adopts mock praise so the gap between wording and reasonable judgement exposes the target.",
+      "hint": "Would a bench normally be described as a “dangerous menace”?"
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le05-p-014",
+    "curriculum_code": "AC9E10LE05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "layered meaning and satire",
+    "question": "Why can ambiguity add meaning to a poem?",
+    "audio_prompt": "Why can ambiguity add meaning to a poem?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It can keep more than one interpretation active, making readers weigh competing possibilities.",
+        "is_correct": true
+      },
+      {
+        "text": "It means the poet failed to choose words.",
+        "is_correct": false
+      },
+      {
+        "text": "It removes all evidence from the poem.",
+        "is_correct": false
+      },
+      {
+        "text": "Ambiguity guarantees every interpretation is equally strong.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Ambiguity can be purposeful when textual details support multiple plausible readings.",
+      "hint": "More than one reading can coexist without meaning “anything goes”."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le05-p-015",
+    "curriculum_code": "AC9E10LE05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "layered meaning and satire",
+    "question": "A story begins and ends with the same sentence, but its meaning feels darker at the end. Why?",
+    "audio_prompt": "A story begins and ends with the same sentence, but its meaning feels darker at the end. Why?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Events in between have changed the context in which readers interpret the repeated words.",
+        "is_correct": true
+      },
+      {
+        "text": "Repeated sentences must always keep identical meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "The ending erases the opening.",
+        "is_correct": false
+      },
+      {
+        "text": "The sentence has become grammatically different.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Repetition can gain new meaning because later events alter what the audience knows and feels.",
+      "hint": "Same words, changed context."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le05-p-016",
+    "curriculum_code": "AC9E10LE05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "layered meaning and satire",
+    "question": "Why might a filmmaker use silence immediately after a violent argument?",
+    "audio_prompt": "Why might a filmmaker use silence immediately after a violent argument?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The absence of sound can intensify shock, isolation or emotional aftermath.",
+        "is_correct": true
+      },
+      {
+        "text": "Silence means nothing is happening.",
+        "is_correct": false
+      },
+      {
+        "text": "Silence automatically makes a scene peaceful.",
+        "is_correct": false
+      },
+      {
+        "text": "Film analysis should ignore missing sound.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Silence is a deliberate sound choice whose effect depends on what comes before and after it.",
+      "hint": "Absence can be meaningful."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le05-p-017",
+    "curriculum_code": "AC9E10LE05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "layered meaning and satire",
+    "question": "A poem repeatedly associates a river with both home and danger. What does this suggest?",
+    "audio_prompt": "A poem repeatedly associates a river with both home and danger. What does this suggest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The symbol is layered rather than fixed to one simple meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "The poet has used the river incorrectly.",
+        "is_correct": false
+      },
+      {
+        "text": "A symbol must mean only one thing.",
+        "is_correct": false
+      },
+      {
+        "text": "The river is no longer a symbol because meanings conflict.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Symbols can carry tension and contradiction, especially when contexts repeatedly attach different values to them.",
+      "hint": "Layered symbols are not always simple."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le05-p-018",
+    "curriculum_code": "AC9E10LE05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "layered meaning and satire",
+    "question": "A satire imitates the style of a serious government announcement. Why might that form be effective?",
+    "audio_prompt": "A satire imitates the style of a serious government announcement. Why might that form be effective?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The familiar official style makes the absurd content expose weaknesses in real bureaucratic language or priorities.",
+        "is_correct": true
+      },
+      {
+        "text": "Imitation removes all criticism.",
+        "is_correct": false
+      },
+      {
+        "text": "Government announcements are always funny.",
+        "is_correct": false
+      },
+      {
+        "text": "Satire cannot imitate other genres.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Parodying a recognisable form lets the satire critique both the message and the conventions used to present it.",
+      "hint": "The borrowed style is part of the joke and the criticism."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le05-p-019",
+    "curriculum_code": "AC9E10LE05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "layered meaning and satire",
+    "question": "Why does a close-up of a character’s trembling hand add meaning beyond dialogue saying “I’m fine”?",
+    "audio_prompt": "Why does a close-up of a character’s trembling hand add meaning beyond dialogue saying “I’m fine”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The visual detail can contradict the spoken words and reveal concealed fear or stress.",
+        "is_correct": true
+      },
+      {
+        "text": "Close-ups always mean fear.",
+        "is_correct": false
+      },
+      {
+        "text": "The dialogue becomes irrelevant.",
+        "is_correct": false
+      },
+      {
+        "text": "The shot proves the character is lying about everything.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Meaning is layered when visual and verbal information interact, especially when they conflict.",
+      "hint": "Compare what the character says with what the image shows."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le05-p-020",
+    "curriculum_code": "AC9E10LE05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "layered meaning and satire",
+    "question": "A short story uses cheerful weather descriptions during a funeral. What effect can this create?",
+    "audio_prompt": "A short story uses cheerful weather descriptions during a funeral. What effect can this create?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The contrast may heighten grief, alienation or the sense that the world continues indifferently.",
+        "is_correct": true
+      },
+      {
+        "text": "Cheerful weather automatically makes the funeral happy.",
+        "is_correct": false
+      },
+      {
+        "text": "Weather descriptions cannot affect meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "The story changes into comedy.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Contrasting atmosphere and event can produce irony or emotional complexity rather than a single direct mood.",
+      "hint": "Ask what the mismatch makes readers notice."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le05-p-021",
+    "curriculum_code": "AC9E10LE05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "layered meaning and satire",
+    "question": "Which analysis of metaphor is strongest?",
+    "audio_prompt": "Which analysis of metaphor is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“Calling the suburb a ‘pressure cooker’ suggests tension building toward a possible breaking point.”",
+        "is_correct": true
+      },
+      {
+        "text": "“Pressure cooker is a metaphor, so it is effective.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The suburb is literally a pressure cooker.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Metaphors always make writing emotional.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Strong analysis explains the associations activated by the metaphor and how they shape meaning.",
+      "hint": "Name + unpack the comparison."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le05-p-022",
+    "curriculum_code": "AC9E10LE05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "layered meaning and satire",
+    "question": "Which statement about satire is most accurate?",
+    "audio_prompt": "Which statement about satire is most accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Satire uses humour, irony, exaggeration or imitation to criticise ideas, behaviour or institutions.",
+        "is_correct": true
+      },
+      {
+        "text": "Satire is simply any text that is funny.",
+        "is_correct": false
+      },
+      {
+        "text": "Satire must always attack an individual person.",
+        "is_correct": false
+      },
+      {
+        "text": "Satire cannot make a serious argument.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Satire combines comic or ironic strategies with critical purpose.",
+      "hint": "Humour alone is not enough."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le05-p-023",
+    "curriculum_code": "AC9E10LE05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "layered meaning and satire",
+    "question": "A film shows a national celebration while the soundtrack includes distant sirens. Which interpretation is strongest?",
+    "audio_prompt": "A film shows a national celebration while the soundtrack includes distant sirens. Which interpretation is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The competing sound complicates the celebratory image by suggesting unresolved danger or tension.",
+        "is_correct": true
+      },
+      {
+        "text": "Sirens always symbolise guilt.",
+        "is_correct": false
+      },
+      {
+        "text": "The celebration becomes meaningless.",
+        "is_correct": false
+      },
+      {
+        "text": "Sound and image cannot create different meanings at once.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Layered meaning often comes from tension between modes rather than simple reinforcement.",
+      "hint": "Ask what the sirens add to the celebration."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le05-p-024",
+    "curriculum_code": "AC9E10LE05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "layered meaning and satire",
+    "question": "Which example is clearest hyperbole?",
+    "audio_prompt": "Which example is clearest hyperbole?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“I waited a thousand years for the bus.”",
+        "is_correct": true
+      },
+      {
+        "text": "“The bus arrived at 8:17.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The bus was late again.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The bus driver waved.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Hyperbole deliberately exaggerates beyond literal truth for emphasis or effect.",
+      "hint": "Could the statement literally be true?"
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le05-p-025",
+    "curriculum_code": "AC9E10LE05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "layered meaning and satire",
+    "question": "A recurring red light appears whenever a character is about to make a risky choice. Which analysis is best?",
+    "audio_prompt": "A recurring red light appears whenever a character is about to make a risky choice. Which analysis is best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The repeated light becomes a motif associated with danger or warning in this film.",
+        "is_correct": true
+      },
+      {
+        "text": "Red always means danger in every text.",
+        "is_correct": false
+      },
+      {
+        "text": "The light is important only because it is red.",
+        "is_correct": false
+      },
+      {
+        "text": "Motifs cannot be visual.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The repeated association within this text supports the interpretation; colour meanings are not automatic.",
+      "hint": "Use the pattern in this specific text."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le05-p-026",
+    "curriculum_code": "AC9E10LE05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "layered meaning and satire",
+    "question": "Which sentence best analyses irony?",
+    "audio_prompt": "Which sentence best analyses irony?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“The narrator calls the flooded campsite ‘perfect planning’, using irony to expose the group’s poor preparation.”",
+        "is_correct": true
+      },
+      {
+        "text": "“The sentence is ironic because it sounds funny.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Irony means the opposite of truth in every case.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The word ‘perfect’ is automatically ironic.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The first explains the contextual mismatch and what criticism it produces.",
+      "hint": "Irony depends on context, not one word alone."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le05-p-027",
+    "curriculum_code": "AC9E10LE05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "layered meaning and satire",
+    "question": "A poem alternates very long flowing lines with abrupt one-word lines. What is the best analytical focus?",
+    "audio_prompt": "A poem alternates very long flowing lines with abrupt one-word lines. What is the best analytical focus?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "How the changing line length alters pace and emphasis",
+        "is_correct": true
+      },
+      {
+        "text": "Whether all lines contain verbs",
+        "is_correct": false
+      },
+      {
+        "text": "Whether the poem has a title",
+        "is_correct": false
+      },
+      {
+        "text": "How old the poet was",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Variation in line length can control rhythm, interruption and attention.",
+      "hint": "Form affects how the poem is experienced."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le05-p-028",
+    "curriculum_code": "AC9E10LE05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "layered meaning and satire",
+    "question": "Which interpretation best recognises layered symbolism?",
+    "audio_prompt": "Which interpretation best recognises layered symbolism?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“The locked gate suggests exclusion, but when opened later it also becomes associated with trust and change.”",
+        "is_correct": true
+      },
+      {
+        "text": "“The gate means exclusion and can never mean anything else.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Every gate symbolises freedom.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The gate has no literal function because it is symbolic.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A symbol can shift or accumulate meaning as the story develops.",
+      "hint": "Track the symbol across different contexts."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le05-p-029",
+    "curriculum_code": "AC9E10LE05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "layered meaning and satire",
+    "question": "A satire targets wasteful spending by showing officials buying a gold-plated stapler. Why is exaggeration effective?",
+    "audio_prompt": "A satire targets wasteful spending by showing officials buying a gold-plated stapler. Why is exaggeration effective?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It makes the underlying criticism of excess obvious by pushing it to an absurd extreme.",
+        "is_correct": true
+      },
+      {
+        "text": "It proves officials literally buy gold staplers.",
+        "is_correct": false
+      },
+      {
+        "text": "Exaggeration makes evidence unnecessary.",
+        "is_correct": false
+      },
+      {
+        "text": "The satire becomes neutral.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The absurd example magnifies a real concern so audiences can recognise and judge it.",
+      "hint": "The detail is impossible or extreme for a critical reason."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le05-p-030",
+    "curriculum_code": "AC9E10LE05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "layered meaning and satire",
+    "question": "Which claim avoids overgeneralising audience response?",
+    "audio_prompt": "Which claim avoids overgeneralising audience response?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“The repeated childlike melody may make some viewers experience the scene as more disturbing because it conflicts with the violence.”",
+        "is_correct": true
+      },
+      {
+        "text": "“The melody makes every viewer terrified.”",
+        "is_correct": false
+      },
+      {
+        "text": "“All audiences react identically to music.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Music has one fixed emotional effect.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Audience effects should be argued as plausible, context-based responses rather than guaranteed universal reactions.",
+      "hint": "Avoid “everyone will feel”."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le05-p-031",
+    "curriculum_code": "AC9E10LE05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "layered meaning and satire",
+    "question": "A poem about migration uses the repeated image of a suitcase that becomes lighter as the speaker forgets details of home. Which interpretation is strongest?",
+    "audio_prompt": "A poem about migration uses the repeated image of a suitcase that becomes lighter as the speaker forgets details of home. Which interpretation is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The suitcase motif links physical travel with the gradual loss or transformation of memory.",
+        "is_correct": true
+      },
+      {
+        "text": "The suitcase only shows the speaker packs efficiently.",
+        "is_correct": false
+      },
+      {
+        "text": "Every suitcase symbolises sadness.",
+        "is_correct": false
+      },
+      {
+        "text": "The poem must be about tourism.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The repeated object changes alongside the speaker’s memory, allowing literal and symbolic meanings to interact.",
+      "hint": "Track how the image changes."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le05-p-032",
+    "curriculum_code": "AC9E10LE05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "layered meaning and satire",
+    "question": "A filmmaker wants to show a character hiding panic while speaking calmly. Which combination would best create layered meaning?",
+    "audio_prompt": "A filmmaker wants to show a character hiding panic while speaking calmly. Which combination would best create layered meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "steady dialogue with a close-up of shaking fingers",
+        "is_correct": true
+      },
+      {
+        "text": "loud triumphant music and a wide landscape shot",
+        "is_correct": false
+      },
+      {
+        "text": "a title card explaining “she is calm”",
+        "is_correct": false
+      },
+      {
+        "text": "removing all visual detail",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Contradiction between calm speech and visible physical tension lets audiences infer what the character conceals.",
+      "hint": "Use different modes to show different layers."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le05-p-033",
+    "curriculum_code": "AC9E10LE05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "layered meaning and satire",
+    "question": "A satirical post wants to criticise a school rule requiring forms for every minor activity. Which opening best suits satire?",
+    "audio_prompt": "A satirical post wants to criticise a school rule requiring forms for every minor activity. Which opening best suits satire?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“Congratulations! Students can now enjoy the freedom of completing Form 18B before borrowing a basketball.”",
+        "is_correct": true
+      },
+      {
+        "text": "“The school has a rule about forms.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Forms are used in many organisations.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Some students dislike paperwork.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Mock celebration and exaggerated bureaucracy create an ironic critical stance.",
+      "hint": "Praise can be used to criticise."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le05-p-034",
+    "curriculum_code": "AC9E10LE05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "layered meaning and satire",
+    "question": "A writer wants a symbol to gain meaning gradually rather than state it directly. Which approach works best?",
+    "audio_prompt": "A writer wants a symbol to gain meaning gradually rather than state it directly. Which approach works best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Repeat the object in different emotionally significant moments and let its associations develop.",
+        "is_correct": true
+      },
+      {
+        "text": "Explain in the first paragraph exactly what the symbol means.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the object once with no connection to events.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose a symbol because it has one universal meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Repeated contextual associations let readers infer symbolic meaning instead of receiving a fixed label.",
+      "hint": "Build a pattern."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le05-p-035",
+    "curriculum_code": "AC9E10LE05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "layered meaning and satire",
+    "question": "You are analysing a line, “The apology arrived polished, packaged and empty.” Which interpretation is strongest?",
+    "audio_prompt": "You are analysing a line, “The apology arrived polished, packaged and empty.” Which interpretation is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The alliterative, commercial-sounding wording presents the apology as carefully produced but emotionally insincere.",
+        "is_correct": true
+      },
+      {
+        "text": "The sentence is effective because it contains three adjectives.",
+        "is_correct": false
+      },
+      {
+        "text": "“Empty” proves no apology was sent.",
+        "is_correct": false
+      },
+      {
+        "text": "Alliteration always makes language cheerful.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Sound pattern and diction work together to represent the apology as a product lacking genuine feeling.",
+      "hint": "Connect sound and word choice to the judgement."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le05-p-036",
+    "curriculum_code": "AC9E10LE05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "layered meaning and satire",
+    "question": "A story about climate anxiety ends with the same bird call heard at the opening, but now no birds are visible. What does the repetition most likely add?",
+    "audio_prompt": "A story about climate anxiety ends with the same bird call heard at the opening, but now no birds are visible. What does the repetition most likely add?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It turns a familiar sound into an unsettling reminder of absence or loss.",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the birds are nearby.",
+        "is_correct": false
+      },
+      {
+        "text": "Repeated sounds cannot change meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "It proves the story has a happy ending.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The changed context transforms the repeated sound from ordinary detail into a potentially haunting absence.",
+      "hint": "Same motif, different context."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le05-p-037",
+    "curriculum_code": "AC9E10LE05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "layered meaning and satire",
+    "question": "A political cartoon depicts a tiny citizen pushing an enormous button labelled “Terms and Conditions”. What analysis is strongest?",
+    "audio_prompt": "A political cartoon depicts a tiny citizen pushing an enormous button labelled “Terms and Conditions”. What analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The exaggerated scale satirises the imbalance between individual users and complex digital agreements.",
+        "is_correct": true
+      },
+      {
+        "text": "Large objects are always symbols of evil.",
+        "is_correct": false
+      },
+      {
+        "text": "The cartoon simply shows a button.",
+        "is_correct": false
+      },
+      {
+        "text": "Scale has no interpretive effect.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The disproportionate scale makes a structural imbalance visible and comic.",
+      "hint": "What real-world imbalance is being exaggerated?"
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le05-p-038",
+    "curriculum_code": "AC9E10LE05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "layered meaning and satire",
+    "question": "A poem uses broken syntax and repeated dashes during a speaker’s memory of an accident. What is the most plausible effect?",
+    "audio_prompt": "A poem uses broken syntax and repeated dashes during a speaker’s memory of an accident. What is the most plausible effect?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The disrupted syntax can mimic fragmented recall or emotional strain.",
+        "is_correct": true
+      },
+      {
+        "text": "Dashes automatically make the speaker dishonest.",
+        "is_correct": false
+      },
+      {
+        "text": "Broken syntax means the poem is incorrect.",
+        "is_correct": false
+      },
+      {
+        "text": "Punctuation has no relationship to voice.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Disrupted structure can represent difficulty in organising or verbalising traumatic memory.",
+      "hint": "Form can imitate mental or emotional experience."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le05-p-039",
+    "curriculum_code": "AC9E10LE05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "layered meaning and satire",
+    "question": "A film comedy repeatedly shows executives using motivational slogans while employees quietly remove broken equipment. What makes the sequence satirical?",
+    "audio_prompt": "A film comedy repeatedly shows executives using motivational slogans while employees quietly remove broken equipment. What makes the sequence satirical?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The gap between optimistic corporate language and visible reality exposes hypocrisy or denial.",
+        "is_correct": true
+      },
+      {
+        "text": "The slogans prove the workplace is successful.",
+        "is_correct": false
+      },
+      {
+        "text": "Any workplace scene is satire.",
+        "is_correct": false
+      },
+      {
+        "text": "The equipment is humorous only because it is broken.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Satire arises from the contradiction between official rhetoric and what audiences can see.",
+      "hint": "Compare what is said with what is shown."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le05-p-040",
+    "curriculum_code": "AC9E10LE05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "layered meaning and satire",
+    "question": "Which final sentence best evaluates layered meaning in a short text?",
+    "audio_prompt": "Which final sentence best evaluates layered meaning in a short text?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“The repeated window image shifts from freedom to separation, so its meaning develops with the character’s changing relationship to home.”",
+        "is_correct": true
+      },
+      {
+        "text": "“The writer uses a window symbol.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The symbol makes the text interesting.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Windows always represent freedom.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Evaluation should explain how meaning develops across contexts rather than merely identifying a device.",
+      "hint": "Track change and significance."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le05-t-001",
@@ -323,36 +1685,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_examining_a_range_of_short_poems_a_short_story_or_extracts_from_a_novel_or_film_to_find_and_discuss_examples_of_how_language_devices_layer_meaning_and_influence_the_responses_of_listeners_viewers_or_readers_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use voice to shape examining a range of short poems, a short story, or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners, viewers or readers and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use voice to shape examining a range of short poems, a short story, or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners, viewers or readers and influence how an audience understands the text?",
+    "skill": "layered meaning and satire",
+    "question": "A story calls a luxury apartment tower “a lighthouse for people who could already see”. What device drives the criticism?",
+    "audio_prompt": "A story calls a luxury apartment tower “a lighthouse for people who could already see”. What device drives the criticism?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "examining a range of short poems, a short story, or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners, viewers or readers",
+        "text": "metaphor with irony",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "literal description",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "rhyme",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "flashback",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "examining a range of short poems, a short story, or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners, viewers or readers",
-      "hint": "A writer or speaker can use voice to shape examining a range of short poems, a short story, or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners, viewers or readers and influence how an audience understands the text."
-    }
+      "summary": "The metaphor of a lighthouse is undercut by the idea that only already-privileged people benefit, producing ironic criticism.",
+      "hint": "Unpack the comparison and its contradiction."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le05-t-002",
@@ -360,36 +1726,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_representation_to_shape_examining_satirical_representations_of_events_or_ideas_and_determining_how_satire_shapes_interpretations_and_responses_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use representation to shape examining satirical representations of events or ideas and determining how satire shapes interpretations and responses and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use representation to shape examining satirical representations of events or ideas and determining how satire shapes interpretations and responses and influence how an audience understands the text?",
+    "skill": "layered meaning and satire",
+    "question": "A film repeatedly cuts to an overflowing bin whenever a company advertises itself as “green”. What effect does the pattern create?",
+    "audio_prompt": "A film repeatedly cuts to an overflowing bin whenever a company advertises itself as “green”. What effect does the pattern create?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "examining satirical representations of events or ideas and determining how satire shapes interpretations and responses",
+        "text": "It visually undermines the company’s environmental claims.",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "It proves the bin belongs to another company.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "It creates a rhyme scheme.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the advertisement neutral.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "examining satirical representations of events or ideas and determining how satire shapes interpretations and responses",
-      "hint": "A writer or speaker can use representation to shape examining satirical representations of events or ideas and determining how satire shapes interpretations and responses and influence how an audience understands the text."
-    }
+      "summary": "The repeated contradictory image creates a visual critique of the company’s message.",
+      "hint": "What is shown versus what is claimed?"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le05-t-003",
@@ -397,36 +1767,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_examining_a_range_of_short_poems_a_short_story_or_extracts_from_a_novel_or_film_to_find_and_discuss_examples_of_how_language_devices_layer_meaning_and_influence_the_responses_of_listeners_viewers_or_readers_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape examining a range of short poems a short story or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners viewers or readers and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape examining a range of short poems a short story or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners viewers or readers and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "layered meaning and satire",
+    "question": "A poem repeats “not yet” after each description of recovery. What does the repetition most likely do?",
+    "audio_prompt": "A poem repeats “not yet” after each description of recovery. What does the repetition most likely do?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "examining a range of short poems, a short story, or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners, viewers or readers",
+        "text": "Builds tension between hope and delay",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Changes the poem into a news report",
+        "is_correct": false
+      },
+      {
+        "text": "Removes all ambiguity",
+        "is_correct": false
+      },
+      {
+        "text": "Proves recovery will never happen",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "examining a range of short poems, a short story, or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners, viewers or readers",
-      "hint": "A writer or speaker can use voice to shape examining a range of short poems, a short story, or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners, viewers or readers and influence how an audience understands the text."
-    }
+      "summary": "The phrase keeps hope present while repeatedly postponing fulfilment.",
+      "hint": "Repetition can accumulate emotional pressure."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le05-t-004",
@@ -434,36 +1808,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_representation_to_shape_examining_satirical_representations_of_events_or_ideas_and_determining_how_satire_shapes_interpretations_and_responses_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use representation to shape examining satirical representations of events or ideas and determining how satire shapes interpretations and responses and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use representation to shape examining satirical representations of events or ideas and determining how satire shapes interpretations and responses and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "layered meaning and satire",
+    "question": "A satirical headline reads, “Council solves traffic by asking everyone to stay home forever.” Which device is most obvious?",
+    "audio_prompt": "A satirical headline reads, “Council solves traffic by asking everyone to stay home forever.” Which device is most obvious?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "examining satirical representations of events or ideas and determining how satire shapes interpretations and responses",
+        "text": "absurd exaggeration",
         "is_correct": true
+      },
+      {
+        "text": "neutral summary",
+        "is_correct": false
+      },
+      {
+        "text": "symbolism",
+        "is_correct": false
+      },
+      {
+        "text": "foreshadowing",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "examining satirical representations of events or ideas and determining how satire shapes interpretations and responses",
-      "hint": "A writer or speaker can use representation to shape examining satirical representations of events or ideas and determining how satire shapes interpretations and responses and influence how an audience understands the text."
-    }
+      "summary": "The impossible solution exaggerates simplistic policy thinking to expose its flaw.",
+      "hint": "The humour comes from pushing an idea too far."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le05-t-005",
@@ -471,36 +1849,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_examining_a_range_of_short_poems_a_short_story_or_extracts_from_a_novel_or_film_to_find_and_discuss_examples_of_how_language_devices_layer_meaning_and_influence_the_responses_of_listeners_viewers_or_readers_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape examining a range of short poems a short story or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners viewers or readers and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape examining a range of short poems a short story or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners viewers or readers and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "layered meaning and satire",
+    "question": "A novel describes a family home as both “anchor” and “cage”. What does this pairing suggest?",
+    "audio_prompt": "A novel describes a family home as both “anchor” and “cage”. What does this pairing suggest?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "examining a range of short poems, a short story, or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners, viewers or readers",
+        "text": "The home represents security and restriction at the same time.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "The metaphors cancel each other out.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "The house is literally underwater.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Each metaphor must refer to a different building.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "examining a range of short poems, a short story, or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners, viewers or readers",
-      "hint": "A writer or speaker can use voice to shape examining a range of short poems, a short story, or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners, viewers or readers and influence how an audience understands the text."
-    }
+      "summary": "The contrasting metaphors layer conflicting meanings onto the same place.",
+      "hint": "One image stabilises; the other confines."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le05-t-006",
@@ -508,36 +1890,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_representation_to_shape_examining_satirical_representations_of_events_or_ideas_and_determining_how_satire_shapes_interpretations_and_responses_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use representation to shape examining satirical representations of events or ideas and determining how satire shapes interpretations and responses and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use representation to shape examining satirical representations of events or ideas and determining how satire shapes interpretations and responses and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "layered meaning and satire",
+    "question": "A film mutes all ambient sound while a character reads a devastating message. Why might this be effective?",
+    "audio_prompt": "A film mutes all ambient sound while a character reads a devastating message. Why might this be effective?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "examining satirical representations of events or ideas and determining how satire shapes interpretations and responses",
+        "text": "It can isolate the character’s emotional experience and focus attention on the moment.",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Muted sound always means time has stopped literally.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Silence removes emotion.",
+        "is_correct": false
+      },
+      {
+        "text": "Sound choices cannot affect interpretation.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "examining satirical representations of events or ideas and determining how satire shapes interpretations and responses",
-      "hint": "A writer or speaker can use representation to shape examining satirical representations of events or ideas and determining how satire shapes interpretations and responses and influence how an audience understands the text."
-    }
+      "summary": "Removing ordinary sound can make the moment feel subjectively detached or intensely focused.",
+      "hint": "Absence of sound can be expressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le05-t-007",
@@ -545,36 +1931,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_examining_a_range_of_short_poems_a_short_story_or_extracts_from_a_novel_or_film_to_find_and_discuss_examples_of_how_language_devices_layer_meaning_and_influence_the_responses_of_listeners_viewers_or_readers_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape examining a range of short poems a short story or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners viewers or readers and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape examining a range of short poems a short story or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners viewers or readers and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "layered meaning and satire",
+    "question": "A poem calls an empty playground “patient”. Which device is operating?",
+    "audio_prompt": "A poem calls an empty playground “patient”. Which device is operating?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "examining a range of short poems, a short story, or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners, viewers or readers",
+        "text": "personification",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "alliteration",
+        "is_correct": false
+      },
+      {
+        "text": "montage",
+        "is_correct": false
+      },
+      {
+        "text": "ellipsis",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "examining a range of short poems, a short story, or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners, viewers or readers",
-      "hint": "A writer or speaker can use voice to shape examining a range of short poems, a short story, or extracts from a novel or film to find and discuss examples of how language devices layer meaning and influence the responses of listeners, viewers or readers and influence how an audience understands the text."
-    }
+      "summary": "The playground is given a human quality, allowing the setting to suggest waiting or absence.",
+      "hint": "An inanimate place receives a human trait."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le05-t-008",
@@ -582,35 +1972,367 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_representation_to_shape_examining_satirical_representations_of_events_or_ideas_and_determining_how_satire_shapes_interpretations_and_responses_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use representation to shape examining satirical representations of events or ideas and determining how satire shapes interpretations and responses and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use representation to shape examining satirical representations of events or ideas and determining how satire shapes interpretations and responses and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "layered meaning and satire",
+    "question": "A comedy sketch copies the tone of a serious product launch to unveil a useless “smart spoon”. Why is the imitation important?",
+    "audio_prompt": "A comedy sketch copies the tone of a serious product launch to unveil a useless “smart spoon”. Why is the imitation important?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "examining satirical representations of events or ideas and determining how satire shapes interpretations and responses",
+        "text": "It parodies promotional conventions to criticise unnecessary technology.",
         "is_correct": true
+      },
+      {
+        "text": "It makes the spoon genuinely innovative.",
+        "is_correct": false
+      },
+      {
+        "text": "Parody has no critical purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "The serious tone cancels the humour.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "examining satirical representations of events or ideas and determining how satire shapes interpretations and responses",
-      "hint": "A writer or speaker can use representation to shape examining satirical representations of events or ideas and determining how satire shapes interpretations and responses and influence how an audience understands the text."
-    }
+      "summary": "Using a recognisable launch style makes the gap between hype and usefulness part of the satire.",
+      "hint": "The borrowed form is being mocked."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le05-t-009",
+    "curriculum_code": "AC9E10LE05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "layered meaning and satire",
+    "question": "A short story withholds a character’s name until the final paragraph. What effect can that structural choice create?",
+    "audio_prompt": "A short story withholds a character’s name until the final paragraph. What effect can that structural choice create?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It can delay identity information and make the reveal reshape earlier details.",
+        "is_correct": true
+      },
+      {
+        "text": "It automatically makes the character mysterious in every reader’s mind.",
+        "is_correct": false
+      },
+      {
+        "text": "Names never affect interpretation.",
+        "is_correct": false
+      },
+      {
+        "text": "The story becomes second-person narration.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Delayed information can cause readers to reinterpret what came before once the missing detail is supplied.",
+      "hint": "Later knowledge can change earlier meaning."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le05-t-010",
+    "curriculum_code": "AC9E10LE05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "layered meaning and satire",
+    "question": "A poem uses harsh repeated /k/ sounds in lines about machinery. Which analysis is strongest?",
+    "audio_prompt": "A poem uses harsh repeated /k/ sounds in lines about machinery. Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The consonant pattern can reinforce the mechanical harshness of the imagery.",
+        "is_correct": true
+      },
+      {
+        "text": "Alliteration always creates beauty.",
+        "is_correct": false
+      },
+      {
+        "text": "Sound has no relationship to imagery.",
+        "is_correct": false
+      },
+      {
+        "text": "The /k/ sound proves the machines are dangerous.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Sound can support the texture and atmosphere created by the subject matter without having one automatic effect.",
+      "hint": "Connect the sound pattern to context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le05-t-011",
+    "curriculum_code": "AC9E10LE05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "layered meaning and satire",
+    "question": "A cartoon shows a tiny “public consultation” door beside a huge locked wall labelled “Decision already made”. What is the satire targeting?",
+    "audio_prompt": "A cartoon shows a tiny “public consultation” door beside a huge locked wall labelled “Decision already made”. What is the satire targeting?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Tokenistic participation",
+        "is_correct": true
+      },
+      {
+        "text": "architectural design",
+        "is_correct": false
+      },
+      {
+        "text": "public speaking",
+        "is_correct": false
+      },
+      {
+        "text": "spelling",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The visual exaggeration criticises consultation that exists in form but not in meaningful influence.",
+      "hint": "The door appears available, but the wall suggests no real access."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le05-t-012",
+    "curriculum_code": "AC9E10LE05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "layered meaning and satire",
+    "question": "Which statement best analyses symbolism?",
+    "audio_prompt": "Which statement best analyses symbolism?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“The cracked mirror recurs during moments of self-doubt, so it comes to represent the character’s unstable self-image.”",
+        "is_correct": true
+      },
+      {
+        "text": "“Mirrors always symbolise identity.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The mirror is symbolic because it is shiny.”",
+        "is_correct": false
+      },
+      {
+        "text": "“A symbol has no literal role.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The first grounds symbolic meaning in a repeated textual pattern rather than a universal rule.",
+      "hint": "Use evidence from this text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le05-t-013",
+    "curriculum_code": "AC9E10LE05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "layered meaning and satire",
+    "question": "A film pairs cheerful advertising music with footage of exhausted warehouse workers. What is the main effect?",
+    "audio_prompt": "A film pairs cheerful advertising music with footage of exhausted warehouse workers. What is the main effect?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The mismatch creates irony and criticism of the company image.",
+        "is_correct": true
+      },
+      {
+        "text": "The workers become cheerful.",
+        "is_correct": false
+      },
+      {
+        "text": "Music always controls audience interpretation completely.",
+        "is_correct": false
+      },
+      {
+        "text": "The footage becomes an advertisement.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The contrast between soundtrack and image exposes a gap between promotional appearance and working conditions.",
+      "hint": "Two modes point in different directions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le05-t-014",
+    "curriculum_code": "AC9E10LE05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "layered meaning and satire",
+    "question": "A poem ends with “and still the gate swings”. Which interpretation is strongest if the gate has appeared throughout scenes of departure?",
+    "audio_prompt": "A poem ends with “and still the gate swings”. Which interpretation is strongest if the gate has appeared throughout scenes of departure?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The recurring gate may leave the ending open between continued loss and possible return.",
+        "is_correct": true
+      },
+      {
+        "text": "The gate can only mean one thing.",
+        "is_correct": false
+      },
+      {
+        "text": "The line proves someone is physically pushing it.",
+        "is_correct": false
+      },
+      {
+        "text": "Repetition removes ambiguity.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A recurring image can remain unresolved and hold more than one plausible association at the ending.",
+      "hint": "Layered meaning can stay open."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le05-t-015",
+    "curriculum_code": "AC9E10LE05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "layered meaning and satire",
+    "question": "A satirical article invents a “Department of Delayed Urgent Action”. What is being criticised?",
+    "audio_prompt": "A satirical article invents a “Department of Delayed Urgent Action”. What is being criticised?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Bureaucratic contradiction and inaction",
+        "is_correct": true
+      },
+      {
+        "text": "department names in general",
+        "is_correct": false
+      },
+      {
+        "text": "all government workers personally",
+        "is_correct": false
+      },
+      {
+        "text": "the grammar of noun groups",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The contradictory title compresses criticism of institutions that label matters urgent while responding slowly.",
+      "hint": "The name contradicts itself."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le05-t-016",
+    "curriculum_code": "AC9E10LE05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "layered meaning and satire",
+    "question": "Which response best evaluates a device rather than merely identifying it?",
+    "audio_prompt": "Which response best evaluates a device rather than merely identifying it?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“The repeated unfinished sentence makes the speaker sound unable to complete the thought, reinforcing the scene’s emotional strain.”",
+        "is_correct": true
+      },
+      {
+        "text": "“The writer uses ellipses.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Ellipses are punctuation.”",
+        "is_correct": false
+      },
+      {
+        "text": "“There are three dots.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Evaluation links the feature to a plausible effect supported by the context.",
+      "hint": "Feature + evidence + effect."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v6"
   }
 ]
