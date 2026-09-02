@@ -2,699 +2,762 @@
 window.skillrPracticeQuestions = [
   {
     "id": "ac9s5i01-p-001",
-    "curriculumCode": "AC9S5I01",
-    "bank": "practice",
-    "skill": "pose an investigable question",
-    "printable": true,
-    "type": "single",
-    "question": "During a habitat survey, which question best tests a relationship involving soil cover?",
-    "audioPrompt": "During a habitat survey, which question best tests a relationship involving soil cover?",
-    "visual": "During a habitat survey: pose an investigable question, shown as a three-step variables reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a habitat survey: pose an investigable question, shown as a three-step variables reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-001",
-      "alt_text": "During a habitat survey: pose an investigable question, shown as a three-step variables reasoning pathway."
-    },
+    "skill": "scientific questions variables and predictions",
+    "question": "Darker paper warms faster under a lamp. Which question could be tested?",
     "answers": [
-      "How does soil cover affect mass of soil moved by equal water flow?",
-      "Is soil cover interesting?",
-      "Which result do I like best?"
+      "How does paper colour affect temperature rise under the same lamp?",
+      "Which colour looks best on a poster?",
+      "Why is black always better?",
+      "Does paper have feelings about heat?"
     ],
     "correct": 0,
-    "explanation": "The question names a changed variable and a measurable response.\nHint: Use the frame: How does the changed variable affect the measured variable?",
-    "structuredExplanation": {
-      "summary": "The question names a changed variable and a measurable response.",
-      "hint": "Use the frame: How does the changed variable affect the measured variable?"
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "A testable question names something that can be changed and measured."
   },
   {
     "id": "ac9s5i01-p-002",
-    "curriculumCode": "AC9S5I01",
-    "bank": "practice",
-    "skill": "make a scientific prediction",
-    "printable": true,
-    "type": "single",
-    "question": "At the school science table, which prediction is reasoned and testable?",
-    "audioPrompt": "At the school science table, which prediction is reasoned and testable?",
-    "visual": "At the school science table: make a scientific prediction, shown as a three-step variables reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the school science table: make a scientific prediction, shown as a three-step variables reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-002\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-002",
-      "alt_text": "At the school science table: make a scientific prediction, shown as a three-step variables reasoning pathway."
-    },
+    "skill": "scientific questions variables and predictions",
+    "question": "A class notices seedlings near a window are taller. Which changed factor could be investigated?",
     "answers": [
-      "the result will be good",
-      "plants receiving a suitable larger water volume may grow more because water supports cell processes",
-      "something interesting will happen"
+      "The brand of ruler used",
+      "The names on the pots",
+      "The day of the week",
+      "The amount of light reaching the seedlings"
     ],
-    "correct": 1,
-    "explanation": "The prediction states a direction and gives a scientific reason before testing.\nHint: Look for an expected pattern and a because-clause.",
-    "structuredExplanation": {
-      "summary": "The prediction states a direction and gives a scientific reason before testing.",
-      "hint": "Look for an expected pattern and a because-clause."
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Light amount could be changed or compared to investigate growth."
   },
   {
     "id": "ac9s5i01-p-003",
-    "curriculumCode": "AC9S5I01",
-    "bank": "practice",
-    "skill": "pose an investigable question",
-    "printable": true,
-    "type": "single",
-    "question": "While examining a creek, which question best tests a relationship involving material type?",
-    "audioPrompt": "While examining a creek, which question best tests a relationship involving material type?",
-    "visual": "While examining a creek: pose an investigable question, shown as a three-step variables reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While examining a creek: pose an investigable question, shown as a three-step variables reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-003",
-      "alt_text": "While examining a creek: pose an investigable question, shown as a three-step variables reasoning pathway."
-    },
+    "skill": "scientific questions variables and predictions",
+    "question": "Students compare three ramp heights for a toy car. What is the measured variable?",
     "answers": [
-      "Is material type interesting?",
-      "Which result do I like best?",
-      "How does material type affect heat loss from equal containers?"
+      "The student holding the notebook",
+      "The label on the ramp",
+      "How far the car travels",
+      "The colour of the car"
     ],
     "correct": 2,
-    "explanation": "The question names a changed variable and a measurable response.\nHint: Use the frame: How does the changed variable affect the measured variable?",
-    "structuredExplanation": {
-      "summary": "The question names a changed variable and a measurable response.",
-      "hint": "Use the frame: How does the changed variable affect the measured variable?"
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Distance travelled is the result being measured."
   },
   {
     "id": "ac9s5i01-p-004",
-    "curriculumCode": "AC9S5I01",
-    "bank": "practice",
-    "skill": "make a scientific prediction",
-    "printable": true,
-    "type": "single",
-    "question": "In a classroom investigation, which prediction is reasoned and testable?",
-    "audioPrompt": "In a classroom investigation, which prediction is reasoned and testable?",
-    "visual": "In a classroom investigation: make a scientific prediction, shown as a three-step variables reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a classroom investigation: make a scientific prediction, shown as a three-step variables reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-004\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-004",
-      "alt_text": "In a classroom investigation: make a scientific prediction, shown as a three-step variables reasoning pathway."
-    },
+    "skill": "scientific questions variables and predictions",
+    "question": "A prediction should be written before testing. Why?",
     "answers": [
-      "vegetated soil will lose less mass because roots and cover stabilise it",
-      "the result will be good",
-      "something interesting will happen"
+      "So the question can be hidden",
+      "So it can be compared fairly with the results",
+      "So results can be changed to match it",
+      "So no measurements are needed"
     ],
-    "correct": 0,
-    "explanation": "The prediction states a direction and gives a scientific reason before testing.\nHint: Look for an expected pattern and a because-clause.",
-    "structuredExplanation": {
-      "summary": "The prediction states a direction and gives a scientific reason before testing.",
-      "hint": "Look for an expected pattern and a because-clause."
+    "correct": 1,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "A prediction is a prior expectation checked against evidence."
   },
   {
     "id": "ac9s5i01-p-005",
-    "curriculumCode": "AC9S5I01",
-    "bank": "practice",
-    "skill": "pose an investigable question",
-    "printable": true,
-    "type": "single",
-    "question": "During a garden observation, which question best tests a relationship involving water volume?",
-    "audioPrompt": "During a garden observation, which question best tests a relationship involving water volume?",
-    "visual": "During a garden observation: pose an investigable question, shown as a three-step variables reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a garden observation: pose an investigable question, shown as a three-step variables reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-005",
-      "alt_text": "During a garden observation: pose an investigable question, shown as a three-step variables reasoning pathway."
-    },
+    "skill": "scientific questions variables and predictions",
+    "question": "Which question focuses on one relationship?",
     "answers": [
-      "Is water volume interesting?",
-      "How does water volume affect plant height increase with equal light and soil?",
-      "Which result do I like best?"
+      "How does water amount affect bean seedling height?",
+      "Do plants like water, light and music?",
+      "Which plant is the best?",
+      "Why are gardens nice?"
     ],
-    "correct": 1,
-    "explanation": "The question names a changed variable and a measurable response.\nHint: Use the frame: How does the changed variable affect the measured variable?",
-    "structuredExplanation": {
-      "summary": "The question names a changed variable and a measurable response.",
-      "hint": "Use the frame: How does the changed variable affect the measured variable?"
+    "correct": 0,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "This question names one changed factor and one measured result."
   },
   {
     "id": "ac9s5i01-p-006",
-    "curriculumCode": "AC9S5I01",
-    "bank": "practice",
-    "skill": "make a scientific prediction",
-    "printable": true,
-    "type": "single",
-    "question": "At the coastal field station, which prediction is reasoned and testable?",
-    "audioPrompt": "At the coastal field station, which prediction is reasoned and testable?",
-    "visual": "At the coastal field station: make a scientific prediction, shown as a three-step variables reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the coastal field station: make a scientific prediction, shown as a three-step variables reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-006",
-      "alt_text": "At the coastal field station: make a scientific prediction, shown as a three-step variables reasoning pathway."
-    },
+    "skill": "scientific questions variables and predictions",
+    "question": "A group changes magnet distance and counts paper clips picked up. What is changed?",
     "answers": [
-      "the result will be good",
-      "something interesting will happen",
-      "better insulating materials will reduce heat loss by slowing energy transfer"
+      "The number of columns in the table",
+      "The spelling of magnet",
+      "The classroom wall colour",
+      "The distance from the magnet to the clips"
     ],
-    "correct": 2,
-    "explanation": "The prediction states a direction and gives a scientific reason before testing.\nHint: Look for an expected pattern and a because-clause.",
-    "structuredExplanation": {
-      "summary": "The prediction states a direction and gives a scientific reason before testing.",
-      "hint": "Look for an expected pattern and a because-clause."
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Distance is the factor deliberately changed."
   },
   {
     "id": "ac9s5i01-p-007",
-    "curriculumCode": "AC9S5I01",
-    "bank": "practice",
-    "skill": "pose an investigable question",
-    "printable": true,
-    "type": "single",
-    "question": "While comparing samples, which question best tests a relationship involving surface colour?",
-    "audioPrompt": "While comparing samples, which question best tests a relationship involving surface colour?",
-    "visual": "While comparing samples: pose an investigable question, shown as a three-step variables reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While comparing samples: pose an investigable question, shown as a three-step variables reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-007",
-      "alt_text": "While comparing samples: pose an investigable question, shown as a three-step variables reasoning pathway."
-    },
+    "skill": "scientific questions variables and predictions",
+    "question": "Which prediction includes scientific reasoning?",
     "answers": [
-      "How does surface colour affect temperature rise under equal light?",
-      "Is surface colour interesting?",
-      "Which result do I like best?"
+      "I want it to be hotter",
+      "The result will be interesting",
+      "The darker surface will warm more because it absorbs more light",
+      "Black will win"
     ],
-    "correct": 0,
-    "explanation": "The question names a changed variable and a measurable response.\nHint: Use the frame: How does the changed variable affect the measured variable?",
-    "structuredExplanation": {
-      "summary": "The question names a changed variable and a measurable response.",
-      "hint": "Use the frame: How does the changed variable affect the measured variable?"
+    "correct": 2,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "The prediction links an expected result with a science reason."
   },
   {
     "id": "ac9s5i01-p-008",
-    "curriculumCode": "AC9S5I01",
-    "bank": "practice",
-    "skill": "make a scientific prediction",
-    "printable": true,
-    "type": "single",
-    "question": "In the school laboratory, which prediction is reasoned and testable?",
-    "audioPrompt": "In the school laboratory, which prediction is reasoned and testable?",
-    "visual": "In the school laboratory: make a scientific prediction, shown as a three-step variables reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the school laboratory: make a scientific prediction, shown as a three-step variables reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-008\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-008",
-      "alt_text": "In the school laboratory: make a scientific prediction, shown as a three-step variables reasoning pathway."
-    },
+    "skill": "scientific questions variables and predictions",
+    "question": "A fair investigation question should be answerable by what?",
     "answers": [
-      "the result will be good",
-      "the car will travel farther from a higher ramp because it begins with more gravitational energy",
-      "something interesting will happen"
+      "The neatness of handwriting",
+      "Observations or measurements",
+      "A vote on favourite answers",
+      "A guess after the poster is finished"
     ],
     "correct": 1,
-    "explanation": "The prediction states a direction and gives a scientific reason before testing.\nHint: Look for an expected pattern and a because-clause.",
-    "structuredExplanation": {
-      "summary": "The prediction states a direction and gives a scientific reason before testing.",
-      "hint": "Look for an expected pattern and a because-clause."
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Investigable questions can be answered with evidence."
   },
   {
     "id": "ac9s5i01-p-009",
-    "curriculumCode": "AC9S5I01",
-    "bank": "practice",
-    "skill": "pose an investigable question",
-    "printable": true,
-    "type": "single",
-    "question": "During a weather study, which question best tests a relationship involving distance from a lamp?",
-    "audioPrompt": "During a weather study, which question best tests a relationship involving distance from a lamp?",
-    "visual": "During a weather study: pose an investigable question, shown as a three-step variables reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a weather study: pose an investigable question, shown as a three-step variables reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-009",
-      "alt_text": "During a weather study: pose an investigable question, shown as a three-step variables reasoning pathway."
-    },
+    "skill": "scientific questions variables and predictions",
+    "question": "Students ask, \"Which soil is best?\" What needs improving?",
     "answers": [
-      "Is distance from a lamp interesting?",
-      "Which result do I like best?",
-      "How does distance from a lamp affect shadow size using the same object?"
+      "Define what best means with a measurable outcome",
+      "Use a shorter pencil",
+      "Add more colours to the title",
+      "Ask only the fastest student"
     ],
-    "correct": 2,
-    "explanation": "The question names a changed variable and a measurable response.\nHint: Use the frame: How does the changed variable affect the measured variable?",
-    "structuredExplanation": {
-      "summary": "The question names a changed variable and a measurable response.",
-      "hint": "Use the frame: How does the changed variable affect the measured variable?"
+    "correct": 0,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Best needs a clear criterion such as height or water held."
   },
   {
     "id": "ac9s5i01-p-010",
-    "curriculumCode": "AC9S5I01",
-    "bank": "practice",
-    "skill": "make a scientific prediction",
-    "printable": true,
-    "type": "single",
-    "question": "At the wildlife centre, which prediction is reasoned and testable?",
-    "audioPrompt": "At the wildlife centre, which prediction is reasoned and testable?",
-    "visual": "At the wildlife centre: make a scientific prediction, shown as a three-step variables reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the wildlife centre: make a scientific prediction, shown as a three-step variables reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-010",
-      "alt_text": "At the wildlife centre: make a scientific prediction, shown as a three-step variables reasoning pathway."
-    },
+    "skill": "scientific questions variables and predictions",
+    "question": "Which pair are variables in a shade-cloth test?",
     "answers": [
-      "darker surfaces will warm more because they absorb more light",
-      "the result will be good",
-      "something interesting will happen"
+      "Poster colour and lunch order",
+      "Shoe size and page number",
+      "Desk height and pencil brand",
+      "Shade-cloth type and temperature under it"
     ],
-    "correct": 0,
-    "explanation": "The prediction states a direction and gives a scientific reason before testing.\nHint: Look for an expected pattern and a because-clause.",
-    "structuredExplanation": {
-      "summary": "The prediction states a direction and gives a scientific reason before testing.",
-      "hint": "Look for an expected pattern and a because-clause."
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "The cloth type can be changed and temperature can be measured."
   },
   {
     "id": "ac9s5i01-p-011",
-    "curriculumCode": "AC9S5I01",
-    "bank": "practice",
-    "skill": "pose an investigable question",
-    "printable": true,
-    "type": "single",
-    "question": "While reviewing a data table, which question best tests a relationship involving ramp height?",
-    "audioPrompt": "While reviewing a data table, which question best tests a relationship involving ramp height?",
-    "visual": "While reviewing a data table: pose an investigable question, shown as a three-step variables reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While reviewing a data table: pose an investigable question, shown as a three-step variables reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-011",
-      "alt_text": "While reviewing a data table: pose an investigable question, shown as a three-step variables reasoning pathway."
-    },
+    "skill": "scientific questions variables and predictions",
+    "question": "Why is \"How does salt amount affect dissolving time?\" stronger than \"Is salt interesting?\"?",
     "answers": [
-      "Is ramp height interesting?",
-      "How does ramp height affect distance travelled by the same toy car?",
-      "Which result do I like best?"
+      "It avoids collecting evidence",
+      "It asks for an opinion",
+      "It names a change and a measurable result",
+      "It is longer, so it must be correct"
     ],
-    "correct": 1,
-    "explanation": "The question names a changed variable and a measurable response.\nHint: Use the frame: How does the changed variable affect the measured variable?",
-    "structuredExplanation": {
-      "summary": "The question names a changed variable and a measurable response.",
-      "hint": "Use the frame: How does the changed variable affect the measured variable?"
+    "correct": 2,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "A strong question can be tested with measured evidence."
   },
   {
     "id": "ac9s5i01-p-012",
-    "curriculumCode": "AC9S5I01",
-    "bank": "practice",
-    "skill": "make a scientific prediction",
-    "printable": true,
-    "type": "single",
-    "question": "In a materials investigation, which prediction is reasoned and testable?",
-    "audioPrompt": "In a materials investigation, which prediction is reasoned and testable?",
-    "visual": "In a materials investigation: make a scientific prediction, shown as a three-step variables reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a materials investigation: make a scientific prediction, shown as a three-step variables reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-012\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-012",
-      "alt_text": "In a materials investigation: make a scientific prediction, shown as a three-step variables reasoning pathway."
-    },
+    "skill": "scientific questions variables and predictions",
+    "question": "A student predicts ice will melt faster on metal because metal transfers heat well. What makes this prediction useful?",
     "answers": [
-      "the result will be good",
-      "something interesting will happen",
-      "the shadow size will change as source-object distance changes because ray spread changes"
+      "It uses no variables",
+      "It gives an expected result and a scientific reason",
+      "It is impossible to test",
+      "It changes after the result"
     ],
-    "correct": 2,
-    "explanation": "The prediction states a direction and gives a scientific reason before testing.\nHint: Look for an expected pattern and a because-clause.",
-    "structuredExplanation": {
-      "summary": "The prediction states a direction and gives a scientific reason before testing.",
-      "hint": "Look for an expected pattern and a because-clause."
+    "correct": 1,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Useful predictions say what is expected and why."
   },
   {
     "id": "ac9s5i01-p-013",
-    "curriculumCode": "AC9S5I01",
-    "bank": "practice",
-    "skill": "pose an investigable question",
-    "printable": true,
-    "type": "single",
-    "question": "During an outdoor observation, which question best tests a relationship involving water volume?",
-    "audioPrompt": "During an outdoor observation, which question best tests a relationship involving water volume?",
-    "visual": "During an outdoor observation: pose an investigable question, shown as a three-step variables reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During an outdoor observation: pose an investigable question, shown as a three-step variables reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-013",
-      "alt_text": "During an outdoor observation: pose an investigable question, shown as a three-step variables reasoning pathway."
-    },
+    "skill": "scientific questions variables and predictions",
+    "question": "Why should only one main factor be changed in a fair test?",
     "answers": [
-      "How does water volume affect plant height increase with equal light and soil?",
-      "Is water volume interesting?",
-      "Which result do I like best?"
+      "Then differences in results are more likely due to that factor",
+      "It makes the table look smaller",
+      "It stops students from repeating trials",
+      "It means no equipment is needed"
     ],
     "correct": 0,
-    "explanation": "The question names a changed variable and a measurable response.\nHint: Use the frame: How does the changed variable affect the measured variable?",
-    "structuredExplanation": {
-      "summary": "The question names a changed variable and a measurable response.",
-      "hint": "Use the frame: How does the changed variable affect the measured variable?"
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Changing one factor makes the relationship clearer."
   },
   {
     "id": "ac9s5i01-p-014",
-    "curriculumCode": "AC9S5I01",
-    "bank": "practice",
-    "skill": "make a scientific prediction",
-    "printable": true,
-    "type": "single",
-    "question": "At the community science fair, which prediction is reasoned and testable?",
-    "audioPrompt": "At the community science fair, which prediction is reasoned and testable?",
-    "visual": "At the community science fair: make a scientific prediction, shown as a three-step variables reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the community science fair: make a scientific prediction, shown as a three-step variables reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-014\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-014",
-      "alt_text": "At the community science fair: make a scientific prediction, shown as a three-step variables reasoning pathway."
-    },
+    "skill": "scientific questions variables and predictions",
+    "question": "A class measures shadow length at different times. Why is time a changed variable?",
     "answers": [
-      "the result will be good",
-      "better insulating materials will reduce heat loss by slowing energy transfer",
-      "something interesting will happen"
+      "Time is written on the board",
+      "Everyone arrived on time",
+      "The shadow is drawn in pencil",
+      "Different times are being compared to see their effect"
     ],
-    "correct": 1,
-    "explanation": "The prediction states a direction and gives a scientific reason before testing.\nHint: Look for an expected pattern and a because-clause.",
-    "structuredExplanation": {
-      "summary": "The prediction states a direction and gives a scientific reason before testing.",
-      "hint": "Look for an expected pattern and a because-clause."
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "The investigation compares the effect of time."
   },
   {
     "id": "ac9s5i01-p-015",
-    "curriculumCode": "AC9S5I01",
-    "bank": "practice",
-    "skill": "pose an investigable question",
-    "printable": true,
-    "type": "single",
-    "question": "While planning a fair test, which question best tests a relationship involving soil cover?",
-    "audioPrompt": "While planning a fair test, which question best tests a relationship involving soil cover?",
-    "visual": "While planning a fair test: pose an investigable question, shown as a three-step variables reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While planning a fair test: pose an investigable question, shown as a three-step variables reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-015",
-      "alt_text": "While planning a fair test: pose an investigable question, shown as a three-step variables reasoning pathway."
-    },
+    "skill": "scientific questions variables and predictions",
+    "question": "Why is plant height a better measured variable than plant happiness?",
     "answers": [
-      "Is soil cover interesting?",
-      "Which result do I like best?",
-      "How does soil cover affect mass of soil moved by equal water flow?"
+      "Height never changes",
+      "Rulers make plants grow",
+      "Height can be measured consistently with a ruler",
+      "Happiness is always larger"
     ],
     "correct": 2,
-    "explanation": "The question names a changed variable and a measurable response.\nHint: Use the frame: How does the changed variable affect the measured variable?",
-    "structuredExplanation": {
-      "summary": "The question names a changed variable and a measurable response.",
-      "hint": "Use the frame: How does the changed variable affect the measured variable?"
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Height is observable and measurable."
   },
   {
     "id": "ac9s5i01-p-016",
-    "curriculumCode": "AC9S5I01",
-    "bank": "practice",
-    "skill": "make a scientific prediction",
-    "printable": true,
-    "type": "single",
-    "question": "In a digital science journal, which prediction is reasoned and testable?",
-    "audioPrompt": "In a digital science journal, which prediction is reasoned and testable?",
-    "visual": "In a digital science journal: make a scientific prediction, shown as a three-step variables reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a digital science journal: make a scientific prediction, shown as a three-step variables reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-016",
-      "alt_text": "In a digital science journal: make a scientific prediction, shown as a three-step variables reasoning pathway."
-    },
+    "skill": "scientific questions variables and predictions",
+    "question": "Why should a prediction not be rewritten after results are known?",
     "answers": [
-      "plants receiving a suitable larger water volume may grow more because water supports cell processes",
-      "the result will be good",
-      "something interesting will happen"
+      "Questions become illegal",
+      "That would make it a conclusion instead of a prior expectation",
+      "Predictions must always be wrong",
+      "Results should be ignored"
     ],
-    "correct": 0,
-    "explanation": "The prediction states a direction and gives a scientific reason before testing.\nHint: Look for an expected pattern and a because-clause.",
-    "structuredExplanation": {
-      "summary": "The prediction states a direction and gives a scientific reason before testing.",
-      "hint": "Look for an expected pattern and a because-clause."
+    "correct": 1,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Predictions are made before data collection."
   },
   {
     "id": "ac9s5i01-p-017",
-    "curriculumCode": "AC9S5I01",
-    "bank": "practice",
-    "skill": "pose an investigable question",
-    "printable": true,
-    "type": "single",
-    "question": "During a light investigation, which question best tests a relationship involving material type?",
-    "audioPrompt": "During a light investigation, which question best tests a relationship involving material type?",
-    "visual": "During a light investigation: pose an investigable question, shown as a three-step variables reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a light investigation: pose an investigable question, shown as a three-step variables reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-017",
-      "alt_text": "During a light investigation: pose an investigable question, shown as a three-step variables reasoning pathway."
-    },
+    "skill": "scientific questions variables and predictions",
+    "question": "Why include because in a prediction?",
     "answers": [
-      "Is material type interesting?",
-      "How does material type affect heat loss from equal containers?",
-      "Which result do I like best?"
+      "It links the expected result to evidence or a scientific idea",
+      "It makes the sentence harder to read",
+      "It replaces the need for data",
+      "It hides the changed variable"
     ],
-    "correct": 1,
-    "explanation": "The question names a changed variable and a measurable response.\nHint: Use the frame: How does the changed variable affect the measured variable?",
-    "structuredExplanation": {
-      "summary": "The question names a changed variable and a measurable response.",
-      "hint": "Use the frame: How does the changed variable affect the measured variable?"
+    "correct": 0,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "The reason explains why the pattern is expected."
   },
   {
     "id": "ac9s5i01-p-018",
-    "curriculumCode": "AC9S5I01",
-    "bank": "practice",
-    "skill": "make a scientific prediction",
-    "printable": true,
-    "type": "single",
-    "question": "At the local wetland, which prediction is reasoned and testable?",
-    "audioPrompt": "At the local wetland, which prediction is reasoned and testable?",
-    "visual": "At the local wetland: make a scientific prediction, shown as a three-step variables reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the local wetland: make a scientific prediction, shown as a three-step variables reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-018\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-018",
-      "alt_text": "At the local wetland: make a scientific prediction, shown as a three-step variables reasoning pathway."
-    },
+    "skill": "scientific questions variables and predictions",
+    "question": "A group asks how wheel size affects rolling distance. Why must ramp surface stay the same?",
     "answers": [
-      "the result will be good",
-      "something interesting will happen",
-      "vegetated soil will lose less mass because roots and cover stabilise it"
+      "The surface is not part of the classroom",
+      "All ramps must look identical in photos",
+      "Distance cannot be measured on ramps",
+      "Surface could also affect distance and confuse the result"
     ],
-    "correct": 2,
-    "explanation": "The prediction states a direction and gives a scientific reason before testing.\nHint: Look for an expected pattern and a because-clause.",
-    "structuredExplanation": {
-      "summary": "The prediction states a direction and gives a scientific reason before testing.",
-      "hint": "Look for an expected pattern and a because-clause."
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Controlled variables stop another cause from confusing results."
   },
   {
     "id": "ac9s5i01-p-019",
-    "curriculumCode": "AC9S5I01",
-    "bank": "practice",
-    "skill": "pose an investigable question",
-    "printable": true,
-    "type": "single",
-    "question": "While checking another group's method, which question best tests a relationship involving ramp height?",
-    "audioPrompt": "While checking another group's method, which question best tests a relationship involving ramp height?",
-    "visual": "While checking another group's method: pose an investigable question, shown as a three-step variables reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While checking another group's method: pose an investigable question, shown as a three-step variables reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-019",
-      "alt_text": "While checking another group's method: pose an investigable question, shown as a three-step variables reasoning pathway."
-    },
+    "skill": "scientific questions variables and predictions",
+    "question": "Why is \"How many minutes does each fabric take to dry?\" measurable?",
     "answers": [
-      "How does ramp height affect distance travelled by the same toy car?",
-      "Is ramp height interesting?",
-      "Which result do I like best?"
+      "Fabric cannot change",
+      "Drying has no pattern",
+      "Time can be recorded and compared",
+      "Minutes are opinions"
     ],
-    "correct": 0,
-    "explanation": "The question names a changed variable and a measurable response.\nHint: Use the frame: How does the changed variable affect the measured variable?",
-    "structuredExplanation": {
-      "summary": "The question names a changed variable and a measurable response.",
-      "hint": "Use the frame: How does the changed variable affect the measured variable?"
+    "correct": 2,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Minutes provide numerical evidence."
   },
   {
     "id": "ac9s5i01-p-020",
-    "curriculumCode": "AC9S5I01",
-    "bank": "practice",
-    "skill": "make a scientific prediction",
-    "printable": true,
-    "type": "single",
-    "question": "In a model-building lesson, which prediction is reasoned and testable?",
-    "audioPrompt": "In a model-building lesson, which prediction is reasoned and testable?",
-    "visual": "In a model-building lesson: make a scientific prediction, shown as a three-step variables reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a model-building lesson: make a scientific prediction, shown as a three-step variables reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-020\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-020",
-      "alt_text": "In a model-building lesson: make a scientific prediction, shown as a three-step variables reasoning pathway."
-    },
+    "skill": "scientific questions variables and predictions",
+    "question": "What is wrong with predicting \"It will be good\"?",
     "answers": [
-      "the result will be good",
-      "the shadow size will change as source-object distance changes because ray spread changes",
-      "something interesting will happen"
+      "It has no full stop",
+      "It does not say what result is expected",
+      "It is too Australian",
+      "It contains a capital letter"
     ],
     "correct": 1,
-    "explanation": "The prediction states a direction and gives a scientific reason before testing.\nHint: Look for an expected pattern and a because-clause.",
-    "structuredExplanation": {
-      "summary": "The prediction states a direction and gives a scientific reason before testing.",
-      "hint": "Look for an expected pattern and a because-clause."
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "A prediction needs a clear expected result."
   },
   {
     "id": "ac9s5i01-p-021",
-    "curriculumCode": "AC9S5I01",
-    "bank": "practice",
-    "skill": "pose an investigable question",
-    "printable": true,
-    "type": "single",
-    "question": "During a temperature investigation, which question best tests a relationship involving surface colour?",
-    "audioPrompt": "During a temperature investigation, which question best tests a relationship involving surface colour?",
-    "visual": "During a temperature investigation: pose an investigable question, shown as a three-step variables reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a temperature investigation: pose an investigable question, shown as a three-step variables reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-021\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-021",
-      "alt_text": "During a temperature investigation: pose an investigable question, shown as a three-step variables reasoning pathway."
-    },
+    "skill": "scientific questions variables and predictions",
+    "question": "Which option is a prediction, not a conclusion?",
     "answers": [
-      "Is surface colour interesting?",
-      "Which result do I like best?",
-      "How does surface colour affect temperature rise under equal light?"
+      "The covered container will lose less water because less air reaches the surface",
+      "The covered container lost 12 mL less water",
+      "Our data showed less evaporation with a lid",
+      "The second trial was affected by a spill"
     ],
-    "correct": 2,
-    "explanation": "The question names a changed variable and a measurable response.\nHint: Use the frame: How does the changed variable affect the measured variable?",
-    "structuredExplanation": {
-      "summary": "The question names a changed variable and a measurable response.",
-      "hint": "Use the frame: How does the changed variable affect the measured variable?"
+    "correct": 0,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "A prediction says what will happen before testing."
   },
   {
     "id": "ac9s5i01-p-022",
-    "curriculumCode": "AC9S5I01",
-    "bank": "practice",
-    "skill": "make a scientific prediction",
-    "printable": true,
-    "type": "single",
-    "question": "At the environmental centre, which prediction is reasoned and testable?",
-    "audioPrompt": "At the environmental centre, which prediction is reasoned and testable?",
-    "visual": "At the environmental centre: make a scientific prediction, shown as a three-step variables reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the environmental centre: make a scientific prediction, shown as a three-step variables reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-022\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-022",
-      "alt_text": "At the environmental centre: make a scientific prediction, shown as a three-step variables reasoning pathway."
-    },
+    "skill": "scientific questions variables and predictions",
+    "question": "Which investigation question is too broad?",
     "answers": [
-      "the car will travel farther from a higher ramp because it begins with more gravitational energy",
-      "the result will be good",
-      "something interesting will happen"
+      "How does fertiliser amount affect plant height?",
+      "How does light level affect leaf number?",
+      "How does water volume affect soil moisture?",
+      "What happens when plants get water, fertiliser, music and different light?"
     ],
-    "correct": 0,
-    "explanation": "The prediction states a direction and gives a scientific reason before testing.\nHint: Look for an expected pattern and a because-clause.",
-    "structuredExplanation": {
-      "summary": "The prediction states a direction and gives a scientific reason before testing.",
-      "hint": "Look for an expected pattern and a because-clause."
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Changing many factors makes the cause unclear."
   },
   {
     "id": "ac9s5i01-p-023",
-    "curriculumCode": "AC9S5I01",
-    "bank": "practice",
-    "skill": "pose an investigable question",
-    "printable": true,
-    "type": "single",
-    "question": "While preparing a science report, which question best tests a relationship involving distance from a lamp?",
-    "audioPrompt": "While preparing a science report, which question best tests a relationship involving distance from a lamp?",
-    "visual": "While preparing a science report: pose an investigable question, shown as a three-step variables reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While preparing a science report: pose an investigable question, shown as a three-step variables reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-023\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-023",
-      "alt_text": "While preparing a science report: pose an investigable question, shown as a three-step variables reasoning pathway."
-    },
+    "skill": "scientific questions variables and predictions",
+    "question": "Which wording identifies the measured variable?",
     "answers": [
-      "Is distance from a lamp interesting?",
-      "How does distance from a lamp affect shadow size using the same object?",
-      "Which result do I like best?"
+      "Is thick insulation good?",
+      "Why do cups exist?",
+      "How does insulation thickness affect water temperature after 15 minutes?",
+      "How does insulation thickness change?"
     ],
-    "correct": 1,
-    "explanation": "The question names a changed variable and a measurable response.\nHint: Use the frame: How does the changed variable affect the measured variable?",
-    "structuredExplanation": {
-      "summary": "The question names a changed variable and a measurable response.",
-      "hint": "Use the frame: How does the changed variable affect the measured variable?"
+    "correct": 2,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Water temperature after 15 minutes is measured."
   },
   {
     "id": "ac9s5i01-p-024",
-    "curriculumCode": "AC9S5I01",
-    "bank": "practice",
-    "skill": "make a scientific prediction",
-    "printable": true,
-    "type": "single",
-    "question": "In a research discussion, which prediction is reasoned and testable?",
-    "audioPrompt": "In a research discussion, which prediction is reasoned and testable?",
-    "visual": "In a research discussion: make a scientific prediction, shown as a three-step variables reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a research discussion: make a scientific prediction, shown as a three-step variables reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-024\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i01.svg#ac9s5i01-p-024",
-      "alt_text": "In a research discussion: make a scientific prediction, shown as a three-step variables reasoning pathway."
-    },
+    "skill": "scientific questions variables and predictions",
+    "question": "Which statement is an observation that could lead to a question?",
     "answers": [
-      "the result will be good",
-      "something interesting will happen",
-      "darker surfaces will warm more because they absorb more light"
+      "The ball wanted to roll further",
+      "The ball rolled further on smooth concrete than on grass",
+      "Smooth concrete is definitely best for every game",
+      "Grass should never be used"
+    ],
+    "correct": 1,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "This is an observable pattern that can be investigated."
+  },
+  {
+    "id": "ac9s5i01-p-025",
+    "skill": "scientific questions variables and predictions",
+    "question": "Which prediction is least testable?",
+    "answers": [
+      "The shiny spoon will be the most awesome",
+      "The shiny spoon will reflect more light",
+      "The dark spoon will warm faster",
+      "The plastic spoon will bend less"
+    ],
+    "correct": 0,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Awesome is an opinion, not a measurable result."
+  },
+  {
+    "id": "ac9s5i01-p-026",
+    "skill": "scientific questions variables and predictions",
+    "question": "Which question best controls other factors?",
+    "answers": [
+      "How do ramps, cars and floor types affect everything?",
+      "Which car is coolest on any ramp?",
+      "Can ramps be fun at sport time?",
+      "How does ramp height affect rolling distance when the same car and surface are used?"
+    ],
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "It changes ramp height and controls car and surface."
+  },
+  {
+    "id": "ac9s5i01-p-027",
+    "skill": "scientific questions variables and predictions",
+    "question": "Which changed variable suits a dissolving investigation?",
+    "answers": [
+      "The title font",
+      "The weather forecast next week",
+      "Water temperature",
+      "How much a student likes sugar"
     ],
     "correct": 2,
-    "explanation": "The prediction states a direction and gives a scientific reason before testing.\nHint: Look for an expected pattern and a because-clause.",
-    "structuredExplanation": {
-      "summary": "The prediction states a direction and gives a scientific reason before testing.",
-      "hint": "Look for an expected pattern and a because-clause."
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Water temperature can be changed and tested."
+  },
+  {
+    "id": "ac9s5i01-p-028",
+    "skill": "scientific questions variables and predictions",
+    "question": "Which measured variable suits a parachute investigation?",
+    "answers": [
+      "The opinion of the audience",
+      "Time taken to fall",
+      "The parachute name",
+      "The colour of the stopwatch"
+    ],
+    "correct": 1,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Falling time can be measured in seconds."
+  },
+  {
+    "id": "ac9s5i01-p-029",
+    "skill": "scientific questions variables and predictions",
+    "question": "Which question asks for evidence rather than preference?",
+    "answers": [
+      "Which towel absorbs the most water in millilitres?",
+      "Which towel feels nicest?",
+      "Which towel colour is prettiest?",
+      "Which towel would you buy?"
+    ],
+    "correct": 0,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Millilitres provide measurable evidence."
+  },
+  {
+    "id": "ac9s5i01-p-030",
+    "skill": "scientific questions variables and predictions",
+    "question": "Which is a reasoned prediction about shade?",
+    "answers": [
+      "Shade is boring",
+      "The tallest plant will be lucky",
+      "All plants will be exactly the same forever",
+      "Plants in deeper shade will grow more slowly because they receive less light for growth"
+    ],
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "It gives a pattern and a reason based on light."
+  },
+  {
+    "id": "ac9s5i01-p-031",
+    "skill": "scientific questions variables and predictions",
+    "question": "A class wants to test which lunch wrap keeps an ice block solid longest. Which question should they use?",
+    "answers": [
+      "Can ice blocks be fun at lunch?",
+      "Why is plastic shiny?",
+      "How does wrap material affect melting time for equal-sized ice blocks?",
+      "Which wrap looks most expensive?"
+    ],
+    "correct": 2,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "The question names material and melting time."
+  },
+  {
+    "id": "ac9s5i01-p-032",
+    "skill": "scientific questions variables and predictions",
+    "question": "Mia notices her bike brakes feel different after rain. Which question is investigable?",
+    "answers": [
+      "Which bike is coolest?",
+      "How does wetness of the rim affect stopping distance?",
+      "Are rainy days annoying?",
+      "Do bikes like puddles?"
+    ],
+    "correct": 1,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Wetness and stopping distance can be compared safely with a model or controlled setup."
+  },
+  {
+    "id": "ac9s5i01-p-033",
+    "skill": "scientific questions variables and predictions",
+    "question": "Students compare compost amounts for radish growth. Which prediction is best?",
+    "answers": [
+      "Radishes with some compost will grow taller because compost can add nutrients",
+      "Compost will be amazing",
+      "Radishes will choose the nicest pot",
+      "The result will match my favourite colour"
+    ],
+    "correct": 0,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "The prediction includes an expected growth pattern and reason."
+  },
+  {
+    "id": "ac9s5i01-p-034",
+    "skill": "scientific questions variables and predictions",
+    "question": "A group wants to investigate sound muffling. Which measured variable fits?",
+    "answers": [
+      "The neatness of the material",
+      "The name of the app icon",
+      "The cost of the poster paper",
+      "Sound level in decibels after passing through each material"
+    ],
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Decibels can be measured and compared."
+  },
+  {
+    "id": "ac9s5i01-p-035",
+    "skill": "scientific questions variables and predictions",
+    "question": "A class observes beach sand is cooler under shade. Which prediction is reasoned?",
+    "answers": [
+      "All sand will be the same temperature",
+      "The thermometer will decide by itself",
+      "Shaded sand will be cooler because it receives less direct sunlight",
+      "Shade wins because I like it"
+    ],
+    "correct": 2,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Less direct sunlight explains the expected lower temperature."
+  },
+  {
+    "id": "ac9s5i01-p-036",
+    "skill": "scientific questions variables and predictions",
+    "question": "Students plan to change both water amount and soil type. What should they do first?",
+    "answers": [
+      "Measure only the tallest plant",
+      "Choose one relationship to test and keep the other factor controlled",
+      "Change even more factors",
+      "Skip the prediction"
+    ],
+    "correct": 1,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "One relationship gives clearer evidence."
+  },
+  {
+    "id": "ac9s5i01-p-037",
+    "skill": "scientific questions variables and predictions",
+    "question": "Which improved question suits testing paper towel absorbency?",
+    "answers": [
+      "How much water does each paper towel brand absorb in 30 seconds?",
+      "Which paper towel is famous?",
+      "Are paper towels useful?",
+      "Why are spills messy?"
+    ],
+    "correct": 0,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "It gives a measurable absorbency outcome."
+  },
+  {
+    "id": "ac9s5i01-p-038",
+    "skill": "scientific questions variables and predictions",
+    "question": "A class asks whether darker roofs make model houses warmer. Which prediction fits?",
+    "answers": [
+      "The house will be better",
+      "The roof will be my favourite",
+      "The answer will be roof",
+      "The darker roof will make the model warmer because it absorbs more light"
+    ],
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "The reason links dark colour with light absorption."
+  },
+  {
+    "id": "ac9s5i01-p-039",
+    "skill": "scientific questions variables and predictions",
+    "question": "Students investigate exercise and pulse rate. Which question is focused and ethical?",
+    "answers": [
+      "Who is the fittest student?",
+      "Can we make everyone race outside?",
+      "How does one minute of star jumps affect pulse rate in healthy volunteers?",
+      "How long can someone exercise until they feel sick?"
+    ],
+    "correct": 2,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "It is focused and avoids unsafe or embarrassing comparison."
+  },
+  {
+    "id": "ac9s5i01-p-040",
+    "skill": "scientific questions variables and predictions",
+    "question": "A group compares filter materials for muddy water. Which variable should be measured?",
+    "answers": [
+      "The colour of the bucket handle",
+      "Clarity of filtered water using the same scale each time",
+      "How popular each material is",
+      "The number of jokes during testing"
+    ],
+    "correct": 1,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "A consistent clarity scale gives evidence."
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
