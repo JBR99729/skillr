@@ -1,5 +1,6 @@
 import fs from'node:fs';import path from'node:path';
-import{practice as h01p,test as h01t}from'./year1_science_actual/ac9s1h01_authored.mjs';
+import{practice as h01p}from'./year1_science_actual/ac9s1h01_practice_authored.mjs';
+import{test as h01t}from'./year1_science_actual/ac9s1h01_test_authored.mjs';
 import{practice as i01p,test as i01t}from'./year1_science_actual/ac9s1i01_authored.mjs';
 import{practice as i02p,test as i02t}from'./year1_science_actual/ac9s1i02_authored.mjs';
 import{practice as i03p,test as i03t}from'./year1_science_actual/ac9s1i03_authored.mjs';
