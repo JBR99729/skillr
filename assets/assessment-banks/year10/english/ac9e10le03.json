@@ -5,39 +5,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_examining_a_range_of_texts_and_evaluating_the_effect_of_text_structures_and_language_features_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "A short story about a flood is narrated by a nine-year-old who does not fully understand why the adults are frightened. What choice most directly shapes the reader’s perspective?",
+    "audio_prompt": "A short story about a flood is narrated by a nine-year-old who does not fully understand why the adults are frightened. What choice most directly shapes the reader’s perspective?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "examining a range of texts and evaluating the effect of text structures and language features; for example, determining whether the narrative position of a child evokes reader sympathy towards an event or issue",
+        "text": "The child narrator’s limited point of view",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "The story’s page length",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "The use of past tense alone",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The number of characters",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "examining a range of texts and evaluating the effect of text structures and language features; for example, determining whether the narrative position of a child evokes reader sympathy towards an event or issue",
-      "hint": "A writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text."
+      "summary": "A child narrator limits what is understood and can create sympathy, irony or tension because readers may infer more than the narrator can.",
+      "hint": "Ask whose understanding filters the events."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le03-p-002",
@@ -45,39 +47,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_examining_a_range_of_texts_and_evaluating_the_effect_of_text_structures_and_language_features_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "A speech repeats “We remember” at the start of four consecutive sentences. What feature is being used?",
+    "audio_prompt": "A speech repeats “We remember” at the start of four consecutive sentences. What feature is being used?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "examining a range of texts and evaluating the effect of text structures and language features; for example, determining whether the narrative position of a child evokes reader sympathy towards an event or issue",
+        "text": "anaphora",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "foreshadowing",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "ellipsis",
+        "is_correct": false
+      },
+      {
+        "text": "flashback",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "examining a range of texts and evaluating the effect of text structures and language features; for example, determining whether the narrative position of a child evokes reader sympathy towards an event or issue",
-      "hint": "A writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text."
+      "summary": "Anaphora is the repetition of a word or phrase at the beginnings of successive clauses or sentences.",
+      "hint": "Look at where the repeated words occur."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le03-p-003",
@@ -85,38 +89,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_examining_a_range_of_texts_and_evaluating_the_effect_of_text_structures_and_language_features_and_influence_how_an_audience_understands_the_text",
-    "question": "What should you check when using a writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text?",
-    "audio_prompt": "What should you check when using a writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text?",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "A novel opens with the aftermath of an accident, then returns to the week before it happened. What structure is used?",
+    "audio_prompt": "A novel opens with the aftermath of an accident, then returns to the week before it happened. What structure is used?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "examining a range of texts and evaluating the effect of text structures and language features; for example, determining whether the narrative position of a child evokes reader sympathy towards an event or issue",
+        "text": "non-linear chronology with a flashback",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "strict chronological order",
+        "is_correct": false
+      },
+      {
+        "text": "a list structure",
+        "is_correct": false
+      },
+      {
+        "text": "a circular argument",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "examining a range of texts and evaluating the effect of text structures and language features; for example, determining whether the narrative position of a child evokes reader sympathy towards an event or issue",
-      "hint": "A writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text."
+      "summary": "The narrative moves backward from a later event to earlier events, creating a non-linear sequence.",
+      "hint": "Check whether events are told in time order."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le03-p-004",
@@ -124,39 +131,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_examining_a_range_of_texts_and_evaluating_the_effect_of_text_structures_and_language_features_and_influence_how_an_audience_understands_the_text",
-    "question": "Which statement best explains a writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text?",
-    "audio_prompt": "Which statement best explains a writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text?",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "A review begins with a striking personal anecdote before presenting its judgement of a film. What is the anecdote mainly doing structurally?",
+    "audio_prompt": "A review begins with a striking personal anecdote before presenting its judgement of a film. What is the anecdote mainly doing structurally?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "examining a range of texts and evaluating the effect of text structures and language features; for example, determining whether the narrative position of a child evokes reader sympathy towards an event or issue",
+        "text": "providing an engaging entry point before the evaluation",
         "is_correct": true
+      },
+      {
+        "text": "proving the film is objectively good",
+        "is_correct": false
+      },
+      {
+        "text": "replacing the need for evidence",
+        "is_correct": false
+      },
+      {
+        "text": "summarising every scene",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "examining a range of texts and evaluating the effect of text structures and language features; for example, determining whether the narrative position of a child evokes reader sympathy towards an event or issue",
-      "hint": "A writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text."
+      "summary": "The anecdote functions as an opening hook and frame for the later evaluation.",
+      "hint": "Think about where the anecdote sits and what follows it."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le03-p-005",
@@ -164,39 +173,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_examining_a_range_of_texts_and_evaluating_the_effect_of_text_structures_and_language_features_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "A poem places the words “still waiting” on a line by themselves. What is most directly created?",
+    "audio_prompt": "A poem places the words “still waiting” on a line by themselves. What is most directly created?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "examining a range of texts and evaluating the effect of text structures and language features; for example, determining whether the narrative position of a child evokes reader sympathy towards an event or issue",
+        "text": "visual and rhythmic emphasis",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "a change of narrator",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "a new rhyme scheme automatically",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "a factual explanation",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "examining a range of texts and evaluating the effect of text structures and language features; for example, determining whether the narrative position of a child evokes reader sympathy towards an event or issue",
-      "hint": "A writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text."
+      "summary": "Isolation through line placement can make the phrase visually prominent and slow the reading rhythm.",
+      "hint": "Notice what stands alone."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le03-p-006",
@@ -204,39 +215,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_examining_a_range_of_texts_and_evaluating_the_effect_of_text_structures_and_language_features_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "A documentary cuts from a politician promising affordable housing to footage of people sleeping in cars. What structural relationship is created?",
+    "audio_prompt": "A documentary cuts from a politician promising affordable housing to footage of people sleeping in cars. What structural relationship is created?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "examining a range of texts and evaluating the effect of text structures and language features; for example, determining whether the narrative position of a child evokes reader sympathy towards an event or issue",
+        "text": "juxtaposition",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "chronological narration only",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "foreshadowing",
+        "is_correct": false
+      },
+      {
+        "text": "a definition",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "examining a range of texts and evaluating the effect of text structures and language features; for example, determining whether the narrative position of a child evokes reader sympathy towards an event or issue",
-      "hint": "A writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text."
+      "summary": "The contrasting shots are placed together so viewers compare promise and reality.",
+      "hint": "Meaning comes from the contrast between adjacent material."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le03-p-007",
@@ -244,39 +257,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_examining_a_range_of_texts_and_evaluating_the_effect_of_text_structures_and_language_features_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "A memoir pauses its chronological account for a paragraph reflecting on what the writer now understands. What has changed?",
+    "audio_prompt": "A memoir pauses its chronological account for a paragraph reflecting on what the writer now understands. What has changed?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "examining a range of texts and evaluating the effect of text structures and language features; for example, determining whether the narrative position of a child evokes reader sympathy towards an event or issue",
+        "text": "The text shifts from recounting events to reflective commentary.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The genre becomes fiction.",
+        "is_correct": false
+      },
+      {
+        "text": "The timeline becomes impossible to follow.",
+        "is_correct": false
+      },
+      {
+        "text": "The narrator disappears.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "examining a range of texts and evaluating the effect of text structures and language features; for example, determining whether the narrative position of a child evokes reader sympathy towards an event or issue",
-      "hint": "A writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text."
+      "summary": "The writer moves from telling what happened to evaluating or interpreting its significance from a later viewpoint.",
+      "hint": "Action pauses for reflection."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le03-p-008",
@@ -284,39 +299,1385 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_examining_a_range_of_texts_and_evaluating_the_effect_of_text_structures_and_language_features_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "A persuasive article places its strongest evidence immediately after stating its central claim. What does this structure help do?",
+    "audio_prompt": "A persuasive article places its strongest evidence immediately after stating its central claim. What does this structure help do?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "examining a range of texts and evaluating the effect of text structures and language features; for example, determining whether the narrative position of a child evokes reader sympathy towards an event or issue",
+        "text": "support the claim before the reader moves further into the argument",
         "is_correct": true
+      },
+      {
+        "text": "hide the writer’s position",
+        "is_correct": false
+      },
+      {
+        "text": "remove the need for reasoning",
+        "is_correct": false
+      },
+      {
+        "text": "turn the article into a narrative",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "examining a range of texts and evaluating the effect of text structures and language features; for example, determining whether the narrative position of a child evokes reader sympathy towards an event or issue",
-      "hint": "A writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text."
+      "summary": "Placing strong evidence near the claim can establish credibility and support early.",
+      "hint": "Follow claim → support."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le03-p-009",
+    "curriculum_code": "AC9E10LE03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "A scene contains very short sentences during an emergency. What effect is most plausible?",
+    "audio_prompt": "A scene contains very short sentences during an emergency. What effect is most plausible?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The compressed syntax can quicken pace and create urgency.",
+        "is_correct": true
+      },
+      {
+        "text": "Short sentences always make a scene humorous.",
+        "is_correct": false
+      },
+      {
+        "text": "They automatically make the narrator unreliable.",
+        "is_correct": false
+      },
+      {
+        "text": "They remove all emotion from the scene.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Short units can accelerate reading and mimic rapid action, though effect always depends on context.",
+      "hint": "Think about reading pace."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le03-p-010",
+    "curriculum_code": "AC9E10LE03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "A character says “Fine” three times, each time after being challenged. What feature is most relevant to analysing the pattern?",
+    "audio_prompt": "A character says “Fine” three times, each time after being challenged. What feature is most relevant to analysing the pattern?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "repetition",
+        "is_correct": true
+      },
+      {
+        "text": "flashback",
+        "is_correct": false
+      },
+      {
+        "text": "allusion",
+        "is_correct": false
+      },
+      {
+        "text": "chronology",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The repeated word creates a pattern whose changing context can reveal tension, denial or emotional escalation.",
+      "hint": "Track recurrence across the exchange."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le03-p-011",
+    "curriculum_code": "AC9E10LE03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "Why can a child narrator make a violent event more affecting for readers?",
+    "audio_prompt": "Why can a child narrator make a violent event more affecting for readers?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The gap between the child’s limited understanding and the reader’s fuller inference can intensify vulnerability and sympathy.",
+        "is_correct": true
+      },
+      {
+        "text": "Children always make stories sad.",
+        "is_correct": false
+      },
+      {
+        "text": "A child narrator guarantees the events are true.",
+        "is_correct": false
+      },
+      {
+        "text": "Readers cannot interpret beyond a child narrator’s words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Limited viewpoint can make readers notice what the narrator cannot name or fully grasp.",
+      "hint": "Look for the gap between narrator and reader knowledge."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le03-p-012",
+    "curriculum_code": "AC9E10LE03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "A novel alternates chapters between two siblings who remember the same event differently. What effect does the structure create?",
+    "audio_prompt": "A novel alternates chapters between two siblings who remember the same event differently. What effect does the structure create?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It invites readers to compare perspectives and question any single complete version of the event.",
+        "is_correct": true
+      },
+      {
+        "text": "It proves one sibling is lying.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes both accounts identical.",
+        "is_correct": false
+      },
+      {
+        "text": "It removes ambiguity.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Alternating perspectives foreground differences in memory, interpretation and bias.",
+      "hint": "Why show two versions?"
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le03-p-013",
+    "curriculum_code": "AC9E10LE03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "Why might a writer delay revealing a character’s motive until late in the story?",
+    "audio_prompt": "Why might a writer delay revealing a character’s motive until late in the story?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The delay can make earlier actions ambiguous and force readers to reinterpret them later.",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the character is a villain.",
+        "is_correct": false
+      },
+      {
+        "text": "It prevents readers from understanding any event.",
+        "is_correct": false
+      },
+      {
+        "text": "It only makes the story longer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Delayed information can create suspense and retrospective reinterpretation.",
+      "hint": "What changes once the motive is known?"
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le03-p-014",
+    "curriculum_code": "AC9E10LE03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "A poem moves from long flowing lines to abrupt fragments near its ending. What is a strong explanation?",
+    "audio_prompt": "A poem moves from long flowing lines to abrupt fragments near its ending. What is a strong explanation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The structural shift can disrupt rhythm and reflect growing instability or emotional pressure.",
+        "is_correct": true
+      },
+      {
+        "text": "Fragments always indicate poor grammar.",
+        "is_correct": false
+      },
+      {
+        "text": "Long lines are always calm and fragments always angry.",
+        "is_correct": false
+      },
+      {
+        "text": "The change has no effect unless the poem rhymes.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A change in line and sentence pattern can signal a shift in emotional or conceptual state, but must be justified by context.",
+      "hint": "Analyse the change, not just the feature."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le03-p-015",
+    "curriculum_code": "AC9E10LE03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "A feature article opens with one family’s experience before introducing national statistics. Why can this sequence be effective?",
+    "audio_prompt": "A feature article opens with one family’s experience before introducing national statistics. Why can this sequence be effective?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It moves from a concrete human example to broader evidence, linking personal impact with scale.",
+        "is_correct": true
+      },
+      {
+        "text": "The anecdote proves the statistics are correct.",
+        "is_correct": false
+      },
+      {
+        "text": "Statistics are less credible after anecdotes.",
+        "is_correct": false
+      },
+      {
+        "text": "The order makes the article fictional.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The personal case can create immediacy before the broader data expands the issue.",
+      "hint": "Specific example → wider pattern."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le03-p-016",
+    "curriculum_code": "AC9E10LE03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "Why might a playwright use overlapping dialogue during an argument?",
+    "audio_prompt": "Why might a playwright use overlapping dialogue during an argument?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It can represent interruption, competition for control and escalating tension.",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the characters agree.",
+        "is_correct": false
+      },
+      {
+        "text": "It slows the scene into calm reflection.",
+        "is_correct": false
+      },
+      {
+        "text": "It turns dialogue into narration.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Overlapping speech can show speakers struggling to be heard and intensify conflict.",
+      "hint": "Who is controlling the exchange?"
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le03-p-017",
+    "curriculum_code": "AC9E10LE03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "A novel repeats an image of smoke whenever a character avoids telling the truth. What effect can the recurring image have?",
+    "audio_prompt": "A novel repeats an image of smoke whenever a character avoids telling the truth. What effect can the recurring image have?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It can become a motif linking obscurity with concealment across the text.",
+        "is_correct": true
+      },
+      {
+        "text": "It proves every scene containing smoke is identical.",
+        "is_correct": false
+      },
+      {
+        "text": "It changes the novel into a poem.",
+        "is_correct": false
+      },
+      {
+        "text": "It automatically tells readers exactly what to think.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Repeated imagery can accumulate associations and create a pattern that supports interpretation.",
+      "hint": "Track how the image recurs in similar moments."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le03-p-018",
+    "curriculum_code": "AC9E10LE03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "A documentary includes long silences after interviewees describe loss. Why might this be effective?",
+    "audio_prompt": "A documentary includes long silences after interviewees describe loss. Why might this be effective?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The pause can give emotional weight to what was said and resist rushing into explanation.",
+        "is_correct": true
+      },
+      {
+        "text": "Silence means the interview failed.",
+        "is_correct": false
+      },
+      {
+        "text": "Silence always makes audiences bored.",
+        "is_correct": false
+      },
+      {
+        "text": "The pause proves the account is accurate.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Silence can function as a deliberate structural and sonic choice that allows reflection or discomfort.",
+      "hint": "Consider what the absence of speech makes the audience do."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le03-p-019",
+    "curriculum_code": "AC9E10LE03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "A persuasive speech ends by returning to the image introduced in its opening. What does this circular structure achieve?",
+    "audio_prompt": "A persuasive speech ends by returning to the image introduced in its opening. What does this circular structure achieve?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It creates cohesion and gives the ending a sense of completion or renewed significance.",
+        "is_correct": true
+      },
+      {
+        "text": "It repeats because the speaker forgot the conclusion.",
+        "is_correct": false
+      },
+      {
+        "text": "It removes the need for a final claim.",
+        "is_correct": false
+      },
+      {
+        "text": "It proves the image is literal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Returning to an opening image can unify the speech and show how its meaning has developed.",
+      "hint": "Opening and ending echo each other."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le03-p-020",
+    "curriculum_code": "AC9E10LE03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "A story reveals key information through dialogue rather than narration. What difference can this make?",
+    "audio_prompt": "A story reveals key information through dialogue rather than narration. What difference can this make?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Readers infer relationships and motives from what characters say and how they say it, rather than receiving direct explanation.",
+        "is_correct": true
+      },
+      {
+        "text": "Dialogue is always more reliable than narration.",
+        "is_correct": false
+      },
+      {
+        "text": "Dialogue cannot communicate characterisation.",
+        "is_correct": false
+      },
+      {
+        "text": "Narration and dialogue always create identical effects.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Dialogue can make interpretation less explicit by requiring readers to infer meaning from interaction.",
+      "hint": "Who explains the meaning—the narrator or the reader?"
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le03-p-021",
+    "curriculum_code": "AC9E10LE03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "Which analysis goes beyond feature spotting?",
+    "audio_prompt": "Which analysis goes beyond feature spotting?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“The repeated one-word sentences slow the final exchange, making each refusal feel more deliberate.”",
+        "is_correct": true
+      },
+      {
+        "text": "“There are short sentences.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The author uses punctuation.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Short sentences are effective.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Strong analysis links a specific choice to a contextual effect.",
+      "hint": "Feature + evidence + effect."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le03-p-022",
+    "curriculum_code": "AC9E10LE03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "Which claim about first-person narration is most accurate?",
+    "audio_prompt": "Which claim about first-person narration is most accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It can create intimacy while also limiting readers to one character’s knowledge and biases.",
+        "is_correct": true
+      },
+      {
+        "text": "It always makes a narrator trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "It gives readers access to every character’s thoughts.",
+        "is_correct": false
+      },
+      {
+        "text": "It cannot create suspense.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "First-person narration can feel close and immediate, but it also restricts information and may be subjective.",
+      "hint": "Consider both access and limitation."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le03-p-023",
+    "curriculum_code": "AC9E10LE03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "A story begins with “I should have known not to open the door.” What effect is most strongly suggested?",
+    "audio_prompt": "A story begins with “I should have known not to open the door.” What effect is most strongly suggested?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The retrospective warning creates anticipation because the narrator signals later consequences.",
+        "is_correct": true
+      },
+      {
+        "text": "The ending has already been fully explained.",
+        "is_correct": false
+      },
+      {
+        "text": "The narrator is definitely lying.",
+        "is_correct": false
+      },
+      {
+        "text": "The sentence removes suspense.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The narrator hints that opening the door led to trouble, creating forward-looking tension.",
+      "hint": "What future problem is being signalled?"
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le03-p-024",
+    "curriculum_code": "AC9E10LE03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "Which evidence best supports the interpretation that a scene becomes more chaotic?",
+    "audio_prompt": "Which evidence best supports the interpretation that a scene becomes more chaotic?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Sentences shorten, speakers interrupt each other, and stage directions become more rapid.",
+        "is_correct": true
+      },
+      {
+        "text": "The scene contains three characters.",
+        "is_correct": false
+      },
+      {
+        "text": "The scene is on page 42.",
+        "is_correct": false
+      },
+      {
+        "text": "The dialogue includes nouns.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Multiple structural and language changes directly support an interpretation of increasing chaos.",
+      "hint": "Choose evidence tied to the claimed effect."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le03-p-025",
+    "curriculum_code": "AC9E10LE03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "A writer describes a city first through sweeping skyline images, then through one person sleeping in a doorway. What is the strongest interpretation?",
+    "audio_prompt": "A writer describes a city first through sweeping skyline images, then through one person sleeping in a doorway. What is the strongest interpretation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The shift from broad scale to an individual detail complicates a grand image of the city by exposing a human cost.",
+        "is_correct": true
+      },
+      {
+        "text": "The second image proves the whole city is poor.",
+        "is_correct": false
+      },
+      {
+        "text": "The first image has no connection with the second.",
+        "is_correct": false
+      },
+      {
+        "text": "Any change in scale creates comedy.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The structural movement from panoramic to intimate detail can challenge the initial representation.",
+      "hint": "Compare what each scale makes visible."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le03-p-026",
+    "curriculum_code": "AC9E10LE03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "Which statement avoids an automatic-effect claim?",
+    "audio_prompt": "Which statement avoids an automatic-effect claim?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“In this scene, the low lighting obscures the character’s expression, making their intentions harder to read.”",
+        "is_correct": true
+      },
+      {
+        "text": "“Low lighting always means evil.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Dark colours automatically create fear.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Any shadow proves a character is dishonest.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Effects should be argued from the specific evidence and context, not attached mechanically to a feature.",
+      "hint": "Avoid “always”."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le03-p-027",
+    "curriculum_code": "AC9E10LE03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "A poem repeats a phrase, but its meaning changes each time because the surrounding lines change. What is the best analysis?",
+    "audio_prompt": "A poem repeats a phrase, but its meaning changes each time because the surrounding lines change. What is the best analysis?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Repetition creates continuity while the altered context develops the phrase’s significance.",
+        "is_correct": true
+      },
+      {
+        "text": "Repetition means the phrase has exactly the same meaning every time.",
+        "is_correct": false
+      },
+      {
+        "text": "The repeated phrase should be ignored after its first appearance.",
+        "is_correct": false
+      },
+      {
+        "text": "The poem has no structural development.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Repeated language can remain recognisable while accumulating or changing meaning across a text.",
+      "hint": "Same words, different context."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le03-p-028",
+    "curriculum_code": "AC9E10LE03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "A news feature alternates between expert evidence and personal testimony. What is the strongest structural explanation?",
+    "audio_prompt": "A news feature alternates between expert evidence and personal testimony. What is the strongest structural explanation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It combines analytical authority with lived experience, allowing each mode of evidence to illuminate the other.",
+        "is_correct": true
+      },
+      {
+        "text": "Expert evidence and testimony are identical forms of proof.",
+        "is_correct": false
+      },
+      {
+        "text": "Personal testimony makes expert evidence unnecessary.",
+        "is_correct": false
+      },
+      {
+        "text": "Alternation automatically proves neutrality.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The structure places different kinds of evidence in relation, shaping both credibility and human impact.",
+      "hint": "Why alternate instead of grouping them separately?"
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le03-p-029",
+    "curriculum_code": "AC9E10LE03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "A scene shifts from rapid cuts to one sustained shot. Which interpretation is most defensible?",
+    "audio_prompt": "A scene shifts from rapid cuts to one sustained shot. Which interpretation is most defensible?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The change can make the audience linger on a moment that the earlier editing moved past quickly.",
+        "is_correct": true
+      },
+      {
+        "text": "Long shots always mean happiness.",
+        "is_correct": false
+      },
+      {
+        "text": "The camera has stopped telling the story.",
+        "is_correct": false
+      },
+      {
+        "text": "The scene becomes non-fiction.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A sudden change in editing rhythm can alter attention and emotional duration.",
+      "hint": "Compare the pace before and after the shift."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le03-p-030",
+    "curriculum_code": "AC9E10LE03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "Which analysis of rhetorical questions is strongest?",
+    "audio_prompt": "Which analysis of rhetorical questions is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“The questions pressure listeners to consider the speaker’s preferred answer without requiring an actual reply.”",
+        "is_correct": true
+      },
+      {
+        "text": "“Questions are persuasive because they have question marks.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Every rhetorical question makes an audience agree.”",
+        "is_correct": false
+      },
+      {
+        "text": "“A rhetorical question contains no meaning.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Rhetorical questions can guide thought or imply an answer, but they do not guarantee agreement.",
+      "hint": "Explain how the question positions the listener."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le03-p-031",
+    "curriculum_code": "AC9E10LE03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "A story about displacement is currently told by an all-knowing narrator. The writer wants readers to experience uncertainty alongside one teenager. Which revision best supports that aim?",
+    "audio_prompt": "A story about displacement is currently told by an all-knowing narrator. The writer wants readers to experience uncertainty alongside one teenager. Which revision best supports that aim?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Restrict the narration to what the teenager sees, knows and misunderstands.",
+        "is_correct": true
+      },
+      {
+        "text": "Add more facts from every character.",
+        "is_correct": false
+      },
+      {
+        "text": "Explain the ending in the first paragraph.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove all sensory detail.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Limited focalisation aligns readers with the teenager’s uncertainty by restricting information.",
+      "hint": "Control what the reader is allowed to know."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le03-p-032",
+    "curriculum_code": "AC9E10LE03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "An environmental speech feels flat because every paragraph uses the same pattern. Which revision would most clearly create emphasis at the climax?",
+    "audio_prompt": "An environmental speech feels flat because every paragraph uses the same pattern. Which revision would most clearly create emphasis at the climax?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Follow several developed paragraphs with a single-sentence paragraph stating the central demand.",
+        "is_correct": true
+      },
+      {
+        "text": "Make every paragraph exactly the same length.",
+        "is_correct": false
+      },
+      {
+        "text": "Add unrelated statistics at the end.",
+        "is_correct": false
+      },
+      {
+        "text": "Repeat the title after every sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A sudden shift to a brief standalone paragraph can create structural emphasis through contrast.",
+      "hint": "Use variation deliberately."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le03-p-033",
+    "curriculum_code": "AC9E10LE03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "A documentary wants viewers to question a company’s promise of “zero impact”. Which sequence would be strongest?",
+    "audio_prompt": "A documentary wants viewers to question a company’s promise of “zero impact”. Which sequence would be strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Show the promise, then immediately cut to documented footage of damaged habitat.",
+        "is_correct": true
+      },
+      {
+        "text": "Repeat the promise three times with no evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove all visuals after the promise.",
+        "is_correct": false
+      },
+      {
+        "text": "Show unrelated scenic footage.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Juxtaposing the claim with contradictory evidence invites viewers to evaluate the gap between words and reality.",
+      "hint": "Place claim beside consequence."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le03-p-034",
+    "curriculum_code": "AC9E10LE03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "A memoir chapter needs to show how the writer’s interpretation of an event changed over time. Which structure is best?",
+    "audio_prompt": "A memoir chapter needs to show how the writer’s interpretation of an event changed over time. Which structure is best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Recount the event, then shift to present-day reflection that reassesses it.",
+        "is_correct": true
+      },
+      {
+        "text": "Use only a list of dates.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the narrator’s current perspective.",
+        "is_correct": false
+      },
+      {
+        "text": "Repeat the event word-for-word.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Combining past experience with later reflection makes the change in understanding visible.",
+      "hint": "Past self versus present self."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le03-p-035",
+    "curriculum_code": "AC9E10LE03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "A short story should build unease without revealing the threat immediately. Which choice is most effective?",
+    "audio_prompt": "A short story should build unease without revealing the threat immediately. Which choice is most effective?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Repeat small unexplained details while withholding their full significance until later.",
+        "is_correct": true
+      },
+      {
+        "text": "Name and explain the threat in the first sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove every clue.",
+        "is_correct": false
+      },
+      {
+        "text": "Use only cheerful dialogue unrelated to the plot.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Controlled repetition plus delayed explanation can create a pattern readers notice before they understand it fully.",
+      "hint": "Give clues before answers."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le03-p-036",
+    "curriculum_code": "AC9E10LE03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "A student wants to analyse sympathy in a refugee narrative. Which evidence would best support a claim about narrative perspective?",
+    "audio_prompt": "A student wants to analyse sympathy in a refugee narrative. Which evidence would best support a claim about narrative perspective?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The narrator describes events through a child’s partial understanding of adult decisions.",
+        "is_correct": true
+      },
+      {
+        "text": "The book has 240 pages.",
+        "is_correct": false
+      },
+      {
+        "text": "The cover is blue.",
+        "is_correct": false
+      },
+      {
+        "text": "The author’s surname has six letters.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Evidence about whose perspective filters events directly supports analysis of how sympathy may be shaped.",
+      "hint": "Match evidence to the claim."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le03-p-037",
+    "curriculum_code": "AC9E10LE03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "A podcast episode wants to emphasise the emotional weight of a survivor’s final sentence. Which editing choice is most purposeful?",
+    "audio_prompt": "A podcast episode wants to emphasise the emotional weight of a survivor’s final sentence. Which editing choice is most purposeful?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Leave several seconds of silence before introducing the next segment.",
+        "is_correct": true
+      },
+      {
+        "text": "Immediately play an unrelated advertisement.",
+        "is_correct": false
+      },
+      {
+        "text": "Speed up the sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Add several voices speaking over it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A pause can give the final sentence space to resonate and mark it as significant.",
+      "hint": "Sometimes absence is a structural choice."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le03-p-038",
+    "curriculum_code": "AC9E10LE03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "An argumentative article introduces a counterargument only to dismiss it in one vague sentence. How could the structure be improved?",
+    "audio_prompt": "An argumentative article introduces a counterargument only to dismiss it in one vague sentence. How could the structure be improved?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Present the opposing reasoning fairly, then answer it with specific evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Delete all evidence from the main argument.",
+        "is_correct": false
+      },
+      {
+        "text": "Repeat the conclusion instead.",
+        "is_correct": false
+      },
+      {
+        "text": "Move the title to the bottom.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A developed counterargument and rebuttal demonstrates stronger reasoning than a token dismissal.",
+      "hint": "Engage with the strongest opposing case."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le03-p-039",
+    "curriculum_code": "AC9E10LE03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "A graphic narrative wants a moment of isolation to feel unusually long. Which layout would best support that effect?",
+    "audio_prompt": "A graphic narrative wants a moment of isolation to feel unusually long. Which layout would best support that effect?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use a large panel with substantial empty space around the character.",
+        "is_correct": true
+      },
+      {
+        "text": "Crowd the page with many tiny action panels.",
+        "is_correct": false
+      },
+      {
+        "text": "Fill every area with dialogue bubbles.",
+        "is_correct": false
+      },
+      {
+        "text": "Use identical panel sizes throughout.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A large panel and negative space can slow reading and visually emphasise isolation.",
+      "hint": "Think about how layout controls reading time and focus."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le03-p-040",
+    "curriculum_code": "AC9E10LE03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "A writer wants the ending of a story to make the opening image of a locked gate feel newly significant. Which structure is strongest?",
+    "audio_prompt": "A writer wants the ending of a story to make the opening image of a locked gate feel newly significant. Which structure is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Return to the gate after the character chooses to leave it open.",
+        "is_correct": true
+      },
+      {
+        "text": "Introduce a completely unrelated object.",
+        "is_correct": false
+      },
+      {
+        "text": "Repeat the opening sentence without any changed context.",
+        "is_correct": false
+      },
+      {
+        "text": "End before the conflict is addressed.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Returning to the image after a meaningful change creates a circular structure in which the symbol’s significance develops.",
+      "hint": "Echo the opening, but let the context transform it."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le03-t-001",
@@ -324,36 +1685,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_examining_a_range_of_texts_and_evaluating_the_effect_of_text_structures_and_language_features_and_influence_how_an_audience_understands_the_text",
-    "question": "What is the correct way to apply a writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text?",
-    "audio_prompt": "What is the correct way to apply a writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text?",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "A novel tells the same school incident first through a teacher and later through a student. What is the strongest effect of this structure?",
+    "audio_prompt": "A novel tells the same school incident first through a teacher and later through a student. What is the strongest effect of this structure?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "examining a range of texts and evaluating the effect of text structures and language features; for example, determining whether the narrative position of a child evokes reader sympathy towards an event or issue",
+        "text": "It invites comparison between different interpretations of the same event.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "It proves the teacher is wrong.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "It removes all uncertainty.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "It makes both narrators omniscient.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "examining a range of texts and evaluating the effect of text structures and language features; for example, determining whether the narrative position of a child evokes reader sympathy towards an event or issue",
-      "hint": "A writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text."
-    }
+      "summary": "Multiple accounts can reveal how perspective shapes interpretation.",
+      "hint": "Same event, different viewpoints."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le03-t-002",
@@ -361,36 +1726,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_examining_a_range_of_texts_and_evaluating_the_effect_of_text_structures_and_language_features_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "A speech ends with the exact phrase that opened it, but the audience now understands the phrase differently. Which structure is being used?",
+    "audio_prompt": "A speech ends with the exact phrase that opened it, but the audience now understands the phrase differently. Which structure is being used?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "examining a range of texts and evaluating the effect of text structures and language features; for example, determining whether the narrative position of a child evokes reader sympathy towards an event or issue",
+        "text": "circular structure",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "flashback only",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "random repetition",
+        "is_correct": false
+      },
+      {
+        "text": "chronological listing",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "examining a range of texts and evaluating the effect of text structures and language features; for example, determining whether the narrative position of a child evokes reader sympathy towards an event or issue",
-      "hint": "A writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text."
-    }
+      "summary": "Returning to an opening phrase can create closure while allowing its meaning to deepen.",
+      "hint": "Opening and ending connect."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le03-t-003",
@@ -398,36 +1767,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_examining_a_range_of_texts_and_evaluating_the_effect_of_text_structures_and_language_features_and_influence_how_an_audience_understands_the_text",
-    "question": "Which response correctly uses a writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text?",
-    "audio_prompt": "Which response correctly uses a writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text?",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "A thriller uses increasingly shorter chapters as the characters approach a deadline. What effect is most plausible?",
+    "audio_prompt": "A thriller uses increasingly shorter chapters as the characters approach a deadline. What effect is most plausible?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "examining a range of texts and evaluating the effect of text structures and language features; for example, determining whether the narrative position of a child evokes reader sympathy towards an event or issue",
+        "text": "The shrinking chapters can accelerate pace and intensify urgency.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Short chapters always create humour.",
+        "is_correct": false
+      },
+      {
+        "text": "The structure removes suspense.",
+        "is_correct": false
+      },
+      {
+        "text": "The deadline becomes less important.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "examining a range of texts and evaluating the effect of text structures and language features; for example, determining whether the narrative position of a child evokes reader sympathy towards an event or issue",
-      "hint": "A writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text."
-    }
+      "summary": "Shorter units can make transitions arrive more quickly and create momentum.",
+      "hint": "Think pace."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le03-t-004",
@@ -435,36 +1808,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_examining_a_range_of_texts_and_evaluating_the_effect_of_text_structures_and_language_features_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "An opinion piece opens with a claim, gives evidence, acknowledges an objection, then rebuts it. What does this structure mainly strengthen?",
+    "audio_prompt": "An opinion piece opens with a claim, gives evidence, acknowledges an objection, then rebuts it. What does this structure mainly strengthen?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "examining a range of texts and evaluating the effect of text structures and language features; for example, determining whether the narrative position of a child evokes reader sympathy towards an event or issue",
+        "text": "The argument’s reasoning by engaging with an alternative view",
         "is_correct": true
+      },
+      {
+        "text": "The article’s fictional setting",
+        "is_correct": false
+      },
+      {
+        "text": "The writer’s rhyme scheme",
+        "is_correct": false
+      },
+      {
+        "text": "The chronology of a narrative",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "examining a range of texts and evaluating the effect of text structures and language features; for example, determining whether the narrative position of a child evokes reader sympathy towards an event or issue",
-      "hint": "A writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text."
-    }
+      "summary": "Addressing and rebutting a counterargument can make a case more robust.",
+      "hint": "Follow the argumentative stages."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le03-t-005",
@@ -472,36 +1849,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_examining_a_range_of_texts_and_evaluating_the_effect_of_text_structures_and_language_features_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text?",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "A film holds on a character’s face after everyone else leaves the room. What is the strongest analysis?",
+    "audio_prompt": "A film holds on a character’s face after everyone else leaves the room. What is the strongest analysis?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "examining a range of texts and evaluating the effect of text structures and language features; for example, determining whether the narrative position of a child evokes reader sympathy towards an event or issue",
+        "text": "The sustained shot directs attention to the character’s private reaction after the public interaction ends.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "Long shots always show weakness.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "The character must be guilty.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The shot has no effect without dialogue.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "examining a range of texts and evaluating the effect of text structures and language features; for example, determining whether the narrative position of a child evokes reader sympathy towards an event or issue",
-      "hint": "A writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text."
-    }
+      "summary": "Duration and framing can shift attention from external action to internal response.",
+      "hint": "What becomes visible because the camera waits?"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le03-t-006",
@@ -509,36 +1890,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_examining_a_range_of_texts_and_evaluating_the_effect_of_text_structures_and_language_features_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "A poem begins with ordered rhyming couplets but ends in irregular free verse. What should an analyst focus on?",
+    "audio_prompt": "A poem begins with ordered rhyming couplets but ends in irregular free verse. What should an analyst focus on?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "examining a range of texts and evaluating the effect of text structures and language features; for example, determining whether the narrative position of a child evokes reader sympathy towards an event or issue",
+        "text": "How the formal disruption relates to a change in thought, feeling or stability",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Which form is objectively better",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The number of letters in each line",
+        "is_correct": false
+      },
+      {
+        "text": "Whether free verse is always emotional",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "examining a range of texts and evaluating the effect of text structures and language features; for example, determining whether the narrative position of a child evokes reader sympathy towards an event or issue",
-      "hint": "A writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text."
-    }
+      "summary": "The meaningful issue is the relationship between structural change and the poem’s development.",
+      "hint": "Analyse the shift."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le03-t-007",
@@ -546,36 +1931,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_examining_a_range_of_texts_and_evaluating_the_effect_of_text_structures_and_language_features_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "A memoir alternates a childhood scene with the adult narrator’s present-day comments. What does this allow?",
+    "audio_prompt": "A memoir alternates a childhood scene with the adult narrator’s present-day comments. What does this allow?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "examining a range of texts and evaluating the effect of text structures and language features; for example, determining whether the narrative position of a child evokes reader sympathy towards an event or issue",
+        "text": "The text can contrast past experience with later understanding.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The narrator becomes two different people.",
+        "is_correct": false
+      },
+      {
+        "text": "The events stop being autobiographical.",
+        "is_correct": false
+      },
+      {
+        "text": "The chronology becomes meaningless.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "examining a range of texts and evaluating the effect of text structures and language features; for example, determining whether the narrative position of a child evokes reader sympathy towards an event or issue",
-      "hint": "A writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text."
-    }
+      "summary": "Alternation reveals the distance between experience and reflection.",
+      "hint": "Past self versus present interpretation."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le03-t-008",
@@ -583,35 +1972,367 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_examining_a_range_of_texts_and_evaluating_the_effect_of_text_structures_and_language_features_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "A documentary places cheerful tourism footage beside audio describing environmental damage. What technique is most central?",
+    "audio_prompt": "A documentary places cheerful tourism footage beside audio describing environmental damage. What technique is most central?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "examining a range of texts and evaluating the effect of text structures and language features; for example, determining whether the narrative position of a child evokes reader sympathy towards an event or issue",
+        "text": "juxtaposition between modes",
         "is_correct": true
+      },
+      {
+        "text": "alliteration",
+        "is_correct": false
+      },
+      {
+        "text": "first-person narration",
+        "is_correct": false
+      },
+      {
+        "text": "enjambment",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "examining a range of texts and evaluating the effect of text structures and language features; for example, determining whether the narrative position of a child evokes reader sympathy towards an event or issue",
-      "hint": "A writer or speaker can use voice to shape examining a range of texts and evaluating the effect of text structures and language features and influence how an audience understands the text."
-    }
+      "summary": "Contrasting image and audio can create tension between appearance and information.",
+      "hint": "Look at how modes interact."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le03-t-009",
+    "curriculum_code": "AC9E10LE03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "A character repeatedly says “I’m okay” while stage directions show trembling hands and avoidance of eye contact. What is the strongest interpretation?",
+    "audio_prompt": "A character repeatedly says “I’m okay” while stage directions show trembling hands and avoidance of eye contact. What is the strongest interpretation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The contrast between dialogue and stage directions suggests the spoken reassurance may be unreliable.",
+        "is_correct": true
+      },
+      {
+        "text": "The character is definitely calm.",
+        "is_correct": false
+      },
+      {
+        "text": "Stage directions never affect meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Repetition proves the words are true.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Meaning emerges from tension between what is said and what the performance cues reveal.",
+      "hint": "Compare verbal and non-verbal evidence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le03-t-010",
+    "curriculum_code": "AC9E10LE03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "A story withholds the identity of the person sending anonymous messages until the final pages. What structure drives suspense?",
+    "audio_prompt": "A story withholds the identity of the person sending anonymous messages until the final pages. What structure drives suspense?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "delayed revelation",
+        "is_correct": true
+      },
+      {
+        "text": "linear exposition only",
+        "is_correct": false
+      },
+      {
+        "text": "anaphora",
+        "is_correct": false
+      },
+      {
+        "text": "definition",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Withholding key information sustains uncertainty until the reveal.",
+      "hint": "What information is deliberately postponed?"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le03-t-011",
+    "curriculum_code": "AC9E10LE03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "A feature article moves from national statistics to one teenager’s daily routine. What does this shift achieve?",
+    "audio_prompt": "A feature article moves from national statistics to one teenager’s daily routine. What does this shift achieve?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It translates a large-scale issue into an individual lived experience.",
+        "is_correct": true
+      },
+      {
+        "text": "It proves one teenager represents everyone.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the statistics unnecessary.",
+        "is_correct": false
+      },
+      {
+        "text": "It changes the article into fantasy.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Moving from broad data to a specific case can humanise scale without making the individual universally representative.",
+      "hint": "Wide lens to close lens."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le03-t-012",
+    "curriculum_code": "AC9E10LE03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "Which response best evaluates a language feature?",
+    "audio_prompt": "Which response best evaluates a language feature?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“The repeated imperative ‘look’ interrupts the reflective tone and demands immediate attention.”",
+        "is_correct": true
+      },
+      {
+        "text": "“There is an imperative.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Imperatives are always persuasive.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The author uses words.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Evaluation explains what the feature does in this particular context.",
+      "hint": "Name + evidence + contextual effect."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le03-t-013",
+    "curriculum_code": "AC9E10LE03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "A graphic novel uses six cramped panels during an argument, then one full-page image after a character walks away. What effect can the layout shift create?",
+    "audio_prompt": "A graphic novel uses six cramped panels during an argument, then one full-page image after a character walks away. What effect can the layout shift create?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It contrasts frantic interaction with a slowed, isolated aftermath.",
+        "is_correct": true
+      },
+      {
+        "text": "It proves the argument is resolved happily.",
+        "is_correct": false
+      },
+      {
+        "text": "Full-page images always represent victory.",
+        "is_correct": false
+      },
+      {
+        "text": "Panel size has no relationship to pacing.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Changes in panel density and scale can alter reading speed and emotional emphasis.",
+      "hint": "Compare crowded versus expansive layout."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le03-t-014",
+    "curriculum_code": "AC9E10LE03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "A speech repeats “not because…” three times before ending “but because we choose to act.” What does the pattern mainly do?",
+    "audio_prompt": "A speech repeats “not because…” three times before ending “but because we choose to act.” What does the pattern mainly do?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It builds contrast and momentum toward the final reason.",
+        "is_correct": true
+      },
+      {
+        "text": "It removes the speaker’s position.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates a flashback.",
+        "is_correct": false
+      },
+      {
+        "text": "It weakens cohesion.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Repeated structure can establish expectation, then focus attention on the culminating contrast.",
+      "hint": "Track the repeated syntax."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le03-t-015",
+    "curriculum_code": "AC9E10LE03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "A novel never directly states that two friends have grown apart, but their dialogue becomes shorter and increasingly formal. Which evidence supports the interpretation most strongly?",
+    "audio_prompt": "A novel never directly states that two friends have grown apart, but their dialogue becomes shorter and increasingly formal. Which evidence supports the interpretation most strongly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The changing dialogue style and reduced exchange",
+        "is_correct": true
+      },
+      {
+        "text": "The chapter numbers",
+        "is_correct": false
+      },
+      {
+        "text": "The font size",
+        "is_correct": false
+      },
+      {
+        "text": "The weather in an unrelated scene",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Changes in interaction can indirectly represent distance in the relationship.",
+      "hint": "Choose evidence tied to the relationship."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le03-t-016",
+    "curriculum_code": "AC9E10LE03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "evaluating effects of text structures and language features",
+    "question": "A director wants the audience to feel trapped with a character during an interrogation. Which choice best supports that aim?",
+    "audio_prompt": "A director wants the audience to feel trapped with a character during an interrogation. Which choice best supports that aim?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the camera tightly framed and avoid cutting to the wider room.",
+        "is_correct": true
+      },
+      {
+        "text": "Use repeated aerial shots of the city.",
+        "is_correct": false
+      },
+      {
+        "text": "Cut frequently to unrelated locations.",
+        "is_correct": false
+      },
+      {
+        "text": "Show the entire building from far away.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Restricted framing limits spatial escape and aligns the viewer closely with the character’s experience.",
+      "hint": "Control what the audience can see."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v6"
   }
 ]

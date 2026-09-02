@@ -5,39 +5,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_comparing_the_voice_of_protest_in_a_range_of_poems_or_songs_and_evaluating_how_different_voices_evoke_a_response_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape comparing the voice of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape comparing the voice of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "voices of protest and audience response",
+    "question": "A protest poem repeatedly says “We will not be silent.” What does the repeated “we” most clearly create?",
+    "audio_prompt": "A protest poem repeatedly says “We will not be silent.” What does the repeated “we” most clearly create?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response",
+        "text": "a collective protest voice",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "a detached narrator",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "an uncertain speaker",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "a private confession",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response",
-      "hint": "A writer or speaker can use voice to shape comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text."
+      "summary": "“We” joins the speaker with a wider group and makes the protest sound collective rather than individual.",
+      "hint": "Who is included in the voice?"
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le06-p-002",
@@ -45,39 +47,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_comparing_the_voice_of_protest_in_a_range_of_poems_or_songs_and_evaluating_how_different_voices_evoke_a_response_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape comparing the voice of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape comparing the voice of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "voices of protest and audience response",
+    "question": "A song addresses “you” directly: “You built the fence; you closed the gate.” What does this direct address do?",
+    "audio_prompt": "A song addresses “you” directly: “You built the fence; you closed the gate.” What does this direct address do?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response",
+        "text": "confronts a specific target",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "makes the speaker neutral",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "removes blame",
+        "is_correct": false
+      },
+      {
+        "text": "turns the song into narration only",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response",
-      "hint": "A writer or speaker can use voice to shape comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text."
+      "summary": "Direct second-person address can make accusation or challenge feel immediate and confrontational.",
+      "hint": "Who is being spoken to?"
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le06-p-003",
@@ -85,38 +89,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_comparing_the_voice_of_protest_in_a_range_of_poems_or_songs_and_evaluating_how_different_voices_evoke_a_response_and_influence_how_an_audience_understands_the_text",
-    "question": "What should you check when using a writer or speaker can use voice to shape comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text?",
-    "audio_prompt": "What should you check when using a writer or speaker can use voice to shape comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text?",
+    "skill": "voices of protest and audience response",
+    "question": "Which line has the most defiant protest voice?",
+    "audio_prompt": "Which line has the most defiant protest voice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response",
+        "text": "“We refuse to move.”",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "“Perhaps things could change.”",
+        "is_correct": false
+      },
+      {
+        "text": "“I wonder what happened.”",
+        "is_correct": false
+      },
+      {
+        "text": "“It may be worth discussing.”",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response",
-      "hint": "A writer or speaker can use voice to shape comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text."
+      "summary": "“We refuse” is direct, collective and uncompromising, creating a defiant voice.",
+      "hint": "Look for certainty and resistance."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le06-p-004",
@@ -124,39 +131,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_comparing_the_voice_of_protest_in_a_range_of_poems_or_songs_and_evaluating_how_different_voices_evoke_a_response_and_influence_how_an_audience_understands_the_text",
-    "question": "Which statement best explains a writer or speaker can use voice to shape comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text?",
-    "audio_prompt": "Which statement best explains a writer or speaker can use voice to shape comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text?",
+    "skill": "voices of protest and audience response",
+    "question": "A protest poem asks, “How many warnings must be ignored?” What device is being used?",
+    "audio_prompt": "A protest poem asks, “How many warnings must be ignored?” What device is being used?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response",
+        "text": "rhetorical question",
         "is_correct": true
+      },
+      {
+        "text": "simile",
+        "is_correct": false
+      },
+      {
+        "text": "flashback",
+        "is_correct": false
+      },
+      {
+        "text": "stage direction",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response",
-      "hint": "A writer or speaker can use voice to shape comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text."
+      "summary": "The question is posed to provoke judgement rather than obtain an actual answer.",
+      "hint": "Is a reply really being requested?"
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le06-p-005",
@@ -164,39 +173,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_comparing_the_voice_of_protest_in_a_range_of_poems_or_songs_and_evaluating_how_different_voices_evoke_a_response_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape comparing the voice of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape comparing the voice of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "voices of protest and audience response",
+    "question": "Which line creates an angry protest voice through imperative language?",
+    "audio_prompt": "Which line creates an angry protest voice through imperative language?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response",
+        "text": "“Stop pretending nothing happened.”",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "“Nothing happened yesterday.”",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "“Perhaps something happened.”",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "“The event was recorded.”",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response",
-      "hint": "A writer or speaker can use voice to shape comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text."
+      "summary": "The command “Stop” gives the line urgency and force.",
+      "hint": "Look for a direct command."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le06-p-006",
@@ -204,39 +215,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_comparing_the_voice_of_protest_in_a_range_of_poems_or_songs_and_evaluating_how_different_voices_evoke_a_response_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape comparing the voice of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape comparing the voice of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "voices of protest and audience response",
+    "question": "A song begins quietly with “I remember” and ends with “We demand change.” What has shifted most clearly?",
+    "audio_prompt": "A song begins quietly with “I remember” and ends with “We demand change.” What has shifted most clearly?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response",
+        "text": "from personal reflection to collective protest",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "from rhyme to prose",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "from present to past only",
+        "is_correct": false
+      },
+      {
+        "text": "from protest to neutrality",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response",
-      "hint": "A writer or speaker can use voice to shape comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text."
+      "summary": "The pronouns and purpose shift from an individual memory to a shared public demand.",
+      "hint": "Track who is speaking and what the voice is doing."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le06-p-007",
@@ -244,39 +257,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_comparing_the_voice_of_protest_in_a_range_of_poems_or_songs_and_evaluating_how_different_voices_evoke_a_response_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape comparing the voice of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape comparing the voice of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "voices of protest and audience response",
+    "question": "Which feature most strongly creates urgency in a protest chant?",
+    "audio_prompt": "Which feature most strongly creates urgency in a protest chant?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response",
+        "text": "short repeated commands",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "long neutral definitions",
+        "is_correct": false
+      },
+      {
+        "text": "footnotes and references",
+        "is_correct": false
+      },
+      {
+        "text": "passive description only",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response",
-      "hint": "A writer or speaker can use voice to shape comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text."
+      "summary": "Short repeated commands are easy to repeat collectively and create a forceful sense of urgency.",
+      "hint": "Think about language designed to be voiced by a crowd."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le06-p-008",
@@ -284,39 +299,1385 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_comparing_the_voice_of_protest_in_a_range_of_poems_or_songs_and_evaluating_how_different_voices_evoke_a_response_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape comparing the voice of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape comparing the voice of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "voices of protest and audience response",
+    "question": "A poem describes “sirens chewing through the night”. Which device helps intensify its protest voice?",
+    "audio_prompt": "A poem describes “sirens chewing through the night”. Which device helps intensify its protest voice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response",
+        "text": "metaphorical imagery",
         "is_correct": true
+      },
+      {
+        "text": "bibliography",
+        "is_correct": false
+      },
+      {
+        "text": "chapter heading",
+        "is_correct": false
+      },
+      {
+        "text": "chronological list",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response",
-      "hint": "A writer or speaker can use voice to shape comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text."
+      "summary": "The metaphor gives the sound a violent, destructive quality and can intensify emotional response.",
+      "hint": "The sirens are described as doing something impossible literally."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le06-p-009",
+    "curriculum_code": "AC9E10LE06",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "voices of protest and audience response",
+    "question": "A protest song uses a steady marching rhythm. What can rhythm contribute?",
+    "audio_prompt": "A protest song uses a steady marching rhythm. What can rhythm contribute?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "a sense of collective momentum",
+        "is_correct": true
+      },
+      {
+        "text": "proof that the claim is factual",
+        "is_correct": false
+      },
+      {
+        "text": "a neutral tone",
+        "is_correct": false
+      },
+      {
+        "text": "a hidden narrator",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A regular driving rhythm can make a protest voice feel unified, determined and forward-moving.",
+      "hint": "Think movement and repetition."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le06-p-010",
+    "curriculum_code": "AC9E10LE06",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "voices of protest and audience response",
+    "question": "Which line has the most ironic protest voice?",
+    "audio_prompt": "Which line has the most ironic protest voice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“Wonderful—another promise broken by Friday.”",
+        "is_correct": true
+      },
+      {
+        "text": "“The promise was broken on Friday.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Please list the promises.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Friday followed Thursday.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Wonderful” means the opposite of the speaker’s real judgement, creating irony and criticism.",
+      "hint": "Literal praise can carry implied condemnation."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le06-p-011",
+    "curriculum_code": "AC9E10LE06",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "voices of protest and audience response",
+    "question": "Why can a collective “we” be powerful in protest poetry?",
+    "audio_prompt": "Why can a collective “we” be powerful in protest poetry?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It can turn one complaint into a shared identity and common demand.",
+        "is_correct": true
+      },
+      {
+        "text": "It proves every member of society agrees.",
+        "is_correct": false
+      },
+      {
+        "text": "It removes emotion from the poem.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes evidence unnecessary.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Collective pronouns can create solidarity, but they do not automatically represent everyone.",
+      "hint": "Shared voice is not the same as universal agreement."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le06-p-012",
+    "curriculum_code": "AC9E10LE06",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "voices of protest and audience response",
+    "question": "A poem whispers “please listen” before later declaring “you will listen”. What effect does the shift create?",
+    "audio_prompt": "A poem whispers “please listen” before later declaring “you will listen”. What effect does the shift create?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The voice grows from appeal to determination.",
+        "is_correct": true
+      },
+      {
+        "text": "The speaker becomes less certain.",
+        "is_correct": false
+      },
+      {
+        "text": "The poem changes topic completely.",
+        "is_correct": false
+      },
+      {
+        "text": "The words become factual evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The changing modality and sentence force show an escalation in confidence and pressure.",
+      "hint": "Compare the strength of “please” and “will”."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le06-p-013",
+    "curriculum_code": "AC9E10LE06",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "voices of protest and audience response",
+    "question": "Why might a protest writer use a personal anecdote before a broader political claim?",
+    "audio_prompt": "Why might a protest writer use a personal anecdote before a broader political claim?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The personal experience can humanise the issue before the text widens to a public argument.",
+        "is_correct": true
+      },
+      {
+        "text": "An anecdote automatically proves every general claim.",
+        "is_correct": false
+      },
+      {
+        "text": "Personal stories prevent emotional response.",
+        "is_correct": false
+      },
+      {
+        "text": "Political claims cannot follow narratives.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A personal story can make consequences tangible, but broader claims still need appropriate support.",
+      "hint": "Think individual experience → wider issue."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le06-p-014",
+    "curriculum_code": "AC9E10LE06",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "voices of protest and audience response",
+    "question": "A protest song repeats the same line after every verse. What can the refrain do?",
+    "audio_prompt": "A protest song repeats the same line after every verse. What can the refrain do?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "reinforce the central demand and make it memorable",
+        "is_correct": true
+      },
+      {
+        "text": "guarantee the argument is correct",
+        "is_correct": false
+      },
+      {
+        "text": "remove all variation from the voice",
+        "is_correct": false
+      },
+      {
+        "text": "turn the song into a report",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A refrain gives listeners a recurring verbal anchor and can strengthen collective participation.",
+      "hint": "What stays in the audience’s mind?"
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le06-p-015",
+    "curriculum_code": "AC9E10LE06",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "voices of protest and audience response",
+    "question": "Why can restrained language sometimes make protest more powerful than shouting?",
+    "audio_prompt": "Why can restrained language sometimes make protest more powerful than shouting?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Controlled understatement can make injustice seem stark and allow the audience to infer anger.",
+        "is_correct": true
+      },
+      {
+        "text": "Quiet language is never emotional.",
+        "is_correct": false
+      },
+      {
+        "text": "Protest must always be loud to be effective.",
+        "is_correct": false
+      },
+      {
+        "text": "Understatement removes judgement.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A restrained voice can create moral force by refusing melodrama and letting facts or images carry the outrage.",
+      "hint": "Volume is not the same as intensity."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le06-p-016",
+    "curriculum_code": "AC9E10LE06",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "voices of protest and audience response",
+    "question": "A poem addresses a river as if it could speak. How can this shape protest?",
+    "audio_prompt": "A poem addresses a river as if it could speak. How can this shape protest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Personification can give the damaged environment a presence that audiences may feel responsible toward.",
+        "is_correct": true
+      },
+      {
+        "text": "It proves the river literally has a voice.",
+        "is_correct": false
+      },
+      {
+        "text": "It removes the environmental issue.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees agreement with the poem.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Personification can make an abstract environmental concern feel like a relationship with a harmed living presence.",
+      "hint": "What changes when the environment seems able to speak or suffer?"
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le06-p-017",
+    "curriculum_code": "AC9E10LE06",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "voices of protest and audience response",
+    "question": "Why might a protest song use humour or satire?",
+    "audio_prompt": "Why might a protest song use humour or satire?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Humour can expose contradictions and make criticism memorable without reducing it to a literal lecture.",
+        "is_correct": true
+      },
+      {
+        "text": "Humour means the issue is not serious.",
+        "is_correct": false
+      },
+      {
+        "text": "Satire always hides the target completely.",
+        "is_correct": false
+      },
+      {
+        "text": "Comedy cannot persuade audiences.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Satire can sharpen protest by making hypocrisy or absurdity visible through ridicule.",
+      "hint": "Laughter can be a form of criticism."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le06-p-018",
+    "curriculum_code": "AC9E10LE06",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "voices of protest and audience response",
+    "question": "Two protest poems oppose the same policy. One says “I”; the other says “we”. What is a useful comparison?",
+    "audio_prompt": "Two protest poems oppose the same policy. One says “I”; the other says “we”. What is a useful comparison?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The first foregrounds individual witness, while the second constructs collective solidarity.",
+        "is_correct": true
+      },
+      {
+        "text": "One must be sincere and the other false.",
+        "is_correct": false
+      },
+      {
+        "text": "The pronoun difference has no effect.",
+        "is_correct": false
+      },
+      {
+        "text": "“We” always makes a poem better.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Different pronouns position the protest as personal testimony or shared action.",
+      "hint": "Compare the relationship between speaker and group."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le06-p-019",
+    "curriculum_code": "AC9E10LE06",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "voices of protest and audience response",
+    "question": "A song shifts from questions in the verses to commands in the chorus. What does the structural shift achieve?",
+    "audio_prompt": "A song shifts from questions in the verses to commands in the chorus. What does the structural shift achieve?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It moves from challenging the audience to demanding action.",
+        "is_correct": true
+      },
+      {
+        "text": "It makes the song less purposeful.",
+        "is_correct": false
+      },
+      {
+        "text": "It changes the setting automatically.",
+        "is_correct": false
+      },
+      {
+        "text": "It removes the protest voice.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Questions can unsettle or provoke, while commands can convert that tension into direct action.",
+      "hint": "Track what the voice asks versus what it orders."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le06-p-020",
+    "curriculum_code": "AC9E10LE06",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "voices of protest and audience response",
+    "question": "Why is tone important when comparing protest texts?",
+    "audio_prompt": "Why is tone important when comparing protest texts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Different tones can position audiences to feel anger, grief, solidarity, shame or hope toward the same issue.",
+        "is_correct": true
+      },
+      {
+        "text": "Tone determines whether the issue is factually true.",
+        "is_correct": false
+      },
+      {
+        "text": "Every protest text must use anger.",
+        "is_correct": false
+      },
+      {
+        "text": "Tone is only the speaker’s volume.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Tone shapes the emotional and evaluative stance through which the issue is presented.",
+      "hint": "Same issue, different emotional stance."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le06-p-021",
+    "curriculum_code": "AC9E10LE06",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "voices of protest and audience response",
+    "question": "Which comparison is strongest?",
+    "audio_prompt": "Which comparison is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“Poem A uses clipped commands to sound confrontational, while Poem B uses grieving imagery to make protest feel mournful rather than aggressive.”",
+        "is_correct": true
+      },
+      {
+        "text": "“Poem A has commands and Poem B has imagery.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Both are protest poems, so they sound the same.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Poem B is better because it is sadder.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The strongest comparison links different choices to distinct effects on protest voice and audience response.",
+      "hint": "Technique + contrast + effect."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le06-p-022",
+    "curriculum_code": "AC9E10LE06",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "voices of protest and audience response",
+    "question": "Which claim about rhetorical questions is most accurate?",
+    "audio_prompt": "Which claim about rhetorical questions is most accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "They can challenge assumptions or pressure audiences, but their effect depends on wording and context.",
+        "is_correct": true
+      },
+      {
+        "text": "They always make audiences agree.",
+        "is_correct": false
+      },
+      {
+        "text": "They are only used when the speaker does not know the answer.",
+        "is_correct": false
+      },
+      {
+        "text": "They automatically create anger.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A rhetorical question is a flexible device whose effect must be inferred from the surrounding text.",
+      "hint": "Avoid automatic-effect claims."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le06-p-023",
+    "curriculum_code": "AC9E10LE06",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "voices of protest and audience response",
+    "question": "A protest text says “our streets” and “our future”. Which interpretation is strongest?",
+    "audio_prompt": "A protest text says “our streets” and “our future”. Which interpretation is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The possessive pronoun builds shared ownership and responsibility.",
+        "is_correct": true
+      },
+      {
+        "text": "The speaker legally owns every street.",
+        "is_correct": false
+      },
+      {
+        "text": "The words prove all listeners agree.",
+        "is_correct": false
+      },
+      {
+        "text": "The voice becomes purely private.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Our” can invite audiences into a shared community and frame the issue as collectively owned.",
+      "hint": "Shared possession can create shared stakes."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le06-p-024",
+    "curriculum_code": "AC9E10LE06",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "voices of protest and audience response",
+    "question": "Which line most clearly uses contrast to intensify protest?",
+    "audio_prompt": "Which line most clearly uses contrast to intensify protest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“Inside, the lights blazed; outside, families slept in cars.”",
+        "is_correct": true
+      },
+      {
+        "text": "“The building had lights.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Families slept outside.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Cars were parked nearby.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The juxtaposition of abundance and hardship makes inequality visible through contrast.",
+      "hint": "Look for two conditions placed against each other."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le06-p-025",
+    "curriculum_code": "AC9E10LE06",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "voices of protest and audience response",
+    "question": "Which interpretation of repetition is weakest?",
+    "audio_prompt": "Which interpretation of repetition is weakest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“It is effective because repetition is always persuasive.”",
+        "is_correct": true
+      },
+      {
+        "text": "“Repeating the names prevents the victims from being reduced to numbers.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The refrain makes the demand easy for a crowd to echo.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The repeated phrase creates a relentless rhythm that mirrors persistence.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Repetition does not have one automatic effect; analysis must connect the specific repeated material to context.",
+      "hint": "Reject universal claims about techniques."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le06-p-026",
+    "curriculum_code": "AC9E10LE06",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "voices of protest and audience response",
+    "question": "A speaker says, “Maybe justice can wait another decade.” The context makes clear they mean the opposite. Which feature is central?",
+    "audio_prompt": "A speaker says, “Maybe justice can wait another decade.” The context makes clear they mean the opposite. Which feature is central?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "irony",
+        "is_correct": true
+      },
+      {
+        "text": "literal endorsement",
+        "is_correct": false
+      },
+      {
+        "text": "neutrality",
+        "is_correct": false
+      },
+      {
+        "text": "chronology",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The apparent suggestion is deliberately absurd, so the real message condemns delay.",
+      "hint": "Does the speaker genuinely mean the literal statement?"
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le06-p-027",
+    "curriculum_code": "AC9E10LE06",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "voices of protest and audience response",
+    "question": "Which protest voice is most inclusive?",
+    "audio_prompt": "Which protest voice is most inclusive?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“All of us who depend on this river deserve a say.”",
+        "is_correct": true
+      },
+      {
+        "text": "“Only people like me understand this.”",
+        "is_correct": false
+      },
+      {
+        "text": "“You outsiders should stay silent.”",
+        "is_correct": false
+      },
+      {
+        "text": "“My view is the only possible view.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The first line expands participation and constructs a broad shared stake.",
+      "hint": "Who is invited into the voice?"
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le06-p-028",
+    "curriculum_code": "AC9E10LE06",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "voices of protest and audience response",
+    "question": "A poem names one victim in detail instead of giving only statistics. What is the most defensible effect?",
+    "audio_prompt": "A poem names one victim in detail instead of giving only statistics. What is the most defensible effect?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It can personalise the human consequences of the issue.",
+        "is_correct": true
+      },
+      {
+        "text": "It proves the victim represents every case.",
+        "is_correct": false
+      },
+      {
+        "text": "Statistics become irrelevant.",
+        "is_correct": false
+      },
+      {
+        "text": "The poem becomes non-fiction automatically.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Specific detail can humanise an issue without establishing that one case represents all cases.",
+      "hint": "Personalisation is not proof of frequency."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le06-p-029",
+    "curriculum_code": "AC9E10LE06",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "voices of protest and audience response",
+    "question": "Which line creates the strongest sense of collective determination?",
+    "audio_prompt": "Which line creates the strongest sense of collective determination?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“Together, we return tomorrow.”",
+        "is_correct": true
+      },
+      {
+        "text": "“I might return sometime.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Perhaps someone will return.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The event may continue.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Together”, “we” and the definite future action create solidarity and resolve.",
+      "hint": "Look for group identity plus certainty."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le06-p-030",
+    "curriculum_code": "AC9E10LE06",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "voices of protest and audience response",
+    "question": "Two songs both protest environmental damage. Song A uses accusation; Song B uses elegy. Which is the best evaluation?",
+    "audio_prompt": "Two songs both protest environmental damage. Song A uses accusation; Song B uses elegy. Which is the best evaluation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "They may evoke different responses—anger and accountability in A, grief and loss in B—even while opposing the same damage.",
+        "is_correct": true
+      },
+      {
+        "text": "Only Song A counts as protest.",
+        "is_correct": false
+      },
+      {
+        "text": "Elegy cannot express protest.",
+        "is_correct": false
+      },
+      {
+        "text": "Both must create identical responses because the topic is the same.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Protest can operate through different emotional modes, not only direct anger.",
+      "hint": "Compare response, not just topic."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le06-p-031",
+    "curriculum_code": "AC9E10LE06",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "voices of protest and audience response",
+    "question": "You want a protest poem to move from private grief to public action. Which structural choice best supports that aim?",
+    "audio_prompt": "You want a protest poem to move from private grief to public action. Which structural choice best supports that aim?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Begin with one person’s memory, widen to “we”, and end with a collective demand.",
+        "is_correct": true
+      },
+      {
+        "text": "Use unrelated images in random order.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the speaker detached throughout.",
+        "is_correct": false
+      },
+      {
+        "text": "End before the issue is introduced.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The widening structure lets the voice develop from individual experience into collective purpose.",
+      "hint": "Plan the progression of the voice."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le06-p-032",
+    "curriculum_code": "AC9E10LE06",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "voices of protest and audience response",
+    "question": "A song protests unsafe work conditions. Which chorus best creates solidarity without claiming everyone agrees?",
+    "audio_prompt": "A song protests unsafe work conditions. Which chorus best creates solidarity without claiming everyone agrees?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“If you stand with us, raise your voice tonight.”",
+        "is_correct": true
+      },
+      {
+        "text": "“Every person in Australia agrees with us.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Only fools disagree.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Nobody has another view.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The conditional invitation builds solidarity while leaving room for audience choice.",
+      "hint": "Inclusive does not require pretending there is universal agreement."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le06-p-033",
+    "curriculum_code": "AC9E10LE06",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "voices of protest and audience response",
+    "question": "You are comparing two protest texts. Which thesis is strongest?",
+    "audio_prompt": "You are comparing two protest texts. Which thesis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“Both condemn displacement, but one uses restrained witness to evoke grief while the other uses direct commands to create urgency and collective resistance.”",
+        "is_correct": true
+      },
+      {
+        "text": "“Both texts use language.”",
+        "is_correct": false
+      },
+      {
+        "text": "“One is sad and one is loud.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The second text is more effective because I prefer it.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The thesis identifies a shared concern, meaningful differences in voice, and distinct audience effects.",
+      "hint": "Compare purpose + technique + effect."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le06-p-034",
+    "curriculum_code": "AC9E10LE06",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "voices of protest and audience response",
+    "question": "A protest poster says “Not one more home lost” above a list of street names. What effect does the wording and list create together?",
+    "audio_prompt": "A protest poster says “Not one more home lost” above a list of street names. What effect does the wording and list create together?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The absolute demand combines with local specificity to make the issue urgent and concrete.",
+        "is_correct": true
+      },
+      {
+        "text": "The list proves no homes were lost.",
+        "is_correct": false
+      },
+      {
+        "text": "Street names remove emotion.",
+        "is_correct": false
+      },
+      {
+        "text": "The phrase makes the text neutral.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The slogan gives force while the place names ground the protest in recognisable communities.",
+      "hint": "Consider how verbal force and detail work together."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le06-p-035",
+    "curriculum_code": "AC9E10LE06",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "voices of protest and audience response",
+    "question": "A poem about deaths in custody avoids graphic description and repeats only dates and names. Which interpretation is strongest?",
+    "audio_prompt": "A poem about deaths in custody avoids graphic description and repeats only dates and names. Which interpretation is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The restraint can create solemnity and insist that each person be remembered rather than sensationalised.",
+        "is_correct": true
+      },
+      {
+        "text": "The poem has no protest because it is quiet.",
+        "is_correct": false
+      },
+      {
+        "text": "The lack of graphic detail proves the deaths were minor.",
+        "is_correct": false
+      },
+      {
+        "text": "Names and dates cannot evoke emotion.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Minimal detail can produce a grave memorial voice and focus attention on repeated loss.",
+      "hint": "Restraint can carry moral force."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le06-p-036",
+    "curriculum_code": "AC9E10LE06",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "voices of protest and audience response",
+    "question": "A satirical protest song praises a company for “bravely” dumping waste to save money. What should an analysis explain?",
+    "audio_prompt": "A satirical protest song praises a company for “bravely” dumping waste to save money. What should an analysis explain?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "How mock praise exposes the company’s priorities as morally absurd.",
+        "is_correct": true
+      },
+      {
+        "text": "That the singer genuinely admires pollution.",
+        "is_correct": false
+      },
+      {
+        "text": "That satire removes all criticism.",
+        "is_correct": false
+      },
+      {
+        "text": "That “bravely” is factual evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The exaggerated praise is ironic; its real target is the company’s value system.",
+      "hint": "Read the praise against the context."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le06-p-037",
+    "curriculum_code": "AC9E10LE06",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "voices of protest and audience response",
+    "question": "A student writes, “The repetition makes the song persuasive.” Which revision is strongest?",
+    "audio_prompt": "A student writes, “The repetition makes the song persuasive.” Which revision is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“Repeating ‘still waiting’ after each verse creates a sense of prolonged injustice and keeps delay at the centre of the protest.”",
+        "is_correct": true
+      },
+      {
+        "text": "“Repetition is persuasive because it repeats.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The song repeats words a lot.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Repetition always changes minds.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The revision identifies exactly what repeats and links it to meaning and protest voice.",
+      "hint": "Specific repeated material → specific effect."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le06-p-038",
+    "curriculum_code": "AC9E10LE06",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "voices of protest and audience response",
+    "question": "A protest speech begins “I was there” and later shifts to “You saw it too.” What is the strongest interpretation?",
+    "audio_prompt": "A protest speech begins “I was there” and later shifts to “You saw it too.” What is the strongest interpretation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The voice moves from personal testimony to implicating the audience as witnesses.",
+        "is_correct": true
+      },
+      {
+        "text": "The speaker stops protesting.",
+        "is_correct": false
+      },
+      {
+        "text": "Second person always creates friendliness.",
+        "is_correct": false
+      },
+      {
+        "text": "The shift proves the audience agrees.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The pronoun shift expands responsibility from the speaker’s experience to the listeners’ own knowledge.",
+      "hint": "Track who is made accountable."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le06-p-039",
+    "curriculum_code": "AC9E10LE06",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "voices of protest and audience response",
+    "question": "You want to write protest that leaves the audience with hope rather than despair. Which ending best fits?",
+    "audio_prompt": "You want to write protest that leaves the audience with hope rather than despair. Which ending best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“The damage is real, but tomorrow we begin rebuilding together.”",
+        "is_correct": true
+      },
+      {
+        "text": "“Nothing can ever change.”",
+        "is_correct": false
+      },
+      {
+        "text": "“There is no point continuing.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The problem is too large to name.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The line acknowledges harm but shifts toward collective possibility and action.",
+      "hint": "Hope does not require denying the problem."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le06-p-040",
+    "curriculum_code": "AC9E10LE06",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "voices of protest and audience response",
+    "question": "A song alternates a solo voice with a crowd repeating the final line. What effect could this performance choice create?",
+    "audio_prompt": "A song alternates a solo voice with a crowd repeating the final line. What effect could this performance choice create?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It turns individual testimony into shared public response.",
+        "is_correct": true
+      },
+      {
+        "text": "It removes the meaning of the solo.",
+        "is_correct": false
+      },
+      {
+        "text": "It proves the crowd knows every fact.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the song non-political.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The changing voices dramatise a movement from one speaker’s experience to collective participation.",
+      "hint": "Listen to who owns the final words."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le06-t-001",
@@ -324,36 +1685,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_comparing_the_voice_of_protest_in_a_range_of_poems_or_songs_and_evaluating_how_different_voices_evoke_a_response_and_influence_how_an_audience_understands_the_text",
-    "question": "What is the correct way to apply a writer or speaker can use voice to shape comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text?",
-    "audio_prompt": "What is the correct way to apply a writer or speaker can use voice to shape comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text?",
+    "skill": "voices of protest and audience response",
+    "question": "A protest poem opens, “I kept the letter,” and closes, “We keep the record.” What shift is most important?",
+    "audio_prompt": "A protest poem opens, “I kept the letter,” and closes, “We keep the record.” What shift is most important?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response",
+        "text": "personal memory becomes collective remembrance",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "past tense becomes future tense only",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "the speaker becomes neutral",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "the protest disappears",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response",
-      "hint": "A writer or speaker can use voice to shape comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text."
-    }
+      "summary": "The movement from “I” to “we” broadens the act of remembering into a shared responsibility.",
+      "hint": "Track pronouns and ownership."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le06-t-002",
@@ -361,36 +1726,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_comparing_the_voice_of_protest_in_a_range_of_poems_or_songs_and_evaluating_how_different_voices_evoke_a_response_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape comparing the voice of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape comparing the voice of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "voices of protest and audience response",
+    "question": "A song repeats “Who profits?” after each verse describing environmental damage. What does the refrain mainly do?",
+    "audio_prompt": "A song repeats “Who profits?” after each verse describing environmental damage. What does the refrain mainly do?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response",
+        "text": "keeps responsibility and motive under scrutiny",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "asks the audience for a literal financial report",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "makes the issue less political",
+        "is_correct": false
+      },
+      {
+        "text": "removes any accusation",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response",
-      "hint": "A writer or speaker can use voice to shape comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text."
-    }
+      "summary": "The repeated rhetorical question directs attention toward who benefits from the damage.",
+      "hint": "The question is also an accusation."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le06-t-003",
@@ -398,36 +1767,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_comparing_the_voice_of_protest_in_a_range_of_poems_or_songs_and_evaluating_how_different_voices_evoke_a_response_and_influence_how_an_audience_understands_the_text",
-    "question": "Which response correctly uses a writer or speaker can use voice to shape comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text?",
-    "audio_prompt": "Which response correctly uses a writer or speaker can use voice to shape comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text?",
+    "skill": "voices of protest and audience response",
+    "question": "Which line creates protest through understatement?",
+    "audio_prompt": "Which line creates protest through understatement?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response",
+        "text": "“The apology arrived thirty years late.”",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "“This is the worst outrage in all history!”",
+        "is_correct": false
+      },
+      {
+        "text": "“Act now! Act now!”",
+        "is_correct": false
+      },
+      {
+        "text": "“How dare you?”",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response",
-      "hint": "A writer or speaker can use voice to shape comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text."
-    }
+      "summary": "The restrained factual phrasing can make the delay itself carry the criticism.",
+      "hint": "Understatement often lets the fact imply the judgement."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le06-t-004",
@@ -435,36 +1808,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_comparing_the_voice_of_protest_in_a_range_of_poems_or_songs_and_evaluating_how_different_voices_evoke_a_response_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape comparing the voice of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape comparing the voice of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "voices of protest and audience response",
+    "question": "A poem repeats the names of suburbs lost in a bushfire. What is the strongest effect?",
+    "audio_prompt": "A poem repeats the names of suburbs lost in a bushfire. What is the strongest effect?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response",
+        "text": "It accumulates a sense of scale while keeping the loss tied to real places.",
         "is_correct": true
+      },
+      {
+        "text": "It proves every suburb was equally damaged.",
+        "is_correct": false
+      },
+      {
+        "text": "It removes emotion by using place names.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates humour.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response",
-      "hint": "A writer or speaker can use voice to shape comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text."
-    }
+      "summary": "Accumulated local names can make widespread loss concrete and memorable.",
+      "hint": "Repetition can build scale."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le06-t-005",
@@ -472,36 +1849,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_comparing_the_voice_of_protest_in_a_range_of_poems_or_songs_and_evaluating_how_different_voices_evoke_a_response_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use voice to shape comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use voice to shape comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text?",
+    "skill": "voices of protest and audience response",
+    "question": "A protest speech says, “You call this consultation?” What kind of voice does the rhetorical question create?",
+    "audio_prompt": "A protest speech says, “You call this consultation?” What kind of voice does the rhetorical question create?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response",
+        "text": "sceptical and confrontational",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "celebratory and grateful",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "detached and technical",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "uncertain and apologetic",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response",
-      "hint": "A writer or speaker can use voice to shape comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text."
-    }
+      "summary": "The question challenges the legitimacy of the process rather than seeking information.",
+      "hint": "The wording implies the speaker rejects the label."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le06-t-006",
@@ -509,36 +1890,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_comparing_the_voice_of_protest_in_a_range_of_poems_or_songs_and_evaluating_how_different_voices_evoke_a_response_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape comparing the voice of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape comparing the voice of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "voices of protest and audience response",
+    "question": "Two poems oppose war. One uses images of broken toys; the other uses direct accusations of leaders. What is the strongest comparison?",
+    "audio_prompt": "Two poems oppose war. One uses images of broken toys; the other uses direct accusations of leaders. What is the strongest comparison?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response",
+        "text": "The first may evoke grief through civilian loss, while the second directs anger toward responsibility.",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Both must create the same response because they share a topic.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Only the accusatory poem is protest.",
+        "is_correct": false
+      },
+      {
+        "text": "Images cannot communicate protest.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response",
-      "hint": "A writer or speaker can use voice to shape comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text."
-    }
+      "summary": "Different voices and images can position audiences emotionally in different ways toward the same issue.",
+      "hint": "Compare emotional route and target."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le06-t-007",
@@ -546,36 +1931,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_comparing_the_voice_of_protest_in_a_range_of_poems_or_songs_and_evaluating_how_different_voices_evoke_a_response_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape comparing the voice of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape comparing the voice of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "voices of protest and audience response",
+    "question": "A chorus changes from “Can we change this?” to “We will change this.” What changes?",
+    "audio_prompt": "A chorus changes from “Can we change this?” to “We will change this.” What changes?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response",
+        "text": "modality shifts from possibility to determination",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "the topic changes",
+        "is_correct": false
+      },
+      {
+        "text": "the speaker becomes less certain",
+        "is_correct": false
+      },
+      {
+        "text": "the song stops addressing an audience",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response",
-      "hint": "A writer or speaker can use voice to shape comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text."
-    }
+      "summary": "“Can” asks about possibility; “will” asserts commitment and future action.",
+      "hint": "Compare strength of commitment."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10le06-t-008",
@@ -583,35 +1972,367 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_comparing_the_voice_of_protest_in_a_range_of_poems_or_songs_and_evaluating_how_different_voices_evoke_a_response_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape comparing the voice of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape comparing the voice of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "voices of protest and audience response",
+    "question": "A protest lyric calls a detention centre “a waiting room with no door”. What does the metaphor emphasise?",
+    "audio_prompt": "A protest lyric calls a detention centre “a waiting room with no door”. What does the metaphor emphasise?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response",
+        "text": "confinement and indefinite delay",
         "is_correct": true
+      },
+      {
+        "text": "comfort and hospitality",
+        "is_correct": false
+      },
+      {
+        "text": "rapid movement",
+        "is_correct": false
+      },
+      {
+        "text": "legal certainty",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response",
-      "hint": "A writer or speaker can use voice to shape comparing the “voice” of protest in a range of poems or songs and evaluating how different voices evoke a response and influence how an audience understands the text."
-    }
+      "summary": "The image combines waiting with the impossibility of leaving, intensifying a sense of trapped uncertainty.",
+      "hint": "What does a door normally allow?"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le06-t-009",
+    "curriculum_code": "AC9E10LE06",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "voices of protest and audience response",
+    "question": "A speech repeatedly begins paragraphs with “We remember”. What is the likely effect?",
+    "audio_prompt": "A speech repeatedly begins paragraphs with “We remember”. What is the likely effect?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "creates a ritualised collective voice of remembrance",
+        "is_correct": true
+      },
+      {
+        "text": "makes each paragraph unrelated",
+        "is_correct": false
+      },
+      {
+        "text": "proves memory is perfectly accurate",
+        "is_correct": false
+      },
+      {
+        "text": "turns the speech into fiction",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Anaphoric repetition can build solemn rhythm and shared identity around remembering.",
+      "hint": "Same opening, repeated communal act."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le06-t-010",
+    "curriculum_code": "AC9E10LE06",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "voices of protest and audience response",
+    "question": "Which analysis avoids an automatic-effect claim?",
+    "audio_prompt": "Which analysis avoids an automatic-effect claim?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“The short sentences create urgency here because they arrive as repeated demands after a long account of delay.”",
+        "is_correct": true
+      },
+      {
+        "text": "“Short sentences always create urgency.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Repetition always persuades.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Questions always make audiences agree.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The first ties the effect to placement and context instead of treating the device as mechanically persuasive.",
+      "hint": "Context explains effect."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le06-t-011",
+    "curriculum_code": "AC9E10LE06",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "voices of protest and audience response",
+    "question": "A protest song uses a cheerful melody under bitter lyrics about wage theft. What should an analyst notice?",
+    "audio_prompt": "A protest song uses a cheerful melody under bitter lyrics about wage theft. What should an analyst notice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The contrast can create irony that exposes the gap between surface cheerfulness and exploitation.",
+        "is_correct": true
+      },
+      {
+        "text": "The melody cancels the protest.",
+        "is_correct": false
+      },
+      {
+        "text": "Cheerful music always means approval.",
+        "is_correct": false
+      },
+      {
+        "text": "Lyrics and music cannot interact.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Contradiction between musical tone and lyrical content can sharpen irony and criticism.",
+      "hint": "Consider how two modes clash."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le06-t-012",
+    "curriculum_code": "AC9E10LE06",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "voices of protest and audience response",
+    "question": "A poem addresses a dead tree as “old witness”. What does this personification enable?",
+    "audio_prompt": "A poem addresses a dead tree as “old witness”. What does this personification enable?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It gives the environment a symbolic role as observer of change and damage.",
+        "is_correct": true
+      },
+      {
+        "text": "It proves the tree was human.",
+        "is_correct": false
+      },
+      {
+        "text": "It removes the environmental theme.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the poem factual reporting only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Personification can position the tree as a presence that has endured and “seen” what humans have done.",
+      "hint": "What human role is given to the tree?"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le06-t-013",
+    "curriculum_code": "AC9E10LE06",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "voices of protest and audience response",
+    "question": "A speaker says, “Maybe next year they’ll remember we exist.” In context the line is bitter. Which tone is strongest?",
+    "audio_prompt": "A speaker says, “Maybe next year they’ll remember we exist.” In context the line is bitter. Which tone is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "sarcastic resignation",
+        "is_correct": true
+      },
+      {
+        "text": "celebratory optimism",
+        "is_correct": false
+      },
+      {
+        "text": "neutral reporting",
+        "is_correct": false
+      },
+      {
+        "text": "confident triumph",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Maybe next year” carries weary irony when repeated neglect is already established.",
+      "hint": "The literal possibility is coloured by frustration."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le06-t-014",
+    "curriculum_code": "AC9E10LE06",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "voices of protest and audience response",
+    "question": "A protest performance has one person name an injustice and the audience answer “Not again.” What does the call-and-response structure do?",
+    "audio_prompt": "A protest performance has one person name an injustice and the audience answer “Not again.” What does the call-and-response structure do?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "turns listening into collective participation",
+        "is_correct": true
+      },
+      {
+        "text": "makes the audience passive",
+        "is_correct": false
+      },
+      {
+        "text": "removes the central demand",
+        "is_correct": false
+      },
+      {
+        "text": "proves everyone knows the issue equally well",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Call-and-response lets the audience physically join the protest voice.",
+      "hint": "Who gets to speak back?"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le06-t-015",
+    "curriculum_code": "AC9E10LE06",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "voices of protest and audience response",
+    "question": "Which thesis best compares two voices of protest?",
+    "audio_prompt": "Which thesis best compares two voices of protest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“Both demand accountability, but the first uses grief and memory to build moral pressure, while the second uses accusation and repetition to create confrontation.”",
+        "is_correct": true
+      },
+      {
+        "text": "“Both texts are about protest.”",
+        "is_correct": false
+      },
+      {
+        "text": "“One has more techniques.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The second is better.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong comparison identifies the shared purpose and explains how distinct voices create different effects.",
+      "hint": "Shared concern + contrasting voice + effect."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10le06-t-016",
+    "curriculum_code": "AC9E10LE06",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "voices of protest and audience response",
+    "question": "A poem ends, “Still, we plant.” after describing destruction. What is the strongest interpretation?",
+    "audio_prompt": "A poem ends, “Still, we plant.” after describing destruction. What is the strongest interpretation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The brief collective statement turns protest toward resilience and future action.",
+        "is_correct": true
+      },
+      {
+        "text": "The poem abandons its environmental concern.",
+        "is_correct": false
+      },
+      {
+        "text": "“Still” means nothing important.",
+        "is_correct": false
+      },
+      {
+        "text": "Planting proves the damage did not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Still” acknowledges what has happened while the collective action offers defiant continuation and hope.",
+      "hint": "The ending resists despair."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v6"
   }
 ]

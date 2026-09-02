@@ -5,39 +5,23 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_comparing_the_text_structure_and_language_features_of_a_print_text_transposed_to_an_online_environment_and_evaluating_the_effectiveness_of_the_online_text_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape comparing the text structure and language features of a print text transposed to an online environment and evaluating the effectiveness of the online text and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape comparing the text structure and language features of a print text transposed to an online environment and evaluating the effectiveness of the online text and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "A council brochure is turned into a mobile webpage. Which change is most clearly a structural adaptation for the new medium?",
+    "audio_prompt": "A council brochure is turned into a mobile webpage. Which change is most clearly a structural adaptation for the new medium?",
+    "visual": {"type": "none", "alt_text": ""},
     "answers": [
-      {
-        "text": "comparing the text structure and language features of a print text transposed to an online environment and evaluating the effectiveness of the online text",
-        "is_correct": true
-      },
-      {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      }
+      {"text": "Adding expandable headings so readers can open only the section they need", "is_correct": true},
+      {"text": "Replacing every heading with a longer paragraph", "is_correct": false},
+      {"text": "Keeping page numbers as the main navigation tool", "is_correct": false},
+      {"text": "Removing all links so the page matches the printed version", "is_correct": false}
     ],
     "correct_index": 0,
-    "explanation": {
-      "summary": "comparing the text structure and language features of a print text transposed to an online environment and evaluating the effectiveness of the online text",
-      "hint": "A writer or speaker can use word choice to shape comparing the text structure and language features of a print text transposed to an online environment and evaluating the effectiveness of the online text and influence how an audience understands the text."
-    },
+    "explanation": {"summary": "Expandable headings adapt the information structure to mobile reading by letting users control what they open.", "hint": "Look for a change that responds to how people navigate a screen."},
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "recognise"
   },
   {
     "id": "ac9e10la03-p-002",
@@ -45,39 +29,23 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_analysing_the_text_structures_and_language_features_of_reviews_from_different_sources_and_evaluating_their_effectiveness_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use audience to shape analysing the text structures and language features of reviews from different sources and evaluating their effectiveness and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use audience to shape analysing the text structures and language features of reviews from different sources and evaluating their effectiveness and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "A film review on a newspaper website includes a star rating, headline, review paragraphs and a trailer. Which feature could not exist in the same way in a printed review?",
+    "audio_prompt": "A film review on a newspaper website includes a star rating, headline, review paragraphs and a trailer. Which feature could not exist in the same way in a printed review?",
+    "visual": {"type": "none", "alt_text": ""},
     "answers": [
-      {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "analysing the text structures and language features of reviews from different sources, and evaluating their effectiveness",
-        "is_correct": true
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      }
+      {"text": "The embedded trailer", "is_correct": true},
+      {"text": "The evaluative headline", "is_correct": false},
+      {"text": "The paragraph structure", "is_correct": false},
+      {"text": "The star rating", "is_correct": false}
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "analysing the text structures and language features of reviews from different sources, and evaluating their effectiveness",
-      "hint": "A writer or speaker can use audience to shape analysing the text structures and language features of reviews from different sources, and evaluating their effectiveness and influence how an audience understands the text."
-    },
+    "correct_index": 0,
+    "explanation": {"summary": "An embedded trailer adds moving image and sound, which print cannot reproduce directly.", "hint": "Separate features of the review from capabilities of the medium."},
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "recognise"
   },
   {
     "id": "ac9e10la03-p-003",
@@ -85,39 +53,23 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_relationship_to_shape_analysing_and_experimenting_with_combinations_of_graphics_text_and_sound_in_the_production_of_multimodal_texts_such_as_documentaries_media_reports_online_magazines_and_digital_books_to_influence_audience_responses_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use relationship to shape analysing and experimenting with combinations of graphics text and sound in the production of multimodal texts such as documentaries media reports online magazines and digital books to influence audience responses and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use relationship to shape analysing and experimenting with combinations of graphics text and sound in the production of multimodal texts such as documentaries media reports online magazines and digital books to influence audience responses and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "A podcast episode page includes a transcript beneath the audio player. What is the transcript mainly doing?",
+    "audio_prompt": "A podcast episode page includes a transcript beneath the audio player. What is the transcript mainly doing?",
+    "visual": {"type": "none", "alt_text": ""},
     "answers": [
-      {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "analysing and experimenting with combinations of graphics, text and sound in the production of multimodal texts such as documentaries, media reports, online magazines and digital books to influence audience responses",
-        "is_correct": true
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      }
+      {"text": "Providing a second mode for accessing the same spoken content", "is_correct": true},
+      {"text": "Changing the podcast into a fictional narrative", "is_correct": false},
+      {"text": "Removing the need for any audio", "is_correct": false},
+      {"text": "Proving the speaker is unbiased", "is_correct": false}
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "analysing and experimenting with combinations of graphics, text and sound in the production of multimodal texts such as documentaries, media reports, online magazines and digital books to influence audience responses",
-      "hint": "A writer or speaker can use relationship to shape analysing and experimenting with combinations of graphics, text and sound in the production of multimodal texts such as documentaries, media reports, online magazines and digital books to influence audience responses and influence how an audience understands the text."
-    },
+    "correct_index": 0,
+    "explanation": {"summary": "The transcript makes the spoken content available in written form, improving access and searchability.", "hint": "Ask how the same information is represented differently."},
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "recognise"
   },
   {
     "id": "ac9e10la03-p-004",
@@ -125,39 +77,23 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_comparing_the_text_structure_and_language_features_of_a_print_text_transposed_to_an_online_environment_and_evaluating_the_effectiveness_of_the_online_text_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape comparing the text structure and language features of a print text transposed to an online environment and evaluating the effectiveness of the online text and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape comparing the text structure and language features of a print text transposed to an online environment and evaluating the effectiveness of the online text and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "An online magazine places a pull-quote in large type beside a long article. What does the pull-quote mainly do?",
+    "audio_prompt": "An online magazine places a pull-quote in large type beside a long article. What does the pull-quote mainly do?",
+    "visual": {"type": "none", "alt_text": ""},
     "answers": [
-      {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "comparing the text structure and language features of a print text transposed to an online environment and evaluating the effectiveness of the online text",
-        "is_correct": true
-      }
+      {"text": "Highlights a key idea and gives scanning readers an entry point", "is_correct": true},
+      {"text": "Supplies evidence that replaces the article", "is_correct": false},
+      {"text": "Shows the quote is the only reliable sentence", "is_correct": false},
+      {"text": "Makes the article chronological", "is_correct": false}
     ],
-    "correct_index": 3,
-    "explanation": {
-      "summary": "comparing the text structure and language features of a print text transposed to an online environment and evaluating the effectiveness of the online text",
-      "hint": "A writer or speaker can use word choice to shape comparing the text structure and language features of a print text transposed to an online environment and evaluating the effectiveness of the online text and influence how an audience understands the text."
-    },
+    "correct_index": 0,
+    "explanation": {"summary": "A pull-quote visually foregrounds a key line and supports readers who scan before reading closely.", "hint": "Think about how layout guides attention."},
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "recognise"
   },
   {
     "id": "ac9e10la03-p-005",
@@ -165,39 +101,23 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_analysing_the_text_structures_and_language_features_of_reviews_from_different_sources_and_evaluating_their_effectiveness_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use audience to shape analysing the text structures and language features of reviews from different sources and evaluating their effectiveness and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use audience to shape analysing the text structures and language features of reviews from different sources and evaluating their effectiveness and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "A documentary shows archival photographs while a voice-over explains what happened. Which two modes are being combined?",
+    "audio_prompt": "A documentary shows archival photographs while a voice-over explains what happened. Which two modes are being combined?",
+    "visual": {"type": "none", "alt_text": ""},
     "answers": [
-      {
-        "text": "analysing the text structures and language features of reviews from different sources, and evaluating their effectiveness",
-        "is_correct": true
-      },
-      {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      }
+      {"text": "Visual evidence and spoken narration", "is_correct": true},
+      {"text": "Printed footnotes and handwriting", "is_correct": false},
+      {"text": "Only sound", "is_correct": false},
+      {"text": "Only still images", "is_correct": false}
     ],
     "correct_index": 0,
-    "explanation": {
-      "summary": "analysing the text structures and language features of reviews from different sources, and evaluating their effectiveness",
-      "hint": "A writer or speaker can use audience to shape analysing the text structures and language features of reviews from different sources, and evaluating their effectiveness and influence how an audience understands the text."
-    },
+    "explanation": {"summary": "The documentary layers visual material with spoken explanation, allowing the modes to work together.", "hint": "Identify what viewers see and what they hear."},
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "recognise"
   },
   {
     "id": "ac9e10la03-p-006",
@@ -205,39 +125,23 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_relationship_to_shape_analysing_and_experimenting_with_combinations_of_graphics_text_and_sound_in_the_production_of_multimodal_texts_such_as_documentaries_media_reports_online_magazines_and_digital_books_to_influence_audience_responses_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use relationship to shape analysing and experimenting with combinations of graphics text and sound in the production of multimodal texts such as documentaries media reports online magazines and digital books to influence audience responses and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use relationship to shape analysing and experimenting with combinations of graphics text and sound in the production of multimodal texts such as documentaries media reports online magazines and digital books to influence audience responses and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "Two restaurant reviews describe the same café. One opens with the verdict; the other begins with a story about arriving there. What is the clearest difference?",
+    "audio_prompt": "Two restaurant reviews describe the same café. One opens with the verdict; the other begins with a story about arriving there. What is the clearest difference?",
+    "visual": {"type": "none", "alt_text": ""},
     "answers": [
-      {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "analysing and experimenting with combinations of graphics, text and sound in the production of multimodal texts such as documentaries, media reports, online magazines and digital books to influence audience responses",
-        "is_correct": true
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      }
+      {"text": "Their text structures organise evaluation differently", "is_correct": true},
+      {"text": "Only one can contain opinion", "is_correct": false},
+      {"text": "Only one can use adjectives", "is_correct": false},
+      {"text": "The opening choice proves which review is correct", "is_correct": false}
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "analysing and experimenting with combinations of graphics, text and sound in the production of multimodal texts such as documentaries, media reports, online magazines and digital books to influence audience responses",
-      "hint": "A writer or speaker can use relationship to shape analysing and experimenting with combinations of graphics, text and sound in the production of multimodal texts such as documentaries, media reports, online magazines and digital books to influence audience responses and influence how an audience understands the text."
-    },
+    "correct_index": 0,
+    "explanation": {"summary": "One review foregrounds judgement while the other delays it through narrative, so their structures shape the reading experience differently.", "hint": "Focus on the order in which information is presented."},
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "recognise"
   },
   {
     "id": "ac9e10la03-p-007",
@@ -245,38 +149,23 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_comparing_the_text_structure_and_language_features_of_a_print_text_transposed_to_an_online_environment_and_evaluating_the_effectiveness_of_the_online_text_and_influence_how_an_audience_understands_the_text",
-    "question": "What should you check when using a writer or speaker can use word choice to shape comparing the text structure and language features of a print text transposed to an online environment and evaluating the effectiveness of the online text and influence how an audience understands the text?",
-    "audio_prompt": "What should you check when using a writer or speaker can use word choice to shape comparing the text structure and language features of a print text transposed to an online environment and evaluating the effectiveness of the online text and influence how an audience understands the text?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "A news website adds a clickable map to an article about bushfire warnings. What does the map add?",
+    "audio_prompt": "A news website adds a clickable map to an article about bushfire warnings. What does the map add?",
+    "visual": {"type": "none", "alt_text": ""},
     "answers": [
-      {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "comparing the text structure and language features of a print text transposed to an online environment and evaluating the effectiveness of the online text",
-        "is_correct": true
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      }
+      {"text": "Interactive spatial information readers can explore", "is_correct": true},
+      {"text": "A guarantee that the article is persuasive", "is_correct": false},
+      {"text": "A replacement for all written explanation", "is_correct": false},
+      {"text": "A fictional point of view", "is_correct": false}
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "comparing the text structure and language features of a print text transposed to an online environment and evaluating the effectiveness of the online text",
-      "hint": "A writer or speaker can use word choice to shape comparing the text structure and language features of a print text transposed to an online environment and evaluating the effectiveness of the online text and influence how an audience understands the text."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "correct_index": 0,
+    "explanation": {"summary": "The map lets readers inspect location-based information directly, extending what prose alone can show efficiently.", "hint": "Ask what new kind of information the mode makes available."},
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "recognise"
   },
   {
     "id": "ac9e10la03-p-008",
@@ -284,38 +173,791 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_analysing_the_text_structures_and_language_features_of_reviews_from_different_sources_and_evaluating_their_effectiveness_and_influence_how_an_audience_understands_the_text",
-    "question": "What should you check when using a writer or speaker can use audience to shape analysing the text structures and language features of reviews from different sources, and evaluating their effectiveness and influence how an audience understands the text?",
-    "audio_prompt": "What should you check when using a writer or speaker can use audience to shape analysing the text structures and language features of reviews from different sources, and evaluating their effectiveness and influence how an audience understands the text?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "A school digital magazine uses a short looping animation beside an article on plastic waste. Which term best describes this?",
+    "audio_prompt": "A school digital magazine uses a short looping animation beside an article on plastic waste. Which term best describes this?",
+    "visual": {"type": "none", "alt_text": ""},
     "answers": [
-      {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "analysing the text structures and language features of reviews from different sources, and evaluating their effectiveness",
-        "is_correct": true
-      }
+      {"text": "A multimodal combination", "is_correct": true},
+      {"text": "A bibliography", "is_correct": false},
+      {"text": "A paragraph transition", "is_correct": false},
+      {"text": "A narrative viewpoint", "is_correct": false}
     ],
-    "correct_index": 3,
-    "explanation": {
-      "summary": "analysing the text structures and language features of reviews from different sources, and evaluating their effectiveness",
-      "hint": "A writer or speaker can use audience to shape analysing the text structures and language features of reviews from different sources, and evaluating their effectiveness and influence how an audience understands the text."
-    },
+    "correct_index": 0,
+    "explanation": {"summary": "The page combines written language with moving visual content, making it multimodal.", "hint": "Identify the modes working together."},
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "recognise"
+  },
+  {
+    "id": "ac9e10la03-p-009",
+    "curriculum_code": "AC9E10LA03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "A printed event program becomes an app with buttons for ‘Schedule’, ‘Map’ and ‘Artists’. What has changed most?",
+    "audio_prompt": "A printed event program becomes an app with buttons for ‘Schedule’, ‘Map’ and ‘Artists’. What has changed most?",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [
+      {"text": "Navigation structure", "is_correct": true},
+      {"text": "The factual accuracy of the event details", "is_correct": false},
+      {"text": "The grammatical tense of every sentence", "is_correct": false},
+      {"text": "The purpose of the event", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "The app reorganises access through selectable sections rather than relying on sequential pages.", "hint": "Consider how users move through the information."},
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "recognise"
+  },
+  {
+    "id": "ac9e10la03-p-010",
+    "curriculum_code": "AC9E10LA03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "A review video shows the presenter speaking while product specifications appear as text on screen. What is the on-screen text mainly doing?",
+    "audio_prompt": "A review video shows the presenter speaking while product specifications appear as text on screen. What is the on-screen text mainly doing?",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [
+      {"text": "Reinforcing and specifying information from the spoken commentary", "is_correct": true},
+      {"text": "Turning the review into a poem", "is_correct": false},
+      {"text": "Removing all evaluation", "is_correct": false},
+      {"text": "Creating a fictional setting", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "On-screen text can emphasise precise details while the presenter continues the spoken evaluation.", "hint": "Look at how one mode supports another."},
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "recognise"
+  },
+  {
+    "id": "ac9e10la03-p-011",
+    "curriculum_code": "AC9E10LA03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "A printed museum guide lists exhibits in page order. Its online version lets users filter by artist, era or gallery. Why is the online structure effective?",
+    "audio_prompt": "A printed museum guide lists exhibits in page order. Its online version lets users filter by artist, era or gallery. Why is the online structure effective?",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [
+      {"text": "It lets different visitors create pathways that match their needs", "is_correct": true},
+      {"text": "It forces every visitor to read the same sequence", "is_correct": false},
+      {"text": "It makes the information less searchable", "is_correct": false},
+      {"text": "It removes the need for clear labels", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "Filtering uses the affordances of an online environment to support different purposes and reading paths.", "hint": "Explain why the structural change suits the medium."},
     "difficulty": 2,
-    "sequence_priority": 2
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "explain"
+  },
+  {
+    "id": "ac9e10la03-p-012",
+    "curriculum_code": "AC9E10LA03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "A written review calls a film ‘quietly devastating’. A video review pairs the same judgement with a long silent shot from the film. Why might the video be more affective?",
+    "audio_prompt": "A written review calls a film ‘quietly devastating’. A video review pairs the same judgement with a long silent shot from the film. Why might the video be more affective?",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [
+      {"text": "The image and silence can make the judgement emotionally concrete", "is_correct": true},
+      {"text": "Moving images make every claim objectively true", "is_correct": false},
+      {"text": "The visual automatically proves the reviewer is fair", "is_correct": false},
+      {"text": "Silence always makes a review negative", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "The video can align language with image and sound so the evaluation is experienced as well as stated.", "hint": "Connect the modes to the audience effect."},
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "explain"
+  },
+  {
+    "id": "ac9e10la03-p-013",
+    "curriculum_code": "AC9E10LA03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "An online article uses hyperlinks on specialist terms instead of defining each one in the main paragraph. Why can this help?",
+    "audio_prompt": "An online article uses hyperlinks on specialist terms instead of defining each one in the main paragraph. Why can this help?",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [
+      {"text": "It keeps the main reading flow concise while allowing optional depth", "is_correct": true},
+      {"text": "It prevents readers from checking unfamiliar terms", "is_correct": false},
+      {"text": "It guarantees readers will follow every link", "is_correct": false},
+      {"text": "It removes the need for coherent paragraphs", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "Hyperlinks can separate core explanation from optional background, giving readers control over depth.", "hint": "Consider what the reader can choose to do."},
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "explain"
+  },
+  {
+    "id": "ac9e10la03-p-014",
+    "curriculum_code": "AC9E10LA03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "A documentary cuts from a politician’s promise to footage showing the opposite outcome. How does the edit shape meaning?",
+    "audio_prompt": "A documentary cuts from a politician’s promise to footage showing the opposite outcome. How does the edit shape meaning?",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [
+      {"text": "The juxtaposition invites viewers to question the promise", "is_correct": true},
+      {"text": "The cut makes both clips neutral", "is_correct": false},
+      {"text": "The footage removes the need for interpretation", "is_correct": false},
+      {"text": "The edit proves the politician intended to mislead", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "Placing the clips together creates a contrast that encourages viewers to evaluate the promise critically.", "hint": "Explain the relationship created by the sequence."},
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "explain"
+  },
+  {
+    "id": "ac9e10la03-p-015",
+    "curriculum_code": "AC9E10LA03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "A newspaper review devotes its first half to plot summary, while a specialist film site begins with an argument about cinematography. Why might their structures differ?",
+    "audio_prompt": "A newspaper review devotes its first half to plot summary, while a specialist film site begins with an argument about cinematography. Why might their structures differ?",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [
+      {"text": "They may assume different audience knowledge and interests", "is_correct": true},
+      {"text": "One medium cannot contain plot summary", "is_correct": false},
+      {"text": "Specialist readers never need context", "is_correct": false},
+      {"text": "The newspaper is therefore less accurate", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "Different publications can organise reviews around what their audiences are likely to need or value.", "hint": "Link structure to audience expectations."},
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "explain"
+  },
+  {
+    "id": "ac9e10la03-p-016",
+    "curriculum_code": "AC9E10LA03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "A digital report places a data visualisation before the paragraph that explains it. Why can this be effective?",
+    "audio_prompt": "A digital report places a data visualisation before the paragraph that explains it. Why can this be effective?",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [
+      {"text": "Readers see the pattern first and then use the prose to interpret it", "is_correct": true},
+      {"text": "Graphs are always more trustworthy than words", "is_correct": false},
+      {"text": "The paragraph becomes unnecessary", "is_correct": false},
+      {"text": "The order prevents any bias", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "Foregrounding the visual can orient readers to the pattern before the written explanation adds interpretation.", "hint": "Explain how ordering directs attention."},
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "explain"
+  },
+  {
+    "id": "ac9e10la03-p-017",
+    "curriculum_code": "AC9E10LA03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "A charity video lowers the music volume when a survivor begins speaking. Why is that choice significant?",
+    "audio_prompt": "A charity video lowers the music volume when a survivor begins speaking. Why is that choice significant?",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [
+      {"text": "It shifts attention from emotional atmosphere to the speaker’s words", "is_correct": true},
+      {"text": "It removes all emotion from the video", "is_correct": false},
+      {"text": "It proves the speaker’s account is factual", "is_correct": false},
+      {"text": "It makes the video non-multimodal", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "Reducing the music gives the spoken testimony greater prominence while retaining the wider emotional frame.", "hint": "Explain what becomes foregrounded."},
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "explain"
+  },
+  {
+    "id": "ac9e10la03-p-018",
+    "curriculum_code": "AC9E10LA03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "An online book review includes reader comments beneath the critic’s review. How does this alter the text environment?",
+    "audio_prompt": "An online book review includes reader comments beneath the critic’s review. How does this alter the text environment?",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [
+      {"text": "It adds visible audience response and competing evaluations", "is_correct": true},
+      {"text": "It makes the critic’s opinion disappear", "is_correct": false},
+      {"text": "It prevents readers forming their own view", "is_correct": false},
+      {"text": "It turns the review into a news report", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "Comments make audience response part of the page, so readers encounter multiple evaluations rather than only the critic’s.", "hint": "Think about who else gains a voice."},
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "explain"
+  },
+  {
+    "id": "ac9e10la03-p-019",
+    "curriculum_code": "AC9E10LA03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "A digital feature on coastal erosion uses a before-and-after image slider. Why is this more effective than simply writing ‘the beach has narrowed’?",
+    "audio_prompt": "A digital feature on coastal erosion uses a before-and-after image slider. Why is this more effective than simply writing ‘the beach has narrowed’?",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [
+      {"text": "Readers can directly compare visual evidence across time", "is_correct": true},
+      {"text": "The slider guarantees the cause of erosion", "is_correct": false},
+      {"text": "Visuals eliminate the need for context", "is_correct": false},
+      {"text": "The slider makes the article unbiased", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "The interactive comparison makes change visible, while the text can still explain causes and limits.", "hint": "Explain the added communicative value, not just the novelty."},
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "explain"
+  },
+  {
+    "id": "ac9e10la03-p-020",
+    "curriculum_code": "AC9E10LA03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "A podcast review uses a short music sample before the host evaluates the song. Why is the sample useful?",
+    "audio_prompt": "A podcast review uses a short music sample before the host evaluates the song. Why is the sample useful?",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [
+      {"text": "It gives listeners direct evidence to connect with the evaluation", "is_correct": true},
+      {"text": "It makes the host’s judgement automatically correct", "is_correct": false},
+      {"text": "It replaces the need for any explanation", "is_correct": false},
+      {"text": "It proves all listeners will agree", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "The sample lets listeners hear the feature being discussed, so the evaluation can be checked against direct experience.", "hint": "Connect evidence to the reviewer’s claim."},
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "explain"
+  },
+  {
+    "id": "ac9e10la03-p-021",
+    "curriculum_code": "AC9E10LA03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "A student says, ‘The online version is better because it has more features.’ Which revision shows stronger analysis?",
+    "audio_prompt": "A student says, ‘The online version is better because it has more features.’ Which revision shows stronger analysis?",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [
+      {"text": "‘The searchable headings and links make specific information faster to locate, which suits readers using phones.’", "is_correct": true},
+      {"text": "‘The online version is better because websites are modern.’", "is_correct": false},
+      {"text": "‘The online version has buttons, so it is automatically clearer.’", "is_correct": false},
+      {"text": "‘The print version is worse because it cannot move.’", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "Strong analysis names the feature, explains its function and connects it to audience use.", "hint": "Avoid judging the medium without explaining how a choice works."},
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "discriminate"
+  },
+  {
+    "id": "ac9e10la03-p-022",
+    "curriculum_code": "AC9E10LA03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "Which claim about a review is most careful?",
+    "audio_prompt": "Which claim about a review is most careful?",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [
+      {"text": "‘The star rating gives a quick summary of judgement, while the paragraphs provide reasons that may complicate that score.’", "is_correct": true},
+      {"text": "‘A five-star rating proves the review is positive in every sentence.’", "is_correct": false},
+      {"text": "‘Ratings are more reliable than written reasons.’", "is_correct": false},
+      {"text": "‘A review without stars contains no evaluation.’", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "A rating condenses judgement but does not replace the detailed reasoning in the review.", "hint": "Distinguish a summary device from the full argument."},
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "discriminate"
+  },
+  {
+    "id": "ac9e10la03-p-023",
+    "curriculum_code": "AC9E10LA03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "A documentary uses sad music under footage of flood damage. Which analysis avoids overclaiming?",
+    "audio_prompt": "A documentary uses sad music under footage of flood damage. Which analysis avoids overclaiming?",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [
+      {"text": "‘The music encourages a sombre response, although viewers may respond differently.’", "is_correct": true},
+      {"text": "‘The music forces every viewer to feel sad.’", "is_correct": false},
+      {"text": "‘The music proves the footage is authentic.’", "is_correct": false},
+      {"text": "‘The soundtrack has no effect because the images are factual.’", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "The soundtrack can position viewers emotionally, but audience responses are not guaranteed.", "hint": "Describe an intended or likely effect, not a universal one."},
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "discriminate"
+  },
+  {
+    "id": "ac9e10la03-p-024",
+    "curriculum_code": "AC9E10LA03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "Which comparison best distinguishes print and online reading?",
+    "audio_prompt": "Which comparison best distinguishes print and online reading?",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [
+      {"text": "‘Print often encourages a more fixed page sequence, while online texts can offer branching pathways through links and menus.’", "is_correct": true},
+      {"text": "‘Print is always linear and online texts never are.’", "is_correct": false},
+      {"text": "‘Online texts contain no paragraphs.’", "is_correct": false},
+      {"text": "‘Print texts cannot use headings.’", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "The comparison recognises typical affordances without treating either medium as absolute.", "hint": "Avoid words like ‘always’ when the feature is only common."},
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "discriminate"
+  },
+  {
+    "id": "ac9e10la03-p-025",
+    "curriculum_code": "AC9E10LA03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "A student claims that adding images always improves a webpage. Which response is strongest?",
+    "audio_prompt": "A student claims that adding images always improves a webpage. Which response is strongest?",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [
+      {"text": "Images help only when they support the purpose, information or audience experience", "is_correct": true},
+      {"text": "Images automatically increase accuracy", "is_correct": false},
+      {"text": "More modes always mean a stronger text", "is_correct": false},
+      {"text": "Any image is better than extra explanation", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "A multimodal choice is effective when it contributes meaning rather than merely adding decoration.", "hint": "Judge the role of the image, not its presence."},
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "discriminate"
+  },
+  {
+    "id": "ac9e10la03-p-026",
+    "curriculum_code": "AC9E10LA03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "A review website places advertisements between paragraphs. Which analysis is most relevant?",
+    "audio_prompt": "A review website places advertisements between paragraphs. Which analysis is most relevant?",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [
+      {"text": "The ads interrupt reading flow and may affect how independent the surrounding evaluation appears", "is_correct": true},
+      {"text": "The ads change every opinion in the review to false", "is_correct": false},
+      {"text": "Advertisements are a grammatical feature", "is_correct": false},
+      {"text": "The ads prove the reviewer wrote the product description", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "Advertising can shape navigation and perceptions of credibility, even though it does not automatically invalidate the review.", "hint": "Separate possible influence from proof of bias."},
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "discriminate"
+  },
+  {
+    "id": "ac9e10la03-p-027",
+    "curriculum_code": "AC9E10LA03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "Which statement best distinguishes adaptation from simple copying?",
+    "audio_prompt": "Which statement best distinguishes adaptation from simple copying?",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [
+      {"text": "An adaptation changes structure or mode to suit the new environment; copying keeps the original form largely unchanged", "is_correct": true},
+      {"text": "Adaptation means changing every word", "is_correct": false},
+      {"text": "Copying always improves accessibility", "is_correct": false},
+      {"text": "Adaptation is only about font size", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "Adaptation responds to the affordances and constraints of a new medium rather than merely reproducing the original.", "hint": "Focus on purposeful change."},
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "discriminate"
+  },
+  {
+    "id": "ac9e10la03-p-028",
+    "curriculum_code": "AC9E10LA03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "A video review uses rapid cuts, captions and upbeat music. Which analysis is strongest?",
+    "audio_prompt": "A video review uses rapid cuts, captions and upbeat music. Which analysis is strongest?",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [
+      {"text": "The combination creates a fast, energetic style that may suit viewers expecting concise online content", "is_correct": true},
+      {"text": "Rapid cuts make the review more accurate", "is_correct": false},
+      {"text": "Captions mean the presenter no longer matters", "is_correct": false},
+      {"text": "Upbeat music proves the product is good", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "Multiple modes work together to create pace and tone, but they do not determine factual accuracy.", "hint": "Keep style effects separate from truth claims."},
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "discriminate"
+  },
+  {
+    "id": "ac9e10la03-p-029",
+    "curriculum_code": "AC9E10LA03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "Two reviews disagree. Which comparison is most useful?",
+    "audio_prompt": "Two reviews disagree. Which comparison is most useful?",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [
+      {"text": "Compare their criteria, evidence, structure and target audiences before judging which is more convincing", "is_correct": true},
+      {"text": "Assume the longer review is stronger", "is_correct": false},
+      {"text": "Choose the review with more adjectives", "is_correct": false},
+      {"text": "Treat disagreement as proof that one writer is dishonest", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "Evaluating reviews requires comparing how each constructs its judgement, not using superficial measures.", "hint": "Look for reasons and evidence, not length or tone alone."},
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "discriminate"
+  },
+  {
+    "id": "ac9e10la03-p-030",
+    "curriculum_code": "AC9E10LA03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "A student says a clickable infographic is effective because ‘you can click it’. What is missing?",
+    "audio_prompt": "A student says a clickable infographic is effective because ‘you can click it’. What is missing?",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [
+      {"text": "An explanation of what the interaction helps the audience understand or do", "is_correct": true},
+      {"text": "A list of every colour used", "is_correct": false},
+      {"text": "A statement that websites are better than print", "is_correct": false},
+      {"text": "A definition of the word ‘click’", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "The analysis needs to connect interactivity to meaning, navigation or audience use.", "hint": "Always finish the chain: feature → function → effect."},
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "discriminate"
+  },
+  {
+    "id": "ac9e10la03-p-031",
+    "curriculum_code": "AC9E10LA03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "A local-history article is moving from a printed booklet to a phone-friendly site. Which redesign best uses the new medium?",
+    "audio_prompt": "A local-history article is moving from a printed booklet to a phone-friendly site. Which redesign best uses the new medium?",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [
+      {"text": "Create short sections with a timeline, map links and expandable oral-history clips", "is_correct": true},
+      {"text": "Scan each page as one large image", "is_correct": false},
+      {"text": "Keep tiny page-number references as the only navigation", "is_correct": false},
+      {"text": "Remove headings so users scroll through one continuous block", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "The redesign adapts structure and modes to support mobile navigation and access to linked media.", "hint": "Choose features that solve real screen-reading needs."},
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "apply"
+  },
+  {
+    "id": "ac9e10la03-p-032",
+    "curriculum_code": "AC9E10LA03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "You are producing an online review of a new Australian film. Which combination gives readers both a quick judgement and detailed reasoning?",
+    "audio_prompt": "You are producing an online review of a new Australian film. Which combination gives readers both a quick judgement and detailed reasoning?",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [
+      {"text": "A concise verdict near the top followed by evidence-based paragraphs and an optional trailer", "is_correct": true},
+      {"text": "Only a star rating", "is_correct": false},
+      {"text": "Only a trailer with no commentary", "is_correct": false},
+      {"text": "A plot summary that never evaluates the film", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "A quick verdict helps scanning readers, while the detailed review and trailer provide reasons and evidence.", "hint": "Balance summary, analysis and optional media."},
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "apply"
+  },
+  {
+    "id": "ac9e10la03-p-033",
+    "curriculum_code": "AC9E10LA03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "A school documentary includes interview audio recorded in a noisy hall. Which edit best preserves meaning and accessibility?",
+    "audio_prompt": "A school documentary includes interview audio recorded in a noisy hall. Which edit best preserves meaning and accessibility?",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [
+      {"text": "Use clear subtitles and lower distracting background sound", "is_correct": true},
+      {"text": "Replace the interview with unrelated music", "is_correct": false},
+      {"text": "Speed the audio up until it is shorter", "is_correct": false},
+      {"text": "Remove the speaker’s name and context", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "Subtitles and cleaner audio make the speaker easier to understand without changing the substance of the contribution.", "hint": "Improve access without distorting the message."},
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "apply"
+  },
+  {
+    "id": "ac9e10la03-p-034",
+    "curriculum_code": "AC9E10LA03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "A digital report on public transport wants readers to compare routes. Which feature is most useful?",
+    "audio_prompt": "A digital report on public transport wants readers to compare routes. Which feature is most useful?",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [
+      {"text": "An interactive map with selectable routes and travel times", "is_correct": true},
+      {"text": "A decorative animation unrelated to transport", "is_correct": false},
+      {"text": "A long unbroken paragraph listing every stop", "is_correct": false},
+      {"text": "A background soundtrack with no controls", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "An interactive map lets users compare spatial and timing information efficiently.", "hint": "Match the mode to the information task."},
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "apply"
+  },
+  {
+    "id": "ac9e10la03-p-035",
+    "curriculum_code": "AC9E10LA03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "A print review uses a boxed sidebar for ‘Pros and Cons’. When adapting it to a small screen, what is the best equivalent?",
+    "audio_prompt": "A print review uses a boxed sidebar for ‘Pros and Cons’. When adapting it to a small screen, what is the best equivalent?",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [
+      {"text": "A collapsible summary section labelled ‘Pros and Cons’", "is_correct": true},
+      {"text": "A tiny box fixed beside the article", "is_correct": false},
+      {"text": "A scanned image of the original sidebar", "is_correct": false},
+      {"text": "Removing the summary completely", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "A collapsible section keeps the summary function while adapting it to limited screen width.", "hint": "Preserve the function, not necessarily the print layout."},
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "apply"
+  },
+  {
+    "id": "ac9e10la03-p-036",
+    "curriculum_code": "AC9E10LA03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "A youth news video explains a complicated budget announcement. Which design choice best supports comprehension?",
+    "audio_prompt": "A youth news video explains a complicated budget announcement. Which design choice best supports comprehension?",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [
+      {"text": "Show key figures as brief on-screen graphics while the presenter explains what they mean", "is_correct": true},
+      {"text": "Play loud music over the numerical explanation", "is_correct": false},
+      {"text": "Display every sentence of the script at once", "is_correct": false},
+      {"text": "Use decorative footage unrelated to the budget", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "Concise graphics can anchor important figures while spoken explanation adds interpretation.", "hint": "Use visuals to clarify the hardest information."},
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "apply"
+  },
+  {
+    "id": "ac9e10la03-p-037",
+    "curriculum_code": "AC9E10LA03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "You are comparing two game reviews: one from a general newspaper and one from a gaming site. Which question will produce the strongest comparison?",
+    "audio_prompt": "You are comparing two game reviews: one from a general newspaper and one from a gaming site. Which question will produce the strongest comparison?",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [
+      {"text": "How do their assumed audiences affect the detail, terminology and criteria each reviewer uses?", "is_correct": true},
+      {"text": "Which review has the most paragraphs?", "is_correct": false},
+      {"text": "Which website has the brighter logo?", "is_correct": false},
+      {"text": "Which reviewer uses the longest username?", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "Audience assumptions can explain differences in terminology, detail and evaluation criteria.", "hint": "Compare meaningful choices tied to purpose and audience."},
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "apply"
+  },
+  {
+    "id": "ac9e10la03-p-038",
+    "curriculum_code": "AC9E10LA03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "A climate article includes an animated graph that begins at 1900 and plays to the present. What should the accompanying text do?",
+    "audio_prompt": "A climate article includes an animated graph that begins at 1900 and plays to the present. What should the accompanying text do?",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [
+      {"text": "Explain the pattern, source and limits rather than simply repeat every value", "is_correct": true},
+      {"text": "Claim the animation proves one cause by itself", "is_correct": false},
+      {"text": "Avoid naming the data source", "is_correct": false},
+      {"text": "Describe the colours only", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "The prose should interpret and contextualise the visual instead of duplicating it or overclaiming.", "hint": "Let each mode contribute something distinct."},
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "apply"
+  },
+  {
+    "id": "ac9e10la03-p-039",
+    "curriculum_code": "AC9E10LA03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "A podcast episode is being adapted into an article. Which change best suits readers who want to scan quickly?",
+    "audio_prompt": "A podcast episode is being adapted into an article. Which change best suits readers who want to scan quickly?",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [
+      {"text": "Add descriptive headings, concise paragraphs and selected quotations from the audio", "is_correct": true},
+      {"text": "Write one paragraph as long as the full episode", "is_correct": false},
+      {"text": "Remove all speaker names", "is_correct": false},
+      {"text": "Keep every hesitation and filler word in the transcript", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "Headings and selected quotations reshape spoken material for efficient screen or print reading.", "hint": "Adapt spoken flow to reading behaviour."},
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "apply"
+  },
+  {
+    "id": "ac9e10la03-p-040",
+    "curriculum_code": "AC9E10LA03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "A review page contains autoplay video that covers part of the article on mobile. What is the strongest redesign?",
+    "audio_prompt": "A review page contains autoplay video that covers part of the article on mobile. What is the strongest redesign?",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [
+      {"text": "Make the video user-controlled and keep the text readable without obstruction", "is_correct": true},
+      {"text": "Increase the video size", "is_correct": false},
+      {"text": "Remove the article text", "is_correct": false},
+      {"text": "Make the video restart whenever the reader scrolls", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "User control and unobstructed text improve usability while preserving access to the video.", "hint": "Effectiveness includes navigation and accessibility, not just added media."},
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "apply"
   },
   {
     "id": "ac9e10la03-t-001",
@@ -323,36 +965,22 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_relationship_to_shape_analysing_and_experimenting_with_combinations_of_graphics_text_and_sound_in_the_production_of_multimodal_texts_such_as_documentaries_media_reports_online_magazines_and_digital_books_to_influence_audience_responses_and_influence_how_an_audience_understands_the_text",
-    "question": "Which response correctly uses a writer or speaker can use relationship to shape analysing and experimenting with combinations of graphics, text and sound in the production of multimodal texts such as documentaries, media reports, online magazines and digital books to influence audience responses and influence how an audience understands the text?",
-    "audio_prompt": "Which response correctly uses a writer or speaker can use relationship to shape analysing and experimenting with combinations of graphics, text and sound in the production of multimodal texts such as documentaries, media reports, online magazines and digital books to influence audience responses and influence how an audience understands the text?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "A wildlife magazine converts a printed field guide into an app. Which feature most clearly uses the app’s affordances rather than copying print?",
+    "audio_prompt": "A wildlife magazine converts a printed field guide into an app. Which feature most clearly uses the app’s affordances rather than copying print?",
+    "visual": {"type": "none", "alt_text": ""},
     "answers": [
-      {
-        "text": "analysing and experimenting with combinations of graphics, text and sound in the production of multimodal texts such as documentaries, media reports, online magazines and digital books to influence audience responses",
-        "is_correct": true
-      },
-      {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      }
+      {"text": "A search tool that filters species by location and colour", "is_correct": true},
+      {"text": "A photograph of the original contents page", "is_correct": false},
+      {"text": "Printed-style page numbers", "is_correct": false},
+      {"text": "A fixed two-column layout on every screen", "is_correct": false}
     ],
     "correct_index": 0,
-    "explanation": {
-      "summary": "analysing and experimenting with combinations of graphics, text and sound in the production of multimodal texts such as documentaries, media reports, online magazines and digital books to influence audience responses",
-      "hint": "A writer or speaker can use relationship to shape analysing and experimenting with combinations of graphics, text and sound in the production of multimodal texts such as documentaries, media reports, online magazines and digital books to influence audience responses and influence how an audience understands the text."
-    }
+    "explanation": {"summary": "Filtering lets users search dynamically using characteristics relevant to identification.", "hint": "Ask what the digital medium can do that the printed page cannot."},
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la03-t-002",
@@ -360,36 +988,22 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_comparing_the_text_structure_and_language_features_of_a_print_text_transposed_to_an_online_environment_and_evaluating_the_effectiveness_of_the_online_text_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape comparing the text structure and language features of a print text transposed to an online environment and evaluating the effectiveness of the online text and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape comparing the text structure and language features of a print text transposed to an online environment and evaluating the effectiveness of the online text and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "A video essay freezes a frame and draws arrows over it while the narrator discusses composition. Why is this effective?",
+    "audio_prompt": "A video essay freezes a frame and draws arrows over it while the narrator discusses composition. Why is this effective?",
+    "visual": {"type": "none", "alt_text": ""},
     "answers": [
-      {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "comparing the text structure and language features of a print text transposed to an online environment and evaluating the effectiveness of the online text",
-        "is_correct": true
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      }
+      {"text": "The annotation directs attention to visual evidence as the analysis is spoken", "is_correct": true},
+      {"text": "The arrows make the interpretation objectively correct", "is_correct": false},
+      {"text": "The freeze frame removes all need for explanation", "is_correct": false},
+      {"text": "The narration becomes irrelevant once arrows appear", "is_correct": false}
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "comparing the text structure and language features of a print text transposed to an online environment and evaluating the effectiveness of the online text",
-      "hint": "A writer or speaker can use word choice to shape comparing the text structure and language features of a print text transposed to an online environment and evaluating the effectiveness of the online text and influence how an audience understands the text."
-    }
+    "correct_index": 0,
+    "explanation": {"summary": "The visual annotation helps viewers see the exact evidence being discussed in the narration.", "hint": "Look for coordination between modes."},
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la03-t-003",
@@ -397,36 +1011,22 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_analysing_the_text_structures_and_language_features_of_reviews_from_different_sources_and_evaluating_their_effectiveness_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use audience to shape analysing the text structures and language features of reviews from different sources and evaluating their effectiveness and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use audience to shape analysing the text structures and language features of reviews from different sources and evaluating their effectiveness and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "An online theatre review places ticket-booking links beside the verdict. What additional purpose does the page now serve?",
+    "audio_prompt": "An online theatre review places ticket-booking links beside the verdict. What additional purpose does the page now serve?",
+    "visual": {"type": "none", "alt_text": ""},
     "answers": [
-      {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "analysing the text structures and language features of reviews from different sources, and evaluating their effectiveness",
-        "is_correct": true
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      }
+      {"text": "It moves from evaluation toward enabling immediate action", "is_correct": true},
+      {"text": "It becomes a fictional text", "is_correct": false},
+      {"text": "It stops being a review", "is_correct": false},
+      {"text": "It guarantees the review is positive", "is_correct": false}
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "analysing the text structures and language features of reviews from different sources, and evaluating their effectiveness",
-      "hint": "A writer or speaker can use audience to shape analysing the text structures and language features of reviews from different sources, and evaluating their effectiveness and influence how an audience understands the text."
-    }
+    "correct_index": 0,
+    "explanation": {"summary": "The booking link adds a transactional function to the evaluative text.", "hint": "Consider what readers can now do, not only what they can read."},
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la03-t-004",
@@ -434,36 +1034,22 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_relationship_to_shape_analysing_and_experimenting_with_combinations_of_graphics_text_and_sound_in_the_production_of_multimodal_texts_such_as_documentaries_media_reports_online_magazines_and_digital_books_to_influence_audience_responses_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use relationship to shape analysing and experimenting with combinations of graphics text and sound in the production of multimodal texts such as documentaries media reports online magazines and digital books to influence audience responses and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use relationship to shape analysing and experimenting with combinations of graphics text and sound in the production of multimodal texts such as documentaries media reports online magazines and digital books to influence audience responses and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "A long-form article includes audio of birds mentioned in the paragraph. What is the strongest justification for including it?",
+    "audio_prompt": "A long-form article includes audio of birds mentioned in the paragraph. What is the strongest justification for including it?",
+    "visual": {"type": "none", "alt_text": ""},
     "answers": [
-      {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "analysing and experimenting with combinations of graphics, text and sound in the production of multimodal texts such as documentaries, media reports, online magazines and digital books to influence audience responses",
-        "is_correct": true
-      }
+      {"text": "The sound gives direct sensory evidence that the written description alone cannot provide", "is_correct": true},
+      {"text": "Audio always makes an article more trustworthy", "is_correct": false},
+      {"text": "Readers no longer need the paragraph", "is_correct": false},
+      {"text": "The recording proves the species count is correct", "is_correct": false}
     ],
-    "correct_index": 3,
-    "explanation": {
-      "summary": "analysing and experimenting with combinations of graphics, text and sound in the production of multimodal texts such as documentaries, media reports, online magazines and digital books to influence audience responses",
-      "hint": "A writer or speaker can use relationship to shape analysing and experimenting with combinations of graphics, text and sound in the production of multimodal texts such as documentaries, media reports, online magazines and digital books to influence audience responses and influence how an audience understands the text."
-    }
+    "correct_index": 0,
+    "explanation": {"summary": "Audio can extend description by allowing readers to hear the subject directly.", "hint": "Identify the unique contribution of the added mode."},
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la03-t-005",
@@ -471,36 +1057,22 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_comparing_the_text_structure_and_language_features_of_a_print_text_transposed_to_an_online_environment_and_evaluating_the_effectiveness_of_the_online_text_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use word choice to shape comparing the text structure and language features of a print text transposed to an online environment and evaluating the effectiveness of the online text and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use word choice to shape comparing the text structure and language features of a print text transposed to an online environment and evaluating the effectiveness of the online text and influence how an audience understands the text?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "Two technology reviews use the same test results. One uses a table; the other buries every figure in prose. Which is likely easier for comparison?",
+    "audio_prompt": "Two technology reviews use the same test results. One uses a table; the other buries every figure in prose. Which is likely easier for comparison?",
+    "visual": {"type": "none", "alt_text": ""},
     "answers": [
-      {
-        "text": "comparing the text structure and language features of a print text transposed to an online environment and evaluating the effectiveness of the online text",
-        "is_correct": true
-      },
-      {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      }
+      {"text": "The table, because aligned values make differences easier to scan", "is_correct": true},
+      {"text": "The prose, because tables cannot contain evidence", "is_correct": false},
+      {"text": "Both must have identical effects", "is_correct": false},
+      {"text": "The table, because tables are always unbiased", "is_correct": false}
     ],
     "correct_index": 0,
-    "explanation": {
-      "summary": "comparing the text structure and language features of a print text transposed to an online environment and evaluating the effectiveness of the online text",
-      "hint": "A writer or speaker can use word choice to shape comparing the text structure and language features of a print text transposed to an online environment and evaluating the effectiveness of the online text and influence how an audience understands the text."
-    }
+    "explanation": {"summary": "Tables can make repeated categories and values easier to compare visually.", "hint": "Connect structure to the specific reading task."},
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la03-t-006",
@@ -508,36 +1080,22 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_analysing_the_text_structures_and_language_features_of_reviews_from_different_sources_and_evaluating_their_effectiveness_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use audience to shape analysing the text structures and language features of reviews from different sources, and evaluating their effectiveness and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use audience to shape analysing the text structures and language features of reviews from different sources, and evaluating their effectiveness and influence how an audience understands the text?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "A documentary repeatedly cuts back to an empty playground while discussing school closures. What does the recurring image contribute?",
+    "audio_prompt": "A documentary repeatedly cuts back to an empty playground while discussing school closures. What does the recurring image contribute?",
+    "visual": {"type": "none", "alt_text": ""},
     "answers": [
-      {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "analysing the text structures and language features of reviews from different sources, and evaluating their effectiveness",
-        "is_correct": true
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      }
+      {"text": "A visual motif that reinforces absence and loss", "is_correct": true},
+      {"text": "Proof that every school is empty", "is_correct": false},
+      {"text": "A neutral transition with no meaning", "is_correct": false},
+      {"text": "A replacement for all factual evidence", "is_correct": false}
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "analysing the text structures and language features of reviews from different sources, and evaluating their effectiveness",
-      "hint": "A writer or speaker can use audience to shape analysing the text structures and language features of reviews from different sources, and evaluating their effectiveness and influence how an audience understands the text."
-    }
+    "correct_index": 0,
+    "explanation": {"summary": "Repeated imagery can accumulate symbolic meaning alongside factual explanation.", "hint": "Look at how repetition across the visual mode shapes interpretation."},
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la03-t-007",
@@ -545,36 +1103,22 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_relationship_to_shape_analysing_and_experimenting_with_combinations_of_graphics_text_and_sound_in_the_production_of_multimodal_texts_such_as_documentaries_media_reports_online_magazines_and_digital_books_to_influence_audience_responses_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use relationship to shape analysing and experimenting with combinations of graphics, text and sound in the production of multimodal texts such as documentaries, media reports, online magazines and digital books to influence audience responses and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use relationship to shape analysing and experimenting with combinations of graphics, text and sound in the production of multimodal texts such as documentaries, media reports, online magazines and digital books to influence audience responses and influence how an audience understands the text?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "A printed recipe review becomes a social-media carousel with one step per slide. What has changed most?",
+    "audio_prompt": "A printed recipe review becomes a social-media carousel with one step per slide. What has changed most?",
+    "visual": {"type": "none", "alt_text": ""},
     "answers": [
-      {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "analysing and experimenting with combinations of graphics, text and sound in the production of multimodal texts such as documentaries, media reports, online magazines and digital books to influence audience responses",
-        "is_correct": true
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      }
+      {"text": "The sequence is broken into swipeable units suited to the platform", "is_correct": true},
+      {"text": "The recipe no longer has a sequence", "is_correct": false},
+      {"text": "The audience cannot revisit earlier information", "is_correct": false},
+      {"text": "The evaluation disappears automatically", "is_correct": false}
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "analysing and experimenting with combinations of graphics, text and sound in the production of multimodal texts such as documentaries, media reports, online magazines and digital books to influence audience responses",
-      "hint": "A writer or speaker can use relationship to shape analysing and experimenting with combinations of graphics, text and sound in the production of multimodal texts such as documentaries, media reports, online magazines and digital books to influence audience responses and influence how an audience understands the text."
-    }
+    "correct_index": 0,
+    "explanation": {"summary": "The content is restructured into discrete visual units designed for swipe-based navigation.", "hint": "Focus on structural adaptation to platform behaviour."},
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la03-t-008",
@@ -582,35 +1126,205 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_comparing_the_text_structure_and_language_features_of_a_print_text_transposed_to_an_online_environment_and_evaluating_the_effectiveness_of_the_online_text_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape comparing the text structure and language features of a print text transposed to an online environment and evaluating the effectiveness of the online text and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape comparing the text structure and language features of a print text transposed to an online environment and evaluating the effectiveness of the online text and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "A news explainer uses a vertical timeline that readers scroll through. Why might this suit a developing event?",
+    "audio_prompt": "A news explainer uses a vertical timeline that readers scroll through. Why might this suit a developing event?",
+    "visual": {"type": "none", "alt_text": ""},
     "answers": [
-      {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "comparing the text structure and language features of a print text transposed to an online environment and evaluating the effectiveness of the online text",
-        "is_correct": true
-      }
+      {"text": "It connects chronology with the physical act of moving through updates", "is_correct": true},
+      {"text": "Scrolling proves the event happened in that order", "is_correct": false},
+      {"text": "It prevents later corrections", "is_correct": false},
+      {"text": "It removes the need for dates", "is_correct": false}
     ],
-    "correct_index": 3,
-    "explanation": {
-      "summary": "comparing the text structure and language features of a print text transposed to an online environment and evaluating the effectiveness of the online text",
-      "hint": "A writer or speaker can use word choice to shape comparing the text structure and language features of a print text transposed to an online environment and evaluating the effectiveness of the online text and influence how an audience understands the text."
-    }
+    "correct_index": 0,
+    "explanation": {"summary": "A scroll-based timeline can make chronological development easy to follow while preserving dated updates.", "hint": "Explain how structure and content reinforce each other."},
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la03-t-009",
+    "curriculum_code": "AC9E10LA03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "A reviewer’s written article is measured and cautious, but the thumbnail says ‘WORST PHONE EVER!’ Which analysis is strongest?",
+    "audio_prompt": "A reviewer’s written article is measured and cautious, but the thumbnail says ‘WORST PHONE EVER!’ Which analysis is strongest?",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [
+      {"text": "The promotional framing exaggerates the article’s tone and may create expectations the review itself does not sustain", "is_correct": true},
+      {"text": "The thumbnail proves the article is dishonest", "is_correct": false},
+      {"text": "The article must also be entirely negative", "is_correct": false},
+      {"text": "Capital letters have no effect on audience expectations", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "Platform-facing elements such as thumbnails can position audiences differently from the main review.", "hint": "Compare the framing around the text with the text itself."},
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la03-t-010",
+    "curriculum_code": "AC9E10LA03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "A council webpage includes a language selector for key emergency information. Why is that an effective digital adaptation?",
+    "audio_prompt": "A council webpage includes a language selector for key emergency information. Why is that an effective digital adaptation?",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [
+      {"text": "It broadens access by letting readers choose a language version immediately", "is_correct": true},
+      {"text": "It makes the original English inaccurate", "is_correct": false},
+      {"text": "It guarantees every resident will read the page", "is_correct": false},
+      {"text": "It removes the need for clear navigation", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "Language selection uses digital delivery to provide alternate versions without crowding one page.", "hint": "Think about accessibility and user choice."},
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la03-t-011",
+    "curriculum_code": "AC9E10LA03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "A podcast critic plays two short clips before explaining why one mix sounds clearer. What makes this structure persuasive?",
+    "audio_prompt": "A podcast critic plays two short clips before explaining why one mix sounds clearer. What makes this structure persuasive?",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [
+      {"text": "Listeners can compare the evidence before hearing the critic’s interpretation", "is_correct": true},
+      {"text": "The clips force listeners to agree", "is_correct": false},
+      {"text": "Sound samples are more objective than all language", "is_correct": false},
+      {"text": "The explanation becomes unnecessary", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "Presenting comparable examples gives listeners evidence they can evaluate alongside the commentary.", "hint": "Notice the order: evidence first, interpretation second."},
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la03-t-012",
+    "curriculum_code": "AC9E10LA03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "A web feature on drought uses a silent autoplay background video behind dense text. Readers report difficulty concentrating. What is the best evaluation?",
+    "audio_prompt": "A web feature on drought uses a silent autoplay background video behind dense text. Readers report difficulty concentrating. What is the best evaluation?",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [
+      {"text": "The moving background competes with the written information, so the multimodal choice weakens readability", "is_correct": true},
+      {"text": "Any video automatically improves engagement", "is_correct": false},
+      {"text": "The problem proves video should never be used online", "is_correct": false},
+      {"text": "The text should be removed instead", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "Multimodal elements are effective only when they support rather than compete with the core communication.", "hint": "Judge contribution to purpose, not novelty."},
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la03-t-013",
+    "curriculum_code": "AC9E10LA03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "A magazine review is adapted into a 45-second social video. Which change is most defensible?",
+    "audio_prompt": "A magazine review is adapted into a 45-second social video. Which change is most defensible?",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [
+      {"text": "Select one central judgement and two pieces of evidence rather than compress every paragraph equally", "is_correct": true},
+      {"text": "Read the entire article at double speed", "is_correct": false},
+      {"text": "Remove all evidence and keep only the rating", "is_correct": false},
+      {"text": "Add unrelated effects to fill the screen", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "A short-form adaptation needs selective restructuring so the core evaluation remains clear and supported.", "hint": "Preserve the argument, not every sentence."},
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la03-t-014",
+    "curriculum_code": "AC9E10LA03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "An online article lets users sort a comparison table by price, battery life or weight. What does this interactivity change?",
+    "audio_prompt": "An online article lets users sort a comparison table by price, battery life or weight. What does this interactivity change?",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [
+      {"text": "Readers can reorganise evidence according to their own priorities", "is_correct": true},
+      {"text": "The writer no longer needs accurate data", "is_correct": false},
+      {"text": "The table stops making comparisons", "is_correct": false},
+      {"text": "Every reader will reach the same conclusion", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "Sorting lets users create different evidence pathways based on what matters to them.", "hint": "Think about how control shifts toward the reader."},
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la03-t-015",
+    "curriculum_code": "AC9E10LA03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "A documentary uses subtitles for dialogue in a noisy street scene even though the speakers use English. Why might this be effective?",
+    "audio_prompt": "A documentary uses subtitles for dialogue in a noisy street scene even though the speakers use English. Why might this be effective?",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [
+      {"text": "It supports comprehension when sound conditions make speech difficult to hear", "is_correct": true},
+      {"text": "It turns the dialogue into written fiction", "is_correct": false},
+      {"text": "It proves the speakers are unreliable", "is_correct": false},
+      {"text": "It makes the soundtrack unnecessary", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "Subtitles can improve access when environmental sound interferes with spoken clarity.", "hint": "Accessibility choices can respond to context, not only language."},
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la03-t-016",
+    "curriculum_code": "AC9E10LA03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "text structures, multimodal choices and audience effects",
+    "question": "A review site replaces a five-paragraph verdict with a scorecard for ‘value’, ‘performance’, ‘design’ and ‘repairability’. What does the scorecard make more visible?",
+    "audio_prompt": "A review site replaces a five-paragraph verdict with a scorecard for ‘value’, ‘performance’, ‘design’ and ‘repairability’. What does the scorecard make more visible?",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [
+      {"text": "The criteria being used to build the overall judgement", "is_correct": true},
+      {"text": "The reviewer’s opinion becomes objective", "is_correct": false},
+      {"text": "Narrative structure is impossible online", "is_correct": false},
+      {"text": "Every criterion must matter equally to all readers", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "The scorecard exposes the categories behind the evaluation, making the basis of judgement easier to inspect.", "hint": "Ask what the structure reveals about how the verdict was formed."},
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v6"
   }
 ]
