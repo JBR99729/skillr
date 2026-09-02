@@ -1,10 +1,36 @@
 #!/usr/bin/env node
 import fs from 'node:fs';
 import path from 'node:path';
+import os from 'node:os';
 import { spawnSync } from 'node:child_process';
 
 const root = process.cwd();
 const original = path.join(root, 'scripts/migrate_foundation_english_static.mjs');
+const englishRoot = path.join(root, 'foundation/english');
+const classroomSnapshot = fs.mkdtempSync(path.join(os.tmpdir(), 'skillr-foundation-classroom-'));
+
+function snapshotClassroomViews() {
+  if (!fs.existsSync(englishRoot)) return;
+  for (const entry of fs.readdirSync(englishRoot, { withFileTypes: true })) {
+    if (!entry.isDirectory() || !/^ac9ef(?:la|le|ly)\d{2}-/i.test(entry.name)) continue;
+    const source = path.join(englishRoot, entry.name, 'teacher-slides');
+    if (!fs.existsSync(source)) continue;
+    fs.cpSync(source, path.join(classroomSnapshot, entry.name, 'teacher-slides'), { recursive: true });
+  }
+}
+
+function restoreClassroomViews() {
+  if (!fs.existsSync(englishRoot)) return;
+  for (const entry of fs.readdirSync(englishRoot, { withFileTypes: true })) {
+    if (!entry.isDirectory() || !/^ac9ef(?:la|le|ly)\d{2}-/i.test(entry.name)) continue;
+    const target = path.join(englishRoot, entry.name, 'teacher-slides');
+    fs.rmSync(target, { recursive: true, force: true });
+    const source = path.join(classroomSnapshot, entry.name, 'teacher-slides');
+    if (fs.existsSync(source)) fs.cpSync(source, target, { recursive: true });
+  }
+}
+
+snapshotClassroomViews();
 let source = fs.readFileSync(original, 'utf8');
 
 source = source.replace(
@@ -24,9 +50,10 @@ const temp = path.join(root, 'scripts', `.tmp-foundation-english-student-facing-
 fs.writeFileSync(temp, source);
 const result = spawnSync(process.execPath, [temp], { cwd: root, stdio: 'inherit' });
 fs.rmSync(temp, { force: true });
+restoreClassroomViews();
+fs.rmSync(classroomSnapshot, { recursive: true, force: true });
 if (result.status !== 0) process.exit(result.status || 1);
 
-const englishRoot = path.join(root, 'foundation/english');
 const topicDirs = fs.readdirSync(englishRoot, { withFileTypes: true })
   .filter((entry) => entry.isDirectory() && /^ac9ef(?:la|le|ly)\d{2}-/i.test(entry.name));
 
@@ -49,7 +76,7 @@ for (const entry of topicDirs) {
     .replace(/<p><strong>If incorrect:<\/strong>/g, '<p><strong>If you are stuck:</strong>')
     .replace(/>Practice Sheet</g, '>Printable Worksheet<')
     .replace(/>Practice<\/a>/g, '>40-question Practice</a>')
-    .replace(/<h2>Teacher resource<\/h2><p>Project the fixed branded deck one slide at a time\.<\/p>/g, '<h2>Classroom display</h2><p>Open the fixed SkillrHub display for whole-class modelling and guided practice.</p>');
+    .replace(/<h2>Teacher resource<\/h2><p>Project the fixed branded deck one slide at a time\.<\/p>/g, '<h2>Classroom display</h2><p>Open the existing SkillrHub Classroom View.</p>');
 
   if (/^ac9efla01-/i.test(entry.name) && !/What students learn|Key concept|Learning intention|Learning goal|Teaching Lesson/i.test(html.replace(/<script[\s\S]*?<\/script>/gi, ''))) {
     const learningGoal = '<section class="curriculum-topic-section"><div class="curriculum-detail-body"><h2>Learning goal</h2><p><strong>I can choose words that suit who I am talking to.</strong></p><p>Ask a relevant question, make a clear request or share an opinion, then choose words that fit the person and situation.</p></div></section>';
@@ -59,4 +86,4 @@ for (const entry of topicDirs) {
   fs.writeFileSync(index, html);
 }
 
-console.log(`Rebuilt ${topicDirs.length} Foundation English topic/classroom sets with the student-facing source.`);
+console.log(`Rebuilt ${topicDirs.length} Foundation English topic pages while preserving Classroom Views unchanged.`);
