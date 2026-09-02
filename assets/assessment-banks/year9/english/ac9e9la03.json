@@ -5,39 +5,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_comparing_the_use_of_linear_and_non_linear_narratives_in_a_range_of_short_stories_and_determining_the_purpose_and_effect_of_the_different_structures_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape comparing the use of linear and non linear narratives in a range of short stories and determining the purpose and effect of the different structures and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape comparing the use of linear and non linear narratives in a range of short stories and determining the purpose and effect of the different structures and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "adapting and subverting conventions",
+    "question": "In this school podcast, what is the most important feature to notice? A news report opens with a first-person diary entry before presenting verified facts.",
+    "audio_prompt": "In this school podcast, what is the most important feature to notice? A news report opens with a first-person diary entry before presenting verified facts.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "comparing the use of linear and non-linear narratives in a range of short stories, and determining the purpose and effect of the different structures",
+        "text": "hybrid opening",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "neutral filler",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "formatting accident",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "unrelated convention",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "comparing the use of linear and non-linear narratives in a range of short stories, and determining the purpose and effect of the different structures",
-      "hint": "A writer or speaker can use word choice to shape comparing the use of linear and non-linear narratives in a range of short stories, and determining the purpose and effect of the different structures and influence how an audience understands the text."
+      "summary": "hybrid opening is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la03-p-002",
@@ -45,39 +47,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_comparing_the_opening_paragraphs_of_different_public_texts_such_as_feature_articles_and_determining_the_purpose_and_effect_of_the_different_structures_and_language_features_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use audience to shape comparing the opening paragraphs of different public texts such as feature articles and determining the purpose and effect of the different structures and language features and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use audience to shape comparing the opening paragraphs of different public texts such as feature articles and determining the purpose and effect of the different structures and language features and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "adapting and subverting conventions",
+    "question": "Read this detail from a Canberra youth forum: A documentary displays text messages over archival footage while the narrator stays silent. Which description is most precise?",
+    "audio_prompt": "Read this detail from a Canberra youth forum: A documentary displays text messages over archival footage while the narrator stays silent. Which description is most precise?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "formatting accident",
         "is_correct": false
       },
       {
-        "text": "comparing the opening paragraphs of different public texts such as feature articles, and determining the purpose and effect of the different structures and language features",
+        "text": "unrelated convention",
+        "is_correct": false
+      },
+      {
+        "text": "random decoration",
+        "is_correct": false
+      },
+      {
+        "text": "multimodal layering",
         "is_correct": true
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "comparing the opening paragraphs of different public texts such as feature articles, and determining the purpose and effect of the different structures and language features",
-      "hint": "A writer or speaker can use audience to shape comparing the opening paragraphs of different public texts such as feature articles, and determining the purpose and effect of the different structures and language features and influence how an audience understands the text."
+      "summary": "multimodal layering is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la03-p-003",
@@ -85,39 +89,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_comparing_the_use_of_linear_and_non_linear_narratives_in_a_range_of_short_stories_and_determining_the_purpose_and_effect_of_the_different_structures_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape comparing the use of linear and non linear narratives in a range of short stories and determining the purpose and effect of the different structures and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape comparing the use of linear and non linear narratives in a range of short stories and determining the purpose and effect of the different structures and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "adapting and subverting conventions",
+    "question": "Which label best fits the choice made in this regional newspaper? A “recipe for surviving exam week” uses an ingredient list to give wellbeing advice.",
+    "audio_prompt": "Which label best fits the choice made in this regional newspaper? A “recipe for surviving exam week” uses an ingredient list to give wellbeing advice.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "random decoration",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "unimportant wording",
         "is_correct": false
       },
       {
-        "text": "comparing the use of linear and non-linear narratives in a range of short stories, and determining the purpose and effect of the different structures",
+        "text": "borrowed structure",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "unrelated convention",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "comparing the use of linear and non-linear narratives in a range of short stories, and determining the purpose and effect of the different structures",
-      "hint": "A writer or speaker can use word choice to shape comparing the use of linear and non-linear narratives in a range of short stories, and determining the purpose and effect of the different structures and influence how an audience understands the text."
+      "summary": "borrowed structure is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la03-p-004",
@@ -125,39 +131,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_comparing_the_opening_paragraphs_of_different_public_texts_such_as_feature_articles_and_determining_the_purpose_and_effect_of_the_different_structures_and_language_features_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use audience to shape comparing the opening paragraphs of different public texts such as feature articles and determining the purpose and effect of the different structures and language features and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use audience to shape comparing the opening paragraphs of different public texts such as feature articles and determining the purpose and effect of the different structures and language features and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "adapting and subverting conventions",
+    "question": "A community sport newsletter contains this example: A sports article gives the final score first, then rewinds minute by minute. What should a careful reader identify first?",
+    "audio_prompt": "A community sport newsletter contains this example: A sports article gives the final score first, then rewinds minute by minute. What should a careful reader identify first?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "background detail",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "comparing the opening paragraphs of different public texts such as feature articles, and determining the purpose and effect of the different structures and language features",
+        "text": "reverse chronology",
         "is_correct": true
+      },
+      {
+        "text": "random decoration",
+        "is_correct": false
+      },
+      {
+        "text": "unimportant wording",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "explanation": {
-      "summary": "comparing the opening paragraphs of different public texts such as feature articles, and determining the purpose and effect of the different structures and language features",
-      "hint": "A writer or speaker can use audience to shape comparing the opening paragraphs of different public texts such as feature articles, and determining the purpose and effect of the different structures and language features and influence how an audience understands the text."
+      "summary": "reverse chronology is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la03-p-005",
@@ -165,38 +173,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_comparing_the_use_of_linear_and_non_linear_narratives_in_a_range_of_short_stories_and_determining_the_purpose_and_effect_of_the_different_structures_and_influence_how_an_audience_understands_the_text",
-    "question": "What should you check when using a writer or speaker can use word choice to shape comparing the use of linear and non-linear narratives in a range of short stories, and determining the purpose and effect of the different structures and influence how an audience understands the text?",
-    "audio_prompt": "What should you check when using a writer or speaker can use word choice to shape comparing the use of linear and non-linear narratives in a range of short stories, and determining the purpose and effect of the different structures and influence how an audience understands the text?",
+    "stage": "recognise",
+    "skill": "adapting and subverting conventions",
+    "question": "Look closely at this coastal clean-up page extract: A poem contains a QR link to recorded street sounds. Which feature matters most?",
+    "audio_prompt": "Look closely at this coastal clean-up page extract: A poem contains a QR link to recorded street sounds. Which feature matters most?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "comparing the use of linear and non-linear narratives in a range of short stories, and determining the purpose and effect of the different structures",
+        "text": "cross-mode extension",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "unimportant wording",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "background detail",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "neutral filler",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "comparing the use of linear and non-linear narratives in a range of short stories, and determining the purpose and effect of the different structures",
-      "hint": "A writer or speaker can use word choice to shape comparing the use of linear and non-linear narratives in a range of short stories, and determining the purpose and effect of the different structures and influence how an audience understands the text."
+      "summary": "cross-mode extension is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la03-p-006",
@@ -204,38 +215,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_comparing_the_opening_paragraphs_of_different_public_texts_such_as_feature_articles_and_determining_the_purpose_and_effect_of_the_different_structures_and_language_features_and_influence_how_an_audience_understands_the_text",
-    "question": "What should you check when using a writer or speaker can use audience to shape comparing the opening paragraphs of different public texts such as feature articles, and determining the purpose and effect of the different structures and language features and influence how an audience understands the text?",
-    "audio_prompt": "What should you check when using a writer or speaker can use audience to shape comparing the opening paragraphs of different public texts such as feature articles, and determining the purpose and effect of the different structures and language features and influence how an audience understands the text?",
+    "stage": "recognise",
+    "skill": "adapting and subverting conventions",
+    "question": "What is the clearest way to classify this choice from a student magazine? A campaign video imitates a luxury-car advertisement to criticise car dependence.",
+    "audio_prompt": "What is the clearest way to classify this choice from a student magazine? A campaign video imitates a luxury-car advertisement to criticise car dependence.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "background detail",
         "is_correct": false
       },
       {
-        "text": "comparing the opening paragraphs of different public texts such as feature articles, and determining the purpose and effect of the different structures and language features",
+        "text": "neutral filler",
+        "is_correct": false
+      },
+      {
+        "text": "formatting accident",
+        "is_correct": false
+      },
+      {
+        "text": "parody",
         "is_correct": true
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "comparing the opening paragraphs of different public texts such as feature articles, and determining the purpose and effect of the different structures and language features",
-      "hint": "A writer or speaker can use audience to shape comparing the opening paragraphs of different public texts such as feature articles, and determining the purpose and effect of the different structures and language features and influence how an audience understands the text."
+      "summary": "parody is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la03-p-007",
@@ -243,39 +257,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_comparing_the_use_of_linear_and_non_linear_narratives_in_a_range_of_short_stories_and_determining_the_purpose_and_effect_of_the_different_structures_and_influence_how_an_audience_understands_the_text",
-    "question": "Which statement best explains a writer or speaker can use word choice to shape comparing the use of linear and non-linear narratives in a range of short stories, and determining the purpose and effect of the different structures and influence how an audience understands the text?",
-    "audio_prompt": "Which statement best explains a writer or speaker can use word choice to shape comparing the use of linear and non-linear narratives in a range of short stories, and determining the purpose and effect of the different structures and influence how an audience understands the text?",
+    "stage": "recognise",
+    "skill": "adapting and subverting conventions",
+    "question": "Before interpreting the effect, identify the main choice here: A graphic narrative removes speech balloons for three pages and relies on faces and gesture.",
+    "audio_prompt": "Before interpreting the effect, identify the main choice here: A graphic narrative removes speech balloons for three pages and relies on faces and gesture.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "formatting accident",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "unrelated convention",
         "is_correct": false
       },
       {
-        "text": "comparing the use of linear and non-linear narratives in a range of short stories, and determining the purpose and effect of the different structures",
+        "text": "strategic omission",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "neutral filler",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "comparing the use of linear and non-linear narratives in a range of short stories, and determining the purpose and effect of the different structures",
-      "hint": "A writer or speaker can use word choice to shape comparing the use of linear and non-linear narratives in a range of short stories, and determining the purpose and effect of the different structures and influence how an audience understands the text."
+      "summary": "strategic omission is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la03-p-008",
@@ -283,39 +299,1385 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_comparing_the_opening_paragraphs_of_different_public_texts_such_as_feature_articles_and_determining_the_purpose_and_effect_of_the_different_structures_and_language_features_and_influence_how_an_audience_understands_the_text",
-    "question": "Which statement best explains a writer or speaker can use audience to shape comparing the opening paragraphs of different public texts such as feature articles, and determining the purpose and effect of the different structures and language features and influence how an audience understands the text?",
-    "audio_prompt": "Which statement best explains a writer or speaker can use audience to shape comparing the opening paragraphs of different public texts such as feature articles, and determining the purpose and effect of the different structures and language features and influence how an audience understands the text?",
+    "stage": "recognise",
+    "skill": "adapting and subverting conventions",
+    "question": "Which option accurately names the technique operating in this public-transport survey? A formal speech suddenly shifts into a conversational anecdote.",
+    "audio_prompt": "Which option accurately names the technique operating in this public-transport survey? A formal speech suddenly shifts into a conversational anecdote.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "random decoration",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "register shift",
+        "is_correct": true
+      },
+      {
+        "text": "formatting accident",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "unrelated convention",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "register shift is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la03-p-009",
+    "curriculum_code": "AC9E9LA03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "adapting and subverting conventions",
+    "question": "This detail appears in a school captain speech: An online review presents its verdict as a mock weather forecast. What has the creator done?",
+    "audio_prompt": "This detail appears in a school captain speech: An online review presents its verdict as a mock weather forecast. What has the creator done?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "genre blending",
+        "is_correct": true
+      },
+      {
+        "text": "unrelated convention",
         "is_correct": false
       },
       {
-        "text": "comparing the opening paragraphs of different public texts such as feature articles, and determining the purpose and effect of the different structures and language features",
+        "text": "random decoration",
+        "is_correct": false
+      },
+      {
+        "text": "unimportant wording",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "genre blending is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la03-p-010",
+    "curriculum_code": "AC9E9LA03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "adapting and subverting conventions",
+    "question": "Which feature is actually present in this neighbourhood campaign example? A memoir chapter is arranged as search-history entries with reflections underneath.",
+    "audio_prompt": "Which feature is actually present in this neighbourhood campaign example? A memoir chapter is arranged as search-history entries with reflections underneath.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "random decoration",
+        "is_correct": false
+      },
+      {
+        "text": "unimportant wording",
+        "is_correct": false
+      },
+      {
+        "text": "background detail",
+        "is_correct": false
+      },
+      {
+        "text": "digital-form adaptation",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "comparing the opening paragraphs of different public texts such as feature articles, and determining the purpose and effect of the different structures and language features",
-      "hint": "A writer or speaker can use audience to shape comparing the opening paragraphs of different public texts such as feature articles, and determining the purpose and effect of the different structures and language features and influence how an audience understands the text."
+      "summary": "digital-form adaptation is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la03-p-011",
+    "curriculum_code": "AC9E9LA03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "adapting and subverting conventions",
+    "question": "Why does this choice matter in the library zine? A news report opens with a first-person diary entry before presenting verified facts.",
+    "audio_prompt": "Why does this choice matter in the library zine? A news report opens with a first-person diary entry before presenting verified facts.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "hybrid opening: it mixes personal reflection with news conventions.",
+        "is_correct": true
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "hybrid opening is the strongest answer because it mixes personal reflection with news conventions. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la03-p-012",
+    "curriculum_code": "AC9E9LA03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "adapting and subverting conventions",
+    "question": "Which explanation best connects the detail to its effect? A documentary displays text messages over archival footage while the narrator stays silent.",
+    "audio_prompt": "Which explanation best connects the detail to its effect? A documentary displays text messages over archival footage while the narrator stays silent.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "multimodal layering: it lets written and visual evidence interact without verbal explanation.",
+        "is_correct": true
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "multimodal layering is the strongest answer because it lets written and visual evidence interact without verbal explanation. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la03-p-013",
+    "curriculum_code": "AC9E9LA03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "adapting and subverting conventions",
+    "question": "What does the choice contribute to meaning here? A “recipe for surviving exam week” uses an ingredient list to give wellbeing advice.",
+    "audio_prompt": "What does the choice contribute to meaning here? A “recipe for surviving exam week” uses an ingredient list to give wellbeing advice.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "borrowed structure: it re-purposes a recipe convention for humorous advice.",
+        "is_correct": true
+      },
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "borrowed structure is the strongest answer because it re-purposes a recipe convention for humorous advice. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la03-p-014",
+    "curriculum_code": "AC9E9LA03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "adapting and subverting conventions",
+    "question": "How is a reader or listener likely to be guided by this choice? A sports article gives the final score first, then rewinds minute by minute.",
+    "audio_prompt": "How is a reader or listener likely to be guided by this choice? A sports article gives the final score first, then rewinds minute by minute.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "reverse chronology: it shifts attention from what happened to how the result developed.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "reverse chronology is the strongest answer because it shifts attention from what happened to how the result developed. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la03-p-015",
+    "curriculum_code": "AC9E9LA03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "adapting and subverting conventions",
+    "question": "Which explanation is supported by the actual wording or structure? A poem contains a QR link to recorded street sounds.",
+    "audio_prompt": "Which explanation is supported by the actual wording or structure? A poem contains a QR link to recorded street sounds.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "cross-mode extension: it adds sound so place is experienced as well as described.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "cross-mode extension is the strongest answer because it adds sound so place is experienced as well as described. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la03-p-016",
+    "curriculum_code": "AC9E9LA03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "adapting and subverting conventions",
+    "question": "A reader notices this in a school documentary: A campaign video imitates a luxury-car advertisement to criticise car dependence. What is the strongest explanation?",
+    "audio_prompt": "A reader notices this in a school documentary: A campaign video imitates a luxury-car advertisement to criticise car dependence. What is the strongest explanation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "parody: it copies a familiar form in order to challenge it.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "parody is the strongest answer because it copies a familiar form in order to challenge it. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la03-p-017",
+    "curriculum_code": "AC9E9LA03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "adapting and subverting conventions",
+    "question": "What is gained by using the feature this way? A graphic narrative removes speech balloons for three pages and relies on faces and gesture.",
+    "audio_prompt": "What is gained by using the feature this way? A graphic narrative removes speech balloons for three pages and relies on faces and gesture.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "strategic omission: it breaks a normal convention to foreground silence.",
+        "is_correct": true
+      },
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "strategic omission is the strongest answer because it breaks a normal convention to foreground silence. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la03-p-018",
+    "curriculum_code": "AC9E9LA03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "adapting and subverting conventions",
+    "question": "Which response goes beyond naming the feature and explains what it does? A formal speech suddenly shifts into a conversational anecdote.",
+    "audio_prompt": "Which response goes beyond naming the feature and explains what it does? A formal speech suddenly shifts into a conversational anecdote.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "register shift: it interrupts formality to create intimacy and renewed attention.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "register shift is the strongest answer because it interrupts formality to create intimacy and renewed attention. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la03-p-019",
+    "curriculum_code": "AC9E9LA03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "adapting and subverting conventions",
+    "question": "How does this choice help the debate transcript achieve its effect? An online review presents its verdict as a mock weather forecast.",
+    "audio_prompt": "How does this choice help the debate transcript achieve its effect? An online review presents its verdict as a mock weather forecast.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "genre blending: it borrows another genre to make evaluation memorable.",
+        "is_correct": true
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "genre blending is the strongest answer because it borrows another genre to make evaluation memorable. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la03-p-020",
+    "curriculum_code": "AC9E9LA03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "adapting and subverting conventions",
+    "question": "Which interpretation best accounts for this detail? A memoir chapter is arranged as search-history entries with reflections underneath.",
+    "audio_prompt": "Which interpretation best accounts for this detail? A memoir chapter is arranged as search-history entries with reflections underneath.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "digital-form adaptation: it uses a familiar digital structure to organise memory non-linearly.",
+        "is_correct": true
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "digital-form adaptation is the strongest answer because it uses a familiar digital structure to organise memory non-linearly. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la03-p-021",
+    "curriculum_code": "AC9E9LA03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "adapting and subverting conventions",
+    "question": "Two readers disagree about this detail: A news report opens with a first-person diary entry before presenting verified facts. Which interpretation is best supported?",
+    "audio_prompt": "Two readers disagree about this detail: A news report opens with a first-person diary entry before presenting verified facts. Which interpretation is best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "hybrid opening: it mixes personal reflection with news conventions.",
+        "is_correct": true
+      },
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "hybrid opening is the strongest answer because it mixes personal reflection with news conventions. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la03-p-022",
+    "curriculum_code": "AC9E9LA03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "adapting and subverting conventions",
+    "question": "Which analysis avoids overclaiming about this school newspaper example? A documentary displays text messages over archival footage while the narrator stays silent.",
+    "audio_prompt": "Which analysis avoids overclaiming about this school newspaper example? A documentary displays text messages over archival footage while the narrator stays silent.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "multimodal layering: it lets written and visual evidence interact without verbal explanation.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "multimodal layering is the strongest answer because it lets written and visual evidence interact without verbal explanation. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la03-p-023",
+    "curriculum_code": "AC9E9LA03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "adapting and subverting conventions",
+    "question": "Choose the strongest evidence-based reading of this choice: A “recipe for surviving exam week” uses an ingredient list to give wellbeing advice.",
+    "audio_prompt": "Choose the strongest evidence-based reading of this choice: A “recipe for surviving exam week” uses an ingredient list to give wellbeing advice.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "borrowed structure: it re-purposes a recipe convention for humorous advice.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "borrowed structure is the strongest answer because it re-purposes a recipe convention for humorous advice. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la03-p-024",
+    "curriculum_code": "AC9E9LA03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "adapting and subverting conventions",
+    "question": "Which response is most precise about both the feature and its effect? A sports article gives the final score first, then rewinds minute by minute.",
+    "audio_prompt": "Which response is most precise about both the feature and its effect? A sports article gives the final score first, then rewinds minute by minute.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "reverse chronology: it shifts attention from what happened to how the result developed.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "reverse chronology is the strongest answer because it shifts attention from what happened to how the result developed. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la03-p-025",
+    "curriculum_code": "AC9E9LA03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "adapting and subverting conventions",
+    "question": "Which claim could be defended most convincingly using this exact detail? A poem contains a QR link to recorded street sounds.",
+    "audio_prompt": "Which claim could be defended most convincingly using this exact detail? A poem contains a QR link to recorded street sounds.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "cross-mode extension: it adds sound so place is experienced as well as described.",
+        "is_correct": true
+      },
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "cross-mode extension is the strongest answer because it adds sound so place is experienced as well as described. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la03-p-026",
+    "curriculum_code": "AC9E9LA03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "adapting and subverting conventions",
+    "question": "Which interpretation stays closest to what the local sports podcast actually shows? A campaign video imitates a luxury-car advertisement to criticise car dependence.",
+    "audio_prompt": "Which interpretation stays closest to what the local sports podcast actually shows? A campaign video imitates a luxury-car advertisement to criticise car dependence.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "parody: it copies a familiar form in order to challenge it.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "parody is the strongest answer because it copies a familiar form in order to challenge it. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la03-p-027",
+    "curriculum_code": "AC9E9LA03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "adapting and subverting conventions",
+    "question": "Which response corrects the common mistake of treating the feature as having one fixed effect? A graphic narrative removes speech balloons for three pages and relies on faces and gesture.",
+    "audio_prompt": "Which response corrects the common mistake of treating the feature as having one fixed effect? A graphic narrative removes speech balloons for three pages and relies on faces and gesture.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "strategic omission: it breaks a normal convention to foreground silence.",
+        "is_correct": true
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "strategic omission is the strongest answer because it breaks a normal convention to foreground silence. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la03-p-028",
+    "curriculum_code": "AC9E9LA03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "adapting and subverting conventions",
+    "question": "Which explanation remains convincing when audience and purpose are considered? A formal speech suddenly shifts into a conversational anecdote.",
+    "audio_prompt": "Which explanation remains convincing when audience and purpose are considered? A formal speech suddenly shifts into a conversational anecdote.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "register shift: it interrupts formality to create intimacy and renewed attention.",
+        "is_correct": true
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "register shift is the strongest answer because it interrupts formality to create intimacy and renewed attention. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la03-p-029",
+    "curriculum_code": "AC9E9LA03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "adapting and subverting conventions",
+    "question": "Which option gives the most defensible analysis of this choice? An online review presents its verdict as a mock weather forecast.",
+    "audio_prompt": "Which option gives the most defensible analysis of this choice? An online review presents its verdict as a mock weather forecast.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "genre blending: it borrows another genre to make evaluation memorable.",
+        "is_correct": true
+      },
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "genre blending is the strongest answer because it borrows another genre to make evaluation memorable. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la03-p-030",
+    "curriculum_code": "AC9E9LA03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "adapting and subverting conventions",
+    "question": "Which reading distinguishes evidence from assumption most successfully? A memoir chapter is arranged as search-history entries with reflections underneath.",
+    "audio_prompt": "Which reading distinguishes evidence from assumption most successfully? A memoir chapter is arranged as search-history entries with reflections underneath.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "digital-form adaptation: it uses a familiar digital structure to organise memory non-linearly.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "digital-form adaptation is the strongest answer because it uses a familiar digital structure to organise memory non-linearly. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la03-p-031",
+    "curriculum_code": "AC9E9LA03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "adapting and subverting conventions",
+    "question": "You are revising a book-club post. Which decision would use the same idea most purposefully? Starting point: A news report opens with a first-person diary entry before presenting verified facts.",
+    "audio_prompt": "You are revising a book-club post. Which decision would use the same idea most purposefully? Starting point: A news report opens with a first-person diary entry before presenting verified facts.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "hybrid opening: it mixes personal reflection with news conventions.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "hybrid opening is the strongest answer because it mixes personal reflection with news conventions. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la03-p-032",
+    "curriculum_code": "AC9E9LA03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "adapting and subverting conventions",
+    "question": "Which revision would preserve the intended effect without simply adding complexity? A documentary displays text messages over archival footage while the narrator stays silent.",
+    "audio_prompt": "Which revision would preserve the intended effect without simply adding complexity? A documentary displays text messages over archival footage while the narrator stays silent.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "multimodal layering: it lets written and visual evidence interact without verbal explanation.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "multimodal layering is the strongest answer because it lets written and visual evidence interact without verbal explanation. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la03-p-033",
+    "curriculum_code": "AC9E9LA03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "adapting and subverting conventions",
+    "question": "A writer wants a similar effect in a new section. Which principle should guide the revision? A “recipe for surviving exam week” uses an ingredient list to give wellbeing advice.",
+    "audio_prompt": "A writer wants a similar effect in a new section. Which principle should guide the revision? A “recipe for surviving exam week” uses an ingredient list to give wellbeing advice.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "borrowed structure: it re-purposes a recipe convention for humorous advice.",
+        "is_correct": true
+      },
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "borrowed structure is the strongest answer because it re-purposes a recipe convention for humorous advice. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la03-p-034",
+    "curriculum_code": "AC9E9LA03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "adapting and subverting conventions",
+    "question": "Which editing decision shows deliberate control of the feature demonstrated here? A sports article gives the final score first, then rewinds minute by minute.",
+    "audio_prompt": "Which editing decision shows deliberate control of the feature demonstrated here? A sports article gives the final score first, then rewinds minute by minute.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "reverse chronology: it shifts attention from what happened to how the result developed.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "reverse chronology is the strongest answer because it shifts attention from what happened to how the result developed. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la03-p-035",
+    "curriculum_code": "AC9E9LA03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "adapting and subverting conventions",
+    "question": "How could a creator build on this choice without merely repeating it? A poem contains a QR link to recorded street sounds.",
+    "audio_prompt": "How could a creator build on this choice without merely repeating it? A poem contains a QR link to recorded street sounds.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "cross-mode extension: it adds sound so place is experienced as well as described.",
+        "is_correct": true
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "cross-mode extension is the strongest answer because it adds sound so place is experienced as well as described. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la03-p-036",
+    "curriculum_code": "AC9E9LA03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "adapting and subverting conventions",
+    "question": "Which revision would make the effect clearer while keeping it appropriate for the audience? A campaign video imitates a luxury-car advertisement to criticise car dependence.",
+    "audio_prompt": "Which revision would make the effect clearer while keeping it appropriate for the audience? A campaign video imitates a luxury-car advertisement to criticise car dependence.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "parody: it copies a familiar form in order to challenge it.",
+        "is_correct": true
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "parody is the strongest answer because it copies a familiar form in order to challenge it. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la03-p-037",
+    "curriculum_code": "AC9E9LA03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "adapting and subverting conventions",
+    "question": "Which alternative best applies the same underlying principle? A graphic narrative removes speech balloons for three pages and relies on faces and gesture.",
+    "audio_prompt": "Which alternative best applies the same underlying principle? A graphic narrative removes speech balloons for three pages and relies on faces and gesture.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "strategic omission: it breaks a normal convention to foreground silence.",
+        "is_correct": true
+      },
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "strategic omission is the strongest answer because it breaks a normal convention to foreground silence. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la03-p-038",
+    "curriculum_code": "AC9E9LA03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "adapting and subverting conventions",
+    "question": "Which next choice would extend the effect most logically? A formal speech suddenly shifts into a conversational anecdote.",
+    "audio_prompt": "Which next choice would extend the effect most logically? A formal speech suddenly shifts into a conversational anecdote.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "register shift: it interrupts formality to create intimacy and renewed attention.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "register shift is the strongest answer because it interrupts formality to create intimacy and renewed attention. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la03-p-039",
+    "curriculum_code": "AC9E9LA03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "adapting and subverting conventions",
+    "question": "Which revision best matches audience, purpose and the feature shown here? An online review presents its verdict as a mock weather forecast.",
+    "audio_prompt": "Which revision best matches audience, purpose and the feature shown here? An online review presents its verdict as a mock weather forecast.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "genre blending: it borrows another genre to make evaluation memorable.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "genre blending is the strongest answer because it borrows another genre to make evaluation memorable. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la03-p-040",
+    "curriculum_code": "AC9E9LA03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "adapting and subverting conventions",
+    "question": "Which editing move would strengthen the text while keeping this effect controlled? A memoir chapter is arranged as search-history entries with reflections underneath.",
+    "audio_prompt": "Which editing move would strengthen the text while keeping this effect controlled? A memoir chapter is arranged as search-history entries with reflections underneath.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "digital-form adaptation: it uses a familiar digital structure to organise memory non-linearly.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "digital-form adaptation is the strongest answer because it uses a familiar digital structure to organise memory non-linearly. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la03-t-001",
@@ -323,36 +1685,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_comparing_the_use_of_linear_and_non_linear_narratives_in_a_range_of_short_stories_and_determining_the_purpose_and_effect_of_the_different_structures_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use word choice to shape comparing the use of linear and non-linear narratives in a range of short stories, and determining the purpose and effect of the different structures and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use word choice to shape comparing the use of linear and non-linear narratives in a range of short stories, and determining the purpose and effect of the different structures and influence how an audience understands the text?",
+    "skill": "adapting and subverting conventions",
+    "question": "Which analysis best explains the key choice in this bushfire preparedness video? A new example uses the same kind of deliberate choice: A news report opens with a first-person diary entry before presenting verified facts.",
+    "audio_prompt": "Which analysis best explains the key choice in this bushfire preparedness video? A new example uses the same kind of deliberate choice: A news report opens with a first-person diary entry before presenting verified facts.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "comparing the use of linear and non-linear narratives in a range of short stories, and determining the purpose and effect of the different structures",
+        "text": "hybrid opening: it mixes personal reflection with news conventions.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "comparing the use of linear and non-linear narratives in a range of short stories, and determining the purpose and effect of the different structures",
-      "hint": "A writer or speaker can use word choice to shape comparing the use of linear and non-linear narratives in a range of short stories, and determining the purpose and effect of the different structures and influence how an audience understands the text."
-    }
+      "summary": "hybrid opening is the strongest answer because it mixes personal reflection with news conventions. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la03-t-002",
@@ -360,36 +1726,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_comparing_the_opening_paragraphs_of_different_public_texts_such_as_feature_articles_and_determining_the_purpose_and_effect_of_the_different_structures_and_language_features_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use audience to shape comparing the opening paragraphs of different public texts such as feature articles, and determining the purpose and effect of the different structures and language features and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use audience to shape comparing the opening paragraphs of different public texts such as feature articles, and determining the purpose and effect of the different structures and language features and influence how an audience understands the text?",
+    "skill": "adapting and subverting conventions",
+    "question": "Consider this detail from a state library exhibition: In a separate text, the creator makes a comparable move: A documentary displays text messages over archival footage while the narrator stays silent. Which response is most convincing?",
+    "audio_prompt": "Consider this detail from a state library exhibition: In a separate text, the creator makes a comparable move: A documentary displays text messages over archival footage while the narrator stays silent. Which response is most convincing?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
         "is_correct": false
       },
       {
-        "text": "comparing the opening paragraphs of different public texts such as feature articles, and determining the purpose and effect of the different structures and language features",
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "multimodal layering: it lets written and visual evidence interact without verbal explanation.",
         "is_correct": true
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "comparing the opening paragraphs of different public texts such as feature articles, and determining the purpose and effect of the different structures and language features",
-      "hint": "A writer or speaker can use audience to shape comparing the opening paragraphs of different public texts such as feature articles, and determining the purpose and effect of the different structures and language features and influence how an audience understands the text."
-    }
+      "summary": "multimodal layering is the strongest answer because it lets written and visual evidence interact without verbal explanation. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la03-t-003",
@@ -397,36 +1767,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_comparing_the_use_of_linear_and_non_linear_narratives_in_a_range_of_short_stories_and_determining_the_purpose_and_effect_of_the_different_structures_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape comparing the use of linear and non linear narratives in a range of short stories and determining the purpose and effect of the different structures and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape comparing the use of linear and non linear narratives in a range of short stories and determining the purpose and effect of the different structures and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "adapting and subverting conventions",
+    "question": "What is the strongest interpretation of this regional arts review example? A different writer handles the idea this way: A ‘recipe for surviving exam week’ uses an ingredient list to give wellbeing advice.",
+    "audio_prompt": "What is the strongest interpretation of this regional arts review example? A different writer handles the idea this way: A ‘recipe for surviving exam week’ uses an ingredient list to give wellbeing advice.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "The choice changes only surface style and cannot influence meaning.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
         "is_correct": false
       },
       {
-        "text": "comparing the use of linear and non-linear narratives in a range of short stories, and determining the purpose and effect of the different structures",
+        "text": "borrowed structure: it re-purposes a recipe convention for humorous advice.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "comparing the use of linear and non-linear narratives in a range of short stories, and determining the purpose and effect of the different structures",
-      "hint": "A writer or speaker can use word choice to shape comparing the use of linear and non-linear narratives in a range of short stories, and determining the purpose and effect of the different structures and influence how an audience understands the text."
-    }
+      "summary": "borrowed structure is the strongest answer because it re-purposes a recipe convention for humorous advice. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la03-t-004",
@@ -434,36 +1808,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_comparing_the_opening_paragraphs_of_different_public_texts_such_as_feature_articles_and_determining_the_purpose_and_effect_of_the_different_structures_and_language_features_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use audience to shape comparing the opening paragraphs of different public texts such as feature articles and determining the purpose and effect of the different structures and language features and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use audience to shape comparing the opening paragraphs of different public texts such as feature articles and determining the purpose and effect of the different structures and language features and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "adapting and subverting conventions",
+    "question": "Which option best explains how the choice works for its likely audience? In an unrelated context, readers encounter this choice: A sports article gives the final score first, then rewinds minute by minute.",
+    "audio_prompt": "Which option best explains how the choice works for its likely audience? In an unrelated context, readers encounter this choice: A sports article gives the final score first, then rewinds minute by minute.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "comparing the opening paragraphs of different public texts such as feature articles, and determining the purpose and effect of the different structures and language features",
+        "text": "reverse chronology: it shifts attention from what happened to how the result developed.",
         "is_correct": true
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "explanation": {
-      "summary": "comparing the opening paragraphs of different public texts such as feature articles, and determining the purpose and effect of the different structures and language features",
-      "hint": "A writer or speaker can use audience to shape comparing the opening paragraphs of different public texts such as feature articles, and determining the purpose and effect of the different structures and language features and influence how an audience understands the text."
-    }
+      "summary": "reverse chronology is the strongest answer because it shifts attention from what happened to how the result developed. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la03-t-005",
@@ -471,36 +1849,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_comparing_the_use_of_linear_and_non_linear_narratives_in_a_range_of_short_stories_and_determining_the_purpose_and_effect_of_the_different_structures_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape comparing the use of linear and non linear narratives in a range of short stories and determining the purpose and effect of the different structures and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape comparing the use of linear and non linear narratives in a range of short stories and determining the purpose and effect of the different structures and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "adapting and subverting conventions",
+    "question": "Which analysis is best supported by this rail-station campaign detail? A new example uses the same kind of deliberate choice: A poem contains a QR link to recorded street sounds.",
+    "audio_prompt": "Which analysis is best supported by this rail-station campaign detail? A new example uses the same kind of deliberate choice: A poem contains a QR link to recorded street sounds.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "comparing the use of linear and non-linear narratives in a range of short stories, and determining the purpose and effect of the different structures",
+        "text": "cross-mode extension: it adds sound so place is experienced as well as described.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "The choice changes only surface style and cannot influence meaning.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Audience and context can be ignored because the feature works independently.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "comparing the use of linear and non-linear narratives in a range of short stories, and determining the purpose and effect of the different structures",
-      "hint": "A writer or speaker can use word choice to shape comparing the use of linear and non-linear narratives in a range of short stories, and determining the purpose and effect of the different structures and influence how an audience understands the text."
-    }
+      "summary": "cross-mode extension is the strongest answer because it adds sound so place is experienced as well as described. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la03-t-006",
@@ -508,36 +1890,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_comparing_the_opening_paragraphs_of_different_public_texts_such_as_feature_articles_and_determining_the_purpose_and_effect_of_the_different_structures_and_language_features_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use audience to shape comparing the opening paragraphs of different public texts such as feature articles and determining the purpose and effect of the different structures and language features and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use audience to shape comparing the opening paragraphs of different public texts such as feature articles and determining the purpose and effect of the different structures and language features and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "adapting and subverting conventions",
+    "question": "Which response most accurately connects feature and effect here? In a separate text, the creator makes a comparable move: A campaign video imitates a luxury-car advertisement to criticise car dependence.",
+    "audio_prompt": "Which response most accurately connects feature and effect here? In a separate text, the creator makes a comparable move: A campaign video imitates a luxury-car advertisement to criticise car dependence.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
         "is_correct": false
       },
       {
-        "text": "comparing the opening paragraphs of different public texts such as feature articles, and determining the purpose and effect of the different structures and language features",
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "parody: it copies a familiar form in order to challenge it.",
         "is_correct": true
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "comparing the opening paragraphs of different public texts such as feature articles, and determining the purpose and effect of the different structures and language features",
-      "hint": "A writer or speaker can use audience to shape comparing the opening paragraphs of different public texts such as feature articles, and determining the purpose and effect of the different structures and language features and influence how an audience understands the text."
-    }
+      "summary": "parody is the strongest answer because it copies a familiar form in order to challenge it. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la03-t-007",
@@ -545,36 +1931,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_comparing_the_use_of_linear_and_non_linear_narratives_in_a_range_of_short_stories_and_determining_the_purpose_and_effect_of_the_different_structures_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape comparing the use of linear and non linear narratives in a range of short stories and determining the purpose and effect of the different structures and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape comparing the use of linear and non linear narratives in a range of short stories and determining the purpose and effect of the different structures and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "adapting and subverting conventions",
+    "question": "What does a careful reading of this marine-science feature example suggest? A different writer handles the idea this way: A graphic narrative removes speech balloons for three pages and relies on faces and gesture.",
+    "audio_prompt": "What does a careful reading of this marine-science feature example suggest? A different writer handles the idea this way: A graphic narrative removes speech balloons for three pages and relies on faces and gesture.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
         "is_correct": false
       },
       {
-        "text": "comparing the use of linear and non-linear narratives in a range of short stories, and determining the purpose and effect of the different structures",
+        "text": "strategic omission: it breaks a normal convention to foreground silence.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Audience and context can be ignored because the feature works independently.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "comparing the use of linear and non-linear narratives in a range of short stories, and determining the purpose and effect of the different structures",
-      "hint": "A writer or speaker can use word choice to shape comparing the use of linear and non-linear narratives in a range of short stories, and determining the purpose and effect of the different structures and influence how an audience understands the text."
-    }
+      "summary": "strategic omission is the strongest answer because it breaks a normal convention to foreground silence. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la03-t-008",
@@ -582,35 +1972,367 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_comparing_the_opening_paragraphs_of_different_public_texts_such_as_feature_articles_and_determining_the_purpose_and_effect_of_the_different_structures_and_language_features_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use audience to shape comparing the opening paragraphs of different public texts such as feature articles and determining the purpose and effect of the different structures and language features and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use audience to shape comparing the opening paragraphs of different public texts such as feature articles and determining the purpose and effect of the different structures and language features and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "adapting and subverting conventions",
+    "question": "Which judgement about this choice is supported by the evidence? In an unrelated context, readers encounter this choice: A formal speech suddenly shifts into a conversational anecdote.",
+    "audio_prompt": "Which judgement about this choice is supported by the evidence? In an unrelated context, readers encounter this choice: A formal speech suddenly shifts into a conversational anecdote.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "The choice changes only surface style and cannot influence meaning.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "register shift: it interrupts formality to create intimacy and renewed attention.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "register shift is the strongest answer because it interrupts formality to create intimacy and renewed attention. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la03-t-009",
+    "curriculum_code": "AC9E9LA03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "adapting and subverting conventions",
+    "question": "Which interpretation is precise enough for this cycling-safety proposal context? A new example uses the same kind of deliberate choice: An online review presents its verdict as a mock weather forecast.",
+    "audio_prompt": "Which interpretation is precise enough for this cycling-safety proposal context? A new example uses the same kind of deliberate choice: An online review presents its verdict as a mock weather forecast.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "genre blending: it borrows another genre to make evaluation memorable.",
+        "is_correct": true
+      },
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
         "is_correct": false
       },
       {
-        "text": "comparing the opening paragraphs of different public texts such as feature articles, and determining the purpose and effect of the different structures and language features",
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "genre blending is the strongest answer because it borrows another genre to make evaluation memorable. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la03-t-010",
+    "curriculum_code": "AC9E9LA03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "adapting and subverting conventions",
+    "question": "What is the most defensible explanation of this choice? In a separate text, the creator makes a comparable move: A memoir chapter is arranged as search-history entries with reflections underneath.",
+    "audio_prompt": "What is the most defensible explanation of this choice? In a separate text, the creator makes a comparable move: A memoir chapter is arranged as search-history entries with reflections underneath.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "digital-form adaptation: it uses a familiar digital structure to organise memory non-linearly.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "comparing the opening paragraphs of different public texts such as feature articles, and determining the purpose and effect of the different structures and language features",
-      "hint": "A writer or speaker can use audience to shape comparing the opening paragraphs of different public texts such as feature articles, and determining the purpose and effect of the different structures and language features and influence how an audience understands the text."
-    }
+      "summary": "digital-form adaptation is the strongest answer because it uses a familiar digital structure to organise memory non-linearly. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la03-t-011",
+    "curriculum_code": "AC9E9LA03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "adapting and subverting conventions",
+    "question": "Which reading takes both the detail and its context into account? A different writer handles the idea this way: A news report opens with a first-person diary entry before presenting verified facts.",
+    "audio_prompt": "Which reading takes both the detail and its context into account? A different writer handles the idea this way: A news report opens with a first-person diary entry before presenting verified facts.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "hybrid opening: it mixes personal reflection with news conventions.",
+        "is_correct": true
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "hybrid opening is the strongest answer because it mixes personal reflection with news conventions. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la03-t-012",
+    "curriculum_code": "AC9E9LA03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "adapting and subverting conventions",
+    "question": "Which response avoids a simplistic rule and explains the actual effect? In an unrelated context, readers encounter this choice: A documentary displays text messages over archival footage while the narrator stays silent.",
+    "audio_prompt": "Which response avoids a simplistic rule and explains the actual effect? In an unrelated context, readers encounter this choice: A documentary displays text messages over archival footage while the narrator stays silent.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "multimodal layering: it lets written and visual evidence interact without verbal explanation.",
+        "is_correct": true
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "multimodal layering is the strongest answer because it lets written and visual evidence interact without verbal explanation. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la03-t-013",
+    "curriculum_code": "AC9E9LA03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "adapting and subverting conventions",
+    "question": "What is the best-supported conclusion about this farmers-market profile choice? A new example uses the same kind of deliberate choice: A ‘recipe for surviving exam week’ uses an ingredient list to give wellbeing advice.",
+    "audio_prompt": "What is the best-supported conclusion about this farmers-market profile choice? A new example uses the same kind of deliberate choice: A ‘recipe for surviving exam week’ uses an ingredient list to give wellbeing advice.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "borrowed structure: it re-purposes a recipe convention for humorous advice.",
+        "is_correct": true
+      },
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "borrowed structure is the strongest answer because it re-purposes a recipe convention for humorous advice. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la03-t-014",
+    "curriculum_code": "AC9E9LA03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "adapting and subverting conventions",
+    "question": "Which option shows the strongest understanding of how the feature works here? In a separate text, the creator makes a comparable move: A sports article gives the final score first, then rewinds minute by minute.",
+    "audio_prompt": "Which option shows the strongest understanding of how the feature works here? In a separate text, the creator makes a comparable move: A sports article gives the final score first, then rewinds minute by minute.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "reverse chronology: it shifts attention from what happened to how the result developed.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "reverse chronology is the strongest answer because it shifts attention from what happened to how the result developed. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la03-t-015",
+    "curriculum_code": "AC9E9LA03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "adapting and subverting conventions",
+    "question": "Which explanation would survive a close check against the evidence? A different writer handles the idea this way: A poem contains a QR link to recorded street sounds.",
+    "audio_prompt": "Which explanation would survive a close check against the evidence? A different writer handles the idea this way: A poem contains a QR link to recorded street sounds.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "cross-mode extension: it adds sound so place is experienced as well as described.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "cross-mode extension is the strongest answer because it adds sound so place is experienced as well as described. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la03-t-016",
+    "curriculum_code": "AC9E9LA03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "adapting and subverting conventions",
+    "question": "Which analysis best matches the creator’s likely purpose in this sports documentary? In an unrelated context, readers encounter this choice: A campaign video imitates a luxury-car advertisement to criticise car dependence.",
+    "audio_prompt": "Which analysis best matches the creator’s likely purpose in this sports documentary? In an unrelated context, readers encounter this choice: A campaign video imitates a luxury-car advertisement to criticise car dependence.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "parody: it copies a familiar form in order to challenge it.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "parody is the strongest answer because it copies a familiar form in order to challenge it. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v6"
   }
 ]

@@ -5,39 +5,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_understanding_who_to_and_how_to_cite_in_essays_reviews_and_academic_assignments_and_when_it_is_appropriate_to_use_direct_quotations_or_to_report_sources_more_generally_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape understanding who to and how to cite in essays reviews and academic assignments and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape understanding who to and how to cite in essays reviews and academic assignments and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "quotation and citation punctuation",
+    "question": "In this school podcast, what is the most important feature to notice? The article states, “The reef recovered faster than expected.”",
+    "audio_prompt": "In this school podcast, what is the most important feature to notice? The article states, “The reef recovered faster than expected.”",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally",
+        "text": "direct-quotation punctuation",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "neutral filler",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "formatting accident",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "unrelated convention",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally",
-      "hint": "A writer or speaker can use word choice to shape understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text."
+      "summary": "direct-quotation punctuation is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la09-p-002",
@@ -45,39 +47,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_understanding_who_to_and_how_to_cite_in_essays_reviews_and_academic_assignments_and_when_it_is_appropriate_to_use_direct_quotations_or_to_report_sources_more_generally_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape understanding who to and how to cite in essays reviews and academic assignments and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape understanding who to and how to cite in essays reviews and academic assignments and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "quotation and citation punctuation",
+    "question": "Read this detail from a Canberra youth forum: According to Patel (2025), “small changes can compound over time”. Which description is most precise?",
+    "audio_prompt": "Read this detail from a Canberra youth forum: According to Patel (2025), “small changes can compound over time”. Which description is most precise?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "formatting accident",
         "is_correct": false
       },
       {
-        "text": "understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally",
+        "text": "unrelated convention",
+        "is_correct": false
+      },
+      {
+        "text": "random decoration",
+        "is_correct": false
+      },
+      {
+        "text": "integrated citation",
         "is_correct": true
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally",
-      "hint": "A writer or speaker can use word choice to shape understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text."
+      "summary": "integrated citation is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la09-p-003",
@@ -85,38 +89,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_understanding_who_to_and_how_to_cite_in_essays_reviews_and_academic_assignments_and_when_it_is_appropriate_to_use_direct_quotations_or_to_report_sources_more_generally_and_influence_how_an_audience_understands_the_text",
-    "question": "What should you check when using a writer or speaker can use word choice to shape understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text?",
-    "audio_prompt": "What should you check when using a writer or speaker can use word choice to shape understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text?",
+    "stage": "recognise",
+    "skill": "quotation and citation punctuation",
+    "question": "Which label best fits the choice made in this regional newspaper? The report describes the result as “unexpected but encouraging”.",
+    "audio_prompt": "Which label best fits the choice made in this regional newspaper? The report describes the result as “unexpected but encouraging”.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "random decoration",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "unimportant wording",
         "is_correct": false
       },
       {
-        "text": "understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally",
+        "text": "embedded quotation",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "unrelated convention",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally",
-      "hint": "A writer or speaker can use word choice to shape understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text."
+      "summary": "embedded quotation is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la09-p-004",
@@ -124,39 +131,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_understanding_who_to_and_how_to_cite_in_essays_reviews_and_academic_assignments_and_when_it_is_appropriate_to_use_direct_quotations_or_to_report_sources_more_generally_and_influence_how_an_audience_understands_the_text",
-    "question": "Which statement best explains a writer or speaker can use word choice to shape understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text?",
-    "audio_prompt": "Which statement best explains a writer or speaker can use word choice to shape understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text?",
+    "stage": "recognise",
+    "skill": "quotation and citation punctuation",
+    "question": "A community sport newsletter contains this example: “We need safer crossings,” the mayor said. What should a careful reader identify first?",
+    "audio_prompt": "A community sport newsletter contains this example: “We need safer crossings,” the mayor said. What should a careful reader identify first?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "background detail",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally",
+        "text": "reporting clause after quotation",
         "is_correct": true
+      },
+      {
+        "text": "random decoration",
+        "is_correct": false
+      },
+      {
+        "text": "unimportant wording",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "explanation": {
-      "summary": "understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally",
-      "hint": "A writer or speaker can use word choice to shape understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text."
+      "summary": "reporting clause after quotation is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la09-p-005",
@@ -164,39 +173,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_understanding_who_to_and_how_to_cite_in_essays_reviews_and_academic_assignments_and_when_it_is_appropriate_to_use_direct_quotations_or_to_report_sources_more_generally_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape understanding who to and how to cite in essays reviews and academic assignments and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape understanding who to and how to cite in essays reviews and academic assignments and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "quotation and citation punctuation",
+    "question": "Look closely at this coastal clean-up page extract: The review asks, “Who benefits from this design?” Which feature matters most?",
+    "audio_prompt": "Look closely at this coastal clean-up page extract: The review asks, “Who benefits from this design?” Which feature matters most?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally",
+        "text": "quoted question",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "unimportant wording",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "background detail",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "neutral filler",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally",
-      "hint": "A writer or speaker can use word choice to shape understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text."
+      "summary": "quoted question is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la09-p-006",
@@ -204,39 +215,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_understanding_who_to_and_how_to_cite_in_essays_reviews_and_academic_assignments_and_when_it_is_appropriate_to_use_direct_quotations_or_to_report_sources_more_generally_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape understanding who to and how to cite in essays reviews and academic assignments and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape understanding who to and how to cite in essays reviews and academic assignments and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "quotation and citation punctuation",
+    "question": "What is the clearest way to classify this choice from a student magazine? Nguyen argues that the change was “long overdue” (2024, p. 18).",
+    "audio_prompt": "What is the clearest way to classify this choice from a student magazine? Nguyen argues that the change was “long overdue” (2024, p. 18).",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "background detail",
         "is_correct": false
       },
       {
-        "text": "understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally",
+        "text": "neutral filler",
+        "is_correct": false
+      },
+      {
+        "text": "formatting accident",
+        "is_correct": false
+      },
+      {
+        "text": "page citation",
         "is_correct": true
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally",
-      "hint": "A writer or speaker can use word choice to shape understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text."
+      "summary": "page citation is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la09-p-007",
@@ -244,39 +257,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_understanding_who_to_and_how_to_cite_in_essays_reviews_and_academic_assignments_and_when_it_is_appropriate_to_use_direct_quotations_or_to_report_sources_more_generally_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape understanding who to and how to cite in essays reviews and academic assignments and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape understanding who to and how to cite in essays reviews and academic assignments and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "quotation and citation punctuation",
+    "question": "Before interpreting the effect, identify the main choice here: The headline reads “Summer of Smoke”: a phrase repeated throughout the feature.",
+    "audio_prompt": "Before interpreting the effect, identify the main choice here: The headline reads “Summer of Smoke”: a phrase repeated throughout the feature.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "formatting accident",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "unrelated convention",
         "is_correct": false
       },
       {
-        "text": "understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally",
+        "text": "short-title quotation",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "neutral filler",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally",
-      "hint": "A writer or speaker can use word choice to shape understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text."
+      "summary": "short-title quotation is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la09-p-008",
@@ -284,39 +299,1385 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_understanding_who_to_and_how_to_cite_in_essays_reviews_and_academic_assignments_and_when_it_is_appropriate_to_use_direct_quotations_or_to_report_sources_more_generally_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape understanding who to and how to cite in essays reviews and academic assignments and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape understanding who to and how to cite in essays reviews and academic assignments and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "quotation and citation punctuation",
+    "question": "Which option accurately names the technique operating in this public-transport survey? The witness called the noise “a low mechanical hum”.",
+    "audio_prompt": "Which option accurately names the technique operating in this public-transport survey? The witness called the noise “a low mechanical hum”.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "random decoration",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "short embedded quotation",
+        "is_correct": true
+      },
+      {
+        "text": "formatting accident",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "unrelated convention",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "short embedded quotation is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la09-p-009",
+    "curriculum_code": "AC9E9LA09",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "quotation and citation punctuation",
+    "question": "This detail appears in a school captain speech: The researcher writes, “The pattern is clear”; however, later data complicates that claim. What has the creator done?",
+    "audio_prompt": "This detail appears in a school captain speech: The researcher writes, “The pattern is clear”; however, later data complicates that claim. What has the creator done?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "quotation before connective",
+        "is_correct": true
+      },
+      {
+        "text": "unrelated convention",
         "is_correct": false
       },
       {
-        "text": "understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally",
+        "text": "random decoration",
+        "is_correct": false
+      },
+      {
+        "text": "unimportant wording",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "quotation before connective is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la09-p-010",
+    "curriculum_code": "AC9E9LA09",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "quotation and citation punctuation",
+    "question": "Which feature is actually present in this neighbourhood campaign example? As the editorial puts it, “Delay is itself a decision.”",
+    "audio_prompt": "Which feature is actually present in this neighbourhood campaign example? As the editorial puts it, “Delay is itself a decision.”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "random decoration",
+        "is_correct": false
+      },
+      {
+        "text": "unimportant wording",
+        "is_correct": false
+      },
+      {
+        "text": "background detail",
+        "is_correct": false
+      },
+      {
+        "text": "complete quoted sentence",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally",
-      "hint": "A writer or speaker can use word choice to shape understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text."
+      "summary": "complete quoted sentence is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la09-p-011",
+    "curriculum_code": "AC9E9LA09",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "quotation and citation punctuation",
+    "question": "Why does this choice matter in the library zine? The article states, “The reef recovered faster than expected.”",
+    "audio_prompt": "Why does this choice matter in the library zine? The article states, “The reef recovered faster than expected.”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "direct-quotation punctuation: it uses a comma and quotation marks to separate the source’s exact words.",
+        "is_correct": true
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "direct-quotation punctuation is the strongest answer because it uses a comma and quotation marks to separate the source’s exact words. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la09-p-012",
+    "curriculum_code": "AC9E9LA09",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "quotation and citation punctuation",
+    "question": "Which explanation best connects the detail to its effect? According to Patel (2025), “small changes can compound over time”.",
+    "audio_prompt": "Which explanation best connects the detail to its effect? According to Patel (2025), “small changes can compound over time”.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "integrated citation: it links source attribution to quoted wording.",
+        "is_correct": true
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "integrated citation is the strongest answer because it links source attribution to quoted wording. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la09-p-013",
+    "curriculum_code": "AC9E9LA09",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "quotation and citation punctuation",
+    "question": "What does the choice contribute to meaning here? The report describes the result as “unexpected but encouraging”.",
+    "audio_prompt": "What does the choice contribute to meaning here? The report describes the result as “unexpected but encouraging”.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "embedded quotation: it fits borrowed words grammatically inside the writer’s sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "embedded quotation is the strongest answer because it fits borrowed words grammatically inside the writer’s sentence. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la09-p-014",
+    "curriculum_code": "AC9E9LA09",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "quotation and citation punctuation",
+    "question": "How is a reader or listener likely to be guided by this choice? “We need safer crossings,” the mayor said.",
+    "audio_prompt": "How is a reader or listener likely to be guided by this choice? “We need safer crossings,” the mayor said.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "reporting clause after quotation: it uses punctuation to connect quoted speech with the reporting clause.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "reporting clause after quotation is the strongest answer because it uses punctuation to connect quoted speech with the reporting clause. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la09-p-015",
+    "curriculum_code": "AC9E9LA09",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "quotation and citation punctuation",
+    "question": "Which explanation is supported by the actual wording or structure? The review asks, “Who benefits from this design?”",
+    "audio_prompt": "Which explanation is supported by the actual wording or structure? The review asks, “Who benefits from this design?”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "quoted question: it keeps the question mark with the quoted question.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "quoted question is the strongest answer because it keeps the question mark with the quoted question. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la09-p-016",
+    "curriculum_code": "AC9E9LA09",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "quotation and citation punctuation",
+    "question": "A reader notices this in a school documentary: Nguyen argues that the change was “long overdue” (2024, p. 18). What is the strongest explanation?",
+    "audio_prompt": "A reader notices this in a school documentary: Nguyen argues that the change was “long overdue” (2024, p. 18). What is the strongest explanation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "page citation: it places source details immediately after the borrowed phrase.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "page citation is the strongest answer because it places source details immediately after the borrowed phrase. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la09-p-017",
+    "curriculum_code": "AC9E9LA09",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "quotation and citation punctuation",
+    "question": "What is gained by using the feature this way? The headline reads “Summer of Smoke”: a phrase repeated throughout the feature.",
+    "audio_prompt": "What is gained by using the feature this way? The headline reads “Summer of Smoke”: a phrase repeated throughout the feature.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "short-title quotation: it marks the title while allowing the writer’s sentence to continue.",
+        "is_correct": true
+      },
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "short-title quotation is the strongest answer because it marks the title while allowing the writer’s sentence to continue. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la09-p-018",
+    "curriculum_code": "AC9E9LA09",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "quotation and citation punctuation",
+    "question": "Which response goes beyond naming the feature and explains what it does? The witness called the noise “a low mechanical hum”.",
+    "audio_prompt": "Which response goes beyond naming the feature and explains what it does? The witness called the noise “a low mechanical hum”.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "short embedded quotation: it marks only the exact borrowed phrase.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "short embedded quotation is the strongest answer because it marks only the exact borrowed phrase. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la09-p-019",
+    "curriculum_code": "AC9E9LA09",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "quotation and citation punctuation",
+    "question": "How does this choice help the debate transcript achieve its effect? The researcher writes, “The pattern is clear”; however, later data complicates that claim.",
+    "audio_prompt": "How does this choice help the debate transcript achieve its effect? The researcher writes, “The pattern is clear”; however, later data complicates that claim.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "quotation before connective: it closes the borrowed words before the writer changes direction.",
+        "is_correct": true
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "quotation before connective is the strongest answer because it closes the borrowed words before the writer changes direction. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la09-p-020",
+    "curriculum_code": "AC9E9LA09",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "quotation and citation punctuation",
+    "question": "Which interpretation best accounts for this detail? As the editorial puts it, “Delay is itself a decision.”",
+    "audio_prompt": "Which interpretation best accounts for this detail? As the editorial puts it, “Delay is itself a decision.”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "complete quoted sentence: it marks a complete borrowed sentence distinctly from attribution.",
+        "is_correct": true
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "complete quoted sentence is the strongest answer because it marks a complete borrowed sentence distinctly from attribution. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la09-p-021",
+    "curriculum_code": "AC9E9LA09",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "quotation and citation punctuation",
+    "question": "Two readers disagree about this detail: The article states, “The reef recovered faster than expected.” Which interpretation is best supported?",
+    "audio_prompt": "Two readers disagree about this detail: The article states, “The reef recovered faster than expected.” Which interpretation is best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "direct-quotation punctuation: it uses a comma and quotation marks to separate the source’s exact words.",
+        "is_correct": true
+      },
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "direct-quotation punctuation is the strongest answer because it uses a comma and quotation marks to separate the source’s exact words. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la09-p-022",
+    "curriculum_code": "AC9E9LA09",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "quotation and citation punctuation",
+    "question": "Which analysis avoids overclaiming about this school newspaper example? According to Patel (2025), “small changes can compound over time”.",
+    "audio_prompt": "Which analysis avoids overclaiming about this school newspaper example? According to Patel (2025), “small changes can compound over time”.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "integrated citation: it links source attribution to quoted wording.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "integrated citation is the strongest answer because it links source attribution to quoted wording. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la09-p-023",
+    "curriculum_code": "AC9E9LA09",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "quotation and citation punctuation",
+    "question": "Choose the strongest evidence-based reading of this choice: The report describes the result as “unexpected but encouraging”.",
+    "audio_prompt": "Choose the strongest evidence-based reading of this choice: The report describes the result as “unexpected but encouraging”.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "embedded quotation: it fits borrowed words grammatically inside the writer’s sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "embedded quotation is the strongest answer because it fits borrowed words grammatically inside the writer’s sentence. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la09-p-024",
+    "curriculum_code": "AC9E9LA09",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "quotation and citation punctuation",
+    "question": "Which response is most precise about both the feature and its effect? “We need safer crossings,” the mayor said.",
+    "audio_prompt": "Which response is most precise about both the feature and its effect? “We need safer crossings,” the mayor said.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "reporting clause after quotation: it uses punctuation to connect quoted speech with the reporting clause.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "reporting clause after quotation is the strongest answer because it uses punctuation to connect quoted speech with the reporting clause. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la09-p-025",
+    "curriculum_code": "AC9E9LA09",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "quotation and citation punctuation",
+    "question": "Which claim could be defended most convincingly using this exact detail? The review asks, “Who benefits from this design?”",
+    "audio_prompt": "Which claim could be defended most convincingly using this exact detail? The review asks, “Who benefits from this design?”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "quoted question: it keeps the question mark with the quoted question.",
+        "is_correct": true
+      },
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "quoted question is the strongest answer because it keeps the question mark with the quoted question. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la09-p-026",
+    "curriculum_code": "AC9E9LA09",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "quotation and citation punctuation",
+    "question": "Which interpretation stays closest to what the local sports podcast actually shows? Nguyen argues that the change was “long overdue” (2024, p. 18).",
+    "audio_prompt": "Which interpretation stays closest to what the local sports podcast actually shows? Nguyen argues that the change was “long overdue” (2024, p. 18).",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "page citation: it places source details immediately after the borrowed phrase.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "page citation is the strongest answer because it places source details immediately after the borrowed phrase. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la09-p-027",
+    "curriculum_code": "AC9E9LA09",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "quotation and citation punctuation",
+    "question": "Which response corrects the common mistake of treating the feature as having one fixed effect? The headline reads “Summer of Smoke”: a phrase repeated throughout the feature.",
+    "audio_prompt": "Which response corrects the common mistake of treating the feature as having one fixed effect? The headline reads “Summer of Smoke”: a phrase repeated throughout the feature.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "short-title quotation: it marks the title while allowing the writer’s sentence to continue.",
+        "is_correct": true
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "short-title quotation is the strongest answer because it marks the title while allowing the writer’s sentence to continue. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la09-p-028",
+    "curriculum_code": "AC9E9LA09",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "quotation and citation punctuation",
+    "question": "Which explanation remains convincing when audience and purpose are considered? The witness called the noise “a low mechanical hum”.",
+    "audio_prompt": "Which explanation remains convincing when audience and purpose are considered? The witness called the noise “a low mechanical hum”.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "short embedded quotation: it marks only the exact borrowed phrase.",
+        "is_correct": true
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "short embedded quotation is the strongest answer because it marks only the exact borrowed phrase. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la09-p-029",
+    "curriculum_code": "AC9E9LA09",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "quotation and citation punctuation",
+    "question": "Which option gives the most defensible analysis of this choice? The researcher writes, “The pattern is clear”; however, later data complicates that claim.",
+    "audio_prompt": "Which option gives the most defensible analysis of this choice? The researcher writes, “The pattern is clear”; however, later data complicates that claim.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "quotation before connective: it closes the borrowed words before the writer changes direction.",
+        "is_correct": true
+      },
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "quotation before connective is the strongest answer because it closes the borrowed words before the writer changes direction. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la09-p-030",
+    "curriculum_code": "AC9E9LA09",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "quotation and citation punctuation",
+    "question": "Which reading distinguishes evidence from assumption most successfully? As the editorial puts it, “Delay is itself a decision.”",
+    "audio_prompt": "Which reading distinguishes evidence from assumption most successfully? As the editorial puts it, “Delay is itself a decision.”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "complete quoted sentence: it marks a complete borrowed sentence distinctly from attribution.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "complete quoted sentence is the strongest answer because it marks a complete borrowed sentence distinctly from attribution. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la09-p-031",
+    "curriculum_code": "AC9E9LA09",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "quotation and citation punctuation",
+    "question": "You are revising a book-club post. Which decision would use the same idea most purposefully? Starting point: The article states, “The reef recovered faster than expected.”",
+    "audio_prompt": "You are revising a book-club post. Which decision would use the same idea most purposefully? Starting point: The article states, “The reef recovered faster than expected.”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "direct-quotation punctuation: it uses a comma and quotation marks to separate the source’s exact words.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "direct-quotation punctuation is the strongest answer because it uses a comma and quotation marks to separate the source’s exact words. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la09-p-032",
+    "curriculum_code": "AC9E9LA09",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "quotation and citation punctuation",
+    "question": "Which revision would preserve the intended effect without simply adding complexity? According to Patel (2025), “small changes can compound over time”.",
+    "audio_prompt": "Which revision would preserve the intended effect without simply adding complexity? According to Patel (2025), “small changes can compound over time”.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "integrated citation: it links source attribution to quoted wording.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "integrated citation is the strongest answer because it links source attribution to quoted wording. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la09-p-033",
+    "curriculum_code": "AC9E9LA09",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "quotation and citation punctuation",
+    "question": "A writer wants a similar effect in a new section. Which principle should guide the revision? The report describes the result as “unexpected but encouraging”.",
+    "audio_prompt": "A writer wants a similar effect in a new section. Which principle should guide the revision? The report describes the result as “unexpected but encouraging”.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "embedded quotation: it fits borrowed words grammatically inside the writer’s sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "embedded quotation is the strongest answer because it fits borrowed words grammatically inside the writer’s sentence. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la09-p-034",
+    "curriculum_code": "AC9E9LA09",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "quotation and citation punctuation",
+    "question": "Which editing decision shows deliberate control of the feature demonstrated here? “We need safer crossings,” the mayor said.",
+    "audio_prompt": "Which editing decision shows deliberate control of the feature demonstrated here? “We need safer crossings,” the mayor said.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "reporting clause after quotation: it uses punctuation to connect quoted speech with the reporting clause.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "reporting clause after quotation is the strongest answer because it uses punctuation to connect quoted speech with the reporting clause. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la09-p-035",
+    "curriculum_code": "AC9E9LA09",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "quotation and citation punctuation",
+    "question": "How could a creator build on this choice without merely repeating it? The review asks, “Who benefits from this design?”",
+    "audio_prompt": "How could a creator build on this choice without merely repeating it? The review asks, “Who benefits from this design?”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "quoted question: it keeps the question mark with the quoted question.",
+        "is_correct": true
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "quoted question is the strongest answer because it keeps the question mark with the quoted question. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la09-p-036",
+    "curriculum_code": "AC9E9LA09",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "quotation and citation punctuation",
+    "question": "Which revision would make the effect clearer while keeping it appropriate for the audience? Nguyen argues that the change was “long overdue” (2024, p. 18).",
+    "audio_prompt": "Which revision would make the effect clearer while keeping it appropriate for the audience? Nguyen argues that the change was “long overdue” (2024, p. 18).",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "page citation: it places source details immediately after the borrowed phrase.",
+        "is_correct": true
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "page citation is the strongest answer because it places source details immediately after the borrowed phrase. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la09-p-037",
+    "curriculum_code": "AC9E9LA09",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "quotation and citation punctuation",
+    "question": "Which alternative best applies the same underlying principle? The headline reads “Summer of Smoke”: a phrase repeated throughout the feature.",
+    "audio_prompt": "Which alternative best applies the same underlying principle? The headline reads “Summer of Smoke”: a phrase repeated throughout the feature.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "short-title quotation: it marks the title while allowing the writer’s sentence to continue.",
+        "is_correct": true
+      },
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "short-title quotation is the strongest answer because it marks the title while allowing the writer’s sentence to continue. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la09-p-038",
+    "curriculum_code": "AC9E9LA09",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "quotation and citation punctuation",
+    "question": "Which next choice would extend the effect most logically? The witness called the noise “a low mechanical hum”.",
+    "audio_prompt": "Which next choice would extend the effect most logically? The witness called the noise “a low mechanical hum”.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "short embedded quotation: it marks only the exact borrowed phrase.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "short embedded quotation is the strongest answer because it marks only the exact borrowed phrase. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la09-p-039",
+    "curriculum_code": "AC9E9LA09",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "quotation and citation punctuation",
+    "question": "Which revision best matches audience, purpose and the feature shown here? The researcher writes, “The pattern is clear”; however, later data complicates that claim.",
+    "audio_prompt": "Which revision best matches audience, purpose and the feature shown here? The researcher writes, “The pattern is clear”; however, later data complicates that claim.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "quotation before connective: it closes the borrowed words before the writer changes direction.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "quotation before connective is the strongest answer because it closes the borrowed words before the writer changes direction. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la09-p-040",
+    "curriculum_code": "AC9E9LA09",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "quotation and citation punctuation",
+    "question": "Which editing move would strengthen the text while keeping this effect controlled? As the editorial puts it, “Delay is itself a decision.”",
+    "audio_prompt": "Which editing move would strengthen the text while keeping this effect controlled? As the editorial puts it, “Delay is itself a decision.”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "complete quoted sentence: it marks a complete borrowed sentence distinctly from attribution.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "complete quoted sentence is the strongest answer because it marks a complete borrowed sentence distinctly from attribution. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la09-t-001",
@@ -324,36 +1685,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_understanding_who_to_and_how_to_cite_in_essays_reviews_and_academic_assignments_and_when_it_is_appropriate_to_use_direct_quotations_or_to_report_sources_more_generally_and_influence_how_an_audience_understands_the_text",
-    "question": "What is the correct way to apply a writer or speaker can use word choice to shape understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text?",
-    "audio_prompt": "What is the correct way to apply a writer or speaker can use word choice to shape understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text?",
+    "skill": "quotation and citation punctuation",
+    "question": "Which analysis best explains the key choice in this bushfire preparedness video? A new example uses the same kind of deliberate choice: The article states, ‘The reef recovered faster than expected.’",
+    "audio_prompt": "Which analysis best explains the key choice in this bushfire preparedness video? A new example uses the same kind of deliberate choice: The article states, ‘The reef recovered faster than expected.’",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally",
+        "text": "direct-quotation punctuation: it uses a comma and quotation marks to separate the source’s exact words.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally",
-      "hint": "A writer or speaker can use word choice to shape understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text."
-    }
+      "summary": "direct-quotation punctuation is the strongest answer because it uses a comma and quotation marks to separate the source’s exact words. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la09-t-002",
@@ -361,36 +1726,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_understanding_who_to_and_how_to_cite_in_essays_reviews_and_academic_assignments_and_when_it_is_appropriate_to_use_direct_quotations_or_to_report_sources_more_generally_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape understanding who to and how to cite in essays reviews and academic assignments and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape understanding who to and how to cite in essays reviews and academic assignments and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "quotation and citation punctuation",
+    "question": "Consider this detail from a state library exhibition: In a separate text, the creator makes a comparable move: According to Patel (2025), ‘small changes can compound over time’. Which response is most convincing?",
+    "audio_prompt": "Consider this detail from a state library exhibition: In a separate text, the creator makes a comparable move: According to Patel (2025), ‘small changes can compound over time’. Which response is most convincing?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
         "is_correct": false
       },
       {
-        "text": "understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally",
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "integrated citation: it links source attribution to quoted wording.",
         "is_correct": true
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally",
-      "hint": "A writer or speaker can use word choice to shape understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text."
-    }
+      "summary": "integrated citation is the strongest answer because it links source attribution to quoted wording. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la09-t-003",
@@ -398,36 +1767,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_understanding_who_to_and_how_to_cite_in_essays_reviews_and_academic_assignments_and_when_it_is_appropriate_to_use_direct_quotations_or_to_report_sources_more_generally_and_influence_how_an_audience_understands_the_text",
-    "question": "Which response correctly uses a writer or speaker can use word choice to shape understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text?",
-    "audio_prompt": "Which response correctly uses a writer or speaker can use word choice to shape understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text?",
+    "skill": "quotation and citation punctuation",
+    "question": "What is the strongest interpretation of this regional arts review example? A different writer handles the idea this way: The report describes the result as ‘unexpected but encouraging’.",
+    "audio_prompt": "What is the strongest interpretation of this regional arts review example? A different writer handles the idea this way: The report describes the result as ‘unexpected but encouraging’.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "The choice changes only surface style and cannot influence meaning.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
         "is_correct": false
       },
       {
-        "text": "understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally",
+        "text": "embedded quotation: it fits borrowed words grammatically inside the writer’s sentence.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally",
-      "hint": "A writer or speaker can use word choice to shape understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text."
-    }
+      "summary": "embedded quotation is the strongest answer because it fits borrowed words grammatically inside the writer’s sentence. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la09-t-004",
@@ -435,36 +1808,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_understanding_who_to_and_how_to_cite_in_essays_reviews_and_academic_assignments_and_when_it_is_appropriate_to_use_direct_quotations_or_to_report_sources_more_generally_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape understanding who to and how to cite in essays reviews and academic assignments and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape understanding who to and how to cite in essays reviews and academic assignments and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "quotation and citation punctuation",
+    "question": "Which option best explains how the choice works for its likely audience? In an unrelated context, readers encounter this choice: ‘We need safer crossings,’ the mayor said.",
+    "audio_prompt": "Which option best explains how the choice works for its likely audience? In an unrelated context, readers encounter this choice: ‘We need safer crossings,’ the mayor said.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally",
+        "text": "reporting clause after quotation: it uses punctuation to connect quoted speech with the reporting clause.",
         "is_correct": true
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "explanation": {
-      "summary": "understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally",
-      "hint": "A writer or speaker can use word choice to shape understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text."
-    }
+      "summary": "reporting clause after quotation is the strongest answer because it uses punctuation to connect quoted speech with the reporting clause. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la09-t-005",
@@ -472,36 +1849,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_understanding_who_to_and_how_to_cite_in_essays_reviews_and_academic_assignments_and_when_it_is_appropriate_to_use_direct_quotations_or_to_report_sources_more_generally_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use word choice to shape understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use word choice to shape understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text?",
+    "skill": "quotation and citation punctuation",
+    "question": "Which analysis is best supported by this rail-station campaign detail? A new example uses the same kind of deliberate choice: The review asks, ‘Who benefits from this design?’",
+    "audio_prompt": "Which analysis is best supported by this rail-station campaign detail? A new example uses the same kind of deliberate choice: The review asks, ‘Who benefits from this design?’",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally",
+        "text": "quoted question: it keeps the question mark with the quoted question.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "The choice changes only surface style and cannot influence meaning.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Audience and context can be ignored because the feature works independently.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally",
-      "hint": "A writer or speaker can use word choice to shape understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text."
-    }
+      "summary": "quoted question is the strongest answer because it keeps the question mark with the quoted question. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la09-t-006",
@@ -509,36 +1890,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_understanding_who_to_and_how_to_cite_in_essays_reviews_and_academic_assignments_and_when_it_is_appropriate_to_use_direct_quotations_or_to_report_sources_more_generally_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape understanding who to and how to cite in essays reviews and academic assignments and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape understanding who to and how to cite in essays reviews and academic assignments and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "quotation and citation punctuation",
+    "question": "Which response most accurately connects feature and effect here? In a separate text, the creator makes a comparable move: Nguyen argues that the change was ‘long overdue’ (2024, p. 18).",
+    "audio_prompt": "Which response most accurately connects feature and effect here? In a separate text, the creator makes a comparable move: Nguyen argues that the change was ‘long overdue’ (2024, p. 18).",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
         "is_correct": false
       },
       {
-        "text": "understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally",
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "page citation: it places source details immediately after the borrowed phrase.",
         "is_correct": true
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally",
-      "hint": "A writer or speaker can use word choice to shape understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text."
-    }
+      "summary": "page citation is the strongest answer because it places source details immediately after the borrowed phrase. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la09-t-007",
@@ -546,36 +1931,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_understanding_who_to_and_how_to_cite_in_essays_reviews_and_academic_assignments_and_when_it_is_appropriate_to_use_direct_quotations_or_to_report_sources_more_generally_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape understanding who to and how to cite in essays reviews and academic assignments and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape understanding who to and how to cite in essays reviews and academic assignments and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "quotation and citation punctuation",
+    "question": "What does a careful reading of this marine-science feature example suggest? A different writer handles the idea this way: The headline reads ‘Summer of Smoke’: a phrase repeated throughout the feature.",
+    "audio_prompt": "What does a careful reading of this marine-science feature example suggest? A different writer handles the idea this way: The headline reads ‘Summer of Smoke’: a phrase repeated throughout the feature.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
         "is_correct": false
       },
       {
-        "text": "understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally",
+        "text": "short-title quotation: it marks the title while allowing the writer’s sentence to continue.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Audience and context can be ignored because the feature works independently.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally",
-      "hint": "A writer or speaker can use word choice to shape understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text."
-    }
+      "summary": "short-title quotation is the strongest answer because it marks the title while allowing the writer’s sentence to continue. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la09-t-008",
@@ -583,35 +1972,367 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_understanding_who_to_and_how_to_cite_in_essays_reviews_and_academic_assignments_and_when_it_is_appropriate_to_use_direct_quotations_or_to_report_sources_more_generally_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape understanding who to and how to cite in essays reviews and academic assignments and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape understanding who to and how to cite in essays reviews and academic assignments and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "quotation and citation punctuation",
+    "question": "Which judgement about this choice is supported by the evidence? In an unrelated context, readers encounter this choice: The witness called the noise ‘a low mechanical hum’.",
+    "audio_prompt": "Which judgement about this choice is supported by the evidence? In an unrelated context, readers encounter this choice: The witness called the noise ‘a low mechanical hum’.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "The choice changes only surface style and cannot influence meaning.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "short embedded quotation: it marks only the exact borrowed phrase.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "short embedded quotation is the strongest answer because it marks only the exact borrowed phrase. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la09-t-009",
+    "curriculum_code": "AC9E9LA09",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "quotation and citation punctuation",
+    "question": "Which interpretation is precise enough for this cycling-safety proposal context? A new example uses the same kind of deliberate choice: The researcher writes, ‘The pattern is clear’; however, later data complicates that claim.",
+    "audio_prompt": "Which interpretation is precise enough for this cycling-safety proposal context? A new example uses the same kind of deliberate choice: The researcher writes, ‘The pattern is clear’; however, later data complicates that claim.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "quotation before connective: it closes the borrowed words before the writer changes direction.",
+        "is_correct": true
+      },
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
         "is_correct": false
       },
       {
-        "text": "understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally",
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "quotation before connective is the strongest answer because it closes the borrowed words before the writer changes direction. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la09-t-010",
+    "curriculum_code": "AC9E9LA09",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "quotation and citation punctuation",
+    "question": "What is the most defensible explanation of this choice? In a separate text, the creator makes a comparable move: As the editorial puts it, ‘Delay is itself a decision.’",
+    "audio_prompt": "What is the most defensible explanation of this choice? In a separate text, the creator makes a comparable move: As the editorial puts it, ‘Delay is itself a decision.’",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "complete quoted sentence: it marks a complete borrowed sentence distinctly from attribution.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally",
-      "hint": "A writer or speaker can use word choice to shape understanding who to and how to cite in essays, reviews and academic assignments, and when it is appropriate to use direct quotations or to report sources more generally and influence how an audience understands the text."
-    }
+      "summary": "complete quoted sentence is the strongest answer because it marks a complete borrowed sentence distinctly from attribution. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la09-t-011",
+    "curriculum_code": "AC9E9LA09",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "quotation and citation punctuation",
+    "question": "Which reading takes both the detail and its context into account? A different writer handles the idea this way: The article states, ‘The reef recovered faster than expected.’",
+    "audio_prompt": "Which reading takes both the detail and its context into account? A different writer handles the idea this way: The article states, ‘The reef recovered faster than expected.’",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "direct-quotation punctuation: it uses a comma and quotation marks to separate the source’s exact words.",
+        "is_correct": true
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "direct-quotation punctuation is the strongest answer because it uses a comma and quotation marks to separate the source’s exact words. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la09-t-012",
+    "curriculum_code": "AC9E9LA09",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "quotation and citation punctuation",
+    "question": "Which response avoids a simplistic rule and explains the actual effect? In an unrelated context, readers encounter this choice: According to Patel (2025), ‘small changes can compound over time’.",
+    "audio_prompt": "Which response avoids a simplistic rule and explains the actual effect? In an unrelated context, readers encounter this choice: According to Patel (2025), ‘small changes can compound over time’.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "integrated citation: it links source attribution to quoted wording.",
+        "is_correct": true
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "integrated citation is the strongest answer because it links source attribution to quoted wording. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la09-t-013",
+    "curriculum_code": "AC9E9LA09",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "quotation and citation punctuation",
+    "question": "What is the best-supported conclusion about this farmers-market profile choice? A new example uses the same kind of deliberate choice: The report describes the result as ‘unexpected but encouraging’.",
+    "audio_prompt": "What is the best-supported conclusion about this farmers-market profile choice? A new example uses the same kind of deliberate choice: The report describes the result as ‘unexpected but encouraging’.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "embedded quotation: it fits borrowed words grammatically inside the writer’s sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "embedded quotation is the strongest answer because it fits borrowed words grammatically inside the writer’s sentence. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la09-t-014",
+    "curriculum_code": "AC9E9LA09",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "quotation and citation punctuation",
+    "question": "Which option shows the strongest understanding of how the feature works here? In a separate text, the creator makes a comparable move: ‘We need safer crossings,’ the mayor said.",
+    "audio_prompt": "Which option shows the strongest understanding of how the feature works here? In a separate text, the creator makes a comparable move: ‘We need safer crossings,’ the mayor said.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "reporting clause after quotation: it uses punctuation to connect quoted speech with the reporting clause.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "reporting clause after quotation is the strongest answer because it uses punctuation to connect quoted speech with the reporting clause. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la09-t-015",
+    "curriculum_code": "AC9E9LA09",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "quotation and citation punctuation",
+    "question": "Which explanation would survive a close check against the evidence? A different writer handles the idea this way: The review asks, ‘Who benefits from this design?’",
+    "audio_prompt": "Which explanation would survive a close check against the evidence? A different writer handles the idea this way: The review asks, ‘Who benefits from this design?’",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "quoted question: it keeps the question mark with the quoted question.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "quoted question is the strongest answer because it keeps the question mark with the quoted question. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la09-t-016",
+    "curriculum_code": "AC9E9LA09",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "quotation and citation punctuation",
+    "question": "Which analysis best matches the creator’s likely purpose in this sports documentary? In an unrelated context, readers encounter this choice: Nguyen argues that the change was ‘long overdue’ (2024, p. 18).",
+    "audio_prompt": "Which analysis best matches the creator’s likely purpose in this sports documentary? In an unrelated context, readers encounter this choice: Nguyen argues that the change was ‘long overdue’ (2024, p. 18).",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "page citation: it places source details immediately after the borrowed phrase.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "page citation is the strongest answer because it places source details immediately after the borrowed phrase. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v6"
   }
 ]

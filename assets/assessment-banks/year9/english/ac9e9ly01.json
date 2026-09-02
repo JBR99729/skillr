@@ -5,39 +5,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_examining_the_representation_of_public_figures_in_media_and_recognising_how_these_vary_in_different_contexts_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use purpose to shape examining the representation of public figures in media and recognising how these vary in different contexts and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use purpose to shape examining the representation of public figures in media and recognising how these vary in different contexts and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "representations shaped by context",
+    "question": "In this school podcast, what is the most important feature to notice? A tourism video calls a remote town “untouched” while showing no residents.",
+    "audio_prompt": "In this school podcast, what is the most important feature to notice? A tourism video calls a remote town “untouched” while showing no residents.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "examining the representation of public figures in media and recognising how these vary in different contexts",
+        "text": "selective representation",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "neutral filler",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "formatting accident",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "unrelated convention",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "examining the representation of public figures in media and recognising how these vary in different contexts",
-      "hint": "A writer or speaker can use purpose to shape examining the representation of public figures in media and recognising how these vary in different contexts and influence how an audience understands the text."
+      "summary": "selective representation is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9ly01-p-002",
@@ -45,39 +47,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_structure_to_shape_identifying_and_analysing_how_news_is_conveyed_in_texts_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use structure to shape identifying and analysing how news is conveyed in texts and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use structure to shape identifying and analysing how news is conveyed in texts and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "representations shaped by context",
+    "question": "Read this detail from a Canberra youth forum: A newspaper calls a protest “disruption”; organisers call it “public action”. Which description is most precise?",
+    "audio_prompt": "Read this detail from a Canberra youth forum: A newspaper calls a protest “disruption”; organisers call it “public action”. Which description is most precise?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "formatting accident",
         "is_correct": false
       },
       {
-        "text": "identifying and analysing how news is conveyed in texts; for example, analysing representations of an event at a particular time reported in the media",
+        "text": "unrelated convention",
+        "is_correct": false
+      },
+      {
+        "text": "random decoration",
+        "is_correct": false
+      },
+      {
+        "text": "competing frames",
         "is_correct": true
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "identifying and analysing how news is conveyed in texts; for example, analysing representations of an event at a particular time reported in the media",
-      "hint": "A writer or speaker can use structure to shape identifying and analysing how news is conveyed in texts and influence how an audience understands the text."
+      "summary": "competing frames is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9ly01-p-003",
@@ -85,39 +89,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_evidence_to_shape_comparing_texts_from_different_time_periods_and_analysing_the_language_features_used_to_represent_individuals_or_groups_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use evidence to shape comparing texts from different time periods and analysing the language features used to represent individuals or groups and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use evidence to shape comparing texts from different time periods and analysing the language features used to represent individuals or groups and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "representations shaped by context",
+    "question": "Which label best fits the choice made in this regional newspaper? A museum label changes “discovered” to “mapped by Europeans”.",
+    "audio_prompt": "Which label best fits the choice made in this regional newspaper? A museum label changes “discovered” to “mapped by Europeans”.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "random decoration",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "unimportant wording",
         "is_correct": false
       },
       {
-        "text": "comparing texts from different time periods and analysing the language features used to represent individuals or groups",
+        "text": "historical reframing",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "unrelated convention",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "comparing texts from different time periods and analysing the language features used to represent individuals or groups",
-      "hint": "A writer or speaker can use evidence to shape comparing texts from different time periods and analysing the language features used to represent individuals or groups and influence how an audience understands the text."
+      "summary": "historical reframing is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9ly01-p-004",
@@ -125,39 +131,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_examining_the_representation_of_public_figures_in_media_and_recognising_how_these_vary_in_different_contexts_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use purpose to shape examining the representation of public figures in media and recognising how these vary in different contexts and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use purpose to shape examining the representation of public figures in media and recognising how these vary in different contexts and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "representations shaped by context",
+    "question": "A community sport newsletter contains this example: A sports profile presents injury recovery as a heroic solo effort while barely mentioning the medical team. What should a careful reader identify first?",
+    "audio_prompt": "A community sport newsletter contains this example: A sports profile presents injury recovery as a heroic solo effort while barely mentioning the medical team. What should a careful reader identify first?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "background detail",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "examining the representation of public figures in media and recognising how these vary in different contexts",
+        "text": "individual-hero frame",
         "is_correct": true
+      },
+      {
+        "text": "random decoration",
+        "is_correct": false
+      },
+      {
+        "text": "unimportant wording",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "explanation": {
-      "summary": "examining the representation of public figures in media and recognising how these vary in different contexts",
-      "hint": "A writer or speaker can use purpose to shape examining the representation of public figures in media and recognising how these vary in different contexts and influence how an audience understands the text."
+      "summary": "individual-hero frame is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9ly01-p-005",
@@ -165,39 +173,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_structure_to_shape_identifying_and_analysing_how_news_is_conveyed_in_texts_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use structure to shape identifying and analysing how news is conveyed in texts and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use structure to shape identifying and analysing how news is conveyed in texts and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "representations shaped by context",
+    "question": "Look closely at this coastal clean-up page extract: A housing advertisement calls a small unit “efficient urban living”. Which feature matters most?",
+    "audio_prompt": "Look closely at this coastal clean-up page extract: A housing advertisement calls a small unit “efficient urban living”. Which feature matters most?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "identifying and analysing how news is conveyed in texts; for example, analysing representations of an event at a particular time reported in the media",
+        "text": "commercial framing",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "unimportant wording",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "background detail",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "neutral filler",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "identifying and analysing how news is conveyed in texts; for example, analysing representations of an event at a particular time reported in the media",
-      "hint": "A writer or speaker can use structure to shape identifying and analysing how news is conveyed in texts and influence how an audience understands the text."
+      "summary": "commercial framing is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9ly01-p-006",
@@ -205,39 +215,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_evidence_to_shape_comparing_texts_from_different_time_periods_and_analysing_the_language_features_used_to_represent_individuals_or_groups_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use evidence to shape comparing texts from different time periods and analysing the language features used to represent individuals or groups and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use evidence to shape comparing texts from different time periods and analysing the language features used to represent individuals or groups and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "representations shaped by context",
+    "question": "What is the clearest way to classify this choice from a student magazine? A drought documentary centres farmers’ diaries rather than rainfall graphs.",
+    "audio_prompt": "What is the clearest way to classify this choice from a student magazine? A drought documentary centres farmers’ diaries rather than rainfall graphs.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "background detail",
         "is_correct": false
       },
       {
-        "text": "comparing texts from different time periods and analysing the language features used to represent individuals or groups",
+        "text": "neutral filler",
+        "is_correct": false
+      },
+      {
+        "text": "formatting accident",
+        "is_correct": false
+      },
+      {
+        "text": "human-centred representation",
         "is_correct": true
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "comparing texts from different time periods and analysing the language features used to represent individuals or groups",
-      "hint": "A writer or speaker can use evidence to shape comparing texts from different time periods and analysing the language features used to represent individuals or groups and influence how an audience understands the text."
+      "summary": "human-centred representation is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9ly01-p-007",
@@ -245,38 +257,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_examining_the_representation_of_public_figures_in_media_and_recognising_how_these_vary_in_different_contexts_and_influence_how_an_audience_understands_the_text",
-    "question": "What should you check when using a writer or speaker can use purpose to shape examining the representation of public figures in media and recognising how these vary in different contexts and influence how an audience understands the text?",
-    "audio_prompt": "What should you check when using a writer or speaker can use purpose to shape examining the representation of public figures in media and recognising how these vary in different contexts and influence how an audience understands the text?",
+    "stage": "recognise",
+    "skill": "representations shaped by context",
+    "question": "Before interpreting the effect, identify the main choice here: A school history page adds oral histories beside official records.",
+    "audio_prompt": "Before interpreting the effect, identify the main choice here: A school history page adds oral histories beside official records.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "formatting accident",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "unrelated convention",
         "is_correct": false
       },
       {
-        "text": "examining the representation of public figures in media and recognising how these vary in different contexts",
+        "text": "broadened evidence base",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "neutral filler",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "examining the representation of public figures in media and recognising how these vary in different contexts",
-      "hint": "A writer or speaker can use purpose to shape examining the representation of public figures in media and recognising how these vary in different contexts and influence how an audience understands the text."
+      "summary": "broadened evidence base is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9ly01-p-008",
@@ -284,38 +299,1385 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_structure_to_shape_identifying_and_analysing_how_news_is_conveyed_in_texts_and_influence_how_an_audience_understands_the_text",
-    "question": "What should you check when using a writer or speaker can use structure to shape identifying and analysing how news is conveyed in texts and influence how an audience understands the text?",
-    "audio_prompt": "What should you check when using a writer or speaker can use structure to shape identifying and analysing how news is conveyed in texts and influence how an audience understands the text?",
+    "stage": "recognise",
+    "skill": "representations shaped by context",
+    "question": "Which option accurately names the technique operating in this public-transport survey? A council post calls graffiti “vandalism”; a youth page calls a legal mural “street art”.",
+    "audio_prompt": "Which option accurately names the technique operating in this public-transport survey? A council post calls graffiti “vandalism”; a youth page calls a legal mural “street art”.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "random decoration",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "category framing",
+        "is_correct": true
+      },
+      {
+        "text": "formatting accident",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "unrelated convention",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "category framing is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly01-p-009",
+    "curriculum_code": "AC9E9LY01",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "representations shaped by context",
+    "question": "This detail appears in a school captain speech: A climate campaign depicts children as inheritors of adult decisions. What has the creator done?",
+    "audio_prompt": "This detail appears in a school captain speech: A climate campaign depicts children as inheritors of adult decisions. What has the creator done?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "future-oriented representation",
+        "is_correct": true
+      },
+      {
+        "text": "unrelated convention",
         "is_correct": false
       },
       {
-        "text": "identifying and analysing how news is conveyed in texts; for example, analysing representations of an event at a particular time reported in the media",
+        "text": "random decoration",
+        "is_correct": false
+      },
+      {
+        "text": "unimportant wording",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "future-oriented representation is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly01-p-010",
+    "curriculum_code": "AC9E9LY01",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "representations shaped by context",
+    "question": "Which feature is actually present in this neighbourhood campaign example? A cycleway report shows only peak-hour traffic photographs.",
+    "audio_prompt": "Which feature is actually present in this neighbourhood campaign example? A cycleway report shows only peak-hour traffic photographs.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "random decoration",
+        "is_correct": false
+      },
+      {
+        "text": "unimportant wording",
+        "is_correct": false
+      },
+      {
+        "text": "background detail",
+        "is_correct": false
+      },
+      {
+        "text": "selective evidence",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "identifying and analysing how news is conveyed in texts; for example, analysing representations of an event at a particular time reported in the media",
-      "hint": "A writer or speaker can use structure to shape identifying and analysing how news is conveyed in texts and influence how an audience understands the text."
+      "summary": "selective evidence is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly01-p-011",
+    "curriculum_code": "AC9E9LY01",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "representations shaped by context",
+    "question": "Why does this choice matter in the library zine? A tourism video calls a remote town “untouched” while showing no residents.",
+    "audio_prompt": "Why does this choice matter in the library zine? A tourism video calls a remote town “untouched” while showing no residents.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "selective representation: it values scenery while erasing people who live there.",
+        "is_correct": true
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "selective representation is the strongest answer because it values scenery while erasing people who live there. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
     },
     "difficulty": 2,
-    "sequence_priority": 2
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly01-p-012",
+    "curriculum_code": "AC9E9LY01",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "representations shaped by context",
+    "question": "Which explanation best connects the detail to its effect? A newspaper calls a protest “disruption”; organisers call it “public action”.",
+    "audio_prompt": "Which explanation best connects the detail to its effect? A newspaper calls a protest “disruption”; organisers call it “public action”.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "competing frames: it different purposes represent the same event through different values.",
+        "is_correct": true
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "competing frames is the strongest answer because it different purposes represent the same event through different values. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly01-p-013",
+    "curriculum_code": "AC9E9LY01",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "representations shaped by context",
+    "question": "What does the choice contribute to meaning here? A museum label changes “discovered” to “mapped by Europeans”.",
+    "audio_prompt": "What does the choice contribute to meaning here? A museum label changes “discovered” to “mapped by Europeans”.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "historical reframing: it challenges wording that ignored prior knowledge and presence.",
+        "is_correct": true
+      },
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "historical reframing is the strongest answer because it challenges wording that ignored prior knowledge and presence. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly01-p-014",
+    "curriculum_code": "AC9E9LY01",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "representations shaped by context",
+    "question": "How is a reader or listener likely to be guided by this choice? A sports profile presents injury recovery as a heroic solo effort while barely mentioning the medical team.",
+    "audio_prompt": "How is a reader or listener likely to be guided by this choice? A sports profile presents injury recovery as a heroic solo effort while barely mentioning the medical team.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "individual-hero frame: it fits a triumph narrative but minimises collective support.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "individual-hero frame is the strongest answer because it fits a triumph narrative but minimises collective support. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly01-p-015",
+    "curriculum_code": "AC9E9LY01",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "representations shaped by context",
+    "question": "Which explanation is supported by the actual wording or structure? A housing advertisement calls a small unit “efficient urban living”.",
+    "audio_prompt": "Which explanation is supported by the actual wording or structure? A housing advertisement calls a small unit “efficient urban living”.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "commercial framing: it turns limited space into a selling point.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "commercial framing is the strongest answer because it turns limited space into a selling point. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly01-p-016",
+    "curriculum_code": "AC9E9LY01",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "representations shaped by context",
+    "question": "A reader notices this in a school documentary: A drought documentary centres farmers’ diaries rather than rainfall graphs. What is the strongest explanation?",
+    "audio_prompt": "A reader notices this in a school documentary: A drought documentary centres farmers’ diaries rather than rainfall graphs. What is the strongest explanation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "human-centred representation: it frames drought through lived experience.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "human-centred representation is the strongest answer because it frames drought through lived experience. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly01-p-017",
+    "curriculum_code": "AC9E9LY01",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "representations shaped by context",
+    "question": "What is gained by using the feature this way? A school history page adds oral histories beside official records.",
+    "audio_prompt": "What is gained by using the feature this way? A school history page adds oral histories beside official records.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "broadened evidence base: it changes whose experiences are visible.",
+        "is_correct": true
+      },
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "broadened evidence base is the strongest answer because it changes whose experiences are visible. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly01-p-018",
+    "curriculum_code": "AC9E9LY01",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "representations shaped by context",
+    "question": "Which response goes beyond naming the feature and explains what it does? A council post calls graffiti “vandalism”; a youth page calls a legal mural “street art”.",
+    "audio_prompt": "Which response goes beyond naming the feature and explains what it does? A council post calls graffiti “vandalism”; a youth page calls a legal mural “street art”.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "category framing: it reveals assumptions about ownership, legality and creativity.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "category framing is the strongest answer because it reveals assumptions about ownership, legality and creativity. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly01-p-019",
+    "curriculum_code": "AC9E9LY01",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "representations shaped by context",
+    "question": "How does this choice help the debate transcript achieve its effect? A climate campaign depicts children as inheritors of adult decisions.",
+    "audio_prompt": "How does this choice help the debate transcript achieve its effect? A climate campaign depicts children as inheritors of adult decisions.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "future-oriented representation: it frames the issue through intergenerational responsibility.",
+        "is_correct": true
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "future-oriented representation is the strongest answer because it frames the issue through intergenerational responsibility. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly01-p-020",
+    "curriculum_code": "AC9E9LY01",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "representations shaped by context",
+    "question": "Which interpretation best accounts for this detail? A cycleway report shows only peak-hour traffic photographs.",
+    "audio_prompt": "Which interpretation best accounts for this detail? A cycleway report shows only peak-hour traffic photographs.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "selective evidence: it makes congestion dominate how the proposal is understood.",
+        "is_correct": true
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "selective evidence is the strongest answer because it makes congestion dominate how the proposal is understood. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly01-p-021",
+    "curriculum_code": "AC9E9LY01",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "representations shaped by context",
+    "question": "Two readers disagree about this detail: A tourism video calls a remote town “untouched” while showing no residents. Which interpretation is best supported?",
+    "audio_prompt": "Two readers disagree about this detail: A tourism video calls a remote town “untouched” while showing no residents. Which interpretation is best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "selective representation: it values scenery while erasing people who live there.",
+        "is_correct": true
+      },
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "selective representation is the strongest answer because it values scenery while erasing people who live there. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly01-p-022",
+    "curriculum_code": "AC9E9LY01",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "representations shaped by context",
+    "question": "Which analysis avoids overclaiming about this school newspaper example? A newspaper calls a protest “disruption”; organisers call it “public action”.",
+    "audio_prompt": "Which analysis avoids overclaiming about this school newspaper example? A newspaper calls a protest “disruption”; organisers call it “public action”.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "competing frames: it different purposes represent the same event through different values.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "competing frames is the strongest answer because it different purposes represent the same event through different values. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly01-p-023",
+    "curriculum_code": "AC9E9LY01",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "representations shaped by context",
+    "question": "Choose the strongest evidence-based reading of this choice: A museum label changes “discovered” to “mapped by Europeans”.",
+    "audio_prompt": "Choose the strongest evidence-based reading of this choice: A museum label changes “discovered” to “mapped by Europeans”.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "historical reframing: it challenges wording that ignored prior knowledge and presence.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "historical reframing is the strongest answer because it challenges wording that ignored prior knowledge and presence. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly01-p-024",
+    "curriculum_code": "AC9E9LY01",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "representations shaped by context",
+    "question": "Which response is most precise about both the feature and its effect? A sports profile presents injury recovery as a heroic solo effort while barely mentioning the medical team.",
+    "audio_prompt": "Which response is most precise about both the feature and its effect? A sports profile presents injury recovery as a heroic solo effort while barely mentioning the medical team.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "individual-hero frame: it fits a triumph narrative but minimises collective support.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "individual-hero frame is the strongest answer because it fits a triumph narrative but minimises collective support. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly01-p-025",
+    "curriculum_code": "AC9E9LY01",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "representations shaped by context",
+    "question": "Which claim could be defended most convincingly using this exact detail? A housing advertisement calls a small unit “efficient urban living”.",
+    "audio_prompt": "Which claim could be defended most convincingly using this exact detail? A housing advertisement calls a small unit “efficient urban living”.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "commercial framing: it turns limited space into a selling point.",
+        "is_correct": true
+      },
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "commercial framing is the strongest answer because it turns limited space into a selling point. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly01-p-026",
+    "curriculum_code": "AC9E9LY01",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "representations shaped by context",
+    "question": "Which interpretation stays closest to what the local sports podcast actually shows? A drought documentary centres farmers’ diaries rather than rainfall graphs.",
+    "audio_prompt": "Which interpretation stays closest to what the local sports podcast actually shows? A drought documentary centres farmers’ diaries rather than rainfall graphs.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "human-centred representation: it frames drought through lived experience.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "human-centred representation is the strongest answer because it frames drought through lived experience. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly01-p-027",
+    "curriculum_code": "AC9E9LY01",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "representations shaped by context",
+    "question": "Which response corrects the common mistake of treating the feature as having one fixed effect? A school history page adds oral histories beside official records.",
+    "audio_prompt": "Which response corrects the common mistake of treating the feature as having one fixed effect? A school history page adds oral histories beside official records.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "broadened evidence base: it changes whose experiences are visible.",
+        "is_correct": true
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "broadened evidence base is the strongest answer because it changes whose experiences are visible. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly01-p-028",
+    "curriculum_code": "AC9E9LY01",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "representations shaped by context",
+    "question": "Which explanation remains convincing when audience and purpose are considered? A council post calls graffiti “vandalism”; a youth page calls a legal mural “street art”.",
+    "audio_prompt": "Which explanation remains convincing when audience and purpose are considered? A council post calls graffiti “vandalism”; a youth page calls a legal mural “street art”.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "category framing: it reveals assumptions about ownership, legality and creativity.",
+        "is_correct": true
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "category framing is the strongest answer because it reveals assumptions about ownership, legality and creativity. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly01-p-029",
+    "curriculum_code": "AC9E9LY01",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "representations shaped by context",
+    "question": "Which option gives the most defensible analysis of this choice? A climate campaign depicts children as inheritors of adult decisions.",
+    "audio_prompt": "Which option gives the most defensible analysis of this choice? A climate campaign depicts children as inheritors of adult decisions.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "future-oriented representation: it frames the issue through intergenerational responsibility.",
+        "is_correct": true
+      },
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "future-oriented representation is the strongest answer because it frames the issue through intergenerational responsibility. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly01-p-030",
+    "curriculum_code": "AC9E9LY01",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "representations shaped by context",
+    "question": "Which reading distinguishes evidence from assumption most successfully? A cycleway report shows only peak-hour traffic photographs.",
+    "audio_prompt": "Which reading distinguishes evidence from assumption most successfully? A cycleway report shows only peak-hour traffic photographs.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "selective evidence: it makes congestion dominate how the proposal is understood.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "selective evidence is the strongest answer because it makes congestion dominate how the proposal is understood. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly01-p-031",
+    "curriculum_code": "AC9E9LY01",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "representations shaped by context",
+    "question": "You are revising a book-club post. Which decision would use the same idea most purposefully? Starting point: A tourism video calls a remote town “untouched” while showing no residents.",
+    "audio_prompt": "You are revising a book-club post. Which decision would use the same idea most purposefully? Starting point: A tourism video calls a remote town “untouched” while showing no residents.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "selective representation: it values scenery while erasing people who live there.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "selective representation is the strongest answer because it values scenery while erasing people who live there. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly01-p-032",
+    "curriculum_code": "AC9E9LY01",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "representations shaped by context",
+    "question": "Which revision would preserve the intended effect without simply adding complexity? A newspaper calls a protest “disruption”; organisers call it “public action”.",
+    "audio_prompt": "Which revision would preserve the intended effect without simply adding complexity? A newspaper calls a protest “disruption”; organisers call it “public action”.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "competing frames: it different purposes represent the same event through different values.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "competing frames is the strongest answer because it different purposes represent the same event through different values. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly01-p-033",
+    "curriculum_code": "AC9E9LY01",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "representations shaped by context",
+    "question": "A writer wants a similar effect in a new section. Which principle should guide the revision? A museum label changes “discovered” to “mapped by Europeans”.",
+    "audio_prompt": "A writer wants a similar effect in a new section. Which principle should guide the revision? A museum label changes “discovered” to “mapped by Europeans”.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "historical reframing: it challenges wording that ignored prior knowledge and presence.",
+        "is_correct": true
+      },
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "historical reframing is the strongest answer because it challenges wording that ignored prior knowledge and presence. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly01-p-034",
+    "curriculum_code": "AC9E9LY01",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "representations shaped by context",
+    "question": "Which editing decision shows deliberate control of the feature demonstrated here? A sports profile presents injury recovery as a heroic solo effort while barely mentioning the medical team.",
+    "audio_prompt": "Which editing decision shows deliberate control of the feature demonstrated here? A sports profile presents injury recovery as a heroic solo effort while barely mentioning the medical team.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "individual-hero frame: it fits a triumph narrative but minimises collective support.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "individual-hero frame is the strongest answer because it fits a triumph narrative but minimises collective support. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly01-p-035",
+    "curriculum_code": "AC9E9LY01",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "representations shaped by context",
+    "question": "How could a creator build on this choice without merely repeating it? A housing advertisement calls a small unit “efficient urban living”.",
+    "audio_prompt": "How could a creator build on this choice without merely repeating it? A housing advertisement calls a small unit “efficient urban living”.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "commercial framing: it turns limited space into a selling point.",
+        "is_correct": true
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "commercial framing is the strongest answer because it turns limited space into a selling point. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly01-p-036",
+    "curriculum_code": "AC9E9LY01",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "representations shaped by context",
+    "question": "Which revision would make the effect clearer while keeping it appropriate for the audience? A drought documentary centres farmers’ diaries rather than rainfall graphs.",
+    "audio_prompt": "Which revision would make the effect clearer while keeping it appropriate for the audience? A drought documentary centres farmers’ diaries rather than rainfall graphs.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "human-centred representation: it frames drought through lived experience.",
+        "is_correct": true
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "human-centred representation is the strongest answer because it frames drought through lived experience. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly01-p-037",
+    "curriculum_code": "AC9E9LY01",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "representations shaped by context",
+    "question": "Which alternative best applies the same underlying principle? A school history page adds oral histories beside official records.",
+    "audio_prompt": "Which alternative best applies the same underlying principle? A school history page adds oral histories beside official records.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "broadened evidence base: it changes whose experiences are visible.",
+        "is_correct": true
+      },
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "broadened evidence base is the strongest answer because it changes whose experiences are visible. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly01-p-038",
+    "curriculum_code": "AC9E9LY01",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "representations shaped by context",
+    "question": "Which next choice would extend the effect most logically? A council post calls graffiti “vandalism”; a youth page calls a legal mural “street art”.",
+    "audio_prompt": "Which next choice would extend the effect most logically? A council post calls graffiti “vandalism”; a youth page calls a legal mural “street art”.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "category framing: it reveals assumptions about ownership, legality and creativity.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "category framing is the strongest answer because it reveals assumptions about ownership, legality and creativity. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly01-p-039",
+    "curriculum_code": "AC9E9LY01",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "representations shaped by context",
+    "question": "Which revision best matches audience, purpose and the feature shown here? A climate campaign depicts children as inheritors of adult decisions.",
+    "audio_prompt": "Which revision best matches audience, purpose and the feature shown here? A climate campaign depicts children as inheritors of adult decisions.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "future-oriented representation: it frames the issue through intergenerational responsibility.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "future-oriented representation is the strongest answer because it frames the issue through intergenerational responsibility. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly01-p-040",
+    "curriculum_code": "AC9E9LY01",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "representations shaped by context",
+    "question": "Which editing move would strengthen the text while keeping this effect controlled? A cycleway report shows only peak-hour traffic photographs.",
+    "audio_prompt": "Which editing move would strengthen the text while keeping this effect controlled? A cycleway report shows only peak-hour traffic photographs.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "selective evidence: it makes congestion dominate how the proposal is understood.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "selective evidence is the strongest answer because it makes congestion dominate how the proposal is understood. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9ly01-t-001",
@@ -323,36 +1685,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_evidence_to_shape_comparing_texts_from_different_time_periods_and_analysing_the_language_features_used_to_represent_individuals_or_groups_and_influence_how_an_audience_understands_the_text",
-    "question": "Which response correctly uses a writer or speaker can use evidence to shape comparing texts from different time periods and analysing the language features used to represent individuals or groups and influence how an audience understands the text?",
-    "audio_prompt": "Which response correctly uses a writer or speaker can use evidence to shape comparing texts from different time periods and analysing the language features used to represent individuals or groups and influence how an audience understands the text?",
+    "skill": "representations shaped by context",
+    "question": "Which analysis best explains the key choice in this bushfire preparedness video? A new example uses the same kind of deliberate choice: A tourism video calls a remote town ‘untouched’ while showing no residents.",
+    "audio_prompt": "Which analysis best explains the key choice in this bushfire preparedness video? A new example uses the same kind of deliberate choice: A tourism video calls a remote town ‘untouched’ while showing no residents.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "comparing texts from different time periods and analysing the language features used to represent individuals or groups",
+        "text": "selective representation: it values scenery while erasing people who live there.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "comparing texts from different time periods and analysing the language features used to represent individuals or groups",
-      "hint": "A writer or speaker can use evidence to shape comparing texts from different time periods and analysing the language features used to represent individuals or groups and influence how an audience understands the text."
-    }
+      "summary": "selective representation is the strongest answer because it values scenery while erasing people who live there. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9ly01-t-002",
@@ -360,36 +1726,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_examining_the_representation_of_public_figures_in_media_and_recognising_how_these_vary_in_different_contexts_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use purpose to shape examining the representation of public figures in media and recognising how these vary in different contexts and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use purpose to shape examining the representation of public figures in media and recognising how these vary in different contexts and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "representations shaped by context",
+    "question": "Consider this detail from a state library exhibition: In a separate text, the creator makes a comparable move: A newspaper calls a protest ‘disruption’; organisers call it ‘public action’. Which response is most convincing?",
+    "audio_prompt": "Consider this detail from a state library exhibition: In a separate text, the creator makes a comparable move: A newspaper calls a protest ‘disruption’; organisers call it ‘public action’. Which response is most convincing?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
         "is_correct": false
       },
       {
-        "text": "examining the representation of public figures in media and recognising how these vary in different contexts",
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "competing frames: it different purposes represent the same event through different values.",
         "is_correct": true
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "examining the representation of public figures in media and recognising how these vary in different contexts",
-      "hint": "A writer or speaker can use purpose to shape examining the representation of public figures in media and recognising how these vary in different contexts and influence how an audience understands the text."
-    }
+      "summary": "competing frames is the strongest answer because it different purposes represent the same event through different values. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9ly01-t-003",
@@ -397,36 +1767,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_structure_to_shape_identifying_and_analysing_how_news_is_conveyed_in_texts_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use structure to shape identifying and analysing how news is conveyed in texts and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use structure to shape identifying and analysing how news is conveyed in texts and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "representations shaped by context",
+    "question": "What is the strongest interpretation of this regional arts review example? A different writer handles the idea this way: A museum label changes ‘discovered’ to ‘mapped by Europeans’.",
+    "audio_prompt": "What is the strongest interpretation of this regional arts review example? A different writer handles the idea this way: A museum label changes ‘discovered’ to ‘mapped by Europeans’.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "The choice changes only surface style and cannot influence meaning.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
         "is_correct": false
       },
       {
-        "text": "identifying and analysing how news is conveyed in texts; for example, analysing representations of an event at a particular time reported in the media",
+        "text": "historical reframing: it challenges wording that ignored prior knowledge and presence.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "identifying and analysing how news is conveyed in texts; for example, analysing representations of an event at a particular time reported in the media",
-      "hint": "A writer or speaker can use structure to shape identifying and analysing how news is conveyed in texts and influence how an audience understands the text."
-    }
+      "summary": "historical reframing is the strongest answer because it challenges wording that ignored prior knowledge and presence. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9ly01-t-004",
@@ -434,36 +1808,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_evidence_to_shape_comparing_texts_from_different_time_periods_and_analysing_the_language_features_used_to_represent_individuals_or_groups_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use evidence to shape comparing texts from different time periods and analysing the language features used to represent individuals or groups and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use evidence to shape comparing texts from different time periods and analysing the language features used to represent individuals or groups and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "representations shaped by context",
+    "question": "Which option best explains how the choice works for its likely audience? In an unrelated context, readers encounter this choice: A sports profile presents injury recovery as a heroic solo effort while barely mentioning the medical team.",
+    "audio_prompt": "Which option best explains how the choice works for its likely audience? In an unrelated context, readers encounter this choice: A sports profile presents injury recovery as a heroic solo effort while barely mentioning the medical team.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "comparing texts from different time periods and analysing the language features used to represent individuals or groups",
+        "text": "individual-hero frame: it fits a triumph narrative but minimises collective support.",
         "is_correct": true
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "explanation": {
-      "summary": "comparing texts from different time periods and analysing the language features used to represent individuals or groups",
-      "hint": "A writer or speaker can use evidence to shape comparing texts from different time periods and analysing the language features used to represent individuals or groups and influence how an audience understands the text."
-    }
+      "summary": "individual-hero frame is the strongest answer because it fits a triumph narrative but minimises collective support. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9ly01-t-005",
@@ -471,36 +1849,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_examining_the_representation_of_public_figures_in_media_and_recognising_how_these_vary_in_different_contexts_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use purpose to shape examining the representation of public figures in media and recognising how these vary in different contexts and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use purpose to shape examining the representation of public figures in media and recognising how these vary in different contexts and influence how an audience understands the text?",
+    "skill": "representations shaped by context",
+    "question": "Which analysis is best supported by this rail-station campaign detail? A new example uses the same kind of deliberate choice: A housing advertisement calls a small unit ‘efficient urban living’.",
+    "audio_prompt": "Which analysis is best supported by this rail-station campaign detail? A new example uses the same kind of deliberate choice: A housing advertisement calls a small unit ‘efficient urban living’.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "examining the representation of public figures in media and recognising how these vary in different contexts",
+        "text": "commercial framing: it turns limited space into a selling point.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "The choice changes only surface style and cannot influence meaning.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Audience and context can be ignored because the feature works independently.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "examining the representation of public figures in media and recognising how these vary in different contexts",
-      "hint": "A writer or speaker can use purpose to shape examining the representation of public figures in media and recognising how these vary in different contexts and influence how an audience understands the text."
-    }
+      "summary": "commercial framing is the strongest answer because it turns limited space into a selling point. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9ly01-t-006",
@@ -508,36 +1890,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_structure_to_shape_identifying_and_analysing_how_news_is_conveyed_in_texts_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use structure to shape identifying and analysing how news is conveyed in texts and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use structure to shape identifying and analysing how news is conveyed in texts and influence how an audience understands the text?",
+    "skill": "representations shaped by context",
+    "question": "Which response most accurately connects feature and effect here? In a separate text, the creator makes a comparable move: A drought documentary centres farmers’ diaries rather than rainfall graphs.",
+    "audio_prompt": "Which response most accurately connects feature and effect here? In a separate text, the creator makes a comparable move: A drought documentary centres farmers’ diaries rather than rainfall graphs.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
         "is_correct": false
       },
       {
-        "text": "identifying and analysing how news is conveyed in texts; for example, analysing representations of an event at a particular time reported in the media",
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "human-centred representation: it frames drought through lived experience.",
         "is_correct": true
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "identifying and analysing how news is conveyed in texts; for example, analysing representations of an event at a particular time reported in the media",
-      "hint": "A writer or speaker can use structure to shape identifying and analysing how news is conveyed in texts and influence how an audience understands the text."
-    }
+      "summary": "human-centred representation is the strongest answer because it frames drought through lived experience. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9ly01-t-007",
@@ -545,36 +1931,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_evidence_to_shape_comparing_texts_from_different_time_periods_and_analysing_the_language_features_used_to_represent_individuals_or_groups_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use evidence to shape comparing texts from different time periods and analysing the language features used to represent individuals or groups and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use evidence to shape comparing texts from different time periods and analysing the language features used to represent individuals or groups and influence how an audience understands the text?",
+    "skill": "representations shaped by context",
+    "question": "What does a careful reading of this marine-science feature example suggest? A different writer handles the idea this way: A school history page adds oral histories beside official records.",
+    "audio_prompt": "What does a careful reading of this marine-science feature example suggest? A different writer handles the idea this way: A school history page adds oral histories beside official records.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
         "is_correct": false
       },
       {
-        "text": "comparing texts from different time periods and analysing the language features used to represent individuals or groups",
+        "text": "broadened evidence base: it changes whose experiences are visible.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Audience and context can be ignored because the feature works independently.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "comparing texts from different time periods and analysing the language features used to represent individuals or groups",
-      "hint": "A writer or speaker can use evidence to shape comparing texts from different time periods and analysing the language features used to represent individuals or groups and influence how an audience understands the text."
-    }
+      "summary": "broadened evidence base is the strongest answer because it changes whose experiences are visible. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9ly01-t-008",
@@ -582,35 +1972,367 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_examining_the_representation_of_public_figures_in_media_and_recognising_how_these_vary_in_different_contexts_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use purpose to shape examining the representation of public figures in media and recognising how these vary in different contexts and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use purpose to shape examining the representation of public figures in media and recognising how these vary in different contexts and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "representations shaped by context",
+    "question": "Which judgement about this choice is supported by the evidence? In an unrelated context, readers encounter this choice: A council post calls graffiti ‘vandalism’; a youth page calls a legal mural ‘street art’.",
+    "audio_prompt": "Which judgement about this choice is supported by the evidence? In an unrelated context, readers encounter this choice: A council post calls graffiti ‘vandalism’; a youth page calls a legal mural ‘street art’.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "The choice changes only surface style and cannot influence meaning.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "category framing: it reveals assumptions about ownership, legality and creativity.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "category framing is the strongest answer because it reveals assumptions about ownership, legality and creativity. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly01-t-009",
+    "curriculum_code": "AC9E9LY01",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "representations shaped by context",
+    "question": "Which interpretation is precise enough for this cycling-safety proposal context? A new example uses the same kind of deliberate choice: A climate campaign depicts children as inheritors of adult decisions.",
+    "audio_prompt": "Which interpretation is precise enough for this cycling-safety proposal context? A new example uses the same kind of deliberate choice: A climate campaign depicts children as inheritors of adult decisions.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "future-oriented representation: it frames the issue through intergenerational responsibility.",
+        "is_correct": true
+      },
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
         "is_correct": false
       },
       {
-        "text": "examining the representation of public figures in media and recognising how these vary in different contexts",
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "future-oriented representation is the strongest answer because it frames the issue through intergenerational responsibility. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly01-t-010",
+    "curriculum_code": "AC9E9LY01",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "representations shaped by context",
+    "question": "What is the most defensible explanation of this choice? In a separate text, the creator makes a comparable move: A cycleway report shows only peak-hour traffic photographs.",
+    "audio_prompt": "What is the most defensible explanation of this choice? In a separate text, the creator makes a comparable move: A cycleway report shows only peak-hour traffic photographs.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "selective evidence: it makes congestion dominate how the proposal is understood.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "examining the representation of public figures in media and recognising how these vary in different contexts",
-      "hint": "A writer or speaker can use purpose to shape examining the representation of public figures in media and recognising how these vary in different contexts and influence how an audience understands the text."
-    }
+      "summary": "selective evidence is the strongest answer because it makes congestion dominate how the proposal is understood. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly01-t-011",
+    "curriculum_code": "AC9E9LY01",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "representations shaped by context",
+    "question": "Which reading takes both the detail and its context into account? A different writer handles the idea this way: A tourism video calls a remote town ‘untouched’ while showing no residents.",
+    "audio_prompt": "Which reading takes both the detail and its context into account? A different writer handles the idea this way: A tourism video calls a remote town ‘untouched’ while showing no residents.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "selective representation: it values scenery while erasing people who live there.",
+        "is_correct": true
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "selective representation is the strongest answer because it values scenery while erasing people who live there. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly01-t-012",
+    "curriculum_code": "AC9E9LY01",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "representations shaped by context",
+    "question": "Which response avoids a simplistic rule and explains the actual effect? In an unrelated context, readers encounter this choice: A newspaper calls a protest ‘disruption’; organisers call it ‘public action’.",
+    "audio_prompt": "Which response avoids a simplistic rule and explains the actual effect? In an unrelated context, readers encounter this choice: A newspaper calls a protest ‘disruption’; organisers call it ‘public action’.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "competing frames: it different purposes represent the same event through different values.",
+        "is_correct": true
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "competing frames is the strongest answer because it different purposes represent the same event through different values. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly01-t-013",
+    "curriculum_code": "AC9E9LY01",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "representations shaped by context",
+    "question": "What is the best-supported conclusion about this farmers-market profile choice? A new example uses the same kind of deliberate choice: A museum label changes ‘discovered’ to ‘mapped by Europeans’.",
+    "audio_prompt": "What is the best-supported conclusion about this farmers-market profile choice? A new example uses the same kind of deliberate choice: A museum label changes ‘discovered’ to ‘mapped by Europeans’.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "historical reframing: it challenges wording that ignored prior knowledge and presence.",
+        "is_correct": true
+      },
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "historical reframing is the strongest answer because it challenges wording that ignored prior knowledge and presence. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly01-t-014",
+    "curriculum_code": "AC9E9LY01",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "representations shaped by context",
+    "question": "Which option shows the strongest understanding of how the feature works here? In a separate text, the creator makes a comparable move: A sports profile presents injury recovery as a heroic solo effort while barely mentioning the medical team.",
+    "audio_prompt": "Which option shows the strongest understanding of how the feature works here? In a separate text, the creator makes a comparable move: A sports profile presents injury recovery as a heroic solo effort while barely mentioning the medical team.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "individual-hero frame: it fits a triumph narrative but minimises collective support.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "individual-hero frame is the strongest answer because it fits a triumph narrative but minimises collective support. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly01-t-015",
+    "curriculum_code": "AC9E9LY01",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "representations shaped by context",
+    "question": "Which explanation would survive a close check against the evidence? A different writer handles the idea this way: A housing advertisement calls a small unit ‘efficient urban living’.",
+    "audio_prompt": "Which explanation would survive a close check against the evidence? A different writer handles the idea this way: A housing advertisement calls a small unit ‘efficient urban living’.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "commercial framing: it turns limited space into a selling point.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "commercial framing is the strongest answer because it turns limited space into a selling point. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly01-t-016",
+    "curriculum_code": "AC9E9LY01",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "representations shaped by context",
+    "question": "Which analysis best matches the creator’s likely purpose in this sports documentary? In an unrelated context, readers encounter this choice: A drought documentary centres farmers’ diaries rather than rainfall graphs.",
+    "audio_prompt": "Which analysis best matches the creator’s likely purpose in this sports documentary? In an unrelated context, readers encounter this choice: A drought documentary centres farmers’ diaries rather than rainfall graphs.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "human-centred representation: it frames drought through lived experience.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "human-centred representation is the strongest answer because it frames drought through lived experience. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v6"
   }
 ]

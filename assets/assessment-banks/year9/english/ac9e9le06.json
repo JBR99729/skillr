@@ -5,39 +5,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_taking_an_existing_short_story_poem_play_or_speech_in_print_form_and_creating_a_short_film_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use voice to shape taking an existing short story poem play or speech in print form and creating a short film and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use voice to shape taking an existing short story poem play or speech in print form and creating a short film and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "creating and editing literary texts",
+    "question": "In this school podcast, what is the most important feature to notice? A bushfire story combines emergency-text alerts with lyrical first-person narration.",
+    "audio_prompt": "In this school podcast, what is the most important feature to notice? A bushfire story combines emergency-text alerts with lyrical first-person narration.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "taking an existing short story, poem, play or speech in print form and creating a short film",
+        "text": "hybrid form",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "neutral filler",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "formatting accident",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "unrelated convention",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "taking an existing short story, poem, play or speech in print form and creating a short film",
-      "hint": "A writer or speaker can use voice to shape taking an existing short story, poem, play or speech in print form and creating a short film and influence how an audience understands the text."
+      "summary": "hybrid form is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9le06-p-002",
@@ -45,39 +47,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_representation_to_shape_adapting_traditional_and_contemporary_literature_through_textual_intervention_prequel_or_sequel_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use representation to shape adapting traditional and contemporary literature through textual intervention prequel or sequel and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use representation to shape adapting traditional and contemporary literature through textual intervention prequel or sequel and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "creating and editing literary texts",
+    "question": "Read this detail from a Canberra youth forum: A monologue begins as a job-interview answer and slowly becomes a confession. Which description is most precise?",
+    "audio_prompt": "Read this detail from a Canberra youth forum: A monologue begins as a job-interview answer and slowly becomes a confession. Which description is most precise?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "formatting accident",
         "is_correct": false
       },
       {
-        "text": "adapting traditional and contemporary literature through textual intervention, prequel or sequel",
+        "text": "unrelated convention",
+        "is_correct": false
+      },
+      {
+        "text": "random decoration",
+        "is_correct": false
+      },
+      {
+        "text": "subverted form",
         "is_correct": true
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "adapting traditional and contemporary literature through textual intervention, prequel or sequel",
-      "hint": "A writer or speaker can use representation to shape adapting traditional and contemporary literature through textual intervention, prequel or sequel and influence how an audience understands the text."
+      "summary": "subverted form is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9le06-p-003",
@@ -85,39 +89,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_text_choice_to_shape_editing_by_checking_for_run_on_sentences_ensuring_that_detail_or_repetition_is_used_for_effect_and_ensuring_paragraphs_are_linked_in_ways_that_develop_the_narrative_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use text choice to shape editing by checking for run on sentences ensuring that detail or repetition is used for effect and ensuring paragraphs are linked in ways that develop the narrative and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use text choice to shape editing by checking for run on sentences ensuring that detail or repetition is used for effect and ensuring paragraphs are linked in ways that develop the narrative and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "creating and editing literary texts",
+    "question": "Which label best fits the choice made in this regional newspaper? A short story repeats magpie calls at each major decision.",
+    "audio_prompt": "Which label best fits the choice made in this regional newspaper? A short story repeats magpie calls at each major decision.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "random decoration",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "unimportant wording",
         "is_correct": false
       },
       {
-        "text": "editing by checking for run-on sentences, ensuring that detail or repetition is used for effect, and ensuring paragraphs are linked in ways that develop the narrative",
+        "text": "motif planning",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "unrelated convention",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "editing by checking for run-on sentences, ensuring that detail or repetition is used for effect, and ensuring paragraphs are linked in ways that develop the narrative",
-      "hint": "A writer or speaker can use text choice to shape editing by checking for run-on sentences, ensuring that detail or repetition is used for effect, and ensuring paragraphs are linked in ways that develop the narrative and influence how an audience understands the text."
+      "summary": "motif planning is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9le06-p-004",
@@ -125,39 +131,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_taking_an_existing_short_story_poem_play_or_speech_in_print_form_and_creating_a_short_film_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use voice to shape taking an existing short story poem play or speech in print form and creating a short film and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use voice to shape taking an existing short story poem play or speech in print form and creating a short film and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "creating and editing literary texts",
+    "question": "A community sport newsletter contains this example: A narrative cuts between live sports commentary and a player’s private thoughts. What should a careful reader identify first?",
+    "audio_prompt": "A community sport newsletter contains this example: A narrative cuts between live sports commentary and a player’s private thoughts. What should a careful reader identify first?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "background detail",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "taking an existing short story, poem, play or speech in print form and creating a short film",
+        "text": "parallel voices",
         "is_correct": true
+      },
+      {
+        "text": "random decoration",
+        "is_correct": false
+      },
+      {
+        "text": "unimportant wording",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "explanation": {
-      "summary": "taking an existing short story, poem, play or speech in print form and creating a short film",
-      "hint": "A writer or speaker can use voice to shape taking an existing short story, poem, play or speech in print form and creating a short film and influence how an audience understands the text."
+      "summary": "parallel voices is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9le06-p-005",
@@ -165,39 +173,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_representation_to_shape_adapting_traditional_and_contemporary_literature_through_textual_intervention_prequel_or_sequel_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use representation to shape adapting traditional and contemporary literature through textual intervention prequel or sequel and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use representation to shape adapting traditional and contemporary literature through textual intervention prequel or sequel and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "creating and editing literary texts",
+    "question": "Look closely at this coastal clean-up page extract: A poem removes three explanatory lines after a strong image. Which feature matters most?",
+    "audio_prompt": "Look closely at this coastal clean-up page extract: A poem removes three explanatory lines after a strong image. Which feature matters most?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "adapting traditional and contemporary literature through textual intervention, prequel or sequel",
+        "text": "strategic deletion",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "unimportant wording",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "background detail",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "neutral filler",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "adapting traditional and contemporary literature through textual intervention, prequel or sequel",
-      "hint": "A writer or speaker can use representation to shape adapting traditional and contemporary literature through textual intervention, prequel or sequel and influence how an audience understands the text."
+      "summary": "strategic deletion is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9le06-p-006",
@@ -205,39 +215,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_text_choice_to_shape_editing_by_checking_for_run_on_sentences_ensuring_that_detail_or_repetition_is_used_for_effect_and_ensuring_paragraphs_are_linked_in_ways_that_develop_the_narrative_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use text choice to shape editing by checking for run on sentences ensuring that detail or repetition is used for effect and ensuring paragraphs are linked in ways that develop the narrative and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use text choice to shape editing by checking for run on sentences ensuring that detail or repetition is used for effect and ensuring paragraphs are linked in ways that develop the narrative and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "creating and editing literary texts",
+    "question": "What is the clearest way to classify this choice from a student magazine? A dialogue replaces emotion labels with gesture and interruption.",
+    "audio_prompt": "What is the clearest way to classify this choice from a student magazine? A dialogue replaces emotion labels with gesture and interruption.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "background detail",
         "is_correct": false
       },
       {
-        "text": "editing by checking for run-on sentences, ensuring that detail or repetition is used for effect, and ensuring paragraphs are linked in ways that develop the narrative",
+        "text": "neutral filler",
+        "is_correct": false
+      },
+      {
+        "text": "formatting accident",
+        "is_correct": false
+      },
+      {
+        "text": "showing through action",
         "is_correct": true
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "editing by checking for run-on sentences, ensuring that detail or repetition is used for effect, and ensuring paragraphs are linked in ways that develop the narrative",
-      "hint": "A writer or speaker can use text choice to shape editing by checking for run-on sentences, ensuring that detail or repetition is used for effect, and ensuring paragraphs are linked in ways that develop the narrative and influence how an audience understands the text."
+      "summary": "showing through action is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9le06-p-007",
@@ -245,38 +257,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_taking_an_existing_short_story_poem_play_or_speech_in_print_form_and_creating_a_short_film_and_influence_how_an_audience_understands_the_text",
-    "question": "What should you check when using a writer or speaker can use voice to shape taking an existing short story, poem, play or speech in print form and creating a short film and influence how an audience understands the text?",
-    "audio_prompt": "What should you check when using a writer or speaker can use voice to shape taking an existing short story, poem, play or speech in print form and creating a short film and influence how an audience understands the text?",
+    "stage": "recognise",
+    "skill": "creating and editing literary texts",
+    "question": "Before interpreting the effect, identify the main choice here: A speculative story introduces one impossible rule and keeps its consequences consistent.",
+    "audio_prompt": "Before interpreting the effect, identify the main choice here: A speculative story introduces one impossible rule and keeps its consequences consistent.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "formatting accident",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "unrelated convention",
         "is_correct": false
       },
       {
-        "text": "taking an existing short story, poem, play or speech in print form and creating a short film",
+        "text": "world-building control",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "neutral filler",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "taking an existing short story, poem, play or speech in print form and creating a short film",
-      "hint": "A writer or speaker can use voice to shape taking an existing short story, poem, play or speech in print form and creating a short film and influence how an audience understands the text."
+      "summary": "world-building control is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9le06-p-008",
@@ -284,38 +299,1385 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_representation_to_shape_adapting_traditional_and_contemporary_literature_through_textual_intervention_prequel_or_sequel_and_influence_how_an_audience_understands_the_text",
-    "question": "What should you check when using a writer or speaker can use representation to shape adapting traditional and contemporary literature through textual intervention, prequel or sequel and influence how an audience understands the text?",
-    "audio_prompt": "What should you check when using a writer or speaker can use representation to shape adapting traditional and contemporary literature through textual intervention, prequel or sequel and influence how an audience understands the text?",
+    "stage": "recognise",
+    "skill": "creating and editing literary texts",
+    "question": "Which option accurately names the technique operating in this public-transport survey? A memoir-style piece changes from chronology to linked snapshots.",
+    "audio_prompt": "Which option accurately names the technique operating in this public-transport survey? A memoir-style piece changes from chronology to linked snapshots.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "random decoration",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "structural redesign",
+        "is_correct": true
+      },
+      {
+        "text": "formatting accident",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "unrelated convention",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "structural redesign is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9le06-p-009",
+    "curriculum_code": "AC9E9LE06",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "creating and editing literary texts",
+    "question": "This detail appears in a school captain speech: A draft ending echoes an opening image instead of stating the theme directly. What has the creator done?",
+    "audio_prompt": "This detail appears in a school captain speech: A draft ending echoes an opening image instead of stating the theme directly. What has the creator done?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "circular structure",
+        "is_correct": true
+      },
+      {
+        "text": "unrelated convention",
         "is_correct": false
       },
       {
-        "text": "adapting traditional and contemporary literature through textual intervention, prequel or sequel",
+        "text": "random decoration",
+        "is_correct": false
+      },
+      {
+        "text": "unimportant wording",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "circular structure is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9le06-p-010",
+    "curriculum_code": "AC9E9LE06",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "creating and editing literary texts",
+    "question": "Which feature is actually present in this neighbourhood campaign example? A graphic story removes narration from its climax and relies on image sequence.",
+    "audio_prompt": "Which feature is actually present in this neighbourhood campaign example? A graphic story removes narration from its climax and relies on image sequence.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "random decoration",
+        "is_correct": false
+      },
+      {
+        "text": "unimportant wording",
+        "is_correct": false
+      },
+      {
+        "text": "background detail",
+        "is_correct": false
+      },
+      {
+        "text": "mode shift",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "adapting traditional and contemporary literature through textual intervention, prequel or sequel",
-      "hint": "A writer or speaker can use representation to shape adapting traditional and contemporary literature through textual intervention, prequel or sequel and influence how an audience understands the text."
+      "summary": "mode shift is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9le06-p-011",
+    "curriculum_code": "AC9E9LE06",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "creating and editing literary texts",
+    "question": "Why does this choice matter in the library zine? A bushfire story combines emergency-text alerts with lyrical first-person narration.",
+    "audio_prompt": "Why does this choice matter in the library zine? A bushfire story combines emergency-text alerts with lyrical first-person narration.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "hybrid form: it creates urgency and intimacy through contrasting modes.",
+        "is_correct": true
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "hybrid form is the strongest answer because it creates urgency and intimacy through contrasting modes. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
     },
     "difficulty": 2,
-    "sequence_priority": 2
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9le06-p-012",
+    "curriculum_code": "AC9E9LE06",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "creating and editing literary texts",
+    "question": "Which explanation best connects the detail to its effect? A monologue begins as a job-interview answer and slowly becomes a confession.",
+    "audio_prompt": "Which explanation best connects the detail to its effect? A monologue begins as a job-interview answer and slowly becomes a confession.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "subverted form: it reveals character while surprising the reader.",
+        "is_correct": true
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "subverted form is the strongest answer because it reveals character while surprising the reader. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9le06-p-013",
+    "curriculum_code": "AC9E9LE06",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "creating and editing literary texts",
+    "question": "What does the choice contribute to meaning here? A short story repeats magpie calls at each major decision.",
+    "audio_prompt": "What does the choice contribute to meaning here? A short story repeats magpie calls at each major decision.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "motif planning: it links separate scenes and allows meaning to accumulate.",
+        "is_correct": true
+      },
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "motif planning is the strongest answer because it links separate scenes and allows meaning to accumulate. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9le06-p-014",
+    "curriculum_code": "AC9E9LE06",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "creating and editing literary texts",
+    "question": "How is a reader or listener likely to be guided by this choice? A narrative cuts between live sports commentary and a player’s private thoughts.",
+    "audio_prompt": "How is a reader or listener likely to be guided by this choice? A narrative cuts between live sports commentary and a player’s private thoughts.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "parallel voices: it creates irony and tension between public action and inner experience.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "parallel voices is the strongest answer because it creates irony and tension between public action and inner experience. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9le06-p-015",
+    "curriculum_code": "AC9E9LE06",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "creating and editing literary texts",
+    "question": "Which explanation is supported by the actual wording or structure? A poem removes three explanatory lines after a strong image.",
+    "audio_prompt": "Which explanation is supported by the actual wording or structure? A poem removes three explanatory lines after a strong image.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "strategic deletion: it trusts the image and makes the writing less repetitive.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "strategic deletion is the strongest answer because it trusts the image and makes the writing less repetitive. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9le06-p-016",
+    "curriculum_code": "AC9E9LE06",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "creating and editing literary texts",
+    "question": "A reader notices this in a school documentary: A dialogue replaces emotion labels with gesture and interruption. What is the strongest explanation?",
+    "audio_prompt": "A reader notices this in a school documentary: A dialogue replaces emotion labels with gesture and interruption. What is the strongest explanation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "showing through action: it reveals tension without over-explaining it.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "showing through action is the strongest answer because it reveals tension without over-explaining it. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9le06-p-017",
+    "curriculum_code": "AC9E9LE06",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "creating and editing literary texts",
+    "question": "What is gained by using the feature this way? A speculative story introduces one impossible rule and keeps its consequences consistent.",
+    "audio_prompt": "What is gained by using the feature this way? A speculative story introduces one impossible rule and keeps its consequences consistent.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "world-building control: it makes unusual events feel coherent.",
+        "is_correct": true
+      },
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "world-building control is the strongest answer because it makes unusual events feel coherent. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9le06-p-018",
+    "curriculum_code": "AC9E9LE06",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "creating and editing literary texts",
+    "question": "Which response goes beyond naming the feature and explains what it does? A memoir-style piece changes from chronology to linked snapshots.",
+    "audio_prompt": "Which response goes beyond naming the feature and explains what it does? A memoir-style piece changes from chronology to linked snapshots.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "structural redesign: it foregrounds an idea rather than merely recording sequence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "structural redesign is the strongest answer because it foregrounds an idea rather than merely recording sequence. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9le06-p-019",
+    "curriculum_code": "AC9E9LE06",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "creating and editing literary texts",
+    "question": "How does this choice help the debate transcript achieve its effect? A draft ending echoes an opening image instead of stating the theme directly.",
+    "audio_prompt": "How does this choice help the debate transcript achieve its effect? A draft ending echoes an opening image instead of stating the theme directly.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "circular structure: it provides closure while leaving interpretation to the reader.",
+        "is_correct": true
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "circular structure is the strongest answer because it provides closure while leaving interpretation to the reader. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9le06-p-020",
+    "curriculum_code": "AC9E9LE06",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "creating and editing literary texts",
+    "question": "Which interpretation best accounts for this detail? A graphic story removes narration from its climax and relies on image sequence.",
+    "audio_prompt": "Which interpretation best accounts for this detail? A graphic story removes narration from its climax and relies on image sequence.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "mode shift: it increases pace and visual impact at the key moment.",
+        "is_correct": true
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "mode shift is the strongest answer because it increases pace and visual impact at the key moment. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9le06-p-021",
+    "curriculum_code": "AC9E9LE06",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "creating and editing literary texts",
+    "question": "Two readers disagree about this detail: A bushfire story combines emergency-text alerts with lyrical first-person narration. Which interpretation is best supported?",
+    "audio_prompt": "Two readers disagree about this detail: A bushfire story combines emergency-text alerts with lyrical first-person narration. Which interpretation is best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "hybrid form: it creates urgency and intimacy through contrasting modes.",
+        "is_correct": true
+      },
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "hybrid form is the strongest answer because it creates urgency and intimacy through contrasting modes. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9le06-p-022",
+    "curriculum_code": "AC9E9LE06",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "creating and editing literary texts",
+    "question": "Which analysis avoids overclaiming about this school newspaper example? A monologue begins as a job-interview answer and slowly becomes a confession.",
+    "audio_prompt": "Which analysis avoids overclaiming about this school newspaper example? A monologue begins as a job-interview answer and slowly becomes a confession.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "subverted form: it reveals character while surprising the reader.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "subverted form is the strongest answer because it reveals character while surprising the reader. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9le06-p-023",
+    "curriculum_code": "AC9E9LE06",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "creating and editing literary texts",
+    "question": "Choose the strongest evidence-based reading of this choice: A short story repeats magpie calls at each major decision.",
+    "audio_prompt": "Choose the strongest evidence-based reading of this choice: A short story repeats magpie calls at each major decision.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "motif planning: it links separate scenes and allows meaning to accumulate.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "motif planning is the strongest answer because it links separate scenes and allows meaning to accumulate. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9le06-p-024",
+    "curriculum_code": "AC9E9LE06",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "creating and editing literary texts",
+    "question": "Which response is most precise about both the feature and its effect? A narrative cuts between live sports commentary and a player’s private thoughts.",
+    "audio_prompt": "Which response is most precise about both the feature and its effect? A narrative cuts between live sports commentary and a player’s private thoughts.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "parallel voices: it creates irony and tension between public action and inner experience.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "parallel voices is the strongest answer because it creates irony and tension between public action and inner experience. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9le06-p-025",
+    "curriculum_code": "AC9E9LE06",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "creating and editing literary texts",
+    "question": "Which claim could be defended most convincingly using this exact detail? A poem removes three explanatory lines after a strong image.",
+    "audio_prompt": "Which claim could be defended most convincingly using this exact detail? A poem removes three explanatory lines after a strong image.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "strategic deletion: it trusts the image and makes the writing less repetitive.",
+        "is_correct": true
+      },
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "strategic deletion is the strongest answer because it trusts the image and makes the writing less repetitive. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9le06-p-026",
+    "curriculum_code": "AC9E9LE06",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "creating and editing literary texts",
+    "question": "Which interpretation stays closest to what the local sports podcast actually shows? A dialogue replaces emotion labels with gesture and interruption.",
+    "audio_prompt": "Which interpretation stays closest to what the local sports podcast actually shows? A dialogue replaces emotion labels with gesture and interruption.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "showing through action: it reveals tension without over-explaining it.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "showing through action is the strongest answer because it reveals tension without over-explaining it. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9le06-p-027",
+    "curriculum_code": "AC9E9LE06",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "creating and editing literary texts",
+    "question": "Which response corrects the common mistake of treating the feature as having one fixed effect? A speculative story introduces one impossible rule and keeps its consequences consistent.",
+    "audio_prompt": "Which response corrects the common mistake of treating the feature as having one fixed effect? A speculative story introduces one impossible rule and keeps its consequences consistent.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "world-building control: it makes unusual events feel coherent.",
+        "is_correct": true
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "world-building control is the strongest answer because it makes unusual events feel coherent. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9le06-p-028",
+    "curriculum_code": "AC9E9LE06",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "creating and editing literary texts",
+    "question": "Which explanation remains convincing when audience and purpose are considered? A memoir-style piece changes from chronology to linked snapshots.",
+    "audio_prompt": "Which explanation remains convincing when audience and purpose are considered? A memoir-style piece changes from chronology to linked snapshots.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "structural redesign: it foregrounds an idea rather than merely recording sequence.",
+        "is_correct": true
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "structural redesign is the strongest answer because it foregrounds an idea rather than merely recording sequence. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9le06-p-029",
+    "curriculum_code": "AC9E9LE06",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "creating and editing literary texts",
+    "question": "Which option gives the most defensible analysis of this choice? A draft ending echoes an opening image instead of stating the theme directly.",
+    "audio_prompt": "Which option gives the most defensible analysis of this choice? A draft ending echoes an opening image instead of stating the theme directly.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "circular structure: it provides closure while leaving interpretation to the reader.",
+        "is_correct": true
+      },
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "circular structure is the strongest answer because it provides closure while leaving interpretation to the reader. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9le06-p-030",
+    "curriculum_code": "AC9E9LE06",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "creating and editing literary texts",
+    "question": "Which reading distinguishes evidence from assumption most successfully? A graphic story removes narration from its climax and relies on image sequence.",
+    "audio_prompt": "Which reading distinguishes evidence from assumption most successfully? A graphic story removes narration from its climax and relies on image sequence.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "mode shift: it increases pace and visual impact at the key moment.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "mode shift is the strongest answer because it increases pace and visual impact at the key moment. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9le06-p-031",
+    "curriculum_code": "AC9E9LE06",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "creating and editing literary texts",
+    "question": "You are revising a book-club post. Which decision would use the same idea most purposefully? Starting point: A bushfire story combines emergency-text alerts with lyrical first-person narration.",
+    "audio_prompt": "You are revising a book-club post. Which decision would use the same idea most purposefully? Starting point: A bushfire story combines emergency-text alerts with lyrical first-person narration.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "hybrid form: it creates urgency and intimacy through contrasting modes.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "hybrid form is the strongest answer because it creates urgency and intimacy through contrasting modes. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9le06-p-032",
+    "curriculum_code": "AC9E9LE06",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "creating and editing literary texts",
+    "question": "Which revision would preserve the intended effect without simply adding complexity? A monologue begins as a job-interview answer and slowly becomes a confession.",
+    "audio_prompt": "Which revision would preserve the intended effect without simply adding complexity? A monologue begins as a job-interview answer and slowly becomes a confession.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "subverted form: it reveals character while surprising the reader.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "subverted form is the strongest answer because it reveals character while surprising the reader. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9le06-p-033",
+    "curriculum_code": "AC9E9LE06",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "creating and editing literary texts",
+    "question": "A writer wants a similar effect in a new section. Which principle should guide the revision? A short story repeats magpie calls at each major decision.",
+    "audio_prompt": "A writer wants a similar effect in a new section. Which principle should guide the revision? A short story repeats magpie calls at each major decision.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "motif planning: it links separate scenes and allows meaning to accumulate.",
+        "is_correct": true
+      },
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "motif planning is the strongest answer because it links separate scenes and allows meaning to accumulate. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9le06-p-034",
+    "curriculum_code": "AC9E9LE06",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "creating and editing literary texts",
+    "question": "Which editing decision shows deliberate control of the feature demonstrated here? A narrative cuts between live sports commentary and a player’s private thoughts.",
+    "audio_prompt": "Which editing decision shows deliberate control of the feature demonstrated here? A narrative cuts between live sports commentary and a player’s private thoughts.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "parallel voices: it creates irony and tension between public action and inner experience.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "parallel voices is the strongest answer because it creates irony and tension between public action and inner experience. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9le06-p-035",
+    "curriculum_code": "AC9E9LE06",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "creating and editing literary texts",
+    "question": "How could a creator build on this choice without merely repeating it? A poem removes three explanatory lines after a strong image.",
+    "audio_prompt": "How could a creator build on this choice without merely repeating it? A poem removes three explanatory lines after a strong image.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "strategic deletion: it trusts the image and makes the writing less repetitive.",
+        "is_correct": true
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "strategic deletion is the strongest answer because it trusts the image and makes the writing less repetitive. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9le06-p-036",
+    "curriculum_code": "AC9E9LE06",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "creating and editing literary texts",
+    "question": "Which revision would make the effect clearer while keeping it appropriate for the audience? A dialogue replaces emotion labels with gesture and interruption.",
+    "audio_prompt": "Which revision would make the effect clearer while keeping it appropriate for the audience? A dialogue replaces emotion labels with gesture and interruption.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "showing through action: it reveals tension without over-explaining it.",
+        "is_correct": true
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "showing through action is the strongest answer because it reveals tension without over-explaining it. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9le06-p-037",
+    "curriculum_code": "AC9E9LE06",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "creating and editing literary texts",
+    "question": "Which alternative best applies the same underlying principle? A speculative story introduces one impossible rule and keeps its consequences consistent.",
+    "audio_prompt": "Which alternative best applies the same underlying principle? A speculative story introduces one impossible rule and keeps its consequences consistent.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "world-building control: it makes unusual events feel coherent.",
+        "is_correct": true
+      },
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "world-building control is the strongest answer because it makes unusual events feel coherent. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9le06-p-038",
+    "curriculum_code": "AC9E9LE06",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "creating and editing literary texts",
+    "question": "Which next choice would extend the effect most logically? A memoir-style piece changes from chronology to linked snapshots.",
+    "audio_prompt": "Which next choice would extend the effect most logically? A memoir-style piece changes from chronology to linked snapshots.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "structural redesign: it foregrounds an idea rather than merely recording sequence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "structural redesign is the strongest answer because it foregrounds an idea rather than merely recording sequence. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9le06-p-039",
+    "curriculum_code": "AC9E9LE06",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "creating and editing literary texts",
+    "question": "Which revision best matches audience, purpose and the feature shown here? A draft ending echoes an opening image instead of stating the theme directly.",
+    "audio_prompt": "Which revision best matches audience, purpose and the feature shown here? A draft ending echoes an opening image instead of stating the theme directly.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "circular structure: it provides closure while leaving interpretation to the reader.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "circular structure is the strongest answer because it provides closure while leaving interpretation to the reader. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9le06-p-040",
+    "curriculum_code": "AC9E9LE06",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "creating and editing literary texts",
+    "question": "Which editing move would strengthen the text while keeping this effect controlled? A graphic story removes narration from its climax and relies on image sequence.",
+    "audio_prompt": "Which editing move would strengthen the text while keeping this effect controlled? A graphic story removes narration from its climax and relies on image sequence.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "mode shift: it increases pace and visual impact at the key moment.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "mode shift is the strongest answer because it increases pace and visual impact at the key moment. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9le06-t-001",
@@ -323,36 +1685,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_text_choice_to_shape_editing_by_checking_for_run_on_sentences_ensuring_that_detail_or_repetition_is_used_for_effect_and_ensuring_paragraphs_are_linked_in_ways_that_develop_the_narrative_and_influence_how_an_audience_understands_the_text",
-    "question": "Which response correctly uses a writer or speaker can use text choice to shape editing by checking for run-on sentences, ensuring that detail or repetition is used for effect, and ensuring paragraphs are linked in ways that develop the narrative and influence how an audience understands the text?",
-    "audio_prompt": "Which response correctly uses a writer or speaker can use text choice to shape editing by checking for run-on sentences, ensuring that detail or repetition is used for effect, and ensuring paragraphs are linked in ways that develop the narrative and influence how an audience understands the text?",
+    "skill": "creating and editing literary texts",
+    "question": "Which analysis best explains the key choice in this bushfire preparedness video? A new example uses the same kind of deliberate choice: A bushfire story combines emergency-text alerts with lyrical first-person narration.",
+    "audio_prompt": "Which analysis best explains the key choice in this bushfire preparedness video? A new example uses the same kind of deliberate choice: A bushfire story combines emergency-text alerts with lyrical first-person narration.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "editing by checking for run-on sentences, ensuring that detail or repetition is used for effect, and ensuring paragraphs are linked in ways that develop the narrative",
+        "text": "hybrid form: it creates urgency and intimacy through contrasting modes.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "editing by checking for run-on sentences, ensuring that detail or repetition is used for effect, and ensuring paragraphs are linked in ways that develop the narrative",
-      "hint": "A writer or speaker can use text choice to shape editing by checking for run-on sentences, ensuring that detail or repetition is used for effect, and ensuring paragraphs are linked in ways that develop the narrative and influence how an audience understands the text."
-    }
+      "summary": "hybrid form is the strongest answer because it creates urgency and intimacy through contrasting modes. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9le06-t-002",
@@ -360,36 +1726,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_taking_an_existing_short_story_poem_play_or_speech_in_print_form_and_creating_a_short_film_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use voice to shape taking an existing short story poem play or speech in print form and creating a short film and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use voice to shape taking an existing short story poem play or speech in print form and creating a short film and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "creating and editing literary texts",
+    "question": "Consider this detail from a state library exhibition: In a separate text, the creator makes a comparable move: A monologue begins as a job-interview answer and slowly becomes a confession. Which response is most convincing?",
+    "audio_prompt": "Consider this detail from a state library exhibition: In a separate text, the creator makes a comparable move: A monologue begins as a job-interview answer and slowly becomes a confession. Which response is most convincing?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
         "is_correct": false
       },
       {
-        "text": "taking an existing short story, poem, play or speech in print form and creating a short film",
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "subverted form: it reveals character while surprising the reader.",
         "is_correct": true
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "taking an existing short story, poem, play or speech in print form and creating a short film",
-      "hint": "A writer or speaker can use voice to shape taking an existing short story, poem, play or speech in print form and creating a short film and influence how an audience understands the text."
-    }
+      "summary": "subverted form is the strongest answer because it reveals character while surprising the reader. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9le06-t-003",
@@ -397,36 +1767,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_representation_to_shape_adapting_traditional_and_contemporary_literature_through_textual_intervention_prequel_or_sequel_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use representation to shape adapting traditional and contemporary literature through textual intervention prequel or sequel and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use representation to shape adapting traditional and contemporary literature through textual intervention prequel or sequel and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "creating and editing literary texts",
+    "question": "What is the strongest interpretation of this regional arts review example? A different writer handles the idea this way: A short story repeats magpie calls at each major decision.",
+    "audio_prompt": "What is the strongest interpretation of this regional arts review example? A different writer handles the idea this way: A short story repeats magpie calls at each major decision.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "The choice changes only surface style and cannot influence meaning.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
         "is_correct": false
       },
       {
-        "text": "adapting traditional and contemporary literature through textual intervention, prequel or sequel",
+        "text": "motif planning: it links separate scenes and allows meaning to accumulate.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "adapting traditional and contemporary literature through textual intervention, prequel or sequel",
-      "hint": "A writer or speaker can use representation to shape adapting traditional and contemporary literature through textual intervention, prequel or sequel and influence how an audience understands the text."
-    }
+      "summary": "motif planning is the strongest answer because it links separate scenes and allows meaning to accumulate. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9le06-t-004",
@@ -434,36 +1808,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_text_choice_to_shape_editing_by_checking_for_run_on_sentences_ensuring_that_detail_or_repetition_is_used_for_effect_and_ensuring_paragraphs_are_linked_in_ways_that_develop_the_narrative_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use text choice to shape editing by checking for run on sentences ensuring that detail or repetition is used for effect and ensuring paragraphs are linked in ways that develop the narrative and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use text choice to shape editing by checking for run on sentences ensuring that detail or repetition is used for effect and ensuring paragraphs are linked in ways that develop the narrative and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "creating and editing literary texts",
+    "question": "Which option best explains how the choice works for its likely audience? In an unrelated context, readers encounter this choice: A narrative cuts between live sports commentary and a player’s private thoughts.",
+    "audio_prompt": "Which option best explains how the choice works for its likely audience? In an unrelated context, readers encounter this choice: A narrative cuts between live sports commentary and a player’s private thoughts.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "editing by checking for run-on sentences, ensuring that detail or repetition is used for effect, and ensuring paragraphs are linked in ways that develop the narrative",
+        "text": "parallel voices: it creates irony and tension between public action and inner experience.",
         "is_correct": true
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "explanation": {
-      "summary": "editing by checking for run-on sentences, ensuring that detail or repetition is used for effect, and ensuring paragraphs are linked in ways that develop the narrative",
-      "hint": "A writer or speaker can use text choice to shape editing by checking for run-on sentences, ensuring that detail or repetition is used for effect, and ensuring paragraphs are linked in ways that develop the narrative and influence how an audience understands the text."
-    }
+      "summary": "parallel voices is the strongest answer because it creates irony and tension between public action and inner experience. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9le06-t-005",
@@ -471,36 +1849,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_taking_an_existing_short_story_poem_play_or_speech_in_print_form_and_creating_a_short_film_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use voice to shape taking an existing short story, poem, play or speech in print form and creating a short film and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use voice to shape taking an existing short story, poem, play or speech in print form and creating a short film and influence how an audience understands the text?",
+    "skill": "creating and editing literary texts",
+    "question": "Which analysis is best supported by this rail-station campaign detail? A new example uses the same kind of deliberate choice: A poem removes three explanatory lines after a strong image.",
+    "audio_prompt": "Which analysis is best supported by this rail-station campaign detail? A new example uses the same kind of deliberate choice: A poem removes three explanatory lines after a strong image.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "taking an existing short story, poem, play or speech in print form and creating a short film",
+        "text": "strategic deletion: it trusts the image and makes the writing less repetitive.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "The choice changes only surface style and cannot influence meaning.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Audience and context can be ignored because the feature works independently.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "taking an existing short story, poem, play or speech in print form and creating a short film",
-      "hint": "A writer or speaker can use voice to shape taking an existing short story, poem, play or speech in print form and creating a short film and influence how an audience understands the text."
-    }
+      "summary": "strategic deletion is the strongest answer because it trusts the image and makes the writing less repetitive. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9le06-t-006",
@@ -508,36 +1890,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_representation_to_shape_adapting_traditional_and_contemporary_literature_through_textual_intervention_prequel_or_sequel_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use representation to shape adapting traditional and contemporary literature through textual intervention, prequel or sequel and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use representation to shape adapting traditional and contemporary literature through textual intervention, prequel or sequel and influence how an audience understands the text?",
+    "skill": "creating and editing literary texts",
+    "question": "Which response most accurately connects feature and effect here? In a separate text, the creator makes a comparable move: A dialogue replaces emotion labels with gesture and interruption.",
+    "audio_prompt": "Which response most accurately connects feature and effect here? In a separate text, the creator makes a comparable move: A dialogue replaces emotion labels with gesture and interruption.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
         "is_correct": false
       },
       {
-        "text": "adapting traditional and contemporary literature through textual intervention, prequel or sequel",
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "showing through action: it reveals tension without over-explaining it.",
         "is_correct": true
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "adapting traditional and contemporary literature through textual intervention, prequel or sequel",
-      "hint": "A writer or speaker can use representation to shape adapting traditional and contemporary literature through textual intervention, prequel or sequel and influence how an audience understands the text."
-    }
+      "summary": "showing through action is the strongest answer because it reveals tension without over-explaining it. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9le06-t-007",
@@ -545,36 +1931,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_text_choice_to_shape_editing_by_checking_for_run_on_sentences_ensuring_that_detail_or_repetition_is_used_for_effect_and_ensuring_paragraphs_are_linked_in_ways_that_develop_the_narrative_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use text choice to shape editing by checking for run-on sentences, ensuring that detail or repetition is used for effect, and ensuring paragraphs are linked in ways that develop the narrative and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use text choice to shape editing by checking for run-on sentences, ensuring that detail or repetition is used for effect, and ensuring paragraphs are linked in ways that develop the narrative and influence how an audience understands the text?",
+    "skill": "creating and editing literary texts",
+    "question": "What does a careful reading of this marine-science feature example suggest? A different writer handles the idea this way: A speculative story introduces one impossible rule and keeps its consequences consistent.",
+    "audio_prompt": "What does a careful reading of this marine-science feature example suggest? A different writer handles the idea this way: A speculative story introduces one impossible rule and keeps its consequences consistent.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
         "is_correct": false
       },
       {
-        "text": "editing by checking for run-on sentences, ensuring that detail or repetition is used for effect, and ensuring paragraphs are linked in ways that develop the narrative",
+        "text": "world-building control: it makes unusual events feel coherent.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Audience and context can be ignored because the feature works independently.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "editing by checking for run-on sentences, ensuring that detail or repetition is used for effect, and ensuring paragraphs are linked in ways that develop the narrative",
-      "hint": "A writer or speaker can use text choice to shape editing by checking for run-on sentences, ensuring that detail or repetition is used for effect, and ensuring paragraphs are linked in ways that develop the narrative and influence how an audience understands the text."
-    }
+      "summary": "world-building control is the strongest answer because it makes unusual events feel coherent. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9le06-t-008",
@@ -582,35 +1972,367 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_taking_an_existing_short_story_poem_play_or_speech_in_print_form_and_creating_a_short_film_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use voice to shape taking an existing short story poem play or speech in print form and creating a short film and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use voice to shape taking an existing short story poem play or speech in print form and creating a short film and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "creating and editing literary texts",
+    "question": "Which judgement about this choice is supported by the evidence? In an unrelated context, readers encounter this choice: A memoir-style piece changes from chronology to linked snapshots.",
+    "audio_prompt": "Which judgement about this choice is supported by the evidence? In an unrelated context, readers encounter this choice: A memoir-style piece changes from chronology to linked snapshots.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "The choice changes only surface style and cannot influence meaning.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "structural redesign: it foregrounds an idea rather than merely recording sequence.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "structural redesign is the strongest answer because it foregrounds an idea rather than merely recording sequence. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9le06-t-009",
+    "curriculum_code": "AC9E9LE06",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating and editing literary texts",
+    "question": "Which interpretation is precise enough for this cycling-safety proposal context? A new example uses the same kind of deliberate choice: A draft ending echoes an opening image instead of stating the theme directly.",
+    "audio_prompt": "Which interpretation is precise enough for this cycling-safety proposal context? A new example uses the same kind of deliberate choice: A draft ending echoes an opening image instead of stating the theme directly.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "circular structure: it provides closure while leaving interpretation to the reader.",
+        "is_correct": true
+      },
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
         "is_correct": false
       },
       {
-        "text": "taking an existing short story, poem, play or speech in print form and creating a short film",
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "circular structure is the strongest answer because it provides closure while leaving interpretation to the reader. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9le06-t-010",
+    "curriculum_code": "AC9E9LE06",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating and editing literary texts",
+    "question": "What is the most defensible explanation of this choice? In a separate text, the creator makes a comparable move: A graphic story removes narration from its climax and relies on image sequence.",
+    "audio_prompt": "What is the most defensible explanation of this choice? In a separate text, the creator makes a comparable move: A graphic story removes narration from its climax and relies on image sequence.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "mode shift: it increases pace and visual impact at the key moment.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "taking an existing short story, poem, play or speech in print form and creating a short film",
-      "hint": "A writer or speaker can use voice to shape taking an existing short story, poem, play or speech in print form and creating a short film and influence how an audience understands the text."
-    }
+      "summary": "mode shift is the strongest answer because it increases pace and visual impact at the key moment. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9le06-t-011",
+    "curriculum_code": "AC9E9LE06",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating and editing literary texts",
+    "question": "Which reading takes both the detail and its context into account? A different writer handles the idea this way: A bushfire story combines emergency-text alerts with lyrical first-person narration.",
+    "audio_prompt": "Which reading takes both the detail and its context into account? A different writer handles the idea this way: A bushfire story combines emergency-text alerts with lyrical first-person narration.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "hybrid form: it creates urgency and intimacy through contrasting modes.",
+        "is_correct": true
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "hybrid form is the strongest answer because it creates urgency and intimacy through contrasting modes. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9le06-t-012",
+    "curriculum_code": "AC9E9LE06",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating and editing literary texts",
+    "question": "Which response avoids a simplistic rule and explains the actual effect? In an unrelated context, readers encounter this choice: A monologue begins as a job-interview answer and slowly becomes a confession.",
+    "audio_prompt": "Which response avoids a simplistic rule and explains the actual effect? In an unrelated context, readers encounter this choice: A monologue begins as a job-interview answer and slowly becomes a confession.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "subverted form: it reveals character while surprising the reader.",
+        "is_correct": true
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "subverted form is the strongest answer because it reveals character while surprising the reader. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9le06-t-013",
+    "curriculum_code": "AC9E9LE06",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating and editing literary texts",
+    "question": "What is the best-supported conclusion about this farmers-market profile choice? A new example uses the same kind of deliberate choice: A short story repeats magpie calls at each major decision.",
+    "audio_prompt": "What is the best-supported conclusion about this farmers-market profile choice? A new example uses the same kind of deliberate choice: A short story repeats magpie calls at each major decision.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "motif planning: it links separate scenes and allows meaning to accumulate.",
+        "is_correct": true
+      },
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "motif planning is the strongest answer because it links separate scenes and allows meaning to accumulate. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9le06-t-014",
+    "curriculum_code": "AC9E9LE06",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating and editing literary texts",
+    "question": "Which option shows the strongest understanding of how the feature works here? In a separate text, the creator makes a comparable move: A narrative cuts between live sports commentary and a player’s private thoughts.",
+    "audio_prompt": "Which option shows the strongest understanding of how the feature works here? In a separate text, the creator makes a comparable move: A narrative cuts between live sports commentary and a player’s private thoughts.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "parallel voices: it creates irony and tension between public action and inner experience.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "parallel voices is the strongest answer because it creates irony and tension between public action and inner experience. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9le06-t-015",
+    "curriculum_code": "AC9E9LE06",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating and editing literary texts",
+    "question": "Which explanation would survive a close check against the evidence? A different writer handles the idea this way: A poem removes three explanatory lines after a strong image.",
+    "audio_prompt": "Which explanation would survive a close check against the evidence? A different writer handles the idea this way: A poem removes three explanatory lines after a strong image.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "strategic deletion: it trusts the image and makes the writing less repetitive.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "strategic deletion is the strongest answer because it trusts the image and makes the writing less repetitive. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9le06-t-016",
+    "curriculum_code": "AC9E9LE06",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating and editing literary texts",
+    "question": "Which analysis best matches the creator’s likely purpose in this sports documentary? In an unrelated context, readers encounter this choice: A dialogue replaces emotion labels with gesture and interruption.",
+    "audio_prompt": "Which analysis best matches the creator’s likely purpose in this sports documentary? In an unrelated context, readers encounter this choice: A dialogue replaces emotion labels with gesture and interruption.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "showing through action: it reveals tension without over-explaining it.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "showing through action is the strongest answer because it reveals tension without over-explaining it. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v6"
   }
 ]
