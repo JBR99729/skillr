@@ -3,6 +3,7 @@ on:
   push:
     branches: [content/year8-english-actual-rebuild]
     paths:
+      - 'scripts/reset_year8_english_source_from_main.mjs'
       - 'scripts/rebuild_year8_english_actual_banks.mjs'
       - 'scripts/refine_year8_english_actual_banks.mjs'
       - 'scripts/validate_year8_english_actual_banks.mjs'
@@ -20,6 +21,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
+      - name: Reset source banks from main
+        run: node scripts/reset_year8_english_source_from_main.mjs
       - name: Rebuild actual Year 8 English banks
         run: node scripts/rebuild_year8_english_actual_banks.mjs
       - name: Refine authored answers and stems
