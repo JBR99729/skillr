@@ -5,39 +5,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_identifying_the_organisation_of_ideas_in_a_text_and_determining_the_purpose_and_effect_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape identifying the organisation of ideas in a text and determining the purpose and effect and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape identifying the organisation of ideas in a text and determining the purpose and effect and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "A webpage places a large headline, a short summary and then three clearly labelled sections underneath. What does this organisation help readers do?",
+    "audio_prompt": "A webpage places a large headline, a short summary and then three clearly labelled sections underneath. What does this organisation help readers do?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "identifying the organisation of ideas in a text and determining the purpose and effect; for example, how the eye is drawn across or down a webpage for a purpose",
+        "text": "Grasp the main point first, then move into detail in a controlled order.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "Read every section in a random sequence.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Ignore the headline completely.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Treat all information as equally important.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "identifying the organisation of ideas in a text and determining the purpose and effect; for example, how the eye is drawn across or down a webpage for a purpose",
-      "hint": "A writer or speaker can use purpose to shape identifying the organisation of ideas in a text and determining the purpose and effect and influence how an audience understands the text."
+      "summary": "The hierarchy signals priority: headline first, summary next, then supporting detail.",
+      "hint": "Look for what readers encounter first."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly04-p-002",
@@ -45,39 +47,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_structure_to_shape_evaluating_how_ideas_in_an_online_review_are_organised_and_its_success_in_achieving_its_purpose_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use structure to shape evaluating how ideas in an online review are organised and its success in achieving its purpose and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use structure to shape evaluating how ideas in an online review are organised and its success in achieving its purpose and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "An online review begins with a one-sentence verdict before explaining strengths and weaknesses. What is the likely purpose of this structure?",
+    "audio_prompt": "An online review begins with a one-sentence verdict before explaining strengths and weaknesses. What is the likely purpose of this structure?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "evaluating how ideas in an online review are organised and its success in achieving its purpose",
+        "text": "To give readers the overall judgement immediately before supporting it.",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "To hide the reviewer’s opinion.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "To make the review purely factual.",
+        "is_correct": false
+      },
+      {
+        "text": "To prevent readers from comparing evidence.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "evaluating how ideas in an online review are organised and its success in achieving its purpose",
-      "hint": "A writer or speaker can use structure to shape evaluating how ideas in an online review are organised and its success in achieving its purpose and influence how an audience understands the text."
+      "summary": "Front-loading the verdict gives busy readers the main judgement before the detailed reasoning.",
+      "hint": "Where is the overall view placed?"
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly04-p-003",
@@ -85,39 +89,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_evidence_to_shape_comparing_the_organisation_of_ideas_in_political_pamphlets_and_determining_the_impact_of_each_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use evidence to shape comparing the organisation of ideas in political pamphlets and determining the impact of each and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use evidence to shape comparing the organisation of ideas in political pamphlets and determining the impact of each and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "A news article uses subheadings such as “What happened”, “Why it matters” and “What comes next”. What do the subheadings mainly do?",
+    "audio_prompt": "A news article uses subheadings such as “What happened”, “Why it matters” and “What comes next”. What do the subheadings mainly do?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "comparing the organisation of ideas in political pamphlets and determining the impact of each",
+        "text": "Organise information by function and help readers navigate the article.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Make the article less coherent.",
+        "is_correct": false
+      },
+      {
+        "text": "Turn the article into fiction.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the need for evidence.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "comparing the organisation of ideas in political pamphlets and determining the impact of each",
-      "hint": "A writer or speaker can use evidence to shape comparing the organisation of ideas in political pamphlets and determining the impact of each and influence how an audience understands the text."
+      "summary": "Subheadings divide ideas into purposeful sections and make the information easier to scan.",
+      "hint": "Think navigation and grouping."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly04-p-004",
@@ -125,39 +131,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_identifying_the_organisation_of_ideas_in_a_text_and_determining_the_purpose_and_effect_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape identifying the organisation of ideas in a text and determining the purpose and effect and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape identifying the organisation of ideas in a text and determining the purpose and effect and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "A persuasive article presents the strongest counterargument immediately before its conclusion. Why might this be effective?",
+    "audio_prompt": "A persuasive article presents the strongest counterargument immediately before its conclusion. Why might this be effective?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "identifying the organisation of ideas in a text and determining the purpose and effect; for example, how the eye is drawn across or down a webpage for a purpose",
+        "text": "It lets the writer address the main objection before the final judgement.",
         "is_correct": true
+      },
+      {
+        "text": "It guarantees the counterargument wins.",
+        "is_correct": false
+      },
+      {
+        "text": "It removes the writer’s position.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the article chronological.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "identifying the organisation of ideas in a text and determining the purpose and effect; for example, how the eye is drawn across or down a webpage for a purpose",
-      "hint": "A writer or speaker can use purpose to shape identifying the organisation of ideas in a text and determining the purpose and effect and influence how an audience understands the text."
+      "summary": "Placing the strongest objection near the end allows the response to shape how readers approach the conclusion.",
+      "hint": "What concern is answered just before the final position?"
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly04-p-005",
@@ -165,39 +173,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_structure_to_shape_evaluating_how_ideas_in_an_online_review_are_organised_and_its_success_in_achieving_its_purpose_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use structure to shape evaluating how ideas in an online review are organised and its success in achieving its purpose and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use structure to shape evaluating how ideas in an online review are organised and its success in achieving its purpose and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "On a webpage, a bright button labelled “Apply now” appears directly after a short list of benefits. What is the organisational effect?",
+    "audio_prompt": "On a webpage, a bright button labelled “Apply now” appears directly after a short list of benefits. What is the organisational effect?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "evaluating how ideas in an online review are organised and its success in achieving its purpose",
+        "text": "The benefits lead directly into the requested action.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "The action is unrelated to the benefits.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "The button becomes a source citation.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The page no longer has a purpose.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "evaluating how ideas in an online review are organised and its success in achieving its purpose",
-      "hint": "A writer or speaker can use structure to shape evaluating how ideas in an online review are organised and its success in achieving its purpose and influence how an audience understands the text."
+      "summary": "The sequence moves from reasons to a call to action, supporting persuasion.",
+      "hint": "Reason first, action next."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly04-p-006",
@@ -205,39 +215,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_evidence_to_shape_comparing_the_organisation_of_ideas_in_political_pamphlets_and_determining_the_impact_of_each_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use evidence to shape comparing the organisation of ideas in political pamphlets and determining the impact of each and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use evidence to shape comparing the organisation of ideas in political pamphlets and determining the impact of each and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "A review separates “What works” and “What does not” into two sections. What structure is being used?",
+    "audio_prompt": "A review separates “What works” and “What does not” into two sections. What structure is being used?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "comparing the organisation of ideas in political pamphlets and determining the impact of each",
+        "text": "contrast between strengths and weaknesses",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "chronological narration",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "cause and effect only",
+        "is_correct": false
+      },
+      {
+        "text": "random listing",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "comparing the organisation of ideas in political pamphlets and determining the impact of each",
-      "hint": "A writer or speaker can use evidence to shape comparing the organisation of ideas in political pamphlets and determining the impact of each and influence how an audience understands the text."
+      "summary": "The review organises ideas around contrasting evaluative categories.",
+      "hint": "Two opposing sections are being compared."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly04-p-007",
@@ -245,38 +257,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_identifying_the_organisation_of_ideas_in_a_text_and_determining_the_purpose_and_effect_and_influence_how_an_audience_understands_the_text",
-    "question": "What should you check when using a writer or speaker can use purpose to shape identifying the organisation of ideas in a text and determining the purpose and effect and influence how an audience understands the text?",
-    "audio_prompt": "What should you check when using a writer or speaker can use purpose to shape identifying the organisation of ideas in a text and determining the purpose and effect and influence how an audience understands the text?",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "Which feature most clearly creates visual hierarchy on a webpage?",
+    "audio_prompt": "Which feature most clearly creates visual hierarchy on a webpage?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "identifying the organisation of ideas in a text and determining the purpose and effect; for example, how the eye is drawn across or down a webpage for a purpose",
+        "text": "Different heading sizes that show levels of importance",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Using the same size for every element",
+        "is_correct": false
+      },
+      {
+        "text": "Placing all text in one block",
+        "is_correct": false
+      },
+      {
+        "text": "Removing spacing between sections",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "identifying the organisation of ideas in a text and determining the purpose and effect; for example, how the eye is drawn across or down a webpage for a purpose",
-      "hint": "A writer or speaker can use purpose to shape identifying the organisation of ideas in a text and determining the purpose and effect and influence how an audience understands the text."
+      "summary": "Heading size can signal which ideas are major and which are subordinate.",
+      "hint": "Hierarchy means levels."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly04-p-008",
@@ -284,38 +299,1385 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_structure_to_shape_evaluating_how_ideas_in_an_online_review_are_organised_and_its_success_in_achieving_its_purpose_and_influence_how_an_audience_understands_the_text",
-    "question": "What should you check when using a writer or speaker can use structure to shape evaluating how ideas in an online review are organised and its success in achieving its purpose and influence how an audience understands the text?",
-    "audio_prompt": "What should you check when using a writer or speaker can use structure to shape evaluating how ideas in an online review are organised and its success in achieving its purpose and influence how an audience understands the text?",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "A report places a chart directly beside the paragraph explaining the data. What is the main organisational advantage?",
+    "audio_prompt": "A report places a chart directly beside the paragraph explaining the data. What is the main organisational advantage?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "evaluating how ideas in an online review are organised and its success in achieving its purpose",
+        "text": "Readers can connect the visual evidence with the interpretation immediately.",
         "is_correct": true
+      },
+      {
+        "text": "The chart becomes decorative only.",
+        "is_correct": false
+      },
+      {
+        "text": "The paragraph no longer needs to make sense.",
+        "is_correct": false
+      },
+      {
+        "text": "The report becomes a narrative.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "evaluating how ideas in an online review are organised and its success in achieving its purpose",
-      "hint": "A writer or speaker can use structure to shape evaluating how ideas in an online review are organised and its success in achieving its purpose and influence how an audience understands the text."
+      "summary": "Proximity links related verbal and visual information, reducing the effort needed to connect them.",
+      "hint": "Related information is placed together."
     },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly04-p-009",
+    "curriculum_code": "AC9E10LY04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "A long article begins with a short “Key points” box. What is its main function?",
+    "audio_prompt": "A long article begins with a short “Key points” box. What is its main function?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "To give readers a quick overview before the full detail.",
+        "is_correct": true
+      },
+      {
+        "text": "To replace every later section.",
+        "is_correct": false
+      },
+      {
+        "text": "To introduce a fictional character.",
+        "is_correct": false
+      },
+      {
+        "text": "To make the article harder to scan.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A summary box provides an entry point for readers who want the main ideas first.",
+      "hint": "Overview before detail."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly04-p-010",
+    "curriculum_code": "AC9E10LY04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "A webpage menu groups information under “Students”, “Parents” and “Employers”. What determines the organisation?",
+    "audio_prompt": "A webpage menu groups information under “Students”, “Parents” and “Employers”. What determines the organisation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "audience group",
+        "is_correct": true
+      },
+      {
+        "text": "alphabetical order only",
+        "is_correct": false
+      },
+      {
+        "text": "chronology",
+        "is_correct": false
+      },
+      {
+        "text": "rhyme",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The content is organised by the needs of different audience groups.",
+      "hint": "Who is each section for?"
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly04-p-011",
+    "curriculum_code": "AC9E10LY04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "Why might an online review place its rating near the top rather than at the end?",
+    "audio_prompt": "Why might an online review place its rating near the top rather than at the end?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Many readers want a quick judgement before deciding whether to read the full explanation.",
+        "is_correct": true
+      },
+      {
+        "text": "Ratings always make reviews more accurate.",
+        "is_correct": false
+      },
+      {
+        "text": "The top of a page is the only place ratings can appear.",
+        "is_correct": false
+      },
+      {
+        "text": "A rating replaces the need for reasons.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Placement responds to likely reader behaviour while the detailed evidence still supports the judgement.",
+      "hint": "Think about scanning behaviour."
+    },
+    "stage": "explain",
     "difficulty": 2,
-    "sequence_priority": 2
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly04-p-012",
+    "curriculum_code": "AC9E10LY04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "A webpage uses a large image first, then a headline and then explanatory text. How can this reading path shape response?",
+    "audio_prompt": "A webpage uses a large image first, then a headline and then explanatory text. How can this reading path shape response?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The image can establish mood or focus before the words explain the issue.",
+        "is_correct": true
+      },
+      {
+        "text": "Images always matter more than words.",
+        "is_correct": false
+      },
+      {
+        "text": "Readers must ignore the later text.",
+        "is_correct": false
+      },
+      {
+        "text": "The arrangement has no effect on interpretation.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Sequence affects what frames the reader’s first impression and how later information is interpreted.",
+      "hint": "First impressions can guide later reading."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly04-p-013",
+    "curriculum_code": "AC9E10LY04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "Why is it useful to place evidence immediately after a claim?",
+    "audio_prompt": "Why is it useful to place evidence immediately after a claim?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Readers can see the support for the claim before moving to the next idea.",
+        "is_correct": true
+      },
+      {
+        "text": "Evidence becomes more emotional when placed nearby.",
+        "is_correct": false
+      },
+      {
+        "text": "Claims do not need explanation if evidence follows.",
+        "is_correct": false
+      },
+      {
+        "text": "Evidence placement is purely decorative.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Close claim-evidence pairing strengthens coherence and makes the reasoning easier to follow.",
+      "hint": "Keep support close to the point it supports."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly04-p-014",
+    "curriculum_code": "AC9E10LY04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "An article begins with a personal story, then moves to statistics and policy discussion. What does this structure achieve?",
+    "audio_prompt": "An article begins with a personal story, then moves to statistics and policy discussion. What does this structure achieve?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It moves from an individual experience to a broader social issue.",
+        "is_correct": true
+      },
+      {
+        "text": "It proves the personal story is statistically typical.",
+        "is_correct": false
+      },
+      {
+        "text": "It removes the article’s argument.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the statistics fictional.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The structure can engage readers through a concrete case before widening to evidence and systemic analysis.",
+      "hint": "Specific first, broader context later."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly04-p-015",
+    "curriculum_code": "AC9E10LY04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "Why might a review discuss the product’s intended audience before judging whether it succeeds?",
+    "audio_prompt": "Why might a review discuss the product’s intended audience before judging whether it succeeds?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The judgement can be tied to what the product is trying to do for particular users.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience has no relation to evaluation.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes all products equally good.",
+        "is_correct": false
+      },
+      {
+        "text": "It prevents criticism.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Purpose and audience provide criteria for evaluation rather than relying only on personal preference.",
+      "hint": "Success depends partly on intended use."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly04-p-016",
+    "curriculum_code": "AC9E10LY04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "A website puts frequently asked questions after the main explanation rather than before it. Why?",
+    "audio_prompt": "A website puts frequently asked questions after the main explanation rather than before it. Why?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Readers first receive the core information, then can resolve specific remaining concerns.",
+        "is_correct": true
+      },
+      {
+        "text": "FAQs are always less important than all other information.",
+        "is_correct": false
+      },
+      {
+        "text": "Questions cannot introduce a topic.",
+        "is_correct": false
+      },
+      {
+        "text": "The order guarantees every reader has the same concern.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The structure establishes the main message before providing targeted clarification.",
+      "hint": "Core explanation first, exceptions or concerns later."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly04-p-017",
+    "curriculum_code": "AC9E10LY04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "Why might a persuasive text save its strongest evidence for the paragraph immediately before the conclusion?",
+    "audio_prompt": "Why might a persuasive text save its strongest evidence for the paragraph immediately before the conclusion?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It can give the final judgement momentum by ending the body on a strong support point.",
+        "is_correct": true
+      },
+      {
+        "text": "Strong evidence only works at the end.",
+        "is_correct": false
+      },
+      {
+        "text": "Earlier evidence becomes irrelevant.",
+        "is_correct": false
+      },
+      {
+        "text": "The conclusion no longer needs to connect to the argument.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Strategic placement can shape emphasis and what remains most salient before the conclusion.",
+      "hint": "Recency can affect emphasis."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly04-p-018",
+    "curriculum_code": "AC9E10LY04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "A webpage has links embedded exactly where unfamiliar terms first appear. What organisational benefit does this offer?",
+    "audio_prompt": "A webpage has links embedded exactly where unfamiliar terms first appear. What organisational benefit does this offer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Readers can access extra detail at the point of need without interrupting the main flow for everyone.",
+        "is_correct": true
+      },
+      {
+        "text": "Links automatically prove the claims.",
+        "is_correct": false
+      },
+      {
+        "text": "Readers must click every link.",
+        "is_correct": false
+      },
+      {
+        "text": "The main page becomes unnecessary.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Embedded links create layered information: the main text stays concise while optional detail remains accessible.",
+      "hint": "Different readers can choose different depth."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly04-p-019",
+    "curriculum_code": "AC9E10LY04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "A report presents problem, causes, impacts and recommendations in that order. Why is this logical?",
+    "audio_prompt": "A report presents problem, causes, impacts and recommendations in that order. Why is this logical?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It moves from identifying the issue to explaining it, showing consequences and then proposing action.",
+        "is_correct": true
+      },
+      {
+        "text": "Recommendations should always come first.",
+        "is_correct": false
+      },
+      {
+        "text": "Cause and effect cannot appear in reports.",
+        "is_correct": false
+      },
+      {
+        "text": "The order is alphabetical.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The structure builds reasoning step by step toward recommendations.",
+      "hint": "What information does each later section depend on?"
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly04-p-020",
+    "curriculum_code": "AC9E10LY04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "Why can visual layout be part of text organisation rather than just decoration?",
+    "audio_prompt": "Why can visual layout be part of text organisation rather than just decoration?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Placement, size and spacing can guide attention and signal relationships between ideas.",
+        "is_correct": true
+      },
+      {
+        "text": "Layout never influences reading order.",
+        "is_correct": false
+      },
+      {
+        "text": "Only words organise meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Decoration and organisation are identical.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Visual hierarchy and proximity help readers know what to read first and which elements belong together.",
+      "hint": "Organisation can be spatial as well as verbal."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly04-p-021",
+    "curriculum_code": "AC9E10LY04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "Which review structure best suits a reader deciding quickly whether a new laptop is worth buying?",
+    "audio_prompt": "Which review structure best suits a reader deciding quickly whether a new laptop is worth buying?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Overall verdict, key strengths and weaknesses, evidence, then recommendation for different users",
+        "is_correct": true
+      },
+      {
+        "text": "A long history of computing before any judgement",
+        "is_correct": false
+      },
+      {
+        "text": "Random comments with no headings",
+        "is_correct": false
+      },
+      {
+        "text": "Technical specifications only, with no evaluation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Decision-focused readers benefit from an early verdict followed by organised supporting evaluation.",
+      "hint": "Put the decision-relevant information early."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly04-p-022",
+    "curriculum_code": "AC9E10LY04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "Which webpage layout most clearly supports scanning?",
+    "audio_prompt": "Which webpage layout most clearly supports scanning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Descriptive headings, short sections, bullet points and visible links",
+        "is_correct": true
+      },
+      {
+        "text": "One uninterrupted block of 2,000 words",
+        "is_correct": false
+      },
+      {
+        "text": "Identical formatting for every idea",
+        "is_correct": false
+      },
+      {
+        "text": "Important information hidden in footnotes only",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Scanning depends on visible structure that helps readers locate information quickly.",
+      "hint": "Look for signposts."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly04-p-023",
+    "curriculum_code": "AC9E10LY04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "A writer repeats the same point in three consecutive sections without adding new evidence. What is the main organisational problem?",
+    "audio_prompt": "A writer repeats the same point in three consecutive sections without adding new evidence. What is the main organisational problem?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The progression stalls because ideas are not developing.",
+        "is_correct": true
+      },
+      {
+        "text": "Repetition automatically strengthens every argument.",
+        "is_correct": false
+      },
+      {
+        "text": "The text becomes chronological.",
+        "is_correct": false
+      },
+      {
+        "text": "The repeated point turns into a source.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Effective organisation develops or extends ideas rather than simply restating them.",
+      "hint": "Progression means moving somewhere."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly04-p-024",
+    "curriculum_code": "AC9E10LY04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "Which sequence best supports a balanced evaluation?",
+    "audio_prompt": "Which sequence best supports a balanced evaluation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Criteria, evidence for strengths, evidence for limitations, then a qualified judgement",
+        "is_correct": true
+      },
+      {
+        "text": "Judgement only, with no criteria",
+        "is_correct": false
+      },
+      {
+        "text": "Weaknesses only, then a score",
+        "is_correct": false
+      },
+      {
+        "text": "Random examples followed by a conclusion",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A balanced evaluation makes its criteria and evidence visible before reaching a reasoned judgement.",
+      "hint": "Show how the judgement is built."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly04-p-025",
+    "curriculum_code": "AC9E10LY04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "A webpage places a long legal disclaimer before any explanation of the service. Why might this be ineffective for general users?",
+    "audio_prompt": "A webpage places a long legal disclaimer before any explanation of the service. Why might this be ineffective for general users?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The required detail may block readers from reaching the main information they came for.",
+        "is_correct": true
+      },
+      {
+        "text": "Legal information is never necessary.",
+        "is_correct": false
+      },
+      {
+        "text": "All readers dislike formal language.",
+        "is_correct": false
+      },
+      {
+        "text": "Disclaimers cannot appear online.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Important legal content may still be necessary, but its placement can disrupt the main user journey if it comes before basic orientation.",
+      "hint": "Purpose and reading path both matter."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly04-p-026",
+    "curriculum_code": "AC9E10LY04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "Which article structure best supports a cause-and-effect explanation?",
+    "audio_prompt": "Which article structure best supports a cause-and-effect explanation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Describe the event, identify causes, then trace consequences with evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "List consequences before introducing the event at all.",
+        "is_correct": false
+      },
+      {
+        "text": "Repeat the headline in every paragraph.",
+        "is_correct": false
+      },
+      {
+        "text": "Mix unrelated examples without transitions.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A cause-effect explanation works best when readers can follow the relationship from event through reasons to outcomes.",
+      "hint": "Sequence should mirror the reasoning."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly04-p-027",
+    "curriculum_code": "AC9E10LY04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "A review gives five stars at the top, but the rest of the text lists serious problems and ends with “avoid it”. What is the main issue?",
+    "audio_prompt": "A review gives five stars at the top, but the rest of the text lists serious problems and ends with “avoid it”. What is the main issue?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The organisational signals contradict each other and make the overall judgement unclear.",
+        "is_correct": true
+      },
+      {
+        "text": "Ratings and words can never appear together.",
+        "is_correct": false
+      },
+      {
+        "text": "Negative details must always come first.",
+        "is_correct": false
+      },
+      {
+        "text": "The review has too much evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Conflicting signals across the structure undermine coherence and confuse readers about the reviewer’s position.",
+      "hint": "Do the parts point in the same direction?"
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly04-p-028",
+    "curriculum_code": "AC9E10LY04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "Which use of a sidebar is most purposeful?",
+    "audio_prompt": "Which use of a sidebar is most purposeful?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Placing optional background information beside the main article so readers can access it without interrupting the core argument",
+        "is_correct": true
+      },
+      {
+        "text": "Putting the conclusion in a tiny hidden box",
+        "is_correct": false
+      },
+      {
+        "text": "Repeating the entire article in the margin",
+        "is_correct": false
+      },
+      {
+        "text": "Using the sidebar for unrelated jokes",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A sidebar is useful for secondary information that supports but does not need to interrupt the main sequence.",
+      "hint": "Main path versus optional detail."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly04-p-029",
+    "curriculum_code": "AC9E10LY04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "A webpage’s most important safety warning appears below several promotional sections. What is the strongest criticism?",
+    "audio_prompt": "A webpage’s most important safety warning appears below several promotional sections. What is the strongest criticism?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The information hierarchy prioritises marketing over information users may need before acting.",
+        "is_correct": true
+      },
+      {
+        "text": "Safety information should never appear online.",
+        "is_correct": false
+      },
+      {
+        "text": "Promotional content is always unethical.",
+        "is_correct": false
+      },
+      {
+        "text": "Readers never scroll.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Placement signals priority; delaying critical safety information can conflict with user needs and purpose.",
+      "hint": "What should users know before taking action?"
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly04-p-030",
+    "curriculum_code": "AC9E10LY04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "Which statement best evaluates organisation?",
+    "audio_prompt": "Which statement best evaluates organisation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“The review’s early verdict helps scanning, but placing all evidence in one late block makes the reasoning harder to follow.”",
+        "is_correct": true
+      },
+      {
+        "text": "“The review has paragraphs.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The page looks nice.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Organisation is good because it has headings.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Evaluation should connect structural choices to how successfully readers can follow the purpose.",
+      "hint": "Judge how the organisation works, not just whether features exist."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly04-p-031",
+    "curriculum_code": "AC9E10LY04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "You are designing a bushfire information page for residents during an emergency. Which order is strongest?",
+    "audio_prompt": "You are designing a bushfire information page for residents during an emergency. Which order is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Immediate action steps, current warning level, affected areas, then background detail",
+        "is_correct": true
+      },
+      {
+        "text": "History of bushfires, then an emergency instruction at the bottom",
+        "is_correct": false
+      },
+      {
+        "text": "A long welcome message before any warning",
+        "is_correct": false
+      },
+      {
+        "text": "Photo gallery first, then safety information",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Emergency users need urgent action information before contextual detail.",
+      "hint": "Purpose determines priority."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly04-p-032",
+    "curriculum_code": "AC9E10LY04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "A review is aimed at gamers choosing whether to buy a new release. Which opening is most useful?",
+    "audio_prompt": "A review is aimed at gamers choosing whether to buy a new release. Which opening is most useful?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“Verdict: excellent combat, weak story, best for players who value challenge over narrative.”",
+        "is_correct": true
+      },
+      {
+        "text": "“Video games have existed for decades.”",
+        "is_correct": false
+      },
+      {
+        "text": "“This review contains 1,200 words.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The publisher released the game on Friday.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The opening gives an immediate, audience-relevant judgement that the later review can support.",
+      "hint": "Lead with the decision the reader is trying to make."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly04-p-033",
+    "curriculum_code": "AC9E10LY04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "You are revising an explainer where readers keep missing the main conclusion. Which change is most direct?",
+    "audio_prompt": "You are revising an explainer where readers keep missing the main conclusion. Which change is most direct?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Move the conclusion into a clear summary near the top and reinforce it after the evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Add more unrelated examples.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove headings.",
+        "is_correct": false
+      },
+      {
+        "text": "Put the conclusion in a footnote.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Making the main point more prominent in the hierarchy helps readers identify it even when scanning.",
+      "hint": "Increase salience of the core message."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly04-p-034",
+    "curriculum_code": "AC9E10LY04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "A persuasive article has three good reasons but they appear in no clear order. Which revision is strongest?",
+    "audio_prompt": "A persuasive article has three good reasons but they appear in no clear order. Which revision is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Order them so each develops the previous point and save the most consequential reason for last.",
+        "is_correct": true
+      },
+      {
+        "text": "Repeat each reason twice.",
+        "is_correct": false
+      },
+      {
+        "text": "Place them alphabetically.",
+        "is_correct": false
+      },
+      {
+        "text": "Mix parts of all three into every paragraph.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A deliberate progression helps readers follow the argument and builds emphasis toward the strongest point.",
+      "hint": "Structure should create momentum."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly04-p-035",
+    "curriculum_code": "AC9E10LY04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "A website has detailed content for beginners and experts. How should it be organised?",
+    "audio_prompt": "A website has detailed content for beginners and experts. How should it be organised?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Provide a clear basic explanation first, with links or expandable sections for advanced detail.",
+        "is_correct": true
+      },
+      {
+        "text": "Force all users through the most technical material first.",
+        "is_correct": false
+      },
+      {
+        "text": "Delete the beginner content.",
+        "is_correct": false
+      },
+      {
+        "text": "Put all material into one undifferentiated block.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Layered information lets readers choose depth without sacrificing a coherent main path.",
+      "hint": "Different audiences may need different levels."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly04-p-036",
+    "curriculum_code": "AC9E10LY04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "A student review spends three paragraphs summarising a film before giving any judgement. What is the best revision?",
+    "audio_prompt": "A student review spends three paragraphs summarising a film before giving any judgement. What is the best revision?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Condense the plot summary and move evaluative criteria and judgement earlier.",
+        "is_correct": true
+      },
+      {
+        "text": "Add more plot summary.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove all evidence from the review.",
+        "is_correct": false
+      },
+      {
+        "text": "Put the title at the end.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A review’s purpose is evaluation, so organisation should prioritise judgement and evidence rather than extended retelling.",
+      "hint": "Match space and order to purpose."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly04-p-037",
+    "curriculum_code": "AC9E10LY04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "You are creating a webpage explaining a new school timetable. Which feature best helps users find one specific answer quickly?",
+    "audio_prompt": "You are creating a webpage explaining a new school timetable. Which feature best helps users find one specific answer quickly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Clear section headings with anchor links to each topic",
+        "is_correct": true
+      },
+      {
+        "text": "A single long paragraph",
+        "is_correct": false
+      },
+      {
+        "text": "Decorative background animation",
+        "is_correct": false
+      },
+      {
+        "text": "A conclusion before the title",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Anchor links and descriptive headings support targeted navigation within a long page.",
+      "hint": "Help readers jump to what they need."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly04-p-038",
+    "curriculum_code": "AC9E10LY04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "A report contains a graph that contradicts the paragraph beside it. What should happen before publication?",
+    "audio_prompt": "A report contains a graph that contradicts the paragraph beside it. What should happen before publication?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Revise the text or graph so the relationship between evidence and explanation is accurate and clear.",
+        "is_correct": true
+      },
+      {
+        "text": "Leave both because readers can choose which one to believe.",
+        "is_correct": false
+      },
+      {
+        "text": "Move the graph to another page without comment.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the graph smaller.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Multimodal organisation should create coherent relationships between evidence and interpretation, not unresolved contradiction.",
+      "hint": "Organisation includes consistency across modes."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly04-p-039",
+    "curriculum_code": "AC9E10LY04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "A campaign page wants readers to donate after understanding the issue. Which sequence is strongest?",
+    "audio_prompt": "A campaign page wants readers to donate after understanding the issue. Which sequence is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Explain the problem, show credible evidence and impact, then place the donation call to action.",
+        "is_correct": true
+      },
+      {
+        "text": "Ask for money before explaining anything.",
+        "is_correct": false
+      },
+      {
+        "text": "Hide the donation link in a footnote.",
+        "is_correct": false
+      },
+      {
+        "text": "Put unrelated testimonials before the issue is introduced.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The structure builds understanding and justification before asking readers to act.",
+      "hint": "Reason before request."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly04-p-040",
+    "curriculum_code": "AC9E10LY04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "You are evaluating an online review with a strong opening but a confusing middle. What is the most useful judgement?",
+    "audio_prompt": "You are evaluating an online review with a strong opening but a confusing middle. What is the most useful judgement?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Identify where the sequence breaks down and explain how regrouping evidence under clear criteria would improve the review’s purpose.",
+        "is_correct": true
+      },
+      {
+        "text": "Say the review is bad because the middle is long.",
+        "is_correct": false
+      },
+      {
+        "text": "Count the paragraphs only.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the middle and judge the title.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A useful evaluation diagnoses how organisation affects purpose and proposes a structure that better supports the reader.",
+      "hint": "Explain the structural problem and its effect."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly04-t-001",
@@ -323,36 +1685,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_evidence_to_shape_comparing_the_organisation_of_ideas_in_political_pamphlets_and_determining_the_impact_of_each_and_influence_how_an_audience_understands_the_text",
-    "question": "Which response correctly uses a writer or speaker can use evidence to shape comparing the organisation of ideas in political pamphlets and determining the impact of each and influence how an audience understands the text?",
-    "audio_prompt": "Which response correctly uses a writer or speaker can use evidence to shape comparing the organisation of ideas in political pamphlets and determining the impact of each and influence how an audience understands the text?",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "A webpage for university applicants begins with “How to apply”, then “Entry requirements”, then “Why study here”. What is the clearest weakness?",
+    "audio_prompt": "A webpage for university applicants begins with “How to apply”, then “Entry requirements”, then “Why study here”. What is the clearest weakness?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "comparing the organisation of ideas in political pamphlets and determining the impact of each",
+        "text": "It asks users to act before giving information they may need to decide whether they are eligible.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "Application instructions should never come first.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Universities should not use webpages.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The sections must be alphabetical.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "comparing the organisation of ideas in political pamphlets and determining the impact of each",
-      "hint": "A writer or speaker can use evidence to shape comparing the organisation of ideas in political pamphlets and determining the impact of each and influence how an audience understands the text."
-    }
+      "summary": "For many applicants, eligibility information logically precedes detailed application steps.",
+      "hint": "What must readers know before acting?"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly04-t-002",
@@ -360,36 +1726,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_identifying_the_organisation_of_ideas_in_a_text_and_determining_the_purpose_and_effect_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape identifying the organisation of ideas in a text and determining the purpose and effect and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape identifying the organisation of ideas in a text and determining the purpose and effect and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "An online review gives a score at the top, then organises the body under “Performance”, “Battery” and “Value”. What does this structure provide?",
+    "audio_prompt": "An online review gives a score at the top, then organises the body under “Performance”, “Battery” and “Value”. What does this structure provide?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "identifying the organisation of ideas in a text and determining the purpose and effect; for example, how the eye is drawn across or down a webpage for a purpose",
+        "text": "An immediate judgement followed by criterion-based evidence.",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "A chronological narrative.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "A fictional plot.",
+        "is_correct": false
+      },
+      {
+        "text": "No clear purpose.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "identifying the organisation of ideas in a text and determining the purpose and effect; for example, how the eye is drawn across or down a webpage for a purpose",
-      "hint": "A writer or speaker can use purpose to shape identifying the organisation of ideas in a text and determining the purpose and effect and influence how an audience understands the text."
-    }
+      "summary": "The score gives the overview while the labelled criteria organise the supporting evaluation.",
+      "hint": "Overall verdict + reasons."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly04-t-003",
@@ -397,36 +1767,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_structure_to_shape_evaluating_how_ideas_in_an_online_review_are_organised_and_its_success_in_achieving_its_purpose_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use structure to shape evaluating how ideas in an online review are organised and its success in achieving its purpose and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use structure to shape evaluating how ideas in an online review are organised and its success in achieving its purpose and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "A safety page places its most urgent action in a large box at the top. Why is this effective?",
+    "audio_prompt": "A safety page places its most urgent action in a large box at the top. Why is this effective?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "evaluating how ideas in an online review are organised and its success in achieving its purpose",
+        "text": "Urgent action is given highest visual and informational priority.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Large text is always more accurate.",
+        "is_correct": false
+      },
+      {
+        "text": "Emergency information should replace all other content.",
+        "is_correct": false
+      },
+      {
+        "text": "The box makes the page decorative.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "evaluating how ideas in an online review are organised and its success in achieving its purpose",
-      "hint": "A writer or speaker can use structure to shape evaluating how ideas in an online review are organised and its success in achieving its purpose and influence how an audience understands the text."
-    }
+      "summary": "The hierarchy matches the user’s most urgent possible need.",
+      "hint": "Critical action first."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly04-t-004",
@@ -434,36 +1808,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_evidence_to_shape_comparing_the_organisation_of_ideas_in_political_pamphlets_and_determining_the_impact_of_each_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use evidence to shape comparing the organisation of ideas in political pamphlets and determining the impact of each and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use evidence to shape comparing the organisation of ideas in political pamphlets and determining the impact of each and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "A feature article begins with one family’s story and later broadens to national housing data. What organisational move is being used?",
+    "audio_prompt": "A feature article begins with one family’s story and later broadens to national housing data. What organisational move is being used?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "comparing the organisation of ideas in political pamphlets and determining the impact of each",
+        "text": "specific example to wider context",
         "is_correct": true
+      },
+      {
+        "text": "alphabetical order",
+        "is_correct": false
+      },
+      {
+        "text": "problem-free chronology",
+        "is_correct": false
+      },
+      {
+        "text": "random juxtaposition",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "comparing the organisation of ideas in political pamphlets and determining the impact of each",
-      "hint": "A writer or speaker can use evidence to shape comparing the organisation of ideas in political pamphlets and determining the impact of each and influence how an audience understands the text."
-    }
+      "summary": "The article moves from an individual case to a broader social pattern.",
+      "hint": "Small scale to large scale."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly04-t-005",
@@ -471,36 +1849,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_identifying_the_organisation_of_ideas_in_a_text_and_determining_the_purpose_and_effect_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use purpose to shape identifying the organisation of ideas in a text and determining the purpose and effect and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use purpose to shape identifying the organisation of ideas in a text and determining the purpose and effect and influence how an audience understands the text?",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "A webpage repeats its main call to action after each section. When is this most justified?",
+    "audio_prompt": "A webpage repeats its main call to action after each section. When is this most justified?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "identifying the organisation of ideas in a text and determining the purpose and effect; for example, how the eye is drawn across or down a webpage for a purpose",
+        "text": "When each section gives a different reason and readers may be ready to act at different points.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "Whenever the designer wants more buttons.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "When the action has no connection to the content.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Only when the page has no conclusion.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "identifying the organisation of ideas in a text and determining the purpose and effect; for example, how the eye is drawn across or down a webpage for a purpose",
-      "hint": "A writer or speaker can use purpose to shape identifying the organisation of ideas in a text and determining the purpose and effect and influence how an audience understands the text."
-    }
+      "summary": "Repeated action points can support different reading paths if each follows relevant persuasive information.",
+      "hint": "Think about user readiness."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly04-t-006",
@@ -508,36 +1890,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_structure_to_shape_evaluating_how_ideas_in_an_online_review_are_organised_and_its_success_in_achieving_its_purpose_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use structure to shape evaluating how ideas in an online review are organised and its success in achieving its purpose and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use structure to shape evaluating how ideas in an online review are organised and its success in achieving its purpose and influence how an audience understands the text?",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "Which review structure best supports comparison between two phones?",
+    "audio_prompt": "Which review structure best supports comparison between two phones?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "evaluating how ideas in an online review are organised and its success in achieving its purpose",
+        "text": "Use the same criteria for both phones, then give an overall judgement.",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Describe one phone fully, then discuss an unrelated topic.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "List random features from both devices.",
+        "is_correct": false
+      },
+      {
+        "text": "Give a verdict with no evidence.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "evaluating how ideas in an online review are organised and its success in achieving its purpose",
-      "hint": "A writer or speaker can use structure to shape evaluating how ideas in an online review are organised and its success in achieving its purpose and influence how an audience understands the text."
-    }
+      "summary": "Shared criteria make similarities and differences easier to evaluate fairly.",
+      "hint": "Compare like with like."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly04-t-007",
@@ -545,36 +1931,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_evidence_to_shape_comparing_the_organisation_of_ideas_in_political_pamphlets_and_determining_the_impact_of_each_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use evidence to shape comparing the organisation of ideas in political pamphlets and determining the impact of each and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use evidence to shape comparing the organisation of ideas in political pamphlets and determining the impact of each and influence how an audience understands the text?",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "A page has a clear heading but hides all key information inside accordions labelled “More”. What is the main risk?",
+    "audio_prompt": "A page has a clear heading but hides all key information inside accordions labelled “More”. What is the main risk?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "comparing the organisation of ideas in political pamphlets and determining the impact of each",
+        "text": "Important information may be too difficult to locate because the labels are vague.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Expandable sections can never be used.",
+        "is_correct": false
+      },
+      {
+        "text": "Readers dislike clicking.",
+        "is_correct": false
+      },
+      {
+        "text": "Headings should always be removed.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "comparing the organisation of ideas in political pamphlets and determining the impact of each",
-      "hint": "A writer or speaker can use evidence to shape comparing the organisation of ideas in political pamphlets and determining the impact of each and influence how an audience understands the text."
-    }
+      "summary": "Navigation labels should tell users what information is inside, especially when content is hidden until opened.",
+      "hint": "Good structure needs meaningful signposts."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10ly04-t-008",
@@ -582,35 +1972,367 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_identifying_the_organisation_of_ideas_in_a_text_and_determining_the_purpose_and_effect_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape identifying the organisation of ideas in a text and determining the purpose and effect and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape identifying the organisation of ideas in a text and determining the purpose and effect and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "A report places recommendations before presenting any findings. What problem may this create?",
+    "audio_prompt": "A report places recommendations before presenting any findings. What problem may this create?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "identifying the organisation of ideas in a text and determining the purpose and effect; for example, how the eye is drawn across or down a webpage for a purpose",
+        "text": "Readers encounter proposed actions before seeing the evidence that justifies them.",
         "is_correct": true
+      },
+      {
+        "text": "Recommendations are never useful.",
+        "is_correct": false
+      },
+      {
+        "text": "Reports cannot include findings.",
+        "is_correct": false
+      },
+      {
+        "text": "The report becomes fictional.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "identifying the organisation of ideas in a text and determining the purpose and effect; for example, how the eye is drawn across or down a webpage for a purpose",
-      "hint": "A writer or speaker can use purpose to shape identifying the organisation of ideas in a text and determining the purpose and effect and influence how an audience understands the text."
-    }
+      "summary": "The reasoning is harder to assess when conclusions appear before the supporting findings.",
+      "hint": "Evidence should usually support the action."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly04-t-009",
+    "curriculum_code": "AC9E10LY04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "Which layout best guides a reader through a long explainer?",
+    "audio_prompt": "Which layout best guides a reader through a long explainer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A clear title, short introduction, descriptive headings, related visuals beside relevant sections and a summary",
+        "is_correct": true
+      },
+      {
+        "text": "One continuous text block with no headings",
+        "is_correct": false
+      },
+      {
+        "text": "A collage of unrelated images",
+        "is_correct": false
+      },
+      {
+        "text": "All sources before the introduction",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Visible hierarchy and proximity help readers follow and revisit complex information.",
+      "hint": "Use signposts and grouping."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly04-t-010",
+    "curriculum_code": "AC9E10LY04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "A review’s final recommendation contradicts its own evidence without explanation. What is the main issue?",
+    "audio_prompt": "A review’s final recommendation contradicts its own evidence without explanation. What is the main issue?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The structure fails to connect evidence to judgement coherently.",
+        "is_correct": true
+      },
+      {
+        "text": "Reviews should never contain conclusions.",
+        "is_correct": false
+      },
+      {
+        "text": "Evidence must always be positive.",
+        "is_correct": false
+      },
+      {
+        "text": "The conclusion should be longer than the body.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A review is persuasive only when the judgement logically grows from the organised evidence.",
+      "hint": "Does the conclusion follow from what came before?"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly04-t-011",
+    "curriculum_code": "AC9E10LY04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "A campaign website places testimonials before any explanation of what the campaign does. When could this be ineffective?",
+    "audio_prompt": "A campaign website places testimonials before any explanation of what the campaign does. When could this be ineffective?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Readers may lack enough context to understand why the testimonials matter.",
+        "is_correct": true
+      },
+      {
+        "text": "Testimonials can never be persuasive.",
+        "is_correct": false
+      },
+      {
+        "text": "Campaign pages should not use people’s voices.",
+        "is_correct": false
+      },
+      {
+        "text": "The first section must always be statistics.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Supporting material is most useful when readers understand the issue or organisation it is supporting.",
+      "hint": "Context can make evidence meaningful."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly04-t-012",
+    "curriculum_code": "AC9E10LY04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "Which sequence best explains a complex policy change?",
+    "audio_prompt": "Which sequence best explains a complex policy change?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Current situation, proposed change, reasons, likely effects, then practical next steps",
+        "is_correct": true
+      },
+      {
+        "text": "Next steps, unrelated history, title, then reasons",
+        "is_correct": false
+      },
+      {
+        "text": "Effects before naming the policy",
+        "is_correct": false
+      },
+      {
+        "text": "Random questions only",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The sequence moves from orientation through explanation to implications and action.",
+      "hint": "Build understanding step by step."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly04-t-013",
+    "curriculum_code": "AC9E10LY04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "A webpage uses bold headings but the order of sections is illogical. What does this show?",
+    "audio_prompt": "A webpage uses bold headings but the order of sections is illogical. What does this show?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Visual hierarchy cannot compensate for weak idea progression.",
+        "is_correct": true
+      },
+      {
+        "text": "Bold headings automatically make structure effective.",
+        "is_correct": false
+      },
+      {
+        "text": "Section order never matters online.",
+        "is_correct": false
+      },
+      {
+        "text": "Layout is more important than meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Good organisation requires both visible signposting and a logical relationship between ideas.",
+      "hint": "Appearance and progression are different."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly04-t-014",
+    "curriculum_code": "AC9E10LY04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "Why might a review put limitations before its final recommendation?",
+    "audio_prompt": "Why might a review put limitations before its final recommendation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Readers can see that the recommendation has considered drawbacks rather than ignoring them.",
+        "is_correct": true
+      },
+      {
+        "text": "Limitations always weaken credibility.",
+        "is_correct": false
+      },
+      {
+        "text": "Recommendations should never follow criticism.",
+        "is_correct": false
+      },
+      {
+        "text": "Negative evidence cannot appear near conclusions.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Addressing limitations before the final judgement can make the recommendation feel more balanced and qualified.",
+      "hint": "Acknowledge drawbacks before concluding."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly04-t-015",
+    "curriculum_code": "AC9E10LY04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "A news webpage puts a live update feed above a background explainer during a fast-moving event. What purpose does this organisation serve?",
+    "audio_prompt": "A news webpage puts a live update feed above a background explainer during a fast-moving event. What purpose does this organisation serve?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It prioritises the newest information while still keeping context available below.",
+        "is_correct": true
+      },
+      {
+        "text": "It makes older information false.",
+        "is_correct": false
+      },
+      {
+        "text": "It prevents readers from accessing background.",
+        "is_correct": false
+      },
+      {
+        "text": "It turns the article into a review.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The hierarchy reflects users’ immediate need for current developments while preserving contextual information.",
+      "hint": "Urgency affects organisation."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10ly04-t-016",
+    "curriculum_code": "AC9E10LY04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "organisation of ideas for purpose and effect",
+    "question": "Which judgement best evaluates an online review’s organisation?",
+    "audio_prompt": "Which judgement best evaluates an online review’s organisation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“Its early verdict and criterion headings support scanning, but separating each piece of evidence from the claim it supports weakens the reasoning.”",
+        "is_correct": true
+      },
+      {
+        "text": "“It has a title and therefore is organised.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The page looks professional.”",
+        "is_correct": false
+      },
+      {
+        "text": "“I agree with the reviewer.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong evaluation explains both successful and unsuccessful structural choices in relation to purpose.",
+      "hint": "Judge how the organisation helps or hinders the reader."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v6"
   }
 ]
