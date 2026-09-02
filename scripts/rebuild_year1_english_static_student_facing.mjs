@@ -48,7 +48,7 @@ function topicBody(code,unit,existing) {
 <details class="curriculum-topic-section"><summary><strong>Check your understanding</strong></summary><div class="curriculum-detail-body"><h3>Quick checks</h3>${quick}<h3>I am ready when I can</h3>${mastery}</div></details>
 ${curriculum}${equivalents}
 <details class="curriculum-topic-section"><summary><strong>Resources</strong></summary><div class="curriculum-detail-body"><div class="curriculum-link-row"><a class="curriculum-button primary" href="teacher-slides/">Open Classroom View</a><a class="curriculum-button" href="/quiz/year-1/english/${code.toLowerCase()}/worksheet/">Printable Worksheet</a><a class="curriculum-button" href="/quiz/year-1/english/${code.toLowerCase()}/practice/">40-question Practice</a><a class="curriculum-button" href="/quiz/year-1/english/${code.toLowerCase()}/test/">Test</a></div></div></details>
-</div><aside class="curriculum-sidebar"><section class="curriculum-panel"><h2>Classroom display</h2><p>Open the fixed SkillrHub display for whole-class modelling and guided practice.</p><a class="curriculum-button primary" href="teacher-slides/">Classroom View</a></section><section class="curriculum-panel"><h2>Curriculum code</h2><p><strong>${code}</strong><br>Year 1 English</p></section></aside></main>`;
+</div><aside class="curriculum-sidebar"><section class="curriculum-panel"><h2>Classroom display</h2><p>Open the existing SkillrHub Classroom View.</p><a class="curriculum-button primary" href="teacher-slides/">Classroom View</a></section><section class="curriculum-panel"><h2>Curriculum code</h2><p><strong>${code}</strong><br>Year 1 English</p></section></aside></main>`;
 }
 
 function replacePage(code,unit,topicDir) {
@@ -63,45 +63,8 @@ function replacePage(code,unit,topicDir) {
   write(file,html);
 }
 
-function wrap(text,width=58,max=5) {
-  const words=strip(text).split(" ").filter(Boolean),lines=[];let line="";
-  for(const word of words){const candidate=line?`${line} ${word}`:word;if(candidate.length>width&&line){lines.push(line);line=word;}else line=candidate;}
-  if(line)lines.push(line);
-  if(lines.length>max){const result=lines.slice(0,max);result[max-1]=`${result[max-1].replace(/[.…]+$/,"")}…`;return result;}
-  return lines;
-}
-function svgText(lines,x,y,size,gap,weight="400",fill="#203047"){return lines.map((line,index)=>`<text x="${x}" y="${y+index*gap}" font-family="Arial,Helvetica,sans-serif" font-size="${size}" font-weight="${weight}" fill="${fill}">${esc(line)}</text>`).join("");}
-function slideSvg(code,title,kicker,body,index,total) {
-  const titleLines=wrap(title,43,2), bodyLines=wrap(body,70,10);
-  return `<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="t d"><title id="t">${esc(code)} — ${esc(title)}</title><desc id="d">${esc(body)}</desc><rect width="1600" height="900" fill="#f8fafc"/><g opacity=".05" fill="#2457d6" font-family="Arial" font-size="34" font-weight="700"><text x="120" y="310" transform="rotate(-18 120 310)">SkillrHub • skillrhub.com</text><text x="720" y="590" transform="rotate(-18 720 590)">SkillrHub • skillrhub.com</text></g><rect width="1600" height="98" fill="#173968"/><text x="88" y="63" fill="#fff" font-family="Arial" font-size="31" font-weight="700">SkillrHub • Year 1 English</text><text x="1485" y="63" text-anchor="end" fill="#fff" font-family="Arial" font-size="25">${index} / ${total}</text><text x="92" y="150" fill="#2457d6" font-family="Arial" font-size="23" font-weight="700">${esc(kicker)}</text>${svgText(titleLines,92,215,47,55,"700","#173968")}<rect x="92" y="345" width="1416" height="405" rx="26" fill="#fff" stroke="#d8e2ef" stroke-width="3"/>${svgText(bodyLines,135,405,30,42,"400","#203047")}<rect y="835" width="1600" height="65" fill="#173968"/><text x="70" y="877" fill="#fff" font-family="Arial" font-size="26" font-weight="700">${esc(code)} • Classroom View • skillrhub.com</text></svg>\n`;
-}
-function viewer(code,unit,count) {
-  const figures=Array.from({length:count},(_,i)=>`<figure class="fixed-slide-viewer__slide" data-slide${i?" hidden":""}><img src="slide-${String(i+1).padStart(2,"0")}.svg" alt="${code} classroom slide ${i+1} of ${count}" draggable="false"></figure>`).join("");
-  return `<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,follow"><title>${esc(code)} ${esc(unit.title)} Classroom View | SkillrHub</title><link rel="stylesheet" href="/style.css"><link rel="stylesheet" href="/assets/teacher-slide-viewer.css?v=1"></head><body oncontextmenu="return false"><nav class="main-nav"><a href="../">Topic Guide</a></nav><main style="padding:clamp(12px,3vw,32px)"><h1>${esc(unit.title)}</h1><p>${esc(code)} • Year 1 English • fixed classroom display</p><section class="fixed-slide-viewer" data-fixed-slide-viewer tabindex="0"><div class="fixed-slide-viewer__stage">${figures}</div><div class="fixed-slide-viewer__controls"><button type="button" data-slide-previous>Previous</button><span class="fixed-slide-viewer__counter" data-slide-counter>1 / ${count}</span><button type="button" data-slide-next>Next</button><button type="button" data-slide-fullscreen>Fullscreen</button></div></section></main><script src="/assets/teacher-slide-viewer.js?v=1"></script><script>document.addEventListener('dragstart',e=>e.preventDefault());</script></body></html>\n`;
-}
-function makeSlides(code,unit,topicDir) {
-  const dir=path.join(topicDir,"teacher-slides");
-  const full=path.join(ROOT,dir);fs.mkdirSync(full,{recursive:true});
-  for(const file of fs.readdirSync(full)) if(/^slide-\d+\.(?:png|jpe?g|webp|svg)$/i.test(file)) fs.rmSync(path.join(full,file));
-  const focus=(unit.studentFacingFocus||[]).join(" ");
-  const activities=(unit.activities||[]).map((a)=>`${a.title}: ${a.text}`).join(" ");
-  const mistakes=(unit.mistakes||[]).map(([name,fix])=>`${name}. Try instead: ${fix}`).join(" ");
-  const checks=(unit.quick||[]).join(" ");
-  const slides=[
-    [unit.childGoal||unit.learn,"Learning goal",focus||unit.desc],
-    [unit.model_title,"See it",strip(unit.model_html)],
-    ["Worked example","Think it through",unit.solved_example],
-    [unit.apply_title,"Apply the idea",strip(unit.apply_html)],
-    ["Try these","Guided and independent practice",activities],
-    ["Common mix-ups and quick check","Check your understanding",`${mistakes} ${checks}`]
-  ];
-  slides.forEach(([title,kicker,body],index)=>write(path.join(dir,`slide-${String(index+1).padStart(2,"0")}.svg`),slideSvg(code,title,kicker,body,index+1,slides.length)));
-  write(path.join(dir,"index.html"),viewer(code,unit,slides.length));
-}
-
 for (const code of codes) {
   const unit=units[code], topicDir=findTopicDir(code);
   replacePage(code,unit,topicDir);
-  makeSlides(code,unit,topicDir);
 }
-console.log(`Rebuilt ${codes.length} static Year 1 English topic guides and fixed classroom displays.`);
+console.log(`Rebuilt ${codes.length} static Year 1 English topic guides while preserving Classroom Views unchanged.`);

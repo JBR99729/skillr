@@ -25,6 +25,17 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
+      - name: Restore frozen Foundation Classroom Views
+        shell: bash
+        run: |
+          set -euo pipefail
+          BASELINE=499c8a75ccf3f978892a2e74dfbaf89d485bf650
+          git ls-tree -r --name-only HEAD foundation/english | grep '/teacher-slides/' | while read -r file; do
+            git rm -f --ignore-unmatch -- "$file" >/dev/null || true
+          done
+          git ls-tree -r --name-only "$BASELINE" foundation/english | grep '/teacher-slides/' | while read -r file; do
+            git checkout "$BASELINE" -- "$file"
+          done
       - name: Verify authored Foundation English source assets exist
         run: |
           test -f assets/foundation-english-data.js
@@ -40,25 +51,25 @@ jobs:
           test -f assets/foundation-english-student-facing-ly2.js
       - name: Validate student-facing banks
         run: node scripts/validate_foundation_english_student_facing.mjs
-      - name: Generate student-facing Foundation English topics and fixed slides
+      - name: Generate student-facing Foundation English topic pages
         run: node scripts/rebuild_foundation_english_student_facing.mjs
       - name: Validate generated static architecture
         run: node scripts/validate_static_curriculum_architecture.mjs
       - name: Verify Foundation English topics no longer depend on runtime topic modules
         run: |
-          if grep -R -E 'foundation-english-topic-module|foundation-english-classroom-v2|foundation-canonical-v1\.1\.js' foundation/english --include='index.html'; then
-            echo 'Legacy Foundation English runtime dependency remains.'
+          if grep -R -E 'foundation-english-topic-module|foundation-english-classroom-v2|foundation-canonical-v1\.1\.js' foundation/english --include='index.html' --exclude-dir='teacher-slides'; then
+            echo 'Legacy Foundation English runtime dependency remains in a topic page.'
             exit 1
           fi
       - name: Commit generated files to migration branch
         shell: bash
         run: |
-          if git diff --quiet -- foundation/english; then
+          git add foundation/english
+          if git diff --cached --quiet; then
             echo 'Generated output is already current.'
             exit 0
           fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add foundation/english
-          git commit -m 'Generate student-facing Foundation English curriculum pages'
+          git commit -m 'Restore frozen Foundation Classroom Views and refresh topics'
           git push origin HEAD:${GITHUB_HEAD_REF}
