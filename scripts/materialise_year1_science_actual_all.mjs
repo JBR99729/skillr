@@ -9,7 +9,8 @@ import{practice as i05p,test as i05t}from'./year1_science_actual/ac9s1i05_author
 import{practice as i06p,test as i06t}from'./year1_science_actual/ac9s1i06_authored.mjs';
 import{practice as u01p,test as u01t}from'./year1_science_actual/ac9s1u01_authored.mjs';
 import{practice as u02p,test as u02t}from'./year1_science_actual/ac9s1u02_authored.mjs';
-import{practice as u03p,test as u03t}from'./year1_science_actual/ac9s1u03_authored.mjs';
+import{practice as u03p}from'./year1_science_actual/ac9s1u03_authored.mjs';
+import{test as u03t}from'./year1_science_actual/ac9s1u03_test_authored.mjs';
 const root=process.cwd(),stages=['recognise','explain','discriminate','apply'];
 const banks={AC9S1H01:[h01p,h01t,'science in daily life and pattern-based predictions'],AC9S1I01:[i01p,i01t,'questions, patterns and predictions'],AC9S1I02:[i02p,i02t,'safe investigation procedures'],AC9S1I03:[i03p,i03t,'making and recording observations'],AC9S1I04:[i04p,i04t,'sorting data and representing patterns'],AC9S1I05:[i05p,i05t,'comparing observations and predictions'],AC9S1I06:[i06p,i06t,'communicating scientific ideas'],AC9S1U01:[u01p,u01t,'needs of plants and animals'],AC9S1U02:[u02p,u02t,'daily and seasonal changes'],AC9S1U03:[u03p,u03t,'pushes and pulls']};
 const norm=s=>s.toLowerCase().replace(/[^a-z0-9]+/g,' ').trim();
