@@ -1,14 +1,15 @@
 "use strict";
 window.skillrTestQuestions = [
   {
-    "id": "ac9e6ly03-t-001",
+    "id": "AC9E6LY03-T-001",
     "curriculumCode": "AC9E6LY03",
     "bank": "test",
-    "skill": "structure and language",
+    "stage": "verify",
+    "skill": "graph in campaign",
     "printable": true,
     "type": "single",
-    "question": "Test example: A persuasive text opens with a problem, uses strong modality and ends with a call to action. What is working together?",
-    "audioPrompt": "Test example: A persuasive text opens with a problem, uses strong modality and ends with a call to action. What is working together?",
+    "question": "A community radio segment includes “provides evidence but may also create salience”. Which description best fits this wording?",
+    "audioPrompt": "A community radio segment includes “provides evidence but may also create salience”. Which description best fits this wording?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,57 +17,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Structure and language features are combining to persuade.",
-      "One feature works alone and nothing else matters.",
-      "Structure and vocabulary cannot support each other.",
-      "Evidence is unrelated to paragraph order."
-    ],
-    "correct": 0,
-    "explanation": "Structure and language features are combining to persuade.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
-    "structuredExplanation": {
-      "summary": "Structure and language features are combining to persuade.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
-    },
-    "qualitySchema": "student-facing-v2"
-  },
-  {
-    "id": "ac9e6ly03-t-002",
-    "curriculumCode": "AC9E6LY03",
-    "bank": "test",
-    "skill": "structure and language",
-    "printable": true,
-    "type": "single",
-    "question": "Test example: Which sentence links structure and vocabulary?",
-    "audioPrompt": "Test example: Which sentence links structure and vocabulary?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Structure and vocabulary cannot support each other.",
-      "The problem-solution structure is strengthened by words such as urgent and protect.",
-      "Evidence is unrelated to paragraph order.",
-      "Visuals never contribute to meaning."
+      "opening problem",
+      "graph in campaign",
+      "reason 1",
+      "counterpoint"
     ],
     "correct": 1,
-    "explanation": "The problem-solution structure is strengthened by words such as urgent and protect.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "The wording best matches graph in campaign.\nHint: Identify the language choice first, then check its effect in this context.",
     "structuredExplanation": {
-      "summary": "The problem-solution structure is strengthened by words such as urgent and protect.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "The wording best matches graph in campaign.",
+      "hint": "Identify the language choice first, then check its effect in this context."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly03-t-003",
+    "id": "AC9E6LY03-T-002",
     "curriculumCode": "AC9E6LY03",
     "bank": "test",
-    "skill": "structure and language",
+    "stage": "verify",
+    "skill": "text structure",
     "printable": true,
     "type": "single",
-    "question": "Test example: might a writer place evidence before an opinion?",
-    "audioPrompt": "Test example: might a writer place evidence before an opinion?",
+    "question": "In a wildlife-centre report, which term matches this meaning: “organisation of stages and phases”?",
+    "audioPrompt": "In a wildlife-centre report, which term matches this meaning: “organisation of stages and phases”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,28 +47,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Evidence is unrelated to paragraph order.",
-      "Visuals never contribute to meaning.",
-      "The evidence can make the opinion seem more reasonable.",
-      "One feature works alone and nothing else matters."
+      "language feature",
+      "purpose",
+      "text structure",
+      "It does not match the evidence in the example."
     ],
     "correct": 2,
-    "explanation": "The evidence can make the opinion seem more reasonable.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "text structure is the precise term for organisation of stages and phases.\nHint: Distinguish closely related terms by their definitions.",
     "structuredExplanation": {
-      "summary": "The evidence can make the opinion seem more reasonable.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "text structure is the precise term for organisation of stages and phases.",
+      "hint": "Distinguish closely related terms by their definitions."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly03-t-004",
+    "id": "AC9E6LY03-T-003",
     "curriculumCode": "AC9E6LY03",
     "bank": "test",
-    "skill": "structure and language",
+    "stage": "verify",
+    "skill": "how structure and language work together",
     "printable": true,
     "type": "single",
-    "question": "Test example: which choice shows cohesion supporting meaning?",
-    "audioPrompt": "Test example: which choice shows cohesion supporting meaning?",
+    "question": "For a regional youth forum, which response best links structure and language?",
+    "audioPrompt": "For a regional youth forum, which response best links structure and language?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,28 +77,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Visuals never contribute to meaning.",
-      "One feature works alone and nothing else matters.",
-      "Structure and vocabulary cannot support each other.",
-      "The repeated term habitat keeps the environmental focus clear."
+      "The text has although",
+      "The text has paragraphs",
+      "The graph is colourful",
+      "The counterpoint stage uses although to acknowledge an alternative before the claim is strengthened"
     ],
     "correct": 3,
-    "explanation": "The repeated term habitat keeps the environmental focus clear.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "“The counterpoint stage uses although to acknowledge an alternative before the claim is strengthened” is supported by the language evidence and purpose of the text.\nHint: Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning.",
     "structuredExplanation": {
-      "summary": "The repeated term habitat keeps the environmental focus clear.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "“The counterpoint stage uses although to acknowledge an alternative before the claim is strengthened” is supported by the language evidence and purpose of the text.",
+      "hint": "Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly03-t-005",
+    "id": "AC9E6LY03-T-004",
     "curriculumCode": "AC9E6LY03",
     "bank": "test",
-    "skill": "structure and language",
+    "stage": "verify",
+    "skill": "independent misconception check",
     "printable": true,
     "type": "single",
-    "question": "Test example: A multimodal article uses headings, photos and captions. What should analysis explain?",
-    "audioPrompt": "Test example: A multimodal article uses headings, photos and captions. What should analysis explain?",
+    "question": "A writer preparing a coastal-monitoring update says, “One feature assigned fixed effect”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a coastal-monitoring update says, “One feature assigned fixed effect”. Which response is most accurate?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +107,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "How each mode guides the reader’s understanding.",
-      "One feature works alone and nothing else matters.",
-      "Structure and vocabulary cannot support each other.",
-      "Evidence is unrelated to paragraph order."
+      "Use context.",
+      "Features analysed separately",
+      "One feature assigned fixed effect",
+      "Structure summarised but not evaluated"
     ],
     "correct": 0,
-    "explanation": "How each mode guides the reader’s understanding.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "Use context. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
     "structuredExplanation": {
-      "summary": "How each mode guides the reader’s understanding.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "Use context. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly03-t-006",
+    "id": "AC9E6LY03-T-005",
     "curriculumCode": "AC9E6LY03",
     "bank": "test",
-    "skill": "structure and language",
+    "stage": "verify",
+    "skill": "definition in argument",
     "printable": true,
     "type": "single",
-    "question": "Test example: Which sentence pattern creates urgency?",
-    "audioPrompt": "Test example: Which sentence pattern creates urgency?",
+    "question": "A heritage trail guide includes “controls terms and supports claim”. Which description best fits this wording?",
+    "audioPrompt": "A heritage trail guide includes “controls terms and supports claim”. Which description best fits this wording?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +137,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Structure and vocabulary cannot support each other.",
-      "Stop. Look. Listen.",
-      "Evidence is unrelated to paragraph order.",
-      "Visuals never contribute to meaning."
+      "opening problem",
+      "definition in argument",
+      "reason 1",
+      "counterpoint"
     ],
     "correct": 1,
-    "explanation": "Stop. Look. Listen.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "The wording best matches definition in argument.\nHint: Identify the language choice first, then check its effect in this context.",
     "structuredExplanation": {
-      "summary": "Stop. Look. Listen.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "The wording best matches definition in argument.",
+      "hint": "Identify the language choice first, then check its effect in this context."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly03-t-007",
+    "id": "AC9E6LY03-T-006",
     "curriculumCode": "AC9E6LY03",
     "bank": "test",
-    "skill": "structure and language",
+    "stage": "verify",
+    "skill": "language feature",
     "printable": true,
     "type": "single",
-    "question": "Test example: is it weak to name only one feature?",
-    "audioPrompt": "Test example: is it weak to name only one feature?",
+    "question": "In a public-transport survey, which term matches this meaning: “word, sentence or cohesion choice”?",
+    "audioPrompt": "In a public-transport survey, which term matches this meaning: “word, sentence or cohesion choice”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +167,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Evidence is unrelated to paragraph order.",
-      "Visuals never contribute to meaning.",
-      "Meaning often comes from several choices working together.",
-      "One feature works alone and nothing else matters."
+      "text structure",
+      "purpose",
+      "language feature",
+      "It does not match the evidence in the example."
     ],
     "correct": 2,
-    "explanation": "Meaning often comes from several choices working together.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "language feature is the precise term for word, sentence or cohesion choice.\nHint: Distinguish closely related terms by their definitions.",
     "structuredExplanation": {
-      "summary": "Meaning often comes from several choices working together.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "language feature is the precise term for word, sentence or cohesion choice.",
+      "hint": "Distinguish closely related terms by their definitions."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly03-t-008",
+    "id": "AC9E6LY03-T-007",
     "curriculumCode": "AC9E6LY03",
     "bank": "test",
-    "skill": "structure and language",
+    "stage": "verify",
+    "skill": "how structure and language work together",
     "printable": true,
     "type": "single",
-    "question": "Test example: response best explains coordinated meaning?",
-    "audioPrompt": "Test example: response best explains coordinated meaning?",
+    "question": "For a festival review, which response best links structure and language?",
+    "audioPrompt": "For a festival review, which response best links structure and language?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,18 +197,288 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Visuals never contribute to meaning.",
-      "One feature works alone and nothing else matters.",
-      "Structure and vocabulary cannot support each other.",
-      "The heading frames the issue, the statistics support it and the modal verb must pushes action."
+      "The text has although",
+      "The text has paragraphs",
+      "The graph is colourful",
+      "The counterpoint stage uses although to acknowledge an alternative before the claim is strengthened"
     ],
     "correct": 3,
-    "explanation": "The heading frames the issue, the statistics support it and the modal verb must pushes action.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "“The counterpoint stage uses although to acknowledge an alternative before the claim is strengthened” is supported by the language evidence and purpose of the text.\nHint: Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning.",
     "structuredExplanation": {
-      "summary": "The heading frames the issue, the statistics support it and the modal verb must pushes action.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "“The counterpoint stage uses although to acknowledge an alternative before the claim is strengthened” is supported by the language evidence and purpose of the text.",
+      "hint": "Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-T-008",
+    "curriculumCode": "AC9E6LY03",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "independent misconception check",
+    "printable": true,
+    "type": "single",
+    "question": "A writer preparing a emergency-preparedness talk says, “One feature assigned fixed effect”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a emergency-preparedness talk says, “One feature assigned fixed effect”. Which response is most accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Use context.",
+      "Features analysed separately",
+      "One feature assigned fixed effect",
+      "Structure summarised but not evaluated"
+    ],
+    "correct": 0,
+    "explanation": "Use context. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "structuredExplanation": {
+      "summary": "Use context. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-T-009",
+    "curriculumCode": "AC9E6LY03",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "narrative anecdote in speech",
+    "printable": true,
+    "type": "single",
+    "question": "A water-saving brochure includes “engages and humanises issue”. Which description best fits this wording?",
+    "audioPrompt": "A water-saving brochure includes “engages and humanises issue”. Which description best fits this wording?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "opening problem",
+      "narrative anecdote in speech",
+      "reason 1",
+      "counterpoint"
+    ],
+    "correct": 1,
+    "explanation": "The wording best matches narrative anecdote in speech.\nHint: Identify the language choice first, then check its effect in this context.",
+    "structuredExplanation": {
+      "summary": "The wording best matches narrative anecdote in speech.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-T-010",
+    "curriculumCode": "AC9E6LY03",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "purpose",
+    "printable": true,
+    "type": "single",
+    "question": "In a local council submission, which term matches this meaning: “intended communicative outcome”?",
+    "audioPrompt": "In a local council submission, which term matches this meaning: “intended communicative outcome”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "text structure",
+      "language feature",
+      "purpose",
+      "It does not match the evidence in the example."
+    ],
+    "correct": 2,
+    "explanation": "purpose is the precise term for intended communicative outcome.\nHint: Distinguish closely related terms by their definitions.",
+    "structuredExplanation": {
+      "summary": "purpose is the precise term for intended communicative outcome.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-T-011",
+    "curriculumCode": "AC9E6LY03",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "how structure and language work together",
+    "printable": true,
+    "type": "single",
+    "question": "For a marine-research diary, which response best links structure and language?",
+    "audioPrompt": "For a marine-research diary, which response best links structure and language?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The text has although",
+      "The text has paragraphs",
+      "The graph is colourful",
+      "The counterpoint stage uses although to acknowledge an alternative before the claim is strengthened"
+    ],
+    "correct": 3,
+    "explanation": "“The counterpoint stage uses although to acknowledge an alternative before the claim is strengthened” is supported by the language evidence and purpose of the text.\nHint: Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning.",
+    "structuredExplanation": {
+      "summary": "“The counterpoint stage uses although to acknowledge an alternative before the claim is strengthened” is supported by the language evidence and purpose of the text.",
+      "hint": "Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-T-012",
+    "curriculumCode": "AC9E6LY03",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent misconception check",
+    "printable": true,
+    "type": "single",
+    "question": "A writer preparing a farmers market profile says, “One feature assigned fixed effect”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a farmers market profile says, “One feature assigned fixed effect”. Which response is most accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Use context.",
+      "Features analysed separately",
+      "One feature assigned fixed effect",
+      "Structure summarised but not evaluated"
+    ],
+    "correct": 0,
+    "explanation": "Use context. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "structuredExplanation": {
+      "summary": "Use context. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-T-013",
+    "curriculumCode": "AC9E6LY03",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "graph in campaign",
+    "printable": true,
+    "type": "single",
+    "question": "A astronomy exhibition includes “provides evidence but may also create salience”. Which description best fits this wording?",
+    "audioPrompt": "A astronomy exhibition includes “provides evidence but may also create salience”. Which description best fits this wording?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "opening problem",
+      "graph in campaign",
+      "reason 1",
+      "counterpoint"
+    ],
+    "correct": 1,
+    "explanation": "The wording best matches graph in campaign.\nHint: Identify the language choice first, then check its effect in this context.",
+    "structuredExplanation": {
+      "summary": "The wording best matches graph in campaign.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-T-014",
+    "curriculumCode": "AC9E6LY03",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "text structure",
+    "printable": true,
+    "type": "single",
+    "question": "In a river-restoration update, which term matches this meaning: “organisation of stages and phases”?",
+    "audioPrompt": "In a river-restoration update, which term matches this meaning: “organisation of stages and phases”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "language feature",
+      "purpose",
+      "text structure",
+      "It does not match the evidence in the example."
+    ],
+    "correct": 2,
+    "explanation": "text structure is the precise term for organisation of stages and phases.\nHint: Distinguish closely related terms by their definitions.",
+    "structuredExplanation": {
+      "summary": "text structure is the precise term for organisation of stages and phases.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-T-015",
+    "curriculumCode": "AC9E6LY03",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "how structure and language work together",
+    "printable": true,
+    "type": "single",
+    "question": "For a cycling-safety campaign, which response best links structure and language?",
+    "audioPrompt": "For a cycling-safety campaign, which response best links structure and language?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The text has although",
+      "The text has paragraphs",
+      "The graph is colourful",
+      "The counterpoint stage uses although to acknowledge an alternative before the claim is strengthened"
+    ],
+    "correct": 3,
+    "explanation": "“The counterpoint stage uses although to acknowledge an alternative before the claim is strengthened” is supported by the language evidence and purpose of the text.\nHint: Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning.",
+    "structuredExplanation": {
+      "summary": "“The counterpoint stage uses although to acknowledge an alternative before the claim is strengthened” is supported by the language evidence and purpose of the text.",
+      "hint": "Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-T-016",
+    "curriculumCode": "AC9E6LY03",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent misconception check",
+    "printable": true,
+    "type": "single",
+    "question": "A writer preparing a neighbourhood history podcast says, “One feature assigned fixed effect”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a neighbourhood history podcast says, “One feature assigned fixed effect”. Which response is most accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Use context.",
+      "Features analysed separately",
+      "One feature assigned fixed effect",
+      "Structure summarised but not evaluated"
+    ],
+    "correct": 0,
+    "explanation": "Use context. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "structuredExplanation": {
+      "summary": "Use context. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "qualitySchema": "skillr-authored-v1"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

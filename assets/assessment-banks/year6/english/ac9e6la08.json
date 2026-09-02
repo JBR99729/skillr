@@ -1,22 +1,15 @@
 [
   {
-    "id": "ac9e6la08-p-001",
+    "id": "AC9E6LA08-P-001",
     "curriculum_code": "AC9E6LA08",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "identify_metaphor",
-    "question": "Which sentence uses metaphor?",
-    "audio_prompt": "Which sentence uses metaphor?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "In a class podcast, which sentence uses metaphor?",
+    "audio_prompt": "In a class podcast, which sentence uses metaphor?",
     "answers": [
-      {
-        "text": "The city was a furnace.",
-        "is_correct": true
-      },
       {
         "text": "The city temperature was 39°C.",
         "is_correct": false
@@ -28,30 +21,222 @@
       {
         "text": "The city is large.",
         "is_correct": false
+      },
+      {
+        "text": "The city was a furnace.",
+        "is_correct": true
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "This choice best demonstrates identify metaphor in the stated context.",
+      "summary": "“The city was a furnace.” is the strongest choice because it matches the language feature and the situation.",
       "hint": "A metaphor is not simply decorative. It frames one domain through another and can sustain a viewpoint or theme."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la08-p-002",
+    "id": "AC9E6LA08-P-002",
     "curriculum_code": "AC9E6LA08",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "skill": "metaphor",
-    "question": "Which term means “conceptual comparison describing one thing as another”?",
-    "audio_prompt": "Which term means “conceptual comparison describing one thing as another”?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
+    "stage": "recognise",
+    "skill": "personification",
+    "question": "Which term best matches this meaning: “human qualities assigned to non-human entities”?",
+    "audio_prompt": "Which term best matches this meaning: “human qualities assigned to non-human entities”?",
+    "answers": [
+      {
+        "text": "personification",
+        "is_correct": true
+      },
+      {
+        "text": "metaphor",
+        "is_correct": false
+      },
+      {
+        "text": "connotation",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "personification means human qualities assigned to non-human entities.",
+      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
     },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-P-003",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "the_sun_hammered_the_roofs",
+    "question": "Read this example from a science investigation: “personifies force and repetition”. Which label best describes what the language is doing?",
+    "audio_prompt": "Read this example from a science investigation: “personifies force and repetition”. Which label best describes what the language is doing?",
+    "answers": [
+      {
+        "text": "The city was a furnace.",
+        "is_correct": false
+      },
+      {
+        "text": "The sun hammered the roofs.",
+        "is_correct": true
+      },
+      {
+        "text": "Roads were glowing veins.",
+        "is_correct": false
+      },
+      {
+        "text": "Residents crawled toward shade.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“personifies force and repetition” is an example of The sun hammered the roofs..",
+      "hint": "A metaphor is not simply decorative. It frames one domain through another and can sustain a viewpoint or theme."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-P-004",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which correction best fixes this idea: “Emotion replaces evidence”?",
+    "audio_prompt": "Which correction best fixes this idea: “Emotion replaces evidence”?",
+    "answers": [
+      {
+        "text": "Device name treated as analysis",
+        "is_correct": false
+      },
+      {
+        "text": "All vivid language is positive",
+        "is_correct": false
+      },
+      {
+        "text": "Quote or describe exact wording.",
+        "is_correct": true
+      },
+      {
+        "text": "Mixed metaphors ignored",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Quote or describe exact wording. This fixes the misconception without creating a new rule that is too broad.",
+      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-P-005",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "the_city_was_a_furnace",
+    "question": "Which example would be most useful when explaining vivid and emotive vocabulary in a sports-club discussion?",
+    "audio_prompt": "Which example would be most useful when explaining vivid and emotive vocabulary in a sports-club discussion?",
+    "answers": [
+      {
+        "text": "extends city-as-body imagery",
+        "is_correct": false
+      },
+      {
+        "text": "personifies force and repetition",
+        "is_correct": false
+      },
+      {
+        "text": "verb suggests exhaustion",
+        "is_correct": false
+      },
+      {
+        "text": "frames heat as enclosing and dangerous",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "This example directly demonstrates The city was a furnace. and can be explained using the language clue in the text.",
+      "hint": "Students identify figurative and evaluative choices, explain conceptual and emotional effects in context and create controlled imagery rather than listing devices."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-P-006",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "identify_metaphor",
+    "question": "In a library display, which word has the most negative connotation in this set?",
+    "audio_prompt": "In a library display, which word has the most negative connotation in this set?",
+    "answers": [
+      {
+        "text": "scrawny",
+        "is_correct": true
+      },
+      {
+        "text": "slender",
+        "is_correct": false
+      },
+      {
+        "text": "thin",
+        "is_correct": false
+      },
+      {
+        "text": "narrow",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“scrawny” is the strongest choice because it matches the language feature and the situation.",
+      "hint": "A metaphor is not simply decorative. It frames one domain through another and can sustain a viewpoint or theme."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-P-007",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "metaphor",
+    "question": "Which term best matches this meaning: “conceptual comparison describing one thing as another”?",
+    "audio_prompt": "Which term best matches this meaning: “conceptual comparison describing one thing as another”?",
     "answers": [
       {
         "text": "personification",
@@ -66,32 +251,904 @@
         "is_correct": false
       },
       {
-        "text": "Device name treated as analysis",
+        "text": "It does not match the evidence in the example.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
       "summary": "metaphor means conceptual comparison describing one thing as another.",
-      "hint": "Match the definition to the most precise term used in Vivid and Emotive Vocabulary."
+      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la08-p-003",
+    "id": "AC9E6LA08-P-008",
     "curriculum_code": "AC9E6LA08",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "skill": "explain_connotation",
-    "question": "Which word has the most negative connotation in this set?",
-    "audio_prompt": "Which word has the most negative connotation in this set?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
+    "stage": "recognise",
+    "skill": "residents_crawled_toward_shade",
+    "question": "Read this example from a student council meeting: “verb suggests exhaustion”. Which label best describes what the language is doing?",
+    "audio_prompt": "Read this example from a student council meeting: “verb suggests exhaustion”. Which label best describes what the language is doing?",
+    "answers": [
+      {
+        "text": "The city was a furnace.",
+        "is_correct": false
+      },
+      {
+        "text": "Roads were glowing veins.",
+        "is_correct": false
+      },
+      {
+        "text": "Residents crawled toward shade.",
+        "is_correct": true
+      },
+      {
+        "text": "The sun hammered the roofs.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“verb suggests exhaustion” is an example of Residents crawled toward shade..",
+      "hint": "A metaphor is not simply decorative. It frames one domain through another and can sustain a viewpoint or theme."
     },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-P-009",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which correction best fixes this idea: “Device name treated as analysis”?",
+    "audio_prompt": "Which correction best fixes this idea: “Device name treated as analysis”?",
+    "answers": [
+      {
+        "text": "Device name treated as analysis",
+        "is_correct": false
+      },
+      {
+        "text": "All vivid language is positive",
+        "is_correct": false
+      },
+      {
+        "text": "Mixed metaphors ignored",
+        "is_correct": false
+      },
+      {
+        "text": "Explain framing and effect.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Explain framing and effect. This fixes the misconception without creating a new rule that is too broad.",
+      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-P-010",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "roads_were_glowing_veins",
+    "question": "Which example would be most useful when explaining vivid and emotive vocabulary in a environmental campaign?",
+    "audio_prompt": "Which example would be most useful when explaining vivid and emotive vocabulary in a environmental campaign?",
+    "answers": [
+      {
+        "text": "extends city-as-body imagery",
+        "is_correct": true
+      },
+      {
+        "text": "frames heat as enclosing and dangerous",
+        "is_correct": false
+      },
+      {
+        "text": "personifies force and repetition",
+        "is_correct": false
+      },
+      {
+        "text": "verb suggests exhaustion",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "This example directly demonstrates Roads were glowing veins. and can be explained using the language clue in the text.",
+      "hint": "Students identify figurative and evaluative choices, explain conceptual and emotional effects in context and create controlled imagery rather than listing devices."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-P-011",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "the_sun_hammered_the_roofs",
+    "question": "A museum caption includes “personifies force and repetition”. Why is this an effective example of The sun hammered the roofs.?",
+    "audio_prompt": "A museum caption includes “personifies force and repetition”. Why is this an effective example of The sun hammered the roofs.?",
+    "answers": [
+      {
+        "text": "It makes the intended language choice clear in context.",
+        "is_correct": true
+      },
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "A metaphor is not simply decorative. It frames one domain through another and can sustain a viewpoint or theme.",
+        "is_correct": false
+      },
+      {
+        "text": "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "personifies force and repetition works because its language choice fits the purpose and context.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-P-012",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Connotation can threaten, praise or ridicule.” a better rule than “All vivid language is positive” when reading a student council meeting?",
+    "audio_prompt": "Why is “Connotation can threaten, praise or ridicule.” a better rule than “All vivid language is positive” when reading a student council meeting?",
+    "answers": [
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“Connotation can threaten, praise or ridicule.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-P-013",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "the_city_was_a_furnace",
+    "question": "A local-history article includes “frames heat as enclosing and dangerous”. Why is this an effective example of The city was a furnace.?",
+    "audio_prompt": "A local-history article includes “frames heat as enclosing and dangerous”. Why is this an effective example of The city was a furnace.?",
+    "answers": [
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "A metaphor is not simply decorative. It frames one domain through another and can sustain a viewpoint or theme.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the intended language choice clear in context.",
+        "is_correct": true
+      },
+      {
+        "text": "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "frames heat as enclosing and dangerous works because its language choice fits the purpose and context.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-P-014",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Quote or describe exact wording.” a better rule than “Emotion replaces evidence” when reading a environmental campaign?",
+    "audio_prompt": "Why is “Quote or describe exact wording.” a better rule than “Emotion replaces evidence” when reading a environmental campaign?",
+    "answers": [
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      },
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“Quote or describe exact wording.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-P-015",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "the_sun_hammered_the_roofs",
+    "question": "A book-club discussion includes “personifies force and repetition”. Why is this an effective example of The sun hammered the roofs.?",
+    "audio_prompt": "A book-club discussion includes “personifies force and repetition”. Why is this an effective example of The sun hammered the roofs.?",
+    "answers": [
+      {
+        "text": "It makes the intended language choice clear in context.",
+        "is_correct": true
+      },
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "A metaphor is not simply decorative. It frames one domain through another and can sustain a viewpoint or theme.",
+        "is_correct": false
+      },
+      {
+        "text": "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "personifies force and repetition works because its language choice fits the purpose and context.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-P-016",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Connotation can threaten, praise or ridicule.” a better rule than “All vivid language is positive” when reading a excursion briefing?",
+    "audio_prompt": "Why is “Connotation can threaten, praise or ridicule.” a better rule than “All vivid language is positive” when reading a excursion briefing?",
+    "answers": [
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“Connotation can threaten, praise or ridicule.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-P-017",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "the_city_was_a_furnace",
+    "question": "A design project includes “frames heat as enclosing and dangerous”. Why is this an effective example of The city was a furnace.?",
+    "audio_prompt": "A design project includes “frames heat as enclosing and dangerous”. Why is this an effective example of The city was a furnace.?",
+    "answers": [
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "A metaphor is not simply decorative. It frames one domain through another and can sustain a viewpoint or theme.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the intended language choice clear in context.",
+        "is_correct": true
+      },
+      {
+        "text": "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "frames heat as enclosing and dangerous works because its language choice fits the purpose and context.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-P-018",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Quote or describe exact wording.” a better rule than “Emotion replaces evidence” when reading a weather report?",
+    "audio_prompt": "Why is “Quote or describe exact wording.” a better rule than “Emotion replaces evidence” when reading a weather report?",
+    "answers": [
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      },
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“Quote or describe exact wording.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-P-019",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "the_sun_hammered_the_roofs",
+    "question": "A school assembly includes “personifies force and repetition”. Why is this an effective example of The sun hammered the roofs.?",
+    "audio_prompt": "A school assembly includes “personifies force and repetition”. Why is this an effective example of The sun hammered the roofs.?",
+    "answers": [
+      {
+        "text": "It makes the intended language choice clear in context.",
+        "is_correct": true
+      },
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "A metaphor is not simply decorative. It frames one domain through another and can sustain a viewpoint or theme.",
+        "is_correct": false
+      },
+      {
+        "text": "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "personifies force and repetition works because its language choice fits the purpose and context.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-P-020",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Connotation can threaten, praise or ridicule.” a better rule than “All vivid language is positive” when reading a peer feedback session?",
+    "audio_prompt": "Why is “Connotation can threaten, praise or ridicule.” a better rule than “All vivid language is positive” when reading a peer feedback session?",
+    "answers": [
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“Connotation can threaten, praise or ridicule.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-P-021",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A excursion briefing could use either “frames heat as enclosing and dangerous” or “negative judgement”. Which comparison is most accurate?",
+    "audio_prompt": "A excursion briefing could use either “frames heat as enclosing and dangerous” or “negative judgement”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "“frames heat as enclosing and dangerous” shows The city was a furnace., while “negative judgement” shows scrawny.",
+        "is_correct": true
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The important difference is the language function: The city was a furnace. versus scrawny.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-P-022",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Mixed metaphors ignored” in a design project?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Mixed metaphors ignored” in a design project?",
+    "answers": [
+      {
+        "text": "Device name treated as analysis",
+        "is_correct": false
+      },
+      {
+        "text": "All vivid language is positive",
+        "is_correct": false
+      },
+      {
+        "text": "Check coherence of image system.",
+        "is_correct": true
+      },
+      {
+        "text": "Mixed metaphors ignored",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check coherence of image system. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-P-023",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A weather report could use either “personifies force and repetition” or “negative or resistant framing”. Which comparison is most accurate?",
+    "audio_prompt": "A weather report could use either “personifies force and repetition” or “negative or resistant framing”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      },
+      {
+        "text": "“personifies force and repetition” shows The sun hammered the roofs., while “negative or resistant framing” shows stubborn.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The important difference is the language function: The sun hammered the roofs. versus stubborn.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-P-024",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Device name treated as analysis” in a school assembly?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Device name treated as analysis” in a school assembly?",
+    "answers": [
+      {
+        "text": "Explain framing and effect.",
+        "is_correct": true
+      },
+      {
+        "text": "Device name treated as analysis",
+        "is_correct": false
+      },
+      {
+        "text": "All vivid language is positive",
+        "is_correct": false
+      },
+      {
+        "text": "Mixed metaphors ignored",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Explain framing and effect. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-P-025",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A peer feedback session could use either “frames heat as enclosing and dangerous” or “negative judgement”. Which comparison is most accurate?",
+    "audio_prompt": "A peer feedback session could use either “frames heat as enclosing and dangerous” or “negative judgement”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "“frames heat as enclosing and dangerous” shows The city was a furnace., while “negative judgement” shows scrawny.",
+        "is_correct": true
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The important difference is the language function: The city was a furnace. versus scrawny.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-P-026",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Mixed metaphors ignored” in a cooking demonstration?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Mixed metaphors ignored” in a cooking demonstration?",
+    "answers": [
+      {
+        "text": "Device name treated as analysis",
+        "is_correct": false
+      },
+      {
+        "text": "All vivid language is positive",
+        "is_correct": false
+      },
+      {
+        "text": "Check coherence of image system.",
+        "is_correct": true
+      },
+      {
+        "text": "Mixed metaphors ignored",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check coherence of image system. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-P-027",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A arts review could use either “personifies force and repetition” or “negative or resistant framing”. Which comparison is most accurate?",
+    "audio_prompt": "A arts review could use either “personifies force and repetition” or “negative or resistant framing”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      },
+      {
+        "text": "“personifies force and repetition” shows The sun hammered the roofs., while “negative or resistant framing” shows stubborn.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The important difference is the language function: The sun hammered the roofs. versus stubborn.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-P-028",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Device name treated as analysis” in a technology presentation?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Device name treated as analysis” in a technology presentation?",
+    "answers": [
+      {
+        "text": "Explain framing and effect.",
+        "is_correct": true
+      },
+      {
+        "text": "Device name treated as analysis",
+        "is_correct": false
+      },
+      {
+        "text": "All vivid language is positive",
+        "is_correct": false
+      },
+      {
+        "text": "Mixed metaphors ignored",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Explain framing and effect. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-P-029",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A playground consultation could use either “frames heat as enclosing and dangerous” or “negative judgement”. Which comparison is most accurate?",
+    "audio_prompt": "A playground consultation could use either “frames heat as enclosing and dangerous” or “negative judgement”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "“frames heat as enclosing and dangerous” shows The city was a furnace., while “negative judgement” shows scrawny.",
+        "is_correct": true
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The important difference is the language function: The city was a furnace. versus scrawny.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-P-030",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Mixed metaphors ignored” in a class podcast?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Mixed metaphors ignored” in a class podcast?",
+    "answers": [
+      {
+        "text": "Device name treated as analysis",
+        "is_correct": false
+      },
+      {
+        "text": "All vivid language is positive",
+        "is_correct": false
+      },
+      {
+        "text": "Check coherence of image system.",
+        "is_correct": true
+      },
+      {
+        "text": "Mixed metaphors ignored",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check coherence of image system. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-P-031",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "trace_image_pattern",
+    "question": "You are editing a community garden proposal. Which word has the most negative connotation in this set?",
+    "audio_prompt": "You are editing a community garden proposal. Which word has the most negative connotation in this set?",
     "answers": [
       {
         "text": "slender",
@@ -112,186 +1169,480 @@
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "This answer applies the relevant language feature accurately.",
+      "summary": "“scrawny” best fits the purpose and the language evidence in this new situation.",
       "hint": "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la08-p-004",
+    "id": "AC9E6LA08-P-032",
     "curriculum_code": "AC9E6LA08",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "skill": "misconception_repair",
-    "question": "A student says, “Device name treated as analysis.” Which response best corrects the misunderstanding?",
-    "audio_prompt": "A student says, “Device name treated as analysis.” Which response best corrects the misunderstanding?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "apply",
+    "skill": "scrawny",
+    "question": "A sports-club discussion needs a clear example of scrawny. Which wording should you choose?",
+    "audio_prompt": "A sports-club discussion needs a clear example of scrawny. Which wording should you choose?",
     "answers": [
       {
-        "text": "Connotation can threaten, praise or ridicule",
+        "text": "often positive or elegant connotation",
         "is_correct": false
       },
       {
-        "text": "Check coherence of image system",
+        "text": "positive persistence",
         "is_correct": false
       },
       {
-        "text": "Quote or describe exact wording",
+        "text": "negative or resistant framing",
         "is_correct": false
       },
       {
-        "text": "Explain framing and effect",
+        "text": "negative judgement",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Explain framing and effect",
-      "hint": "Check the concept boundary, not just whether the wording sounds confident."
+      "summary": "“negative judgement” is the best choice because it demonstrates scrawny in context.",
+      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la08-p-005",
+    "id": "AC9E6LA08-P-033",
     "curriculum_code": "AC9E6LA08",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "skill": "analyse_a_sustained_metaphor",
-    "question": "Which pairing accurately reflects the model for Vivid and Emotive Vocabulary?",
-    "audio_prompt": "Which pairing accurately reflects the model for Vivid and Emotive Vocabulary?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "apply",
+    "skill": "metaphor",
+    "question": "While revising a library display, you need language that matches “conceptual comparison describing one thing as another”. Which concept should guide your choice?",
+    "audio_prompt": "While revising a library display, you need language that matches “conceptual comparison describing one thing as another”. Which concept should guide your choice?",
     "answers": [
       {
-        "text": "The city was a furnace. → frames heat as enclosing and dangerous",
+        "text": "metaphor",
         "is_correct": true
       },
       {
-        "text": "frames heat as enclosing and dangerous → The city was a furnace.",
+        "text": "personification",
         "is_correct": false
       },
       {
-        "text": "Roads were glowing veins. → extends city-as-body imagery",
+        "text": "connotation",
         "is_correct": false
       },
       {
-        "text": "All vivid language is positive",
+        "text": "It does not match the evidence in the example.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The pairing comes directly from the lesson model and preserves the intended relationship.",
-      "hint": "A metaphor is not simply decorative. It frames one domain through another and can sustain a viewpoint or theme."
+      "summary": "metaphor is the concept that matches conceptual comparison describing one thing as another.",
+      "hint": "Use the definition to guide the decision, then check it against the sentence."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la08-p-006",
+    "id": "AC9E6LA08-P-034",
     "curriculum_code": "AC9E6LA08",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "skill": "concept_principle",
-    "question": "Which principle should guide a response about Vivid and Emotive Vocabulary?",
-    "audio_prompt": "Which principle should guide a response about Vivid and Emotive Vocabulary?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "apply",
+    "skill": "identify_metaphor",
+    "question": "You are editing a museum caption. Which word has the most negative connotation in this set?",
+    "audio_prompt": "You are editing a museum caption. Which word has the most negative connotation in this set?",
     "answers": [
       {
-        "text": "Device name treated as analysis",
+        "text": "slender",
         "is_correct": false
       },
       {
-        "text": "A metaphor is not simply decorative. It frames one domain through another and can sustain a viewpoint or theme",
+        "text": "scrawny",
         "is_correct": true
       },
       {
-        "text": "All vivid language is positive",
+        "text": "thin",
         "is_correct": false
       },
       {
-        "text": "Mixed metaphors ignored",
+        "text": "narrow",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A metaphor is not simply decorative. It frames one domain through another and can sustain a viewpoint or theme",
-      "hint": "Choose the statement that is accurate across the whole concept, not an overgeneralisation."
+      "summary": "“scrawny” best fits the purpose and the language evidence in this new situation.",
+      "hint": "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la08-p-007",
+    "id": "AC9E6LA08-P-035",
     "curriculum_code": "AC9E6LA08",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "skill": "guided_application",
-    "question": "Which plan would best complete this task: Analyse a vivid passage for one extended image, verb choices and emotional positioning?",
-    "audio_prompt": "Which plan would best complete this task: Analyse a vivid passage for one extended image, verb choices and emotional positioning?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "apply",
+    "skill": "slender",
+    "question": "A student council meeting needs a clear example of slender. Which wording should you choose?",
+    "audio_prompt": "A student council meeting needs a clear example of slender. Which wording should you choose?",
     "answers": [
       {
-        "text": "List features without explaining their effects.",
+        "text": "negative judgement",
         "is_correct": false
       },
       {
-        "text": "Give a personal preference without textual evidence.",
+        "text": "positive persistence",
         "is_correct": false
       },
       {
-        "text": "Use the named features, relevant evidence and an explanation of how each choice shapes meaning.",
+        "text": "often positive or elegant connotation",
         "is_correct": true
       },
       {
-        "text": "Discuss a different topic instead of the stated task.",
+        "text": "negative or resistant framing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A complete response combines relevant evidence with an explanation tied to the task.",
-      "hint": "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label."
+      "summary": "“often positive or elegant connotation” is the best choice because it demonstrates slender in context.",
+      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la08-p-008",
+    "id": "AC9E6LA08-P-036",
     "curriculum_code": "AC9E6LA08",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "skill": "reasoning",
-    "question": "Which evidence would best show secure understanding of Vivid and Emotive Vocabulary?",
-    "audio_prompt": "Which evidence would best show secure understanding of Vivid and Emotive Vocabulary?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
+    "stage": "apply",
+    "skill": "metaphor",
+    "question": "While revising a local-history article, you need language that matches “conceptual comparison describing one thing as another”. Which concept should guide your choice?",
+    "audio_prompt": "While revising a local-history article, you need language that matches “conceptual comparison describing one thing as another”. Which concept should guide your choice?",
+    "answers": [
+      {
+        "text": "personification",
+        "is_correct": false
+      },
+      {
+        "text": "connotation",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "metaphor",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "metaphor is the concept that matches conceptual comparison describing one thing as another.",
+      "hint": "Use the definition to guide the decision, then check it against the sentence."
     },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-P-037",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "compare_near_synonyms",
+    "question": "You are editing a environmental campaign. Which word has the most negative connotation in this set?",
+    "audio_prompt": "You are editing a environmental campaign. Which word has the most negative connotation in this set?",
+    "answers": [
+      {
+        "text": "scrawny",
+        "is_correct": true
+      },
+      {
+        "text": "slender",
+        "is_correct": false
+      },
+      {
+        "text": "thin",
+        "is_correct": false
+      },
+      {
+        "text": "narrow",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“scrawny” best fits the purpose and the language evidence in this new situation.",
+      "hint": "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-P-038",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "stubborn",
+    "question": "A book-club discussion needs a clear example of stubborn. Which wording should you choose?",
+    "audio_prompt": "A book-club discussion needs a clear example of stubborn. Which wording should you choose?",
+    "answers": [
+      {
+        "text": "often positive or elegant connotation",
+        "is_correct": false
+      },
+      {
+        "text": "negative or resistant framing",
+        "is_correct": true
+      },
+      {
+        "text": "negative judgement",
+        "is_correct": false
+      },
+      {
+        "text": "positive persistence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“negative or resistant framing” is the best choice because it demonstrates stubborn in context.",
+      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-P-039",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "metaphor",
+    "question": "While revising a excursion briefing, you need language that matches “conceptual comparison describing one thing as another”. Which concept should guide your choice?",
+    "audio_prompt": "While revising a excursion briefing, you need language that matches “conceptual comparison describing one thing as another”. Which concept should guide your choice?",
+    "answers": [
+      {
+        "text": "personification",
+        "is_correct": false
+      },
+      {
+        "text": "connotation",
+        "is_correct": false
+      },
+      {
+        "text": "metaphor",
+        "is_correct": true
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "metaphor is the concept that matches conceptual comparison describing one thing as another.",
+      "hint": "Use the definition to guide the decision, then check it against the sentence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-P-040",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "explain_connotation",
+    "question": "You are editing a design project. Which word has the most negative connotation in this set?",
+    "audio_prompt": "You are editing a design project. Which word has the most negative connotation in this set?",
+    "answers": [
+      {
+        "text": "slender",
+        "is_correct": false
+      },
+      {
+        "text": "thin",
+        "is_correct": false
+      },
+      {
+        "text": "narrow",
+        "is_correct": false
+      },
+      {
+        "text": "scrawny",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“scrawny” best fits the purpose and the language evidence in this new situation.",
+      "hint": "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-T-001",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "determined",
+    "question": "A community radio segment includes “positive persistence”. Which description best fits this wording?",
+    "audio_prompt": "A community radio segment includes “positive persistence”. Which description best fits this wording?",
+    "answers": [
+      {
+        "text": "determined",
+        "is_correct": true
+      },
+      {
+        "text": "The city was a furnace.",
+        "is_correct": false
+      },
+      {
+        "text": "Roads were glowing veins.",
+        "is_correct": false
+      },
+      {
+        "text": "The sun hammered the roofs.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The wording best matches determined.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-T-002",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "metaphor",
+    "question": "In a wildlife-centre report, which term matches this meaning: “conceptual comparison describing one thing as another”?",
+    "audio_prompt": "In a wildlife-centre report, which term matches this meaning: “conceptual comparison describing one thing as another”?",
+    "answers": [
+      {
+        "text": "personification",
+        "is_correct": false
+      },
+      {
+        "text": "metaphor",
+        "is_correct": true
+      },
+      {
+        "text": "connotation",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "metaphor is the precise term for conceptual comparison describing one thing as another.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-T-003",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "vivid_and_emotive_vocabulary",
+    "question": "For a regional youth forum, which sentence uses metaphor?",
+    "audio_prompt": "For a regional youth forum, which sentence uses metaphor?",
+    "answers": [
+      {
+        "text": "The city temperature was 39°C.",
+        "is_correct": false
+      },
+      {
+        "text": "The city had roads.",
+        "is_correct": false
+      },
+      {
+        "text": "The city was a furnace.",
+        "is_correct": true
+      },
+      {
+        "text": "The city is large.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“The city was a furnace.” is supported by the language evidence and purpose of the text.",
+      "hint": "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-T-004",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "independent_misconception_check",
+    "question": "A writer preparing a coastal-monitoring update says, “All vivid language is positive”. Which response is most accurate?",
+    "audio_prompt": "A writer preparing a coastal-monitoring update says, “All vivid language is positive”. Which response is most accurate?",
     "answers": [
       {
         "text": "Device name treated as analysis",
@@ -306,313 +1657,474 @@
         "is_correct": false
       },
       {
-        "text": "Students identify figurative and evaluative choices, explain conceptual and emotional effects in context and create controlled imagery rather than listing devices The response also explains its evidence and limitations.",
+        "text": "Connotation can threaten, praise or ridicule.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Secure understanding is visible when a student applies the concept and explains the evidence used.",
-      "hint": "Look for application and explanation rather than a feature name alone."
+      "summary": "Connotation can threaten, praise or ridicule. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la08-t-001",
+    "id": "AC9E6LA08-T-005",
     "curriculum_code": "AC9E6LA08",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
+    "skill": "determined",
+    "question": "A heritage trail guide includes “positive persistence”. Which description best fits this wording?",
+    "audio_prompt": "A heritage trail guide includes “positive persistence”. Which description best fits this wording?",
+    "answers": [
+      {
+        "text": "determined",
+        "is_correct": true
+      },
+      {
+        "text": "The city was a furnace.",
+        "is_correct": false
+      },
+      {
+        "text": "Roads were glowing veins.",
+        "is_correct": false
+      },
+      {
+        "text": "The sun hammered the roofs.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The wording best matches determined.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-T-006",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
     "skill": "personification",
-    "question": "In a new text, which definition correctly identifies personification?",
-    "audio_prompt": "In a new text, which definition correctly identifies personification?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "In a public-transport survey, which term matches this meaning: “human qualities assigned to non-human entities”?",
+    "audio_prompt": "In a public-transport survey, which term matches this meaning: “human qualities assigned to non-human entities”?",
     "answers": [
       {
-        "text": "Human qualities assigned to non-human entities",
+        "text": "metaphor",
+        "is_correct": false
+      },
+      {
+        "text": "personification",
         "is_correct": true
       },
       {
-        "text": "Conceptual comparison describing one thing as another",
+        "text": "connotation",
         "is_correct": false
       },
       {
-        "text": "Associated emotion or cultural meaning",
-        "is_correct": false
-      },
-      {
-        "text": "All vivid language is positive",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "personification means human qualities assigned to non-human entities.",
-      "hint": "Distinguish this term from related features in the unit."
-    }
-  },
-  {
-    "id": "ac9e6la08-t-002",
-    "curriculum_code": "AC9E6LA08",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "diagnosis",
-    "question": "A response shows this problem: “All vivid language is positive.” What is the most effective revision?",
-    "audio_prompt": "A response shows this problem: “All vivid language is positive.” What is the most effective revision?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Explain framing and effect",
-        "is_correct": false
-      },
-      {
-        "text": "Connotation can threaten, praise or ridicule",
-        "is_correct": true
-      },
-      {
-        "text": "Check coherence of image system",
-        "is_correct": false
-      },
-      {
-        "text": "Keep the response unchanged because the issue does not affect meaning.",
+        "text": "It does not match the evidence in the example.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Connotation can threaten, praise or ridicule",
-      "hint": "Choose the repair that directly addresses the diagnosed problem."
-    }
+      "summary": "personification is the precise term for human qualities assigned to non-human entities.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la08-t-003",
+    "id": "AC9E6LA08-T-007",
     "curriculum_code": "AC9E6LA08",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "skill": "analyse_a_sustained_metaphor",
-    "question": "Which interpretation of this model element is accurate: “Roads were glowing veins. → extends city-as-body imagery”?",
-    "audio_prompt": "Which interpretation of this model element is accurate: “Roads were glowing veins. → extends city-as-body imagery”?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "verify",
+    "skill": "vivid_and_emotive_vocabulary",
+    "question": "For a festival review, which sentence uses metaphor?",
+    "audio_prompt": "For a festival review, which sentence uses metaphor?",
     "answers": [
       {
-        "text": "The first part is decorative and can be ignored.",
+        "text": "The city temperature was 39°C.",
         "is_correct": false
       },
       {
-        "text": "The second part always has the same effect in every text.",
+        "text": "The city had roads.",
         "is_correct": false
       },
       {
-        "text": "It shows a deliberate relationship within Vivid and Emotive Vocabulary, so both parts must be interpreted together.",
+        "text": "The city was a furnace.",
         "is_correct": true
       },
       {
-        "text": "The pairing proves that no alternative interpretation is possible.",
+        "text": "The city is large.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The model links the feature to its contextual function without claiming a universal effect.",
-      "hint": "A metaphor is not simply decorative. It frames one domain through another and can sustain a viewpoint or theme."
-    }
-  },
-  {
-    "id": "ac9e6la08-t-004",
-    "curriculum_code": "AC9E6LA08",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "calibrate_emotion_and_connotation",
-    "question": "When applying Vivid and Emotive Vocabulary to an unfamiliar text, which analytical move is strongest?",
-    "audio_prompt": "When applying Vivid and Emotive Vocabulary to an unfamiliar text, which analytical move is strongest?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Name a feature and stop.",
-        "is_correct": false
-      },
-      {
-        "text": "Assume every audience responds identically.",
-        "is_correct": false
-      },
-      {
-        "text": "Replace analysis with an unsupported personal judgement.",
-        "is_correct": false
-      },
-      {
-        "text": "Identify the specific choice, cite relevant evidence and explain its contextual effect.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 3,
-    "explanation": {
-      "summary": "Strong analysis connects a specific choice and evidence to a contextual effect.",
+      "summary": "“The city was a furnace.” is supported by the language evidence and purpose of the text.",
       "hint": "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label."
-    }
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la08-t-005",
+    "id": "AC9E6LA08-T-008",
     "curriculum_code": "AC9E6LA08",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "skill": "connotation",
-    "question": "Which example best demonstrates an understanding of connotation?",
-    "audio_prompt": "Which example best demonstrates an understanding of connotation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "verify",
+    "skill": "independent_misconception_check",
+    "question": "A writer preparing a emergency-preparedness talk says, “All vivid language is positive”. Which response is most accurate?",
+    "audio_prompt": "A writer preparing a emergency-preparedness talk says, “All vivid language is positive”. Which response is most accurate?",
     "answers": [
       {
-        "text": "Associated emotion or cultural meaning, identified using evidence from the text.",
-        "is_correct": true
+        "text": "Device name treated as analysis",
+        "is_correct": false
+      },
+      {
+        "text": "All vivid language is positive",
+        "is_correct": false
       },
       {
         "text": "Mixed metaphors ignored",
         "is_correct": false
       },
       {
-        "text": "Emotion replaces evidence",
-        "is_correct": false
-      },
-      {
-        "text": "A general comment that does not use the text.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "connotation is associated emotion or cultural meaning.",
-      "hint": "Select the response that applies the definition and uses evidence."
-    }
-  },
-  {
-    "id": "ac9e6la08-t-006",
-    "curriculum_code": "AC9E6LA08",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "transfer",
-    "question": "Which conclusion stays within the evidence when analysing Vivid and Emotive Vocabulary?",
-    "audio_prompt": "Which conclusion stays within the evidence when analysing Vivid and Emotive Vocabulary?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "This single example proves the rule applies identically everywhere.",
-        "is_correct": false
-      },
-      {
-        "text": "The evidence supports this interpretation, although context may allow another defensible reading.",
-        "is_correct": true
-      },
-      {
-        "text": "The writer's choice guarantees the same reaction from every reader.",
-        "is_correct": false
-      },
-      {
-        "text": "No evidence is needed because the interpretation sounds reasonable.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "A defensible conclusion uses evidence and acknowledges reasonable limits.",
-      "hint": "Avoid absolute claims unless the evidence genuinely supports them."
-    }
-  },
-  {
-    "id": "ac9e6la08-t-007",
-    "curriculum_code": "AC9E6LA08",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "extended_analysis",
-    "question": "Which response plan best addresses this challenge: Write a paragraph using a coherent sustained metaphor and annotate each extension?",
-    "audio_prompt": "Which response plan best addresses this challenge: Write a paragraph using a coherent sustained metaphor and annotate each extension?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Copy the lesson example without adapting it.",
-        "is_correct": false
-      },
-      {
-        "text": "Add several unrelated features and do not explain them.",
-        "is_correct": false
-      },
-      {
-        "text": "Make an original, purposeful choice, apply the unit's techniques consistently and annotate the resulting effects.",
-        "is_correct": true
-      },
-      {
-        "text": "Describe the task but do not produce or analyse a response.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.",
-      "hint": "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label."
-    }
-  },
-  {
-    "id": "ac9e6la08-t-008",
-    "curriculum_code": "AC9E6LA08",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "critical_evaluation",
-    "question": "Which approach best addresses this evaluation: Compare two translations or rewritings of the same image and evaluate connotative differences?",
-    "audio_prompt": "Which approach best addresses this evaluation: Compare two translations or rewritings of the same image and evaluate connotative differences?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Choose a preferred answer before examining evidence.",
-        "is_correct": false
-      },
-      {
-        "text": "Summarise each example without comparing it.",
-        "is_correct": false
-      },
-      {
-        "text": "Treat one feature as proof of the whole judgement.",
-        "is_correct": false
-      },
-      {
-        "text": "Use explicit criteria, compare relevant evidence and qualify the final judgement.",
+        "text": "Connotation can threaten, praise or ridicule.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.",
-      "hint": "Build the judgement from evidence rather than preference."
-    }
+      "summary": "Connotation can threaten, praise or ridicule. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-T-009",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "determined",
+    "question": "A water-saving brochure includes “positive persistence”. Which description best fits this wording?",
+    "audio_prompt": "A water-saving brochure includes “positive persistence”. Which description best fits this wording?",
+    "answers": [
+      {
+        "text": "determined",
+        "is_correct": true
+      },
+      {
+        "text": "The city was a furnace.",
+        "is_correct": false
+      },
+      {
+        "text": "Roads were glowing veins.",
+        "is_correct": false
+      },
+      {
+        "text": "The sun hammered the roofs.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The wording best matches determined.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-T-010",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "connotation",
+    "question": "In a local council submission, which term matches this meaning: “associated emotion or cultural meaning”?",
+    "audio_prompt": "In a local council submission, which term matches this meaning: “associated emotion or cultural meaning”?",
+    "answers": [
+      {
+        "text": "metaphor",
+        "is_correct": false
+      },
+      {
+        "text": "connotation",
+        "is_correct": true
+      },
+      {
+        "text": "personification",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "connotation is the precise term for associated emotion or cultural meaning.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-T-011",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "vivid_and_emotive_vocabulary",
+    "question": "For a marine-research diary, which sentence uses metaphor?",
+    "audio_prompt": "For a marine-research diary, which sentence uses metaphor?",
+    "answers": [
+      {
+        "text": "The city temperature was 39°C.",
+        "is_correct": false
+      },
+      {
+        "text": "The city had roads.",
+        "is_correct": false
+      },
+      {
+        "text": "The city was a furnace.",
+        "is_correct": true
+      },
+      {
+        "text": "The city is large.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“The city was a furnace.” is supported by the language evidence and purpose of the text.",
+      "hint": "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-T-012",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent_misconception_check",
+    "question": "A writer preparing a farmers market profile says, “All vivid language is positive”. Which response is most accurate?",
+    "audio_prompt": "A writer preparing a farmers market profile says, “All vivid language is positive”. Which response is most accurate?",
+    "answers": [
+      {
+        "text": "Device name treated as analysis",
+        "is_correct": false
+      },
+      {
+        "text": "All vivid language is positive",
+        "is_correct": false
+      },
+      {
+        "text": "Mixed metaphors ignored",
+        "is_correct": false
+      },
+      {
+        "text": "Connotation can threaten, praise or ridicule.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Connotation can threaten, praise or ridicule. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-T-013",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "determined",
+    "question": "A astronomy exhibition includes “positive persistence”. Which description best fits this wording?",
+    "audio_prompt": "A astronomy exhibition includes “positive persistence”. Which description best fits this wording?",
+    "answers": [
+      {
+        "text": "determined",
+        "is_correct": true
+      },
+      {
+        "text": "The city was a furnace.",
+        "is_correct": false
+      },
+      {
+        "text": "Roads were glowing veins.",
+        "is_correct": false
+      },
+      {
+        "text": "The sun hammered the roofs.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The wording best matches determined.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-T-014",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "metaphor",
+    "question": "In a river-restoration update, which term matches this meaning: “conceptual comparison describing one thing as another”?",
+    "audio_prompt": "In a river-restoration update, which term matches this meaning: “conceptual comparison describing one thing as another”?",
+    "answers": [
+      {
+        "text": "personification",
+        "is_correct": false
+      },
+      {
+        "text": "metaphor",
+        "is_correct": true
+      },
+      {
+        "text": "connotation",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "metaphor is the precise term for conceptual comparison describing one thing as another.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-T-015",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "vivid_and_emotive_vocabulary",
+    "question": "For a cycling-safety campaign, which sentence uses metaphor?",
+    "audio_prompt": "For a cycling-safety campaign, which sentence uses metaphor?",
+    "answers": [
+      {
+        "text": "The city temperature was 39°C.",
+        "is_correct": false
+      },
+      {
+        "text": "The city had roads.",
+        "is_correct": false
+      },
+      {
+        "text": "The city was a furnace.",
+        "is_correct": true
+      },
+      {
+        "text": "The city is large.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“The city was a furnace.” is supported by the language evidence and purpose of the text.",
+      "hint": "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-T-016",
+    "curriculum_code": "AC9E6LA08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent_misconception_check",
+    "question": "A writer preparing a neighbourhood history podcast says, “All vivid language is positive”. Which response is most accurate?",
+    "audio_prompt": "A writer preparing a neighbourhood history podcast says, “All vivid language is positive”. Which response is most accurate?",
+    "answers": [
+      {
+        "text": "Device name treated as analysis",
+        "is_correct": false
+      },
+      {
+        "text": "All vivid language is positive",
+        "is_correct": false
+      },
+      {
+        "text": "Mixed metaphors ignored",
+        "is_correct": false
+      },
+      {
+        "text": "Connotation can threaten, praise or ridicule.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Connotation can threaten, praise or ridicule. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-authored-v1"
   }
 ]

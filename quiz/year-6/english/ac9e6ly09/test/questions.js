@@ -1,14 +1,15 @@
 "use strict";
 window.skillrTestQuestions = [
   {
-    "id": "ac9e6ly09-t-001",
+    "id": "AC9E6LY09-T-001",
     "curriculumCode": "AC9E6LY09",
     "bank": "test",
-    "skill": "morphemes and word origins",
+    "stage": "verify",
+    "skill": "read context",
     "printable": true,
     "type": "single",
-    "question": "Test example: What does the prefix inter- mean in international?",
-    "audioPrompt": "Test example: What does the prefix inter- mean in international?",
+    "question": "A community radio segment includes “does meaning fit?”. Which description best fits this wording?",
+    "audioPrompt": "A community radio segment includes “does meaning fit?”. Which description best fits this wording?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,115 +17,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "between or among nations.",
-      "Guess from a prefix and ignore context.",
-      "A root has exactly one meaning in every word.",
-      "Suffixes never change word class."
-    ],
-    "correct": 0,
-    "explanation": "between or among nations.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
-    "structuredExplanation": {
-      "summary": "between or among nations.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
-    },
-    "qualitySchema": "student-facing-v2"
-  },
-  {
-    "id": "ac9e6ly09-t-002",
-    "curriculumCode": "AC9E6LY09",
-    "bank": "test",
-    "skill": "morphemes and word origins",
-    "printable": true,
-    "type": "single",
-    "question": "Test example: which word contains the root bio meaning life?",
-    "audioPrompt": "Test example: which word contains the root bio meaning life?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A root has exactly one meaning in every word.",
-      "biology",
-      "Suffixes never change word class.",
-      "Reference sources are unnecessary for unfamiliar words."
-    ],
-    "correct": 1,
-    "explanation": "biology\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
-    "structuredExplanation": {
-      "summary": "biology",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
-    },
-    "qualitySchema": "student-facing-v2"
-  },
-  {
-    "id": "ac9e6ly09-t-003",
-    "curriculumCode": "AC9E6LY09",
-    "bank": "test",
-    "skill": "morphemes and word origins",
-    "printable": true,
-    "type": "single",
-    "question": "Test example: a student sees the word portable. What does the suffix -able suggest?",
-    "audioPrompt": "Test example: a student sees the word portable. What does the suffix -able suggest?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Suffixes never change word class.",
-      "Reference sources are unnecessary for unfamiliar words.",
-      "able to be carried.",
-      "Guess from a prefix and ignore context."
-    ],
-    "correct": 2,
-    "explanation": "able to be carried.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
-    "structuredExplanation": {
-      "summary": "able to be carried.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
-    },
-    "qualitySchema": "student-facing-v2"
-  },
-  {
-    "id": "ac9e6ly09-t-004",
-    "curriculumCode": "AC9E6LY09",
-    "bank": "test",
-    "skill": "morphemes and word origins",
-    "printable": true,
-    "type": "single",
-    "question": "Test example: why use word parts and context together?",
-    "audioPrompt": "Test example: why use word parts and context together?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Reference sources are unnecessary for unfamiliar words.",
-      "Guess from a prefix and ignore context.",
-      "A root has exactly one meaning in every word.",
-      "Word parts suggest meaning, but context checks whether the guess fits."
+      "bio",
+      "geo",
+      "spect",
+      "Read context"
     ],
     "correct": 3,
-    "explanation": "Word parts suggest meaning, but context checks whether the guess fits.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "The wording best matches Read context.\nHint: Identify the language choice first, then check its effect in this context.",
     "structuredExplanation": {
-      "summary": "Word parts suggest meaning, but context checks whether the guess fits.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "The wording best matches Read context.",
+      "hint": "Identify the language choice first, then check its effect in this context."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly09-t-005",
+    "id": "AC9E6LY09-T-002",
     "curriculumCode": "AC9E6LY09",
     "bank": "test",
-    "skill": "morphemes and word origins",
+    "stage": "verify",
+    "skill": "etymology",
     "printable": true,
     "type": "single",
-    "question": "Test example: which meaning best fits microscope?",
-    "audioPrompt": "Test example: which meaning best fits microscope?",
+    "question": "In a wildlife-centre report, which term matches this meaning: “history and origin of a word”?",
+    "audioPrompt": "In a wildlife-centre report, which term matches this meaning: “history and origin of a word”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +47,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "An instrument for viewing very small things.",
-      "Guess from a prefix and ignore context.",
-      "A root has exactly one meaning in every word.",
-      "Suffixes never change word class."
+      "etymology",
+      "root",
+      "morpheme",
+      "It does not match the evidence in the example."
     ],
     "correct": 0,
-    "explanation": "An instrument for viewing very small things.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "etymology is the precise term for history and origin of a word.\nHint: Distinguish closely related terms by their definitions.",
     "structuredExplanation": {
-      "summary": "An instrument for viewing very small things.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "etymology is the precise term for history and origin of a word.",
+      "hint": "Distinguish closely related terms by their definitions."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly09-t-006",
+    "id": "AC9E6LY09-T-003",
     "curriculumCode": "AC9E6LY09",
     "bank": "test",
-    "skill": "morphemes and word origins",
+    "stage": "verify",
+    "skill": "word origins morphemes and unfamiliar words",
     "printable": true,
     "type": "single",
-    "question": "Test example: how does knowing aqua help with aquarium and aquatic?",
-    "audioPrompt": "Test example: how does knowing aqua help with aquarium and aquatic?",
+    "question": "For a regional youth forum, what does the root bio commonly relate to?",
+    "audioPrompt": "For a regional youth forum, what does the root bio commonly relate to?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +77,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A root has exactly one meaning in every word.",
-      "It links both words to water.",
-      "Suffixes never change word class.",
-      "Reference sources are unnecessary for unfamiliar words."
+      "light",
+      "life",
+      "sound",
+      "distance"
     ],
     "correct": 1,
-    "explanation": "It links both words to water.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "“life” is supported by the language evidence and purpose of the text.\nHint: Morphological analysis supports spelling even when pronunciation changes, such as sign–signal or magic–magician.",
     "structuredExplanation": {
-      "summary": "It links both words to water.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "“life” is supported by the language evidence and purpose of the text.",
+      "hint": "Morphological analysis supports spelling even when pronunciation changes, such as sign–signal or magic–magician."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly09-t-007",
+    "id": "AC9E6LY09-T-004",
     "curriculumCode": "AC9E6LY09",
     "bank": "test",
-    "skill": "morphemes and word origins",
+    "stage": "verify",
+    "skill": "independent misconception check",
     "printable": true,
     "type": "single",
-    "question": "Test example: which word has a suffix that changes it into a noun?",
-    "audioPrompt": "Test example: which word has a suffix that changes it into a noun?",
+    "question": "A writer preparing a coastal-monitoring update says, “Every apparent string is a true morpheme”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a coastal-monitoring update says, “Every apparent string is a true morpheme”. Which response is most accurate?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +107,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Suffixes never change word class.",
-      "Reference sources are unnecessary for unfamiliar words.",
-      "movement",
-      "Guess from a prefix and ignore context."
+      "Root clue treated as full definition",
+      "Every apparent string is a true morpheme",
+      "Check word family and source.",
+      "Pronunciation change hides relationship"
     ],
     "correct": 2,
-    "explanation": "movement\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "Check word family and source. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
     "structuredExplanation": {
-      "summary": "movement",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "Check word family and source. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly09-t-008",
+    "id": "AC9E6LY09-T-005",
     "curriculumCode": "AC9E6LY09",
     "bank": "test",
-    "skill": "morphemes and word origins",
+    "stage": "verify",
+    "skill": "infer",
     "printable": true,
     "type": "single",
-    "question": "Test example: A reference source gives two meanings for a root. What should a reader do?",
-    "audioPrompt": "Test example: A reference source gives two meanings for a root. What should a reader do?",
+    "question": "A heritage trail guide includes “combine morpheme meanings”. Which description best fits this wording?",
+    "audioPrompt": "A heritage trail guide includes “combine morpheme meanings”. Which description best fits this wording?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,18 +137,348 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Reference sources are unnecessary for unfamiliar words.",
-      "Guess from a prefix and ignore context.",
-      "A root has exactly one meaning in every word.",
-      "Use the sentence context to choose the meaning that fits."
+      "bio",
+      "geo",
+      "spect",
+      "Infer"
     ],
     "correct": 3,
-    "explanation": "Use the sentence context to choose the meaning that fits.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "The wording best matches Infer.\nHint: Identify the language choice first, then check its effect in this context.",
     "structuredExplanation": {
-      "summary": "Use the sentence context to choose the meaning that fits.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "The wording best matches Infer.",
+      "hint": "Identify the language choice first, then check its effect in this context."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-T-006",
+    "curriculumCode": "AC9E6LY09",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "root",
+    "printable": true,
+    "type": "single",
+    "question": "In a public-transport survey, which term matches this meaning: “core historical or meaning element”?",
+    "audioPrompt": "In a public-transport survey, which term matches this meaning: “core historical or meaning element”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "root",
+      "etymology",
+      "morpheme",
+      "It does not match the evidence in the example."
+    ],
+    "correct": 0,
+    "explanation": "root is the precise term for core historical or meaning element.\nHint: Distinguish closely related terms by their definitions.",
+    "structuredExplanation": {
+      "summary": "root is the precise term for core historical or meaning element.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-T-007",
+    "curriculumCode": "AC9E6LY09",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "word origins morphemes and unfamiliar words",
+    "printable": true,
+    "type": "single",
+    "question": "For a festival review, what does the root bio commonly relate to?",
+    "audioPrompt": "For a festival review, what does the root bio commonly relate to?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "light",
+      "life",
+      "sound",
+      "distance"
+    ],
+    "correct": 1,
+    "explanation": "“life” is supported by the language evidence and purpose of the text.\nHint: Morphological analysis supports spelling even when pronunciation changes, such as sign–signal or magic–magician.",
+    "structuredExplanation": {
+      "summary": "“life” is supported by the language evidence and purpose of the text.",
+      "hint": "Morphological analysis supports spelling even when pronunciation changes, such as sign–signal or magic–magician."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-T-008",
+    "curriculumCode": "AC9E6LY09",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "independent misconception check",
+    "printable": true,
+    "type": "single",
+    "question": "A writer preparing a emergency-preparedness talk says, “Every apparent string is a true morpheme”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a emergency-preparedness talk says, “Every apparent string is a true morpheme”. Which response is most accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Root clue treated as full definition",
+      "Every apparent string is a true morpheme",
+      "Check word family and source.",
+      "Pronunciation change hides relationship"
+    ],
+    "correct": 2,
+    "explanation": "Check word family and source. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "structuredExplanation": {
+      "summary": "Check word family and source. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-T-009",
+    "curriculumCode": "AC9E6LY09",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "verify",
+    "printable": true,
+    "type": "single",
+    "question": "A water-saving brochure includes “dictionary or trusted subject source”. Which description best fits this wording?",
+    "audioPrompt": "A water-saving brochure includes “dictionary or trusted subject source”. Which description best fits this wording?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "bio",
+      "geo",
+      "spect",
+      "Verify"
+    ],
+    "correct": 3,
+    "explanation": "The wording best matches Verify.\nHint: Identify the language choice first, then check its effect in this context.",
+    "structuredExplanation": {
+      "summary": "The wording best matches Verify.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-T-010",
+    "curriculumCode": "AC9E6LY09",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "morpheme",
+    "printable": true,
+    "type": "single",
+    "question": "In a local council submission, which term matches this meaning: “smallest meaningful language unit”?",
+    "audioPrompt": "In a local council submission, which term matches this meaning: “smallest meaningful language unit”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "morpheme",
+      "etymology",
+      "root",
+      "It does not match the evidence in the example."
+    ],
+    "correct": 0,
+    "explanation": "morpheme is the precise term for smallest meaningful language unit.\nHint: Distinguish closely related terms by their definitions.",
+    "structuredExplanation": {
+      "summary": "morpheme is the precise term for smallest meaningful language unit.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-T-011",
+    "curriculumCode": "AC9E6LY09",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "word origins morphemes and unfamiliar words",
+    "printable": true,
+    "type": "single",
+    "question": "For a marine-research diary, what does the root bio commonly relate to?",
+    "audioPrompt": "For a marine-research diary, what does the root bio commonly relate to?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "light",
+      "life",
+      "sound",
+      "distance"
+    ],
+    "correct": 1,
+    "explanation": "“life” is supported by the language evidence and purpose of the text.\nHint: Morphological analysis supports spelling even when pronunciation changes, such as sign–signal or magic–magician.",
+    "structuredExplanation": {
+      "summary": "“life” is supported by the language evidence and purpose of the text.",
+      "hint": "Morphological analysis supports spelling even when pronunciation changes, such as sign–signal or magic–magician."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-T-012",
+    "curriculumCode": "AC9E6LY09",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent misconception check",
+    "printable": true,
+    "type": "single",
+    "question": "A writer preparing a farmers market profile says, “Every apparent string is a true morpheme”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a farmers market profile says, “Every apparent string is a true morpheme”. Which response is most accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Root clue treated as full definition",
+      "Every apparent string is a true morpheme",
+      "Check word family and source.",
+      "Pronunciation change hides relationship"
+    ],
+    "correct": 2,
+    "explanation": "Check word family and source. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "structuredExplanation": {
+      "summary": "Check word family and source. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-T-013",
+    "curriculumCode": "AC9E6LY09",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "read context",
+    "printable": true,
+    "type": "single",
+    "question": "A astronomy exhibition includes “does meaning fit?”. Which description best fits this wording?",
+    "audioPrompt": "A astronomy exhibition includes “does meaning fit?”. Which description best fits this wording?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "bio",
+      "geo",
+      "spect",
+      "Read context"
+    ],
+    "correct": 3,
+    "explanation": "The wording best matches Read context.\nHint: Identify the language choice first, then check its effect in this context.",
+    "structuredExplanation": {
+      "summary": "The wording best matches Read context.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-T-014",
+    "curriculumCode": "AC9E6LY09",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "etymology",
+    "printable": true,
+    "type": "single",
+    "question": "In a river-restoration update, which term matches this meaning: “history and origin of a word”?",
+    "audioPrompt": "In a river-restoration update, which term matches this meaning: “history and origin of a word”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "etymology",
+      "root",
+      "morpheme",
+      "It does not match the evidence in the example."
+    ],
+    "correct": 0,
+    "explanation": "etymology is the precise term for history and origin of a word.\nHint: Distinguish closely related terms by their definitions.",
+    "structuredExplanation": {
+      "summary": "etymology is the precise term for history and origin of a word.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-T-015",
+    "curriculumCode": "AC9E6LY09",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "word origins morphemes and unfamiliar words",
+    "printable": true,
+    "type": "single",
+    "question": "For a cycling-safety campaign, what does the root bio commonly relate to?",
+    "audioPrompt": "For a cycling-safety campaign, what does the root bio commonly relate to?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "light",
+      "life",
+      "sound",
+      "distance"
+    ],
+    "correct": 1,
+    "explanation": "“life” is supported by the language evidence and purpose of the text.\nHint: Morphological analysis supports spelling even when pronunciation changes, such as sign–signal or magic–magician.",
+    "structuredExplanation": {
+      "summary": "“life” is supported by the language evidence and purpose of the text.",
+      "hint": "Morphological analysis supports spelling even when pronunciation changes, such as sign–signal or magic–magician."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-T-016",
+    "curriculumCode": "AC9E6LY09",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent misconception check",
+    "printable": true,
+    "type": "single",
+    "question": "A writer preparing a neighbourhood history podcast says, “Every apparent string is a true morpheme”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a neighbourhood history podcast says, “Every apparent string is a true morpheme”. Which response is most accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Root clue treated as full definition",
+      "Every apparent string is a true morpheme",
+      "Check word family and source.",
+      "Pronunciation change hides relationship"
+    ],
+    "correct": 2,
+    "explanation": "Check word family and source. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "structuredExplanation": {
+      "summary": "Check word family and source. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "qualitySchema": "skillr-authored-v1"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

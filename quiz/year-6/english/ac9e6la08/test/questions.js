@@ -1,14 +1,15 @@
 "use strict";
 window.skillrTestQuestions = [
   {
-    "id": "ac9e6la08-t-001",
+    "id": "AC9E6LA08-T-001",
     "curriculumCode": "AC9E6LA08",
     "bank": "test",
-    "skill": "vocabulary effects",
+    "stage": "verify",
+    "skill": "determined",
     "printable": true,
     "type": "single",
-    "question": "Test example: phrase creates the strongest image of quiet movement?",
-    "audioPrompt": "Test example: phrase creates the strongest image of quiet movement?",
+    "question": "A community radio segment includes “positive persistence”. Which description best fits this wording?",
+    "audioPrompt": "A community radio segment includes “positive persistence”. Which description best fits this wording?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,28 +17,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The cat slipped silently through the grass.",
-      "The word choice has no effect on mood.",
-      "Figurative language must be explained as literal fact.",
-      "The strongest word is always the longest one."
+      "determined",
+      "The city was a furnace.",
+      "Roads were glowing veins.",
+      "The sun hammered the roofs."
     ],
     "correct": 0,
-    "explanation": "The cat slipped silently through the grass.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "The wording best matches determined.\nHint: Identify the language choice first, then check its effect in this context.",
     "structuredExplanation": {
-      "summary": "The cat slipped silently through the grass.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "The wording best matches determined.",
+      "hint": "Identify the language choice first, then check its effect in this context."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la08-t-002",
+    "id": "AC9E6LA08-T-002",
     "curriculumCode": "AC9E6LA08",
     "bank": "test",
-    "skill": "vocabulary effects",
+    "stage": "verify",
+    "skill": "metaphor",
     "printable": true,
     "type": "single",
-    "question": "Test example: In The crowd erupted, what effect does erupted create?",
-    "audioPrompt": "Test example: In The crowd erupted, what effect does erupted create?",
+    "question": "In a wildlife-centre report, which term matches this meaning: “conceptual comparison describing one thing as another”?",
+    "audioPrompt": "In a wildlife-centre report, which term matches this meaning: “conceptual comparison describing one thing as another”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,28 +47,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Figurative language must be explained as literal fact.",
-      "It suggests sudden, powerful noise or movement.",
-      "The strongest word is always the longest one.",
-      "Vivid vocabulary means adding many adjectives."
+      "personification",
+      "metaphor",
+      "connotation",
+      "It does not match the evidence in the example."
     ],
     "correct": 1,
-    "explanation": "It suggests sudden, powerful noise or movement.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "metaphor is the precise term for conceptual comparison describing one thing as another.\nHint: Distinguish closely related terms by their definitions.",
     "structuredExplanation": {
-      "summary": "It suggests sudden, powerful noise or movement.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "metaphor is the precise term for conceptual comparison describing one thing as another.",
+      "hint": "Distinguish closely related terms by their definitions."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la08-t-003",
+    "id": "AC9E6LA08-T-003",
     "curriculumCode": "AC9E6LA08",
     "bank": "test",
-    "skill": "vocabulary effects",
+    "stage": "verify",
+    "skill": "vivid and emotive vocabulary",
     "printable": true,
     "type": "single",
-    "question": "Test example: which word is most emotive in The abandoned puppy trembled beside the gate?",
-    "audioPrompt": "Test example: which word is most emotive in The abandoned puppy trembled beside the gate?",
+    "question": "For a regional youth forum, which sentence uses metaphor?",
+    "audioPrompt": "For a regional youth forum, which sentence uses metaphor?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,28 +77,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The strongest word is always the longest one.",
-      "Vivid vocabulary means adding many adjectives.",
-      "abandoned",
-      "The word choice has no effect on mood."
+      "The city temperature was 39°C.",
+      "The city had roads.",
+      "The city was a furnace.",
+      "The city is large."
     ],
     "correct": 2,
-    "explanation": "abandoned\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "“The city was a furnace.” is supported by the language evidence and purpose of the text.\nHint: Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label.",
     "structuredExplanation": {
-      "summary": "abandoned",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "“The city was a furnace.” is supported by the language evidence and purpose of the text.",
+      "hint": "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la08-t-004",
+    "id": "AC9E6LA08-T-004",
     "curriculumCode": "AC9E6LA08",
     "bank": "test",
-    "skill": "vocabulary effects",
+    "stage": "verify",
+    "skill": "independent misconception check",
     "printable": true,
     "type": "single",
-    "question": "Test example: Which sentence uses figurative language effectively?",
-    "audioPrompt": "Test example: Which sentence uses figurative language effectively?",
+    "question": "A writer preparing a coastal-monitoring update says, “All vivid language is positive”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a coastal-monitoring update says, “All vivid language is positive”. Which response is most accurate?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,28 +107,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Vivid vocabulary means adding many adjectives.",
-      "The word choice has no effect on mood.",
-      "Figurative language must be explained as literal fact.",
-      "The moon hung like a silver coin above the oval."
+      "Device name treated as analysis",
+      "All vivid language is positive",
+      "Mixed metaphors ignored",
+      "Connotation can threaten, praise or ridicule."
     ],
     "correct": 3,
-    "explanation": "The moon hung like a silver coin above the oval.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "Connotation can threaten, praise or ridicule. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
     "structuredExplanation": {
-      "summary": "The moon hung like a silver coin above the oval.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "Connotation can threaten, praise or ridicule. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la08-t-005",
+    "id": "AC9E6LA08-T-005",
     "curriculumCode": "AC9E6LA08",
     "bank": "test",
-    "skill": "vocabulary effects",
+    "stage": "verify",
+    "skill": "determined",
     "printable": true,
     "type": "single",
-    "question": "Test example: is tiny cottage different from cramped cottage?",
-    "audioPrompt": "Test example: is tiny cottage different from cramped cottage?",
+    "question": "A heritage trail guide includes “positive persistence”. Which description best fits this wording?",
+    "audioPrompt": "A heritage trail guide includes “positive persistence”. Which description best fits this wording?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +137,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Tiny can sound gentle or small; cramped suggests uncomfortable lack of space.",
-      "The word choice has no effect on mood.",
-      "Figurative language must be explained as literal fact.",
-      "The strongest word is always the longest one."
+      "determined",
+      "The city was a furnace.",
+      "Roads were glowing veins.",
+      "The sun hammered the roofs."
     ],
     "correct": 0,
-    "explanation": "Tiny can sound gentle or small; cramped suggests uncomfortable lack of space.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "The wording best matches determined.\nHint: Identify the language choice first, then check its effect in this context.",
     "structuredExplanation": {
-      "summary": "Tiny can sound gentle or small; cramped suggests uncomfortable lack of space.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "The wording best matches determined.",
+      "hint": "Identify the language choice first, then check its effect in this context."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la08-t-006",
+    "id": "AC9E6LA08-T-006",
     "curriculumCode": "AC9E6LA08",
     "bank": "test",
-    "skill": "vocabulary effects",
+    "stage": "verify",
+    "skill": "personification",
     "printable": true,
     "type": "single",
-    "question": "Test example: which word choice would suit a calm factual report?",
-    "audioPrompt": "Test example: which word choice would suit a calm factual report?",
+    "question": "In a public-transport survey, which term matches this meaning: “human qualities assigned to non-human entities”?",
+    "audioPrompt": "In a public-transport survey, which term matches this meaning: “human qualities assigned to non-human entities”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +167,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Figurative language must be explained as literal fact.",
-      "The storm damaged three houses.",
-      "The strongest word is always the longest one.",
-      "Vivid vocabulary means adding many adjectives."
+      "metaphor",
+      "personification",
+      "connotation",
+      "It does not match the evidence in the example."
     ],
     "correct": 1,
-    "explanation": "The storm damaged three houses.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "personification is the precise term for human qualities assigned to non-human entities.\nHint: Distinguish closely related terms by their definitions.",
     "structuredExplanation": {
-      "summary": "The storm damaged three houses.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "personification is the precise term for human qualities assigned to non-human entities.",
+      "hint": "Distinguish closely related terms by their definitions."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la08-t-007",
+    "id": "AC9E6LA08-T-007",
     "curriculumCode": "AC9E6LA08",
     "bank": "test",
-    "skill": "vocabulary effects",
+    "stage": "verify",
+    "skill": "vivid and emotive vocabulary",
     "printable": true,
     "type": "single",
-    "question": "Test example: describes clouds as bruised purple. What mood is suggested?",
-    "audioPrompt": "Test example: describes clouds as bruised purple. What mood is suggested?",
+    "question": "For a festival review, which sentence uses metaphor?",
+    "audioPrompt": "For a festival review, which sentence uses metaphor?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +197,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The strongest word is always the longest one.",
-      "Vivid vocabulary means adding many adjectives.",
-      "A gloomy or uneasy mood.",
-      "The word choice has no effect on mood."
+      "The city temperature was 39°C.",
+      "The city had roads.",
+      "The city was a furnace.",
+      "The city is large."
     ],
     "correct": 2,
-    "explanation": "A gloomy or uneasy mood.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "“The city was a furnace.” is supported by the language evidence and purpose of the text.\nHint: Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label.",
     "structuredExplanation": {
-      "summary": "A gloomy or uneasy mood.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "“The city was a furnace.” is supported by the language evidence and purpose of the text.",
+      "hint": "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la08-t-008",
+    "id": "AC9E6LA08-T-008",
     "curriculumCode": "AC9E6LA08",
     "bank": "test",
-    "skill": "vocabulary effects",
+    "stage": "verify",
+    "skill": "independent misconception check",
     "printable": true,
     "type": "single",
-    "question": "Test example: revision replaces vague vocabulary with vivid detail?",
-    "audioPrompt": "Test example: revision replaces vague vocabulary with vivid detail?",
+    "question": "A writer preparing a emergency-preparedness talk says, “All vivid language is positive”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a emergency-preparedness talk says, “All vivid language is positive”. Which response is most accurate?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,18 +227,258 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Vivid vocabulary means adding many adjectives.",
-      "The word choice has no effect on mood.",
-      "Figurative language must be explained as literal fact.",
-      "The bus rattled over the loose gravel."
+      "Device name treated as analysis",
+      "All vivid language is positive",
+      "Mixed metaphors ignored",
+      "Connotation can threaten, praise or ridicule."
     ],
     "correct": 3,
-    "explanation": "The bus rattled over the loose gravel.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "Connotation can threaten, praise or ridicule. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
     "structuredExplanation": {
-      "summary": "The bus rattled over the loose gravel.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "Connotation can threaten, praise or ridicule. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-T-009",
+    "curriculumCode": "AC9E6LA08",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "determined",
+    "printable": true,
+    "type": "single",
+    "question": "A water-saving brochure includes “positive persistence”. Which description best fits this wording?",
+    "audioPrompt": "A water-saving brochure includes “positive persistence”. Which description best fits this wording?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "determined",
+      "The city was a furnace.",
+      "Roads were glowing veins.",
+      "The sun hammered the roofs."
+    ],
+    "correct": 0,
+    "explanation": "The wording best matches determined.\nHint: Identify the language choice first, then check its effect in this context.",
+    "structuredExplanation": {
+      "summary": "The wording best matches determined.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-T-010",
+    "curriculumCode": "AC9E6LA08",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "connotation",
+    "printable": true,
+    "type": "single",
+    "question": "In a local council submission, which term matches this meaning: “associated emotion or cultural meaning”?",
+    "audioPrompt": "In a local council submission, which term matches this meaning: “associated emotion or cultural meaning”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "metaphor",
+      "connotation",
+      "personification",
+      "It does not match the evidence in the example."
+    ],
+    "correct": 1,
+    "explanation": "connotation is the precise term for associated emotion or cultural meaning.\nHint: Distinguish closely related terms by their definitions.",
+    "structuredExplanation": {
+      "summary": "connotation is the precise term for associated emotion or cultural meaning.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-T-011",
+    "curriculumCode": "AC9E6LA08",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "vivid and emotive vocabulary",
+    "printable": true,
+    "type": "single",
+    "question": "For a marine-research diary, which sentence uses metaphor?",
+    "audioPrompt": "For a marine-research diary, which sentence uses metaphor?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The city temperature was 39°C.",
+      "The city had roads.",
+      "The city was a furnace.",
+      "The city is large."
+    ],
+    "correct": 2,
+    "explanation": "“The city was a furnace.” is supported by the language evidence and purpose of the text.\nHint: Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label.",
+    "structuredExplanation": {
+      "summary": "“The city was a furnace.” is supported by the language evidence and purpose of the text.",
+      "hint": "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-T-012",
+    "curriculumCode": "AC9E6LA08",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent misconception check",
+    "printable": true,
+    "type": "single",
+    "question": "A writer preparing a farmers market profile says, “All vivid language is positive”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a farmers market profile says, “All vivid language is positive”. Which response is most accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Device name treated as analysis",
+      "All vivid language is positive",
+      "Mixed metaphors ignored",
+      "Connotation can threaten, praise or ridicule."
+    ],
+    "correct": 3,
+    "explanation": "Connotation can threaten, praise or ridicule. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "structuredExplanation": {
+      "summary": "Connotation can threaten, praise or ridicule. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-T-013",
+    "curriculumCode": "AC9E6LA08",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "determined",
+    "printable": true,
+    "type": "single",
+    "question": "A astronomy exhibition includes “positive persistence”. Which description best fits this wording?",
+    "audioPrompt": "A astronomy exhibition includes “positive persistence”. Which description best fits this wording?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "determined",
+      "The city was a furnace.",
+      "Roads were glowing veins.",
+      "The sun hammered the roofs."
+    ],
+    "correct": 0,
+    "explanation": "The wording best matches determined.\nHint: Identify the language choice first, then check its effect in this context.",
+    "structuredExplanation": {
+      "summary": "The wording best matches determined.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-T-014",
+    "curriculumCode": "AC9E6LA08",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "metaphor",
+    "printable": true,
+    "type": "single",
+    "question": "In a river-restoration update, which term matches this meaning: “conceptual comparison describing one thing as another”?",
+    "audioPrompt": "In a river-restoration update, which term matches this meaning: “conceptual comparison describing one thing as another”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "personification",
+      "metaphor",
+      "connotation",
+      "It does not match the evidence in the example."
+    ],
+    "correct": 1,
+    "explanation": "metaphor is the precise term for conceptual comparison describing one thing as another.\nHint: Distinguish closely related terms by their definitions.",
+    "structuredExplanation": {
+      "summary": "metaphor is the precise term for conceptual comparison describing one thing as another.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-T-015",
+    "curriculumCode": "AC9E6LA08",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "vivid and emotive vocabulary",
+    "printable": true,
+    "type": "single",
+    "question": "For a cycling-safety campaign, which sentence uses metaphor?",
+    "audioPrompt": "For a cycling-safety campaign, which sentence uses metaphor?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The city temperature was 39°C.",
+      "The city had roads.",
+      "The city was a furnace.",
+      "The city is large."
+    ],
+    "correct": 2,
+    "explanation": "“The city was a furnace.” is supported by the language evidence and purpose of the text.\nHint: Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label.",
+    "structuredExplanation": {
+      "summary": "“The city was a furnace.” is supported by the language evidence and purpose of the text.",
+      "hint": "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-T-016",
+    "curriculumCode": "AC9E6LA08",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent misconception check",
+    "printable": true,
+    "type": "single",
+    "question": "A writer preparing a neighbourhood history podcast says, “All vivid language is positive”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a neighbourhood history podcast says, “All vivid language is positive”. Which response is most accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Device name treated as analysis",
+      "All vivid language is positive",
+      "Mixed metaphors ignored",
+      "Connotation can threaten, praise or ridicule."
+    ],
+    "correct": 3,
+    "explanation": "Connotation can threaten, praise or ridicule. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "structuredExplanation": {
+      "summary": "Connotation can threaten, praise or ridicule. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "qualitySchema": "skillr-authored-v1"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

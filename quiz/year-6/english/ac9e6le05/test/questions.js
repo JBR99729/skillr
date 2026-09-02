@@ -1,14 +1,15 @@
 "use strict";
 window.skillrTestQuestions = [
   {
-    "id": "ac9e6le05-t-001",
+    "id": "AC9E6LE05-T-001",
     "curriculumCode": "AC9E6LE05",
     "bank": "test",
-    "skill": "adaptation craft",
+    "stage": "verify",
+    "skill": "make setting active",
     "printable": true,
     "type": "single",
-    "question": "Test example: borrows the idea of a locked door from a mystery but sets it in a space station. What must change?",
-    "audioPrompt": "Test example: borrows the idea of a locked door from a mystery but sets it in a space station. What must change?",
+    "question": "A community radio segment includes “make setting active”. Which description best fits this wording?",
+    "audioPrompt": "A community radio segment includes “make setting active”. Which description best fits this wording?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,86 +17,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The details, causes and consequences must fit the new setting.",
-      "Copy the original plot exactly.",
-      "Change the setting but ignore motivation.",
-      "Add random events without cause and effect."
-    ],
-    "correct": 0,
-    "explanation": "The details, causes and consequences must fit the new setting.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
-    "structuredExplanation": {
-      "summary": "The details, causes and consequences must fit the new setting.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
-    },
-    "qualitySchema": "student-facing-v2"
-  },
-  {
-    "id": "ac9e6le05-t-002",
-    "curriculumCode": "AC9E6LE05",
-    "bank": "test",
-    "skill": "adaptation craft",
-    "printable": true,
-    "type": "single",
-    "question": "Test example: adaptation keeps a character motivation clear?",
-    "audioPrompt": "Test example: adaptation keeps a character motivation clear?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Change the setting but ignore motivation.",
-      "A shy character enters the debate because their friend is being blamed unfairly.",
-      "Add random events without cause and effect.",
-      "Keep style and purpose disconnected."
-    ],
-    "correct": 1,
-    "explanation": "A shy character enters the debate because their friend is being blamed unfairly.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
-    "structuredExplanation": {
-      "summary": "A shy character enters the debate because their friend is being blamed unfairly.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
-    },
-    "qualitySchema": "student-facing-v2"
-  },
-  {
-    "id": "ac9e6le05-t-003",
-    "curriculumCode": "AC9E6LE05",
-    "bank": "test",
-    "skill": "adaptation craft",
-    "printable": true,
-    "type": "single",
-    "question": "Test example: is copying a whole plot not strong adaptation?",
-    "audioPrompt": "Test example: is copying a whole plot not strong adaptation?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Add random events without cause and effect.",
-      "Keep style and purpose disconnected.",
-      "Adaptation should transform techniques for a new purpose, not simply repeat them.",
-      "Copy the original plot exactly."
+      "begin at climax",
+      "unreliable first person",
+      "make setting active",
+      "recurring key motif"
     ],
     "correct": 2,
-    "explanation": "Adaptation should transform techniques for a new purpose, not simply repeat them.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "The wording best matches make setting active.\nHint: Identify the language choice first, then check its effect in this context.",
     "structuredExplanation": {
-      "summary": "Adaptation should transform techniques for a new purpose, not simply repeat them.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "The wording best matches make setting active.",
+      "hint": "Identify the language choice first, then check its effect in this context."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6le05-t-004",
+    "id": "AC9E6LE05-T-002",
     "curriculumCode": "AC9E6LE05",
     "bank": "test",
-    "skill": "adaptation craft",
+    "stage": "verify",
+    "skill": "adaptation",
     "printable": true,
     "type": "single",
-    "question": "Test example: setting detail creates pressure on the character?",
-    "audioPrompt": "Test example: setting detail creates pressure on the character?",
+    "question": "In a wildlife-centre report, which term matches this meaning: “transformation of source techniques into a new text”?",
+    "audioPrompt": "In a wildlife-centre report, which term matches this meaning: “transformation of source techniques into a new text”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,28 +47,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Keep style and purpose disconnected.",
-      "Copy the original plot exactly.",
-      "Change the setting but ignore motivation.",
-      "The oxygen warning flashes with ten minutes remaining."
+      "character motivation",
+      "plot causality",
+      "It does not match the evidence in the example.",
+      "adaptation"
     ],
     "correct": 3,
-    "explanation": "The oxygen warning flashes with ten minutes remaining.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "adaptation is the precise term for transformation of source techniques into a new text.\nHint: Distinguish closely related terms by their definitions.",
     "structuredExplanation": {
-      "summary": "The oxygen warning flashes with ten minutes remaining.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "adaptation is the precise term for transformation of source techniques into a new text.",
+      "hint": "Distinguish closely related terms by their definitions."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6le05-t-005",
+    "id": "AC9E6LE05-T-003",
     "curriculumCode": "AC9E6LE05",
     "bank": "test",
-    "skill": "adaptation craft",
+    "stage": "verify",
+    "skill": "adapting plot character setting and style",
     "printable": true,
     "type": "single",
-    "question": "Test example: changes a fairy tale into a school election story. What should stay coherent?",
-    "audioPrompt": "Test example: changes a fairy tale into a school election story. What should stay coherent?",
+    "question": "For a regional youth forum, which approach is genuine adaptation?",
+    "audioPrompt": "For a regional youth forum, which approach is genuine adaptation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +77,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The conflict, character choices and ending should make sense in the new context.",
-      "Copy the original plot exactly.",
-      "Change the setting but ignore motivation.",
-      "Add random events without cause and effect."
+      "Use the mentor text’s suspense structure with new events, setting and characters",
+      "Copy the plot and change names",
+      "Repeat exact descriptions",
+      "Keep the same ending unchanged"
     ],
     "correct": 0,
-    "explanation": "The conflict, character choices and ending should make sense in the new context.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "“Use the mentor text’s suspense structure with new events, setting and characters” is supported by the language evidence and purpose of the text.\nHint: Revision changes meaning and structure; proofreading follows. Attractive details that do not support the design may need removal.",
     "structuredExplanation": {
-      "summary": "The conflict, character choices and ending should make sense in the new context.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "“Use the mentor text’s suspense structure with new events, setting and characters” is supported by the language evidence and purpose of the text.",
+      "hint": "Revision changes meaning and structure; proofreading follows. Attractive details that do not support the design may need removal."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6le05-t-006",
+    "id": "AC9E6LE05-T-004",
     "curriculumCode": "AC9E6LE05",
     "bank": "test",
-    "skill": "adaptation craft",
+    "stage": "verify",
+    "skill": "independent misconception check",
     "printable": true,
     "type": "single",
-    "question": "Test example: revision improves cause and effect?",
-    "audioPrompt": "Test example: revision improves cause and effect?",
+    "question": "A writer preparing a coastal-monitoring update says, “Twist has no preparation”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a coastal-monitoring update says, “Twist has no preparation”. Which response is most accurate?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +107,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Change the setting but ignore motivation.",
-      "Because the key is missing, Talia searches the old office before the deadline.",
-      "Add random events without cause and effect.",
-      "Keep style and purpose disconnected."
+      "Adaptation copies story with renamed characters",
+      "Use foreshadowing and causal logic.",
+      "Twist has no preparation",
+      "Setting is decorative"
     ],
     "correct": 1,
-    "explanation": "Because the key is missing, Talia searches the old office before the deadline.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "Use foreshadowing and causal logic. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
     "structuredExplanation": {
-      "summary": "Because the key is missing, Talia searches the old office before the deadline.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "Use foreshadowing and causal logic. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6le05-t-007",
+    "id": "AC9E6LE05-T-005",
     "curriculumCode": "AC9E6LE05",
     "bank": "test",
-    "skill": "adaptation craft",
+    "stage": "verify",
+    "skill": "edit cohesion and conventions",
     "printable": true,
     "type": "single",
-    "question": "Test example: which choice adapts style rather than plot?",
-    "audioPrompt": "Test example: which choice adapts style rather than plot?",
+    "question": "A heritage trail guide includes “edit cohesion and conventions”. Which description best fits this wording?",
+    "audioPrompt": "A heritage trail guide includes “edit cohesion and conventions”. Which description best fits this wording?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +137,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Add random events without cause and effect.",
-      "Keep style and purpose disconnected.",
-      "Keeping the original author’s playful exaggeration while using a new event.",
-      "Copy the original plot exactly."
+      "begin at climax",
+      "unreliable first person",
+      "edit cohesion and conventions",
+      "recurring key motif"
     ],
     "correct": 2,
-    "explanation": "Keeping the original author’s playful exaggeration while using a new event.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "The wording best matches edit cohesion and conventions.\nHint: Identify the language choice first, then check its effect in this context.",
     "structuredExplanation": {
-      "summary": "Keeping the original author’s playful exaggeration while using a new event.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "The wording best matches edit cohesion and conventions.",
+      "hint": "Identify the language choice first, then check its effect in this context."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6le05-t-008",
+    "id": "AC9E6LE05-T-006",
     "curriculumCode": "AC9E6LE05",
     "bank": "test",
-    "skill": "adaptation craft",
+    "stage": "verify",
+    "skill": "character motivation",
     "printable": true,
     "type": "single",
-    "question": "Test example: What is the best check after adapting a scene?",
-    "audioPrompt": "Test example: What is the best check after adapting a scene?",
+    "question": "In a public-transport survey, which term matches this meaning: “goal, belief or need driving choices”?",
+    "audioPrompt": "In a public-transport survey, which term matches this meaning: “goal, belief or need driving choices”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,18 +167,318 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Keep style and purpose disconnected.",
-      "Copy the original plot exactly.",
-      "Change the setting but ignore motivation.",
-      "Check whether motivation, setting and language choices work together."
+      "adaptation",
+      "plot causality",
+      "It does not match the evidence in the example.",
+      "character motivation"
     ],
     "correct": 3,
-    "explanation": "Check whether motivation, setting and language choices work together.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "character motivation is the precise term for goal, belief or need driving choices.\nHint: Distinguish closely related terms by their definitions.",
     "structuredExplanation": {
-      "summary": "Check whether motivation, setting and language choices work together.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "character motivation is the precise term for goal, belief or need driving choices.",
+      "hint": "Distinguish closely related terms by their definitions."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LE05-T-007",
+    "curriculumCode": "AC9E6LE05",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "adapting plot character setting and style",
+    "printable": true,
+    "type": "single",
+    "question": "For a festival review, which approach is genuine adaptation?",
+    "audioPrompt": "For a festival review, which approach is genuine adaptation?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Use the mentor text’s suspense structure with new events, setting and characters",
+      "Copy the plot and change names",
+      "Repeat exact descriptions",
+      "Keep the same ending unchanged"
+    ],
+    "correct": 0,
+    "explanation": "“Use the mentor text’s suspense structure with new events, setting and characters” is supported by the language evidence and purpose of the text.\nHint: Revision changes meaning and structure; proofreading follows. Attractive details that do not support the design may need removal.",
+    "structuredExplanation": {
+      "summary": "“Use the mentor text’s suspense structure with new events, setting and characters” is supported by the language evidence and purpose of the text.",
+      "hint": "Revision changes meaning and structure; proofreading follows. Attractive details that do not support the design may need removal."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LE05-T-008",
+    "curriculumCode": "AC9E6LE05",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "independent misconception check",
+    "printable": true,
+    "type": "single",
+    "question": "A writer preparing a emergency-preparedness talk says, “Twist has no preparation”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a emergency-preparedness talk says, “Twist has no preparation”. Which response is most accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Adaptation copies story with renamed characters",
+      "Use foreshadowing and causal logic.",
+      "Twist has no preparation",
+      "Setting is decorative"
+    ],
+    "correct": 1,
+    "explanation": "Use foreshadowing and causal logic. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "structuredExplanation": {
+      "summary": "Use foreshadowing and causal logic. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LE05-T-009",
+    "curriculumCode": "AC9E6LE05",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "control viewpoint",
+    "printable": true,
+    "type": "single",
+    "question": "A water-saving brochure includes “control viewpoint”. Which description best fits this wording?",
+    "audioPrompt": "A water-saving brochure includes “control viewpoint”. Which description best fits this wording?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "begin at climax",
+      "unreliable first person",
+      "control viewpoint",
+      "recurring key motif"
+    ],
+    "correct": 2,
+    "explanation": "The wording best matches control viewpoint.\nHint: Identify the language choice first, then check its effect in this context.",
+    "structuredExplanation": {
+      "summary": "The wording best matches control viewpoint.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LE05-T-010",
+    "curriculumCode": "AC9E6LE05",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "plot causality",
+    "printable": true,
+    "type": "single",
+    "question": "In a local council submission, which term matches this meaning: “relationship where events and decisions create consequences”?",
+    "audioPrompt": "In a local council submission, which term matches this meaning: “relationship where events and decisions create consequences”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "adaptation",
+      "character motivation",
+      "It does not match the evidence in the example.",
+      "plot causality"
+    ],
+    "correct": 3,
+    "explanation": "plot causality is the precise term for relationship where events and decisions create consequences.\nHint: Distinguish closely related terms by their definitions.",
+    "structuredExplanation": {
+      "summary": "plot causality is the precise term for relationship where events and decisions create consequences.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LE05-T-011",
+    "curriculumCode": "AC9E6LE05",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "adapting plot character setting and style",
+    "printable": true,
+    "type": "single",
+    "question": "For a marine-research diary, which approach is genuine adaptation?",
+    "audioPrompt": "For a marine-research diary, which approach is genuine adaptation?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Use the mentor text’s suspense structure with new events, setting and characters",
+      "Copy the plot and change names",
+      "Repeat exact descriptions",
+      "Keep the same ending unchanged"
+    ],
+    "correct": 0,
+    "explanation": "“Use the mentor text’s suspense structure with new events, setting and characters” is supported by the language evidence and purpose of the text.\nHint: Revision changes meaning and structure; proofreading follows. Attractive details that do not support the design may need removal.",
+    "structuredExplanation": {
+      "summary": "“Use the mentor text’s suspense structure with new events, setting and characters” is supported by the language evidence and purpose of the text.",
+      "hint": "Revision changes meaning and structure; proofreading follows. Attractive details that do not support the design may need removal."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LE05-T-012",
+    "curriculumCode": "AC9E6LE05",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent misconception check",
+    "printable": true,
+    "type": "single",
+    "question": "A writer preparing a farmers market profile says, “Twist has no preparation”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a farmers market profile says, “Twist has no preparation”. Which response is most accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Adaptation copies story with renamed characters",
+      "Use foreshadowing and causal logic.",
+      "Twist has no preparation",
+      "Setting is decorative"
+    ],
+    "correct": 1,
+    "explanation": "Use foreshadowing and causal logic. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "structuredExplanation": {
+      "summary": "Use foreshadowing and causal logic. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LE05-T-013",
+    "curriculumCode": "AC9E6LE05",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "test plot causality",
+    "printable": true,
+    "type": "single",
+    "question": "A astronomy exhibition includes “test plot causality”. Which description best fits this wording?",
+    "audioPrompt": "A astronomy exhibition includes “test plot causality”. Which description best fits this wording?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "begin at climax",
+      "unreliable first person",
+      "test plot causality",
+      "recurring key motif"
+    ],
+    "correct": 2,
+    "explanation": "The wording best matches test plot causality.\nHint: Identify the language choice first, then check its effect in this context.",
+    "structuredExplanation": {
+      "summary": "The wording best matches test plot causality.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LE05-T-014",
+    "curriculumCode": "AC9E6LE05",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "adaptation",
+    "printable": true,
+    "type": "single",
+    "question": "In a river-restoration update, which term matches this meaning: “transformation of source techniques into a new text”?",
+    "audioPrompt": "In a river-restoration update, which term matches this meaning: “transformation of source techniques into a new text”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "character motivation",
+      "plot causality",
+      "It does not match the evidence in the example.",
+      "adaptation"
+    ],
+    "correct": 3,
+    "explanation": "adaptation is the precise term for transformation of source techniques into a new text.\nHint: Distinguish closely related terms by their definitions.",
+    "structuredExplanation": {
+      "summary": "adaptation is the precise term for transformation of source techniques into a new text.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LE05-T-015",
+    "curriculumCode": "AC9E6LE05",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "adapting plot character setting and style",
+    "printable": true,
+    "type": "single",
+    "question": "For a cycling-safety campaign, which approach is genuine adaptation?",
+    "audioPrompt": "For a cycling-safety campaign, which approach is genuine adaptation?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Use the mentor text’s suspense structure with new events, setting and characters",
+      "Copy the plot and change names",
+      "Repeat exact descriptions",
+      "Keep the same ending unchanged"
+    ],
+    "correct": 0,
+    "explanation": "“Use the mentor text’s suspense structure with new events, setting and characters” is supported by the language evidence and purpose of the text.\nHint: Revision changes meaning and structure; proofreading follows. Attractive details that do not support the design may need removal.",
+    "structuredExplanation": {
+      "summary": "“Use the mentor text’s suspense structure with new events, setting and characters” is supported by the language evidence and purpose of the text.",
+      "hint": "Revision changes meaning and structure; proofreading follows. Attractive details that do not support the design may need removal."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LE05-T-016",
+    "curriculumCode": "AC9E6LE05",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent misconception check",
+    "printable": true,
+    "type": "single",
+    "question": "A writer preparing a neighbourhood history podcast says, “Twist has no preparation”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a neighbourhood history podcast says, “Twist has no preparation”. Which response is most accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Adaptation copies story with renamed characters",
+      "Use foreshadowing and causal logic.",
+      "Twist has no preparation",
+      "Setting is decorative"
+    ],
+    "correct": 1,
+    "explanation": "Use foreshadowing and causal logic. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "structuredExplanation": {
+      "summary": "Use foreshadowing and causal logic. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "qualitySchema": "skillr-authored-v1"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

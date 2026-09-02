@@ -1,14 +1,15 @@
 "use strict";
 window.skillrTestQuestions = [
   {
-    "id": "ac9e6ly04-t-001",
+    "id": "AC9E6LY04-T-001",
     "curriculumCode": "AC9E6LY04",
     "bank": "test",
-    "skill": "text selection",
+    "stage": "verify",
+    "skill": "historical perspective",
     "printable": true,
     "type": "single",
-    "question": "Test example: You need recent information about local bus changes. Which source is best to check first?",
-    "audioPrompt": "Test example: You need recent information about local bus changes. Which source is best to check first?",
+    "question": "A community radio segment includes “primary and secondary sources”. Which description best fits this wording?",
+    "audioPrompt": "A community radio segment includes “primary and secondary sources”. Which description best fits this wording?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,86 +17,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The official transport website.",
-      "Choose the first search result without checking it.",
-      "Ignore author, date and purpose.",
-      "Use an index to judge website reliability."
-    ],
-    "correct": 0,
-    "explanation": "The official transport website.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
-    "structuredExplanation": {
-      "summary": "The official transport website.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
-    },
-    "qualitySchema": "student-facing-v2"
-  },
-  {
-    "id": "ac9e6ly04-t-002",
-    "curriculumCode": "AC9E6LY04",
-    "bank": "test",
-    "skill": "text selection",
-    "printable": true,
-    "type": "single",
-    "question": "Test example: search result is most relevant for a biography task on Edith Cowan?",
-    "audioPrompt": "Test example: search result is most relevant for a biography task on Edith Cowan?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Ignore author, date and purpose.",
-      "A museum page titled Edith Cowan: life and achievements.",
-      "Use an index to judge website reliability.",
-      "Treat a source as reliable because it looks neat."
-    ],
-    "correct": 1,
-    "explanation": "A museum page titled Edith Cowan: life and achievements.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
-    "structuredExplanation": {
-      "summary": "A museum page titled Edith Cowan: life and achievements.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
-    },
-    "qualitySchema": "student-facing-v2"
-  },
-  {
-    "id": "ac9e6ly04-t-003",
-    "curriculumCode": "AC9E6LY04",
-    "bank": "test",
-    "skill": "text selection",
-    "printable": true,
-    "type": "single",
-    "question": "Test example: why use an index in a print book?",
-    "audioPrompt": "Test example: why use an index in a print book?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Use an index to judge website reliability.",
-      "Treat a source as reliable because it looks neat.",
-      "To find where specific topics are discussed.",
-      "Choose the first search result without checking it."
+      "define information need",
+      "select likely source type",
+      "historical perspective",
+      "inspect title/author/date"
     ],
     "correct": 2,
-    "explanation": "To find where specific topics are discussed.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "The wording best matches historical perspective.\nHint: Identify the language choice first, then check its effect in this context.",
     "structuredExplanation": {
-      "summary": "To find where specific topics are discussed.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "The wording best matches historical perspective.",
+      "hint": "Identify the language choice first, then check its effect in this context."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly04-t-004",
+    "id": "AC9E6LY04-T-002",
     "curriculumCode": "AC9E6LY04",
     "bank": "test",
-    "skill": "text selection",
+    "stage": "verify",
+    "skill": "skimming",
     "printable": true,
     "type": "single",
-    "question": "Test example: has no author, date or sources. What should you do?",
-    "audioPrompt": "Test example: has no author, date or sources. What should you do?",
+    "question": "In a wildlife-centre report, which term matches this meaning: “rapid reading for overview”?",
+    "audioPrompt": "In a wildlife-centre report, which term matches this meaning: “rapid reading for overview”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,28 +47,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Treat a source as reliable because it looks neat.",
-      "Choose the first search result without checking it.",
-      "Ignore author, date and purpose.",
-      "Check the information against a more reliable source."
+      "scanning",
+      "source evaluation",
+      "It does not match the evidence in the example.",
+      "skimming"
     ],
     "correct": 3,
-    "explanation": "Check the information against a more reliable source.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "skimming is the precise term for rapid reading for overview.\nHint: Distinguish closely related terms by their definitions.",
     "structuredExplanation": {
-      "summary": "Check the information against a more reliable source.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "skimming is the precise term for rapid reading for overview.",
+      "hint": "Distinguish closely related terms by their definitions."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly04-t-005",
+    "id": "AC9E6LY04-T-003",
     "curriculumCode": "AC9E6LY04",
     "bank": "test",
-    "skill": "text selection",
+    "stage": "verify",
+    "skill": "selecting and navigating texts for purpose",
     "printable": true,
     "type": "single",
-    "question": "Test example: navigation path is most efficient for finding a chapter on volcanoes?",
-    "audioPrompt": "Test example: navigation path is most efficient for finding a chapter on volcanoes?",
+    "question": "For a regional youth forum, which source best supports a current population statistic?",
+    "audioPrompt": "For a regional youth forum, which source best supports a current population statistic?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +77,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Contents page, Earth science chapter, volcanoes section.",
-      "Choose the first search result without checking it.",
-      "Ignore author, date and purpose.",
-      "Use an index to judge website reliability."
+      "A recent official statistical publication",
+      "An undated personal comment",
+      "A fictional story",
+      "A search snippet with no source"
     ],
     "correct": 0,
-    "explanation": "Contents page, Earth science chapter, volcanoes section.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "“A recent official statistical publication” is supported by the language evidence and purpose of the text.\nHint: A source may be credible but irrelevant, or relevant but outdated. Evaluate several criteria.",
     "structuredExplanation": {
-      "summary": "Contents page, Earth science chapter, volcanoes section.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "“A recent official statistical publication” is supported by the language evidence and purpose of the text.",
+      "hint": "A source may be credible but irrelevant, or relevant but outdated. Evaluate several criteria."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly04-t-006",
+    "id": "AC9E6LY04-T-004",
     "curriculumCode": "AC9E6LY04",
     "bank": "test",
-    "skill": "text selection",
+    "stage": "verify",
+    "skill": "independent misconception check",
     "printable": true,
     "type": "single",
-    "question": "Test example: What does currency mean when evaluating a source?",
-    "audioPrompt": "Test example: What does currency mean when evaluating a source?",
+    "question": "A writer preparing a coastal-monitoring update says, “Snippet treated as full evidence”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a coastal-monitoring update says, “Snippet treated as full evidence”. Which response is most accurate?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +107,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Ignore author, date and purpose.",
-      "How up to date the information is.",
-      "Use an index to judge website reliability.",
-      "Treat a source as reliable because it looks neat."
+      "First result accepted",
+      "Open and read the source.",
+      "Snippet treated as full evidence",
+      "Search ranking treated as credibility"
     ],
     "correct": 1,
-    "explanation": "How up to date the information is.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "Open and read the source. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
     "structuredExplanation": {
-      "summary": "How up to date the information is.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "Open and read the source. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly04-t-007",
+    "id": "AC9E6LY04-T-005",
     "curriculumCode": "AC9E6LY04",
     "bank": "test",
-    "skill": "text selection",
+    "stage": "verify",
+    "skill": "current statistic",
     "printable": true,
     "type": "single",
-    "question": "Test example: source is likely most authoritative for a science definition?",
-    "audioPrompt": "Test example: source is likely most authoritative for a science definition?",
+    "question": "A heritage trail guide includes “dated official data source”. Which description best fits this wording?",
+    "audioPrompt": "A heritage trail guide includes “dated official data source”. Which description best fits this wording?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +137,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use an index to judge website reliability.",
-      "Treat a source as reliable because it looks neat.",
-      "A science museum or education site that explains and cites the term.",
-      "Choose the first search result without checking it."
+      "define information need",
+      "select likely source type",
+      "current statistic",
+      "inspect title/author/date"
     ],
     "correct": 2,
-    "explanation": "A science museum or education site that explains and cites the term.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "The wording best matches current statistic.\nHint: Identify the language choice first, then check its effect in this context.",
     "structuredExplanation": {
-      "summary": "A science museum or education site that explains and cites the term.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "The wording best matches current statistic.",
+      "hint": "Identify the language choice first, then check its effect in this context."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly04-t-008",
+    "id": "AC9E6LY04-T-006",
     "curriculumCode": "AC9E6LY04",
     "bank": "test",
-    "skill": "text selection",
+    "stage": "verify",
+    "skill": "scanning",
     "printable": true,
     "type": "single",
-    "question": "Test example: A paragraph from a source partly answers your question. What should you do next?",
-    "audioPrompt": "Test example: A paragraph from a source partly answers your question. What should you do next?",
+    "question": "In a public-transport survey, which term matches this meaning: “searching for a specific item”?",
+    "audioPrompt": "In a public-transport survey, which term matches this meaning: “searching for a specific item”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,18 +167,318 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Treat a source as reliable because it looks neat.",
-      "Choose the first search result without checking it.",
-      "Ignore author, date and purpose.",
-      "Read around it to confirm the context before using it."
+      "skimming",
+      "source evaluation",
+      "It does not match the evidence in the example.",
+      "scanning"
     ],
     "correct": 3,
-    "explanation": "Read around it to confirm the context before using it.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "scanning is the precise term for searching for a specific item.\nHint: Distinguish closely related terms by their definitions.",
     "structuredExplanation": {
-      "summary": "Read around it to confirm the context before using it.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "scanning is the precise term for searching for a specific item.",
+      "hint": "Distinguish closely related terms by their definitions."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY04-T-007",
+    "curriculumCode": "AC9E6LY04",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "selecting and navigating texts for purpose",
+    "printable": true,
+    "type": "single",
+    "question": "For a festival review, which source best supports a current population statistic?",
+    "audioPrompt": "For a festival review, which source best supports a current population statistic?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A recent official statistical publication",
+      "An undated personal comment",
+      "A fictional story",
+      "A search snippet with no source"
+    ],
+    "correct": 0,
+    "explanation": "“A recent official statistical publication” is supported by the language evidence and purpose of the text.\nHint: A source may be credible but irrelevant, or relevant but outdated. Evaluate several criteria.",
+    "structuredExplanation": {
+      "summary": "“A recent official statistical publication” is supported by the language evidence and purpose of the text.",
+      "hint": "A source may be credible but irrelevant, or relevant but outdated. Evaluate several criteria."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY04-T-008",
+    "curriculumCode": "AC9E6LY04",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "independent misconception check",
+    "printable": true,
+    "type": "single",
+    "question": "A writer preparing a emergency-preparedness talk says, “Snippet treated as full evidence”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a emergency-preparedness talk says, “Snippet treated as full evidence”. Which response is most accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "First result accepted",
+      "Open and read the source.",
+      "Snippet treated as full evidence",
+      "Search ranking treated as credibility"
+    ],
+    "correct": 1,
+    "explanation": "Open and read the source. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "structuredExplanation": {
+      "summary": "Open and read the source. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY04-T-009",
+    "curriculumCode": "AC9E6LY04",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "quick definition",
+    "printable": true,
+    "type": "single",
+    "question": "A water-saving brochure includes “glossary or authoritative reference”. Which description best fits this wording?",
+    "audioPrompt": "A water-saving brochure includes “glossary or authoritative reference”. Which description best fits this wording?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "define information need",
+      "select likely source type",
+      "quick definition",
+      "inspect title/author/date"
+    ],
+    "correct": 2,
+    "explanation": "The wording best matches quick definition.\nHint: Identify the language choice first, then check its effect in this context.",
+    "structuredExplanation": {
+      "summary": "The wording best matches quick definition.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY04-T-010",
+    "curriculumCode": "AC9E6LY04",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "source evaluation",
+    "printable": true,
+    "type": "single",
+    "question": "In a local council submission, which term matches this meaning: “judging authority, currency, relevance and evidence”?",
+    "audioPrompt": "In a local council submission, which term matches this meaning: “judging authority, currency, relevance and evidence”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "skimming",
+      "scanning",
+      "It does not match the evidence in the example.",
+      "source evaluation"
+    ],
+    "correct": 3,
+    "explanation": "source evaluation is the precise term for judging authority, currency, relevance and evidence.\nHint: Distinguish closely related terms by their definitions.",
+    "structuredExplanation": {
+      "summary": "source evaluation is the precise term for judging authority, currency, relevance and evidence.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY04-T-011",
+    "curriculumCode": "AC9E6LY04",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "selecting and navigating texts for purpose",
+    "printable": true,
+    "type": "single",
+    "question": "For a marine-research diary, which source best supports a current population statistic?",
+    "audioPrompt": "For a marine-research diary, which source best supports a current population statistic?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A recent official statistical publication",
+      "An undated personal comment",
+      "A fictional story",
+      "A search snippet with no source"
+    ],
+    "correct": 0,
+    "explanation": "“A recent official statistical publication” is supported by the language evidence and purpose of the text.\nHint: A source may be credible but irrelevant, or relevant but outdated. Evaluate several criteria.",
+    "structuredExplanation": {
+      "summary": "“A recent official statistical publication” is supported by the language evidence and purpose of the text.",
+      "hint": "A source may be credible but irrelevant, or relevant but outdated. Evaluate several criteria."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY04-T-012",
+    "curriculumCode": "AC9E6LY04",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent misconception check",
+    "printable": true,
+    "type": "single",
+    "question": "A writer preparing a farmers market profile says, “Snippet treated as full evidence”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a farmers market profile says, “Snippet treated as full evidence”. Which response is most accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "First result accepted",
+      "Open and read the source.",
+      "Snippet treated as full evidence",
+      "Search ranking treated as credibility"
+    ],
+    "correct": 1,
+    "explanation": "Open and read the source. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "structuredExplanation": {
+      "summary": "Open and read the source. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY04-T-013",
+    "curriculumCode": "AC9E6LY04",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "compare viewpoints",
+    "printable": true,
+    "type": "single",
+    "question": "A astronomy exhibition includes “multiple attributed sources”. Which description best fits this wording?",
+    "audioPrompt": "A astronomy exhibition includes “multiple attributed sources”. Which description best fits this wording?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "define information need",
+      "select likely source type",
+      "compare viewpoints",
+      "inspect title/author/date"
+    ],
+    "correct": 2,
+    "explanation": "The wording best matches compare viewpoints.\nHint: Identify the language choice first, then check its effect in this context.",
+    "structuredExplanation": {
+      "summary": "The wording best matches compare viewpoints.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY04-T-014",
+    "curriculumCode": "AC9E6LY04",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "skimming",
+    "printable": true,
+    "type": "single",
+    "question": "In a river-restoration update, which term matches this meaning: “rapid reading for overview”?",
+    "audioPrompt": "In a river-restoration update, which term matches this meaning: “rapid reading for overview”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "scanning",
+      "source evaluation",
+      "It does not match the evidence in the example.",
+      "skimming"
+    ],
+    "correct": 3,
+    "explanation": "skimming is the precise term for rapid reading for overview.\nHint: Distinguish closely related terms by their definitions.",
+    "structuredExplanation": {
+      "summary": "skimming is the precise term for rapid reading for overview.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY04-T-015",
+    "curriculumCode": "AC9E6LY04",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "selecting and navigating texts for purpose",
+    "printable": true,
+    "type": "single",
+    "question": "For a cycling-safety campaign, which source best supports a current population statistic?",
+    "audioPrompt": "For a cycling-safety campaign, which source best supports a current population statistic?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A recent official statistical publication",
+      "An undated personal comment",
+      "A fictional story",
+      "A search snippet with no source"
+    ],
+    "correct": 0,
+    "explanation": "“A recent official statistical publication” is supported by the language evidence and purpose of the text.\nHint: A source may be credible but irrelevant, or relevant but outdated. Evaluate several criteria.",
+    "structuredExplanation": {
+      "summary": "“A recent official statistical publication” is supported by the language evidence and purpose of the text.",
+      "hint": "A source may be credible but irrelevant, or relevant but outdated. Evaluate several criteria."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY04-T-016",
+    "curriculumCode": "AC9E6LY04",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent misconception check",
+    "printable": true,
+    "type": "single",
+    "question": "A writer preparing a neighbourhood history podcast says, “Snippet treated as full evidence”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a neighbourhood history podcast says, “Snippet treated as full evidence”. Which response is most accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "First result accepted",
+      "Open and read the source.",
+      "Snippet treated as full evidence",
+      "Search ranking treated as credibility"
+    ],
+    "correct": 1,
+    "explanation": "Open and read the source. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "structuredExplanation": {
+      "summary": "Open and read the source. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "qualitySchema": "skillr-authored-v1"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

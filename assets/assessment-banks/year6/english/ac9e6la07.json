@@ -1,22 +1,15 @@
 [
   {
-    "id": "ac9e6la07-p-001",
+    "id": "AC9E6LA07-P-001",
     "curriculum_code": "AC9E6LA07",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "choose_visual_type",
-    "question": "Which visual best shows exact values across categories?",
-    "audio_prompt": "Which visual best shows exact values across categories?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "In a class podcast, which visual best shows exact values across categories?",
+    "audio_prompt": "In a class podcast, which visual best shows exact values across categories?",
     "answers": [
-      {
-        "text": "table",
-        "is_correct": true
-      },
       {
         "text": "unlabelled photograph",
         "is_correct": false
@@ -26,32 +19,1440 @@
         "is_correct": false
       },
       {
+        "text": "table",
+        "is_correct": true
+      },
+      {
         "text": "colour wash",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“table” is the strongest choice because it matches the language feature and the situation.",
+      "hint": "A visual may extend information beyond the prose. Readers should cross-reference, not treat it as decoration or automatically trustworthy evidence."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-002",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "caption",
+    "question": "Which term best matches this meaning: “text identifying and interpreting a visual”?",
+    "audio_prompt": "Which term best matches this meaning: “text identifying and interpreting a visual”?",
+    "answers": [
+      {
+        "text": "figure",
+        "is_correct": false
+      },
+      {
+        "text": "visual–verbal relationship",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "caption",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "caption means text identifying and interpreting a visual.",
+      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-003",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "diagram",
+    "question": "Read this example from a science investigation: “parts and relationships”. Which label best describes what the language is doing?",
+    "audio_prompt": "Read this example from a science investigation: “parts and relationships”. Which label best describes what the language is doing?",
+    "answers": [
+      {
+        "text": "diagram",
+        "is_correct": true
+      },
+      {
+        "text": "table",
+        "is_correct": false
+      },
+      {
+        "text": "graph",
+        "is_correct": false
+      },
+      {
+        "text": "map",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "This choice best demonstrates choose visual type in the stated context.",
+      "summary": "“parts and relationships” is an example of diagram; here it labels and arrows.",
       "hint": "A visual may extend information beyond the prose. Readers should cross-reference, not treat it as decoration or automatically trustworthy evidence."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la07-p-002",
+    "id": "AC9E6LA07-P-004",
     "curriculum_code": "AC9E6LA07",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "skill": "figure",
-    "question": "Which term means “numbered visual representation in a text”?",
-    "audio_prompt": "Which term means “numbered visual representation in a text”?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which correction best fixes this idea: “Visual information not mentioned in response”?",
+    "audio_prompt": "Which correction best fixes this idea: “Visual information not mentioned in response”?",
+    "answers": [
+      {
+        "text": "All visuals called pictures",
+        "is_correct": false
+      },
+      {
+        "text": "Integrate evidence from both modes.",
+        "is_correct": true
+      },
+      {
+        "text": "Graph accepted without scale check",
+        "is_correct": false
+      },
+      {
+        "text": "Caption assumed neutral",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Integrate evidence from both modes. This fixes the misconception without creating a new rule that is too broad.",
+      "hint": "Check the actual language evidence rather than relying on an absolute rule."
     },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-005",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "image",
+    "question": "Which example would be most useful when explaining images, figures, tables, diagrams, maps and graphs in a sports-club discussion?",
+    "audio_prompt": "Which example would be most useful when explaining images, figures, tables, diagrams, maps and graphs in a sports-club discussion?",
+    "answers": [
+      {
+        "text": "exact values and categories",
+        "is_correct": false
+      },
+      {
+        "text": "pattern, comparison or change",
+        "is_correct": false
+      },
+      {
+        "text": "appearance, viewpoint or emotion",
+        "is_correct": true
+      },
+      {
+        "text": "parts and relationships",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "This example directly demonstrates image and can be explained using the language clue in the text.",
+      "hint": "Students distinguish decorative, organisational, evidential and explanatory visual roles, read labels and scales and explain how visuals combine with captions and surrounding prose."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-006",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "choose_visual_type",
+    "question": "In a library display, what can a caption do?",
+    "audio_prompt": "In a library display, what can a caption do?",
+    "answers": [
+      {
+        "text": "Guarantee the visual is unbiased",
+        "is_correct": false
+      },
+      {
+        "text": "Replace every label",
+        "is_correct": false
+      },
+      {
+        "text": "Make scale unnecessary",
+        "is_correct": false
+      },
+      {
+        "text": "Identify and frame interpretation of a visual",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“Identify and frame interpretation of a visual” is the strongest choice because it matches the language feature and the situation.",
+      "hint": "A visual may extend information beyond the prose. Readers should cross-reference, not treat it as decoration or automatically trustworthy evidence."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-007",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "figure",
+    "question": "Which term best matches this meaning: “numbered visual representation in a text”?",
+    "audio_prompt": "Which term best matches this meaning: “numbered visual representation in a text”?",
+    "answers": [
+      {
+        "text": "figure",
+        "is_correct": true
+      },
+      {
+        "text": "caption",
+        "is_correct": false
+      },
+      {
+        "text": "visual–verbal relationship",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "figure means numbered visual representation in a text.",
+      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-008",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "diagram",
+    "question": "Read this example from a student council meeting: “parts and relationships”. Which label best describes what the language is doing?",
+    "audio_prompt": "Read this example from a student council meeting: “parts and relationships”. Which label best describes what the language is doing?",
+    "answers": [
+      {
+        "text": "table",
+        "is_correct": false
+      },
+      {
+        "text": "diagram",
+        "is_correct": true
+      },
+      {
+        "text": "graph",
+        "is_correct": false
+      },
+      {
+        "text": "map",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“parts and relationships” is an example of diagram; here it labels and arrows.",
+      "hint": "A visual may extend information beyond the prose. Readers should cross-reference, not treat it as decoration or automatically trustworthy evidence."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-009",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which correction best fixes this idea: “All visuals called pictures”?",
+    "audio_prompt": "Which correction best fixes this idea: “All visuals called pictures”?",
+    "answers": [
+      {
+        "text": "All visuals called pictures",
+        "is_correct": false
+      },
+      {
+        "text": "Graph accepted without scale check",
+        "is_correct": false
+      },
+      {
+        "text": "Name the form and function precisely.",
+        "is_correct": true
+      },
+      {
+        "text": "Caption assumed neutral",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Name the form and function precisely. This fixes the misconception without creating a new rule that is too broad.",
+      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-010",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "image",
+    "question": "Which example would be most useful when explaining images, figures, tables, diagrams, maps and graphs in a environmental campaign?",
+    "audio_prompt": "Which example would be most useful when explaining images, figures, tables, diagrams, maps and graphs in a environmental campaign?",
+    "answers": [
+      {
+        "text": "exact values and categories",
+        "is_correct": false
+      },
+      {
+        "text": "pattern, comparison or change",
+        "is_correct": false
+      },
+      {
+        "text": "parts and relationships",
+        "is_correct": false
+      },
+      {
+        "text": "appearance, viewpoint or emotion",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "This example directly demonstrates image and can be explained using the language clue in the text.",
+      "hint": "Students distinguish decorative, organisational, evidential and explanatory visual roles, read labels and scales and explain how visuals combine with captions and surrounding prose."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-011",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "diagram",
+    "question": "A museum caption includes “parts and relationships”. Why is this an effective example of diagram?",
+    "audio_prompt": "A museum caption includes “parts and relationships”. Why is this an effective example of diagram?",
+    "answers": [
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "A visual may extend information beyond the prose. Readers should cross-reference, not treat it as decoration or automatically trustworthy evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "A graph can be accurate but visually misleading; an image can be authentic but unrepresentative. Analyse selection and presentation.",
+        "is_correct": false
+      },
+      {
+        "text": "It labels and arrows and supports the purpose of the text.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "parts and relationships works because labels and arrows.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-012",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Read axes and source.” a better rule than “Graph accepted without scale check” when reading a student council meeting?",
+    "audio_prompt": "Why is “Read axes and source.” a better rule than “Graph accepted without scale check” when reading a student council meeting?",
+    "answers": [
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Read axes and source.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-013",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "image",
+    "question": "A local-history article includes “appearance, viewpoint or emotion”. Why is this an effective example of image?",
+    "audio_prompt": "A local-history article includes “appearance, viewpoint or emotion”. Why is this an effective example of image?",
+    "answers": [
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "It framing and caption and supports the purpose of the text.",
+        "is_correct": true
+      },
+      {
+        "text": "A visual may extend information beyond the prose. Readers should cross-reference, not treat it as decoration or automatically trustworthy evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "A graph can be accurate but visually misleading; an image can be authentic but unrepresentative. Analyse selection and presentation.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "appearance, viewpoint or emotion works because framing and caption.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-014",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Integrate evidence from both modes.” a better rule than “Visual information not mentioned in response” when reading a environmental campaign?",
+    "audio_prompt": "Why is “Integrate evidence from both modes.” a better rule than “Visual information not mentioned in response” when reading a environmental campaign?",
+    "answers": [
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“Integrate evidence from both modes.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-015",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "graph",
+    "question": "A book-club discussion includes “pattern, comparison or change”. Why is this an effective example of graph?",
+    "audio_prompt": "A book-club discussion includes “pattern, comparison or change”. Why is this an effective example of graph?",
+    "answers": [
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "A visual may extend information beyond the prose. Readers should cross-reference, not treat it as decoration or automatically trustworthy evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "A graph can be accurate but visually misleading; an image can be authentic but unrepresentative. Analyse selection and presentation.",
+        "is_correct": false
+      },
+      {
+        "text": "It axes, scale, source and supports the purpose of the text.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "pattern, comparison or change works because axes, scale, source.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-016",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Read axes and source.” a better rule than “Graph accepted without scale check” when reading a excursion briefing?",
+    "audio_prompt": "Why is “Read axes and source.” a better rule than “Graph accepted without scale check” when reading a excursion briefing?",
+    "answers": [
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Read axes and source.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-017",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "map",
+    "question": "A design project includes “spatial location and scale”. Why is this an effective example of map?",
+    "audio_prompt": "A design project includes “spatial location and scale”. Why is this an effective example of map?",
+    "answers": [
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "It legend, orientation and supports the purpose of the text.",
+        "is_correct": true
+      },
+      {
+        "text": "A visual may extend information beyond the prose. Readers should cross-reference, not treat it as decoration or automatically trustworthy evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "A graph can be accurate but visually misleading; an image can be authentic but unrepresentative. Analyse selection and presentation.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "spatial location and scale works because legend, orientation.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-018",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Integrate evidence from both modes.” a better rule than “Visual information not mentioned in response” when reading a weather report?",
+    "audio_prompt": "Why is “Integrate evidence from both modes.” a better rule than “Visual information not mentioned in response” when reading a weather report?",
+    "answers": [
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“Integrate evidence from both modes.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-019",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "table",
+    "question": "A school assembly includes “exact values and categories”. Why is this an effective example of table?",
+    "audio_prompt": "A school assembly includes “exact values and categories”. Why is this an effective example of table?",
+    "answers": [
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "A visual may extend information beyond the prose. Readers should cross-reference, not treat it as decoration or automatically trustworthy evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "A graph can be accurate but visually misleading; an image can be authentic but unrepresentative. Analyse selection and presentation.",
+        "is_correct": false
+      },
+      {
+        "text": "It headers, units, totals and supports the purpose of the text.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "exact values and categories works because headers, units, totals.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-020",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Read axes and source.” a better rule than “Graph accepted without scale check” when reading a peer feedback session?",
+    "audio_prompt": "Why is “Read axes and source.” a better rule than “Graph accepted without scale check” when reading a peer feedback session?",
+    "answers": [
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Read axes and source.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-021",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A excursion briefing could use either “exact values and categories” or “inspect visual data/content”. Which comparison is most accurate?",
+    "audio_prompt": "A excursion briefing could use either “exact values and categories” or “inspect visual data/content”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "“exact values and categories” shows table, while “inspect visual data/content” shows inspect visual data/content.",
+        "is_correct": true
+      },
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The important difference is the language function: table versus inspect visual data/content.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-022",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Caption assumed neutral” in a design project?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Caption assumed neutral” in a design project?",
+    "answers": [
+      {
+        "text": "All visuals called pictures",
+        "is_correct": false
+      },
+      {
+        "text": "It can frame interpretation.",
+        "is_correct": true
+      },
+      {
+        "text": "Graph accepted without scale check",
+        "is_correct": false
+      },
+      {
+        "text": "Caption assumed neutral",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "It can frame interpretation. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "A graph can be accurate but visually misleading; an image can be authentic but unrepresentative. Analyse selection and presentation."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-023",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A weather report could use either “parts and relationships” or “compare agreement or tension”. Which comparison is most accurate?",
+    "audio_prompt": "A weather report could use either “parts and relationships” or “compare agreement or tension”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "“parts and relationships” shows diagram, while “compare agreement or tension” shows compare agreement or tension.",
+        "is_correct": true
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The important difference is the language function: diagram versus compare agreement or tension.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-024",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “All visuals called pictures” in a school assembly?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “All visuals called pictures” in a school assembly?",
+    "answers": [
+      {
+        "text": "All visuals called pictures",
+        "is_correct": false
+      },
+      {
+        "text": "Graph accepted without scale check",
+        "is_correct": false
+      },
+      {
+        "text": "Caption assumed neutral",
+        "is_correct": false
+      },
+      {
+        "text": "Name the form and function precisely.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Name the form and function precisely. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "A graph can be accurate but visually misleading; an image can be authentic but unrepresentative. Analyse selection and presentation."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-025",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A peer feedback session could use either “appearance, viewpoint or emotion” or “explain added meaning”. Which comparison is most accurate?",
+    "audio_prompt": "A peer feedback session could use either “appearance, viewpoint or emotion” or “explain added meaning”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "“appearance, viewpoint or emotion” shows image, while “explain added meaning” shows explain added meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The important difference is the language function: image versus explain added meaning.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-026",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Caption assumed neutral” in a cooking demonstration?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Caption assumed neutral” in a cooking demonstration?",
+    "answers": [
+      {
+        "text": "All visuals called pictures",
+        "is_correct": false
+      },
+      {
+        "text": "It can frame interpretation.",
+        "is_correct": true
+      },
+      {
+        "text": "Graph accepted without scale check",
+        "is_correct": false
+      },
+      {
+        "text": "Caption assumed neutral",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "It can frame interpretation. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "A graph can be accurate but visually misleading; an image can be authentic but unrepresentative. Analyse selection and presentation."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-027",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A arts review could use either “pattern, comparison or change” or “identify text claim”. Which comparison is most accurate?",
+    "audio_prompt": "A arts review could use either “pattern, comparison or change” or “identify text claim”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "“pattern, comparison or change” shows graph, while “identify text claim” shows identify text claim.",
+        "is_correct": true
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The important difference is the language function: graph versus identify text claim.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-028",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “All visuals called pictures” in a technology presentation?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “All visuals called pictures” in a technology presentation?",
+    "answers": [
+      {
+        "text": "All visuals called pictures",
+        "is_correct": false
+      },
+      {
+        "text": "Graph accepted without scale check",
+        "is_correct": false
+      },
+      {
+        "text": "Caption assumed neutral",
+        "is_correct": false
+      },
+      {
+        "text": "Name the form and function precisely.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Name the form and function precisely. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "A graph can be accurate but visually misleading; an image can be authentic but unrepresentative. Analyse selection and presentation."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-029",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A playground consultation could use either “spatial location and scale” or “read caption and labels”. Which comparison is most accurate?",
+    "audio_prompt": "A playground consultation could use either “spatial location and scale” or “read caption and labels”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "“spatial location and scale” shows map, while “read caption and labels” shows read caption and labels.",
+        "is_correct": true
+      },
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The important difference is the language function: map versus read caption and labels.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-030",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Caption assumed neutral” in a class podcast?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Caption assumed neutral” in a class podcast?",
+    "answers": [
+      {
+        "text": "All visuals called pictures",
+        "is_correct": false
+      },
+      {
+        "text": "It can frame interpretation.",
+        "is_correct": true
+      },
+      {
+        "text": "Graph accepted without scale check",
+        "is_correct": false
+      },
+      {
+        "text": "Caption assumed neutral",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "It can frame interpretation. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "A graph can be accurate but visually misleading; an image can be authentic but unrepresentative. Analyse selection and presentation."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-031",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "explain_caption_effect",
+    "question": "You are editing a community garden proposal. What can a caption do?",
+    "audio_prompt": "You are editing a community garden proposal. What can a caption do?",
+    "answers": [
+      {
+        "text": "Guarantee the visual is unbiased",
+        "is_correct": false
+      },
+      {
+        "text": "Identify and frame interpretation of a visual",
+        "is_correct": true
+      },
+      {
+        "text": "Replace every label",
+        "is_correct": false
+      },
+      {
+        "text": "Make scale unnecessary",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“Identify and frame interpretation of a visual” best fits the purpose and the language evidence in this new situation.",
+      "hint": "A graph can be accurate but visually misleading; an image can be authentic but unrepresentative. Analyse selection and presentation."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-032",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "inspect_visual_data_content",
+    "question": "A sports-club discussion needs a clear example of inspect visual data/content. Which wording should you choose?",
+    "audio_prompt": "A sports-club discussion needs a clear example of inspect visual data/content. Which wording should you choose?",
+    "answers": [
+      {
+        "text": "identify text claim",
+        "is_correct": false
+      },
+      {
+        "text": "read caption and labels",
+        "is_correct": false
+      },
+      {
+        "text": "inspect visual data/content",
+        "is_correct": true
+      },
+      {
+        "text": "compare agreement or tension",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“inspect visual data/content” is the best choice because it demonstrates inspect visual data/content in context.",
+      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-033",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "figure",
+    "question": "While revising a library display, you need language that matches “numbered visual representation in a text”. Which concept should guide your choice?",
+    "audio_prompt": "While revising a library display, you need language that matches “numbered visual representation in a text”. Which concept should guide your choice?",
+    "answers": [
+      {
+        "text": "caption",
+        "is_correct": false
+      },
+      {
+        "text": "visual–verbal relationship",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "figure",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "figure is the concept that matches numbered visual representation in a text.",
+      "hint": "Use the definition to guide the decision, then check it against the sentence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-034",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "choose_visual_type",
+    "question": "You are editing a museum caption. What can a caption do?",
+    "audio_prompt": "You are editing a museum caption. What can a caption do?",
+    "answers": [
+      {
+        "text": "Identify and frame interpretation of a visual",
+        "is_correct": true
+      },
+      {
+        "text": "Guarantee the visual is unbiased",
+        "is_correct": false
+      },
+      {
+        "text": "Replace every label",
+        "is_correct": false
+      },
+      {
+        "text": "Make scale unnecessary",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Identify and frame interpretation of a visual” best fits the purpose and the language evidence in this new situation.",
+      "hint": "A graph can be accurate but visually misleading; an image can be authentic but unrepresentative. Analyse selection and presentation."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-035",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "check_scale_source",
+    "question": "A student council meeting needs a clear example of check scale/source. Which wording should you choose?",
+    "audio_prompt": "A student council meeting needs a clear example of check scale/source. Which wording should you choose?",
+    "answers": [
+      {
+        "text": "identify text claim",
+        "is_correct": false
+      },
+      {
+        "text": "check scale/source",
+        "is_correct": true
+      },
+      {
+        "text": "inspect visual data/content",
+        "is_correct": false
+      },
+      {
+        "text": "read caption and labels",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“check scale/source” is the best choice because it demonstrates check scale/source in context.",
+      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-036",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "figure",
+    "question": "While revising a local-history article, you need language that matches “numbered visual representation in a text”. Which concept should guide your choice?",
+    "audio_prompt": "While revising a local-history article, you need language that matches “numbered visual representation in a text”. Which concept should guide your choice?",
+    "answers": [
+      {
+        "text": "caption",
+        "is_correct": false
+      },
+      {
+        "text": "visual–verbal relationship",
+        "is_correct": false
+      },
+      {
+        "text": "figure",
+        "is_correct": true
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "figure is the concept that matches numbered visual representation in a text.",
+      "hint": "Use the definition to guide the decision, then check it against the sentence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-037",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "compare_prose_visual",
+    "question": "You are editing a environmental campaign. What can a caption do?",
+    "audio_prompt": "You are editing a environmental campaign. What can a caption do?",
+    "answers": [
+      {
+        "text": "Guarantee the visual is unbiased",
+        "is_correct": false
+      },
+      {
+        "text": "Replace every label",
+        "is_correct": false
+      },
+      {
+        "text": "Make scale unnecessary",
+        "is_correct": false
+      },
+      {
+        "text": "Identify and frame interpretation of a visual",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“Identify and frame interpretation of a visual” best fits the purpose and the language evidence in this new situation.",
+      "hint": "A graph can be accurate but visually misleading; an image can be authentic but unrepresentative. Analyse selection and presentation."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-038",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "identify_text_claim",
+    "question": "A book-club discussion needs a clear example of identify text claim. Which wording should you choose?",
+    "audio_prompt": "A book-club discussion needs a clear example of identify text claim. Which wording should you choose?",
+    "answers": [
+      {
+        "text": "identify text claim",
+        "is_correct": true
+      },
+      {
+        "text": "inspect visual data/content",
+        "is_correct": false
+      },
+      {
+        "text": "read caption and labels",
+        "is_correct": false
+      },
+      {
+        "text": "compare agreement or tension",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“identify text claim” is the best choice because it demonstrates identify text claim in context.",
+      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-039",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "figure",
+    "question": "While revising a excursion briefing, you need language that matches “numbered visual representation in a text”. Which concept should guide your choice?",
+    "audio_prompt": "While revising a excursion briefing, you need language that matches “numbered visual representation in a text”. Which concept should guide your choice?",
     "answers": [
       {
         "text": "caption",
@@ -66,32 +1467,30 @@
         "is_correct": false
       },
       {
-        "text": "All visuals called pictures",
+        "text": "It does not match the evidence in the example.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "figure means numbered visual representation in a text.",
-      "hint": "Match the definition to the most precise term used in Images, Figures, Tables, Diagrams, Maps and Graphs."
+      "summary": "figure is the concept that matches numbered visual representation in a text.",
+      "hint": "Use the definition to guide the decision, then check it against the sentence."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la07-p-003",
+    "id": "AC9E6LA07-P-040",
     "curriculum_code": "AC9E6LA07",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
+    "stage": "apply",
     "skill": "read_graph_scale",
-    "question": "What can a caption do?",
-    "audio_prompt": "What can a caption do?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "You are editing a design project. What can a caption do?",
+    "audio_prompt": "You are editing a design project. What can a caption do?",
     "answers": [
       {
         "text": "Guarantee the visual is unbiased",
@@ -112,186 +1511,138 @@
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "This answer applies the relevant language feature accurately.",
+      "summary": "“Identify and frame interpretation of a visual” best fits the purpose and the language evidence in this new situation.",
       "hint": "A graph can be accurate but visually misleading; an image can be authentic but unrepresentative. Analyse selection and presentation."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la07-p-004",
+    "id": "AC9E6LA07-T-001",
     "curriculum_code": "AC9E6LA07",
     "year_level": "Year 6",
     "subject": "english",
-    "bank": "practice",
-    "skill": "misconception_repair",
-    "question": "A student says, “All visuals called pictures.” Which response best corrects the misunderstanding?",
-    "audio_prompt": "A student says, “All visuals called pictures.” Which response best corrects the misunderstanding?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "bank": "test",
+    "stage": "verify",
+    "skill": "read_caption_and_labels",
+    "question": "A community radio segment includes “read caption and labels”. Which description best fits this wording?",
+    "audio_prompt": "A community radio segment includes “read caption and labels”. Which description best fits this wording?",
     "answers": [
       {
-        "text": "Read axes and source",
+        "text": "table",
         "is_correct": false
       },
       {
-        "text": "It can frame interpretation",
+        "text": "graph",
         "is_correct": false
       },
       {
-        "text": "Integrate evidence from both modes",
+        "text": "diagram",
         "is_correct": false
       },
       {
-        "text": "Name the form and function precisely",
+        "text": "read caption and labels",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Name the form and function precisely",
-      "hint": "Check the concept boundary, not just whether the wording sounds confident."
+      "summary": "The wording best matches read caption and labels.",
+      "hint": "Identify the language choice first, then check its effect in this context."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la07-p-005",
+    "id": "AC9E6LA07-T-002",
     "curriculum_code": "AC9E6LA07",
     "year_level": "Year 6",
     "subject": "english",
-    "bank": "practice",
-    "skill": "match_visual_form_to_communicative_purpose",
-    "question": "Which pairing accurately reflects the model for Images, Figures, Tables, Diagrams, Maps and Graphs?",
-    "audio_prompt": "Which pairing accurately reflects the model for Images, Figures, Tables, Diagrams, Maps and Graphs?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "bank": "test",
+    "stage": "verify",
+    "skill": "figure",
+    "question": "In a wildlife-centre report, which term matches this meaning: “numbered visual representation in a text”?",
+    "audio_prompt": "In a wildlife-centre report, which term matches this meaning: “numbered visual representation in a text”?",
     "answers": [
       {
-        "text": "table → exact values and categories → headers, units, totals",
+        "text": "figure",
         "is_correct": true
       },
       {
-        "text": "headers, units, totals → exact values and categories → table",
+        "text": "caption",
         "is_correct": false
       },
       {
-        "text": "graph → pattern, comparison or change → axes, scale, source",
+        "text": "visual–verbal relationship",
         "is_correct": false
       },
       {
-        "text": "Graph accepted without scale check",
+        "text": "It does not match the evidence in the example.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The pairing comes directly from the lesson model and preserves the intended relationship.",
-      "hint": "A visual may extend information beyond the prose. Readers should cross-reference, not treat it as decoration or automatically trustworthy evidence."
+      "summary": "figure is the precise term for numbered visual representation in a text.",
+      "hint": "Distinguish closely related terms by their definitions."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la07-p-006",
+    "id": "AC9E6LA07-T-003",
     "curriculum_code": "AC9E6LA07",
     "year_level": "Year 6",
     "subject": "english",
-    "bank": "practice",
-    "skill": "concept_principle",
-    "question": "Which principle should guide a response about Images, Figures, Tables, Diagrams, Maps and Graphs?",
-    "audio_prompt": "Which principle should guide a response about Images, Figures, Tables, Diagrams, Maps and Graphs?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "bank": "test",
+    "stage": "verify",
+    "skill": "images_figures_tables_diagrams_maps_and_graphs",
+    "question": "For a regional youth forum, which visual best shows exact values across categories?",
+    "audio_prompt": "For a regional youth forum, which visual best shows exact values across categories?",
     "answers": [
       {
-        "text": "All visuals called pictures",
+        "text": "unlabelled photograph",
         "is_correct": false
       },
       {
-        "text": "A visual may extend information beyond the prose. Readers should cross-reference, not treat it as decoration or automatically trustworthy evidence",
+        "text": "table",
         "is_correct": true
       },
       {
-        "text": "Graph accepted without scale check",
+        "text": "decorative icon",
         "is_correct": false
       },
       {
-        "text": "Caption assumed neutral",
+        "text": "colour wash",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A visual may extend information beyond the prose. Readers should cross-reference, not treat it as decoration or automatically trustworthy evidence",
-      "hint": "Choose the statement that is accurate across the whole concept, not an overgeneralisation."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9e6la07-p-007",
-    "curriculum_code": "AC9E6LA07",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "guided_application",
-    "question": "Which plan would best complete this task: Analyse how a graph and paragraph support or contradict one another in a media text?",
-    "audio_prompt": "Which plan would best complete this task: Analyse how a graph and paragraph support or contradict one another in a media text?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "List features without explaining their effects.",
-        "is_correct": false
-      },
-      {
-        "text": "Give a personal preference without textual evidence.",
-        "is_correct": false
-      },
-      {
-        "text": "Use the named features, relevant evidence and an explanation of how each choice shapes meaning.",
-        "is_correct": true
-      },
-      {
-        "text": "Discuss a different topic instead of the stated task.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "A complete response combines relevant evidence with an explanation tied to the task.",
+      "summary": "“table” is supported by the language evidence and purpose of the text.",
       "hint": "A graph can be accurate but visually misleading; an image can be authentic but unrepresentative. Analyse selection and presentation."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la07-p-008",
+    "id": "AC9E6LA07-T-004",
     "curriculum_code": "AC9E6LA07",
     "year_level": "Year 6",
     "subject": "english",
-    "bank": "practice",
-    "skill": "reasoning",
-    "question": "Which evidence would best show secure understanding of Images, Figures, Tables, Diagrams, Maps and Graphs?",
-    "audio_prompt": "Which evidence would best show secure understanding of Images, Figures, Tables, Diagrams, Maps and Graphs?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "bank": "test",
+    "stage": "verify",
+    "skill": "independent_misconception_check",
+    "question": "A writer preparing a coastal-monitoring update says, “Graph accepted without scale check”. Which response is most accurate?",
+    "audio_prompt": "A writer preparing a coastal-monitoring update says, “Graph accepted without scale check”. Which response is most accurate?",
     "answers": [
       {
         "text": "All visuals called pictures",
@@ -302,317 +1653,478 @@
         "is_correct": false
       },
       {
+        "text": "Read axes and source.",
+        "is_correct": true
+      },
+      {
         "text": "Caption assumed neutral",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Read axes and source. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-T-005",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "identify_limitation",
+    "question": "A heritage trail guide includes “identify limitation”. Which description best fits this wording?",
+    "audio_prompt": "A heritage trail guide includes “identify limitation”. Which description best fits this wording?",
+    "answers": [
+      {
+        "text": "table",
         "is_correct": false
       },
       {
-        "text": "Students distinguish decorative, organisational, evidential and explanatory visual roles, read labels and scales and explain how visuals combine with captions and surrounding prose The response also explains its evidence and limitations.",
+        "text": "graph",
+        "is_correct": false
+      },
+      {
+        "text": "diagram",
+        "is_correct": false
+      },
+      {
+        "text": "identify limitation",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Secure understanding is visible when a student applies the concept and explains the evidence used.",
-      "hint": "Look for application and explanation rather than a feature name alone."
+      "summary": "The wording best matches identify limitation.",
+      "hint": "Identify the language choice first, then check its effect in this context."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la07-t-001",
+    "id": "AC9E6LA07-T-006",
     "curriculum_code": "AC9E6LA07",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
     "skill": "caption",
-    "question": "In a new text, which definition correctly identifies caption?",
-    "audio_prompt": "In a new text, which definition correctly identifies caption?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "In a public-transport survey, which term matches this meaning: “text identifying and interpreting a visual”?",
+    "audio_prompt": "In a public-transport survey, which term matches this meaning: “text identifying and interpreting a visual”?",
     "answers": [
       {
-        "text": "Text identifying and interpreting a visual",
+        "text": "caption",
         "is_correct": true
       },
       {
-        "text": "Numbered visual representation in a text",
+        "text": "figure",
         "is_correct": false
       },
       {
-        "text": "Way image/data and words interact",
+        "text": "visual–verbal relationship",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "caption is the precise term for text identifying and interpreting a visual.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-T-007",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "images_figures_tables_diagrams_maps_and_graphs",
+    "question": "For a festival review, which visual best shows exact values across categories?",
+    "audio_prompt": "For a festival review, which visual best shows exact values across categories?",
+    "answers": [
+      {
+        "text": "unlabelled photograph",
+        "is_correct": false
+      },
+      {
+        "text": "table",
+        "is_correct": true
+      },
+      {
+        "text": "decorative icon",
+        "is_correct": false
+      },
+      {
+        "text": "colour wash",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“table” is supported by the language evidence and purpose of the text.",
+      "hint": "A graph can be accurate but visually misleading; an image can be authentic but unrepresentative. Analyse selection and presentation."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-T-008",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "independent_misconception_check",
+    "question": "A writer preparing a emergency-preparedness talk says, “Graph accepted without scale check”. Which response is most accurate?",
+    "audio_prompt": "A writer preparing a emergency-preparedness talk says, “Graph accepted without scale check”. Which response is most accurate?",
+    "answers": [
+      {
+        "text": "All visuals called pictures",
         "is_correct": false
       },
       {
         "text": "Graph accepted without scale check",
         "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "caption means text identifying and interpreting a visual.",
-      "hint": "Distinguish this term from related features in the unit."
-    }
-  },
-  {
-    "id": "ac9e6la07-t-002",
-    "curriculum_code": "AC9E6LA07",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "diagnosis",
-    "question": "A response shows this problem: “Graph accepted without scale check.” What is the most effective revision?",
-    "audio_prompt": "A response shows this problem: “Graph accepted without scale check.” What is the most effective revision?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Name the form and function precisely",
-        "is_correct": false
       },
       {
-        "text": "Read axes and source",
-        "is_correct": true
-      },
-      {
-        "text": "It can frame interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "Keep the response unchanged because the issue does not affect meaning.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Read axes and source",
-      "hint": "Choose the repair that directly addresses the diagnosed problem."
-    }
-  },
-  {
-    "id": "ac9e6la07-t-003",
-    "curriculum_code": "AC9E6LA07",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "match_visual_form_to_communicative_purpose",
-    "question": "Which interpretation of this model element is accurate: “graph → pattern, comparison or change → axes, scale, source”?",
-    "audio_prompt": "Which interpretation of this model element is accurate: “graph → pattern, comparison or change → axes, scale, source”?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The first part is decorative and can be ignored.",
-        "is_correct": false
-      },
-      {
-        "text": "The second part always has the same effect in every text.",
-        "is_correct": false
-      },
-      {
-        "text": "It shows a deliberate relationship within Images, Figures, Tables, Diagrams, Maps and Graphs, so both parts must be interpreted together.",
-        "is_correct": true
-      },
-      {
-        "text": "The pairing proves that no alternative interpretation is possible.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The model links the feature to its contextual function without claiming a universal effect.",
-      "hint": "A visual may extend information beyond the prose. Readers should cross-reference, not treat it as decoration or automatically trustworthy evidence."
-    }
-  },
-  {
-    "id": "ac9e6la07-t-004",
-    "curriculum_code": "AC9E6LA07",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "evaluate_visual_verbal_alignment",
-    "question": "When applying Images, Figures, Tables, Diagrams, Maps and Graphs to an unfamiliar text, which analytical move is strongest?",
-    "audio_prompt": "When applying Images, Figures, Tables, Diagrams, Maps and Graphs to an unfamiliar text, which analytical move is strongest?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Name a feature and stop.",
-        "is_correct": false
-      },
-      {
-        "text": "Assume every audience responds identically.",
-        "is_correct": false
-      },
-      {
-        "text": "Replace analysis with an unsupported personal judgement.",
-        "is_correct": false
-      },
-      {
-        "text": "Identify the specific choice, cite relevant evidence and explain its contextual effect.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 3,
-    "explanation": {
-      "summary": "Strong analysis connects a specific choice and evidence to a contextual effect.",
-      "hint": "A graph can be accurate but visually misleading; an image can be authentic but unrepresentative. Analyse selection and presentation."
-    }
-  },
-  {
-    "id": "ac9e6la07-t-005",
-    "curriculum_code": "AC9E6LA07",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "visual_verbal_relationship",
-    "question": "Which example best demonstrates an understanding of visual–verbal relationship?",
-    "audio_prompt": "Which example best demonstrates an understanding of visual–verbal relationship?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Way image/data and words interact, identified using evidence from the text.",
+        "text": "Read axes and source.",
         "is_correct": true
       },
       {
         "text": "Caption assumed neutral",
         "is_correct": false
-      },
-      {
-        "text": "Visual information not mentioned in response",
-        "is_correct": false
-      },
-      {
-        "text": "A general comment that does not use the text.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "visual–verbal relationship is way image/data and words interact.",
-      "hint": "Select the response that applies the definition and uses evidence."
-    }
-  },
-  {
-    "id": "ac9e6la07-t-006",
-    "curriculum_code": "AC9E6LA07",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "transfer",
-    "question": "Which conclusion stays within the evidence when analysing Images, Figures, Tables, Diagrams, Maps and Graphs?",
-    "audio_prompt": "Which conclusion stays within the evidence when analysing Images, Figures, Tables, Diagrams, Maps and Graphs?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "This single example proves the rule applies identically everywhere.",
-        "is_correct": false
-      },
-      {
-        "text": "The evidence supports this interpretation, although context may allow another defensible reading.",
-        "is_correct": true
-      },
-      {
-        "text": "The writer's choice guarantees the same reaction from every reader.",
-        "is_correct": false
-      },
-      {
-        "text": "No evidence is needed because the interpretation sounds reasonable.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "A defensible conclusion uses evidence and acknowledges reasonable limits.",
-      "hint": "Avoid absolute claims unless the evidence genuinely supports them."
-    }
-  },
-  {
-    "id": "ac9e6la07-t-007",
-    "curriculum_code": "AC9E6LA07",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "extended_analysis",
-    "question": "Which response plan best addresses this challenge: Design a page combining a map, graph and explanatory paragraph, assigning each mode a distinct function?",
-    "audio_prompt": "Which response plan best addresses this challenge: Design a page combining a map, graph and explanatory paragraph, assigning each mode a distinct function?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Copy the lesson example without adapting it.",
-        "is_correct": false
-      },
-      {
-        "text": "Add several unrelated features and do not explain them.",
-        "is_correct": false
-      },
-      {
-        "text": "Make an original, purposeful choice, apply the unit's techniques consistently and annotate the resulting effects.",
-        "is_correct": true
-      },
-      {
-        "text": "Describe the task but do not produce or analyse a response.",
-        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.",
-      "hint": "A graph can be accurate but visually misleading; an image can be authentic but unrepresentative. Analyse selection and presentation."
-    }
+      "summary": "Read axes and source. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la07-t-008",
+    "id": "AC9E6LA07-T-009",
     "curriculum_code": "AC9E6LA07",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "skill": "critical_evaluation",
-    "question": "Which approach best addresses this evaluation: Create a technically accurate visual that could mislead through scale or selection, then repair it?",
-    "audio_prompt": "Which approach best addresses this evaluation: Create a technically accurate visual that could mislead through scale or selection, then repair it?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "apply",
+    "skill": "compare_agreement_or_tension",
+    "question": "A water-saving brochure includes “compare agreement or tension”. Which description best fits this wording?",
+    "audio_prompt": "A water-saving brochure includes “compare agreement or tension”. Which description best fits this wording?",
     "answers": [
       {
-        "text": "Choose a preferred answer before examining evidence.",
+        "text": "table",
         "is_correct": false
       },
       {
-        "text": "Summarise each example without comparing it.",
+        "text": "graph",
         "is_correct": false
       },
       {
-        "text": "Treat one feature as proof of the whole judgement.",
+        "text": "diagram",
         "is_correct": false
       },
       {
-        "text": "Use explicit criteria, compare relevant evidence and qualify the final judgement.",
+        "text": "compare agreement or tension",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.",
-      "hint": "Build the judgement from evidence rather than preference."
-    }
+      "summary": "The wording best matches compare agreement or tension.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-T-010",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "visual_verbal_relationship",
+    "question": "In a local council submission, which term matches this meaning: “way image/data and words interact”?",
+    "audio_prompt": "In a local council submission, which term matches this meaning: “way image/data and words interact”?",
+    "answers": [
+      {
+        "text": "visual–verbal relationship",
+        "is_correct": true
+      },
+      {
+        "text": "figure",
+        "is_correct": false
+      },
+      {
+        "text": "caption",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "visual–verbal relationship is the precise term for way image/data and words interact.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-T-011",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "images_figures_tables_diagrams_maps_and_graphs",
+    "question": "For a marine-research diary, which visual best shows exact values across categories?",
+    "audio_prompt": "For a marine-research diary, which visual best shows exact values across categories?",
+    "answers": [
+      {
+        "text": "unlabelled photograph",
+        "is_correct": false
+      },
+      {
+        "text": "table",
+        "is_correct": true
+      },
+      {
+        "text": "decorative icon",
+        "is_correct": false
+      },
+      {
+        "text": "colour wash",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“table” is supported by the language evidence and purpose of the text.",
+      "hint": "A graph can be accurate but visually misleading; an image can be authentic but unrepresentative. Analyse selection and presentation."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-T-012",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent_misconception_check",
+    "question": "A writer preparing a farmers market profile says, “Graph accepted without scale check”. Which response is most accurate?",
+    "audio_prompt": "A writer preparing a farmers market profile says, “Graph accepted without scale check”. Which response is most accurate?",
+    "answers": [
+      {
+        "text": "All visuals called pictures",
+        "is_correct": false
+      },
+      {
+        "text": "Graph accepted without scale check",
+        "is_correct": false
+      },
+      {
+        "text": "Read axes and source.",
+        "is_correct": true
+      },
+      {
+        "text": "Caption assumed neutral",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Read axes and source. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-T-013",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "identify_text_claim",
+    "question": "A astronomy exhibition includes “identify text claim”. Which description best fits this wording?",
+    "audio_prompt": "A astronomy exhibition includes “identify text claim”. Which description best fits this wording?",
+    "answers": [
+      {
+        "text": "table",
+        "is_correct": false
+      },
+      {
+        "text": "graph",
+        "is_correct": false
+      },
+      {
+        "text": "diagram",
+        "is_correct": false
+      },
+      {
+        "text": "identify text claim",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The wording best matches identify text claim.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-T-014",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "figure",
+    "question": "In a river-restoration update, which term matches this meaning: “numbered visual representation in a text”?",
+    "audio_prompt": "In a river-restoration update, which term matches this meaning: “numbered visual representation in a text”?",
+    "answers": [
+      {
+        "text": "figure",
+        "is_correct": true
+      },
+      {
+        "text": "caption",
+        "is_correct": false
+      },
+      {
+        "text": "visual–verbal relationship",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "figure is the precise term for numbered visual representation in a text.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-T-015",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "images_figures_tables_diagrams_maps_and_graphs",
+    "question": "For a cycling-safety campaign, which visual best shows exact values across categories?",
+    "audio_prompt": "For a cycling-safety campaign, which visual best shows exact values across categories?",
+    "answers": [
+      {
+        "text": "unlabelled photograph",
+        "is_correct": false
+      },
+      {
+        "text": "table",
+        "is_correct": true
+      },
+      {
+        "text": "decorative icon",
+        "is_correct": false
+      },
+      {
+        "text": "colour wash",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“table” is supported by the language evidence and purpose of the text.",
+      "hint": "A graph can be accurate but visually misleading; an image can be authentic but unrepresentative. Analyse selection and presentation."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-T-016",
+    "curriculum_code": "AC9E6LA07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent_misconception_check",
+    "question": "A writer preparing a neighbourhood history podcast says, “Graph accepted without scale check”. Which response is most accurate?",
+    "audio_prompt": "A writer preparing a neighbourhood history podcast says, “Graph accepted without scale check”. Which response is most accurate?",
+    "answers": [
+      {
+        "text": "All visuals called pictures",
+        "is_correct": false
+      },
+      {
+        "text": "Graph accepted without scale check",
+        "is_correct": false
+      },
+      {
+        "text": "Read axes and source.",
+        "is_correct": true
+      },
+      {
+        "text": "Caption assumed neutral",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Read axes and source. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-authored-v1"
   }
 ]

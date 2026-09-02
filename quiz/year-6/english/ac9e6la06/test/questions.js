@@ -1,14 +1,15 @@
 "use strict";
 window.skillrTestQuestions = [
   {
-    "id": "ac9e6la06-t-001",
+    "id": "AC9E6LA06-T-001",
     "curriculumCode": "AC9E6LA06",
     "bank": "test",
-    "skill": "verb groups and circumstances",
+    "stage": "verify",
+    "skill": "may rise",
     "printable": true,
     "type": "single",
-    "question": "Test example: verb group shows the action is still continuing?",
-    "audioPrompt": "Test example: verb group shows the action is still continuing?",
+    "question": "A community radio segment includes “possibility”. Which description best fits this wording?",
+    "audioPrompt": "A community radio segment includes “possibility”. Which description best fits this wording?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,86 +17,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The class is collecting water samples.",
-      "The verb group gives no time information.",
-      "The circumstance changes the subject of the sentence.",
-      "A vague verb is always stronger."
-    ],
-    "correct": 0,
-    "explanation": "The class is collecting water samples.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
-    "structuredExplanation": {
-      "summary": "The class is collecting water samples.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
-    },
-    "qualitySchema": "student-facing-v2"
-  },
-  {
-    "id": "ac9e6la06-t-002",
-    "curriculumCode": "AC9E6LA06",
-    "bank": "test",
-    "skill": "verb groups and circumstances",
-    "printable": true,
-    "type": "single",
-    "question": "Test example: Which sentence adds a circumstance of reason?",
-    "audioPrompt": "Test example: Which sentence adds a circumstance of reason?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The circumstance changes the subject of the sentence.",
-      "The students stayed inside because lightning was nearby.",
-      "A vague verb is always stronger.",
-      "Modality proves the event definitely happened."
-    ],
-    "correct": 1,
-    "explanation": "The students stayed inside because lightning was nearby.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
-    "structuredExplanation": {
-      "summary": "The students stayed inside because lightning was nearby.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
-    },
-    "qualitySchema": "student-facing-v2"
-  },
-  {
-    "id": "ac9e6la06-t-003",
-    "curriculumCode": "AC9E6LA06",
-    "bank": "test",
-    "skill": "verb groups and circumstances",
-    "printable": true,
-    "type": "single",
-    "question": "Test example: revision makes the verb more precise?",
-    "audioPrompt": "Test example: revision makes the verb more precise?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A vague verb is always stronger.",
-      "Modality proves the event definitely happened.",
-      "The eagle soared above the ridge.",
-      "The verb group gives no time information."
+      "The water changed.",
+      "The water had gradually evaporated.",
+      "may rise",
+      "After 20 minutes, the warmed water had gradually evaporated from the shallow tray."
     ],
     "correct": 2,
-    "explanation": "The eagle soared above the ridge.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "The wording best matches may rise.\nHint: Identify the language choice first, then check its effect in this context.",
     "structuredExplanation": {
-      "summary": "The eagle soared above the ridge.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "The wording best matches may rise.",
+      "hint": "Identify the language choice first, then check its effect in this context."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la06-t-004",
+    "id": "AC9E6LA06-T-002",
     "curriculumCode": "AC9E6LA06",
     "bank": "test",
-    "skill": "verb groups and circumstances",
+    "stage": "verify",
+    "skill": "verb group",
     "printable": true,
     "type": "single",
-    "question": "Test example: The team might present tomorrow. What does might show?",
-    "audioPrompt": "Test example: The team might present tomorrow. What does might show?",
+    "question": "In a wildlife-centre report, which term matches this meaning: “main verb with auxiliaries expressing tense, aspect or modality”?",
+    "audioPrompt": "In a wildlife-centre report, which term matches this meaning: “main verb with auxiliaries expressing tense, aspect or modality”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,28 +47,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Modality proves the event definitely happened.",
-      "The verb group gives no time information.",
-      "The circumstance changes the subject of the sentence.",
-      "Uncertainty or possibility."
+      "aspect",
+      "adverbial",
+      "It does not match the evidence in the example.",
+      "verb group"
     ],
     "correct": 3,
-    "explanation": "Uncertainty or possibility.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "verb group is the precise term for main verb with auxiliaries expressing tense, aspect or modality.\nHint: Distinguish closely related terms by their definitions.",
     "structuredExplanation": {
-      "summary": "Uncertainty or possibility.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "verb group is the precise term for main verb with auxiliaries expressing tense, aspect or modality.",
+      "hint": "Distinguish closely related terms by their definitions."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la06-t-005",
+    "id": "AC9E6LA06-T-003",
     "curriculumCode": "AC9E6LA06",
     "bank": "test",
-    "skill": "verb groups and circumstances",
+    "stage": "verify",
+    "skill": "expanding and sharpening ideas through language choice",
     "printable": true,
     "type": "single",
-    "question": "Test example: Which sentence gives the clearest information about when and where?",
-    "audioPrompt": "Test example: Which sentence gives the clearest information about when and where?",
+    "question": "For a regional youth forum, which verb group shows an ongoing past process?",
+    "audioPrompt": "For a regional youth forum, which verb group shows an ongoing past process?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +77,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "After lunch, the group met beside the library entrance.",
-      "The verb group gives no time information.",
-      "The circumstance changes the subject of the sentence.",
-      "A vague verb is always stronger."
+      "was rising",
+      "rose",
+      "had risen",
+      "will rise"
     ],
     "correct": 0,
-    "explanation": "After lunch, the group met beside the library entrance.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "“was rising” is supported by the language evidence and purpose of the text.\nHint: Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases.",
     "structuredExplanation": {
-      "summary": "After lunch, the group met beside the library entrance.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "“was rising” is supported by the language evidence and purpose of the text.",
+      "hint": "Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la06-t-006",
+    "id": "AC9E6LA06-T-004",
     "curriculumCode": "AC9E6LA06",
     "bank": "test",
-    "skill": "verb groups and circumstances",
+    "stage": "verify",
+    "skill": "independent misconception check",
     "printable": true,
     "type": "single",
-    "question": "Test example: which choice uses an expanded verb group correctly?",
-    "audioPrompt": "Test example: which choice uses an expanded verb group correctly?",
+    "question": "A writer preparing a coastal-monitoring update says, “Tense and aspect treated as identical”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a coastal-monitoring update says, “Tense and aspect treated as identical”. Which response is most accurate?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +107,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The circumstance changes the subject of the sentence.",
-      "The volunteers have been preparing the garden beds all morning.",
-      "A vague verb is always stronger.",
-      "Modality proves the event definitely happened."
+      "More modifiers means sharper writing",
+      "Aspect shows ongoing or completed relationships.",
+      "Tense and aspect treated as identical",
+      "Opening phrase has wrong actor"
     ],
     "correct": 1,
-    "explanation": "The volunteers have been preparing the garden beds all morning.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "Aspect shows ongoing or completed relationships. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
     "structuredExplanation": {
-      "summary": "The volunteers have been preparing the garden beds all morning.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "Aspect shows ongoing or completed relationships. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la06-t-007",
+    "id": "AC9E6LA06-T-005",
     "curriculumCode": "AC9E6LA06",
     "bank": "test",
-    "skill": "verb groups and circumstances",
+    "stage": "verify",
+    "skill": "may rise",
     "printable": true,
     "type": "single",
-    "question": "Test example: is sprinted stronger than went in The player went down the wing?",
-    "audioPrompt": "Test example: is sprinted stronger than went in The player went down the wing?",
+    "question": "A heritage trail guide includes “possibility”. Which description best fits this wording?",
+    "audioPrompt": "A heritage trail guide includes “possibility”. Which description best fits this wording?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +137,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A vague verb is always stronger.",
-      "Modality proves the event definitely happened.",
-      "It gives a more exact action and suggests speed.",
-      "The verb group gives no time information."
+      "The water changed.",
+      "The water had gradually evaporated.",
+      "may rise",
+      "After 20 minutes, the warmed water had gradually evaporated from the shallow tray."
     ],
     "correct": 2,
-    "explanation": "It gives a more exact action and suggests speed.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "The wording best matches may rise.\nHint: Identify the language choice first, then check its effect in this context.",
     "structuredExplanation": {
-      "summary": "It gives a more exact action and suggests speed.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "The wording best matches may rise.",
+      "hint": "Identify the language choice first, then check its effect in this context."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la06-t-008",
+    "id": "AC9E6LA06-T-006",
     "curriculumCode": "AC9E6LA06",
     "bank": "test",
-    "skill": "verb groups and circumstances",
+    "stage": "verify",
+    "skill": "aspect",
     "printable": true,
     "type": "single",
-    "question": "Test example: Which sentence adds a condition?",
-    "audioPrompt": "Test example: Which sentence adds a condition?",
+    "question": "In a public-transport survey, which term matches this meaning: “way a process unfolds in time”?",
+    "audioPrompt": "In a public-transport survey, which term matches this meaning: “way a process unfolds in time”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,18 +167,318 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Modality proves the event definitely happened.",
-      "The verb group gives no time information.",
-      "The circumstance changes the subject of the sentence.",
-      "If the rain stops, the match will begin at 3 pm."
+      "verb group",
+      "adverbial",
+      "It does not match the evidence in the example.",
+      "aspect"
     ],
     "correct": 3,
-    "explanation": "If the rain stops, the match will begin at 3 pm.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "aspect is the precise term for way a process unfolds in time.\nHint: Distinguish closely related terms by their definitions.",
     "structuredExplanation": {
-      "summary": "If the rain stops, the match will begin at 3 pm.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "aspect is the precise term for way a process unfolds in time.",
+      "hint": "Distinguish closely related terms by their definitions."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA06-T-007",
+    "curriculumCode": "AC9E6LA06",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "expanding and sharpening ideas through language choice",
+    "printable": true,
+    "type": "single",
+    "question": "For a festival review, which verb group shows an ongoing past process?",
+    "audioPrompt": "For a festival review, which verb group shows an ongoing past process?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "was rising",
+      "rose",
+      "had risen",
+      "will rise"
+    ],
+    "correct": 0,
+    "explanation": "“was rising” is supported by the language evidence and purpose of the text.\nHint: Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases.",
+    "structuredExplanation": {
+      "summary": "“was rising” is supported by the language evidence and purpose of the text.",
+      "hint": "Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA06-T-008",
+    "curriculumCode": "AC9E6LA06",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "independent misconception check",
+    "printable": true,
+    "type": "single",
+    "question": "A writer preparing a emergency-preparedness talk says, “Tense and aspect treated as identical”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a emergency-preparedness talk says, “Tense and aspect treated as identical”. Which response is most accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "More modifiers means sharper writing",
+      "Aspect shows ongoing or completed relationships.",
+      "Tense and aspect treated as identical",
+      "Opening phrase has wrong actor"
+    ],
+    "correct": 1,
+    "explanation": "Aspect shows ongoing or completed relationships. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "structuredExplanation": {
+      "summary": "Aspect shows ongoing or completed relationships. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA06-T-009",
+    "curriculumCode": "AC9E6LA06",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "may rise",
+    "printable": true,
+    "type": "single",
+    "question": "A water-saving brochure includes “possibility”. Which description best fits this wording?",
+    "audioPrompt": "A water-saving brochure includes “possibility”. Which description best fits this wording?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The water changed.",
+      "The water had gradually evaporated.",
+      "may rise",
+      "After 20 minutes, the warmed water had gradually evaporated from the shallow tray."
+    ],
+    "correct": 2,
+    "explanation": "The wording best matches may rise.\nHint: Identify the language choice first, then check its effect in this context.",
+    "structuredExplanation": {
+      "summary": "The wording best matches may rise.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA06-T-010",
+    "curriculumCode": "AC9E6LA06",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "adverbial",
+    "printable": true,
+    "type": "single",
+    "question": "In a local council submission, which term matches this meaning: “element adding circumstance or stance”?",
+    "audioPrompt": "In a local council submission, which term matches this meaning: “element adding circumstance or stance”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "verb group",
+      "aspect",
+      "It does not match the evidence in the example.",
+      "adverbial"
+    ],
+    "correct": 3,
+    "explanation": "adverbial is the precise term for element adding circumstance or stance.\nHint: Distinguish closely related terms by their definitions.",
+    "structuredExplanation": {
+      "summary": "adverbial is the precise term for element adding circumstance or stance.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA06-T-011",
+    "curriculumCode": "AC9E6LA06",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "expanding and sharpening ideas through language choice",
+    "printable": true,
+    "type": "single",
+    "question": "For a marine-research diary, which verb group shows an ongoing past process?",
+    "audioPrompt": "For a marine-research diary, which verb group shows an ongoing past process?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "was rising",
+      "rose",
+      "had risen",
+      "will rise"
+    ],
+    "correct": 0,
+    "explanation": "“was rising” is supported by the language evidence and purpose of the text.\nHint: Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases.",
+    "structuredExplanation": {
+      "summary": "“was rising” is supported by the language evidence and purpose of the text.",
+      "hint": "Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA06-T-012",
+    "curriculumCode": "AC9E6LA06",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent misconception check",
+    "printable": true,
+    "type": "single",
+    "question": "A writer preparing a farmers market profile says, “Tense and aspect treated as identical”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a farmers market profile says, “Tense and aspect treated as identical”. Which response is most accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "More modifiers means sharper writing",
+      "Aspect shows ongoing or completed relationships.",
+      "Tense and aspect treated as identical",
+      "Opening phrase has wrong actor"
+    ],
+    "correct": 1,
+    "explanation": "Aspect shows ongoing or completed relationships. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "structuredExplanation": {
+      "summary": "Aspect shows ongoing or completed relationships. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA06-T-013",
+    "curriculumCode": "AC9E6LA06",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "may rise",
+    "printable": true,
+    "type": "single",
+    "question": "A astronomy exhibition includes “possibility”. Which description best fits this wording?",
+    "audioPrompt": "A astronomy exhibition includes “possibility”. Which description best fits this wording?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The water changed.",
+      "The water had gradually evaporated.",
+      "may rise",
+      "After 20 minutes, the warmed water had gradually evaporated from the shallow tray."
+    ],
+    "correct": 2,
+    "explanation": "The wording best matches may rise.\nHint: Identify the language choice first, then check its effect in this context.",
+    "structuredExplanation": {
+      "summary": "The wording best matches may rise.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA06-T-014",
+    "curriculumCode": "AC9E6LA06",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "verb group",
+    "printable": true,
+    "type": "single",
+    "question": "In a river-restoration update, which term matches this meaning: “main verb with auxiliaries expressing tense, aspect or modality”?",
+    "audioPrompt": "In a river-restoration update, which term matches this meaning: “main verb with auxiliaries expressing tense, aspect or modality”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "aspect",
+      "adverbial",
+      "It does not match the evidence in the example.",
+      "verb group"
+    ],
+    "correct": 3,
+    "explanation": "verb group is the precise term for main verb with auxiliaries expressing tense, aspect or modality.\nHint: Distinguish closely related terms by their definitions.",
+    "structuredExplanation": {
+      "summary": "verb group is the precise term for main verb with auxiliaries expressing tense, aspect or modality.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA06-T-015",
+    "curriculumCode": "AC9E6LA06",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "expanding and sharpening ideas through language choice",
+    "printable": true,
+    "type": "single",
+    "question": "For a cycling-safety campaign, which verb group shows an ongoing past process?",
+    "audioPrompt": "For a cycling-safety campaign, which verb group shows an ongoing past process?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "was rising",
+      "rose",
+      "had risen",
+      "will rise"
+    ],
+    "correct": 0,
+    "explanation": "“was rising” is supported by the language evidence and purpose of the text.\nHint: Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases.",
+    "structuredExplanation": {
+      "summary": "“was rising” is supported by the language evidence and purpose of the text.",
+      "hint": "Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA06-T-016",
+    "curriculumCode": "AC9E6LA06",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent misconception check",
+    "printable": true,
+    "type": "single",
+    "question": "A writer preparing a neighbourhood history podcast says, “Tense and aspect treated as identical”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a neighbourhood history podcast says, “Tense and aspect treated as identical”. Which response is most accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "More modifiers means sharper writing",
+      "Aspect shows ongoing or completed relationships.",
+      "Tense and aspect treated as identical",
+      "Opening phrase has wrong actor"
+    ],
+    "correct": 1,
+    "explanation": "Aspect shows ongoing or completed relationships. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "structuredExplanation": {
+      "summary": "Aspect shows ongoing or completed relationships. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "qualitySchema": "skillr-authored-v1"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;
