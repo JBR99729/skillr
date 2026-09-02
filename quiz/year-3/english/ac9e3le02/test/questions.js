@@ -7,21 +7,16 @@ window.skillrTestQuestions = [
     "skill": "Personal Connections and Text Preferences",
     "printable": true,
     "type": "single",
-    "question": "While reading about a family celebration, which response makes a useful personal connection?",
+    "question": "New check: While reading about a family celebration, which response makes a useful personal connection?",
     "audioPrompt": "While reading about a family celebration, which response makes a useful personal connection?",
-    "visual": "A classroom English model for while reading about a family celebration showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while reading about a family celebration showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-001",
-      "alt_text": "A classroom English model for while reading about a family celebration showing the evidence needed for this task"
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "This reminds me of feeling new because both characters needed help",
       "I have read a book before",
+      "This reminds me of feeling new because both characters needed help",
       "The cover is green"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "This reminds me of feeling new because both characters needed help This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
     "structuredExplanation": {
       "summary": "This reminds me of feeling new because both characters needed help This choice best fits the language, text or literacy evidence.",
@@ -36,21 +31,16 @@ window.skillrTestQuestions = [
     "skill": "Personal Connections and Text Preferences",
     "printable": true,
     "type": "single",
-    "question": "While reading about a family celebration, which preference includes text evidence?",
+    "question": "New check: While reading about a family celebration, which preference includes text evidence?",
     "audioPrompt": "While reading about a family celebration, which preference includes text evidence?",
-    "visual": "A classroom English model for while reading about a family celebration showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while reading about a family celebration showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-002\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-002",
-      "alt_text": "A classroom English model for while reading about a family celebration showing the evidence needed for this task"
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "Kai is just better",
-      "I prefer Kai because he returns the lost purse",
-      "I like page nine"
+      "I like page nine",
+      "I prefer Kai because he returns the lost purse"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "I prefer Kai because he returns the lost purse This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
     "structuredExplanation": {
       "summary": "I prefer Kai because he returns the lost purse This choice best fits the language, text or literacy evidence.",
@@ -65,21 +55,16 @@ window.skillrTestQuestions = [
     "skill": "Personal Connections and Text Preferences",
     "printable": true,
     "type": "single",
-    "question": "While reading about a family celebration, what keeps a personal connection relevant?",
+    "question": "New check: While reading about a family celebration, what keeps a personal connection relevant?",
     "audioPrompt": "While reading about a family celebration, what keeps a personal connection relevant?",
-    "visual": "A classroom English model for while reading about a family celebration showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while reading about a family celebration showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-003",
-      "alt_text": "A classroom English model for while reading about a family celebration showing the evidence needed for this task"
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
+      "Linking the experience to a specific event or idea in the text",
       "Telling an unrelated long story",
-      "Ignoring what the character did",
-      "Linking the experience to a specific event or idea in the text"
+      "Ignoring what the character did"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "Linking the experience to a specific event or idea in the text This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
     "structuredExplanation": {
       "summary": "Linking the experience to a specific event or idea in the text This choice best fits the language, text or literacy evidence.",
@@ -94,21 +79,16 @@ window.skillrTestQuestions = [
     "skill": "Personal Connections and Text Preferences",
     "printable": true,
     "type": "single",
-    "question": "While reading about a family celebration, why might two readers prefer different characters?",
+    "question": "New check: While reading about a family celebration, why might two readers prefer different characters?",
     "audioPrompt": "While reading about a family celebration, why might two readers prefer different characters?",
-    "visual": "A classroom English model for while reading about a family celebration showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while reading about a family celebration showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-004\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-004",
-      "alt_text": "A classroom English model for while reading about a family celebration showing the evidence needed for this task"
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Their experiences and values may lead them to notice different evidence",
       "Only one reader can understand the story",
+      "Their experiences and values may lead them to notice different evidence",
       "Preferences never need reasons"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Their experiences and values may lead them to notice different evidence This explanation follows the relevant Year 3 English evidence.\nHint: Use the story details and reader effect before choosing.",
     "structuredExplanation": {
       "summary": "Their experiences and values may lead them to notice different evidence This explanation follows the relevant Year 3 English evidence.",
@@ -123,21 +103,16 @@ window.skillrTestQuestions = [
     "skill": "Personal Connections and Text Preferences",
     "printable": true,
     "type": "single",
-    "question": "While reading about a family celebration, which statement is a summary rather than a connection?",
+    "question": "New check: While reading about a family celebration, which statement is a summary rather than a connection?",
     "audioPrompt": "While reading about a family celebration, which statement is a summary rather than a connection?",
-    "visual": "A classroom English model for while reading about a family celebration showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while reading about a family celebration showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-005",
-      "alt_text": "A classroom English model for while reading about a family celebration showing the evidence needed for this task"
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "I also moved to a new town",
-      "The family moved to a new town",
-      "The move reminds me of my first day"
+      "The move reminds me of my first day",
+      "The family moved to a new town"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "The family moved to a new town This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
     "structuredExplanation": {
       "summary": "The family moved to a new town This choice best fits the language, text or literacy evidence.",
@@ -152,21 +127,16 @@ window.skillrTestQuestions = [
     "skill": "Personal Connections and Text Preferences",
     "printable": true,
     "type": "single",
-    "question": "While reading about a family celebration, a reader felt tense when the bridge cracked. What supports that reaction?",
+    "question": "New check: While reading about a family celebration, a reader felt tense when the bridge cracked. What supports that reaction?",
     "audioPrompt": "While reading about a family celebration, a reader felt tense when the bridge cracked. What supports that reaction?",
-    "visual": "A classroom English model for while reading about a family celebration showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while reading about a family celebration showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-006",
-      "alt_text": "A classroom English model for while reading about a family celebration showing the evidence needed for this task"
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
+      "The dangerous event in the text",
       "The reader's favourite colour",
-      "The number of chapters",
-      "The dangerous event in the text"
+      "The number of chapters"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "The dangerous event in the text This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
     "structuredExplanation": {
       "summary": "The dangerous event in the text This choice best fits the language, text or literacy evidence.",
@@ -181,21 +151,16 @@ window.skillrTestQuestions = [
     "skill": "Personal Connections and Text Preferences",
     "printable": true,
     "type": "single",
-    "question": "While reading about a family celebration, which response evaluates a character fairly?",
+    "question": "New check: While reading about a family celebration, which response evaluates a character fairly?",
     "audioPrompt": "While reading about a family celebration, which response evaluates a character fairly?",
-    "visual": "A classroom English model for while reading about a family celebration showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while reading about a family celebration showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-007",
-      "alt_text": "A classroom English model for while reading about a family celebration showing the evidence needed for this task"
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "I disagreed with the choice because the character ignored a warning",
       "The character is bad",
+      "I disagreed with the choice because the character ignored a warning",
       "I did not like the font"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "I disagreed with the choice because the character ignored a warning This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
     "structuredExplanation": {
       "summary": "I disagreed with the choice because the character ignored a warning This choice best fits the language, text or literacy evidence.",
@@ -210,21 +175,16 @@ window.skillrTestQuestions = [
     "skill": "Personal Connections and Text Preferences",
     "printable": true,
     "type": "single",
-    "question": "While reading about a family celebration, how can a connection deepen understanding?",
+    "question": "New check: While reading about a family celebration, how can a connection deepen understanding?",
     "audioPrompt": "While reading about a family celebration, how can a connection deepen understanding?",
-    "visual": "A classroom English model for while reading about a family celebration showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for while reading about a family celebration showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-008\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-008",
-      "alt_text": "A classroom English model for while reading about a family celebration showing the evidence needed for this task"
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "It replaces the need to read closely",
-      "It can help a reader recognise a character's feelings while checking text evidence",
-      "It proves every reader reacts identically"
+      "It proves every reader reacts identically",
+      "It can help a reader recognise a character's feelings while checking text evidence"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "It can help a reader recognise a character's feelings while checking text evidence This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
     "structuredExplanation": {
       "summary": "It can help a reader recognise a character's feelings while checking text evidence This choice best fits the language, text or literacy evidence.",
@@ -239,21 +199,16 @@ window.skillrTestQuestions = [
     "skill": "Personal Connections and Text Preferences",
     "printable": true,
     "type": "single",
-    "question": "During a story about facing a storm, which response makes a useful personal connection?",
+    "question": "New check: During a story about facing a storm, which response makes a useful personal connection?",
     "audioPrompt": "During a story about facing a storm, which response makes a useful personal connection?",
-    "visual": "A classroom English model for during a story about facing a storm showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for during a story about facing a storm showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-009",
-      "alt_text": "A classroom English model for during a story about facing a storm showing the evidence needed for this task"
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
+      "This reminds me of feeling new because both characters needed help",
       "I have read a book before",
-      "The cover is green",
-      "This reminds me of feeling new because both characters needed help"
+      "The cover is green"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "This reminds me of feeling new because both characters needed help This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
     "structuredExplanation": {
       "summary": "This reminds me of feeling new because both characters needed help This choice best fits the language, text or literacy evidence.",
@@ -268,21 +223,16 @@ window.skillrTestQuestions = [
     "skill": "Personal Connections and Text Preferences",
     "printable": true,
     "type": "single",
-    "question": "During a story about facing a storm, which preference includes text evidence?",
+    "question": "New check: During a story about facing a storm, which preference includes text evidence?",
     "audioPrompt": "During a story about facing a storm, which preference includes text evidence?",
-    "visual": "A classroom English model for during a story about facing a storm showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for during a story about facing a storm showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-010",
-      "alt_text": "A classroom English model for during a story about facing a storm showing the evidence needed for this task"
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "I prefer Kai because he returns the lost purse",
       "Kai is just better",
+      "I prefer Kai because he returns the lost purse",
       "I like page nine"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "I prefer Kai because he returns the lost purse This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
     "structuredExplanation": {
       "summary": "I prefer Kai because he returns the lost purse This choice best fits the language, text or literacy evidence.",
@@ -297,21 +247,16 @@ window.skillrTestQuestions = [
     "skill": "Personal Connections and Text Preferences",
     "printable": true,
     "type": "single",
-    "question": "During a story about facing a storm, what keeps a personal connection relevant?",
+    "question": "New check: During a story about facing a storm, what keeps a personal connection relevant?",
     "audioPrompt": "During a story about facing a storm, what keeps a personal connection relevant?",
-    "visual": "A classroom English model for during a story about facing a storm showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for during a story about facing a storm showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-011",
-      "alt_text": "A classroom English model for during a story about facing a storm showing the evidence needed for this task"
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "Telling an unrelated long story",
-      "Linking the experience to a specific event or idea in the text",
-      "Ignoring what the character did"
+      "Ignoring what the character did",
+      "Linking the experience to a specific event or idea in the text"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Linking the experience to a specific event or idea in the text This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
     "structuredExplanation": {
       "summary": "Linking the experience to a specific event or idea in the text This choice best fits the language, text or literacy evidence.",
@@ -326,21 +271,16 @@ window.skillrTestQuestions = [
     "skill": "Personal Connections and Text Preferences",
     "printable": true,
     "type": "single",
-    "question": "During a story about facing a storm, why might two readers prefer different characters?",
+    "question": "New check: During a story about facing a storm, why might two readers prefer different characters?",
     "audioPrompt": "During a story about facing a storm, why might two readers prefer different characters?",
-    "visual": "A classroom English model for during a story about facing a storm showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for during a story about facing a storm showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-012\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-012",
-      "alt_text": "A classroom English model for during a story about facing a storm showing the evidence needed for this task"
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
+      "Their experiences and values may lead them to notice different evidence",
       "Only one reader can understand the story",
-      "Preferences never need reasons",
-      "Their experiences and values may lead them to notice different evidence"
+      "Preferences never need reasons"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "Their experiences and values may lead them to notice different evidence This explanation follows the relevant Year 3 English evidence.\nHint: Use the story details and reader effect before choosing.",
     "structuredExplanation": {
       "summary": "Their experiences and values may lead them to notice different evidence This explanation follows the relevant Year 3 English evidence.",
@@ -355,21 +295,16 @@ window.skillrTestQuestions = [
     "skill": "Personal Connections and Text Preferences",
     "printable": true,
     "type": "single",
-    "question": "During a story about facing a storm, which statement is a summary rather than a connection?",
+    "question": "New check: During a story about facing a storm, which statement is a summary rather than a connection?",
     "audioPrompt": "During a story about facing a storm, which statement is a summary rather than a connection?",
-    "visual": "A classroom English model for during a story about facing a storm showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for during a story about facing a storm showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-013",
-      "alt_text": "A classroom English model for during a story about facing a storm showing the evidence needed for this task"
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "The family moved to a new town",
       "I also moved to a new town",
+      "The family moved to a new town",
       "The move reminds me of my first day"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "The family moved to a new town This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
     "structuredExplanation": {
       "summary": "The family moved to a new town This choice best fits the language, text or literacy evidence.",
@@ -384,21 +319,16 @@ window.skillrTestQuestions = [
     "skill": "Personal Connections and Text Preferences",
     "printable": true,
     "type": "single",
-    "question": "During a story about facing a storm, a reader felt tense when the bridge cracked. What supports that reaction?",
+    "question": "New check: During a story about facing a storm, a reader felt tense when the bridge cracked. What supports that reaction?",
     "audioPrompt": "During a story about facing a storm, a reader felt tense when the bridge cracked. What supports that reaction?",
-    "visual": "A classroom English model for during a story about facing a storm showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for during a story about facing a storm showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-014\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-014",
-      "alt_text": "A classroom English model for during a story about facing a storm showing the evidence needed for this task"
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "The reader's favourite colour",
-      "The dangerous event in the text",
-      "The number of chapters"
+      "The number of chapters",
+      "The dangerous event in the text"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "The dangerous event in the text This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
     "structuredExplanation": {
       "summary": "The dangerous event in the text This choice best fits the language, text or literacy evidence.",
@@ -413,21 +343,16 @@ window.skillrTestQuestions = [
     "skill": "Personal Connections and Text Preferences",
     "printable": true,
     "type": "single",
-    "question": "During a story about facing a storm, which response evaluates a character fairly?",
+    "question": "New check: During a story about facing a storm, which response evaluates a character fairly?",
     "audioPrompt": "During a story about facing a storm, which response evaluates a character fairly?",
-    "visual": "A classroom English model for during a story about facing a storm showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for during a story about facing a storm showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-015",
-      "alt_text": "A classroom English model for during a story about facing a storm showing the evidence needed for this task"
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
+      "I disagreed with the choice because the character ignored a warning",
       "The character is bad",
-      "I did not like the font",
-      "I disagreed with the choice because the character ignored a warning"
+      "I did not like the font"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "I disagreed with the choice because the character ignored a warning This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
     "structuredExplanation": {
       "summary": "I disagreed with the choice because the character ignored a warning This choice best fits the language, text or literacy evidence.",
@@ -442,21 +367,16 @@ window.skillrTestQuestions = [
     "skill": "Personal Connections and Text Preferences",
     "printable": true,
     "type": "single",
-    "question": "During a story about facing a storm, how can a connection deepen understanding?",
+    "question": "New check: During a story about facing a storm, how can a connection deepen understanding?",
     "audioPrompt": "During a story about facing a storm, how can a connection deepen understanding?",
-    "visual": "A classroom English model for during a story about facing a storm showing the evidence needed for this task",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A classroom English model for during a story about facing a storm showing the evidence needed for this task\"><use href=\"/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-016",
-      "alt_text": "A classroom English model for during a story about facing a storm showing the evidence needed for this task"
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "It can help a reader recognise a character's feelings while checking text evidence",
       "It replaces the need to read closely",
+      "It can help a reader recognise a character's feelings while checking text evidence",
       "It proves every reader reacts identically"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "It can help a reader recognise a character's feelings while checking text evidence This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
     "structuredExplanation": {
       "summary": "It can help a reader recognise a character's feelings while checking text evidence This choice best fits the language, text or literacy evidence.",

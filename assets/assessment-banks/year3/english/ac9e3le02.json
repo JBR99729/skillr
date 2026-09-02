@@ -5,14 +5,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE02",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Personal Connections and Text Preferences",
     "question": "While reading a story about moving school, which response makes a useful personal connection?",
     "audio_prompt": "While reading a story about moving school, which response makes a useful personal connection?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-p-001",
-      "alt_text": "A classroom English model for while reading a story about moving school showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "This reminds me of feeling new because both characters needed help",
@@ -31,10 +27,7 @@
     "explanation": {
       "summary": "This reminds me of feeling new because both characters needed help This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LE02-P-002",
@@ -42,14 +35,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE02",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Personal Connections and Text Preferences",
     "question": "While reading a story about moving school, which preference includes text evidence?",
     "audio_prompt": "While reading a story about moving school, which preference includes text evidence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-p-002",
-      "alt_text": "A classroom English model for while reading a story about moving school showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Kai is just better",
@@ -68,10 +57,7 @@
     "explanation": {
       "summary": "I prefer Kai because he returns the lost purse This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LE02-P-003",
@@ -79,14 +65,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE02",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Personal Connections and Text Preferences",
     "question": "While reading a story about moving school, what keeps a personal connection relevant?",
     "audio_prompt": "While reading a story about moving school, what keeps a personal connection relevant?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-p-003",
-      "alt_text": "A classroom English model for while reading a story about moving school showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Telling an unrelated long story",
@@ -105,10 +87,7 @@
     "explanation": {
       "summary": "Linking the experience to a specific event or idea in the text This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LE02-P-004",
@@ -116,14 +95,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE02",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Personal Connections and Text Preferences",
     "question": "While reading a story about moving school, why might two readers prefer different characters?",
     "audio_prompt": "While reading a story about moving school, why might two readers prefer different characters?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-p-004",
-      "alt_text": "A classroom English model for while reading a story about moving school showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Their experiences and values may lead them to notice different evidence",
@@ -142,10 +117,7 @@
     "explanation": {
       "summary": "Their experiences and values may lead them to notice different evidence This explanation follows the relevant Year 3 English evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LE02-P-005",
@@ -153,14 +125,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE02",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Personal Connections and Text Preferences",
     "question": "While reading a story about moving school, which statement is a summary rather than a connection?",
     "audio_prompt": "While reading a story about moving school, which statement is a summary rather than a connection?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-p-005",
-      "alt_text": "A classroom English model for while reading a story about moving school showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "I also moved to a new town",
@@ -179,10 +147,7 @@
     "explanation": {
       "summary": "The family moved to a new town This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LE02-P-006",
@@ -190,14 +155,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE02",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Personal Connections and Text Preferences",
     "question": "While reading a story about moving school, a reader felt tense when the bridge cracked. What supports that reaction?",
     "audio_prompt": "While reading a story about moving school, a reader felt tense when the bridge cracked. What supports that reaction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-p-006",
-      "alt_text": "A classroom English model for while reading a story about moving school showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "The reader's favourite colour",
@@ -216,10 +177,7 @@
     "explanation": {
       "summary": "The dangerous event in the text This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LE02-P-007",
@@ -227,14 +185,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE02",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Personal Connections and Text Preferences",
     "question": "While reading a story about moving school, which response evaluates a character fairly?",
     "audio_prompt": "While reading a story about moving school, which response evaluates a character fairly?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-p-007",
-      "alt_text": "A classroom English model for while reading a story about moving school showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "I disagreed with the choice because the character ignored a warning",
@@ -253,9 +207,7 @@
     "explanation": {
       "summary": "I disagreed with the choice because the character ignored a warning This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LE02-P-008",
@@ -263,14 +215,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE02",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Personal Connections and Text Preferences",
     "question": "While reading a story about moving school, how can a connection deepen understanding?",
     "audio_prompt": "While reading a story about moving school, how can a connection deepen understanding?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-p-008",
-      "alt_text": "A classroom English model for while reading a story about moving school showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "It replaces the need to read closely",
@@ -289,10 +237,7 @@
     "explanation": {
       "summary": "It can help a reader recognise a character's feelings while checking text evidence This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LE02-P-009",
@@ -300,14 +245,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE02",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Personal Connections and Text Preferences",
     "question": "During a tale about a lost pet, which response makes a useful personal connection?",
     "audio_prompt": "During a tale about a lost pet, which response makes a useful personal connection?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-p-009",
-      "alt_text": "A classroom English model for during a tale about a lost pet showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "I have read a book before",
@@ -326,10 +267,7 @@
     "explanation": {
       "summary": "This reminds me of feeling new because both characters needed help This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LE02-P-010",
@@ -337,14 +275,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE02",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Personal Connections and Text Preferences",
     "question": "During a tale about a lost pet, which preference includes text evidence?",
     "audio_prompt": "During a tale about a lost pet, which preference includes text evidence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-p-010",
-      "alt_text": "A classroom English model for during a tale about a lost pet showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "I prefer Kai because he returns the lost purse",
@@ -363,9 +297,7 @@
     "explanation": {
       "summary": "I prefer Kai because he returns the lost purse This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LE02-P-011",
@@ -373,14 +305,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE02",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Personal Connections and Text Preferences",
     "question": "During a tale about a lost pet, what keeps a personal connection relevant?",
     "audio_prompt": "During a tale about a lost pet, what keeps a personal connection relevant?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-p-011",
-      "alt_text": "A classroom English model for during a tale about a lost pet showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Telling an unrelated long story",
@@ -399,9 +327,7 @@
     "explanation": {
       "summary": "Linking the experience to a specific event or idea in the text This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LE02-P-012",
@@ -409,14 +335,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE02",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Personal Connections and Text Preferences",
     "question": "During a tale about a lost pet, why might two readers prefer different characters?",
     "audio_prompt": "During a tale about a lost pet, why might two readers prefer different characters?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-p-012",
-      "alt_text": "A classroom English model for during a tale about a lost pet showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Only one reader can understand the story",
@@ -435,9 +357,7 @@
     "explanation": {
       "summary": "Their experiences and values may lead them to notice different evidence This explanation follows the relevant Year 3 English evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LE02-P-013",
@@ -445,14 +365,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE02",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Personal Connections and Text Preferences",
     "question": "During a tale about a lost pet, which statement is a summary rather than a connection?",
     "audio_prompt": "During a tale about a lost pet, which statement is a summary rather than a connection?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-p-013",
-      "alt_text": "A classroom English model for during a tale about a lost pet showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "The family moved to a new town",
@@ -471,9 +387,7 @@
     "explanation": {
       "summary": "The family moved to a new town This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LE02-P-014",
@@ -481,14 +395,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE02",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Personal Connections and Text Preferences",
     "question": "During a tale about a lost pet, a reader felt tense when the bridge cracked. What supports that reaction?",
     "audio_prompt": "During a tale about a lost pet, a reader felt tense when the bridge cracked. What supports that reaction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-p-014",
-      "alt_text": "A classroom English model for during a tale about a lost pet showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "The reader's favourite colour",
@@ -507,9 +417,7 @@
     "explanation": {
       "summary": "The dangerous event in the text This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LE02-P-015",
@@ -517,14 +425,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE02",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Personal Connections and Text Preferences",
     "question": "During a tale about a lost pet, which response evaluates a character fairly?",
     "audio_prompt": "During a tale about a lost pet, which response evaluates a character fairly?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-p-015",
-      "alt_text": "A classroom English model for during a tale about a lost pet showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "The character is bad",
@@ -543,9 +447,7 @@
     "explanation": {
       "summary": "I disagreed with the choice because the character ignored a warning This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LE02-P-016",
@@ -553,14 +455,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE02",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Personal Connections and Text Preferences",
     "question": "During a tale about a lost pet, how can a connection deepen understanding?",
     "audio_prompt": "During a tale about a lost pet, how can a connection deepen understanding?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-p-016",
-      "alt_text": "A classroom English model for during a tale about a lost pet showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "It can help a reader recognise a character's feelings while checking text evidence",
@@ -579,9 +477,7 @@
     "explanation": {
       "summary": "It can help a reader recognise a character's feelings while checking text evidence This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LE02-P-017",
@@ -589,14 +485,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE02",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Personal Connections and Text Preferences",
     "question": "After a story about a team challenge, which response makes a useful personal connection?",
     "audio_prompt": "After a story about a team challenge, which response makes a useful personal connection?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-p-017",
-      "alt_text": "A classroom English model for after a story about a team challenge showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "I have read a book before",
@@ -615,9 +507,7 @@
     "explanation": {
       "summary": "This reminds me of feeling new because both characters needed help This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LE02-P-018",
@@ -625,14 +515,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE02",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Personal Connections and Text Preferences",
     "question": "After a story about a team challenge, which preference includes text evidence?",
     "audio_prompt": "After a story about a team challenge, which preference includes text evidence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-p-018",
-      "alt_text": "A classroom English model for after a story about a team challenge showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Kai is just better",
@@ -651,9 +537,7 @@
     "explanation": {
       "summary": "I prefer Kai because he returns the lost purse This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LE02-P-019",
@@ -661,14 +545,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE02",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Personal Connections and Text Preferences",
     "question": "After a story about a team challenge, what keeps a personal connection relevant?",
     "audio_prompt": "After a story about a team challenge, what keeps a personal connection relevant?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-p-019",
-      "alt_text": "A classroom English model for after a story about a team challenge showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Linking the experience to a specific event or idea in the text",
@@ -687,9 +567,7 @@
     "explanation": {
       "summary": "Linking the experience to a specific event or idea in the text This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LE02-P-020",
@@ -697,14 +575,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE02",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Personal Connections and Text Preferences",
     "question": "After a story about a team challenge, why might two readers prefer different characters?",
     "audio_prompt": "After a story about a team challenge, why might two readers prefer different characters?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-p-020",
-      "alt_text": "A classroom English model for after a story about a team challenge showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Only one reader can understand the story",
@@ -723,9 +597,7 @@
     "explanation": {
       "summary": "Their experiences and values may lead them to notice different evidence This explanation follows the relevant Year 3 English evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LE02-P-021",
@@ -733,14 +605,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE02",
     "bank": "practice",
+    "stage": "discriminate",
     "skill": "Personal Connections and Text Preferences",
     "question": "After a story about a team challenge, which statement is a summary rather than a connection?",
     "audio_prompt": "After a story about a team challenge, which statement is a summary rather than a connection?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-p-021",
-      "alt_text": "A classroom English model for after a story about a team challenge showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "I also moved to a new town",
@@ -759,9 +627,7 @@
     "explanation": {
       "summary": "The family moved to a new town This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LE02-P-022",
@@ -769,14 +635,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE02",
     "bank": "practice",
+    "stage": "discriminate",
     "skill": "Personal Connections and Text Preferences",
     "question": "After a story about a team challenge, a reader felt tense when the bridge cracked. What supports that reaction?",
     "audio_prompt": "After a story about a team challenge, a reader felt tense when the bridge cracked. What supports that reaction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-p-022",
-      "alt_text": "A classroom English model for after a story about a team challenge showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "The dangerous event in the text",
@@ -795,9 +657,7 @@
     "explanation": {
       "summary": "The dangerous event in the text This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LE02-P-023",
@@ -805,14 +665,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE02",
     "bank": "practice",
+    "stage": "discriminate",
     "skill": "Personal Connections and Text Preferences",
     "question": "After a story about a team challenge, which response evaluates a character fairly?",
     "audio_prompt": "After a story about a team challenge, which response evaluates a character fairly?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-p-023",
-      "alt_text": "A classroom English model for after a story about a team challenge showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "The character is bad",
@@ -831,9 +687,7 @@
     "explanation": {
       "summary": "I disagreed with the choice because the character ignored a warning This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LE02-P-024",
@@ -841,14 +695,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE02",
     "bank": "practice",
+    "stage": "discriminate",
     "skill": "Personal Connections and Text Preferences",
     "question": "After a story about a team challenge, how can a connection deepen understanding?",
     "audio_prompt": "After a story about a team challenge, how can a connection deepen understanding?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-p-024",
-      "alt_text": "A classroom English model for after a story about a team challenge showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "It replaces the need to read closely",
@@ -867,9 +717,487 @@
     "explanation": {
       "summary": "It can help a reader recognise a character's feelings while checking text evidence This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
+  },
+  {
+    "id": "AC9E3LE02-P-025",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE02",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Personal Connections and Text Preferences",
+    "question": "While reading about a family celebration, which response makes a useful personal connection?",
+    "audio_prompt": "While reading about a family celebration, which response makes a useful personal connection?",
+    "answers": [
+      {
+        "text": "This reminds me of feeling new because both characters needed help",
+        "is_correct": true
+      },
+      {
+        "text": "I have read a book before",
+        "is_correct": false
+      },
+      {
+        "text": "The cover is green",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "This reminds me of feeling new because both characters needed help This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE02-P-026",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE02",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Personal Connections and Text Preferences",
+    "question": "While reading about a family celebration, which preference includes text evidence?",
+    "audio_prompt": "While reading about a family celebration, which preference includes text evidence?",
+    "answers": [
+      {
+        "text": "Kai is just better",
+        "is_correct": false
+      },
+      {
+        "text": "I prefer Kai because he returns the lost purse",
+        "is_correct": true
+      },
+      {
+        "text": "I like page nine",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "I prefer Kai because he returns the lost purse This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE02-P-027",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE02",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Personal Connections and Text Preferences",
+    "question": "While reading about a family celebration, what keeps a personal connection relevant?",
+    "audio_prompt": "While reading about a family celebration, what keeps a personal connection relevant?",
+    "answers": [
+      {
+        "text": "Telling an unrelated long story",
+        "is_correct": false
+      },
+      {
+        "text": "Ignoring what the character did",
+        "is_correct": false
+      },
+      {
+        "text": "Linking the experience to a specific event or idea in the text",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Linking the experience to a specific event or idea in the text This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE02-P-028",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE02",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Personal Connections and Text Preferences",
+    "question": "While reading about a family celebration, why might two readers prefer different characters?",
+    "audio_prompt": "While reading about a family celebration, why might two readers prefer different characters?",
+    "answers": [
+      {
+        "text": "Their experiences and values may lead them to notice different evidence",
+        "is_correct": true
+      },
+      {
+        "text": "Only one reader can understand the story",
+        "is_correct": false
+      },
+      {
+        "text": "Preferences never need reasons",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Their experiences and values may lead them to notice different evidence This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE02-P-029",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE02",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Personal Connections and Text Preferences",
+    "question": "While reading about a family celebration, which statement is a summary rather than a connection?",
+    "audio_prompt": "While reading about a family celebration, which statement is a summary rather than a connection?",
+    "answers": [
+      {
+        "text": "I also moved to a new town",
+        "is_correct": false
+      },
+      {
+        "text": "The family moved to a new town",
+        "is_correct": true
+      },
+      {
+        "text": "The move reminds me of my first day",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The family moved to a new town This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE02-P-030",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE02",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Personal Connections and Text Preferences",
+    "question": "While reading about a family celebration, a reader felt tense when the bridge cracked. What supports that reaction?",
+    "audio_prompt": "While reading about a family celebration, a reader felt tense when the bridge cracked. What supports that reaction?",
+    "answers": [
+      {
+        "text": "The reader's favourite colour",
+        "is_correct": false
+      },
+      {
+        "text": "The number of chapters",
+        "is_correct": false
+      },
+      {
+        "text": "The dangerous event in the text",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The dangerous event in the text This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE02-P-031",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE02",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Personal Connections and Text Preferences",
+    "question": "While reading about a family celebration, which response evaluates a character fairly?",
+    "audio_prompt": "While reading about a family celebration, which response evaluates a character fairly?",
+    "answers": [
+      {
+        "text": "I disagreed with the choice because the character ignored a warning",
+        "is_correct": true
+      },
+      {
+        "text": "The character is bad",
+        "is_correct": false
+      },
+      {
+        "text": "I did not like the font",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "I disagreed with the choice because the character ignored a warning This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE02-P-032",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE02",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Personal Connections and Text Preferences",
+    "question": "While reading about a family celebration, how can a connection deepen understanding?",
+    "audio_prompt": "While reading about a family celebration, how can a connection deepen understanding?",
+    "answers": [
+      {
+        "text": "It replaces the need to read closely",
+        "is_correct": false
+      },
+      {
+        "text": "It can help a reader recognise a character's feelings while checking text evidence",
+        "is_correct": true
+      },
+      {
+        "text": "It proves every reader reacts identically",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "It can help a reader recognise a character's feelings while checking text evidence This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE02-P-033",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE02",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Personal Connections and Text Preferences",
+    "question": "During a story about facing a storm, which response makes a useful personal connection?",
+    "audio_prompt": "During a story about facing a storm, which response makes a useful personal connection?",
+    "answers": [
+      {
+        "text": "I have read a book before",
+        "is_correct": false
+      },
+      {
+        "text": "The cover is green",
+        "is_correct": false
+      },
+      {
+        "text": "This reminds me of feeling new because both characters needed help",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "This reminds me of feeling new because both characters needed help This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE02-P-034",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE02",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Personal Connections and Text Preferences",
+    "question": "During a story about facing a storm, which preference includes text evidence?",
+    "audio_prompt": "During a story about facing a storm, which preference includes text evidence?",
+    "answers": [
+      {
+        "text": "I prefer Kai because he returns the lost purse",
+        "is_correct": true
+      },
+      {
+        "text": "Kai is just better",
+        "is_correct": false
+      },
+      {
+        "text": "I like page nine",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "I prefer Kai because he returns the lost purse This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE02-P-035",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE02",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Personal Connections and Text Preferences",
+    "question": "During a story about facing a storm, what keeps a personal connection relevant?",
+    "audio_prompt": "During a story about facing a storm, what keeps a personal connection relevant?",
+    "answers": [
+      {
+        "text": "Telling an unrelated long story",
+        "is_correct": false
+      },
+      {
+        "text": "Linking the experience to a specific event or idea in the text",
+        "is_correct": true
+      },
+      {
+        "text": "Ignoring what the character did",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Linking the experience to a specific event or idea in the text This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE02-P-036",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE02",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Personal Connections and Text Preferences",
+    "question": "During a story about facing a storm, why might two readers prefer different characters?",
+    "audio_prompt": "During a story about facing a storm, why might two readers prefer different characters?",
+    "answers": [
+      {
+        "text": "Only one reader can understand the story",
+        "is_correct": false
+      },
+      {
+        "text": "Preferences never need reasons",
+        "is_correct": false
+      },
+      {
+        "text": "Their experiences and values may lead them to notice different evidence",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Their experiences and values may lead them to notice different evidence This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE02-P-037",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE02",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Personal Connections and Text Preferences",
+    "question": "During a story about facing a storm, which statement is a summary rather than a connection?",
+    "audio_prompt": "During a story about facing a storm, which statement is a summary rather than a connection?",
+    "answers": [
+      {
+        "text": "The family moved to a new town",
+        "is_correct": true
+      },
+      {
+        "text": "I also moved to a new town",
+        "is_correct": false
+      },
+      {
+        "text": "The move reminds me of my first day",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The family moved to a new town This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE02-P-038",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE02",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Personal Connections and Text Preferences",
+    "question": "During a story about facing a storm, a reader felt tense when the bridge cracked. What supports that reaction?",
+    "audio_prompt": "During a story about facing a storm, a reader felt tense when the bridge cracked. What supports that reaction?",
+    "answers": [
+      {
+        "text": "The reader's favourite colour",
+        "is_correct": false
+      },
+      {
+        "text": "The dangerous event in the text",
+        "is_correct": true
+      },
+      {
+        "text": "The number of chapters",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The dangerous event in the text This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE02-P-039",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE02",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Personal Connections and Text Preferences",
+    "question": "During a story about facing a storm, which response evaluates a character fairly?",
+    "audio_prompt": "During a story about facing a storm, which response evaluates a character fairly?",
+    "answers": [
+      {
+        "text": "The character is bad",
+        "is_correct": false
+      },
+      {
+        "text": "I did not like the font",
+        "is_correct": false
+      },
+      {
+        "text": "I disagreed with the choice because the character ignored a warning",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "I disagreed with the choice because the character ignored a warning This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE02-P-040",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE02",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Personal Connections and Text Preferences",
+    "question": "During a story about facing a storm, how can a connection deepen understanding?",
+    "audio_prompt": "During a story about facing a storm, how can a connection deepen understanding?",
+    "answers": [
+      {
+        "text": "It can help a reader recognise a character's feelings while checking text evidence",
+        "is_correct": true
+      },
+      {
+        "text": "It replaces the need to read closely",
+        "is_correct": false
+      },
+      {
+        "text": "It proves every reader reacts identically",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "It can help a reader recognise a character's feelings while checking text evidence This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
   },
   {
     "id": "AC9E3LE02-T-001",
@@ -878,28 +1206,23 @@
     "curriculum_code": "AC9E3LE02",
     "bank": "test",
     "skill": "Personal Connections and Text Preferences",
-    "question": "While reading about a family celebration, which response makes a useful personal connection?",
+    "question": "New check: While reading about a family celebration, which response makes a useful personal connection?",
     "audio_prompt": "While reading about a family celebration, which response makes a useful personal connection?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-001",
-      "alt_text": "A classroom English model for while reading about a family celebration showing the evidence needed for this task"
-    },
     "answers": [
-      {
-        "text": "This reminds me of feeling new because both characters needed help",
-        "is_correct": true
-      },
       {
         "text": "I have read a book before",
         "is_correct": false
+      },
+      {
+        "text": "This reminds me of feeling new because both characters needed help",
+        "is_correct": true
       },
       {
         "text": "The cover is green",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
       "summary": "This reminds me of feeling new because both characters needed help This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
@@ -912,28 +1235,23 @@
     "curriculum_code": "AC9E3LE02",
     "bank": "test",
     "skill": "Personal Connections and Text Preferences",
-    "question": "While reading about a family celebration, which preference includes text evidence?",
+    "question": "New check: While reading about a family celebration, which preference includes text evidence?",
     "audio_prompt": "While reading about a family celebration, which preference includes text evidence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-002",
-      "alt_text": "A classroom English model for while reading about a family celebration showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Kai is just better",
         "is_correct": false
       },
       {
-        "text": "I prefer Kai because he returns the lost purse",
-        "is_correct": true
-      },
-      {
         "text": "I like page nine",
         "is_correct": false
+      },
+      {
+        "text": "I prefer Kai because he returns the lost purse",
+        "is_correct": true
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
       "summary": "I prefer Kai because he returns the lost purse This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
@@ -946,14 +1264,13 @@
     "curriculum_code": "AC9E3LE02",
     "bank": "test",
     "skill": "Personal Connections and Text Preferences",
-    "question": "While reading about a family celebration, what keeps a personal connection relevant?",
+    "question": "New check: While reading about a family celebration, what keeps a personal connection relevant?",
     "audio_prompt": "While reading about a family celebration, what keeps a personal connection relevant?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-003",
-      "alt_text": "A classroom English model for while reading about a family celebration showing the evidence needed for this task"
-    },
     "answers": [
+      {
+        "text": "Linking the experience to a specific event or idea in the text",
+        "is_correct": true
+      },
       {
         "text": "Telling an unrelated long story",
         "is_correct": false
@@ -961,13 +1278,9 @@
       {
         "text": "Ignoring what the character did",
         "is_correct": false
-      },
-      {
-        "text": "Linking the experience to a specific event or idea in the text",
-        "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
       "summary": "Linking the experience to a specific event or idea in the text This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
@@ -980,28 +1293,23 @@
     "curriculum_code": "AC9E3LE02",
     "bank": "test",
     "skill": "Personal Connections and Text Preferences",
-    "question": "While reading about a family celebration, why might two readers prefer different characters?",
+    "question": "New check: While reading about a family celebration, why might two readers prefer different characters?",
     "audio_prompt": "While reading about a family celebration, why might two readers prefer different characters?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-004",
-      "alt_text": "A classroom English model for while reading about a family celebration showing the evidence needed for this task"
-    },
     "answers": [
-      {
-        "text": "Their experiences and values may lead them to notice different evidence",
-        "is_correct": true
-      },
       {
         "text": "Only one reader can understand the story",
         "is_correct": false
+      },
+      {
+        "text": "Their experiences and values may lead them to notice different evidence",
+        "is_correct": true
       },
       {
         "text": "Preferences never need reasons",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
       "summary": "Their experiences and values may lead them to notice different evidence This explanation follows the relevant Year 3 English evidence.",
       "hint": "Use the story details and reader effect before choosing."
@@ -1014,28 +1322,23 @@
     "curriculum_code": "AC9E3LE02",
     "bank": "test",
     "skill": "Personal Connections and Text Preferences",
-    "question": "While reading about a family celebration, which statement is a summary rather than a connection?",
+    "question": "New check: While reading about a family celebration, which statement is a summary rather than a connection?",
     "audio_prompt": "While reading about a family celebration, which statement is a summary rather than a connection?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-005",
-      "alt_text": "A classroom English model for while reading about a family celebration showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "I also moved to a new town",
         "is_correct": false
       },
       {
-        "text": "The family moved to a new town",
-        "is_correct": true
-      },
-      {
         "text": "The move reminds me of my first day",
         "is_correct": false
+      },
+      {
+        "text": "The family moved to a new town",
+        "is_correct": true
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
       "summary": "The family moved to a new town This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
@@ -1048,14 +1351,13 @@
     "curriculum_code": "AC9E3LE02",
     "bank": "test",
     "skill": "Personal Connections and Text Preferences",
-    "question": "While reading about a family celebration, a reader felt tense when the bridge cracked. What supports that reaction?",
+    "question": "New check: While reading about a family celebration, a reader felt tense when the bridge cracked. What supports that reaction?",
     "audio_prompt": "While reading about a family celebration, a reader felt tense when the bridge cracked. What supports that reaction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-006",
-      "alt_text": "A classroom English model for while reading about a family celebration showing the evidence needed for this task"
-    },
     "answers": [
+      {
+        "text": "The dangerous event in the text",
+        "is_correct": true
+      },
       {
         "text": "The reader's favourite colour",
         "is_correct": false
@@ -1063,13 +1365,9 @@
       {
         "text": "The number of chapters",
         "is_correct": false
-      },
-      {
-        "text": "The dangerous event in the text",
-        "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
       "summary": "The dangerous event in the text This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
@@ -1082,28 +1380,23 @@
     "curriculum_code": "AC9E3LE02",
     "bank": "test",
     "skill": "Personal Connections and Text Preferences",
-    "question": "While reading about a family celebration, which response evaluates a character fairly?",
+    "question": "New check: While reading about a family celebration, which response evaluates a character fairly?",
     "audio_prompt": "While reading about a family celebration, which response evaluates a character fairly?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-007",
-      "alt_text": "A classroom English model for while reading about a family celebration showing the evidence needed for this task"
-    },
     "answers": [
-      {
-        "text": "I disagreed with the choice because the character ignored a warning",
-        "is_correct": true
-      },
       {
         "text": "The character is bad",
         "is_correct": false
+      },
+      {
+        "text": "I disagreed with the choice because the character ignored a warning",
+        "is_correct": true
       },
       {
         "text": "I did not like the font",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
       "summary": "I disagreed with the choice because the character ignored a warning This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
@@ -1116,28 +1409,23 @@
     "curriculum_code": "AC9E3LE02",
     "bank": "test",
     "skill": "Personal Connections and Text Preferences",
-    "question": "While reading about a family celebration, how can a connection deepen understanding?",
+    "question": "New check: While reading about a family celebration, how can a connection deepen understanding?",
     "audio_prompt": "While reading about a family celebration, how can a connection deepen understanding?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-008",
-      "alt_text": "A classroom English model for while reading about a family celebration showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "It replaces the need to read closely",
         "is_correct": false
       },
       {
-        "text": "It can help a reader recognise a character's feelings while checking text evidence",
-        "is_correct": true
-      },
-      {
         "text": "It proves every reader reacts identically",
         "is_correct": false
+      },
+      {
+        "text": "It can help a reader recognise a character's feelings while checking text evidence",
+        "is_correct": true
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
       "summary": "It can help a reader recognise a character's feelings while checking text evidence This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
@@ -1150,14 +1438,13 @@
     "curriculum_code": "AC9E3LE02",
     "bank": "test",
     "skill": "Personal Connections and Text Preferences",
-    "question": "During a story about facing a storm, which response makes a useful personal connection?",
+    "question": "New check: During a story about facing a storm, which response makes a useful personal connection?",
     "audio_prompt": "During a story about facing a storm, which response makes a useful personal connection?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-009",
-      "alt_text": "A classroom English model for during a story about facing a storm showing the evidence needed for this task"
-    },
     "answers": [
+      {
+        "text": "This reminds me of feeling new because both characters needed help",
+        "is_correct": true
+      },
       {
         "text": "I have read a book before",
         "is_correct": false
@@ -1165,13 +1452,9 @@
       {
         "text": "The cover is green",
         "is_correct": false
-      },
-      {
-        "text": "This reminds me of feeling new because both characters needed help",
-        "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
       "summary": "This reminds me of feeling new because both characters needed help This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
@@ -1184,28 +1467,23 @@
     "curriculum_code": "AC9E3LE02",
     "bank": "test",
     "skill": "Personal Connections and Text Preferences",
-    "question": "During a story about facing a storm, which preference includes text evidence?",
+    "question": "New check: During a story about facing a storm, which preference includes text evidence?",
     "audio_prompt": "During a story about facing a storm, which preference includes text evidence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-010",
-      "alt_text": "A classroom English model for during a story about facing a storm showing the evidence needed for this task"
-    },
     "answers": [
-      {
-        "text": "I prefer Kai because he returns the lost purse",
-        "is_correct": true
-      },
       {
         "text": "Kai is just better",
         "is_correct": false
+      },
+      {
+        "text": "I prefer Kai because he returns the lost purse",
+        "is_correct": true
       },
       {
         "text": "I like page nine",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
       "summary": "I prefer Kai because he returns the lost purse This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
@@ -1218,28 +1496,23 @@
     "curriculum_code": "AC9E3LE02",
     "bank": "test",
     "skill": "Personal Connections and Text Preferences",
-    "question": "During a story about facing a storm, what keeps a personal connection relevant?",
+    "question": "New check: During a story about facing a storm, what keeps a personal connection relevant?",
     "audio_prompt": "During a story about facing a storm, what keeps a personal connection relevant?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-011",
-      "alt_text": "A classroom English model for during a story about facing a storm showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Telling an unrelated long story",
         "is_correct": false
       },
       {
-        "text": "Linking the experience to a specific event or idea in the text",
-        "is_correct": true
-      },
-      {
         "text": "Ignoring what the character did",
         "is_correct": false
+      },
+      {
+        "text": "Linking the experience to a specific event or idea in the text",
+        "is_correct": true
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
       "summary": "Linking the experience to a specific event or idea in the text This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
@@ -1252,14 +1525,13 @@
     "curriculum_code": "AC9E3LE02",
     "bank": "test",
     "skill": "Personal Connections and Text Preferences",
-    "question": "During a story about facing a storm, why might two readers prefer different characters?",
+    "question": "New check: During a story about facing a storm, why might two readers prefer different characters?",
     "audio_prompt": "During a story about facing a storm, why might two readers prefer different characters?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-012",
-      "alt_text": "A classroom English model for during a story about facing a storm showing the evidence needed for this task"
-    },
     "answers": [
+      {
+        "text": "Their experiences and values may lead them to notice different evidence",
+        "is_correct": true
+      },
       {
         "text": "Only one reader can understand the story",
         "is_correct": false
@@ -1267,13 +1539,9 @@
       {
         "text": "Preferences never need reasons",
         "is_correct": false
-      },
-      {
-        "text": "Their experiences and values may lead them to notice different evidence",
-        "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
       "summary": "Their experiences and values may lead them to notice different evidence This explanation follows the relevant Year 3 English evidence.",
       "hint": "Use the story details and reader effect before choosing."
@@ -1286,28 +1554,23 @@
     "curriculum_code": "AC9E3LE02",
     "bank": "test",
     "skill": "Personal Connections and Text Preferences",
-    "question": "During a story about facing a storm, which statement is a summary rather than a connection?",
+    "question": "New check: During a story about facing a storm, which statement is a summary rather than a connection?",
     "audio_prompt": "During a story about facing a storm, which statement is a summary rather than a connection?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-013",
-      "alt_text": "A classroom English model for during a story about facing a storm showing the evidence needed for this task"
-    },
     "answers": [
-      {
-        "text": "The family moved to a new town",
-        "is_correct": true
-      },
       {
         "text": "I also moved to a new town",
         "is_correct": false
+      },
+      {
+        "text": "The family moved to a new town",
+        "is_correct": true
       },
       {
         "text": "The move reminds me of my first day",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
       "summary": "The family moved to a new town This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
@@ -1320,28 +1583,23 @@
     "curriculum_code": "AC9E3LE02",
     "bank": "test",
     "skill": "Personal Connections and Text Preferences",
-    "question": "During a story about facing a storm, a reader felt tense when the bridge cracked. What supports that reaction?",
+    "question": "New check: During a story about facing a storm, a reader felt tense when the bridge cracked. What supports that reaction?",
     "audio_prompt": "During a story about facing a storm, a reader felt tense when the bridge cracked. What supports that reaction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-014",
-      "alt_text": "A classroom English model for during a story about facing a storm showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "The reader's favourite colour",
         "is_correct": false
       },
       {
-        "text": "The dangerous event in the text",
-        "is_correct": true
-      },
-      {
         "text": "The number of chapters",
         "is_correct": false
+      },
+      {
+        "text": "The dangerous event in the text",
+        "is_correct": true
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
       "summary": "The dangerous event in the text This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
@@ -1354,14 +1612,13 @@
     "curriculum_code": "AC9E3LE02",
     "bank": "test",
     "skill": "Personal Connections and Text Preferences",
-    "question": "During a story about facing a storm, which response evaluates a character fairly?",
+    "question": "New check: During a story about facing a storm, which response evaluates a character fairly?",
     "audio_prompt": "During a story about facing a storm, which response evaluates a character fairly?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-015",
-      "alt_text": "A classroom English model for during a story about facing a storm showing the evidence needed for this task"
-    },
     "answers": [
+      {
+        "text": "I disagreed with the choice because the character ignored a warning",
+        "is_correct": true
+      },
       {
         "text": "The character is bad",
         "is_correct": false
@@ -1369,13 +1626,9 @@
       {
         "text": "I did not like the font",
         "is_correct": false
-      },
-      {
-        "text": "I disagreed with the choice because the character ignored a warning",
-        "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
       "summary": "I disagreed with the choice because the character ignored a warning This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
@@ -1388,28 +1641,23 @@
     "curriculum_code": "AC9E3LE02",
     "bank": "test",
     "skill": "Personal Connections and Text Preferences",
-    "question": "During a story about facing a storm, how can a connection deepen understanding?",
+    "question": "New check: During a story about facing a storm, how can a connection deepen understanding?",
     "audio_prompt": "During a story about facing a storm, how can a connection deepen understanding?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le02.svg#ac9e3le02-t-016",
-      "alt_text": "A classroom English model for during a story about facing a storm showing the evidence needed for this task"
-    },
     "answers": [
-      {
-        "text": "It can help a reader recognise a character's feelings while checking text evidence",
-        "is_correct": true
-      },
       {
         "text": "It replaces the need to read closely",
         "is_correct": false
+      },
+      {
+        "text": "It can help a reader recognise a character's feelings while checking text evidence",
+        "is_correct": true
       },
       {
         "text": "It proves every reader reacts identically",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
       "summary": "It can help a reader recognise a character's feelings while checking text evidence This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."

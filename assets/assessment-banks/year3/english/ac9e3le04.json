@@ -5,14 +5,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE04",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Rhythm, Onomatopoeia and Reader Response",
     "question": "In a poem about heavy rain, which word uses onomatopoeia?",
     "audio_prompt": "In a poem about heavy rain, which word uses onomatopoeia?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le04.svg#ac9e3le04-p-001",
-      "alt_text": "A classroom English model for in a poem about heavy rain showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "beautiful",
@@ -31,10 +27,7 @@
     "explanation": {
       "summary": "splash This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LE04-P-002",
@@ -42,14 +35,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE04",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Rhythm, Onomatopoeia and Reader Response",
     "question": "In a poem about heavy rain, what effect can repeated beats create?",
     "audio_prompt": "In a poem about heavy rain, what effect can repeated beats create?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le04.svg#ac9e3le04-p-002",
-      "alt_text": "A classroom English model for in a poem about heavy rain showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "A strong rhythm and sense of movement",
@@ -68,10 +57,7 @@
     "explanation": {
       "summary": "A strong rhythm and sense of movement This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LE04-P-003",
@@ -79,14 +65,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE04",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Rhythm, Onomatopoeia and Reader Response",
     "question": "In a poem about heavy rain, why is crack more vivid than broke in a branch scene?",
     "audio_prompt": "In a poem about heavy rain, why is crack more vivid than broke in a branch scene?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le04.svg#ac9e3le04-p-003",
-      "alt_text": "A classroom English model for in a poem about heavy rain showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "It explains the branch's colour",
@@ -105,10 +87,7 @@
     "explanation": {
       "summary": "It imitates the sudden sound This explanation follows the relevant Year 3 English evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LE04-P-004",
@@ -116,14 +95,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE04",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Rhythm, Onomatopoeia and Reader Response",
     "question": "In a poem about heavy rain, which sound word best suits a gentle scene?",
     "audio_prompt": "In a poem about heavy rain, which sound word best suits a gentle scene?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le04.svg#ac9e3le04-p-004",
-      "alt_text": "A classroom English model for in a poem about heavy rain showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "clang",
@@ -142,10 +117,7 @@
     "explanation": {
       "summary": "hush This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LE04-P-005",
@@ -153,14 +125,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE04",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Rhythm, Onomatopoeia and Reader Response",
     "question": "In a poem about heavy rain, what does repeating clip-clop suggest?",
     "audio_prompt": "In a poem about heavy rain, what does repeating clip-clop suggest?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le04.svg#ac9e3le04-p-005",
-      "alt_text": "A classroom English model for in a poem about heavy rain showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Hoofbeats continuing in rhythm",
@@ -179,10 +147,7 @@
     "explanation": {
       "summary": "Hoofbeats continuing in rhythm This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LE04-P-006",
@@ -190,14 +155,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE04",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Rhythm, Onomatopoeia and Reader Response",
     "question": "In a poem about heavy rain, which line combines rhythm and meaning effectively?",
     "audio_prompt": "In a poem about heavy rain, which line combines rhythm and meaning effectively?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le04.svg#ac9e3le04-p-006",
-      "alt_text": "A classroom English model for in a poem about heavy rain showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "The roof is a roof",
@@ -216,10 +177,7 @@
     "explanation": {
       "summary": "Drip, drop, rain on the rooftop This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LE04-P-007",
@@ -227,14 +185,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE04",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Rhythm, Onomatopoeia and Reader Response",
     "question": "In a poem about heavy rain, how can onomatopoeia affect a reader?",
     "audio_prompt": "In a poem about heavy rain, how can onomatopoeia affect a reader?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le04.svg#ac9e3le04-p-007",
-      "alt_text": "A classroom English model for in a poem about heavy rain showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "It guarantees the event is true",
@@ -253,10 +207,7 @@
     "explanation": {
       "summary": "It helps the reader imagine hearing the event This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LE04-P-008",
@@ -264,14 +215,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE04",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Rhythm, Onomatopoeia and Reader Response",
     "question": "In a poem about heavy rain, which explanation evaluates the device?",
     "audio_prompt": "In a poem about heavy rain, which explanation evaluates the device?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le04.svg#ac9e3le04-p-008",
-      "alt_text": "A classroom English model for in a poem about heavy rain showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "The repeated thud makes the footsteps feel close and threatening",
@@ -290,9 +237,7 @@
     "explanation": {
       "summary": "The repeated thud makes the footsteps feel close and threatening This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LE04-P-009",
@@ -300,14 +245,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE04",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Rhythm, Onomatopoeia and Reader Response",
     "question": "In a story about a busy workshop, which word uses onomatopoeia?",
     "audio_prompt": "In a story about a busy workshop, which word uses onomatopoeia?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le04.svg#ac9e3le04-p-009",
-      "alt_text": "A classroom English model for in a story about a busy workshop showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "beautiful",
@@ -326,10 +267,7 @@
     "explanation": {
       "summary": "splash This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LE04-P-010",
@@ -337,14 +275,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE04",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Rhythm, Onomatopoeia and Reader Response",
     "question": "In a story about a busy workshop, what effect can repeated beats create?",
     "audio_prompt": "In a story about a busy workshop, what effect can repeated beats create?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le04.svg#ac9e3le04-p-010",
-      "alt_text": "A classroom English model for in a story about a busy workshop showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "A list of character names",
@@ -363,9 +297,7 @@
     "explanation": {
       "summary": "A strong rhythm and sense of movement This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LE04-P-011",
@@ -373,14 +305,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE04",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Rhythm, Onomatopoeia and Reader Response",
     "question": "In a story about a busy workshop, why is crack more vivid than broke in a branch scene?",
     "audio_prompt": "In a story about a busy workshop, why is crack more vivid than broke in a branch scene?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le04.svg#ac9e3le04-p-011",
-      "alt_text": "A classroom English model for in a story about a busy workshop showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "It imitates the sudden sound",
@@ -399,9 +327,7 @@
     "explanation": {
       "summary": "It imitates the sudden sound This explanation follows the relevant Year 3 English evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LE04-P-012",
@@ -409,14 +335,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE04",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Rhythm, Onomatopoeia and Reader Response",
     "question": "In a story about a busy workshop, which sound word best suits a gentle scene?",
     "audio_prompt": "In a story about a busy workshop, which sound word best suits a gentle scene?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le04.svg#ac9e3le04-p-012",
-      "alt_text": "A classroom English model for in a story about a busy workshop showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "clang",
@@ -435,9 +357,7 @@
     "explanation": {
       "summary": "hush This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LE04-P-013",
@@ -445,14 +365,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE04",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Rhythm, Onomatopoeia and Reader Response",
     "question": "In a story about a busy workshop, what does repeating clip-clop suggest?",
     "audio_prompt": "In a story about a busy workshop, what does repeating clip-clop suggest?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le04.svg#ac9e3le04-p-013",
-      "alt_text": "A classroom English model for in a story about a busy workshop showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "A character whispering",
@@ -471,9 +387,7 @@
     "explanation": {
       "summary": "Hoofbeats continuing in rhythm This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LE04-P-014",
@@ -481,14 +395,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE04",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Rhythm, Onomatopoeia and Reader Response",
     "question": "In a story about a busy workshop, which line combines rhythm and meaning effectively?",
     "audio_prompt": "In a story about a busy workshop, which line combines rhythm and meaning effectively?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le04.svg#ac9e3le04-p-014",
-      "alt_text": "A classroom English model for in a story about a busy workshop showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Drip, drop, rain on the rooftop",
@@ -507,9 +417,7 @@
     "explanation": {
       "summary": "Drip, drop, rain on the rooftop This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LE04-P-015",
@@ -517,14 +425,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE04",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Rhythm, Onomatopoeia and Reader Response",
     "question": "In a story about a busy workshop, how can onomatopoeia affect a reader?",
     "audio_prompt": "In a story about a busy workshop, how can onomatopoeia affect a reader?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le04.svg#ac9e3le04-p-015",
-      "alt_text": "A classroom English model for in a story about a busy workshop showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "It guarantees the event is true",
@@ -543,9 +447,7 @@
     "explanation": {
       "summary": "It helps the reader imagine hearing the event This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LE04-P-016",
@@ -553,14 +455,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE04",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Rhythm, Onomatopoeia and Reader Response",
     "question": "In a story about a busy workshop, which explanation evaluates the device?",
     "audio_prompt": "In a story about a busy workshop, which explanation evaluates the device?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le04.svg#ac9e3le04-p-016",
-      "alt_text": "A classroom English model for in a story about a busy workshop showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "The word appears twice",
@@ -579,9 +477,7 @@
     "explanation": {
       "summary": "The repeated thud makes the footsteps feel close and threatening This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LE04-P-017",
@@ -589,14 +485,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE04",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Rhythm, Onomatopoeia and Reader Response",
     "question": "In a chant about galloping horses, which word uses onomatopoeia?",
     "audio_prompt": "In a chant about galloping horses, which word uses onomatopoeia?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le04.svg#ac9e3le04-p-017",
-      "alt_text": "A classroom English model for in a chant about galloping horses showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "splash",
@@ -615,9 +507,7 @@
     "explanation": {
       "summary": "splash This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LE04-P-018",
@@ -625,14 +515,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE04",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Rhythm, Onomatopoeia and Reader Response",
     "question": "In a chant about galloping horses, what effect can repeated beats create?",
     "audio_prompt": "In a chant about galloping horses, what effect can repeated beats create?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le04.svg#ac9e3le04-p-018",
-      "alt_text": "A classroom English model for in a chant about galloping horses showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "A list of character names",
@@ -651,9 +537,7 @@
     "explanation": {
       "summary": "A strong rhythm and sense of movement This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LE04-P-019",
@@ -661,14 +545,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE04",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Rhythm, Onomatopoeia and Reader Response",
     "question": "In a chant about galloping horses, why is crack more vivid than broke in a branch scene?",
     "audio_prompt": "In a chant about galloping horses, why is crack more vivid than broke in a branch scene?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le04.svg#ac9e3le04-p-019",
-      "alt_text": "A classroom English model for in a chant about galloping horses showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "It explains the branch's colour",
@@ -687,9 +567,7 @@
     "explanation": {
       "summary": "It imitates the sudden sound This explanation follows the relevant Year 3 English evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LE04-P-020",
@@ -697,14 +575,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE04",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Rhythm, Onomatopoeia and Reader Response",
     "question": "In a chant about galloping horses, which sound word best suits a gentle scene?",
     "audio_prompt": "In a chant about galloping horses, which sound word best suits a gentle scene?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le04.svg#ac9e3le04-p-020",
-      "alt_text": "A classroom English model for in a chant about galloping horses showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "hush",
@@ -723,9 +597,7 @@
     "explanation": {
       "summary": "hush This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LE04-P-021",
@@ -733,14 +605,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE04",
     "bank": "practice",
+    "stage": "discriminate",
     "skill": "Rhythm, Onomatopoeia and Reader Response",
     "question": "In a chant about galloping horses, what does repeating clip-clop suggest?",
     "audio_prompt": "In a chant about galloping horses, what does repeating clip-clop suggest?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le04.svg#ac9e3le04-p-021",
-      "alt_text": "A classroom English model for in a chant about galloping horses showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "A character whispering",
@@ -759,9 +627,7 @@
     "explanation": {
       "summary": "Hoofbeats continuing in rhythm This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LE04-P-022",
@@ -769,14 +635,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE04",
     "bank": "practice",
+    "stage": "discriminate",
     "skill": "Rhythm, Onomatopoeia and Reader Response",
     "question": "In a chant about galloping horses, which line combines rhythm and meaning effectively?",
     "audio_prompt": "In a chant about galloping horses, which line combines rhythm and meaning effectively?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le04.svg#ac9e3le04-p-022",
-      "alt_text": "A classroom English model for in a chant about galloping horses showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "The roof is a roof",
@@ -795,9 +657,7 @@
     "explanation": {
       "summary": "Drip, drop, rain on the rooftop This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LE04-P-023",
@@ -805,14 +665,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE04",
     "bank": "practice",
+    "stage": "discriminate",
     "skill": "Rhythm, Onomatopoeia and Reader Response",
     "question": "In a chant about galloping horses, how can onomatopoeia affect a reader?",
     "audio_prompt": "In a chant about galloping horses, how can onomatopoeia affect a reader?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le04.svg#ac9e3le04-p-023",
-      "alt_text": "A classroom English model for in a chant about galloping horses showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "It helps the reader imagine hearing the event",
@@ -831,9 +687,7 @@
     "explanation": {
       "summary": "It helps the reader imagine hearing the event This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LE04-P-024",
@@ -841,14 +695,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LE04",
     "bank": "practice",
+    "stage": "discriminate",
     "skill": "Rhythm, Onomatopoeia and Reader Response",
     "question": "In a chant about galloping horses, which explanation evaluates the device?",
     "audio_prompt": "In a chant about galloping horses, which explanation evaluates the device?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le04.svg#ac9e3le04-p-024",
-      "alt_text": "A classroom English model for in a chant about galloping horses showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "The word appears twice",
@@ -867,9 +717,487 @@
     "explanation": {
       "summary": "The repeated thud makes the footsteps feel close and threatening This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
+  },
+  {
+    "id": "AC9E3LE04-P-025",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE04",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Rhythm, Onomatopoeia and Reader Response",
+    "question": "In a poem about a quiet night, which word uses onomatopoeia?",
+    "audio_prompt": "In a poem about a quiet night, which word uses onomatopoeia?",
+    "answers": [
+      {
+        "text": "beautiful",
+        "is_correct": false
+      },
+      {
+        "text": "slowly",
+        "is_correct": false
+      },
+      {
+        "text": "splash",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "splash This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE04-P-026",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE04",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Rhythm, Onomatopoeia and Reader Response",
+    "question": "In a poem about a quiet night, what effect can repeated beats create?",
+    "audio_prompt": "In a poem about a quiet night, what effect can repeated beats create?",
+    "answers": [
+      {
+        "text": "A strong rhythm and sense of movement",
+        "is_correct": true
+      },
+      {
+        "text": "A list of character names",
+        "is_correct": false
+      },
+      {
+        "text": "A change from past to future",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong rhythm and sense of movement This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE04-P-027",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE04",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Rhythm, Onomatopoeia and Reader Response",
+    "question": "In a poem about a quiet night, why is crack more vivid than broke in a branch scene?",
+    "audio_prompt": "In a poem about a quiet night, why is crack more vivid than broke in a branch scene?",
+    "answers": [
+      {
+        "text": "It explains the branch's colour",
+        "is_correct": false
+      },
+      {
+        "text": "It imitates the sudden sound",
+        "is_correct": true
+      },
+      {
+        "text": "It makes the sentence formal",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "It imitates the sudden sound This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE04-P-028",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE04",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Rhythm, Onomatopoeia and Reader Response",
+    "question": "In a poem about a quiet night, which sound word best suits a gentle scene?",
+    "audio_prompt": "In a poem about a quiet night, which sound word best suits a gentle scene?",
+    "answers": [
+      {
+        "text": "clang",
+        "is_correct": false
+      },
+      {
+        "text": "boom",
+        "is_correct": false
+      },
+      {
+        "text": "hush",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "hush This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE04-P-029",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE04",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Rhythm, Onomatopoeia and Reader Response",
+    "question": "In a poem about a quiet night, what does repeating clip-clop suggest?",
+    "audio_prompt": "In a poem about a quiet night, what does repeating clip-clop suggest?",
+    "answers": [
+      {
+        "text": "Hoofbeats continuing in rhythm",
+        "is_correct": true
+      },
+      {
+        "text": "A character whispering",
+        "is_correct": false
+      },
+      {
+        "text": "A clock stopping",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Hoofbeats continuing in rhythm This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE04-P-030",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE04",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Rhythm, Onomatopoeia and Reader Response",
+    "question": "In a poem about a quiet night, which line combines rhythm and meaning effectively?",
+    "audio_prompt": "In a poem about a quiet night, which line combines rhythm and meaning effectively?",
+    "answers": [
+      {
+        "text": "The roof is a roof",
+        "is_correct": false
+      },
+      {
+        "text": "Drip, drop, rain on the rooftop",
+        "is_correct": true
+      },
+      {
+        "text": "Rain precipitation occurs",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Drip, drop, rain on the rooftop This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE04-P-031",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE04",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Rhythm, Onomatopoeia and Reader Response",
+    "question": "In a poem about a quiet night, how can onomatopoeia affect a reader?",
+    "audio_prompt": "In a poem about a quiet night, how can onomatopoeia affect a reader?",
+    "answers": [
+      {
+        "text": "It guarantees the event is true",
+        "is_correct": false
+      },
+      {
+        "text": "It identifies the narrator's age",
+        "is_correct": false
+      },
+      {
+        "text": "It helps the reader imagine hearing the event",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "It helps the reader imagine hearing the event This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE04-P-032",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE04",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Rhythm, Onomatopoeia and Reader Response",
+    "question": "In a poem about a quiet night, which explanation evaluates the device?",
+    "audio_prompt": "In a poem about a quiet night, which explanation evaluates the device?",
+    "answers": [
+      {
+        "text": "The repeated thud makes the footsteps feel close and threatening",
+        "is_correct": true
+      },
+      {
+        "text": "The word appears twice",
+        "is_correct": false
+      },
+      {
+        "text": "The sentence has letters",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The repeated thud makes the footsteps feel close and threatening This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE04-P-033",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE04",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Rhythm, Onomatopoeia and Reader Response",
+    "question": "In a story about a crashing wave, which word uses onomatopoeia?",
+    "audio_prompt": "In a story about a crashing wave, which word uses onomatopoeia?",
+    "answers": [
+      {
+        "text": "beautiful",
+        "is_correct": false
+      },
+      {
+        "text": "splash",
+        "is_correct": true
+      },
+      {
+        "text": "slowly",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "splash This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE04-P-034",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE04",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Rhythm, Onomatopoeia and Reader Response",
+    "question": "In a story about a crashing wave, what effect can repeated beats create?",
+    "audio_prompt": "In a story about a crashing wave, what effect can repeated beats create?",
+    "answers": [
+      {
+        "text": "A list of character names",
+        "is_correct": false
+      },
+      {
+        "text": "A change from past to future",
+        "is_correct": false
+      },
+      {
+        "text": "A strong rhythm and sense of movement",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong rhythm and sense of movement This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE04-P-035",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE04",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Rhythm, Onomatopoeia and Reader Response",
+    "question": "In a story about a crashing wave, why is crack more vivid than broke in a branch scene?",
+    "audio_prompt": "In a story about a crashing wave, why is crack more vivid than broke in a branch scene?",
+    "answers": [
+      {
+        "text": "It imitates the sudden sound",
+        "is_correct": true
+      },
+      {
+        "text": "It explains the branch's colour",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the sentence formal",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "It imitates the sudden sound This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE04-P-036",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE04",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Rhythm, Onomatopoeia and Reader Response",
+    "question": "In a story about a crashing wave, which sound word best suits a gentle scene?",
+    "audio_prompt": "In a story about a crashing wave, which sound word best suits a gentle scene?",
+    "answers": [
+      {
+        "text": "clang",
+        "is_correct": false
+      },
+      {
+        "text": "hush",
+        "is_correct": true
+      },
+      {
+        "text": "boom",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "hush This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE04-P-037",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE04",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Rhythm, Onomatopoeia and Reader Response",
+    "question": "In a story about a crashing wave, what does repeating clip-clop suggest?",
+    "audio_prompt": "In a story about a crashing wave, what does repeating clip-clop suggest?",
+    "answers": [
+      {
+        "text": "A character whispering",
+        "is_correct": false
+      },
+      {
+        "text": "A clock stopping",
+        "is_correct": false
+      },
+      {
+        "text": "Hoofbeats continuing in rhythm",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Hoofbeats continuing in rhythm This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE04-P-038",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE04",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Rhythm, Onomatopoeia and Reader Response",
+    "question": "In a story about a crashing wave, which line combines rhythm and meaning effectively?",
+    "audio_prompt": "In a story about a crashing wave, which line combines rhythm and meaning effectively?",
+    "answers": [
+      {
+        "text": "Drip, drop, rain on the rooftop",
+        "is_correct": true
+      },
+      {
+        "text": "The roof is a roof",
+        "is_correct": false
+      },
+      {
+        "text": "Rain precipitation occurs",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Drip, drop, rain on the rooftop This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE04-P-039",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE04",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Rhythm, Onomatopoeia and Reader Response",
+    "question": "In a story about a crashing wave, how can onomatopoeia affect a reader?",
+    "audio_prompt": "In a story about a crashing wave, how can onomatopoeia affect a reader?",
+    "answers": [
+      {
+        "text": "It guarantees the event is true",
+        "is_correct": false
+      },
+      {
+        "text": "It helps the reader imagine hearing the event",
+        "is_correct": true
+      },
+      {
+        "text": "It identifies the narrator's age",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "It helps the reader imagine hearing the event This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LE04-P-040",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE04",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Rhythm, Onomatopoeia and Reader Response",
+    "question": "In a story about a crashing wave, which explanation evaluates the device?",
+    "audio_prompt": "In a story about a crashing wave, which explanation evaluates the device?",
+    "answers": [
+      {
+        "text": "The word appears twice",
+        "is_correct": false
+      },
+      {
+        "text": "The sentence has letters",
+        "is_correct": false
+      },
+      {
+        "text": "The repeated thud makes the footsteps feel close and threatening",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The repeated thud makes the footsteps feel close and threatening This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the story details and reader effect before choosing."
+    }
   },
   {
     "id": "AC9E3LE04-T-001",
@@ -878,14 +1206,13 @@
     "curriculum_code": "AC9E3LE04",
     "bank": "test",
     "skill": "Rhythm, Onomatopoeia and Reader Response",
-    "question": "In a poem about a quiet night, which word uses onomatopoeia?",
+    "question": "New check: In a poem about a quiet night, which word uses onomatopoeia?",
     "audio_prompt": "In a poem about a quiet night, which word uses onomatopoeia?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le04.svg#ac9e3le04-t-001",
-      "alt_text": "A classroom English model for in a poem about a quiet night showing the evidence needed for this task"
-    },
     "answers": [
+      {
+        "text": "splash",
+        "is_correct": true
+      },
       {
         "text": "beautiful",
         "is_correct": false
@@ -893,13 +1220,9 @@
       {
         "text": "slowly",
         "is_correct": false
-      },
-      {
-        "text": "splash",
-        "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
       "summary": "splash This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
@@ -912,28 +1235,23 @@
     "curriculum_code": "AC9E3LE04",
     "bank": "test",
     "skill": "Rhythm, Onomatopoeia and Reader Response",
-    "question": "In a poem about a quiet night, what effect can repeated beats create?",
+    "question": "New check: In a poem about a quiet night, what effect can repeated beats create?",
     "audio_prompt": "In a poem about a quiet night, what effect can repeated beats create?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le04.svg#ac9e3le04-t-002",
-      "alt_text": "A classroom English model for in a poem about a quiet night showing the evidence needed for this task"
-    },
     "answers": [
-      {
-        "text": "A strong rhythm and sense of movement",
-        "is_correct": true
-      },
       {
         "text": "A list of character names",
         "is_correct": false
+      },
+      {
+        "text": "A strong rhythm and sense of movement",
+        "is_correct": true
       },
       {
         "text": "A change from past to future",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
       "summary": "A strong rhythm and sense of movement This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
@@ -946,28 +1264,23 @@
     "curriculum_code": "AC9E3LE04",
     "bank": "test",
     "skill": "Rhythm, Onomatopoeia and Reader Response",
-    "question": "In a poem about a quiet night, why is crack more vivid than broke in a branch scene?",
+    "question": "New check: In a poem about a quiet night, why is crack more vivid than broke in a branch scene?",
     "audio_prompt": "In a poem about a quiet night, why is crack more vivid than broke in a branch scene?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le04.svg#ac9e3le04-t-003",
-      "alt_text": "A classroom English model for in a poem about a quiet night showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "It explains the branch's colour",
         "is_correct": false
       },
       {
-        "text": "It imitates the sudden sound",
-        "is_correct": true
-      },
-      {
         "text": "It makes the sentence formal",
         "is_correct": false
+      },
+      {
+        "text": "It imitates the sudden sound",
+        "is_correct": true
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
       "summary": "It imitates the sudden sound This explanation follows the relevant Year 3 English evidence.",
       "hint": "Use the story details and reader effect before choosing."
@@ -980,14 +1293,13 @@
     "curriculum_code": "AC9E3LE04",
     "bank": "test",
     "skill": "Rhythm, Onomatopoeia and Reader Response",
-    "question": "In a poem about a quiet night, which sound word best suits a gentle scene?",
+    "question": "New check: In a poem about a quiet night, which sound word best suits a gentle scene?",
     "audio_prompt": "In a poem about a quiet night, which sound word best suits a gentle scene?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le04.svg#ac9e3le04-t-004",
-      "alt_text": "A classroom English model for in a poem about a quiet night showing the evidence needed for this task"
-    },
     "answers": [
+      {
+        "text": "hush",
+        "is_correct": true
+      },
       {
         "text": "clang",
         "is_correct": false
@@ -995,13 +1307,9 @@
       {
         "text": "boom",
         "is_correct": false
-      },
-      {
-        "text": "hush",
-        "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
       "summary": "hush This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
@@ -1014,28 +1322,23 @@
     "curriculum_code": "AC9E3LE04",
     "bank": "test",
     "skill": "Rhythm, Onomatopoeia and Reader Response",
-    "question": "In a poem about a quiet night, what does repeating clip-clop suggest?",
+    "question": "New check: In a poem about a quiet night, what does repeating clip-clop suggest?",
     "audio_prompt": "In a poem about a quiet night, what does repeating clip-clop suggest?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le04.svg#ac9e3le04-t-005",
-      "alt_text": "A classroom English model for in a poem about a quiet night showing the evidence needed for this task"
-    },
     "answers": [
-      {
-        "text": "Hoofbeats continuing in rhythm",
-        "is_correct": true
-      },
       {
         "text": "A character whispering",
         "is_correct": false
+      },
+      {
+        "text": "Hoofbeats continuing in rhythm",
+        "is_correct": true
       },
       {
         "text": "A clock stopping",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
       "summary": "Hoofbeats continuing in rhythm This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
@@ -1048,28 +1351,23 @@
     "curriculum_code": "AC9E3LE04",
     "bank": "test",
     "skill": "Rhythm, Onomatopoeia and Reader Response",
-    "question": "In a poem about a quiet night, which line combines rhythm and meaning effectively?",
+    "question": "New check: In a poem about a quiet night, which line combines rhythm and meaning effectively?",
     "audio_prompt": "In a poem about a quiet night, which line combines rhythm and meaning effectively?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le04.svg#ac9e3le04-t-006",
-      "alt_text": "A classroom English model for in a poem about a quiet night showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "The roof is a roof",
         "is_correct": false
       },
       {
-        "text": "Drip, drop, rain on the rooftop",
-        "is_correct": true
-      },
-      {
         "text": "Rain precipitation occurs",
         "is_correct": false
+      },
+      {
+        "text": "Drip, drop, rain on the rooftop",
+        "is_correct": true
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
       "summary": "Drip, drop, rain on the rooftop This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
@@ -1082,14 +1380,13 @@
     "curriculum_code": "AC9E3LE04",
     "bank": "test",
     "skill": "Rhythm, Onomatopoeia and Reader Response",
-    "question": "In a poem about a quiet night, how can onomatopoeia affect a reader?",
+    "question": "New check: In a poem about a quiet night, how can onomatopoeia affect a reader?",
     "audio_prompt": "In a poem about a quiet night, how can onomatopoeia affect a reader?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le04.svg#ac9e3le04-t-007",
-      "alt_text": "A classroom English model for in a poem about a quiet night showing the evidence needed for this task"
-    },
     "answers": [
+      {
+        "text": "It helps the reader imagine hearing the event",
+        "is_correct": true
+      },
       {
         "text": "It guarantees the event is true",
         "is_correct": false
@@ -1097,13 +1394,9 @@
       {
         "text": "It identifies the narrator's age",
         "is_correct": false
-      },
-      {
-        "text": "It helps the reader imagine hearing the event",
-        "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
       "summary": "It helps the reader imagine hearing the event This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
@@ -1116,28 +1409,23 @@
     "curriculum_code": "AC9E3LE04",
     "bank": "test",
     "skill": "Rhythm, Onomatopoeia and Reader Response",
-    "question": "In a poem about a quiet night, which explanation evaluates the device?",
+    "question": "New check: In a poem about a quiet night, which explanation evaluates the device?",
     "audio_prompt": "In a poem about a quiet night, which explanation evaluates the device?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le04.svg#ac9e3le04-t-008",
-      "alt_text": "A classroom English model for in a poem about a quiet night showing the evidence needed for this task"
-    },
     "answers": [
-      {
-        "text": "The repeated thud makes the footsteps feel close and threatening",
-        "is_correct": true
-      },
       {
         "text": "The word appears twice",
         "is_correct": false
+      },
+      {
+        "text": "The repeated thud makes the footsteps feel close and threatening",
+        "is_correct": true
       },
       {
         "text": "The sentence has letters",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
       "summary": "The repeated thud makes the footsteps feel close and threatening This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
@@ -1150,28 +1438,23 @@
     "curriculum_code": "AC9E3LE04",
     "bank": "test",
     "skill": "Rhythm, Onomatopoeia and Reader Response",
-    "question": "In a story about a crashing wave, which word uses onomatopoeia?",
+    "question": "New check: In a story about a crashing wave, which word uses onomatopoeia?",
     "audio_prompt": "In a story about a crashing wave, which word uses onomatopoeia?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le04.svg#ac9e3le04-t-009",
-      "alt_text": "A classroom English model for in a story about a crashing wave showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "beautiful",
         "is_correct": false
       },
       {
-        "text": "splash",
-        "is_correct": true
-      },
-      {
         "text": "slowly",
         "is_correct": false
+      },
+      {
+        "text": "splash",
+        "is_correct": true
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
       "summary": "splash This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
@@ -1184,14 +1467,13 @@
     "curriculum_code": "AC9E3LE04",
     "bank": "test",
     "skill": "Rhythm, Onomatopoeia and Reader Response",
-    "question": "In a story about a crashing wave, what effect can repeated beats create?",
+    "question": "New check: In a story about a crashing wave, what effect can repeated beats create?",
     "audio_prompt": "In a story about a crashing wave, what effect can repeated beats create?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le04.svg#ac9e3le04-t-010",
-      "alt_text": "A classroom English model for in a story about a crashing wave showing the evidence needed for this task"
-    },
     "answers": [
+      {
+        "text": "A strong rhythm and sense of movement",
+        "is_correct": true
+      },
       {
         "text": "A list of character names",
         "is_correct": false
@@ -1199,13 +1481,9 @@
       {
         "text": "A change from past to future",
         "is_correct": false
-      },
-      {
-        "text": "A strong rhythm and sense of movement",
-        "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
       "summary": "A strong rhythm and sense of movement This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
@@ -1218,28 +1496,23 @@
     "curriculum_code": "AC9E3LE04",
     "bank": "test",
     "skill": "Rhythm, Onomatopoeia and Reader Response",
-    "question": "In a story about a crashing wave, why is crack more vivid than broke in a branch scene?",
+    "question": "New check: In a story about a crashing wave, why is crack more vivid than broke in a branch scene?",
     "audio_prompt": "In a story about a crashing wave, why is crack more vivid than broke in a branch scene?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le04.svg#ac9e3le04-t-011",
-      "alt_text": "A classroom English model for in a story about a crashing wave showing the evidence needed for this task"
-    },
     "answers": [
-      {
-        "text": "It imitates the sudden sound",
-        "is_correct": true
-      },
       {
         "text": "It explains the branch's colour",
         "is_correct": false
+      },
+      {
+        "text": "It imitates the sudden sound",
+        "is_correct": true
       },
       {
         "text": "It makes the sentence formal",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
       "summary": "It imitates the sudden sound This explanation follows the relevant Year 3 English evidence.",
       "hint": "Use the story details and reader effect before choosing."
@@ -1252,28 +1525,23 @@
     "curriculum_code": "AC9E3LE04",
     "bank": "test",
     "skill": "Rhythm, Onomatopoeia and Reader Response",
-    "question": "In a story about a crashing wave, which sound word best suits a gentle scene?",
+    "question": "New check: In a story about a crashing wave, which sound word best suits a gentle scene?",
     "audio_prompt": "In a story about a crashing wave, which sound word best suits a gentle scene?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le04.svg#ac9e3le04-t-012",
-      "alt_text": "A classroom English model for in a story about a crashing wave showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "clang",
         "is_correct": false
       },
       {
-        "text": "hush",
-        "is_correct": true
-      },
-      {
         "text": "boom",
         "is_correct": false
+      },
+      {
+        "text": "hush",
+        "is_correct": true
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
       "summary": "hush This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
@@ -1286,14 +1554,13 @@
     "curriculum_code": "AC9E3LE04",
     "bank": "test",
     "skill": "Rhythm, Onomatopoeia and Reader Response",
-    "question": "In a story about a crashing wave, what does repeating clip-clop suggest?",
+    "question": "New check: In a story about a crashing wave, what does repeating clip-clop suggest?",
     "audio_prompt": "In a story about a crashing wave, what does repeating clip-clop suggest?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le04.svg#ac9e3le04-t-013",
-      "alt_text": "A classroom English model for in a story about a crashing wave showing the evidence needed for this task"
-    },
     "answers": [
+      {
+        "text": "Hoofbeats continuing in rhythm",
+        "is_correct": true
+      },
       {
         "text": "A character whispering",
         "is_correct": false
@@ -1301,13 +1568,9 @@
       {
         "text": "A clock stopping",
         "is_correct": false
-      },
-      {
-        "text": "Hoofbeats continuing in rhythm",
-        "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
       "summary": "Hoofbeats continuing in rhythm This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
@@ -1320,28 +1583,23 @@
     "curriculum_code": "AC9E3LE04",
     "bank": "test",
     "skill": "Rhythm, Onomatopoeia and Reader Response",
-    "question": "In a story about a crashing wave, which line combines rhythm and meaning effectively?",
+    "question": "New check: In a story about a crashing wave, which line combines rhythm and meaning effectively?",
     "audio_prompt": "In a story about a crashing wave, which line combines rhythm and meaning effectively?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le04.svg#ac9e3le04-t-014",
-      "alt_text": "A classroom English model for in a story about a crashing wave showing the evidence needed for this task"
-    },
     "answers": [
-      {
-        "text": "Drip, drop, rain on the rooftop",
-        "is_correct": true
-      },
       {
         "text": "The roof is a roof",
         "is_correct": false
+      },
+      {
+        "text": "Drip, drop, rain on the rooftop",
+        "is_correct": true
       },
       {
         "text": "Rain precipitation occurs",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
       "summary": "Drip, drop, rain on the rooftop This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
@@ -1354,28 +1612,23 @@
     "curriculum_code": "AC9E3LE04",
     "bank": "test",
     "skill": "Rhythm, Onomatopoeia and Reader Response",
-    "question": "In a story about a crashing wave, how can onomatopoeia affect a reader?",
+    "question": "New check: In a story about a crashing wave, how can onomatopoeia affect a reader?",
     "audio_prompt": "In a story about a crashing wave, how can onomatopoeia affect a reader?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le04.svg#ac9e3le04-t-015",
-      "alt_text": "A classroom English model for in a story about a crashing wave showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "It guarantees the event is true",
         "is_correct": false
       },
       {
-        "text": "It helps the reader imagine hearing the event",
-        "is_correct": true
-      },
-      {
         "text": "It identifies the narrator's age",
         "is_correct": false
+      },
+      {
+        "text": "It helps the reader imagine hearing the event",
+        "is_correct": true
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
       "summary": "It helps the reader imagine hearing the event This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
@@ -1388,14 +1641,13 @@
     "curriculum_code": "AC9E3LE04",
     "bank": "test",
     "skill": "Rhythm, Onomatopoeia and Reader Response",
-    "question": "In a story about a crashing wave, which explanation evaluates the device?",
+    "question": "New check: In a story about a crashing wave, which explanation evaluates the device?",
     "audio_prompt": "In a story about a crashing wave, which explanation evaluates the device?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3le04.svg#ac9e3le04-t-016",
-      "alt_text": "A classroom English model for in a story about a crashing wave showing the evidence needed for this task"
-    },
     "answers": [
+      {
+        "text": "The repeated thud makes the footsteps feel close and threatening",
+        "is_correct": true
+      },
       {
         "text": "The word appears twice",
         "is_correct": false
@@ -1403,13 +1655,9 @@
       {
         "text": "The sentence has letters",
         "is_correct": false
-      },
-      {
-        "text": "The repeated thud makes the footsteps feel close and threatening",
-        "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
       "summary": "The repeated thud makes the footsteps feel close and threatening This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."

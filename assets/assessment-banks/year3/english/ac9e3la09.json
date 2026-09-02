@@ -5,14 +5,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "How Images Extend Meaning",
     "question": "The words say, “Ari hurried home.” Which image detail would extend their meaning?",
     "audio_prompt": "The words say, “Ari hurried home.” Which image detail would extend their meaning?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la09.svg#ac9e3la09-p-001",
-      "alt_text": "Learning aid for: The words say, “Ari hurried home.” Which image detail would extend their meaning?"
-    },
     "answers": [
       {
         "text": "a plain page number",
@@ -31,9 +27,7 @@
     "explanation": {
       "summary": "An image extends meaning when it adds relevant information beyond the words.",
       "hint": "Choose a detail that changes or deepens what readers understand."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LA09-P-002",
@@ -41,14 +35,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "How Images Extend Meaning",
     "question": "Combine “Ari hurried home.” with the image detail “dark clouds above an empty road”. What can a reader infer?",
     "audio_prompt": "Combine “Ari hurried home.” with the image detail “dark clouds above an empty road”. What can a reader infer?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la09.svg#ac9e3la09-p-002",
-      "alt_text": "Learning aid for: Combine “Ari hurried home.” with the image detail “dark clouds above an empty road”. What can a reader infer?"
-    },
     "answers": [
       {
         "text": "an uneasy storm is approaching",
@@ -67,9 +57,7 @@
     "explanation": {
       "summary": "Readers combine written and visual clues to infer added meaning.",
       "hint": "Use evidence from both modes."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LA09-P-003",
@@ -77,14 +65,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "How Images Extend Meaning",
     "question": "What does “dark clouds above an empty road” add to the words “Ari hurried home.”?",
     "audio_prompt": "What does “dark clouds above an empty road” add to the words “Ari hurried home.”?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la09.svg#ac9e3la09-p-003",
-      "alt_text": "Learning aid for: What does “dark clouds above an empty road” add to the words “Ari hurried home.”?"
-    },
     "answers": [
       {
         "text": "It gives the spelling of every word.",
@@ -103,10 +87,7 @@
     "explanation": {
       "summary": "A relevant visual detail can add setting, mood, action or character information.",
       "hint": "Name the new meaning supplied by the image."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LA09-P-004",
@@ -114,14 +95,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "How Images Extend Meaning",
     "question": "Which visual change would most alter the mood of “Ari hurried home.”?",
     "audio_prompt": "Which visual change would most alter the mood of “Ari hurried home.”?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la09.svg#ac9e3la09-p-004",
-      "alt_text": "Learning aid for: Which visual change would most alter the mood of “Ari hurried home.”?"
-    },
     "answers": [
       {
         "text": "Change the page number.",
@@ -140,10 +117,7 @@
     "explanation": {
       "summary": "Visual choices such as light and expression influence mood.",
       "hint": "Look for a change readers would interpret emotionally."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LA09-P-005",
@@ -151,14 +125,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "How Images Extend Meaning",
     "question": "A caption simply repeats “Ari hurried home.” What would improve it?",
     "audio_prompt": "A caption simply repeats “Ari hurried home.” What would improve it?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la09.svg#ac9e3la09-p-005",
-      "alt_text": "Learning aid for: A caption simply repeats “Ari hurried home.” What would improve it?"
-    },
     "answers": [
       {
         "text": "Explain how dark clouds above an empty road adds information.",
@@ -177,9 +147,7 @@
     "explanation": {
       "summary": "Useful captions can guide attention to meaningful visual evidence.",
       "hint": "Add information rather than copying the words."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LA09-P-006",
@@ -187,14 +155,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "How Images Extend Meaning",
     "question": "Which statement uses evidence responsibly for “Ari hurried home.” and “dark clouds above an empty road”?",
     "audio_prompt": "Which statement uses evidence responsibly for “Ari hurried home.” and “dark clouds above an empty road”?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la09.svg#ac9e3la09-p-006",
-      "alt_text": "Learning aid for: Which statement uses evidence responsibly for “Ari hurried home.” and “dark clouds above an empty road”?"
-    },
     "answers": [
       {
         "text": "The image guarantees every detail of an uneasy storm is approaching.",
@@ -213,10 +177,7 @@
     "explanation": {
       "summary": "Visual inference should be expressed as supported interpretation, not certainty beyond evidence.",
       "hint": "Prefer suggests when the evidence allows an inference."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LA09-P-007",
@@ -224,14 +185,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "How Images Extend Meaning",
     "question": "Why might the creator pair “Ari hurried home.” with “dark clouds above an empty road”?",
     "audio_prompt": "Why might the creator pair “Ari hurried home.” with “dark clouds above an empty road”?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la09.svg#ac9e3la09-p-007",
-      "alt_text": "Learning aid for: Why might the creator pair “Ari hurried home.” with “dark clouds above an empty road”?"
-    },
     "answers": [
       {
         "text": "To make the written words impossible to understand.",
@@ -250,9 +207,7 @@
     "explanation": {
       "summary": "Words and images can work together to create richer meaning.",
       "hint": "Explain what the visual contributes."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LA09-P-008",
@@ -260,14 +215,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "How Images Extend Meaning",
     "question": "Which reading strategy best suits a page containing “Ari hurried home.” and “dark clouds above an empty road”?",
     "audio_prompt": "Which reading strategy best suits a page containing “Ari hurried home.” and “dark clouds above an empty road”?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la09.svg#ac9e3la09-p-008",
-      "alt_text": "Learning aid for: Which reading strategy best suits a page containing “Ari hurried home.” and “dark clouds above an empty road”?"
-    },
     "answers": [
       {
         "text": "Notice details in both the words and image, then connect them.",
@@ -286,10 +237,7 @@
     "explanation": {
       "summary": "Multimodal reading combines evidence across modes.",
       "hint": "Use every relevant clue available."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LA09-P-009",
@@ -297,14 +245,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "How Images Extend Meaning",
     "question": "The words say, “The dog waited by the gate.” Which image detail would extend their meaning?",
     "audio_prompt": "The words say, “The dog waited by the gate.” Which image detail would extend their meaning?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la09.svg#ac9e3la09-p-009",
-      "alt_text": "Learning aid for: The words say, “The dog waited by the gate.” Which image detail would extend their meaning?"
-    },
     "answers": [
       {
         "text": "a plain page number",
@@ -323,9 +267,7 @@
     "explanation": {
       "summary": "An image extends meaning when it adds relevant information beyond the words.",
       "hint": "Choose a detail that changes or deepens what readers understand."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LA09-P-010",
@@ -333,14 +275,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "How Images Extend Meaning",
     "question": "Combine “The dog waited by the gate.” with the image detail “lowered ears and a wagging tail”. What can a reader infer?",
     "audio_prompt": "Combine “The dog waited by the gate.” with the image detail “lowered ears and a wagging tail”. What can a reader infer?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la09.svg#ac9e3la09-p-010",
-      "alt_text": "Learning aid for: Combine “The dog waited by the gate.” with the image detail “lowered ears and a wagging tail”. What can a reader infer?"
-    },
     "answers": [
       {
         "text": "The image has no relationship to the words.",
@@ -359,9 +297,7 @@
     "explanation": {
       "summary": "Readers combine written and visual clues to infer added meaning.",
       "hint": "Use evidence from both modes."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LA09-P-011",
@@ -369,14 +305,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
+    "stage": "explain",
     "skill": "How Images Extend Meaning",
     "question": "What does “lowered ears and a wagging tail” add to the words “The dog waited by the gate.”?",
     "audio_prompt": "What does “lowered ears and a wagging tail” add to the words “The dog waited by the gate.”?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la09.svg#ac9e3la09-p-011",
-      "alt_text": "Learning aid for: What does “lowered ears and a wagging tail” add to the words “The dog waited by the gate.”?"
-    },
     "answers": [
       {
         "text": "It suggests that the dog is hopeful but uncertain.",
@@ -395,10 +327,7 @@
     "explanation": {
       "summary": "A relevant visual detail can add setting, mood, action or character information.",
       "hint": "Name the new meaning supplied by the image."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LA09-P-012",
@@ -406,14 +335,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
+    "stage": "explain",
     "skill": "How Images Extend Meaning",
     "question": "Which visual change would most alter the mood of “The dog waited by the gate.”?",
     "audio_prompt": "Which visual change would most alter the mood of “The dog waited by the gate.”?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la09.svg#ac9e3la09-p-012",
-      "alt_text": "Learning aid for: Which visual change would most alter the mood of “The dog waited by the gate.”?"
-    },
     "answers": [
       {
         "text": "Change the page number.",
@@ -432,10 +357,7 @@
     "explanation": {
       "summary": "Visual choices such as light and expression influence mood.",
       "hint": "Look for a change readers would interpret emotionally."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LA09-P-013",
@@ -443,14 +365,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
+    "stage": "explain",
     "skill": "How Images Extend Meaning",
     "question": "A caption simply repeats “The dog waited by the gate.” What would improve it?",
     "audio_prompt": "A caption simply repeats “The dog waited by the gate.” What would improve it?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la09.svg#ac9e3la09-p-013",
-      "alt_text": "Learning aid for: A caption simply repeats “The dog waited by the gate.” What would improve it?"
-    },
     "answers": [
       {
         "text": "Repeat the same sentence twice more.",
@@ -469,9 +387,7 @@
     "explanation": {
       "summary": "Useful captions can guide attention to meaningful visual evidence.",
       "hint": "Add information rather than copying the words."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LA09-P-014",
@@ -479,14 +395,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
+    "stage": "explain",
     "skill": "How Images Extend Meaning",
     "question": "Which statement uses evidence responsibly for “The dog waited by the gate.” and “lowered ears and a wagging tail”?",
     "audio_prompt": "Which statement uses evidence responsibly for “The dog waited by the gate.” and “lowered ears and a wagging tail”?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la09.svg#ac9e3la09-p-014",
-      "alt_text": "Learning aid for: Which statement uses evidence responsibly for “The dog waited by the gate.” and “lowered ears and a wagging tail”?"
-    },
     "answers": [
       {
         "text": "The visual clue suggests that the dog is hopeful but uncertain.",
@@ -505,10 +417,7 @@
     "explanation": {
       "summary": "Visual inference should be expressed as supported interpretation, not certainty beyond evidence.",
       "hint": "Prefer suggests when the evidence allows an inference."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LA09-P-015",
@@ -516,14 +425,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
+    "stage": "explain",
     "skill": "How Images Extend Meaning",
     "question": "Why might the creator pair “The dog waited by the gate.” with “lowered ears and a wagging tail”?",
     "audio_prompt": "Why might the creator pair “The dog waited by the gate.” with “lowered ears and a wagging tail”?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la09.svg#ac9e3la09-p-015",
-      "alt_text": "Learning aid for: Why might the creator pair “The dog waited by the gate.” with “lowered ears and a wagging tail”?"
-    },
     "answers": [
       {
         "text": "To make the written words impossible to understand.",
@@ -542,9 +447,7 @@
     "explanation": {
       "summary": "Words and images can work together to create richer meaning.",
       "hint": "Explain what the visual contributes."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LA09-P-016",
@@ -552,14 +455,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
+    "stage": "explain",
     "skill": "How Images Extend Meaning",
     "question": "Which reading strategy best suits a page containing “The dog waited by the gate.” and “lowered ears and a wagging tail”?",
     "audio_prompt": "Which reading strategy best suits a page containing “The dog waited by the gate.” and “lowered ears and a wagging tail”?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la09.svg#ac9e3la09-p-016",
-      "alt_text": "Learning aid for: Which reading strategy best suits a page containing “The dog waited by the gate.” and “lowered ears and a wagging tail”?"
-    },
     "answers": [
       {
         "text": "Ignore the image completely.",
@@ -578,10 +477,7 @@
     "explanation": {
       "summary": "Multimodal reading combines evidence across modes.",
       "hint": "Use every relevant clue available."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LA09-P-017",
@@ -589,14 +485,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
+    "stage": "explain",
     "skill": "How Images Extend Meaning",
     "question": "The words say, “The hikers stopped.” Which image detail would extend their meaning?",
     "audio_prompt": "The words say, “The hikers stopped.” Which image detail would extend their meaning?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la09.svg#ac9e3la09-p-017",
-      "alt_text": "Learning aid for: The words say, “The hikers stopped.” Which image detail would extend their meaning?"
-    },
     "answers": [
       {
         "text": "a fallen tree blocking the narrow track",
@@ -615,9 +507,7 @@
     "explanation": {
       "summary": "An image extends meaning when it adds relevant information beyond the words.",
       "hint": "Choose a detail that changes or deepens what readers understand."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LA09-P-018",
@@ -625,14 +515,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
+    "stage": "explain",
     "skill": "How Images Extend Meaning",
     "question": "Combine “The hikers stopped.” with the image detail “a fallen tree blocking the narrow track”. What can a reader infer?",
     "audio_prompt": "Combine “The hikers stopped.” with the image detail “a fallen tree blocking the narrow track”. What can a reader infer?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la09.svg#ac9e3la09-p-018",
-      "alt_text": "Learning aid for: Combine “The hikers stopped.” with the image detail “a fallen tree blocking the narrow track”. What can a reader infer?"
-    },
     "answers": [
       {
         "text": "The image has no relationship to the words.",
@@ -651,9 +537,7 @@
     "explanation": {
       "summary": "Readers combine written and visual clues to infer added meaning.",
       "hint": "Use evidence from both modes."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LA09-P-019",
@@ -661,14 +545,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
+    "stage": "explain",
     "skill": "How Images Extend Meaning",
     "question": "What does “a fallen tree blocking the narrow track” add to the words “The hikers stopped.”?",
     "audio_prompt": "What does “a fallen tree blocking the narrow track” add to the words “The hikers stopped.”?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la09.svg#ac9e3la09-p-019",
-      "alt_text": "Learning aid for: What does “a fallen tree blocking the narrow track” add to the words “The hikers stopped.”?"
-    },
     "answers": [
       {
         "text": "It gives the spelling of every word.",
@@ -687,9 +567,7 @@
     "explanation": {
       "summary": "A relevant visual detail can add setting, mood, action or character information.",
       "hint": "Name the new meaning supplied by the image."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LA09-P-020",
@@ -697,14 +575,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
+    "stage": "explain",
     "skill": "How Images Extend Meaning",
     "question": "Which visual change would most alter the mood of “The hikers stopped.”?",
     "audio_prompt": "Which visual change would most alter the mood of “The hikers stopped.”?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la09.svg#ac9e3la09-p-020",
-      "alt_text": "Learning aid for: Which visual change would most alter the mood of “The hikers stopped.”?"
-    },
     "answers": [
       {
         "text": "Replace the scene with bright light and relaxed expressions.",
@@ -723,9 +597,7 @@
     "explanation": {
       "summary": "Visual choices such as light and expression influence mood.",
       "hint": "Look for a change readers would interpret emotionally."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LA09-P-021",
@@ -733,14 +605,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
+    "stage": "discriminate",
     "skill": "How Images Extend Meaning",
     "question": "A caption simply repeats “The hikers stopped.” What would improve it?",
     "audio_prompt": "A caption simply repeats “The hikers stopped.” What would improve it?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la09.svg#ac9e3la09-p-021",
-      "alt_text": "Learning aid for: A caption simply repeats “The hikers stopped.” What would improve it?"
-    },
     "answers": [
       {
         "text": "Repeat the same sentence twice more.",
@@ -759,9 +627,7 @@
     "explanation": {
       "summary": "Useful captions can guide attention to meaningful visual evidence.",
       "hint": "Add information rather than copying the words."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LA09-P-022",
@@ -769,14 +635,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
+    "stage": "discriminate",
     "skill": "How Images Extend Meaning",
     "question": "Which statement uses evidence responsibly for “The hikers stopped.” and “a fallen tree blocking the narrow track”?",
     "audio_prompt": "Which statement uses evidence responsibly for “The hikers stopped.” and “a fallen tree blocking the narrow track”?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la09.svg#ac9e3la09-p-022",
-      "alt_text": "Learning aid for: Which statement uses evidence responsibly for “The hikers stopped.” and “a fallen tree blocking the narrow track”?"
-    },
     "answers": [
       {
         "text": "The image guarantees every detail of the journey has met an obstacle.",
@@ -795,9 +657,7 @@
     "explanation": {
       "summary": "Visual inference should be expressed as supported interpretation, not certainty beyond evidence.",
       "hint": "Prefer suggests when the evidence allows an inference."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LA09-P-023",
@@ -805,14 +665,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
+    "stage": "discriminate",
     "skill": "How Images Extend Meaning",
     "question": "Why might the creator pair “The hikers stopped.” with “a fallen tree blocking the narrow track”?",
     "audio_prompt": "Why might the creator pair “The hikers stopped.” with “a fallen tree blocking the narrow track”?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la09.svg#ac9e3la09-p-023",
-      "alt_text": "Learning aid for: Why might the creator pair “The hikers stopped.” with “a fallen tree blocking the narrow track”?"
-    },
     "answers": [
       {
         "text": "To let the image extend the event, setting or mood.",
@@ -831,9 +687,7 @@
     "explanation": {
       "summary": "Words and images can work together to create richer meaning.",
       "hint": "Explain what the visual contributes."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LA09-P-024",
@@ -841,14 +695,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
+    "stage": "discriminate",
     "skill": "How Images Extend Meaning",
     "question": "Which reading strategy best suits a page containing “The hikers stopped.” and “a fallen tree blocking the narrow track”?",
     "audio_prompt": "Which reading strategy best suits a page containing “The hikers stopped.” and “a fallen tree blocking the narrow track”?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la09.svg#ac9e3la09-p-024",
-      "alt_text": "Learning aid for: Which reading strategy best suits a page containing “The hikers stopped.” and “a fallen tree blocking the narrow track”?"
-    },
     "answers": [
       {
         "text": "Ignore the image completely.",
@@ -867,24 +717,18 @@
     "explanation": {
       "summary": "Multimodal reading combines evidence across modes.",
       "hint": "Use every relevant clue available."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "AC9E3LA09-T-001",
+    "id": "AC9E3LA09-P-025",
     "subject": "english",
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
-    "bank": "test",
+    "bank": "practice",
+    "stage": "discriminate",
     "skill": "How Images Extend Meaning",
     "question": "The words say, “Lena opened the old box.” Which image detail would extend their meaning?",
     "audio_prompt": "The words say, “Lena opened the old box.” Which image detail would extend their meaning?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la09.svg#ac9e3la09-t-001",
-      "alt_text": "Learning aid for: The words say, “Lena opened the old box.” Which image detail would extend their meaning?"
-    },
     "answers": [
       {
         "text": "a plain page number",
@@ -906,19 +750,15 @@
     }
   },
   {
-    "id": "AC9E3LA09-T-002",
+    "id": "AC9E3LA09-P-026",
     "subject": "english",
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
-    "bank": "test",
+    "bank": "practice",
+    "stage": "discriminate",
     "skill": "How Images Extend Meaning",
     "question": "Combine “Lena opened the old box.” with the image detail “a faded photograph tucked beneath a medal”. What can a reader infer?",
     "audio_prompt": "Combine “Lena opened the old box.” with the image detail “a faded photograph tucked beneath a medal”. What can a reader infer?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la09.svg#ac9e3la09-t-002",
-      "alt_text": "Learning aid for: Combine “Lena opened the old box.” with the image detail “a faded photograph tucked beneath a medal”. What can a reader infer?"
-    },
     "answers": [
       {
         "text": "the objects may hold a family memory",
@@ -940,19 +780,15 @@
     }
   },
   {
-    "id": "AC9E3LA09-T-003",
+    "id": "AC9E3LA09-P-027",
     "subject": "english",
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
-    "bank": "test",
+    "bank": "practice",
+    "stage": "discriminate",
     "skill": "How Images Extend Meaning",
     "question": "What does “a faded photograph tucked beneath a medal” add to the words “Lena opened the old box.”?",
     "audio_prompt": "What does “a faded photograph tucked beneath a medal” add to the words “Lena opened the old box.”?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la09.svg#ac9e3la09-t-003",
-      "alt_text": "Learning aid for: What does “a faded photograph tucked beneath a medal” add to the words “Lena opened the old box.”?"
-    },
     "answers": [
       {
         "text": "It gives the spelling of every word.",
@@ -974,19 +810,15 @@
     }
   },
   {
-    "id": "AC9E3LA09-T-004",
+    "id": "AC9E3LA09-P-028",
     "subject": "english",
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
-    "bank": "test",
+    "bank": "practice",
+    "stage": "discriminate",
     "skill": "How Images Extend Meaning",
     "question": "Which visual change would most alter the mood of “Lena opened the old box.”?",
     "audio_prompt": "Which visual change would most alter the mood of “Lena opened the old box.”?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la09.svg#ac9e3la09-t-004",
-      "alt_text": "Learning aid for: Which visual change would most alter the mood of “Lena opened the old box.”?"
-    },
     "answers": [
       {
         "text": "Change the page number.",
@@ -1008,19 +840,15 @@
     }
   },
   {
-    "id": "AC9E3LA09-T-005",
+    "id": "AC9E3LA09-P-029",
     "subject": "english",
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
-    "bank": "test",
+    "bank": "practice",
+    "stage": "discriminate",
     "skill": "How Images Extend Meaning",
     "question": "A caption simply repeats “Lena opened the old box.” What would improve it?",
     "audio_prompt": "A caption simply repeats “Lena opened the old box.” What would improve it?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la09.svg#ac9e3la09-t-005",
-      "alt_text": "Learning aid for: A caption simply repeats “Lena opened the old box.” What would improve it?"
-    },
     "answers": [
       {
         "text": "Explain how a faded photograph tucked beneath a medal adds information.",
@@ -1042,19 +870,15 @@
     }
   },
   {
-    "id": "AC9E3LA09-T-006",
+    "id": "AC9E3LA09-P-030",
     "subject": "english",
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
-    "bank": "test",
+    "bank": "practice",
+    "stage": "discriminate",
     "skill": "How Images Extend Meaning",
     "question": "Which statement uses evidence responsibly for “Lena opened the old box.” and “a faded photograph tucked beneath a medal”?",
     "audio_prompt": "Which statement uses evidence responsibly for “Lena opened the old box.” and “a faded photograph tucked beneath a medal”?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la09.svg#ac9e3la09-t-006",
-      "alt_text": "Learning aid for: Which statement uses evidence responsibly for “Lena opened the old box.” and “a faded photograph tucked beneath a medal”?"
-    },
     "answers": [
       {
         "text": "The image guarantees every detail of the objects may hold a family memory.",
@@ -1076,19 +900,15 @@
     }
   },
   {
-    "id": "AC9E3LA09-T-007",
+    "id": "AC9E3LA09-P-031",
     "subject": "english",
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
-    "bank": "test",
+    "bank": "practice",
+    "stage": "apply",
     "skill": "How Images Extend Meaning",
     "question": "Why might the creator pair “Lena opened the old box.” with “a faded photograph tucked beneath a medal”?",
     "audio_prompt": "Why might the creator pair “Lena opened the old box.” with “a faded photograph tucked beneath a medal”?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la09.svg#ac9e3la09-t-007",
-      "alt_text": "Learning aid for: Why might the creator pair “Lena opened the old box.” with “a faded photograph tucked beneath a medal”?"
-    },
     "answers": [
       {
         "text": "To make the written words impossible to understand.",
@@ -1110,19 +930,15 @@
     }
   },
   {
-    "id": "AC9E3LA09-T-008",
+    "id": "AC9E3LA09-P-032",
     "subject": "english",
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
-    "bank": "test",
+    "bank": "practice",
+    "stage": "apply",
     "skill": "How Images Extend Meaning",
     "question": "Which reading strategy best suits a page containing “Lena opened the old box.” and “a faded photograph tucked beneath a medal”?",
     "audio_prompt": "Which reading strategy best suits a page containing “Lena opened the old box.” and “a faded photograph tucked beneath a medal”?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la09.svg#ac9e3la09-t-008",
-      "alt_text": "Learning aid for: Which reading strategy best suits a page containing “Lena opened the old box.” and “a faded photograph tucked beneath a medal”?"
-    },
     "answers": [
       {
         "text": "Notice details in both the words and image, then connect them.",
@@ -1144,19 +960,15 @@
     }
   },
   {
-    "id": "AC9E3LA09-T-009",
+    "id": "AC9E3LA09-P-033",
     "subject": "english",
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
-    "bank": "test",
+    "bank": "practice",
+    "stage": "apply",
     "skill": "How Images Extend Meaning",
     "question": "The words say, “The crowd became quiet.” Which image detail would extend their meaning?",
     "audio_prompt": "The words say, “The crowd became quiet.” Which image detail would extend their meaning?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la09.svg#ac9e3la09-t-009",
-      "alt_text": "Learning aid for: The words say, “The crowd became quiet.” Which image detail would extend their meaning?"
-    },
     "answers": [
       {
         "text": "a plain page number",
@@ -1178,19 +990,15 @@
     }
   },
   {
-    "id": "AC9E3LA09-T-010",
+    "id": "AC9E3LA09-P-034",
     "subject": "english",
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
-    "bank": "test",
+    "bank": "practice",
+    "stage": "apply",
     "skill": "How Images Extend Meaning",
     "question": "Combine “The crowd became quiet.” with the image detail “a tiny turtle moving towards the sea”. What can a reader infer?",
     "audio_prompt": "Combine “The crowd became quiet.” with the image detail “a tiny turtle moving towards the sea”. What can a reader infer?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la09.svg#ac9e3la09-t-010",
-      "alt_text": "Learning aid for: Combine “The crowd became quiet.” with the image detail “a tiny turtle moving towards the sea”. What can a reader infer?"
-    },
     "answers": [
       {
         "text": "The image has no relationship to the words.",
@@ -1212,19 +1020,15 @@
     }
   },
   {
-    "id": "AC9E3LA09-T-011",
+    "id": "AC9E3LA09-P-035",
     "subject": "english",
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
-    "bank": "test",
+    "bank": "practice",
+    "stage": "apply",
     "skill": "How Images Extend Meaning",
     "question": "What does “a tiny turtle moving towards the sea” add to the words “The crowd became quiet.”?",
     "audio_prompt": "What does “a tiny turtle moving towards the sea” add to the words “The crowd became quiet.”?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la09.svg#ac9e3la09-t-011",
-      "alt_text": "Learning aid for: What does “a tiny turtle moving towards the sea” add to the words “The crowd became quiet.”?"
-    },
     "answers": [
       {
         "text": "It suggests that the crowd is watching a fragile animal.",
@@ -1246,19 +1050,15 @@
     }
   },
   {
-    "id": "AC9E3LA09-T-012",
+    "id": "AC9E3LA09-P-036",
     "subject": "english",
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
-    "bank": "test",
+    "bank": "practice",
+    "stage": "apply",
     "skill": "How Images Extend Meaning",
     "question": "Which visual change would most alter the mood of “The crowd became quiet.”?",
     "audio_prompt": "Which visual change would most alter the mood of “The crowd became quiet.”?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la09.svg#ac9e3la09-t-012",
-      "alt_text": "Learning aid for: Which visual change would most alter the mood of “The crowd became quiet.”?"
-    },
     "answers": [
       {
         "text": "Change the page number.",
@@ -1280,19 +1080,15 @@
     }
   },
   {
-    "id": "AC9E3LA09-T-013",
+    "id": "AC9E3LA09-P-037",
     "subject": "english",
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
-    "bank": "test",
+    "bank": "practice",
+    "stage": "apply",
     "skill": "How Images Extend Meaning",
     "question": "A caption simply repeats “The crowd became quiet.” What would improve it?",
     "audio_prompt": "A caption simply repeats “The crowd became quiet.” What would improve it?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la09.svg#ac9e3la09-t-013",
-      "alt_text": "Learning aid for: A caption simply repeats “The crowd became quiet.” What would improve it?"
-    },
     "answers": [
       {
         "text": "Repeat the same sentence twice more.",
@@ -1314,19 +1110,15 @@
     }
   },
   {
-    "id": "AC9E3LA09-T-014",
+    "id": "AC9E3LA09-P-038",
     "subject": "english",
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
-    "bank": "test",
+    "bank": "practice",
+    "stage": "apply",
     "skill": "How Images Extend Meaning",
     "question": "Which statement uses evidence responsibly for “The crowd became quiet.” and “a tiny turtle moving towards the sea”?",
     "audio_prompt": "Which statement uses evidence responsibly for “The crowd became quiet.” and “a tiny turtle moving towards the sea”?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la09.svg#ac9e3la09-t-014",
-      "alt_text": "Learning aid for: Which statement uses evidence responsibly for “The crowd became quiet.” and “a tiny turtle moving towards the sea”?"
-    },
     "answers": [
       {
         "text": "The visual clue suggests that the crowd is watching a fragile animal.",
@@ -1348,19 +1140,15 @@
     }
   },
   {
-    "id": "AC9E3LA09-T-015",
+    "id": "AC9E3LA09-P-039",
     "subject": "english",
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
-    "bank": "test",
+    "bank": "practice",
+    "stage": "apply",
     "skill": "How Images Extend Meaning",
     "question": "Why might the creator pair “The crowd became quiet.” with “a tiny turtle moving towards the sea”?",
     "audio_prompt": "Why might the creator pair “The crowd became quiet.” with “a tiny turtle moving towards the sea”?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la09.svg#ac9e3la09-t-015",
-      "alt_text": "Learning aid for: Why might the creator pair “The crowd became quiet.” with “a tiny turtle moving towards the sea”?"
-    },
     "answers": [
       {
         "text": "To make the written words impossible to understand.",
@@ -1382,19 +1170,15 @@
     }
   },
   {
-    "id": "AC9E3LA09-T-016",
+    "id": "AC9E3LA09-P-040",
     "subject": "english",
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
-    "bank": "test",
+    "bank": "practice",
+    "stage": "apply",
     "skill": "How Images Extend Meaning",
     "question": "Which reading strategy best suits a page containing “The crowd became quiet.” and “a tiny turtle moving towards the sea”?",
     "audio_prompt": "Which reading strategy best suits a page containing “The crowd became quiet.” and “a tiny turtle moving towards the sea”?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la09.svg#ac9e3la09-t-016",
-      "alt_text": "Learning aid for: Which reading strategy best suits a page containing “The crowd became quiet.” and “a tiny turtle moving towards the sea”?"
-    },
     "answers": [
       {
         "text": "Ignore the image completely.",
@@ -1410,6 +1194,470 @@
       }
     ],
     "correct_index": 2,
+    "explanation": {
+      "summary": "Multimodal reading combines evidence across modes.",
+      "hint": "Use every relevant clue available."
+    }
+  },
+  {
+    "id": "AC9E3LA09-T-001",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA09",
+    "bank": "test",
+    "skill": "How Images Extend Meaning",
+    "question": "New check: The words say, “Lena opened the old box.” Which image detail would extend their meaning?",
+    "audio_prompt": "The words say, “Lena opened the old box.” Which image detail would extend their meaning?",
+    "answers": [
+      {
+        "text": "a faded photograph tucked beneath a medal",
+        "is_correct": true
+      },
+      {
+        "text": "a plain page number",
+        "is_correct": false
+      },
+      {
+        "text": "an empty white margin",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "An image extends meaning when it adds relevant information beyond the words.",
+      "hint": "Choose a detail that changes or deepens what readers understand."
+    }
+  },
+  {
+    "id": "AC9E3LA09-T-002",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA09",
+    "bank": "test",
+    "skill": "How Images Extend Meaning",
+    "question": "New check: Combine “Lena opened the old box.” with the image detail “a faded photograph tucked beneath a medal”. What can a reader infer?",
+    "audio_prompt": "Combine “Lena opened the old box.” with the image detail “a faded photograph tucked beneath a medal”. What can a reader infer?",
+    "answers": [
+      {
+        "text": "The image has no relationship to the words.",
+        "is_correct": false
+      },
+      {
+        "text": "the objects may hold a family memory",
+        "is_correct": true
+      },
+      {
+        "text": "The page number explains the whole event.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Readers combine written and visual clues to infer added meaning.",
+      "hint": "Use evidence from both modes."
+    }
+  },
+  {
+    "id": "AC9E3LA09-T-003",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA09",
+    "bank": "test",
+    "skill": "How Images Extend Meaning",
+    "question": "New check: What does “a faded photograph tucked beneath a medal” add to the words “Lena opened the old box.”?",
+    "audio_prompt": "What does “a faded photograph tucked beneath a medal” add to the words “Lena opened the old box.”?",
+    "answers": [
+      {
+        "text": "It gives the spelling of every word.",
+        "is_correct": false
+      },
+      {
+        "text": "It proves a fact that has no support in the text.",
+        "is_correct": false
+      },
+      {
+        "text": "It suggests that the objects may hold a family memory.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A relevant visual detail can add setting, mood, action or character information.",
+      "hint": "Name the new meaning supplied by the image."
+    }
+  },
+  {
+    "id": "AC9E3LA09-T-004",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA09",
+    "bank": "test",
+    "skill": "How Images Extend Meaning",
+    "question": "New check: Which visual change would most alter the mood of “Lena opened the old box.”?",
+    "audio_prompt": "Which visual change would most alter the mood of “Lena opened the old box.”?",
+    "answers": [
+      {
+        "text": "Replace the scene with bright light and relaxed expressions.",
+        "is_correct": true
+      },
+      {
+        "text": "Change the page number.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the margin slightly wider.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Visual choices such as light and expression influence mood.",
+      "hint": "Look for a change readers would interpret emotionally."
+    }
+  },
+  {
+    "id": "AC9E3LA09-T-005",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA09",
+    "bank": "test",
+    "skill": "How Images Extend Meaning",
+    "question": "New check: A caption simply repeats “Lena opened the old box.” What would improve it?",
+    "audio_prompt": "A caption simply repeats “Lena opened the old box.” What would improve it?",
+    "answers": [
+      {
+        "text": "Repeat the same sentence twice more.",
+        "is_correct": false
+      },
+      {
+        "text": "Explain how a faded photograph tucked beneath a medal adds information.",
+        "is_correct": true
+      },
+      {
+        "text": "Describe an unrelated object outside the scene.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Useful captions can guide attention to meaningful visual evidence.",
+      "hint": "Add information rather than copying the words."
+    }
+  },
+  {
+    "id": "AC9E3LA09-T-006",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA09",
+    "bank": "test",
+    "skill": "How Images Extend Meaning",
+    "question": "New check: Which statement uses evidence responsibly for “Lena opened the old box.” and “a faded photograph tucked beneath a medal”?",
+    "audio_prompt": "Which statement uses evidence responsibly for “Lena opened the old box.” and “a faded photograph tucked beneath a medal”?",
+    "answers": [
+      {
+        "text": "The image guarantees every detail of the objects may hold a family memory.",
+        "is_correct": false
+      },
+      {
+        "text": "The words and image cannot be read together.",
+        "is_correct": false
+      },
+      {
+        "text": "The visual clue suggests that the objects may hold a family memory.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Visual inference should be expressed as supported interpretation, not certainty beyond evidence.",
+      "hint": "Prefer suggests when the evidence allows an inference."
+    }
+  },
+  {
+    "id": "AC9E3LA09-T-007",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA09",
+    "bank": "test",
+    "skill": "How Images Extend Meaning",
+    "question": "New check: Why might the creator pair “Lena opened the old box.” with “a faded photograph tucked beneath a medal”?",
+    "audio_prompt": "Why might the creator pair “Lena opened the old box.” with “a faded photograph tucked beneath a medal”?",
+    "answers": [
+      {
+        "text": "To let the image extend the event, setting or mood.",
+        "is_correct": true
+      },
+      {
+        "text": "To make the written words impossible to understand.",
+        "is_correct": false
+      },
+      {
+        "text": "To ensure the image has no purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Words and images can work together to create richer meaning.",
+      "hint": "Explain what the visual contributes."
+    }
+  },
+  {
+    "id": "AC9E3LA09-T-008",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA09",
+    "bank": "test",
+    "skill": "How Images Extend Meaning",
+    "question": "New check: Which reading strategy best suits a page containing “Lena opened the old box.” and “a faded photograph tucked beneath a medal”?",
+    "audio_prompt": "Which reading strategy best suits a page containing “Lena opened the old box.” and “a faded photograph tucked beneath a medal”?",
+    "answers": [
+      {
+        "text": "Ignore the image completely.",
+        "is_correct": false
+      },
+      {
+        "text": "Notice details in both the words and image, then connect them.",
+        "is_correct": true
+      },
+      {
+        "text": "Guess without using either source.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Multimodal reading combines evidence across modes.",
+      "hint": "Use every relevant clue available."
+    }
+  },
+  {
+    "id": "AC9E3LA09-T-009",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA09",
+    "bank": "test",
+    "skill": "How Images Extend Meaning",
+    "question": "New check: The words say, “The crowd became quiet.” Which image detail would extend their meaning?",
+    "audio_prompt": "The words say, “The crowd became quiet.” Which image detail would extend their meaning?",
+    "answers": [
+      {
+        "text": "a plain page number",
+        "is_correct": false
+      },
+      {
+        "text": "an empty white margin",
+        "is_correct": false
+      },
+      {
+        "text": "a tiny turtle moving towards the sea",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "An image extends meaning when it adds relevant information beyond the words.",
+      "hint": "Choose a detail that changes or deepens what readers understand."
+    }
+  },
+  {
+    "id": "AC9E3LA09-T-010",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA09",
+    "bank": "test",
+    "skill": "How Images Extend Meaning",
+    "question": "New check: Combine “The crowd became quiet.” with the image detail “a tiny turtle moving towards the sea”. What can a reader infer?",
+    "audio_prompt": "Combine “The crowd became quiet.” with the image detail “a tiny turtle moving towards the sea”. What can a reader infer?",
+    "answers": [
+      {
+        "text": "the crowd is watching a fragile animal",
+        "is_correct": true
+      },
+      {
+        "text": "The image has no relationship to the words.",
+        "is_correct": false
+      },
+      {
+        "text": "The page number explains the whole event.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Readers combine written and visual clues to infer added meaning.",
+      "hint": "Use evidence from both modes."
+    }
+  },
+  {
+    "id": "AC9E3LA09-T-011",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA09",
+    "bank": "test",
+    "skill": "How Images Extend Meaning",
+    "question": "New check: What does “a tiny turtle moving towards the sea” add to the words “The crowd became quiet.”?",
+    "audio_prompt": "What does “a tiny turtle moving towards the sea” add to the words “The crowd became quiet.”?",
+    "answers": [
+      {
+        "text": "It gives the spelling of every word.",
+        "is_correct": false
+      },
+      {
+        "text": "It suggests that the crowd is watching a fragile animal.",
+        "is_correct": true
+      },
+      {
+        "text": "It proves a fact that has no support in the text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A relevant visual detail can add setting, mood, action or character information.",
+      "hint": "Name the new meaning supplied by the image."
+    }
+  },
+  {
+    "id": "AC9E3LA09-T-012",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA09",
+    "bank": "test",
+    "skill": "How Images Extend Meaning",
+    "question": "New check: Which visual change would most alter the mood of “The crowd became quiet.”?",
+    "audio_prompt": "Which visual change would most alter the mood of “The crowd became quiet.”?",
+    "answers": [
+      {
+        "text": "Change the page number.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the margin slightly wider.",
+        "is_correct": false
+      },
+      {
+        "text": "Replace the scene with bright light and relaxed expressions.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Visual choices such as light and expression influence mood.",
+      "hint": "Look for a change readers would interpret emotionally."
+    }
+  },
+  {
+    "id": "AC9E3LA09-T-013",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA09",
+    "bank": "test",
+    "skill": "How Images Extend Meaning",
+    "question": "New check: A caption simply repeats “The crowd became quiet.” What would improve it?",
+    "audio_prompt": "A caption simply repeats “The crowd became quiet.” What would improve it?",
+    "answers": [
+      {
+        "text": "Explain how a tiny turtle moving towards the sea adds information.",
+        "is_correct": true
+      },
+      {
+        "text": "Repeat the same sentence twice more.",
+        "is_correct": false
+      },
+      {
+        "text": "Describe an unrelated object outside the scene.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Useful captions can guide attention to meaningful visual evidence.",
+      "hint": "Add information rather than copying the words."
+    }
+  },
+  {
+    "id": "AC9E3LA09-T-014",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA09",
+    "bank": "test",
+    "skill": "How Images Extend Meaning",
+    "question": "New check: Which statement uses evidence responsibly for “The crowd became quiet.” and “a tiny turtle moving towards the sea”?",
+    "audio_prompt": "Which statement uses evidence responsibly for “The crowd became quiet.” and “a tiny turtle moving towards the sea”?",
+    "answers": [
+      {
+        "text": "The image guarantees every detail of the crowd is watching a fragile animal.",
+        "is_correct": false
+      },
+      {
+        "text": "The visual clue suggests that the crowd is watching a fragile animal.",
+        "is_correct": true
+      },
+      {
+        "text": "The words and image cannot be read together.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Visual inference should be expressed as supported interpretation, not certainty beyond evidence.",
+      "hint": "Prefer suggests when the evidence allows an inference."
+    }
+  },
+  {
+    "id": "AC9E3LA09-T-015",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA09",
+    "bank": "test",
+    "skill": "How Images Extend Meaning",
+    "question": "New check: Why might the creator pair “The crowd became quiet.” with “a tiny turtle moving towards the sea”?",
+    "audio_prompt": "Why might the creator pair “The crowd became quiet.” with “a tiny turtle moving towards the sea”?",
+    "answers": [
+      {
+        "text": "To make the written words impossible to understand.",
+        "is_correct": false
+      },
+      {
+        "text": "To ensure the image has no purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "To let the image extend the event, setting or mood.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Words and images can work together to create richer meaning.",
+      "hint": "Explain what the visual contributes."
+    }
+  },
+  {
+    "id": "AC9E3LA09-T-016",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA09",
+    "bank": "test",
+    "skill": "How Images Extend Meaning",
+    "question": "New check: Which reading strategy best suits a page containing “The crowd became quiet.” and “a tiny turtle moving towards the sea”?",
+    "audio_prompt": "Which reading strategy best suits a page containing “The crowd became quiet.” and “a tiny turtle moving towards the sea”?",
+    "answers": [
+      {
+        "text": "Notice details in both the words and image, then connect them.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the image completely.",
+        "is_correct": false
+      },
+      {
+        "text": "Guess without using either source.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
     "explanation": {
       "summary": "Multimodal reading combines evidence across modes.",
       "hint": "Use every relevant clue available."

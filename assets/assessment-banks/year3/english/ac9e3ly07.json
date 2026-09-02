@@ -5,14 +5,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY07",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Oral and Multimodal Presentations",
     "question": "For a talk about a class investigation, which opening best orients listeners?",
     "audio_prompt": "For a talk about a class investigation, which opening best orients listeners?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly07.svg#ac9e3ly07-p-001",
-      "alt_text": "A classroom English model for for a talk about a class investigation showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Begin with an unexplained final detail",
@@ -31,10 +27,7 @@
     "explanation": {
       "summary": "State the topic and why it matters This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LY07-P-002",
@@ -42,14 +35,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY07",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Oral and Multimodal Presentations",
     "question": "For a talk about a class investigation, how should ideas be ordered?",
     "audio_prompt": "For a talk about a class investigation, how should ideas be ordered?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly07.svg#ac9e3ly07-p-002",
-      "alt_text": "A classroom English model for for a talk about a class investigation showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Randomly as they are remembered",
@@ -68,10 +57,7 @@
     "explanation": {
       "summary": "In a clear sequence with linking language This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LY07-P-003",
@@ -79,14 +65,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY07",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Oral and Multimodal Presentations",
     "question": "For a talk about a class investigation, which voice choice helps an audience follow?",
     "audio_prompt": "For a talk about a class investigation, which voice choice helps an audience follow?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly07.svg#ac9e3ly07-p-003",
-      "alt_text": "A classroom English model for for a talk about a class investigation showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Clear volume, suitable pace and meaningful emphasis",
@@ -105,10 +87,7 @@
     "explanation": {
       "summary": "Clear volume, suitable pace and meaningful emphasis This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LY07-P-004",
@@ -116,14 +95,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY07",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Oral and Multimodal Presentations",
     "question": "For a talk about a class investigation, what is the best use of a visual?",
     "audio_prompt": "For a talk about a class investigation, what is the best use of a visual?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly07.svg#ac9e3ly07-p-004",
-      "alt_text": "A classroom English model for for a talk about a class investigation showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Cover the visual with unrelated text",
@@ -142,10 +117,7 @@
     "explanation": {
       "summary": "Show evidence or a relationship while the speaker explains it This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LY07-P-005",
@@ -153,14 +125,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY07",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Oral and Multimodal Presentations",
     "question": "For a talk about a class investigation, why should vocabulary suit the audience?",
     "audio_prompt": "For a talk about a class investigation, why should vocabulary suit the audience?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly07.svg#ac9e3ly07-p-005",
-      "alt_text": "A classroom English model for for a talk about a class investigation showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Technical words always impress everyone",
@@ -179,10 +147,7 @@
     "explanation": {
       "summary": "Listeners need accurate terms they can understand This explanation follows the relevant Year 3 English evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LY07-P-006",
@@ -190,14 +155,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY07",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Oral and Multimodal Presentations",
     "question": "For a talk about a class investigation, which transition signals a new point?",
     "audio_prompt": "For a talk about a class investigation, which transition signals a new point?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly07.svg#ac9e3ly07-p-006",
-      "alt_text": "A classroom English model for for a talk about a class investigation showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Next, let us compare the two results",
@@ -216,10 +177,7 @@
     "explanation": {
       "summary": "Next, let us compare the two results This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LY07-P-007",
@@ -227,14 +185,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY07",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Oral and Multimodal Presentations",
     "question": "For a talk about a class investigation, a listener looks confused. What can the speaker do?",
     "audio_prompt": "For a talk about a class investigation, a listener looks confused. What can the speaker do?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly07.svg#ac9e3ly07-p-007",
-      "alt_text": "A classroom English model for for a talk about a class investigation showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Speak faster",
@@ -253,10 +207,7 @@
     "explanation": {
       "summary": "Restate the idea with a clear example This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LY07-P-008",
@@ -264,14 +215,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY07",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Oral and Multimodal Presentations",
     "question": "For a talk about a class investigation, which conclusion is effective?",
     "audio_prompt": "For a talk about a class investigation, which conclusion is effective?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly07.svg#ac9e3ly07-p-008",
-      "alt_text": "A classroom English model for for a talk about a class investigation showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Introduce three new topics",
@@ -290,10 +237,7 @@
     "explanation": {
       "summary": "Summarise the central idea and connect back to the purpose This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LY07-P-009",
@@ -301,14 +245,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY07",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Oral and Multimodal Presentations",
     "question": "For a book recommendation, which opening best orients listeners?",
     "audio_prompt": "For a book recommendation, which opening best orients listeners?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly07.svg#ac9e3ly07-p-009",
-      "alt_text": "A classroom English model for for a book recommendation showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "State the topic and why it matters",
@@ -327,9 +267,7 @@
     "explanation": {
       "summary": "State the topic and why it matters This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LY07-P-010",
@@ -337,14 +275,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY07",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Oral and Multimodal Presentations",
     "question": "For a book recommendation, how should ideas be ordered?",
     "audio_prompt": "For a book recommendation, how should ideas be ordered?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly07.svg#ac9e3ly07-p-010",
-      "alt_text": "A classroom English model for for a book recommendation showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Randomly as they are remembered",
@@ -363,9 +297,7 @@
     "explanation": {
       "summary": "In a clear sequence with linking language This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LY07-P-011",
@@ -373,14 +305,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY07",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Oral and Multimodal Presentations",
     "question": "For a book recommendation, which voice choice helps an audience follow?",
     "audio_prompt": "For a book recommendation, which voice choice helps an audience follow?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly07.svg#ac9e3ly07-p-011",
-      "alt_text": "A classroom English model for for a book recommendation showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "A whisper throughout",
@@ -399,9 +327,7 @@
     "explanation": {
       "summary": "Clear volume, suitable pace and meaningful emphasis This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LY07-P-012",
@@ -409,14 +335,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY07",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Oral and Multimodal Presentations",
     "question": "For a book recommendation, what is the best use of a visual?",
     "audio_prompt": "For a book recommendation, what is the best use of a visual?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly07.svg#ac9e3ly07-p-012",
-      "alt_text": "A classroom English model for for a book recommendation showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Show evidence or a relationship while the speaker explains it",
@@ -435,9 +357,7 @@
     "explanation": {
       "summary": "Show evidence or a relationship while the speaker explains it This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LY07-P-013",
@@ -445,14 +365,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY07",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Oral and Multimodal Presentations",
     "question": "For a book recommendation, why should vocabulary suit the audience?",
     "audio_prompt": "For a book recommendation, why should vocabulary suit the audience?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly07.svg#ac9e3ly07-p-013",
-      "alt_text": "A classroom English model for for a book recommendation showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Technical words always impress everyone",
@@ -471,9 +387,7 @@
     "explanation": {
       "summary": "Listeners need accurate terms they can understand This explanation follows the relevant Year 3 English evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LY07-P-014",
@@ -481,14 +395,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY07",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Oral and Multimodal Presentations",
     "question": "For a book recommendation, which transition signals a new point?",
     "audio_prompt": "For a book recommendation, which transition signals a new point?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly07.svg#ac9e3ly07-p-014",
-      "alt_text": "A classroom English model for for a book recommendation showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Um, anyway",
@@ -507,9 +417,7 @@
     "explanation": {
       "summary": "Next, let us compare the two results This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LY07-P-015",
@@ -517,14 +425,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY07",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Oral and Multimodal Presentations",
     "question": "For a book recommendation, a listener looks confused. What can the speaker do?",
     "audio_prompt": "For a book recommendation, a listener looks confused. What can the speaker do?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly07.svg#ac9e3ly07-p-015",
-      "alt_text": "A classroom English model for for a book recommendation showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Restate the idea with a clear example",
@@ -543,9 +447,7 @@
     "explanation": {
       "summary": "Restate the idea with a clear example This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LY07-P-016",
@@ -553,14 +455,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY07",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Oral and Multimodal Presentations",
     "question": "For a book recommendation, which conclusion is effective?",
     "audio_prompt": "For a book recommendation, which conclusion is effective?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly07.svg#ac9e3ly07-p-016",
-      "alt_text": "A classroom English model for for a book recommendation showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Introduce three new topics",
@@ -579,9 +477,7 @@
     "explanation": {
       "summary": "Summarise the central idea and connect back to the purpose This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LY07-P-017",
@@ -589,14 +485,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY07",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Oral and Multimodal Presentations",
     "question": "For an explanation of a local place, which opening best orients listeners?",
     "audio_prompt": "For an explanation of a local place, which opening best orients listeners?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly07.svg#ac9e3ly07-p-017",
-      "alt_text": "A classroom English model for for an explanation of a local place showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Begin with an unexplained final detail",
@@ -615,9 +507,7 @@
     "explanation": {
       "summary": "State the topic and why it matters This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LY07-P-018",
@@ -625,14 +515,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY07",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Oral and Multimodal Presentations",
     "question": "For an explanation of a local place, how should ideas be ordered?",
     "audio_prompt": "For an explanation of a local place, how should ideas be ordered?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly07.svg#ac9e3ly07-p-018",
-      "alt_text": "A classroom English model for for an explanation of a local place showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "In a clear sequence with linking language",
@@ -651,9 +537,7 @@
     "explanation": {
       "summary": "In a clear sequence with linking language This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LY07-P-019",
@@ -661,14 +545,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY07",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Oral and Multimodal Presentations",
     "question": "For an explanation of a local place, which voice choice helps an audience follow?",
     "audio_prompt": "For an explanation of a local place, which voice choice helps an audience follow?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly07.svg#ac9e3ly07-p-019",
-      "alt_text": "A classroom English model for for an explanation of a local place showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "A whisper throughout",
@@ -687,9 +567,7 @@
     "explanation": {
       "summary": "Clear volume, suitable pace and meaningful emphasis This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LY07-P-020",
@@ -697,14 +575,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY07",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Oral and Multimodal Presentations",
     "question": "For an explanation of a local place, what is the best use of a visual?",
     "audio_prompt": "For an explanation of a local place, what is the best use of a visual?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly07.svg#ac9e3ly07-p-020",
-      "alt_text": "A classroom English model for for an explanation of a local place showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Cover the visual with unrelated text",
@@ -723,9 +597,7 @@
     "explanation": {
       "summary": "Show evidence or a relationship while the speaker explains it This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LY07-P-021",
@@ -733,14 +605,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY07",
     "bank": "practice",
+    "stage": "discriminate",
     "skill": "Oral and Multimodal Presentations",
     "question": "For an explanation of a local place, why should vocabulary suit the audience?",
     "audio_prompt": "For an explanation of a local place, why should vocabulary suit the audience?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly07.svg#ac9e3ly07-p-021",
-      "alt_text": "A classroom English model for for an explanation of a local place showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Listeners need accurate terms they can understand",
@@ -759,9 +627,7 @@
     "explanation": {
       "summary": "Listeners need accurate terms they can understand This explanation follows the relevant Year 3 English evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LY07-P-022",
@@ -769,14 +635,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY07",
     "bank": "practice",
+    "stage": "discriminate",
     "skill": "Oral and Multimodal Presentations",
     "question": "For an explanation of a local place, which transition signals a new point?",
     "audio_prompt": "For an explanation of a local place, which transition signals a new point?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly07.svg#ac9e3ly07-p-022",
-      "alt_text": "A classroom English model for for an explanation of a local place showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Um, anyway",
@@ -795,9 +657,7 @@
     "explanation": {
       "summary": "Next, let us compare the two results This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LY07-P-023",
@@ -805,14 +665,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY07",
     "bank": "practice",
+    "stage": "discriminate",
     "skill": "Oral and Multimodal Presentations",
     "question": "For an explanation of a local place, a listener looks confused. What can the speaker do?",
     "audio_prompt": "For an explanation of a local place, a listener looks confused. What can the speaker do?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly07.svg#ac9e3ly07-p-023",
-      "alt_text": "A classroom English model for for an explanation of a local place showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Speak faster",
@@ -831,9 +687,7 @@
     "explanation": {
       "summary": "Restate the idea with a clear example This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LY07-P-024",
@@ -841,14 +695,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LY07",
     "bank": "practice",
+    "stage": "discriminate",
     "skill": "Oral and Multimodal Presentations",
     "question": "For an explanation of a local place, which conclusion is effective?",
     "audio_prompt": "For an explanation of a local place, which conclusion is effective?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly07.svg#ac9e3ly07-p-024",
-      "alt_text": "A classroom English model for for an explanation of a local place showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Summarise the central idea and connect back to the purpose",
@@ -867,9 +717,487 @@
     "explanation": {
       "summary": "Summarise the central idea and connect back to the purpose This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
+  },
+  {
+    "id": "AC9E3LY07-P-025",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY07",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Oral and Multimodal Presentations",
+    "question": "For a presentation about saving water, which opening best orients listeners?",
+    "audio_prompt": "For a presentation about saving water, which opening best orients listeners?",
+    "answers": [
+      {
+        "text": "Begin with an unexplained final detail",
+        "is_correct": false
+      },
+      {
+        "text": "State the topic and why it matters",
+        "is_correct": true
+      },
+      {
+        "text": "Apologise for speaking",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "State the topic and why it matters This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY07-P-026",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY07",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Oral and Multimodal Presentations",
+    "question": "For a presentation about saving water, how should ideas be ordered?",
+    "audio_prompt": "For a presentation about saving water, how should ideas be ordered?",
+    "answers": [
+      {
+        "text": "Randomly as they are remembered",
+        "is_correct": false
+      },
+      {
+        "text": "With the conclusion before any topic",
+        "is_correct": false
+      },
+      {
+        "text": "In a clear sequence with linking language",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "In a clear sequence with linking language This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY07-P-027",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY07",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Oral and Multimodal Presentations",
+    "question": "For a presentation about saving water, which voice choice helps an audience follow?",
+    "audio_prompt": "For a presentation about saving water, which voice choice helps an audience follow?",
+    "answers": [
+      {
+        "text": "Clear volume, suitable pace and meaningful emphasis",
+        "is_correct": true
+      },
+      {
+        "text": "A whisper throughout",
+        "is_correct": false
+      },
+      {
+        "text": "Maximum speed without pauses",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Clear volume, suitable pace and meaningful emphasis This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY07-P-028",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY07",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Oral and Multimodal Presentations",
+    "question": "For a presentation about saving water, what is the best use of a visual?",
+    "audio_prompt": "For a presentation about saving water, what is the best use of a visual?",
+    "answers": [
+      {
+        "text": "Cover the visual with unrelated text",
+        "is_correct": false
+      },
+      {
+        "text": "Show evidence or a relationship while the speaker explains it",
+        "is_correct": true
+      },
+      {
+        "text": "Read every label without explanation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Show evidence or a relationship while the speaker explains it This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY07-P-029",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY07",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Oral and Multimodal Presentations",
+    "question": "For a presentation about saving water, why should vocabulary suit the audience?",
+    "audio_prompt": "For a presentation about saving water, why should vocabulary suit the audience?",
+    "answers": [
+      {
+        "text": "Technical words always impress everyone",
+        "is_correct": false
+      },
+      {
+        "text": "Audience knowledge never matters",
+        "is_correct": false
+      },
+      {
+        "text": "Listeners need accurate terms they can understand",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Listeners need accurate terms they can understand This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY07-P-030",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY07",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Oral and Multimodal Presentations",
+    "question": "For a presentation about saving water, which transition signals a new point?",
+    "audio_prompt": "For a presentation about saving water, which transition signals a new point?",
+    "answers": [
+      {
+        "text": "Next, let us compare the two results",
+        "is_correct": true
+      },
+      {
+        "text": "Um, anyway",
+        "is_correct": false
+      },
+      {
+        "text": "The end, before the middle",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Next, let us compare the two results This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY07-P-031",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Oral and Multimodal Presentations",
+    "question": "For a presentation about saving water, a listener looks confused. What can the speaker do?",
+    "audio_prompt": "For a presentation about saving water, a listener looks confused. What can the speaker do?",
+    "answers": [
+      {
+        "text": "Speak faster",
+        "is_correct": false
+      },
+      {
+        "text": "Restate the idea with a clear example",
+        "is_correct": true
+      },
+      {
+        "text": "Remove the main point",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Restate the idea with a clear example This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY07-P-032",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Oral and Multimodal Presentations",
+    "question": "For a presentation about saving water, which conclusion is effective?",
+    "audio_prompt": "For a presentation about saving water, which conclusion is effective?",
+    "answers": [
+      {
+        "text": "Introduce three new topics",
+        "is_correct": false
+      },
+      {
+        "text": "Repeat the greeting only",
+        "is_correct": false
+      },
+      {
+        "text": "Summarise the central idea and connect back to the purpose",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Summarise the central idea and connect back to the purpose This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY07-P-033",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Oral and Multimodal Presentations",
+    "question": "For a demonstration of a simple machine, which opening best orients listeners?",
+    "audio_prompt": "For a demonstration of a simple machine, which opening best orients listeners?",
+    "answers": [
+      {
+        "text": "State the topic and why it matters",
+        "is_correct": true
+      },
+      {
+        "text": "Begin with an unexplained final detail",
+        "is_correct": false
+      },
+      {
+        "text": "Apologise for speaking",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "State the topic and why it matters This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY07-P-034",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Oral and Multimodal Presentations",
+    "question": "For a demonstration of a simple machine, how should ideas be ordered?",
+    "audio_prompt": "For a demonstration of a simple machine, how should ideas be ordered?",
+    "answers": [
+      {
+        "text": "Randomly as they are remembered",
+        "is_correct": false
+      },
+      {
+        "text": "In a clear sequence with linking language",
+        "is_correct": true
+      },
+      {
+        "text": "With the conclusion before any topic",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "In a clear sequence with linking language This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY07-P-035",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Oral and Multimodal Presentations",
+    "question": "For a demonstration of a simple machine, which voice choice helps an audience follow?",
+    "audio_prompt": "For a demonstration of a simple machine, which voice choice helps an audience follow?",
+    "answers": [
+      {
+        "text": "A whisper throughout",
+        "is_correct": false
+      },
+      {
+        "text": "Maximum speed without pauses",
+        "is_correct": false
+      },
+      {
+        "text": "Clear volume, suitable pace and meaningful emphasis",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Clear volume, suitable pace and meaningful emphasis This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY07-P-036",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Oral and Multimodal Presentations",
+    "question": "For a demonstration of a simple machine, what is the best use of a visual?",
+    "audio_prompt": "For a demonstration of a simple machine, what is the best use of a visual?",
+    "answers": [
+      {
+        "text": "Show evidence or a relationship while the speaker explains it",
+        "is_correct": true
+      },
+      {
+        "text": "Cover the visual with unrelated text",
+        "is_correct": false
+      },
+      {
+        "text": "Read every label without explanation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Show evidence or a relationship while the speaker explains it This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY07-P-037",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Oral and Multimodal Presentations",
+    "question": "For a demonstration of a simple machine, why should vocabulary suit the audience?",
+    "audio_prompt": "For a demonstration of a simple machine, why should vocabulary suit the audience?",
+    "answers": [
+      {
+        "text": "Technical words always impress everyone",
+        "is_correct": false
+      },
+      {
+        "text": "Listeners need accurate terms they can understand",
+        "is_correct": true
+      },
+      {
+        "text": "Audience knowledge never matters",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Listeners need accurate terms they can understand This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY07-P-038",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Oral and Multimodal Presentations",
+    "question": "For a demonstration of a simple machine, which transition signals a new point?",
+    "audio_prompt": "For a demonstration of a simple machine, which transition signals a new point?",
+    "answers": [
+      {
+        "text": "Um, anyway",
+        "is_correct": false
+      },
+      {
+        "text": "The end, before the middle",
+        "is_correct": false
+      },
+      {
+        "text": "Next, let us compare the two results",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Next, let us compare the two results This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY07-P-039",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Oral and Multimodal Presentations",
+    "question": "For a demonstration of a simple machine, a listener looks confused. What can the speaker do?",
+    "audio_prompt": "For a demonstration of a simple machine, a listener looks confused. What can the speaker do?",
+    "answers": [
+      {
+        "text": "Restate the idea with a clear example",
+        "is_correct": true
+      },
+      {
+        "text": "Speak faster",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the main point",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Restate the idea with a clear example This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY07-P-040",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Oral and Multimodal Presentations",
+    "question": "For a demonstration of a simple machine, which conclusion is effective?",
+    "audio_prompt": "For a demonstration of a simple machine, which conclusion is effective?",
+    "answers": [
+      {
+        "text": "Introduce three new topics",
+        "is_correct": false
+      },
+      {
+        "text": "Summarise the central idea and connect back to the purpose",
+        "is_correct": true
+      },
+      {
+        "text": "Repeat the greeting only",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Summarise the central idea and connect back to the purpose This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
   },
   {
     "id": "AC9E3LY07-T-001",
@@ -878,28 +1206,23 @@
     "curriculum_code": "AC9E3LY07",
     "bank": "test",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For a presentation about saving water, which opening best orients listeners?",
+    "question": "New check: For a presentation about saving water, which opening best orients listeners?",
     "audio_prompt": "For a presentation about saving water, which opening best orients listeners?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly07.svg#ac9e3ly07-t-001",
-      "alt_text": "A classroom English model for for a presentation about saving water showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Begin with an unexplained final detail",
         "is_correct": false
       },
       {
-        "text": "State the topic and why it matters",
-        "is_correct": true
-      },
-      {
         "text": "Apologise for speaking",
         "is_correct": false
+      },
+      {
+        "text": "State the topic and why it matters",
+        "is_correct": true
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
       "summary": "State the topic and why it matters This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
@@ -912,14 +1235,13 @@
     "curriculum_code": "AC9E3LY07",
     "bank": "test",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For a presentation about saving water, how should ideas be ordered?",
+    "question": "New check: For a presentation about saving water, how should ideas be ordered?",
     "audio_prompt": "For a presentation about saving water, how should ideas be ordered?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly07.svg#ac9e3ly07-t-002",
-      "alt_text": "A classroom English model for for a presentation about saving water showing the evidence needed for this task"
-    },
     "answers": [
+      {
+        "text": "In a clear sequence with linking language",
+        "is_correct": true
+      },
       {
         "text": "Randomly as they are remembered",
         "is_correct": false
@@ -927,13 +1249,9 @@
       {
         "text": "With the conclusion before any topic",
         "is_correct": false
-      },
-      {
-        "text": "In a clear sequence with linking language",
-        "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
       "summary": "In a clear sequence with linking language This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
@@ -946,28 +1264,23 @@
     "curriculum_code": "AC9E3LY07",
     "bank": "test",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For a presentation about saving water, which voice choice helps an audience follow?",
+    "question": "New check: For a presentation about saving water, which voice choice helps an audience follow?",
     "audio_prompt": "For a presentation about saving water, which voice choice helps an audience follow?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly07.svg#ac9e3ly07-t-003",
-      "alt_text": "A classroom English model for for a presentation about saving water showing the evidence needed for this task"
-    },
     "answers": [
-      {
-        "text": "Clear volume, suitable pace and meaningful emphasis",
-        "is_correct": true
-      },
       {
         "text": "A whisper throughout",
         "is_correct": false
+      },
+      {
+        "text": "Clear volume, suitable pace and meaningful emphasis",
+        "is_correct": true
       },
       {
         "text": "Maximum speed without pauses",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
       "summary": "Clear volume, suitable pace and meaningful emphasis This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
@@ -980,28 +1293,23 @@
     "curriculum_code": "AC9E3LY07",
     "bank": "test",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For a presentation about saving water, what is the best use of a visual?",
+    "question": "New check: For a presentation about saving water, what is the best use of a visual?",
     "audio_prompt": "For a presentation about saving water, what is the best use of a visual?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly07.svg#ac9e3ly07-t-004",
-      "alt_text": "A classroom English model for for a presentation about saving water showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Cover the visual with unrelated text",
         "is_correct": false
       },
       {
-        "text": "Show evidence or a relationship while the speaker explains it",
-        "is_correct": true
-      },
-      {
         "text": "Read every label without explanation",
         "is_correct": false
+      },
+      {
+        "text": "Show evidence or a relationship while the speaker explains it",
+        "is_correct": true
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
       "summary": "Show evidence or a relationship while the speaker explains it This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
@@ -1014,14 +1322,13 @@
     "curriculum_code": "AC9E3LY07",
     "bank": "test",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For a presentation about saving water, why should vocabulary suit the audience?",
+    "question": "New check: For a presentation about saving water, why should vocabulary suit the audience?",
     "audio_prompt": "For a presentation about saving water, why should vocabulary suit the audience?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly07.svg#ac9e3ly07-t-005",
-      "alt_text": "A classroom English model for for a presentation about saving water showing the evidence needed for this task"
-    },
     "answers": [
+      {
+        "text": "Listeners need accurate terms they can understand",
+        "is_correct": true
+      },
       {
         "text": "Technical words always impress everyone",
         "is_correct": false
@@ -1029,13 +1336,9 @@
       {
         "text": "Audience knowledge never matters",
         "is_correct": false
-      },
-      {
-        "text": "Listeners need accurate terms they can understand",
-        "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
       "summary": "Listeners need accurate terms they can understand This explanation follows the relevant Year 3 English evidence.",
       "hint": "Use the wording, structure and context before choosing."
@@ -1048,28 +1351,23 @@
     "curriculum_code": "AC9E3LY07",
     "bank": "test",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For a presentation about saving water, which transition signals a new point?",
+    "question": "New check: For a presentation about saving water, which transition signals a new point?",
     "audio_prompt": "For a presentation about saving water, which transition signals a new point?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly07.svg#ac9e3ly07-t-006",
-      "alt_text": "A classroom English model for for a presentation about saving water showing the evidence needed for this task"
-    },
     "answers": [
-      {
-        "text": "Next, let us compare the two results",
-        "is_correct": true
-      },
       {
         "text": "Um, anyway",
         "is_correct": false
+      },
+      {
+        "text": "Next, let us compare the two results",
+        "is_correct": true
       },
       {
         "text": "The end, before the middle",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
       "summary": "Next, let us compare the two results This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
@@ -1082,28 +1380,23 @@
     "curriculum_code": "AC9E3LY07",
     "bank": "test",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For a presentation about saving water, a listener looks confused. What can the speaker do?",
+    "question": "New check: For a presentation about saving water, a listener looks confused. What can the speaker do?",
     "audio_prompt": "For a presentation about saving water, a listener looks confused. What can the speaker do?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly07.svg#ac9e3ly07-t-007",
-      "alt_text": "A classroom English model for for a presentation about saving water showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Speak faster",
         "is_correct": false
       },
       {
-        "text": "Restate the idea with a clear example",
-        "is_correct": true
-      },
-      {
         "text": "Remove the main point",
         "is_correct": false
+      },
+      {
+        "text": "Restate the idea with a clear example",
+        "is_correct": true
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
       "summary": "Restate the idea with a clear example This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
@@ -1116,14 +1409,13 @@
     "curriculum_code": "AC9E3LY07",
     "bank": "test",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For a presentation about saving water, which conclusion is effective?",
+    "question": "New check: For a presentation about saving water, which conclusion is effective?",
     "audio_prompt": "For a presentation about saving water, which conclusion is effective?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly07.svg#ac9e3ly07-t-008",
-      "alt_text": "A classroom English model for for a presentation about saving water showing the evidence needed for this task"
-    },
     "answers": [
+      {
+        "text": "Summarise the central idea and connect back to the purpose",
+        "is_correct": true
+      },
       {
         "text": "Introduce three new topics",
         "is_correct": false
@@ -1131,13 +1423,9 @@
       {
         "text": "Repeat the greeting only",
         "is_correct": false
-      },
-      {
-        "text": "Summarise the central idea and connect back to the purpose",
-        "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
       "summary": "Summarise the central idea and connect back to the purpose This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
@@ -1150,28 +1438,23 @@
     "curriculum_code": "AC9E3LY07",
     "bank": "test",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For a demonstration of a simple machine, which opening best orients listeners?",
+    "question": "New check: For a demonstration of a simple machine, which opening best orients listeners?",
     "audio_prompt": "For a demonstration of a simple machine, which opening best orients listeners?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly07.svg#ac9e3ly07-t-009",
-      "alt_text": "A classroom English model for for a demonstration of a simple machine showing the evidence needed for this task"
-    },
     "answers": [
-      {
-        "text": "State the topic and why it matters",
-        "is_correct": true
-      },
       {
         "text": "Begin with an unexplained final detail",
         "is_correct": false
+      },
+      {
+        "text": "State the topic and why it matters",
+        "is_correct": true
       },
       {
         "text": "Apologise for speaking",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
       "summary": "State the topic and why it matters This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
@@ -1184,28 +1467,23 @@
     "curriculum_code": "AC9E3LY07",
     "bank": "test",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For a demonstration of a simple machine, how should ideas be ordered?",
+    "question": "New check: For a demonstration of a simple machine, how should ideas be ordered?",
     "audio_prompt": "For a demonstration of a simple machine, how should ideas be ordered?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly07.svg#ac9e3ly07-t-010",
-      "alt_text": "A classroom English model for for a demonstration of a simple machine showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Randomly as they are remembered",
         "is_correct": false
       },
       {
-        "text": "In a clear sequence with linking language",
-        "is_correct": true
-      },
-      {
         "text": "With the conclusion before any topic",
         "is_correct": false
+      },
+      {
+        "text": "In a clear sequence with linking language",
+        "is_correct": true
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
       "summary": "In a clear sequence with linking language This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
@@ -1218,14 +1496,13 @@
     "curriculum_code": "AC9E3LY07",
     "bank": "test",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For a demonstration of a simple machine, which voice choice helps an audience follow?",
+    "question": "New check: For a demonstration of a simple machine, which voice choice helps an audience follow?",
     "audio_prompt": "For a demonstration of a simple machine, which voice choice helps an audience follow?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly07.svg#ac9e3ly07-t-011",
-      "alt_text": "A classroom English model for for a demonstration of a simple machine showing the evidence needed for this task"
-    },
     "answers": [
+      {
+        "text": "Clear volume, suitable pace and meaningful emphasis",
+        "is_correct": true
+      },
       {
         "text": "A whisper throughout",
         "is_correct": false
@@ -1233,13 +1510,9 @@
       {
         "text": "Maximum speed without pauses",
         "is_correct": false
-      },
-      {
-        "text": "Clear volume, suitable pace and meaningful emphasis",
-        "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
       "summary": "Clear volume, suitable pace and meaningful emphasis This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
@@ -1252,28 +1525,23 @@
     "curriculum_code": "AC9E3LY07",
     "bank": "test",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For a demonstration of a simple machine, what is the best use of a visual?",
+    "question": "New check: For a demonstration of a simple machine, what is the best use of a visual?",
     "audio_prompt": "For a demonstration of a simple machine, what is the best use of a visual?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly07.svg#ac9e3ly07-t-012",
-      "alt_text": "A classroom English model for for a demonstration of a simple machine showing the evidence needed for this task"
-    },
     "answers": [
-      {
-        "text": "Show evidence or a relationship while the speaker explains it",
-        "is_correct": true
-      },
       {
         "text": "Cover the visual with unrelated text",
         "is_correct": false
+      },
+      {
+        "text": "Show evidence or a relationship while the speaker explains it",
+        "is_correct": true
       },
       {
         "text": "Read every label without explanation",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
       "summary": "Show evidence or a relationship while the speaker explains it This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
@@ -1286,28 +1554,23 @@
     "curriculum_code": "AC9E3LY07",
     "bank": "test",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For a demonstration of a simple machine, why should vocabulary suit the audience?",
+    "question": "New check: For a demonstration of a simple machine, why should vocabulary suit the audience?",
     "audio_prompt": "For a demonstration of a simple machine, why should vocabulary suit the audience?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly07.svg#ac9e3ly07-t-013",
-      "alt_text": "A classroom English model for for a demonstration of a simple machine showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Technical words always impress everyone",
         "is_correct": false
       },
       {
-        "text": "Listeners need accurate terms they can understand",
-        "is_correct": true
-      },
-      {
         "text": "Audience knowledge never matters",
         "is_correct": false
+      },
+      {
+        "text": "Listeners need accurate terms they can understand",
+        "is_correct": true
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
       "summary": "Listeners need accurate terms they can understand This explanation follows the relevant Year 3 English evidence.",
       "hint": "Use the wording, structure and context before choosing."
@@ -1320,14 +1583,13 @@
     "curriculum_code": "AC9E3LY07",
     "bank": "test",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For a demonstration of a simple machine, which transition signals a new point?",
+    "question": "New check: For a demonstration of a simple machine, which transition signals a new point?",
     "audio_prompt": "For a demonstration of a simple machine, which transition signals a new point?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly07.svg#ac9e3ly07-t-014",
-      "alt_text": "A classroom English model for for a demonstration of a simple machine showing the evidence needed for this task"
-    },
     "answers": [
+      {
+        "text": "Next, let us compare the two results",
+        "is_correct": true
+      },
       {
         "text": "Um, anyway",
         "is_correct": false
@@ -1335,13 +1597,9 @@
       {
         "text": "The end, before the middle",
         "is_correct": false
-      },
-      {
-        "text": "Next, let us compare the two results",
-        "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
       "summary": "Next, let us compare the two results This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
@@ -1354,28 +1612,23 @@
     "curriculum_code": "AC9E3LY07",
     "bank": "test",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For a demonstration of a simple machine, a listener looks confused. What can the speaker do?",
+    "question": "New check: For a demonstration of a simple machine, a listener looks confused. What can the speaker do?",
     "audio_prompt": "For a demonstration of a simple machine, a listener looks confused. What can the speaker do?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly07.svg#ac9e3ly07-t-015",
-      "alt_text": "A classroom English model for for a demonstration of a simple machine showing the evidence needed for this task"
-    },
     "answers": [
-      {
-        "text": "Restate the idea with a clear example",
-        "is_correct": true
-      },
       {
         "text": "Speak faster",
         "is_correct": false
+      },
+      {
+        "text": "Restate the idea with a clear example",
+        "is_correct": true
       },
       {
         "text": "Remove the main point",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
       "summary": "Restate the idea with a clear example This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."
@@ -1388,28 +1641,23 @@
     "curriculum_code": "AC9E3LY07",
     "bank": "test",
     "skill": "Oral and Multimodal Presentations",
-    "question": "For a demonstration of a simple machine, which conclusion is effective?",
+    "question": "New check: For a demonstration of a simple machine, which conclusion is effective?",
     "audio_prompt": "For a demonstration of a simple machine, which conclusion is effective?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3ly07.svg#ac9e3ly07-t-016",
-      "alt_text": "A classroom English model for for a demonstration of a simple machine showing the evidence needed for this task"
-    },
     "answers": [
       {
         "text": "Introduce three new topics",
         "is_correct": false
       },
       {
-        "text": "Summarise the central idea and connect back to the purpose",
-        "is_correct": true
-      },
-      {
         "text": "Repeat the greeting only",
         "is_correct": false
+      },
+      {
+        "text": "Summarise the central idea and connect back to the purpose",
+        "is_correct": true
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
       "summary": "Summarise the central idea and connect back to the purpose This choice best fits the language, text or literacy evidence.",
       "hint": "Use the wording, structure and context before choosing."

@@ -5,14 +5,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Text Structures Across Subjects",
     "question": "Which structure best suits a science investigation of seed growth?",
     "audio_prompt": "Which structure best suits a science investigation of seed growth?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la03.svg#ac9e3la03-p-001",
-      "alt_text": "Learning aid for: Which structure best suits a science investigation of seed growth?"
-    },
     "answers": [
       {
         "text": "A random list with no order.",
@@ -31,10 +27,7 @@
     "explanation": {
       "summary": "A text structure should suit its subject purpose.",
       "hint": "Ask how readers need the information organised."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LA03-P-002",
@@ -42,14 +35,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Text Structures Across Subjects",
     "question": "Which language feature best suits a science investigation of seed growth?",
     "audio_prompt": "Which language feature best suits a science investigation of seed growth?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la03.svg#ac9e3la03-p-002",
-      "alt_text": "Learning aid for: Which language feature best suits a science investigation of seed growth?"
-    },
     "answers": [
       {
         "text": "technical terms and measured results",
@@ -68,10 +57,7 @@
     "explanation": {
       "summary": "Language features help a text achieve its purpose.",
       "hint": "Choose the feature that makes the subject information clear."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LA03-P-003",
@@ -79,14 +65,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Text Structures Across Subjects",
     "question": "A writer begins a science investigation of seed growth. What should the writer decide first?",
     "audio_prompt": "A writer begins a science investigation of seed growth. What should the writer decide first?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la03.svg#ac9e3la03-p-003",
-      "alt_text": "Learning aid for: A writer begins a science investigation of seed growth. What should the writer decide first?"
-    },
     "answers": [
       {
         "text": "The colour of the last full stop.",
@@ -105,9 +87,7 @@
     "explanation": {
       "summary": "Purpose and audience guide structure and language choices.",
       "hint": "Think about why the text is being made and who will use it."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LA03-P-004",
@@ -115,14 +95,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Text Structures Across Subjects",
     "question": "Which feature would make a science investigation of seed growth easier to use?",
     "audio_prompt": "Which feature would make a science investigation of seed growth easier to use?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la03.svg#ac9e3la03-p-004",
-      "alt_text": "Learning aid for: Which feature would make a science investigation of seed growth easier to use?"
-    },
     "answers": [
       {
         "text": "Mix every section together.",
@@ -141,10 +117,7 @@
     "explanation": {
       "summary": "Organisation helps readers locate and connect information.",
       "hint": "Select the organisation that matches the task."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LA03-P-005",
@@ -152,14 +125,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Text Structures Across Subjects",
     "question": "Why is technical terms and measured results suitable for a science investigation of seed growth?",
     "audio_prompt": "Why is technical terms and measured results suitable for a science investigation of seed growth?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la03.svg#ac9e3la03-p-005",
-      "alt_text": "Learning aid for: Why is technical terms and measured results suitable for a science investigation of seed growth?"
-    },
     "answers": [
       {
         "text": "It communicates the subject information precisely for the purpose.",
@@ -178,9 +147,7 @@
     "explanation": {
       "summary": "Subject language and purpose work together.",
       "hint": "Connect the feature to what the reader needs to learn or do."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LA03-P-006",
@@ -188,14 +155,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Text Structures Across Subjects",
     "question": "Which addition would be least suitable in a science investigation of seed growth?",
     "audio_prompt": "Which addition would be least suitable in a science investigation of seed growth?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la03.svg#ac9e3la03-p-006",
-      "alt_text": "Learning aid for: Which addition would be least suitable in a science investigation of seed growth?"
-    },
     "answers": [
       {
         "text": "A useful example linked to a science investigation of seed growth.",
@@ -214,10 +177,7 @@
     "explanation": {
       "summary": "Every part should support the text's purpose.",
       "hint": "Find the addition that leads away from the subject."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LA03-P-007",
@@ -225,14 +185,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Text Structures Across Subjects",
     "question": "A student copied a story structure for a science investigation of seed growth. What is the best revision?",
     "audio_prompt": "A student copied a story structure for a science investigation of seed growth. What is the best revision?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la03.svg#ac9e3la03-p-007",
-      "alt_text": "Learning aid for: A student copied a story structure for a science investigation of seed growth. What is the best revision?"
-    },
     "answers": [
       {
         "text": "Keep the structure and remove the facts.",
@@ -251,9 +207,7 @@
     "explanation": {
       "summary": "Writers revise structure when it does not suit the purpose.",
       "hint": "Use the expected organisation for this subject text."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LA03-P-008",
@@ -261,14 +215,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Text Structures Across Subjects",
     "question": "Which explanation best connects structure and language in a science investigation of seed growth?",
     "audio_prompt": "Which explanation best connects structure and language in a science investigation of seed growth?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la03.svg#ac9e3la03-p-008",
-      "alt_text": "Learning aid for: Which explanation best connects structure and language in a science investigation of seed growth?"
-    },
     "answers": [
       {
         "text": "question, method, results and conclusion organises ideas, while technical terms and measured results communicates them clearly.",
@@ -287,10 +237,7 @@
     "explanation": {
       "summary": "Structure organises ideas and language expresses them.",
       "hint": "Choose the answer that explains both features."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LA03-P-009",
@@ -298,14 +245,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Text Structures Across Subjects",
     "question": "Which structure best suits a history recount of a community celebration?",
     "audio_prompt": "Which structure best suits a history recount of a community celebration?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la03.svg#ac9e3la03-p-009",
-      "alt_text": "Learning aid for: Which structure best suits a history recount of a community celebration?"
-    },
     "answers": [
       {
         "text": "A random list with no order.",
@@ -324,10 +267,7 @@
     "explanation": {
       "summary": "A text structure should suit its subject purpose.",
       "hint": "Ask how readers need the information organised."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LA03-P-010",
@@ -335,14 +275,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "Text Structures Across Subjects",
     "question": "Which language feature best suits a history recount of a community celebration?",
     "audio_prompt": "Which language feature best suits a history recount of a community celebration?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la03.svg#ac9e3la03-p-010",
-      "alt_text": "Learning aid for: Which language feature best suits a history recount of a community celebration?"
-    },
     "answers": [
       {
         "text": "Unrelated rhyming words only.",
@@ -361,10 +297,7 @@
     "explanation": {
       "summary": "Language features help a text achieve its purpose.",
       "hint": "Choose the feature that makes the subject information clear."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LA03-P-011",
@@ -372,14 +305,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Text Structures Across Subjects",
     "question": "A writer begins a history recount of a community celebration. What should the writer decide first?",
     "audio_prompt": "A writer begins a history recount of a community celebration. What should the writer decide first?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la03.svg#ac9e3la03-p-011",
-      "alt_text": "Learning aid for: A writer begins a history recount of a community celebration. What should the writer decide first?"
-    },
     "answers": [
       {
         "text": "The purpose and audience.",
@@ -398,9 +327,7 @@
     "explanation": {
       "summary": "Purpose and audience guide structure and language choices.",
       "hint": "Think about why the text is being made and who will use it."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LA03-P-012",
@@ -408,14 +335,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Text Structures Across Subjects",
     "question": "Which feature would make a history recount of a community celebration easier to use?",
     "audio_prompt": "Which feature would make a history recount of a community celebration easier to use?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la03.svg#ac9e3la03-p-012",
-      "alt_text": "Learning aid for: Which feature would make a history recount of a community celebration easier to use?"
-    },
     "answers": [
       {
         "text": "Mix every section together.",
@@ -434,10 +357,7 @@
     "explanation": {
       "summary": "Organisation helps readers locate and connect information.",
       "hint": "Select the organisation that matches the task."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
     "id": "AC9E3LA03-P-013",
@@ -445,14 +365,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Text Structures Across Subjects",
     "question": "Why is past-tense verbs and dates suitable for a history recount of a community celebration?",
     "audio_prompt": "Why is past-tense verbs and dates suitable for a history recount of a community celebration?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la03.svg#ac9e3la03-p-013",
-      "alt_text": "Learning aid for: Why is past-tense verbs and dates suitable for a history recount of a community celebration?"
-    },
     "answers": [
       {
         "text": "It makes the information less accurate.",
@@ -471,9 +387,7 @@
     "explanation": {
       "summary": "Subject language and purpose work together.",
       "hint": "Connect the feature to what the reader needs to learn or do."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LA03-P-014",
@@ -481,14 +395,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Text Structures Across Subjects",
     "question": "Which addition would be least suitable in a history recount of a community celebration?",
     "audio_prompt": "Which addition would be least suitable in a history recount of a community celebration?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la03.svg#ac9e3la03-p-014",
-      "alt_text": "Learning aid for: Which addition would be least suitable in a history recount of a community celebration?"
-    },
     "answers": [
       {
         "text": "A long unrelated fantasy scene.",
@@ -507,9 +417,7 @@
     "explanation": {
       "summary": "Every part should support the text's purpose.",
       "hint": "Find the addition that leads away from the subject."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LA03-P-015",
@@ -517,14 +425,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Text Structures Across Subjects",
     "question": "A student copied a story structure for a history recount of a community celebration. What is the best revision?",
     "audio_prompt": "A student copied a story structure for a history recount of a community celebration. What is the best revision?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la03.svg#ac9e3la03-p-015",
-      "alt_text": "Learning aid for: A student copied a story structure for a history recount of a community celebration. What is the best revision?"
-    },
     "answers": [
       {
         "text": "Keep the structure and remove the facts.",
@@ -543,9 +447,7 @@
     "explanation": {
       "summary": "Writers revise structure when it does not suit the purpose.",
       "hint": "Use the expected organisation for this subject text."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LA03-P-016",
@@ -553,14 +455,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Text Structures Across Subjects",
     "question": "Which explanation best connects structure and language in a history recount of a community celebration?",
     "audio_prompt": "Which explanation best connects structure and language in a history recount of a community celebration?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la03.svg#ac9e3la03-p-016",
-      "alt_text": "Learning aid for: Which explanation best connects structure and language in a history recount of a community celebration?"
-    },
     "answers": [
       {
         "text": "Structure and language have no effect on meaning.",
@@ -579,9 +477,7 @@
     "explanation": {
       "summary": "Structure organises ideas and language expresses them.",
       "hint": "Choose the answer that explains both features."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LA03-P-017",
@@ -589,14 +485,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Text Structures Across Subjects",
     "question": "Which structure best suits instructions for making fruit salad?",
     "audio_prompt": "Which structure best suits instructions for making fruit salad?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la03.svg#ac9e3la03-p-017",
-      "alt_text": "Learning aid for: Which structure best suits instructions for making fruit salad?"
-    },
     "answers": [
       {
         "text": "goal, ingredients and ordered steps",
@@ -615,9 +507,7 @@
     "explanation": {
       "summary": "A text structure should suit its subject purpose.",
       "hint": "Ask how readers need the information organised."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LA03-P-018",
@@ -625,14 +515,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Text Structures Across Subjects",
     "question": "Which language feature best suits instructions for making fruit salad?",
     "audio_prompt": "Which language feature best suits instructions for making fruit salad?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la03.svg#ac9e3la03-p-018",
-      "alt_text": "Learning aid for: Which language feature best suits instructions for making fruit salad?"
-    },
     "answers": [
       {
         "text": "Unrelated rhyming words only.",
@@ -651,9 +537,7 @@
     "explanation": {
       "summary": "Language features help a text achieve its purpose.",
       "hint": "Choose the feature that makes the subject information clear."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LA03-P-019",
@@ -661,14 +545,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Text Structures Across Subjects",
     "question": "A writer begins instructions for making fruit salad. What should the writer decide first?",
     "audio_prompt": "A writer begins instructions for making fruit salad. What should the writer decide first?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la03.svg#ac9e3la03-p-019",
-      "alt_text": "Learning aid for: A writer begins instructions for making fruit salad. What should the writer decide first?"
-    },
     "answers": [
       {
         "text": "The colour of the last full stop.",
@@ -687,9 +567,7 @@
     "explanation": {
       "summary": "Purpose and audience guide structure and language choices.",
       "hint": "Think about why the text is being made and who will use it."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LA03-P-020",
@@ -697,14 +575,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
     "bank": "practice",
+    "stage": "explain",
     "skill": "Text Structures Across Subjects",
     "question": "Which feature would make instructions for making fruit salad easier to use?",
     "audio_prompt": "Which feature would make instructions for making fruit salad easier to use?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la03.svg#ac9e3la03-p-020",
-      "alt_text": "Learning aid for: Which feature would make instructions for making fruit salad easier to use?"
-    },
     "answers": [
       {
         "text": "Use goal, ingredients and ordered steps.",
@@ -723,9 +597,7 @@
     "explanation": {
       "summary": "Organisation helps readers locate and connect information.",
       "hint": "Select the organisation that matches the task."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LA03-P-021",
@@ -733,14 +605,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
     "bank": "practice",
+    "stage": "discriminate",
     "skill": "Text Structures Across Subjects",
     "question": "Why is command verbs such as cut and mix suitable for instructions for making fruit salad?",
     "audio_prompt": "Why is command verbs such as cut and mix suitable for instructions for making fruit salad?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la03.svg#ac9e3la03-p-021",
-      "alt_text": "Learning aid for: Why is command verbs such as cut and mix suitable for instructions for making fruit salad?"
-    },
     "answers": [
       {
         "text": "It makes the information less accurate.",
@@ -759,9 +627,7 @@
     "explanation": {
       "summary": "Subject language and purpose work together.",
       "hint": "Connect the feature to what the reader needs to learn or do."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LA03-P-022",
@@ -769,14 +635,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
     "bank": "practice",
+    "stage": "discriminate",
     "skill": "Text Structures Across Subjects",
     "question": "Which addition would be least suitable in instructions for making fruit salad?",
     "audio_prompt": "Which addition would be least suitable in instructions for making fruit salad?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la03.svg#ac9e3la03-p-022",
-      "alt_text": "Learning aid for: Which addition would be least suitable in instructions for making fruit salad?"
-    },
     "answers": [
       {
         "text": "A useful example linked to instructions for making fruit salad.",
@@ -795,9 +657,7 @@
     "explanation": {
       "summary": "Every part should support the text's purpose.",
       "hint": "Find the addition that leads away from the subject."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LA03-P-023",
@@ -805,14 +665,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
     "bank": "practice",
+    "stage": "discriminate",
     "skill": "Text Structures Across Subjects",
     "question": "A student copied a story structure for instructions for making fruit salad. What is the best revision?",
     "audio_prompt": "A student copied a story structure for instructions for making fruit salad. What is the best revision?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la03.svg#ac9e3la03-p-023",
-      "alt_text": "Learning aid for: A student copied a story structure for instructions for making fruit salad. What is the best revision?"
-    },
     "answers": [
       {
         "text": "Reorganise it using goal, ingredients and ordered steps.",
@@ -831,9 +687,7 @@
     "explanation": {
       "summary": "Writers revise structure when it does not suit the purpose.",
       "hint": "Use the expected organisation for this subject text."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
     "id": "AC9E3LA03-P-024",
@@ -841,14 +695,10 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
     "bank": "practice",
+    "stage": "discriminate",
     "skill": "Text Structures Across Subjects",
     "question": "Which explanation best connects structure and language in instructions for making fruit salad?",
     "audio_prompt": "Which explanation best connects structure and language in instructions for making fruit salad?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la03.svg#ac9e3la03-p-024",
-      "alt_text": "Learning aid for: Which explanation best connects structure and language in instructions for making fruit salad?"
-    },
     "answers": [
       {
         "text": "Structure and language have no effect on meaning.",
@@ -867,24 +717,18 @@
     "explanation": {
       "summary": "Structure organises ideas and language expresses them.",
       "hint": "Choose the answer that explains both features."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "AC9E3LA03-T-001",
+    "id": "AC9E3LA03-P-025",
     "subject": "english",
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
-    "bank": "test",
+    "bank": "practice",
+    "stage": "discriminate",
     "skill": "Text Structures Across Subjects",
     "question": "Which structure best suits a geography report about a river?",
     "audio_prompt": "Which structure best suits a geography report about a river?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la03.svg#ac9e3la03-t-001",
-      "alt_text": "Learning aid for: Which structure best suits a geography report about a river?"
-    },
     "answers": [
       {
         "text": "A random list with no order.",
@@ -906,19 +750,15 @@
     }
   },
   {
-    "id": "AC9E3LA03-T-002",
+    "id": "AC9E3LA03-P-026",
     "subject": "english",
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
-    "bank": "test",
+    "bank": "practice",
+    "stage": "discriminate",
     "skill": "Text Structures Across Subjects",
     "question": "Which language feature best suits a geography report about a river?",
     "audio_prompt": "Which language feature best suits a geography report about a river?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la03.svg#ac9e3la03-t-002",
-      "alt_text": "Learning aid for: Which language feature best suits a geography report about a river?"
-    },
     "answers": [
       {
         "text": "place names, maps and geographical terms",
@@ -940,19 +780,15 @@
     }
   },
   {
-    "id": "AC9E3LA03-T-003",
+    "id": "AC9E3LA03-P-027",
     "subject": "english",
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
-    "bank": "test",
+    "bank": "practice",
+    "stage": "discriminate",
     "skill": "Text Structures Across Subjects",
     "question": "A writer begins a geography report about a river. What should the writer decide first?",
     "audio_prompt": "A writer begins a geography report about a river. What should the writer decide first?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la03.svg#ac9e3la03-t-003",
-      "alt_text": "Learning aid for: A writer begins a geography report about a river. What should the writer decide first?"
-    },
     "answers": [
       {
         "text": "The colour of the last full stop.",
@@ -974,19 +810,15 @@
     }
   },
   {
-    "id": "AC9E3LA03-T-004",
+    "id": "AC9E3LA03-P-028",
     "subject": "english",
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
-    "bank": "test",
+    "bank": "practice",
+    "stage": "discriminate",
     "skill": "Text Structures Across Subjects",
     "question": "Which feature would make a geography report about a river easier to use?",
     "audio_prompt": "Which feature would make a geography report about a river easier to use?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la03.svg#ac9e3la03-t-004",
-      "alt_text": "Learning aid for: Which feature would make a geography report about a river easier to use?"
-    },
     "answers": [
       {
         "text": "Mix every section together.",
@@ -1008,19 +840,15 @@
     }
   },
   {
-    "id": "AC9E3LA03-T-005",
+    "id": "AC9E3LA03-P-029",
     "subject": "english",
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
-    "bank": "test",
+    "bank": "practice",
+    "stage": "discriminate",
     "skill": "Text Structures Across Subjects",
     "question": "Why is place names, maps and geographical terms suitable for a geography report about a river?",
     "audio_prompt": "Why is place names, maps and geographical terms suitable for a geography report about a river?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la03.svg#ac9e3la03-t-005",
-      "alt_text": "Learning aid for: Why is place names, maps and geographical terms suitable for a geography report about a river?"
-    },
     "answers": [
       {
         "text": "It communicates the subject information precisely for the purpose.",
@@ -1042,19 +870,15 @@
     }
   },
   {
-    "id": "AC9E3LA03-T-006",
+    "id": "AC9E3LA03-P-030",
     "subject": "english",
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
-    "bank": "test",
+    "bank": "practice",
+    "stage": "discriminate",
     "skill": "Text Structures Across Subjects",
     "question": "Which addition would be least suitable in a geography report about a river?",
     "audio_prompt": "Which addition would be least suitable in a geography report about a river?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la03.svg#ac9e3la03-t-006",
-      "alt_text": "Learning aid for: Which addition would be least suitable in a geography report about a river?"
-    },
     "answers": [
       {
         "text": "A useful example linked to a geography report about a river.",
@@ -1076,19 +900,15 @@
     }
   },
   {
-    "id": "AC9E3LA03-T-007",
+    "id": "AC9E3LA03-P-031",
     "subject": "english",
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
-    "bank": "test",
+    "bank": "practice",
+    "stage": "apply",
     "skill": "Text Structures Across Subjects",
     "question": "A student copied a story structure for a geography report about a river. What is the best revision?",
     "audio_prompt": "A student copied a story structure for a geography report about a river. What is the best revision?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la03.svg#ac9e3la03-t-007",
-      "alt_text": "Learning aid for: A student copied a story structure for a geography report about a river. What is the best revision?"
-    },
     "answers": [
       {
         "text": "Keep the structure and remove the facts.",
@@ -1110,19 +930,15 @@
     }
   },
   {
-    "id": "AC9E3LA03-T-008",
+    "id": "AC9E3LA03-P-032",
     "subject": "english",
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
-    "bank": "test",
+    "bank": "practice",
+    "stage": "apply",
     "skill": "Text Structures Across Subjects",
     "question": "Which explanation best connects structure and language in a geography report about a river?",
     "audio_prompt": "Which explanation best connects structure and language in a geography report about a river?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la03.svg#ac9e3la03-t-008",
-      "alt_text": "Learning aid for: Which explanation best connects structure and language in a geography report about a river?"
-    },
     "answers": [
       {
         "text": "sections arranged by topic organises ideas, while place names, maps and geographical terms communicates them clearly.",
@@ -1144,19 +960,15 @@
     }
   },
   {
-    "id": "AC9E3LA03-T-009",
+    "id": "AC9E3LA03-P-033",
     "subject": "english",
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
-    "bank": "test",
+    "bank": "practice",
+    "stage": "apply",
     "skill": "Text Structures Across Subjects",
     "question": "Which structure best suits a health poster about sun safety?",
     "audio_prompt": "Which structure best suits a health poster about sun safety?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la03.svg#ac9e3la03-t-009",
-      "alt_text": "Learning aid for: Which structure best suits a health poster about sun safety?"
-    },
     "answers": [
       {
         "text": "A random list with no order.",
@@ -1178,19 +990,15 @@
     }
   },
   {
-    "id": "AC9E3LA03-T-010",
+    "id": "AC9E3LA03-P-034",
     "subject": "english",
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
-    "bank": "test",
+    "bank": "practice",
+    "stage": "apply",
     "skill": "Text Structures Across Subjects",
     "question": "Which language feature best suits a health poster about sun safety?",
     "audio_prompt": "Which language feature best suits a health poster about sun safety?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la03.svg#ac9e3la03-t-010",
-      "alt_text": "Learning aid for: Which language feature best suits a health poster about sun safety?"
-    },
     "answers": [
       {
         "text": "Unrelated rhyming words only.",
@@ -1212,19 +1020,15 @@
     }
   },
   {
-    "id": "AC9E3LA03-T-011",
+    "id": "AC9E3LA03-P-035",
     "subject": "english",
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
-    "bank": "test",
+    "bank": "practice",
+    "stage": "apply",
     "skill": "Text Structures Across Subjects",
     "question": "A writer begins a health poster about sun safety. What should the writer decide first?",
     "audio_prompt": "A writer begins a health poster about sun safety. What should the writer decide first?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la03.svg#ac9e3la03-t-011",
-      "alt_text": "Learning aid for: A writer begins a health poster about sun safety. What should the writer decide first?"
-    },
     "answers": [
       {
         "text": "The purpose and audience.",
@@ -1246,19 +1050,15 @@
     }
   },
   {
-    "id": "AC9E3LA03-T-012",
+    "id": "AC9E3LA03-P-036",
     "subject": "english",
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
-    "bank": "test",
+    "bank": "practice",
+    "stage": "apply",
     "skill": "Text Structures Across Subjects",
     "question": "Which feature would make a health poster about sun safety easier to use?",
     "audio_prompt": "Which feature would make a health poster about sun safety easier to use?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la03.svg#ac9e3la03-t-012",
-      "alt_text": "Learning aid for: Which feature would make a health poster about sun safety easier to use?"
-    },
     "answers": [
       {
         "text": "Mix every section together.",
@@ -1280,19 +1080,15 @@
     }
   },
   {
-    "id": "AC9E3LA03-T-013",
+    "id": "AC9E3LA03-P-037",
     "subject": "english",
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
-    "bank": "test",
+    "bank": "practice",
+    "stage": "apply",
     "skill": "Text Structures Across Subjects",
     "question": "Why is direct advice and labelled images suitable for a health poster about sun safety?",
     "audio_prompt": "Why is direct advice and labelled images suitable for a health poster about sun safety?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la03.svg#ac9e3la03-t-013",
-      "alt_text": "Learning aid for: Why is direct advice and labelled images suitable for a health poster about sun safety?"
-    },
     "answers": [
       {
         "text": "It makes the information less accurate.",
@@ -1314,19 +1110,15 @@
     }
   },
   {
-    "id": "AC9E3LA03-T-014",
+    "id": "AC9E3LA03-P-038",
     "subject": "english",
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
-    "bank": "test",
+    "bank": "practice",
+    "stage": "apply",
     "skill": "Text Structures Across Subjects",
     "question": "Which addition would be least suitable in a health poster about sun safety?",
     "audio_prompt": "Which addition would be least suitable in a health poster about sun safety?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la03.svg#ac9e3la03-t-014",
-      "alt_text": "Learning aid for: Which addition would be least suitable in a health poster about sun safety?"
-    },
     "answers": [
       {
         "text": "A long unrelated fantasy scene.",
@@ -1348,19 +1140,15 @@
     }
   },
   {
-    "id": "AC9E3LA03-T-015",
+    "id": "AC9E3LA03-P-039",
     "subject": "english",
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
-    "bank": "test",
+    "bank": "practice",
+    "stage": "apply",
     "skill": "Text Structures Across Subjects",
     "question": "A student copied a story structure for a health poster about sun safety. What is the best revision?",
     "audio_prompt": "A student copied a story structure for a health poster about sun safety. What is the best revision?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la03.svg#ac9e3la03-t-015",
-      "alt_text": "Learning aid for: A student copied a story structure for a health poster about sun safety. What is the best revision?"
-    },
     "answers": [
       {
         "text": "Keep the structure and remove the facts.",
@@ -1382,19 +1170,15 @@
     }
   },
   {
-    "id": "AC9E3LA03-T-016",
+    "id": "AC9E3LA03-P-040",
     "subject": "english",
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA03",
-    "bank": "test",
+    "bank": "practice",
+    "stage": "apply",
     "skill": "Text Structures Across Subjects",
     "question": "Which explanation best connects structure and language in a health poster about sun safety?",
     "audio_prompt": "Which explanation best connects structure and language in a health poster about sun safety?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/english/ac9e3la03.svg#ac9e3la03-t-016",
-      "alt_text": "Learning aid for: Which explanation best connects structure and language in a health poster about sun safety?"
-    },
     "answers": [
       {
         "text": "Structure and language have no effect on meaning.",
@@ -1410,6 +1194,470 @@
       }
     ],
     "correct_index": 2,
+    "explanation": {
+      "summary": "Structure organises ideas and language expresses them.",
+      "hint": "Choose the answer that explains both features."
+    }
+  },
+  {
+    "id": "AC9E3LA03-T-001",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA03",
+    "bank": "test",
+    "skill": "Text Structures Across Subjects",
+    "question": "New check: Which structure best suits a geography report about a river?",
+    "audio_prompt": "Which structure best suits a geography report about a river?",
+    "answers": [
+      {
+        "text": "sections arranged by topic",
+        "is_correct": true
+      },
+      {
+        "text": "A random list with no order.",
+        "is_correct": false
+      },
+      {
+        "text": "Characters, complication and resolution only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A text structure should suit its subject purpose.",
+      "hint": "Ask how readers need the information organised."
+    }
+  },
+  {
+    "id": "AC9E3LA03-T-002",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA03",
+    "bank": "test",
+    "skill": "Text Structures Across Subjects",
+    "question": "New check: Which language feature best suits a geography report about a river?",
+    "audio_prompt": "Which language feature best suits a geography report about a river?",
+    "answers": [
+      {
+        "text": "Unrelated rhyming words only.",
+        "is_correct": false
+      },
+      {
+        "text": "place names, maps and geographical terms",
+        "is_correct": true
+      },
+      {
+        "text": "Vague words with no useful detail.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Language features help a text achieve its purpose.",
+      "hint": "Choose the feature that makes the subject information clear."
+    }
+  },
+  {
+    "id": "AC9E3LA03-T-003",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA03",
+    "bank": "test",
+    "skill": "Text Structures Across Subjects",
+    "question": "New check: A writer begins a geography report about a river. What should the writer decide first?",
+    "audio_prompt": "A writer begins a geography report about a river. What should the writer decide first?",
+    "answers": [
+      {
+        "text": "The colour of the last full stop.",
+        "is_correct": false
+      },
+      {
+        "text": "How many unrelated jokes to add.",
+        "is_correct": false
+      },
+      {
+        "text": "The purpose and audience.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Purpose and audience guide structure and language choices.",
+      "hint": "Think about why the text is being made and who will use it."
+    }
+  },
+  {
+    "id": "AC9E3LA03-T-004",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA03",
+    "bank": "test",
+    "skill": "Text Structures Across Subjects",
+    "question": "New check: Which feature would make a geography report about a river easier to use?",
+    "audio_prompt": "Which feature would make a geography report about a river easier to use?",
+    "answers": [
+      {
+        "text": "Use sections arranged by topic.",
+        "is_correct": true
+      },
+      {
+        "text": "Mix every section together.",
+        "is_correct": false
+      },
+      {
+        "text": "Hide the main information in an unrelated story.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Organisation helps readers locate and connect information.",
+      "hint": "Select the organisation that matches the task."
+    }
+  },
+  {
+    "id": "AC9E3LA03-T-005",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA03",
+    "bank": "test",
+    "skill": "Text Structures Across Subjects",
+    "question": "New check: Why is place names, maps and geographical terms suitable for a geography report about a river?",
+    "audio_prompt": "Why is place names, maps and geographical terms suitable for a geography report about a river?",
+    "answers": [
+      {
+        "text": "It makes the information less accurate.",
+        "is_correct": false
+      },
+      {
+        "text": "It communicates the subject information precisely for the purpose.",
+        "is_correct": true
+      },
+      {
+        "text": "It prevents readers from finding the main idea.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Subject language and purpose work together.",
+      "hint": "Connect the feature to what the reader needs to learn or do."
+    }
+  },
+  {
+    "id": "AC9E3LA03-T-006",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA03",
+    "bank": "test",
+    "skill": "Text Structures Across Subjects",
+    "question": "New check: Which addition would be least suitable in a geography report about a river?",
+    "audio_prompt": "Which addition would be least suitable in a geography report about a river?",
+    "answers": [
+      {
+        "text": "A useful example linked to a geography report about a river.",
+        "is_correct": false
+      },
+      {
+        "text": "A heading that signals the topic.",
+        "is_correct": false
+      },
+      {
+        "text": "A long unrelated fantasy scene.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Every part should support the text's purpose.",
+      "hint": "Find the addition that leads away from the subject."
+    }
+  },
+  {
+    "id": "AC9E3LA03-T-007",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA03",
+    "bank": "test",
+    "skill": "Text Structures Across Subjects",
+    "question": "New check: A student copied a story structure for a geography report about a river. What is the best revision?",
+    "audio_prompt": "A student copied a story structure for a geography report about a river. What is the best revision?",
+    "answers": [
+      {
+        "text": "Reorganise it using sections arranged by topic.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the structure and remove the facts.",
+        "is_correct": false
+      },
+      {
+        "text": "Add more fictional characters instead of information.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Writers revise structure when it does not suit the purpose.",
+      "hint": "Use the expected organisation for this subject text."
+    }
+  },
+  {
+    "id": "AC9E3LA03-T-008",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA03",
+    "bank": "test",
+    "skill": "Text Structures Across Subjects",
+    "question": "New check: Which explanation best connects structure and language in a geography report about a river?",
+    "audio_prompt": "Which explanation best connects structure and language in a geography report about a river?",
+    "answers": [
+      {
+        "text": "Structure and language have no effect on meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "sections arranged by topic organises ideas, while place names, maps and geographical terms communicates them clearly.",
+        "is_correct": true
+      },
+      {
+        "text": "Only page colour determines the purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Structure organises ideas and language expresses them.",
+      "hint": "Choose the answer that explains both features."
+    }
+  },
+  {
+    "id": "AC9E3LA03-T-009",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA03",
+    "bank": "test",
+    "skill": "Text Structures Across Subjects",
+    "question": "New check: Which structure best suits a health poster about sun safety?",
+    "audio_prompt": "Which structure best suits a health poster about sun safety?",
+    "answers": [
+      {
+        "text": "A random list with no order.",
+        "is_correct": false
+      },
+      {
+        "text": "Characters, complication and resolution only.",
+        "is_correct": false
+      },
+      {
+        "text": "clear heading and brief action points",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A text structure should suit its subject purpose.",
+      "hint": "Ask how readers need the information organised."
+    }
+  },
+  {
+    "id": "AC9E3LA03-T-010",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA03",
+    "bank": "test",
+    "skill": "Text Structures Across Subjects",
+    "question": "New check: Which language feature best suits a health poster about sun safety?",
+    "audio_prompt": "Which language feature best suits a health poster about sun safety?",
+    "answers": [
+      {
+        "text": "direct advice and labelled images",
+        "is_correct": true
+      },
+      {
+        "text": "Unrelated rhyming words only.",
+        "is_correct": false
+      },
+      {
+        "text": "Vague words with no useful detail.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Language features help a text achieve its purpose.",
+      "hint": "Choose the feature that makes the subject information clear."
+    }
+  },
+  {
+    "id": "AC9E3LA03-T-011",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA03",
+    "bank": "test",
+    "skill": "Text Structures Across Subjects",
+    "question": "New check: A writer begins a health poster about sun safety. What should the writer decide first?",
+    "audio_prompt": "A writer begins a health poster about sun safety. What should the writer decide first?",
+    "answers": [
+      {
+        "text": "The colour of the last full stop.",
+        "is_correct": false
+      },
+      {
+        "text": "The purpose and audience.",
+        "is_correct": true
+      },
+      {
+        "text": "How many unrelated jokes to add.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Purpose and audience guide structure and language choices.",
+      "hint": "Think about why the text is being made and who will use it."
+    }
+  },
+  {
+    "id": "AC9E3LA03-T-012",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA03",
+    "bank": "test",
+    "skill": "Text Structures Across Subjects",
+    "question": "New check: Which feature would make a health poster about sun safety easier to use?",
+    "audio_prompt": "Which feature would make a health poster about sun safety easier to use?",
+    "answers": [
+      {
+        "text": "Mix every section together.",
+        "is_correct": false
+      },
+      {
+        "text": "Hide the main information in an unrelated story.",
+        "is_correct": false
+      },
+      {
+        "text": "Use clear heading and brief action points.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Organisation helps readers locate and connect information.",
+      "hint": "Select the organisation that matches the task."
+    }
+  },
+  {
+    "id": "AC9E3LA03-T-013",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA03",
+    "bank": "test",
+    "skill": "Text Structures Across Subjects",
+    "question": "New check: Why is direct advice and labelled images suitable for a health poster about sun safety?",
+    "audio_prompt": "Why is direct advice and labelled images suitable for a health poster about sun safety?",
+    "answers": [
+      {
+        "text": "It communicates the subject information precisely for the purpose.",
+        "is_correct": true
+      },
+      {
+        "text": "It makes the information less accurate.",
+        "is_correct": false
+      },
+      {
+        "text": "It prevents readers from finding the main idea.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Subject language and purpose work together.",
+      "hint": "Connect the feature to what the reader needs to learn or do."
+    }
+  },
+  {
+    "id": "AC9E3LA03-T-014",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA03",
+    "bank": "test",
+    "skill": "Text Structures Across Subjects",
+    "question": "New check: Which addition would be least suitable in a health poster about sun safety?",
+    "audio_prompt": "Which addition would be least suitable in a health poster about sun safety?",
+    "answers": [
+      {
+        "text": "A useful example linked to a health poster about sun safety.",
+        "is_correct": false
+      },
+      {
+        "text": "A long unrelated fantasy scene.",
+        "is_correct": true
+      },
+      {
+        "text": "A heading that signals the topic.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Every part should support the text's purpose.",
+      "hint": "Find the addition that leads away from the subject."
+    }
+  },
+  {
+    "id": "AC9E3LA03-T-015",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA03",
+    "bank": "test",
+    "skill": "Text Structures Across Subjects",
+    "question": "New check: A student copied a story structure for a health poster about sun safety. What is the best revision?",
+    "audio_prompt": "A student copied a story structure for a health poster about sun safety. What is the best revision?",
+    "answers": [
+      {
+        "text": "Keep the structure and remove the facts.",
+        "is_correct": false
+      },
+      {
+        "text": "Add more fictional characters instead of information.",
+        "is_correct": false
+      },
+      {
+        "text": "Reorganise it using clear heading and brief action points.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Writers revise structure when it does not suit the purpose.",
+      "hint": "Use the expected organisation for this subject text."
+    }
+  },
+  {
+    "id": "AC9E3LA03-T-016",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA03",
+    "bank": "test",
+    "skill": "Text Structures Across Subjects",
+    "question": "New check: Which explanation best connects structure and language in a health poster about sun safety?",
+    "audio_prompt": "Which explanation best connects structure and language in a health poster about sun safety?",
+    "answers": [
+      {
+        "text": "clear heading and brief action points organises ideas, while direct advice and labelled images communicates them clearly.",
+        "is_correct": true
+      },
+      {
+        "text": "Structure and language have no effect on meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Only page colour determines the purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
     "explanation": {
       "summary": "Structure organises ideas and language expresses them.",
       "hint": "Choose the answer that explains both features."
