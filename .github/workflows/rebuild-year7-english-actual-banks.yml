@@ -4,6 +4,7 @@ on:
     branches: [content/year7-english-actual-rebuild]
     paths:
       - 'scripts/rebuild_year7_english_actual_banks.mjs'
+      - 'scripts/refine_year7_english_unique_stems.mjs'
       - 'scripts/validate_year7_english_actual_banks.mjs'
       - '.github/workflows/rebuild-year7-english-actual-banks.yml'
 jobs:
@@ -21,6 +22,8 @@ jobs:
           node-version: '22'
       - name: Rebuild actual Year 7 English banks
         run: node scripts/rebuild_year7_english_actual_banks.mjs
+      - name: Refine duplicate stems with distinct contexts
+        run: node scripts/refine_year7_english_unique_stems.mjs
       - name: Validate actual banks
         run: node scripts/validate_year7_english_actual_banks.mjs
       - name: Guard Classroom View
