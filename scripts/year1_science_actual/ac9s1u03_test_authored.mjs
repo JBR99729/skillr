@@ -1,0 +1,18 @@
+export const test=[
+['At the playground, which action uses a push?',['Sending a swing away from you with your hands.','Pulling a wagon toward you.','Drawing a bucket closer with a rope.','Opening a drawer toward you.'],0,'Sending the swing away from you applies a push.','Which force acts away from you?'],
+['Which action is a pull?',['Drawing a wagon toward you.','Kicking a ball away.','Pressing a button.','Pushing a trolley.'],0,'The wagon moves toward the person.','Toward.'],
+['What can a force change?',['motion or shape','colour only','material name','number of letters'],0,'Pushes and pulls can change speed, direction, position or shape.','Motion and deformation.'],
+['Why use the same car when comparing push strength?',['To keep the object constant.','To make the result equal.','To avoid measuring.','Because colour controls force.'],0,'Keeping the object the same makes the comparison fairer.','Control the object.'],
+['Which surface likely creates most friction?',['rough carpet','smooth tile','polished wood','ice'],0,'Rough carpet usually resists rolling more.','Rougher surface.'],
+['A sideways push on a rolling ball can change its:',['direction','colour','mass','material'],0,'A force from the side can redirect motion.','Steering effect.'],
+['Which object changes shape most easily under a gentle squeeze?',['sponge','brick','stone','glass block'],0,'Sponge material deforms easily.','Soft material.'],
+['A strong push sends a car 100 cm; gentle push sends it 45 cm. Best conclusion?',['The stronger push moved this car farther in the test.','Strong pushes always move everything 55 cm farther.','The car colour caused it.','Gentle pushes are not forces.'],0,'The conclusion stays within the measured evidence.','This test only.'],
+['Why repeat a force test?',['To see whether the pattern appears again.','To force a favourite answer.','To change the first result.','To avoid measuring.'],0,'Repeats add evidence about consistency.','Check again.'],
+['Which force opens a drawer toward you?',['pull','push','no force','friction only'],0,'Opening toward you requires pulling.','Toward.'],
+['Which change shows deformation?',['playdough becomes flatter','ball rolls farther','car turns left','wagon moves forward'],0,'Flattening is a shape change.','Shape, not location.'],
+['Which observation best compares motion?',['Car A travelled 70 cm; Car B travelled 40 cm.','Car A is green.','Car B looks fast.','Both are toys.'],0,'Measured distances directly compare motion.','Use distance evidence.'],
+['What usually happens when friction is greater?',['Motion slows more quickly.','Objects always speed up.','Colour changes.','Mass disappears.'],0,'Friction opposes motion.','Resistance to sliding or rolling.'],
+['Which is the fairest ramp test?',['Same ball and surface, change only ramp height.','Change ball, surface and height.','Guess the distance.','Use different start lines randomly.'],0,'Control other variables while changing one main factor.','Fair comparison.'],
+['A rubber band lengthens when pulled. What did the force change?',['shape','colour','material type','temperature only'],0,'The pull stretched the object.','Deformation.'],
+['Which example shows science in everyday forces?',['Testing how much push a trolley needs on different surfaces.','Choosing a trolley by favourite colour.','Ignoring motion.','Guessing without trying.'],0,'The first compares how forces and surfaces affect motion.','Observe and compare.']
+];
