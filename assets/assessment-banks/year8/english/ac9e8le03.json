@@ -5,39 +5,41 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_discussing_how_a_complex_picture_book_combines_words_and_images_to_position_readers_to_respond_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "In a school podcast script, which option is the clearest example of how language and/or images in texts position readers to respond and form viewpoints?",
+    "audio_prompt": "In a school podcast script, which option is the clearest example of how language and/or images in texts position readers to respond and form viewpoints?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "discussing how a complex picture book combines words and images to position readers to respond",
+        "text": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Naming the feature is enough; evidence from the text is unnecessary.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "discussing how a complex picture book combines words and images to position readers to respond",
-      "hint": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text."
+      "summary": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8le03-p-002",
@@ -45,39 +47,41 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_representation_to_shape_sharing_opinions_about_how_a_film_positions_the_viewer_to_respond_to_a_character_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "Which choice in a community-news article most clearly demonstrates how language and/or images in texts position readers to respond and form viewpoints?",
+    "audio_prompt": "Which choice in a community-news article most clearly demonstrates how language and/or images in texts position readers to respond and form viewpoints?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "Naming the feature is enough; evidence from the text is unnecessary.",
         "is_correct": false
       },
       {
-        "text": "sharing opinions about how a film positions the viewer to respond to a character",
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "The most formal or complicated wording is automatically the best choice.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "One isolated word proves the whole interpretation without needing context.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "sharing opinions about how a film positions the viewer to respond to a character",
-      "hint": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
+      "summary": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8le03-p-003",
@@ -85,39 +89,41 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_discussing_how_a_complex_picture_book_combines_words_and_images_to_position_readers_to_respond_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "While reading a library book-club discussion, which option would you identify as how language and/or images in texts position readers to respond and form viewpoints?",
+    "audio_prompt": "While reading a library book-club discussion, which option would you identify as how language and/or images in texts position readers to respond and form viewpoints?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "The most formal or complicated wording is automatically the best choice.",
         "is_correct": false
       },
       {
-        "text": "discussing how a complex picture book combines words and images to position readers to respond",
+        "text": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "One isolated word proves the whole interpretation without needing context.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "discussing how a complex picture book combines words and images to position readers to respond",
-      "hint": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text."
+      "summary": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8le03-p-004",
@@ -125,39 +131,41 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_representation_to_shape_sharing_opinions_about_how_a_film_positions_the_viewer_to_respond_to_a_character_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "Which feature choice best matches how language and/or images in texts position readers to respond and form viewpoints in a student council speech?",
+    "audio_prompt": "Which feature choice best matches how language and/or images in texts position readers to respond and form viewpoints in a student council speech?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "One isolated word proves the whole interpretation without needing context.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "The feature changes only surface style and cannot shape meaning.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Any interpretation is equally strong even when it lacks supporting evidence.",
         "is_correct": false
       },
       {
-        "text": "sharing opinions about how a film positions the viewer to respond to a character",
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "sharing opinions about how a film positions the viewer to respond to a character",
-      "hint": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
+      "summary": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8le03-p-005",
@@ -165,38 +173,41 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_discussing_how_a_complex_picture_book_combines_words_and_images_to_position_readers_to_respond_and_influence_how_an_audience_understands_the_text",
-    "question": "What should you check when using a writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text?",
-    "audio_prompt": "What should you check when using a writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text?",
+    "stage": "recognise",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "For a science-expo explanation, which option gives the strongest evidence of how language and/or images in texts position readers to respond and form viewpoints?",
+    "audio_prompt": "For a science-expo explanation, which option gives the strongest evidence of how language and/or images in texts position readers to respond and form viewpoints?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "discussing how a complex picture book combines words and images to position readers to respond",
+        "text": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "The feature changes only surface style and cannot shape meaning.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Any interpretation is equally strong even when it lacks supporting evidence.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "discussing how a complex picture book combines words and images to position readers to respond",
-      "hint": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text."
+      "summary": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8le03-p-006",
@@ -204,38 +215,41 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_representation_to_shape_sharing_opinions_about_how_a_film_positions_the_viewer_to_respond_to_a_character_and_influence_how_an_audience_understands_the_text",
-    "question": "What should you check when using a writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text?",
-    "audio_prompt": "What should you check when using a writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text?",
+    "stage": "recognise",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "Which choice best represents how language and/or images in texts position readers to respond and form viewpoints in a museum caption?",
+    "audio_prompt": "Which choice best represents how language and/or images in texts position readers to respond and form viewpoints in a museum caption?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "Any interpretation is equally strong even when it lacks supporting evidence.",
         "is_correct": false
       },
       {
-        "text": "sharing opinions about how a film positions the viewer to respond to a character",
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Using more of the feature will always improve a text.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Audience and purpose do not matter once the feature has been identified.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "sharing opinions about how a film positions the viewer to respond to a character",
-      "hint": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
+      "summary": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8le03-p-007",
@@ -243,39 +257,41 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_discussing_how_a_complex_picture_book_combines_words_and_images_to_position_readers_to_respond_and_influence_how_an_audience_understands_the_text",
-    "question": "Which statement best explains a writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text?",
-    "audio_prompt": "Which statement best explains a writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text?",
+    "stage": "recognise",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "A reader is looking for how language and/or images in texts position readers to respond and form viewpoints in a local-sport profile. Which option should they choose?",
+    "audio_prompt": "A reader is looking for how language and/or images in texts position readers to respond and form viewpoints in a local-sport profile. Which option should they choose?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Using more of the feature will always improve a text.",
         "is_correct": false
       },
       {
-        "text": "discussing how a complex picture book combines words and images to position readers to respond",
+        "text": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Audience and purpose do not matter once the feature has been identified.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "discussing how a complex picture book combines words and images to position readers to respond",
-      "hint": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text."
+      "summary": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8le03-p-008",
@@ -283,39 +299,1385 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_representation_to_shape_sharing_opinions_about_how_a_film_positions_the_viewer_to_respond_to_a_character_and_influence_how_an_audience_understands_the_text",
-    "question": "Which statement best explains a writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text?",
-    "audio_prompt": "Which statement best explains a writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text?",
+    "stage": "recognise",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "Which example from a school newsletter most accurately shows how language and/or images in texts position readers to respond and form viewpoints?",
+    "audio_prompt": "Which example from a school newsletter most accurately shows how language and/or images in texts position readers to respond and form viewpoints?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "Audience and purpose do not matter once the feature has been identified.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Naming the feature is enough; evidence from the text is unnecessary.",
         "is_correct": false
       },
       {
-        "text": "sharing opinions about how a film positions the viewer to respond to a character",
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "sharing opinions about how a film positions the viewer to respond to a character",
-      "hint": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
+      "summary": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8le03-p-009",
+    "curriculum_code": "AC9E8LE03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "Which option belongs under the heading “how language and/or images in texts position readers to respond and form viewpoints” for a youth radio segment?",
+    "audio_prompt": "Which option belongs under the heading “how language and/or images in texts position readers to respond and form viewpoints” for a youth radio segment?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
+        "is_correct": true
+      },
+      {
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; evidence from the text is unnecessary.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8le03-p-010",
+    "curriculum_code": "AC9E8LE03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "Which choice is the best match for how language and/or images in texts position readers to respond and form viewpoints in a bushwalking safety page?",
+    "audio_prompt": "Which choice is the best match for how language and/or images in texts position readers to respond and form viewpoints in a bushwalking safety page?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Naming the feature is enough; evidence from the text is unnecessary.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
+        "is_correct": true
+      },
+      {
+        "text": "The most formal or complicated wording is automatically the best choice.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated word proves the whole interpretation without needing context.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8le03-p-011",
+    "curriculum_code": "AC9E8LE03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "In a review of an Australian novel, which explanation best shows how how language and/or images in texts position readers to respond and form viewpoints shapes meaning?",
+    "audio_prompt": "In a review of an Australian novel, which explanation best shows how how language and/or images in texts position readers to respond and form viewpoints shapes meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
+        "is_correct": false
+      },
+      {
+        "text": "The most formal or complicated wording is automatically the best choice.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated word proves the whole interpretation without needing context.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8le03-p-012",
+    "curriculum_code": "AC9E8LE03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "Which option best explains the effect of how language and/or images in texts position readers to respond and form viewpoints in a documentary storyboard?",
+    "audio_prompt": "Which option best explains the effect of how language and/or images in texts position readers to respond and form viewpoints in a documentary storyboard?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "One isolated word proves the whole interpretation without needing context.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature changes only surface style and cannot shape meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Any interpretation is equally strong even when it lacks supporting evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8le03-p-013",
+    "curriculum_code": "AC9E8LE03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "Which response connects how language and/or images in texts position readers to respond and form viewpoints to audience or purpose in a class debate?",
+    "audio_prompt": "Which response connects how language and/or images in texts position readers to respond and form viewpoints to audience or purpose in a class debate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
+        "is_correct": true
+      },
+      {
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature changes only surface style and cannot shape meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Any interpretation is equally strong even when it lacks supporting evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8le03-p-014",
+    "curriculum_code": "AC9E8LE03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "A reader is explaining how language and/or images in texts position readers to respond and form viewpoints in a community-festival webpage. Which comment is most precise?",
+    "audio_prompt": "A reader is explaining how language and/or images in texts position readers to respond and form viewpoints in a community-festival webpage. Which comment is most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Any interpretation is equally strong even when it lacks supporting evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
+        "is_correct": true
+      },
+      {
+        "text": "Using more of the feature will always improve a text.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and purpose do not matter once the feature has been identified.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8le03-p-015",
+    "curriculum_code": "AC9E8LE03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "Which explanation goes beyond naming how language and/or images in texts position readers to respond and form viewpoints and shows what it does in a wildlife-centre brochure?",
+    "audio_prompt": "Which explanation goes beyond naming how language and/or images in texts position readers to respond and form viewpoints and shows what it does in a wildlife-centre brochure?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
+        "is_correct": false
+      },
+      {
+        "text": "Using more of the feature will always improve a text.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and purpose do not matter once the feature has been identified.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8le03-p-016",
+    "curriculum_code": "AC9E8LE03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "How does how language and/or images in texts position readers to respond and form viewpoints matter in a historical display? Choose the strongest explanation.",
+    "audio_prompt": "How does how language and/or images in texts position readers to respond and form viewpoints matter in a historical display? Choose the strongest explanation.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Audience and purpose do not matter once the feature has been identified.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; evidence from the text is unnecessary.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8le03-p-017",
+    "curriculum_code": "AC9E8LE03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "Which statement best accounts for the effect of how language and/or images in texts position readers to respond and form viewpoints in a persuasive letter to council?",
+    "audio_prompt": "Which statement best accounts for the effect of how language and/or images in texts position readers to respond and form viewpoints in a persuasive letter to council?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
+        "is_correct": true
+      },
+      {
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; evidence from the text is unnecessary.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8le03-p-018",
+    "curriculum_code": "AC9E8LE03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "Which explanation of how language and/or images in texts position readers to respond and form viewpoints is best supported by a school assembly address?",
+    "audio_prompt": "Which explanation of how language and/or images in texts position readers to respond and form viewpoints is best supported by a school assembly address?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Naming the feature is enough; evidence from the text is unnecessary.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
+        "is_correct": true
+      },
+      {
+        "text": "The most formal or complicated wording is automatically the best choice.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated word proves the whole interpretation without needing context.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8le03-p-019",
+    "curriculum_code": "AC9E8LE03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "Which response most clearly links how language and/or images in texts position readers to respond and form viewpoints with meaning in a digital magazine feature?",
+    "audio_prompt": "Which response most clearly links how language and/or images in texts position readers to respond and form viewpoints with meaning in a digital magazine feature?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
+        "is_correct": false
+      },
+      {
+        "text": "The most formal or complicated wording is automatically the best choice.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated word proves the whole interpretation without needing context.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8le03-p-020",
+    "curriculum_code": "AC9E8LE03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "For a public-transport campaign, which statement gives the most useful explanation of how language and/or images in texts position readers to respond and form viewpoints?",
+    "audio_prompt": "For a public-transport campaign, which statement gives the most useful explanation of how language and/or images in texts position readers to respond and form viewpoints?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "One isolated word proves the whole interpretation without needing context.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature changes only surface style and cannot shape meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Any interpretation is equally strong even when it lacks supporting evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8le03-p-021",
+    "curriculum_code": "AC9E8LE03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "Which interpretation of how language and/or images in texts position readers to respond and form viewpoints in a theatre-program note is the most careful and accurate?",
+    "audio_prompt": "Which interpretation of how language and/or images in texts position readers to respond and form viewpoints in a theatre-program note is the most careful and accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
+        "is_correct": true
+      },
+      {
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature changes only surface style and cannot shape meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Any interpretation is equally strong even when it lacks supporting evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8le03-p-022",
+    "curriculum_code": "AC9E8LE03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "Several claims are made about how language and/or images in texts position readers to respond and form viewpoints in a coastal-care poster. Which one avoids an overgeneralisation?",
+    "audio_prompt": "Several claims are made about how language and/or images in texts position readers to respond and form viewpoints in a coastal-care poster. Which one avoids an overgeneralisation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Any interpretation is equally strong even when it lacks supporting evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
+        "is_correct": true
+      },
+      {
+        "text": "Using more of the feature will always improve a text.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and purpose do not matter once the feature has been identified.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8le03-p-023",
+    "curriculum_code": "AC9E8LE03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "Which response distinguishes a sound analysis of how language and/or images in texts position readers to respond and form viewpoints from a superficial one in a short-story workshop?",
+    "audio_prompt": "Which response distinguishes a sound analysis of how language and/or images in texts position readers to respond and form viewpoints from a superficial one in a short-story workshop?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
+        "is_correct": false
+      },
+      {
+        "text": "Using more of the feature will always improve a text.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and purpose do not matter once the feature has been identified.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8le03-p-024",
+    "curriculum_code": "AC9E8LE03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "Which statement about how language and/or images in texts position readers to respond and form viewpoints in a media-literacy lesson can actually be supported?",
+    "audio_prompt": "Which statement about how language and/or images in texts position readers to respond and form viewpoints in a media-literacy lesson can actually be supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Audience and purpose do not matter once the feature has been identified.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; evidence from the text is unnecessary.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8le03-p-025",
+    "curriculum_code": "AC9E8LE03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "Which option avoids confusing the feature with its effect when discussing how language and/or images in texts position readers to respond and form viewpoints in a local-history podcast?",
+    "audio_prompt": "Which option avoids confusing the feature with its effect when discussing how language and/or images in texts position readers to respond and form viewpoints in a local-history podcast?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
+        "is_correct": true
+      },
+      {
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; evidence from the text is unnecessary.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8le03-p-026",
+    "curriculum_code": "AC9E8LE03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "Which reading of how language and/or images in texts position readers to respond and form viewpoints in a school website update uses context rather than assumption?",
+    "audio_prompt": "Which reading of how language and/or images in texts position readers to respond and form viewpoints in a school website update uses context rather than assumption?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Naming the feature is enough; evidence from the text is unnecessary.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
+        "is_correct": true
+      },
+      {
+        "text": "The most formal or complicated wording is automatically the best choice.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated word proves the whole interpretation without needing context.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8le03-p-027",
+    "curriculum_code": "AC9E8LE03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "Which response gives the strongest judgement about how language and/or images in texts position readers to respond and form viewpoints in a graphic-novel discussion?",
+    "audio_prompt": "Which response gives the strongest judgement about how language and/or images in texts position readers to respond and form viewpoints in a graphic-novel discussion?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
+        "is_correct": false
+      },
+      {
+        "text": "The most formal or complicated wording is automatically the best choice.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated word proves the whole interpretation without needing context.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8le03-p-028",
+    "curriculum_code": "AC9E8LE03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "Which claim about how language and/or images in texts position readers to respond and form viewpoints in a charity campaign is precise enough to defend?",
+    "audio_prompt": "Which claim about how language and/or images in texts position readers to respond and form viewpoints in a charity campaign is precise enough to defend?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "One isolated word proves the whole interpretation without needing context.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature changes only surface style and cannot shape meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Any interpretation is equally strong even when it lacks supporting evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8le03-p-029",
+    "curriculum_code": "AC9E8LE03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "Which option avoids treating how language and/or images in texts position readers to respond and form viewpoints as a rule that works identically everywhere?",
+    "audio_prompt": "Which option avoids treating how language and/or images in texts position readers to respond and form viewpoints as a rule that works identically everywhere?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
+        "is_correct": true
+      },
+      {
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature changes only surface style and cannot shape meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Any interpretation is equally strong even when it lacks supporting evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8le03-p-030",
+    "curriculum_code": "AC9E8LE03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "Which interpretation of how language and/or images in texts position readers to respond and form viewpoints best fits the evidence in a sustainability report?",
+    "audio_prompt": "Which interpretation of how language and/or images in texts position readers to respond and form viewpoints best fits the evidence in a sustainability report?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Any interpretation is equally strong even when it lacks supporting evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
+        "is_correct": true
+      },
+      {
+        "text": "Using more of the feature will always improve a text.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and purpose do not matter once the feature has been identified.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8le03-p-031",
+    "curriculum_code": "AC9E8LE03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "You are revising an exhibition review. Which choice applies how language and/or images in texts position readers to respond and form viewpoints most effectively?",
+    "audio_prompt": "You are revising an exhibition review. Which choice applies how language and/or images in texts position readers to respond and form viewpoints most effectively?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
+        "is_correct": false
+      },
+      {
+        "text": "Using more of the feature will always improve a text.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and purpose do not matter once the feature has been identified.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8le03-p-032",
+    "curriculum_code": "AC9E8LE03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "Which change would make the strongest use of how language and/or images in texts position readers to respond and form viewpoints in a class anthology?",
+    "audio_prompt": "Which change would make the strongest use of how language and/or images in texts position readers to respond and form viewpoints in a class anthology?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Audience and purpose do not matter once the feature has been identified.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; evidence from the text is unnecessary.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8le03-p-033",
+    "curriculum_code": "AC9E8LE03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "To improve a youth forum post, which option best applies how language and/or images in texts position readers to respond and form viewpoints?",
+    "audio_prompt": "To improve a youth forum post, which option best applies how language and/or images in texts position readers to respond and form viewpoints?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
+        "is_correct": true
+      },
+      {
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; evidence from the text is unnecessary.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8le03-p-034",
+    "curriculum_code": "AC9E8LE03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "Which choice uses how language and/or images in texts position readers to respond and form viewpoints deliberately in a tourism information page?",
+    "audio_prompt": "Which choice uses how language and/or images in texts position readers to respond and form viewpoints deliberately in a tourism information page?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Naming the feature is enough; evidence from the text is unnecessary.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
+        "is_correct": true
+      },
+      {
+        "text": "The most formal or complicated wording is automatically the best choice.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated word proves the whole interpretation without needing context.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8le03-p-035",
+    "curriculum_code": "AC9E8LE03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "Which revision to a spoken presentation shows the most purposeful use of how language and/or images in texts position readers to respond and form viewpoints?",
+    "audio_prompt": "Which revision to a spoken presentation shows the most purposeful use of how language and/or images in texts position readers to respond and form viewpoints?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
+        "is_correct": false
+      },
+      {
+        "text": "The most formal or complicated wording is automatically the best choice.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated word proves the whole interpretation without needing context.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8le03-p-036",
+    "curriculum_code": "AC9E8LE03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "Which option transfers an understanding of how language and/or images in texts position readers to respond and form viewpoints to a feature article successfully?",
+    "audio_prompt": "Which option transfers an understanding of how language and/or images in texts position readers to respond and form viewpoints to a feature article successfully?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "One isolated word proves the whole interpretation without needing context.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature changes only surface style and cannot shape meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Any interpretation is equally strong even when it lacks supporting evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8le03-p-037",
+    "curriculum_code": "AC9E8LE03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "For a film-review discussion, which choice uses how language and/or images in texts position readers to respond and form viewpoints in a way that suits audience and purpose?",
+    "audio_prompt": "For a film-review discussion, which choice uses how language and/or images in texts position readers to respond and form viewpoints in a way that suits audience and purpose?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
+        "is_correct": true
+      },
+      {
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature changes only surface style and cannot shape meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Any interpretation is equally strong even when it lacks supporting evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8le03-p-038",
+    "curriculum_code": "AC9E8LE03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "Which decision would strengthen a community survey summary by applying how language and/or images in texts position readers to respond and form viewpoints rather than just naming it?",
+    "audio_prompt": "Which decision would strengthen a community survey summary by applying how language and/or images in texts position readers to respond and form viewpoints rather than just naming it?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Any interpretation is equally strong even when it lacks supporting evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
+        "is_correct": true
+      },
+      {
+        "text": "Using more of the feature will always improve a text.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and purpose do not matter once the feature has been identified.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8le03-p-039",
+    "curriculum_code": "AC9E8LE03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "Which option is the best practical use of how language and/or images in texts position readers to respond and form viewpoints in a reading-journal entry?",
+    "audio_prompt": "Which option is the best practical use of how language and/or images in texts position readers to respond and form viewpoints in a reading-journal entry?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
+        "is_correct": false
+      },
+      {
+        "text": "Using more of the feature will always improve a text.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and purpose do not matter once the feature has been identified.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8le03-p-040",
+    "curriculum_code": "AC9E8LE03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "A writer is improving a school production program. Which choice shows confident control of how language and/or images in texts position readers to respond and form viewpoints?",
+    "audio_prompt": "A writer is improving a school production program. Which choice shows confident control of how language and/or images in texts position readers to respond and form viewpoints?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Audience and purpose do not matter once the feature has been identified.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; evidence from the text is unnecessary.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8le03-t-001",
@@ -323,36 +1685,40 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_discussing_how_a_complex_picture_book_combines_words_and_images_to_position_readers_to_respond_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text?",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "In a regional newspaper feature, which interpretation of how language and/or images in texts position readers to respond and form viewpoints is best supported?",
+    "audio_prompt": "In a regional newspaper feature, which interpretation of how language and/or images in texts position readers to respond and form viewpoints is best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "discussing how a complex picture book combines words and images to position readers to respond",
+        "text": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Naming the feature is enough; evidence from the text is unnecessary.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "discussing how a complex picture book combines words and images to position readers to respond",
-      "hint": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text."
-    }
+      "summary": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8le03-t-002",
@@ -360,36 +1726,40 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_representation_to_shape_sharing_opinions_about_how_a_film_positions_the_viewer_to_respond_to_a_character_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text?",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "Which choice applies an accurate understanding of how language and/or images in texts position readers to respond and form viewpoints to an independent book review?",
+    "audio_prompt": "Which choice applies an accurate understanding of how language and/or images in texts position readers to respond and form viewpoints to an independent book review?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "Naming the feature is enough; evidence from the text is unnecessary.",
         "is_correct": false
       },
       {
-        "text": "sharing opinions about how a film positions the viewer to respond to a character",
+        "text": "The most formal or complicated wording is automatically the best choice.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "One isolated word proves the whole interpretation without needing context.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "sharing opinions about how a film positions the viewer to respond to a character",
-      "hint": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
-    }
+      "summary": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8le03-t-003",
@@ -397,36 +1767,40 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_discussing_how_a_complex_picture_book_combines_words_and_images_to_position_readers_to_respond_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "Which explanation of how language and/or images in texts position readers to respond and form viewpoints best fits a public-library exhibition?",
+    "audio_prompt": "Which explanation of how language and/or images in texts position readers to respond and form viewpoints best fits a public-library exhibition?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "The most formal or complicated wording is automatically the best choice.",
         "is_correct": false
       },
       {
-        "text": "discussing how a complex picture book combines words and images to position readers to respond",
+        "text": "One isolated word proves the whole interpretation without needing context.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
         "is_correct": true
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "discussing how a complex picture book combines words and images to position readers to respond",
-      "hint": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text."
-    }
+      "summary": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8le03-t-004",
@@ -434,36 +1808,40 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_representation_to_shape_sharing_opinions_about_how_a_film_positions_the_viewer_to_respond_to_a_character_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "Which option gives the strongest analysis of how language and/or images in texts position readers to respond and form viewpoints in a council youth consultation?",
+    "audio_prompt": "Which option gives the strongest analysis of how language and/or images in texts position readers to respond and form viewpoints in a council youth consultation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "sharing opinions about how a film positions the viewer to respond to a character",
+        "text": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
         "is_correct": true
+      },
+      {
+        "text": "One isolated word proves the whole interpretation without needing context.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature changes only surface style and cannot shape meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Any interpretation is equally strong even when it lacks supporting evidence.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "sharing opinions about how a film positions the viewer to respond to a character",
-      "hint": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
-    }
+      "summary": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8le03-t-005",
@@ -471,36 +1849,40 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_discussing_how_a_complex_picture_book_combines_words_and_images_to_position_readers_to_respond_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "Which choice would use how language and/or images in texts position readers to respond and form viewpoints most effectively in an environmental campaign video?",
+    "audio_prompt": "Which choice would use how language and/or images in texts position readers to respond and form viewpoints most effectively in an environmental campaign video?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "discussing how a complex picture book combines words and images to position readers to respond",
+        "text": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "The feature changes only surface style and cannot shape meaning.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Any interpretation is equally strong even when it lacks supporting evidence.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "discussing how a complex picture book combines words and images to position readers to respond",
-      "hint": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text."
-    }
+      "summary": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8le03-t-006",
@@ -508,36 +1890,40 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_representation_to_shape_sharing_opinions_about_how_a_film_positions_the_viewer_to_respond_to_a_character_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "Which statement about how language and/or images in texts position readers to respond and form viewpoints can be defended in a cultural-festival program?",
+    "audio_prompt": "Which statement about how language and/or images in texts position readers to respond and form viewpoints can be defended in a cultural-festival program?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "Any interpretation is equally strong even when it lacks supporting evidence.",
         "is_correct": false
       },
       {
-        "text": "sharing opinions about how a film positions the viewer to respond to a character",
+        "text": "Using more of the feature will always improve a text.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Audience and purpose do not matter once the feature has been identified.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "sharing opinions about how a film positions the viewer to respond to a character",
-      "hint": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
-    }
+      "summary": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8le03-t-007",
@@ -545,36 +1931,40 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_voice_to_shape_discussing_how_a_complex_picture_book_combines_words_and_images_to_position_readers_to_respond_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "Which response shows the most precise understanding of how language and/or images in texts position readers to respond and form viewpoints in a national-park information panel?",
+    "audio_prompt": "Which response shows the most precise understanding of how language and/or images in texts position readers to respond and form viewpoints in a national-park information panel?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Using more of the feature will always improve a text.",
         "is_correct": false
       },
       {
-        "text": "discussing how a complex picture book combines words and images to position readers to respond",
+        "text": "Audience and purpose do not matter once the feature has been identified.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
         "is_correct": true
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "discussing how a complex picture book combines words and images to position readers to respond",
-      "hint": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text."
-    }
+      "summary": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8le03-t-008",
@@ -582,35 +1972,367 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_representation_to_shape_sharing_opinions_about_how_a_film_positions_the_viewer_to_respond_to_a_character_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "Which revision would best control how language and/or images in texts position readers to respond and form viewpoints in a radio interview transcript?",
+    "audio_prompt": "Which revision would best control how language and/or images in texts position readers to respond and form viewpoints in a radio interview transcript?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and purpose do not matter once the feature has been identified.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Naming the feature is enough; evidence from the text is unnecessary.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8le03-t-009",
+    "curriculum_code": "AC9E8LE03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "In a digital news explainer, which interpretation of how language and/or images in texts position readers to respond and form viewpoints is best supported?",
+    "audio_prompt": "In a digital news explainer, which interpretation of how language and/or images in texts position readers to respond and form viewpoints is best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
         "is_correct": false
       },
       {
-        "text": "sharing opinions about how a film positions the viewer to respond to a character",
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
+        "is_correct": true
+      },
+      {
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; evidence from the text is unnecessary.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8le03-t-010",
+    "curriculum_code": "AC9E8LE03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "Which choice applies an accurate understanding of how language and/or images in texts position readers to respond and form viewpoints to a theatre review?",
+    "audio_prompt": "Which choice applies an accurate understanding of how language and/or images in texts position readers to respond and form viewpoints to a theatre review?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Naming the feature is enough; evidence from the text is unnecessary.",
+        "is_correct": false
+      },
+      {
+        "text": "The most formal or complicated wording is automatically the best choice.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated word proves the whole interpretation without needing context.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8le03-t-011",
+    "curriculum_code": "AC9E8LE03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "Which explanation of how language and/or images in texts position readers to respond and form viewpoints best fits a community-history website?",
+    "audio_prompt": "Which explanation of how language and/or images in texts position readers to respond and form viewpoints best fits a community-history website?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
+        "is_correct": false
+      },
+      {
+        "text": "The most formal or complicated wording is automatically the best choice.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated word proves the whole interpretation without needing context.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "sharing opinions about how a film positions the viewer to respond to a character",
-      "hint": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
-    }
+      "summary": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8le03-t-012",
+    "curriculum_code": "AC9E8LE03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "Which option gives the strongest analysis of how language and/or images in texts position readers to respond and form viewpoints in a sports documentary?",
+    "audio_prompt": "Which option gives the strongest analysis of how language and/or images in texts position readers to respond and form viewpoints in a sports documentary?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated word proves the whole interpretation without needing context.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature changes only surface style and cannot shape meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Any interpretation is equally strong even when it lacks supporting evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8le03-t-013",
+    "curriculum_code": "AC9E8LE03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "Which choice would use how language and/or images in texts position readers to respond and form viewpoints most effectively in a literary magazine extract?",
+    "audio_prompt": "Which choice would use how language and/or images in texts position readers to respond and form viewpoints most effectively in a literary magazine extract?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
+        "is_correct": true
+      },
+      {
+        "text": "The feature changes only surface style and cannot shape meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Any interpretation is equally strong even when it lacks supporting evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8le03-t-014",
+    "curriculum_code": "AC9E8LE03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "Which statement about how language and/or images in texts position readers to respond and form viewpoints can be defended in a public-service announcement?",
+    "audio_prompt": "Which statement about how language and/or images in texts position readers to respond and form viewpoints can be defended in a public-service announcement?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Any interpretation is equally strong even when it lacks supporting evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Using more of the feature will always improve a text.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and purpose do not matter once the feature has been identified.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8le03-t-015",
+    "curriculum_code": "AC9E8LE03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "Which response shows the most precise understanding of how language and/or images in texts position readers to respond and form viewpoints in an online museum exhibit?",
+    "audio_prompt": "Which response shows the most precise understanding of how language and/or images in texts position readers to respond and form viewpoints in an online museum exhibit?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
+        "is_correct": false
+      },
+      {
+        "text": "Using more of the feature will always improve a text.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and purpose do not matter once the feature has been identified.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use representation to shape sharing opinions about how a film positions the viewer to respond to a character and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8le03-t-016",
+    "curriculum_code": "AC9E8LE03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "how language and/or images in texts position readers to respond and form viewpoints",
+    "question": "Which revision would best control how language and/or images in texts position readers to respond and form viewpoints in a youth conference presentation?",
+    "audio_prompt": "Which revision would best control how language and/or images in texts position readers to respond and form viewpoints in a youth conference presentation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and purpose do not matter once the feature has been identified.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; evidence from the text is unnecessary.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use voice to shape discussing how a complex picture book combines words and images to position readers to respond and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v5"
   }
 ]

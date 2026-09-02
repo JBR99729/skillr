@@ -4,11 +4,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e8le01-p-001",
     "curriculumCode": "AC9E8LE01",
     "bank": "practice",
-    "skill": "a writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text",
+    "skill": "the ways that ideas and points of view may represent the values of individuals and groups in literary…",
     "printable": true,
     "type": "single",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "question": "In a school podcast script, which option is the clearest example of the ways that ideas and points of view may represent the values of individuals and groups in literary…?",
+    "audioPrompt": "In a school podcast script, which option is the clearest example of the ways that ideas and points of view may represent the values of individuals and groups in literary…?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,28 +16,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "discussing representations of characters from historical contexts in literary texts; for example, discussing the romantic representation of the Australian swagman and the values it reflects",
-      "A feature name is enough to prove an interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+      "The feature has one fixed effect in every text, regardless of audience or purpose."
     ],
     "correct": 0,
-    "explanation": "discussing representations of characters from historical contexts in literary texts; for example, discussing the romantic representation of the Australian swagman and the values it reflects\nHint: A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
-    "structuredExplanation": {
-      "summary": "discussing representations of characters from historical contexts in literary texts; for example, discussing the romantic representation of the Australian swagman and the values it reflects",
-      "hint": "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1
   },
   {
     "id": "ac9e8le01-p-002",
     "curriculumCode": "AC9E8LE01",
     "bank": "practice",
-    "skill": "a writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience understands the text",
+    "skill": "the ways that ideas and points of view may represent the values of individuals and groups in literary…",
     "printable": true,
     "type": "single",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "question": "Which choice in a community-news article most clearly demonstrates the ways that ideas and points of view may represent the values of individuals and groups in literary…?",
+    "audioPrompt": "Which choice in a community-news article most clearly demonstrates the ways that ideas and points of view may represent the values of individuals and groups in literary…?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,28 +45,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text",
-      "explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+      "Naming the feature is enough; evidence from the text is unnecessary.",
+      "The most formal or complicated wording is automatically the best choice."
     ],
     "correct": 1,
-    "explanation": "explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own\nHint: A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience understands the text.",
-    "structuredExplanation": {
-      "summary": "explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own",
-      "hint": "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience understands the text."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2
   },
   {
     "id": "ac9e8le01-p-003",
     "curriculumCode": "AC9E8LE01",
     "bank": "practice",
-    "skill": "a writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being knowing thinking and doing and influence how an audience understands the text",
+    "skill": "the ways that ideas and points of view may represent the values of individuals and groups in literary…",
     "printable": true,
     "type": "single",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being knowing thinking and doing and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being knowing thinking and doing and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "question": "While reading a library book-club discussion, which option would you identify as the ways that ideas and points of view may represent the values of individuals and groups in literary…?",
+    "audioPrompt": "While reading a library book-club discussion, which option would you identify as the ways that ideas and points of view may represent the values of individuals and groups in literary…?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,28 +74,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "explaining the ways texts by First Nations Australian authors represent unique ways of being, knowing, thinking and doing",
-      "The same rule and result apply to every situation without testing"
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "The most formal or complicated wording is automatically the best choice.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+      "One isolated word proves the whole interpretation without needing context."
     ],
     "correct": 2,
-    "explanation": "explaining the ways texts by First Nations Australian authors represent unique ways of being, knowing, thinking and doing\nHint: A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience understands the text.",
-    "structuredExplanation": {
-      "summary": "explaining the ways texts by First Nations Australian authors represent unique ways of being, knowing, thinking and doing",
-      "hint": "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience understands the text."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3
   },
   {
     "id": "ac9e8le01-p-004",
     "curriculumCode": "AC9E8LE01",
     "bank": "practice",
-    "skill": "a writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text",
+    "skill": "the ways that ideas and points of view may represent the values of individuals and groups in literary…",
     "printable": true,
     "type": "single",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "question": "Which feature choice best matches the ways that ideas and points of view may represent the values of individuals and groups in literary… in a student council speech?",
+    "audioPrompt": "Which feature choice best matches the ways that ideas and points of view may represent the values of individuals and groups in literary… in a student council speech?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,28 +103,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "discussing representations of characters from historical contexts in literary texts; for example, discussing the romantic representation of the Australian swagman and the values it reflects"
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+      "One isolated word proves the whole interpretation without needing context.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text."
     ],
     "correct": 3,
-    "explanation": "discussing representations of characters from historical contexts in literary texts; for example, discussing the romantic representation of the Australian swagman and the values it reflects\nHint: A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
-    "structuredExplanation": {
-      "summary": "discussing representations of characters from historical contexts in literary texts; for example, discussing the romantic representation of the Australian swagman and the values it reflects",
-      "hint": "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4
   },
   {
     "id": "ac9e8le01-p-005",
     "curriculumCode": "AC9E8LE01",
     "bank": "practice",
-    "skill": "a writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience understands the text",
+    "skill": "the ways that ideas and points of view may represent the values of individuals and groups in literary…",
     "printable": true,
     "type": "single",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "question": "For a science-expo explanation, which option gives the strongest evidence of the ways that ideas and points of view may represent the values of individuals and groups in literary…?",
+    "audioPrompt": "For a science-expo explanation, which option gives the strongest evidence of the ways that ideas and points of view may represent the values of individuals and groups in literary…?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +132,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own",
-      "A feature name is enough to prove an interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "The feature changes only surface style and cannot shape meaning.",
+      "Any interpretation is equally strong even when it lacks supporting evidence."
     ],
     "correct": 0,
-    "explanation": "explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own\nHint: A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience understands the text.",
-    "structuredExplanation": {
-      "summary": "explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own",
-      "hint": "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience understands the text."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5
   },
   {
     "id": "ac9e8le01-p-006",
     "curriculumCode": "AC9E8LE01",
     "bank": "practice",
-    "skill": "a writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being knowing thinking and doing and influence how an audience understands the text",
+    "skill": "the ways that ideas and points of view may represent the values of individuals and groups in literary…",
     "printable": true,
     "type": "single",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being knowing thinking and doing and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being knowing thinking and doing and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "question": "Which choice best represents the ways that ideas and points of view may represent the values of individuals and groups in literary… in a museum caption?",
+    "audioPrompt": "Which choice best represents the ways that ideas and points of view may represent the values of individuals and groups in literary… in a museum caption?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +161,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text",
-      "explaining the ways texts by First Nations Australian authors represent unique ways of being, knowing, thinking and doing",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+      "Any interpretation is equally strong even when it lacks supporting evidence.",
+      "Using more of the feature will always improve a text."
     ],
     "correct": 1,
-    "explanation": "explaining the ways texts by First Nations Australian authors represent unique ways of being, knowing, thinking and doing\nHint: A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience understands the text.",
-    "structuredExplanation": {
-      "summary": "explaining the ways texts by First Nations Australian authors represent unique ways of being, knowing, thinking and doing",
-      "hint": "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience understands the text."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6
   },
   {
     "id": "ac9e8le01-p-007",
     "curriculumCode": "AC9E8LE01",
     "bank": "practice",
-    "skill": "a writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text",
+    "skill": "the ways that ideas and points of view may represent the values of individuals and groups in literary…",
     "printable": true,
     "type": "single",
-    "question": "What should you check when using a writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text?",
-    "audioPrompt": "What should you check when using a writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text?",
+    "question": "A reader is looking for the ways that ideas and points of view may represent the values of individuals and groups in literary… in a local-sport profile. Which option should they choose?",
+    "audioPrompt": "A reader is looking for the ways that ideas and points of view may represent the values of individuals and groups in literary… in a local-sport profile. Which option should they choose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +190,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "discussing representations of characters from historical contexts in literary texts; for example, discussing the romantic representation of the Australian swagman and the values it reflects",
-      "The same rule and result apply to every situation without testing"
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "Using more of the feature will always improve a text."
     ],
     "correct": 2,
-    "explanation": "discussing representations of characters from historical contexts in literary texts; for example, discussing the romantic representation of the Australian swagman and the values it reflects\nHint: A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
-    "structuredExplanation": {
-      "summary": "discussing representations of characters from historical contexts in literary texts; for example, discussing the romantic representation of the Australian swagman and the values it reflects",
-      "hint": "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7
   },
   {
     "id": "ac9e8le01-p-008",
     "curriculumCode": "AC9E8LE01",
     "bank": "practice",
-    "skill": "a writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience understands the text",
+    "skill": "the ways that ideas and points of view may represent the values of individuals and groups in literary…",
     "printable": true,
     "type": "single",
-    "question": "What should you check when using a writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience understands the text?",
-    "audioPrompt": "What should you check when using a writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience understands the text?",
+    "question": "Which example from a school newsletter most accurately shows the ways that ideas and points of view may represent the values of individuals and groups in literary…?",
+    "audioPrompt": "Which example from a school newsletter most accurately shows the ways that ideas and points of view may represent the values of individuals and groups in literary…?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,18 +219,945 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own"
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "Audience and purpose do not matter once the feature has been identified.",
+      "The feature has one fixed effect in every text, regardless of audience or purpose.",
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience."
     ],
     "correct": 3,
-    "explanation": "explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own\nHint: A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience understands the text.",
-    "structuredExplanation": {
-      "summary": "explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own",
-      "hint": "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience understands the text."
+    "explanation": "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8
+  },
+  {
+    "id": "ac9e8le01-p-009",
+    "curriculumCode": "AC9E8LE01",
+    "bank": "practice",
+    "skill": "the ways that ideas and points of view may represent the values of individuals and groups in literary…",
+    "printable": true,
+    "type": "single",
+    "question": "Which option belongs under the heading “the ways that ideas and points of view may represent the values of individuals and groups in literary…” for a youth radio segment?",
+    "audioPrompt": "Which option belongs under the heading “the ways that ideas and points of view may represent the values of individuals and groups in literary…” for a youth radio segment?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "answers": [
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "The feature has one fixed effect in every text, regardless of audience or purpose.",
+      "Naming the feature is enough; evidence from the text is unnecessary."
+    ],
+    "correct": 0,
+    "explanation": "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 9
+  },
+  {
+    "id": "ac9e8le01-p-010",
+    "curriculumCode": "AC9E8LE01",
+    "bank": "practice",
+    "skill": "the ways that ideas and points of view may represent the values of individuals and groups in literary…",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is the best match for the ways that ideas and points of view may represent the values of individuals and groups in literary… in a bushwalking safety page?",
+    "audioPrompt": "Which choice is the best match for the ways that ideas and points of view may represent the values of individuals and groups in literary… in a bushwalking safety page?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+      "Naming the feature is enough; evidence from the text is unnecessary."
+    ],
+    "correct": 1,
+    "explanation": "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 10
+  },
+  {
+    "id": "ac9e8le01-p-011",
+    "curriculumCode": "AC9E8LE01",
+    "bank": "practice",
+    "skill": "the ways that ideas and points of view may represent the values of individuals and groups in literary…",
+    "printable": true,
+    "type": "single",
+    "question": "In a review of an Australian novel, which explanation best shows how the ways that ideas and points of view may represent the values of individuals and groups in literary… shapes meaning?",
+    "audioPrompt": "In a review of an Australian novel, which explanation best shows how the ways that ideas and points of view may represent the values of individuals and groups in literary… shapes meaning?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "The most formal or complicated wording is automatically the best choice.",
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+      "One isolated word proves the whole interpretation without needing context."
+    ],
+    "correct": 2,
+    "explanation": "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 11
+  },
+  {
+    "id": "ac9e8le01-p-012",
+    "curriculumCode": "AC9E8LE01",
+    "bank": "practice",
+    "skill": "the ways that ideas and points of view may represent the values of individuals and groups in literary…",
+    "printable": true,
+    "type": "single",
+    "question": "Which option best explains the effect of the ways that ideas and points of view may represent the values of individuals and groups in literary… in a documentary storyboard?",
+    "audioPrompt": "Which option best explains the effect of the ways that ideas and points of view may represent the values of individuals and groups in literary… in a documentary storyboard?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "One isolated word proves the whole interpretation without needing context.",
+      "The feature changes only surface style and cannot shape meaning.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience."
+    ],
+    "correct": 3,
+    "explanation": "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 12
+  },
+  {
+    "id": "ac9e8le01-p-013",
+    "curriculumCode": "AC9E8LE01",
+    "bank": "practice",
+    "skill": "the ways that ideas and points of view may represent the values of individuals and groups in literary…",
+    "printable": true,
+    "type": "single",
+    "question": "Which response connects the ways that ideas and points of view may represent the values of individuals and groups in literary… to audience or purpose in a class debate?",
+    "audioPrompt": "Which response connects the ways that ideas and points of view may represent the values of individuals and groups in literary… to audience or purpose in a class debate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+      "The feature changes only surface style and cannot shape meaning."
+    ],
+    "correct": 0,
+    "explanation": "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 13
+  },
+  {
+    "id": "ac9e8le01-p-014",
+    "curriculumCode": "AC9E8LE01",
+    "bank": "practice",
+    "skill": "the ways that ideas and points of view may represent the values of individuals and groups in literary…",
+    "printable": true,
+    "type": "single",
+    "question": "A reader is explaining the ways that ideas and points of view may represent the values of individuals and groups in literary… in a community-festival webpage. Which comment is most precise?",
+    "audioPrompt": "A reader is explaining the ways that ideas and points of view may represent the values of individuals and groups in literary… in a community-festival webpage. Which comment is most precise?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+      "Any interpretation is equally strong even when it lacks supporting evidence.",
+      "Using more of the feature will always improve a text."
+    ],
+    "correct": 1,
+    "explanation": "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 14
+  },
+  {
+    "id": "ac9e8le01-p-015",
+    "curriculumCode": "AC9E8LE01",
+    "bank": "practice",
+    "skill": "the ways that ideas and points of view may represent the values of individuals and groups in literary…",
+    "printable": true,
+    "type": "single",
+    "question": "Which explanation goes beyond naming the ways that ideas and points of view may represent the values of individuals and groups in literary… and shows what it does in a wildlife-centre brochure?",
+    "audioPrompt": "Which explanation goes beyond naming the ways that ideas and points of view may represent the values of individuals and groups in literary… and shows what it does in a wildlife-centre brochure?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "Using more of the feature will always improve a text.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+      "Audience and purpose do not matter once the feature has been identified."
+    ],
+    "correct": 2,
+    "explanation": "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 15
+  },
+  {
+    "id": "ac9e8le01-p-016",
+    "curriculumCode": "AC9E8LE01",
+    "bank": "practice",
+    "skill": "the ways that ideas and points of view may represent the values of individuals and groups in literary…",
+    "printable": true,
+    "type": "single",
+    "question": "How does the ways that ideas and points of view may represent the values of individuals and groups in literary… matter in a historical display? Choose the strongest explanation.",
+    "audioPrompt": "How does the ways that ideas and points of view may represent the values of individuals and groups in literary… matter in a historical display? Choose the strongest explanation.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+      "Audience and purpose do not matter once the feature has been identified.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text."
+    ],
+    "correct": 3,
+    "explanation": "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 16
+  },
+  {
+    "id": "ac9e8le01-p-017",
+    "curriculumCode": "AC9E8LE01",
+    "bank": "practice",
+    "skill": "the ways that ideas and points of view may represent the values of individuals and groups in literary…",
+    "printable": true,
+    "type": "single",
+    "question": "Which statement best accounts for the effect of the ways that ideas and points of view may represent the values of individuals and groups in literary… in a persuasive letter to council?",
+    "audioPrompt": "Which statement best accounts for the effect of the ways that ideas and points of view may represent the values of individuals and groups in literary… in a persuasive letter to council?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "The feature has one fixed effect in every text, regardless of audience or purpose.",
+      "Naming the feature is enough; evidence from the text is unnecessary."
+    ],
+    "correct": 0,
+    "explanation": "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 17
+  },
+  {
+    "id": "ac9e8le01-p-018",
+    "curriculumCode": "AC9E8LE01",
+    "bank": "practice",
+    "skill": "the ways that ideas and points of view may represent the values of individuals and groups in literary…",
+    "printable": true,
+    "type": "single",
+    "question": "Which explanation of the ways that ideas and points of view may represent the values of individuals and groups in literary… is best supported by a school assembly address?",
+    "audioPrompt": "Which explanation of the ways that ideas and points of view may represent the values of individuals and groups in literary… is best supported by a school assembly address?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+      "Naming the feature is enough; evidence from the text is unnecessary.",
+      "The most formal or complicated wording is automatically the best choice."
+    ],
+    "correct": 1,
+    "explanation": "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 18
+  },
+  {
+    "id": "ac9e8le01-p-019",
+    "curriculumCode": "AC9E8LE01",
+    "bank": "practice",
+    "skill": "the ways that ideas and points of view may represent the values of individuals and groups in literary…",
+    "printable": true,
+    "type": "single",
+    "question": "Which response most clearly links the ways that ideas and points of view may represent the values of individuals and groups in literary… with meaning in a digital magazine feature?",
+    "audioPrompt": "Which response most clearly links the ways that ideas and points of view may represent the values of individuals and groups in literary… with meaning in a digital magazine feature?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "The most formal or complicated wording is automatically the best choice."
+    ],
+    "correct": 2,
+    "explanation": "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 19
+  },
+  {
+    "id": "ac9e8le01-p-020",
+    "curriculumCode": "AC9E8LE01",
+    "bank": "practice",
+    "skill": "the ways that ideas and points of view may represent the values of individuals and groups in literary…",
+    "printable": true,
+    "type": "single",
+    "question": "For a public-transport campaign, which statement gives the most useful explanation of the ways that ideas and points of view may represent the values of individuals and groups in literary…?",
+    "audioPrompt": "For a public-transport campaign, which statement gives the most useful explanation of the ways that ideas and points of view may represent the values of individuals and groups in literary…?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "One isolated word proves the whole interpretation without needing context.",
+      "The feature changes only surface style and cannot shape meaning.",
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience."
+    ],
+    "correct": 3,
+    "explanation": "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 20
+  },
+  {
+    "id": "ac9e8le01-p-021",
+    "curriculumCode": "AC9E8LE01",
+    "bank": "practice",
+    "skill": "the ways that ideas and points of view may represent the values of individuals and groups in literary…",
+    "printable": true,
+    "type": "single",
+    "question": "Which interpretation of the ways that ideas and points of view may represent the values of individuals and groups in literary… in a theatre-program note is the most careful and accurate?",
+    "audioPrompt": "Which interpretation of the ways that ideas and points of view may represent the values of individuals and groups in literary… in a theatre-program note is the most careful and accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "The feature changes only surface style and cannot shape meaning.",
+      "Any interpretation is equally strong even when it lacks supporting evidence."
+    ],
+    "correct": 0,
+    "explanation": "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 21
+  },
+  {
+    "id": "ac9e8le01-p-022",
+    "curriculumCode": "AC9E8LE01",
+    "bank": "practice",
+    "skill": "the ways that ideas and points of view may represent the values of individuals and groups in literary…",
+    "printable": true,
+    "type": "single",
+    "question": "Several claims are made about the ways that ideas and points of view may represent the values of individuals and groups in literary… in a coastal-care poster. Which one avoids an overgeneralisation?",
+    "audioPrompt": "Several claims are made about the ways that ideas and points of view may represent the values of individuals and groups in literary… in a coastal-care poster. Which one avoids an overgeneralisation?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+      "Any interpretation is equally strong even when it lacks supporting evidence."
+    ],
+    "correct": 1,
+    "explanation": "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 22
+  },
+  {
+    "id": "ac9e8le01-p-023",
+    "curriculumCode": "AC9E8LE01",
+    "bank": "practice",
+    "skill": "the ways that ideas and points of view may represent the values of individuals and groups in literary…",
+    "printable": true,
+    "type": "single",
+    "question": "Which response distinguishes a sound analysis of the ways that ideas and points of view may represent the values of individuals and groups in literary… from a superficial one in a short-story workshop?",
+    "audioPrompt": "Which response distinguishes a sound analysis of the ways that ideas and points of view may represent the values of individuals and groups in literary… from a superficial one in a short-story workshop?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "Using more of the feature will always improve a text.",
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+      "Audience and purpose do not matter once the feature has been identified."
+    ],
+    "correct": 2,
+    "explanation": "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 23
+  },
+  {
+    "id": "ac9e8le01-p-024",
+    "curriculumCode": "AC9E8LE01",
+    "bank": "practice",
+    "skill": "the ways that ideas and points of view may represent the values of individuals and groups in literary…",
+    "printable": true,
+    "type": "single",
+    "question": "Which statement about the ways that ideas and points of view may represent the values of individuals and groups in literary… in a media-literacy lesson can actually be supported?",
+    "audioPrompt": "Which statement about the ways that ideas and points of view may represent the values of individuals and groups in literary… in a media-literacy lesson can actually be supported?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "Audience and purpose do not matter once the feature has been identified.",
+      "The feature has one fixed effect in every text, regardless of audience or purpose.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience."
+    ],
+    "correct": 3,
+    "explanation": "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 24
+  },
+  {
+    "id": "ac9e8le01-p-025",
+    "curriculumCode": "AC9E8LE01",
+    "bank": "practice",
+    "skill": "the ways that ideas and points of view may represent the values of individuals and groups in literary…",
+    "printable": true,
+    "type": "single",
+    "question": "Which option avoids confusing the feature with its effect when discussing the ways that ideas and points of view may represent the values of individuals and groups in literary… in a local-history podcast?",
+    "audioPrompt": "Which option avoids confusing the feature with its effect when discussing the ways that ideas and points of view may represent the values of individuals and groups in literary… in a local-history podcast?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+      "The feature has one fixed effect in every text, regardless of audience or purpose."
+    ],
+    "correct": 0,
+    "explanation": "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 25
+  },
+  {
+    "id": "ac9e8le01-p-026",
+    "curriculumCode": "AC9E8LE01",
+    "bank": "practice",
+    "skill": "the ways that ideas and points of view may represent the values of individuals and groups in literary…",
+    "printable": true,
+    "type": "single",
+    "question": "Which reading of the ways that ideas and points of view may represent the values of individuals and groups in literary… in a school website update uses context rather than assumption?",
+    "audioPrompt": "Which reading of the ways that ideas and points of view may represent the values of individuals and groups in literary… in a school website update uses context rather than assumption?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+      "Naming the feature is enough; evidence from the text is unnecessary.",
+      "The most formal or complicated wording is automatically the best choice."
+    ],
+    "correct": 1,
+    "explanation": "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 26
+  },
+  {
+    "id": "ac9e8le01-p-027",
+    "curriculumCode": "AC9E8LE01",
+    "bank": "practice",
+    "skill": "the ways that ideas and points of view may represent the values of individuals and groups in literary…",
+    "printable": true,
+    "type": "single",
+    "question": "Which response gives the strongest judgement about the ways that ideas and points of view may represent the values of individuals and groups in literary… in a graphic-novel discussion?",
+    "audioPrompt": "Which response gives the strongest judgement about the ways that ideas and points of view may represent the values of individuals and groups in literary… in a graphic-novel discussion?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "The most formal or complicated wording is automatically the best choice.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+      "One isolated word proves the whole interpretation without needing context."
+    ],
+    "correct": 2,
+    "explanation": "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 27
+  },
+  {
+    "id": "ac9e8le01-p-028",
+    "curriculumCode": "AC9E8LE01",
+    "bank": "practice",
+    "skill": "the ways that ideas and points of view may represent the values of individuals and groups in literary…",
+    "printable": true,
+    "type": "single",
+    "question": "Which claim about the ways that ideas and points of view may represent the values of individuals and groups in literary… in a charity campaign is precise enough to defend?",
+    "audioPrompt": "Which claim about the ways that ideas and points of view may represent the values of individuals and groups in literary… in a charity campaign is precise enough to defend?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+      "One isolated word proves the whole interpretation without needing context.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text."
+    ],
+    "correct": 3,
+    "explanation": "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 28
+  },
+  {
+    "id": "ac9e8le01-p-029",
+    "curriculumCode": "AC9E8LE01",
+    "bank": "practice",
+    "skill": "the ways that ideas and points of view may represent the values of individuals and groups in literary…",
+    "printable": true,
+    "type": "single",
+    "question": "Which option avoids treating the ways that ideas and points of view may represent the values of individuals and groups in literary… as a rule that works identically everywhere?",
+    "audioPrompt": "Which option avoids treating the ways that ideas and points of view may represent the values of individuals and groups in literary… as a rule that works identically everywhere?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "The feature changes only surface style and cannot shape meaning.",
+      "Any interpretation is equally strong even when it lacks supporting evidence."
+    ],
+    "correct": 0,
+    "explanation": "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 29
+  },
+  {
+    "id": "ac9e8le01-p-030",
+    "curriculumCode": "AC9E8LE01",
+    "bank": "practice",
+    "skill": "the ways that ideas and points of view may represent the values of individuals and groups in literary…",
+    "printable": true,
+    "type": "single",
+    "question": "Which interpretation of the ways that ideas and points of view may represent the values of individuals and groups in literary… best fits the evidence in a sustainability report?",
+    "audioPrompt": "Which interpretation of the ways that ideas and points of view may represent the values of individuals and groups in literary… best fits the evidence in a sustainability report?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+      "Any interpretation is equally strong even when it lacks supporting evidence.",
+      "Using more of the feature will always improve a text."
+    ],
+    "correct": 1,
+    "explanation": "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 30
+  },
+  {
+    "id": "ac9e8le01-p-031",
+    "curriculumCode": "AC9E8LE01",
+    "bank": "practice",
+    "skill": "the ways that ideas and points of view may represent the values of individuals and groups in literary…",
+    "printable": true,
+    "type": "single",
+    "question": "You are revising an exhibition review. Which choice applies the ways that ideas and points of view may represent the values of individuals and groups in literary… most effectively?",
+    "audioPrompt": "You are revising an exhibition review. Which choice applies the ways that ideas and points of view may represent the values of individuals and groups in literary… most effectively?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "Using more of the feature will always improve a text."
+    ],
+    "correct": 2,
+    "explanation": "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 31
+  },
+  {
+    "id": "ac9e8le01-p-032",
+    "curriculumCode": "AC9E8LE01",
+    "bank": "practice",
+    "skill": "the ways that ideas and points of view may represent the values of individuals and groups in literary…",
+    "printable": true,
+    "type": "single",
+    "question": "Which change would make the strongest use of the ways that ideas and points of view may represent the values of individuals and groups in literary… in a class anthology?",
+    "audioPrompt": "Which change would make the strongest use of the ways that ideas and points of view may represent the values of individuals and groups in literary… in a class anthology?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "Audience and purpose do not matter once the feature has been identified.",
+      "The feature has one fixed effect in every text, regardless of audience or purpose.",
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience."
+    ],
+    "correct": 3,
+    "explanation": "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 32
+  },
+  {
+    "id": "ac9e8le01-p-033",
+    "curriculumCode": "AC9E8LE01",
+    "bank": "practice",
+    "skill": "the ways that ideas and points of view may represent the values of individuals and groups in literary…",
+    "printable": true,
+    "type": "single",
+    "question": "To improve a youth forum post, which option best applies the ways that ideas and points of view may represent the values of individuals and groups in literary…?",
+    "audioPrompt": "To improve a youth forum post, which option best applies the ways that ideas and points of view may represent the values of individuals and groups in literary…?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "The feature has one fixed effect in every text, regardless of audience or purpose.",
+      "Naming the feature is enough; evidence from the text is unnecessary."
+    ],
+    "correct": 0,
+    "explanation": "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 33
+  },
+  {
+    "id": "ac9e8le01-p-034",
+    "curriculumCode": "AC9E8LE01",
+    "bank": "practice",
+    "skill": "the ways that ideas and points of view may represent the values of individuals and groups in literary…",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice uses the ways that ideas and points of view may represent the values of individuals and groups in literary… deliberately in a tourism information page?",
+    "audioPrompt": "Which choice uses the ways that ideas and points of view may represent the values of individuals and groups in literary… deliberately in a tourism information page?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+      "Naming the feature is enough; evidence from the text is unnecessary."
+    ],
+    "correct": 1,
+    "explanation": "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 34
+  },
+  {
+    "id": "ac9e8le01-p-035",
+    "curriculumCode": "AC9E8LE01",
+    "bank": "practice",
+    "skill": "the ways that ideas and points of view may represent the values of individuals and groups in literary…",
+    "printable": true,
+    "type": "single",
+    "question": "Which revision to a spoken presentation shows the most purposeful use of the ways that ideas and points of view may represent the values of individuals and groups in literary…?",
+    "audioPrompt": "Which revision to a spoken presentation shows the most purposeful use of the ways that ideas and points of view may represent the values of individuals and groups in literary…?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "The most formal or complicated wording is automatically the best choice.",
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+      "One isolated word proves the whole interpretation without needing context."
+    ],
+    "correct": 2,
+    "explanation": "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 35
+  },
+  {
+    "id": "ac9e8le01-p-036",
+    "curriculumCode": "AC9E8LE01",
+    "bank": "practice",
+    "skill": "the ways that ideas and points of view may represent the values of individuals and groups in literary…",
+    "printable": true,
+    "type": "single",
+    "question": "Which option transfers an understanding of the ways that ideas and points of view may represent the values of individuals and groups in literary… to a feature article successfully?",
+    "audioPrompt": "Which option transfers an understanding of the ways that ideas and points of view may represent the values of individuals and groups in literary… to a feature article successfully?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "One isolated word proves the whole interpretation without needing context.",
+      "The feature changes only surface style and cannot shape meaning.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience."
+    ],
+    "correct": 3,
+    "explanation": "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 36
+  },
+  {
+    "id": "ac9e8le01-p-037",
+    "curriculumCode": "AC9E8LE01",
+    "bank": "practice",
+    "skill": "the ways that ideas and points of view may represent the values of individuals and groups in literary…",
+    "printable": true,
+    "type": "single",
+    "question": "For a film-review discussion, which choice uses the ways that ideas and points of view may represent the values of individuals and groups in literary… in a way that suits audience and purpose?",
+    "audioPrompt": "For a film-review discussion, which choice uses the ways that ideas and points of view may represent the values of individuals and groups in literary… in a way that suits audience and purpose?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+      "The feature changes only surface style and cannot shape meaning."
+    ],
+    "correct": 0,
+    "explanation": "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 37
+  },
+  {
+    "id": "ac9e8le01-p-038",
+    "curriculumCode": "AC9E8LE01",
+    "bank": "practice",
+    "skill": "the ways that ideas and points of view may represent the values of individuals and groups in literary…",
+    "printable": true,
+    "type": "single",
+    "question": "Which decision would strengthen a community survey summary by applying the ways that ideas and points of view may represent the values of individuals and groups in literary… rather than just naming it?",
+    "audioPrompt": "Which decision would strengthen a community survey summary by applying the ways that ideas and points of view may represent the values of individuals and groups in literary… rather than just naming it?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+      "Any interpretation is equally strong even when it lacks supporting evidence.",
+      "Using more of the feature will always improve a text."
+    ],
+    "correct": 1,
+    "explanation": "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 38
+  },
+  {
+    "id": "ac9e8le01-p-039",
+    "curriculumCode": "AC9E8LE01",
+    "bank": "practice",
+    "skill": "the ways that ideas and points of view may represent the values of individuals and groups in literary…",
+    "printable": true,
+    "type": "single",
+    "question": "Which option is the best practical use of the ways that ideas and points of view may represent the values of individuals and groups in literary… in a reading-journal entry?",
+    "audioPrompt": "Which option is the best practical use of the ways that ideas and points of view may represent the values of individuals and groups in literary… in a reading-journal entry?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+      "Using more of the feature will always improve a text.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+      "Audience and purpose do not matter once the feature has been identified."
+    ],
+    "correct": 2,
+    "explanation": "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 39
+  },
+  {
+    "id": "ac9e8le01-p-040",
+    "curriculumCode": "AC9E8LE01",
+    "bank": "practice",
+    "skill": "the ways that ideas and points of view may represent the values of individuals and groups in literary…",
+    "printable": true,
+    "type": "single",
+    "question": "A writer is improving a school production program. Which choice shows confident control of the ways that ideas and points of view may represent the values of individuals and groups in literary…?",
+    "audioPrompt": "A writer is improving a school production program. Which choice shows confident control of the ways that ideas and points of view may represent the values of individuals and groups in literary…?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience.",
+      "A writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience.",
+      "Audience and purpose do not matter once the feature has been identified.",
+      "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text."
+    ],
+    "correct": 3,
+    "explanation": "A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text.",
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 40
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

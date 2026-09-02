@@ -5,39 +5,41 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_recognising_how_texts_such_as_critical_responses_to_texts_expositions_text_interpretations_and_discussions_are_typically_structured_to_achieve_their_purpose_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use word choice to shape recognising how texts such as critical responses to texts expositions text interpretations and discussions are typically structured to achieve their purpose and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use word choice to shape recognising how texts such as critical responses to texts expositions text interpretations and discussions are typically structured to achieve their purpose and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "In a school podcast script, which option is the clearest example of how purpose shapes text structure, language features and hybrid genres?",
+    "audio_prompt": "In a school podcast script, which option is the clearest example of how purpose shapes text structure, language features and hybrid genres?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their purpose",
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their purpose",
-      "hint": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their purpose and influence how an audience understands the text."
+      "summary": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8la03-p-002",
@@ -45,39 +47,41 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_discussing_how_the_placement_of_images_and_written_text_in_a_linear_or_non_linear_way_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non linear way and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non linear way and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "Which choice in a community-news article most clearly demonstrates how purpose shapes text structure, language features and hybrid genres?",
+    "audio_prompt": "Which choice in a community-news article most clearly demonstrates how purpose shapes text structure, language features and hybrid genres?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
         "is_correct": false
       },
       {
-        "text": "discussing how the placement of images and written text in a linear or non-linear way, such as online texts, is used differently in a variety of texts for a purpose",
+        "text": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text.",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Naming the feature is enough; evidence from the text is unnecessary.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The most formal or complicated wording is automatically the best choice.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "discussing how the placement of images and written text in a linear or non-linear way, such as online texts, is used differently in a variety of texts for a purpose",
-      "hint": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text."
+      "summary": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8la03-p-003",
@@ -85,39 +89,41 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_relationship_to_shape_explaining_the_structure_and_language_features_of_texts_such_as_narratives_literary_recounts_memoirs_drama_scripts_types_of_poems_formal_speeches_comparisons_and_creative_responses_discussions_and_debates_and_explaining_how_these_structures_and_language_features_support_their_purpose_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives literary recounts memoirs drama scripts types of poems formal speeches comparisons and creative responses discussions and debates and explaining how these structures and language features support their purpose and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives literary recounts memoirs drama scripts types of poems formal speeches comparisons and creative responses discussions and debates and explaining how these structures and language features support their purpose and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "While reading a library book-club discussion, which option would you identify as how purpose shapes text structure, language features and hybrid genres?",
+    "audio_prompt": "While reading a library book-club discussion, which option would you identify as how purpose shapes text structure, language features and hybrid genres?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "The most formal or complicated wording is automatically the best choice.",
         "is_correct": false
       },
       {
-        "text": "explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches, comparisons and creative responses, discussions and debates, and explaining how these structures and language features support their purpose",
+        "text": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "One isolated word proves the whole interpretation without needing context.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches, comparisons and creative responses, discussions and debates, and explaining how these structures and language features support their purpose",
-      "hint": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches, comparisons and creative responses, discussions and debates, and explaining how these structures and language features support their purpose and influence how an audience understands the text."
+      "summary": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8la03-p-004",
@@ -125,39 +131,41 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_recognising_how_texts_such_as_critical_responses_to_texts_expositions_text_interpretations_and_discussions_are_typically_structured_to_achieve_their_purpose_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use word choice to shape recognising how texts such as critical responses to texts expositions text interpretations and discussions are typically structured to achieve their purpose and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use word choice to shape recognising how texts such as critical responses to texts expositions text interpretations and discussions are typically structured to achieve their purpose and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "Which feature choice best matches how purpose shapes text structure, language features and hybrid genres in a student council speech?",
+    "audio_prompt": "Which feature choice best matches how purpose shapes text structure, language features and hybrid genres in a student council speech?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "One isolated word proves the whole interpretation without needing context.",
         "is_correct": false
       },
       {
-        "text": "recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their purpose",
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their purpose",
-      "hint": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their purpose and influence how an audience understands the text."
+      "summary": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8la03-p-005",
@@ -165,39 +173,41 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_discussing_how_the_placement_of_images_and_written_text_in_a_linear_or_non_linear_way_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non linear way and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non linear way and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "For a science-expo explanation, which option gives the strongest evidence of how purpose shapes text structure, language features and hybrid genres?",
+    "audio_prompt": "For a science-expo explanation, which option gives the strongest evidence of how purpose shapes text structure, language features and hybrid genres?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "discussing how the placement of images and written text in a linear or non-linear way, such as online texts, is used differently in a variety of texts for a purpose",
+        "text": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "The feature changes only surface style and cannot shape meaning.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Any interpretation is equally strong even when it lacks supporting evidence.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "discussing how the placement of images and written text in a linear or non-linear way, such as online texts, is used differently in a variety of texts for a purpose",
-      "hint": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text."
+      "summary": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8la03-p-006",
@@ -205,39 +215,41 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_relationship_to_shape_explaining_the_structure_and_language_features_of_texts_such_as_narratives_literary_recounts_memoirs_drama_scripts_types_of_poems_formal_speeches_comparisons_and_creative_responses_discussions_and_debates_and_explaining_how_these_structures_and_language_features_support_their_purpose_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives literary recounts memoirs drama scripts types of poems formal speeches comparisons and creative responses discussions and debates and explaining how these structures and language features support their purpose and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives literary recounts memoirs drama scripts types of poems formal speeches comparisons and creative responses discussions and debates and explaining how these structures and language features support their purpose and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "Which choice best represents how purpose shapes text structure, language features and hybrid genres in a museum caption?",
+    "audio_prompt": "Which choice best represents how purpose shapes text structure, language features and hybrid genres in a museum caption?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
         "is_correct": false
       },
       {
-        "text": "explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches, comparisons and creative responses, discussions and debates, and explaining how these structures and language features support their purpose",
+        "text": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Any interpretation is equally strong even when it lacks supporting evidence.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Using more of the feature will always improve a text.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches, comparisons and creative responses, discussions and debates, and explaining how these structures and language features support their purpose",
-      "hint": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches, comparisons and creative responses, discussions and debates, and explaining how these structures and language features support their purpose and influence how an audience understands the text."
+      "summary": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8la03-p-007",
@@ -245,38 +257,41 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_recognising_how_texts_such_as_critical_responses_to_texts_expositions_text_interpretations_and_discussions_are_typically_structured_to_achieve_their_purpose_and_influence_how_an_audience_understands_the_text",
-    "question": "What should you check when using a writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their purpose and influence how an audience understands the text?",
-    "audio_prompt": "What should you check when using a writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their purpose and influence how an audience understands the text?",
+    "stage": "recognise",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "A reader is looking for how purpose shapes text structure, language features and hybrid genres in a local-sport profile. Which option should they choose?",
+    "audio_prompt": "A reader is looking for how purpose shapes text structure, language features and hybrid genres in a local-sport profile. Which option should they choose?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
         "is_correct": false
       },
       {
-        "text": "recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their purpose",
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Using more of the feature will always improve a text.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their purpose",
-      "hint": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their purpose and influence how an audience understands the text."
+      "summary": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8la03-p-008",
@@ -284,38 +299,1385 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_discussing_how_the_placement_of_images_and_written_text_in_a_linear_or_non_linear_way_and_influence_how_an_audience_understands_the_text",
-    "question": "What should you check when using a writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text?",
-    "audio_prompt": "What should you check when using a writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text?",
+    "stage": "recognise",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "Which example from a school newsletter most accurately shows how purpose shapes text structure, language features and hybrid genres?",
+    "audio_prompt": "Which example from a school newsletter most accurately shows how purpose shapes text structure, language features and hybrid genres?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Audience and purpose do not matter once the feature has been identified.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
         "is_correct": false
       },
       {
-        "text": "discussing how the placement of images and written text in a linear or non-linear way, such as online texts, is used differently in a variety of texts for a purpose",
+        "text": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "discussing how the placement of images and written text in a linear or non-linear way, such as online texts, is used differently in a variety of texts for a purpose",
-      "hint": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text."
+      "summary": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la03-p-009",
+    "curriculum_code": "AC9E8LA03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "Which option belongs under the heading “how purpose shapes text structure, language features and hybrid genres” for a youth radio segment?",
+    "audio_prompt": "Which option belongs under the heading “how purpose shapes text structure, language features and hybrid genres” for a youth radio segment?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+        "is_correct": true
+      },
+      {
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; evidence from the text is unnecessary.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la03-p-010",
+    "curriculum_code": "AC9E8LA03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "Which choice is the best match for how purpose shapes text structure, language features and hybrid genres in a bushwalking safety page?",
+    "audio_prompt": "Which choice is the best match for how purpose shapes text structure, language features and hybrid genres in a bushwalking safety page?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
+        "is_correct": true
+      },
+      {
+        "text": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; evidence from the text is unnecessary.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la03-p-011",
+    "curriculum_code": "AC9E8LA03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "In a review of an Australian novel, which explanation best shows how how purpose shapes text structure, language features and hybrid genres shapes meaning?",
+    "audio_prompt": "In a review of an Australian novel, which explanation best shows how how purpose shapes text structure, language features and hybrid genres shapes meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
+        "is_correct": false
+      },
+      {
+        "text": "The most formal or complicated wording is automatically the best choice.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated word proves the whole interpretation without needing context.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text."
     },
     "difficulty": 2,
-    "sequence_priority": 2
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la03-p-012",
+    "curriculum_code": "AC9E8LA03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "Which option best explains the effect of how purpose shapes text structure, language features and hybrid genres in a documentary storyboard?",
+    "audio_prompt": "Which option best explains the effect of how purpose shapes text structure, language features and hybrid genres in a documentary storyboard?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated word proves the whole interpretation without needing context.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature changes only surface style and cannot shape meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la03-p-013",
+    "curriculum_code": "AC9E8LA03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "Which response connects how purpose shapes text structure, language features and hybrid genres to audience or purpose in a class debate?",
+    "audio_prompt": "Which response connects how purpose shapes text structure, language features and hybrid genres to audience or purpose in a class debate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
+        "is_correct": true
+      },
+      {
+        "text": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature changes only surface style and cannot shape meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la03-p-014",
+    "curriculum_code": "AC9E8LA03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "A reader is explaining how purpose shapes text structure, language features and hybrid genres in a community-festival webpage. Which comment is most precise?",
+    "audio_prompt": "A reader is explaining how purpose shapes text structure, language features and hybrid genres in a community-festival webpage. Which comment is most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text.",
+        "is_correct": true
+      },
+      {
+        "text": "Any interpretation is equally strong even when it lacks supporting evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Using more of the feature will always improve a text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la03-p-015",
+    "curriculum_code": "AC9E8LA03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "Which explanation goes beyond naming how purpose shapes text structure, language features and hybrid genres and shows what it does in a wildlife-centre brochure?",
+    "audio_prompt": "Which explanation goes beyond naming how purpose shapes text structure, language features and hybrid genres and shows what it does in a wildlife-centre brochure?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
+        "is_correct": false
+      },
+      {
+        "text": "Using more of the feature will always improve a text.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and purpose do not matter once the feature has been identified.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la03-p-016",
+    "curriculum_code": "AC9E8LA03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "How does how purpose shapes text structure, language features and hybrid genres matter in a historical display? Choose the strongest explanation.",
+    "audio_prompt": "How does how purpose shapes text structure, language features and hybrid genres matter in a historical display? Choose the strongest explanation.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and purpose do not matter once the feature has been identified.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la03-p-017",
+    "curriculum_code": "AC9E8LA03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "Which statement best accounts for the effect of how purpose shapes text structure, language features and hybrid genres in a persuasive letter to council?",
+    "audio_prompt": "Which statement best accounts for the effect of how purpose shapes text structure, language features and hybrid genres in a persuasive letter to council?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text.",
+        "is_correct": true
+      },
+      {
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; evidence from the text is unnecessary.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la03-p-018",
+    "curriculum_code": "AC9E8LA03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "Which explanation of how purpose shapes text structure, language features and hybrid genres is best supported by a school assembly address?",
+    "audio_prompt": "Which explanation of how purpose shapes text structure, language features and hybrid genres is best supported by a school assembly address?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+        "is_correct": true
+      },
+      {
+        "text": "Naming the feature is enough; evidence from the text is unnecessary.",
+        "is_correct": false
+      },
+      {
+        "text": "The most formal or complicated wording is automatically the best choice.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la03-p-019",
+    "curriculum_code": "AC9E8LA03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "Which response most clearly links how purpose shapes text structure, language features and hybrid genres with meaning in a digital magazine feature?",
+    "audio_prompt": "Which response most clearly links how purpose shapes text structure, language features and hybrid genres with meaning in a digital magazine feature?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
+        "is_correct": true
+      },
+      {
+        "text": "The most formal or complicated wording is automatically the best choice.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la03-p-020",
+    "curriculum_code": "AC9E8LA03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "For a public-transport campaign, which statement gives the most useful explanation of how purpose shapes text structure, language features and hybrid genres?",
+    "audio_prompt": "For a public-transport campaign, which statement gives the most useful explanation of how purpose shapes text structure, language features and hybrid genres?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated word proves the whole interpretation without needing context.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature changes only surface style and cannot shape meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la03-p-021",
+    "curriculum_code": "AC9E8LA03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "Which interpretation of how purpose shapes text structure, language features and hybrid genres in a theatre-program note is the most careful and accurate?",
+    "audio_prompt": "Which interpretation of how purpose shapes text structure, language features and hybrid genres in a theatre-program note is the most careful and accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+        "is_correct": true
+      },
+      {
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature changes only surface style and cannot shape meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Any interpretation is equally strong even when it lacks supporting evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la03-p-022",
+    "curriculum_code": "AC9E8LA03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "Several claims are made about how purpose shapes text structure, language features and hybrid genres in a coastal-care poster. Which one avoids an overgeneralisation?",
+    "audio_prompt": "Several claims are made about how purpose shapes text structure, language features and hybrid genres in a coastal-care poster. Which one avoids an overgeneralisation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
+        "is_correct": true
+      },
+      {
+        "text": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+        "is_correct": false
+      },
+      {
+        "text": "Any interpretation is equally strong even when it lacks supporting evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la03-p-023",
+    "curriculum_code": "AC9E8LA03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "Which response distinguishes a sound analysis of how purpose shapes text structure, language features and hybrid genres from a superficial one in a short-story workshop?",
+    "audio_prompt": "Which response distinguishes a sound analysis of how purpose shapes text structure, language features and hybrid genres from a superficial one in a short-story workshop?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
+        "is_correct": false
+      },
+      {
+        "text": "Using more of the feature will always improve a text.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and purpose do not matter once the feature has been identified.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la03-p-024",
+    "curriculum_code": "AC9E8LA03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "Which statement about how purpose shapes text structure, language features and hybrid genres in a media-literacy lesson can actually be supported?",
+    "audio_prompt": "Which statement about how purpose shapes text structure, language features and hybrid genres in a media-literacy lesson can actually be supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and purpose do not matter once the feature has been identified.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la03-p-025",
+    "curriculum_code": "AC9E8LA03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "Which option avoids confusing the feature with its effect when discussing how purpose shapes text structure, language features and hybrid genres in a local-history podcast?",
+    "audio_prompt": "Which option avoids confusing the feature with its effect when discussing how purpose shapes text structure, language features and hybrid genres in a local-history podcast?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
+        "is_correct": true
+      },
+      {
+        "text": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la03-p-026",
+    "curriculum_code": "AC9E8LA03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "Which reading of how purpose shapes text structure, language features and hybrid genres in a school website update uses context rather than assumption?",
+    "audio_prompt": "Which reading of how purpose shapes text structure, language features and hybrid genres in a school website update uses context rather than assumption?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text.",
+        "is_correct": true
+      },
+      {
+        "text": "Naming the feature is enough; evidence from the text is unnecessary.",
+        "is_correct": false
+      },
+      {
+        "text": "The most formal or complicated wording is automatically the best choice.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la03-p-027",
+    "curriculum_code": "AC9E8LA03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "Which response gives the strongest judgement about how purpose shapes text structure, language features and hybrid genres in a graphic-novel discussion?",
+    "audio_prompt": "Which response gives the strongest judgement about how purpose shapes text structure, language features and hybrid genres in a graphic-novel discussion?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
+        "is_correct": false
+      },
+      {
+        "text": "The most formal or complicated wording is automatically the best choice.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated word proves the whole interpretation without needing context.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la03-p-028",
+    "curriculum_code": "AC9E8LA03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "Which claim about how purpose shapes text structure, language features and hybrid genres in a charity campaign is precise enough to defend?",
+    "audio_prompt": "Which claim about how purpose shapes text structure, language features and hybrid genres in a charity campaign is precise enough to defend?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated word proves the whole interpretation without needing context.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la03-p-029",
+    "curriculum_code": "AC9E8LA03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "Which option avoids treating how purpose shapes text structure, language features and hybrid genres as a rule that works identically everywhere?",
+    "audio_prompt": "Which option avoids treating how purpose shapes text structure, language features and hybrid genres as a rule that works identically everywhere?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text.",
+        "is_correct": true
+      },
+      {
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature changes only surface style and cannot shape meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Any interpretation is equally strong even when it lacks supporting evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la03-p-030",
+    "curriculum_code": "AC9E8LA03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "Which interpretation of how purpose shapes text structure, language features and hybrid genres best fits the evidence in a sustainability report?",
+    "audio_prompt": "Which interpretation of how purpose shapes text structure, language features and hybrid genres best fits the evidence in a sustainability report?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+        "is_correct": true
+      },
+      {
+        "text": "Any interpretation is equally strong even when it lacks supporting evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Using more of the feature will always improve a text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la03-p-031",
+    "curriculum_code": "AC9E8LA03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "You are revising an exhibition review. Which choice applies how purpose shapes text structure, language features and hybrid genres most effectively?",
+    "audio_prompt": "You are revising an exhibition review. Which choice applies how purpose shapes text structure, language features and hybrid genres most effectively?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
+        "is_correct": true
+      },
+      {
+        "text": "Using more of the feature will always improve a text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la03-p-032",
+    "curriculum_code": "AC9E8LA03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "Which change would make the strongest use of how purpose shapes text structure, language features and hybrid genres in a class anthology?",
+    "audio_prompt": "Which change would make the strongest use of how purpose shapes text structure, language features and hybrid genres in a class anthology?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and purpose do not matter once the feature has been identified.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la03-p-033",
+    "curriculum_code": "AC9E8LA03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "To improve a youth forum post, which option best applies how purpose shapes text structure, language features and hybrid genres?",
+    "audio_prompt": "To improve a youth forum post, which option best applies how purpose shapes text structure, language features and hybrid genres?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+        "is_correct": true
+      },
+      {
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; evidence from the text is unnecessary.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la03-p-034",
+    "curriculum_code": "AC9E8LA03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "Which choice uses how purpose shapes text structure, language features and hybrid genres deliberately in a tourism information page?",
+    "audio_prompt": "Which choice uses how purpose shapes text structure, language features and hybrid genres deliberately in a tourism information page?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
+        "is_correct": true
+      },
+      {
+        "text": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; evidence from the text is unnecessary.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la03-p-035",
+    "curriculum_code": "AC9E8LA03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "Which revision to a spoken presentation shows the most purposeful use of how purpose shapes text structure, language features and hybrid genres?",
+    "audio_prompt": "Which revision to a spoken presentation shows the most purposeful use of how purpose shapes text structure, language features and hybrid genres?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
+        "is_correct": false
+      },
+      {
+        "text": "The most formal or complicated wording is automatically the best choice.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated word proves the whole interpretation without needing context.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la03-p-036",
+    "curriculum_code": "AC9E8LA03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "Which option transfers an understanding of how purpose shapes text structure, language features and hybrid genres to a feature article successfully?",
+    "audio_prompt": "Which option transfers an understanding of how purpose shapes text structure, language features and hybrid genres to a feature article successfully?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated word proves the whole interpretation without needing context.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature changes only surface style and cannot shape meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la03-p-037",
+    "curriculum_code": "AC9E8LA03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "For a film-review discussion, which choice uses how purpose shapes text structure, language features and hybrid genres in a way that suits audience and purpose?",
+    "audio_prompt": "For a film-review discussion, which choice uses how purpose shapes text structure, language features and hybrid genres in a way that suits audience and purpose?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
+        "is_correct": true
+      },
+      {
+        "text": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature changes only surface style and cannot shape meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la03-p-038",
+    "curriculum_code": "AC9E8LA03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "Which decision would strengthen a community survey summary by applying how purpose shapes text structure, language features and hybrid genres rather than just naming it?",
+    "audio_prompt": "Which decision would strengthen a community survey summary by applying how purpose shapes text structure, language features and hybrid genres rather than just naming it?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text.",
+        "is_correct": true
+      },
+      {
+        "text": "Any interpretation is equally strong even when it lacks supporting evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Using more of the feature will always improve a text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la03-p-039",
+    "curriculum_code": "AC9E8LA03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "Which option is the best practical use of how purpose shapes text structure, language features and hybrid genres in a reading-journal entry?",
+    "audio_prompt": "Which option is the best practical use of how purpose shapes text structure, language features and hybrid genres in a reading-journal entry?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
+        "is_correct": false
+      },
+      {
+        "text": "Using more of the feature will always improve a text.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and purpose do not matter once the feature has been identified.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la03-p-040",
+    "curriculum_code": "AC9E8LA03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "A writer is improving a school production program. Which choice shows confident control of how purpose shapes text structure, language features and hybrid genres?",
+    "audio_prompt": "A writer is improving a school production program. Which choice shows confident control of how purpose shapes text structure, language features and hybrid genres?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and purpose do not matter once the feature has been identified.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8la03-t-001",
@@ -323,36 +1685,40 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_relationship_to_shape_explaining_the_structure_and_language_features_of_texts_such_as_narratives_literary_recounts_memoirs_drama_scripts_types_of_poems_formal_speeches_comparisons_and_creative_responses_discussions_and_debates_and_explaining_how_these_structures_and_language_features_support_their_purpose_and_influence_how_an_audience_understands_the_text",
-    "question": "Which response correctly uses a writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches, comparisons and creative responses, discussions and debates, and explaining how these structures and language features support their purpose and influence how an audience understands the text?",
-    "audio_prompt": "Which response correctly uses a writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches, comparisons and creative responses, discussions and debates, and explaining how these structures and language features support their purpose and influence how an audience understands the text?",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "In a regional newspaper feature, which interpretation of how purpose shapes text structure, language features and hybrid genres is best supported?",
+    "audio_prompt": "In a regional newspaper feature, which interpretation of how purpose shapes text structure, language features and hybrid genres is best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches, comparisons and creative responses, discussions and debates, and explaining how these structures and language features support their purpose",
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches, comparisons and creative responses, discussions and debates, and explaining how these structures and language features support their purpose",
-      "hint": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches, comparisons and creative responses, discussions and debates, and explaining how these structures and language features support their purpose and influence how an audience understands the text."
-    }
+      "summary": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8la03-t-002",
@@ -360,36 +1726,40 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_recognising_how_texts_such_as_critical_responses_to_texts_expositions_text_interpretations_and_discussions_are_typically_structured_to_achieve_their_purpose_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use word choice to shape recognising how texts such as critical responses to texts expositions text interpretations and discussions are typically structured to achieve their purpose and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use word choice to shape recognising how texts such as critical responses to texts expositions text interpretations and discussions are typically structured to achieve their purpose and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "Which choice applies an accurate understanding of how purpose shapes text structure, language features and hybrid genres to an independent book review?",
+    "audio_prompt": "Which choice applies an accurate understanding of how purpose shapes text structure, language features and hybrid genres to an independent book review?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text.",
         "is_correct": false
       },
       {
-        "text": "recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their purpose",
+        "text": "Naming the feature is enough; evidence from the text is unnecessary.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The most formal or complicated wording is automatically the best choice.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their purpose",
-      "hint": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their purpose and influence how an audience understands the text."
-    }
+      "summary": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8la03-t-003",
@@ -397,36 +1767,40 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_discussing_how_the_placement_of_images_and_written_text_in_a_linear_or_non_linear_way_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non linear way and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non linear way and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "Which explanation of how purpose shapes text structure, language features and hybrid genres best fits a public-library exhibition?",
+    "audio_prompt": "Which explanation of how purpose shapes text structure, language features and hybrid genres best fits a public-library exhibition?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "The most formal or complicated wording is automatically the best choice.",
         "is_correct": false
       },
       {
-        "text": "discussing how the placement of images and written text in a linear or non-linear way, such as online texts, is used differently in a variety of texts for a purpose",
+        "text": "One isolated word proves the whole interpretation without needing context.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
         "is_correct": true
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "discussing how the placement of images and written text in a linear or non-linear way, such as online texts, is used differently in a variety of texts for a purpose",
-      "hint": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text."
-    }
+      "summary": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8la03-t-004",
@@ -434,36 +1808,40 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_relationship_to_shape_explaining_the_structure_and_language_features_of_texts_such_as_narratives_literary_recounts_memoirs_drama_scripts_types_of_poems_formal_speeches_comparisons_and_creative_responses_discussions_and_debates_and_explaining_how_these_structures_and_language_features_support_their_purpose_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives literary recounts memoirs drama scripts types of poems formal speeches comparisons and creative responses discussions and debates and explaining how these structures and language features support their purpose and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives literary recounts memoirs drama scripts types of poems formal speeches comparisons and creative responses discussions and debates and explaining how these structures and language features support their purpose and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "Which option gives the strongest analysis of how purpose shapes text structure, language features and hybrid genres in a council youth consultation?",
+    "audio_prompt": "Which option gives the strongest analysis of how purpose shapes text structure, language features and hybrid genres in a council youth consultation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches, comparisons and creative responses, discussions and debates, and explaining how these structures and language features support their purpose",
+        "text": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
         "is_correct": true
+      },
+      {
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated word proves the whole interpretation without needing context.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches, comparisons and creative responses, discussions and debates, and explaining how these structures and language features support their purpose",
-      "hint": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches, comparisons and creative responses, discussions and debates, and explaining how these structures and language features support their purpose and influence how an audience understands the text."
-    }
+      "summary": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8la03-t-005",
@@ -471,36 +1849,40 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_recognising_how_texts_such_as_critical_responses_to_texts_expositions_text_interpretations_and_discussions_are_typically_structured_to_achieve_their_purpose_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their purpose and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their purpose and influence how an audience understands the text?",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "Which choice would use how purpose shapes text structure, language features and hybrid genres most effectively in an environmental campaign video?",
+    "audio_prompt": "Which choice would use how purpose shapes text structure, language features and hybrid genres most effectively in an environmental campaign video?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their purpose",
+        "text": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "The feature changes only surface style and cannot shape meaning.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Any interpretation is equally strong even when it lacks supporting evidence.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their purpose",
-      "hint": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their purpose and influence how an audience understands the text."
-    }
+      "summary": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8la03-t-006",
@@ -508,36 +1890,40 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_discussing_how_the_placement_of_images_and_written_text_in_a_linear_or_non_linear_way_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text?",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "Which statement about how purpose shapes text structure, language features and hybrid genres can be defended in a cultural-festival program?",
+    "audio_prompt": "Which statement about how purpose shapes text structure, language features and hybrid genres can be defended in a cultural-festival program?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
         "is_correct": false
       },
       {
-        "text": "discussing how the placement of images and written text in a linear or non-linear way, such as online texts, is used differently in a variety of texts for a purpose",
+        "text": "Any interpretation is equally strong even when it lacks supporting evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Using more of the feature will always improve a text.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "discussing how the placement of images and written text in a linear or non-linear way, such as online texts, is used differently in a variety of texts for a purpose",
-      "hint": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text."
-    }
+      "summary": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8la03-t-007",
@@ -545,36 +1931,40 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_relationship_to_shape_explaining_the_structure_and_language_features_of_texts_such_as_narratives_literary_recounts_memoirs_drama_scripts_types_of_poems_formal_speeches_comparisons_and_creative_responses_discussions_and_debates_and_explaining_how_these_structures_and_language_features_support_their_purpose_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches, comparisons and creative responses, discussions and debates, and explaining how these structures and language features support their purpose and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches, comparisons and creative responses, discussions and debates, and explaining how these structures and language features support their purpose and influence how an audience understands the text?",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "Which response shows the most precise understanding of how purpose shapes text structure, language features and hybrid genres in a national-park information panel?",
+    "audio_prompt": "Which response shows the most precise understanding of how purpose shapes text structure, language features and hybrid genres in a national-park information panel?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text.",
         "is_correct": false
       },
       {
-        "text": "explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches, comparisons and creative responses, discussions and debates, and explaining how these structures and language features support their purpose",
+        "text": "Using more of the feature will always improve a text.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
         "is_correct": true
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches, comparisons and creative responses, discussions and debates, and explaining how these structures and language features support their purpose",
-      "hint": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches, comparisons and creative responses, discussions and debates, and explaining how these structures and language features support their purpose and influence how an audience understands the text."
-    }
+      "summary": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8la03-t-008",
@@ -582,35 +1972,367 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_recognising_how_texts_such_as_critical_responses_to_texts_expositions_text_interpretations_and_discussions_are_typically_structured_to_achieve_their_purpose_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use word choice to shape recognising how texts such as critical responses to texts expositions text interpretations and discussions are typically structured to achieve their purpose and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use word choice to shape recognising how texts such as critical responses to texts expositions text interpretations and discussions are typically structured to achieve their purpose and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "Which revision would best control how purpose shapes text structure, language features and hybrid genres in a radio interview transcript?",
+    "audio_prompt": "Which revision would best control how purpose shapes text structure, language features and hybrid genres in a radio interview transcript?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+        "is_correct": true
+      },
+      {
+        "text": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Audience and purpose do not matter once the feature has been identified.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la03-t-009",
+    "curriculum_code": "AC9E8LA03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "In a digital news explainer, which interpretation of how purpose shapes text structure, language features and hybrid genres is best supported?",
+    "audio_prompt": "In a digital news explainer, which interpretation of how purpose shapes text structure, language features and hybrid genres is best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
         "is_correct": false
       },
       {
-        "text": "recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their purpose",
+        "text": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+        "is_correct": true
+      },
+      {
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; evidence from the text is unnecessary.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la03-t-010",
+    "curriculum_code": "AC9E8LA03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "Which choice applies an accurate understanding of how purpose shapes text structure, language features and hybrid genres to a theatre review?",
+    "audio_prompt": "Which choice applies an accurate understanding of how purpose shapes text structure, language features and hybrid genres to a theatre review?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+        "is_correct": true
+      },
+      {
+        "text": "Naming the feature is enough; evidence from the text is unnecessary.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la03-t-011",
+    "curriculum_code": "AC9E8LA03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "Which explanation of how purpose shapes text structure, language features and hybrid genres best fits a community-history website?",
+    "audio_prompt": "Which explanation of how purpose shapes text structure, language features and hybrid genres best fits a community-history website?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text.",
+        "is_correct": false
+      },
+      {
+        "text": "The most formal or complicated wording is automatically the best choice.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated word proves the whole interpretation without needing context.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their purpose",
-      "hint": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their purpose and influence how an audience understands the text."
-    }
+      "summary": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la03-t-012",
+    "curriculum_code": "AC9E8LA03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "Which option gives the strongest analysis of how purpose shapes text structure, language features and hybrid genres in a sports documentary?",
+    "audio_prompt": "Which option gives the strongest analysis of how purpose shapes text structure, language features and hybrid genres in a sports documentary?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+        "is_correct": true
+      },
+      {
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated word proves the whole interpretation without needing context.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature changes only surface style and cannot shape meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la03-t-013",
+    "curriculum_code": "AC9E8LA03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "Which choice would use how purpose shapes text structure, language features and hybrid genres most effectively in a literary magazine extract?",
+    "audio_prompt": "Which choice would use how purpose shapes text structure, language features and hybrid genres most effectively in a literary magazine extract?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+        "is_correct": true
+      },
+      {
+        "text": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature changes only surface style and cannot shape meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la03-t-014",
+    "curriculum_code": "AC9E8LA03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "Which statement about how purpose shapes text structure, language features and hybrid genres can be defended in a public-service announcement?",
+    "audio_prompt": "Which statement about how purpose shapes text structure, language features and hybrid genres can be defended in a public-service announcement?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text.",
+        "is_correct": false
+      },
+      {
+        "text": "Any interpretation is equally strong even when it lacks supporting evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+        "is_correct": true
+      },
+      {
+        "text": "Using more of the feature will always improve a text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la03-t-015",
+    "curriculum_code": "AC9E8LA03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "Which response shows the most precise understanding of how purpose shapes text structure, language features and hybrid genres in an online museum exhibit?",
+    "audio_prompt": "Which response shows the most precise understanding of how purpose shapes text structure, language features and hybrid genres in an online museum exhibit?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
+        "is_correct": false
+      },
+      {
+        "text": "Using more of the feature will always improve a text.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and purpose do not matter once the feature has been identified.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la03-t-016",
+    "curriculum_code": "AC9E8LA03",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "how purpose shapes text structure, language features and hybrid genres",
+    "question": "Which revision would best control how purpose shapes text structure, language features and hybrid genres in a youth conference presentation?",
+    "audio_prompt": "Which revision would best control how purpose shapes text structure, language features and hybrid genres in a youth conference presentation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,.",
+        "is_correct": true
+      },
+      {
+        "text": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and purpose do not matter once the feature has been identified.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,. This answer works because it connects the language or text choice with the meaning it creates in context.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches,."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v5"
   }
 ]
