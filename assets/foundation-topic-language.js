@@ -6,8 +6,6 @@
 
   const path = window.location.pathname;
 
-  // Site-wide additive UX layer. CSS is tightly scoped to curriculum pages and
-  // the JS only enhances year landing/curriculum hubs; quiz engines are untouched.
   if (!document.querySelector('link[href*="/assets/multi-audience-ux.css"]')) {
     const uxStyle = document.createElement("link");
     uxStyle.rel = "stylesheet";
@@ -21,9 +19,6 @@
     document.head.appendChild(uxScript);
   }
 
-  // This bootstrap is loaded site-wide by pwa-register.js. Use it to ensure
-  // every standard Practice/Test page gets learning analytics, including older
-  // generated pages that do not explicitly load production-question-ui.js.
   const standardQuiz = /^\/quiz\/(?:grade-k|year-\d+)\/(?:math|science|english)\/[^/]+\/(?:practice|test)\/?$/i.test(path);
   if (standardQuiz && !document.querySelector('script[src*="/quiz/assets/production-question-ui.js"]')) {
     const analyticsBase = "/quiz/assets/learning-analytics.js";
@@ -39,7 +34,6 @@
   const isFoundationOrYear1Topic = /^\/(foundation|year1)\//i.test(path);
   const year1EnglishPracticeTest = /^\/quiz\/year-1\/english\/ac9e1[a-z0-9]+\/(practice|test)\/?$/i.test(path);
   const year1EnglishWorksheet = /^\/quiz\/year-1\/english\/ac9e1[a-z0-9]+\/worksheet\/?$/i.test(path);
-  const year1EnglishTopic = /^\/year1\/english\/ac9e1/i.test(path);
 
   if (!isFoundationOrYear1Topic && !year1EnglishPracticeTest && !year1EnglishWorksheet) return;
 
@@ -77,9 +71,8 @@
     withYear1EnglishStudentFacing(() => loadScript("/assets/year1-english-worksheet-page.js?v=3", "skillr-year1-english-worksheet"));
   }
 
-  if (year1EnglishTopic) {
-    withYear1EnglishStudentFacing(() => loadScript("/assets/year1-english-render.js?v=3", "skillr-year1-english-render"));
-  }
+  // Year 1 English Topic Guides are fixed static curriculum pages. Do not load
+  // the legacy runtime renderer here; the authored static rebuild owns them.
 
   function cleanHeadings() {
     document.querySelectorAll("h2,h3").forEach((heading) => {
