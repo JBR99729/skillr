@@ -5,7 +5,7 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY05",
     "bank": "practice",
-    "skill": "ac9e1ly05_01_answer",
+    "skill": "ac9e1ly05_01_recognise",
     "question": "Which response would correctly find literal meaning?",
     "audio_prompt": "Which response would correctly find literal meaning?",
     "visual": {
@@ -32,9 +32,7 @@
       "summary": "Beside the sink This matches the task.",
       "hint": "Use a clue from the text."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "stage": "recognise"
   },
   {
     "id": "AC9E1LY05-P-002",
@@ -42,44 +40,7 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY05",
     "bank": "practice",
-    "skill": "ac9e1ly05_01_strategy",
-    "question": "Which tip would help you find literal meaning?",
-    "audio_prompt": "Which tip would help you find literal meaning?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-p-002",
-      "alt_text": "🧠 Find literal meaning; ➡️ Preview; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Retell every detail instead of the main idea.",
-        "is_correct": false
-      },
-      {
-        "text": "Use a clue from the text.",
-        "is_correct": true
-      },
-      {
-        "text": "Treat inference as guess.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Use a clue from the text.",
-      "hint": "Use a clue from the text."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9E1LY05-P-003",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY05",
-    "bank": "practice",
-    "skill": "ac9e1ly05_02_answer",
+    "skill": "ac9e1ly05_02_recognise",
     "question": "Which response would correctly match strategies and actions?",
     "audio_prompt": "Which response would correctly match strategies and actions?",
     "visual": {
@@ -106,54 +67,15 @@
       "summary": "Each strategy matched correctly This matches the task.",
       "hint": "Say the main idea, not every small event."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LY05-P-004",
+    "id": "AC9E1LY05-P-003",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY05",
     "bank": "practice",
-    "skill": "ac9e1ly05_02_strategy",
-    "question": "Which tip would help you match strategies and actions?",
-    "audio_prompt": "Which tip would help you match strategies and actions?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-p-004",
-      "alt_text": "🧠 Match strategies and actions; ➡️ Predict; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Use this routine: Preview → Predict → Read/listen → Connect → Question → Summarise.",
-        "is_correct": true
-      },
-      {
-        "text": "Treat inference as guess.",
-        "is_correct": false
-      },
-      {
-        "text": "Do not use a clue from the text.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Use this routine: Preview → Predict → Read/listen → Connect → Question → Summarise.",
-      "hint": "Say the main idea, not every small event."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9E1LY05-P-005",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY05",
-    "bank": "practice",
-    "skill": "ac9e1ly05_03_answer",
+    "skill": "ac9e1ly05_03_recognise",
     "question": "Which response would correctly visualise from detail?",
     "audio_prompt": "Which response would correctly visualise from detail?",
     "visual": {
@@ -180,54 +102,15 @@
       "summary": "Includes boat size, water description and moon/night detail This matches the task.",
       "hint": "Combine clue plus thinking."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LY05-P-006",
+    "id": "AC9E1LY05-P-004",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY05",
     "bank": "practice",
-    "skill": "ac9e1ly05_03_strategy",
-    "question": "Which tip would help you visualise from detail?",
-    "audio_prompt": "Which tip would help you visualise from detail?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-p-006",
-      "alt_text": "🧠 Visualise from detail; ➡️ Read/listen; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Do not use a clue from the text.",
-        "is_correct": false
-      },
-      {
-        "text": "Retell every detail instead of the main idea.",
-        "is_correct": false
-      },
-      {
-        "text": "Look for connect and check the whole example.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Look for connect and check the whole example.",
-      "hint": "Combine clue plus thinking."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9E1LY05-P-007",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY05",
-    "bank": "practice",
-    "skill": "ac9e1ly05_04_answer",
+    "skill": "ac9e1ly05_04_recognise",
     "question": "Which response would correctly make a supported prediction?",
     "audio_prompt": "Which response would correctly make a supported prediction?",
     "visual": {
@@ -254,52 +137,15 @@
       "summary": "Plausible next action involving light/search, supported by torch or darkness This matches the task.",
       "hint": "Use a clue from the text."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LY05-P-008",
+    "id": "AC9E1LY05-P-005",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY05",
     "bank": "practice",
-    "skill": "ac9e1ly05_04_strategy",
-    "question": "Which tip would help you make a supported prediction?",
-    "audio_prompt": "Which tip would help you make a supported prediction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-p-008",
-      "alt_text": "🧠 Make a supported prediction; ➡️ Connect; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Retell every detail instead of the main idea.",
-        "is_correct": false
-      },
-      {
-        "text": "Check that you can question.",
-        "is_correct": true
-      },
-      {
-        "text": "Treat inference as guess.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Check that you can question.",
-      "hint": "Use a clue from the text."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E1LY05-P-009",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY05",
-    "bank": "practice",
-    "skill": "ac9e1ly05_05_answer",
+    "skill": "ac9e1ly05_05_recognise",
     "question": "Which response would correctly order a summary?",
     "audio_prompt": "Which response would correctly order a summary?",
     "visual": {
@@ -326,54 +172,15 @@
       "summary": "Plant seed → water → sprout → leaves grow This matches the task.",
       "hint": "Say the main idea, not every small event."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LY05-P-010",
+    "id": "AC9E1LY05-P-006",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY05",
     "bank": "practice",
-    "skill": "ac9e1ly05_05_strategy",
-    "question": "Which tip would help you order a summary?",
-    "audio_prompt": "Which tip would help you order a summary?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-p-010",
-      "alt_text": "🧠 Order a summary; ➡️ Question; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Sequencing events for summary.",
-        "is_correct": true
-      },
-      {
-        "text": "Treat inference as guess.",
-        "is_correct": false
-      },
-      {
-        "text": "Do not use a clue from the text.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Sequencing events for summary.",
-      "hint": "Say the main idea, not every small event."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9E1LY05-P-011",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY05",
-    "bank": "practice",
-    "skill": "ac9e1ly05_06_answer",
+    "skill": "ac9e1ly05_06_recognise",
     "question": "Which response would correctly draw literal and inferred?",
     "audio_prompt": "Which response would correctly draw literal and inferred?",
     "visual": {
@@ -400,52 +207,15 @@
       "summary": "Stated clue accurate; plausible inference such as someone entered from rain, clearly labelled as inference This matches the task.",
       "hint": "Combine clue plus thinking."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LY05-P-012",
+    "id": "AC9E1LY05-P-007",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY05",
     "bank": "practice",
-    "skill": "ac9e1ly05_06_strategy",
-    "question": "Which tip would help you draw literal and inferred?",
-    "audio_prompt": "Which tip would help you draw literal and inferred?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-p-012",
-      "alt_text": "🧠 Draw literal and inferred; ➡️ Summarise; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Do not use a clue from the text.",
-        "is_correct": false
-      },
-      {
-        "text": "Retell every detail instead of the main idea.",
-        "is_correct": false
-      },
-      {
-        "text": "Combine clue plus thinking.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Combine clue plus thinking.",
-      "hint": "Combine clue plus thinking."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E1LY05-P-013",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY05",
-    "bank": "practice",
-    "skill": "ac9e1ly05_07_answer",
+    "skill": "ac9e1ly05_07_recognise",
     "question": "Which response would correctly ask a useful question?",
     "audio_prompt": "Which response would correctly ask a useful question?",
     "visual": {
@@ -472,52 +242,15 @@
       "summary": "Relevant question about route, goal, safety or next action This matches the task.",
       "hint": "Use a clue from the text."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LY05-P-014",
+    "id": "AC9E1LY05-P-008",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY05",
     "bank": "practice",
-    "skill": "ac9e1ly05_07_strategy",
-    "question": "Which tip would help you ask a useful question?",
-    "audio_prompt": "Which tip would help you ask a useful question?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-p-014",
-      "alt_text": "🧠 Ask a useful question; ➡️ Preview; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Retell every detail instead of the main idea.",
-        "is_correct": false
-      },
-      {
-        "text": "Use this routine: Preview → Predict → Read/listen → Connect → Question → Summarise.",
-        "is_correct": true
-      },
-      {
-        "text": "Treat inference as guess.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Use this routine: Preview → Predict → Read/listen → Connect → Question → Summarise.",
-      "hint": "Use a clue from the text."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E1LY05-P-015",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY05",
-    "bank": "practice",
-    "skill": "ac9e1ly05_08_answer",
+    "skill": "ac9e1ly05_08_recognise",
     "question": "Which response would correctly connect without leaving text?",
     "audio_prompt": "Which response would correctly connect without leaving text?",
     "visual": {
@@ -544,52 +277,15 @@
       "summary": "Connection concerns a new/performance situation and explains nerves, courage or preparation This matches the task.",
       "hint": "Say the main idea, not every small event."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LY05-P-016",
+    "id": "AC9E1LY05-P-009",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY05",
     "bank": "practice",
-    "skill": "ac9e1ly05_08_strategy",
-    "question": "Which tip would help you connect without leaving text?",
-    "audio_prompt": "Which tip would help you connect without leaving text?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-p-016",
-      "alt_text": "🧠 Connect without leaving text; ➡️ Predict; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Look for connect and check the whole example.",
-        "is_correct": true
-      },
-      {
-        "text": "Treat inference as guess.",
-        "is_correct": false
-      },
-      {
-        "text": "Do not use a clue from the text.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Look for connect and check the whole example.",
-      "hint": "Say the main idea, not every small event."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E1LY05-P-017",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY05",
-    "bank": "practice",
-    "skill": "ac9e1ly05_01_answer",
+    "skill": "ac9e1ly05_09_recognise",
     "question": "Which response would correctly infer a feeling?",
     "audio_prompt": "Which response would correctly infer a feeling?",
     "visual": {
@@ -616,52 +312,15 @@
       "summary": "Sad/disappointed/worried, supported by broken model and dropped shoulders This matches the task.",
       "hint": "Combine clue plus thinking."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LY05-P-018",
+    "id": "AC9E1LY05-P-010",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY05",
     "bank": "practice",
-    "skill": "ac9e1ly05_01_strategy",
-    "question": "Which tip would help you infer a feeling?",
-    "audio_prompt": "Which tip would help you infer a feeling?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-p-018",
-      "alt_text": "🧠 Infer a feeling; ➡️ Read/listen; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Do not use a clue from the text.",
-        "is_correct": false
-      },
-      {
-        "text": "Retell every detail instead of the main idea.",
-        "is_correct": false
-      },
-      {
-        "text": "Check that you can question.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Check that you can question.",
-      "hint": "Combine clue plus thinking."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E1LY05-P-019",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY05",
-    "bank": "practice",
-    "skill": "ac9e1ly05_02_answer",
+    "skill": "ac9e1ly05_10_recognise",
     "question": "Which response would correctly match clues to inferences?",
     "audio_prompt": "Which response would correctly match clues to inferences?",
     "visual": {
@@ -688,8 +347,322 @@
       "summary": "Each clue matched to plausible inference with may/might understood This matches the task.",
       "hint": "Use a clue from the text."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "stage": "recognise"
+  },
+  {
+    "id": "AC9E1LY05-P-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY05",
+    "bank": "practice",
+    "skill": "ac9e1ly05_01_explain",
+    "question": "Which tip would help you find literal meaning?",
+    "audio_prompt": "Which tip would help you find literal meaning?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-p-002",
+      "alt_text": "🧠 Find literal meaning; ➡️ Preview; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Retell every detail instead of the main idea.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a clue from the text.",
+        "is_correct": true
+      },
+      {
+        "text": "Treat inference as guess.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use a clue from the text.",
+      "hint": "Use a clue from the text."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LY05-P-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY05",
+    "bank": "practice",
+    "skill": "ac9e1ly05_02_explain",
+    "question": "Which tip would help you match strategies and actions?",
+    "audio_prompt": "Which tip would help you match strategies and actions?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-p-004",
+      "alt_text": "🧠 Match strategies and actions; ➡️ Predict; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Use this routine: Preview → Predict → Read/listen → Connect → Question → Summarise.",
+        "is_correct": true
+      },
+      {
+        "text": "Treat inference as guess.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use a clue from the text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use this routine: Preview → Predict → Read/listen → Connect → Question → Summarise.",
+      "hint": "Say the main idea, not every small event."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LY05-P-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY05",
+    "bank": "practice",
+    "skill": "ac9e1ly05_03_explain",
+    "question": "Which tip would help you visualise from detail?",
+    "audio_prompt": "Which tip would help you visualise from detail?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-p-006",
+      "alt_text": "🧠 Visualise from detail; ➡️ Read/listen; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not use a clue from the text.",
+        "is_correct": false
+      },
+      {
+        "text": "Retell every detail instead of the main idea.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for connect and check the whole example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Look for connect and check the whole example.",
+      "hint": "Combine clue plus thinking."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LY05-P-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY05",
+    "bank": "practice",
+    "skill": "ac9e1ly05_04_explain",
+    "question": "Which tip would help you make a supported prediction?",
+    "audio_prompt": "Which tip would help you make a supported prediction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-p-008",
+      "alt_text": "🧠 Make a supported prediction; ➡️ Connect; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Retell every detail instead of the main idea.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can question.",
+        "is_correct": true
+      },
+      {
+        "text": "Treat inference as guess.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check that you can question.",
+      "hint": "Use a clue from the text."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LY05-P-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY05",
+    "bank": "practice",
+    "skill": "ac9e1ly05_05_explain",
+    "question": "Which tip would help you order a summary?",
+    "audio_prompt": "Which tip would help you order a summary?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-p-010",
+      "alt_text": "🧠 Order a summary; ➡️ Question; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Sequencing events for summary.",
+        "is_correct": true
+      },
+      {
+        "text": "Treat inference as guess.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use a clue from the text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Sequencing events for summary.",
+      "hint": "Say the main idea, not every small event."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LY05-P-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY05",
+    "bank": "practice",
+    "skill": "ac9e1ly05_06_explain",
+    "question": "Which tip would help you draw literal and inferred?",
+    "audio_prompt": "Which tip would help you draw literal and inferred?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-p-012",
+      "alt_text": "🧠 Draw literal and inferred; ➡️ Summarise; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not use a clue from the text.",
+        "is_correct": false
+      },
+      {
+        "text": "Retell every detail instead of the main idea.",
+        "is_correct": false
+      },
+      {
+        "text": "Combine clue plus thinking.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Combine clue plus thinking.",
+      "hint": "Combine clue plus thinking."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LY05-P-017",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY05",
+    "bank": "practice",
+    "skill": "ac9e1ly05_07_explain",
+    "question": "Which tip would help you ask a useful question?",
+    "audio_prompt": "Which tip would help you ask a useful question?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-p-014",
+      "alt_text": "🧠 Ask a useful question; ➡️ Preview; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Retell every detail instead of the main idea.",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Preview → Predict → Read/listen → Connect → Question → Summarise.",
+        "is_correct": true
+      },
+      {
+        "text": "Treat inference as guess.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use this routine: Preview → Predict → Read/listen → Connect → Question → Summarise.",
+      "hint": "Use a clue from the text."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LY05-P-018",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY05",
+    "bank": "practice",
+    "skill": "ac9e1ly05_08_explain",
+    "question": "Which tip would help you connect without leaving text?",
+    "audio_prompt": "Which tip would help you connect without leaving text?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-p-016",
+      "alt_text": "🧠 Connect without leaving text; ➡️ Predict; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Look for connect and check the whole example.",
+        "is_correct": true
+      },
+      {
+        "text": "Treat inference as guess.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use a clue from the text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Look for connect and check the whole example.",
+      "hint": "Say the main idea, not every small event."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LY05-P-019",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY05",
+    "bank": "practice",
+    "skill": "ac9e1ly05_09_explain",
+    "question": "Which tip would help you infer a feeling?",
+    "audio_prompt": "Which tip would help you infer a feeling?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-p-018",
+      "alt_text": "🧠 Infer a feeling; ➡️ Read/listen; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not use a clue from the text.",
+        "is_correct": false
+      },
+      {
+        "text": "Retell every detail instead of the main idea.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can question.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check that you can question.",
+      "hint": "Combine clue plus thinking."
+    },
+    "stage": "explain"
   },
   {
     "id": "AC9E1LY05-P-020",
@@ -697,7 +670,7 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY05",
     "bank": "practice",
-    "skill": "ac9e1ly05_02_strategy",
+    "skill": "ac9e1ly05_10_explain",
     "question": "Which tip would help you match clues to inferences?",
     "audio_prompt": "Which tip would help you match clues to inferences?",
     "visual": {
@@ -724,8 +697,7 @@
       "summary": "Connecting evidence with inferred meaning.",
       "hint": "Use a clue from the text."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "stage": "explain"
   },
   {
     "id": "AC9E1LY05-P-021",
@@ -733,35 +705,34 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY05",
     "bank": "practice",
-    "skill": "ac9e1ly05_03_answer",
-    "question": "Which response would correctly sequence prediction revision?",
-    "audio_prompt": "Which response would correctly sequence prediction revision?",
+    "skill": "ac9e1ly05_01_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-p-021",
-      "alt_text": "📖 Sequence prediction revision; 🔎 predict; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-p-001",
+      "alt_text": "📖 Find literal meaning; 🔎 predict; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "revise/confirm → compare → read clue → Predict",
-        "is_correct": false
-      },
-      {
-        "text": "Retell every detail instead of the main idea.",
-        "is_correct": false
-      },
-      {
-        "text": "Predict → read clue → compare → revise/confirm",
+        "text": "The blue cup is beside the sink",
         "is_correct": true
+      },
+      {
+        "text": "Beside the sink",
+        "is_correct": false
+      },
+      {
+        "text": "Use a clue from the text.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Predict → read clue → compare → revise/confirm This matches the task.",
-      "hint": "Say the main idea, not every small event."
+      "summary": "The blue cup is beside the sink is the mix-up. Use a clue from the text.",
+      "hint": "Use a clue from the text."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "stage": "discriminate"
   },
   {
     "id": "AC9E1LY05-P-022",
@@ -769,17 +740,507 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY05",
     "bank": "practice",
-    "skill": "ac9e1ly05_03_strategy",
-    "question": "Which tip would help you sequence prediction revision?",
-    "audio_prompt": "Which tip would help you sequence prediction revision?",
+    "skill": "ac9e1ly05_02_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-p-022",
-      "alt_text": "🧠 Sequence prediction revision; ➡️ Question; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-p-003",
+      "alt_text": "📖 Match strategies and actions; 🔎 visualise; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "Say the main idea, not every small event.",
+        "text": "Each strategy matched correctly",
+        "is_correct": false
+      },
+      {
+        "text": "Retell every detail instead of the main idea.",
+        "is_correct": true
+      },
+      {
+        "text": "Use this routine: Preview → Predict → Read/listen → Connect → Question → Summarise.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Retell every detail instead of the main idea. is the mix-up. Say the main idea, not every small event.",
+      "hint": "Say the main idea, not every small event."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LY05-P-023",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY05",
+    "bank": "practice",
+    "skill": "ac9e1ly05_03_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-p-005",
+      "alt_text": "📖 Visualise from detail; 🔎 connect; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Includes boat size, water description and moon/night detail",
+        "is_correct": false
+      },
+      {
+        "text": "Look for connect and check the whole example.",
+        "is_correct": false
+      },
+      {
+        "text": "A tiny boat rocks on silver water under a round moon",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A tiny boat rocks on silver water under a round moon is the mix-up. Combine clue plus thinking.",
+      "hint": "Combine clue plus thinking."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LY05-P-024",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY05",
+    "bank": "practice",
+    "skill": "ac9e1ly05_04_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-p-007",
+      "alt_text": "📖 Make a supported prediction; 🔎 question; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not use a clue from the text.",
+        "is_correct": true
+      },
+      {
+        "text": "Plausible next action involving light/search, supported by torch or darkness",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can question.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Do not use a clue from the text. is the mix-up. Use a clue from the text.",
+      "hint": "Use a clue from the text."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LY05-P-025",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY05",
+    "bank": "practice",
+    "skill": "ac9e1ly05_05_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-p-009",
+      "alt_text": "📖 Order a summary; 🔎 summarise; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Plant seed → water → sprout → leaves grow",
+        "is_correct": false
+      },
+      {
+        "text": "leaves grow → sprout → water → Plant seed",
+        "is_correct": true
+      },
+      {
+        "text": "Sequencing events for summary.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "leaves grow → sprout → water → Plant seed is the mix-up. Say the main idea, not every small event.",
+      "hint": "Say the main idea, not every small event."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LY05-P-026",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY05",
+    "bank": "practice",
+    "skill": "ac9e1ly05_06_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-p-011",
+      "alt_text": "📖 Draw literal and inferred; 🔎 predict; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Stated clue accurate; plausible inference such as someone entered from rain, clearly labelled as inference",
+        "is_correct": false
+      },
+      {
+        "text": "Combine clue plus thinking.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat inference as guess.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Treat inference as guess. is the mix-up. Combine clue plus thinking.",
+      "hint": "Combine clue plus thinking."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LY05-P-027",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY05",
+    "bank": "practice",
+    "skill": "ac9e1ly05_07_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-p-013",
+      "alt_text": "📖 Ask a useful question; 🔎 visualise; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not use a clue from the text.",
+        "is_correct": true
+      },
+      {
+        "text": "Relevant question about route, goal, safety or next action",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Preview → Predict → Read/listen → Connect → Question → Summarise.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Do not use a clue from the text. is the mix-up. Use a clue from the text.",
+      "hint": "Use a clue from the text."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LY05-P-028",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY05",
+    "bank": "practice",
+    "skill": "ac9e1ly05_08_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-p-015",
+      "alt_text": "📖 Connect without leaving text; 🔎 connect; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Connection concerns a new/performance situation and explains nerves, courage or preparation",
+        "is_correct": false
+      },
+      {
+        "text": "Retell every detail instead of the main idea.",
+        "is_correct": true
+      },
+      {
+        "text": "Look for connect and check the whole example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Retell every detail instead of the main idea. is the mix-up. Say the main idea, not every small event.",
+      "hint": "Say the main idea, not every small event."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LY05-P-029",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY05",
+    "bank": "practice",
+    "skill": "ac9e1ly05_09_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-p-017",
+      "alt_text": "📖 Infer a feeling; 🔎 question; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Sad/disappointed/worried, supported by broken model and dropped shoulders",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can question.",
+        "is_correct": false
+      },
+      {
+        "text": "Max stared at the broken model and his shoulders dropped",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Max stared at the broken model and his shoulders dropped is the mix-up. Combine clue plus thinking.",
+      "hint": "Combine clue plus thinking."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LY05-P-030",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY05",
+    "bank": "practice",
+    "skill": "ac9e1ly05_10_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-p-019",
+      "alt_text": "📖 Match clues to inferences; 🔎 summarise; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not use a clue from the text.",
+        "is_correct": true
+      },
+      {
+        "text": "Each clue matched to plausible inference with may/might understood",
+        "is_correct": false
+      },
+      {
+        "text": "Connecting evidence with inferred meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Do not use a clue from the text. is the mix-up. Use a clue from the text.",
+      "hint": "Use a clue from the text."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LY05-P-031",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY05",
+    "bank": "practice",
+    "skill": "ac9e1ly05_01_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-p-001",
+      "alt_text": "📖 Find literal meaning; 🔎 predict; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "The blue cup is beside the sink",
+        "is_correct": false
+      },
+      {
+        "text": "Beside the sink",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use a clue from the text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Beside the sink uses the skill correctly. Use a clue from the text.",
+      "hint": "Use a clue from the text."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LY05-P-032",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY05",
+    "bank": "practice",
+    "skill": "ac9e1ly05_02_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-p-003",
+      "alt_text": "📖 Match strategies and actions; 🔎 visualise; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Retell every detail instead of the main idea.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat inference as guess.",
+        "is_correct": false
+      },
+      {
+        "text": "Each strategy matched correctly",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Each strategy matched correctly uses the skill correctly. Say the main idea, not every small event.",
+      "hint": "Say the main idea, not every small event."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LY05-P-033",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY05",
+    "bank": "practice",
+    "skill": "ac9e1ly05_03_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-p-005",
+      "alt_text": "📖 Visualise from detail; 🔎 connect; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Includes boat size, water description and moon/night detail",
+        "is_correct": true
+      },
+      {
+        "text": "A tiny boat rocks on silver water under a round moon",
+        "is_correct": false
+      },
+      {
+        "text": "Treat inference as guess.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Includes boat size, water description and moon/night detail uses the skill correctly. Combine clue plus thinking.",
+      "hint": "Combine clue plus thinking."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LY05-P-034",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY05",
+    "bank": "practice",
+    "skill": "ac9e1ly05_04_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-p-007",
+      "alt_text": "📖 Make a supported prediction; 🔎 question; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not use a clue from the text.",
+        "is_correct": false
+      },
+      {
+        "text": "Plausible next action involving light/search, supported by torch or darkness",
+        "is_correct": true
+      },
+      {
+        "text": "Retell every detail instead of the main idea.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Plausible next action involving light/search, supported by torch or darkness uses the skill correctly. Use a clue from the text.",
+      "hint": "Use a clue from the text."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LY05-P-035",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY05",
+    "bank": "practice",
+    "skill": "ac9e1ly05_05_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-p-009",
+      "alt_text": "📖 Order a summary; 🔎 summarise; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "leaves grow → sprout → water → Plant seed",
+        "is_correct": false
+      },
+      {
+        "text": "Retell every detail instead of the main idea.",
+        "is_correct": false
+      },
+      {
+        "text": "Plant seed → water → sprout → leaves grow",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Plant seed → water → sprout → leaves grow uses the skill correctly. Say the main idea, not every small event.",
+      "hint": "Say the main idea, not every small event."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LY05-P-036",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY05",
+    "bank": "practice",
+    "skill": "ac9e1ly05_06_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-p-011",
+      "alt_text": "📖 Draw literal and inferred; 🔎 predict; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Stated clue accurate; plausible inference such as someone entered from rain, clearly labelled as inference",
         "is_correct": true
       },
       {
@@ -793,61 +1254,24 @@
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Say the main idea, not every small event.",
-      "hint": "Say the main idea, not every small event."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E1LY05-P-023",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY05",
-    "bank": "practice",
-    "skill": "ac9e1ly05_04_answer",
-    "question": "Which response would correctly summarise a micro-text?",
-    "audio_prompt": "Which response would correctly summarise a micro-text?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-p-023",
-      "alt_text": "📖 Summarise a micro-text; 🔎 visualise; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "A gust lifts Noor",
-        "is_correct": false
-      },
-      {
-        "text": "Noor chases and catches her windblown hat; retains main character/problem/result",
-        "is_correct": true
-      },
-      {
-        "text": "Treat inference as guess.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Noor chases and catches her windblown hat; retains main character/problem/result This matches the task.",
+      "summary": "Stated clue accurate; plausible inference such as someone entered from rain, clearly labelled as inference uses the skill correctly. Combine clue plus thinking.",
       "hint": "Combine clue plus thinking."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "apply"
   },
   {
-    "id": "AC9E1LY05-P-024",
+    "id": "AC9E1LY05-P-037",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY05",
     "bank": "practice",
-    "skill": "ac9e1ly05_04_strategy",
-    "question": "Which tip would help you summarise a micro-text?",
-    "audio_prompt": "Which tip would help you summarise a micro-text?",
+    "skill": "ac9e1ly05_07_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-p-024",
-      "alt_text": "🧠 Summarise a micro-text; ➡️ Summarise; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-p-013",
+      "alt_text": "📖 Ask a useful question; 🔎 visualise; ✅ choose with evidence"
     },
     "answers": [
       {
@@ -855,21 +1279,125 @@
         "is_correct": false
       },
       {
+        "text": "Relevant question about route, goal, safety or next action",
+        "is_correct": true
+      },
+      {
+        "text": "Retell every detail instead of the main idea.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Relevant question about route, goal, safety or next action uses the skill correctly. Use a clue from the text.",
+      "hint": "Use a clue from the text."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LY05-P-038",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY05",
+    "bank": "practice",
+    "skill": "ac9e1ly05_08_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-p-015",
+      "alt_text": "📖 Connect without leaving text; 🔎 connect; ✅ choose with evidence"
+    },
+    "answers": [
+      {
         "text": "Retell every detail instead of the main idea.",
         "is_correct": false
       },
       {
-        "text": "Use this routine: Preview → Predict → Read/listen → Connect → Question → Summarise.",
+        "text": "Treat inference as guess.",
+        "is_correct": false
+      },
+      {
+        "text": "Connection concerns a new/performance situation and explains nerves, courage or preparation",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use this routine: Preview → Predict → Read/listen → Connect → Question → Summarise.",
+      "summary": "Connection concerns a new/performance situation and explains nerves, courage or preparation uses the skill correctly. Say the main idea, not every small event.",
+      "hint": "Say the main idea, not every small event."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LY05-P-039",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY05",
+    "bank": "practice",
+    "skill": "ac9e1ly05_09_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-p-017",
+      "alt_text": "📖 Infer a feeling; 🔎 question; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Sad/disappointed/worried, supported by broken model and dropped shoulders",
+        "is_correct": true
+      },
+      {
+        "text": "Max stared at the broken model and his shoulders dropped",
+        "is_correct": false
+      },
+      {
+        "text": "Treat inference as guess.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Sad/disappointed/worried, supported by broken model and dropped shoulders uses the skill correctly. Combine clue plus thinking.",
       "hint": "Combine clue plus thinking."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LY05-P-040",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY05",
+    "bank": "practice",
+    "skill": "ac9e1ly05_10_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-p-019",
+      "alt_text": "📖 Match clues to inferences; 🔎 summarise; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not use a clue from the text.",
+        "is_correct": false
+      },
+      {
+        "text": "Each clue matched to plausible inference with may/might understood",
+        "is_correct": true
+      },
+      {
+        "text": "Retell every detail instead of the main idea.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Each clue matched to plausible inference with may/might understood uses the skill correctly. Use a clue from the text.",
+      "hint": "Use a clue from the text."
+    },
+    "stage": "apply"
   },
   {
     "id": "AC9E1LY05-T-001",
@@ -1149,33 +1677,34 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY05",
     "bank": "test",
-    "skill": "ac9e1ly05_05_answer",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1ly05 05 answer. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 1 student is working with a text and needs to use ac9e1ly05 05 answer. Which option best demonstrates the skill?",
+    "skill": "ac9e1ly05_01_test_verify",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audio_prompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-009",
-      "alt_text": "📖 Rule; 🔎 summarise; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-002",
+      "alt_text": "🧠 Demonstrate two strategies; ➡️ Preview; 💡 helpful strategy"
     },
     "answers": [
+      {
+        "text": "Do not use a clue from the text.",
+        "is_correct": false
+      },
       {
         "text": "Retell every detail instead of the main idea.",
         "is_correct": false
       },
       {
-        "text": "Treat inference as guess.",
-        "is_correct": false
-      },
-      {
-        "text": "Use the rule for this English skill",
+        "text": "Use a clue from the text.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the rule for this English skill This matches the task.",
-      "hint": "Say the main idea, not every small event."
-    }
+      "summary": "Use a clue from the text. is the useful check. Use a clue from the text.",
+      "hint": "Use a clue from the text."
+    },
+    "stage": "verify"
   },
   {
     "id": "AC9E1LY05-T-010",
@@ -1183,33 +1712,34 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY05",
     "bank": "test",
-    "skill": "ac9e1ly05_05_strategy",
-    "question": "Which tip would help you rule?",
-    "audio_prompt": "Which tip would help you rule?",
+    "skill": "ac9e1ly05_02_test_verify",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audio_prompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-010",
-      "alt_text": "🧠 Rule; ➡️ Question; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-004",
+      "alt_text": "🧠 Draw a strategy map; ➡️ Predict; 💡 helpful strategy"
     },
     "answers": [
       {
-        "text": "Using the rule for this English skill.",
+        "text": "Use this routine: Preview → Predict → Read/listen → Connect → Question → Summarise.",
         "is_correct": true
       },
       {
-        "text": "Treat inference as guess.",
+        "text": "Retell every detail instead of the main idea.",
         "is_correct": false
       },
       {
-        "text": "Do not use a clue from the text.",
+        "text": "Treat inference as guess.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Using the rule for this English skill.",
+      "summary": "Use this routine: Preview → Predict → Read/listen → Connect → Question → Summarise. is the useful check. Say the main idea, not every small event.",
       "hint": "Say the main idea, not every small event."
-    }
+    },
+    "stage": "verify"
   },
   {
     "id": "AC9E1LY05-T-011",
@@ -1217,13 +1747,13 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY05",
     "bank": "test",
-    "skill": "ac9e1ly05_06_answer",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1ly05 06 answer. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 1 student is working with a text and needs to use ac9e1ly05 06 answer. Which option best demonstrates the skill?",
+    "skill": "ac9e1ly05_03_test_verify",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audio_prompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-011",
-      "alt_text": "📖 Worked example; 🔎 predict; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-006",
+      "alt_text": "🧠 Correct an unsupported inference; ➡️ Read/listen; 💡 helpful strategy"
     },
     "answers": [
       {
@@ -1231,7 +1761,7 @@
         "is_correct": false
       },
       {
-        "text": "'Pia grabbed her umbrella as dark clouds gathered.' Literally she has an umbrella",
+        "text": "Look for connect and check the whole example.",
         "is_correct": true
       },
       {
@@ -1241,9 +1771,10 @@
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "'Pia grabbed her umbrella as dark clouds gathered.' Literally she has an umbrella This matches the task.",
+      "summary": "Look for connect and check the whole example. is the useful check. Combine clue plus thinking.",
       "hint": "Combine clue plus thinking."
-    }
+    },
+    "stage": "verify"
   },
   {
     "id": "AC9E1LY05-T-012",
@@ -1251,33 +1782,34 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY05",
     "bank": "test",
-    "skill": "ac9e1ly05_06_strategy",
-    "question": "Which tip would help you worked example?",
-    "audio_prompt": "Which tip would help you worked example?",
+    "skill": "ac9e1ly05_04_test_verify",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audio_prompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-012",
-      "alt_text": "🧠 Worked example; ➡️ Summarise; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-008",
+      "alt_text": "🧠 Integrate strategies; ➡️ Connect; 💡 helpful strategy"
     },
     "answers": [
+      {
+        "text": "The path ahead was flooded. Lee unfolded a map and pointed uphill",
+        "is_correct": false
+      },
       {
         "text": "Do not use a clue from the text.",
         "is_correct": false
       },
       {
-        "text": "Retell every detail instead of the main idea.",
-        "is_correct": false
-      },
-      {
-        "text": "Combine clue plus thinking.",
+        "text": "Check that you can question.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Combine clue plus thinking.",
-      "hint": "Combine clue plus thinking."
-    }
+      "summary": "Check that you can question. is the useful check. Use a clue from the text.",
+      "hint": "Use a clue from the text."
+    },
+    "stage": "verify"
   },
   {
     "id": "AC9E1LY05-T-013",
@@ -1285,17 +1817,17 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY05",
     "bank": "test",
-    "skill": "ac9e1ly05_07_answer",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1ly05 07 answer. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 1 student is working with a text and needs to use ac9e1ly05 07 answer. Which option best demonstrates the skill?",
+    "skill": "ac9e1ly05_01_test_apply",
+    "question": "A classmate chose “Do not use a clue from the text.”. Which answer would improve their response?",
+    "audio_prompt": "A classmate chose Do not use a clue from the text.. Which answer would improve their response?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-013",
-      "alt_text": "📖 Strategy check; 🔎 visualise; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-001",
+      "alt_text": "📖 Demonstrate two strategies; 🔎 predict; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "Name the strategy, cite the word/image clue, and explain how it improves understanding.",
+        "text": "Both strategies are relevant and each is linked to a text clue",
         "is_correct": true
       },
       {
@@ -1309,9 +1841,10 @@
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Name the strategy, cite the word/image clue, and explain how it improves understanding. This matches the task.",
+      "summary": "Both strategies are relevant and each is linked to a text clue is the stronger response because it uses the target skill. Use a clue from the text.",
       "hint": "Use a clue from the text."
-    }
+    },
+    "stage": "apply"
   },
   {
     "id": "AC9E1LY05-T-014",
@@ -1319,13 +1852,13 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY05",
     "bank": "test",
-    "skill": "ac9e1ly05_07_strategy",
-    "question": "Which tip would help you strategy check?",
-    "audio_prompt": "Which tip would help you strategy check?",
+    "skill": "ac9e1ly05_02_test_apply",
+    "question": "A classmate chose “Retell every detail instead of the main idea.”. Which answer would improve their response?",
+    "audio_prompt": "A classmate chose Retell every detail instead of the main idea.. Which answer would improve their response?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-014",
-      "alt_text": "🧠 Strategy check; ➡️ Preview; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-003",
+      "alt_text": "📖 Draw a strategy map; 🔎 visualise; ✅ choose with evidence"
     },
     "answers": [
       {
@@ -1333,7 +1866,7 @@
         "is_correct": false
       },
       {
-        "text": "Use this routine: Preview → Predict → Read/listen → Connect → Question → Summarise.",
+        "text": "Five accurate actions organised under correct strategy labels",
         "is_correct": true
       },
       {
@@ -1343,9 +1876,10 @@
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use this routine: Preview → Predict → Read/listen → Connect → Question → Summarise.",
-      "hint": "Use a clue from the text."
-    }
+      "summary": "Five accurate actions organised under correct strategy labels is the stronger response because it uses the target skill. Say the main idea, not every small event.",
+      "hint": "Say the main idea, not every small event."
+    },
+    "stage": "apply"
   },
   {
     "id": "AC9E1LY05-T-015",
@@ -1353,33 +1887,34 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY05",
     "bank": "test",
-    "skill": "ac9e1ly05_08_answer",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1ly05 08 answer. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 1 student is working with a text and needs to use ac9e1ly05 08 answer. Which option best demonstrates the skill?",
+    "skill": "ac9e1ly05_03_test_apply",
+    "question": "A classmate chose “Treat inference as guess.”. Which answer would improve their response?",
+    "audio_prompt": "A classmate chose Treat inference as guess.. Which answer would improve their response?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-015",
-      "alt_text": "📖 Common trap; 🔎 connect; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-005",
+      "alt_text": "📖 Correct an unsupported inference; 🔎 connect; ✅ choose with evidence"
     },
     "answers": [
-      {
-        "text": "Retell every detail instead of the main idea.",
-        "is_correct": false
-      },
       {
         "text": "Treat inference as guess.",
         "is_correct": false
       },
       {
-        "text": "A prediction is not any possible event",
+        "text": "Do not use a clue from the text.",
+        "is_correct": false
+      },
+      {
+        "text": "One image does not show every child's preference",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A prediction is not any possible event This matches the task.",
-      "hint": "Say the main idea, not every small event."
-    }
+      "summary": "One image does not show every child's preference is the stronger response because it uses the target skill. Combine clue plus thinking.",
+      "hint": "Combine clue plus thinking."
+    },
+    "stage": "apply"
   },
   {
     "id": "AC9E1LY05-T-016",
@@ -1387,21 +1922,21 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY05",
     "bank": "test",
-    "skill": "ac9e1ly05_08_strategy",
-    "question": "Which tip would help you common trap?",
-    "audio_prompt": "Which tip would help you common trap?",
+    "skill": "ac9e1ly05_04_test_apply",
+    "question": "A classmate chose “The path ahead was flooded. Lee unfolded a map and pointed uphill”. Which answer would improve their response?",
+    "audio_prompt": "A classmate chose The path ahead was flooded. Lee unfolded a map and pointed uphill. Which answer would improve their response?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-016",
-      "alt_text": "🧠 Common trap; ➡️ Predict; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-007",
+      "alt_text": "📖 Integrate strategies; 🔎 question; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "Look for connect and check the whole example.",
+        "text": "Five accurate components: flood/map/uphill facts",
         "is_correct": true
       },
       {
-        "text": "Treat inference as guess.",
+        "text": "The path ahead was flooded. Lee unfolded a map and pointed uphill",
         "is_correct": false
       },
       {
@@ -1411,8 +1946,9 @@
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Look for connect and check the whole example.",
-      "hint": "Say the main idea, not every small event."
-    }
+      "summary": "Five accurate components: flood/map/uphill facts is the stronger response because it uses the target skill. Use a clue from the text.",
+      "hint": "Use a clue from the text."
+    },
+    "stage": "apply"
   }
 ]

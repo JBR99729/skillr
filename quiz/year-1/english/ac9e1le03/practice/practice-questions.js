@@ -4,7 +4,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9e1le03-p-001",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 01 answer",
+    "skill": "ac9e1le03 01 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly identify the setting?",
@@ -33,36 +33,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9e1le03-p-002",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 01 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you identify the setting?",
-    "audioPrompt": "Which tip would help you identify the setting?",
-    "visual": "🧠 Identify the setting; ➡️ Read story; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Identify the setting; ➡️ Read story; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-002\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-002",
-      "alt_text": "🧠 Identify the setting; ➡️ Read story; 💡 helpful strategy"
-    },
-    "answers": [
-      "Do not ask where and when the story happens.",
-      "Characters usually act or feel in the story.",
-      "Use plot as one event only."
-    ],
-    "correct": 1,
-    "explanation": "Characters usually act or feel in the story.\nHint: Characters usually act or feel in the story.",
-    "structuredExplanation": {
-      "summary": "Characters usually act or feel in the story.",
-      "hint": "Characters usually act or feel in the story."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le03-p-003",
-    "curriculumCode": "AC9E1LE03",
-    "bank": "practice",
-    "skill": "ac9e1le03 02 answer",
+    "skill": "ac9e1le03 02 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly match features?",
@@ -88,39 +59,10 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le03-p-004",
+    "id": "ac9e1le03-p-003",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 02 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you match features?",
-    "audioPrompt": "Which tip would help you match features?",
-    "visual": "🧠 Match features; ➡️ Name character; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match features; ➡️ Name character; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-004\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-004",
-      "alt_text": "🧠 Match features; ➡️ Name character; 💡 helpful strategy"
-    },
-    "answers": [
-      "Use this routine: Read story → Name character → Name setting → Sequence plot → Explain.",
-      "Use plot as one event only.",
-      "Treat character as any object."
-    ],
-    "correct": 0,
-    "explanation": "Use this routine: Read story → Name character → Name setting → Sequence plot → Explain.\nHint: Ask where and when the story happens.",
-    "structuredExplanation": {
-      "summary": "Use this routine: Read story → Name character → Name setting → Sequence plot → Explain.",
-      "hint": "Ask where and when the story happens."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le03-p-005",
-    "curriculumCode": "AC9E1LE03",
-    "bank": "practice",
-    "skill": "ac9e1le03 03 answer",
+    "skill": "ac9e1le03 03 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly act a character goal?",
@@ -146,39 +88,10 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le03-p-006",
+    "id": "ac9e1le03-p-004",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 03 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you act a character goal?",
-    "audioPrompt": "Which tip would help you act a character goal?",
-    "visual": "🧠 Act a character goal; ➡️ Name setting; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Act a character goal; ➡️ Name setting; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-006",
-      "alt_text": "🧠 Act a character goal; ➡️ Name setting; 💡 helpful strategy"
-    },
-    "answers": [
-      "Treat character as any object.",
-      "Do not ask where and when the story happens.",
-      "Look for setting and check the whole example."
-    ],
-    "correct": 2,
-    "explanation": "Look for setting and check the whole example.\nHint: Track events across beginning, middle and end.",
-    "structuredExplanation": {
-      "summary": "Look for setting and check the whole example.",
-      "hint": "Track events across beginning, middle and end."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le03-p-007",
-    "curriculumCode": "AC9E1LE03",
-    "bank": "practice",
-    "skill": "ac9e1le03 04 answer",
+    "skill": "ac9e1le03 04 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly find the problem?",
@@ -204,39 +117,10 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le03-p-008",
+    "id": "ac9e1le03-p-005",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 04 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you find the problem?",
-    "audioPrompt": "Which tip would help you find the problem?",
-    "visual": "🧠 Find the problem; ➡️ Sequence plot; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Find the problem; ➡️ Sequence plot; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-008\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-008",
-      "alt_text": "🧠 Find the problem; ➡️ Sequence plot; 💡 helpful strategy"
-    },
-    "answers": [
-      "Do not ask where and when the story happens.",
-      "Check that you can sequence events.",
-      "Use plot as one event only."
-    ],
-    "correct": 1,
-    "explanation": "Check that you can sequence events.\nHint: Characters usually act or feel in the story.",
-    "structuredExplanation": {
-      "summary": "Check that you can sequence events.",
-      "hint": "Characters usually act or feel in the story."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le03-p-009",
-    "curriculumCode": "AC9E1LE03",
-    "bank": "practice",
-    "skill": "ac9e1le03 05 answer",
+    "skill": "ac9e1le03 05 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly order a mini-plot?",
@@ -262,39 +146,10 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le03-p-010",
+    "id": "ac9e1le03-p-006",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 05 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you order a mini-plot?",
-    "audioPrompt": "Which tip would help you order a mini-plot?",
-    "visual": "🧠 Order a mini-plot; ➡️ Explain; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Order a mini-plot; ➡️ Explain; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-010",
-      "alt_text": "🧠 Order a mini-plot; ➡️ Explain; 💡 helpful strategy"
-    },
-    "answers": [
-      "Sequencing problem, attempts and resolution.",
-      "Use plot as one event only.",
-      "Treat character as any object."
-    ],
-    "correct": 0,
-    "explanation": "Sequencing problem, attempts and resolution.\nHint: Ask where and when the story happens.",
-    "structuredExplanation": {
-      "summary": "Sequencing problem, attempts and resolution.",
-      "hint": "Ask where and when the story happens."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le03-p-011",
-    "curriculumCode": "AC9E1LE03",
-    "bank": "practice",
-    "skill": "ac9e1le03 06 answer",
+    "skill": "ac9e1le03 06 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly draw a setting clue?",
@@ -320,39 +175,10 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le03-p-012",
+    "id": "ac9e1le03-p-007",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 06 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you draw a setting clue?",
-    "audioPrompt": "Which tip would help you draw a setting clue?",
-    "visual": "🧠 Draw a setting clue; ➡️ Read story; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw a setting clue; ➡️ Read story; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-012\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-012",
-      "alt_text": "🧠 Draw a setting clue; ➡️ Read story; 💡 helpful strategy"
-    },
-    "answers": [
-      "Treat character as any object.",
-      "Do not ask where and when the story happens.",
-      "Track events across beginning, middle and end."
-    ],
-    "correct": 2,
-    "explanation": "Track events across beginning, middle and end.\nHint: Track events across beginning, middle and end.",
-    "structuredExplanation": {
-      "summary": "Track events across beginning, middle and end.",
-      "hint": "Track events across beginning, middle and end."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le03-p-013",
-    "curriculumCode": "AC9E1LE03",
-    "bank": "practice",
-    "skill": "ac9e1le03 07 answer",
+    "skill": "ac9e1le03 07 recognise",
     "printable": true,
     "type": "single",
     "question": "How might a very patient character act differently from an impatient character when a bus is late?",
@@ -378,39 +204,10 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le03-p-014",
+    "id": "ac9e1le03-p-008",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 07 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you explain character effect?",
-    "audioPrompt": "Which tip would help you explain character effect?",
-    "visual": "🧠 Explain character effect; ➡️ Name character; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Explain character effect; ➡️ Name character; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-014\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-014",
-      "alt_text": "🧠 Explain character effect; ➡️ Name character; 💡 helpful strategy"
-    },
-    "answers": [
-      "Do not ask where and when the story happens.",
-      "Use this routine: Read story → Name character → Name setting → Sequence plot → Explain.",
-      "Use plot as one event only."
-    ],
-    "correct": 1,
-    "explanation": "Use this routine: Read story → Name character → Name setting → Sequence plot → Explain.\nHint: Characters usually act or feel in the story.",
-    "structuredExplanation": {
-      "summary": "Use this routine: Read story → Name character → Name setting → Sequence plot → Explain.",
-      "hint": "Characters usually act or feel in the story."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le03-p-015",
-    "curriculumCode": "AC9E1LE03",
-    "bank": "practice",
-    "skill": "ac9e1le03 08 answer",
+    "skill": "ac9e1le03 08 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly connect all three features?",
@@ -436,39 +233,10 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le03-p-016",
+    "id": "ac9e1le03-p-009",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 08 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you connect all three features?",
-    "audioPrompt": "Which tip would help you connect all three features?",
-    "visual": "🧠 Connect all three features; ➡️ Name setting; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Connect all three features; ➡️ Name setting; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-016",
-      "alt_text": "🧠 Connect all three features; ➡️ Name setting; 💡 helpful strategy"
-    },
-    "answers": [
-      "Look for setting and check the whole example.",
-      "Use plot as one event only.",
-      "Treat character as any object."
-    ],
-    "correct": 0,
-    "explanation": "Look for setting and check the whole example.\nHint: Ask where and when the story happens.",
-    "structuredExplanation": {
-      "summary": "Look for setting and check the whole example.",
-      "hint": "Ask where and when the story happens."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le03-p-017",
-    "curriculumCode": "AC9E1LE03",
-    "bank": "practice",
-    "skill": "ac9e1le03 01 answer",
+    "skill": "ac9e1le03 09 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly name the resolution?",
@@ -494,39 +262,10 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1le03-p-018",
+    "id": "ac9e1le03-p-010",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 01 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you name the resolution?",
-    "audioPrompt": "Which tip would help you name the resolution?",
-    "visual": "🧠 Name the resolution; ➡️ Sequence plot; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Name the resolution; ➡️ Sequence plot; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-018\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-018",
-      "alt_text": "🧠 Name the resolution; ➡️ Sequence plot; 💡 helpful strategy"
-    },
-    "answers": [
-      "Treat character as any object.",
-      "Do not ask where and when the story happens.",
-      "Check that you can sequence events."
-    ],
-    "correct": 2,
-    "explanation": "Check that you can sequence events.\nHint: Track events across beginning, middle and end.",
-    "structuredExplanation": {
-      "summary": "Check that you can sequence events.",
-      "hint": "Track events across beginning, middle and end."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1le03-p-019",
-    "curriculumCode": "AC9E1LE03",
-    "bank": "practice",
-    "skill": "ac9e1le03 02 answer",
+    "skill": "ac9e1le03 10 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly match characters to goals?",
@@ -552,10 +291,271 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
+    "id": "ac9e1le03-p-011",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03 01 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you identify the setting?",
+    "audioPrompt": "Which tip would help you identify the setting?",
+    "visual": "🧠 Identify the setting; ➡️ Read story; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Identify the setting; ➡️ Read story; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-002\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-002",
+      "alt_text": "🧠 Identify the setting; ➡️ Read story; 💡 helpful strategy"
+    },
+    "answers": [
+      "Do not ask where and when the story happens.",
+      "Characters usually act or feel in the story.",
+      "Use plot as one event only."
+    ],
+    "correct": 1,
+    "explanation": "Characters usually act or feel in the story.\nHint: Characters usually act or feel in the story.",
+    "structuredExplanation": {
+      "summary": "Characters usually act or feel in the story.",
+      "hint": "Characters usually act or feel in the story."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le03-p-012",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03 02 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you match features?",
+    "audioPrompt": "Which tip would help you match features?",
+    "visual": "🧠 Match features; ➡️ Name character; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match features; ➡️ Name character; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-004\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-004",
+      "alt_text": "🧠 Match features; ➡️ Name character; 💡 helpful strategy"
+    },
+    "answers": [
+      "Use this routine: Read story → Name character → Name setting → Sequence plot → Explain.",
+      "Use plot as one event only.",
+      "Treat character as any object."
+    ],
+    "correct": 0,
+    "explanation": "Use this routine: Read story → Name character → Name setting → Sequence plot → Explain.\nHint: Ask where and when the story happens.",
+    "structuredExplanation": {
+      "summary": "Use this routine: Read story → Name character → Name setting → Sequence plot → Explain.",
+      "hint": "Ask where and when the story happens."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le03-p-013",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03 03 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you act a character goal?",
+    "audioPrompt": "Which tip would help you act a character goal?",
+    "visual": "🧠 Act a character goal; ➡️ Name setting; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Act a character goal; ➡️ Name setting; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-006\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-006",
+      "alt_text": "🧠 Act a character goal; ➡️ Name setting; 💡 helpful strategy"
+    },
+    "answers": [
+      "Treat character as any object.",
+      "Do not ask where and when the story happens.",
+      "Look for setting and check the whole example."
+    ],
+    "correct": 2,
+    "explanation": "Look for setting and check the whole example.\nHint: Track events across beginning, middle and end.",
+    "structuredExplanation": {
+      "summary": "Look for setting and check the whole example.",
+      "hint": "Track events across beginning, middle and end."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le03-p-014",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03 04 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you find the problem?",
+    "audioPrompt": "Which tip would help you find the problem?",
+    "visual": "🧠 Find the problem; ➡️ Sequence plot; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Find the problem; ➡️ Sequence plot; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-008\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-008",
+      "alt_text": "🧠 Find the problem; ➡️ Sequence plot; 💡 helpful strategy"
+    },
+    "answers": [
+      "Do not ask where and when the story happens.",
+      "Check that you can sequence events.",
+      "Use plot as one event only."
+    ],
+    "correct": 1,
+    "explanation": "Check that you can sequence events.\nHint: Characters usually act or feel in the story.",
+    "structuredExplanation": {
+      "summary": "Check that you can sequence events.",
+      "hint": "Characters usually act or feel in the story."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le03-p-015",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03 05 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you order a mini-plot?",
+    "audioPrompt": "Which tip would help you order a mini-plot?",
+    "visual": "🧠 Order a mini-plot; ➡️ Explain; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Order a mini-plot; ➡️ Explain; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-010\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-010",
+      "alt_text": "🧠 Order a mini-plot; ➡️ Explain; 💡 helpful strategy"
+    },
+    "answers": [
+      "Sequencing problem, attempts and resolution.",
+      "Use plot as one event only.",
+      "Treat character as any object."
+    ],
+    "correct": 0,
+    "explanation": "Sequencing problem, attempts and resolution.\nHint: Ask where and when the story happens.",
+    "structuredExplanation": {
+      "summary": "Sequencing problem, attempts and resolution.",
+      "hint": "Ask where and when the story happens."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le03-p-016",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03 06 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you draw a setting clue?",
+    "audioPrompt": "Which tip would help you draw a setting clue?",
+    "visual": "🧠 Draw a setting clue; ➡️ Read story; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw a setting clue; ➡️ Read story; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-012\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-012",
+      "alt_text": "🧠 Draw a setting clue; ➡️ Read story; 💡 helpful strategy"
+    },
+    "answers": [
+      "Treat character as any object.",
+      "Do not ask where and when the story happens.",
+      "Track events across beginning, middle and end."
+    ],
+    "correct": 2,
+    "explanation": "Track events across beginning, middle and end.\nHint: Track events across beginning, middle and end.",
+    "structuredExplanation": {
+      "summary": "Track events across beginning, middle and end.",
+      "hint": "Track events across beginning, middle and end."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le03-p-017",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03 07 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you explain character effect?",
+    "audioPrompt": "Which tip would help you explain character effect?",
+    "visual": "🧠 Explain character effect; ➡️ Name character; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Explain character effect; ➡️ Name character; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-014\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-014",
+      "alt_text": "🧠 Explain character effect; ➡️ Name character; 💡 helpful strategy"
+    },
+    "answers": [
+      "Do not ask where and when the story happens.",
+      "Use this routine: Read story → Name character → Name setting → Sequence plot → Explain.",
+      "Use plot as one event only."
+    ],
+    "correct": 1,
+    "explanation": "Use this routine: Read story → Name character → Name setting → Sequence plot → Explain.\nHint: Characters usually act or feel in the story.",
+    "structuredExplanation": {
+      "summary": "Use this routine: Read story → Name character → Name setting → Sequence plot → Explain.",
+      "hint": "Characters usually act or feel in the story."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le03-p-018",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03 08 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you connect all three features?",
+    "audioPrompt": "Which tip would help you connect all three features?",
+    "visual": "🧠 Connect all three features; ➡️ Name setting; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Connect all three features; ➡️ Name setting; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-016\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-016",
+      "alt_text": "🧠 Connect all three features; ➡️ Name setting; 💡 helpful strategy"
+    },
+    "answers": [
+      "Look for setting and check the whole example.",
+      "Use plot as one event only.",
+      "Treat character as any object."
+    ],
+    "correct": 0,
+    "explanation": "Look for setting and check the whole example.\nHint: Ask where and when the story happens.",
+    "structuredExplanation": {
+      "summary": "Look for setting and check the whole example.",
+      "hint": "Ask where and when the story happens."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le03-p-019",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03 09 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you name the resolution?",
+    "audioPrompt": "Which tip would help you name the resolution?",
+    "visual": "🧠 Name the resolution; ➡️ Sequence plot; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Name the resolution; ➡️ Sequence plot; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-018\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-018",
+      "alt_text": "🧠 Name the resolution; ➡️ Sequence plot; 💡 helpful strategy"
+    },
+    "answers": [
+      "Treat character as any object.",
+      "Do not ask where and when the story happens.",
+      "Check that you can sequence events."
+    ],
+    "correct": 2,
+    "explanation": "Check that you can sequence events.\nHint: Track events across beginning, middle and end.",
+    "structuredExplanation": {
+      "summary": "Check that you can sequence events.",
+      "hint": "Track events across beginning, middle and end."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
     "id": "ac9e1le03-p-020",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 02 strategy",
+    "skill": "ac9e1le03 10 explain",
     "printable": true,
     "type": "single",
     "question": "Which tip would help you match characters to goals?",
@@ -584,28 +584,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9e1le03-p-021",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 03 answer",
+    "skill": "ac9e1le03 01 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly sequence setting change?",
-    "audioPrompt": "Which response would correctly sequence setting change?",
-    "visual": "📖 Sequence setting change; 🔎 plot; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Sequence setting change; 🔎 plot; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-021\"></use></svg>",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Identify the setting; 🔎 plot; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Identify the setting; 🔎 plot; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-021",
-      "alt_text": "📖 Sequence setting change; 🔎 plot; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-001",
+      "alt_text": "📖 Identify the setting; 🔎 plot; ✅ choose with evidence"
     },
     "answers": [
-      "continue walk → morning sun → cabin shelter → Storm",
-      "Do not ask where and when the story happens.",
-      "Storm → cabin shelter → morning sun → continue walk"
+      "At sunrise, Kian waits beside the river",
+      "Beside the river at sunrise",
+      "Characters usually act or feel in the story."
     ],
-    "correct": 2,
-    "explanation": "Storm → cabin shelter → morning sun → continue walk This matches the task.\nHint: Ask where and when the story happens.",
+    "correct": 0,
+    "explanation": "At sunrise, Kian waits beside the river is the mix-up. Characters usually act or feel in the story.\nHint: Characters usually act or feel in the story.",
     "structuredExplanation": {
-      "summary": "Storm → cabin shelter → morning sun → continue walk This matches the task.",
-      "hint": "Ask where and when the story happens."
+      "summary": "At sunrise, Kian waits beside the river is the mix-up. Characters usually act or feel in the story.",
+      "hint": "Characters usually act or feel in the story."
     },
     "qualitySchema": "production-v1"
   },
@@ -613,27 +613,27 @@ window.skillrPracticeQuestions = [
     "id": "ac9e1le03-p-022",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 03 strategy",
+    "skill": "ac9e1le03 02 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you sequence setting change?",
-    "audioPrompt": "Which tip would help you sequence setting change?",
-    "visual": "🧠 Sequence setting change; ➡️ Read story; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Sequence setting change; ➡️ Read story; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-022\"></use></svg>",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Match features; 🔎 character; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match features; 🔎 character; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-022",
-      "alt_text": "🧠 Sequence setting change; ➡️ Read story; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-003",
+      "alt_text": "📖 Match features; 🔎 character; ✅ choose with evidence"
     },
     "answers": [
-      "Ask where and when the story happens.",
-      "Use plot as one event only.",
-      "Treat character as any object."
+      "Character ↔ who; setting ↔ where/when; plot ↔ events",
+      "beginning ↔ who; setting ↔ where/when; plot ↔ events",
+      "Use this routine: Read story → Name character → Name setting → Sequence plot → Explain."
     ],
-    "correct": 0,
-    "explanation": "Ask where and when the story happens.\nHint: Ask where and when the story happens.",
+    "correct": 1,
+    "explanation": "beginning ↔ who; setting ↔ where/when; plot ↔ events is the mix-up. Ask where and when the story happens.\nHint: Ask where and when the story happens.",
     "structuredExplanation": {
-      "summary": "Ask where and when the story happens.",
+      "summary": "beginning ↔ who; setting ↔ where/when; plot ↔ events is the mix-up. Ask where and when the story happens.",
       "hint": "Ask where and when the story happens."
     },
     "qualitySchema": "production-v1"
@@ -642,27 +642,27 @@ window.skillrPracticeQuestions = [
     "id": "ac9e1le03-p-023",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 04 answer",
+    "skill": "ac9e1le03 03 discriminate",
     "printable": true,
     "type": "single",
-    "question": "How would a chase plot change if it happened in an open field rather than a crowded market?",
-    "audioPrompt": "How would a chase plot change if it happened in an open field rather than a crowded market?",
-    "visual": "📖 Compare two settings; 🔎 character; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Compare two settings; 🔎 character; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-023\"></use></svg>",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Act a character goal; 🔎 setting; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Act a character goal; 🔎 setting; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-023",
-      "alt_text": "📖 Compare two settings; 🔎 character; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-005",
+      "alt_text": "📖 Act a character goal; 🔎 setting; ✅ choose with evidence"
     },
     "answers": [
-      "Use plot as one event only.",
-      "Gives one relevant difference in obstacles, visibility, movement or tension",
-      "Treat character as any object."
+      "Gives a safe, character-led action such as asking an adult, linked to goal",
+      "Look for setting and check the whole example.",
+      "Use plot as one event only."
     ],
-    "correct": 1,
-    "explanation": "Gives one relevant difference in obstacles, visibility, movement or tension This matches the task.\nHint: Track events across beginning, middle and end.",
+    "correct": 2,
+    "explanation": "Use plot as one event only. is the mix-up. Track events across beginning, middle and end.\nHint: Track events across beginning, middle and end.",
     "structuredExplanation": {
-      "summary": "Gives one relevant difference in obstacles, visibility, movement or tension This matches the task.",
+      "summary": "Use plot as one event only. is the mix-up. Track events across beginning, middle and end.",
       "hint": "Track events across beginning, middle and end."
     },
     "qualitySchema": "production-v1"
@@ -671,28 +671,492 @@ window.skillrPracticeQuestions = [
     "id": "ac9e1le03-p-024",
     "curriculumCode": "AC9E1LE03",
     "bank": "practice",
-    "skill": "ac9e1le03 04 strategy",
+    "skill": "ac9e1le03 04 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you compare two settings?",
-    "audioPrompt": "Which tip would help you compare two settings?",
-    "visual": "🧠 Compare two settings; ➡️ Name character; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Compare two settings; ➡️ Name character; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-024\"></use></svg>",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Find the problem; 🔎 beginning; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find the problem; 🔎 beginning; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-024",
-      "alt_text": "🧠 Compare two settings; ➡️ Name character; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-007",
+      "alt_text": "📖 Find the problem; 🔎 beginning; ✅ choose with evidence"
     },
     "answers": [
       "Treat character as any object.",
-      "Do not ask where and when the story happens.",
-      "Use this routine: Read story → Name character → Name setting → Sequence plot → Explain."
+      "The map is blown away/lost, making navigation difficult",
+      "Check that you can sequence events."
+    ],
+    "correct": 0,
+    "explanation": "Treat character as any object. is the mix-up. Characters usually act or feel in the story.\nHint: Characters usually act or feel in the story.",
+    "structuredExplanation": {
+      "summary": "Treat character as any object. is the mix-up. Characters usually act or feel in the story.",
+      "hint": "Characters usually act or feel in the story."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le03-p-025",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03 05 discriminate",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Order a mini-plot; 🔎 ending; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order a mini-plot; 🔎 ending; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-009\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-009",
+      "alt_text": "📖 Order a mini-plot; 🔎 ending; ✅ choose with evidence"
+    },
+    "answers": [
+      "Gate locked → search → key found → enter garden",
+      "enter garden → key found → search → Gate locked",
+      "Sequencing problem, attempts and resolution."
+    ],
+    "correct": 1,
+    "explanation": "enter garden → key found → search → Gate locked is the mix-up. Ask where and when the story happens.\nHint: Ask where and when the story happens.",
+    "structuredExplanation": {
+      "summary": "enter garden → key found → search → Gate locked is the mix-up. Ask where and when the story happens.",
+      "hint": "Ask where and when the story happens."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le03-p-026",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03 06 discriminate",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Draw a setting clue; 🔎 plot; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw a setting clue; 🔎 plot; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-011\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-011",
+      "alt_text": "📖 Draw a setting clue; 🔎 plot; ✅ choose with evidence"
+    },
+    "answers": [
+      "Two clear location/time clues such as platform, tracks, clock, darkness or lights",
+      "Track events across beginning, middle and end.",
+      "Use plot as one event only."
     ],
     "correct": 2,
-    "explanation": "Use this routine: Read story → Name character → Name setting → Sequence plot → Explain.\nHint: Track events across beginning, middle and end.",
+    "explanation": "Use plot as one event only. is the mix-up. Track events across beginning, middle and end.\nHint: Track events across beginning, middle and end.",
     "structuredExplanation": {
-      "summary": "Use this routine: Read story → Name character → Name setting → Sequence plot → Explain.",
+      "summary": "Use plot as one event only. is the mix-up. Track events across beginning, middle and end.",
       "hint": "Track events across beginning, middle and end."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le03-p-027",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03 07 discriminate",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Explain character effect; 🔎 character; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Explain character effect; 🔎 character; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-013\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-013",
+      "alt_text": "📖 Explain character effect; 🔎 character; ✅ choose with evidence"
+    },
+    "answers": [
+      "Treat character as any object.",
+      "Patient character waits/checks calmly; impatient character may complain/rush, affecting subsequent events",
+      "Use this routine: Read story → Name character → Name setting → Sequence plot → Explain."
+    ],
+    "correct": 0,
+    "explanation": "Treat character as any object. is the mix-up. Characters usually act or feel in the story.\nHint: Characters usually act or feel in the story.",
+    "structuredExplanation": {
+      "summary": "Treat character as any object. is the mix-up. Characters usually act or feel in the story.",
+      "hint": "Characters usually act or feel in the story."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le03-p-028",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03 08 discriminate",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Connect all three features; 🔎 setting; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Connect all three features; 🔎 setting; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-015\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-015",
+      "alt_text": "📖 Connect all three features; 🔎 setting; ✅ choose with evidence"
+    },
+    "answers": [
+      "All three features are explicit and logically connected",
+      "Do not ask where and when the story happens.",
+      "Look for setting and check the whole example."
+    ],
+    "correct": 1,
+    "explanation": "Do not ask where and when the story happens. is the mix-up. Ask where and when the story happens.\nHint: Ask where and when the story happens.",
+    "structuredExplanation": {
+      "summary": "Do not ask where and when the story happens. is the mix-up. Ask where and when the story happens.",
+      "hint": "Ask where and when the story happens."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le03-p-029",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03 09 discriminate",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Name the resolution; 🔎 beginning; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Name the resolution; 🔎 beginning; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-017\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-017",
+      "alt_text": "📖 Name the resolution; 🔎 beginning; ✅ choose with evidence"
+    },
+    "answers": [
+      "The safe board bridge lets the puppy cross",
+      "Check that you can sequence events.",
+      "Use plot as one event only."
+    ],
+    "correct": 2,
+    "explanation": "Use plot as one event only. is the mix-up. Track events across beginning, middle and end.\nHint: Track events across beginning, middle and end.",
+    "structuredExplanation": {
+      "summary": "Use plot as one event only. is the mix-up. Track events across beginning, middle and end.",
+      "hint": "Track events across beginning, middle and end."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le03-p-030",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03 10 discriminate",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Match characters to goals; 🔎 ending; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match characters to goals; 🔎 ending; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-019\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-019",
+      "alt_text": "📖 Match characters to goals; 🔎 ending; ✅ choose with evidence"
+    },
+    "answers": [
+      "Treat character as any object.",
+      "Each character matches the logical goal",
+      "Connecting characters with plot motivations."
+    ],
+    "correct": 0,
+    "explanation": "Treat character as any object. is the mix-up. Characters usually act or feel in the story.\nHint: Characters usually act or feel in the story.",
+    "structuredExplanation": {
+      "summary": "Treat character as any object. is the mix-up. Characters usually act or feel in the story.",
+      "hint": "Characters usually act or feel in the story."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le03-p-031",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03 01 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Identify the setting; 🔎 plot; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Identify the setting; 🔎 plot; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-001\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-001",
+      "alt_text": "📖 Identify the setting; 🔎 plot; ✅ choose with evidence"
+    },
+    "answers": [
+      "At sunrise, Kian waits beside the river",
+      "Beside the river at sunrise",
+      "Treat character as any object."
+    ],
+    "correct": 1,
+    "explanation": "Beside the river at sunrise uses the skill correctly. Characters usually act or feel in the story.\nHint: Characters usually act or feel in the story.",
+    "structuredExplanation": {
+      "summary": "Beside the river at sunrise uses the skill correctly. Characters usually act or feel in the story.",
+      "hint": "Characters usually act or feel in the story."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le03-p-032",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03 02 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Match features; 🔎 character; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match features; 🔎 character; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-003\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-003",
+      "alt_text": "📖 Match features; 🔎 character; ✅ choose with evidence"
+    },
+    "answers": [
+      "beginning ↔ who; setting ↔ where/when; plot ↔ events",
+      "setting ↔ who; setting ↔ where/when; plot ↔ events",
+      "Character ↔ who; setting ↔ where/when; plot ↔ events"
+    ],
+    "correct": 2,
+    "explanation": "Character ↔ who; setting ↔ where/when; plot ↔ events uses the skill correctly. Ask where and when the story happens.\nHint: Ask where and when the story happens.",
+    "structuredExplanation": {
+      "summary": "Character ↔ who; setting ↔ where/when; plot ↔ events uses the skill correctly. Ask where and when the story happens.",
+      "hint": "Ask where and when the story happens."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le03-p-033",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03 03 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Act a character goal; 🔎 setting; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Act a character goal; 🔎 setting; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-005\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-005",
+      "alt_text": "📖 Act a character goal; 🔎 setting; ✅ choose with evidence"
+    },
+    "answers": [
+      "Gives a safe, character-led action such as asking an adult, linked to goal",
+      "Use plot as one event only.",
+      "Treat character as any object."
+    ],
+    "correct": 0,
+    "explanation": "Gives a safe, character-led action such as asking an adult, linked to goal uses the skill correctly. Track events across beginning, middle and end.\nHint: Track events across beginning, middle and end.",
+    "structuredExplanation": {
+      "summary": "Gives a safe, character-led action such as asking an adult, linked to goal uses the skill correctly. Track events across beginning, middle and end.",
+      "hint": "Track events across beginning, middle and end."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le03-p-034",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03 04 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Find the problem; 🔎 beginning; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find the problem; 🔎 beginning; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-007\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-007",
+      "alt_text": "📖 Find the problem; 🔎 beginning; ✅ choose with evidence"
+    },
+    "answers": [
+      "Treat character as any object.",
+      "The map is blown away/lost, making navigation difficult",
+      "Do not ask where and when the story happens."
+    ],
+    "correct": 1,
+    "explanation": "The map is blown away/lost, making navigation difficult uses the skill correctly. Characters usually act or feel in the story.\nHint: Characters usually act or feel in the story.",
+    "structuredExplanation": {
+      "summary": "The map is blown away/lost, making navigation difficult uses the skill correctly. Characters usually act or feel in the story.",
+      "hint": "Characters usually act or feel in the story."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le03-p-035",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03 05 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Order a mini-plot; 🔎 ending; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order a mini-plot; 🔎 ending; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-009\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-009",
+      "alt_text": "📖 Order a mini-plot; 🔎 ending; ✅ choose with evidence"
+    },
+    "answers": [
+      "enter garden → key found → search → Gate locked",
+      "Do not ask where and when the story happens.",
+      "Gate locked → search → key found → enter garden"
+    ],
+    "correct": 2,
+    "explanation": "Gate locked → search → key found → enter garden uses the skill correctly. Ask where and when the story happens.\nHint: Ask where and when the story happens.",
+    "structuredExplanation": {
+      "summary": "Gate locked → search → key found → enter garden uses the skill correctly. Ask where and when the story happens.",
+      "hint": "Ask where and when the story happens."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le03-p-036",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03 06 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Draw a setting clue; 🔎 plot; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw a setting clue; 🔎 plot; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-011\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-011",
+      "alt_text": "📖 Draw a setting clue; 🔎 plot; ✅ choose with evidence"
+    },
+    "answers": [
+      "Two clear location/time clues such as platform, tracks, clock, darkness or lights",
+      "Use plot as one event only.",
+      "Treat character as any object."
+    ],
+    "correct": 0,
+    "explanation": "Two clear location/time clues such as platform, tracks, clock, darkness or lights uses the skill correctly. Track events across beginning, middle and end.\nHint: Track events across beginning, middle and end.",
+    "structuredExplanation": {
+      "summary": "Two clear location/time clues such as platform, tracks, clock, darkness or lights uses the skill correctly. Track events across beginning, middle and end.",
+      "hint": "Track events across beginning, middle and end."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le03-p-037",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03 07 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Explain character effect; 🔎 character; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Explain character effect; 🔎 character; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-013\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-013",
+      "alt_text": "📖 Explain character effect; 🔎 character; ✅ choose with evidence"
+    },
+    "answers": [
+      "Treat character as any object.",
+      "Patient character waits/checks calmly; impatient character may complain/rush, affecting subsequent events",
+      "Do not ask where and when the story happens."
+    ],
+    "correct": 1,
+    "explanation": "Patient character waits/checks calmly; impatient character may complain/rush, affecting subsequent events uses the skill correctly. Characters usually act or feel in the story.\nHint: Characters usually act or feel in the story.",
+    "structuredExplanation": {
+      "summary": "Patient character waits/checks calmly; impatient character may complain/rush, affecting subsequent events uses the skill correctly. Characters usually act or feel in the story.",
+      "hint": "Characters usually act or feel in the story."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le03-p-038",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03 08 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Connect all three features; 🔎 setting; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Connect all three features; 🔎 setting; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-015\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-015",
+      "alt_text": "📖 Connect all three features; 🔎 setting; ✅ choose with evidence"
+    },
+    "answers": [
+      "Do not ask where and when the story happens.",
+      "Use plot as one event only.",
+      "All three features are explicit and logically connected"
+    ],
+    "correct": 2,
+    "explanation": "All three features are explicit and logically connected uses the skill correctly. Ask where and when the story happens.\nHint: Ask where and when the story happens.",
+    "structuredExplanation": {
+      "summary": "All three features are explicit and logically connected uses the skill correctly. Ask where and when the story happens.",
+      "hint": "Ask where and when the story happens."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le03-p-039",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03 09 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Name the resolution; 🔎 beginning; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Name the resolution; 🔎 beginning; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-017\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-017",
+      "alt_text": "📖 Name the resolution; 🔎 beginning; ✅ choose with evidence"
+    },
+    "answers": [
+      "The safe board bridge lets the puppy cross",
+      "Use plot as one event only.",
+      "Treat character as any object."
+    ],
+    "correct": 0,
+    "explanation": "The safe board bridge lets the puppy cross uses the skill correctly. Track events across beginning, middle and end.\nHint: Track events across beginning, middle and end.",
+    "structuredExplanation": {
+      "summary": "The safe board bridge lets the puppy cross uses the skill correctly. Track events across beginning, middle and end.",
+      "hint": "Track events across beginning, middle and end."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1le03-p-040",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03 10 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Match characters to goals; 🔎 ending; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match characters to goals; 🔎 ending; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-019\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-019",
+      "alt_text": "📖 Match characters to goals; 🔎 ending; ✅ choose with evidence"
+    },
+    "answers": [
+      "Treat character as any object.",
+      "Each character matches the logical goal",
+      "Do not ask where and when the story happens."
+    ],
+    "correct": 1,
+    "explanation": "Each character matches the logical goal uses the skill correctly. Characters usually act or feel in the story.\nHint: Characters usually act or feel in the story.",
+    "structuredExplanation": {
+      "summary": "Each character matches the logical goal uses the skill correctly. Characters usually act or feel in the story.",
+      "hint": "Characters usually act or feel in the story."
     },
     "qualitySchema": "production-v1"
   }

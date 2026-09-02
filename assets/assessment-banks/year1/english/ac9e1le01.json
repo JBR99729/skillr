@@ -5,7 +5,7 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01_01_answer",
+    "skill": "ac9e1le01_01_recognise",
     "question": "Which response would correctly find a character clue?",
     "audio_prompt": "Which response would correctly find a character clue?",
     "visual": {
@@ -32,9 +32,7 @@
       "summary": "Gently; it suggests care This matches the task.",
       "hint": "Point to words or image clues."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "stage": "recognise"
   },
   {
     "id": "AC9E1LE01-P-002",
@@ -42,44 +40,7 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01_01_strategy",
-    "question": "Which tip would help you find a character clue?",
-    "audio_prompt": "Which tip would help you find a character clue?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-002",
-      "alt_text": "🧠 Find a character clue; ➡️ Notice words; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Do not use both language and image where available.",
-        "is_correct": false
-      },
-      {
-        "text": "Point to words or image clues.",
-        "is_correct": true
-      },
-      {
-        "text": "Mix event and setting.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Point to words or image clues.",
-      "hint": "Point to words or image clues."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9E1LE01-P-003",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "ac9e1le01_02_answer",
+    "skill": "ac9e1le01_02_recognise",
     "question": "Which response would correctly match choices and effects?",
     "audio_prompt": "Which response would correctly match choices and effects?",
     "visual": {
@@ -106,54 +67,15 @@
       "summary": "Each visual choice matches its likely literary effect This matches the task.",
       "hint": "Use both language and image where available."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LE01-P-004",
+    "id": "AC9E1LE01-P-003",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01_02_strategy",
-    "question": "Which tip would help you match choices and effects?",
-    "audio_prompt": "Which tip would help you match choices and effects?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-004",
-      "alt_text": "🧠 Match choices and effects; ➡️ Notice images; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Use this routine: Notice words → Notice images → Name character/setting/event → Explain effect.",
-        "is_correct": true
-      },
-      {
-        "text": "Mix event and setting.",
-        "is_correct": false
-      },
-      {
-        "text": "Give an opinion without evidence from the text.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Use this routine: Notice words → Notice images → Name character/setting/event → Explain effect.",
-      "hint": "Use both language and image where available."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9E1LE01-P-005",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "ac9e1le01_03_answer",
+    "skill": "ac9e1le01_03_recognise",
     "question": "Which response would correctly perform dialogue clues?",
     "audio_prompt": "Which response would correctly perform dialogue clues?",
     "visual": {
@@ -180,54 +102,15 @@
       "summary": "Uses clearly different voice and explains confidence versus uncertainty This matches the task.",
       "hint": "Setting is where/when; event is what happens."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LE01-P-006",
+    "id": "AC9E1LE01-P-004",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01_03_strategy",
-    "question": "Which tip would help you perform dialogue clues?",
-    "audio_prompt": "Which tip would help you perform dialogue clues?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-006",
-      "alt_text": "🧠 Perform dialogue clues; ➡️ Name character/setting/event; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Give an opinion without evidence from the text.",
-        "is_correct": false
-      },
-      {
-        "text": "Do not use both language and image where available.",
-        "is_correct": false
-      },
-      {
-        "text": "Look for event and check the whole example.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Look for event and check the whole example.",
-      "hint": "Setting is where/when; event is what happens."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9E1LE01-P-007",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "ac9e1le01_04_answer",
+    "skill": "ac9e1le01_04_recognise",
     "question": "Which response would correctly describe a setting?",
     "audio_prompt": "Which response would correctly describe a setting?",
     "visual": {
@@ -254,54 +137,15 @@
       "summary": "A plausible lonely/eerie/windy feeling, supported by whistled and empty This matches the task.",
       "hint": "Point to words or image clues."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LE01-P-008",
+    "id": "AC9E1LE01-P-005",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01_04_strategy",
-    "question": "Which tip would help you describe a setting?",
-    "audio_prompt": "Which tip would help you describe a setting?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-008",
-      "alt_text": "🧠 Describe a setting; ➡️ Explain effect; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Do not use both language and image where available.",
-        "is_correct": false
-      },
-      {
-        "text": "Check that you can use word evidence.",
-        "is_correct": true
-      },
-      {
-        "text": "Mix event and setting.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Check that you can use word evidence.",
-      "hint": "Point to words or image clues."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9E1LE01-P-009",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "ac9e1le01_05_answer",
+    "skill": "ac9e1le01_05_recognise",
     "question": "Which response would correctly order event clues?",
     "audio_prompt": "Which response would correctly order event clues?",
     "visual": {
@@ -328,52 +172,15 @@
       "summary": "A logical narrative order beginning with rain/footprints and ending with puppy found This matches the task.",
       "hint": "Use both language and image where available."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LE01-P-010",
+    "id": "AC9E1LE01-P-006",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01_05_strategy",
-    "question": "Which tip would help you order event clues?",
-    "audio_prompt": "Which tip would help you order event clues?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-010",
-      "alt_text": "🧠 Order event clues; ➡️ Notice words; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Sequencing events from causal clues.",
-        "is_correct": true
-      },
-      {
-        "text": "Mix event and setting.",
-        "is_correct": false
-      },
-      {
-        "text": "Give an opinion without evidence from the text.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Sequencing events from causal clues.",
-      "hint": "Use both language and image where available."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E1LE01-P-011",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "ac9e1le01_06_answer",
+    "skill": "ac9e1le01_06_recognise",
     "question": "Which response would correctly draw an added detail?",
     "audio_prompt": "Which response would correctly draw an added detail?",
     "visual": {
@@ -400,52 +207,15 @@
       "summary": "Uses two relevant choices such as dark waves, tilted boat or looming rocks and labels their effect This matches the task.",
       "hint": "Setting is where/when; event is what happens."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LE01-P-012",
+    "id": "AC9E1LE01-P-007",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01_06_strategy",
-    "question": "Which tip would help you draw an added detail?",
-    "audio_prompt": "Which tip would help you draw an added detail?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-012",
-      "alt_text": "🧠 Draw an added detail; ➡️ Notice images; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Give an opinion without evidence from the text.",
-        "is_correct": false
-      },
-      {
-        "text": "Do not use both language and image where available.",
-        "is_correct": false
-      },
-      {
-        "text": "Setting is where/when; event is what happens.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Setting is where/when; event is what happens.",
-      "hint": "Setting is where/when; event is what happens."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E1LE01-P-013",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "ac9e1le01_07_answer",
+    "skill": "ac9e1le01_07_recognise",
     "question": "Which response would correctly compare word and image?",
     "audio_prompt": "Which response would correctly compare word and image?",
     "visual": {
@@ -472,52 +242,15 @@
       "summary": "Something may have happened before the quiet moment; cites disorder as evidence and keeps inference tentative This matches the task.",
       "hint": "Point to words or image clues."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LE01-P-014",
+    "id": "AC9E1LE01-P-008",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01_07_strategy",
-    "question": "Which tip would help you compare word and image?",
-    "audio_prompt": "Which tip would help you compare word and image?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-014",
-      "alt_text": "🧠 Compare word and image; ➡️ Name character/setting/event; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Do not use both language and image where available.",
-        "is_correct": false
-      },
-      {
-        "text": "Use this routine: Notice words → Notice images → Name character/setting/event → Explain effect.",
-        "is_correct": true
-      },
-      {
-        "text": "Mix event and setting.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Use this routine: Notice words → Notice images → Name character/setting/event → Explain effect.",
-      "hint": "Point to words or image clues."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E1LE01-P-015",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "ac9e1le01_08_answer",
+    "skill": "ac9e1le01_08_recognise",
     "question": "Which response would correctly discuss two character portrayals?",
     "audio_prompt": "Which response would correctly discuss two character portrayals?",
     "visual": {
@@ -544,52 +277,15 @@
       "summary": "First seems energetic/impulsive; second careful/thoughtful, supported by exact actions This matches the task.",
       "hint": "Use both language and image where available."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LE01-P-016",
+    "id": "AC9E1LE01-P-009",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01_08_strategy",
-    "question": "Which tip would help you discuss two character portrayals?",
-    "audio_prompt": "Which tip would help you discuss two character portrayals?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-016",
-      "alt_text": "🧠 Discuss two character portrayals; ➡️ Explain effect; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Look for event and check the whole example.",
-        "is_correct": true
-      },
-      {
-        "text": "Mix event and setting.",
-        "is_correct": false
-      },
-      {
-        "text": "Give an opinion without evidence from the text.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Look for event and check the whole example.",
-      "hint": "Use both language and image where available."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E1LE01-P-017",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "ac9e1le01_01_answer",
+    "skill": "ac9e1le01_09_recognise",
     "question": "Which response would correctly interpret image position?",
     "audio_prompt": "Which response would correctly interpret image position?",
     "visual": {
@@ -616,52 +312,15 @@
       "summary": "The staircase/challenge feels large and the child may feel small, uncertain or overwhelmed This matches the task.",
       "hint": "Setting is where/when; event is what happens."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LE01-P-018",
+    "id": "AC9E1LE01-P-010",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01_01_strategy",
-    "question": "Which tip would help you interpret image position?",
-    "audio_prompt": "Which tip would help you interpret image position?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-018",
-      "alt_text": "🧠 Interpret image position; ➡️ Notice words; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Give an opinion without evidence from the text.",
-        "is_correct": false
-      },
-      {
-        "text": "Do not use both language and image where available.",
-        "is_correct": false
-      },
-      {
-        "text": "Check that you can use word evidence.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Check that you can use word evidence.",
-      "hint": "Setting is where/when; event is what happens."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E1LE01-P-019",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "ac9e1le01_02_answer",
+    "skill": "ac9e1le01_10_recognise",
     "question": "Which response would correctly match fresh language clues?",
     "audio_prompt": "Which response would correctly match fresh language clues?",
     "visual": {
@@ -688,8 +347,322 @@
       "summary": "All three language choices matched to supported effects This matches the task.",
       "hint": "Point to words or image clues."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "recognise"
+  },
+  {
+    "id": "AC9E1LE01-P-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE01",
+    "bank": "practice",
+    "skill": "ac9e1le01_01_explain",
+    "question": "Which tip would help you find a character clue?",
+    "audio_prompt": "Which tip would help you find a character clue?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-002",
+      "alt_text": "🧠 Find a character clue; ➡️ Notice words; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not use both language and image where available.",
+        "is_correct": false
+      },
+      {
+        "text": "Point to words or image clues.",
+        "is_correct": true
+      },
+      {
+        "text": "Mix event and setting.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Point to words or image clues.",
+      "hint": "Point to words or image clues."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LE01-P-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE01",
+    "bank": "practice",
+    "skill": "ac9e1le01_02_explain",
+    "question": "Which tip would help you match choices and effects?",
+    "audio_prompt": "Which tip would help you match choices and effects?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-004",
+      "alt_text": "🧠 Match choices and effects; ➡️ Notice images; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Use this routine: Notice words → Notice images → Name character/setting/event → Explain effect.",
+        "is_correct": true
+      },
+      {
+        "text": "Mix event and setting.",
+        "is_correct": false
+      },
+      {
+        "text": "Give an opinion without evidence from the text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use this routine: Notice words → Notice images → Name character/setting/event → Explain effect.",
+      "hint": "Use both language and image where available."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LE01-P-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE01",
+    "bank": "practice",
+    "skill": "ac9e1le01_03_explain",
+    "question": "Which tip would help you perform dialogue clues?",
+    "audio_prompt": "Which tip would help you perform dialogue clues?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-006",
+      "alt_text": "🧠 Perform dialogue clues; ➡️ Name character/setting/event; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Give an opinion without evidence from the text.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use both language and image where available.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for event and check the whole example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Look for event and check the whole example.",
+      "hint": "Setting is where/when; event is what happens."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LE01-P-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE01",
+    "bank": "practice",
+    "skill": "ac9e1le01_04_explain",
+    "question": "Which tip would help you describe a setting?",
+    "audio_prompt": "Which tip would help you describe a setting?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-008",
+      "alt_text": "🧠 Describe a setting; ➡️ Explain effect; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not use both language and image where available.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can use word evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Mix event and setting.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check that you can use word evidence.",
+      "hint": "Point to words or image clues."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LE01-P-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE01",
+    "bank": "practice",
+    "skill": "ac9e1le01_05_explain",
+    "question": "Which tip would help you order event clues?",
+    "audio_prompt": "Which tip would help you order event clues?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-010",
+      "alt_text": "🧠 Order event clues; ➡️ Notice words; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Sequencing events from causal clues.",
+        "is_correct": true
+      },
+      {
+        "text": "Mix event and setting.",
+        "is_correct": false
+      },
+      {
+        "text": "Give an opinion without evidence from the text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Sequencing events from causal clues.",
+      "hint": "Use both language and image where available."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LE01-P-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE01",
+    "bank": "practice",
+    "skill": "ac9e1le01_06_explain",
+    "question": "Which tip would help you draw an added detail?",
+    "audio_prompt": "Which tip would help you draw an added detail?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-012",
+      "alt_text": "🧠 Draw an added detail; ➡️ Notice images; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Give an opinion without evidence from the text.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use both language and image where available.",
+        "is_correct": false
+      },
+      {
+        "text": "Setting is where/when; event is what happens.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Setting is where/when; event is what happens.",
+      "hint": "Setting is where/when; event is what happens."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LE01-P-017",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE01",
+    "bank": "practice",
+    "skill": "ac9e1le01_07_explain",
+    "question": "Which tip would help you compare word and image?",
+    "audio_prompt": "Which tip would help you compare word and image?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-014",
+      "alt_text": "🧠 Compare word and image; ➡️ Name character/setting/event; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not use both language and image where available.",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Notice words → Notice images → Name character/setting/event → Explain effect.",
+        "is_correct": true
+      },
+      {
+        "text": "Mix event and setting.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use this routine: Notice words → Notice images → Name character/setting/event → Explain effect.",
+      "hint": "Point to words or image clues."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LE01-P-018",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE01",
+    "bank": "practice",
+    "skill": "ac9e1le01_08_explain",
+    "question": "Which tip would help you discuss two character portrayals?",
+    "audio_prompt": "Which tip would help you discuss two character portrayals?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-016",
+      "alt_text": "🧠 Discuss two character portrayals; ➡️ Explain effect; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Look for event and check the whole example.",
+        "is_correct": true
+      },
+      {
+        "text": "Mix event and setting.",
+        "is_correct": false
+      },
+      {
+        "text": "Give an opinion without evidence from the text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Look for event and check the whole example.",
+      "hint": "Use both language and image where available."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LE01-P-019",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE01",
+    "bank": "practice",
+    "skill": "ac9e1le01_09_explain",
+    "question": "Which tip would help you interpret image position?",
+    "audio_prompt": "Which tip would help you interpret image position?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-018",
+      "alt_text": "🧠 Interpret image position; ➡️ Notice words; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Give an opinion without evidence from the text.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use both language and image where available.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can use word evidence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check that you can use word evidence.",
+      "hint": "Setting is where/when; event is what happens."
+    },
+    "stage": "explain"
   },
   {
     "id": "AC9E1LE01-P-020",
@@ -697,7 +670,7 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01_02_strategy",
+    "skill": "ac9e1le01_10_explain",
     "question": "Which tip would help you match fresh language clues?",
     "audio_prompt": "Which tip would help you match fresh language clues?",
     "visual": {
@@ -724,8 +697,7 @@
       "summary": "Interpreting verbs and phrases in literature.",
       "hint": "Point to words or image clues."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "explain"
   },
   {
     "id": "AC9E1LE01-P-021",
@@ -733,35 +705,34 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01_03_answer",
-    "question": "Which response would correctly sequence a visual event?",
-    "audio_prompt": "Which response would correctly sequence a visual event?",
+    "skill": "ac9e1le01_01_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-021",
-      "alt_text": "📖 Sequence a visual event; 🔎 character; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-001",
+      "alt_text": "📖 Find a character clue; 🔎 character; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "completed with eggs → half-built → twig carried → Empty/start",
-        "is_correct": false
-      },
-      {
-        "text": "Do not use both language and image where available.",
-        "is_correct": false
-      },
-      {
-        "text": "Empty/start → twig carried → half-built → completed with eggs",
+        "text": "Tara tucked the injured bird gently into a box",
         "is_correct": true
+      },
+      {
+        "text": "Gently; it suggests care",
+        "is_correct": false
+      },
+      {
+        "text": "Point to words or image clues.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Empty/start → twig carried → half-built → completed with eggs This matches the task.",
-      "hint": "Use both language and image where available."
+      "summary": "Tara tucked the injured bird gently into a box is the mix-up. Point to words or image clues.",
+      "hint": "Point to words or image clues."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "discriminate"
   },
   {
     "id": "AC9E1LE01-P-022",
@@ -769,17 +740,612 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01_03_strategy",
-    "question": "Which tip would help you sequence a visual event?",
-    "audio_prompt": "Which tip would help you sequence a visual event?",
+    "skill": "ac9e1le01_02_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-022",
-      "alt_text": "🧠 Sequence a visual event; ➡️ Name character/setting/event; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-003",
+      "alt_text": "📖 Match choices and effects; 🔎 setting; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "Use both language and image where available.",
+        "text": "Each visual choice matches its likely literary effect",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use both language and image where available.",
+        "is_correct": true
+      },
+      {
+        "text": "Use this routine: Notice words → Notice images → Name character/setting/event → Explain effect.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Do not use both language and image where available. is the mix-up. Use both language and image where available.",
+      "hint": "Use both language and image where available."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LE01-P-023",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE01",
+    "bank": "practice",
+    "skill": "ac9e1le01_03_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-005",
+      "alt_text": "📖 Perform dialogue clues; 🔎 event; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Uses clearly different voice and explains confidence versus uncertainty",
+        "is_correct": false
+      },
+      {
+        "text": "Look for event and check the whole example.",
+        "is_correct": false
+      },
+      {
+        "text": "I can do it",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "I can do it is the mix-up. Setting is where/when; event is what happens.",
+      "hint": "Setting is where/when; event is what happens."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LE01-P-024",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE01",
+    "bank": "practice",
+    "skill": "ac9e1le01_04_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-007",
+      "alt_text": "📖 Describe a setting; 🔎 words; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Wind whistled between the empty sheds",
+        "is_correct": true
+      },
+      {
+        "text": "A plausible lonely/eerie/windy feeling, supported by whistled and empty",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can use word evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Wind whistled between the empty sheds is the mix-up. Point to words or image clues.",
+      "hint": "Point to words or image clues."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LE01-P-025",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE01",
+    "bank": "practice",
+    "skill": "ac9e1le01_05_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-009",
+      "alt_text": "📖 Order event clues; 🔎 image clue; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "A logical narrative order beginning with rain/footprints and ending with puppy found",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use both language and image where available.",
+        "is_correct": true
+      },
+      {
+        "text": "Sequencing events from causal clues.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Do not use both language and image where available. is the mix-up. Use both language and image where available.",
+      "hint": "Use both language and image where available."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LE01-P-026",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE01",
+    "bank": "practice",
+    "skill": "ac9e1le01_06_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-011",
+      "alt_text": "📖 Draw an added detail; 🔎 character; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Uses two relevant choices such as dark waves, tilted boat or looming rocks and labels their effect",
+        "is_correct": false
+      },
+      {
+        "text": "Setting is where/when; event is what happens.",
+        "is_correct": false
+      },
+      {
+        "text": "The boat entered the bay",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The boat entered the bay is the mix-up. Setting is where/when; event is what happens.",
+      "hint": "Setting is where/when; event is what happens."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LE01-P-027",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE01",
+    "bank": "practice",
+    "skill": "ac9e1le01_07_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-013",
+      "alt_text": "📖 Compare word and image; 🔎 setting; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "quiet",
+        "is_correct": true
+      },
+      {
+        "text": "Something may have happened before the quiet moment; cites disorder as evidence and keeps inference tentative",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Notice words → Notice images → Name character/setting/event → Explain effect.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "quiet is the mix-up. Point to words or image clues.",
+      "hint": "Point to words or image clues."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LE01-P-028",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE01",
+    "bank": "practice",
+    "skill": "ac9e1le01_08_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-015",
+      "alt_text": "📖 Discuss two character portrayals; 🔎 event; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "First seems energetic/impulsive; second careful/thoughtful, supported by exact actions",
+        "is_correct": false
+      },
+      {
+        "text": "bounding ahead",
+        "is_correct": true
+      },
+      {
+        "text": "Look for event and check the whole example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "bounding ahead is the mix-up. Use both language and image where available.",
+      "hint": "Use both language and image where available."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LE01-P-029",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE01",
+    "bank": "practice",
+    "skill": "ac9e1le01_09_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-017",
+      "alt_text": "📖 Interpret image position; 🔎 words; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "The staircase/challenge feels large and the child may feel small, uncertain or overwhelmed",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can use word evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Mix event and setting.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Mix event and setting. is the mix-up. Setting is where/when; event is what happens.",
+      "hint": "Setting is where/when; event is what happens."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LE01-P-030",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE01",
+    "bank": "practice",
+    "skill": "ac9e1le01_10_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-019",
+      "alt_text": "📖 Match fresh language clues; 🔎 image clue; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Give an opinion without evidence from the text.",
+        "is_correct": true
+      },
+      {
+        "text": "All three language choices matched to supported effects",
+        "is_correct": false
+      },
+      {
+        "text": "Interpreting verbs and phrases in literature.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Give an opinion without evidence from the text. is the mix-up. Point to words or image clues.",
+      "hint": "Point to words or image clues."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LE01-P-031",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE01",
+    "bank": "practice",
+    "skill": "ac9e1le01_01_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-001",
+      "alt_text": "📖 Find a character clue; 🔎 character; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Tara tucked the injured bird gently into a box",
+        "is_correct": false
+      },
+      {
+        "text": "Gently; it suggests care",
+        "is_correct": true
+      },
+      {
+        "text": "Give an opinion without evidence from the text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Gently; it suggests care uses the skill correctly. Point to words or image clues.",
+      "hint": "Point to words or image clues."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LE01-P-032",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE01",
+    "bank": "practice",
+    "skill": "ac9e1le01_02_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-003",
+      "alt_text": "📖 Match choices and effects; 🔎 setting; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not use both language and image where available.",
+        "is_correct": false
+      },
+      {
+        "text": "Mix event and setting.",
+        "is_correct": false
+      },
+      {
+        "text": "Each visual choice matches its likely literary effect",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Each visual choice matches its likely literary effect uses the skill correctly. Use both language and image where available.",
+      "hint": "Use both language and image where available."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LE01-P-033",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE01",
+    "bank": "practice",
+    "skill": "ac9e1le01_03_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-005",
+      "alt_text": "📖 Perform dialogue clues; 🔎 event; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Uses clearly different voice and explains confidence versus uncertainty",
+        "is_correct": true
+      },
+      {
+        "text": "I can do it",
+        "is_correct": false
+      },
+      {
+        "text": "Mix event and setting.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Uses clearly different voice and explains confidence versus uncertainty uses the skill correctly. Setting is where/when; event is what happens.",
+      "hint": "Setting is where/when; event is what happens."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LE01-P-034",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE01",
+    "bank": "practice",
+    "skill": "ac9e1le01_04_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-007",
+      "alt_text": "📖 Describe a setting; 🔎 words; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Wind whistled between the empty sheds",
+        "is_correct": false
+      },
+      {
+        "text": "A plausible lonely/eerie/windy feeling, supported by whistled and empty",
+        "is_correct": true
+      },
+      {
+        "text": "Give an opinion without evidence from the text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A plausible lonely/eerie/windy feeling, supported by whistled and empty uses the skill correctly. Point to words or image clues.",
+      "hint": "Point to words or image clues."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LE01-P-035",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE01",
+    "bank": "practice",
+    "skill": "ac9e1le01_05_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-009",
+      "alt_text": "📖 Order event clues; 🔎 image clue; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not use both language and image where available.",
+        "is_correct": false
+      },
+      {
+        "text": "Mix event and setting.",
+        "is_correct": false
+      },
+      {
+        "text": "A logical narrative order beginning with rain/footprints and ending with puppy found",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A logical narrative order beginning with rain/footprints and ending with puppy found uses the skill correctly. Use both language and image where available.",
+      "hint": "Use both language and image where available."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LE01-P-036",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE01",
+    "bank": "practice",
+    "skill": "ac9e1le01_06_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-011",
+      "alt_text": "📖 Draw an added detail; 🔎 character; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Uses two relevant choices such as dark waves, tilted boat or looming rocks and labels their effect",
+        "is_correct": true
+      },
+      {
+        "text": "The boat entered the bay",
+        "is_correct": false
+      },
+      {
+        "text": "Mix event and setting.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Uses two relevant choices such as dark waves, tilted boat or looming rocks and labels their effect uses the skill correctly. Setting is where/when; event is what happens.",
+      "hint": "Setting is where/when; event is what happens."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LE01-P-037",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE01",
+    "bank": "practice",
+    "skill": "ac9e1le01_07_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-013",
+      "alt_text": "📖 Compare word and image; 🔎 setting; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "quiet",
+        "is_correct": false
+      },
+      {
+        "text": "Something may have happened before the quiet moment; cites disorder as evidence and keeps inference tentative",
+        "is_correct": true
+      },
+      {
+        "text": "Give an opinion without evidence from the text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Something may have happened before the quiet moment; cites disorder as evidence and keeps inference tentative uses the skill correctly. Point to words or image clues.",
+      "hint": "Point to words or image clues."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LE01-P-038",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE01",
+    "bank": "practice",
+    "skill": "ac9e1le01_08_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-015",
+      "alt_text": "📖 Discuss two character portrayals; 🔎 event; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "bounding ahead",
+        "is_correct": false
+      },
+      {
+        "text": "waited and checked the map",
+        "is_correct": false
+      },
+      {
+        "text": "First seems energetic/impulsive; second careful/thoughtful, supported by exact actions",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "First seems energetic/impulsive; second careful/thoughtful, supported by exact actions uses the skill correctly. Use both language and image where available.",
+      "hint": "Use both language and image where available."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LE01-P-039",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE01",
+    "bank": "practice",
+    "skill": "ac9e1le01_09_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-017",
+      "alt_text": "📖 Interpret image position; 🔎 words; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "The staircase/challenge feels large and the child may feel small, uncertain or overwhelmed",
         "is_correct": true
       },
       {
@@ -793,83 +1359,45 @@
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use both language and image where available.",
-      "hint": "Use both language and image where available."
+      "summary": "The staircase/challenge feels large and the child may feel small, uncertain or overwhelmed uses the skill correctly. Setting is where/when; event is what happens.",
+      "hint": "Setting is where/when; event is what happens."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "apply"
   },
   {
-    "id": "AC9E1LE01-P-023",
+    "id": "AC9E1LE01-P-040",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LE01",
     "bank": "practice",
-    "skill": "ac9e1le01_04_answer",
-    "question": "Which response would correctly explain a colour change?",
-    "audio_prompt": "Which response would correctly explain a colour change?",
+    "skill": "ac9e1le01_10_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-023",
-      "alt_text": "📖 Explain a colour change; 🔎 setting; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-019",
+      "alt_text": "📖 Match fresh language clues; 🔎 image clue; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "Mix event and setting.",
+        "text": "Give an opinion without evidence from the text.",
         "is_correct": false
       },
       {
-        "text": "Signals a shift from worry/sadness to relief/happiness and highlights the event's emotional change",
+        "text": "All three language choices matched to supported effects",
         "is_correct": true
       },
       {
-        "text": "Give an opinion without evidence from the text.",
+        "text": "Do not use both language and image where available.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Signals a shift from worry/sadness to relief/happiness and highlights the event's emotional change This matches the task.",
-      "hint": "Setting is where/when; event is what happens."
+      "summary": "All three language choices matched to supported effects uses the skill correctly. Point to words or image clues.",
+      "hint": "Point to words or image clues."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E1LE01-P-024",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LE01",
-    "bank": "practice",
-    "skill": "ac9e1le01_04_strategy",
-    "question": "Which tip would help you explain a colour change?",
-    "audio_prompt": "Which tip would help you explain a colour change?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-p-024",
-      "alt_text": "🧠 Explain a colour change; ➡️ Explain effect; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Give an opinion without evidence from the text.",
-        "is_correct": false
-      },
-      {
-        "text": "Do not use both language and image where available.",
-        "is_correct": false
-      },
-      {
-        "text": "Use this routine: Notice words → Notice images → Name character/setting/event → Explain effect.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Use this routine: Notice words → Notice images → Name character/setting/event → Explain effect.",
-      "hint": "Setting is where/when; event is what happens."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "stage": "apply"
   },
   {
     "id": "AC9E1LE01-T-001",
@@ -1149,33 +1677,34 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LE01",
     "bank": "test",
-    "skill": "ac9e1le01_05_answer",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1le01 05 answer. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 1 student is working with a text and needs to use ac9e1le01 05 answer. Which option best demonstrates the skill?",
+    "skill": "ac9e1le01_01_test_verify",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audio_prompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-009",
-      "alt_text": "📖 Rule; 🔎 image clue; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-002",
+      "alt_text": "🧠 Demonstrate character movement; ➡️ Notice words; 💡 helpful strategy"
     },
     "answers": [
+      {
+        "text": "Give an opinion without evidence from the text.",
+        "is_correct": false
+      },
       {
         "text": "Do not use both language and image where available.",
         "is_correct": false
       },
       {
-        "text": "Mix event and setting.",
-        "is_correct": false
-      },
-      {
-        "text": "Authors use naming words, actions, dialogue and description",
+        "text": "Point to words or image clues.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Authors use naming words, actions, dialogue and description This matches the task.",
-      "hint": "Use both language and image where available."
-    }
+      "summary": "Point to words or image clues. is the useful check. Point to words or image clues.",
+      "hint": "Point to words or image clues."
+    },
+    "stage": "verify"
   },
   {
     "id": "AC9E1LE01-T-010",
@@ -1183,33 +1712,34 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LE01",
     "bank": "test",
-    "skill": "ac9e1le01_05_strategy",
-    "question": "Which tip would help you rule?",
-    "audio_prompt": "Which tip would help you rule?",
+    "skill": "ac9e1le01_02_test_verify",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audio_prompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-010",
-      "alt_text": "🧠 Rule; ➡️ Notice words; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-004",
+      "alt_text": "🧠 Draw paired settings; ➡️ Notice images; 💡 helpful strategy"
     },
     "answers": [
       {
-        "text": "Using the rule for this English skill.",
+        "text": "Use this routine: Notice words → Notice images → Name character/setting/event → Explain effect.",
         "is_correct": true
       },
       {
-        "text": "Mix event and setting.",
+        "text": "Do not use both language and image where available.",
         "is_correct": false
       },
       {
-        "text": "Give an opinion without evidence from the text.",
+        "text": "Mix event and setting.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Using the rule for this English skill.",
+      "summary": "Use this routine: Notice words → Notice images → Name character/setting/event → Explain effect. is the useful check. Use both language and image where available.",
       "hint": "Use both language and image where available."
-    }
+    },
+    "stage": "verify"
   },
   {
     "id": "AC9E1LE01-T-011",
@@ -1217,13 +1747,13 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LE01",
     "bank": "test",
-    "skill": "ac9e1le01_06_answer",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1le01 06 answer. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 1 student is working with a text and needs to use ac9e1le01 06 answer. Which option best demonstrates the skill?",
+    "skill": "ac9e1le01_03_test_verify",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audio_prompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-011",
-      "alt_text": "📖 Worked example; 🔎 character; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-006",
+      "alt_text": "🧠 Correct an unsupported claim; ➡️ Name character/setting/event; 💡 helpful strategy"
     },
     "answers": [
       {
@@ -1231,7 +1761,7 @@
         "is_correct": false
       },
       {
-        "text": "Use the worked example for this English skill",
+        "text": "Look for event and check the whole example.",
         "is_correct": true
       },
       {
@@ -1241,9 +1771,10 @@
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the worked example for this English skill This matches the task.",
+      "summary": "Look for event and check the whole example. is the useful check. Setting is where/when; event is what happens.",
       "hint": "Setting is where/when; event is what happens."
-    }
+    },
+    "stage": "verify"
   },
   {
     "id": "AC9E1LE01-T-012",
@@ -1251,33 +1782,34 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LE01",
     "bank": "test",
-    "skill": "ac9e1le01_06_strategy",
-    "question": "Which tip would help you worked example?",
-    "audio_prompt": "Which tip would help you worked example?",
+    "skill": "ac9e1le01_04_test_verify",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audio_prompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-012",
-      "alt_text": "🧠 Worked example; ➡️ Notice images; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-008",
+      "alt_text": "🧠 Analyse a multimodal moment; ➡️ Explain effect; 💡 helpful strategy"
     },
     "answers": [
+      {
+        "text": "Ari lifted the lid slowly",
+        "is_correct": false
+      },
       {
         "text": "Give an opinion without evidence from the text.",
         "is_correct": false
       },
       {
-        "text": "Do not use both language and image where available.",
-        "is_correct": false
-      },
-      {
-        "text": "Setting is where/when; event is what happens.",
+        "text": "Check that you can use word evidence.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Setting is where/when; event is what happens.",
-      "hint": "Setting is where/when; event is what happens."
-    }
+      "summary": "Check that you can use word evidence. is the useful check. Point to words or image clues.",
+      "hint": "Point to words or image clues."
+    },
+    "stage": "verify"
   },
   {
     "id": "AC9E1LE01-T-013",
@@ -1285,17 +1817,17 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LE01",
     "bank": "test",
-    "skill": "ac9e1le01_07_answer",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1le01 07 answer. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 1 student is working with a text and needs to use ac9e1le01 07 answer. Which option best demonstrates the skill?",
+    "skill": "ac9e1le01_01_test_apply",
+    "question": "A classmate chose “Give an opinion without evidence from the text.”. Which answer would improve their response?",
+    "audio_prompt": "A classmate chose Give an opinion without evidence from the text.. Which answer would improve their response?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-013",
-      "alt_text": "📖 Discussion clue; 🔎 setting; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-001",
+      "alt_text": "📖 Demonstrate character movement; 🔎 character; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "Use the discussion clue for this English skill",
+        "text": "Gives distinct pose/line/movement details for both and connects them to pace/feeling",
         "is_correct": true
       },
       {
@@ -1309,9 +1841,10 @@
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the discussion clue for this English skill This matches the task.",
+      "summary": "Gives distinct pose/line/movement details for both and connects them to pace/feeling is the stronger response because it uses the target skill. Point to words or image clues.",
       "hint": "Point to words or image clues."
-    }
+    },
+    "stage": "apply"
   },
   {
     "id": "AC9E1LE01-T-014",
@@ -1319,13 +1852,13 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LE01",
     "bank": "test",
-    "skill": "ac9e1le01_07_strategy",
-    "question": "Which tip would help you discussion clue?",
-    "audio_prompt": "Which tip would help you discussion clue?",
+    "skill": "ac9e1le01_02_test_apply",
+    "question": "A classmate chose “Do not use both language and image where available.”. Which answer would improve their response?",
+    "audio_prompt": "A classmate chose Do not use both language and image where available.. Which answer would improve their response?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-014",
-      "alt_text": "🧠 Discussion clue; ➡️ Name character/setting/event; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-003",
+      "alt_text": "📖 Draw paired settings; 🔎 setting; ✅ choose with evidence"
     },
     "answers": [
       {
@@ -1333,7 +1866,7 @@
         "is_correct": false
       },
       {
-        "text": "Use this routine: Notice words → Notice images → Name character/setting/event → Explain effect.",
+        "text": "Two recognisable versions with at least two purposeful changes such as light, viewpoint, shadows or activity",
         "is_correct": true
       },
       {
@@ -1343,9 +1876,10 @@
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use this routine: Notice words → Notice images → Name character/setting/event → Explain effect.",
-      "hint": "Point to words or image clues."
-    }
+      "summary": "Two recognisable versions with at least two purposeful changes such as light, viewpoint, shadows or activity is the stronger response because it uses the target skill. Use both language and image where available.",
+      "hint": "Use both language and image where available."
+    },
+    "stage": "apply"
   },
   {
     "id": "AC9E1LE01-T-015",
@@ -1353,33 +1887,34 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LE01",
     "bank": "test",
-    "skill": "ac9e1le01_08_answer",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1le01 08 answer. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 1 student is working with a text and needs to use ac9e1le01 08 answer. Which option best demonstrates the skill?",
+    "skill": "ac9e1le01_03_test_apply",
+    "question": "A classmate chose “Mix event and setting.”. Which answer would improve their response?",
+    "audio_prompt": "A classmate chose Mix event and setting.. Which answer would improve their response?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-015",
-      "alt_text": "📖 Common trap; 🔎 event; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-005",
+      "alt_text": "📖 Correct an unsupported claim; 🔎 event; ✅ choose with evidence"
     },
     "answers": [
-      {
-        "text": "Do not use both language and image where available.",
-        "is_correct": false
-      },
       {
         "text": "Mix event and setting.",
         "is_correct": false
       },
       {
-        "text": "An image may add information not stated in the words, but readers should point to evidence before inferring.",
+        "text": "Give an opinion without evidence from the text.",
+        "is_correct": false
+      },
+      {
+        "text": "Clothing colour alone does not prove personality; use actions, words, expressions and events as evidence",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "An image may add information not stated in the words, but readers should point to evidence before inferring. This matches the task.",
-      "hint": "Use both language and image where available."
-    }
+      "summary": "Clothing colour alone does not prove personality; use actions, words, expressions and events as evidence is the stronger response because it uses the target skill. Setting is where/when; event is what happens.",
+      "hint": "Setting is where/when; event is what happens."
+    },
+    "stage": "apply"
   },
   {
     "id": "AC9E1LE01-T-016",
@@ -1387,21 +1922,21 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LE01",
     "bank": "test",
-    "skill": "ac9e1le01_08_strategy",
-    "question": "Which tip would help you common trap?",
-    "audio_prompt": "Which tip would help you common trap?",
+    "skill": "ac9e1le01_04_test_apply",
+    "question": "A classmate chose “Ari lifted the lid slowly”. Which answer would improve their response?",
+    "audio_prompt": "A classmate chose Ari lifted the lid slowly. Which answer would improve their response?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-016",
-      "alt_text": "🧠 Common trap; ➡️ Explain effect; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-007",
+      "alt_text": "📖 Analyse a multimodal moment; 🔎 words; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "Look for event and check the whole example.",
+        "text": "Slowly builds suspense",
         "is_correct": true
       },
       {
-        "text": "Mix event and setting.",
+        "text": "Ari lifted the lid slowly",
         "is_correct": false
       },
       {
@@ -1411,8 +1946,9 @@
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Look for event and check the whole example.",
-      "hint": "Use both language and image where available."
-    }
+      "summary": "Slowly builds suspense is the stronger response because it uses the target skill. Point to words or image clues.",
+      "hint": "Point to words or image clues."
+    },
+    "stage": "apply"
   }
 ]

@@ -1,15 +1,21 @@
 {
   "curriculum_code": "AC9E1LA10",
-  "practice": 24,
+  "practice": 40,
   "test": 16,
-  "items": 40,
+  "items": 56,
   "automated_quality_score": 9,
   "source": "Existing authored Year 1 English curriculum bank and lesson model",
   "fixes": [
-    "Expanded the 8-item live banks to 24 Practice and 16 dedicated Test items.",
-    "Converted response-only tasks into three-choice auto-marked concept and strategy checks.",
-    "Added balanced answer positions, misconception-based distractors and separate bank contexts.",
-    "Added system read-aloud prompts, SVG visual organisers, accessibility text, summaries and hints."
+    "Rebuilt Practice as 40 three-option questions ordered from recognition to independent application.",
+    "Kept Test examples on a separate genuine authored source range and removed generic Quick Read test templates.",
+    "Used misconception-based distractors and child-facing hints rather than teacher-facing rubric language.",
+    "Kept answer positions balanced and retained read-aloud prompts plus accessible visual organisers."
   ],
-  "flagged_for_awareness": []
+  "flagged_for_awareness": [],
+  "progression": [
+    "recognise",
+    "explain",
+    "discriminate",
+    "apply"
+  ]
 }

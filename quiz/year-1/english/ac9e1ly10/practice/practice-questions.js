@@ -4,7 +4,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9e1ly10-p-001",
     "curriculumCode": "AC9E1LY10",
     "bank": "practice",
-    "skill": "ac9e1ly10 01 answer",
+    "skill": "ac9e1ly10 01 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly add an initial sound?",
@@ -33,36 +33,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9e1ly10-p-002",
     "curriculumCode": "AC9E1LY10",
     "bank": "practice",
-    "skill": "ac9e1ly10 01 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you add an initial sound?",
-    "audioPrompt": "Which tip would help you add an initial sound?",
-    "visual": "🧠 Add an initial sound; ➡️ Say word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Add an initial sound; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-002\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-002",
-      "alt_text": "🧠 Add an initial sound; ➡️ Say word; 💡 helpful strategy"
-    },
-    "answers": [
-      "Change more than one sound.",
-      "Say the sounds aloud.",
-      "Forget middle/final sounds."
-    ],
-    "correct": 1,
-    "explanation": "Say the sounds aloud.\nHint: Say the sounds aloud.",
-    "structuredExplanation": {
-      "summary": "Say the sounds aloud.",
-      "hint": "Say the sounds aloud."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly10-p-003",
-    "curriculumCode": "AC9E1LY10",
-    "bank": "practice",
-    "skill": "ac9e1ly10 02 answer",
+    "skill": "ac9e1ly10 02 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly match changes and words?",
@@ -88,39 +59,10 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-p-004",
+    "id": "ac9e1ly10-p-003",
     "curriculumCode": "AC9E1LY10",
     "bank": "practice",
-    "skill": "ac9e1ly10 02 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you match changes and words?",
-    "audioPrompt": "Which tip would help you match changes and words?",
-    "visual": "🧠 Match changes and words; ➡️ Change sound; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match changes and words; ➡️ Change sound; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-004\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-004",
-      "alt_text": "🧠 Match changes and words; ➡️ Change sound; 💡 helpful strategy"
-    },
-    "answers": [
-      "Use this routine: Say word → Change sound → Say new word → Check meaning.",
-      "Forget middle/final sounds.",
-      "Change letters silently."
-    ],
-    "correct": 0,
-    "explanation": "Use this routine: Say word → Change sound → Say new word → Check meaning.\nHint: Change only the sound named.",
-    "structuredExplanation": {
-      "summary": "Use this routine: Say word → Change sound → Say new word → Check meaning.",
-      "hint": "Change only the sound named."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly10-p-005",
-    "curriculumCode": "AC9E1LY10",
-    "bank": "practice",
-    "skill": "ac9e1ly10 03 answer",
+    "skill": "ac9e1ly10 03 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly move a middle-sound token?",
@@ -146,39 +88,10 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-p-006",
+    "id": "ac9e1ly10-p-004",
     "curriculumCode": "AC9E1LY10",
     "bank": "practice",
-    "skill": "ac9e1ly10 03 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you move a middle-sound token?",
-    "audioPrompt": "Which tip would help you move a middle-sound token?",
-    "visual": "🧠 Move a middle-sound token; ➡️ Say new word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Move a middle-sound token; ➡️ Say new word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-006",
-      "alt_text": "🧠 Move a middle-sound token; ➡️ Say new word; 💡 helpful strategy"
-    },
-    "answers": [
-      "Change letters silently.",
-      "Change more than one sound.",
-      "Look for substitute and check the whole example."
-    ],
-    "correct": 2,
-    "explanation": "Look for substitute and check the whole example.\nHint: Practise start, middle and end positions.",
-    "structuredExplanation": {
-      "summary": "Look for substitute and check the whole example.",
-      "hint": "Practise start, middle and end positions."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly10-p-007",
-    "curriculumCode": "AC9E1LY10",
-    "bank": "practice",
-    "skill": "ac9e1ly10 04 answer",
+    "skill": "ac9e1ly10 04 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly change a final sound?",
@@ -204,39 +117,10 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-p-008",
+    "id": "ac9e1ly10-p-005",
     "curriculumCode": "AC9E1LY10",
     "bank": "practice",
-    "skill": "ac9e1ly10 04 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you change a final sound?",
-    "audioPrompt": "Which tip would help you change a final sound?",
-    "visual": "🧠 Change a final sound; ➡️ Check meaning; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Change a final sound; ➡️ Check meaning; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-008\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-008",
-      "alt_text": "🧠 Change a final sound; ➡️ Check meaning; 💡 helpful strategy"
-    },
-    "answers": [
-      "Change more than one sound.",
-      "Check that you can change initial sounds.",
-      "Forget middle/final sounds."
-    ],
-    "correct": 1,
-    "explanation": "Check that you can change initial sounds.\nHint: Say the sounds aloud.",
-    "structuredExplanation": {
-      "summary": "Check that you can change initial sounds.",
-      "hint": "Say the sounds aloud."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly10-p-009",
-    "curriculumCode": "AC9E1LY10",
-    "bank": "practice",
-    "skill": "ac9e1ly10 05 answer",
+    "skill": "ac9e1ly10 05 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly order a deletion?",
@@ -262,39 +146,10 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-p-010",
+    "id": "ac9e1ly10-p-006",
     "curriculumCode": "AC9E1LY10",
     "bank": "practice",
-    "skill": "ac9e1ly10 05 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you order a deletion?",
-    "audioPrompt": "Which tip would help you order a deletion?",
-    "visual": "🧠 Order a deletion; ➡️ Say word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Order a deletion; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-010",
-      "alt_text": "🧠 Order a deletion; ➡️ Say word; 💡 helpful strategy"
-    },
-    "answers": [
-      "Sequencing initial-phoneme deletion.",
-      "Forget middle/final sounds.",
-      "Change letters silently."
-    ],
-    "correct": 0,
-    "explanation": "Sequencing initial-phoneme deletion.\nHint: Change only the sound named.",
-    "structuredExplanation": {
-      "summary": "Sequencing initial-phoneme deletion.",
-      "hint": "Change only the sound named."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly10-p-011",
-    "curriculumCode": "AC9E1LY10",
-    "bank": "practice",
-    "skill": "ac9e1ly10 06 answer",
+    "skill": "ac9e1ly10 06 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly draw sound-change boxes?",
@@ -320,39 +175,10 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-p-012",
+    "id": "ac9e1ly10-p-007",
     "curriculumCode": "AC9E1LY10",
     "bank": "practice",
-    "skill": "ac9e1ly10 06 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you draw sound-change boxes?",
-    "audioPrompt": "Which tip would help you draw sound-change boxes?",
-    "visual": "🧠 Draw sound-change boxes; ➡️ Change sound; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw sound-change boxes; ➡️ Change sound; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-012\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-012",
-      "alt_text": "🧠 Draw sound-change boxes; ➡️ Change sound; 💡 helpful strategy"
-    },
-    "answers": [
-      "Change letters silently.",
-      "Change more than one sound.",
-      "Practise start, middle and end positions."
-    ],
-    "correct": 2,
-    "explanation": "Practise start, middle and end positions.\nHint: Practise start, middle and end positions.",
-    "structuredExplanation": {
-      "summary": "Practise start, middle and end positions.",
-      "hint": "Practise start, middle and end positions."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly10-p-013",
-    "curriculumCode": "AC9E1LY10",
-    "bank": "practice",
-    "skill": "ac9e1ly10 07 answer",
+    "skill": "ac9e1ly10 07 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly identify changed position?",
@@ -378,39 +204,10 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-p-014",
+    "id": "ac9e1ly10-p-008",
     "curriculumCode": "AC9E1LY10",
     "bank": "practice",
-    "skill": "ac9e1ly10 07 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you identify changed position?",
-    "audioPrompt": "Which tip would help you identify changed position?",
-    "visual": "🧠 Identify changed position; ➡️ Say new word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Identify changed position; ➡️ Say new word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-014\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-014",
-      "alt_text": "🧠 Identify changed position; ➡️ Say new word; 💡 helpful strategy"
-    },
-    "answers": [
-      "Change more than one sound.",
-      "Use this routine: Say word → Change sound → Say new word → Check meaning.",
-      "Forget middle/final sounds."
-    ],
-    "correct": 1,
-    "explanation": "Use this routine: Say word → Change sound → Say new word → Check meaning.\nHint: Say the sounds aloud.",
-    "structuredExplanation": {
-      "summary": "Use this routine: Say word → Change sound → Say new word → Check meaning.",
-      "hint": "Say the sounds aloud."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly10-p-015",
-    "curriculumCode": "AC9E1LY10",
-    "bank": "practice",
-    "skill": "ac9e1ly10 08 answer",
+    "skill": "ac9e1ly10 08 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly make three new words?",
@@ -436,39 +233,10 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-p-016",
+    "id": "ac9e1ly10-p-009",
     "curriculumCode": "AC9E1LY10",
     "bank": "practice",
-    "skill": "ac9e1ly10 08 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you make three new words?",
-    "audioPrompt": "Which tip would help you make three new words?",
-    "visual": "🧠 Make three new words; ➡️ Check meaning; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Make three new words; ➡️ Check meaning; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-016",
-      "alt_text": "🧠 Make three new words; ➡️ Check meaning; 💡 helpful strategy"
-    },
-    "answers": [
-      "Look for substitute and check the whole example.",
-      "Forget middle/final sounds.",
-      "Change letters silently."
-    ],
-    "correct": 0,
-    "explanation": "Look for substitute and check the whole example.\nHint: Change only the sound named.",
-    "structuredExplanation": {
-      "summary": "Look for substitute and check the whole example.",
-      "hint": "Change only the sound named."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly10-p-017",
-    "curriculumCode": "AC9E1LY10",
-    "bank": "practice",
-    "skill": "ac9e1ly10 01 answer",
+    "skill": "ac9e1ly10 09 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly delete a final sound?",
@@ -494,39 +262,10 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly10-p-018",
+    "id": "ac9e1ly10-p-010",
     "curriculumCode": "AC9E1LY10",
     "bank": "practice",
-    "skill": "ac9e1ly10 01 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you delete a final sound?",
-    "audioPrompt": "Which tip would help you delete a final sound?",
-    "visual": "🧠 Delete a final sound; ➡️ Say word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Delete a final sound; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-018\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-018",
-      "alt_text": "🧠 Delete a final sound; ➡️ Say word; 💡 helpful strategy"
-    },
-    "answers": [
-      "Change letters silently.",
-      "Change more than one sound.",
-      "Check that you can change initial sounds."
-    ],
-    "correct": 2,
-    "explanation": "Check that you can change initial sounds.\nHint: Practise start, middle and end positions.",
-    "structuredExplanation": {
-      "summary": "Check that you can change initial sounds.",
-      "hint": "Practise start, middle and end positions."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly10-p-019",
-    "curriculumCode": "AC9E1LY10",
-    "bank": "practice",
-    "skill": "ac9e1ly10 02 answer",
+    "skill": "ac9e1ly10 10 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly match medial substitutions?",
@@ -552,10 +291,271 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
+    "id": "ac9e1ly10-p-011",
+    "curriculumCode": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10 01 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you add an initial sound?",
+    "audioPrompt": "Which tip would help you add an initial sound?",
+    "visual": "🧠 Add an initial sound; ➡️ Say word; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Add an initial sound; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-002\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-002",
+      "alt_text": "🧠 Add an initial sound; ➡️ Say word; 💡 helpful strategy"
+    },
+    "answers": [
+      "Change more than one sound.",
+      "Say the sounds aloud.",
+      "Forget middle/final sounds."
+    ],
+    "correct": 1,
+    "explanation": "Say the sounds aloud.\nHint: Say the sounds aloud.",
+    "structuredExplanation": {
+      "summary": "Say the sounds aloud.",
+      "hint": "Say the sounds aloud."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly10-p-012",
+    "curriculumCode": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10 02 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you match changes and words?",
+    "audioPrompt": "Which tip would help you match changes and words?",
+    "visual": "🧠 Match changes and words; ➡️ Change sound; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match changes and words; ➡️ Change sound; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-004\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-004",
+      "alt_text": "🧠 Match changes and words; ➡️ Change sound; 💡 helpful strategy"
+    },
+    "answers": [
+      "Use this routine: Say word → Change sound → Say new word → Check meaning.",
+      "Forget middle/final sounds.",
+      "Change letters silently."
+    ],
+    "correct": 0,
+    "explanation": "Use this routine: Say word → Change sound → Say new word → Check meaning.\nHint: Change only the sound named.",
+    "structuredExplanation": {
+      "summary": "Use this routine: Say word → Change sound → Say new word → Check meaning.",
+      "hint": "Change only the sound named."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly10-p-013",
+    "curriculumCode": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10 03 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you move a middle-sound token?",
+    "audioPrompt": "Which tip would help you move a middle-sound token?",
+    "visual": "🧠 Move a middle-sound token; ➡️ Say new word; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Move a middle-sound token; ➡️ Say new word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-006\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-006",
+      "alt_text": "🧠 Move a middle-sound token; ➡️ Say new word; 💡 helpful strategy"
+    },
+    "answers": [
+      "Change letters silently.",
+      "Change more than one sound.",
+      "Look for substitute and check the whole example."
+    ],
+    "correct": 2,
+    "explanation": "Look for substitute and check the whole example.\nHint: Practise start, middle and end positions.",
+    "structuredExplanation": {
+      "summary": "Look for substitute and check the whole example.",
+      "hint": "Practise start, middle and end positions."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly10-p-014",
+    "curriculumCode": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10 04 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you change a final sound?",
+    "audioPrompt": "Which tip would help you change a final sound?",
+    "visual": "🧠 Change a final sound; ➡️ Check meaning; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Change a final sound; ➡️ Check meaning; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-008\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-008",
+      "alt_text": "🧠 Change a final sound; ➡️ Check meaning; 💡 helpful strategy"
+    },
+    "answers": [
+      "Change more than one sound.",
+      "Check that you can change initial sounds.",
+      "Forget middle/final sounds."
+    ],
+    "correct": 1,
+    "explanation": "Check that you can change initial sounds.\nHint: Say the sounds aloud.",
+    "structuredExplanation": {
+      "summary": "Check that you can change initial sounds.",
+      "hint": "Say the sounds aloud."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly10-p-015",
+    "curriculumCode": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10 05 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you order a deletion?",
+    "audioPrompt": "Which tip would help you order a deletion?",
+    "visual": "🧠 Order a deletion; ➡️ Say word; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Order a deletion; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-010\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-010",
+      "alt_text": "🧠 Order a deletion; ➡️ Say word; 💡 helpful strategy"
+    },
+    "answers": [
+      "Sequencing initial-phoneme deletion.",
+      "Forget middle/final sounds.",
+      "Change letters silently."
+    ],
+    "correct": 0,
+    "explanation": "Sequencing initial-phoneme deletion.\nHint: Change only the sound named.",
+    "structuredExplanation": {
+      "summary": "Sequencing initial-phoneme deletion.",
+      "hint": "Change only the sound named."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly10-p-016",
+    "curriculumCode": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10 06 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you draw sound-change boxes?",
+    "audioPrompt": "Which tip would help you draw sound-change boxes?",
+    "visual": "🧠 Draw sound-change boxes; ➡️ Change sound; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw sound-change boxes; ➡️ Change sound; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-012\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-012",
+      "alt_text": "🧠 Draw sound-change boxes; ➡️ Change sound; 💡 helpful strategy"
+    },
+    "answers": [
+      "Change letters silently.",
+      "Change more than one sound.",
+      "Practise start, middle and end positions."
+    ],
+    "correct": 2,
+    "explanation": "Practise start, middle and end positions.\nHint: Practise start, middle and end positions.",
+    "structuredExplanation": {
+      "summary": "Practise start, middle and end positions.",
+      "hint": "Practise start, middle and end positions."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly10-p-017",
+    "curriculumCode": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10 07 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you identify changed position?",
+    "audioPrompt": "Which tip would help you identify changed position?",
+    "visual": "🧠 Identify changed position; ➡️ Say new word; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Identify changed position; ➡️ Say new word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-014\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-014",
+      "alt_text": "🧠 Identify changed position; ➡️ Say new word; 💡 helpful strategy"
+    },
+    "answers": [
+      "Change more than one sound.",
+      "Use this routine: Say word → Change sound → Say new word → Check meaning.",
+      "Forget middle/final sounds."
+    ],
+    "correct": 1,
+    "explanation": "Use this routine: Say word → Change sound → Say new word → Check meaning.\nHint: Say the sounds aloud.",
+    "structuredExplanation": {
+      "summary": "Use this routine: Say word → Change sound → Say new word → Check meaning.",
+      "hint": "Say the sounds aloud."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly10-p-018",
+    "curriculumCode": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10 08 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you make three new words?",
+    "audioPrompt": "Which tip would help you make three new words?",
+    "visual": "🧠 Make three new words; ➡️ Check meaning; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Make three new words; ➡️ Check meaning; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-016\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-016",
+      "alt_text": "🧠 Make three new words; ➡️ Check meaning; 💡 helpful strategy"
+    },
+    "answers": [
+      "Look for substitute and check the whole example.",
+      "Forget middle/final sounds.",
+      "Change letters silently."
+    ],
+    "correct": 0,
+    "explanation": "Look for substitute and check the whole example.\nHint: Change only the sound named.",
+    "structuredExplanation": {
+      "summary": "Look for substitute and check the whole example.",
+      "hint": "Change only the sound named."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly10-p-019",
+    "curriculumCode": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10 09 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you delete a final sound?",
+    "audioPrompt": "Which tip would help you delete a final sound?",
+    "visual": "🧠 Delete a final sound; ➡️ Say word; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Delete a final sound; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-018\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-018",
+      "alt_text": "🧠 Delete a final sound; ➡️ Say word; 💡 helpful strategy"
+    },
+    "answers": [
+      "Change letters silently.",
+      "Change more than one sound.",
+      "Check that you can change initial sounds."
+    ],
+    "correct": 2,
+    "explanation": "Check that you can change initial sounds.\nHint: Practise start, middle and end positions.",
+    "structuredExplanation": {
+      "summary": "Check that you can change initial sounds.",
+      "hint": "Practise start, middle and end positions."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
     "id": "ac9e1ly10-p-020",
     "curriculumCode": "AC9E1LY10",
     "bank": "practice",
-    "skill": "ac9e1ly10 02 strategy",
+    "skill": "ac9e1ly10 10 explain",
     "printable": true,
     "type": "single",
     "question": "Which tip would help you match medial substitutions?",
@@ -584,28 +584,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9e1ly10-p-021",
     "curriculumCode": "AC9E1LY10",
     "bank": "practice",
-    "skill": "ac9e1ly10 03 answer",
+    "skill": "ac9e1ly10 01 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly sequence sound addition?",
-    "audioPrompt": "Which response would correctly sequence sound addition?",
-    "visual": "📖 Sequence sound addition; 🔎 add; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Sequence sound addition; 🔎 add; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-021\"></use></svg>",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Add an initial sound; 🔎 add; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Add an initial sound; 🔎 add; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-021",
-      "alt_text": "📖 Sequence sound addition; 🔎 add; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-001",
+      "alt_text": "📖 Add an initial sound; 🔎 add; ✅ choose with evidence"
     },
     "answers": [
-      "blend plant → add/identify initial /p/ → Say lant",
-      "Change more than one sound.",
-      "Say lant → add/identify initial /p/ → blend plant"
+      "Change letters silently.",
+      "Cat",
+      "Say the sounds aloud."
     ],
-    "correct": 2,
-    "explanation": "Say lant → add/identify initial /p/ → blend plant This matches the task.\nHint: Change only the sound named.",
+    "correct": 0,
+    "explanation": "Change letters silently. is the mix-up. Say the sounds aloud.\nHint: Say the sounds aloud.",
     "structuredExplanation": {
-      "summary": "Say lant → add/identify initial /p/ → blend plant This matches the task.",
-      "hint": "Change only the sound named."
+      "summary": "Change letters silently. is the mix-up. Say the sounds aloud.",
+      "hint": "Say the sounds aloud."
     },
     "qualitySchema": "production-v1"
   },
@@ -613,27 +613,27 @@ window.skillrPracticeQuestions = [
     "id": "ac9e1ly10-p-022",
     "curriculumCode": "AC9E1LY10",
     "bank": "practice",
-    "skill": "ac9e1ly10 03 strategy",
+    "skill": "ac9e1ly10 02 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you sequence sound addition?",
-    "audioPrompt": "Which tip would help you sequence sound addition?",
-    "visual": "🧠 Sequence sound addition; ➡️ Say new word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Sequence sound addition; ➡️ Say new word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-022\"></use></svg>",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Match changes and words; 🔎 delete; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match changes and words; 🔎 delete; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-022",
-      "alt_text": "🧠 Sequence sound addition; ➡️ Say new word; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-003",
+      "alt_text": "📖 Match changes and words; 🔎 delete; ✅ choose with evidence"
     },
     "answers": [
-      "Change only the sound named.",
-      "Forget middle/final sounds.",
-      "Change letters silently."
+      "Stop minus /s/ ↔ top; map /m/→/t/ ↔ tap; /s/+pin ↔ spin",
+      "Stop minus /s/ ↔ tap; map /m/→/t/ ↔ spin; /s/+pin ↔ top",
+      "Use this routine: Say word → Change sound → Say new word → Check meaning."
     ],
-    "correct": 0,
-    "explanation": "Change only the sound named.\nHint: Change only the sound named.",
+    "correct": 1,
+    "explanation": "Stop minus /s/ ↔ tap; map /m/→/t/ ↔ spin; /s/+pin ↔ top is the mix-up. Change only the sound named.\nHint: Change only the sound named.",
     "structuredExplanation": {
-      "summary": "Change only the sound named.",
+      "summary": "Stop minus /s/ ↔ tap; map /m/→/t/ ↔ spin; /s/+pin ↔ top is the mix-up. Change only the sound named.",
       "hint": "Change only the sound named."
     },
     "qualitySchema": "production-v1"
@@ -642,27 +642,27 @@ window.skillrPracticeQuestions = [
     "id": "ac9e1ly10-p-023",
     "curriculumCode": "AC9E1LY10",
     "bank": "practice",
-    "skill": "ac9e1ly10 04 answer",
+    "skill": "ac9e1ly10 03 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly substitute in a cluster word?",
-    "audioPrompt": "Which response would correctly substitute in a cluster word?",
-    "visual": "📖 Substitute in a cluster word; 🔎 delete; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Substitute in a cluster word; 🔎 delete; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-023\"></use></svg>",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Move a middle-sound token; 🔎 substitute; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Move a middle-sound token; 🔎 substitute; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-023",
-      "alt_text": "📖 Substitute in a cluster word; 🔎 delete; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-005",
+      "alt_text": "📖 Move a middle-sound token; 🔎 substitute; ✅ choose with evidence"
     },
     "answers": [
-      "Forget middle/final sounds.",
-      "Skip, using /s/ /k/ /i/ /p/",
-      "Change letters silently."
+      "Cot; /k/ /o/ /t/",
+      "Look for substitute and check the whole example.",
+      "Forget middle/final sounds."
     ],
-    "correct": 1,
-    "explanation": "Skip, using /s/ /k/ /i/ /p/ This matches the task.\nHint: Practise start, middle and end positions.",
+    "correct": 2,
+    "explanation": "Forget middle/final sounds. is the mix-up. Practise start, middle and end positions.\nHint: Practise start, middle and end positions.",
     "structuredExplanation": {
-      "summary": "Skip, using /s/ /k/ /i/ /p/ This matches the task.",
+      "summary": "Forget middle/final sounds. is the mix-up. Practise start, middle and end positions.",
       "hint": "Practise start, middle and end positions."
     },
     "qualitySchema": "production-v1"
@@ -671,28 +671,492 @@ window.skillrPracticeQuestions = [
     "id": "ac9e1ly10-p-024",
     "curriculumCode": "AC9E1LY10",
     "bank": "practice",
-    "skill": "ac9e1ly10 04 strategy",
+    "skill": "ac9e1ly10 04 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you substitute in a cluster word?",
-    "audioPrompt": "Which tip would help you substitute in a cluster word?",
-    "visual": "🧠 Substitute in a cluster word; ➡️ Check meaning; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Substitute in a cluster word; ➡️ Check meaning; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-024\"></use></svg>",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Change a final sound; 🔎 initial; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Change a final sound; 🔎 initial; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-024",
-      "alt_text": "🧠 Substitute in a cluster word; ➡️ Check meaning; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-007",
+      "alt_text": "📖 Change a final sound; 🔎 initial; ✅ choose with evidence"
     },
     "answers": [
       "Change letters silently.",
-      "Change more than one sound.",
-      "Use this routine: Say word → Change sound → Say new word → Check meaning."
+      "Mat",
+      "Check that you can change initial sounds."
+    ],
+    "correct": 0,
+    "explanation": "Change letters silently. is the mix-up. Say the sounds aloud.\nHint: Say the sounds aloud.",
+    "structuredExplanation": {
+      "summary": "Change letters silently. is the mix-up. Say the sounds aloud.",
+      "hint": "Say the sounds aloud."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly10-p-025",
+    "curriculumCode": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10 05 discriminate",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Order a deletion; 🔎 final; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order a deletion; 🔎 final; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-009\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-009",
+      "alt_text": "📖 Order a deletion; 🔎 final; ✅ choose with evidence"
+    },
+    "answers": [
+      "Say stop → identify/remove /s/ → blend /t o p/ → top",
+      "top → blend /t o p/ → identify/remove /s/ → Say stop",
+      "Sequencing initial-phoneme deletion."
+    ],
+    "correct": 1,
+    "explanation": "top → blend /t o p/ → identify/remove /s/ → Say stop is the mix-up. Change only the sound named.\nHint: Change only the sound named.",
+    "structuredExplanation": {
+      "summary": "top → blend /t o p/ → identify/remove /s/ → Say stop is the mix-up. Change only the sound named.",
+      "hint": "Change only the sound named."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly10-p-026",
+    "curriculumCode": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10 06 discriminate",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Draw sound-change boxes; 🔎 add; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw sound-change boxes; 🔎 add; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-011\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-011",
+      "alt_text": "📖 Draw sound-change boxes; 🔎 add; ✅ choose with evidence"
+    },
+    "answers": [
+      "Shows /p/ /i/ /n/ changing only middle to /a/; pan",
+      "Practise start, middle and end positions.",
+      "Forget middle/final sounds."
     ],
     "correct": 2,
-    "explanation": "Use this routine: Say word → Change sound → Say new word → Check meaning.\nHint: Practise start, middle and end positions.",
+    "explanation": "Forget middle/final sounds. is the mix-up. Practise start, middle and end positions.\nHint: Practise start, middle and end positions.",
     "structuredExplanation": {
-      "summary": "Use this routine: Say word → Change sound → Say new word → Check meaning.",
+      "summary": "Forget middle/final sounds. is the mix-up. Practise start, middle and end positions.",
       "hint": "Practise start, middle and end positions."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly10-p-027",
+    "curriculumCode": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10 07 discriminate",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Identify changed position; 🔎 delete; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Identify changed position; 🔎 delete; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-013\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-013",
+      "alt_text": "📖 Identify changed position; 🔎 delete; ✅ choose with evidence"
+    },
+    "answers": [
+      "substitute position; /n/ changed to /m/",
+      "Final position; /n/ changed to /m/",
+      "Use this routine: Say word → Change sound → Say new word → Check meaning."
+    ],
+    "correct": 0,
+    "explanation": "substitute position; /n/ changed to /m/ is the mix-up. Say the sounds aloud.\nHint: Say the sounds aloud.",
+    "structuredExplanation": {
+      "summary": "substitute position; /n/ changed to /m/ is the mix-up. Say the sounds aloud.",
+      "hint": "Say the sounds aloud."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly10-p-028",
+    "curriculumCode": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10 08 discriminate",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Make three new words; 🔎 substitute; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Make three new words; 🔎 substitute; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-015\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-015",
+      "alt_text": "📖 Make three new words; 🔎 substitute; ✅ choose with evidence"
+    },
+    "answers": [
+      "Three valid examples such as can, pin and pat, with only named position changed each time",
+      "Change more than one sound.",
+      "Look for substitute and check the whole example."
+    ],
+    "correct": 1,
+    "explanation": "Change more than one sound. is the mix-up. Change only the sound named.\nHint: Change only the sound named.",
+    "structuredExplanation": {
+      "summary": "Change more than one sound. is the mix-up. Change only the sound named.",
+      "hint": "Change only the sound named."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly10-p-029",
+    "curriculumCode": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10 09 discriminate",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Delete a final sound; 🔎 initial; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Delete a final sound; 🔎 initial; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-017\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-017",
+      "alt_text": "📖 Delete a final sound; 🔎 initial; ✅ choose with evidence"
+    },
+    "answers": [
+      "Far",
+      "Check that you can change initial sounds.",
+      "farm"
+    ],
+    "correct": 2,
+    "explanation": "farm is the mix-up. Practise start, middle and end positions.\nHint: Practise start, middle and end positions.",
+    "structuredExplanation": {
+      "summary": "farm is the mix-up. Practise start, middle and end positions.",
+      "hint": "Practise start, middle and end positions."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly10-p-030",
+    "curriculumCode": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10 10 discriminate",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Match medial substitutions; 🔎 final; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match medial substitutions; 🔎 final; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-019\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-019",
+      "alt_text": "📖 Match medial substitutions; 🔎 final; ✅ choose with evidence"
+    },
+    "answers": [
+      "Change letters silently.",
+      "/e/ ↔ pen; /a/ ↔ pan; /o/ ↔ pon; pen and pan are familiar words",
+      "Exploring medial phoneme changes including a possible nonword."
+    ],
+    "correct": 0,
+    "explanation": "Change letters silently. is the mix-up. Say the sounds aloud.\nHint: Say the sounds aloud.",
+    "structuredExplanation": {
+      "summary": "Change letters silently. is the mix-up. Say the sounds aloud.",
+      "hint": "Say the sounds aloud."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly10-p-031",
+    "curriculumCode": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10 01 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Add an initial sound; 🔎 add; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Add an initial sound; 🔎 add; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-001\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-001",
+      "alt_text": "📖 Add an initial sound; 🔎 add; ✅ choose with evidence"
+    },
+    "answers": [
+      "Change letters silently.",
+      "Cat",
+      "Change more than one sound."
+    ],
+    "correct": 1,
+    "explanation": "Cat uses the skill correctly. Say the sounds aloud.\nHint: Say the sounds aloud.",
+    "structuredExplanation": {
+      "summary": "Cat uses the skill correctly. Say the sounds aloud.",
+      "hint": "Say the sounds aloud."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly10-p-032",
+    "curriculumCode": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10 02 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Match changes and words; 🔎 delete; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match changes and words; 🔎 delete; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-003\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-003",
+      "alt_text": "📖 Match changes and words; 🔎 delete; ✅ choose with evidence"
+    },
+    "answers": [
+      "Stop minus /s/ ↔ tap; map /m/→/t/ ↔ spin; /s/+pin ↔ top",
+      "/t/ ↔ tap; /s/+pin ↔ spin → Stop minus /s/ ↔ top; map /m/",
+      "Stop minus /s/ ↔ top; map /m/→/t/ ↔ tap; /s/+pin ↔ spin"
+    ],
+    "correct": 2,
+    "explanation": "Stop minus /s/ ↔ top; map /m/→/t/ ↔ tap; /s/+pin ↔ spin uses the skill correctly. Change only the sound named.\nHint: Change only the sound named.",
+    "structuredExplanation": {
+      "summary": "Stop minus /s/ ↔ top; map /m/→/t/ ↔ tap; /s/+pin ↔ spin uses the skill correctly. Change only the sound named.",
+      "hint": "Change only the sound named."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly10-p-033",
+    "curriculumCode": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10 03 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Move a middle-sound token; 🔎 substitute; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Move a middle-sound token; 🔎 substitute; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-005\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-005",
+      "alt_text": "📖 Move a middle-sound token; 🔎 substitute; ✅ choose with evidence"
+    },
+    "answers": [
+      "Cot; /k/ /o/ /t/",
+      "Forget middle/final sounds.",
+      "Change letters silently."
+    ],
+    "correct": 0,
+    "explanation": "Cot; /k/ /o/ /t/ uses the skill correctly. Practise start, middle and end positions.\nHint: Practise start, middle and end positions.",
+    "structuredExplanation": {
+      "summary": "Cot; /k/ /o/ /t/ uses the skill correctly. Practise start, middle and end positions.",
+      "hint": "Practise start, middle and end positions."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly10-p-034",
+    "curriculumCode": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10 04 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Change a final sound; 🔎 initial; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Change a final sound; 🔎 initial; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-007\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-007",
+      "alt_text": "📖 Change a final sound; 🔎 initial; ✅ choose with evidence"
+    },
+    "answers": [
+      "Change letters silently.",
+      "Mat",
+      "Change more than one sound."
+    ],
+    "correct": 1,
+    "explanation": "Mat uses the skill correctly. Say the sounds aloud.\nHint: Say the sounds aloud.",
+    "structuredExplanation": {
+      "summary": "Mat uses the skill correctly. Say the sounds aloud.",
+      "hint": "Say the sounds aloud."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly10-p-035",
+    "curriculumCode": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10 05 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Order a deletion; 🔎 final; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order a deletion; 🔎 final; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-009\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-009",
+      "alt_text": "📖 Order a deletion; 🔎 final; ✅ choose with evidence"
+    },
+    "answers": [
+      "top → blend /t o p/ → identify/remove /s/ → Say stop",
+      "Change more than one sound.",
+      "Say stop → identify/remove /s/ → blend /t o p/ → top"
+    ],
+    "correct": 2,
+    "explanation": "Say stop → identify/remove /s/ → blend /t o p/ → top uses the skill correctly. Change only the sound named.\nHint: Change only the sound named.",
+    "structuredExplanation": {
+      "summary": "Say stop → identify/remove /s/ → blend /t o p/ → top uses the skill correctly. Change only the sound named.",
+      "hint": "Change only the sound named."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly10-p-036",
+    "curriculumCode": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10 06 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Draw sound-change boxes; 🔎 add; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw sound-change boxes; 🔎 add; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-011\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-011",
+      "alt_text": "📖 Draw sound-change boxes; 🔎 add; ✅ choose with evidence"
+    },
+    "answers": [
+      "Shows /p/ /i/ /n/ changing only middle to /a/; pan",
+      "Forget middle/final sounds.",
+      "Change letters silently."
+    ],
+    "correct": 0,
+    "explanation": "Shows /p/ /i/ /n/ changing only middle to /a/; pan uses the skill correctly. Practise start, middle and end positions.\nHint: Practise start, middle and end positions.",
+    "structuredExplanation": {
+      "summary": "Shows /p/ /i/ /n/ changing only middle to /a/; pan uses the skill correctly. Practise start, middle and end positions.",
+      "hint": "Practise start, middle and end positions."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly10-p-037",
+    "curriculumCode": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10 07 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Identify changed position; 🔎 delete; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Identify changed position; 🔎 delete; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-013\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-013",
+      "alt_text": "📖 Identify changed position; 🔎 delete; ✅ choose with evidence"
+    },
+    "answers": [
+      "substitute position; /n/ changed to /m/",
+      "Final position; /n/ changed to /m/",
+      "initial position; /n/ changed to /m/"
+    ],
+    "correct": 1,
+    "explanation": "Final position; /n/ changed to /m/ uses the skill correctly. Say the sounds aloud.\nHint: Say the sounds aloud.",
+    "structuredExplanation": {
+      "summary": "Final position; /n/ changed to /m/ uses the skill correctly. Say the sounds aloud.",
+      "hint": "Say the sounds aloud."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly10-p-038",
+    "curriculumCode": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10 08 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Make three new words; 🔎 substitute; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Make three new words; 🔎 substitute; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-015\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-015",
+      "alt_text": "📖 Make three new words; 🔎 substitute; ✅ choose with evidence"
+    },
+    "answers": [
+      "Change more than one sound.",
+      "Forget middle/final sounds.",
+      "Three valid examples such as can, pin and pat, with only named position changed each time"
+    ],
+    "correct": 2,
+    "explanation": "Three valid examples such as can, pin and pat, with only named position changed each time uses the skill correctly. Change only the sound named.\nHint: Change only the sound named.",
+    "structuredExplanation": {
+      "summary": "Three valid examples such as can, pin and pat, with only named position changed each time uses the skill correctly. Change only the sound named.",
+      "hint": "Change only the sound named."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly10-p-039",
+    "curriculumCode": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10 09 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Delete a final sound; 🔎 initial; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Delete a final sound; 🔎 initial; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-017\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-017",
+      "alt_text": "📖 Delete a final sound; 🔎 initial; ✅ choose with evidence"
+    },
+    "answers": [
+      "Far",
+      "farm",
+      "m"
+    ],
+    "correct": 0,
+    "explanation": "Far uses the skill correctly. Practise start, middle and end positions.\nHint: Practise start, middle and end positions.",
+    "structuredExplanation": {
+      "summary": "Far uses the skill correctly. Practise start, middle and end positions.",
+      "hint": "Practise start, middle and end positions."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly10-p-040",
+    "curriculumCode": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10 10 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Match medial substitutions; 🔎 final; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match medial substitutions; 🔎 final; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-019\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-019",
+      "alt_text": "📖 Match medial substitutions; 🔎 final; ✅ choose with evidence"
+    },
+    "answers": [
+      "Change letters silently.",
+      "/e/ ↔ pen; /a/ ↔ pan; /o/ ↔ pon; pen and pan are familiar words",
+      "Change more than one sound."
+    ],
+    "correct": 1,
+    "explanation": "/e/ ↔ pen; /a/ ↔ pan; /o/ ↔ pon; pen and pan are familiar words uses the skill correctly. Say the sounds aloud.\nHint: Say the sounds aloud.",
+    "structuredExplanation": {
+      "summary": "/e/ ↔ pen; /a/ ↔ pan; /o/ ↔ pon; pen and pan are familiar words uses the skill correctly. Say the sounds aloud.",
+      "hint": "Say the sounds aloud."
     },
     "qualitySchema": "production-v1"
   }

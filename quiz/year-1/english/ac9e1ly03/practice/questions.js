@@ -4,7 +4,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9e1ly03-p-001",
     "curriculumCode": "AC9E1LY03",
     "bank": "practice",
-    "skill": "ac9e1ly03 01 answer",
+    "skill": "ac9e1ly03 01 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly identify an informative text?",
@@ -33,36 +33,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9e1ly03-p-002",
     "curriculumCode": "AC9E1LY03",
     "bank": "practice",
-    "skill": "ac9e1ly03 01 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you identify an informative text?",
-    "audioPrompt": "Which tip would help you identify an informative text?",
-    "visual": "🧠 Identify an informative text; ➡️ Name text type; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Identify an informative text; ➡️ Name text type; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-002\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-002",
-      "alt_text": "🧠 Identify an informative text; ➡️ Name text type; 💡 helpful strategy"
-    },
-    "answers": [
-      "Treat an opinion as a fact.",
-      "Some texts inform or persuade instead.",
-      "Do not use same, different, both, but."
-    ],
-    "correct": 1,
-    "explanation": "Some texts inform or persuade instead.\nHint: Some texts inform or persuade instead.",
-    "structuredExplanation": {
-      "summary": "Some texts inform or persuade instead.",
-      "hint": "Some texts inform or persuade instead."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly03-p-003",
-    "curriculumCode": "AC9E1LY03",
-    "bank": "practice",
-    "skill": "ac9e1ly03 02 answer",
+    "skill": "ac9e1ly03 02 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly match types and features?",
@@ -88,39 +59,10 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly03-p-004",
+    "id": "ac9e1ly03-p-003",
     "curriculumCode": "AC9E1LY03",
     "bank": "practice",
-    "skill": "ac9e1ly03 02 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you match types and features?",
-    "audioPrompt": "Which tip would help you match types and features?",
-    "visual": "🧠 Match types and features; ➡️ Find features; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match types and features; ➡️ Find features; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-004\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-004",
-      "alt_text": "🧠 Match types and features; ➡️ Find features; 💡 helpful strategy"
-    },
-    "answers": [
-      "Use this routine: Name text type → Find features → Compare purpose → Explain.",
-      "Do not use same, different, both, but.",
-      "Treat every text as a story."
-    ],
-    "correct": 0,
-    "explanation": "Use this routine: Name text type → Find features → Compare purpose → Explain.\nHint: Opinion can be agreed or disagreed with.",
-    "structuredExplanation": {
-      "summary": "Use this routine: Name text type → Find features → Compare purpose → Explain.",
-      "hint": "Opinion can be agreed or disagreed with."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly03-p-005",
-    "curriculumCode": "AC9E1LY03",
-    "bank": "practice",
-    "skill": "ac9e1ly03 03 answer",
+    "skill": "ac9e1ly03 03 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly sort same-topic cards?",
@@ -146,39 +88,10 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly03-p-006",
+    "id": "ac9e1ly03-p-004",
     "curriculumCode": "AC9E1LY03",
     "bank": "practice",
-    "skill": "ac9e1ly03 03 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you sort same-topic cards?",
-    "audioPrompt": "Which tip would help you sort same-topic cards?",
-    "visual": "🧠 Sort same-topic cards; ➡️ Compare purpose; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Sort same-topic cards; ➡️ Compare purpose; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-006",
-      "alt_text": "🧠 Sort same-topic cards; ➡️ Compare purpose; 💡 helpful strategy"
-    },
-    "answers": [
-      "Treat every text as a story.",
-      "Treat an opinion as a fact.",
-      "Look for persuasive and check the whole example."
-    ],
-    "correct": 2,
-    "explanation": "Look for persuasive and check the whole example.\nHint: Use same, different, both, but.",
-    "structuredExplanation": {
-      "summary": "Look for persuasive and check the whole example.",
-      "hint": "Use same, different, both, but."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly03-p-007",
-    "curriculumCode": "AC9E1LY03",
-    "bank": "practice",
-    "skill": "ac9e1ly03 04 answer",
+    "skill": "ac9e1ly03 04 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly state a similarity?",
@@ -204,39 +117,10 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly03-p-008",
+    "id": "ac9e1ly03-p-005",
     "curriculumCode": "AC9E1LY03",
     "bank": "practice",
-    "skill": "ac9e1ly03 04 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you state a similarity?",
-    "audioPrompt": "Which tip would help you state a similarity?",
-    "visual": "🧠 State a similarity; ➡️ Explain; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 State a similarity; ➡️ Explain; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-008\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-008",
-      "alt_text": "🧠 State a similarity; ➡️ Explain; 💡 helpful strategy"
-    },
-    "answers": [
-      "Treat an opinion as a fact.",
-      "Check that you can compare differences.",
-      "Do not use same, different, both, but."
-    ],
-    "correct": 1,
-    "explanation": "Check that you can compare differences.\nHint: Some texts inform or persuade instead.",
-    "structuredExplanation": {
-      "summary": "Check that you can compare differences.",
-      "hint": "Some texts inform or persuade instead."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly03-p-009",
-    "curriculumCode": "AC9E1LY03",
-    "bank": "practice",
-    "skill": "ac9e1ly03 05 answer",
+    "skill": "ac9e1ly03 05 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly order comparison thinking?",
@@ -262,39 +146,10 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly03-p-010",
+    "id": "ac9e1ly03-p-006",
     "curriculumCode": "AC9E1LY03",
     "bank": "practice",
-    "skill": "ac9e1ly03 05 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you order comparison thinking?",
-    "audioPrompt": "Which tip would help you order comparison thinking?",
-    "visual": "🧠 Order comparison thinking; ➡️ Name text type; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Order comparison thinking; ➡️ Name text type; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-010",
-      "alt_text": "🧠 Order comparison thinking; ➡️ Name text type; 💡 helpful strategy"
-    },
-    "answers": [
-      "Sequencing text comparison.",
-      "Do not use same, different, both, but.",
-      "Treat every text as a story."
-    ],
-    "correct": 0,
-    "explanation": "Sequencing text comparison.\nHint: Opinion can be agreed or disagreed with.",
-    "structuredExplanation": {
-      "summary": "Sequencing text comparison.",
-      "hint": "Opinion can be agreed or disagreed with."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly03-p-011",
-    "curriculumCode": "AC9E1LY03",
-    "bank": "practice",
-    "skill": "ac9e1ly03 06 answer",
+    "skill": "ac9e1ly03 06 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly draw three covers?",
@@ -320,39 +175,10 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly03-p-012",
+    "id": "ac9e1ly03-p-007",
     "curriculumCode": "AC9E1LY03",
     "bank": "practice",
-    "skill": "ac9e1ly03 06 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you draw three covers?",
-    "audioPrompt": "Which tip would help you draw three covers?",
-    "visual": "🧠 Draw three covers; ➡️ Find features; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw three covers; ➡️ Find features; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-012\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-012",
-      "alt_text": "🧠 Draw three covers; ➡️ Find features; 💡 helpful strategy"
-    },
-    "answers": [
-      "Treat every text as a story.",
-      "Treat an opinion as a fact.",
-      "Use same, different, both, but."
-    ],
-    "correct": 2,
-    "explanation": "Use same, different, both, but.\nHint: Use same, different, both, but.",
-    "structuredExplanation": {
-      "summary": "Use same, different, both, but.",
-      "hint": "Use same, different, both, but."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly03-p-013",
-    "curriculumCode": "AC9E1LY03",
-    "bank": "practice",
-    "skill": "ac9e1ly03 07 answer",
+    "skill": "ac9e1ly03 07 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly explain factual persuasion?",
@@ -378,39 +204,10 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly03-p-014",
+    "id": "ac9e1ly03-p-008",
     "curriculumCode": "AC9E1LY03",
     "bank": "practice",
-    "skill": "ac9e1ly03 07 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you explain factual persuasion?",
-    "audioPrompt": "Which tip would help you explain factual persuasion?",
-    "visual": "🧠 Explain factual persuasion; ➡️ Compare purpose; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Explain factual persuasion; ➡️ Compare purpose; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-014\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-014",
-      "alt_text": "🧠 Explain factual persuasion; ➡️ Compare purpose; 💡 helpful strategy"
-    },
-    "answers": [
-      "Treat an opinion as a fact.",
-      "Use this routine: Name text type → Find features → Compare purpose → Explain.",
-      "Do not use same, different, both, but."
-    ],
-    "correct": 1,
-    "explanation": "Use this routine: Name text type → Find features → Compare purpose → Explain.\nHint: Some texts inform or persuade instead.",
-    "structuredExplanation": {
-      "summary": "Use this routine: Name text type → Find features → Compare purpose → Explain.",
-      "hint": "Some texts inform or persuade instead."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly03-p-015",
-    "curriculumCode": "AC9E1LY03",
-    "bank": "practice",
-    "skill": "ac9e1ly03 08 answer",
+    "skill": "ac9e1ly03 08 recognise",
     "printable": true,
     "type": "single",
     "question": "Write one imaginative and one informative opening about a storm. Explain the language difference.",
@@ -436,39 +233,10 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly03-p-016",
+    "id": "ac9e1ly03-p-009",
     "curriculumCode": "AC9E1LY03",
     "bank": "practice",
-    "skill": "ac9e1ly03 08 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you compare openings?",
-    "audioPrompt": "Which tip would help you compare openings?",
-    "visual": "🧠 Compare openings; ➡️ Explain; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Compare openings; ➡️ Explain; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-016",
-      "alt_text": "🧠 Compare openings; ➡️ Explain; 💡 helpful strategy"
-    },
-    "answers": [
-      "Look for persuasive and check the whole example.",
-      "Do not use same, different, both, but.",
-      "Treat every text as a story."
-    ],
-    "correct": 0,
-    "explanation": "Look for persuasive and check the whole example.\nHint: Opinion can be agreed or disagreed with.",
-    "structuredExplanation": {
-      "summary": "Look for persuasive and check the whole example.",
-      "hint": "Opinion can be agreed or disagreed with."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly03-p-017",
-    "curriculumCode": "AC9E1LY03",
-    "bank": "practice",
-    "skill": "ac9e1ly03 01 answer",
+    "skill": "ac9e1ly03 09 recognise",
     "printable": true,
     "type": "single",
     "question": "Which words show persuasion in 'Choose the shaded path because it is cooler'?",
@@ -494,39 +262,10 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly03-p-018",
+    "id": "ac9e1ly03-p-010",
     "curriculumCode": "AC9E1LY03",
     "bank": "practice",
-    "skill": "ac9e1ly03 01 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you recognise persuasive wording?",
-    "audioPrompt": "Which tip would help you recognise persuasive wording?",
-    "visual": "🧠 Recognise persuasive wording; ➡️ Name text type; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Recognise persuasive wording; ➡️ Name text type; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-018\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-018",
-      "alt_text": "🧠 Recognise persuasive wording; ➡️ Name text type; 💡 helpful strategy"
-    },
-    "answers": [
-      "Treat every text as a story.",
-      "Treat an opinion as a fact.",
-      "Check that you can compare differences."
-    ],
-    "correct": 2,
-    "explanation": "Check that you can compare differences.\nHint: Use same, different, both, but.",
-    "structuredExplanation": {
-      "summary": "Check that you can compare differences.",
-      "hint": "Use same, different, both, but."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly03-p-019",
-    "curriculumCode": "AC9E1LY03",
-    "bank": "practice",
-    "skill": "ac9e1ly03 02 answer",
+    "skill": "ac9e1ly03 10 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly match shared and unique features?",
@@ -552,10 +291,271 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
+    "id": "ac9e1ly03-p-011",
+    "curriculumCode": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03 01 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you identify an informative text?",
+    "audioPrompt": "Which tip would help you identify an informative text?",
+    "visual": "🧠 Identify an informative text; ➡️ Name text type; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Identify an informative text; ➡️ Name text type; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-002\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-002",
+      "alt_text": "🧠 Identify an informative text; ➡️ Name text type; 💡 helpful strategy"
+    },
+    "answers": [
+      "Treat an opinion as a fact.",
+      "Some texts inform or persuade instead.",
+      "Do not use same, different, both, but."
+    ],
+    "correct": 1,
+    "explanation": "Some texts inform or persuade instead.\nHint: Some texts inform or persuade instead.",
+    "structuredExplanation": {
+      "summary": "Some texts inform or persuade instead.",
+      "hint": "Some texts inform or persuade instead."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly03-p-012",
+    "curriculumCode": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03 02 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you match types and features?",
+    "audioPrompt": "Which tip would help you match types and features?",
+    "visual": "🧠 Match types and features; ➡️ Find features; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match types and features; ➡️ Find features; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-004\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-004",
+      "alt_text": "🧠 Match types and features; ➡️ Find features; 💡 helpful strategy"
+    },
+    "answers": [
+      "Use this routine: Name text type → Find features → Compare purpose → Explain.",
+      "Do not use same, different, both, but.",
+      "Treat every text as a story."
+    ],
+    "correct": 0,
+    "explanation": "Use this routine: Name text type → Find features → Compare purpose → Explain.\nHint: Opinion can be agreed or disagreed with.",
+    "structuredExplanation": {
+      "summary": "Use this routine: Name text type → Find features → Compare purpose → Explain.",
+      "hint": "Opinion can be agreed or disagreed with."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly03-p-013",
+    "curriculumCode": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03 03 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you sort same-topic cards?",
+    "audioPrompt": "Which tip would help you sort same-topic cards?",
+    "visual": "🧠 Sort same-topic cards; ➡️ Compare purpose; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Sort same-topic cards; ➡️ Compare purpose; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-006\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-006",
+      "alt_text": "🧠 Sort same-topic cards; ➡️ Compare purpose; 💡 helpful strategy"
+    },
+    "answers": [
+      "Treat every text as a story.",
+      "Treat an opinion as a fact.",
+      "Look for persuasive and check the whole example."
+    ],
+    "correct": 2,
+    "explanation": "Look for persuasive and check the whole example.\nHint: Use same, different, both, but.",
+    "structuredExplanation": {
+      "summary": "Look for persuasive and check the whole example.",
+      "hint": "Use same, different, both, but."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly03-p-014",
+    "curriculumCode": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03 04 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you state a similarity?",
+    "audioPrompt": "Which tip would help you state a similarity?",
+    "visual": "🧠 State a similarity; ➡️ Explain; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 State a similarity; ➡️ Explain; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-008\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-008",
+      "alt_text": "🧠 State a similarity; ➡️ Explain; 💡 helpful strategy"
+    },
+    "answers": [
+      "Treat an opinion as a fact.",
+      "Check that you can compare differences.",
+      "Do not use same, different, both, but."
+    ],
+    "correct": 1,
+    "explanation": "Check that you can compare differences.\nHint: Some texts inform or persuade instead.",
+    "structuredExplanation": {
+      "summary": "Check that you can compare differences.",
+      "hint": "Some texts inform or persuade instead."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly03-p-015",
+    "curriculumCode": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03 05 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you order comparison thinking?",
+    "audioPrompt": "Which tip would help you order comparison thinking?",
+    "visual": "🧠 Order comparison thinking; ➡️ Name text type; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Order comparison thinking; ➡️ Name text type; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-010\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-010",
+      "alt_text": "🧠 Order comparison thinking; ➡️ Name text type; 💡 helpful strategy"
+    },
+    "answers": [
+      "Sequencing text comparison.",
+      "Do not use same, different, both, but.",
+      "Treat every text as a story."
+    ],
+    "correct": 0,
+    "explanation": "Sequencing text comparison.\nHint: Opinion can be agreed or disagreed with.",
+    "structuredExplanation": {
+      "summary": "Sequencing text comparison.",
+      "hint": "Opinion can be agreed or disagreed with."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly03-p-016",
+    "curriculumCode": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03 06 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you draw three covers?",
+    "audioPrompt": "Which tip would help you draw three covers?",
+    "visual": "🧠 Draw three covers; ➡️ Find features; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw three covers; ➡️ Find features; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-012\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-012",
+      "alt_text": "🧠 Draw three covers; ➡️ Find features; 💡 helpful strategy"
+    },
+    "answers": [
+      "Treat every text as a story.",
+      "Treat an opinion as a fact.",
+      "Use same, different, both, but."
+    ],
+    "correct": 2,
+    "explanation": "Use same, different, both, but.\nHint: Use same, different, both, but.",
+    "structuredExplanation": {
+      "summary": "Use same, different, both, but.",
+      "hint": "Use same, different, both, but."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly03-p-017",
+    "curriculumCode": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03 07 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you explain factual persuasion?",
+    "audioPrompt": "Which tip would help you explain factual persuasion?",
+    "visual": "🧠 Explain factual persuasion; ➡️ Compare purpose; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Explain factual persuasion; ➡️ Compare purpose; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-014\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-014",
+      "alt_text": "🧠 Explain factual persuasion; ➡️ Compare purpose; 💡 helpful strategy"
+    },
+    "answers": [
+      "Treat an opinion as a fact.",
+      "Use this routine: Name text type → Find features → Compare purpose → Explain.",
+      "Do not use same, different, both, but."
+    ],
+    "correct": 1,
+    "explanation": "Use this routine: Name text type → Find features → Compare purpose → Explain.\nHint: Some texts inform or persuade instead.",
+    "structuredExplanation": {
+      "summary": "Use this routine: Name text type → Find features → Compare purpose → Explain.",
+      "hint": "Some texts inform or persuade instead."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly03-p-018",
+    "curriculumCode": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03 08 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you compare openings?",
+    "audioPrompt": "Which tip would help you compare openings?",
+    "visual": "🧠 Compare openings; ➡️ Explain; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Compare openings; ➡️ Explain; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-016\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-016",
+      "alt_text": "🧠 Compare openings; ➡️ Explain; 💡 helpful strategy"
+    },
+    "answers": [
+      "Look for persuasive and check the whole example.",
+      "Do not use same, different, both, but.",
+      "Treat every text as a story."
+    ],
+    "correct": 0,
+    "explanation": "Look for persuasive and check the whole example.\nHint: Opinion can be agreed or disagreed with.",
+    "structuredExplanation": {
+      "summary": "Look for persuasive and check the whole example.",
+      "hint": "Opinion can be agreed or disagreed with."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly03-p-019",
+    "curriculumCode": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03 09 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you recognise persuasive wording?",
+    "audioPrompt": "Which tip would help you recognise persuasive wording?",
+    "visual": "🧠 Recognise persuasive wording; ➡️ Name text type; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Recognise persuasive wording; ➡️ Name text type; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-018\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-018",
+      "alt_text": "🧠 Recognise persuasive wording; ➡️ Name text type; 💡 helpful strategy"
+    },
+    "answers": [
+      "Treat every text as a story.",
+      "Treat an opinion as a fact.",
+      "Check that you can compare differences."
+    ],
+    "correct": 2,
+    "explanation": "Check that you can compare differences.\nHint: Use same, different, both, but.",
+    "structuredExplanation": {
+      "summary": "Check that you can compare differences.",
+      "hint": "Use same, different, both, but."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
     "id": "ac9e1ly03-p-020",
     "curriculumCode": "AC9E1LY03",
     "bank": "practice",
-    "skill": "ac9e1ly03 02 strategy",
+    "skill": "ac9e1ly03 10 explain",
     "printable": true,
     "type": "single",
     "question": "Which tip would help you match shared and unique features?",
@@ -584,28 +584,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9e1ly03-p-021",
     "curriculumCode": "AC9E1LY03",
     "bank": "practice",
-    "skill": "ac9e1ly03 03 answer",
+    "skill": "ac9e1ly03 01 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly sequence a type decision?",
-    "audioPrompt": "Which response would correctly sequence a type decision?",
-    "visual": "📖 Sequence a type decision; 🔎 imaginative; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Sequence a type decision; 🔎 imaginative; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-021\"></use></svg>",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Identify an informative text; 🔎 imaginative; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Identify an informative text; 🔎 imaginative; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-021",
-      "alt_text": "📖 Sequence a type decision; 🔎 imaginative; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-001",
+      "alt_text": "📖 Identify an informative text; 🔎 imaginative; ✅ choose with evidence"
     },
     "answers": [
-      "name type/evidence → decide purpose → notice clues → Read",
-      "Treat an opinion as a fact.",
-      "Read → notice clues → decide purpose → name type/evidence"
+      "imaginative",
+      "Informative",
+      "Some texts inform or persuade instead."
     ],
-    "correct": 2,
-    "explanation": "Read → notice clues → decide purpose → name type/evidence This matches the task.\nHint: Opinion can be agreed or disagreed with.",
+    "correct": 0,
+    "explanation": "imaginative is the mix-up. Some texts inform or persuade instead.\nHint: Some texts inform or persuade instead.",
     "structuredExplanation": {
-      "summary": "Read → notice clues → decide purpose → name type/evidence This matches the task.",
-      "hint": "Opinion can be agreed or disagreed with."
+      "summary": "imaginative is the mix-up. Some texts inform or persuade instead.",
+      "hint": "Some texts inform or persuade instead."
     },
     "qualitySchema": "production-v1"
   },
@@ -613,27 +613,27 @@ window.skillrPracticeQuestions = [
     "id": "ac9e1ly03-p-022",
     "curriculumCode": "AC9E1LY03",
     "bank": "practice",
-    "skill": "ac9e1ly03 03 strategy",
+    "skill": "ac9e1ly03 02 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you sequence a type decision?",
-    "audioPrompt": "Which tip would help you sequence a type decision?",
-    "visual": "🧠 Sequence a type decision; ➡️ Compare purpose; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Sequence a type decision; ➡️ Compare purpose; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-022\"></use></svg>",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Match types and features; 🔎 informative; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match types and features; 🔎 informative; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-022",
-      "alt_text": "🧠 Sequence a type decision; ➡️ Compare purpose; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-003",
+      "alt_text": "📖 Match types and features; 🔎 informative; ✅ choose with evidence"
     },
     "answers": [
-      "Opinion can be agreed or disagreed with.",
-      "Do not use same, different, both, but.",
-      "Treat every text as a story."
+      "Each type matched correctly",
+      "Treat an opinion as a fact.",
+      "Use this routine: Name text type → Find features → Compare purpose → Explain."
     ],
-    "correct": 0,
-    "explanation": "Opinion can be agreed or disagreed with.\nHint: Opinion can be agreed or disagreed with.",
+    "correct": 1,
+    "explanation": "Treat an opinion as a fact. is the mix-up. Opinion can be agreed or disagreed with.\nHint: Opinion can be agreed or disagreed with.",
     "structuredExplanation": {
-      "summary": "Opinion can be agreed or disagreed with.",
+      "summary": "Treat an opinion as a fact. is the mix-up. Opinion can be agreed or disagreed with.",
       "hint": "Opinion can be agreed or disagreed with."
     },
     "qualitySchema": "production-v1"
@@ -642,27 +642,27 @@ window.skillrPracticeQuestions = [
     "id": "ac9e1ly03-p-023",
     "curriculumCode": "AC9E1LY03",
     "bank": "practice",
-    "skill": "ac9e1ly03 04 answer",
+    "skill": "ac9e1ly03 03 discriminate",
     "printable": true,
     "type": "single",
-    "question": "How might a frog image differ in a story and a factual report?",
-    "audioPrompt": "How might a frog image differ in a story and a factual report?",
-    "visual": "📖 Compare image use; 🔎 informative; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Compare image use; 🔎 informative; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-023\"></use></svg>",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Sort same-topic cards; 🔎 persuasive; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Sort same-topic cards; 🔎 persuasive; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-023",
-      "alt_text": "📖 Compare image use; 🔎 informative; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-005",
+      "alt_text": "📖 Sort same-topic cards; 🔎 persuasive; ✅ choose with evidence"
     },
     "answers": [
-      "Do not use same, different, both, but.",
-      "Story image develops character/event/mood; report image shows accurate features/labels",
-      "Treat every text as a story."
+      "Story ↔ imaginative; facts ↔ informative; recommendation/reason ↔ persuasive",
+      "Look for persuasive and check the whole example.",
+      "carry an umbrella"
     ],
-    "correct": 1,
-    "explanation": "Story image develops character/event/mood; report image shows accurate features/labels This matches the task.\nHint: Use same, different, both, but.",
+    "correct": 2,
+    "explanation": "carry an umbrella is the mix-up. Use same, different, both, but.\nHint: Use same, different, both, but.",
     "structuredExplanation": {
-      "summary": "Story image develops character/event/mood; report image shows accurate features/labels This matches the task.",
+      "summary": "carry an umbrella is the mix-up. Use same, different, both, but.",
       "hint": "Use same, different, both, but."
     },
     "qualitySchema": "production-v1"
@@ -671,28 +671,492 @@ window.skillrPracticeQuestions = [
     "id": "ac9e1ly03-p-024",
     "curriculumCode": "AC9E1LY03",
     "bank": "practice",
-    "skill": "ac9e1ly03 04 strategy",
+    "skill": "ac9e1ly03 04 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you compare image use?",
-    "audioPrompt": "Which tip would help you compare image use?",
-    "visual": "🧠 Compare image use; ➡️ Explain; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Compare image use; ➡️ Explain; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-024\"></use></svg>",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 State a similarity; 🔎 similar; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 State a similarity; 🔎 similar; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-024",
-      "alt_text": "🧠 Compare image use; ➡️ Explain; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-007",
+      "alt_text": "📖 State a similarity; 🔎 similar; ✅ choose with evidence"
     },
     "answers": [
       "Treat every text as a story.",
-      "Treat an opinion as a fact.",
-      "Use this routine: Name text type → Find features → Compare purpose → Explain."
+      "Any valid shared feature such as title, images, words, pages, headings in some cases or topic vocabulary",
+      "Check that you can compare differences."
+    ],
+    "correct": 0,
+    "explanation": "Treat every text as a story. is the mix-up. Some texts inform or persuade instead.\nHint: Some texts inform or persuade instead.",
+    "structuredExplanation": {
+      "summary": "Treat every text as a story. is the mix-up. Some texts inform or persuade instead.",
+      "hint": "Some texts inform or persuade instead."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly03-p-025",
+    "curriculumCode": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03 05 discriminate",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Order comparison thinking; 🔎 different; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order comparison thinking; 🔎 different; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-009\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-009",
+      "alt_text": "📖 Order comparison thinking; 🔎 different; ✅ choose with evidence"
+    },
+    "answers": [
+      "Name/identify types and purpose → note similarity → cite difference",
+      "cite difference → note similarity → Name/identify types and purpose",
+      "Sequencing text comparison."
+    ],
+    "correct": 1,
+    "explanation": "cite difference → note similarity → Name/identify types and purpose is the mix-up. Opinion can be agreed or disagreed with.\nHint: Opinion can be agreed or disagreed with.",
+    "structuredExplanation": {
+      "summary": "cite difference → note similarity → Name/identify types and purpose is the mix-up. Opinion can be agreed or disagreed with.",
+      "hint": "Opinion can be agreed or disagreed with."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly03-p-026",
+    "curriculumCode": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03 06 discriminate",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Draw three covers; 🔎 imaginative; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw three covers; 🔎 imaginative; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-011\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-011",
+      "alt_text": "📖 Draw three covers; 🔎 imaginative; ✅ choose with evidence"
+    },
+    "answers": [
+      "Three distinct purpose clues: story character/event, factual heading/diagram and recommended action/reason",
+      "Use same, different, both, but.",
+      "Do not use same, different, both, but."
     ],
     "correct": 2,
-    "explanation": "Use this routine: Name text type → Find features → Compare purpose → Explain.\nHint: Use same, different, both, but.",
+    "explanation": "Do not use same, different, both, but. is the mix-up. Use same, different, both, but.\nHint: Use same, different, both, but.",
     "structuredExplanation": {
-      "summary": "Use this routine: Name text type → Find features → Compare purpose → Explain.",
+      "summary": "Do not use same, different, both, but. is the mix-up. Use same, different, both, but.",
       "hint": "Use same, different, both, but."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly03-p-027",
+    "curriculumCode": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03 07 discriminate",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Explain factual persuasion; 🔎 informative; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Explain factual persuasion; 🔎 informative; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-013\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-013",
+      "alt_text": "📖 Explain factual persuasion; 🔎 informative; ✅ choose with evidence"
+    },
+    "answers": [
+      "Refill your bottle to reduce waste",
+      "It calls for a behaviour/choice and uses the fact as a reason",
+      "Use this routine: Name text type → Find features → Compare purpose → Explain."
+    ],
+    "correct": 0,
+    "explanation": "Refill your bottle to reduce waste is the mix-up. Some texts inform or persuade instead.\nHint: Some texts inform or persuade instead.",
+    "structuredExplanation": {
+      "summary": "Refill your bottle to reduce waste is the mix-up. Some texts inform or persuade instead.",
+      "hint": "Some texts inform or persuade instead."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly03-p-028",
+    "curriculumCode": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03 08 discriminate",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Compare openings; 🔎 persuasive; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Compare openings; 🔎 persuasive; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-015\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-015",
+      "alt_text": "📖 Compare openings; 🔎 persuasive; ✅ choose with evidence"
+    },
+    "answers": [
+      "Imaginative opening creates character/event/mood",
+      "Treat an opinion as a fact.",
+      "Look for persuasive and check the whole example."
+    ],
+    "correct": 1,
+    "explanation": "Treat an opinion as a fact. is the mix-up. Opinion can be agreed or disagreed with.\nHint: Opinion can be agreed or disagreed with.",
+    "structuredExplanation": {
+      "summary": "Treat an opinion as a fact. is the mix-up. Opinion can be agreed or disagreed with.",
+      "hint": "Opinion can be agreed or disagreed with."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly03-p-029",
+    "curriculumCode": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03 09 discriminate",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Recognise persuasive wording; 🔎 similar; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Recognise persuasive wording; 🔎 similar; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-017\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-017",
+      "alt_text": "📖 Recognise persuasive wording; 🔎 similar; ✅ choose with evidence"
+    },
+    "answers": [
+      "'Choose' states desired action and 'because it is cooler' gives a reason",
+      "Check that you can compare differences.",
+      "Choose the shaded path because it is cooler"
+    ],
+    "correct": 2,
+    "explanation": "Choose the shaded path because it is cooler is the mix-up. Use same, different, both, but.\nHint: Use same, different, both, but.",
+    "structuredExplanation": {
+      "summary": "Choose the shaded path because it is cooler is the mix-up. Use same, different, both, but.",
+      "hint": "Use same, different, both, but."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly03-p-030",
+    "curriculumCode": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03 10 discriminate",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Match shared and unique features; 🔎 different; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match shared and unique features; 🔎 different; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-019\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-019",
+      "alt_text": "📖 Match shared and unique features; 🔎 different; ✅ choose with evidence"
+    },
+    "answers": [
+      "Treat every text as a story.",
+      "All three matched correctly",
+      "Separating shared from type-specific features."
+    ],
+    "correct": 0,
+    "explanation": "Treat every text as a story. is the mix-up. Some texts inform or persuade instead.\nHint: Some texts inform or persuade instead.",
+    "structuredExplanation": {
+      "summary": "Treat every text as a story. is the mix-up. Some texts inform or persuade instead.",
+      "hint": "Some texts inform or persuade instead."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly03-p-031",
+    "curriculumCode": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03 01 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Identify an informative text; 🔎 imaginative; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Identify an informative text; 🔎 imaginative; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-001\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-001",
+      "alt_text": "📖 Identify an informative text; 🔎 imaginative; ✅ choose with evidence"
+    },
+    "answers": [
+      "imaginative",
+      "Informative",
+      "persuasive"
+    ],
+    "correct": 1,
+    "explanation": "Informative uses the skill correctly. Some texts inform or persuade instead.\nHint: Some texts inform or persuade instead.",
+    "structuredExplanation": {
+      "summary": "Informative uses the skill correctly. Some texts inform or persuade instead.",
+      "hint": "Some texts inform or persuade instead."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly03-p-032",
+    "curriculumCode": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03 02 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Match types and features; 🔎 informative; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match types and features; 🔎 informative; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-003\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-003",
+      "alt_text": "📖 Match types and features; 🔎 informative; ✅ choose with evidence"
+    },
+    "answers": [
+      "Treat an opinion as a fact.",
+      "Do not use same, different, both, but.",
+      "Each type matched correctly"
+    ],
+    "correct": 2,
+    "explanation": "Each type matched correctly uses the skill correctly. Opinion can be agreed or disagreed with.\nHint: Opinion can be agreed or disagreed with.",
+    "structuredExplanation": {
+      "summary": "Each type matched correctly uses the skill correctly. Opinion can be agreed or disagreed with.",
+      "hint": "Opinion can be agreed or disagreed with."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly03-p-033",
+    "curriculumCode": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03 03 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Sort same-topic cards; 🔎 persuasive; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Sort same-topic cards; 🔎 persuasive; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-005\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-005",
+      "alt_text": "📖 Sort same-topic cards; 🔎 persuasive; ✅ choose with evidence"
+    },
+    "answers": [
+      "Story ↔ imaginative; facts ↔ informative; recommendation/reason ↔ persuasive",
+      "carry an umbrella",
+      "Story ↔ informative; facts ↔ persuasive; recommendation/reason ↔ imaginative"
+    ],
+    "correct": 0,
+    "explanation": "Story ↔ imaginative; facts ↔ informative; recommendation/reason ↔ persuasive uses the skill correctly. Use same, different, both, but.\nHint: Use same, different, both, but.",
+    "structuredExplanation": {
+      "summary": "Story ↔ imaginative; facts ↔ informative; recommendation/reason ↔ persuasive uses the skill correctly. Use same, different, both, but.",
+      "hint": "Use same, different, both, but."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly03-p-034",
+    "curriculumCode": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03 04 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 State a similarity; 🔎 similar; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 State a similarity; 🔎 similar; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-007\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-007",
+      "alt_text": "📖 State a similarity; 🔎 similar; ✅ choose with evidence"
+    },
+    "answers": [
+      "Treat every text as a story.",
+      "Any valid shared feature such as title, images, words, pages, headings in some cases or topic vocabulary",
+      "Treat an opinion as a fact."
+    ],
+    "correct": 1,
+    "explanation": "Any valid shared feature such as title, images, words, pages, headings in some cases or topic vocabulary uses the skill correctly. Some texts inform or persuade instead.\nHint: Some texts inform or persuade instead.",
+    "structuredExplanation": {
+      "summary": "Any valid shared feature such as title, images, words, pages, headings in some cases or topic vocabulary uses the skill correctly. Some texts inform or persuade instead.",
+      "hint": "Some texts inform or persuade instead."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly03-p-035",
+    "curriculumCode": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03 05 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Order comparison thinking; 🔎 different; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order comparison thinking; 🔎 different; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-009\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-009",
+      "alt_text": "📖 Order comparison thinking; 🔎 different; ✅ choose with evidence"
+    },
+    "answers": [
+      "cite difference → note similarity → Name/identify types and purpose",
+      "Treat an opinion as a fact.",
+      "Name/identify types and purpose → note similarity → cite difference"
+    ],
+    "correct": 2,
+    "explanation": "Name/identify types and purpose → note similarity → cite difference uses the skill correctly. Opinion can be agreed or disagreed with.\nHint: Opinion can be agreed or disagreed with.",
+    "structuredExplanation": {
+      "summary": "Name/identify types and purpose → note similarity → cite difference uses the skill correctly. Opinion can be agreed or disagreed with.",
+      "hint": "Opinion can be agreed or disagreed with."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly03-p-036",
+    "curriculumCode": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03 06 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Draw three covers; 🔎 imaginative; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw three covers; 🔎 imaginative; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-011\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-011",
+      "alt_text": "📖 Draw three covers; 🔎 imaginative; ✅ choose with evidence"
+    },
+    "answers": [
+      "Three distinct purpose clues: story character/event, factual heading/diagram and recommended action/reason",
+      "Do not use same, different, both, but.",
+      "Treat every text as a story."
+    ],
+    "correct": 0,
+    "explanation": "Three distinct purpose clues: story character/event, factual heading/diagram and recommended action/reason uses the skill correctly. Use same, different, both, but.\nHint: Use same, different, both, but.",
+    "structuredExplanation": {
+      "summary": "Three distinct purpose clues: story character/event, factual heading/diagram and recommended action/reason uses the skill correctly. Use same, different, both, but.",
+      "hint": "Use same, different, both, but."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly03-p-037",
+    "curriculumCode": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03 07 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Explain factual persuasion; 🔎 informative; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Explain factual persuasion; 🔎 informative; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-013\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-013",
+      "alt_text": "📖 Explain factual persuasion; 🔎 informative; ✅ choose with evidence"
+    },
+    "answers": [
+      "Refill your bottle to reduce waste",
+      "It calls for a behaviour/choice and uses the fact as a reason",
+      "Treat every text as a story."
+    ],
+    "correct": 1,
+    "explanation": "It calls for a behaviour/choice and uses the fact as a reason uses the skill correctly. Some texts inform or persuade instead.\nHint: Some texts inform or persuade instead.",
+    "structuredExplanation": {
+      "summary": "It calls for a behaviour/choice and uses the fact as a reason uses the skill correctly. Some texts inform or persuade instead.",
+      "hint": "Some texts inform or persuade instead."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly03-p-038",
+    "curriculumCode": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03 08 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Compare openings; 🔎 persuasive; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Compare openings; 🔎 persuasive; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-015\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-015",
+      "alt_text": "📖 Compare openings; 🔎 persuasive; ✅ choose with evidence"
+    },
+    "answers": [
+      "Treat an opinion as a fact.",
+      "Do not use same, different, both, but.",
+      "Imaginative opening creates character/event/mood"
+    ],
+    "correct": 2,
+    "explanation": "Imaginative opening creates character/event/mood uses the skill correctly. Opinion can be agreed or disagreed with.\nHint: Opinion can be agreed or disagreed with.",
+    "structuredExplanation": {
+      "summary": "Imaginative opening creates character/event/mood uses the skill correctly. Opinion can be agreed or disagreed with.",
+      "hint": "Opinion can be agreed or disagreed with."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly03-p-039",
+    "curriculumCode": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03 09 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Recognise persuasive wording; 🔎 similar; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Recognise persuasive wording; 🔎 similar; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-017\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-017",
+      "alt_text": "📖 Recognise persuasive wording; 🔎 similar; ✅ choose with evidence"
+    },
+    "answers": [
+      "'Choose' states desired action and 'because it is cooler' gives a reason",
+      "Choose the shaded path because it is cooler",
+      "Do not use same, different, both, but."
+    ],
+    "correct": 0,
+    "explanation": "'Choose' states desired action and 'because it is cooler' gives a reason uses the skill correctly. Use same, different, both, but.\nHint: Use same, different, both, but.",
+    "structuredExplanation": {
+      "summary": "'Choose' states desired action and 'because it is cooler' gives a reason uses the skill correctly. Use same, different, both, but.",
+      "hint": "Use same, different, both, but."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly03-p-040",
+    "curriculumCode": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03 10 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Match shared and unique features; 🔎 different; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match shared and unique features; 🔎 different; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-019\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-019",
+      "alt_text": "📖 Match shared and unique features; 🔎 different; ✅ choose with evidence"
+    },
+    "answers": [
+      "Treat every text as a story.",
+      "All three matched correctly",
+      "Treat an opinion as a fact."
+    ],
+    "correct": 1,
+    "explanation": "All three matched correctly uses the skill correctly. Some texts inform or persuade instead.\nHint: Some texts inform or persuade instead.",
+    "structuredExplanation": {
+      "summary": "All three matched correctly uses the skill correctly. Some texts inform or persuade instead.",
+      "hint": "Some texts inform or persuade instead."
     },
     "qualitySchema": "production-v1"
   }

@@ -4,7 +4,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9e1la02-p-001",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 01 answer",
+    "skill": "ac9e1la02 01 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly find the reason?",
@@ -33,36 +33,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9e1la02-p-002",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 01 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you find the reason?",
-    "audioPrompt": "Which tip would help you find the reason?",
-    "visual": "🧠 Find the reason; ➡️ State preference; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Find the reason; ➡️ State preference; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-002\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-002",
-      "alt_text": "🧠 Find the reason; ➡️ State preference; 💡 helpful strategy"
-    },
-    "answers": [
-      "Do not use like, dislike, prefer and reason language.",
-      "Add because and a real reason.",
-      "Do not check the reason explains the choice."
-    ],
-    "correct": 1,
-    "explanation": "Add because and a real reason.\nHint: Add because and a real reason.",
-    "structuredExplanation": {
-      "summary": "Add because and a real reason.",
-      "hint": "Add because and a real reason."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la02-p-003",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "ac9e1la02 02 answer",
+    "skill": "ac9e1la02 02 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly match preferences and reasons?",
@@ -88,39 +59,10 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la02-p-004",
+    "id": "ac9e1la02-p-003",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 02 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you match preferences and reasons?",
-    "audioPrompt": "Which tip would help you match preferences and reasons?",
-    "visual": "🧠 Match preferences and reasons; ➡️ Give reason; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match preferences and reasons; ➡️ Give reason; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-004\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-004",
-      "alt_text": "🧠 Match preferences and reasons; ➡️ Give reason; 💡 helpful strategy"
-    },
-    "answers": [
-      "Use this routine: State preference → Give reason → Use evidence → Listen/respond.",
-      "Do not check the reason explains the choice.",
-      "Leave out because and a real reason."
-    ],
-    "correct": 0,
-    "explanation": "Use this routine: State preference → Give reason → Use evidence → Listen/respond.\nHint: Use like, dislike, prefer and reason language.",
-    "structuredExplanation": {
-      "summary": "Use this routine: State preference → Give reason → Use evidence → Listen/respond.",
-      "hint": "Use like, dislike, prefer and reason language."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la02-p-005",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "ac9e1la02 03 answer",
+    "skill": "ac9e1la02 03 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly give an oral preference?",
@@ -146,39 +88,10 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la02-p-006",
+    "id": "ac9e1la02-p-004",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 03 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you give an oral preference?",
-    "audioPrompt": "Which tip would help you give an oral preference?",
-    "visual": "🧠 Give an oral preference; ➡️ Use evidence; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Give an oral preference; ➡️ Use evidence; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-006",
-      "alt_text": "🧠 Give an oral preference; ➡️ Use evidence; 💡 helpful strategy"
-    },
-    "answers": [
-      "Leave out because and a real reason.",
-      "Do not use like, dislike, prefer and reason language.",
-      "Look for prefer and check the whole example."
-    ],
-    "correct": 2,
-    "explanation": "Look for prefer and check the whole example.\nHint: Check the reason explains the choice.",
-    "structuredExplanation": {
-      "summary": "Look for prefer and check the whole example.",
-      "hint": "Check the reason explains the choice."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la02-p-007",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "ac9e1la02 04 answer",
+    "skill": "ac9e1la02 04 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly improve a weak reason?",
@@ -204,39 +117,10 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la02-p-008",
+    "id": "ac9e1la02-p-005",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 04 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you improve a weak reason?",
-    "audioPrompt": "Which tip would help you improve a weak reason?",
-    "visual": "🧠 Improve a weak reason; ➡️ Listen/respond; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Improve a weak reason; ➡️ Listen/respond; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-008\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-008",
-      "alt_text": "🧠 Improve a weak reason; ➡️ Listen/respond; 💡 helpful strategy"
-    },
-    "answers": [
-      "Do not use like, dislike, prefer and reason language.",
-      "Check that you can listen to others.",
-      "Do not check the reason explains the choice."
-    ],
-    "correct": 1,
-    "explanation": "Check that you can listen to others.\nHint: Add because and a real reason.",
-    "structuredExplanation": {
-      "summary": "Check that you can listen to others.",
-      "hint": "Add because and a real reason."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la02-p-009",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "ac9e1la02 05 answer",
+    "skill": "ac9e1la02 05 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly order a reasoned response?",
@@ -262,39 +146,10 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la02-p-010",
+    "id": "ac9e1la02-p-006",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 05 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you order a reasoned response?",
-    "audioPrompt": "Which tip would help you order a reasoned response?",
-    "visual": "🧠 Order a reasoned response; ➡️ State preference; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Order a reasoned response; ➡️ State preference; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-010",
-      "alt_text": "🧠 Order a reasoned response; ➡️ State preference; 💡 helpful strategy"
-    },
-    "answers": [
-      "Sequencing a preference-and-reason structure.",
-      "Do not check the reason explains the choice.",
-      "Leave out because and a real reason."
-    ],
-    "correct": 0,
-    "explanation": "Sequencing a preference-and-reason structure.\nHint: Use like, dislike, prefer and reason language.",
-    "structuredExplanation": {
-      "summary": "Sequencing a preference-and-reason structure.",
-      "hint": "Use like, dislike, prefer and reason language."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la02-p-011",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "ac9e1la02 06 answer",
+    "skill": "ac9e1la02 06 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly draw choice and evidence?",
@@ -320,39 +175,10 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la02-p-012",
+    "id": "ac9e1la02-p-007",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 06 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you draw choice and evidence?",
-    "audioPrompt": "Which tip would help you draw choice and evidence?",
-    "visual": "🧠 Draw choice and evidence; ➡️ Give reason; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw choice and evidence; ➡️ Give reason; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-012\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-012",
-      "alt_text": "🧠 Draw choice and evidence; ➡️ Give reason; 💡 helpful strategy"
-    },
-    "answers": [
-      "Leave out because and a real reason.",
-      "Do not use like, dislike, prefer and reason language.",
-      "Check the reason explains the choice."
-    ],
-    "correct": 2,
-    "explanation": "Check the reason explains the choice.\nHint: Check the reason explains the choice.",
-    "structuredExplanation": {
-      "summary": "Check the reason explains the choice.",
-      "hint": "Check the reason explains the choice."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la02-p-013",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "ac9e1la02 07 answer",
+    "skill": "ac9e1la02 07 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly separate fact and preference?",
@@ -378,39 +204,10 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la02-p-014",
+    "id": "ac9e1la02-p-008",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 07 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you separate fact and preference?",
-    "audioPrompt": "Which tip would help you separate fact and preference?",
-    "visual": "🧠 Separate fact and preference; ➡️ Use evidence; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Separate fact and preference; ➡️ Use evidence; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-014\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-014",
-      "alt_text": "🧠 Separate fact and preference; ➡️ Use evidence; 💡 helpful strategy"
-    },
-    "answers": [
-      "Do not use like, dislike, prefer and reason language.",
-      "Use this routine: State preference → Give reason → Use evidence → Listen/respond.",
-      "Do not check the reason explains the choice."
-    ],
-    "correct": 1,
-    "explanation": "Use this routine: State preference → Give reason → Use evidence → Listen/respond.\nHint: Add because and a real reason.",
-    "structuredExplanation": {
-      "summary": "Use this routine: State preference → Give reason → Use evidence → Listen/respond.",
-      "hint": "Add because and a real reason."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la02-p-015",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "ac9e1la02 08 answer",
+    "skill": "ac9e1la02 08 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly give respectful disagreement?",
@@ -436,39 +233,10 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la02-p-016",
+    "id": "ac9e1la02-p-009",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 08 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you give respectful disagreement?",
-    "audioPrompt": "Which tip would help you give respectful disagreement?",
-    "visual": "🧠 Give respectful disagreement; ➡️ Listen/respond; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Give respectful disagreement; ➡️ Listen/respond; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-016",
-      "alt_text": "🧠 Give respectful disagreement; ➡️ Listen/respond; 💡 helpful strategy"
-    },
-    "answers": [
-      "Look for prefer and check the whole example.",
-      "Do not check the reason explains the choice.",
-      "Leave out because and a real reason."
-    ],
-    "correct": 0,
-    "explanation": "Look for prefer and check the whole example.\nHint: Use like, dislike, prefer and reason language.",
-    "structuredExplanation": {
-      "summary": "Look for prefer and check the whole example.",
-      "hint": "Use like, dislike, prefer and reason language."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la02-p-017",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "ac9e1la02 01 answer",
+    "skill": "ac9e1la02 09 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly complete a reason?",
@@ -494,39 +262,10 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1la02-p-018",
+    "id": "ac9e1la02-p-010",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 01 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you complete a reason?",
-    "audioPrompt": "Which tip would help you complete a reason?",
-    "visual": "🧠 Complete a reason; ➡️ State preference; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Complete a reason; ➡️ State preference; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-018\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-018",
-      "alt_text": "🧠 Complete a reason; ➡️ State preference; 💡 helpful strategy"
-    },
-    "answers": [
-      "Leave out because and a real reason.",
-      "Do not use like, dislike, prefer and reason language.",
-      "Check that you can listen to others."
-    ],
-    "correct": 2,
-    "explanation": "Check that you can listen to others.\nHint: Check the reason explains the choice.",
-    "structuredExplanation": {
-      "summary": "Check that you can listen to others.",
-      "hint": "Check the reason explains the choice."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1la02-p-019",
-    "curriculumCode": "AC9E1LA02",
-    "bank": "practice",
-    "skill": "ac9e1la02 02 answer",
+    "skill": "ac9e1la02 10 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly match reasons to audiences?",
@@ -552,10 +291,271 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
+    "id": "ac9e1la02-p-011",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "ac9e1la02 01 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you find the reason?",
+    "audioPrompt": "Which tip would help you find the reason?",
+    "visual": "🧠 Find the reason; ➡️ State preference; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Find the reason; ➡️ State preference; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-002\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-002",
+      "alt_text": "🧠 Find the reason; ➡️ State preference; 💡 helpful strategy"
+    },
+    "answers": [
+      "Do not use like, dislike, prefer and reason language.",
+      "Add because and a real reason.",
+      "Do not check the reason explains the choice."
+    ],
+    "correct": 1,
+    "explanation": "Add because and a real reason.\nHint: Add because and a real reason.",
+    "structuredExplanation": {
+      "summary": "Add because and a real reason.",
+      "hint": "Add because and a real reason."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la02-p-012",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "ac9e1la02 02 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you match preferences and reasons?",
+    "audioPrompt": "Which tip would help you match preferences and reasons?",
+    "visual": "🧠 Match preferences and reasons; ➡️ Give reason; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match preferences and reasons; ➡️ Give reason; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-004\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-004",
+      "alt_text": "🧠 Match preferences and reasons; ➡️ Give reason; 💡 helpful strategy"
+    },
+    "answers": [
+      "Use this routine: State preference → Give reason → Use evidence → Listen/respond.",
+      "Do not check the reason explains the choice.",
+      "Leave out because and a real reason."
+    ],
+    "correct": 0,
+    "explanation": "Use this routine: State preference → Give reason → Use evidence → Listen/respond.\nHint: Use like, dislike, prefer and reason language.",
+    "structuredExplanation": {
+      "summary": "Use this routine: State preference → Give reason → Use evidence → Listen/respond.",
+      "hint": "Use like, dislike, prefer and reason language."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la02-p-013",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "ac9e1la02 03 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you give an oral preference?",
+    "audioPrompt": "Which tip would help you give an oral preference?",
+    "visual": "🧠 Give an oral preference; ➡️ Use evidence; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Give an oral preference; ➡️ Use evidence; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-006\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-006",
+      "alt_text": "🧠 Give an oral preference; ➡️ Use evidence; 💡 helpful strategy"
+    },
+    "answers": [
+      "Leave out because and a real reason.",
+      "Do not use like, dislike, prefer and reason language.",
+      "Look for prefer and check the whole example."
+    ],
+    "correct": 2,
+    "explanation": "Look for prefer and check the whole example.\nHint: Check the reason explains the choice.",
+    "structuredExplanation": {
+      "summary": "Look for prefer and check the whole example.",
+      "hint": "Check the reason explains the choice."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la02-p-014",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "ac9e1la02 04 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you improve a weak reason?",
+    "audioPrompt": "Which tip would help you improve a weak reason?",
+    "visual": "🧠 Improve a weak reason; ➡️ Listen/respond; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Improve a weak reason; ➡️ Listen/respond; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-008\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-008",
+      "alt_text": "🧠 Improve a weak reason; ➡️ Listen/respond; 💡 helpful strategy"
+    },
+    "answers": [
+      "Do not use like, dislike, prefer and reason language.",
+      "Check that you can listen to others.",
+      "Do not check the reason explains the choice."
+    ],
+    "correct": 1,
+    "explanation": "Check that you can listen to others.\nHint: Add because and a real reason.",
+    "structuredExplanation": {
+      "summary": "Check that you can listen to others.",
+      "hint": "Add because and a real reason."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la02-p-015",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "ac9e1la02 05 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you order a reasoned response?",
+    "audioPrompt": "Which tip would help you order a reasoned response?",
+    "visual": "🧠 Order a reasoned response; ➡️ State preference; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Order a reasoned response; ➡️ State preference; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-010\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-010",
+      "alt_text": "🧠 Order a reasoned response; ➡️ State preference; 💡 helpful strategy"
+    },
+    "answers": [
+      "Sequencing a preference-and-reason structure.",
+      "Do not check the reason explains the choice.",
+      "Leave out because and a real reason."
+    ],
+    "correct": 0,
+    "explanation": "Sequencing a preference-and-reason structure.\nHint: Use like, dislike, prefer and reason language.",
+    "structuredExplanation": {
+      "summary": "Sequencing a preference-and-reason structure.",
+      "hint": "Use like, dislike, prefer and reason language."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la02-p-016",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "ac9e1la02 06 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you draw choice and evidence?",
+    "audioPrompt": "Which tip would help you draw choice and evidence?",
+    "visual": "🧠 Draw choice and evidence; ➡️ Give reason; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw choice and evidence; ➡️ Give reason; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-012\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-012",
+      "alt_text": "🧠 Draw choice and evidence; ➡️ Give reason; 💡 helpful strategy"
+    },
+    "answers": [
+      "Leave out because and a real reason.",
+      "Do not use like, dislike, prefer and reason language.",
+      "Check the reason explains the choice."
+    ],
+    "correct": 2,
+    "explanation": "Check the reason explains the choice.\nHint: Check the reason explains the choice.",
+    "structuredExplanation": {
+      "summary": "Check the reason explains the choice.",
+      "hint": "Check the reason explains the choice."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la02-p-017",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "ac9e1la02 07 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you separate fact and preference?",
+    "audioPrompt": "Which tip would help you separate fact and preference?",
+    "visual": "🧠 Separate fact and preference; ➡️ Use evidence; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Separate fact and preference; ➡️ Use evidence; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-014\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-014",
+      "alt_text": "🧠 Separate fact and preference; ➡️ Use evidence; 💡 helpful strategy"
+    },
+    "answers": [
+      "Do not use like, dislike, prefer and reason language.",
+      "Use this routine: State preference → Give reason → Use evidence → Listen/respond.",
+      "Do not check the reason explains the choice."
+    ],
+    "correct": 1,
+    "explanation": "Use this routine: State preference → Give reason → Use evidence → Listen/respond.\nHint: Add because and a real reason.",
+    "structuredExplanation": {
+      "summary": "Use this routine: State preference → Give reason → Use evidence → Listen/respond.",
+      "hint": "Add because and a real reason."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la02-p-018",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "ac9e1la02 08 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you give respectful disagreement?",
+    "audioPrompt": "Which tip would help you give respectful disagreement?",
+    "visual": "🧠 Give respectful disagreement; ➡️ Listen/respond; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Give respectful disagreement; ➡️ Listen/respond; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-016\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-016",
+      "alt_text": "🧠 Give respectful disagreement; ➡️ Listen/respond; 💡 helpful strategy"
+    },
+    "answers": [
+      "Look for prefer and check the whole example.",
+      "Do not check the reason explains the choice.",
+      "Leave out because and a real reason."
+    ],
+    "correct": 0,
+    "explanation": "Look for prefer and check the whole example.\nHint: Use like, dislike, prefer and reason language.",
+    "structuredExplanation": {
+      "summary": "Look for prefer and check the whole example.",
+      "hint": "Use like, dislike, prefer and reason language."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la02-p-019",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "ac9e1la02 09 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you complete a reason?",
+    "audioPrompt": "Which tip would help you complete a reason?",
+    "visual": "🧠 Complete a reason; ➡️ State preference; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Complete a reason; ➡️ State preference; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-018\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-018",
+      "alt_text": "🧠 Complete a reason; ➡️ State preference; 💡 helpful strategy"
+    },
+    "answers": [
+      "Leave out because and a real reason.",
+      "Do not use like, dislike, prefer and reason language.",
+      "Check that you can listen to others."
+    ],
+    "correct": 2,
+    "explanation": "Check that you can listen to others.\nHint: Check the reason explains the choice.",
+    "structuredExplanation": {
+      "summary": "Check that you can listen to others.",
+      "hint": "Check the reason explains the choice."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
     "id": "ac9e1la02-p-020",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 02 strategy",
+    "skill": "ac9e1la02 10 explain",
     "printable": true,
     "type": "single",
     "question": "Which tip would help you match reasons to audiences?",
@@ -584,28 +584,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9e1la02-p-021",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 03 answer",
+    "skill": "ac9e1la02 01 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly sequence two viewpoints?",
-    "audioPrompt": "Which response would correctly sequence two viewpoints?",
-    "visual": "📖 Sequence two viewpoints; 🔎 like; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Sequence two viewpoints; 🔎 like; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-021\"></use></svg>",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Find the reason; 🔎 like; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find the reason; 🔎 like; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-021",
-      "alt_text": "📖 Sequence two viewpoints; 🔎 like; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-001",
+      "alt_text": "📖 Find the reason; 🔎 like; ✅ choose with evidence"
     },
     "answers": [
-      "Ana acknowledges → Ben reasoned preference → Ben listens → Ana preference",
-      "Do not use like, dislike, prefer and reason language.",
-      "Ana preference → Ben listens → Ben reasoned preference → Ana acknowledges"
+      "I like mango because it is sweet",
+      "'because it is sweet'",
+      "Add because and a real reason."
     ],
-    "correct": 2,
-    "explanation": "Ana preference → Ben listens → Ben reasoned preference → Ana acknowledges This matches the task.\nHint: Use like, dislike, prefer and reason language.",
+    "correct": 0,
+    "explanation": "I like mango because it is sweet is the mix-up. Add because and a real reason.\nHint: Add because and a real reason.",
     "structuredExplanation": {
-      "summary": "Ana preference → Ben listens → Ben reasoned preference → Ana acknowledges This matches the task.",
-      "hint": "Use like, dislike, prefer and reason language."
+      "summary": "I like mango because it is sweet is the mix-up. Add because and a real reason.",
+      "hint": "Add because and a real reason."
     },
     "qualitySchema": "production-v1"
   },
@@ -613,27 +613,27 @@ window.skillrPracticeQuestions = [
     "id": "ac9e1la02-p-022",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 03 strategy",
+    "skill": "ac9e1la02 02 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you sequence two viewpoints?",
-    "audioPrompt": "Which tip would help you sequence two viewpoints?",
-    "visual": "🧠 Sequence two viewpoints; ➡️ Use evidence; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Sequence two viewpoints; ➡️ Use evidence; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-022\"></use></svg>",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Match preferences and reasons; 🔎 dislike; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match preferences and reasons; 🔎 dislike; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-022",
-      "alt_text": "🧠 Sequence two viewpoints; ➡️ Use evidence; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-003",
+      "alt_text": "📖 Match preferences and reasons; 🔎 dislike; ✅ choose with evidence"
     },
     "answers": [
-      "Use like, dislike, prefer and reason language.",
-      "Do not check the reason explains the choice.",
-      "Leave out because and a real reason."
+      "Each preference matches its relevant reason",
+      "I prefer boots",
+      "Use this routine: State preference → Give reason → Use evidence → Listen/respond."
     ],
-    "correct": 0,
-    "explanation": "Use like, dislike, prefer and reason language.\nHint: Use like, dislike, prefer and reason language.",
+    "correct": 1,
+    "explanation": "I prefer boots is the mix-up. Use like, dislike, prefer and reason language.\nHint: Use like, dislike, prefer and reason language.",
     "structuredExplanation": {
-      "summary": "Use like, dislike, prefer and reason language.",
+      "summary": "I prefer boots is the mix-up. Use like, dislike, prefer and reason language.",
       "hint": "Use like, dislike, prefer and reason language."
     },
     "qualitySchema": "production-v1"
@@ -642,27 +642,27 @@ window.skillrPracticeQuestions = [
     "id": "ac9e1la02-p-023",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 04 answer",
+    "skill": "ac9e1la02 03 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly compare two reasons?",
-    "audioPrompt": "Which response would correctly compare two reasons?",
-    "visual": "📖 Compare two reasons; 🔎 dislike; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Compare two reasons; 🔎 dislike; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-023\"></use></svg>",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Give an oral preference; 🔎 prefer; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Give an oral preference; 🔎 prefer; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-023",
-      "alt_text": "📖 Compare two reasons; 🔎 dislike; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-005",
+      "alt_text": "📖 Give an oral preference; 🔎 prefer; ✅ choose with evidence"
     },
     "answers": [
-      "I like this story because it is good",
-      "Second; it names a specific feature and response rather than using vague praise",
-      "because the surprise ending made me laugh"
+      "States one choice and a relevant reason in a complete sentence",
+      "Look for prefer and check the whole example.",
+      "Do not check the reason explains the choice."
     ],
-    "correct": 1,
-    "explanation": "Second; it names a specific feature and response rather than using vague praise This matches the task.\nHint: Check the reason explains the choice.",
+    "correct": 2,
+    "explanation": "Do not check the reason explains the choice. is the mix-up. Check the reason explains the choice.\nHint: Check the reason explains the choice.",
     "structuredExplanation": {
-      "summary": "Second; it names a specific feature and response rather than using vague praise This matches the task.",
+      "summary": "Do not check the reason explains the choice. is the mix-up. Check the reason explains the choice.",
       "hint": "Check the reason explains the choice."
     },
     "qualitySchema": "production-v1"
@@ -671,28 +671,492 @@ window.skillrPracticeQuestions = [
     "id": "ac9e1la02-p-024",
     "curriculumCode": "AC9E1LA02",
     "bank": "practice",
-    "skill": "ac9e1la02 04 strategy",
+    "skill": "ac9e1la02 04 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you compare two reasons?",
-    "audioPrompt": "Which tip would help you compare two reasons?",
-    "visual": "🧠 Compare two reasons; ➡️ Listen/respond; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Compare two reasons; ➡️ Listen/respond; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-024\"></use></svg>",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Improve a weak reason; 🔎 because; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Improve a weak reason; 🔎 because; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-024",
-      "alt_text": "🧠 Compare two reasons; ➡️ Listen/respond; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-007",
+      "alt_text": "📖 Improve a weak reason; 🔎 because; ✅ choose with evidence"
+    },
+    "answers": [
+      "I prefer apples because apples are better",
+      "'I prefer apples because they are crisp and easy to pack'",
+      "Check that you can listen to others."
+    ],
+    "correct": 0,
+    "explanation": "I prefer apples because apples are better is the mix-up. Add because and a real reason.\nHint: Add because and a real reason.",
+    "structuredExplanation": {
+      "summary": "I prefer apples because apples are better is the mix-up. Add because and a real reason.",
+      "hint": "Add because and a real reason."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la02-p-025",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "ac9e1la02 05 discriminate",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Order a reasoned response; 🔎 reason; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order a reasoned response; 🔎 reason; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-009\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-009",
+      "alt_text": "📖 Order a reasoned response; 🔎 reason; ✅ choose with evidence"
+    },
+    "answers": [
+      "Name choice → add because → give reason → optional comparison",
+      "optional comparison → give reason → add because → Name choice",
+      "Sequencing a preference-and-reason structure."
+    ],
+    "correct": 1,
+    "explanation": "optional comparison → give reason → add because → Name choice is the mix-up. Use like, dislike, prefer and reason language.\nHint: Use like, dislike, prefer and reason language.",
+    "structuredExplanation": {
+      "summary": "optional comparison → give reason → add because → Name choice is the mix-up. Use like, dislike, prefer and reason language.",
+      "hint": "Use like, dislike, prefer and reason language."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la02-p-026",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "ac9e1la02 06 discriminate",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Draw choice and evidence; 🔎 like; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw choice and evidence; 🔎 like; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-011\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-011",
+      "alt_text": "📖 Draw choice and evidence; 🔎 like; ✅ choose with evidence"
+    },
+    "answers": [
+      "Picture shows both options and sentence chooses shade for a relevant heat/sun reason",
+      "Check the reason explains the choice.",
+      "Do not check the reason explains the choice."
+    ],
+    "correct": 2,
+    "explanation": "Do not check the reason explains the choice. is the mix-up. Check the reason explains the choice.\nHint: Check the reason explains the choice.",
+    "structuredExplanation": {
+      "summary": "Do not check the reason explains the choice. is the mix-up. Check the reason explains the choice.",
+      "hint": "Check the reason explains the choice."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la02-p-027",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "ac9e1la02 07 discriminate",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Separate fact and preference; 🔎 dislike; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Separate fact and preference; 🔎 dislike; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-013\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-013",
+      "alt_text": "📖 Separate fact and preference; 🔎 dislike; ✅ choose with evidence"
+    },
+    "answers": [
+      "The red bag has two pockets",
+      "Two pockets is a checkable fact; liking it best is a personal preference",
+      "Use this routine: State preference → Give reason → Use evidence → Listen/respond."
+    ],
+    "correct": 0,
+    "explanation": "The red bag has two pockets is the mix-up. Add because and a real reason.\nHint: Add because and a real reason.",
+    "structuredExplanation": {
+      "summary": "The red bag has two pockets is the mix-up. Add because and a real reason.",
+      "hint": "Add because and a real reason."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la02-p-028",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "ac9e1la02 08 discriminate",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Give respectful disagreement; 🔎 prefer; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Give respectful disagreement; 🔎 prefer; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-015\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-015",
+      "alt_text": "📖 Give respectful disagreement; 🔎 prefer; ✅ choose with evidence"
+    },
+    "answers": [
+      "Uses respectful wording, names an alternative and gives a connected reason",
+      "Do not use like, dislike, prefer and reason language.",
+      "Look for prefer and check the whole example."
+    ],
+    "correct": 1,
+    "explanation": "Do not use like, dislike, prefer and reason language. is the mix-up. Use like, dislike, prefer and reason language.\nHint: Use like, dislike, prefer and reason language.",
+    "structuredExplanation": {
+      "summary": "Do not use like, dislike, prefer and reason language. is the mix-up. Use like, dislike, prefer and reason language.",
+      "hint": "Use like, dislike, prefer and reason language."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la02-p-029",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "ac9e1la02 09 discriminate",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Complete a reason; 🔎 because; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Complete a reason; 🔎 because; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-017\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-017",
+      "alt_text": "📖 Complete a reason; 🔎 because; ✅ choose with evidence"
+    },
+    "answers": [
+      "'because it holds more water for the long walk'",
+      "Check that you can listen to others.",
+      "I would choose the larger water bottle because ___"
+    ],
+    "correct": 2,
+    "explanation": "I would choose the larger water bottle because ___ is the mix-up. Check the reason explains the choice.\nHint: Check the reason explains the choice.",
+    "structuredExplanation": {
+      "summary": "I would choose the larger water bottle because ___ is the mix-up. Check the reason explains the choice.",
+      "hint": "Check the reason explains the choice."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la02-p-030",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "ac9e1la02 10 discriminate",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Match reasons to audiences; 🔎 reason; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match reasons to audiences; 🔎 reason; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-019\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-019",
+      "alt_text": "📖 Match reasons to audiences; 🔎 reason; ✅ choose with evidence"
     },
     "answers": [
       "Leave out because and a real reason.",
-      "Do not use like, dislike, prefer and reason language.",
-      "Use this routine: State preference → Give reason → Use evidence → Listen/respond."
+      "Each option matches its relevant practical reason",
+      "Selecting reasons that support choices."
+    ],
+    "correct": 0,
+    "explanation": "Leave out because and a real reason. is the mix-up. Add because and a real reason.\nHint: Add because and a real reason.",
+    "structuredExplanation": {
+      "summary": "Leave out because and a real reason. is the mix-up. Add because and a real reason.",
+      "hint": "Add because and a real reason."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la02-p-031",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "ac9e1la02 01 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Find the reason; 🔎 like; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Find the reason; 🔎 like; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-001\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-001",
+      "alt_text": "📖 Find the reason; 🔎 like; ✅ choose with evidence"
+    },
+    "answers": [
+      "I like mango because it is sweet",
+      "'because it is sweet'",
+      "Leave out because and a real reason."
+    ],
+    "correct": 1,
+    "explanation": "'because it is sweet' uses the skill correctly. Add because and a real reason.\nHint: Add because and a real reason.",
+    "structuredExplanation": {
+      "summary": "'because it is sweet' uses the skill correctly. Add because and a real reason.",
+      "hint": "Add because and a real reason."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la02-p-032",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "ac9e1la02 02 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Match preferences and reasons; 🔎 dislike; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match preferences and reasons; 🔎 dislike; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-003\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-003",
+      "alt_text": "📖 Match preferences and reasons; 🔎 dislike; ✅ choose with evidence"
+    },
+    "answers": [
+      "I prefer boots",
+      "I like the library",
+      "Each preference matches its relevant reason"
     ],
     "correct": 2,
-    "explanation": "Use this routine: State preference → Give reason → Use evidence → Listen/respond.\nHint: Check the reason explains the choice.",
+    "explanation": "Each preference matches its relevant reason uses the skill correctly. Use like, dislike, prefer and reason language.\nHint: Use like, dislike, prefer and reason language.",
     "structuredExplanation": {
-      "summary": "Use this routine: State preference → Give reason → Use evidence → Listen/respond.",
+      "summary": "Each preference matches its relevant reason uses the skill correctly. Use like, dislike, prefer and reason language.",
+      "hint": "Use like, dislike, prefer and reason language."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la02-p-033",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "ac9e1la02 03 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Give an oral preference; 🔎 prefer; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Give an oral preference; 🔎 prefer; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-005\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-005",
+      "alt_text": "📖 Give an oral preference; 🔎 prefer; ✅ choose with evidence"
+    },
+    "answers": [
+      "States one choice and a relevant reason in a complete sentence",
+      "Do not check the reason explains the choice.",
+      "Leave out because and a real reason."
+    ],
+    "correct": 0,
+    "explanation": "States one choice and a relevant reason in a complete sentence uses the skill correctly. Check the reason explains the choice.\nHint: Check the reason explains the choice.",
+    "structuredExplanation": {
+      "summary": "States one choice and a relevant reason in a complete sentence uses the skill correctly. Check the reason explains the choice.",
       "hint": "Check the reason explains the choice."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la02-p-034",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "ac9e1la02 04 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Improve a weak reason; 🔎 because; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Improve a weak reason; 🔎 because; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-007\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-007",
+      "alt_text": "📖 Improve a weak reason; 🔎 because; ✅ choose with evidence"
+    },
+    "answers": [
+      "I prefer apples because apples are better",
+      "'I prefer apples because they are crisp and easy to pack'",
+      "Leave out because and a real reason."
+    ],
+    "correct": 1,
+    "explanation": "'I prefer apples because they are crisp and easy to pack' uses the skill correctly. Add because and a real reason.\nHint: Add because and a real reason.",
+    "structuredExplanation": {
+      "summary": "'I prefer apples because they are crisp and easy to pack' uses the skill correctly. Add because and a real reason.",
+      "hint": "Add because and a real reason."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la02-p-035",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "ac9e1la02 05 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Order a reasoned response; 🔎 reason; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order a reasoned response; 🔎 reason; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-009\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-009",
+      "alt_text": "📖 Order a reasoned response; 🔎 reason; ✅ choose with evidence"
+    },
+    "answers": [
+      "optional comparison → give reason → add because → Name choice",
+      "Do not use like, dislike, prefer and reason language.",
+      "Name choice → add because → give reason → optional comparison"
+    ],
+    "correct": 2,
+    "explanation": "Name choice → add because → give reason → optional comparison uses the skill correctly. Use like, dislike, prefer and reason language.\nHint: Use like, dislike, prefer and reason language.",
+    "structuredExplanation": {
+      "summary": "Name choice → add because → give reason → optional comparison uses the skill correctly. Use like, dislike, prefer and reason language.",
+      "hint": "Use like, dislike, prefer and reason language."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la02-p-036",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "ac9e1la02 06 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Draw choice and evidence; 🔎 like; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw choice and evidence; 🔎 like; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-011\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-011",
+      "alt_text": "📖 Draw choice and evidence; 🔎 like; ✅ choose with evidence"
+    },
+    "answers": [
+      "Picture shows both options and sentence chooses shade for a relevant heat/sun reason",
+      "Do not check the reason explains the choice.",
+      "Leave out because and a real reason."
+    ],
+    "correct": 0,
+    "explanation": "Picture shows both options and sentence chooses shade for a relevant heat/sun reason uses the skill correctly. Check the reason explains the choice.\nHint: Check the reason explains the choice.",
+    "structuredExplanation": {
+      "summary": "Picture shows both options and sentence chooses shade for a relevant heat/sun reason uses the skill correctly. Check the reason explains the choice.",
+      "hint": "Check the reason explains the choice."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la02-p-037",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "ac9e1la02 07 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Separate fact and preference; 🔎 dislike; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Separate fact and preference; 🔎 dislike; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-013\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-013",
+      "alt_text": "📖 Separate fact and preference; 🔎 dislike; ✅ choose with evidence"
+    },
+    "answers": [
+      "The red bag has two pockets",
+      "Two pockets is a checkable fact; liking it best is a personal preference",
+      "I like the red bag best"
+    ],
+    "correct": 1,
+    "explanation": "Two pockets is a checkable fact; liking it best is a personal preference uses the skill correctly. Add because and a real reason.\nHint: Add because and a real reason.",
+    "structuredExplanation": {
+      "summary": "Two pockets is a checkable fact; liking it best is a personal preference uses the skill correctly. Add because and a real reason.",
+      "hint": "Add because and a real reason."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la02-p-038",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "ac9e1la02 08 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Give respectful disagreement; 🔎 prefer; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Give respectful disagreement; 🔎 prefer; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-015\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-015",
+      "alt_text": "📖 Give respectful disagreement; 🔎 prefer; ✅ choose with evidence"
+    },
+    "answers": [
+      "Do not use like, dislike, prefer and reason language.",
+      "Do not check the reason explains the choice.",
+      "Uses respectful wording, names an alternative and gives a connected reason"
+    ],
+    "correct": 2,
+    "explanation": "Uses respectful wording, names an alternative and gives a connected reason uses the skill correctly. Use like, dislike, prefer and reason language.\nHint: Use like, dislike, prefer and reason language.",
+    "structuredExplanation": {
+      "summary": "Uses respectful wording, names an alternative and gives a connected reason uses the skill correctly. Use like, dislike, prefer and reason language.",
+      "hint": "Use like, dislike, prefer and reason language."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la02-p-039",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "ac9e1la02 09 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Complete a reason; 🔎 because; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Complete a reason; 🔎 because; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-017\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-017",
+      "alt_text": "📖 Complete a reason; 🔎 because; ✅ choose with evidence"
+    },
+    "answers": [
+      "'because it holds more water for the long walk'",
+      "I would choose the larger water bottle because ___",
+      "Do not check the reason explains the choice."
+    ],
+    "correct": 0,
+    "explanation": "'because it holds more water for the long walk' uses the skill correctly. Check the reason explains the choice.\nHint: Check the reason explains the choice.",
+    "structuredExplanation": {
+      "summary": "'because it holds more water for the long walk' uses the skill correctly. Check the reason explains the choice.",
+      "hint": "Check the reason explains the choice."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1la02-p-040",
+    "curriculumCode": "AC9E1LA02",
+    "bank": "practice",
+    "skill": "ac9e1la02 10 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Match reasons to audiences; 🔎 reason; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match reasons to audiences; 🔎 reason; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-019\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-p-019",
+      "alt_text": "📖 Match reasons to audiences; 🔎 reason; ✅ choose with evidence"
+    },
+    "answers": [
+      "Leave out because and a real reason.",
+      "Each option matches its relevant practical reason",
+      "Do not use like, dislike, prefer and reason language."
+    ],
+    "correct": 1,
+    "explanation": "Each option matches its relevant practical reason uses the skill correctly. Add because and a real reason.\nHint: Add because and a real reason.",
+    "structuredExplanation": {
+      "summary": "Each option matches its relevant practical reason uses the skill correctly. Add because and a real reason.",
+      "hint": "Add because and a real reason."
     },
     "qualitySchema": "production-v1"
   }

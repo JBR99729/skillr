@@ -5,7 +5,7 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY08",
     "bank": "practice",
-    "skill": "ac9e1ly08_01_answer",
+    "skill": "ac9e1ly08_01_recognise",
     "question": "Which letter should begin the name maya when written correctly?",
     "audio_prompt": "Which letter should begin the name maya when written correctly?",
     "visual": {
@@ -32,9 +32,7 @@
       "summary": "Upper-case M This matches the task.",
       "hint": "Use clear spaces between words."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "stage": "recognise"
   },
   {
     "id": "AC9E1LY08-P-002",
@@ -42,44 +40,7 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY08",
     "bank": "practice",
-    "skill": "ac9e1ly08_01_strategy",
-    "question": "Which tip would help you choose the capital?",
-    "audio_prompt": "Which tip would help you choose the capital?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-002",
-      "alt_text": "🧠 Choose the capital; ➡️ Start point; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Do not use capitals only where needed.",
-        "is_correct": false
-      },
-      {
-        "text": "Use clear spaces between words.",
-        "is_correct": true
-      },
-      {
-        "text": "Reverse a letter.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Use clear spaces between words.",
-      "hint": "Use clear spaces between words."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9E1LY08-P-003",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "ac9e1ly08_02_answer",
+    "skill": "ac9e1ly08_02_recognise",
     "question": "Which response would correctly match upper and lower case?",
     "audio_prompt": "Which response would correctly match upper and lower case?",
     "visual": {
@@ -106,54 +67,15 @@
       "summary": "A ↔ a; G ↔ g; T ↔ t This matches the task.",
       "hint": "Use capitals only where needed."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LY08-P-004",
+    "id": "AC9E1LY08-P-003",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY08",
     "bank": "practice",
-    "skill": "ac9e1ly08_02_strategy",
-    "question": "Which tip would help you match upper and lower case?",
-    "audio_prompt": "Which tip would help you match upper and lower case?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-004",
-      "alt_text": "🧠 Match upper and lower case; ➡️ Form letter; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Use this routine: Start point → Form letter → Space word → Re-read.",
-        "is_correct": true
-      },
-      {
-        "text": "Reverse a letter.",
-        "is_correct": false
-      },
-      {
-        "text": "Do not use clear spaces between words.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Use this routine: Start point → Form letter → Space word → Re-read.",
-      "hint": "Use capitals only where needed."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9E1LY08-P-005",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "ac9e1ly08_03_answer",
+    "skill": "ac9e1ly08_03_recognise",
     "question": "Write the word map using separate lower-case letters on the line.",
     "audio_prompt": "Write the word map using separate lower-case letters on the line.",
     "visual": {
@@ -180,54 +102,15 @@
       "summary": "Letters m-a-p are unjoined, correctly ordered, recognisable and placed consistently This matches the task.",
       "hint": "Practise start point and direction."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LY08-P-006",
+    "id": "AC9E1LY08-P-004",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY08",
     "bank": "practice",
-    "skill": "ac9e1ly08_03_strategy",
-    "question": "Which tip would help you write a clear word?",
-    "audio_prompt": "Which tip would help you write a clear word?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-006",
-      "alt_text": "🧠 Write a clear word; ➡️ Space word; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Do not use clear spaces between words.",
-        "is_correct": false
-      },
-      {
-        "text": "Do not use capitals only where needed.",
-        "is_correct": false
-      },
-      {
-        "text": "Look for spacing and check the whole example.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Look for spacing and check the whole example.",
-      "hint": "Practise start point and direction."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9E1LY08-P-007",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "ac9e1ly08_04_answer",
+    "skill": "ac9e1ly08_04_recognise",
     "question": "Which response would correctly add word spacing?",
     "audio_prompt": "Which response would correctly add word spacing?",
     "visual": {
@@ -254,54 +137,15 @@
       "summary": "the red dog, with clear spaces and recognisable letters This matches the task.",
       "hint": "Use clear spaces between words."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LY08-P-008",
+    "id": "AC9E1LY08-P-005",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY08",
     "bank": "practice",
-    "skill": "ac9e1ly08_04_strategy",
-    "question": "Which tip would help you add word spacing?",
-    "audio_prompt": "Which tip would help you add word spacing?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-008",
-      "alt_text": "🧠 Add word spacing; ➡️ Re-read; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Do not use capitals only where needed.",
-        "is_correct": false
-      },
-      {
-        "text": "Check that you can use spaces.",
-        "is_correct": true
-      },
-      {
-        "text": "Reverse a letter.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Check that you can use spaces.",
-      "hint": "Use clear spaces between words."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9E1LY08-P-009",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "ac9e1ly08_05_answer",
+    "skill": "ac9e1ly08_05_recognise",
     "question": "Which response would correctly order letter formation checks?",
     "audio_prompt": "Which response would correctly order letter formation checks?",
     "visual": {
@@ -328,52 +172,15 @@
       "summary": "Choose case → form separate letters → check spacing → reread This matches the task.",
       "hint": "Use capitals only where needed."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LY08-P-010",
+    "id": "AC9E1LY08-P-006",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY08",
     "bank": "practice",
-    "skill": "ac9e1ly08_05_strategy",
-    "question": "Which tip would help you order letter formation checks?",
-    "audio_prompt": "Which tip would help you order letter formation checks?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-010",
-      "alt_text": "🧠 Order letter formation checks; ➡️ Start point; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Sequencing a handwriting self-check.",
-        "is_correct": true
-      },
-      {
-        "text": "Reverse a letter.",
-        "is_correct": false
-      },
-      {
-        "text": "Do not use clear spaces between words.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Sequencing a handwriting self-check.",
-      "hint": "Use capitals only where needed."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E1LY08-P-011",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "ac9e1ly08_06_answer",
+    "skill": "ac9e1ly08_06_recognise",
     "question": "Which response would correctly copy with case?",
     "audio_prompt": "Which response would correctly copy with case?",
     "visual": {
@@ -400,52 +207,15 @@
       "summary": "Accurate case, unjoined legible forms and three word spaces This matches the task.",
       "hint": "Practise start point and direction."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LY08-P-012",
+    "id": "AC9E1LY08-P-007",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY08",
     "bank": "practice",
-    "skill": "ac9e1ly08_06_strategy",
-    "question": "Which tip would help you copy with case?",
-    "audio_prompt": "Which tip would help you copy with case?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-012",
-      "alt_text": "🧠 Copy with case; ➡️ Form letter; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Do not use clear spaces between words.",
-        "is_correct": false
-      },
-      {
-        "text": "Do not use capitals only where needed.",
-        "is_correct": false
-      },
-      {
-        "text": "Practise start point and direction.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Practise start point and direction.",
-      "hint": "Practise start point and direction."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E1LY08-P-013",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "ac9e1ly08_07_answer",
+    "skill": "ac9e1ly08_07_recognise",
     "question": "Which response would correctly find a case error?",
     "audio_prompt": "Which response would correctly find a case error?",
     "visual": {
@@ -472,52 +242,15 @@
       "summary": "apple; ordinary word uses lower-case letters unless at sentence start, not internal capitals This matches the task.",
       "hint": "Use clear spaces between words."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LY08-P-014",
+    "id": "AC9E1LY08-P-008",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY08",
     "bank": "practice",
-    "skill": "ac9e1ly08_07_strategy",
-    "question": "Which tip would help you find a case error?",
-    "audio_prompt": "Which tip would help you find a case error?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-014",
-      "alt_text": "🧠 Find a case error; ➡️ Space word; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Do not use capitals only where needed.",
-        "is_correct": false
-      },
-      {
-        "text": "Use this routine: Start point → Form letter → Space word → Re-read.",
-        "is_correct": true
-      },
-      {
-        "text": "Reverse a letter.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Use this routine: Start point → Form letter → Space word → Re-read.",
-      "hint": "Use clear spaces between words."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E1LY08-P-015",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "ac9e1ly08_08_answer",
+    "skill": "ac9e1ly08_08_recognise",
     "question": "Which response would correctly compare readability?",
     "audio_prompt": "Which response would correctly compare readability?",
     "visual": {
@@ -544,52 +277,15 @@
       "summary": "They distinguish letters/words, prevent crowding or splitting and make recognition easier This matches the task.",
       "hint": "Use capitals only where needed."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LY08-P-016",
+    "id": "AC9E1LY08-P-009",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY08",
     "bank": "practice",
-    "skill": "ac9e1ly08_08_strategy",
-    "question": "Which tip would help you compare readability?",
-    "audio_prompt": "Which tip would help you compare readability?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-016",
-      "alt_text": "🧠 Compare readability; ➡️ Re-read; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Look for spacing and check the whole example.",
-        "is_correct": true
-      },
-      {
-        "text": "Reverse a letter.",
-        "is_correct": false
-      },
-      {
-        "text": "Do not use clear spaces between words.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Look for spacing and check the whole example.",
-      "hint": "Use capitals only where needed."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E1LY08-P-017",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "ac9e1ly08_01_answer",
+    "skill": "ac9e1ly08_09_recognise",
     "question": "Write ACT in separate upper-case letters.",
     "audio_prompt": "Write ACT in separate upper-case letters.",
     "visual": {
@@ -616,52 +312,15 @@
       "summary": "A-C-T, all recognisable and unjoined with consistent size This matches the task.",
       "hint": "Practise start point and direction."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LY08-P-018",
+    "id": "AC9E1LY08-P-010",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY08",
     "bank": "practice",
-    "skill": "ac9e1ly08_01_strategy",
-    "question": "Which tip would help you write an upper-case word?",
-    "audio_prompt": "Which tip would help you write an upper-case word?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-018",
-      "alt_text": "🧠 Write an upper-case word; ➡️ Start point; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Do not use clear spaces between words.",
-        "is_correct": false
-      },
-      {
-        "text": "Do not use capitals only where needed.",
-        "is_correct": false
-      },
-      {
-        "text": "Check that you can use spaces.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Check that you can use spaces.",
-      "hint": "Practise start point and direction."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E1LY08-P-019",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY08",
-    "bank": "practice",
-    "skill": "ac9e1ly08_02_answer",
+    "skill": "ac9e1ly08_10_recognise",
     "question": "Which response would correctly match case uses?",
     "audio_prompt": "Which response would correctly match case uses?",
     "visual": {
@@ -688,8 +347,322 @@
       "summary": "All three matched correctly This matches the task.",
       "hint": "Use clear spaces between words."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "recognise"
+  },
+  {
+    "id": "AC9E1LY08-P-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY08",
+    "bank": "practice",
+    "skill": "ac9e1ly08_01_explain",
+    "question": "Which tip would help you choose the capital?",
+    "audio_prompt": "Which tip would help you choose the capital?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-002",
+      "alt_text": "🧠 Choose the capital; ➡️ Start point; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not use capitals only where needed.",
+        "is_correct": false
+      },
+      {
+        "text": "Use clear spaces between words.",
+        "is_correct": true
+      },
+      {
+        "text": "Reverse a letter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use clear spaces between words.",
+      "hint": "Use clear spaces between words."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LY08-P-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY08",
+    "bank": "practice",
+    "skill": "ac9e1ly08_02_explain",
+    "question": "Which tip would help you match upper and lower case?",
+    "audio_prompt": "Which tip would help you match upper and lower case?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-004",
+      "alt_text": "🧠 Match upper and lower case; ➡️ Form letter; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Use this routine: Start point → Form letter → Space word → Re-read.",
+        "is_correct": true
+      },
+      {
+        "text": "Reverse a letter.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use clear spaces between words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use this routine: Start point → Form letter → Space word → Re-read.",
+      "hint": "Use capitals only where needed."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LY08-P-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY08",
+    "bank": "practice",
+    "skill": "ac9e1ly08_03_explain",
+    "question": "Which tip would help you write a clear word?",
+    "audio_prompt": "Which tip would help you write a clear word?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-006",
+      "alt_text": "🧠 Write a clear word; ➡️ Space word; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not use clear spaces between words.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use capitals only where needed.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for spacing and check the whole example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Look for spacing and check the whole example.",
+      "hint": "Practise start point and direction."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LY08-P-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY08",
+    "bank": "practice",
+    "skill": "ac9e1ly08_04_explain",
+    "question": "Which tip would help you add word spacing?",
+    "audio_prompt": "Which tip would help you add word spacing?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-008",
+      "alt_text": "🧠 Add word spacing; ➡️ Re-read; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not use capitals only where needed.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can use spaces.",
+        "is_correct": true
+      },
+      {
+        "text": "Reverse a letter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check that you can use spaces.",
+      "hint": "Use clear spaces between words."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LY08-P-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY08",
+    "bank": "practice",
+    "skill": "ac9e1ly08_05_explain",
+    "question": "Which tip would help you order letter formation checks?",
+    "audio_prompt": "Which tip would help you order letter formation checks?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-010",
+      "alt_text": "🧠 Order letter formation checks; ➡️ Start point; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Sequencing a handwriting self-check.",
+        "is_correct": true
+      },
+      {
+        "text": "Reverse a letter.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use clear spaces between words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Sequencing a handwriting self-check.",
+      "hint": "Use capitals only where needed."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LY08-P-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY08",
+    "bank": "practice",
+    "skill": "ac9e1ly08_06_explain",
+    "question": "Which tip would help you copy with case?",
+    "audio_prompt": "Which tip would help you copy with case?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-012",
+      "alt_text": "🧠 Copy with case; ➡️ Form letter; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not use clear spaces between words.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use capitals only where needed.",
+        "is_correct": false
+      },
+      {
+        "text": "Practise start point and direction.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Practise start point and direction.",
+      "hint": "Practise start point and direction."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LY08-P-017",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY08",
+    "bank": "practice",
+    "skill": "ac9e1ly08_07_explain",
+    "question": "Which tip would help you find a case error?",
+    "audio_prompt": "Which tip would help you find a case error?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-014",
+      "alt_text": "🧠 Find a case error; ➡️ Space word; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not use capitals only where needed.",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Start point → Form letter → Space word → Re-read.",
+        "is_correct": true
+      },
+      {
+        "text": "Reverse a letter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use this routine: Start point → Form letter → Space word → Re-read.",
+      "hint": "Use clear spaces between words."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LY08-P-018",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY08",
+    "bank": "practice",
+    "skill": "ac9e1ly08_08_explain",
+    "question": "Which tip would help you compare readability?",
+    "audio_prompt": "Which tip would help you compare readability?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-016",
+      "alt_text": "🧠 Compare readability; ➡️ Re-read; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Look for spacing and check the whole example.",
+        "is_correct": true
+      },
+      {
+        "text": "Reverse a letter.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use clear spaces between words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Look for spacing and check the whole example.",
+      "hint": "Use capitals only where needed."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LY08-P-019",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY08",
+    "bank": "practice",
+    "skill": "ac9e1ly08_09_explain",
+    "question": "Which tip would help you write an upper-case word?",
+    "audio_prompt": "Which tip would help you write an upper-case word?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-018",
+      "alt_text": "🧠 Write an upper-case word; ➡️ Start point; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not use clear spaces between words.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use capitals only where needed.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can use spaces.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check that you can use spaces.",
+      "hint": "Practise start point and direction."
+    },
+    "stage": "explain"
   },
   {
     "id": "AC9E1LY08-P-020",
@@ -697,7 +670,7 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY08",
     "bank": "practice",
-    "skill": "ac9e1ly08_02_strategy",
+    "skill": "ac9e1ly08_10_explain",
     "question": "Which tip would help you match case uses?",
     "audio_prompt": "Which tip would help you match case uses?",
     "visual": {
@@ -724,8 +697,7 @@
       "summary": "Connecting handwriting features with functions.",
       "hint": "Use clear spaces between words."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "explain"
   },
   {
     "id": "AC9E1LY08-P-021",
@@ -733,35 +705,34 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY08",
     "bank": "practice",
-    "skill": "ac9e1ly08_03_answer",
-    "question": "Which response would correctly sequence a short sentence?",
-    "audio_prompt": "Which response would correctly sequence a short sentence?",
+    "skill": "ac9e1ly08_01_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-021",
-      "alt_text": "📖 Sequence a short sentence; 🔎 upper-case; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-001",
+      "alt_text": "📖 Choose the capital; 🔎 upper-case; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "Do not use capitals only where needed.",
-        "is_correct": false
-      },
-      {
-        "text": "Reverse a letter.",
-        "is_correct": false
-      },
-      {
-        "text": "Ava swims fast. with capital A, separate legible letters, spaces and end mark",
+        "text": "Do not use clear spaces between words.",
         "is_correct": true
+      },
+      {
+        "text": "Upper-case M",
+        "is_correct": false
+      },
+      {
+        "text": "Use clear spaces between words.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Ava swims fast. with capital A, separate legible letters, spaces and end mark This matches the task.",
-      "hint": "Use capitals only where needed."
+      "summary": "Do not use clear spaces between words. is the mix-up. Use clear spaces between words.",
+      "hint": "Use clear spaces between words."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "discriminate"
   },
   {
     "id": "AC9E1LY08-P-022",
@@ -769,17 +740,402 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY08",
     "bank": "practice",
-    "skill": "ac9e1ly08_03_strategy",
-    "question": "Which tip would help you sequence a short sentence?",
-    "audio_prompt": "Which tip would help you sequence a short sentence?",
+    "skill": "ac9e1ly08_02_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-022",
-      "alt_text": "🧠 Sequence a short sentence; ➡️ Space word; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-003",
+      "alt_text": "📖 Match upper and lower case; 🔎 lower-case; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "Use capitals only where needed.",
+        "text": "A ↔ a; G ↔ g; T ↔ t",
+        "is_correct": false
+      },
+      {
+        "text": "A ↔ g; G ↔ t; T ↔ a",
+        "is_correct": true
+      },
+      {
+        "text": "Use this routine: Start point → Form letter → Space word → Re-read.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A ↔ g; G ↔ t; T ↔ a is the mix-up. Use capitals only where needed.",
+      "hint": "Use capitals only where needed."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LY08-P-023",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY08",
+    "bank": "practice",
+    "skill": "ac9e1ly08_03_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-005",
+      "alt_text": "📖 Write a clear word; 🔎 spacing; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Letters m-a-p are unjoined, correctly ordered, recognisable and placed consistently",
+        "is_correct": false
+      },
+      {
+        "text": "Look for spacing and check the whole example.",
+        "is_correct": false
+      },
+      {
+        "text": "Reverse a letter.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Reverse a letter. is the mix-up. Practise start point and direction.",
+      "hint": "Practise start point and direction."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LY08-P-024",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY08",
+    "bank": "practice",
+    "skill": "ac9e1ly08_04_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-007",
+      "alt_text": "📖 Add word spacing; 🔎 formation; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not use clear spaces between words.",
+        "is_correct": true
+      },
+      {
+        "text": "the red dog, with clear spaces and recognisable letters",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can use spaces.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Do not use clear spaces between words. is the mix-up. Use clear spaces between words.",
+      "hint": "Use clear spaces between words."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LY08-P-025",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY08",
+    "bank": "practice",
+    "skill": "ac9e1ly08_05_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-009",
+      "alt_text": "📖 Order letter formation checks; 🔎 readable; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Choose case → form separate letters → check spacing → reread",
+        "is_correct": false
+      },
+      {
+        "text": "reread → check spacing → form separate letters → Choose case",
+        "is_correct": true
+      },
+      {
+        "text": "Sequencing a handwriting self-check.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "reread → check spacing → form separate letters → Choose case is the mix-up. Use capitals only where needed.",
+      "hint": "Use capitals only where needed."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LY08-P-026",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY08",
+    "bank": "practice",
+    "skill": "ac9e1ly08_06_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-011",
+      "alt_text": "📖 Copy with case; 🔎 upper-case; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Accurate case, unjoined legible forms and three word spaces",
+        "is_correct": false
+      },
+      {
+        "text": "Practise start point and direction.",
+        "is_correct": false
+      },
+      {
+        "text": "Ben has a kite",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Ben has a kite is the mix-up. Practise start point and direction.",
+      "hint": "Practise start point and direction."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LY08-P-027",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY08",
+    "bank": "practice",
+    "skill": "ac9e1ly08_07_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-013",
+      "alt_text": "📖 Find a case error; 🔎 lower-case; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not use clear spaces between words.",
+        "is_correct": true
+      },
+      {
+        "text": "apple; ordinary word uses lower-case letters unless at sentence start, not internal capitals",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Start point → Form letter → Space word → Re-read.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Do not use clear spaces between words. is the mix-up. Use clear spaces between words.",
+      "hint": "Use clear spaces between words."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LY08-P-028",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY08",
+    "bank": "practice",
+    "skill": "ac9e1ly08_08_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-015",
+      "alt_text": "📖 Compare readability; 🔎 spacing; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "They distinguish letters/words, prevent crowding or splitting and make recognition easier",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use capitals only where needed.",
+        "is_correct": true
+      },
+      {
+        "text": "Look for spacing and check the whole example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Do not use capitals only where needed. is the mix-up. Use capitals only where needed.",
+      "hint": "Use capitals only where needed."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LY08-P-029",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY08",
+    "bank": "practice",
+    "skill": "ac9e1ly08_09_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-017",
+      "alt_text": "📖 Write an upper-case word; 🔎 formation; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "A-C-T, all recognisable and unjoined with consistent size",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can use spaces.",
+        "is_correct": false
+      },
+      {
+        "text": "Reverse a letter.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Reverse a letter. is the mix-up. Practise start point and direction.",
+      "hint": "Practise start point and direction."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LY08-P-030",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY08",
+    "bank": "practice",
+    "skill": "ac9e1ly08_10_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-019",
+      "alt_text": "📖 Match case uses; 🔎 readable; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not use clear spaces between words.",
+        "is_correct": true
+      },
+      {
+        "text": "All three matched correctly",
+        "is_correct": false
+      },
+      {
+        "text": "Connecting handwriting features with functions.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Do not use clear spaces between words. is the mix-up. Use clear spaces between words.",
+      "hint": "Use clear spaces between words."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LY08-P-031",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY08",
+    "bank": "practice",
+    "skill": "ac9e1ly08_01_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-001",
+      "alt_text": "📖 Choose the capital; 🔎 upper-case; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not use clear spaces between words.",
+        "is_correct": false
+      },
+      {
+        "text": "Upper-case M",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use capitals only where needed.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Upper-case M uses the skill correctly. Use clear spaces between words.",
+      "hint": "Use clear spaces between words."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LY08-P-032",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY08",
+    "bank": "practice",
+    "skill": "ac9e1ly08_02_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-003",
+      "alt_text": "📖 Match upper and lower case; 🔎 lower-case; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "A ↔ g; G ↔ t; T ↔ a",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use capitals only where needed.",
+        "is_correct": false
+      },
+      {
+        "text": "A ↔ a; G ↔ g; T ↔ t",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A ↔ a; G ↔ g; T ↔ t uses the skill correctly. Use capitals only where needed.",
+      "hint": "Use capitals only where needed."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LY08-P-033",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY08",
+    "bank": "practice",
+    "skill": "ac9e1ly08_03_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-005",
+      "alt_text": "📖 Write a clear word; 🔎 spacing; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Letters m-a-p are unjoined, correctly ordered, recognisable and placed consistently",
         "is_correct": true
       },
       {
@@ -793,65 +1149,63 @@
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use capitals only where needed.",
-      "hint": "Use capitals only where needed."
+      "summary": "Letters m-a-p are unjoined, correctly ordered, recognisable and placed consistently uses the skill correctly. Practise start point and direction.",
+      "hint": "Practise start point and direction."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "apply"
   },
   {
-    "id": "AC9E1LY08-P-023",
+    "id": "AC9E1LY08-P-034",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY08",
     "bank": "practice",
-    "skill": "ac9e1ly08_04_answer",
-    "question": "Which response would correctly repair crowded writing?",
-    "audio_prompt": "Which response would correctly repair crowded writing?",
+    "skill": "ac9e1ly08_04_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-023",
-      "alt_text": "📖 Repair crowded writing; 🔎 lower-case; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-007",
+      "alt_text": "📖 Add word spacing; 🔎 formation; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "Reverse a letter.",
+        "text": "Do not use clear spaces between words.",
         "is_correct": false
       },
       {
-        "text": "Adds a visible word space: blue boat",
+        "text": "the red dog, with clear spaces and recognisable letters",
         "is_correct": true
       },
       {
-        "text": "Do not use clear spaces between words.",
+        "text": "Do not use capitals only where needed.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Adds a visible word space: blue boat This matches the task.",
-      "hint": "Practise start point and direction."
+      "summary": "the red dog, with clear spaces and recognisable letters uses the skill correctly. Use clear spaces between words.",
+      "hint": "Use clear spaces between words."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "apply"
   },
   {
-    "id": "AC9E1LY08-P-024",
+    "id": "AC9E1LY08-P-035",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY08",
     "bank": "practice",
-    "skill": "ac9e1ly08_04_strategy",
-    "question": "Which tip would help you repair crowded writing?",
-    "audio_prompt": "Which tip would help you repair crowded writing?",
+    "skill": "ac9e1ly08_05_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-024",
-      "alt_text": "🧠 Repair crowded writing; ➡️ Re-read; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-009",
+      "alt_text": "📖 Order letter formation checks; 🔎 readable; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "Do not use clear spaces between words.",
+        "text": "reread → check spacing → form separate letters → Choose case",
         "is_correct": false
       },
       {
@@ -859,17 +1213,191 @@
         "is_correct": false
       },
       {
-        "text": "Use this routine: Start point → Form letter → Space word → Re-read.",
+        "text": "Choose case → form separate letters → check spacing → reread",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use this routine: Start point → Form letter → Space word → Re-read.",
+      "summary": "Choose case → form separate letters → check spacing → reread uses the skill correctly. Use capitals only where needed.",
+      "hint": "Use capitals only where needed."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LY08-P-036",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY08",
+    "bank": "practice",
+    "skill": "ac9e1ly08_06_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-011",
+      "alt_text": "📖 Copy with case; 🔎 upper-case; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Accurate case, unjoined legible forms and three word spaces",
+        "is_correct": true
+      },
+      {
+        "text": "Ben has a kite",
+        "is_correct": false
+      },
+      {
+        "text": "Reverse a letter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Accurate case, unjoined legible forms and three word spaces uses the skill correctly. Practise start point and direction.",
       "hint": "Practise start point and direction."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LY08-P-037",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY08",
+    "bank": "practice",
+    "skill": "ac9e1ly08_07_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-013",
+      "alt_text": "📖 Find a case error; 🔎 lower-case; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not use clear spaces between words.",
+        "is_correct": false
+      },
+      {
+        "text": "apple; ordinary word uses lower-case letters unless at sentence start, not internal capitals",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use capitals only where needed.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "apple; ordinary word uses lower-case letters unless at sentence start, not internal capitals uses the skill correctly. Use clear spaces between words.",
+      "hint": "Use clear spaces between words."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LY08-P-038",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY08",
+    "bank": "practice",
+    "skill": "ac9e1ly08_08_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-015",
+      "alt_text": "📖 Compare readability; 🔎 spacing; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not use capitals only where needed.",
+        "is_correct": false
+      },
+      {
+        "text": "Reverse a letter.",
+        "is_correct": false
+      },
+      {
+        "text": "They distinguish letters/words, prevent crowding or splitting and make recognition easier",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "They distinguish letters/words, prevent crowding or splitting and make recognition easier uses the skill correctly. Use capitals only where needed.",
+      "hint": "Use capitals only where needed."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LY08-P-039",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY08",
+    "bank": "practice",
+    "skill": "ac9e1ly08_09_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-017",
+      "alt_text": "📖 Write an upper-case word; 🔎 formation; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "A-C-T, all recognisable and unjoined with consistent size",
+        "is_correct": true
+      },
+      {
+        "text": "Reverse a letter.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use clear spaces between words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A-C-T, all recognisable and unjoined with consistent size uses the skill correctly. Practise start point and direction.",
+      "hint": "Practise start point and direction."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LY08-P-040",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY08",
+    "bank": "practice",
+    "skill": "ac9e1ly08_10_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-p-019",
+      "alt_text": "📖 Match case uses; 🔎 readable; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not use clear spaces between words.",
+        "is_correct": false
+      },
+      {
+        "text": "All three matched correctly",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use capitals only where needed.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "All three matched correctly uses the skill correctly. Use clear spaces between words.",
+      "hint": "Use clear spaces between words."
+    },
+    "stage": "apply"
   },
   {
     "id": "AC9E1LY08-T-001",
@@ -1149,33 +1677,34 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY08",
     "bank": "test",
-    "skill": "ac9e1ly08_05_answer",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1ly08 05 answer. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 1 student is working with a text and needs to use ac9e1ly08 05 answer. Which option best demonstrates the skill?",
+    "skill": "ac9e1ly08_01_test_verify",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audio_prompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-t-009",
-      "alt_text": "📖 Rule; 🔎 readable; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-t-002",
+      "alt_text": "🧠 Demonstrate grip and posture; ➡️ Start point; 💡 helpful strategy"
     },
     "answers": [
+      {
+        "text": "Do not use clear spaces between words.",
+        "is_correct": false
+      },
       {
         "text": "Do not use capitals only where needed.",
         "is_correct": false
       },
       {
-        "text": "Reverse a letter.",
-        "is_correct": false
-      },
-      {
-        "text": "Use the rule for this English skill",
+        "text": "Use clear spaces between words.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the rule for this English skill This matches the task.",
-      "hint": "Use capitals only where needed."
-    }
+      "summary": "Use clear spaces between words. is the useful check. Use clear spaces between words.",
+      "hint": "Use clear spaces between words."
+    },
+    "stage": "verify"
   },
   {
     "id": "AC9E1LY08-T-010",
@@ -1183,33 +1712,34 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY08",
     "bank": "test",
-    "skill": "ac9e1ly08_05_strategy",
-    "question": "Which tip would help you rule?",
-    "audio_prompt": "Which tip would help you rule?",
+    "skill": "ac9e1ly08_02_test_verify",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audio_prompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-t-010",
-      "alt_text": "🧠 Rule; ➡️ Start point; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-t-004",
+      "alt_text": "🧠 Write paired forms; ➡️ Form letter; 💡 helpful strategy"
     },
     "answers": [
       {
-        "text": "Using the rule for this English skill.",
+        "text": "Use this routine: Start point → Form letter → Space word → Re-read.",
         "is_correct": true
       },
       {
-        "text": "Reverse a letter.",
+        "text": "Do not use capitals only where needed.",
         "is_correct": false
       },
       {
-        "text": "Do not use clear spaces between words.",
+        "text": "Reverse a letter.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Using the rule for this English skill.",
+      "summary": "Use this routine: Start point → Form letter → Space word → Re-read. is the useful check. Use capitals only where needed.",
       "hint": "Use capitals only where needed."
-    }
+    },
+    "stage": "verify"
   },
   {
     "id": "AC9E1LY08-T-011",
@@ -1217,13 +1747,13 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY08",
     "bank": "test",
-    "skill": "ac9e1ly08_06_answer",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1ly08 06 answer. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 1 student is working with a text and needs to use ac9e1ly08 06 answer. Which option best demonstrates the skill?",
+    "skill": "ac9e1ly08_03_test_verify",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audio_prompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-t-011",
-      "alt_text": "📖 Worked example; 🔎 upper-case; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-t-006",
+      "alt_text": "🧠 Edit a handwritten label; ➡️ Space word; 💡 helpful strategy"
     },
     "answers": [
       {
@@ -1231,7 +1761,7 @@
         "is_correct": false
       },
       {
-        "text": "Use the worked example for this English skill",
+        "text": "Look for spacing and check the whole example.",
         "is_correct": true
       },
       {
@@ -1241,9 +1771,10 @@
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the worked example for this English skill This matches the task.",
+      "summary": "Look for spacing and check the whole example. is the useful check. Practise start point and direction.",
       "hint": "Practise start point and direction."
-    }
+    },
+    "stage": "verify"
   },
   {
     "id": "AC9E1LY08-T-012",
@@ -1251,13 +1782,13 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY08",
     "bank": "test",
-    "skill": "ac9e1ly08_06_strategy",
-    "question": "Which tip would help you worked example?",
-    "audio_prompt": "Which tip would help you worked example?",
+    "skill": "ac9e1ly08_04_test_verify",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audio_prompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-t-012",
-      "alt_text": "🧠 Worked example; ➡️ Form letter; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-t-008",
+      "alt_text": "🧠 Produce a legible mini-text; ➡️ Re-read; 💡 helpful strategy"
     },
     "answers": [
       {
@@ -1269,15 +1800,16 @@
         "is_correct": false
       },
       {
-        "text": "Practise start point and direction.",
+        "text": "Check that you can use spaces.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Practise start point and direction.",
-      "hint": "Practise start point and direction."
-    }
+      "summary": "Check that you can use spaces. is the useful check. Use clear spaces between words.",
+      "hint": "Use clear spaces between words."
+    },
+    "stage": "verify"
   },
   {
     "id": "AC9E1LY08-T-013",
@@ -1285,17 +1817,17 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY08",
     "bank": "test",
-    "skill": "ac9e1ly08_07_answer",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1ly08 07 answer. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 1 student is working with a text and needs to use ac9e1ly08 07 answer. Which option best demonstrates the skill?",
+    "skill": "ac9e1ly08_01_test_apply",
+    "question": "A classmate chose “Do not use clear spaces between words.”. Which answer would improve their response?",
+    "audio_prompt": "A classmate chose Do not use clear spaces between words.. Which answer would improve their response?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-t-013",
-      "alt_text": "📖 Formation check; 🔎 lower-case; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-t-001",
+      "alt_text": "📖 Demonstrate grip and posture; 🔎 upper-case; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "Use the formation check for this English skill",
+        "text": "Grip allows controlled movement without strain; paper is stable; s-u-n forms are legible and separate",
         "is_correct": true
       },
       {
@@ -1309,9 +1841,10 @@
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the formation check for this English skill This matches the task.",
+      "summary": "Grip allows controlled movement without strain; paper is stable; s-u-n forms are legible and separate is the stronger response because it uses the target skill. Use clear spaces between words.",
       "hint": "Use clear spaces between words."
-    }
+    },
+    "stage": "apply"
   },
   {
     "id": "AC9E1LY08-T-014",
@@ -1319,13 +1852,13 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY08",
     "bank": "test",
-    "skill": "ac9e1ly08_07_strategy",
-    "question": "Which tip would help you formation check?",
-    "audio_prompt": "Which tip would help you formation check?",
+    "skill": "ac9e1ly08_02_test_apply",
+    "question": "A classmate chose “Do not use capitals only where needed.”. Which answer would improve their response?",
+    "audio_prompt": "A classmate chose Do not use capitals only where needed.. Which answer would improve their response?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-t-014",
-      "alt_text": "🧠 Formation check; ➡️ Space word; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-t-003",
+      "alt_text": "📖 Write paired forms; 🔎 lower-case; ✅ choose with evidence"
     },
     "answers": [
       {
@@ -1333,7 +1866,7 @@
         "is_correct": false
       },
       {
-        "text": "Use this routine: Start point → Form letter → Space word → Re-read.",
+        "text": "All six forms recognisable and correct upper-case letters circled",
         "is_correct": true
       },
       {
@@ -1343,9 +1876,10 @@
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use this routine: Start point → Form letter → Space word → Re-read.",
-      "hint": "Use clear spaces between words."
-    }
+      "summary": "All six forms recognisable and correct upper-case letters circled is the stronger response because it uses the target skill. Use capitals only where needed.",
+      "hint": "Use capitals only where needed."
+    },
+    "stage": "apply"
   },
   {
     "id": "AC9E1LY08-T-015",
@@ -1353,53 +1887,15 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY08",
     "bank": "test",
-    "skill": "ac9e1ly08_08_answer",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1ly08 08 answer. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 1 student is working with a text and needs to use ac9e1ly08 08 answer. Which option best demonstrates the skill?",
+    "skill": "ac9e1ly08_03_test_apply",
+    "question": "A classmate chose “Reverse a letter.”. Which answer would improve their response?",
+    "audio_prompt": "A classmate chose Reverse a letter.. Which answer would improve their response?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-t-015",
-      "alt_text": "📖 Common trap; 🔎 spacing; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-t-005",
+      "alt_text": "📖 Edit a handwritten label; 🔎 spacing; ✅ choose with evidence"
     },
     "answers": [
-      {
-        "text": "Do not use capitals only where needed.",
-        "is_correct": false
-      },
-      {
-        "text": "Reverse a letter.",
-        "is_correct": false
-      },
-      {
-        "text": "A capital is not just an oversized lower-case letter; many capital and lower-case forms differ.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "A capital is not just an oversized lower-case letter; many capital and lower-case forms differ. This matches the task.",
-      "hint": "Use capitals only where needed."
-    }
-  },
-  {
-    "id": "AC9E1LY08-T-016",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY08",
-    "bank": "test",
-    "skill": "ac9e1ly08_08_strategy",
-    "question": "Which tip would help you common trap?",
-    "audio_prompt": "Which tip would help you common trap?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-t-016",
-      "alt_text": "🧠 Common trap; ➡️ Re-read; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Look for spacing and check the whole example.",
-        "is_correct": true
-      },
       {
         "text": "Reverse a letter.",
         "is_correct": false
@@ -1407,12 +1903,52 @@
       {
         "text": "Do not use clear spaces between words.",
         "is_correct": false
+      },
+      {
+        "text": "Canberra; capital C and lower-case b, with legible unjoined formation",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Canberra; capital C and lower-case b, with legible unjoined formation is the stronger response because it uses the target skill. Practise start point and direction.",
+      "hint": "Practise start point and direction."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LY08-T-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY08",
+    "bank": "test",
+    "skill": "ac9e1ly08_04_test_apply",
+    "question": "A classmate chose “Do not use clear spaces between words.”. Which answer would improve their response?",
+    "audio_prompt": "A classmate chose Do not use clear spaces between words.. Which answer would improve their response?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-t-007",
+      "alt_text": "📖 Produce a legible mini-text; 🔎 formation; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Two complete legible sentences",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use clear spaces between words.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use capitals only where needed.",
+        "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Look for spacing and check the whole example.",
-      "hint": "Use capitals only where needed."
-    }
+      "summary": "Two complete legible sentences is the stronger response because it uses the target skill. Use clear spaces between words.",
+      "hint": "Use clear spaces between words."
+    },
+    "stage": "apply"
   }
 ]

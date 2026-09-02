@@ -236,28 +236,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1le04-t-009",
     "curriculumCode": "AC9E1LE04",
     "bank": "test",
-    "skill": "ac9e1le04 05 answer",
+    "skill": "ac9e1le04 01 test verify",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1le04 05 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1le04 05 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Rule; 🔎 song; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Rule; 🔎 song; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-009\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Demonstrate imitation; ➡️ Listen; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate imitation; ➡️ Listen; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-009",
-      "alt_text": "📖 Rule; 🔎 song; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-002",
+      "alt_text": "🧠 Demonstrate imitation; ➡️ Listen; 💡 helpful strategy"
     },
     "answers": [
-      "Choose a word with the same first sound instead of a rhyme.",
-      "Leave out performance.",
-      "Rhyme matches ending sounds"
+      "tap-tap-pause",
+      "Do not listen for same sound, not just same spelling.",
+      "Listen for same sound, not just same spelling."
     ],
     "correct": 2,
-    "explanation": "Rhyme matches ending sounds This matches the task.\nHint: Rhyme is usually ending sound.",
+    "explanation": "Listen for same sound, not just same spelling. is the useful check. Listen for same sound, not just same spelling.\nHint: Listen for same sound, not just same spelling.",
     "structuredExplanation": {
-      "summary": "Rhyme matches ending sounds This matches the task.",
-      "hint": "Rhyme is usually ending sound."
+      "summary": "Listen for same sound, not just same spelling. is the useful check. Listen for same sound, not just same spelling.",
+      "hint": "Listen for same sound, not just same spelling."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,27 +265,27 @@ window.skillrTestQuestions = [
     "id": "ac9e1le04-t-010",
     "curriculumCode": "AC9E1LE04",
     "bank": "test",
-    "skill": "ac9e1le04 05 strategy",
+    "skill": "ac9e1le04 02 test verify",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you rule?",
-    "audioPrompt": "Which tip would help you rule?",
-    "visual": "🧠 Rule; ➡️ Perform; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Rule; ➡️ Perform; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-010\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Draw rhyme pairs; ➡️ Find sound pattern; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw rhyme pairs; ➡️ Find sound pattern; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-004\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-010",
-      "alt_text": "🧠 Rule; ➡️ Perform; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-004",
+      "alt_text": "🧠 Draw rhyme pairs; ➡️ Find sound pattern; 💡 helpful strategy"
     },
     "answers": [
-      "Using the rule for this English skill.",
-      "Leave out performance.",
-      "Do not listen for same sound, not just same spelling."
+      "Use this routine: Listen → Find sound pattern → Imitate → Invent → Perform.",
+      "Choose a word with the same first sound instead of a rhyme.",
+      "Leave out performance."
     ],
     "correct": 0,
-    "explanation": "Using the rule for this English skill.\nHint: Rhyme is usually ending sound.",
+    "explanation": "Use this routine: Listen → Find sound pattern → Imitate → Invent → Perform. is the useful check. Rhyme is usually ending sound.\nHint: Rhyme is usually ending sound.",
     "structuredExplanation": {
-      "summary": "Using the rule for this English skill.",
+      "summary": "Use this routine: Listen → Find sound pattern → Imitate → Invent → Perform. is the useful check. Rhyme is usually ending sound.",
       "hint": "Rhyme is usually ending sound."
     },
     "qualitySchema": "production-v1"
@@ -294,27 +294,27 @@ window.skillrTestQuestions = [
     "id": "ac9e1le04-t-011",
     "curriculumCode": "AC9E1LE04",
     "bank": "test",
-    "skill": "ac9e1le04 06 answer",
+    "skill": "ac9e1le04 03 test verify",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1le04 06 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1le04 06 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Worked example; 🔎 rhyme; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Worked example; 🔎 rhyme; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-011\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Correct false alliteration; ➡️ Imitate; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Correct false alliteration; ➡️ Imitate; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-011",
-      "alt_text": "📖 Worked example; 🔎 rhyme; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-006",
+      "alt_text": "🧠 Correct false alliteration; ➡️ Imitate; 💡 helpful strategy"
     },
     "answers": [
-      "Leave out performance.",
-      "'Busy bees buzz by' repeats /b/ for alliteration. 'Bee/tree' rhyme because their final sounds match.",
-      "Do not listen for same sound, not just same spelling."
+      "giant goat",
+      "Look for beat and check the whole example.",
+      "Leave out performance."
     ],
     "correct": 1,
-    "explanation": "'Busy bees buzz by' repeats /b/ for alliteration. 'Bee/tree' rhyme because their final sounds match. This matches the task.\nHint: Say it aloud to hear the pattern.",
+    "explanation": "Look for beat and check the whole example. is the useful check. Say it aloud to hear the pattern.\nHint: Say it aloud to hear the pattern.",
     "structuredExplanation": {
-      "summary": "'Busy bees buzz by' repeats /b/ for alliteration. 'Bee/tree' rhyme because their final sounds match. This matches the task.",
+      "summary": "Look for beat and check the whole example. is the useful check. Say it aloud to hear the pattern.",
       "hint": "Say it aloud to hear the pattern."
     },
     "qualitySchema": "production-v1"
@@ -323,28 +323,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1le04-t-012",
     "curriculumCode": "AC9E1LE04",
     "bank": "test",
-    "skill": "ac9e1le04 06 strategy",
+    "skill": "ac9e1le04 04 test verify",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you worked example?",
-    "audioPrompt": "Which tip would help you worked example?",
-    "visual": "🧠 Worked example; ➡️ Listen; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Worked example; ➡️ Listen; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-012\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Create and discuss a verse; ➡️ Invent; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Create and discuss a verse; ➡️ Invent; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-012",
-      "alt_text": "🧠 Worked example; ➡️ Listen; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-008",
+      "alt_text": "🧠 Create and discuss a verse; ➡️ Invent; 💡 helpful strategy"
     },
     "answers": [
       "Do not listen for same sound, not just same spelling.",
       "Choose a word with the same first sound instead of a rhyme.",
-      "Say it aloud to hear the pattern."
+      "Check that you can invent pattern."
     ],
     "correct": 2,
-    "explanation": "Say it aloud to hear the pattern.\nHint: Say it aloud to hear the pattern.",
+    "explanation": "Check that you can invent pattern. is the useful check. Listen for same sound, not just same spelling.\nHint: Listen for same sound, not just same spelling.",
     "structuredExplanation": {
-      "summary": "Say it aloud to hear the pattern.",
-      "hint": "Say it aloud to hear the pattern."
+      "summary": "Check that you can invent pattern. is the useful check. Listen for same sound, not just same spelling.",
+      "hint": "Listen for same sound, not just same spelling."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,27 +352,27 @@ window.skillrTestQuestions = [
     "id": "ac9e1le04-t-013",
     "curriculumCode": "AC9E1LE04",
     "bank": "test",
-    "skill": "ac9e1le04 07 answer",
+    "skill": "ac9e1le04 01 test apply",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1le04 07 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1le04 07 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Listening strategy; 🔎 alliteration; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Listening strategy; 🔎 alliteration; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-013\"></use></svg>",
+    "question": "A classmate chose “tap-tap-pause”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose tap-tap-pause. Which answer would improve their response?",
+    "visual": "📖 Demonstrate imitation; 🔎 rhyme; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate imitation; 🔎 rhyme; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-013",
-      "alt_text": "📖 Listening strategy; 🔎 alliteration; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-001",
+      "alt_text": "📖 Demonstrate imitation; 🔎 rhyme; ✅ choose with evidence"
     },
     "answers": [
-      "Use the listening strategy for this English skill",
-      "Do not listen for same sound, not just same spelling.",
-      "Choose a word with the same first sound instead of a rhyme."
+      "Accurately imitates twice and creates a clearly stated variation",
+      "tap-tap-pause",
+      "Do not listen for same sound, not just same spelling."
     ],
     "correct": 0,
-    "explanation": "Use the listening strategy for this English skill This matches the task.\nHint: Listen for same sound, not just same spelling.",
+    "explanation": "Accurately imitates twice and creates a clearly stated variation is the stronger response because it uses the target skill. Listen for same sound, not just same spelling.\nHint: Listen for same sound, not just same spelling.",
     "structuredExplanation": {
-      "summary": "Use the listening strategy for this English skill This matches the task.",
+      "summary": "Accurately imitates twice and creates a clearly stated variation is the stronger response because it uses the target skill. Listen for same sound, not just same spelling.",
       "hint": "Listen for same sound, not just same spelling."
     },
     "qualitySchema": "production-v1"
@@ -381,28 +381,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1le04-t-014",
     "curriculumCode": "AC9E1LE04",
     "bank": "test",
-    "skill": "ac9e1le04 07 strategy",
+    "skill": "ac9e1le04 02 test apply",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you listening strategy?",
-    "audioPrompt": "Which tip would help you listening strategy?",
-    "visual": "🧠 Listening strategy; ➡️ Find sound pattern; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Listening strategy; ➡️ Find sound pattern; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-014\"></use></svg>",
+    "question": "A classmate chose “Choose a word with the same first sound instead of a rhyme.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Choose a word with the same first sound instead of a rhyme.. Which answer would improve their response?",
+    "visual": "📖 Draw rhyme pairs; 🔎 alliteration; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw rhyme pairs; 🔎 alliteration; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-014",
-      "alt_text": "🧠 Listening strategy; ➡️ Find sound pattern; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-003",
+      "alt_text": "📖 Draw rhyme pairs; 🔎 alliteration; ✅ choose with evidence"
     },
     "answers": [
       "Choose a word with the same first sound instead of a rhyme.",
-      "Use this routine: Listen → Find sound pattern → Imitate → Invent → Perform.",
+      "Two pairs have matching spoken end sounds and labels",
       "Leave out performance."
     ],
     "correct": 1,
-    "explanation": "Use this routine: Listen → Find sound pattern → Imitate → Invent → Perform.\nHint: Listen for same sound, not just same spelling.",
+    "explanation": "Two pairs have matching spoken end sounds and labels is the stronger response because it uses the target skill. Rhyme is usually ending sound.\nHint: Rhyme is usually ending sound.",
     "structuredExplanation": {
-      "summary": "Use this routine: Listen → Find sound pattern → Imitate → Invent → Perform.",
-      "hint": "Listen for same sound, not just same spelling."
+      "summary": "Two pairs have matching spoken end sounds and labels is the stronger response because it uses the target skill. Rhyme is usually ending sound.",
+      "hint": "Rhyme is usually ending sound."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +410,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1le04-t-015",
     "curriculumCode": "AC9E1LE04",
     "bank": "test",
-    "skill": "ac9e1le04 08 answer",
+    "skill": "ac9e1le04 03 test apply",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1le04 08 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1le04 08 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Common trap; 🔎 beat; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Common trap; 🔎 beat; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-015\"></use></svg>",
+    "question": "A classmate chose “giant goat”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose giant goat. Which answer would improve their response?",
+    "visual": "📖 Correct false alliteration; 🔎 beat; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Correct false alliteration; 🔎 beat; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-015",
-      "alt_text": "📖 Common trap; 🔎 beat; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-005",
+      "alt_text": "📖 Correct false alliteration; 🔎 beat; ✅ choose with evidence"
     },
     "answers": [
-      "Choose a word with the same first sound instead of a rhyme.",
+      "giant goat",
       "Leave out performance.",
-      "Alliteration uses sound, not just a repeated written letter: city and cat start with different sounds."
+      "Giant starts /j/ while goat starts /g/, so initial sounds differ"
     ],
     "correct": 2,
-    "explanation": "Alliteration uses sound, not just a repeated written letter: city and cat start with different sounds. This matches the task.\nHint: Rhyme is usually ending sound.",
+    "explanation": "Giant starts /j/ while goat starts /g/, so initial sounds differ is the stronger response because it uses the target skill. Say it aloud to hear the pattern.\nHint: Say it aloud to hear the pattern.",
     "structuredExplanation": {
-      "summary": "Alliteration uses sound, not just a repeated written letter: city and cat start with different sounds. This matches the task.",
-      "hint": "Rhyme is usually ending sound."
+      "summary": "Giant starts /j/ while goat starts /g/, so initial sounds differ is the stronger response because it uses the target skill. Say it aloud to hear the pattern.",
+      "hint": "Say it aloud to hear the pattern."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +439,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1le04-t-016",
     "curriculumCode": "AC9E1LE04",
     "bank": "test",
-    "skill": "ac9e1le04 08 strategy",
+    "skill": "ac9e1le04 04 test apply",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you common trap?",
-    "audioPrompt": "Which tip would help you common trap?",
-    "visual": "🧠 Common trap; ➡️ Imitate; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Common trap; ➡️ Imitate; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-016\"></use></svg>",
+    "question": "A classmate chose “Do not listen for same sound, not just same spelling.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Do not listen for same sound, not just same spelling.. Which answer would improve their response?",
+    "visual": "📖 Create and discuss a verse; 🔎 chant; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Create and discuss a verse; 🔎 chant; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-016",
-      "alt_text": "🧠 Common trap; ➡️ Imitate; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-007",
+      "alt_text": "📖 Create and discuss a verse; 🔎 chant; ✅ choose with evidence"
     },
     "answers": [
-      "Look for beat and check the whole example.",
-      "Leave out performance.",
-      "Do not listen for same sound, not just same spelling."
+      "All three features are present, accurately named and contribute to a coherent mini-verse",
+      "Do not listen for same sound, not just same spelling.",
+      "Choose a word with the same first sound instead of a rhyme."
     ],
     "correct": 0,
-    "explanation": "Look for beat and check the whole example.\nHint: Rhyme is usually ending sound.",
+    "explanation": "All three features are present, accurately named and contribute to a coherent mini-verse is the stronger response because it uses the target skill. Listen for same sound, not just same spelling.\nHint: Listen for same sound, not just same spelling.",
     "structuredExplanation": {
-      "summary": "Look for beat and check the whole example.",
-      "hint": "Rhyme is usually ending sound."
+      "summary": "All three features are present, accurately named and contribute to a coherent mini-verse is the stronger response because it uses the target skill. Listen for same sound, not just same spelling.",
+      "hint": "Listen for same sound, not just same spelling."
     },
     "qualitySchema": "production-v1"
   }

@@ -236,28 +236,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly12-t-009",
     "curriculumCode": "AC9E1LY12",
     "bank": "test",
-    "skill": "ac9e1ly12 05 answer",
+    "skill": "ac9e1ly12 01 test verify",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1ly12 05 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1ly12 05 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Rule; 🔎 word part; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Rule; 🔎 word part; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-009\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Demonstrate letter u sounds; ➡️ Read letter/word; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate letter u sounds; ➡️ Read letter/word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-009",
-      "alt_text": "📖 Rule; 🔎 word part; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-002",
+      "alt_text": "🧠 Demonstrate letter u sounds; ➡️ Read letter/word; 💡 helpful strategy"
     },
     "answers": [
+      "Assume a letter always has one sound.",
       "Do not listen for vowel sounds.",
-      "Make a syllable with no vowel sound.",
-      "A letter can represent different sounds in different words"
+      "Some letters represent different sounds in different words."
     ],
     "correct": 2,
-    "explanation": "A letter can represent different sounds in different words This matches the task.\nHint: Listen for vowel sounds.",
+    "explanation": "Some letters represent different sounds in different words. is the useful check. Some letters represent different sounds in different words.\nHint: Some letters represent different sounds in different words.",
     "structuredExplanation": {
-      "summary": "A letter can represent different sounds in different words This matches the task.",
-      "hint": "Listen for vowel sounds."
+      "summary": "Some letters represent different sounds in different words. is the useful check. Some letters represent different sounds in different words.",
+      "hint": "Some letters represent different sounds in different words."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,27 +265,27 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly12-t-010",
     "curriculumCode": "AC9E1LY12",
     "bank": "test",
-    "skill": "ac9e1ly12 05 strategy",
+    "skill": "ac9e1ly12 02 test verify",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you rule?",
-    "audioPrompt": "Which tip would help you rule?",
-    "visual": "🧠 Rule; ➡️ Read letter/word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Rule; ➡️ Read letter/word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-010\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Draw sound and syllable maps; ➡️ Hear vowel sound; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw sound and syllable maps; ➡️ Hear vowel sound; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-004\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-010",
-      "alt_text": "🧠 Rule; ➡️ Read letter/word; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-004",
+      "alt_text": "🧠 Draw sound and syllable maps; ➡️ Hear vowel sound; 💡 helpful strategy"
     },
     "answers": [
-      "Using the rule for this English skill.",
-      "Make a syllable with no vowel sound.",
-      "Assume a letter always has one sound."
+      "Use this routine: Read letter/word → Hear vowel sound → Clap syllable → Check sound.",
+      "Do not listen for vowel sounds.",
+      "Make a syllable with no vowel sound."
     ],
     "correct": 0,
-    "explanation": "Using the rule for this English skill.\nHint: Listen for vowel sounds.",
+    "explanation": "Use this routine: Read letter/word → Hear vowel sound → Clap syllable → Check sound. is the useful check. Listen for vowel sounds.\nHint: Listen for vowel sounds.",
     "structuredExplanation": {
-      "summary": "Using the rule for this English skill.",
+      "summary": "Use this routine: Read letter/word → Hear vowel sound → Clap syllable → Check sound. is the useful check. Listen for vowel sounds.",
       "hint": "Listen for vowel sounds."
     },
     "qualitySchema": "production-v1"
@@ -294,27 +294,27 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly12-t-011",
     "curriculumCode": "AC9E1LY12",
     "bank": "test",
-    "skill": "ac9e1ly12 06 answer",
+    "skill": "ac9e1ly12 03 test verify",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1ly12 06 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1ly12 06 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Worked example; 🔎 letter sound; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Worked example; 🔎 letter sound; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-011\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Correct vowel-letter counting; ➡️ Clap syllable; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Correct vowel-letter counting; ➡️ Clap syllable; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-011",
-      "alt_text": "📖 Worked example; 🔎 letter sound; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-006",
+      "alt_text": "🧠 Correct vowel-letter counting; ➡️ Clap syllable; 💡 helpful strategy"
     },
     "answers": [
       "Make a syllable with no vowel sound.",
-      "c is /k/ in cat and /s/ in city. The two syllables in robot are ro/bot, and each has a vowel sound.",
+      "Look for syllable and check the whole example.",
       "Assume a letter always has one sound."
     ],
     "correct": 1,
-    "explanation": "c is /k/ in cat and /s/ in city. The two syllables in robot are ro/bot, and each has a vowel sound. This matches the task.\nHint: Every syllable needs a vowel sound.",
+    "explanation": "Look for syllable and check the whole example. is the useful check. Every syllable needs a vowel sound.\nHint: Every syllable needs a vowel sound.",
     "structuredExplanation": {
-      "summary": "c is /k/ in cat and /s/ in city. The two syllables in robot are ro/bot, and each has a vowel sound. This matches the task.",
+      "summary": "Look for syllable and check the whole example. is the useful check. Every syllable needs a vowel sound.",
       "hint": "Every syllable needs a vowel sound."
     },
     "qualitySchema": "production-v1"
@@ -323,28 +323,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly12-t-012",
     "curriculumCode": "AC9E1LY12",
     "bank": "test",
-    "skill": "ac9e1ly12 06 strategy",
+    "skill": "ac9e1ly12 04 test verify",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you worked example?",
-    "audioPrompt": "Which tip would help you worked example?",
-    "visual": "🧠 Worked example; ➡️ Hear vowel sound; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Worked example; ➡️ Hear vowel sound; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-012\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Analyse a varied set; ➡️ Check sound; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Analyse a varied set; ➡️ Check sound; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-012",
-      "alt_text": "🧠 Worked example; ➡️ Hear vowel sound; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-008",
+      "alt_text": "🧠 Analyse a varied set; ➡️ Check sound; 💡 helpful strategy"
     },
     "answers": [
-      "Assume a letter always has one sound.",
-      "Do not listen for vowel sounds.",
-      "Every syllable needs a vowel sound."
+      "City: c=/s/, 3 syllables; cake: a_e long /ā/, 1; happy: y=/ee/, 2; vowel sounds identified appropriately",
+      "City: c=/s/, 1 syllables; cake: a_e long /ā/, 1; happy: y=/ee/, 2; vowel sounds identified appropriately",
+      "Check that you can check syllables."
     ],
     "correct": 2,
-    "explanation": "Every syllable needs a vowel sound.\nHint: Every syllable needs a vowel sound.",
+    "explanation": "Check that you can check syllables. is the useful check. Some letters represent different sounds in different words.\nHint: Some letters represent different sounds in different words.",
     "structuredExplanation": {
-      "summary": "Every syllable needs a vowel sound.",
-      "hint": "Every syllable needs a vowel sound."
+      "summary": "Check that you can check syllables. is the useful check. Some letters represent different sounds in different words.",
+      "hint": "Some letters represent different sounds in different words."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,27 +352,27 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly12-t-013",
     "curriculumCode": "AC9E1LY12",
     "bank": "test",
-    "skill": "ac9e1ly12 07 answer",
+    "skill": "ac9e1ly12 01 test apply",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1ly12 07 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1ly12 07 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Word strategy; 🔎 vowel sound; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Word strategy; 🔎 vowel sound; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-013\"></use></svg>",
+    "question": "A classmate chose “Assume a letter always has one sound.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Assume a letter always has one sound.. Which answer would improve their response?",
+    "visual": "📖 Demonstrate letter u sounds; 🔎 letter sound; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate letter u sounds; 🔎 letter sound; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-013",
-      "alt_text": "📖 Word strategy; 🔎 vowel sound; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-001",
+      "alt_text": "📖 Demonstrate letter u sounds; 🔎 letter sound; ✅ choose with evidence"
     },
     "answers": [
-      "Use the whole word and known pattern to choose a letter's sound",
+      "Identifies different common u sounds in the three words without requiring technical symbols",
       "Assume a letter always has one sound.",
       "Do not listen for vowel sounds."
     ],
     "correct": 0,
-    "explanation": "Use the whole word and known pattern to choose a letter's sound This matches the task.\nHint: Some letters represent different sounds in different words.",
+    "explanation": "Identifies different common u sounds in the three words without requiring technical symbols is the stronger response because it uses the target skill. Some letters represent different sounds in different words.\nHint: Some letters represent different sounds in different words.",
     "structuredExplanation": {
-      "summary": "Use the whole word and known pattern to choose a letter's sound This matches the task.",
+      "summary": "Identifies different common u sounds in the three words without requiring technical symbols is the stronger response because it uses the target skill. Some letters represent different sounds in different words.",
       "hint": "Some letters represent different sounds in different words."
     },
     "qualitySchema": "production-v1"
@@ -381,28 +381,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly12-t-014",
     "curriculumCode": "AC9E1LY12",
     "bank": "test",
-    "skill": "ac9e1ly12 07 strategy",
+    "skill": "ac9e1ly12 02 test apply",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you word strategy?",
-    "audioPrompt": "Which tip would help you word strategy?",
-    "visual": "🧠 Word strategy; ➡️ Clap syllable; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Word strategy; ➡️ Clap syllable; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-014\"></use></svg>",
+    "question": "A classmate chose “Do not listen for vowel sounds.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Do not listen for vowel sounds.. Which answer would improve their response?",
+    "visual": "📖 Draw sound and syllable maps; 🔎 vowel sound; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw sound and syllable maps; 🔎 vowel sound; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-014",
-      "alt_text": "🧠 Word strategy; ➡️ Clap syllable; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-003",
+      "alt_text": "📖 Draw sound and syllable maps; 🔎 vowel sound; ✅ choose with evidence"
     },
     "answers": [
       "Do not listen for vowel sounds.",
-      "Use this routine: Read letter/word → Hear vowel sound → Clap syllable → Check sound.",
+      "Music has two syllables and initial long /yoo/ or /oo/ by accent",
       "Make a syllable with no vowel sound."
     ],
     "correct": 1,
-    "explanation": "Use this routine: Read letter/word → Hear vowel sound → Clap syllable → Check sound.\nHint: Some letters represent different sounds in different words.",
+    "explanation": "Music has two syllables and initial long /yoo/ or /oo/ by accent is the stronger response because it uses the target skill. Listen for vowel sounds.\nHint: Listen for vowel sounds.",
     "structuredExplanation": {
-      "summary": "Use this routine: Read letter/word → Hear vowel sound → Clap syllable → Check sound.",
-      "hint": "Some letters represent different sounds in different words."
+      "summary": "Music has two syllables and initial long /yoo/ or /oo/ by accent is the stronger response because it uses the target skill. Listen for vowel sounds.",
+      "hint": "Listen for vowel sounds."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +410,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly12-t-015",
     "curriculumCode": "AC9E1LY12",
     "bank": "test",
-    "skill": "ac9e1ly12 08 answer",
+    "skill": "ac9e1ly12 03 test apply",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1ly12 08 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1ly12 08 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Common trap; 🔎 syllable; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Common trap; 🔎 syllable; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-015\"></use></svg>",
+    "question": "A classmate chose “Make a syllable with no vowel sound.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Make a syllable with no vowel sound.. Which answer would improve their response?",
+    "visual": "📖 Correct vowel-letter counting; 🔎 syllable; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Correct vowel-letter counting; 🔎 syllable; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-015",
-      "alt_text": "📖 Common trap; 🔎 syllable; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-005",
+      "alt_text": "📖 Correct vowel-letter counting; 🔎 syllable; ✅ choose with evidence"
     },
     "answers": [
-      "Do not listen for vowel sounds.",
       "Make a syllable with no vowel sound.",
-      "Count spoken syllables, not separate vowel letters"
+      "Assume a letter always has one sound.",
+      "Rain is one spoken beat/syllable; ai represents one vowel sound, so letter count does not equal syllable count"
     ],
     "correct": 2,
-    "explanation": "Count spoken syllables, not separate vowel letters This matches the task.\nHint: Listen for vowel sounds.",
+    "explanation": "Rain is one spoken beat/syllable; ai represents one vowel sound, so letter count does not equal syllable count is the stronger response because it uses the target skill. Every syllable needs a vowel sound.\nHint: Every syllable needs a vowel sound.",
     "structuredExplanation": {
-      "summary": "Count spoken syllables, not separate vowel letters This matches the task.",
-      "hint": "Listen for vowel sounds."
+      "summary": "Rain is one spoken beat/syllable; ai represents one vowel sound, so letter count does not equal syllable count is the stronger response because it uses the target skill. Every syllable needs a vowel sound.",
+      "hint": "Every syllable needs a vowel sound."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +439,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly12-t-016",
     "curriculumCode": "AC9E1LY12",
     "bank": "test",
-    "skill": "ac9e1ly12 08 strategy",
+    "skill": "ac9e1ly12 04 test apply",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you common trap?",
-    "audioPrompt": "Which tip would help you common trap?",
-    "visual": "🧠 Common trap; ➡️ Check sound; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Common trap; ➡️ Check sound; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-016\"></use></svg>",
+    "question": "A classmate chose “City: c=/s/, 3 syllables; cake: a_e long /ā/, 1; happy: y=/ee/, 2; vowel sounds identified appropriately”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose City: c=/s/, 3 syllables; cake: a_e long /ā/, 1; happy: y=/ee/, 2; vowel sounds identified appropriately. Which answer would improve their response?",
+    "visual": "📖 Analyse a varied set; 🔎 clap; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Analyse a varied set; 🔎 clap; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-016",
-      "alt_text": "🧠 Common trap; ➡️ Check sound; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-007",
+      "alt_text": "📖 Analyse a varied set; 🔎 clap; ✅ choose with evidence"
     },
     "answers": [
-      "Look for syllable and check the whole example.",
-      "Make a syllable with no vowel sound.",
-      "Assume a letter always has one sound."
+      "City: c=/s/, 2 syllables; cake: a_e long /ā/, 1; happy: y=/ee/, 2; vowel sounds identified appropriately",
+      "City: c=/s/, 3 syllables; cake: a_e long /ā/, 1; happy: y=/ee/, 2; vowel sounds identified appropriately",
+      "City: c=/s/, 1 syllables; cake: a_e long /ā/, 1; happy: y=/ee/, 2; vowel sounds identified appropriately"
     ],
     "correct": 0,
-    "explanation": "Look for syllable and check the whole example.\nHint: Listen for vowel sounds.",
+    "explanation": "City: c=/s/, 2 syllables; cake: a_e long /ā/, 1; happy: y=/ee/, 2; vowel sounds identified appropriately is the stronger response because it uses the target skill. Some letters represent different sounds in different words.\nHint: Some letters represent different sounds in different words.",
     "structuredExplanation": {
-      "summary": "Look for syllable and check the whole example.",
-      "hint": "Listen for vowel sounds."
+      "summary": "City: c=/s/, 2 syllables; cake: a_e long /ā/, 1; happy: y=/ee/, 2; vowel sounds identified appropriately is the stronger response because it uses the target skill. Some letters represent different sounds in different words.",
+      "hint": "Some letters represent different sounds in different words."
     },
     "qualitySchema": "production-v1"
   }

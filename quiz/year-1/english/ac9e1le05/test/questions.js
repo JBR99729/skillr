@@ -236,28 +236,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1le05-t-009",
     "curriculumCode": "AC9E1LE05",
     "bank": "test",
-    "skill": "ac9e1le05 05 answer",
+    "skill": "ac9e1le05 01 test verify",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1le05 05 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1le05 05 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Rule; 🔎 structure; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Rule; 🔎 structure; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-009\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Demonstrate character voice; ➡️ Remember story; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate character voice; ➡️ Remember story; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-009",
-      "alt_text": "📖 Rule; 🔎 structure; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-002",
+      "alt_text": "🧠 Demonstrate character voice; ➡️ Remember story; 💡 helpful strategy"
     },
     "answers": [
+      "Do not keep enough familiar structure for the story to make sense.",
       "Leave out ending.",
-      "Change every part of the story at once.",
-      "A retell keeps the important characters and main plot in order"
+      "Keep enough familiar structure for the story to make sense."
     ],
     "correct": 2,
-    "explanation": "A retell keeps the important characters and main plot in order This matches the task.\nHint: A retell needs a clear ending.",
+    "explanation": "Keep enough familiar structure for the story to make sense. is the useful check. Keep enough familiar structure for the story to make sense.\nHint: Keep enough familiar structure for the story to make sense.",
     "structuredExplanation": {
-      "summary": "A retell keeps the important characters and main plot in order This matches the task.",
-      "hint": "A retell needs a clear ending."
+      "summary": "Keep enough familiar structure for the story to make sense. is the useful check. Keep enough familiar structure for the story to make sense.",
+      "hint": "Keep enough familiar structure for the story to make sense."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,27 +265,27 @@ window.skillrTestQuestions = [
     "id": "ac9e1le05-t-010",
     "curriculumCode": "AC9E1LE05",
     "bank": "test",
-    "skill": "ac9e1le05 05 strategy",
+    "skill": "ac9e1le05 02 test verify",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you rule?",
-    "audioPrompt": "Which tip would help you rule?",
-    "visual": "🧠 Rule; ➡️ Remember story; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Rule; ➡️ Remember story; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-010\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Draw original and adapted plots; ➡️ Keep main parts; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw original and adapted plots; ➡️ Keep main parts; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-004\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-010",
-      "alt_text": "🧠 Rule; ➡️ Remember story; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-004",
+      "alt_text": "🧠 Draw original and adapted plots; ➡️ Keep main parts; 💡 helpful strategy"
     },
     "answers": [
-      "Using the rule for this English skill.",
-      "Change every part of the story at once.",
-      "Do not keep enough familiar structure for the story to make sense."
+      "Use this routine: Remember story → Keep main parts → Change/adapt one part → Retell clearly.",
+      "Leave out ending.",
+      "Change every part of the story at once."
     ],
     "correct": 0,
-    "explanation": "Using the rule for this English skill.\nHint: A retell needs a clear ending.",
+    "explanation": "Use this routine: Remember story → Keep main parts → Change/adapt one part → Retell clearly. is the useful check. A retell needs a clear ending.\nHint: A retell needs a clear ending.",
     "structuredExplanation": {
-      "summary": "Using the rule for this English skill.",
+      "summary": "Use this routine: Remember story → Keep main parts → Change/adapt one part → Retell clearly. is the useful check. A retell needs a clear ending.",
       "hint": "A retell needs a clear ending."
     },
     "qualitySchema": "production-v1"
@@ -294,27 +294,27 @@ window.skillrTestQuestions = [
     "id": "ac9e1le05-t-011",
     "curriculumCode": "AC9E1LE05",
     "bank": "test",
-    "skill": "ac9e1le05 06 answer",
+    "skill": "ac9e1le05 03 test verify",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1le05 06 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1le05 06 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Worked example; 🔎 retell; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Worked example; 🔎 retell; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-011\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Repair a confusing retell; ➡️ Change/adapt one part; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Repair a confusing retell; ➡️ Change/adapt one part; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-011",
-      "alt_text": "📖 Worked example; 🔎 retell; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-006",
+      "alt_text": "🧠 Repair a confusing retell; ➡️ Change/adapt one part; 💡 helpful strategy"
     },
     "answers": [
       "Change every part of the story at once.",
-      "Original: a mouse finds a key and opens a garden gate",
+      "Look for plot and check the whole example.",
       "Do not keep enough familiar structure for the story to make sense."
     ],
     "correct": 1,
-    "explanation": "Original: a mouse finds a key and opens a garden gate This matches the task.\nHint: Change one or two parts deliberately.",
+    "explanation": "Look for plot and check the whole example. is the useful check. Change one or two parts deliberately.\nHint: Change one or two parts deliberately.",
     "structuredExplanation": {
-      "summary": "Original: a mouse finds a key and opens a garden gate This matches the task.",
+      "summary": "Look for plot and check the whole example. is the useful check. Change one or two parts deliberately.",
       "hint": "Change one or two parts deliberately."
     },
     "qualitySchema": "production-v1"
@@ -323,28 +323,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1le05-t-012",
     "curriculumCode": "AC9E1LE05",
     "bank": "test",
-    "skill": "ac9e1le05 06 strategy",
+    "skill": "ac9e1le05 04 test verify",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you worked example?",
-    "audioPrompt": "Which tip would help you worked example?",
-    "visual": "🧠 Worked example; ➡️ Keep main parts; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Worked example; ➡️ Keep main parts; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-012\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Deliver a complete adaptation; ➡️ Retell clearly; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Deliver a complete adaptation; ➡️ Retell clearly; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-012",
-      "alt_text": "🧠 Worked example; ➡️ Keep main parts; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-008",
+      "alt_text": "🧠 Deliver a complete adaptation; ➡️ Retell clearly; 💡 helpful strategy"
     },
     "answers": [
+      "A child follows clues to return a lost parcel",
       "Do not keep enough familiar structure for the story to make sense.",
-      "Leave out ending.",
-      "Change one or two parts deliberately."
+      "Check that you can adapt deliberately."
     ],
     "correct": 2,
-    "explanation": "Change one or two parts deliberately.\nHint: Change one or two parts deliberately.",
+    "explanation": "Check that you can adapt deliberately. is the useful check. Keep enough familiar structure for the story to make sense.\nHint: Keep enough familiar structure for the story to make sense.",
     "structuredExplanation": {
-      "summary": "Change one or two parts deliberately.",
-      "hint": "Change one or two parts deliberately."
+      "summary": "Check that you can adapt deliberately. is the useful check. Keep enough familiar structure for the story to make sense.",
+      "hint": "Keep enough familiar structure for the story to make sense."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,27 +352,27 @@ window.skillrTestQuestions = [
     "id": "ac9e1le05-t-013",
     "curriculumCode": "AC9E1LE05",
     "bank": "test",
-    "skill": "ac9e1le05 07 answer",
+    "skill": "ac9e1le05 01 test apply",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1le05 07 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1le05 07 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Retelling plan; 🔎 adapt; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Retelling plan; 🔎 adapt; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-013\"></use></svg>",
+    "question": "A classmate chose “Do not keep enough familiar structure for the story to make sense.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Do not keep enough familiar structure for the story to make sense.. Which answer would improve their response?",
+    "visual": "📖 Demonstrate character voice; 🔎 retell; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate character voice; 🔎 retell; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-013",
-      "alt_text": "📖 Retelling plan; 🔎 adapt; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-001",
+      "alt_text": "📖 Demonstrate character voice; 🔎 retell; ✅ choose with evidence"
     },
     "answers": [
-      "Use the retelling plan for this English skill",
+      "Vocabulary, voice or gesture clearly distinguishes both while event stays recognisable",
       "Do not keep enough familiar structure for the story to make sense.",
       "Leave out ending."
     ],
     "correct": 0,
-    "explanation": "Use the retelling plan for this English skill This matches the task.\nHint: Keep enough familiar structure for the story to make sense.",
+    "explanation": "Vocabulary, voice or gesture clearly distinguishes both while event stays recognisable is the stronger response because it uses the target skill. Keep enough familiar structure for the story to make sense.\nHint: Keep enough familiar structure for the story to make sense.",
     "structuredExplanation": {
-      "summary": "Use the retelling plan for this English skill This matches the task.",
+      "summary": "Vocabulary, voice or gesture clearly distinguishes both while event stays recognisable is the stronger response because it uses the target skill. Keep enough familiar structure for the story to make sense.",
       "hint": "Keep enough familiar structure for the story to make sense."
     },
     "qualitySchema": "production-v1"
@@ -381,28 +381,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1le05-t-014",
     "curriculumCode": "AC9E1LE05",
     "bank": "test",
-    "skill": "ac9e1le05 07 strategy",
+    "skill": "ac9e1le05 02 test apply",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you retelling plan?",
-    "audioPrompt": "Which tip would help you retelling plan?",
-    "visual": "🧠 Retelling plan; ➡️ Change/adapt one part; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Retelling plan; ➡️ Change/adapt one part; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-014\"></use></svg>",
+    "question": "A classmate chose “Leave out ending.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Leave out ending.. Which answer would improve their response?",
+    "visual": "📖 Draw original and adapted plots; 🔎 adapt; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw original and adapted plots; 🔎 adapt; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-014",
-      "alt_text": "🧠 Retelling plan; ➡️ Change/adapt one part; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-003",
+      "alt_text": "📖 Draw original and adapted plots; 🔎 adapt; ✅ choose with evidence"
     },
     "answers": [
       "Leave out ending.",
-      "Use this routine: Remember story → Keep main parts → Change/adapt one part → Retell clearly.",
+      "Both strips have recognisably parallel problem/attempt/resolution despite changed details",
       "Change every part of the story at once."
     ],
     "correct": 1,
-    "explanation": "Use this routine: Remember story → Keep main parts → Change/adapt one part → Retell clearly.\nHint: Keep enough familiar structure for the story to make sense.",
+    "explanation": "Both strips have recognisably parallel problem/attempt/resolution despite changed details is the stronger response because it uses the target skill. A retell needs a clear ending.\nHint: A retell needs a clear ending.",
     "structuredExplanation": {
-      "summary": "Use this routine: Remember story → Keep main parts → Change/adapt one part → Retell clearly.",
-      "hint": "Keep enough familiar structure for the story to make sense."
+      "summary": "Both strips have recognisably parallel problem/attempt/resolution despite changed details is the stronger response because it uses the target skill. A retell needs a clear ending.",
+      "hint": "A retell needs a clear ending."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +410,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1le05-t-015",
     "curriculumCode": "AC9E1LE05",
     "bank": "test",
-    "skill": "ac9e1le05 08 answer",
+    "skill": "ac9e1le05 03 test apply",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1le05 08 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1le05 08 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Common trap; 🔎 plot; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Common trap; 🔎 plot; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-015\"></use></svg>",
+    "question": "A classmate chose “Change every part of the story at once.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Change every part of the story at once.. Which answer would improve their response?",
+    "visual": "📖 Repair a confusing retell; 🔎 plot; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Repair a confusing retell; 🔎 plot; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-015",
-      "alt_text": "📖 Common trap; 🔎 plot; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-005",
+      "alt_text": "📖 Repair a confusing retell; 🔎 plot; ✅ choose with evidence"
     },
     "answers": [
-      "Leave out ending.",
       "Change every part of the story at once.",
-      "Use the common trap for this English skill"
+      "Do not keep enough familiar structure for the story to make sense.",
+      "Restore logical order, include main problem, introduce/connect or remove new character; any three clear fixes"
     ],
     "correct": 2,
-    "explanation": "Use the common trap for this English skill This matches the task.\nHint: A retell needs a clear ending.",
+    "explanation": "Restore logical order, include main problem, introduce/connect or remove new character; any three clear fixes is the stronger response because it uses the target skill. Change one or two parts deliberately.\nHint: Change one or two parts deliberately.",
     "structuredExplanation": {
-      "summary": "Use the common trap for this English skill This matches the task.",
-      "hint": "A retell needs a clear ending."
+      "summary": "Restore logical order, include main problem, introduce/connect or remove new character; any three clear fixes is the stronger response because it uses the target skill. Change one or two parts deliberately.",
+      "hint": "Change one or two parts deliberately."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +439,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1le05-t-016",
     "curriculumCode": "AC9E1LE05",
     "bank": "test",
-    "skill": "ac9e1le05 08 strategy",
+    "skill": "ac9e1le05 04 test apply",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you common trap?",
-    "audioPrompt": "Which tip would help you common trap?",
-    "visual": "🧠 Common trap; ➡️ Retell clearly; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Common trap; ➡️ Retell clearly; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-016\"></use></svg>",
+    "question": "A classmate chose “A child follows clues to return a lost parcel”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose A child follows clues to return a lost parcel. Which answer would improve their response?",
+    "visual": "📖 Deliver a complete adaptation; 🔎 characters; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Deliver a complete adaptation; 🔎 characters; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-016",
-      "alt_text": "🧠 Common trap; ➡️ Retell clearly; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-007",
+      "alt_text": "📖 Deliver a complete adaptation; 🔎 characters; ✅ choose with evidence"
     },
     "answers": [
-      "Look for plot and check the whole example.",
-      "Change every part of the story at once.",
+      "Create and structuring an extended oral adaptation",
+      "A child follows clues to return a lost parcel",
       "Do not keep enough familiar structure for the story to make sense."
     ],
     "correct": 0,
-    "explanation": "Look for plot and check the whole example.\nHint: A retell needs a clear ending.",
+    "explanation": "Create and structuring an extended oral adaptation is the stronger response because it uses the target skill. Keep enough familiar structure for the story to make sense.\nHint: Keep enough familiar structure for the story to make sense.",
     "structuredExplanation": {
-      "summary": "Look for plot and check the whole example.",
-      "hint": "A retell needs a clear ending."
+      "summary": "Create and structuring an extended oral adaptation is the stronger response because it uses the target skill. Keep enough familiar structure for the story to make sense.",
+      "hint": "Keep enough familiar structure for the story to make sense."
     },
     "qualitySchema": "production-v1"
   }

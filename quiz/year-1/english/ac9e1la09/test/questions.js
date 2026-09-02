@@ -236,28 +236,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1la09-t-009",
     "curriculumCode": "AC9E1LA09",
     "bank": "test",
-    "skill": "ac9e1la09 05 answer",
+    "skill": "ac9e1la09 01 test verify",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1la09 05 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1la09 05 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Rule; 🔎 topic word; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Rule; 🔎 topic word; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-009\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Demonstrate word teaching; ➡️ Hear word; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate word teaching; ➡️ Hear word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-009",
-      "alt_text": "📖 Rule; 🔎 topic word; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-002",
+      "alt_text": "🧠 Demonstrate word teaching; ➡️ Hear word; 💡 helpful strategy"
     },
     "answers": [
+      "Use only the word's sound and not its meaning.",
       "Do not check the subject meaning.",
-      "Do not use in sentence.",
-      "Topic vocabulary names ideas precisely in subjects such as Mathematics, Science, Health and the Arts"
+      "Connect the word to meaning and topic."
     ],
     "correct": 2,
-    "explanation": "Topic vocabulary names ideas precisely in subjects such as Mathematics, Science, Health and the Arts This matches the task.\nHint: Check the subject meaning.",
+    "explanation": "Connect the word to meaning and topic. is the useful check. Connect the word to meaning and topic.\nHint: Connect the word to meaning and topic.",
     "structuredExplanation": {
-      "summary": "Topic vocabulary names ideas precisely in subjects such as Mathematics, Science, Health and the Arts This matches the task.",
-      "hint": "Check the subject meaning."
+      "summary": "Connect the word to meaning and topic. is the useful check. Connect the word to meaning and topic.",
+      "hint": "Connect the word to meaning and topic."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,27 +265,27 @@ window.skillrTestQuestions = [
     "id": "ac9e1la09-t-010",
     "curriculumCode": "AC9E1LA09",
     "bank": "test",
-    "skill": "ac9e1la09 05 strategy",
+    "skill": "ac9e1la09 02 test verify",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you rule?",
-    "audioPrompt": "Which tip would help you rule?",
-    "visual": "🧠 Rule; ➡️ Hear word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Rule; ➡️ Hear word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-010\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Draw a mini word wall; ➡️ Link to topic; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw a mini word wall; ➡️ Link to topic; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-004\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-010",
-      "alt_text": "🧠 Rule; ➡️ Hear word; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-004",
+      "alt_text": "🧠 Draw a mini word wall; ➡️ Link to topic; 💡 helpful strategy"
     },
     "answers": [
-      "Using the rule for this English skill.",
-      "Do not use in sentence.",
-      "Use only the word's sound and not its meaning."
+      "Use this routine: Hear word → Link to topic → Use in sentence → Explain.",
+      "Do not check the subject meaning.",
+      "Do not use in sentence."
     ],
     "correct": 0,
-    "explanation": "Using the rule for this English skill.\nHint: Check the subject meaning.",
+    "explanation": "Use this routine: Hear word → Link to topic → Use in sentence → Explain. is the useful check. Check the subject meaning.\nHint: Check the subject meaning.",
     "structuredExplanation": {
-      "summary": "Using the rule for this English skill.",
+      "summary": "Use this routine: Hear word → Link to topic → Use in sentence → Explain. is the useful check. Check the subject meaning.",
       "hint": "Check the subject meaning."
     },
     "qualitySchema": "production-v1"
@@ -294,27 +294,27 @@ window.skillrTestQuestions = [
     "id": "ac9e1la09-t-011",
     "curriculumCode": "AC9E1LA09",
     "bank": "test",
-    "skill": "ac9e1la09 06 answer",
+    "skill": "ac9e1la09 03 test verify",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1la09 06 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1la09 06 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Worked example; 🔎 meaning; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Worked example; 🔎 meaning; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-011\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Correct vague subject words; ➡️ Use in sentence; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Correct vague subject words; ➡️ Use in sentence; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-011",
-      "alt_text": "📖 Worked example; 🔎 meaning; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-006",
+      "alt_text": "🧠 Correct vague subject words; ➡️ Use in sentence; 💡 helpful strategy"
     },
     "answers": [
-      "Do not use in sentence.",
-      "Use the worked example for this English skill",
-      "Use only the word's sound and not its meaning."
+      "The stuff did something",
+      "Look for subject and check the whole example.",
+      "Do not use in sentence."
     ],
     "correct": 1,
-    "explanation": "Use the worked example for this English skill This matches the task.\nHint: Practise a sentence, not just a definition.",
+    "explanation": "Look for subject and check the whole example. is the useful check. Practise a sentence, not just a definition.\nHint: Practise a sentence, not just a definition.",
     "structuredExplanation": {
-      "summary": "Use the worked example for this English skill This matches the task.",
+      "summary": "Look for subject and check the whole example. is the useful check. Practise a sentence, not just a definition.",
       "hint": "Practise a sentence, not just a definition."
     },
     "qualitySchema": "production-v1"
@@ -323,28 +323,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1la09-t-012",
     "curriculumCode": "AC9E1LA09",
     "bank": "test",
-    "skill": "ac9e1la09 06 strategy",
+    "skill": "ac9e1la09 04 test verify",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you worked example?",
-    "audioPrompt": "Which tip would help you worked example?",
-    "visual": "🧠 Worked example; ➡️ Link to topic; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Worked example; ➡️ Link to topic; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-012\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Explain one word across topics; ➡️ Explain; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Explain one word across topics; ➡️ Explain; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-012",
-      "alt_text": "🧠 Worked example; ➡️ Link to topic; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-008",
+      "alt_text": "🧠 Explain one word across topics; ➡️ Explain; 💡 helpful strategy"
     },
     "answers": [
       "Use only the word's sound and not its meaning.",
       "Do not check the subject meaning.",
-      "Practise a sentence, not just a definition."
+      "Check that you can use in sentence."
     ],
     "correct": 2,
-    "explanation": "Practise a sentence, not just a definition.\nHint: Practise a sentence, not just a definition.",
+    "explanation": "Check that you can use in sentence. is the useful check. Connect the word to meaning and topic.\nHint: Connect the word to meaning and topic.",
     "structuredExplanation": {
-      "summary": "Practise a sentence, not just a definition.",
-      "hint": "Practise a sentence, not just a definition."
+      "summary": "Check that you can use in sentence. is the useful check. Connect the word to meaning and topic.",
+      "hint": "Connect the word to meaning and topic."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,27 +352,27 @@ window.skillrTestQuestions = [
     "id": "ac9e1la09-t-013",
     "curriculumCode": "AC9E1LA09",
     "bank": "test",
-    "skill": "ac9e1la09 07 answer",
+    "skill": "ac9e1la09 01 test apply",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1la09 07 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1la09 07 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Word-learning strategy; 🔎 subject; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Word-learning strategy; 🔎 subject; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-013\"></use></svg>",
+    "question": "A classmate chose “Use only the word's sound and not its meaning.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Use only the word's sound and not its meaning.. Which answer would improve their response?",
+    "visual": "📖 Demonstrate word teaching; 🔎 topic word; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate word teaching; 🔎 topic word; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-013",
-      "alt_text": "📖 Word-learning strategy; 🔎 subject; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-001",
+      "alt_text": "📖 Demonstrate word teaching; 🔎 topic word; ✅ choose with evidence"
     },
     "answers": [
-      "Use the word-learning strategy for this English skill",
+      "Defines ordered events/terms, gives valid sequence and an unordered/non-sequence example",
       "Use only the word's sound and not its meaning.",
       "Do not check the subject meaning."
     ],
     "correct": 0,
-    "explanation": "Use the word-learning strategy for this English skill This matches the task.\nHint: Connect the word to meaning and topic.",
+    "explanation": "Defines ordered events/terms, gives valid sequence and an unordered/non-sequence example is the stronger response because it uses the target skill. Connect the word to meaning and topic.\nHint: Connect the word to meaning and topic.",
     "structuredExplanation": {
-      "summary": "Use the word-learning strategy for this English skill This matches the task.",
+      "summary": "Defines ordered events/terms, gives valid sequence and an unordered/non-sequence example is the stronger response because it uses the target skill. Connect the word to meaning and topic.",
       "hint": "Connect the word to meaning and topic."
     },
     "qualitySchema": "production-v1"
@@ -381,28 +381,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1la09-t-014",
     "curriculumCode": "AC9E1LA09",
     "bank": "test",
-    "skill": "ac9e1la09 07 strategy",
+    "skill": "ac9e1la09 02 test apply",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you word-learning strategy?",
-    "audioPrompt": "Which tip would help you word-learning strategy?",
-    "visual": "🧠 Word-learning strategy; ➡️ Use in sentence; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Word-learning strategy; ➡️ Use in sentence; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-014\"></use></svg>",
+    "question": "A classmate chose “Do not check the subject meaning.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Do not check the subject meaning.. Which answer would improve their response?",
+    "visual": "📖 Draw a mini word wall; 🔎 meaning; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw a mini word wall; 🔎 meaning; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-014",
-      "alt_text": "🧠 Word-learning strategy; ➡️ Use in sentence; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-003",
+      "alt_text": "📖 Draw a mini word wall; 🔎 meaning; ✅ choose with evidence"
     },
     "answers": [
       "Do not check the subject meaning.",
-      "Use this routine: Hear word → Link to topic → Use in sentence → Explain.",
+      "All three are correctly defined/illustrated and assigned to suitable subjects",
       "Do not use in sentence."
     ],
     "correct": 1,
-    "explanation": "Use this routine: Hear word → Link to topic → Use in sentence → Explain.\nHint: Connect the word to meaning and topic.",
+    "explanation": "All three are correctly defined/illustrated and assigned to suitable subjects is the stronger response because it uses the target skill. Check the subject meaning.\nHint: Check the subject meaning.",
     "structuredExplanation": {
-      "summary": "Use this routine: Hear word → Link to topic → Use in sentence → Explain.",
-      "hint": "Connect the word to meaning and topic."
+      "summary": "All three are correctly defined/illustrated and assigned to suitable subjects is the stronger response because it uses the target skill. Check the subject meaning.",
+      "hint": "Check the subject meaning."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +410,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1la09-t-015",
     "curriculumCode": "AC9E1LA09",
     "bank": "test",
-    "skill": "ac9e1la09 08 answer",
+    "skill": "ac9e1la09 03 test apply",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1la09 08 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1la09 08 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Common trap; 🔎 sentence; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Common trap; 🔎 sentence; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-015\"></use></svg>",
+    "question": "A classmate chose “The stuff did something”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose The stuff did something. Which answer would improve their response?",
+    "visual": "📖 Correct vague subject words; 🔎 subject; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Correct vague subject words; 🔎 subject; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-015",
-      "alt_text": "📖 Common trap; 🔎 sentence; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-005",
+      "alt_text": "📖 Correct vague subject words; 🔎 subject; ✅ choose with evidence"
     },
     "answers": [
-      "Do not check the subject meaning.",
+      "The stuff did something",
       "Do not use in sentence.",
-      "Some words have everyday and topic meanings, so the sentence and subject determine which meaning fits."
+      "Example uses material, water/drop, absorbed/repelled, observation/result accurately"
     ],
     "correct": 2,
-    "explanation": "Some words have everyday and topic meanings, so the sentence and subject determine which meaning fits. This matches the task.\nHint: Check the subject meaning.",
+    "explanation": "Example uses material, water/drop, absorbed/repelled, observation/result accurately is the stronger response because it uses the target skill. Practise a sentence, not just a definition.\nHint: Practise a sentence, not just a definition.",
     "structuredExplanation": {
-      "summary": "Some words have everyday and topic meanings, so the sentence and subject determine which meaning fits. This matches the task.",
-      "hint": "Check the subject meaning."
+      "summary": "Example uses material, water/drop, absorbed/repelled, observation/result accurately is the stronger response because it uses the target skill. Practise a sentence, not just a definition.",
+      "hint": "Practise a sentence, not just a definition."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +439,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1la09-t-016",
     "curriculumCode": "AC9E1LA09",
     "bank": "test",
-    "skill": "ac9e1la09 08 strategy",
+    "skill": "ac9e1la09 04 test apply",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you common trap?",
-    "audioPrompt": "Which tip would help you common trap?",
-    "visual": "🧠 Common trap; ➡️ Explain; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Common trap; ➡️ Explain; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-016\"></use></svg>",
+    "question": "A classmate chose “Use only the word's sound and not its meaning.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Use only the word's sound and not its meaning.. Which answer would improve their response?",
+    "visual": "📖 Explain one word across topics; 🔎 sentence; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Explain one word across topics; 🔎 sentence; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-016",
-      "alt_text": "🧠 Common trap; ➡️ Explain; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-007",
+      "alt_text": "📖 Explain one word across topics; 🔎 sentence; ✅ choose with evidence"
     },
     "answers": [
-      "Look for sentence and check the whole example.",
-      "Do not use in sentence.",
-      "Use only the word's sound and not its meaning."
+      "Two accurate topic-linked uses and two context sentences showing distinct or connected meanings",
+      "Use only the word's sound and not its meaning.",
+      "Do not check the subject meaning."
     ],
     "correct": 0,
-    "explanation": "Look for sentence and check the whole example.\nHint: Check the subject meaning.",
+    "explanation": "Two accurate topic-linked uses and two context sentences showing distinct or connected meanings is the stronger response because it uses the target skill. Connect the word to meaning and topic.\nHint: Connect the word to meaning and topic.",
     "structuredExplanation": {
-      "summary": "Look for sentence and check the whole example.",
-      "hint": "Check the subject meaning."
+      "summary": "Two accurate topic-linked uses and two context sentences showing distinct or connected meanings is the stronger response because it uses the target skill. Connect the word to meaning and topic.",
+      "hint": "Connect the word to meaning and topic."
     },
     "qualitySchema": "production-v1"
   }
